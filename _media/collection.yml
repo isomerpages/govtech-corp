@@ -2,4 +2,5 @@ collections:
   media:
     output: true
     order:
+      - Tech Blog/.keep
       - Blogs.md
