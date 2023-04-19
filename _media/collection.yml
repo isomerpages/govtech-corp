@@ -3,4 +3,5 @@ collections:
     output: true
     order:
       - Blogs.md
+      - Tech Blog/Tech Blog.md
       - Tech Blog/.keep
