@@ -1,5 +1,4 @@
 collections:
   media:
     output: true
-    order:
-      - example-page.md
+    order: []
