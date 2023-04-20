@@ -2,7 +2,7 @@ logo: /images/isomer-logo.svg
 links:
   - title: Contact Us
     url: /contact-us/
+  - title: Who We Are
+    url: /who-we-are
   - title: Media
-    url: /media
-  - title: Example Folder
-    collection: example-folder
+    resource_room: true
