@@ -1,5 +1,5 @@
 collections:
-  media:
+  who-we-are:
     output: true
     order:
       - Blogs.md
