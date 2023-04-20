@@ -3,5 +3,3 @@ collections:
     output: true
     order:
       - Our Role.md
-      - Tech Blog/Tech Blog.md
-      - Tech Blog/.keep
