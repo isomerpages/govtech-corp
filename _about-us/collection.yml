@@ -2,6 +2,7 @@ collections:
   about-us:
     output: true
     order:
+      - SG Digital Government Journey/.keep
       - Our Role/.keep
       - Our Role/Digital Government Blueprint.md
       - Our Role/Directory.md
