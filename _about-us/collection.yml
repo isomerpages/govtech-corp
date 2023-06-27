@@ -2,7 +2,6 @@ collections:
   about-us:
     output: true
     order:
-      - SG Digital Government Journey/Our Achievements.md
       - SG Digital Government Journey/.keep
       - SG Digital Government Journey/Our Journey.md
       - SG Digital Government Journey/Our Digital Government Story.md
