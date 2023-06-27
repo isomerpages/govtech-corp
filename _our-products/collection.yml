@@ -2,11 +2,11 @@ collections:
   our-products:
     output: true
     order:
-      - Open Source Data/Latest Business Platform Updates.md
-      - Open Source Data/GoBusiness.md
-      - Open Source Data/Corppass.md
-      - Open Source Data/Networked Traded Platform.md
-      - Open Source Data/.keep
+      - Business Platforms/Latest Business Platform Updates.md
+      - Business Platforms/GoBusiness.md
+      - Business Platforms/Corppass.md
+      - Business Platforms/Networked Traded Platform.md
+      - Business Platforms/.keep
       - Government Tools/.keep
       - Government Tools/Digital Workplace.md
       - Government Tools/Digital Standards & Guidelines.md
