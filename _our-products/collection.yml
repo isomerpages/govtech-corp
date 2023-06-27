@@ -2,4 +2,5 @@ collections:
   our-products:
     output: true
     order:
+      - Citizen Services/Latest Services Updates.md
       - Citizen Services/.keep
