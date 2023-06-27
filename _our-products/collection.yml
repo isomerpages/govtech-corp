@@ -2,7 +2,6 @@ collections:
   our-products:
     output: true
     order:
-      - Open Source Data.md
       - Business Platforms/Latest Business Platform Updates.md
       - Business Platforms/GoBusiness.md
       - Business Platforms/Corppass.md
