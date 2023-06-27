@@ -2,9 +2,9 @@ collections:
   about-us:
     output: true
     order:
-      - Our Achievements/Our Awards.md
-      - Our Achievements/Our Digital Government Rankings.md
       - Our Achievements/.keep
+      - Our Achievements/Our Digital Government Rankings.md
+      - Our Achievements/Our Awards.md
       - SG Digital Government Journey/.keep
       - SG Digital Government Journey/Our Journey.md
       - SG Digital Government Journey/Our Digital Government Story.md
