@@ -1,4 +1,5 @@
 collections:
   our-products:
     output: true
-    order: []
+    order:
+      - Citizen Services/.keep
