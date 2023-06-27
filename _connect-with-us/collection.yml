@@ -2,4 +2,5 @@ collections:
   connect-with-us:
     output: true
     order:
+      - Current Exhibitions and Events/.keep
       - Contact Us.md
