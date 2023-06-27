@@ -22,10 +22,21 @@ sections:
         - title: Page A
           description: Page A is important too
           url: /privacy/
-  - infobar:
-      title: Infobar title
-      subtitle: Subtitle
-      description: About a sentence worth of description here
-      button: Button text
-      url: /faq/
+  - infopic:
+      title: Our Role
+      subtitle: Empowering Growth through Tech
+      description: Find out how GovTech takes the lead in harnessing technology to
+        drive innovation and transform our nation
+      button: Find out more
+      url: Our role
+      image: /images/hero-banner.png
+      alt: Our Role
+  - infopic:
+      title: Latest Product
+      subtitle: We transform the Government
+      description: Feature latest product of GovTech team.
+      button: Explore
+      url: Explore
+      image: /images/hero-banner.png
+      alt: Image alt text
 ---
