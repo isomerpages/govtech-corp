@@ -2,6 +2,7 @@ collections:
   connect-with-us:
     output: true
     order:
+      - Get Involved with GovTech/Public Officers.md
       - Get Involved with GovTech/.keep
       - Stay Connected/.keep
       - Stay Connected/Social Media Channels.md
