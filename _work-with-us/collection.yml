@@ -2,4 +2,5 @@ collections:
   work-with-us:
     output: true
     order:
+      - How We Hire.md
       - Our Culture and Values.md
