@@ -2,6 +2,7 @@ collections:
   our-products:
     output: true
     order:
+      - Open Source Data/.keep
       - Government Tools/.keep
       - Government Tools/Digital Workplace.md
       - Government Tools/Digital Standards & Guidelines.md
