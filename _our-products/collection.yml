@@ -2,5 +2,6 @@ collections:
   our-products:
     output: true
     order:
+      - Citizen Services/'Ask Jamie' Virtual Assistant.md
       - Citizen Services/Latest Services Updates.md
       - Citizen Services/.keep
