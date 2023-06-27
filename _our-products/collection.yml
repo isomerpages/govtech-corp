@@ -2,6 +2,7 @@ collections:
   our-products:
     output: true
     order:
+      - Open Source Data/Singapore Government Developer Portal.md
       - Open Source Data/Government on Commercial Cloud.md
       - Open Source Data/Data gov sg.md
       - Open Source Data/.keep
