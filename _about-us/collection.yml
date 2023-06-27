@@ -2,6 +2,7 @@ collections:
   about-us:
     output: true
     order:
+      - Our Team.md
       - Our Achievements/.keep
       - Our Achievements/Our Digital Government Rankings.md
       - Our Achievements/Our Awards.md
