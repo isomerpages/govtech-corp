@@ -2,6 +2,7 @@ collections:
   about-us:
     output: true
     order:
+      - Our 5 Capability Centres/.keep
       - folder-page.md
       - example-subfolder/test.md
       - example-subfolder/.keep
