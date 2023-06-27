@@ -2,5 +2,4 @@ collections:
   our-products:
     output: true
     order:
-      - Our Journey.md
       - Our Role.md
