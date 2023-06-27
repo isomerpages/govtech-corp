@@ -2,6 +2,7 @@ collections:
   our-products:
     output: true
     order:
+      - Open Source Data/Corppass.md
       - Open Source Data/Networked Traded Platform.md
       - Open Source Data/.keep
       - Government Tools/.keep
