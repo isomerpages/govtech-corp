@@ -1,5 +1,5 @@
 collections:
-  who-we-are:
+  our-products:
     output: true
     order:
       - Our Journey.md
