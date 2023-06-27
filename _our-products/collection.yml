@@ -2,6 +2,7 @@ collections:
   our-products:
     output: true
     order:
+      - Citizen Services/CrowdTaskSG.md
       - Citizen Services/'Ask Jamie' Virtual Assistant.md
       - Citizen Services/Latest Services Updates.md
       - Citizen Services/.keep
