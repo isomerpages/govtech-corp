@@ -2,6 +2,7 @@ collections:
   about-us:
     output: true
     order:
+      - Our Role/Application Design, Development & Deployment.md
       - Our Role/Digital Government Blueprint.md
       - Our Role/.keep
       - Our 5 Capability Centres/folder-page.md
