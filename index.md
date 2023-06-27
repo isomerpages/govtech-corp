@@ -7,21 +7,24 @@ permalink: /
 notification: Here's a notification bar you can use!
 sections:
   - hero:
-      title: Hero title
-      subtitle: Hero subtitle
+      title: Latest Happenings
+      subtitle: Join us in our Digital Transformation Journey
       background: /images/hero-banner.png
-      button: Contact Us
+      button: Find out more
       url: /contact-us/
       key_highlights:
-        - title: Highlight A
-          description: Important highlight A is important
+        - title: For Citizen
+          description: Our latest happening
           url: https://google.com
-        - title: Highlight B
-          description: Important highlight B is equally important
+        - title: For Businesses
+          description: Find Business Platforms & Jobs
           url: https://gmail.com
-        - title: Page A
-          description: Page A is important too
+        - title: For Public Officiers
+          description: Helping deliver best services
           url: /privacy/
+        - title: "For International "
+          description: Explore & Collaborate with us
+          url: ""
   - infopic:
       title: Our Role
       subtitle: Empowering Growth through Tech
