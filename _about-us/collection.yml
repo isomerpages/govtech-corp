@@ -2,9 +2,9 @@ collections:
   about-us:
     output: true
     order:
-      - Our Role/Directory.md
-      - Our Role/Digital Government Blueprint.md
       - Our Role/.keep
+      - Our Role/Digital Government Blueprint.md
+      - Our Role/Directory.md
       - Our 5 Capability Centres/.keep
       - Our 5 Capability Centres/Application Design, Development & Deployment.md
       - Our 5 Capability Centres/Cybersecurity.md
