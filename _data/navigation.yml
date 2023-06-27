@@ -6,7 +6,7 @@ links:
     url: /our-products
   - title: Work With Us
     collection: work-with-us
-  - title: Connect With Us
-    collection: connect-with-us
   - title: Insights
     resource_room: true
+  - title: Connect With Us
+    collection: connect-with-us
