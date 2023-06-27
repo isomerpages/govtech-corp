@@ -2,6 +2,7 @@ collections:
   work-with-us:
     output: true
     order:
+      - Apply Now.md
       - Smart Nation Fellowship Programme.md
       - Students and Graduates.md
       - How We Work.md
