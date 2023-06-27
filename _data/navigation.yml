@@ -1,7 +1,5 @@
 logo: /images/isomer-logo.svg
 links:
-  - title: About Us
-    url: /contact-us/
   - title: Our Products
     url: /our-products
   - title: Work With Us
@@ -10,3 +8,5 @@ links:
     resource_room: true
   - title: Connect With Us
     collection: connect-with-us
+  - title: About Us
+    collection: about-us
