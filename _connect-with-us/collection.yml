@@ -2,6 +2,7 @@ collections:
   connect-with-us:
     output: true
     order:
+      - Stay Connected/Social Media Channels.md
       - Stay Connected/Blogs.md
       - Stay Connected/Our Alumni Network.md
       - Stay Connected/.keep
