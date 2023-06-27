@@ -39,4 +39,12 @@ sections:
       url: Explore
       image: /images/hero-banner.png
       alt: Image alt text
+  - infopic:
+      title: Solutions That Drive Success
+      subtitle: From Vision to Achievement
+      description: Our latest achievements
+      button: Find out more
+      url: achievements
+      image: /images/hero-banner.png
+      alt: achievements
 ---
