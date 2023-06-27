@@ -2,10 +2,12 @@ collections:
   about-us:
     output: true
     order:
-      - Our Team.md
-      - Our Achievements/.keep
-      - Our Achievements/Our Digital Government Rankings.md
-      - Our Achievements/Our Awards.md
+      - Our 5 Capability Centres/.keep
+      - Our 5 Capability Centres/Application Design, Development & Deployment.md
+      - Our 5 Capability Centres/Cybersecurity.md
+      - Our 5 Capability Centres/Data Science & Artificial Intelligence.md
+      - Our 5 Capability Centres/Government ICT Infrastructure.md
+      - Our 5 Capability Centres/Sensors and Internet of Things.md
       - SG Digital Government Journey/.keep
       - SG Digital Government Journey/Our Journey.md
       - SG Digital Government Journey/Our Digital Government Story.md
@@ -13,9 +15,7 @@ collections:
       - Our Role/.keep
       - Our Role/Digital Government Blueprint.md
       - Our Role/Directory.md
-      - Our 5 Capability Centres/.keep
-      - Our 5 Capability Centres/Application Design, Development & Deployment.md
-      - Our 5 Capability Centres/Cybersecurity.md
-      - Our 5 Capability Centres/Data Science & Artificial Intelligence.md
-      - Our 5 Capability Centres/Government ICT Infrastructure.md
-      - Our 5 Capability Centres/Sensors and Internet of Things.md
+      - Our Achievements/.keep
+      - Our Achievements/Our Digital Government Rankings.md
+      - Our Achievements/Our Awards.md
+      - Our Team.md
