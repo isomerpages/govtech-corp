@@ -1,5 +1,4 @@
 collections:
   our-products:
     output: true
-    order:
-      - Citizen Services.md
+    order: []
