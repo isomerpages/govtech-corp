@@ -2,7 +2,6 @@ collections:
   our-products:
     output: true
     order:
-      - Government Tools/TechKakis.md
       - Government Tools/.keep
       - Government Tools/Digital Workplace.md
       - Government Tools/Digital Standards & Guidelines.md
@@ -10,6 +9,7 @@ collections:
       - Government Tools/Singapore Government Tech Stack.md
       - Government Tools/OpenDoc.md
       - Government Tools/FormSG.md
+      - Government Tools/TechKakis.md
       - Citizen Services/.keep
       - Citizen Services/Latest Services Updates.md
       - Citizen Services/'Ask Jamie' Virtual Assistant.md
