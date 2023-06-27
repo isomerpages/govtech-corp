@@ -2,4 +2,4 @@ collections:
   connect-with-us:
     output: true
     order:
-      - faq.md
+      - Contact Us.md
