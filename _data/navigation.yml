@@ -6,3 +6,5 @@ links:
     url: /who-we-are
   - title: Insights
     resource_room: true
+  - title: Connect With Us
+    collection: connect-with-us
