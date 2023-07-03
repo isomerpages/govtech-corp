@@ -2,4 +2,4 @@ collections:
   for-businesses:
     output: true
     order:
-      - Project Bidding Process.md
+      - Procurement Opportunities.md
