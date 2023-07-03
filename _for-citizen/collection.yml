@@ -2,7 +2,7 @@ collections:
   for-citizen:
     output: true
     order:
-      - Latest News and Updates.md
-      - Events and Campaigns.md
       - Career Insights.md
+      - Events and Campaigns.md
+      - Latest News and Updates.md
       - Citizen Engagement Initiatives.md
