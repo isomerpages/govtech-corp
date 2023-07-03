@@ -5,7 +5,7 @@ description: ""
 ---
 ### **Get to know our Teams**
 
-We believe that understanding the inner workings of our organization can greatly enhance your career exploration and decision-making process. In this section, we invite you to delve deeper into the various career opportunities available within XX and gain valuable insights into our company culture, values, and the experiences of our talented professionals.
+We believe that understanding the inner workings of our organization can greatly enhance your career exploration and decision-making process. In this section, we invite you to delve deeper into the various career opportunities available within GovTech and gain valuable insights into our company culture, values, and the experiences of our talented professionals.
 
 Discover the diverse range of roles and functions that contribute to the success of our organization. Whether you are interested in technology, finance, marketing, operations, or any other field, we have a multitude of career paths to explore. Gain a comprehensive understanding of the skills, qualifications, and responsibilities associated with each role, allowing you to align your aspirations with the right opportunity.
 
