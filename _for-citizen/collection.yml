@@ -2,5 +2,6 @@ collections:
   for-citizen:
     output: true
     order:
+      - Events and Campaigns.md
       - Meet Our Team.md
       - Citizen Engagement Initiatives.md
