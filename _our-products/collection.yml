@@ -2,11 +2,11 @@ collections:
   our-products:
     output: true
     order:
-      - Open Source Data/Latest Updates.md
-      - Open Source Data/Singapore Government Developer Portal.md
-      - Open Source Data/Government on Commercial Cloud.md
-      - Open Source Data/Data gov sg.md
-      - Open Source Data/.keep
+      - Data Resource Platform/Latest Updates.md
+      - Data Resource Platform/Singapore Government Developer Portal.md
+      - Data Resource Platform/Government on Commercial Cloud.md
+      - Data Resource Platform/Data gov sg.md
+      - Data Resource Platform/.keep
       - Business Platforms/Latest Business Platform Updates.md
       - Business Platforms/GoBusiness.md
       - Business Platforms/Corppass.md
