@@ -15,14 +15,14 @@ sections:
       key_highlights:
         - title: For Citizen
           description: Our latest happening
-          url: https://google.com
+          url: https://testingsandbox.gov.sg/for-citizen/permalink/
         - title: For Businesses
           description: Find Business Platforms & Jobs
           url: https://gmail.com
         - title: For Public Officiers
           description: Helping deliver best services
           url: /privacy/
-        - title: "For International "
+        - title: For International
           description: Explore & Collaborate with us
           url: ""
   - infopic:
