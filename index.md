@@ -15,7 +15,7 @@ sections:
       key_highlights:
         - title: For Citizen
           description: Our latest happening
-          url: https://testingsandbox.gov.sg/for-citizen/overview/
+          url: /for-citizen/overview/
         - title: For Businesses
           description: Find Business Platforms & Jobs
           url: https://gmail.com
