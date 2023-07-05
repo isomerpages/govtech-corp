@@ -11,11 +11,11 @@ sections:
       subtitle: Join us in our Digital Transformation Journey
       background: /images/hero-banner.png
       button: Find out more
-      url: /contact-us/
+      url: https://testingsandbox.gov.sg/for-citizen/overview/
       key_highlights:
         - title: For Citizen
           description: Our latest happening
-          url: https://testingsandbox.gov.sg/for-citizen/permalink/
+          url: https://testingsandbox.gov.sg/for-citizen/overview/
         - title: For Businesses
           description: Find Business Platforms & Jobs
           url: https://gmail.com
