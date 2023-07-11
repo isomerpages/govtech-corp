@@ -3,7 +3,7 @@ collections:
     output: true
     order:
       - Who We Are.md
-      - What We Do/Our Efforts In The Digital Government Transformation.md
+      - What We Do/Our Digital Government Efforts.md
       - What We Do/.keep
       - What We Do/Our Role.md
       - What We Do/Our Capabilities.md
