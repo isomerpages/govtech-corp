@@ -8,5 +8,5 @@ third_nav_title: What We Do
 
 
 - What is Digital Government Transformation
-- What is GovTech's Role in this 
+- What is GovTech's Role in the Digital Government Transformation
 - Our Initiatives
