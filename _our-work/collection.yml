@@ -1,5 +1,5 @@
 collections:
-  our-products:
+  our-work:
     output: true
     order:
       - Data Resource Platform/Latest Updates.md
