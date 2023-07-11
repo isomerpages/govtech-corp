@@ -1,5 +1,5 @@
 collections:
-  work-with-us:
+  careers:
     output: true
     order:
       - Our Culture and Values.md
