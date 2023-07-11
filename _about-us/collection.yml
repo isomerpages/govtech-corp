@@ -2,6 +2,7 @@ collections:
   about-us:
     output: true
     order:
+      - Who We Are.md
       - Who We Are/Our Identity.md
       - Who We Are/.keep
       - Who We Are/Digital Government Blueprint.md
