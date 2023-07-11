@@ -2,6 +2,9 @@ collections:
   about-us:
     output: true
     order:
+      - Who We Are/.keep
+      - Who We Are/Digital Government Blueprint.md
+      - Who We Are/Directory.md
       - What We Do/.keep
       - What We Do/Application Design, Development & Deployment.md
       - What We Do/Cybersecurity.md
@@ -12,9 +15,6 @@ collections:
       - Our Journey/Our Journey.md
       - Our Journey/Our Digital Government Story.md
       - Our Journey/Our Digital Government Efforts.md
-      - Who We Are/.keep
-      - Who We Are/Digital Government Blueprint.md
-      - Who We Are/Directory.md
       - Our Achievements/.keep
       - Our Achievements/Our Digital Government Rankings.md
       - Our Achievements/Our Awards.md
