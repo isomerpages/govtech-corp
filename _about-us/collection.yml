@@ -4,7 +4,6 @@ collections:
     order:
       - Who We Are.md
       - What We Do/.keep
-      - What We Do/Data Science & Artificial Intelligence.md
       - What We Do/Government ICT Infrastructure.md
       - What We Do/Sensors and Internet of Things.md
       - Our Journey/.keep
