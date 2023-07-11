@@ -2,16 +2,20 @@ collections:
   our-work:
     output: true
     order:
-      - Data Resource Platform/Latest Updates.md
-      - Data Resource Platform/Singapore Government Developer Portal.md
-      - Data Resource Platform/Government on Commercial Cloud.md
-      - Data Resource Platform/Data gov sg.md
-      - Data Resource Platform/.keep
+      - Citizen Services/.keep
+      - Citizen Services/Latest Services Updates.md
+      - Citizen Services/'Ask Jamie' Virtual Assistant.md
+      - Citizen Services/CrowdTaskSG.md
+      - Business Platforms/.keep
       - Business Platforms/Latest Business Platform Updates.md
       - Business Platforms/GoBusiness.md
       - Business Platforms/Corppass.md
       - Business Platforms/Networked Traded Platform.md
-      - Business Platforms/.keep
+      - Data Resource Platform/.keep
+      - Data Resource Platform/Latest Updates.md
+      - Data Resource Platform/Singapore Government Developer Portal.md
+      - Data Resource Platform/Government on Commercial Cloud.md
+      - Data Resource Platform/Data gov sg.md
       - Government Tools/.keep
       - Government Tools/Digital Workplace.md
       - Government Tools/Digital Standards & Guidelines.md
@@ -20,7 +24,3 @@ collections:
       - Government Tools/OpenDoc.md
       - Government Tools/FormSG.md
       - Government Tools/TechKakis.md
-      - Citizen Services/.keep
-      - Citizen Services/Latest Services Updates.md
-      - Citizen Services/'Ask Jamie' Virtual Assistant.md
-      - Citizen Services/CrowdTaskSG.md
