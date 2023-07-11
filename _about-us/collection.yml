@@ -2,12 +2,12 @@ collections:
   about-us:
     output: true
     order:
-      - Our 5 Capability Centres/.keep
-      - Our 5 Capability Centres/Application Design, Development & Deployment.md
-      - Our 5 Capability Centres/Cybersecurity.md
-      - Our 5 Capability Centres/Data Science & Artificial Intelligence.md
-      - Our 5 Capability Centres/Government ICT Infrastructure.md
-      - Our 5 Capability Centres/Sensors and Internet of Things.md
+      - What We Do/.keep
+      - What We Do/Application Design, Development & Deployment.md
+      - What We Do/Cybersecurity.md
+      - What We Do/Data Science & Artificial Intelligence.md
+      - What We Do/Government ICT Infrastructure.md
+      - What We Do/Sensors and Internet of Things.md
       - SG Digital Government Journey/.keep
       - SG Digital Government Journey/Our Journey.md
       - SG Digital Government Journey/Our Digital Government Story.md
