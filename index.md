@@ -32,7 +32,7 @@ sections:
         drive innovation and transform our nation
       button: Find out more
       url: Our role
-      image: /images/hero-banner.png
+      image: /images/digital_government_aug21.jpeg
       alt: Our Role
   - infopic:
       title: Latest Product
@@ -48,6 +48,6 @@ sections:
       description: Our latest achievements
       button: Find out more
       url: achievements
-      image: /images/hero-banner.png
+      image: /images/ytpo-awards.png
       alt: achievements
 ---
