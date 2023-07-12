@@ -2,7 +2,6 @@ collections:
   our-work:
     output: true
     order:
-      - Citizen Services/Example Title.md
       - Citizen Services/.keep
       - Citizen Services/Latest Services Updates.md
       - Citizen Services/'Ask Jamie' Virtual Assistant.md
