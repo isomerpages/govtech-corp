@@ -7,17 +7,17 @@ permalink: /
 notification: Here's a notification bar you can use!
 sections:
   - hero:
-      title: Latest Happenings
-      subtitle: Join us in our Digital Transformation Journey
-      background: /images/hero-banner.png
+      title: Nominations Open
+      subtitle: "Deadline: 31 July 2023"
+      background: /images/211210_digital-services-awards_01.png
       button: Find out more
       url: https://testingsandbox.gov.sg/for-citizen/overview/
       key_highlights:
         - title: For Citizen
-          description: Our latest happening
+          description: Insights to latest happening
           url: /for-citizen/overview/
         - title: For Businesses
-          description: Find Business Platforms & Jobs
+          description: Platforms and Job biddings
           url: https://gmail.com
         - title: For Public Officiers
           description: Helping deliver best services
