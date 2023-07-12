@@ -2,8 +2,8 @@ logo: /images/isomer-logo.svg
 links:
   - title: About Us
     collection: about-us
-  - title: Our Products
-    url: /our-products
+  - title: Our Work
+    collection: our-work
   - title: Careers
     collection: careers
   - title: Media
