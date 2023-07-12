@@ -19,10 +19,10 @@ sections:
         - title: For Businesses
           description: Platforms and Job biddings
           url: https://gmail.com
-        - title: For Public Officiers
-          description: Helping deliver best services
+        - title: For Whole of Government
+          description: Productivity & Collaboration
           url: /privacy/
-        - title: For International
+        - title: For Global Audiences
           description: Explore & Collaborate with us
           url: ""
   - infopic:
