@@ -40,7 +40,7 @@ sections:
       description: Feature latest product of GovTech team.
       button: Explore
       url: Explore
-      image: /images/hero-banner.png
+      image: /images/singpass_homepage_2560.jpg
       alt: Image alt text
   - infopic:
       title: Solutions That Drive Success
