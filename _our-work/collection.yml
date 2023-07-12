@@ -2,13 +2,12 @@ collections:
   our-work:
     output: true
     order:
-      - Example Title.md
       - Citizen Services/.keep
       - Citizen Services/Latest Services Updates.md
       - Citizen Services/'Ask Jamie' Virtual Assistant.md
       - Citizen Services/CrowdTaskSG.md
-      - Business Platforms/Overview.md
       - Business Platforms/.keep
+      - Business Platforms/Overview.md
       - Business Platforms/GoBusiness.md
       - Business Platforms/Corppass.md
       - Business Platforms/Networked Traded Platform.md
@@ -25,3 +24,4 @@ collections:
       - Government Tools/OpenDoc.md
       - Government Tools/FormSG.md
       - Government Tools/TechKakis.md
+      - Example Title.md
