@@ -2,15 +2,15 @@ collections:
   connect-with-us:
     output: true
     order:
-      - Collaboration/International Collaboration.md
-      - Collaboration/Local Collaboration.md
-      - Collaboration/.keep
-      - Get Involved with GovTech/Public Officers.md
+      - Our Exhibitions and Showcases/.keep
+      - Our Exhibitions and Showcases/Smart Nation Showcases.md
       - Get Involved with GovTech/.keep
+      - Get Involved with GovTech/Public Officers.md
       - Stay Connected/.keep
       - Stay Connected/Social Media Channels.md
       - Stay Connected/Blogs.md
       - Stay Connected/Our Alumni Network.md
-      - Our Exhibitions and Showcases/Smart Nation Showcases.md
-      - Our Exhibitions and Showcases/.keep
+      - Collaboration/.keep
+      - Collaboration/International Collaboration.md
+      - Collaboration/Local Collaboration.md
       - Contact Us.md
