@@ -3,8 +3,8 @@ collections:
     output: true
     order:
       - Why Join GovTech.md
-      - How We Hire.md
       - How We Work.md
+      - How We Hire.md
       - Students and Graduates.md
       - Smart Nation Fellowship Programme.md
       - Apply Now.md
