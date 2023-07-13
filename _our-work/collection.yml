@@ -3,7 +3,7 @@ collections:
     output: true
     order:
       - Citizen Services/.keep
-      - Citizen Services/Latest Services Updates.md
+      - Citizen Services/Overview.md
       - Citizen Services/'Ask Jamie' Virtual Assistant.md
       - Citizen Services/CrowdTaskSG.md
       - Business Platforms/.keep
