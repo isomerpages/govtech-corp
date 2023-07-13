@@ -2,10 +2,10 @@ collections:
   careers:
     output: true
     order:
-      - Professionals.md
       - Why Join GovTech.md
       - How We Work.md
       - How We Hire.md
+      - Professionals.md
       - Students and Graduates.md
       - Smart Nation Fellowship Programme.md
       - Apply Now.md
