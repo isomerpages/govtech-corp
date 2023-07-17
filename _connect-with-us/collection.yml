@@ -2,8 +2,8 @@ collections:
   connect-with-us:
     output: true
     order:
-      - Our Exhibitions and Showcases/.keep
-      - Our Exhibitions and Showcases/Smart Nation Showcases.md
+      - Our Showcases/.keep
+      - Our Showcases/Smart Nation Showcases.md
       - Get Involved with GovTech/.keep
       - Get Involved with GovTech/Public Officers.md
       - Stay Connected/.keep
