@@ -39,9 +39,9 @@ sections:
       image: /images/singpass_homepage_2560.jpg
       alt: Image alt text
   - infopic:
-      title: Solutions That Drive Success
+      title: Our Achievements
       subtitle: From Vision to Achievement
-      description: View our latest achievements
+      description: View our latest rankings, awards, and KPI achievements
       button: Find out more
       url: /about-us/our-achievements/our-scorecards/
       image: /images/ytpo-awards.png
