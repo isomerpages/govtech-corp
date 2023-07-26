@@ -1,8 +1,0 @@
-collections:
-  for-citizen:
-    output: true
-    order:
-      - Overview.md
-      - Interesting Reads.md
-      - Events and Campaigns.md
-      - Latest Products and Updates.md
