@@ -1,5 +1,4 @@
 collections:
   careers:
     output: true
-    order:
-      - Apply Now.md
+    order: []
