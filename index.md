@@ -4,14 +4,12 @@ title: Government Technology Agency
 description: An Isomer site of the Singapore Government
 image: /images/isomer-logo.svg
 permalink: /
-notification: Here's a notification bar you can use!
+notification: ""
 sections:
   - hero:
-      title: Nominations Open
-      subtitle: "Deadline: 31 July 2023"
-      background: /images/211210_digital-services-awards_01.png
+      background: /images/snb-website-banner-july2023.png
       button: Find out more
-      url: https://testingsandbox.gov.sg/for-citizen/overview/
+      url: https://www.tech.gov.sg/products-and-services/smart-nation-showcases/#smart-nation-builder
       key_highlights:
         - title: For Citizen
           description: Insights to latest happening
