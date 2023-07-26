@@ -15,9 +15,9 @@ collections:
       - Business Platforms/GoBusiness.md
       - Business Platforms/TradeTrust.md
       - Business Platforms/Asynchronous Data Exchange (ADEX).md
-      - Government Tools and Resources/Knowledge and Training.md
-      - Government Tools and Resources/Productivity.md
-      - Government Tools and Resources/Data and AI.md
-      - Government Tools and Resources/Security.md
-      - Government Tools and Resources/Development.md
       - Government Tools and Resources/.keep
+      - Government Tools and Resources/Development.md
+      - Government Tools and Resources/Security.md
+      - Government Tools and Resources/Data and AI.md
+      - Government Tools and Resources/Productivity.md
+      - Government Tools and Resources/Knowledge and Training.md
