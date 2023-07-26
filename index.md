@@ -26,7 +26,7 @@ sections:
       description: Find out how GovTech takes the lead in harnessing technology to
         drive innovation and transform our nation
       button: Find out more
-      url: Our role
+      url: /about-us/what-we-do/our-role/
       image: /images/digital_government_aug21.jpeg
       alt: Our Role
   - infopic:
