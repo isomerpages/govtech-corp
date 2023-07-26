@@ -5,7 +5,16 @@ links:
   - title: Our Work
     collection: our-work
   - title: Careers
-    collection: careers
+    url: /careers
+    sublinks:
+      - title: Why Join GovTech
+        url: /careers/why-join-govtech
+      - title: "Opportunities: Professionals"
+        url: /opportunities-for-professionals
+      - title: Students and Graduates
+        url: /students-and-graduates
+      - title: Apply Now
+        url: https://go.gov.sg/govtechjobs
   - title: Media
     url: /media
     sublinks:
@@ -19,5 +28,16 @@ links:
         url: /media/events
       - title: Reports and Speeches
         url: /media/reports-and-speeches
-  - title: Connect With Us
-    collection: connect-with-us
+  - title: Connect with Us
+    url: /connect-with-us
+    sublinks:
+      - title: Our Communities
+        url: /connect-with-us/our-communities
+      - title: Our Showcases
+        url: /connect-with-us/our-showcases
+      - title: Engage with Us
+        url: /connect-with-us/engage-with-us
+      - title: Collaborate with Us
+        url: /connect-with-us/collaborate-with-us
+      - title: Contact Us
+        url: /contact-us
