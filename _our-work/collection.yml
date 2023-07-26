@@ -3,7 +3,7 @@ collections:
     output: true
     order:
       - Citizen Services/.keep
-      - Citizen Services/Overview.md
+      - Citizen Services/Digital Transactions.md
       - Citizen Services/CrowdTaskSG.md
       - Business Platforms/.keep
       - Business Platforms/GoBusiness.md
