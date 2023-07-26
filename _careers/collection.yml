@@ -2,7 +2,6 @@ collections:
   careers:
     output: true
     order:
-      - How We Work.md
       - How We Hire.md
       - Opportunities for Professionals.md
       - Opportunities for Students and Graduates.md
