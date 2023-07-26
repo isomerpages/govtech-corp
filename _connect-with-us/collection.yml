@@ -2,6 +2,7 @@ collections:
   connect-with-us:
     output: true
     order:
+      - Our Communities/Overview.md
       - Our Communities/.keep
       - Our Showcases/.keep
       - Our Showcases/Smart Nation Showcases.md
