@@ -4,7 +4,7 @@ permalink: /about-us/sg-digital-government-journey/permalink/
 description: ""
 third_nav_title: Our Journey
 ---
-Our Digital Government Story
+Our Story
 ----------------------------
 
 Here are four videos featuring our Government Chief Digital Technology Officer, Chan Cheow Hoe, sharing key lessons from Singapore’s Digital Government journey.
