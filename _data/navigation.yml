@@ -7,6 +7,17 @@ links:
   - title: Careers
     collection: careers
   - title: Media
-    resource_room: true
+    url: /media
+    sublinks:
+      - title: TechNews
+        url: /media/technews
+      - title: Media Releases
+        url: /media/media-releases
+      - title: In the News
+        url: /media/in-the-news
+      - title: Events
+        url: /media/events
+      - title: Reports and Speeches
+        url: /media/reports-and-speeches
   - title: Connect With Us
     collection: connect-with-us
