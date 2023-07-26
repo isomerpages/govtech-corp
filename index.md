@@ -20,9 +20,6 @@ sections:
         - title: For Whole of Government
           description: Productivity & Collaboration
           url: /privacy/
-        - title: For Global Audiences
-          description: Explore & Collaborate with us
-          url: ""
   - infopic:
       title: Our Role
       subtitle: Empowering Growth through Tech
