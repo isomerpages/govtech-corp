@@ -1,4 +1,4 @@
-title: Title
+title: Government Technology Agency
 url: https://testingsandbox.gov.sg
 favicon: /images/favicon-isomer.ico
 colors:
@@ -53,7 +53,7 @@ staging: https://staging.dj96ubfmlmhpe.amplifyapp.com
 prod: https://master.dj96ubfmlmhpe.amplifyapp.com
 resources_name: media
 shareicon: /images/isomer-logo.svg
-is_government: false
+is_government: true
 facebook-pixel: ""
 google_analytics: ""
 google_analytics_ga4: ""
