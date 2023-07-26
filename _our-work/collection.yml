@@ -2,6 +2,7 @@ collections:
   our-work:
     output: true
     order:
+      - Citizen Services/Careers.md
       - Citizen Services/.keep
       - Citizen Services/Digital Transactions.md
       - Citizen Services/Education.md
