@@ -32,7 +32,7 @@ sections:
   - infopic:
       title: Our Work
       subtitle: We transform the Government
-      description: View the portfolio of work for citizens, businesses, and government
+      description: View our portfolio of work for citizens, businesses, and government
         agencies
       button: Explore Now
       url: /our-work
@@ -41,9 +41,9 @@ sections:
   - infopic:
       title: Solutions That Drive Success
       subtitle: From Vision to Achievement
-      description: Our latest achievements
+      description: View our latest achievements
       button: Find out more
-      url: achievements
+      url: /about-us/our-achievements/our-scorecards/
       image: /images/ytpo-awards.png
-      alt: achievements
+      alt: Our Achievements
 ---
