@@ -1,5 +1,0 @@
-collections:
-  for-businesses:
-    output: true
-    order:
-      - Procurement Opportunities.md
