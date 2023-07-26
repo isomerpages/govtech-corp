@@ -2,6 +2,7 @@ collections:
   our-work:
     output: true
     order:
+      - Citizen Services/Smart City Tech.md
       - Citizen Services/Environment.md
       - Citizen Services/Careers.md
       - Citizen Services/.keep
