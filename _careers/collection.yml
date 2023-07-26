@@ -2,6 +2,7 @@ collections:
   careers:
     output: true
     order:
+      - Students and Graduates/Overview.md
       - Students and Graduates/.keep
       - "Opportunities: Professionals/.keep"
       - "Opportunities: Professionals/Overview.md"
