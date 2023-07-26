@@ -2,11 +2,11 @@ collections:
   connect-with-us:
     output: true
     order:
-      - "Our Communities/For Alumni: GovTech ReCONNECT.md"
-      - "Our Communities/For Developers: STACK Community.md"
-      - "Our Communities/For Citizens: Tech Kaki.md"
-      - Our Communities/Overview.md
       - Our Communities/.keep
+      - Our Communities/Overview.md
+      - "Our Communities/For Citizens: Tech Kaki.md"
+      - "Our Communities/For Developers: STACK Community.md"
+      - "Our Communities/For Alumni: GovTech ReCONNECT.md"
       - Our Showcases/.keep
       - Our Showcases/Smart Nation Showcases.md
       - Engage With Us/.keep
