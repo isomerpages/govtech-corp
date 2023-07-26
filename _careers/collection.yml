@@ -2,7 +2,6 @@ collections:
   careers:
     output: true
     order:
-      - Why Join GovTech.md
       - How We Work.md
       - How We Hire.md
       - Opportunities for Professionals.md
