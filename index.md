@@ -17,9 +17,9 @@ sections:
         - title: For Businesses and Vendors
           description: Resources and Opportunities
           url: /for-businesses-and-vendors
-        - title: For Whole of Government
-          description: Productivity & Collaboration
-          url: /privacy/
+        - title: For Government
+          description: Productivity and Collaboration
+          url: /for-government
   - infopic:
       title: Our Role
       subtitle: Empowering Growth through Tech
