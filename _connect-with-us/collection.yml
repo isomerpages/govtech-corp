@@ -3,7 +3,6 @@ collections:
     output: true
     order:
       - Our Communities/.keep
-      - Our Communities/Public Officers.md
       - Our Showcases/.keep
       - Our Showcases/Smart Nation Showcases.md
       - Engage With Us/.keep
