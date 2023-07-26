@@ -11,9 +11,9 @@ sections:
       button: Find out more
       url: https://www.tech.gov.sg/products-and-services/smart-nation-showcases/#smart-nation-builder
       key_highlights:
-        - title: For Citizen
-          description: Insights to latest happening
-          url: /for-citizen/overview/
+        - title: For Citizens
+          description: Events, Stories, and Updates
+          url: /for-citizens
         - title: For Businesses
           description: Platforms and Job biddings
           url: https://gmail.com
