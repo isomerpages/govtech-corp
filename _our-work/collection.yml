@@ -2,7 +2,6 @@ collections:
   our-work:
     output: true
     order:
-      - Citizen Services/Government QR Payment.md
       - Citizen Services/.keep
       - Citizen Services/Overview.md
       - Citizen Services/'Ask Jamie' Virtual Assistant.md
