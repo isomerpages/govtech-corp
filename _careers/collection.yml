@@ -2,6 +2,7 @@ collections:
   careers:
     output: true
     order:
+      - "Opportunities: Professionals/Smart Nation Fellowship Programme.md"
       - "Opportunities: Professionals/Overview.md"
       - "Opportunities: Professionals/.keep"
       - Why Join GovTech/.keep
