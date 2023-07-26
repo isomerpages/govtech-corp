@@ -14,22 +14,15 @@ locations:
         description: Closed on Public Holidays
     maps_link: ""
     title: HQ Address
-  - address:
-      - 109 North Bridge Road
-      - Singapore 179097
-      - ""
-    operating_hours: []
-    maps_link: https://goo.gl/maps/C8VfxphGxT2GsfcaA
-    title: Branch Office
 contacts:
   - content:
-      - phone: +65 6123 4567
-      - email: enquiries@abc.gov.sg
-      - other: Any text here <i>including HTML</i>
+      - phone: +65 6211 2100
+      - email: info@tech.gov.sg
+      - other: ""
     title: General Enquiries & Feedback
   - content:
-      - phone: ""
-      - email: careers@abc.gov.sg
+      - phone: 1 800 944 7853
+      - email: whistleblow@tech.gov.sg
       - other: ""
-    title: Careers
+    title: Whistleblowing Line
 ---
