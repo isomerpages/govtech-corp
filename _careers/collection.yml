@@ -2,16 +2,16 @@ collections:
   careers:
     output: true
     order:
+      - Why Join GovTech/.keep
+      - Why Join GovTech/How We Work.md
+      - Why Join GovTech/How We Hire.md
+      - Why Join GovTech/Development Opportunities.md
+      - "Opportunities: Professionals/.keep"
+      - "Opportunities: Professionals/Overview.md"
+      - "Opportunities: Professionals/Smart Nation Fellowship Programme.md"
       - Students and Graduates/.keep
       - Students and Graduates/Overview.md
       - Students and Graduates/Geekout.md
       - Students and Graduates/Internships.md
       - Students and Graduates/Smart Nation Scholarship.md
       - Students and Graduates/Technology Associate Programme.md
-      - "Opportunities: Professionals/.keep"
-      - "Opportunities: Professionals/Overview.md"
-      - "Opportunities: Professionals/Smart Nation Fellowship Programme.md"
-      - Why Join GovTech/.keep
-      - Why Join GovTech/How We Work.md
-      - Why Join GovTech/How We Hire.md
-      - Why Join GovTech/Development Opportunities.md
