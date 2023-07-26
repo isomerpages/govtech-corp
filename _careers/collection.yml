@@ -2,7 +2,7 @@ collections:
   careers:
     output: true
     order:
-      - Why Join GovTech/Development Opportunities.md
-      - Why Join GovTech/How We Hire.md
-      - Why Join GovTech/How We Work.md
       - Why Join GovTech/.keep
+      - Why Join GovTech/How We Work.md
+      - Why Join GovTech/How We Hire.md
+      - Why Join GovTech/Development Opportunities.md
