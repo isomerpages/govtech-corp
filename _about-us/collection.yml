@@ -2,9 +2,6 @@ collections:
   about-us:
     output: true
     order:
-      - Our Team/Organisational Structure.md
-      - Our Team/Our Leadership.md
-      - Our Team/.keep
       - Who We Are.md
       - What We Do/.keep
       - What We Do/Our Role.md
@@ -14,7 +11,10 @@ collections:
       - Our Journey/Our History.md
       - Our Journey/Our Story.md
       - Our Journey/Our Strategic Focus.md
-      - Our Achievements/Our Scorecards.md
       - Our Achievements/.keep
+      - Our Achievements/Our Scorecards.md
       - Our Achievements/Our Digital Government Rankings.md
       - Our Achievements/Our Awards.md
+      - Our Team/.keep
+      - Our Team/Organisational Structure.md
+      - Our Team/Our Leadership.md
