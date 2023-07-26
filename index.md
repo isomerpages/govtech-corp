@@ -14,9 +14,9 @@ sections:
         - title: For Citizens
           description: Events, Stories, and Updates
           url: /for-citizens
-        - title: For Businesses
-          description: Platforms and Job biddings
-          url: https://gmail.com
+        - title: For Businesses and Vendors
+          description: Resources and Opportunities
+          url: /for-businesses-and-vendors
         - title: For Whole of Government
           description: Productivity & Collaboration
           url: /privacy/
