@@ -32,12 +32,12 @@ links:
     url: /connect-with-us
     sublinks:
       - title: Our Communities
-        url: /connect-with-us/our-communities
+        url: /connect-with-us/our-communities/overview/
       - title: Our Showcases
         url: /connect-with-us/our-showcases
       - title: Engage with Us
-        url: /connect-with-us/engage-with-us
+        url: /connect-with-us/engage-with-us/technews-newsletter/
       - title: Collaborate with Us
-        url: /connect-with-us/collaborate-with-us
+        url: /connect-with-us/collaborate-with-us/overview/
       - title: Contact Us
         url: /contact-us
