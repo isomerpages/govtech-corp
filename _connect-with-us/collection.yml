@@ -2,10 +2,10 @@ collections:
   connect-with-us:
     output: true
     order:
-      - Our Showcases/.keep
-      - Our Showcases/Smart Nation Showcases.md
       - Our Communities/.keep
       - Our Communities/Public Officers.md
+      - Our Showcases/.keep
+      - Our Showcases/Smart Nation Showcases.md
       - Engage With Us/.keep
       - Engage With Us/Social Media Channels.md
       - Engage With Us/Blogs.md
