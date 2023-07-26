@@ -46,14 +46,4 @@ sections:
       url: /about-us/our-achievements/our-scorecards/
       image: /images/ytpo-awards.png
       alt: Our Achievements
-  - infobar:
-      title: Infobar Title
-      subtitle: Infobar Subtitle
-      description: Infobar description
-      button: Button Text
-  - infobar:
-      title: Infobar Title
-      subtitle: Infobar Subtitle
-      description: Infobar description
-      button: Button Text
 ---
