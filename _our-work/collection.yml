@@ -2,14 +2,14 @@ collections:
   our-work:
     output: true
     order:
-      - Citizen Services/Travel.md
-      - Citizen Services/Directories.md
-      - Citizen Services/Smart City Tech.md
-      - Citizen Services/Environment.md
-      - Citizen Services/Careers.md
       - Citizen Services/.keep
       - Citizen Services/Digital Transactions.md
+      - Citizen Services/Smart City Tech.md
+      - Citizen Services/Directories.md
+      - Citizen Services/Careers.md
       - Citizen Services/Education.md
+      - Citizen Services/Environment.md
+      - Citizen Services/Travel.md
       - Business Platforms/.keep
       - Business Platforms/GoBusiness.md
       - Business Platforms/Corppass.md
