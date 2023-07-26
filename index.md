@@ -30,11 +30,12 @@ sections:
       image: /images/digital_government_aug21.jpeg
       alt: Our Role
   - infopic:
-      title: Latest Product
+      title: Our Work
       subtitle: We transform the Government
-      description: Feature latest product of GovTech team.
-      button: Explore
-      url: Explore
+      description: View the portfolio of work for citizens, businesses, and government
+        agencies
+      button: Explore Now
+      url: /our-work
       image: /images/singpass_homepage_2560.jpg
       alt: Image alt text
   - infopic:
