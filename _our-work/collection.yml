@@ -10,11 +10,11 @@ collections:
       - Citizen Services/Education.md
       - Citizen Services/Environment.md
       - Citizen Services/Travel.md
-      - Business Platforms/Asynchronous Data Exchange (ADEX).md
-      - Business Platforms/TradeTrust.md
       - Business Platforms/.keep
       - Business Platforms/Corppass.md
       - Business Platforms/GoBusiness.md
+      - Business Platforms/TradeTrust.md
+      - Business Platforms/Asynchronous Data Exchange (ADEX).md
       - Government Tools and Resources/.keep
       - Government Tools and Resources/Digital Workplace.md
       - Government Tools and Resources/Digital Standards & Guidelines.md
