@@ -3,9 +3,9 @@ collections:
     output: true
     order:
       - Why Join GovTech/.keep
-      - Why Join GovTech/How We Work.md
-      - Why Join GovTech/How We Hire.md
       - Why Join GovTech/Overview.md
+      - Why Join GovTech/How We Hire.md
+      - Why Join GovTech/How We Work.md
       - "Opportunities: Professionals/.keep"
       - "Opportunities: Professionals/Overview.md"
       - "Opportunities: Professionals/Smart Nation Fellowship Programme.md"
