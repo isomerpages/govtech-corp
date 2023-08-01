@@ -4,9 +4,19 @@ permalink: /about-us/what-we-do/our-role/
 description: ""
 third_nav_title: What We Do
 ---
-### **Our Role in the Digital Government Transformation**
+### Our Role in the Digital Government Journey
 
+### **What is Digital Government Transformation**
 
-- What is Digital Government Transformation
-- What is GovTech's Role in the Digital Government Transformation
-- Our Initiatives
+- Transforming Singapore through technology: enabling significant improvements in how we live, work and play
+- Mindset of GovTech: Helps in rethinking of long-held assumptions and on operations
+- Vision of becoming SmartNation: Digital Government, Digital Economy and Digital Society
+- 5 Strategic National Projects: How it helps in driving and enabling adoption of digital and smart technologies throughout Singapore
+
+### **The KPIs of Digital Government Transformation**
+-  How Digital Government Blueprint outlines the strategies and desired outcomes for DGT 
+- BluePrint Key targets by 2023 
+
+### **GovTech's Role in Digital Government Transformation**
+- How GovTech has help build 5 strategic National Projects
+- How GovTech provides the infrastructure to support the implementation of the country's Smart Nation initiative
