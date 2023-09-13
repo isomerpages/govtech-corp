@@ -5,8 +5,9 @@ description: ""
 third_nav_title: What We Do
 ---
 ### **Our Capabilities**
-- Why they were created
-- What are the 5 capabilities
+- How each capability was created as supporting infrastructure for implementing of Smart Nation goals.  
+- What are the 5 capabilities and how they serve as support infrastructure
+
 **Application Design, Development & Deployment**
 
 - Overview of capability
@@ -35,3 +36,6 @@ third_nav_title: What We Do
 - Overview of capability
 - How it helped build strategic national project i.e. Punggol Smart Town
 - Recent Work i.e. Personal Alert Button for seniors living alone, Assistive technologies such as the eCanvas for persons with disabilities
+
+### **Interested To Work for Our Capabilities?**
+Our team is always searching for like minded people to achieve shared goal of improving citizen life. If you have a similar purpose, check out our job opportunities!
