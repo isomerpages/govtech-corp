@@ -4,7 +4,7 @@ permalink: /about-us/our-achievements/our-scorecards/
 description: ""
 third_nav_title: Our Achievements
 ---
-### **Our Score Cards**
+### **Our KPIs**
 
 - How DGB shapes how GovTech measure success of their products
 - DGB targets by 2023 i.e. Citizen satisfaction and business satisfaction with digital services.
@@ -23,3 +23,7 @@ third_nav_title: Our Achievements
 - Objective of statistics
 - Methodology of statistics
 - Survey results and conclusion of how we achieve DGB target
+
+
+### **Interested to Work With Us?**
+Find out ways that you can collaborate with us on government and business projects! 
