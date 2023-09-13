@@ -39,3 +39,4 @@ third_nav_title: What We Do
 
 ### **Interested To Work for Our Capabilities?**
 Our team is always searching for like minded people to achieve shared goal of improving citizen life. If you have a similar purpose, check out our job opportunities!
+![](/images/job_cta2.png)
