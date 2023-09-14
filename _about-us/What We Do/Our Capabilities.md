@@ -10,6 +10,7 @@ third_nav_title: What We Do
 
 ***
 
+
 ##### **Application Design, Development & Deployment**
 
 - Overview of capability
@@ -40,5 +41,5 @@ third_nav_title: What We Do
 - Recent Work i.e. Personal Alert Button for seniors living alone, Assistive technologies such as the eCanvas for persons with disabilities
 ****
 ### **Interested To Work for Our Capabilities?**
-Our team is always searching for like minded people to achieve shared goal of improving citizen life. If you have a similar purpose, check out our job opportunities! To view job opportunities, Click Here. 
+Our team is always searching for like minded people to achieve shared goal of improving citizen life. If you have a similar purpose, check out our job opportunities below! 
 ![](/images/job_cta2.png)
