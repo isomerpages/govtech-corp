@@ -20,4 +20,5 @@ third_nav_title: Our Achievements
 - Singapore's ranking in the world
 
 ### **Interested To Work With Us?**
-Find out ways you can collaborate with us on business and government projects! 
+Find out ways you can collaborate with us on international projects!
+![](/images/collaborate%20cta.png)
