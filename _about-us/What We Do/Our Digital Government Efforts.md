@@ -4,13 +4,12 @@ permalink: /about-us/what-we-do/our-digital-government-efforts/
 description: ""
 third_nav_title: What We Do
 ---
-Digital Government Efforts
---------------------------
+## **Digital Government Efforts**
 - What is digital government efforts
 - How it helps achieve our vision, mission and valuess
 - How it works alongside our capabilities
 - Our digital government efforts can be classified into these few areas:
-
+***
 #### **Tech for Public Good**
 * Digital to the Core, and Serves with Heart
 * How GovTech developed technologies that are not only tailored to the needs of our citizens and businesses but also empower them to achieve a greater quality of life.
