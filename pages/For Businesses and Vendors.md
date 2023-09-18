@@ -19,7 +19,3 @@ description: ""
 
 ![](/images/collaborate%20cta.png)
 
-### **Resources To Help You With Securing Opportunities**
-* Description of SGTS, The SGTS is one of the key components of CODEX that allows sharing of reusable digital components, including machine-readable data, middleware and microservices. 
-* Ways business vendors have been using SGTS in their work 
-* How knowing about SGTS is beneficial in securing business opportunities with GovTech
