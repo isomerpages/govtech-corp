@@ -4,10 +4,11 @@ permalink: /careers/students-and-graduates/overview/
 description: ""
 third_nav_title: Students and Graduates
 ---
-From technology boot camps, internships and scholarships to fresh grad opportunities, we are here to inspire you to join us in the building of the world’s first Smart Nation.
+### Kickstart Your Career With GovTech
+* Brief summary of the value GovTech provides (e.g., high level of expertise in the world of tech, with qualified experts that will guide you, etc.) - [Ranked among Singapore's top 10 leading graduate employers i](https://www.youtube.com/watch?v=1qJ8aQdDQvw)n IT and Technology 2023. 
+* Ranked among Singapore's Top 10 most attractive employers in IT, 2023. 2\. Find the right programme for you 
 
 ### Find out which programme suits you best:
-
   
 
 ![GovTech Students and Graduates Programmes](https://d33wubrfki0l68.cloudfront.net/29dc526fcc82e4234928fc92dd05227243cdb69d/f01e2/images/careers/govtech-students-and-graduates-programmes.png)
