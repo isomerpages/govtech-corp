@@ -4,16 +4,17 @@ permalink: /careers/why-join-govtech/overview/
 description: ""
 third_nav_title: Why Join GovTech
 ---
-* Cover Employer Branding's EVP pillars:
-	1. Find your purpose
-	2. Exciting Opportunities
-	3. Master your craft
+### Why Join GovTech?
 
+* GovTech's value - be a part of the team that makes a positive impact on the nation (i.e. SingPass, Pandemic responses) 
+* Grow with GovTech
+* highlight GovTech's expertise and capabilities 
+* GovTech's culture and values, reputation as an employer
+* Stats/infographics to support reputation as employer 
+* Photograph and Testimonials or quotes from current GovTechies
 
-* 'Development opportunities' will be parked as a section under this page, related to "Master your craft" EVP pillar
+### Start Your Journey With GovTech!
 
-Other content areas:
-* Learning - Digital Academy
-* Training - Workshops
-* GovTech Way - Leadership Principles
-* Leadership Competency Framework
+* Whether you are a student, graduate or a professional - we want you! Check out the available opportunities here. 
+
+![](/images/jobs%20cta.png)
