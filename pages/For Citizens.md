@@ -11,7 +11,9 @@ description: ""
 * Keep a look out on this space where we share with you interesting Behind-the-scenes stories from our GovTechies! 
 * List of articles featuring GovTechies I.e. GovTechies reflect on their Journey on GovTech’s 6th birthday
 * International Woman’s day: GovTechies talk about switching to tech careers 
-* Keen to keep updated on our stories? CTA to Subscribe to our newsletter today!
+* Keen to keep updated on our stories? Subscribe to our newsletter today!
+
+![](/images/subscribe%20technews.png)
 
 ### **Latest Events**
 * Latest events happenings, CTA to sign up or find out more OR 
