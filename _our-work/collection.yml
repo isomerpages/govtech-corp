@@ -2,7 +2,6 @@ collections:
   our-work:
     output: true
     order:
-      - Overview.md
       - Citizen Services/.keep
       - Citizen Services/Digital Transactions.md
       - Citizen Services/Smart City Tech.md
