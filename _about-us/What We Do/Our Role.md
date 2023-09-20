@@ -11,8 +11,6 @@ third_nav_title: What We Do
 - Vision of becoming SmartNation: Digital Government, Digital Economy and Digital Society
 - 5 Strategic National Projects: How it helps in driving and enabling adoption of digital and smart technologies throughout Singapore
 
-![](/images/strategic_national_projects.jpg)
-
 ### **The KPIs of Digital Government Transformation**
 -  How Digital Government Blueprint outlines the strategies and desired outcomes for DGT 
 - BluePrint Key targets by 2023 
