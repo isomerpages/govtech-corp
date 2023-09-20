@@ -19,3 +19,5 @@ third_nav_title: Business Platforms
 
 ### Our Success Stories?
 The service is currently used by more than 550,000 entities to conduct online transactions for over 250 services with agencies and to manage digital access of employees.
+
+![](/images/proceed%20to%20website%20cta.png)
