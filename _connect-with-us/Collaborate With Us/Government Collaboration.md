@@ -28,4 +28,4 @@ third_nav_title: Collaborate With Us
  
  * Let's collaborate to improve Singapore!
 
-![](/images/collaborate%20cta.png)
+![](/images/get%20in%20touch.png)
