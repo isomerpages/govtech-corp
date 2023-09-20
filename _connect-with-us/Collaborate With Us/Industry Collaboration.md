@@ -16,4 +16,4 @@ third_nav_title: Collaborate With Us
 ### **Collaborate With Us Today!**
 * Reach out to GovTech to take this collaboration forward
 
-![](/images/collaborate%20cta.png)
+![](/images/get%20in%20touch.png)
