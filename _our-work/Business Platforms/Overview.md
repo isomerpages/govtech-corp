@@ -9,7 +9,7 @@ third_nav_title: Business Platforms
 * As part of our DGB efforts to become a Smart Nation, citizen services is core to what we do to drive and enable adoption of digital and smart technologies throughout Singapore. 
 * Explore our suite of services GovTech has created to improve business processes!
 
- ### **Our Business Platform Solutions**
+### **Our Business Platform Solutions**
  
  ##### **Corppass**
  * A corporate digital identity for businesses and organisations to conduct online transactions (such as grant applications and filing of corporate taxes) with Government agencies in a safe and reliable manner.  
