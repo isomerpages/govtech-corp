@@ -15,14 +15,14 @@ third_nav_title: Business Platforms
  * A corporate digital identity for businesses and organisations to conduct online transactions (such as grant applications and filing of corporate taxes) with Government agencies in a safe and reliable manner.  
  * Click **here** to find out more
 
- ##### **GoBusiness**
+#### **GoBusiness**
  * An online platform to connect business owners to various Government e-services and resources.  
 * Click **here** to find out more
 
- ##### **TradeTrust**
+#### **TradeTrust**
  * A framework that comprises globally accepted standards connecting governments and businesses to a public blockchain.  
 * Click **here** to find out more
 
- ##### **ADEX**
+#### **ADEX**
  * A centralised, self-service data exchange and event streaming platform for Whole-of-Government (WOG) and local business entities to share and receive lightweight, real-time data securely.  
  * Click **here** to find out more
