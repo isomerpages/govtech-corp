@@ -1,0 +1,10 @@
+collections:
+  who-we-are:
+    output: true
+    order:
+      - 1-our-role.md
+      - 2-our-journey.md
+      - 3-our-culture-and-values.md
+      - 4-our-digital-government-rankings.md
+      - 5-our-statistics.md
+      - 6-our-team.md

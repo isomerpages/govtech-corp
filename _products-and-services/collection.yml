@@ -1,0 +1,37 @@
+collections:
+  products-and-services:
+    output: true
+    order:
+      - business/.keep
+      - business/business-grants-portal.md
+      - business/corppass.md
+      - business/gobusiness-portal.md
+      - business/government-on-commercial-cloud.md
+      - business/national-trade-platform.md
+      - business/unique-entity-number.md
+      - citizens/.keep
+      - citizens/ask-jamie.md
+      - citizens/building-products-and-services-for-everyone.md
+      - citizens/crowdtasksg.md
+      - citizens/data-gov-sg.md
+      - citizens/government-qr-payment.md
+      - citizens/lifesg.md
+      - citizens/parents-gateway.md
+      - citizens/parking-sg.md
+      - citizens/responding-to-covid-19-with-tech.md
+      - citizens/sgfindex.md
+      - citizens/singpass.md
+      - citizens/smart-nation-showcases.md
+      - citizens/student-learning-space.md
+      - citizens/tech-kaki-community.md
+      - citizens/vica.md
+      - government/.keep
+      - government/cyber-security-group.md
+      - government/developer-portal.md
+      - government/digital-workplace.md
+      - government/formSG.md
+      - government/gitsir.md
+      - government/govtech-digital-academy.md
+      - government/opendoc.md
+      - government/singapore-government-tech-stack.md
+      - government/smart-nation-sensor-platform.md

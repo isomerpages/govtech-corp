@@ -1,0 +1,6 @@
+collections:
+  smart-nation-builder:
+    output: true
+    order:
+      - snb-privacy-statement.md
+      - snb-terms-of-use.md
