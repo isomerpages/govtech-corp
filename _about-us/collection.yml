@@ -2,6 +2,7 @@ collections:
   about-us:
     output: true
     order:
+      - 2-our-journey.md
       - 1-our-role.md
       - Who We Are.md
       - What We Do/.keep
