@@ -1,5 +1,5 @@
 collections:
-  digital-government-journey:
+  digital-government-efforts:
     output: true
     order:
       - ai-and-data-driven-government.md
