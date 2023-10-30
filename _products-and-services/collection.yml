@@ -1,5 +1,5 @@
 collections:
-  our-work:
+  products-and-services:
     output: true
     order:
       - Citizen Services/Overview.md
