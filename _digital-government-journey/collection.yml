@@ -2,7 +2,6 @@ collections:
   digital-government-journey:
     output: true
     order:
-      - ai-and-data-driven-government.md
       - citizen-engagement-and-cocreation.md
       - cybersecurity.md
       - digital-identity.md
