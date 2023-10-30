@@ -2,6 +2,7 @@ collections:
   products-and-services:
     output: true
     order:
+      - Citizen Services/responding-to-covid-19-with-tech.md
       - Citizen Services/parking-sg.md
       - Citizen Services/parents-gateway.md
       - Citizen Services/lifesg.md
