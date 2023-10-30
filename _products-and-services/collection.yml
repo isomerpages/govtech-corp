@@ -2,11 +2,7 @@ collections:
   products-and-services:
     output: true
     order:
-      - Collaborate With Us/International Collaboration.md
-      - Collaborate With Us/Industry Collaboration.md
-      - Collaborate With Us/Government Collaboration.md
-      - Collaborate With Us/Overview Collaboration.md
-      - Collaborate With Us/.keep
+      - For Citizens/.keep
       - For Citizens/student-learning-space.md
       - For Citizens/singpass.md
       - For Citizens/responding-to-covid-19-with-tech.md
@@ -15,7 +11,6 @@ collections:
       - For Citizens/lifesg.md
       - For Citizens/crowdtasksg.md
       - For Citizens/Overview.md
-      - For Citizens/.keep
       - For Citizens/Digital Transactions.md
       - For Citizens/Smart City Tech.md
       - For Citizens/Directories.md
@@ -23,17 +18,18 @@ collections:
       - For Citizens/Education.md
       - For Citizens/Environment.md
       - For Citizens/Health and Travel.md
+      - For Businesses/.keep
       - For Businesses/sgfindex.md
       - For Businesses/national-trade-platform.md
       - For Businesses/gobusiness-portal.md
       - For Businesses/corppass.md
       - For Businesses/business-grants-portal.md
       - For Businesses/Overview.md
-      - For Businesses/.keep
       - "For Businesses/Corporate Transactions: Corppass.md"
       - "For Businesses/Business Portal: GoBusiness.md"
       - "For Businesses/Trade Transactions: TradeTrust.md"
       - "For Businesses/Data Exchange: ADEX.md"
+      - For Government Agencies/.keep
       - For Government Agencies/singapore-government-tech-stack.md
       - For Government Agencies/govtech-digital-academy.md
       - For Government Agencies/formSG.md
@@ -43,9 +39,13 @@ collections:
       - For Government Agencies/data-gov-sg.md
       - For Government Agencies/government-on-commercial-cloud.md
       - For Government Agencies/Overview.md
-      - For Government Agencies/.keep
       - For Government Agencies/Development.md
       - For Government Agencies/Security.md
       - For Government Agencies/Data and AI.md
       - For Government Agencies/Productivity.md
       - For Government Agencies/Knowledge and Training.md
+      - Collaborate With Us/.keep
+      - Collaborate With Us/International Collaboration.md
+      - Collaborate With Us/Industry Collaboration.md
+      - Collaborate With Us/Government Collaboration.md
+      - Collaborate With Us/Overview Collaboration.md
