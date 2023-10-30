@@ -2,6 +2,7 @@ collections:
   connect-with-us:
     output: true
     order:
+      - "Join Our Communities/For Citizens: Tech Kaki.md"
       - Join Our Communities/.keep
       - Join Our Communities/tech-kaki-community.md
       - Join Our Communities/Overview.md
