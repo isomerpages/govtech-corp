@@ -2,6 +2,7 @@ collections:
   products-and-services:
     output: true
     order:
+      - Government Collaboration.md
       - Overview Collaboration.md
       - For Citizens/student-learning-space.md
       - For Citizens/singpass.md
