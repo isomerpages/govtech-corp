@@ -2,4 +2,5 @@ collections:
   persona-entry-pages:
     output: true
     order:
+      - For Government.md
       - For Citizens.md
