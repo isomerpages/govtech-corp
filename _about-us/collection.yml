@@ -2,6 +2,7 @@ collections:
   about-us:
     output: true
     order:
+      - Tech For Public Good.md
       - building-products-and-services-for-everyone.md
       - Who We Are.md
       - What We Do/.keep
