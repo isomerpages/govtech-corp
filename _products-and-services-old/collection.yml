@@ -4,7 +4,6 @@ collections:
     order:
       - business/.keep
       - citizens/.keep
-      - citizens/student-learning-space.md
       - citizens/tech-kaki-community.md
       - citizens/vica.md
       - government/.keep
