@@ -2,6 +2,7 @@ collections:
   digital-perception-survey:
     output: true
     order:
+      - 2018-01-01-digital-government-perception-survey-business-2018.md
       - 2016-01-01-digital-government-perception-survey-citizen-2016.md
       - 2016-01-01-digital-government-perception-survey-business-2016.md
       - 2015-01-01-digital-government-perception-survey-citizen-2015.md
