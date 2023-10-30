@@ -5,5 +5,4 @@ collections:
       - business/.keep
       - citizens/.keep
       - government/.keep
-      - government/singapore-government-tech-stack.md
       - government/smart-nation-sensor-platform.md
