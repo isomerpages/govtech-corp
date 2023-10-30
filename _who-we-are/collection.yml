@@ -2,6 +2,5 @@ collections:
   who-we-are:
     output: true
     order:
-      - 4-our-digital-government-rankings.md
       - 5-our-statistics.md
       - 6-our-team.md
