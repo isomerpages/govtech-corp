@@ -5,7 +5,6 @@ collections:
       - business/.keep
       - citizens/.keep
       - government/.keep
-      - government/cyber-security-group.md
       - government/developer-portal.md
       - government/digital-workplace.md
       - government/formSG.md
