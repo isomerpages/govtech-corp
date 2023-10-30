@@ -1,5 +1,5 @@
 collections:
-  products-and-services:
+  products-and-services-old:
     output: true
     order:
       - business/.keep
