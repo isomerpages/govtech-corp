@@ -2,6 +2,7 @@ collections:
   digital-government-journey:
     output: true
     order:
+      - singapore-digital-government-journey.md
       - citizen-engagement-and-cocreation.md
       - cybersecurity.md
       - digital-identity.md
