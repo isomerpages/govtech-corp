@@ -2,22 +2,22 @@ collections:
   products-and-services:
     output: true
     order:
-      - Citizen Services/student-learning-space.md
-      - Citizen Services/singpass.md
-      - Citizen Services/responding-to-covid-19-with-tech.md
-      - Citizen Services/parking-sg.md
-      - Citizen Services/parents-gateway.md
-      - Citizen Services/lifesg.md
-      - Citizen Services/crowdtasksg.md
-      - Citizen Services/Overview.md
-      - Citizen Services/.keep
-      - Citizen Services/Digital Transactions.md
-      - Citizen Services/Smart City Tech.md
-      - Citizen Services/Directories.md
-      - Citizen Services/Careers.md
-      - Citizen Services/Education.md
-      - Citizen Services/Environment.md
-      - Citizen Services/Health and Travel.md
+      - For Citizens/student-learning-space.md
+      - For Citizens/singpass.md
+      - For Citizens/responding-to-covid-19-with-tech.md
+      - For Citizens/parking-sg.md
+      - For Citizens/parents-gateway.md
+      - For Citizens/lifesg.md
+      - For Citizens/crowdtasksg.md
+      - For Citizens/Overview.md
+      - For Citizens/.keep
+      - For Citizens/Digital Transactions.md
+      - For Citizens/Smart City Tech.md
+      - For Citizens/Directories.md
+      - For Citizens/Careers.md
+      - For Citizens/Education.md
+      - For Citizens/Environment.md
+      - For Citizens/Health and Travel.md
       - Business Platforms/sgfindex.md
       - Business Platforms/national-trade-platform.md
       - Business Platforms/gobusiness-portal.md
