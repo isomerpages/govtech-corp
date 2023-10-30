@@ -4,7 +4,6 @@ collections:
     order:
       - business/.keep
       - citizens/.keep
-      - citizens/parents-gateway.md
       - citizens/parking-sg.md
       - citizens/responding-to-covid-19-with-tech.md
       - citizens/sgfindex.md
