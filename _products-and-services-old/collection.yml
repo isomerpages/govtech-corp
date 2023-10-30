@@ -4,7 +4,6 @@ collections:
     order:
       - business/.keep
       - citizens/.keep
-      - citizens/building-products-and-services-for-everyone.md
       - citizens/crowdtasksg.md
       - citizens/data-gov-sg.md
       - citizens/government-qr-payment.md
