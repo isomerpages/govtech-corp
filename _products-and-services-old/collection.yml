@@ -4,7 +4,6 @@ collections:
     order:
       - business/.keep
       - citizens/.keep
-      - citizens/vica.md
       - government/.keep
       - government/cyber-security-group.md
       - government/developer-portal.md
