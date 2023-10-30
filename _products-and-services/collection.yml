@@ -2,6 +2,7 @@ collections:
   products-and-services:
     output: true
     order:
+      - Citizen Services/crowdtasksg.md
       - Citizen Services/Overview.md
       - Citizen Services/.keep
       - Citizen Services/Digital Transactions.md
