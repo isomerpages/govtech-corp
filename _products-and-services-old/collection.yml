@@ -5,7 +5,6 @@ collections:
       - business/.keep
       - citizens/.keep
       - government/.keep
-      - government/gitsir.md
       - government/govtech-digital-academy.md
       - government/opendoc.md
       - government/singapore-government-tech-stack.md
