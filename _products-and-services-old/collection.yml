@@ -1,7 +1,0 @@
-collections:
-  products-and-services-old:
-    output: true
-    order:
-      - business/.keep
-      - citizens/.keep
-      - government/.keep
