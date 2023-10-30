@@ -3,7 +3,6 @@ collections:
     output: true
     order:
       - business/.keep
-      - business/gobusiness-portal.md
       - business/government-on-commercial-cloud.md
       - business/national-trade-platform.md
       - business/unique-entity-number.md
