@@ -2,6 +2,7 @@ collections:
   products-and-services:
     output: true
     order:
+      - Collaborate With Us/Overview Collaboration.md
       - Collaborate With Us/.keep
       - International Collaboration.md
       - Industry Collaboration.md
