@@ -2,6 +2,7 @@ collections:
   connect-with-us:
     output: true
     order:
+      - Our Exhibitions.md
       - smart-nation-showcases.md
       - Join Our Communities/tech-kaki-community.md
       - Join Our Communities/.keep
