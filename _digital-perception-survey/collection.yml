@@ -1,0 +1,4 @@
+collections:
+  digital-perception-survey:
+    output: true
+    order: []
