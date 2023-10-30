@@ -4,7 +4,6 @@ collections:
     order:
       - business/.keep
       - citizens/.keep
-      - citizens/singpass.md
       - citizens/smart-nation-showcases.md
       - citizens/student-learning-space.md
       - citizens/tech-kaki-community.md
