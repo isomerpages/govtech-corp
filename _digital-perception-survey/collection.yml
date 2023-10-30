@@ -1,4 +1,5 @@
 collections:
   digital-perception-survey:
     output: true
-    order: []
+    order:
+      - 2005-01-01-digital-government-perception-survey-citizen-2005.md
