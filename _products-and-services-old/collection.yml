@@ -3,7 +3,6 @@ collections:
     output: true
     order:
       - business/.keep
-      - business/business-grants-portal.md
       - business/corppass.md
       - business/gobusiness-portal.md
       - business/government-on-commercial-cloud.md
