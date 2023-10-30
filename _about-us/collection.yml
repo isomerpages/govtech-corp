@@ -2,6 +2,7 @@ collections:
   about-us:
     output: true
     order:
+      - 5-our-statistics.md
       - 4-our-digital-government-rankings.md
       - 3-our-culture-and-values.md
       - 2-our-journey.md
