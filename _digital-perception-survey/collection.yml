@@ -2,6 +2,7 @@ collections:
   digital-perception-survey:
     output: true
     order:
+      - 2013-01-01-digital-government-perception-survey-citizen-2013.md
       - 2013-01-01-digital-government-perception-survey-business-2013.md
       - 2012-01-01-digital-government-perception-survey-citizen-2012.md
       - 2011-01-01-digital-government-perception-survey-business-2011.md
