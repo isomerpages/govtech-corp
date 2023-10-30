@@ -4,7 +4,6 @@ collections:
     order:
       - business/.keep
       - citizens/.keep
-      - citizens/government-qr-payment.md
       - citizens/lifesg.md
       - citizens/parents-gateway.md
       - citizens/parking-sg.md
