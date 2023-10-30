@@ -2,6 +2,7 @@ collections:
   careers:
     output: true
     order:
+      - Why Join GovTech/3-our-culture-and-values.md
       - Why Join GovTech/.keep
       - Why Join GovTech/Overview.md
       - Why Join GovTech/How We Hire.md
