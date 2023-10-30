@@ -2,5 +2,4 @@ collections:
   who-we-are:
     output: true
     order:
-      - 5-our-statistics.md
       - 6-our-team.md
