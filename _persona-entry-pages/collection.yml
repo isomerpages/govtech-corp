@@ -1,0 +1,4 @@
+collections:
+  persona-entry-pages:
+    output: true
+    order: []
