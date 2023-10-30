@@ -3,5 +3,5 @@ collections:
     output: true
     order:
       - For Businesses and Vendors.md
-      - For Government.md
+      - For Government Agencies.md
       - For Citizens.md
