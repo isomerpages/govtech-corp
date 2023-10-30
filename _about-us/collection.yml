@@ -2,20 +2,20 @@ collections:
   about-us:
     output: true
     order:
-      - Tech For Public Good.md
       - Who We Are.md
+      - Tech For Public Good.md
       - What We Do/.keep
       - What We Do/Our Role.md
       - What We Do/Our Capabilities.md
       - What We Do/Our Digital Government Efforts.md
+      - Our Journey/.keep
       - Our Journey/digital-government-blueprint.md
       - Our Journey/2-our-journey.md
-      - Our Journey/.keep
       - Our Journey/Our Story.md
       - Our Journey/Our Focus Areas.md
+      - Our Achievements/.keep
       - Our Achievements/4-our-digital-government-rankings.md
       - Our Achievements/5-our-statistics.md
-      - Our Achievements/.keep
       - Our Achievements/Our KPIs.md
       - Our Achievements/Our Digital Government Rankings.md
       - Our Achievements/Our Awards and Recognition.md
