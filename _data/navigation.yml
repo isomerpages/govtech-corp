@@ -2,8 +2,8 @@ logo: /images/logo_govtech_hort.gif
 links:
   - title: About Us
     collection: about-us
-  - title: Our Work
-    collection: our-work
+  - title: Products And Services
+    collection: products-and-services
   - title: Careers
     url: /careers/why-join-govtech/overview/
     sublinks:
