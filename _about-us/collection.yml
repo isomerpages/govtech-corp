@@ -3,7 +3,6 @@ collections:
     output: true
     order:
       - building-products-and-services-for-everyone.md
-      - 1-our-role.md
       - Who We Are.md
       - What We Do/.keep
       - What We Do/Our Role.md
