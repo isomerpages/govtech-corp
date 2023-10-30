@@ -2,7 +2,6 @@ collections:
   about-us:
     output: true
     order:
-      - digital-government-blueprint.md
       - building-products-and-services-for-everyone.md
       - 1-our-role.md
       - Who We Are.md
