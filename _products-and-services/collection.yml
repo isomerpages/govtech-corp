@@ -2,6 +2,7 @@ collections:
   products-and-services:
     output: true
     order:
+      - Industry Collaboration.md
       - Government Collaboration.md
       - Overview Collaboration.md
       - For Citizens/student-learning-space.md
