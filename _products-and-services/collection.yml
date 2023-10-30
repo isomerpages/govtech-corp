@@ -2,6 +2,7 @@ collections:
   products-and-services:
     output: true
     order:
+      - International Collaboration.md
       - Industry Collaboration.md
       - Government Collaboration.md
       - Overview Collaboration.md
