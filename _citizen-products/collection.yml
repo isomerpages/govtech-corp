@@ -2,6 +2,7 @@ collections:
   citizen-products:
     output: true
     order:
+      - parents-gateway.md
       - parking-sg.md
       - singpass.md
       - responding-to-covid-19-with-tech.md
