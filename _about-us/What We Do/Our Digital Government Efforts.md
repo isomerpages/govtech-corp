@@ -6,11 +6,11 @@ third_nav_title: What We Do
 ---
 #### Digital Government Efforts
 
-* What is digital government efforts
+* What are our digital government efforts
 * How it helps achieve our vision, mission and valuess
 * How it works alongside our capabilities
 
-- Our digital government efforts can be classified into these few areas:
+Our digital government efforts can be classified into these few areas:
 
 
 #### Tech for Public Good
