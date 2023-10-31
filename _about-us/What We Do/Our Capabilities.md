@@ -4,42 +4,41 @@ permalink: /about-us/what-we-do/our-capabilities/
 description: ""
 third_nav_title: What We Do
 ---
-### **Our Capabilities**
-- How each capability was created as supporting infrastructure for implementing of Smart Nation goals.  
-- What are the 5 capabilities and how they serve as support infrastructure
+From delivering digital services to developing Singapore into a Smart Nation, GovTech advocates innovative technology to shape the way business is done in the government.
 
-***
+#### Leading Digital Transformation
 
+The world has become so fast paced that people don’t want to stand by reading a page of information, they would much rather look at a presentation and understand the message. It has come to a point where images and videos are used more to promote a product or service and this has extended from businesses to our daily routine. We are all in such a hurry that we wave bye instead of saying “goodbye”, show the watch to point to the time and so on. It is a healthy habit considering how we use our hands and motions to indicate what we are up to or capable of. The Government is in the process of crystallising the next phase of Strategic National Project, and will seek views and perspectives from different sources.
 
-##### **Application Design, Development & Deployment**
+---
 
-- Overview of capability
-- How it helped build strategic national project i.e. SingPass for National digital Identity
-- Recent work i.e. Pandemic solutions to help SG ease through pandemic
+#### Capability Centres
 
-##### **Cybersecurity**
+Our capability centres were established to strengthen Public Sector engineering expertise and build the government’s capabilities in emerging technologies. Together, they will enable GovTech to develop and deliver innovative citizen-centric products and services across the whole-of-government, in collaboration with Ministries and Statutory Boards.
 
-- Overview of capability
-- How it helped build strategic national project i.e. 
+##### Application Design, Development & Deployment
 
-##### **Data Science and Artificial Intelligence**
+This centre adopts an “outside-in” approach to deliver citizen-centric government digital services that support public sector digital transformation. Our in-house team utilises its deep technical expertise in design and software development methodologies - such as Agile, user experience design, quality engineering, DevOps and platform as a service - to deliver scalable, resilient, and reusable digital services which are supported by the Singapore Government Technology Stack.
 
-- Overview of capability
-- How it helped build strategic national project i.e. Helps scale effective product and examine what went wrong and what could be done better next time.
-- Recent work i.e. Incubation of AI tech solutions such as Vigilant Gantry, WOG ‘super’ virtual assistant, VICA
+##### Cybersecurity
 
-##### **Government ICT Infrastructure**
+As the cybersecurity lead for the Government sector, this centre develops a comprehensive suite of cybersecurity capabilities to support its missions. These range from blue-teaming capabilities that detect and respond against cyber threats to red-teaming capabilities that uncover cyber vulnerabilities in Government ICT and Smart systems. Beyond developing cyber-defence capabilities, this centre also works with various agencies to implement secure architectures and provide cybersecurity governance and technical guidance that help build a safer, more secure Smart Nation.
 
-- Overview of capability
-- How it helped build strategic national project i.e. develop government cloud and cloud-like solutions as the key foundation to enable greater agility and security for government agencies’ applications and services.
-- Recent work i.e. VPN capacity and are developing the next bound of government networks (e.g. SD-WAN (Software-defined Wide Area Network), Zero Trust Network)
+##### Data Science and Artificial Intelligence
 
-##### **Smart City Technology**
+This centre uses data science and artificial intelligence (AI) to extract data-driven insights and build smart platforms that help improve the delivery of citizen-centric services and ultimately support government policy outcomes. This centre also leads the charge in helping public agencies transform by empowering public officers to level up their data skills and working with agencies to support their data strategies and data infrastructure.  
 
-- Overview of capability
-- How it helped build strategic national project i.e. Punggol Smart Town
-- Recent Work i.e. Personal Alert Button for seniors living alone, Assistive technologies such as the eCanvas for persons with disabilities
-****
-### **Interested To Work for Our Capabilities?**
+##### Government ICT Infrastructure
+
+This centre develops a centralised Info-Communications Technology (ICT) infrastructure, consisting of data centres, applications, devices, networks and other infra that is scaled across government agencies. The centre specialises in creating agile, secure, resilient and cost-effective infrastructure that is optimised for government operations and improves the user experience for public officers. Beyond this foundational ICT architecture, the centre also provides guidelines and support to government agencies.
+
+##### Smart City Technology
+
+This centre works on the design and implementation of a government-wide Internet of Things (IoT) infrastructure to support a range of Smart City applications. This infrastructure enables the connectivity of smart objects such as wearables, sensors, and mobile devices to facilitate data collection of data and management of large-scale sensor deployments. Formerly known as Sensors & IoT (SIOT), this centre was renamed and reorganised in January 2023 to better reflect GovTech’s focus in putting together the technologies, capabilities, and products to enable Singapore’s Smart City vision.
+
+---
+
+##### Interested To Work for Our Capabilities?
+
 Our team is always searching for like minded people to achieve shared goal of improving citizen life. If you have a similar purpose, check out our job opportunities below! 
 ![](/images/job_cta2.png)
