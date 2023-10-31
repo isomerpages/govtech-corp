@@ -43,3 +43,6 @@ third_nav_title: What We Do
 
 #### Diversity and Inclusion
 * How GovTech is committed to diversity and inclusion in all areas of our work with external and internal stakeholdersRelated projects i.e. Digital4Good programme was established to empower underprivileged children/youths and seniors by increasing their digital literacy.
+
+#### Sustainability
+* As the public sector’s centre of excellence for info-comm technology and smart systems (ICT&SS), GovTech is taking the lead in decarbonising public sector technology in order to mitigate global warming and secure a smart and sustainable future for the people living in Singapore.
