@@ -3,11 +3,11 @@ collections:
     output: true
     order:
       - Who We Are.md
-      - What We Do/Tech For Public Good.md
       - What We Do/.keep
       - What We Do/Our Role.md
       - What We Do/Our Capabilities.md
       - What We Do/Our Digital Government Efforts.md
+      - What We Do/Tech For Public Good.md
       - Our Journey/.keep
       - Our Journey/digital-government-blueprint.md
       - Our Journey/2-our-journey.md
