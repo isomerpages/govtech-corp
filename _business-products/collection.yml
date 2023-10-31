@@ -1,4 +1,5 @@
 collections:
   business-products:
     output: true
-    order: []
+    order:
+      - sgfindex.md
