@@ -21,4 +21,4 @@ Agile. Bold. Collaborative. We are growing in ways we may never have predicted. 
 
 ### Start Your Journey With GovTech!
 
-* Whether you are a student, graduate or a professional - we want you! Check out the available opportunities here. 
+* Whether you are a student, graduate or a professional - we want you! Check out the available opportunities here.
