@@ -2,5 +2,6 @@ collections:
   government-products:
     output: true
     order:
+      - formSG.md
       - govtech-digital-academy.md
       - singapore-government-tech-stack.md
