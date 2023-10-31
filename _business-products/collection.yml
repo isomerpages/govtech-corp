@@ -1,0 +1,4 @@
+collections:
+  business-products:
+    output: true
+    order: []
