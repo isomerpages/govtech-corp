@@ -1,4 +1,5 @@
 collections:
   citizen-products:
     output: true
-    order: []
+    order:
+      - student-learning-space.md
