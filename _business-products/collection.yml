@@ -2,4 +2,5 @@ collections:
   business-products:
     output: true
     order:
+      - national-trade-platform.md
       - sgfindex.md
