@@ -2,6 +2,7 @@ collections:
   citizen-products:
     output: true
     order:
+      - lifesg.md
       - parents-gateway.md
       - parking-sg.md
       - singpass.md
