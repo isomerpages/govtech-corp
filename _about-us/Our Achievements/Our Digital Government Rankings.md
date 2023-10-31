@@ -4,21 +4,14 @@ permalink: /about-us/our-achievements/our-digital-government-rankings/
 description: ""
 third_nav_title: Our Achievements
 ---
-### **Our Digital Government Ranking**
+#### **United Nations e-Government Survey**
 
-- Different ways of measure and ranking of digital government in the world
-- How knowing GovTech ranking in the world, helps us know if we are on track with our digital progress
+Published biennially, the [United Nations e-Government Survey](https://publicadministration.un.org/egovkb/en-us/Reports/UN-E-Government-Survey-2022) assesses the e-government development status of all 193 United Nations member states. The assessment measures the e-government performance of countries relative to each other, and recognises that each country should decide upon the level and extent of its e-government initiatives in keeping with its own national development priorities.
 
-### **United Nations e-Government Survey (2012-2018)**
-- What it is
-- How it is measured
-- Singapore's ranking in the world
+In 2022, Singapore ranked 12th in the world. Denmark and Finland were the top two leading countries in e-government development.
 
-### **World Economic Forum Global Information Technology Report (2012-2017)**
-- What it is
-- How it is measured
-- Singapore's ranking in the world
+#### **IMD Smart Cities Index**
 
-### **Interested To Work With Us?**
-Find out ways you can collaborate with us on international projects!
-![](/images/collaborate%20cta.png)
+The [IMD Smart Cities Index](https://www.imd.org/wp-content/uploads/2023/04/smartcityindex-2023-v7.pdf) is published by Switzerland’s Institute for Management Development (IMD). The 2023 edition combined hard data and survey responses to rank 141 cities by how technology is used to address the challenges each city faces to achieve a higher quality of life for residents.
+
+In 2023, Singapore ranked 7th in the world. Zurich, Oslo, and Canberra were the top three cities respectively.
