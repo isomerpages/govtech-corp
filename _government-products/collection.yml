@@ -1,0 +1,4 @@
+collections:
+  government-products:
+    output: true
+    order: []
