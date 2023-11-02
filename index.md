@@ -55,7 +55,9 @@ sections:
       title: Tech for Public Good
       subtitle: Our Communities
       id: infopic
-      description: "Our efforts towards "
-      button: Button Text
+      description: Check out our efforts towards making lives better through
+        innovative technology
+      button: FIND OUT MORE
       alt: Image alt text
+      url: www.tech.gov.sg/connect-with-us/join-our-communities/overview/
 ---
