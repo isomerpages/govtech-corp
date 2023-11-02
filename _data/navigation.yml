@@ -22,8 +22,8 @@ links:
         url: /media/technews
       - title: Media Releases
         url: /media/media-releases
-      - title: In the News
-        url: /media/in-the-news
+      - title: Featured Articles
+        url: /media/featured-articles
       - title: Events
         url: /media/events
       - title: Reports and Speeches
@@ -37,7 +37,5 @@ links:
         url: /connect-with-us/our-exhibitions
       - title: Stay Informed
         url: /connect-with-us/engage-with-us/technews-newsletter/
-      - title: Contact Us
-        url: /contact-us
   - title: Contact Us
     url: /contact-us
