@@ -12,7 +12,7 @@ variant: markdown
 - <font color="red"> To include any typical skillsets required here - need GT's input </font>
 
 ### Our Hiring Process
-
+![](/images/Placeholders/Screenshot_2023_11_10_at_9_56_05_AM.png)
  - Process shown in graphic timeline
  - [Apply, Interview, Discussion, Decision](https://govinsider.asia/intl-en/article/agile-bold-and-collaborative-are-key-govtech-values-ceo/) 
 
@@ -56,36 +56,36 @@ If you’re shortlisted after the phone interview, we’ll reach out and arrange
 
 **What will be discussed during the interview?**
 
-1) Role-related questions<br>
+1. Role-related questions
 * Technical questions related to the role will be asked for an assessment of your technical competencies
 * Share with us your previous experiences that will directly contribute to your success in not just the role you’re interviewing for, but also in meeting GovTech’s wider goals
   
-2) Thinking and analytical skills<br>
+2. Thinking and analytical skills<br>
 * We are not looking for model answers. We want to see how you break down challenges, and the thought process that led to your solution
   
-3) Fit with GovTech’s A-B-C values<br>
+3. Fit with GovTech’s A-B-C values<br>
 *  Share how you live out our values of being Agile, Bold, and Collaborative in your personal and professional life
   
-4) Questions<br>
+4. Questions<br>
 * Interviews are a 2-way process. We’ve put you in front of a panel of GovTechies for you to ask all the questions you need
 
 **How to prepare for the interview?**
 
-1) Do your homework. Knowledge about GovTech and understanding the job you are applying could give you the advantage<br>
+1. Do your homework. Knowledge about GovTech and understanding the job you are applying could give you the advantage<br>
 *  Anticipate questions and answer each of them with a story that will allow you to put your point across<br>
 * Substantiate your answers with figures to give the panel a better understanding of your achievements<br>
 * Showcase your critical thinking skills by suggesting ways in which you will revisit certain solutions and better them
  
-2) Grab this opportunity to inquire deeper about the role or about us
+2. Grab this opportunity to inquire deeper about the role or about us
 
-3) Make a list of questions that you’d like us to answer. We might not have all the answers during the interview, but we’ll definitely look for the answers and get back to you
+3. Make a list of questions that you’d like us to answer. 
+* We might not have all the answers during the interview, but we’ll definitely look for the answers and get back to you
 
  ##### Decision
 
 1) We will objectively review your application after all the interview rounds, before making our decision based on trusted frameworks and pre-determined criteria
 2) If you’re selected for the position, we will contact you after the final interview with a verbal offer
 3) Thereafter, you can expect to start your adventure as a GovTechie.
-
 
 
 ### Join Us Today!
