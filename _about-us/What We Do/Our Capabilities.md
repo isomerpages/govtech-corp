@@ -5,7 +5,7 @@ description: ""
 third_nav_title: What We Do
 variant: markdown
 ---
-> From delivering digital services to developing Singapore into a Smart Nation, GovTech advocates innovative technology to shape the way business is done in the government.
+&gt; From delivering digital services to developing Singapore into a Smart Nation, GovTech advocates innovative technology to shape the way business is done in the government.
    
 
 ### Leading Digital Transformation
@@ -43,4 +43,6 @@ This centre works on the design and implementation of a government-wide Internet
 ### Interested To Work for Our Capabilities?
 
 Our team is always searching for like minded people to achieve shared goal of improving citizen life. If you have a similar purpose, check out our job opportunities below! 
-![Lorem Ipsum](/images/Placeholders/Screenshot_2023_11_10_at_12_19_03_PM.png)
+
+
+<a href="https://go.gov.sg/govtechcareers" target="\_blank" style="background-color: #0A66C2; color: white; text-decoration: none; border-radius: 100px; padding-left: 20px; padding-right: 20px; padding-top:8px; padding-bottom:8px">Apply Now</a>
