@@ -27,6 +27,7 @@ variant: markdown
 *   [Han Xingjian, Sensors &amp; Internet of Things intern](https://medium.com/ytpo-govtech/internship-blog-7b021006e020)
 
 ### How can you apply?
+<font color="red"> Consider changing hyperlinks to primary CTAs</font>
 
 We welcome pre-tertiary, university and polytechnic students to apply for our internships during the internship application periods indicated below. Check out a wide range of internship opportunities across many exciting domains.
 
