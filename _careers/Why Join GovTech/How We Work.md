@@ -3,39 +3,40 @@ title: How We Work
 permalink: /careers/why-join-govtech/how-we-work/
 description: ""
 third_nav_title: Why Join GovTech
+variant: markdown
 ---
 #### How We Work
 
 - We collaborate within our multidisciplinary teams and co-create with end users to develop the best solutions
-- We provide mentorship
+- <font color="red"> We provide mentorship </font>
 - Flexible work arrangement and benefits 
 - Emphasis on work-life balance but we provide conducive and fun work environment in the office
 
-**Agent of change**<br>
+##### Agent of change<br>
 We challenge ourselves to innovate and change things that are not meeting our goals. Speak up, not follow instructions. We seek to deconstruct problems on the fly and talk to users to solve problems. Help us get through tough spots so that we develop the best solutions that will impact our users.
 
 ![How we work as an agent of change](/images/careers/GovTech_ePayment_team.jpg)
 
-**Learning &amp; Growth**<br>
+##### Learning &amp; Growth<br>
 Opportunities for learning and growth are enormous. You are surrounded by a multidisciplinary group of experts across application development, business, design, data analytics, hardware engineering, where you can share and learn from each other. Take charge of your growth, and allocate time to attend courses, meetups, and conferences. Not enough? Embark on a technical mentorship to get guidance from technical experts locally and internationally.
 
-**Staying Connected with the Tech Industry**
+##### Staying Connected with the Tech Industry
 
 Keen for a learning stint in the private sector, you can take a six-month learning stint with tech companies under our Digital Technology Attachment Programme. You can also hop on our Digital Technical Mentorship Programme and be matched with local or overseas technical mentors. These programmes are critical in building our technical capabilities to deliver our mandate of driving public digital transformation. 
 
 ![How we work, learn and grow](/images/careers/GovTech_Hive_staff.jpg)
 
-**Inspiring Environment**<br>
+##### Inspiring Environment<br>
 We celebrate success together. We respect one another. We seek to build a positive work environment. Help us rid of toxic work factors if you spot any. We have also created a Smart Kampung where we can work, play and innovate as one GovTech. Decorate your workspace if you like. Have your meetings in co-working space. Chill out in the jamming and karaoke rooms.
 
 ![How we work and provide an inspiring environment](/images/careers/GovTech_Hive_staff2.jpg)
 
-**Flexible work arrangements and benefits**<br>
+##### Flexible work arrangements and benefits<br>
 We provide generous leave benefits to meet your needs for a balanced work and family life. Work from home or exercise if you need to. Productivity is higher than forcing you to sit at your desks and crank out work. We trust that you will get the job done wherever you are, and whatever works best for you.
 
 
 
-#### Our Culture and Values
+### Our Culture and Values
 
 Innovation is a way of life at GovTech.  We think big, start small, and learn from failing fast.  We have programmes to empower our GovTechies spark collaboration and drive innovative projects for public good.
 Our Agile, Bold, and Collaborative values unite us from different teams in delivering the business outcomes in a growth-oriented workplace.  They drive what we build for our citizens, businesses, and public officers.
@@ -46,10 +47,10 @@ We are also committed to build an inclusive and diverse work environment – reg
 
 If you’re passionate about using technology to better lives of Singaporeans, we want you. Together, we can realise our vision, and become a nation of possibilities empowered through technology.
 
-#### Where You Will Work
+### Where You Will Work
 - Collaborative atmosphere, conducive environment, Work Hard Play Hard
 - Photograph of office 
 - Collaborative work place, cross-department/external sharing sessions, conducive working pods/meeting rooms, games area
 
-#### Interested To Work With Us?
+### Interested To Work With Us?
 <a href="https://go.gov.sg/govtechcareers" target="_blank" style="background-color: #0A66C2; color: white; text-decoration: none; border-radius: 100px; padding-left: 20px; padding-right: 20px; padding-top:8px; padding-bottom:8px">Apply Now</a>
