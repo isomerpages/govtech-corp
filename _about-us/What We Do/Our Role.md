@@ -12,9 +12,13 @@ variant: markdown
 * Vision of becoming SmartNation: Digital Government, Digital Economy and Digital Society
 * 5 Strategic National Projects: How it helps in driving and enabling adoption of digital and smart technologies throughout Singapore
 
+![](/images/Screenshot_2023_11_10_at_9_56_05_AM.png)
+
 #### The KPIs of Digital Government Transformation
 *  How Digital Government Blueprint outlines the strategies and desired outcomes for DGT 
 * Blueprint key targets by 2028 
+
+
 
 #### GovTech's Role in Digital Government Transformation
 * How GovTech has help build 5 strategic National Projects
