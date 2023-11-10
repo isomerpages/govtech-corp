@@ -13,14 +13,14 @@ Empowering our nation with possibilities through infocomm technology and related
 Engineering, making lives better 
 
 ### Our Culture and Values
-<font color="red"> The ABC of being at GovTech - what it means to be Agile, Bold and Collaborative:
+<font color="red"> The ABC of being at GovTech - what it means to be Agile, Bold and Collaborative: 	</font> 
 
 **Agile** – being prepared to disrupt ourselves, being prepared to think twice, think in a different way, and really make those changes on time
 
 **Bold** – in adoptive new solutions. “Especially where technology is involved, which is possibly ahead of the curve, \[or even\] possibly ahead of the private sector 
 
 **Collaborative** - What we want to do in GovTech is to leverage on the resources that are already available
-	</font> 
+
 
 ![Why GovTech - Agile Bold Collaborative](https://d33wubrfki0l68.cloudfront.net/0890b9de0a61180d936795cffad20b4462f68c21/90386/images/careers/why-govtech-abc.png)
 
