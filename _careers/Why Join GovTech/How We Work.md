@@ -5,9 +5,9 @@ description: ""
 third_nav_title: Why Join GovTech
 variant: markdown
 ---
-### How We Work
+### What we strive for in our work
 
-<font color="red">  Summary of how benefits for the below items, with focus on work culture, mentorship, growth and flexibility.</font> Here's how we function:
+<font color="red">  Summary of how benefits for the below items, with focus on work culture, mentorship, growth and flexibility.</font> Here's how we work:
 
 ##### Innovators of change
 ![How we work as an agent of change](/images/careers/GovTech_ePayment_team.jpg)
