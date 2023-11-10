@@ -3,6 +3,7 @@ title: Our Role
 permalink: /about-us/what-we-do/our-role/
 description: ""
 third_nav_title: What We Do
+variant: markdown
 ---
 #### What is Digital Government Transformation
 
@@ -13,8 +14,9 @@ third_nav_title: What We Do
 
 #### The KPIs of Digital Government Transformation
 *  How Digital Government Blueprint outlines the strategies and desired outcomes for DGT 
-* Blueprint key targets by 2023 
+* Blueprint key targets by 2028 
 
 #### GovTech's Role in Digital Government Transformation
 * How GovTech has help build 5 strategic National Projects
 * How GovTech provides the infrastructure to support the implementation of the country's Smart Nation initiative
+* <font color="ff0000"> How GovTech has collaborated with other government agencies and vendors to provide tech solutions and initiatives that benefit the public, such as collaborating with MOH to launch HealthCerts </font>
