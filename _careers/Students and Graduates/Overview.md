@@ -5,17 +5,18 @@ description: ""
 third_nav_title: Students and Graduates
 variant: markdown
 ---
+### Kickstart your career with GovTech!
 ![GovTech is a top ten tech employer](/images/careers/YT-Awards-2023.png)
 
 From technology boot camps, internships and scholarships to fresh grad opportunities, we are here to inspire you to join us in the building of the world’s first Smart Nation. 
 
-### Find out which programme suits you best:
+### Find the right programme for you
 <br>
 
 ![GovTech Students and Graduates Programmes](/images/careers/govtech-students-and-graduates-programmes.png)
 
 
-### Click to find out more about our signature programmes:
+#### Click to find out more about our signature programmes:
 <br>
 
 <div class="row">
