@@ -5,9 +5,9 @@ description: ""
 third_nav_title: Why Join GovTech
 variant: markdown
 ---
-### How We Hire
+### Who we look out for
 
-- Who we look out for - people who are passionate about change and shares the same values 
+-  people who are passionate about change and shares the same values 
 - Talents to help build GovTech's capability - 5 capabilities
 - <font color="red"> To include any typical skillsets required here - need GT's input </font>
 
