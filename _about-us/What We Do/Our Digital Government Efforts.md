@@ -26,8 +26,7 @@ variant: markdown
 <td><a href="#safe-mgmt">Sustainability</a></td>  
 </tr>  
 </tbody>  
-</table>
-
+</table><br>
 
 ##### Tech for Public Good
 * Digital to the Core, and Serves with Heart
