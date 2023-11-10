@@ -3,8 +3,34 @@ title: Our Capabilities
 permalink: /about-us/what-we-do/our-capabilities/
 description: ""
 third_nav_title: What We Do
+variant: markdown
 ---
-From delivering digital services to developing Singapore into a Smart Nation, GovTech advocates innovative technology to shape the way business is done in the government.
+&gt;From delivering digital services to developing Singapore into a Smart Nation, GovTech advocates innovative technology to shape the way business is done in the government.
+   
+	 <a class="myButton" href="#">green</a>
+
+```
+    .myButton {
+    	background-color:#44c767;
+    	border-radius:28px;
+    	border:1px solid #18ab29;
+    	display:inline-block;
+    	cursor:pointer;
+    	color:#ffffff;
+    	font-family:Arial;
+    	font-size:17px;
+    	padding:16px 31px;
+    	text-decoration:none;
+    	text-shadow:0px 1px 0px #2f6627;
+    }
+    .myButton:hover {
+    	background-color:#5cbf2a;
+    }
+    .myButton:active {
+    	position:relative;
+    	top:1px;
+    }
+```
 
 #### Leading Digital Transformation
 
@@ -16,7 +42,7 @@ The world has become so fast paced that people don’t want to stand by reading 
 
 Our capability centres were established to strengthen Public Sector engineering expertise and build the government’s capabilities in emerging technologies. Together, they will enable GovTech to develop and deliver innovative citizen-centric products and services across the whole-of-government, in collaboration with Ministries and Statutory Boards.
 
-##### Application Design, Development & Deployment
+##### Application Design, Development &amp; Deployment
 
 This centre adopts an “outside-in” approach to deliver citizen-centric government digital services that support public sector digital transformation. Our in-house team utilises its deep technical expertise in design and software development methodologies - such as Agile, user experience design, quality engineering, DevOps and platform as a service - to deliver scalable, resilient, and reusable digital services which are supported by the Singapore Government Technology Stack.
 
@@ -34,7 +60,7 @@ This centre develops a centralised Info-Communications Technology (ICT) infrastr
 
 ##### Smart City Technology
 
-This centre works on the design and implementation of a government-wide Internet of Things (IoT) infrastructure to support a range of Smart City applications. This infrastructure enables the connectivity of smart objects such as wearables, sensors, and mobile devices to facilitate data collection of data and management of large-scale sensor deployments. Formerly known as Sensors & IoT (SIOT), this centre was renamed and reorganised in January 2023 to better reflect GovTech’s focus in putting together the technologies, capabilities, and products to enable Singapore’s Smart City vision.
+This centre works on the design and implementation of a government-wide Internet of Things (IoT) infrastructure to support a range of Smart City applications. This infrastructure enables the connectivity of smart objects such as wearables, sensors, and mobile devices to facilitate data collection of data and management of large-scale sensor deployments. Formerly known as Sensors &amp; IoT (SIOT), this centre was renamed and reorganised in January 2023 to better reflect GovTech’s focus in putting together the technologies, capabilities, and products to enable Singapore’s Smart City vision.
 
 ---
 
