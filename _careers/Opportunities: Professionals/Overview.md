@@ -21,7 +21,8 @@ variant: markdown
 
 ### Hear from our GovTechies
 <font color="red"> Testimonials from current employees </font> <br>
-&gt;  Quotes from current GovTech employees on culture, worklife and projects.
+
+&gt;Quotes from current GovTech employees on culture, worklife and projects.
 
 ### Interested? Check out our job offerings! 
 ![](/images/Placeholders/Screenshot_2023_11_10_at_12_19_03_PM.png)
