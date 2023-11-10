@@ -19,6 +19,7 @@ This is a great opportunity to gain insights into various tech domains through w
 ### Hear from past GeekOut participants:
 
 
+<font color="red"> Consider changing component to feature photos/quotes</font>
 
 *   [Glenda Teo, GeekOut participant](https://www.instagram.com/p/CcxLgKKMfqu/?utm_source=ig_web_copy_link)
 &gt; 
