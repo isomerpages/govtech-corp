@@ -5,6 +5,9 @@ description: ""
 third_nav_title: Our Achievements
 variant: markdown
 ---
+* Ways of measure and rank digital government in the world 
+* How knowing GovTech ranking in the world, helps us know if we are on track with our digital progress
+
 ### United Nations e-Government Survey
 
 Published biennially, the [United Nations e-Government Survey](https://publicadministration.un.org/egovkb/en-us/Reports/UN-E-Government-Survey-2022) assesses the e-government development status of all 193 United Nations member states. The assessment measures the e-government performance of countries relative to each other, and recognises that each country should decide upon the level and extent of its e-government initiatives in keeping with its own national development priorities.
