@@ -43,4 +43,4 @@ This centre works on the design and implementation of a government-wide Internet
 ### Interested To Work for Our Capabilities?
 
 Our team is always searching for like minded people to achieve shared goal of improving citizen life. If you have a similar purpose, check out our job opportunities below! 
-![](/images/job_cta2.png)
+![Lorem Ipsum](/images/Placeholders/Screenshot_2023_11_10_at_12_19_03_PM.png)
