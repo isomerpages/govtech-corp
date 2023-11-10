@@ -10,27 +10,23 @@ variant: markdown
 * What are our digital government efforts
 * How it helps achieve our vision, mission and valuess
 * How it works alongside our capabilities
-
-<!--td {border: 1px solid #cccccc;}br {mso-data-placement:same-cell;}--><div class="container">  
-  ###### Our digital government efforts can be classified into these few areas:
+###### Our digital government efforts can be classified into these few areas:
 <table>  
 <tbody>  
 <tr>  
 </tr><tr>  
 <td><a href="#climate">Tech for Public Good</a></td>  
 <td><a href="#sgp">Citizen Engagement and Co-creation</a></td>  
-<td><a href="#participate">User and Business Journeys</a></td>  
-<td><a href="#pollution-control">AI and Data Driven Government</a></td>  
+<td><a href="#participate">User &amp; Business Journeys</a></td>  
+<td><a href="#pollution-control">AI and Data </a></td>  
 <td><a href="#public-health">Digital Identity</a></td>  
 <td><a href="#safe-mgmt">WOG Platforms and Tools</a></td>  
 <td><a href="#safe-mgmt">Cybersecurity</a></td>  
-<td><a href="#safe-mgmt">Diversity and Inclusion</a></td>  
+<td><a href="#safe-mgmt">Diversity &amp; Inclusion</a></td>  
 <td><a href="#safe-mgmt">Sustainability</a></td>  
 </tr>  
 </tbody>  
 </table>
-
-
 
 
 ##### Tech for Public Good
@@ -64,4 +60,4 @@ variant: markdown
 * How GovTech is committed to diversity and inclusion in all areas of our work with external and internal stakeholdersRelated projects i.e. Digital4Good programme was established to empower underprivileged children/youths and seniors by increasing their digital literacy.
 
 ##### Sustainability
-* As the public sector’s centre of excellence for info-comm technology and smart systems (ICT&amp;SS), GovTech is taking the lead in decarbonising public sector technology in order to mitigate global warming and secure a smart and sustainable future for the people living in Singapore.</div>
+* As the public sector’s centre of excellence for info-comm technology and smart systems (ICT&amp;SS), GovTech is taking the lead in decarbonising public sector technology in order to mitigate global warming and secure a smart and sustainable future for the people living in Singapore.
