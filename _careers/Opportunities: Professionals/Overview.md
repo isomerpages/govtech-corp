@@ -20,7 +20,7 @@ variant: markdown
 ![](/images/Placeholders/Screenshot_2023_11_10_at_9_56_05_AM.png)
 
 ### Hear from our GovTechies
-* Testimonials from current employees 
+<font color="red"> Testimonials from current employees </font>
 &gt; Quotes from current GovTech employees on culture, worklife and projects.
 
 ### Interested? Check out our job offerings! 
