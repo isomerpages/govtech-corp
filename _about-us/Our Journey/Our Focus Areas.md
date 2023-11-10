@@ -3,12 +3,9 @@ title: Our Focus Areas
 permalink: /about-us/our-journey/our-strategic-focus/
 description: ""
 third_nav_title: Our Journey
+variant: markdown
 ---
-### **The Way Forward**
-
-- Despite GovTech's success in DGB 1.0 but there's so much more to achieve as a transformative force (Find out more from "Our KPIs")
-- The existing challenges faced, how GovTech can help to solve these issues in DGB 2.0.
-- Introducing the 5 Thrusts to create key shifts
+### The Way Forward
 
 Digitalisation is a key pillar of the Government’s public service transformation efforts. The Digital Government Blueprint (DGB) is a statement of the Government’s ambition to better leverage data and harness new technologies, and to drive broader efforts to build a digital economy and digital society, in support of Smart Nation.
 
@@ -17,6 +14,8 @@ Our vision is to create a Government that is “Digital to the Core, and Serves 
 Two years after the launch of the DGB, the Government has introduced new policies and initiatives. COVID-19 has also reaffirmed our emphasis on capability building, and compelled different parts of the Government to accelerate the use of data and of technology to offer digital services that minimise physical contact, and to use technology and digital tools to keep us safe.
 
 The DGB has been updated to accurately reflect the current plans and to push for more ambitious goals to pursue deeper and more extensive digitalisation within the Government. New examples are included to better explain the latest efforts and benefits of Digital Government. The refresh is in line with the approach to improve the blueprint iteratively.
+
+![Lorem Ipsum](/images/digital-transformation/Digital_Government_Aug21.jpeg)
 
 **The key changes made to the DGB include:**
 
@@ -45,7 +44,7 @@ Here is how the DGB will benefit you:
 - Greater confidence in your data as digital services infrastructure continues to be fortified
 - More digital services like LifeSG and GoBusiness built around your needs.
 
-## Future Plans
+### Future Plans
 
 The DGB is a testament of Singapore’s ambition to leverage data and new technologies to a digital economy and digital society in building a Smart Nation. 
 
@@ -63,7 +62,7 @@ Based on the DGB, GovTech plans to achieve the following goals by 2023:
 **Read about the DGB here:**
 - [Digital Government Blueprint (Updated December 2020)](/files/media/corporate-publications/dgb-public-document_30dec20.pdf)
 
-### **GovTech's Sustainability Efforts in Singapore Green Plan**
+### GovTech's Sustainability Efforts in Singapore Green Plan
 - Singapore Green Plan's goal by 2045 
 - How GovTech aims to achieve goal - 6 Key Pillars to enable change 
 - Success measurements and ways to optimisation
