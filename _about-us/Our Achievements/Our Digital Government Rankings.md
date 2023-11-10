@@ -19,3 +19,4 @@ In 2023, Singapore ranked 7th in the world. Zurich, Oslo, and Canberra were the 
 
 ### Interested in collaboration?
 * Cross link to International Collaboration
+![](/images/collaborate%20cta.png)
