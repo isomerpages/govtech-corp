@@ -53,7 +53,7 @@ variant: markdown
 
 <div class="row">
     <div class="col is-4">
-        <img alt="Mr LEONG Weng Keong Joseph" src="https://d33wubrfki0l68.cloudfront.net/b76e662ce43ba1d0a9bac8d36ba85893e0749933/c96d1/images/our-team/ps-joseph-leong.jpg">
+       <img alt="Mr LEONG Weng Keong Joseph" src="/images/Placeholders/Screenshot_2023_11_10_at_12_20_50_PM.png">
     </div>
     <div class="col is-8">
         <p class="title is-4">Mr LEONG Weng Keong Joseph</p>
@@ -64,22 +64,22 @@ variant: markdown
 
 <div class="row">
     <div class="col is-4">
-        <img alt="Mr LEONG Weng Keong Joseph" src="https://d33wubrfki0l68.cloudfront.net/b76e662ce43ba1d0a9bac8d36ba85893e0749933/c96d1/images/our-team/ps-joseph-leong.jpg">
+       <img alt="Mr GOH Wei Boon" src="/images/Placeholders/Screenshot_2023_11_10_at_12_20_50_PM.png">
     </div>
     <div class="col is-8">
-        <p class="title is-4">Mr LEONG Weng Keong Joseph</p>
-        <strong>Chairman</strong>
-        <br> Permanent Secretary (Smart Nation and Digital Government)
+        <p class="title is-4">Mr GOH Wei Boon</p>
+        <strong>Chief Executive</strong>
+        <br> Government Technology Agency of Singapore
 		</div>
 </div>
 
 <div class="row">
     <div class="col is-4">
-        <img alt="Mr LEONG Weng Keong Joseph" src="https://d33wubrfki0l68.cloudfront.net/b76e662ce43ba1d0a9bac8d36ba85893e0749933/c96d1/images/our-team/ps-joseph-leong.jpg">
+       <img alt="Mr Augustin LEE" src="/images/Placeholders/Screenshot_2023_11_10_at_12_20_50_PM.png">
     </div>
     <div class="col is-8">
-        <p class="title is-4">Mr LEONG Weng Keong Joseph</p>
-        <strong>Chairman</strong>
-        <br> Permanent Secretary (Smart Nation and Digital Government)
+        <p class="title is-4">Mr Augustin LEE</p>
+        <strong>Deputy Chairman</strong>
+        <br> Second Permanent Secretary (Smart Nation and Digital Government Group)
 		</div>
 </div>
