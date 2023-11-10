@@ -7,30 +7,6 @@ variant: markdown
 ---
 &gt;From delivering digital services to developing Singapore into a Smart Nation, GovTech advocates innovative technology to shape the way business is done in the government.
    
-	 <a class="myButton" href="#">green</a>
-
-```
-    .myButton {
-    	background-color:#44c767;
-    	border-radius:28px;
-    	border:1px solid #18ab29;
-    	display:inline-block;
-    	cursor:pointer;
-    	color:#ffffff;
-    	font-family:Arial;
-    	font-size:17px;
-    	padding:16px 31px;
-    	text-decoration:none;
-    	text-shadow:0px 1px 0px #2f6627;
-    }
-    .myButton:hover {
-    	background-color:#5cbf2a;
-    }
-    .myButton:active {
-    	position:relative;
-    	top:1px;
-    }
-```
 
 #### Leading Digital Transformation
 
