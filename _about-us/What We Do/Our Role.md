@@ -5,7 +5,7 @@ description: ""
 third_nav_title: What We Do
 variant: markdown
 ---
-#### What is Digital Government Transformation
+### What is Digital Government Transformation
 
 * Transforming Singapore through technology: enabling significant improvements in how we live, work and play
 * Mindset of GovTech: Helps in rethinking of long-held assumptions and on operations
@@ -14,13 +14,13 @@ variant: markdown
 
 ![](/images/Screenshot_2023_11_10_at_9_56_05_AM.png)
 
-#### The KPIs of Digital Government Transformation
+### The KPIs of Digital Government Transformation
 *  How Digital Government Blueprint outlines the strategies and desired outcomes for DGT 
 * Blueprint key targets by 2028 
 
 
 
-#### GovTech's Role in Digital Government Transformation
+### GovTech's Role in Digital Government Transformation
 * How GovTech has help build 5 strategic National Projects
 * How GovTech provides the infrastructure to support the implementation of the country's Smart Nation initiative
 * <font color="ff0000"> How GovTech has collaborated with other government agencies and vendors to provide tech solutions and initiatives that benefit the public, such as collaborating with MOH to launch HealthCerts </font>
