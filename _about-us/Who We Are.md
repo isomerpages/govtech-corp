@@ -4,7 +4,7 @@ permalink: /about-us/who-we-are/
 description: ""
 variant: markdown
 ---
-&gt; <font color="*#ff0000**"> GovTech is the implementing arm of PMO's Smart Nation and Digital Government Office (SNDGO), collectively known as the Smart Nation and Digital Government Group (SNDGG). We harness the best info-communications technologies to make a difference to the everyday lives of people in Singapore.</font>
+ <font color="*#ff0000**"> GovTech is the implementing arm of PMO's Smart Nation and Digital Government Office (SNDGO), collectively known as the Smart Nation and Digital Government Group (SNDGG). We harness the best info-communications technologies to make a difference to the everyday lives of people in Singapore.</font>
 
 ### Our Vision 
 Empowering our nation with possibilities through infocomm technology and related engineering technology.
@@ -20,9 +20,10 @@ Engineering, making lives better
 **Bold** – in adoptive new solutions. “Especially where technology is involved, which is possibly ahead of the curve, \[or even\] possibly ahead of the private sector 
 
 **Collaborative** - What we want to do in GovTech is to leverage on the resources that are already available
+	</font> 
 
 ![Why GovTech - Agile Bold Collaborative](https://d33wubrfki0l68.cloudfront.net/0890b9de0a61180d936795cffad20b4462f68c21/90386/images/careers/why-govtech-abc.png)
-</font> 
+
 
 ### Our Identity
 
