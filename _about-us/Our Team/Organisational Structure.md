@@ -5,7 +5,7 @@ description: ""
 third_nav_title: Our Team
 variant: markdown
 ---
-### Organizational  Structure
+### Our Structure
 
 <font color="red"> Org Structure infographic </font>
 ![](/images/Placeholders/Screenshot_2023_11_10_at_9_56_05_AM.png)
@@ -15,4 +15,4 @@ variant: markdown
 Check out our medium blog to find out behind the scenes information about our teams!
  </font>
 
-![](/images/Placeholders/Screenshot_2023_11_10_at_12_19_03_PM.png)
+<a href="https://tech.gov.sg" target="\_blank" style="background-color: #0A66C2; color: white; text-decoration: none; border-radius: 100px; padding-left: 20px; padding-right: 20px; padding-top:8px; padding-bottom:8px">Read More</a>
