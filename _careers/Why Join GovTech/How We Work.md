@@ -5,33 +5,28 @@ description: ""
 third_nav_title: Why Join GovTech
 variant: markdown
 ---
-#### How We Work
+### How We Work
 
-- We collaborate within our multidisciplinary teams and co-create with end users to develop the best solutions
-- <font color="red"> We provide mentorship </font>
-- Flexible work arrangement and benefits 
-- Emphasis on work-life balance but we provide conducive and fun work environment in the office
+<font color="red">  Summary of how benefits for the below items, with focus on work culture, mentorship, growth and flexibility.</font> Here's how we function:
 
-##### Agent of change<br>
-We challenge ourselves to innovate and change things that are not meeting our goals. Speak up, not follow instructions. We seek to deconstruct problems on the fly and talk to users to solve problems. Help us get through tough spots so that we develop the best solutions that will impact our users.
-
+##### Innovators of change
 ![How we work as an agent of change](/images/careers/GovTech_ePayment_team.jpg)
 
-##### Learning &amp; Growth<br>
+We challenge ourselves to innovate and change things that are not meeting our goals. Speak up, not follow instructions. We seek to deconstruct problems on the fly and talk to users to solve problems. Help us get through tough spots so that we develop the best solutions that will impact our users.
+
+##### Learning &amp; Growth
 Opportunities for learning and growth are enormous. You are surrounded by a multidisciplinary group of experts across application development, business, design, data analytics, hardware engineering, where you can share and learn from each other. Take charge of your growth, and allocate time to attend courses, meetups, and conferences. Not enough? Embark on a technical mentorship to get guidance from technical experts locally and internationally.
 
-##### Staying Connected with the Tech Industry
+##### Tech Industry Programmes
+![How we work, learn and grow](/images/careers/GovTech_Hive_staff.jpg)
 
 Keen for a learning stint in the private sector, you can take a six-month learning stint with tech companies under our Digital Technology Attachment Programme. You can also hop on our Digital Technical Mentorship Programme and be matched with local or overseas technical mentors. These programmes are critical in building our technical capabilities to deliver our mandate of driving public digital transformation. 
 
-![How we work, learn and grow](/images/careers/GovTech_Hive_staff.jpg)
-
-##### Inspiring Environment<br>
+##### Inspiring Environment
+![](/images/Placeholders/Screenshot_2023_11_10_at_9_56_05_AM.png)
 We celebrate success together. We respect one another. We seek to build a positive work environment. Help us rid of toxic work factors if you spot any. We have also created a Smart Kampung where we can work, play and innovate as one GovTech. Decorate your workspace if you like. Have your meetings in co-working space. Chill out in the jamming and karaoke rooms.
 
-![How we work and provide an inspiring environment](/images/careers/GovTech_Hive_staff2.jpg)
-
-##### Flexible work arrangements and benefits<br>
+##### Flexible work arrangements and benefits
 We provide generous leave benefits to meet your needs for a balanced work and family life. Work from home or exercise if you need to. Productivity is higher than forcing you to sit at your desks and crank out work. We trust that you will get the job done wherever you are, and whatever works best for you.
 
 
@@ -40,6 +35,8 @@ We provide generous leave benefits to meet your needs for a balanced work and fa
 
 Innovation is a way of life at GovTech.  We think big, start small, and learn from failing fast.  We have programmes to empower our GovTechies spark collaboration and drive innovative projects for public good.
 Our Agile, Bold, and Collaborative values unite us from different teams in delivering the business outcomes in a growth-oriented workplace.  They drive what we build for our citizens, businesses, and public officers.
+
+[Learn more about our values](/who-we-are)
 
 ![Why GovTech - Agile Bold Collaborative](/images/careers/why-govtech-abc.png)
 
