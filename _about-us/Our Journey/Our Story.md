@@ -77,6 +77,7 @@ See the list of key milestones on our digital journey towards today's GovTech, w
   <hr> </div>
 	
 ### Engaging The World
+![](/images/Placeholders/Screenshot_2023_11_10_at_9_56_05_AM.png)
 
 - How GovTech is constantly learning from local tech communities and global community to keep up with digital standards.
 - Digital Government Exchange (DGX) and STACK Developers Conference
