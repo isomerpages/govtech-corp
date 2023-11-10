@@ -16,6 +16,10 @@ variant: markdown
 * Unique opportunity to create digital products that positively impacts citizen
 * Invited Smart Nation Fellows will collaborate with us and work on projects that we have pre-identified, or propose new, innovative projects across tech domains from artificial intelligence, blockchain, cloud, data science, app development, cybersecurity to sensors &amp; IoT.
 
+**Interested? Find out more in the link below**
+
+<a href="https://go.gov.sg/govtechcareers" target="\_blank" style="background-color: #0A66C2; color: white; text-decoration: none; border-radius: 100px; padding-left: 20px; padding-right: 20px; padding-top:8px; padding-bottom:8px">Apply Now</a>
+
 ### Hear from our Fellows
 
 ![Smart Nation Fellowship Fellows](/images/careers/Smart_Nation_Fellowship_Group2.png)
