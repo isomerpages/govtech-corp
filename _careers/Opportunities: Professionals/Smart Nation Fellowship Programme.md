@@ -9,12 +9,14 @@ variant: markdown
 
 * A programme that spans 3 to 6 months co-creating digital or engineering solutions at GovTech
 * Co-create digital or engineering solutions that will make an impact on people’s lives. Work on projects that we have pre-identified, or propose new, innovative projects across tech domains from artificial intelligence, blockchain, cloud, data science, app development, cybersecurity to sensors &amp; IoT.
+* Singapore is embarking on a journey to build a Smart Nation, with the aim of harnessing technology and data to improve the lives of citizens. If you are an established data scientist, engineer, software developer, technologist, designer or applied researcher, we need your expertise and experience!
 
-Singapore is embarking on a journey to build a Smart Nation, with the aim of harnessing technology and data to improve the lives of citizens. If you are an established data scientist, engineer, software developer, technologist, designer or applied researcher, we need your expertise and experience!
+### What you gain
+* Exchange of knowledge 
+* Unique opportunity to create digital products that positively impacts citizen
+* Invited Smart Nation Fellows will collaborate with us and work on projects that we have pre-identified, or propose new, innovative projects across tech domains from artificial intelligence, blockchain, cloud, data science, app development, cybersecurity to sensors &amp; IoT.
 
-Invited Smart Nation Fellows will collaborate with us over three to six months to co-create digital or engineering solutions that will make an impact on people’s lives. Work on projects that we have pre-identified, or propose new, innovative projects across tech domains from artificial intelligence, blockchain, cloud, data science, app development, cybersecurity to sensors &amp; IoT.
-
-## Hear from our Fellows
+### Hear from our Fellows
 
 ![Smart Nation Fellowship Fellows](/images/careers/Smart_Nation_Fellowship_Group2.png)
 * [Paul Piong, Staff Firmware Engineer, Tesla](#paul-piong)<br>
