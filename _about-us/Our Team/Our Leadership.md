@@ -3,10 +3,83 @@ title: Our Leadership
 permalink: /about-us/our-team/our-leadership/
 description: ""
 third_nav_title: Our Team
+variant: markdown
 ---
-### **Board of Directors**
+<div class="col padding--bottom--xl">
+	<span class="bp-sec-button has-text-centered">
+		<a id="board-of-directors-button" class="is-uppercase media-category-button selected"><b>Board of Directors</b></a>
+		<a id="senior-leadership-button" class="is-uppercase media-category-button"><b>Senior Leadership</b></a>
+		<a id="organisational-structure-button" class="is-uppercase media-category-button"><b>Organisational Structure</b></a>
+	</span>
+</div>
 
-* List of directors 
+### Board of Directors
 
-### **Senior Leadership Members**
-* List of Leadership Members
+<div class="row">
+    <div class="col is-4">
+        <img alt="Mr LEONG Weng Keong Joseph" src="https://d33wubrfki0l68.cloudfront.net/b76e662ce43ba1d0a9bac8d36ba85893e0749933/c96d1/images/our-team/ps-joseph-leong.jpg">
+    </div>
+    <div class="col is-8">
+        <p class="title is-4">Mr LEONG Weng Keong Josephi</p>
+        <strong>Chairman</strong>
+        <br> Permanent Secretary (Smart Nation and Digital Government)
+		</div>
+</div>
+
+<div class="row">
+    <div class="col is-4">
+        <img alt="Mr LEONG Weng Keong Joseph" src="https://d33wubrfki0l68.cloudfront.net/b76e662ce43ba1d0a9bac8d36ba85893e0749933/c96d1/images/our-team/ps-joseph-leong.jpg">
+    </div>
+    <div class="col is-8">
+        <p class="title is-4">Mr LEONG Weng Keong Josephi</p>
+        <strong>Chairman</strong>
+        <br> Permanent Secretary (Smart Nation and Digital Government)
+		</div>
+</div>
+
+<div class="row">
+    <div class="col is-4">
+        <img alt="Mr LEONG Weng Keong Joseph" src="https://d33wubrfki0l68.cloudfront.net/b76e662ce43ba1d0a9bac8d36ba85893e0749933/c96d1/images/our-team/ps-joseph-leong.jpg">
+    </div>
+    <div class="col is-8">
+        <p class="title is-4">Mr LEONG Weng Keong Josephi</p>
+        <strong>Chairman</strong>
+        <br> Permanent Secretary (Smart Nation and Digital Government)
+		</div>
+</div>
+
+
+### Senior Leadership Members
+
+<div class="row">
+    <div class="col is-4">
+        <img alt="Mr LEONG Weng Keong Joseph" src="https://d33wubrfki0l68.cloudfront.net/b76e662ce43ba1d0a9bac8d36ba85893e0749933/c96d1/images/our-team/ps-joseph-leong.jpg">
+    </div>
+    <div class="col is-8">
+        <p class="title is-4">Mr LEONG Weng Keong Josephi</p>
+        <strong>Chairman</strong>
+        <br> Permanent Secretary (Smart Nation and Digital Government)
+		</div>
+</div>
+
+<div class="row">
+    <div class="col is-4">
+        <img alt="Mr LEONG Weng Keong Joseph" src="https://d33wubrfki0l68.cloudfront.net/b76e662ce43ba1d0a9bac8d36ba85893e0749933/c96d1/images/our-team/ps-joseph-leong.jpg">
+    </div>
+    <div class="col is-8">
+        <p class="title is-4">Mr LEONG Weng Keong Josephi</p>
+        <strong>Chairman</strong>
+        <br> Permanent Secretary (Smart Nation and Digital Government)
+		</div>
+</div>
+
+<div class="row">
+    <div class="col is-4">
+        <img alt="Mr LEONG Weng Keong Joseph" src="https://d33wubrfki0l68.cloudfront.net/b76e662ce43ba1d0a9bac8d36ba85893e0749933/c96d1/images/our-team/ps-joseph-leong.jpg">
+    </div>
+    <div class="col is-8">
+        <p class="title is-4">Mr LEONG Weng Keong Josephi</p>
+        <strong>Chairman</strong>
+        <br> Permanent Secretary (Smart Nation and Digital Government)
+		</div>
+</div>
