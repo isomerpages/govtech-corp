@@ -19,4 +19,4 @@ variant: markdown
 ### Interested To work With Us?
 
 Find out ways to collaborate with us on business and government projects!
-![](/images/collaborate%20cta.png)
+![Lorem Ipsum](/images/Placeholders/Screenshot_2023_11_10_at_12_19_03_PM.png)
