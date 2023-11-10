@@ -3,6 +3,7 @@ title: Overview
 permalink: /careers/why-join-govtech/overview/
 description: ""
 third_nav_title: Why Join GovTech
+variant: markdown
 ---
 ### Why Join GovTech?
 
@@ -11,7 +12,9 @@ third_nav_title: Why Join GovTech
 * highlight GovTech's expertise and capabilities 
 * GovTech's culture and values, reputation as an employer
 * Stats/infographics to support reputation as employer 
-* Photograph and Testimonials or quotes from current GovTechies
+* <font color="red">  Photograph and Testimonials or quotes from current GovTechies </font>
+
+![](/images/Placeholders/Screenshot_2023_11_10_at_9_56_05_AM.png)
 
 We use technology to improve the lives of everyday Singaporeans – tackling real-world problems of transport, housing, security, healthcare, and the environment. We are working hard every day to design and build solutions that will make a difference to the citizens and businesses. It thrills us to know that our work can impact lives. 
 
