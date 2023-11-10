@@ -5,18 +5,18 @@ description: ""
 third_nav_title: Why Join GovTech
 variant: markdown
 ---
-### **How We Hire**
+### How We Hire
 
 - Who we look out for - people who are passionate about change and shares the same values 
 - Talents to help build GovTech's capability - 5 capabilities
 - <font color="red"> To include any typical skillsets required here - need GT's input </font>
 
-### **Our Hiring Process**
+### Our Hiring Process
 
  - Process shown in graphic timeline
  - [Apply, Interview, Discussion, Decision](https://govinsider.asia/intl-en/article/agile-bold-and-collaborative-are-key-govtech-values-ceo/) 
 
-### **Hiring Right**
+### Hiring Right
 
 Our recipe for success at GovTech is hiring RIGHT! We need people who share the same excitement and passion – individuals who are excited about building the Government Tech Stack, and developing meaningful products, platforms, and solutions for the public good. 
 
@@ -24,7 +24,7 @@ We win by keeping our hiring bar high. By hiring the best people, we can scale u
 
 Because hiring well is important at GovTech, we want you to understand the nuts and bolts of our hiring process, so that you are prepared in your career journey. We don’t make the mistake of missing out hiring that great person.
 
-### **Our Hiring Process**
+### Our Hiring Process
 
  ##### Apply
 
