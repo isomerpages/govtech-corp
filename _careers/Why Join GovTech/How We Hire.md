@@ -25,61 +25,61 @@ Because hiring well is important at GovTech, we want you to understand the nuts 
 
 ### **Our Hiring Process**
 
-**Apply**
+ ##### Apply
 
 Paper applications are passé. Electronic applications save paper and reduce our carbon footprint at the same time.
 
 If there’s an available role here that excites you, one that puts your skills to good use and lets you grow professionally, apply for it! (Electronically of course.)
 
-  Focus on your CV<br>
-  a. Make it easy to read:<br>
-    i. Select a clean format which is logical and easy to read<br>
-    ii. Make good use of bold and italic typefaces to highlight accomplishments
+**Focus on your CV** <br>
+Make it easy to read: <br>
+* Select a clean format which is logical and easy to read<br>
+*  Make good use of bold and italic typefaces to highlight accomplishments
     
-  b. Put across accomplishments, not job descriptions<br>
-    i. Share what you did in your role, not what the role was about<br>
-    ii. Quantify and qualify your accomplishments - List accomplishments unique to you, not a list of what someone else or your contribution to a team. Highlight the benefits incurred as a result of what you did<br>
-    iii. Include all the relevant certifications in your CV
+**Put across accomplishments, not job descriptions**<br>
+* Share what you did in your role, not what the role was about<br>
+* Quantify and qualify your accomplishments - List accomplishments unique to you, not a list of what someone else or your contribution to a team. Highlight the benefits incurred as a result of what you did<br>
+*  Include all the relevant certifications in your CV
 
-**Interview**
+ ##### Interview
 
-*Phone Interview*
+**Phone Interview**
 
 Our recruitment team will conduct the first round of interviews by phone. The recruiter in- charge of the role will give you a call to discuss your relevant experience, skills, career aspirations, and share more information about the role.
 
 This is also your perfect chance to learn more about GovTech and the role in question!
 
-*Face-to-face interview*
+**Face-to-face interview**
 
 If you’re shortlisted after the phone interview, we’ll reach out and arrange a face-to-face interview. During these interviews, you’ll get to meet our recruiters, hiring managers, and possibly your potential teammates. These interviews generally span 45 minutes to 1 hour. Depending on the role, you may be required to complete technical assessments or case studies and further rounds of interviews.
 
 **What will be discussed during the interview?**
 
 1) Role-related questions<br>
-  a. Technical questions related to the role will be asked for an assessment of your technical competencies
-  b. Share with us your previous experiences that will directly contribute to your success in not just the role you’re interviewing for, but also in meeting GovTech’s wider goals
+* Technical questions related to the role will be asked for an assessment of your technical competencies
+* Share with us your previous experiences that will directly contribute to your success in not just the role you’re interviewing for, but also in meeting GovTech’s wider goals
   
 2) Thinking and analytical skills<br>
-  a. We are not looking for model answers. We want to see how you break down challenges, and the thought process that led to your solution
+* We are not looking for model answers. We want to see how you break down challenges, and the thought process that led to your solution
   
 3) Fit with GovTech’s A-B-C values<br>
-  a. Share how you live out our values of being Agile, Bold, and Collaborative in your personal and professional life
+*  Share how you live out our values of being Agile, Bold, and Collaborative in your personal and professional life
   
 4) Questions<br>
-  a. Interviews are a 2-way process. We’ve put you in front of a panel of GovTechies for you to ask all the questions you need
+* Interviews are a 2-way process. We’ve put you in front of a panel of GovTechies for you to ask all the questions you need
 
-*How to prepare for the interview?*
+**How to prepare for the interview?**
 
 1) Do your homework. Knowledge about GovTech and understanding the job you are applying could give you the advantage<br>
-  a. Anticipate questions and answer each of them with a story that will allow you to put your point across<br>
-  b. Substantiate your answers with figures to give the panel a better understanding of your achievements<br>
-  c. Showcase your critical thinking skills by suggesting ways in which you will revisit certain solutions and better them
+*  Anticipate questions and answer each of them with a story that will allow you to put your point across<br>
+* Substantiate your answers with figures to give the panel a better understanding of your achievements<br>
+* Showcase your critical thinking skills by suggesting ways in which you will revisit certain solutions and better them
  
 2) Grab this opportunity to inquire deeper about the role or about us
 
 3) Make a list of questions that you’d like us to answer. We might not have all the answers during the interview, but we’ll definitely look for the answers and get back to you
 
-**Decision**
+ ##### Decision
 
 1) We will objectively review your application after all the interview rounds, before making our decision based on trusted frameworks and pre-determined criteria
 2) If you’re selected for the position, we will contact you after the final interview with a verbal offer
@@ -87,5 +87,5 @@ If you’re shortlisted after the phone interview, we’ll reach out and arrange
 
 
 
-### **Join Us Today!**
+### Join Us Today!
 <a href="https://go.gov.sg/govtechcareers" target="_blank" style="background-color: #0A66C2; color: white; text-decoration: none; border-radius: 100px; padding-left: 20px; padding-right: 20px; padding-top:8px; padding-bottom:8px">Apply Now</a>
