@@ -22,6 +22,8 @@ variant: markdown
 
 ### Hear from our Fellows
 
+<font color="red"> Consider changing component to feature photos/quotes</font>
+
 ![Smart Nation Fellowship Fellows](/images/careers/Smart_Nation_Fellowship_Group2.png)
 * [Paul Piong, Staff Firmware Engineer, Tesla](#paul-piong)<br>
 * [Hunter Nield, Founder, Acaleph](#hunter-nield)<br>
