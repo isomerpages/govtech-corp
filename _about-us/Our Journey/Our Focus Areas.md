@@ -63,6 +63,7 @@ Based on the DGB, GovTech plans to achieve the following goals by 2023:
 - [Digital Government Blueprint (Updated December 2020)](/files/media/corporate-publications/dgb-public-document_30dec20.pdf)
 
 ### GovTech's Sustainability Efforts in Singapore Green Plan
+![](/images/Placeholders/Screenshot_2023_11_10_at_9_56_05_AM.png)
 - Singapore Green Plan's goal by 2045 
 - How GovTech aims to achieve goal - 6 Key Pillars to enable change 
 - Success measurements and ways to optimisation
