@@ -26,7 +26,7 @@ Because hiring well is important at GovTech, we want you to understand the nuts 
 
 ### Our Hiring Process
 
- #### Apply
+ ##### Apply
 
 Paper applications are passé. Electronic applications save paper and reduce our carbon footprint at the same time.
 
@@ -42,7 +42,7 @@ Make it easy to read: <br>
 * Quantify and qualify your accomplishments - List accomplishments unique to you, not a list of what someone else or your contribution to a team. Highlight the benefits incurred as a result of what you did<br>
 *  Include all the relevant certifications in your CV
 
- #### Interview
+ ##### Interview
 
 **Phone Interview**
 
@@ -81,7 +81,7 @@ If you’re shortlisted after the phone interview, we’ll reach out and arrange
 3. Make a list of questions that you’d like us to answer. 
 * We might not have all the answers during the interview, but we’ll definitely look for the answers and get back to you
 
- #### Decision
+ ##### Decision
 
 1) We will objectively review your application after all the interview rounds, before making our decision based on trusted frameworks and pre-determined criteria
 2) If you’re selected for the position, we will contact you after the final interview with a verbal offer
