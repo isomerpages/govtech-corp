@@ -17,7 +17,7 @@ variant: markdown
 
 <div class="row">
     <div class="col is-4">
-        <img alt="Mr LEONG Weng Keong Joseph" src="https://d33wubrfki0l68.cloudfront.net/b76e662ce43ba1d0a9bac8d36ba85893e0749933/c96d1/images/our-team/ps-joseph-leong.jpg">
+       <img alt="Mr LEONG Weng Keong Joseph" src="/images/Placeholders/Screenshot_2023_11_10_at_12_20_50_PM.png">
     </div>
     <div class="col is-8">
         <p class="title is-4">Mr LEONG Weng Keong Joseph</p>
