@@ -20,9 +20,8 @@ variant: markdown
 ![](/images/Placeholders/Screenshot_2023_11_10_at_9_56_05_AM.png)
 
 ### Hear from our GovTechies
-<font color="red"> Testimonials from current employees </font> <br>
-
-##### Quotes from current GovTech employees on culture, worklife and projects.
+<font color="red"> Testimonials / quotes from current employees </font>
 
 ### Interested? Check out our job offerings! 
-![](/images/Placeholders/Screenshot_2023_11_10_at_12_19_03_PM.png)
+
+<a href="https://go.gov.sg/govtechcareers" target="\_blank" style="background-color: #0A66C2; color: white; text-decoration: none; border-radius: 100px; padding-left: 20px; padding-right: 20px; padding-top:8px; padding-bottom:8px">Apply Now</a>
