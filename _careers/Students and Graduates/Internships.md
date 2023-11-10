@@ -15,8 +15,8 @@ variant: markdown
 
 ### What to expect from the internship
 * Exposure to tech industry and strategic national projects 
-* Types of projects could include and are not limited to app development for government agencies, building infocomm infrastructures, supporting the Smart Nation initiative and more. 
-* Mentorship and peer learning 
+* <font color="red"> Types of projects could include and are not limited to app development for government agencies, building infocomm infrastructures, supporting the Smart Nation initiative and more. 
+* Mentorship and peer learning </font>
 * Networking opportunities with our senior leaders
 
 ### Read about past interns’ experiences:
