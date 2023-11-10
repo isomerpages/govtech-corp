@@ -3,13 +3,12 @@ title: Our KPIs
 permalink: /about-us/our-achievements/our-scorecards/
 description: ""
 third_nav_title: Our Achievements
+variant: markdown
 ---
-### **Our KPIs**
-
 - How DGB shapes how GovTech measure success of their products
 - DGB targets by 2023 i.e. Citizen satisfaction and business satisfaction with digital services.
 
-### **Annual Survey on Satisfaction with Government Digital Services (Citizens) - For 2021**
+#### Annual Survey on Satisfaction with Government Digital Services (Citizens) - For 2021
 
 **Background / Objectives**
 
@@ -23,7 +22,7 @@ About 1500 respondents were surveyed, comprising representatives of the total de
 
 ![Digital Government Perception Survey 2021 for Citizens by GovTech](/images/our-statistics/Digital-Government-Perception-2021-Citizens.png)
 
-### **Annual Survey on Satisfaction with Government Digital Services (Businesses) - For 2021**
+#### Annual Survey on Satisfaction with Government Digital Services (Businesses) - For 2021
 
 **Background / Objectives**
 
@@ -40,4 +39,4 @@ Close to 1130 company respondents were surveyed, from a range of industry sector
 
 **Past Years' Results for Surveys on Satisfaction with Government Digital Services for Citizens and Businesses**
 
-Please refer to the following [link](/digital-government-perception-survey/) for past years' digital perception survey results.
+Refer to the following [link](/digital-government-perception-survey/) for past years' digital perception survey results.
