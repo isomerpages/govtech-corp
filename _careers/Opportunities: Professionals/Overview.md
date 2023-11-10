@@ -24,4 +24,4 @@ variant: markdown
 &gt;  Quotes from current GovTech employees on culture, worklife and projects.
 
 ### Interested? Check out our job offerings! 
-![](/images/job_cta2.png)
+![](/images/Placeholders/Screenshot_2023_11_10_at_12_19_03_PM.png)
