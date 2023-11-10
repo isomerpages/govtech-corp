@@ -14,3 +14,5 @@ variant: markdown
 
 * Check out our medium blog to find out behind the scenes information about our teams!
 * Cross link CTA to medium blogs
+
+![](/images/Screenshot_2023_11_10_at_12_12_42_PM.png)
