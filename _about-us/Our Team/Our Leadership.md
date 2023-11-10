@@ -20,7 +20,7 @@ variant: markdown
         <img alt="Mr LEONG Weng Keong Joseph" src="https://d33wubrfki0l68.cloudfront.net/b76e662ce43ba1d0a9bac8d36ba85893e0749933/c96d1/images/our-team/ps-joseph-leong.jpg">
     </div>
     <div class="col is-8">
-        <p class="title is-4">Mr LEONG Weng Keong Josephi</p>
+        <p class="title is-4">Mr LEONG Weng Keong Joseph</p>
         <strong>Chairman</strong>
         <br> Permanent Secretary (Smart Nation and Digital Government)
 		</div>
@@ -31,7 +31,7 @@ variant: markdown
         <img alt="Mr LEONG Weng Keong Joseph" src="https://d33wubrfki0l68.cloudfront.net/b76e662ce43ba1d0a9bac8d36ba85893e0749933/c96d1/images/our-team/ps-joseph-leong.jpg">
     </div>
     <div class="col is-8">
-        <p class="title is-4">Mr LEONG Weng Keong Josephi</p>
+        <p class="title is-4">Mr LEONG Weng Keong Joseph</p>
         <strong>Chairman</strong>
         <br> Permanent Secretary (Smart Nation and Digital Government)
 		</div>
@@ -42,7 +42,7 @@ variant: markdown
         <img alt="Mr LEONG Weng Keong Joseph" src="https://d33wubrfki0l68.cloudfront.net/b76e662ce43ba1d0a9bac8d36ba85893e0749933/c96d1/images/our-team/ps-joseph-leong.jpg">
     </div>
     <div class="col is-8">
-        <p class="title is-4">Mr LEONG Weng Keong Josephi</p>
+        <p class="title is-4">Mr LEONG Weng Keong Joseph</p>
         <strong>Chairman</strong>
         <br> Permanent Secretary (Smart Nation and Digital Government)
 		</div>
@@ -56,7 +56,7 @@ variant: markdown
         <img alt="Mr LEONG Weng Keong Joseph" src="https://d33wubrfki0l68.cloudfront.net/b76e662ce43ba1d0a9bac8d36ba85893e0749933/c96d1/images/our-team/ps-joseph-leong.jpg">
     </div>
     <div class="col is-8">
-        <p class="title is-4">Mr LEONG Weng Keong Josephi</p>
+        <p class="title is-4">Mr LEONG Weng Keong Joseph</p>
         <strong>Chairman</strong>
         <br> Permanent Secretary (Smart Nation and Digital Government)
 		</div>
@@ -67,7 +67,7 @@ variant: markdown
         <img alt="Mr LEONG Weng Keong Joseph" src="https://d33wubrfki0l68.cloudfront.net/b76e662ce43ba1d0a9bac8d36ba85893e0749933/c96d1/images/our-team/ps-joseph-leong.jpg">
     </div>
     <div class="col is-8">
-        <p class="title is-4">Mr LEONG Weng Keong Josephi</p>
+        <p class="title is-4">Mr LEONG Weng Keong Joseph</p>
         <strong>Chairman</strong>
         <br> Permanent Secretary (Smart Nation and Digital Government)
 		</div>
@@ -78,7 +78,7 @@ variant: markdown
         <img alt="Mr LEONG Weng Keong Joseph" src="https://d33wubrfki0l68.cloudfront.net/b76e662ce43ba1d0a9bac8d36ba85893e0749933/c96d1/images/our-team/ps-joseph-leong.jpg">
     </div>
     <div class="col is-8">
-        <p class="title is-4">Mr LEONG Weng Keong Josephi</p>
+        <p class="title is-4">Mr LEONG Weng Keong Joseph</p>
         <strong>Chairman</strong>
         <br> Permanent Secretary (Smart Nation and Digital Government)
 		</div>
