@@ -30,6 +30,7 @@ This is a great opportunity to gain insights into various tech domains through w
 Find out what it is like to be a participant at&nbsp;[GeekOut through the eyes of our past participants](https://medium.com/ytpo-govtech/tagged/geekout).
 
 ### What are you waiting for? Join us today!
+<font color="red"> Consider changing hyperlinks to primary CTAs</font>
 
 GeekOut applications for 2023 have closed. If you are interested in being a part of GeekOut, please stay connected with us through the&nbsp;[GovTech Talent Community](https://go.gov.sg/govtechtalentcommunity)&nbsp;to be notified of the application period for the next GeekOut.
 
