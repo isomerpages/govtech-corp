@@ -19,5 +19,9 @@ variant: markdown
 <font color="red">Overview of different tracks/career paths for professionals</font>
 ![](/images/Placeholders/Screenshot_2023_11_10_at_9_56_05_AM.png)
 
+### Hear from our GovTechies
+* Testimonials from current employees 
+&gt; Quotes from current GovTech employees on culture, worklife and projects.
+
 ### Interested? Check out our job offerings! 
 ![](/images/job_cta2.png)
