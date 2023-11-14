@@ -5,7 +5,7 @@ description: ""
 third_nav_title: What We Do
 variant: markdown
 ---
-&gt; From delivering digital services to developing Singapore into a Smart Nation, GovTech advocates innovative technology to shape the way business is done in the government.
+##### From delivering digital services to developing Singapore into a Smart Nation, GovTech advocates innovative technology to shape the way business is done in the government.
    
 
 ### Leading Digital Transformation
