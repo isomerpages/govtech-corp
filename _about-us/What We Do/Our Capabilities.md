@@ -19,13 +19,13 @@ The world has become so fast paced that people don’t want to stand by reading 
 Our capability centres were established to strengthen Public Sector engineering expertise and build the government’s capabilities in emerging technologies. Together, they will enable GovTech to develop and deliver innovative citizen-centric products and services across the whole-of-government, in collaboration with Ministries and Statutory Boards.
 
 
-<div class="row"> <div class="col is-4"> <img alt="Experience" src="/images/partner-us/enterprise/icons/20\_sightseeing.png"> </div> <div class="col is-8"> <p class="title is-4">Experience</p> Novel offerings to accentuate our island's ridge-reef landscape and encourage night visitorship </div> </div> 
+<div class="row"> <div class="col is-4"> <img alt="Application Design, Development &amp; Deployment" src="/images/Placeholders/Screenshot_2023_11_10_at_12_20_50_PM.png"> </div> <div class="col is-8"> <p class="title is-4">Application Design, Development &amp; Deployment</p> This centre adopts an “outside-in” approach to deliver citizen-centric government digital services that support public sector digital transformation. Our in-house team utilises its deep technical expertise in design and software development methodologies - such as Agile, user experience design, quality engineering, DevOps and platform as a service - to deliver scalable, resilient, and reusable digital services which are supported by the Singapore Government Technology Stack. </div> </div> 
 
-<div class="row"> <div class="col is-4"> <img alt="Sustainability" src="/images/partner-us/enterprise/icons/01\_peacock.png"> </div> <div class="col is-8"> <p class="title is-4">Sustainability</p> Initiatives to maintain Sentosa's biodiversity and manage waste and resources </div> </div> 
+<div class="row"> <div class="col is-4"> <img alt="Experience" src="/images/Placeholders/Screenshot_2023_11_10_at_12_20_50_PM.png"> </div> <div class="col is-8"> <p class="title is-4">Experience</p> Novel offerings to accentuate our island's ridge-reef landscape and encourage night visitorship </div> </div> 
 
-<div class="row"> <div class="col is-4"> <img alt="Connectivity" src="/images/partner-us/enterprise/icons/12\_cycling.png"> </div> <div class="col is-8"> <p class="title is-4">Connectivity</p> Enhance navigation and make intra-island commute more fun and/or convenient </div> </div> 
+<div class="row"> <div class="col is-4"> <img alt="Experience" src="/images/Placeholders/Screenshot_2023_11_10_at_12_20_50_PM.png"> </div> <div class="col is-8"> <p class="title is-4">Experience</p> Novel offerings to accentuate our island's ridge-reef landscape and encourage night visitorship </div> </div> 
 
-<div class="row"> <div class="col is-4"> <img alt="Digital" src="/images/partner-us/enterprise/icons/07\_segway.png"> </div> <div class="col is-8"> <p class="title is-4">Digital</p> Technologies to enhance integrated guest experiences, productivity and security in management of the island's operations and assets </div> </div>
+<div class="row"> <div class="col is-4"> <img alt="Experience" src="/images/Placeholders/Screenshot_2023_11_10_at_12_20_50_PM.png"> </div> <div class="col is-8"> <p class="title is-4">Experience</p> Novel offerings to accentuate our island's ridge-reef landscape and encourage night visitorship </div> </div> 
 
 
 
