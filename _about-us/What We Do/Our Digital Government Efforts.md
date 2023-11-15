@@ -19,7 +19,7 @@ variant: markdown
   </div>
 
   <div style="text-align: center" class="col">
-    <a target="_blank" href="/singapore-digital-government-journey/citizen-engagement-and-cocreation">
+    <a target="_blank" href="/digital-government-efforts/citizen-engagement-and-co-creation">
       <img alt="Citizen Engagement and Co-creation" src="/images/digital-transformation/02-Citizen Engagement.png"></a>
     <figcaption><b>Citizen Engagement and Co-creation</b></figcaption>
   </div>
