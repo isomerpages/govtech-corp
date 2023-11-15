@@ -2,6 +2,7 @@ collections:
   digital-government-efforts:
     output: true
     order:
+      - Tech for Public Good.md
       - ai-and-data-driven-government.md
       - citizen-engagement-and-cocreation.md
       - cybersecurity.md
