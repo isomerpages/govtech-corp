@@ -5,8 +5,7 @@ description: ""
 third_nav_title: Our Achievements
 variant: markdown
 ---
-* Ways of measure and rank digital government in the world 
-* How knowing GovTech ranking in the world, helps us know if we are on track with our digital progress
+##### Ways of measure and rank digital government in the world and how GovTech's ranking in the world, helps us know if we are on track with our digital progress
 
 ### United Nations e-Government Survey
 
