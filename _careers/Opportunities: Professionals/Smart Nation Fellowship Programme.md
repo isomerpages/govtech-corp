@@ -11,6 +11,8 @@ variant: markdown
 * Co-create digital or engineering solutions that will make an impact on people’s lives. Work on projects that we have pre-identified, or propose new, innovative projects across tech domains from artificial intelligence, blockchain, cloud, data science, app development, cybersecurity to sensors &amp; IoT.
 * Singapore is embarking on a journey to build a Smart Nation, with the aim of harnessing technology and data to improve the lives of citizens. If you are an established data scientist, engineer, software developer, technologist, designer or applied researcher, we need your expertise and experience!
 
+---
+
 ### What you gain
 * Exchange of knowledge 
 * Unique opportunity to create digital products that positively impacts citizen
@@ -19,10 +21,14 @@ variant: markdown
 **Interested? Find out more here:**
 
 <a href="https://go.gov.sg/govtechcareers" target="\_blank" style="background-color: #0A66C2; color: white; text-decoration: none; border-radius: 100px; padding-left: 20px; padding-right: 20px; padding-top:8px; padding-bottom:8px">Apply Now</a>
+<br> (Links to relevant application portal)
+
+---
 
 ### Hear from our Fellows
 
-<font color="red"> Consider changing component to feature photos/quotes</font>
+
+<!--td {border: 1px solid #cccccc;}br {mso-data-placement:same-cell;}--><div class="row"> <div class="col is-4"> <img alt="Application Design, Development &amp; Deployment" src="/images/Placeholders/Screenshot\_2023\_11\_10\_at\_12\_20\_50\_PM.png"> </div> <div class="col is-8"> <p class="title is-4">Paul Piong</p> <p> Staff Firmware Engineer, Tesla</p> From his three-month stint with our Sensors &amp; IoT team, Paul leveraged dedicated short-range communications (DSRC) systems, and developed a proof-of-concept to improve the location accuracy of global positioning system (GPS) technology. The enhanced accuracy of GPS could be used to improve road safety._ </div> </div>
 
 ![Smart Nation Fellowship Fellows](/images/careers/Smart_Nation_Fellowship_Group2.png)
 * [Paul Piong, Staff Firmware Engineer, Tesla](#paul-piong)<br>
