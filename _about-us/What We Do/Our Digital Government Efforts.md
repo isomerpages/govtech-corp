@@ -10,7 +10,6 @@ variant: markdown
 * How it works alongside our capabilities
 ###### Our digital government efforts can be classified into these few areas:
 
-
 <div class="col is-8 is-offset-1-desktop is-12-touch print-content">
                     <div class="row">
                         <div class="col">
@@ -29,13 +28,13 @@ variant: markdown
 
   .programmes__item__header > img {
     margin: 0;
-    width: 255px;
-    height: 191px;
-    object-fit: cover;
-    object-position: center;
+		width: 255px;
+		height: 191px;
+		object-fit: cover;
+		object-position: center;
   }
 
-  .programmes__item__header > h4 {
+  .programmes__item__header > h2 {
     color: black;
     font-size: 1.5rem;
     line-height: 1.5rem;
@@ -44,6 +43,10 @@ variant: markdown
     color: #509b55;
   }
 
+	  .programmes__item__header > sup {
+    color: red;
+  }
+	
   .programmes__item__detail > ul {
     display: flex;
     flex-direction: column;
@@ -98,53 +101,228 @@ variant: markdown
 </style>
 
 <div class="row row_custom">
-  <!-- Climate Fresk workshops -->
-  <div class="programmes__item col is-one-third">
+	  <!-- ArtScience Museum Architecture Adventure Tour -->
+		  <div class="programmes__item col is-one-third">
     <div class="programmes__item__wrapper">
       <div class="programmes__item__header">
-        <img src="/images/Workshop%20&amp;%20Talks/climatefresk.jpg">
-        <h4>Climate Fresk Workshops</h4>
+        <img src="/images/Tours/mbs_sid.jpg">
+        <h2>Architecture Adventure Tour
+</h2>
       </div>
       <div class="programmes__item__detail">
         <ul>
-          <li><strong>Organiser: Climate Fresk</strong></li>
+          <li><strong>Organiser: ArtScience Museum</strong></li>
         </ul>
       </div>
       <div class="programmes__item__body">
         <p>
-          Explore various fun and collaborative workshops to educate and raise awareness of climate change, explore addaptation strategies, challenges around biodiversity and impact of digital technology on the environment.
+        Find out more about the iconic structure of ArtScience Museum and learn about some of the eco-friendly and sustainability features within the museum.
         </p>
       </div>
     </div>
     <div class="programmes__item__actions">
-      <a class="button-primary" href="/climate-fresk/">
+      <a class="button-primary" href="/sustainability-in-design-at-artscience-museum/">
         Find out more
       </a>
     </div>
   </div>
-	  <!-- Make O - Tee to Bag Making -->
-  <div class="programmes__item col is-one-third">
+	<!-- Tiger Brewery Tour -->
+		<div class="programmes__item col is-one-third">
     <div class="programmes__item__wrapper">
       <div class="programmes__item__header">
-        <img src="/images/Workshop%20&amp;%20Talks/ginlee.jpg">
-        <h4>Make O - Tee-to-Bag Making</h4>
+        <img src="/images/Tours/tigerbrewery.jpg">
+        <h2>Tiger Brewery Tour </h2>
       </div>
       <div class="programmes__item__detail">
         <ul>
-          <li><strong>Organiser: Ginlee Studio</strong></li>
+          <li><strong>Venue: Tiger Brewery</strong></li>
+          <li><strong>Organiser: Asia Pacific Brewery</strong></li>
         </ul>
       </div>
       <div class="programmes__item__body">
         <p>
-Learn to make bags out of unused T-shirts! Workshops available for younger children (Kindergarten 1 - Primary 3) as well.        </p>
+         Step into the home of Tiger Beer and discover how it has taken an integrated approach to brewing its beer sustainably.
+        </p>
       </div>
     </div>
     <div class="programmes__item__actions">
-      <a class="button-primary" href="/make-o/">
+      <a class="button-primary" href="/tiger-brewery-tour-sustainability-edition/">
         Find out more
       </a>
     </div>
-  </div></div>
+  </div>
+	<!-- ComCrop Farm tours -->
+	 <div class="programmes__item col is-one-third">
+    <div class="programmes__item__wrapper">
+      <div class="programmes__item__header">
+        <img src="/images/Tours/question%20114%20-%201664984858397.jpg">
+        <h2>ComCrop Farm Tours
+</h2>
+      </div>
+      <div class="programmes__item__detail">
+        <ul>
+          <li><strong>Venue: Imbiah Lookout, Sentosa</strong></li>
+          <li><strong>Organiser: ComCrop Pte Ltd</strong></li>
+        </ul>
+      </div>
+      <div class="programmes__item__body">
+        <p>Visit Singapore's first-ever commercial rooftop farm and learn more about advanced hydroponics technology. Offers school and corporate tours to raise awareness on rooftop farming.
+        </p>
+      </div>
+    </div>
+    <div class="programmes__item__actions">
+      <a class="button-primary" href="/comcrop-farm-tour/">
+        Find out more
+      </a>
+    </div>
+  </div>
+		  <!-- Fairmont Singapore Aquaponics Farm Experience? -->
+		  <div class="programmes__item col is-one-third">
+    <div class="programmes__item__wrapper">
+      <div class="programmes__item__header">
+        <img src="/images/Challenges%20&amp;%20Deals/aquaponics_final.jpg">
+        <h2>Fairmont Singapore Aquaponics Farm Experience
+</h2>
+      </div>
+      <div class="programmes__item__detail">
+        <ul>
+          <li><strong>Venue: Fairmont Singapore &amp; Swissôtel The Stamford</strong></li>
+          <li><strong>Organiser: Fairmont Singapore &amp; Swissôtel The Stamford</strong></li>
+        </ul>
+      </div>
+      <div class="programmes__item__body">
+        <p>Offers customised experience for organisations, such as farm tour with dinner or farm tour with sustainability efforts showcase.
+        </p>
+      </div>
+    </div>
+    <div class="programmes__item__actions">
+      <a class="button-primary" href="/aquaponics-farm-to-table-experience/">
+        Find out more
+      </a>
+    </div>
+  </div>
+	<!-- Gardens by the Bay Nature & Sustainability Tour -->
+	<div class="programmes__item col is-one-third">
+    <div class="programmes__item__wrapper">
+      <div class="programmes__item__header">
+        <img src="/images/Tours/gbtb_urbanwetlands.jpg">
+        <h2>Nature and Sustainability Tour: Biodiversity and Ecosystems</h2>
+      </div>
+      <div class="programmes__item__detail">
+        <ul>
+          <li><strong>Venue: Gardens by the Bay</strong></li>
+          <li><strong>Organiser: Gardens by the Bay</strong></li>
+        </ul>
+      </div>
+      <div class="programmes__item__body">
+        <p>
+          Join guided walking tours to learn about the importance and interconnectedness of the natural environment, biodiversity and climate change. 
+        </p>
+      </div>
+    </div>
+    <div class="programmes__item__actions">
+      <a class="button-primary" href="/nature-and-sustainability-tours/">
+        Find out more
+      </a>
+    </div>
+  </div>	
+	<!--Indie Singapore Tours LLP History Wanderer (Waters of Change) -->
+	<div class="programmes__item col is-one-third">
+    <div class="programmes__item__wrapper">
+      <div class="programmes__item__header">
+        <img src="/images/Tours/indie_kayak.jpg">
+        <h2>History Wanderer (Waters of Change)</h2>
+      </div>
+      <div class="programmes__item__detail">
+        <ul>
+          <li><strong>Venue: Marina Bay, Kallang Basin</strong></li>
+          <li><strong>Organiser: Indie Singapore Tours LLP</strong></li>
+        </ul>
+      </div>
+      <div class="programmes__item__body">
+        <p>
+          Learn more about Singapore's water story as well as our quest for water resilience through this kayaking tour of the Marina Bay area and Kallang Basin.
+        </p>
+      </div>
+    </div>
+    <div class="programmes__item__actions">
+      <a class="button-primary" href="/waters-of-change-kayak-tour/">
+        Find out more
+      </a>
+    </div>
+  </div>	
+	<!--NEA Clean & Green Singapore Experiences -->
+		<div class="programmes__item col is-one-third">
+    <div class="programmes__item__wrapper">
+      <div class="programmes__item__header">
+        <img src="/images/Our%20Partners/Public%20Agencies/nationalenvironmentalagency.jpg">
+        <h2>Clean &amp; Green Singapore Experiences</h2>
+      </div>
+      <div class="programmes__item__detail">
+        <ul>
+          <li><strong>Organiser: National Environment Agency</strong></li>
+        </ul>
+      </div>
+      <div class="programmes__item__body">
+        <p>
+          Book learning journeys to Semakau landfill, waste-to-energy plant, and take part in various tours under Clean &amp; Green Singapore experiences from July to November 2023 to learn more about Singapore's sustainability efforts.
+        </p>
+      </div>
+    </div>
+    <div class="programmes__item__actions">
+      <a class="button-primary" href="/clean-and-green-singapore-experiences/">
+        Find out more
+      </a>
+    </div>
+  </div>
+	<!--Black Soldier Fly Eco Farm Tour-->
+	<div class="programmes__item col is-one-third">
+    <div class="programmes__item__wrapper">
+      <div class="programmes__item__header">
+        <img src="/images/Tours/otolith%20black%20soldier%20fly.jpg">
+        <h2>Black Soldier Fly Eco Farm Tour</h2>
+      </div>
+      <div class="programmes__item__detail">
+        <ul>
+          <li><strong>Organiser: Otolith Enrichment</strong></li>
+        </ul>
+      </div>
+      <div class="programmes__item__body">
+        <p>
+Visit Singapore’s first and biggest community-based circular ecosystem for sustainable food waste management and food production. Sustainability learning journeys and programs also available for shcool students and teachers.        </p>
+      </div>
+    </div>
+    <div class="programmes__item__actions">
+      <a class="button-primary" href="/black-soldier-fly/">
+        Find out more
+      </a>
+    </div>
+  </div>
+		<!-- Zero to Hero Food Sustainability Tour -->
+		<div class="programmes__item col is-one-third">
+    <div class="programmes__item__wrapper">
+      <div class="programmes__item__header">
+        <img src="https://www.gogreen.gov.sg/images/Tours/tribe-png.jpg">
+        <h2>Zero to Hero Food Sustainability Tour</h2>
+      </div>
+      <div class="programmes__item__detail">
+        <ul>
+          <li><strong>Organiser: Tribe Pte Ltd</strong></li>
+        </ul>
+      </div>
+      <div class="programmes__item__body">
+        <p>
+          Embark on a tour that engages both your mind and your senses! Learn more about the strange yet fascinating plants at the Gardens.
+        </p>
+      </div>
+    </div>
+    <div class="programmes__item__actions">
+      <a class="button-primary" href="/zero-to-hero-food-sustainability-tour/">
+        Find out more
+      </a>
+    </div>
+  </div>
+</div>
 </div>
                         </div>
                     </div>
