@@ -49,3 +49,4 @@ If you’re passionate about using technology to better lives of Singaporeans, w
 
 ### Interested To Work With Us?
 <a href="https://go.gov.sg/govtechcareers" target="_blank" style="background-color: #0A66C2; color: white; text-decoration: none; border-radius: 100px; padding-left: 20px; padding-right: 20px; padding-top:8px; padding-bottom:8px">Apply Now</a>
+<br>(Links to Careers portal)
