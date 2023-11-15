@@ -1,5 +1,5 @@
 collections:
-  connect-with-us:
+  get-involved:
     output: true
     order:
       - Join Our Communities/.keep
