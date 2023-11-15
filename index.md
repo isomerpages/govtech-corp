@@ -58,6 +58,7 @@ sections:
       description: Check out our efforts towards making lives better through
         innovative technology
       button: FIND OUT MORE
-      alt: Image alt text
+      alt: Tech for Public Good
       url: /digital-government-efforts/tech-for-public-good
+      image: /images/tracetogethertest1.jpg
 ---
