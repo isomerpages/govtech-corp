@@ -9,13 +9,17 @@ variant: markdown
 
 -  people who are passionate about change and shares the same values 
 - Talents to help build GovTech's capability - 5 capabilities
-- <font color="red"> To include any typical skillsets required here - need GT's input </font>
+- Include any required skillsets here
+
+---
 
 ### Our Hiring Process
 ![](/images/Placeholders/Screenshot_2023_11_10_at_9_56_05_AM.png)
  - Process shown in graphic timeline
  - [Apply, Interview, Discussion, Decision](https://govinsider.asia/intl-en/article/agile-bold-and-collaborative-are-key-govtech-values-ceo/) 
 
+ ---
+ 
 ### Hiring Right
 
 Our recipe for success at GovTech is hiring RIGHT! We need people who share the same excitement and passion – individuals who are excited about building the Government Tech Stack, and developing meaningful products, platforms, and solutions for the public good. 
@@ -23,6 +27,8 @@ Our recipe for success at GovTech is hiring RIGHT! We need people who share the 
 We win by keeping our hiring bar high. By hiring the best people, we can scale up our Smart Nation initiatives and drive public sector digital transformation as fast as we can. We are seeking talented individuals to build our capabilities in application development, data science &amp; artificial intelligence, cybersecurity, digital infrastructure, and sensors &amp; IoT.
 
 Because hiring well is important at GovTech, we want you to understand the nuts and bolts of our hiring process, so that you are prepared in your career journey. We don’t make the mistake of missing out hiring that great person.
+
+---
 
 ### Our Hiring Process
 
@@ -87,6 +93,9 @@ If you’re shortlisted after the phone interview, we’ll reach out and arrange
 2) If you’re selected for the position, we will contact you after the final interview with a verbal offer
 3) Thereafter, you can expect to start your adventure as a GovTechie.
 
+---
+
 
 ### Join Us Today!
 <a href="https://go.gov.sg/govtechcareers" target="_blank" style="background-color: #0A66C2; color: white; text-decoration: none; border-radius: 100px; padding-left: 20px; padding-right: 20px; padding-top:8px; padding-bottom:8px">Apply Now</a>
+<br> (Links to Career portal)
