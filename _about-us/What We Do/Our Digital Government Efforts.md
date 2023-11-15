@@ -13,8 +13,7 @@ variant: markdown
   <div style="text-align: center" class="col">
    <img alt="Tech for Public Good" src="/images/Placeholders/Screenshot_2023_11_10_at_12_20_50_PM.png">
 		<a href="https://www.tech.gov.sg/singapore-digital-government-journey/tech-for-public-good/" style="padding-top:20px"> <h5>Tech for Public Good</h5> </a> 	 	    
-      
-    <figcaption><h5></h5></figcaption>
+     
 		<div> How GovTech developed technologies that are not only tailored to the needs of our citizens and businesses but also empower them to achieve a greater quality of life. <br>
   </div>
 
