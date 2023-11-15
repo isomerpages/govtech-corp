@@ -11,9 +11,10 @@ variant: markdown
 <br>
 <div class="row">
   <div style="text-align: center" class="col">
-    <a target="_blank" href="https://www.tech.gov.sg/singapore-digital-government-journey/tech-for-public-good/">	 	    
-      <img alt="Tech for Public Good" src="/images/Placeholders/Screenshot_2023_11_10_at_12_20_50_PM.png"></a><br>
-    <figcaption><h5>Tech for Public Good</h5></figcaption>
+   <img alt="Tech for Public Good" src="/images/Placeholders/Screenshot_2023_11_10_at_12_20_50_PM.png">
+		<a href="https://www.tech.gov.sg/singapore-digital-government-journey/tech-for-public-good/" style="padding-top:20px"> <h5>Tech for Public Good</h5> </a> 	 	    
+      
+    <figcaption><h5></h5></figcaption>
 		<div> How GovTech developed technologies that are not only tailored to the needs of our citizens and businesses but also empower them to achieve a greater quality of life. <br>
 
 <a href="https://www.tech.gov.sg/singapore-digital-government-journey/tech-for-public-goods" target="\_blank" style="background-color: #0A66C2; color: white; text-decoration: none; border-radius: 100px; padding-left: 20px; padding-right: 20px; padding-top:8px; padding-bottom:8px">Learn More</a> </div>
@@ -103,5 +104,3 @@ variant: markdown
 		</div>
 </div>
 </div>
-
-
