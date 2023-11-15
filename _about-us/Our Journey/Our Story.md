@@ -82,7 +82,7 @@ transition: ease .5s;
 
 font-size: 1.5em;
 
-}``
+}
   
 
 label:hover {
@@ -190,7 +190,25 @@ display: block;
 
 </div>
 	
+<input id="title5" type="checkbox"><label for="title4">2010 - 2015</label>
 
+<div class="accordion-content">
+
+<p><b>2010 - Onemap:</b> An integrated online platform for government agencies to publish geospatial information and deliver map-based services.</p>
+
+<p><b>2011</b> - Launch of&nbsp;eGov2015 Masterplan&nbsp;with “Government with you” vision to bring service delivery beyond Government (2011 - 2015).
+
+Under the Masterplan, the mGov programme had some 300 feature-reach mobile services capable of sending timely information to citizens.</p>
+
+<p><b>2012</b> - The tender award was announced for G-Cloud, which will provide Government agencies with efficient, scalable and resilient cloud computing resources that meet different levels of security and governance requirements.</p>
+	
+<p><b>2013</b> - The Government launched a five-year National Cyber Security Masterplan 2018 to further secure Singapore’s cyber environment.</p>	
+
+<p><b>2014</b> - Announcement of the Smart Nation Platform, a technical architecture built by GovTech. This will bring together a nationwide sensor network and data analytics capabilities for better situational awareness.</p>
+
+<p><b>2015</b> - GovTech worked with the Municipal Services Office to develop the OneService app, which automatically sends feedback on various issues to the relevant agency, bringing about more timely response.</p>
+
+</div>
 	
 	
 	
