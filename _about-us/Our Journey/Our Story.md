@@ -5,19 +5,23 @@ description: ""
 third_nav_title: Our Journey
 variant: markdown
 ---
-### The Start of Digital Government Journey
-![Lorem Ipsum](/images/Screenshot_2023_11_10_at_9_56_05_AM.png)
-- Youtube Video: [Singapore’s Digital Government Story EP 1: In the Beginning](https://www.youtube.com/watch?v=1qJ8aQdDQvw)
-- Overview of start of the journey 
-- Timeline of when DGT plan, blueprint were created/founded 
-- The strategic National Project 
+### The Start of our Digital Government Journey
+<!--td {border: 1px solid #cccccc;}br {mso-data-placement:same-cell;}--><div class="bp-youtube">  
+  
+<iframe allowfullscreen="" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" frameborder="0" title="YouTube video player" src="https://www.youtube.com/embed/1qJ8aQdDQvw?si=dbMWMvdjakK11JUB" height="315" width="560"></iframe>  
+</div> 
+
+- Summary of how GovTech started as part of the strategic National Project. Watch our video series to learn more
 
 
 ### The Founding of GovTech
-- Brief history of when GovTech was founded 
-- Restructured from IMDA 
-- When the capabilities centers were formed to achieve mission 
-- Youtube Video: [Singapore’s Digital Government Story EP 2: Building Capabilities With Engineering Talent](https://youtu.be/TEmIuECWBHM)
+<!--td {border: 1px solid #cccccc;}br {mso-data-placement:same-cell;}--><div class="bp-youtube"> 
+	
+<iframe allowfullscreen="" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" frameborder="0" title="YouTube video player" src="https://www.youtube.com/embed/TEmIuECWBHM?si=BKdw842EnxAMBFQu" height="315" width="560"></iframe>
+	</div>
+	
+- Summary of how GovTech restructed from IMDA, when the capability centres were formed. Watch our video series to learn more
+
 
 ### GovTech Today
 
@@ -25,11 +29,7 @@ variant: markdown
 - How SGTS was created by GovTech to offer government agencies a better, smarter and faster way for building applications.
 - Youtube Video: Singapore’s Digital Government Story EP 3: The Singapore Government Technology Stack (SGTS)
 
-Since the arrival of the first personal computer in the 1980s, Singapore has embraced technology as a crucial engine of the economy and society. The early computerisation efforts of the government in the 1980s paved the way to becoming one of the world’s most connected countries today.
 
-In the 1990s, Singapore was among the first to have broadband links nationwide, while the 2000s saw the deployment of a fibre broadband network and wireless hotspots throughout the island. Over the years, Singapore has been awarded top marks in prestigious studies such as the World Economic Forum’s Global Information Report.
-
-The country’s infrastructure as well as government digital services are often recognised for its technological readiness. As Singapore continues to leverage on new technologies to digitally transform government digital services, there are lessons to share and much to learn from other countries that have developed new ways of improving the online experience for citizens. We share some of the notable awards and significant milestones that Singapore has garnered over the years. 
 
 --- 
 
