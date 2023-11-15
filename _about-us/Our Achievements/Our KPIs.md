@@ -21,7 +21,6 @@ About 1500 respondents were surveyed, comprising representatives of the total de
 
 ![Digital Government Perception Survey 2021 for Citizens by GovTech](/images/our-statistics/Digital-Government-Perception-2021-Citizens.png)
 
-<br>
 
 ---
 
