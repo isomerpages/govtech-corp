@@ -12,6 +12,8 @@ variant: markdown
 		<a id="organisational-structure-button" class="is-uppercase media-category-button"><b>Organisational Structure</b></a>
 	</span>
 </div>
+
+### Board of Directors
 <section class="bp-section">
 
 <div class="row margin--top padding--bottom">
@@ -20,11 +22,11 @@ variant: markdown
 
  <div class="text-card is-white">
 
-<img src="https://d33wubrfki0l68.cloudfront.net/6ed82908076c05532c54fffbf07f89ea867838c7/c4c87/images/solve.png" class="text-card-icon padding--bottom--sm">
+<img alt="Mr LEONG Weng Keong Joseph" src="/images/Placeholders/Screenshot_2023_11_10_at_12_20_50_PM.png" class="text-card-icon padding--bottom--sm">
 
- <h4 class="padding--top has-text-secondary padding--bottom"><b>Solve Real Problems</b></h4>
-
- <p>Work on meaningful projects from communications to healthcare. Use your skills to fix actual problems faced in the community, not just to optimise profit.</p>
+ <h5 class="padding--top has-text-secondary padding--bottom"><b>Mr LEONG Weng Keong Joseph</b></h5>
+	         <strong>Chairman</strong>
+ <p>Permanent Secretary (Smart Nation and Digital Government)</p>
 </div>
 
    </div>
@@ -61,7 +63,7 @@ variant: markdown
  </div>
 </section>
 
-### Board of Directors
+
 
 <div class="row">
     <div class="col is-4">
