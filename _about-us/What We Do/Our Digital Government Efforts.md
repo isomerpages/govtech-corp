@@ -17,6 +17,7 @@ variant: markdown
 - Cybersecurity
 - Diversity and Inclusion
 - Sustainability
+<br>  (Links to individual effort pages on https://www.tech.gov.sg/singapore-digital-government-journey/)
 
 
 <br>
