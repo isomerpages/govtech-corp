@@ -7,11 +7,7 @@ variant: markdown
 ---
 ### Why Join GovTech?
 
-* GovTech's value - be a part of the team that makes a positive impact on the nation (i.e. SingPass, Pandemic responses) 
-
-* highlight GovTech's expertise and capabilities 
-
-
+* Summary of key reasons to join with 
 
 
 ##### Be part of the team that makes positive impact on the nation
@@ -26,9 +22,10 @@ We use technology to improve the lives of everyday Singaporeans – tackling rea
 We need people who share the same excitement and passion – individuals who are excited about building the Government Tech Stack, and developing meaningful products, platforms, and solutions for the public good.
 
 
-##### Join our culture
+##### Join our diverse culture
 ![](/images/Placeholders/Screenshot_2023_11_10_at_9_56_05_AM.png)
-Agile. Bold. Collaborative. We are growing in ways we may never have predicted. We are challenging ourselves to innovate. We are seeking collaborators to co-create. Join us, and help build the next impactful solution for our citizens and businesses.
+Agile. Bold. Collaborative. We are growing in ways we may never have predicted. We are challenging ourselves to innovate. We are seeking collaborators to co-create. Join us, and help build the next impactful solution for our citizens and businesses. 
+<br>(Link to About us &gt; Who We Are)
 
 ---
 
