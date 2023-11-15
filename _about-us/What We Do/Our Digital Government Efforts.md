@@ -13,7 +13,7 @@ variant: markdown
 
 <div class="row">
   <div style="text-align: center" class="col">
-    <a target="_blank" href="/tech-for-public-good">
+    <a target="_blank" href="/digital-government-efforts/tech-for-public-good">
       <img alt="Tech for Public Good" src="/images/digital-transformation/01-Tech for Public Good.png"></a>
     <figcaption><b>Tech for Public Good</b></figcaption>
   </div>
