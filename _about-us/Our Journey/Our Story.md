@@ -7,10 +7,11 @@ variant: markdown
 ---
 ### The Start of Digital Government Journey
 ![Lorem Ipsum](/images/Screenshot_2023_11_10_at_9_56_05_AM.png)
+- Youtube Video: [Singapore’s Digital Government Story EP 1: In the Beginning](https://www.youtube.com/watch?v=1qJ8aQdDQvw)
 - Overview of start of the journey 
 - Timeline of when DGT plan, blueprint were created/founded 
 - The strategic National Project 
-- Youtube Video: [Singapore’s Digital Government Story EP 1: In the Beginning](https://www.youtube.com/watch?v=1qJ8aQdDQvw)
+
 
 ### The Founding of GovTech
 - Brief history of when GovTech was founded 
