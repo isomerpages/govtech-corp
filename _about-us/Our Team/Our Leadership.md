@@ -23,7 +23,7 @@ variant: markdown
 							<b>Mr LEONG Weng Keong Joseph</b><br>
 							<small style="font-size: 0.75rem" class="is-uppercase">Chairman</small><br>
 						</p>
-						<h6 class="is-marginless margin--top--xs"><b>Permanent Secretary (Smart Nation and Digital Government)</b></h6>
+						<small class="is-marginless margin--top--xs"><b>Permanent Secretary (Smart Nation and Digital Government)</b></small>
 					</div>
 				</div>
 			</div><div class="col is-half person-info-card padding--right">
@@ -34,7 +34,7 @@ variant: markdown
 							<b>Mr GOH Wei Boon</b><br>
 							<small style="font-size: 0.75rem" class="is-uppercase">Chief Executive</small><br>
 						</p>
-						<h6 class="is-marginless margin--top--xs"><b>Government Technology Agency of Singapore</b></h6>
+						<small class="is-marginless margin--top--xs"><b>Government Technology Agency of Singapore</b></small>
 					</div>
 				</div>
 			</div><div class="col is-half person-info-card padding--right">
@@ -45,7 +45,7 @@ variant: markdown
 							<b>Mr Augustin LEE</b><br>
 							<small style="font-size: 0.75rem" class="is-uppercase">Deputy Chairman</small><br>
 						</p>
-						<h6 class="is-marginless margin--top--xs"><b>Second Permanent Secretary (Smart Nation and Digital Government Group)</b></h6>
+						<small class="is-marginless margin--top--xs"><b>Second Permanent Secretary (Smart Nation and Digital Government Group)</b></small>
 					</div>
 				</div>
 			</div><div class="col is-half person-info-card padding--right">
@@ -56,51 +56,51 @@ variant: markdown
 							<b>Mr Bojan BLECIC</b><br>
 							<small style="font-size: 0.75rem" class="is-uppercase">Senior Vice President / Head of Experience Design</small><br>
 						</p>
-						<h6 class="is-marginless margin--top--xs"><b>OCBC Bank</b></h6>
+						<small class="is-marginless margin--top--xs"><b>OCBC Bank</b></small>
 					</div>
 				</div>
 			</div><div class="col is-half person-info-card padding--right">
 				<div class="row margin--bottom--xs margin--right">
-					<div class="col is-one-third image-col"><img src="https://d33wubrfki0l68.cloudfront.net/6148c052c10ab0f1123ee7ff532e98f163b63b71/a3e89/images/our-team/derrick_goh.jpg" class="margin--right--none"></div>
+					<div class="col is-one-third image-col"><img src="/images/Placeholders/Screenshot_2023_11_10_at_12_20_50_PM.png" class="margin--right--none"></div>
 					<div class="col padding--top padding--bottom bg-table-grey">
 						<p class="is-marginless padding--top--sm">
 							<b>Mr Derrick GOH</b><br>
 							<small style="font-size: 0.75rem" class="is-uppercase">Managing Director and Head of Group Audit</small><br>
 						</p>
-						<h6 class="is-marginless margin--top--xs"><b>DBS Bank</b></h6>
+						<small class="is-marginless margin--top--xs"><b>DBS Bank</b></small>
 					</div>
 				</div>
 			</div><div class="col is-half person-info-card padding--right">
 				<div class="row margin--bottom--xs margin--right">
-					<div class="col is-one-third image-col"><img src="https://d33wubrfki0l68.cloudfront.net/e9d93fcf46d1e332571dd4c725555102f4f3bdbb/b7b51/images/our-team/lesly-goh.jpg" class="margin--right--none"></div>
+					<div class="col is-one-third image-col"><img src="/images/Placeholders/Screenshot_2023_11_10_at_12_20_50_PM.png" class="margin--right--none"></div>
 					<div class="col padding--top padding--bottom bg-table-grey">
 						<p class="is-marginless padding--top--sm">
 							<b>Ms Lesly GOH</b><br>
 							<small style="font-size: 0.75rem" class="is-uppercase">Senior Technology Advisor</small><br>
 						</p>
-						<h6 class="is-marginless margin--top--xs"><b>World Bank</b></h6>
+						<small class="is-marginless margin--top--xs"><b>World Bank</b></small>
 					</div>
 				</div>
 			</div><div class="col is-half person-info-card padding--right">
 				<div class="row margin--bottom--xs margin--right">
-					<div class="col is-one-third image-col"><img src="https://d33wubrfki0l68.cloudfront.net/8c38c1c57b9021bc77344303ad082e2803e864e4/1d331/images/our-team/ho_teck_hua.jpg" class="margin--right--none"></div>
+					<div class="col is-one-third image-col"><img src="/images/Placeholders/Screenshot_2023_11_10_at_12_20_50_PM.png" class="margin--right--none"></div>
 					<div class="col padding--top padding--bottom bg-table-grey">
 						<p class="is-marginless padding--top--sm">
 							<b>Prof HO Teck Hua</b><br>
 							<small style="font-size: 0.75rem" class="is-uppercase">President</small><br>
 						</p>
-						<h6 class="is-marginless margin--top--xs"><b>Nanyang Technological University (NTU), Singapore</b></h6>
+						<small class="is-marginless margin--top--xs"><b>Nanyang Technological University (NTU), Singapore</b></small>
 					</div>
 				</div>
 			</div><div class="col is-half person-info-card padding--right">
 				<div class="row margin--bottom--xs margin--right">
-					<div class="col is-one-third image-col"><img src="https://d33wubrfki0l68.cloudfront.net/7b2773fda5e8dc157ed0ba1a818c451719c2ff1e/79895/images/our-team/melissa-khoo.jpg" class="margin--right--none"></div>
+					<div class="col is-one-third image-col"><img src="/images/Placeholders/Screenshot_2023_11_10_at_12_20_50_PM.png" class="margin--right--none"></div>
 					<div class="col padding--top padding--bottom bg-table-grey">
 						<p class="is-marginless padding--top--sm">
 							<b>Ms Melissa KHOO</b><br>
 							<small style="font-size: 0.75rem" class="is-uppercase">Deputy Secretary (Higher Education and Skills)</small><br>
 						</p>
-						<h6 class="is-marginless margin--top--xs"><b>Ministry of Education</b></h6>
+						<small class="is-marginless margin--top--xs"><b>Ministry of Education</b></small>
 					</div>
 				</div>
 			</div><div class="col is-half person-info-card padding--right">
@@ -625,6 +625,3 @@ variant: markdown
 			</div>
 </div>
 </div>
-
-
-
