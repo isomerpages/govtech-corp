@@ -59,5 +59,5 @@ sections:
         innovative technology
       button: FIND OUT MORE
       alt: Image alt text
-      url: www.tech.gov.sg/connect-with-us/join-our-communities/overview/
+      url: /digital-government-efforts/tech-for-public-good
 ---
