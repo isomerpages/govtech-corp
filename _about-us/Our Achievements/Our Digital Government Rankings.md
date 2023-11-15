@@ -14,7 +14,6 @@ Published biennially, the [United Nations e-Government Survey](https://publicadm
 
 In 2022, Singapore ranked 12th in the world. Denmark and Finland were the top two leading countries in e-government development.
 
-<br>
 
 ---
 
@@ -25,7 +24,6 @@ The [IMD Smart Cities Index](https://www.imd.org/wp-content/uploads/2023/04/smar
 
 In 2023, Singapore ranked 7th in the world. Zurich, Oslo, and Canberra were the top three cities respectively.
 
-<br>
 
 ---
 
