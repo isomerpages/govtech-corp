@@ -15,92 +15,92 @@ variant: markdown
 <h3 id="board-of-directors"> Board of Directors </h3>
 
 <div class="content">
-	<div style="display: flex;" id="board-of-directors" class="row is-multiline padding--bottom--lg"><div class="col is-half person-info-card padding--right">
+	<div id="board-of-directors" class="row is-multiline padding--bottom--lg"><div class="col is-half person-info-card padding--right">
 				<div class="row margin--bottom--xs margin--right">
-					<div class="col is-one-third image-col"><img src="/images/Placeholders/Screenshot_2023_11_10_at_12_20_50_PM.png" class="margin--right--none"></div>
+					<div class="col is-one-third image-col"><img src="https://d33wubrfki0l68.cloudfront.net/b76e662ce43ba1d0a9bac8d36ba85893e0749933/c96d1/images/our-team/ps-joseph-leong.jpg" class="margin--right--none"></div>
 					<div class="col padding--top padding--bottom bg-table-grey">
-						<p class="is-marginless padding--top--xs">
+						<p class="is-marginless padding--top--sm">
 							<b>Mr LEONG Weng Keong Joseph</b><br>
 							<small style="font-size: 0.75rem" class="is-uppercase">Chairman</small><br>
 						</p>
-						<small style="font-size: 0.75rem" class="is-marginless margin--top--xs"><b>Permanent Secretary (Smart Nation and Digital Government)</b></small>
+						<h6 class="is-marginless margin--top--xs"><b>Permanent Secretary (Smart Nation and Digital Government)</b></h6>
 					</div>
 				</div>
 			</div><div class="col is-half person-info-card padding--right">
 				<div class="row margin--bottom--xs margin--right">
-					<div class="col is-one-third image-col"><img src="/images/Placeholders/Screenshot_2023_11_10_at_12_20_50_PM.png" class="margin--right--none"></div>
+					<div class="col is-one-third image-col"><img src="https://d33wubrfki0l68.cloudfront.net/2297c609167d27a5b747513b9308fe4b1576d2dd/65ffd/images/our-team/goh_wei_boon.png" class="margin--right--none"></div>
 					<div class="col padding--top padding--bottom bg-table-grey">
-						<p class="is-marginless padding--top--xs">
+						<p class="is-marginless padding--top--sm">
 							<b>Mr GOH Wei Boon</b><br>
 							<small style="font-size: 0.75rem" class="is-uppercase">Chief Executive</small><br>
 						</p>
-						<small style="font-size: 0.75rem" class="is-marginless margin--top--xs"><b>Government Technology Agency of Singapore</b></small>
+						<h6 class="is-marginless margin--top--xs"><b>Government Technology Agency of Singapore</b></h6>
 					</div>
 				</div>
 			</div><div class="col is-half person-info-card padding--right">
 				<div class="row margin--bottom--xs margin--right">
-					<div class="col is-one-third image-col"><img src="/images/Placeholders/Screenshot_2023_11_10_at_12_20_50_PM.png" class="margin--right--none"></div>
+					<div class="col is-one-third image-col"><img src="https://d33wubrfki0l68.cloudfront.net/290b2930f0659ae0d92e184d63412bbdc64808fc/526c3/images/our-team/augustin_lee.jpg" class="margin--right--none"></div>
 					<div class="col padding--top padding--bottom bg-table-grey">
-						<p class="is-marginless padding--top--xs">
+						<p class="is-marginless padding--top--sm">
 							<b>Mr Augustin LEE</b><br>
 							<small style="font-size: 0.75rem" class="is-uppercase">Deputy Chairman</small><br>
 						</p>
-						<small style="font-size: 0.75rem" class="is-marginless margin--top--xs"><b>Second Permanent Secretary (Smart Nation and Digital Government Group)</b></small>
+						<h6 class="is-marginless margin--top--xs"><b>Second Permanent Secretary (Smart Nation and Digital Government Group)</b></h6>
 					</div>
 				</div>
 			</div><div class="col is-half person-info-card padding--right">
 				<div class="row margin--bottom--xs margin--right">
-					<div class="col is-one-third image-col"><img src="/images/Placeholders/Screenshot_2023_11_10_at_12_20_50_PM.png" class="margin--right--none"></div>
+					<div class="col is-one-third image-col"><img src="https://d33wubrfki0l68.cloudfront.net/3d1416c7509b0651db642657afcdd5f3152c0e09/72a24/images/our-team/bojan-blecic.jpg" class="margin--right--none"></div>
 					<div class="col padding--top padding--bottom bg-table-grey">
 						<p class="is-marginless padding--top--sm">
 							<b>Mr Bojan BLECIC</b><br>
 							<small style="font-size: 0.75rem" class="is-uppercase">Senior Vice President / Head of Experience Design</small><br>
 						</p>
-						<small class="is-marginless margin--top--xs"><b>OCBC Bank</b></small>
+						<h6 class="is-marginless margin--top--xs"><b>OCBC Bank</b></h6>
 					</div>
 				</div>
 			</div><div class="col is-half person-info-card padding--right">
 				<div class="row margin--bottom--xs margin--right">
-					<div class="col is-one-third image-col"><img src="/images/Placeholders/Screenshot_2023_11_10_at_12_20_50_PM.png" class="margin--right--none"></div>
+					<div class="col is-one-third image-col"><img src="https://d33wubrfki0l68.cloudfront.net/6148c052c10ab0f1123ee7ff532e98f163b63b71/a3e89/images/our-team/derrick_goh.jpg" class="margin--right--none"></div>
 					<div class="col padding--top padding--bottom bg-table-grey">
 						<p class="is-marginless padding--top--sm">
 							<b>Mr Derrick GOH</b><br>
 							<small style="font-size: 0.75rem" class="is-uppercase">Managing Director and Head of Group Audit</small><br>
 						</p>
-						<small class="is-marginless margin--top--xs"><b>DBS Bank</b></small>
+						<h6 class="is-marginless margin--top--xs"><b>DBS Bank</b></h6>
 					</div>
 				</div>
 			</div><div class="col is-half person-info-card padding--right">
 				<div class="row margin--bottom--xs margin--right">
-					<div class="col is-one-third image-col"><img src="/images/Placeholders/Screenshot_2023_11_10_at_12_20_50_PM.png" class="margin--right--none"></div>
+					<div class="col is-one-third image-col"><img src="https://d33wubrfki0l68.cloudfront.net/e9d93fcf46d1e332571dd4c725555102f4f3bdbb/b7b51/images/our-team/lesly-goh.jpg" class="margin--right--none"></div>
 					<div class="col padding--top padding--bottom bg-table-grey">
 						<p class="is-marginless padding--top--sm">
 							<b>Ms Lesly GOH</b><br>
 							<small style="font-size: 0.75rem" class="is-uppercase">Senior Technology Advisor</small><br>
 						</p>
-						<small class="is-marginless margin--top--xs"><b>World Bank</b></small>
+						<h6 class="is-marginless margin--top--xs"><b>World Bank</b></h6>
 					</div>
 				</div>
 			</div><div class="col is-half person-info-card padding--right">
 				<div class="row margin--bottom--xs margin--right">
-					<div class="col is-one-third image-col"><img src="/images/Placeholders/Screenshot_2023_11_10_at_12_20_50_PM.png" class="margin--right--none"></div>
+					<div class="col is-one-third image-col"><img src="https://d33wubrfki0l68.cloudfront.net/8c38c1c57b9021bc77344303ad082e2803e864e4/1d331/images/our-team/ho_teck_hua.jpg" class="margin--right--none"></div>
 					<div class="col padding--top padding--bottom bg-table-grey">
 						<p class="is-marginless padding--top--sm">
 							<b>Prof HO Teck Hua</b><br>
 							<small style="font-size: 0.75rem" class="is-uppercase">President</small><br>
 						</p>
-						<small class="is-marginless margin--top--xs"><b>Nanyang Technological University (NTU), Singapore</b></small>
+						<h6 class="is-marginless margin--top--xs"><b>Nanyang Technological University (NTU), Singapore</b></h6>
 					</div>
 				</div>
 			</div><div class="col is-half person-info-card padding--right">
 				<div class="row margin--bottom--xs margin--right">
-					<div class="col is-one-third image-col"><img src="/images/Placeholders/Screenshot_2023_11_10_at_12_20_50_PM.png" class="margin--right--none"></div>
+					<div class="col is-one-third image-col"><img src="https://d33wubrfki0l68.cloudfront.net/7b2773fda5e8dc157ed0ba1a818c451719c2ff1e/79895/images/our-team/melissa-khoo.jpg" class="margin--right--none"></div>
 					<div class="col padding--top padding--bottom bg-table-grey">
 						<p class="is-marginless padding--top--sm">
 							<b>Ms Melissa KHOO</b><br>
 							<small style="font-size: 0.75rem" class="is-uppercase">Deputy Secretary (Higher Education and Skills)</small><br>
 						</p>
-						<small class="is-marginless margin--top--xs"><b>Ministry of Education</b></small>
+						<h6 class="is-marginless margin--top--xs"><b>Ministry of Education</b></h6>
 					</div>
 				</div>
 			</div><div class="col is-half person-info-card padding--right">
@@ -193,7 +193,7 @@ variant: markdown
 				</div>
 			</div></div>
 
-	<div style="display: none;" id="senior-leadership" class="row is-multiline padding--bottom--lg"><div class="col is-half person-info-card padding--right">
+	<div id="senior-leadership" class="row is-multiline padding--bottom--lg"><div class="col is-half person-info-card padding--right">
 				<div class="row margin--bottom--xs margin--right">
 					<div class="col is-one-third image-col"><img src="https://d33wubrfki0l68.cloudfront.net/2297c609167d27a5b747513b9308fe4b1576d2dd/65ffd/images/our-team/goh_wei_boon.png" class="margin--right--none"></div>
 					<div class="col padding--top padding--bottom bg-table-grey">
@@ -447,12 +447,12 @@ variant: markdown
 					</div>
 				</div>
 			</div></div>
-	<div style="display: none;" id="organisational-structure"><div class="col is-large bp-accordion-header padding has-icons-right field has-addons is-marginless">
+	<div id="organisational-structure"><div class="col is-large bp-accordion-header padding has-icons-right field has-addons is-marginless">
 				<div class="col is-expanded is-fullwidth is-paddingless">
 					<h5 class="has-text-grey-dark is-marginless"><b>CE Office</b></h5>
 				</div>
-				<span class="sgds-icon is-size-4 bp-accordion-button sgds-icon-minus"></span>
-			</div><div style="display: block;" class="col padding bp-accordion-body" id="accordion-body-0">
+				<span class="sgds-icon sgds-icon-plus is-size-4 bp-accordion-button"></span>
+			</div><div class="col padding bp-accordion-body" id="accordion-body-0">
 				<div style="width: 100%" class="bp-container is-full padding--top--lg padding--bottom">
         			<div class="row is-multiline"></div>
 				</div>
@@ -460,8 +460,8 @@ variant: markdown
 				<div class="col is-expanded is-fullwidth is-paddingless">
 					<h5 class="has-text-grey-dark is-marginless"><b>Corporate</b></h5>
 				</div>
-				<span class="sgds-icon is-size-4 bp-accordion-button sgds-icon-minus"></span>
-			</div><div style="display: block;" class="col padding bp-accordion-body" id="accordion-body-1">
+				<span class="sgds-icon sgds-icon-plus is-size-4 bp-accordion-button"></span>
+			</div><div class="col padding bp-accordion-body" id="accordion-body-1">
 				<div style="width: 100%" class="bp-container is-full padding--top--lg padding--bottom">
         			<div class="row is-multiline"><div class="col is-4 padding--right--xl padding--bottom">
 								<div class="margin--top--none">Strategy, People &amp; Organisation</div>
@@ -481,8 +481,8 @@ variant: markdown
 				<div class="col is-expanded is-fullwidth is-paddingless">
 					<h5 class="has-text-grey-dark is-marginless"><b>Product Management</b></h5>
 				</div>
-				<span class="sgds-icon is-size-4 bp-accordion-button sgds-icon-minus"></span>
-			</div><div style="display: block;" class="col padding bp-accordion-body" id="accordion-body-2">
+				<span class="sgds-icon sgds-icon-plus is-size-4 bp-accordion-button"></span>
+			</div><div class="col padding bp-accordion-body" id="accordion-body-2">
 				<div style="width: 100%" class="bp-container is-full padding--top--lg padding--bottom">
         			<div class="row is-multiline"><div class="col is-4 padding--right--xl padding--bottom">
 								<div class="margin--top--none">Technology Management Office</div>
@@ -500,8 +500,8 @@ variant: markdown
 				<div class="col is-expanded is-fullwidth is-paddingless">
 					<h5 class="has-text-grey-dark is-marginless"><b>Product Development</b></h5>
 				</div>
-				<span class="sgds-icon is-size-4 bp-accordion-button sgds-icon-minus"></span>
-			</div><div style="display: block;" class="col padding bp-accordion-body" id="accordion-body-3">
+				<span class="sgds-icon sgds-icon-plus is-size-4 bp-accordion-button"></span>
+			</div><div class="col padding bp-accordion-body" id="accordion-body-3">
 				<div style="width: 100%" class="bp-container is-full padding--top--lg padding--bottom">
         			<div class="row is-multiline"><div class="col is-4 padding--right--xl padding--bottom">
 								<div class="margin--top--none">Data Science and Artificial Intelligence Division</div>
