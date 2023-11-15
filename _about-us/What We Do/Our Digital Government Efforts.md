@@ -67,7 +67,7 @@ variant: markdown
 
   <div style="text-align: center" class="col">
     <a target="_blank" href="/singapore-digital-government-journey/sustainability">
-      <img alt="Sustainability" src="/images/digital-transformation/09-Sustainability.png"></a>
+      <img alt="Sustainability" src="/images/digital-transformation/Sustainability.png"></a>
     <figcaption><b>Sustainability</b></figcaption>
   </div>
 </div>
