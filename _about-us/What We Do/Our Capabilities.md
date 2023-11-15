@@ -34,7 +34,7 @@ Our capability centres were established to strengthen Public Sector engineering 
 
 ### Interested To Work for Our Capabilities?
 
-Our team is always searching for like minded people to achieve shared goal of improving citizen life. If you have a similar purpose, check out our job opportunities below! 
+Our team is always searching for like minded people to achieve shared goal of improving citizen life. If you have a similar purpose, check out our job opportunities below! (Link to careers portal)
 
 
 <a href="https://go.gov.sg/govtechcareers" target="\_blank" style="background-color: #0A66C2; color: white; text-decoration: none; border-radius: 100px; padding-left: 20px; padding-right: 20px; padding-top:8px; padding-bottom:8px">Apply Now</a>
