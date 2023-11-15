@@ -7,22 +7,25 @@ variant: markdown
 ---
 ### Why Join GovTech?
 
-* Summary of key reasons to join with 
+* Summary of key reasons to join 
 
 
-##### Be part of the team that makes positive impact on the nation
+#### Be part of the team that makes positive impact on the nation
 ![](/images/Placeholders/Screenshot_2023_11_10_at_9_56_05_AM.png)
-Photograph from current GovTechies 
-&gt; "Quote from GovTechie" 
+Photograph from current GovTechies
+##### "We sense the needs of our nation and innocate solutions to connect and benefit our people"  
+<h6> -- Goh Kok Boon, Sensors and Internet of Things Division</h6>
 
 We use technology to improve the lives of everyday Singaporeans – tackling real-world problems of transport, housing, security, healthcare, and the environment. We are working hard every day to design and build solutions that will make a difference to the citizens and businesses. It thrills us to know that our work can impact lives. 
 
 ##### Grow with GovTech's expertise and capabilities
 ![](/images/Placeholders/Screenshot_2023_11_10_at_9_56_05_AM.png)
+##### "We sense the needs of our nation and innocate solutions to connect and benefit our people"  
+<h6> -- Goh Kok Boon, Sensors and Internet of Things Division</h6>
 We need people who share the same excitement and passion – individuals who are excited about building the Government Tech Stack, and developing meaningful products, platforms, and solutions for the public good.
 
 
-##### Join our diverse culture
+#### Join our diverse culture
 ![](/images/Placeholders/Screenshot_2023_11_10_at_9_56_05_AM.png)
 Agile. Bold. Collaborative. We are growing in ways we may never have predicted. We are challenging ourselves to innovate. We are seeking collaborators to co-create. Join us, and help build the next impactful solution for our citizens and businesses. 
 <br>(Link to About us &gt; Who We Are)
