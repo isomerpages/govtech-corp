@@ -12,6 +12,54 @@ variant: markdown
 		<a id="organisational-structure-button" class="is-uppercase media-category-button"><b>Organisational Structure</b></a>
 	</span>
 </div>
+<section class="bp-section">
+
+<div class="row margin--top padding--bottom">
+
+<div class="col is-one-third">
+
+ <div class="text-card is-white">
+
+<img src="https://d33wubrfki0l68.cloudfront.net/6ed82908076c05532c54fffbf07f89ea867838c7/c4c87/images/solve.png" class="text-card-icon padding--bottom--sm">
+
+ <h4 class="padding--top has-text-secondary padding--bottom"><b>Solve Real Problems</b></h4>
+
+ <p>Work on meaningful projects from communications to healthcare. Use your skills to fix actual problems faced in the community, not just to optimise profit.</p>
+</div>
+
+   </div>
+
+<div class="col is-one-third">
+
+<div class="text-card is-white">
+
+<img src="https://d33wubrfki0l68.cloudfront.net/7a314efda6ba38ecea71e62cfe6cad55f84b40c8/699a6/images/build.png" class="text-card-icon padding--bottom--sm">
+
+ <h4 class="padding--top has-text-secondary padding--bottom"><b>Build for the User</b></h4>
+
+ <p>Design and build products based on what real people actually need, whether they are members of the public or public servants.</p>
+
+</div>
+
+  
+
+</div>
+
+<div class="col is-one-third">
+
+ <div class="text-card is-white">
+
+ <img src="https://d33wubrfki0l68.cloudfront.net/c0e37cb5ce14f755b988d28f402fa03c539f30c3/17598/images/push.png" class="text-card-icon padding--bottom--sm">
+
+ <h4 class="padding--top has-text-secondary padding--bottom"><b>Push For Change</b></h4>
+
+<p>Actively prototype and evangelize ideas to make real things happen. Work around or cut through bureaucracy.</p>
+
+ </div>
+
+</div>
+ </div>
+</section>
 
 ### Board of Directors
 
