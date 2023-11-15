@@ -34,19 +34,13 @@ Because hiring well is important at GovTech, we want you to understand the nuts 
 
 <div class="col is-large bp-accordion-header padding has-icons-right field has-addons is-marginless">
 		<div class="col is-expanded is-fullwidth is-paddingless">
-			<h5 class="has-text-grey-dark is-marginless"><b>Apply try</b></h5>
+			<h5 class="has-text-grey-dark is-marginless"><b>1980-1989</b></h5>
 		</div>
 		<span class="sgds-icon sgds-icon-plus is-size-4 bp-accordion-button"></span>
-	</div> 
-	<div style="display: block;" class="col padding bp-accordion-body" id="accordion-body-0"><h3 class="margin--top--none padding--top"><b>1980</b></h3><p class="margin--top--none"><b>Civil Service Computerisation Programme:</b> The start of Singapore’s public sector infocomm journey, seeking to enhance operational efficiency via the adoption of infocomm technology.</p><hr style="margin-top: 28px"><h3 class="margin--top--none padding--top"><b>1989</b></h3><p class="margin--top--none"><b>TradeNet:</b> Convenient and easy-to-use documentation processing and clearance platform for the trade and logistics community.</p><br>
+	</div>
+	<div class="col padding bp-accordion-body" id="accordion-body-0"><h3 class="margin--top--none padding--top"><b>1980</b></h3><p class="margin--top--none"><b>Civil Service Computerisation Programme:</b> The start of Singapore’s public sector infocomm journey, seeking to enhance operational efficiency via the adoption of infocomm technology.</p><hr style="margin-top: 28px"><h3 class="margin--top--none padding--top"><b>1989</b></h3><p class="margin--top--none"><b>TradeNet:</b> Convenient and easy-to-use documentation processing and clearance platform for the trade and logistics community.</p><br>
 	</div>
 	
-<div class="col is-large bp-accordion-header padding has-icons-right field has-addons is-marginless">
-		<div class="col is-expanded is-fullwidth is-paddingless">
-			<h5 class="has-text-grey-dark is-marginless"><b>1990-1999</b></h5>
-		</div>
-		<span class="sgds-icon is-size-4 bp-accordion-button sgds-icon-minus"></span>
-	</div>
 	
 Paper applications are passé. Electronic applications save paper and reduce our carbon footprint at the same time.
 
