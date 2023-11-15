@@ -5,12 +5,10 @@ description: ""
 third_nav_title: What We Do
 variant: markdown
 ---
-* What are our digital government efforts
-* How it helps achieve our vision, mission and values
-* How it works alongside our capabilities
+#### Our digital government efforts are aligned with the&nbsp;Digital Government Blueprint (DGB) a statement of the Government’s ambition to better leverage data, harness new technologies, and drive broader efforts to build a digital economy and society. 
 
-###### Our digital government efforts can be classified into these few areas:
-
+###### These efforts help support the larger Smart Nation vision, and can be classified into these few areas:
+<br>
 <div class="row">
   <div style="text-align: center" class="col">
     <a target="_blank" href="https://www.tech.gov.sg/singapore-digital-government-journey/tech-for-public-good/">	 	    
@@ -105,3 +103,5 @@ variant: markdown
 		</div>
 </div>
 </div>
+
+
