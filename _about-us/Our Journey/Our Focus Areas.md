@@ -30,6 +30,11 @@ Based on the DGB, GovTech plans to achieve the following goals by 2023:
 - Singapore Green Plan's goal by 2045 
 - How GovTech aims to achieve goal - 6 Key Pillars to enable change 
 - Success measurements and ways to optimisation
+
+##### Read more about our Green Plan here
+
+<a href="https://go.gov.sg/govtechcareers" target="\_blank" style="background-color: #0A66C2; color: white; text-decoration: none; border-radius: 100px; padding-left: 20px; padding-right: 20px; padding-top:8px; padding-bottom:8px">Read more</a>
+
 <br> 
 
 ---
@@ -37,3 +42,6 @@ Based on the DGB, GovTech plans to achieve the following goals by 2023:
 ![](/images/Placeholders/Screenshot_2023_11_10_at_9_56_05_AM.png)
 - Hair for Hope 
 - Digital4Good
+
+##### Read more about our CSR efforts here
+<a href="https://go.gov.sg/govtechcareers" target="\_blank" style="background-color: #0A66C2; color: white; text-decoration: none; border-radius: 100px; padding-left: 20px; padding-right: 20px; padding-top:8px; padding-bottom:8px">Read more</a>
