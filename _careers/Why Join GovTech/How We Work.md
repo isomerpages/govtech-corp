@@ -32,7 +32,7 @@ We celebrate success together. We respect one another. We seek to build a positi
 
 We provide generous leave benefits to meet your needs for a balanced work and family life. Work from home or exercise if you need to. Productivity is higher than forcing you to sit at your desks and crank out work. We trust that you will get the job done wherever you are, and whatever works best for you.
 
-#### Our Culture and Values
+##### Our Culture and Values
 
 Innovation is a way of life at GovTech.  We think big, start small, and learn from failing fast.  We have programmes to empower our GovTechies spark collaboration and drive innovative projects for public good.
 Our Agile, Bold, and Collaborative values unite us from different teams in delivering the business outcomes in a growth-oriented workplace.  They drive what we build for our citizens, businesses, and public officers.
