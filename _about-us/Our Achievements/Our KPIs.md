@@ -5,8 +5,7 @@ description: ""
 third_nav_title: Our Achievements
 variant: markdown
 ---
-- How DGB shapes how GovTech measure success of their products
-- DGB targets by 2023 i.e. Citizen satisfaction and business satisfaction with digital services.
+##### Summary of how DGB shapes how GovTech measure success of their products and targets by 2023 i.e. Citizen satisfaction and business satisfaction with digital services.
 
 ### Annual Survey on Satisfaction with Government Digital Services (Citizens) - For 2021
 
