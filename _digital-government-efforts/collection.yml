@@ -3,7 +3,6 @@ collections:
     output: true
     order:
       - ai-and-data-driven-government.md
-      - singapore-digital-government-journey.md
       - citizen-engagement-and-cocreation.md
       - cybersecurity.md
       - digital-identity.md
