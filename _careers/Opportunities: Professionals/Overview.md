@@ -20,7 +20,7 @@ Overview of different tracks/career paths for professionals
 ![](/images/Placeholders/Screenshot_2023_11_10_at_9_56_05_AM.png)
 
 ### Hear from our GovTechies
-&gt; Testimonials / quotes from current employees
+##### Testimonials / quotes from current employees
 
 ### Interested? Check out our job offerings! 
 
