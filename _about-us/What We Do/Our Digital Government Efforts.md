@@ -11,9 +11,12 @@ variant: markdown
 ###### Our digital government efforts can be classified into these few areas:
 <div class="row">
   <div style="text-align: center" class="col">
-    <a target="_blank" href="https://vt.tiktok.com/ZSN8VE2VD/">	 	    
-      <img alt="Co-creating with citizens around Singapore" src="/images/Placeholders/Screenshot_2023_11_10_at_12_20_50_PM.png"></a>
-		<figcaption><p></p><h5> Tech for Public Good</h5><p></p></figcaption>
+    <a target="_blank" href="https://www.tech.gov.sg/singapore-digital-government-journey/tech-for-public-good/">	 	    
+      <img alt="Co-creating with citizens around Singapore" src="/images/Placeholders/Screenshot_2023_11_10_at_12_20_50_PM.png"></a><br>
+    <figcaption><b>Tech for Public Good</b></figcaption>
+		<div> How GovTech developed technologies that are not only tailored to the needs of our citizens and businesses but also empower them to achieve a greater quality of life. <br>
+
+<a href="https://www.tech.gov.sg/singapore-digital-government-journey/tech-for-public-goods" target="\_blank" style="background-color: #0A66C2; color: white; text-decoration: none; border-radius: 100px; padding-left: 20px; padding-right: 20px; padding-top:8px; padding-bottom:8px">Learn More</a> </div>
   </div>
 
   <div style="text-align: center" class="col">
