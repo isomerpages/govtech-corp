@@ -16,10 +16,18 @@ variant: markdown
 
 <div class="row"> <div class="col is-6"> <img src="/images/Placeholders/Screenshot_2023_11_10_at_9_56_05_AM.png"> </div> <div class="col is-6"> <p> <strong>Public Sector Transformation (PST) Awards </strong></p> <br> Rewarding public officers and public agencies for excellence in their work and organisational practices, and inspire more officers and agencies to pursue PST practices. </div> </div>
 
+<br>
+
+---
+
 ### Our Product Awards
 - How GovTech's products and platforms has been gaining recognition within Singapore
 
 <div class="row"> <div class="col is-6"> <img src="/images/Placeholders/Screenshot_2023_11_10_at_9_56_05_AM.png"> </div> <div class="col is-6"> <p> <strong>SGFinDex Wins Most Innovative Use of Data</strong></p> <br> GovTech's efforts in pushing for Digital Transformation at the INSPIRE Tech Awards </div> </div> 
+
+<br>
+
+---
 
 ### Interested To work With Us?
 
