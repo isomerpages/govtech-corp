@@ -13,6 +13,7 @@ variant: markdown
 </div>
 
 <h3 id="board-of-directors"> Board of Directors </h3>
+<br>
 
 <div class="content">
 	<div id="board-of-directors" class="row is-multiline padding--bottom--lg"><div class="col is-half person-info-card padding--right">
@@ -627,6 +628,7 @@ variant: markdown
 </div>
 
 <h3 id="seniorleadership">Senior Leadership</h3>
+<br>
 
 <div class="content">
 	<div style="display: none;" id="board-of-directors" class="row is-multiline padding--bottom--lg"><div class="col is-half person-info-card padding--right">
