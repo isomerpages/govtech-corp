@@ -19,33 +19,33 @@ variant: markdown
 				<div class="row margin--bottom--xs margin--right">
 					<div class="col is-one-third image-col"><img src="/images/Placeholders/Screenshot_2023_11_10_at_12_20_50_PM.png" class="margin--right--none"></div>
 					<div class="col padding--top padding--bottom bg-table-grey">
-						<p class="is-marginless padding--top--sm">
+						<p class="is-marginless padding--top--xs">
 							<b>Mr LEONG Weng Keong Joseph</b><br>
 							<small style="font-size: 0.75rem" class="is-uppercase">Chairman</small><br>
 						</p>
-						<small class="is-marginless margin--top--xs"><b>Permanent Secretary (Smart Nation and Digital Government)</b></small>
+						<small style="font-size: 0.75rem" class="is-marginless margin--top--xs"><b>Permanent Secretary (Smart Nation and Digital Government)</b></small>
 					</div>
 				</div>
 			</div><div class="col is-half person-info-card padding--right">
 				<div class="row margin--bottom--xs margin--right">
 					<div class="col is-one-third image-col"><img src="/images/Placeholders/Screenshot_2023_11_10_at_12_20_50_PM.png" class="margin--right--none"></div>
 					<div class="col padding--top padding--bottom bg-table-grey">
-						<p class="is-marginless padding--top--sm">
+						<p class="is-marginless padding--top--xs">
 							<b>Mr GOH Wei Boon</b><br>
 							<small style="font-size: 0.75rem" class="is-uppercase">Chief Executive</small><br>
 						</p>
-						<small class="is-marginless margin--top--xs"><b>Government Technology Agency of Singapore</b></small>
+						<small style="font-size: 0.75rem" class="is-marginless margin--top--xs"><b>Government Technology Agency of Singapore</b></small>
 					</div>
 				</div>
 			</div><div class="col is-half person-info-card padding--right">
 				<div class="row margin--bottom--xs margin--right">
 					<div class="col is-one-third image-col"><img src="/images/Placeholders/Screenshot_2023_11_10_at_12_20_50_PM.png" class="margin--right--none"></div>
 					<div class="col padding--top padding--bottom bg-table-grey">
-						<p class="is-marginless padding--top--sm">
+						<p class="is-marginless padding--top--xs">
 							<b>Mr Augustin LEE</b><br>
 							<small style="font-size: 0.75rem" class="is-uppercase">Deputy Chairman</small><br>
 						</p>
-						<small class="is-marginless margin--top--xs"><b>Second Permanent Secretary (Smart Nation and Digital Government Group)</b></small>
+						<small style="font-size: 0.75rem" class="is-marginless margin--top--xs"><b>Second Permanent Secretary (Smart Nation and Digital Government Group)</b></small>
 					</div>
 				</div>
 			</div><div class="col is-half person-info-card padding--right">
