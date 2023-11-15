@@ -10,9 +10,11 @@ variant: markdown
 - How GovTech tries to promote broader participation and acknowledging the valuable contributions of citizens and private organisations.
 
 
-<div class="row"> <div class="col is-6"> <img src="/images/Placeholders/Screenshot_2023_11_10_at_9_56_05_AM.png"> </div> <div class="col is-6"> <p> <strong>The Digital Services Awards </strong></p> <br> an annual event dedicated to recognising exceptional digital service standards. </div> </div>
+<div class="row"> <div class="col is-6"> <img src="/images/Placeholders/Screenshot_2023_11_10_at_9_56_05_AM.png"> </div> <div class="col is-6"> <p> <strong>The Digital Services Awards </strong></p> <br> An annual event dedicated to recognising exceptional digital service standards. </div> </div>
 
 <div class="row"> <div class="col is-6"> <img src="/images/Placeholders/Screenshot_2023_11_10_at_9_56_05_AM.png"> </div> <div class="col is-6"> <p> <strong>  IDC Future Enterprise 2023 Special Award for Sustainability</strong></p> <br> GovTech's efforts in advancing the adoption of greener hosting options through data centre consolidation, cloud migration, and workload optimisation was recently recognised by the IDC.  </div> </div> 
+
+<div class="row"> <div class="col is-6"> <img src="/images/Placeholders/Screenshot_2023_11_10_at_9_56_05_AM.png"> </div> <div class="col is-6"> <p> <strong>Public Sector Transformation (PST) Awards </strong></p> <br> Rewarding public officers and public agencies for excellence in their work and organisational practices, and inspire more officers and agencies to pursue PST practices. </div> </div>
 
 ### Our Product Awards
 - How GovTech's products and platforms has been gaining recognition within Singapore
