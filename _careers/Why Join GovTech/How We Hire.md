@@ -32,21 +32,32 @@ Because hiring well is important at GovTech, we want you to understand the nuts 
 
 ### Our Hiring Process
 
- ##### Apply
-
-Paper applications are passé. Electronic applications save paper and reduce our carbon footprint at the same time.
+<div class="col is-large bp-accordion-header padding has-icons-right field has-addons is-marginless">
+		<div class="col is-expanded is-fullwidth is-paddingless">
+			<h5 class="has-text-grey-dark is-marginless"><b>Apply</b></h5>
+		</div>
+		<span class="sgds-icon sgds-icon-plus is-size-4 bp-accordion-button"></span>
+	</div>
+	<div class="col padding bp-accordion-body" id="accordion-body-0"><h3 class="margin--top--none padding--top"><b>1980</b></h3><p class="margin--top--none"><b>Paper applications are passé. Electronic applications save paper and reduce our carbon footprint at the same time.
 
 If there’s an available role here that excites you, one that puts your skills to good use and lets you grow professionally, apply for it! (Electronically of course.)
 
-**Focus on your CV** <br>
-Make it easy to read: <br>
-* Select a clean format which is logical and easy to read<br>
+**Focus on your CV** 
+Make it easy to read: 
+* Select a clean format which is logical and easy to read
 *  Make good use of bold and italic typefaces to highlight accomplishments
     
-**Put across accomplishments, not job descriptions**<br>
-* Share what you did in your role, not what the role was about<br>
+**Put across accomplishments, not job descriptions**
+* Share what you did in your role, not what the role was about
 * Quantify and qualify your accomplishments - List accomplishments unique to you, not a list of what someone else or your contribution to a team. Highlight the benefits incurred as a result of what you did<br>
-*  Include all the relevant certifications in your CV
+	*  Include all the relevant certifications in your CV<br>
+	
+	</b></p><hr style="margin-top: 28px"><h3 class="margin--top--none padding--top"><b><b>1989</b></b></h3><p class="margin--top--none"><b><b>TradeNet:</b> Convenient and easy-to-use documentation processing and clearance platform for the trade and logistics community.</b></p><b><br>
+	</b></div><b>
+
+ ##### Apply
+
+
 
  ##### Interview
 
@@ -98,4 +109,4 @@ If you’re shortlisted after the phone interview, we’ll reach out and arrange
 
 ### Join Us Today!
 <a href="https://go.gov.sg/govtechcareers" target="_blank" style="background-color: #0A66C2; color: white; text-decoration: none; border-radius: 100px; padding-left: 20px; padding-right: 20px; padding-top:8px; padding-bottom:8px">Apply Now</a>
-<br> (Links to Career portal)
+<br> (Links to Career portal)</b>
