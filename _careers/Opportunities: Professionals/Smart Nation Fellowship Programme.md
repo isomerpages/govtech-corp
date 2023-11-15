@@ -26,11 +26,6 @@ variant: markdown
 ---
 
 ### Hear from our Fellows
-
-
-<div class="row"> <div class="col is-4"> <img alt="Application Design, Development &amp; Deployment" src="/images/Placeholders/Screenshot_2023_11_10_at_12_20_50_PM.png"> </div> <div class="col is-8"> <p class="title is-4">Paul Piong</p> <strong> Staff Firmware Engineer, Tesla</strong> 
-	<br> From his three-month stint with our Sensors &amp; IoT team, Paul leveraged dedicated short-range communications (DSRC) systems, and developed a proof-of-concept to improve the location accuracy of global positioning system (GPS) technology. The enhanced accuracy of GPS could be used to improve road safety. </div> </div> 
-
 ![Smart Nation Fellowship Fellows](/images/careers/Smart_Nation_Fellowship_Group2.png)
 * [Paul Piong, Staff Firmware Engineer, Tesla](#paul-piong)<br>
 * [Hunter Nield, Founder, Acaleph](#hunter-nield)<br>
@@ -39,6 +34,21 @@ variant: markdown
 * [U-Zyn Chua, Principal Consultant, Zynesis](#uzyn-chua)<br>
 * [Arun Kishore, Product Analyst, YouTube](#arun-kishore)<br>
 * [Gregor Hohpe, Enterprise Strategist, Amazon Web Services](#gregor-hohpe)<br>
+
+
+<div class="row"> <div class="col is-4"> <img alt="Application Design, Development &amp; Deployment" src="/images/Placeholders/Screenshot_2023_11_10_at_12_20_50_PM.png"> </div> <div class="col is-8"> <p class="title is-4">Paul Piong</p> <strong> Staff Firmware Engineer, Tesla</strong> 
+	<br> From his three-month stint with our Sensors &amp; IoT team, Paul leveraged dedicated short-range communications (DSRC) systems, and developed a proof-of-concept to improve the location accuracy of global positioning system (GPS) technology. The enhanced accuracy of GPS could be used to improve road safety. </div> </div> 
+	
+<div class="row"> <div class="col is-4"> <img alt="Application Design, Development &amp; Deployment" src="/images/Placeholders/Screenshot_2023_11_10_at_12_20_50_PM.png"> </div> <div class="col is-8"> <p class="title is-4">Paul Piong</p> <strong> Staff Firmware Engineer, Tesla</strong> 
+	<br> From his three-month stint with our Sensors &amp; IoT team, Paul leveraged dedicated short-range communications (DSRC) systems, and developed a proof-of-concept to improve the location accuracy of global positioning system (GPS) technology. The enhanced accuracy of GPS could be used to improve road safety. </div> </div> 
+	
+<div class="row"> <div class="col is-4"> <img alt="Application Design, Development &amp; Deployment" src="/images/Placeholders/Screenshot_2023_11_10_at_12_20_50_PM.png"> </div> <div class="col is-8"> <p class="title is-4">Paul Piong</p> <strong> Staff Firmware Engineer, Tesla</strong> 
+	<br> From his three-month stint with our Sensors &amp; IoT team, Paul leveraged dedicated short-range communications (DSRC) systems, and developed a proof-of-concept to improve the location accuracy of global positioning system (GPS) technology. The enhanced accuracy of GPS could be used to improve road safety. </div> </div> 
+	
+<div class="row"> <div class="col is-4"> <img alt="Application Design, Development &amp; Deployment" src="/images/Placeholders/Screenshot_2023_11_10_at_12_20_50_PM.png"> </div> <div class="col is-8"> <p class="title is-4">Paul Piong</p> <strong> Staff Firmware Engineer, Tesla</strong> 
+	<br> From his three-month stint with our Sensors &amp; IoT team, Paul leveraged dedicated short-range communications (DSRC) systems, and developed a proof-of-concept to improve the location accuracy of global positioning system (GPS) technology. The enhanced accuracy of GPS could be used to improve road safety. </div> </div> 
+
+
 
 
 #### Paul Piong
