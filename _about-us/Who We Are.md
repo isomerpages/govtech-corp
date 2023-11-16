@@ -29,4 +29,4 @@ The ABC of being at GovTech - what it means to be Agile, Bold and Collaborative:
 
 Inspired by nature, the dynamic and agile logo reflects the movement of a murmuration of starlings, shifting synchronously to adapt and respond to the evolving environment. Reflecting GovTech's positioning – Empowering Our nation with possibilities, realised through innovation of technology and engineering. 
 
-![GovTech logo gif](/images/About%20Us/Govtech_logo_animated_small.gif)
+![GovTech logo cyan inline](/images/About%20Us/GovTechSg_Inline_Logo_2_Cyan.jpg)
