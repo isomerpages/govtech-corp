@@ -6,8 +6,9 @@ breadcrumb: FormSG
 collection_name: products-and-services
 tag: government
 thumbnail_image: /images/programmes/products-and-services/FormSG.png
+variant: markdown
 ---
-[FormSG](https://form.gov.sg/#!/) is a form builder tool that enables public officers to create digital government forms in minutes, replacing the use of paper forms.
+[FormSG](https://form.gov.sg/) is a form builder tool that enables public officers to create digital government forms in minutes, replacing the use of paper forms.
                                                                                       
 **Benefits to public officers and citizens**
 
