@@ -6,6 +6,7 @@ breadcrumb: Networked Trade Platform
 collection_name: products-and-services
 tag: business
 thumbnail_image: /images/programmes/products-and-services/test1.jpg
+variant: markdown
 ---
 <div class="bp-youtube">
   <iframe width="560" height="315" src="https://www.youtube.com/embed/IqsHu3rK7p8" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen=""></iframe>
@@ -20,4 +21,4 @@ The NTP was the winner in the e-business category of the World Summit on the Inf
 
 Officially launched in 2018, the NTP is part of government’s efforts in driving industry-wide digital transformation.
 
-For more information, please visit the [Networked Trade Platform](https://www.ntp.gov.sg/){:target="_blank"}.
+For more information, please visit the [Networked Trade Platform](https://www.ntp.gov.sg/).
