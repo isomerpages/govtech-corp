@@ -3,9 +3,9 @@ title: TechNews Newsletter
 permalink: /get-involved/stay-informed/technews-newsletter/
 description: ""
 third_nav_title: Stay Informed
-variant: tiptap
+variant: markdown
 ---
-![Image of TechNews](https://d33wubrfki0l68.cloudfront.net/1a641c70cd44a129a6f979edd891e20f8dfcdc4f/00ff9/images/technews/technews-logo.png)
+![TechNews ](/images/Get%20Involved/technews_logo.png)
 
 #### **Welcome to the TechNews community!**
 
