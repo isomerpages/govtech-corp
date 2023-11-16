@@ -6,11 +6,9 @@ breadcrumb: Responding to COVID-19-with-tech
 collection_name: products-and-services
 tag: citizens
 thumbnail_image: /images/programmes/products-and-services/COVID_tech.png
+variant: markdown
 ---
-![hero](/images/Thumbnail.jpg)
-
 The Government has progressively built up the digital infrastructure and engineering capabilities as the foundation of our Smart Nation. These enable us to respond decisively and swiftly to the COVID-19 outbreak with a suite of digital tools to help disseminate timely and accurate information to Singaporeans, and to enable our fellow agencies to better manage the crisis.
----
 
 ### **Ask Jamie chatbot**
 
@@ -25,8 +23,7 @@ In addition to the Gov.sg and Ministry of Health websites, citizens are also abl
  - [go.gov.sg/askjamiebotfbm](https://www.go.gov.sg/askjamiebotfbm)
  - [go.gov.sg/askjamiebottg](https://www.go.gov.sg/askjamiebottg)
  
- ![covid](/images/askjamie-covid.png)
- 
+
 ### **COVID-19 Chat for Biz**
 This chatbot addresses questions from businesses related to COVID-19, including information on measures to help businesses in Budget 2020.
  
@@ -49,7 +46,7 @@ FluGoWhere is a website to conveniently and easily search through a list of Publ
 Citizens can access the website via [www.FluGoWhere.gov.sg](https://www.FluGoWhere.gov.sg).
 
 The website is developed by GovTech in collaboration with the Ministry of Health (MOH) and the Public Health Preparedness Clinics.
-![MGW](/images/programmes/products-and-services/fgw.png)
+
 
 ### **Gov.sg WhatsApp**
 
@@ -66,27 +63,22 @@ The website is developed by the Government Technology Agency (GovTech) in collab
 
 (*The mask collection exercise has concluded as of 29 February 2020.*)
 
-![MGW](/images/programmes/products-and-services/mgw.png)
  
 ### **Leave of Absence &amp; Stay-Home Notice Tracking Solution**
 
 The Leave of Absence &amp; Stay-Home Notice Tracking Solution is a SMS and mobile web-based solution that allows people serving out their Leave of Absence (LOA) or Stay-Home Notice (SHN) to report their locations to the Ministry of Manpower quickly and accurately.
  
 The solution is developed by GovTech.
-![covid](/images/shn-covid.jpg)
 
 ### **SafeEntry**
 
 Developed by GovTech, SafeEntry is a national digital check-in system that logs the name, NRIC and mobile number of individuals visiting hotspots and venues providing essential services, as well as the information of people working at places providing essential services.
 
 SafeEntry is used for contact tracing and data verification through (1) scanning of QR codes or (2) scanning of NRIC at hotspots and high traffic locations. Businesses who are interested to use SafeEntry with QR scanning can refer to [www.go.gov.sg/safeentry](https://www.ndi-api.gov.sg/safeentry) for the automated self-registration process.
-![covid-safeentry](/images/programmes/products-and-services/safeentry.png)
 
 ### **Self-help Temperature Scanner**
 
 As organisations implement temperature scanning as a COVID-19 safeguard prior to entry to buildings/offices, GovTech developed a self-help temperature scanner using existing contactless off-the-shelf battery-operated infrared thermometer and other off-the-shelf materials. The thermometer is retrofitted with a motion-sensing camera and a power source to enable it to do a temperature scan without human intervention. This system is being progressively deployed to Government Buildings and community facilities.
-
-![TraceTogerther](/images/Volunteers.jpg)
 
 ### **TraceTogether**
  
