@@ -33,7 +33,7 @@ variant: markdown
 
 <div class="row">
   <div style="text-align: center" class="col">
-     <a target="_blank" href="/singapore-digital-government-journey/ai-and-data-driven-government">
+     <a target="_blank" href="/digital-government-efforts/ai-and-data-driven-government/">
       <img alt="AI and Data Driven Government" src="/images/about-us/what-we-do/Data_Driven_Gov_AI.png"></a>
     <figcaption><b>AI and Data Driven Government</b></figcaption>
   </div>
