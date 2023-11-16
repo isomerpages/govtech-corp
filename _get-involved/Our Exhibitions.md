@@ -2,7 +2,7 @@
 title: Our Exhibitions
 permalink: /get-involved/our-exhibitions/
 description: ""
-variant: tiptap
+variant: markdown
 ---
 Visit the three Smart Nation Showcases to learn about Singapore’s Smart Nation journey and various digital government initiatives.
 
@@ -13,11 +13,11 @@ Visit the three Smart Nation Showcases to learn about Singapore’s Smart Nation
 
 ### **Smart Nation Builder**
 
-![Smart Nation Builder](/images/programmes/products-and-services/SNB_Logo_Colouredv2.png)
+![SNB logo](/images/Get%20Involved/snb_logo.png)
 
 The Smart Nation Builder is a roving exhibition with interactive game stations for members of the public to learn more about Singapore’s tech initiatives and digital Government services. It is also a platform for citizens to provide input and feedback on how to improve our products and services.
 
-![Smart Nation Builder](/images/programmes/products-and-services/SNB-Infographic.jpg)
+![SNB infographic](/images/Get%20Involved/SNB_Infographic.jpg)
 
 That’s not all. At the Smart Nation Builder, you can be the first to test prototypes of our new products and services. *Entry is free of charge.*
 
@@ -53,36 +53,36 @@ Catch the Smart Nation Builder at these locations!
 
 ### **Smart Nation CityScape**
 
-![Smart Nation CityScape](/images/programmes/products-and-services/Cityscape1.jpg)
+![Cityscape](/images/Get%20Involved/Cityscape.jpg)
 
 Learn all about what makes Singapore a Smart Nation, with this exhibition that has been integrated within the Singapore City Gallery. Interact with a series of exhibits and displays to discover the various ways digital technology powers our city and daily lives, improving the way we live, work and play!
 
 **Where:** 45 Maxwell Road, The URA Centre, Singapore 069118
 <br>**When:** Mondays to Saturdays - 9am to 5pm
-<br>Sign up for a Cityscape tour at: [go.gov.sg/cityscape](https://go.gov.sg/cityscape){:target="_blank"}
+<br>Sign up for a Cityscape tour at: [go.gov.sg/cityscape](https://go.gov.sg/cityscape)
 
 Entry is free of charge.
 
-View the [CityScape Visitor's Guide](/files/products-and-services/smart_nation_cityscape_visitor_guide.pdf){:target="_blank"}.
+View the [CityScape Visitor's Guide](/files/products-and-services/smart_nation_cityscape_visitor_guide.pdf)
 
 ### **Smart Nation PlayScape**
 
-![Smart Nation PlayScape](/images/programmes/products-and-services/Playscape.PNG)
+![Playscape](/images/Get%20Involved/Playscape.PNG)
 
-Jointly developed by the Smart Nation and Digital Government Group and [Science Centre Singapore](https://www.science.edu.sg/){:target="_blank"}, Smart Nation PlayScape features a wide variety of digital technologies behind Singapore’s Smart Nation journey.
+Jointly developed by the Smart Nation and Digital Government Group and [Science Centre Singapore](https://www.science.edu.sg/), Smart Nation PlayScape features a wide variety of digital technologies behind Singapore’s Smart Nation journey.
 
 Through gamified interactives, complex technological concepts are broken down and brought to life. People of all ages can experience and see the benefits that digitalisation has to offer. The exhibition consists of eight zones with interactives for guests to explore and experience these technologies in a fun and engaging way.
 
 **Where:** Science Centre Singapore, 15 Science Centre Road (Singapore 609081).
-<br>**When:** Visit [www.science.edu.sg/visit-us/opening-hours](https://www.science.edu.sg/visit-us/opening-hours){:target="_blank"} to view opening hours.
-<br>More details at: [go.gov.sg/playscape](https://go.gov.sg/playscape){:target="_blank"}
+<br>**When:** Visit [www.science.edu.sg/visit-us/opening-hours](https://www.science.edu.sg/visit-us/opening-hours) to view opening hours.
+<br>More details at: [go.gov.sg/playscape](https://go.gov.sg/playscape)
 
 Entry is free of charge for Singaporeans/Singapore PRs.
 
-View the [PlayScape Visitor's Guide](/files/products-and-services/playscape_visitor_guide.pdf){:target="_blank"}.
+View the [PlayScape Visitor's Guide](/files/products-and-services/playscape_visitor_guide.pdf).
 
 #### Visit our showcases!
 
-For collaboration opportunities or enquiries, contact: [info@tech.gov.sg](info@tech.gov.sg){:target="_blank"}
+For collaboration opportunities or enquiries, contact: [info@tech.gov.sg](info@tech.gov.sg)
 
-*Smart Nation Builder [Terms of Use](/smart-nation-builder/snb-terms-of-use/){:target="_blank"} and [Privacy Statement](/smart-nation-builder/snb-privacy-statement/){:target="_blank"}.*
+*Smart Nation Builder [Terms of Use](/smart-nation-builder/snb-terms-of-use/) and [Privacy Statement](/smart-nation-builder/snb-privacy-statement/).*
