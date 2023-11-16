@@ -2,7 +2,6 @@ collections:
   business-products:
     output: true
     order:
-      - business-grants-portal.md
       - corppass.md
       - gobusiness-portal.md
       - national-trade-platform.md
