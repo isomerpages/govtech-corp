@@ -3,9 +3,9 @@ title: "For Citizens: CrowdTaskSG"
 permalink: /get-involved/join-our-communities/crowdtasksg/
 description: ""
 third_nav_title: Join Our Communities
-variant: tiptap
+variant: markdown
 ---
-![CrowdTaskSG Logo](/images/programmes/products-and-services/CTSG_banner.jpg)
+![CrowdTaskSG header](/images/Get%20Involved/crowdtasksg%20header.jpg)
 
 CrowdTaskSG is a crowdsourcing web portal that aims to tap the collective intelligence of Singaporeans regarding national issues to provide actionable insights to government agencies. 
 
@@ -25,15 +25,15 @@ From its inception, the portal has since developed many key features, which incl
 
 Citizens can earn experience points (XPs) when they complete tasks and surveys. XPs can be used to level up their ranks from Stone, Bronze, Silver, Gold and finally, Platinum. These would eventually help prepare citizens for the upcoming leaderboard feature, whereby they will be able to see where they stand amongst other fellow Singaporeans.
 
-![CrowdTaskSG - Complete Tasks](/images/programmes/products-and-services/CTSG_complete_tasks.png)
-
-![CrowdTaskSG - Rise up the Ranks](/images/programmes/products-and-services/CTSG_rise_ranks.png)
+![CTSG rise up the ranks](/images/Get%20Involved/CTSG_rise_ranks.png)
 
 ### Incentivisation
 
 From completing tasks, citizens can earn virtual coins too. These coins can then be accumulated to redeem rewards such as vouchers. The more surveys and tasks a citizen completes, the more they will be rewarded. In the future, the portal will be looking to expand its range of rewards to include cash straight into citizens’ GovWallet accounts.
 
 ![CrowdTaskSG - Redeem](/images/programmes/products-and-services/CTSG_redeem.png)
+
+![CTSG redeem](/images/Get%20Involved/CTSG_redeem.png)
 
 CrowdTaskSG offers citizen users various opportunities to share opinions and feedback with government agencies. 
 
@@ -53,4 +53,4 @@ The CrowdTaskSG team is also looking to include more variety of tasks, including
 
 ### Join us in shaping our future!
 
-For citizens who wish to play a part in shaping our nation's future, join us now by creating an account at [https://www.crowdtask.gov.sg/](https://www.crowdtask.gov.sg/){:target="_blank"}!
+For citizens who wish to play a part in shaping our nation's future, join us now by creating an account at [https://www.crowdtask.gov.sg/](https://www.crowdtask.gov.sg/)!
