@@ -12,11 +12,7 @@ Two years after the launch of the DGB, the Government has introduced new policie
 
 Based on the DGB, GovTech plans to achieve the following goals by 2023:
 
-<figure style="text-align: center">
-  <img src="/images/digital-transformation/Fig-4-Singapore-digital-government-goals.png" alt="Fig 4: Singapore’s Digital Government Goals (to be achieved by 2023)">
-  <figcaption>Fig 4: Singapore’s Digital Government Goals (to be achieved by 2023)</figcaption>
-</figure>
-
+![](/images/Digital%20Gov%20Efforts/Fig-4-Singapore-digital-government-goals.png)
 
 ##### Read more about our Digital Government Blueprint here
 
