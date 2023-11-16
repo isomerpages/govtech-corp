@@ -12,13 +12,16 @@ variant: markdown
 
 
 ### What you can gain from the programme
-![Technology Associate Programme Overview](https://d33wubrfki0l68.cloudfront.net/0bace77361a91bfdd62573a1864377bb2d805f66/5f96a/images/careers/tap-infographic-v2.png)
+
+
+![Technology Associate Programme](/images/careers/TAP_Infographic.png)
+
+
 TAP aims to bring out the best in you, both technically and professionally. You will be groomed and nurtured to build in-depth expertise in the technology domain of your choice, solve nationwide problems with our technology leaders, and ultimately make an impact on the lives of people in Singapore.
 
 Be empowered with the autonomy to define your own career growth in a supportive, friendly and inclusive environment. You will embark on an exciting journey where you will receive both career and technical mentorship from our senior leaders and experienced GovTechies, connect with like-minded technology enthusiasts in your cohort, and get access to exclusive developmental opportunities from our People and Organisation Division throughout the two years.
 
 The power to decide your future is in your hands. Chart your career with our Technology Associate Programme!
-
 
 
 ### Read about past Tech Associate’s experiences:
