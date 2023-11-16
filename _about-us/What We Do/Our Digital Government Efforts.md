@@ -46,7 +46,7 @@ variant: markdown
   </div>
 
   <div style="text-align: center" class="col">
-    <a target="_blank" href="/singapore-digital-government-journey/wog-platforms-and-tools">
+    <a target="_blank" href="/digital-government-efforts/whole-of-government-platforms-and-tools">
       <img alt="WOG Platforms and Tools" src="/images/About%20Us/What%20We%20Do/WOG_Platforms.png"></a>
     <figcaption><b>WOG Platforms and Tools</b></figcaption>
   </div>
@@ -54,22 +54,20 @@ variant: markdown
 
 <div class="row">
   <div style="text-align: center" class="col">
-    <a target="_blank" href="/singapore-digital-government-journey/cybersecurity">
+    <a target="_blank" href="/digital-government-efforts/cybersecurity">
       <img alt="Cybersecurity" src="/images/About%20Us/What%20We%20Do/Cybersecurity.png"></a>
     <figcaption><b>Cybersecurity</b></figcaption>
   </div>
 
   <div style="text-align: center" class="col">
-    <a target="_blank" href="/singapore-digital-government-journey/diversity-and-inclusion">
+    <a target="_blank" href="/digital-government-efforts/diversity-and-inclusion">
       <img alt="Diversity and Inclusion" src="/images/About%20Us/What%20We%20Do/Diversity_Inclusion.png"></a>
     <figcaption><b>Diversity and Inclusion</b></figcaption>
   </div>
 
   <div style="text-align: center" class="col">
-    <a target="_blank" href="/singapore-digital-government-journey/sustainability">
+    <a target="_blank" href="/digital-government-efforts/sustainability">
       <img alt="Sustainability" src="/images/About%20Us/What%20We%20Do/Sustainability.png"></a>
     <figcaption><b>Sustainability</b></figcaption>
   </div>
 </div>
-
-
