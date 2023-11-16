@@ -25,13 +25,13 @@ From its inception, the portal has since developed many key features, which incl
 
 Citizens can earn experience points (XPs) when they complete tasks and surveys. XPs can be used to level up their ranks from Stone, Bronze, Silver, Gold and finally, Platinum. These would eventually help prepare citizens for the upcoming leaderboard feature, whereby they will be able to see where they stand amongst other fellow Singaporeans.
 
+![CTSG complete tasks](/images/Get%20Involved/CTSG_complete_tasks.png)
+
 ![CTSG rise up the ranks](/images/Get%20Involved/CTSG_rise_ranks.png)
 
 ### Incentivisation
 
 From completing tasks, citizens can earn virtual coins too. These coins can then be accumulated to redeem rewards such as vouchers. The more surveys and tasks a citizen completes, the more they will be rewarded. In the future, the portal will be looking to expand its range of rewards to include cash straight into citizens’ GovWallet accounts.
-
-![CrowdTaskSG - Redeem](/images/programmes/products-and-services/CTSG_redeem.png)
 
 ![CTSG redeem](/images/Get%20Involved/CTSG_redeem.png)
 
