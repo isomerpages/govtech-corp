@@ -5,7 +5,6 @@ description: ""
 third_nav_title: Students and Graduates
 variant: markdown
 ---
-
 ### What is Smart Nation Scholarship and who is it for?
 The Smart Nation Scholarship develops and nurtures talent who have a passion for technology, and the ambition to propel our nation towards its goal of digital transformation.
 
@@ -13,7 +12,7 @@ The Smart Nation Scholarship develops and nurtures talent who have a passion for
 
 Offered by GovTech, as well as the Cyber Security Agency of Singapore and Infocomm Media Development Authority, the Smart Nation Scholarship gives talented individuals the opportunity to embark on a dynamic career in technology that contributes to the public good.
 
-![Smart Nation Scholarship Overview](https://d33wubrfki0l68.cloudfront.net/e9b09929983f470ad4c7def1eb408168356511d0/2794e/images/careers/sns_infographic.png)
+![Smart Nation Scholarship](/images/careers/SNS_Infographic.png)
 
 ### What to expect from the scholarship?
 
