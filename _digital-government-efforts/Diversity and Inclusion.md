@@ -16,10 +16,6 @@ We believe that tech should be for everyone.
 
 ---
 
-![Designing Inclusive Digital Services for Everyone](/images/digital-transformation/Designing_inclusive_digital_services_for_everyone_header_banner.png)
-
----
-
 Every year, Singapore’s government digital services undergo a round of Usability Checks (UC) conducted by GovTech, via a Mystery Shopper concept. Through the UCs, all digital services are rated against a set of criteria, which includes its accessibility requirements. The score cards of the digital services are then shared across the whole-of-government, spurring agencies to uplift the standard of their digital services.
 
 Through these efforts, the satisfaction rating for our citizen and business services have improved over the years. This is illustrated in the 2020 Satisfaction Survey for Government to Citizen (G2C) and Government to Business (G2B) services where we achieved a score of 86% and 76% respectively. This is a 7% increase in both scores compared to 2018’s survey results.
