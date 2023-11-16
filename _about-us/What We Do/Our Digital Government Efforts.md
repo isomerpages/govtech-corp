@@ -73,9 +73,3 @@ variant: markdown
 </div>
 
 
-
-
-<br>
-![](/images/Placeholders/Screenshot_2023_11_15_at_11_07_04_AM.png)
-![](/images/Placeholders/Screenshot_2023_11_15_at_11_07_04_AM.png)
-![](/images/Placeholders/Screenshot_2023_11_15_at_11_07_04_AM.png)
