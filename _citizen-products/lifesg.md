@@ -6,8 +6,9 @@ breadcrumb: LifeSG
 collection_name: products-and-services
 tag: citizens
 thumbnail_image: /images/programmes/products-and-services/lifesg-header.jpg
+variant: markdown
 ---
-![LifeSG](/images/programmes/products-and-services/lifesg-header.jpg)
+![LifeSG header](/images/Products%20and%20Services/lifesg-header.jpg)
 
 LifeSG (formerly Moments of Life) is one of the Strategic National Projects under Singapore’s Smart Nation initiative. Aimed at providing a suite of services to support citizens’ needs at key junctures by integrating and bundling services across government agencies. It was first made available as a mobile application in June 2018 to support families with young children below six years old.
 
@@ -18,11 +19,11 @@ LifeSG offers users more ready access to digital government services through the
 
 * **Explore Services** – Citizens can explore and easily access more than 70 Government services (up from 12 services previously featured on the app). Information displayed is grouped according to topics of interest, such as family and parenting, work and employment, healthcare, housing and property, and other frequently-used digital services. More services will be added progressively.
 
-![LifeSG - Services](/images/programmes/products-and-services/lifesg-exploreservices.png)
+![LifeSG explore services](/images/Products%20and%20Services/lifesg-exploreservices.png)
 
 * **Personalised Dashboard** – Citizens can use the dashboard to discover recommended content, access guides that simplify processes such as job & preschool searches and discover government benefits through features such as the Family Support Calculator.
 
-![LifeSG - Dashboard](/images/programmes/products-and-services/lifesg-dashboard.png)
+![LifeSG dashboard](/images/Products%20and%20Services/lifesg-dashboard.png)
 
 * **Benefits and Support Module** - The module displays personalised information on Government benefits and support schemes that users qualify for and consolidates benefits and support related information across multiple Government agencies on a single platform.
 
