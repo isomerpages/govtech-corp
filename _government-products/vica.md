@@ -6,6 +6,7 @@ breadcrumb: VICA – Virtual Intelligent Chat Assistant
 collection_name: products-and-services
 tag: citizens
 thumbnail_image: /images/programmes/products-and-services/vica-logo-2.png
+variant: markdown
 ---
 ### **What is VICA?**
 
@@ -13,7 +14,6 @@ VICA (Virtual Intelligent Chat Assistant) is GovTech's next-generation Virtual A
  
 VICA is engine-agnostic and will be able to leverage the latest NLP technology to achieve better performance and accuracy.
 
-Chatbots on the Energy Market Authority website (Ask Emma), Gov.sg’s website and Covid-19 Whatsapp channel are powered by VICA. VICA will eventually replace GovTech’s [“Ask Jamie” government agency chatbots](https://www.tech.gov.sg/products-and-services/ask-jamie).
 
 ### **Benefits**
 
