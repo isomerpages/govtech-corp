@@ -25,7 +25,7 @@ Singpass is a mobile app that is designed to make transacting with government an
  - Using QR Login, users can scan a QR code and verify their identity with biometrics or a 6-digit pin code. This helps users with dexterity issues transact with ease and reduces the need to remember long passwords.
  - Shortcuts to commonly used services within the app ensures no mistyping of URLs when visiting different government digital services
  - The team also enabled high contrast for improved legibility and readability when using the app
- - SafeEntry(www.safeentry.gov.sg) features in the app was developed with accessibility in mind, and tested extensively with VoiceOver and Voice Control for the visually and physically handicapped respectively.
+ - SafeEntry features in the app was developed with accessibility in mind, and tested extensively with VoiceOver and Voice Control for the visually and physically handicapped respectively.
 
 **Isomer**
 
