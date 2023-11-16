@@ -56,7 +56,7 @@ Current features include:
 
 * **Digital signing of documents** by scanning a QR code, removing the need for users to be physically present to sign documents and agreements with businesses who offer the Sign with Singpass service.
 
-![Sign with Singpass](/images/programmes/products-and-services/singpass-sign-with-singpass-2.jpg)
+![Sign with Singpass](/images/Products%20and%20Services/sign-with-singpass.jpg)
 
 ### **Accessible for everyone**
 
@@ -64,7 +64,7 @@ Ensuring inclusion and widespread access by all residents is a key remit of Sing
 
 The Singpass app is built with accessibility features like dark mode and screen reader compatibility to help the visually impaired navigate the app with ease. The Singpass app is also available in the four official languages – English, Chinese, Malay and Tamil – to make services easy to use for everyone.
 
-![Singpass Accessible For Everyone](/images/programmes/products-and-services/singpass-accessible-for-everyone-2.png)
+![Singpass accessible for everyone](/images/Products%20and%20Services/singpass-accessible.png)
 
 Features such as Singpass Face Verification and Multi-User SMS 2FA ensure that even users without mobile phones can use Singpass to access digital services.
 
@@ -82,7 +82,7 @@ Singpass has stringent security measures to safeguard users’ personal data whi
 
 **Visit the [Singpass Security](https://www.singpass.gov.sg/main/security/){:target="_blank"} page to learn more about the Singpass security measures in place and important security tips for all users.**
 
-![Singpass Security](/images/programmes/products-and-services/singpass-security-measures-2.jpg)
+![Singpass security measures](/images/Products%20and%20Services/singpass-security-measures.jpg)
 
 ### **An enabler of better services and future-ready businesses**
 
