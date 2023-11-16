@@ -9,12 +9,12 @@ description: The Government Technology Agency (GovTech) is the lead agency
   Group (SNDGG) in the Prime Minister’s Office.
 image: /images/isomer-logo.svg
 permalink: /
-notification: ""
+notification: "Notification banner test "
 sections:
   - hero:
-      background: /images/snb-website-banner-july2023.png
+      background: /images/DSA_bg.png
       button: Find out more
-      url: https://www.tech.gov.sg/products-and-services/smart-nation-showcases/#smart-nation-builder
+      url: /
       key_highlights:
         - title: For Citizens
           description: Events, Stories, and Updates
@@ -25,6 +25,8 @@ sections:
         - title: For Government
           description: Productivity and Collaboration
           url: /for-government
+      title: Digital Services Awards 2023
+      variant: center
   - infopic:
       title: Our Role
       subtitle: Empowering Growth through Tech
