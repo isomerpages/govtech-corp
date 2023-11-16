@@ -3,9 +3,9 @@ title: "For Citizens: Tech Kaki"
 permalink: /get-involved/join-our-communities/tech-kaki/
 description: ""
 third_nav_title: Join Our Communities
-variant: tiptap
+variant: markdown
 ---
-![Tech Kaki banner](/images/programmes/products-and-services/TechKaki-Header.jpg)
+![TechKaki header](/images/Get%20Involved/techkaki_header.jpg)
 
 We want to solve problems. In fact, we want to solve problems with you!
 
