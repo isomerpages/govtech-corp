@@ -6,8 +6,9 @@ breadcrumb: Singpass
 collection_name: products-and-services
 tag: citizens
 thumbnail_image: /images/programmes/products-and-services/singpass-thumbnail-new-2.jpg
+variant: markdown
 ---
-![Singpass Logo](/images/programmes/products-and-services/singpass-logo-new.png)
+![](/images/Products%20and%20Services/singpass-logo.png)
 
 [Singpass](https://www.singpass.gov.sg){:target="_blank"} is every Singapore resident’s trusted digital identity for easy and secure access to over 2,000 government and private sector services online and in person.
 
@@ -31,7 +32,7 @@ Users can log in to digital services easily and securely in a few ways:
 
 2. Enter their **Singpass ID and password** on a desktop or mobile web browser, followed by a face scan enabled by **Singpass Face Verification**, or keying in an **SMS One-Time Password (OTP)**.
 
-![Singpass Fast and Convenient](/images/programmes/products-and-services/singpass-fast-and-convenient-2.png)
+![](/images/Products%20and%20Services/singpass-fast-and-convenient.png)
 
 When transacting over government counters^, users can prove their identity using their **Digital IC** easily accessible in their Singpass app. They may also scan the Digital IC barcode at kiosks such as those located in libraries and polyclinics.
 
