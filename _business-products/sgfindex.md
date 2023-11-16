@@ -36,7 +36,7 @@ To view their consolidated personal balance sheet, users may:
 *	Select the financial institution to connect to, and provide authorisation at the respective portal(s). Financial information from government agencies (CPF, HDB and IRAS) are already connected as part of Singpass.
 * Synchronise the data explicitly. To protect users’ privacy, financial data is not updated automatically. Users may do this monthly to view their latest balance sheet.
 
-![SGFinDex Screenshot](/images/Products%20and%20Services/sgfindex-screenshot1.png)
+![SGFinDex Screenshot](/images/Products%20and%20Services/sgfindex-screenshot.png)
 
 ### **Participating organisations**
 
