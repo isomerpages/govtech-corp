@@ -19,8 +19,6 @@ Today, Singpass has a user base of more than 4.2 million users and provides conv
   <figcaption>Fig 1: Singpass' National Adoption and Transaction Figures</figcaption>
 </figure>
 
-![Streamlining Citizen Services through Digital Identity](/images/digital-transformation/Streamlining_citizen_digital_services_header_banner.png)
-
 ---
 
 Governments around the world are driving digital transformation by empowering citizens with a digital identity. In Singapore, we do this through our National Digital Identity (NDI) initiative, which is a Strategic National Project under our Smart Nation vision. 
@@ -72,8 +70,6 @@ Find out more about our citizen digital identity services here:
 *	[Singpass](https://www.developer.tech.gov.sg/products/categories/digital-identity/singpass/overview.html){:target="_blank"}
 *	[Myinfo](https://www.developer.tech.gov.sg/products/categories/digital-identity/myinfo/overview.html){:target="_blank"}
 *	[SGFindex](https://www.developer.tech.gov.sg/products/categories/digital-identity/sgfindex/overview.html){:target="_blank"}
-
-![Safer, More Convenient Business Transactions with a Corporate Digital Identity](/images/digital-transformation/Safer_more_convenient_business_transactions_with_CDI_Banner.png)
 
 ---
 
