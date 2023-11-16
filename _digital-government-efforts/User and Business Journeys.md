@@ -10,10 +10,6 @@ To encourage user engagement and ensure that services are easily discovered, a d
 
 ---
 
-![Simpler &amp; Personalised Government Services Throughout Our Citizens' Life Journeys](/images/digital-transformation/Simpler_and_personalised_services_throughout_citizen_life_journeys_Banner.png)
-
----
-
 As online transactions become increasingly common, it is crucial that governments support citizens by designing digital services that are easy to access and navigate. Putting citizens’ needs first can build public trust and yield positive outcomes for both the public sector and citizens.
 
 Our goal is to deliver a seamless digital experience when accessing government services, such as those relating to citizens’ major life events, even when different agencies are involved. As part of Singapore’s Smart Nation initiative, GovTech’s LifeSG smartphone app grants citizens simpler access to over 70 life journey services from various government agencies on just one app. The app has more than 330,000 downloads since its inception in 2018.
@@ -36,10 +32,6 @@ The app has also demonstrated its vast one-stop functionalities by being the pla
 
 Find out more about the LifeSG app and how it helps users access government services easily here:
 *	[LifeSG](https://www.developer.tech.gov.sg/products/categories/platform/lifesg/overview.html){:target="_blank"}
-
----
-
-![Creating a Vibrant Business Hub through Centralised Information and Services](/images/digital-transformation/Creating_a_vibrant_bizhub_header_banner.png)
 
 ---
 
