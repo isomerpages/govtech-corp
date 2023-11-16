@@ -25,7 +25,7 @@ variant: markdown
   </div>
 	
   <div style="text-align: center" class="col">
-    <a target="_blank" href="/singapore-digital-government-journey/user-and-business-journeys">
+    <a target="_blank" href="/digital-government-efforts/user-and-business-journeys">
       <img alt="Citizen Engagement and Co-creation" src="/images/About%20Us/What%20We%20Do/User_Business_Journey.png"></a>
     <figcaption><b>User and Business Journeys</b></figcaption>
   </div>
@@ -40,7 +40,7 @@ variant: markdown
 
 
   <div style="text-align: center" class="col">
-    <a target="_blank" href="/singapore-digital-government-journey/digital-identity">
+    <a target="_blank" href="/digital-government-efforts/digital-identity/">
       <img alt="Digital Identity" src="/images/About%20Us/What%20We%20Do/Digital_Identity.png"></a>
     <figcaption><b>Digital Identity</b></figcaption>
   </div>
