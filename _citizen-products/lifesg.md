@@ -27,11 +27,11 @@ LifeSG offers users more ready access to digital government services through the
 
 * **Benefits and Support Module** - The module displays personalised information on Government benefits and support schemes that users qualify for and consolidates benefits and support related information across multiple Government agencies on a single platform.
 
-![LifeSG - Benefits](/images/programmes/products-and-services/lifesg-govbenefits.png)
+![LifeSG Gov benefits](/images/Products%20and%20Services/lifesg-govbenefits.png)
 
 * **Consolidated Profile** - Retrieve and view personal information from multiple public agencies (e.g CPF, IRAS) at one glance, with personalised charts for key categories.
 
-![LifeSG - Profile](/images/programmes/products-and-services/lifesg-profile.png)
+![LifeSG profile](/images/Products%20and%20Services/lifesg-profile.png)
 
 * **Inbox and Appointment** - A ‘step-by-step’ view of performing ‘tasks’ to help guide users through the process of a government transaction. The Inbox serves as a consolidated touchpoint for users to be notified of announcements, and follow-up on key tasks at certain stages of a transaction. The Appointment feature allows users to get reminders for upcoming appointments or events signed up through LifeSG 
 
