@@ -2,6 +2,7 @@ collections:
   digital-government-efforts:
     output: true
     order:
+      - Sustainability.md
       - Cybersecurity.md
       - Diversity and Inclusion.md
       - Whole of Government Platforms and Tools.md
