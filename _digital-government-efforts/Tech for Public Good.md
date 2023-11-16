@@ -16,8 +16,6 @@ When planning out digital government services, our GovTech teams go beyond the u
 
 **Here's some GovTech products with strong accessibility features:**
 
-![accessibility SPM](/images/programmes/products-and-services/singpass-logo-new.png)
-
 **Singpass**
 
 Singpass is a mobile app that is designed to make transacting with government and businesses faster and easier for all Singpass users.
@@ -28,8 +26,6 @@ Singpass is a mobile app that is designed to make transacting with government an
  - Shortcuts to commonly used services within the app ensures no mistyping of URLs when visiting different government digital services
  - The team also enabled high contrast for improved legibility and readability when using the app
  - SafeEntry(www.safeentry.gov.sg) features in the app was developed with accessibility in mind, and tested extensively with VoiceOver and Voice Control for the visually and physically handicapped respectively.
-
-![accessibility Isomer](/images/isomer-logo - Lisa T.png)
 
 **Isomer**
 
@@ -48,8 +44,6 @@ For example, the Isomer template provides a selection of predefined font sizes a
 
  - While the team was not able to set the use of alternate text for images or a minimum color contrast ratio, they overcame these challenges by creating documentation guides for easy referencing of accessibility guidelines.
 
-![accessibility SGDS](/images/logo_sgds - Daren Ng.jpg)
-
  **Singapore Government Design System (SGDS)**
 
 The Singapore Government Design System (SGDS) was developed to unite teams in creating fast, accessible and mobile friendly digital services with a common set of UI components that comply to the Digital Service Standards.
@@ -63,8 +57,6 @@ Government Agency Users, Vendors and the Public (to a certain extent, everything
  - Baseline accessibility checks along with the team’s own a11y tool.
  - Created patterns with base accessibility built in.
  - Provided guidelines to help users.
-
-![accessibility MCF](/images/Screenshot 2020-06-09 at 1.15.05 PM - Yvonne Chia.png)
 
 **MyCareersFuture (MCF)**
 
@@ -82,8 +74,6 @@ MyCareersFuture helps match jobseekers to suitable employers and job opportuniti
  - The team required accessibility as an acceptance criteria of new features e.g, the ability to navigate a list of notifications via a keyboard, triggering them and marking them read.
  - Holding informal audits to see if important user flows can be accomplished with a keyboard, and fixing critical bugs.
 </div>
-
-![Combatting COVID-19 with Tech](/images/digital-transformation/Combatting_covid19_with_tech_header_banner.png)
 
 ---
 
@@ -121,15 +111,16 @@ Currently, over 99% of Singaporeans are currently using TraceTogether as a commu
   <figcaption>Fig 1: TraceTogether's International and National Adoption Levels and Benefits</figcaption>
 </figure>
 
+
 Find out more about our COVID-19 tech here:
 * [GoWhere Suite](https://www.developer.tech.gov.sg/products/categories/digital-solutions-to-address-covid-19/gowhere-suite/overview.html){:target="_blank"}
 *	[Video Analytics System](https://www.developer.tech.gov.sg/products/categories/analytics/vas/overview.html){:target="_blank"} 
 *	[SafeEntry](https://www.developer.tech.gov.sg/products/categories/digital-solutions-to-address-covid-19/safeentry/overview.html){:target="_blank"}
 *	[TraceTogether](https://www.developer.tech.gov.sg/products/categories/digital-solutions-to-address-covid-19/tracetogether/overview.html){:target="_blank"}
 
-![empowering vulnerable communities through tech](/images/digital-transformation/Empowering vulnerable communities through tech.jpg)
 
 ---
+
 Technology can empower and improve the quality of life for those in vulnerable communities. Some benefits of assistive technologies include improved accessibility and independence for persons with disabilities (PWDs) and seniors. To generate greater social impact from digital tools and applications, digital governments should take the lead in accelerating their development.
 
 Through the Smart Nation initiative, we aim to use technology to build an inclusive society for all citizens and enhance the well-being of vulnerable communities. The implementation of assistive technologies is facilitated by government systems designed to improve service delivery.
