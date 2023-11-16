@@ -17,13 +17,13 @@ As the public sector’s centre of excellence for info-comm technology and smart
 <div class="row">
 	<div class="col is-6">
 		<figure style="margin:0;">
-			<img alt="GovTech Sustainability Committee" src="/images/GovTech-Sustainability-Committee1.jpg">	
+			<img alt="GovTech Sustainability Committee" src="/images/Digital%20Gov%20Efforts/GovTech_Sustainability_Committee1.jpg">	
 			<figcaption>A Sustainability Committee spanning cross-functional workstreams led by Henry Chang (Deputy Chief Executive, GovTech) was established in FY22 to operationalise GovTech’s sustainability framework and strategy.</figcaption>
 		</figure>
 	</div>
 	<div class="col is-6">
 		<figure style="margin:0;">
-			<img alt="GovTech Sustainability Day 2022" src="/images/GovTech-Sustainability-Day-2022.png">
+			<img alt="GovTech Sustainability Day 2022" src="/images/Digital%20Gov%20Efforts/GovTech_Sustainability_Day_2022.png">
 			<figcaption>More than 800 electronic devices were donated by GovTechies to the non-profit Engineering Good, during our Tech Donation Drive at  GovTech Sustainability Day (27 October, 2022).</figcaption>
 		</figure>
 	</div>
@@ -47,7 +47,7 @@ As the public sector’s centre of excellence for info-comm technology and smart
 
 **Mission** - Adopt sustainability as a core principle in our digitalisation business and professional way of life
 
-![GovTech Sustainability Framework](/images/GovTech-Sustainability-Framework1.jpg)
+![GovTech Sustainability Framework](/images/Digital%20Gov%20Efforts/GovTech_Sustainability_Framework1.jpg)
 
 <style>
 
@@ -144,16 +144,16 @@ input:checked + label + .accordion-content {
 <div class="row">
 	<div class="col is-6">
 		<figure style="margin:0;">
-			<img alt="GovTech Green Bounce Station" src="/images/GovTech-Green-Bounce-Station.jpg">	
+			<img alt="GovTech Green Bounce Station" src="/images/Digital%20Gov%20Efforts/GovTech_Green_Bounce_Station.jpg">	
 			<figcaption>GovTech’s Green ‘Bounce’ Station encourages the use of reusable bags, lunch boxes, and cutlery.</figcaption>
 		</figure>
 	</div>
 	<div class="col is-6">
 		<figure style="margin:0;">
-			<img alt="Green GovTech Week 2023" src="/images/Green-GovTech-Week-2023.jpg">
+			<img alt="Green GovTech Week 2023" src="/images/Digital%20Gov%20Efforts/Green_GovTech_Week_2023.jpg">
 			<figcaption>GovTechies got together during the Green GovTech Week (3 – 7 July 2023) to take the Green Pledge and participate in various green activities.</figcaption>
 		</figure>
 	</div>
 </div>
 
---- 
+---
