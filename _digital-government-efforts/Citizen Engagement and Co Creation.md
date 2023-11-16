@@ -10,10 +10,6 @@ This is exemplified by the enhancement of the LifeSG app in 2020 based on citize
 
 ---
 
-![Catalysing Public-Private Innovation & Co-creation Through an Open and Accessible Government](/images/digital-transformation/Catalysing_public_private_innovation_header_banner.png)
-
----
-
 Public-private collaboration encourages new ideas and more innovative government offerings. To facilitate knowledge sharing and exchanges, governments and private companies can share open-source technologies to generate awareness and drive adoption of products and services domestically and internationally. 
 
 Open channels of engagement are also important sources of citizen and industry feedback that governments can use to garner insights and improve solutions. GovTech has an active “Tech Kaki” (‘kaki’ means ‘friend’ in Malay) community of more than 7,000 users. We also organise tech events covering a wide range of topics from cybersecurity to product management. These are well-received by the tech community, who in turn have shared that they gained a deeper understanding of government products and services as a result. To date, these events have extended GovTech’s outreach to over 6,500 participants and provided interesting pointers for our developers to work on.
