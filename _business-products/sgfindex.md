@@ -7,8 +7,9 @@ recommender: false
 collection_name: products-and-services
 tag: citizens
 thumbnail_image: /images/programmes/products-and-services/sgfindex-logo1.png
+variant: markdown
 ---
-![SGFinDex Logo](/images/programmes/products-and-services/sgfindex-logo1.png)
+![SGFinDex logo](/images/Products%20and%20Services/sgfindex-logo.png)
 
 Singapore Financial Data Exchange ([SGFinDex](https://go.gov.sg/sgfindex){:target="_blank"}) is the world's first public digital infrastructure to use a national digital identity and centrally managed online consent system, to allow individuals secure access to their financial information held across different government agencies and financial institutions, providing a consolidated view of their financial information across their accounts. 
 
@@ -35,7 +36,7 @@ To view their consolidated personal balance sheet, users may:
 *	Select the financial institution to connect to, and provide authorisation at the respective portal(s). Financial information from government agencies (CPF, HDB and IRAS) are already connected as part of Singpass.
 * Synchronise the data explicitly. To protect users’ privacy, financial data is not updated automatically. Users may do this monthly to view their latest balance sheet.
 
-![SGFinDex Screen](/images/programmes/products-and-services/sgfindex-screenshot1.png)
+![SGFinDex Screenshot](/images/Products%20and%20Services/sgfindex-screenshot1.png)
 
 ### **Participating organisations**
 
