@@ -14,7 +14,7 @@ This fun-filled boot camp takes place in June, annually. You will be working in 
 
 This is a great opportunity to gain insights into various tech domains through workshops, forge connections with like-minded peers and GovTech’s leaders, and experience what it means to be Agile, Bold and Collaborative!
 
-![GeekOut Chart](https://d33wubrfki0l68.cloudfront.net/54f495b1083bba19c834b99d6e261ed7dced7686/6adf2/images/careers/geekout_infographic_small.png)
+![geekout infographic](/images/careers/GeekOut_Infographic_small.png)
 
 ### Hear from past GeekOut participants:
 
