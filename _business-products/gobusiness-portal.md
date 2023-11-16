@@ -6,8 +6,9 @@ breadcrumb: GoBusiness
 collection_name: products-and-services
 tag: business
 thumbnail_image: /images/programmes/products-and-services/gbtitleimage.png
+variant: markdown
 ---
-![Smart Nation GoBusiness](/images/programmes/products-and-services/gbtitleimage.png)
+![GoBusiness header](/images/Products%20and%20Services/gobusiness-header.png)
 
 [GoBusiness](https://www.gobusiness.gov.sg/) is an online platform to connect business owners to various Government e-services and resources. This includes registering a business, applying for licences and grants, and more. Jointly developed by the Ministry of Trade and Industry, Smart Nation and Digital Government Group, and GovTech, it also offers personalised help and recommendations for your business with our e-Advisers.
  
