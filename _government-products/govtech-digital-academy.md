@@ -6,6 +6,7 @@ breadcrumb: GovTech Digital Academy
 collection_name: products-and-services
 tag: government
 thumbnail_image: /images/programmes/products-and-services/Digital-Academy-GovTech.png
+variant: markdown
 ---
 GovTech Digital Academy  (DA) is a “Practitioner for Practitioner” academy that operates at the unique intersection of technology and public service, blending best-in-class technical training with the business of Government. 
 
@@ -36,4 +37,4 @@ Whatever your role in the public sector, you can choose practical and highly rel
 * raise your proficiency levels
 * make a deeper impact on your agency’s digital innovation
 
-Learn more with [GovTech Digital Academy](https://www.thedigitalacademy.tech.gov.sg/){:target="_blank"}.
+Learn more with [GovTech Digital Academy](https://www.thedigitalacademy.tech.gov.sg/).
