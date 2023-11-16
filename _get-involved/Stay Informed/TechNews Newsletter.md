@@ -15,6 +15,5 @@ variant: markdown
 Join over 19,000 readers and subscribe to GovTech’s newsletter for the latest GovTech updates, tech tips, and behind-the-scenes stories.
 
 #### **Subscribe Today!**
-![](/images/subscribe%20technews.png)
 
-By submitting this form, you accept the [Terms & Conditions](https://www.tech.gov.sg/files/GovTech-Subscription-Terms-Conditions-2021.pdf) relating to the subscription to GovTech’s digital updates and acknowledge that you have read and understood the [Government Agency Privacy Statement](https://www.tech.gov.sg/privacy/).
+
