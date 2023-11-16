@@ -10,12 +10,7 @@ Amidst the COVID-19 pandemic, digital infrastructures and technologies were enha
 
 By driving a whole of government (WOG) digital transformation strategy and engaging in public-private collaborations to co-create a technology enabled-future, GovTech uses technology to be a catalyst for public good, community development and change.
 
-**Topics**
-- [Combatting COVID-19 with Tech](https://www.tech.gov.sg/singapore-digital-government-journey/tech-for-public-good/combatting-covid19-with-tech){:target="_blank"}
-- [Empowering Vulnerable Communities through Tech](https://www.tech.gov.sg/singapore-digital-government-journey/tech-for-public-good/empowering-vulnerable-communities-through-tech){:target="_blank"}
-
-
-#### We Build For Everyone
+## We Build For Everyone
 
 When planning out digital government services, our GovTech teams go beyond the usual product brief with the idea of “Designing for the 100%” to consider accessibility use cases for digital inclusion. As more services become digital, by ensuring accessibility wider than the majority, we will be able to provide better user experiences for everyone.
 
