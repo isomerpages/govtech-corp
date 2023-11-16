@@ -4,10 +4,6 @@ permalink: /digital-government-efforts/diversity-and-inclusion/
 variant: markdown
 description: ""
 ---
-![Diversity and Inclusion](/images/digital-transformation/Diversity-and-inclusion-header-banner.png)
-
----
-
 We are committed to diversity and inclusion in all areas of our work with external and internal stakeholders. This includes empowering vulnerable communities through tech, designing inclusive interfaces and products, and creating an inclusive and diverse tech community within GovTech and beyond.
 
 In 2019, the Digital4Good programme was established to empower underprivileged children/youths and seniors by increasing their digital literacy. This is achieved by inculcating skillsets such as programming, problem solving and critical thinking for children/youth and the use of digital tools for seniors. 
