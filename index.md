@@ -9,10 +9,10 @@ description: The Government Technology Agency (GovTech) is the lead agency
   Group (SNDGG) in the Prime Minister’s Office.
 image: /images/isomer-logo.svg
 permalink: /
-notification: "Notification banner test "
+notification: Notification banner test
 sections:
   - hero:
-      background: /images/DSA_bg.png
+      background: /images/Homepage/DSA_bg.png
       button: Find out more
       url: /
       key_highlights:
