@@ -37,7 +37,7 @@ sections:
       image: /images/digital_government_aug21.jpeg
       alt: Our Role
   - infopic:
-      title: Our Work
+      title: Products and Services
       subtitle: We transform the Government
       description: View our portfolio of work for citizens, businesses, and government
         agencies
