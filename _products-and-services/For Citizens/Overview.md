@@ -28,8 +28,6 @@ variant: markdown
     width: calc(33.33% - 20px); /* 20px is the spacing between tiles, and we want 3 tiles in a row */
     margin-bottom: 20px;
     transition: border-color 0.3s ease; /* Add a smooth transition for the border color */
-	text-decoration: none; /* Remove underlines from links */ 
-	color: inherit; /* Use the default text color for links */
   }
 
   .info-tile:hover {
