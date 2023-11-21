@@ -81,7 +81,7 @@ variant: markdown
   </div>
 
   <div class="info-tile">
-    <h5>TProduct 6</h5>
+    <h5>Product 6</h5>
     <p>This is some information about the sixth tile.</p>
   </div>
 
