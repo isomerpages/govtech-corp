@@ -14,6 +14,8 @@ variant: markdown
  
  * Read on to find out more!
 
+# Info Tiles
+
 <style>
   .info-tiles-container {
     display: flex;
@@ -27,6 +29,11 @@ variant: markdown
     text-align: center;
     width: calc(33.33% - 20px); /* 20px is the spacing between tiles, and we want 3 tiles in a row */
     margin-bottom: 20px;
+    transition: border-color 0.3s ease; /* Add a smooth transition for the border color */
+  }
+
+  .info-tile:hover {
+    border-color: #007BFF; /* Change the border color on hover */
   }
 
   .row-spacing {
