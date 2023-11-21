@@ -27,7 +27,7 @@ variant: markdown
     text-align: center;
     width: calc(33.33% - 20px); /* 20px is the spacing between tiles, and we want 3 tiles in a row */
     margin-bottom: 20px;
-    transition: border-color 0.3s ease; /* Add a smooth transition for the border color*/
+    transition: border-color 0.3s ease; /* Add a smooth transition for the border color */
 	text-decoration: none; /* Remove underlines from links */ 
 	color: inherit; /* Use the default text color for links */
   }
@@ -51,57 +51,57 @@ variant: markdown
 <div class="info-tiles-container">
   
  <!-- First row of tiles -->
-<a class="info-tile">
+<a class="info-tile" href="/">
     <h5>Product 1</h5>
     <p>This is some information about the first tile.</p>
 </a>
 
-  <div class="info-tile">
+<a class="info-tile" href="/">
     <h5>Product 2</h5>
     <p>This is some information about the second tile.</p>
-  </div>
+  </a>
 
-  <div class="info-tile">
+<a class="info-tile" href="/">
     <h5>Product 3</h5>
     <p>This is some information about the third tile.</p>
-  </div>
+  </a>
 
   <!-- Add spacing between rows -->
   <div class="row-spacing"></div>
 
   <!-- Second row of tiles -->
-  <div class="info-tile">
+<a class="info-tile" href="/">
     <h5>Product 4</h5>
     <p>This is some information about the fourth tile.</p>
-  </div>
+  </a>
 
-  <div class="info-tile">
+<a class="info-tile" href="/">
     <h5>Product 5</h5>
     <p>This is some information about the fifth tile.</p>
-  </div>
+  </a>
 
-  <div class="info-tile">
+<a class="info-tile" href="/">
     <h5>Product 6</h5>
     <p>This is some information about the sixth tile.</p>
-  </div>
+  </a>
 
   <!-- Add spacing between rows -->
   <div class="row-spacing"></div>
 
   <!-- Third row of tiles -->
-  <div class="info-tile">
+<a class="info-tile" href="/">
     <h5>Product 7</h5>
     <p>This is some information about the seventh tile.</p>
-  </div>
+  </a>
 
-  <div class="info-tile">
+<a class="info-tile" href="/">
     <h5>Product 8</h5>
     <p>This is some information about the eighth tile.</p>
-  </div>
+  </a>
 
-  <div class="info-tile">
+<a class="info-tile" href="/">
     <h5>Product 9</h5>
     <p>This is some information about the ninth tile.</p>
-  </div>
+  </a>
 
 </div>
