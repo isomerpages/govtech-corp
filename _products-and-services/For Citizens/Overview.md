@@ -27,7 +27,9 @@ variant: markdown
     text-align: center;
     width: calc(33.33% - 20px); /* 20px is the spacing between tiles, and we want 3 tiles in a row */
     margin-bottom: 20px;
-    transition: border-color 0.3s ease; /* Add a smooth transition for the border color */
+    transition: border-color 0.3s ease; /* Add a smooth transition for the border color*/
+	text-decoration: none; /* Remove underlines from links */ 
+	color: inherit; /* Use the default text color for links */
   }
 
   .info-tile:hover {
@@ -48,11 +50,11 @@ variant: markdown
 
 <div class="info-tiles-container">
   
-  <!-- First row of tiles -->
-  <div class="info-tile">
+ <!-- First row of tiles -->
+<a class="info-tile">
     <h5>Product 1</h5>
     <p>This is some information about the first tile.</p>
-  </div>
+</a>
 
   <div class="info-tile">
     <h5>Product 2</h5>
