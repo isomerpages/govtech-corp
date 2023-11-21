@@ -12,10 +12,6 @@ variant: markdown
 
 ### **Type of Citizen Services We Created**
  
- * Read on to find out more!
-
-# Info Tiles
-
 <style>
   .info-tiles-container {
     display: flex;
