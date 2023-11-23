@@ -13,7 +13,7 @@ Summary of how benefits for the below items, with focus on work culture, mentors
 
 We challenge ourselves to innovate and change things that are not meeting our goals. Speak up, not follow instructions. We seek to deconstruct problems on the fly and talk to users to solve problems. Help us get through tough spots so that we develop the best solutions that will impact our users.
 
- #####  Growth &amp; Mentorship Opportunities
+ #####  Growth and Mentorship Opportunities
 ![](/images/Placeholders/Screenshot_2023_11_10_at_9_56_05_AM.png)
 
 Opportunities for learning and growth are enormous. You are surrounded by a multidisciplinary group of experts across application development, business, design, data analytics, hardware engineering, where you can share and learn from each other. Take charge of your growth, and allocate time to attend courses, meetups, and conferences. Not enough? Embark on a technical mentorship to get guidance from technical experts locally and internationally.
