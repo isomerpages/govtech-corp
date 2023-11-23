@@ -6,7 +6,9 @@ third_nav_title: Students and Graduates
 variant: markdown
 ---
 ### What is GeekOut and who is it for?
-<font color="red"> We are looking for Junior College and Polytechnic students who are ... (To describe the type of participants eligible, specify any skillsets/qualifications needed, and traits GovTech is looking for) </font>
+We are looking for Junior College and Polytechnic students who are ... (To describe the type of participants eligible, specify any skillsets/qualifications needed, and traits GovTech is looking for) 
+
+---
 
 ### What you can expect from the bootcamp
 
@@ -16,10 +18,10 @@ This is a great opportunity to gain insights into various tech domains through w
 
 ![geekout infographic](/images/careers/GeekOut_Infographic_small.png)
 
+---
+
 ### Hear from past GeekOut participants:
 
-
-<font color="red"> Consider changing component to feature photos/quotes</font>
 
 *   [Glenda Teo, GeekOut participant](https://www.instagram.com/p/CcxLgKKMfqu/?utm_source=ig_web_copy_link)
 &gt; 
@@ -29,8 +31,9 @@ This is a great opportunity to gain insights into various tech domains through w
 
 Find out what it is like to be a participant at&nbsp;[GeekOut through the eyes of our past participants](https://medium.com/ytpo-govtech/tagged/geekout).
 
+---
+
 ### What are you waiting for? Join us today!
-<font color="red"> Consider changing hyperlinks to primary CTAs</font>
 
 GeekOut applications for 2023 have closed. If you are interested in being a part of GeekOut, please stay connected with us through the&nbsp;[GovTech Talent Community](https://go.gov.sg/govtechtalentcommunity)&nbsp;to be notified of the application period for the next GeekOut.
 
