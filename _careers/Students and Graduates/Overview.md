@@ -53,3 +53,4 @@ Read more about our Young Talents’ experience on our [Medium blog](https://med
 To receive updates about our Young Talent programmes, join our GovTech Talent Community
 
 <a href="https://go.gov.sg/govtechtalentcommunity" target="\_blank" style="background-color: #0A66C2; color: white; text-decoration: none; border-radius: 100px; padding-left: 20px; padding-right: 20px; padding-top:8px; padding-bottom:8px">Join Now</a>
+<br> (Links to subscribe)
