@@ -19,8 +19,14 @@ Join one of our tech domains and be a specialist (to display the 5 capability ce
 Overview of different tracks/career paths for professionals
 ![](/images/Placeholders/Screenshot_2023_11_10_at_9_56_05_AM.png)
 
+---
+
+
 ### Hear from our GovTechies
 ##### Testimonials / quotes from current employees
+
+---
+
 
 ### Interested? Check out our job offerings! 
 
