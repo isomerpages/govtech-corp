@@ -38,3 +38,6 @@ Find out what it is like to be a participant at&nbsp;[GeekOut through the eyes o
 GeekOut applications for 2023 have closed. If you are interested in being a part of GeekOut, please stay connected with us through the&nbsp;[GovTech Talent Community](https://go.gov.sg/govtechtalentcommunity)&nbsp;to be notified of the application period for the next GeekOut.
 
 For enquiries, please write to&nbsp;[AreYouIT@tech.gov.sg](mailto:AreYouIT@tech.gov.sg)
+
+<a href="https://go.gov.sg/govtechtalentcommunity" target="\_blank" style="background-color: #0A66C2; color: white; text-decoration: none; border-radius: 100px; padding-left: 20px; padding-right: 20px; padding-top:8px; padding-bottom:8px">Apply Now</a>
+<br> (Links to Application website when active)
