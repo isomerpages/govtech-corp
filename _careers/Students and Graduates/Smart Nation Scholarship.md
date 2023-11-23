@@ -8,11 +8,13 @@ variant: markdown
 ### What is Smart Nation Scholarship and who is it for?
 The Smart Nation Scholarship develops and nurtures talent who have a passion for technology, and the ambition to propel our nation towards its goal of digital transformation.
 
-<font color="red">  We are looking for talents with with a passion for technology who ... (To include any other eligibility criteria like required traits, qualifications &amp; skillsets here) </font>
+We are looking for talents with with a passion for technology who ... (To include any other eligibility criteria like required traits, qualifications &amp; skillsets here) 
 
 Offered by GovTech, as well as the Cyber Security Agency of Singapore and Infocomm Media Development Authority, the Smart Nation Scholarship gives talented individuals the opportunity to embark on a dynamic career in technology that contributes to the public good.
 
 ![Smart Nation Scholarship](/images/careers/SNS_Infographic.png)
+
+---
 
 ### What to expect from the scholarship?
 
@@ -30,20 +32,21 @@ To assess candidates holistically, shortlisted candidates can expect to undergo 
 *   Industry exposure
 *   Opportunity to rotate among technology tracks
 
-
+---
 
 ### Hear from our scholars:
-
-<font color="red"> Consider changing component to feature photos/quotes</font>
 
 *   [Winston Liu, B.A. in Computer Science, University of Oxford](https://www.instagram.com/p/CJ-uORZhYQ4/?utm_source=ig_web_copy_link)
 *   [Goh Jia Yi, B.Sc in Business Analytics, National University of Singapore](https://www.instagram.com/p/CIknzmbl49_/?utm_source=ig_web_copy_link)
 *   [Fang Ting Wei, B.Eng in Industrial &amp; Systems Engineering and B.B.A in Accountancy, National University of Singapore](https://www.instagram.com/p/CHzGKObgX8Y/?utm_source=ig_web_copy_link)
 
-### How can you apply?
+---
 
-<font color="red"> Consider changing hyperlinks to primary CTAs</font>
+### How can you apply?
 
 Applications are open from September until April for each cycle. If you have a passion for technology and a strong desire to play a part in our Smart Nation agenda, learn more about the scholarship at&nbsp;[https://go.gov.sg/smartnationscholarship](https://go.gov.sg/smartnationscholarship).
 
 For enquiries, please write to&nbsp;[AreYouIT@tech.gov.sg](mailto:AreYouIT@tech.gov.sg)
+
+<a href="https://go.gov.sg/govtechtalentcommunity" target="\_blank" style="background-color: #0A66C2; color: white; text-decoration: none; border-radius: 100px; padding-left: 20px; padding-right: 20px; padding-top:8px; padding-bottom:8px">Apply Now</a>
+<br> (Links to Application website when active)
