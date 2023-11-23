@@ -7,8 +7,10 @@ variant: markdown
 ---
 ### What is Technology Associate Programme and who is it for?
 * Our Technology Associate Programme (TAP) is an exclusive two-year personalised talent programme designed for you to build a strong foundation towards becoming a technology leader.
-* <font color="red"> We are looking for final-year or fresh graduates from university who are... (include any specific qualifications or skillsets required to meet the criteria here) </font>
+We are looking for final-year or fresh graduates from university who are... (include any specific qualifications or skillsets required to meet the criteria here) 
 * Choose from one of our tech domains to grow your skills technically and professionally
+
+---
 
 
 ### What you can gain from the programme
@@ -23,14 +25,16 @@ Be empowered with the autonomy to define your own career growth in a supportive,
 
 The power to decide your future is in your hands. Chart your career with our Technology Associate Programme!
 
+---
+
 
 ### Read about past Tech Associate’s experiences:
-
-<font color="red"> Consider changing component to feature photos/quotes</font>
 *   [Ng Jiang Wen Esmond, Associate Research Engineer, Sensors and Internet of Things](https://www.instagram.com/p/CglCJI2vfz8/?utm_source=ig_web_copy_link)
 *   [Vienna Neo, UX Designer, Government Digital Services](https://www.instagram.com/p/CfbSJn9h-xQ/?utm_source=ig_web_copy_link)
 *   [Liu Jianling Howard, Associate Software Engineer, Experimental Systems and Technology Lab](https://www.instagram.com/p/CfK7w8VOr3G/?utm_source=ig_web_copy_link)
 *   [Christine Yong, Data Scientist, Data Science and Artificial Intelligence Division](https://www.instagram.com/p/Ce5Gd3DLPgE/?utm_source=ig_web_copy_link)
+
+---
 
 ### How can you apply?
 
@@ -39,3 +43,6 @@ The power to decide your future is in your hands. Chart your career with our Tec
 Applications are open from 1 July to 31 August 2023. If you are passionate about the use of technology to shape our future and better the lives of Singaporeans,&nbsp;[apply now as a Tech Associate](https://go.gov.sg/tap2024)&nbsp;to make an impact!
 
 For enquiries, please write to&nbsp;[AreYouIT@tech.gov.sg](mailto:AreYouIT@tech.gov.sg)
+
+<a href="https://go.gov.sg/govtechtalentcommunity" target="\_blank" style="background-color: #0A66C2; color: white; text-decoration: none; border-radius: 100px; padding-left: 20px; padding-right: 20px; padding-top:8px; padding-bottom:8px">Apply Now</a>
+<br> (Links to Application website when active)
