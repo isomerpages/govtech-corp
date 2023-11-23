@@ -10,11 +10,14 @@ variant: markdown
 
 From technology boot camps, internships and scholarships to fresh grad opportunities, we are here to inspire you to join us in the building of the world’s first Smart Nation. 
 
+---
+
 ### Find the right programme for you
 <br>
 
 ![GovTech Students and Graduates Programmes](/images/careers/govtech-students-and-graduates-programmes.png)
 
+---
 
 #### Click to find out more about our signature programmes:
 <br>
