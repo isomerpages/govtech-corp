@@ -13,21 +13,25 @@ variant: markdown
 
 ![GovTech Internship ](/images/careers/Internship_Infographic.png)
 
+---
+
 ### What to expect from the internship
 * Exposure to tech industry and strategic national projects 
 * <font color="red"> Types of projects could include and are not limited to app development for government agencies, building infocomm infrastructures, supporting the Smart Nation initiative and more. 
 * Mentorship and peer learning </font>
 * Networking opportunities with our senior leaders
 
+---
+
 ### Read about past interns’ experiences:
- <font color="red"> Consider changing component to feature photos/quotes</font>
 
 *   [Hari Shiman R, Data Science and Analytics at NUS, Data Science intern](https://medium.com/ytpo-govtech/internship-experience-at-dsaid-a16907042b28)
 *   [Chua Xiu Ling, User Experience intern](https://medium.com/ytpo-govtech/theres-so-much-to-designing-498774d58037)
 *   [Han Xingjian, Sensors &amp; Internet of Things intern](https://medium.com/ytpo-govtech/internship-blog-7b021006e020)
 
+---
+
 ### How can you apply?
-<font color="red"> Consider changing hyperlinks to primary CTAs</font>
 
 We welcome pre-tertiary, university and polytechnic students to apply for our internships during the internship application periods indicated below. Check out a wide range of internship opportunities across many exciting domains.
 
@@ -46,3 +50,6 @@ We welcome pre-tertiary, university and polytechnic students to apply for our in
 Join our [Talent Community](https://go.gov.sg/govtechtalentcommunity) to be notified when our next application period opens.
 
 For enquiries, please write to [AreYouIT@tech.gov.sg](mailto:AreYouIT@tech.gov.sg)
+
+<a href="https://go.gov.sg/govtechtalentcommunity" target="\_blank" style="background-color: #0A66C2; color: white; text-decoration: none; border-radius: 100px; padding-left: 20px; padding-right: 20px; padding-top:8px; padding-bottom:8px">Apply Now</a>
+<br> (Links to Application website when active)
