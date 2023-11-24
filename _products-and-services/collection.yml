@@ -2,7 +2,6 @@ collections:
   products-and-services:
     output: true
     order:
-      - For Citizens/Knowledge and Training (Digital Academy).md
       - For Citizens/.keep
       - For Citizens/Overview.md
       - For Citizens/Digital Services.md
@@ -12,6 +11,7 @@ collections:
       - For Citizens/Education.md
       - For Citizens/Environment.md
       - For Citizens/Health and Travel.md
+      - For Citizens/Knowledge and Training (Digital Academy).md
       - For Businesses/.keep
       - For Businesses/Overview.md
       - "For Businesses/Corporate Transactions: Corppass.md"
