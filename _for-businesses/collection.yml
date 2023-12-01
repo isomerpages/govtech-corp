@@ -1,5 +1,5 @@
 collections:
-  business-products:
+  for-businesses:
     output: true
     order:
       - corppass.md
