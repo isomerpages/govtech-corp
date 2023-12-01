@@ -1,5 +1,5 @@
 collections:
-  citizen-products:
+  for-citizens:
     output: true
     order:
       - Test/parking-sg.md
