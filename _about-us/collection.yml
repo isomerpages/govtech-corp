@@ -2,7 +2,6 @@ collections:
   about-us:
     output: true
     order:
-      - Example Title.md
       - Who We Are.md
       - What We Do/.keep
       - What We Do/Our Role.md
