@@ -4,62 +4,431 @@ permalink: /test-folder/permalink/
 variant: markdown
 description: ""
 ---
-### Test
-<style>.col.is-8{color:#f00; }</style>
+### Ongoing / Past Trials
 
-<!--td {border: 1px solid #cccccc;}br {mso-data-placement:same-cell;}--><div class="row"> <div class="col is-4"> <img alt="Application Design, Development &amp; Deployment" src="/images/fde7c403_25ac_4bf3_8778_6123935f7bd8.png"> </div> <div class="col is-8"> <p class="title is-4">Application Design, Development &amp; Deployment</p> TEST TEXT 111 ![](/images/fde7c403_25ac_4bf3_8778_6123935f7bd8.png)This centre adopts an “outside-in” approach to deliver citizen-centric government digital services that support public sector digital transformation. Our in-house team utilises its deep technical expertise in design and software development methodologies - such as Agile, user experience design, quality engineering, DevOps and platform as a service - to deliver scalable, resilient, and reusable digital services which are supported by the Singapore Government Technology Stack. </div> </div>
+SDC has always been working with partners to trial new ideas on Sentosa Island. Some past and ongoing trials are listed here.
 
-<p>Since the arrival of the first personal computer in the 1980s, Singapore has embraced technology as a crucial engine of the economy and society. The early computerisation efforts of the government in the 1980s paved the way to becoming one of the world’s most connected countries today.</p>
+  
 
-<p>In the 1990s, Singapore was among the first to have broadband links nationwide, while the 2000s saw the deployment of a fibre broadband network and wireless hotspots throughout the island. Over the years, Singapore has been awarded top marks in prestigious studies such as the World Economic Forum’s Global Information Report.</p>
+For each of the initiatives, SDC has provided venue and facilitation support to ensure a smooth implementation.
 
-<p>The country’s infrastructure as well as government digital services are often recognised for its technological readiness. As Singapore continues to leverage on new technologies to digitally transform government digital services, there are lessons to share and much to learn from other countries that have developed new ways of improving the online experience for citizens. We share some of the notable awards and significant milestones that Singapore has garnered over the years.</p>
+  
 
-<h2 id="our-journey--milestones"><strong><center>Our Journey &amp; Milestones</center></strong></h2>
+<div class="row">
 
-<center> See the list of key milestones on our digital journey towards today's GovTech, where we continue to deliver high quality public service to citizens and businesses alike. </center>
+&nbsp;&nbsp;&nbsp;&nbsp;<div class="col is-4">
 
-<!-- Refer to _data/our-journey.yml to edit Our Journey & Milestones content -->
-<div class="col is-large bp-accordion-header padding has-icons-right field has-addons is-marginless">
-		<div class="col is-expanded is-fullwidth is-paddingless">
-			<h5 class="has-text-grey-dark is-marginless"><b>1980-1989</b></h5>
-		</div>
-		<span class="sgds-icon sgds-icon-plus is-size-4 bp-accordion-button"></span>
-	</div><div class="col padding bp-accordion-body" id="accordion-body-0"><h3 class="margin--top--none padding--top"><b>1980</b></h3><p class="margin--top--none"><b>Civil Service Computerisation Programme:</b> The start of Singapore’s public sector infocomm journey, seeking to enhance operational efficiency via the adoption of infocomm technology.</p><hr style="margin-top: 28px"><h3 class="margin--top--none padding--top"><b>1989</b></h3><p class="margin--top--none"><b>TradeNet:</b> Convenient and easy-to-use documentation processing and clearance platform for the trade and logistics community.</p><br>
-	</div><div class="col is-large bp-accordion-header padding has-icons-right field has-addons is-marginless">
-		<div class="col is-expanded is-fullwidth is-paddingless">
-			<h5 class="has-text-grey-dark is-marginless"><b>1990-1999</b></h5>
-		</div>
-		<span class="sgds-icon sgds-icon-plus is-size-4 bp-accordion-button"></span>
-	</div><div class="col padding bp-accordion-body" id="accordion-body-1"><h3 class="margin--top--none padding--top"><b>1995</b></h3><p class="margin--top--none"><b>One-Stop Change of Address Reporting Service (OSCARS):</b> Only one step required to update participating government agencies and statutory boards of your change of address.</p><br>
-	</div><div class="col is-large bp-accordion-header padding has-icons-right field has-addons is-marginless">
-		<div class="col is-expanded is-fullwidth is-paddingless">
-			<h5 class="has-text-grey-dark is-marginless"><b>2000-2004</b></h5>
-		</div>
-		<span class="sgds-icon sgds-icon-plus is-size-4 bp-accordion-button"></span>
-	</div><div class="col padding bp-accordion-body" id="accordion-body-2"><h3 class="margin--top--none padding--top"><b>2001</b></h3><p class="margin--top--none"><b>GeBIZ:</b> A one-stop e-procurement portal for suppliers to access government procurement opportunities, anytime, anywhere, via the Internet.</p><p class="margin--top--none"><b>Government Data Centre:</b> A secure and resilient data centre facility and network for government ICT systems.</p><hr style="margin-top: 28px"><h3 class="margin--top--none padding--top"><b>2003</b></h3><p class="margin--top--none"><b>BizFile:</b> A single system offering more than 300 digital services for all your business requirements.</p><hr style="margin-top: 28px"><h3 class="margin--top--none padding--top"><b>2004</b></h3><p class="margin--top--none"><b>myCPF:</b> Get instant access to your own Central Provident Fund information.</p><br>
-	</div><div class="col is-large bp-accordion-header padding has-icons-right field has-addons is-marginless">
-		<div class="col is-expanded is-fullwidth is-paddingless">
-			<h5 class="has-text-grey-dark is-marginless"><b>2005-2009</b></h5>
-		</div>
-		<span class="sgds-icon sgds-icon-plus is-size-4 bp-accordion-button"></span>
-	</div><div class="col padding bp-accordion-body" id="accordion-body-3"><h3 class="margin--top--none padding--top"><b>2006</b></h3><p class="margin--top--none"><b>Enhanced Immigration Automated Clearance System (eIACS):</b> Breeze through immigration checkpoints in 8 seconds with just your passport and thumbprint.</p><hr style="margin-top: 28px"><h3 class="margin--top--none padding--top"><b>2007</b></h3><p class="margin--top--none"><b>No-Filing Service/IRAS e-Filing:</b> File your income tax returns at your own convenience, 24x7, from the comfort of your home.</p><p class="margin--top--none"><b>PublicTransport@SG:</b> Real-time public transport information, at your fingertips.</p><hr style="margin-top: 28px"><h3 class="margin--top--none padding--top"><b>2008</b></h3><p class="margin--top--none"><b>Standard Operating Environment (SOE):</b> A platform for public officers to access government resources and work-related data securely from any location.</p><hr style="margin-top: 28px"><h3 class="margin--top--none padding--top"><b>2009</b></h3><p class="margin--top--none"><b>Unique Entity Number (UEN):</b> A single identification number for corporate entities operating in Singapore.</p><br>
-	</div><div class="col is-large bp-accordion-header padding has-icons-right field has-addons is-marginless">
-		<div class="col is-expanded is-fullwidth is-paddingless">
-			<h5 class="has-text-grey-dark is-marginless"><b>2010-2015</b></h5>
-		</div>
-		<span class="sgds-icon sgds-icon-plus is-size-4 bp-accordion-button"></span>
-	</div><div class="col padding bp-accordion-body" id="accordion-body-4"><h3 class="margin--top--none padding--top"><b>2010</b></h3><p class="margin--top--none"><b>Onemap:</b> An integrated online platform for government agencies to publish geospatial information and deliver map-based services.</p><hr style="margin-top: 28px"><h3 class="margin--top--none padding--top"><b>2011</b></h3><p class="margin--top--none">Launch of <b>eGov2015 Masterplan</b> with “Government with you” vision to bring service delivery beyond Government (2011 - 2015).</p><p class="margin--top--none">Under the Masterplan, the mGov programme had some 300 feature-reach mobile services capable of sending timely information to citizens.</p><hr style="margin-top: 28px"><h3 class="margin--top--none padding--top"><b>2012</b></h3><p class="margin--top--none">The tender award was announced for G-Cloud, which will provide Government agencies with efficient, scalable and resilient cloud computing resources that meet different levels of security and governance requirements.</p><hr style="margin-top: 28px"><h3 class="margin--top--none padding--top"><b>2013</b></h3><p class="margin--top--none">The Government launched a five-year National Cyber Security Masterplan 2018 to further secure Singapore’s cyber environment.</p><hr style="margin-top: 28px"><h3 class="margin--top--none padding--top"><b>2014</b></h3><p class="margin--top--none">Announcement of the Smart Nation Platform, a technical architecture built by GovTech. This will bring together a nationwide sensor network and data analytics capabilities for better situational awareness.</p><hr style="margin-top: 28px"><h3 class="margin--top--none padding--top"><b>2015</b></h3><p class="margin--top--none">GovTech worked with the Municipal Services Office to develop the OneService app, which automatically sends feedback on various issues to the relevant agency, bringing about more timely response.</p><br>
-	</div><div class="col is-large bp-accordion-header padding has-icons-right field has-addons is-marginless">
-		<div class="col is-expanded is-fullwidth is-paddingless">
-			<h5 class="has-text-grey-dark is-marginless"><b>2016-Present</b></h5>
-		</div>
-		<span class="sgds-icon sgds-icon-plus is-size-4 bp-accordion-button"></span>
-	</div><div class="col padding bp-accordion-body" id="accordion-body-5"><h3 class="margin--top--none padding--top"><b>2016</b></h3><p class="margin--top--none">GovTech was officially launched as the agency tasked with realising Smart Nation possibilities.</p><hr style="margin-top: 28px"><h3 class="margin--top--none padding--top"><b>2017</b></h3><p class="margin--top--none">GovTech worked with the Singapore Judiciary to launch a five-year technology blueprint which charts the course for “Courts of the Future”. The Singapore Government announced that GovTech, the Smart Nation Programme Office and relevant departments from the Ministry of Finance and Ministry of Communications and Information will come together to form the Smart Nation and Digital Government Group (SNDGG). The Whole-of-Government effort to separate the Internet from internal public sector systems was completed one month ahead of schedule. Supported by GovTech, this was part of an ongoing move to strengthen the Government’s cybersecurity posture and better protect government and citizen data. The use of MyInfo was extended to banks, allowing citizens to tap on their MyInfo digital profile to auto-fill selected bank application forms. The Ministry of Education and GovTech piloted the Singapore Student Learning Space, a digital learning platform to enhance learning and collaboration for students from primary schools to junior colleges. The MyInfo Developers and Partners Portal was launched, allowing businesses and developers to tap on MyInfo application programming interfaces to create innovative digital services that can better serve the public. The Parking.sg app was launched. The app is developed by the Urban Redevelopment Authority, Housing &amp; Development Board and GovTech to provide a quick and convenient way for motorists to pay for short-term parking at coupon-based car parks. GovTech worked with SkillsFuture Singapore to launch MySkillsFuture portal, a one-stop resource site to help students and adults plan for their training and career needs.</p><hr style="margin-top: 28px"><h3 class="margin--top--none padding--top"><b>2018</b></h3><p class="margin--top--none">The Ministry Family Digitalisation Plan was launched to support agencies in their digitalisation efforts. NParks and GovTech jointly developed the Trees.SG online map which shows the locations of 500,000 trees across Singapore and their biodata. The MyCareersFuture search portal was launched by GovTech and Workforce Singapore to match jobseekers to relevant jobs based on their skills. Launched the Digital Government Blueprint that sets out a vision of a Singapore Government that is digital to the core and serves with heart. The Singapore Geospatial Masterplan – jointly developed by the Singapore Land Authority (SLA) and GovTech – was launched. Launched Networked Trade Platform -  a national trade information management platform which combines all customs and trade related services. GovTech held its first-ever developer conference  - STACK. The conference was a platform for tech enthusiasts to learn about, share knowledge on, and try out the latest digital products from the Singapore Government. The SingPass Mobile app was launched to enable citizens to transact securely and conveniently with public and private sector digital services. GovTech worked with Ngee Ann Polytechnic, SkillsFuture Singapore and the Ministry of Education to develop OpenCerts – a platform to issue, certify, verify and validate academic and skills credentials. The National Digital Identity (NDI) API Portal was launched to integrate both MyInfo and NDI Identity &amp; Access APIs. Singapore was named Smart City of 2018 at the Smart City Expo World Congress in Barcelona. This is the first award that Singapore has won since embarking on our digital transformation journey.</p><hr style="margin-top: 28px"><h3 class="margin--top--none padding--top"><b>2019</b></h3><p class="margin--top--none">GovTech and the Ministry of Education launched Parents Gateway. A one-stop mobile app that allows schools to update parents on programmes and activities, as well as for parents to complete administrative matters via the app. GovTech and the United Kingdom’s Government Digital Service  signed a Memorandum of Understanding to strengthen collaboration in the design and delivery of digital government public services. GovTech completed the commissioning of the Government on Commercial Cloud (GCC) system for agencies to procure commercial cloud services from Cloud Service Providers. Launched IPOS GO -  the world’s first mobile application for trademark registration. The app is developed by GovTech and the Intellectual Property Office of Singapore. GovTech developed and launched DigiMC, a platform that allows SingHealth institutions to replace paper MCs with digital ones. The Ministry of Trade &amp; Industry, Smart Nation and Digital Government Office and GovTech launched the GoBusiness Licensing portal.</p><hr style="margin-top: 28px"><h3 class="margin--top--none padding--top"><b>2020</b></h3><p class="margin--top--none">To support the nationwide contact tracing efforts, GovTech worked with the Ministry of Health to develop the TraceTogether programme. It comprises the TraceTogether App and TraceTogether Token. Launched SafeEntry, a national digital check-in system that logs the NRIC/FINs and mobile numbers of individuals visiting hotspots, workplaces of essential services, as well as selected public venues to prevent and control the transmission of COVID-19 through activities such as contact tracing and identification of COVID-19 clusters. Moments of Life is enhanced and rebranded as LifeSG. The app provides users with access to more than 40 services that will be personalised for citizens, and with an improved user experience.</p><br>
-	</div><div class="" id="related-content">
-  <hr>
-  <h5><b>Related Content</b></h5>
-  <ul id="related-content-list"><li><a href="https://www.tech.gov.sg/media/technews/history-of-the-internet?utm_medium=recommender_0&amp;utm_source=aHR0cHM6Ly93d3cudGVjaC5nb3Yuc2cvd2hvLXdlLWFyZS9vdXItam91cm5leS8=&amp;utm_content=aHR0cHM6Ly93d3cudGVjaC5nb3Yuc2cvbWVkaWEvdGVjaG5ld3MvaGlzdG9yeS1vZi10aGUtaW50ZXJuZXQ=">History of internet in Singapore – from niche toy to must-have essential</a></li><li><a href="https://www.tech.gov.sg/contact-us/?utm_medium=recommender_1&amp;utm_source=aHR0cHM6Ly93d3cudGVjaC5nb3Yuc2cvd2hvLXdlLWFyZS9vdXItam91cm5leS8=&amp;utm_content=aHR0cHM6Ly93d3cudGVjaC5nb3Yuc2cvY29udGFjdC11cy8=">Contact Us</a></li><li><a href="https://www.tech.gov.sg/media/technews/infographics/govtech-year-in-review-2018?utm_medium=recommender_2&amp;utm_source=aHR0cHM6Ly93d3cudGVjaC5nb3Yuc2cvd2hvLXdlLWFyZS9vdXItam91cm5leS8=&amp;utm_content=aHR0cHM6Ly93d3cudGVjaC5nb3Yuc2cvbWVkaWEvdGVjaG5ld3MvaW5mb2dyYXBoaWNzL2dvdnRlY2gteWVhci1pbi1yZXZpZXctMjAxOA==">GovTech 2018 Year in Review</a></li><li><a href="https://www.tech.gov.sg/media/speeches/speech-by-mr-peter-ong-head-civil-service-at-the-inaugural-egov-excellence-awards-2013?utm_medium=recommender_3&amp;utm_source=aHR0cHM6Ly93d3cudGVjaC5nb3Yuc2cvd2hvLXdlLWFyZS9vdXItam91cm5leS8=&amp;utm_content=aHR0cHM6Ly93d3cudGVjaC5nb3Yuc2cvbWVkaWEvc3BlZWNoZXMvc3BlZWNoLWJ5LW1yLXBldGVyLW9uZy1oZWFkLWNpdmlsLXNlcnZpY2UtYXQtdGhlLWluYXVndXJhbC1lZ292LWV4Y2VsbGVuY2UtYXdhcmRzLTIwMTM=">Speech by Mr Peter Ong, Head Civil Service, at the Inaugural eGov Excellence Awards 2013 (eGEA)</a></li><li><a href="https://www.tech.gov.sg/media/speeches/keynote-address-by-deputy-prime-minister-minister-for-finance-tharman-shanmugaratnam-at-the-egov-global-exchange-2013?utm_medium=recommender_4&amp;utm_source=aHR0cHM6Ly93d3cudGVjaC5nb3Yuc2cvd2hvLXdlLWFyZS9vdXItam91cm5leS8=&amp;utm_content=aHR0cHM6Ly93d3cudGVjaC5nb3Yuc2cvbWVkaWEvc3BlZWNoZXMva2V5bm90ZS1hZGRyZXNzLWJ5LWRlcHV0eS1wcmltZS1taW5pc3Rlci1taW5pc3Rlci1mb3ItZmluYW5jZS10aGFybWFuLXNoYW5tdWdhcmF0bmFtLWF0LXRoZS1lZ292LWdsb2JhbC1leGNoYW5nZS0yMDEz">Keynote Address By Deputy Prime Minister Minister for Finance Tharman Shanmugaratnam at the eGov Global Exchange 2013</a></li></ul>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img alt="Experience" src="/images/partner-us/enterprise/icons/20\_sightseeing.png">
+
+&nbsp;&nbsp;&nbsp;&nbsp;</div>
+
+&nbsp;&nbsp;&nbsp;&nbsp;<div class="col is-8">
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<p class="title is-4"></p><h2>Experience</h2><p></p>
+
+&nbsp;&nbsp;&nbsp;&nbsp;</div>
+
 </div>
 
-<span id="full-page-url" class="hide">https://www.tech.gov.sg/who-we-are/our-journey/</span>
+  
+
+<h4>Lactation Pods</h4>
+
+<div class="row reverse-row-order">
+
+&nbsp;&nbsp;&nbsp;&nbsp;<div class="col is-offset-1 is-5">
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<figure style="margin:0;">
+
+<img src="/images/partner-us/collaborations/lactationpods.jpg">
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</figure>
+
+&nbsp;&nbsp;&nbsp;&nbsp;</div>
+
+<div class="col is-6">
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<p>
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</p><h5 style="margin-top:0;">Go!Mama</h5>
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<strong>Trial Period:</strong> December 2021 – June 2022
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<ul>
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<li>Free-standing, tech-enabled lactation pods for breastfeeding mothers to nurse their children across four locations on Sentosa.</li>
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<li>The pilot exemplifies our commitment to providing innovative and user-friendly amenities that bolster Sentosa as an inclusive and family-friendly destination.</li>
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</ul>
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<p></p>
+
+&nbsp;&nbsp;&nbsp;&nbsp;</div>
+
+</div>
+
+  
+
+<h4>Drone Food Delivery</h4>
+
+<div class="row reverse-row-order">
+
+&nbsp;&nbsp;&nbsp;&nbsp;<div class="col is-offset-1 is-5">
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<figure style="margin:0;">
+
+<img src="/images/partner-us/collaborations/dronefooddelivery.jpg">
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</figure>
+
+&nbsp;&nbsp;&nbsp;&nbsp;</div>
+
+<div class="col is-6">
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<p>
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</p><h5 style="margin-top:0;">ST Engineering Aerospace Ltd</h5>
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<strong>Trial Period:</strong> March 2022 - April 2022
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<ul>
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<li>The use of drones to deliver food from Sentosa to Southern Islands.</li>
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<li>This trial explores options in circumventing the operating constraints of providing F&amp;B options for visitors and staff on the Southern Islands.</li>
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</ul>
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<p></p>
+
+&nbsp;&nbsp;&nbsp;&nbsp;</div>
+
+</div>
+
+  
+
+<h4>ScentOsa AR Perfumery</h4>
+
+<div class="row reverse-row-order">
+
+&nbsp;&nbsp;&nbsp;&nbsp;<div class="col is-offset-1 is-5">
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<figure style="margin:0;">
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<iframe allowfullscreen="" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" frameborder="0" title="YouTube video player" src="https://www.youtube.com/embed/s68AesBjJHg" height="203" width="360"></iframe>
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</figure>
+
+&nbsp;&nbsp;&nbsp;&nbsp;</div>
+
+&nbsp;&nbsp;&nbsp;&nbsp;<div class="col is-6">
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<p>
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</p><h5 style="margin-top:0;">Jetaime Perfumery Pte Ltd</h5>
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<strong>Trial Period:</strong> November 2019 - April 2020
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<ul>
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<li>A personalised, multi-sensory, perfume-making for guests on Sentosa Island. </li>
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<li>Personality surveys and Augmented Reality (AR) projections were employed to provide guests with a unique and immersive experience.</li>
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<li>As part of the project, Jetaime developed a proprietary, all-new perfume using orchids and plants indigenous to Singapore and Sentosa.</li>
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</ul>
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<p></p>
+
+&nbsp;&nbsp;&nbsp;&nbsp;</div>
+
+</div>
+
+  
+
+<h4>Wartime Food and Sustainability Workshop</h4>
+
+<div class="row reverse-row-order">
+
+&nbsp;&nbsp;&nbsp;&nbsp;<div class="col is-offset-1 is-5">
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<figure style="margin:0;">
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img alt="Wartime Food and Sustainability Workshop" src="/images/partner-us/enterprise/egc.png">
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</figure>
+
+&nbsp;&nbsp;&nbsp;&nbsp;</div>
+
+&nbsp;&nbsp;&nbsp;&nbsp;<div class="col is-6">
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<p>
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</p><h5 style="margin-top:0;">Edible Garden City Pte Ltd</h5>
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<strong>Trial Period:</strong> February 2020 - November 2020
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<ul>
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<li>A hands-on educational gastronomy workshop on food and sustainability, featuring wartime food crops at Fort Siloso.</li>
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<li>During the workshop, participants revisited the dark days of the Japanese Occupation at the Surrender Chambers and learned how people adapted their food sources.</li>
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</ul>
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<p></p>
+
+&nbsp;&nbsp;&nbsp;&nbsp;</div>
+
+</div>
+
+  
+
+<div class="row">
+
+&nbsp;&nbsp;&nbsp;&nbsp;<div class="col is-4">
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img alt="Connectivity" src="/images/partner-us/enterprise/icons/12\_cycling.png">
+
+&nbsp;&nbsp;&nbsp;&nbsp;</div>
+
+&nbsp;&nbsp;&nbsp;&nbsp;<div class="col is-8">
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<p class="title is-4"></p><h2>Connectivity</h2><p></p>
+
+&nbsp;&nbsp;&nbsp;&nbsp;</div>
+
+</div>
+
+  
+
+<h4>Autonomous Shuttle Trials</h4>
+
+<div class="row reverse-row-order">
+
+&nbsp;&nbsp;&nbsp;&nbsp;<div class="col is-offset-1 is-5">
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<figure style="margin:0;">
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img alt="Image of Autonomous Shuttle Trials" src="/images/partner-us/enterprise/auto\_shuttle.jpg">
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</figure>
+
+&nbsp;&nbsp;&nbsp;&nbsp;</div>
+
+&nbsp;&nbsp;&nbsp;&nbsp;<div class="col is-6">
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<p>
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</p><h5 style="margin-top:0;">ST Engineering Land Systems &amp; Ministry of Transport</h5>
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<strong>Trial Period:</strong> October 2017 - December 2019
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<ul>
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<li>As part of Singapore's Smart Nation drive, we facilitated the test-bed of driverless shuttles on the island. </li>
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<li>During the public trial, guests had the chance to try out the on-demand autonomous shuttle buses to get around the island.</li>
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</ul>
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<p></p>
+
+&nbsp;&nbsp;&nbsp;&nbsp;</div>
+
+</div>
+
+  
+  
+
+<div class="row">
+
+&nbsp;&nbsp;&nbsp;&nbsp;<div class="col is-4">
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img alt="Sustainability" src="/images/partner-us/enterprise/icons/01\_peacock.png">
+
+&nbsp;&nbsp;&nbsp;&nbsp;</div>
+
+&nbsp;&nbsp;&nbsp;&nbsp;<div class="col is-8">
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<p class="title is-4"></p><h2>Sustainability</h2><p></p>
+
+&nbsp;&nbsp;&nbsp;&nbsp;</div>
+
+</div>
+
+  
+
+<h4>Solar-Powered Sunscreen Kiosk</h4>
+
+<div class="row reverse-row-order">
+
+&nbsp;&nbsp;&nbsp;&nbsp;<div class="col is-offset-1 is-5">
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<figure style="margin:0;">
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<iframe allowfullscreen="" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" frameborder="0" title="YouTube video player" src="https://www.youtube.com/embed/R-jNg8ZXFHE" height="203" width="360"></iframe>
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</figure>
+
+&nbsp;&nbsp;&nbsp;&nbsp;</div>
+
+&nbsp;&nbsp;&nbsp;&nbsp;<div class="col is-6">
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<p>
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</p><h5 style="margin-top:0;">No Fry Zone Pte Ltd</h5>
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<strong>Trial Period:</strong> June 2019 - December 2019
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<ul>
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<li>The first and only fully-powered sunscreen lotion-dispensing kiosks in the world, these kiosks were placed at Siloso, Palawan and Tanjong beaches to provide guests with access to skin protection anytime.</li>
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<li>No electrical connection is required due to the solar panels attached to its roof.</li>
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<li>Sunscreen lotion was dispensed directly to users, therefore reducing the need for single-use plastic packaging for a more environmentally-friendly outcome.</li>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</ul>
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<p></p>
+
+&nbsp;&nbsp;&nbsp;&nbsp;</div>
+
+</div>
+
+  
+
+<h4>Waste Management Sensor</h4>
+
+<div class="row reverse-row-order">
+
+&nbsp;&nbsp;&nbsp;&nbsp;<div class="col is-offset-1 is-5">
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<figure style="margin:0;">
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img alt="Image of Waste Management Sensor" src="/images/partner-us/enterprise/waste\_management\_sensor.png">
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</figure>
+
+&nbsp;&nbsp;&nbsp;&nbsp;</div>
+
+&nbsp;&nbsp;&nbsp;&nbsp;<div class="col is-6">
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<p>
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</p><h5 style="margin-top:0">SembWaste Ptd Ltd</h5>
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<strong>Trial Period:</strong> February 2020 - September 2020
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<ul>
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<li>Sensors installed in litter bins will capture data on the filling level and transmit such data into cloud storage.</li>
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<li>Reports can be generated from such dashboards to analyse the trend of litter bin emptying trips and volume, which could lead to prodictivity improvements.</li>
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</ul>
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<p></p>
+
+&nbsp;&nbsp;&nbsp;&nbsp;</div>
+
+</div>
+
+  
+
+<div class="row">
+
+&nbsp;&nbsp;&nbsp;&nbsp;<div class="col is-4">
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img alt="Digital" src="/images/partner-us/enterprise/icons/07\_segway.png">
+
+&nbsp;&nbsp;&nbsp;&nbsp;</div>
+
+&nbsp;&nbsp;&nbsp;&nbsp;<div class="col is-8">
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<p class="title is-4"></p><h2>Digital</h2><p></p>
+
+&nbsp;&nbsp;&nbsp;&nbsp;</div>
+
+</div>
+
+  
+
+<h4>Scott AR Mobile</h4>
+
+<div class="row reverse-row-order">
+
+&nbsp;&nbsp;&nbsp;&nbsp;<div class="col is-offset-1 is-5">
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<figure style="margin:0;">
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<iframe allowfullscreen="" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" frameborder="0" title="YouTube video player" src="https://www.youtube.com/embed/eiEsAsisczk" height="203" width="360"></iframe>
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</figure>
+
+&nbsp;&nbsp;&nbsp;&nbsp;</div>
+
+&nbsp;&nbsp;&nbsp;&nbsp;<div class="col is-6">
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<p>
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</p><h5 style="margin-top:0;">SixTrees Viz Comms Pte Ltd</h5>
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<strong>Trial Period:</strong> November 2019 - February 2020
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<ul>
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<li>Featuring an interactive storyline, the different historic exhibits at Fort Siloso were brought to life through the AR App.</li>
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<li>The immersive experience enabled guests to have a deeper perspective of the rich heritage of Fort Siloso.</li>
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</ul>
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<p></p>
+
+&nbsp;&nbsp;&nbsp;&nbsp;</div>
+
+</div>
+
+  
+
+<h4>Swipe WiFi Marketing Cards</h4>
+
+<div class="row reverse-row-order">
+
+&nbsp;&nbsp;&nbsp;&nbsp;<div class="col is-offset-1 is-5">
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<figure style="margin:0;">
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img alt="Image of Swipe WiFi Marketing Cards" src="/images/partner-us/enterprise/swipe\_wifi.png">
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</figure>
+
+&nbsp;&nbsp;&nbsp;&nbsp;</div>
+
+&nbsp;&nbsp;&nbsp;&nbsp;<div class="col is-6">
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<p>
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</p><h5 style="margin-top:0">Swipe WiFi Pte Ltd</h5>
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<strong>Trial Period:</strong> March 2020 - May 2020
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<ul>
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<li>Swipe WiFi utilises Sentosa's WiFi network to connect visitors to relevant marketing and promotional information customised to user needs.</li>
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<li>As a platform, Swipe WiFi opens up opportunities for location-based promotions.</li>
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</ul>
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<p></p>
+
+&nbsp;&nbsp;&nbsp;&nbsp;</div>
+
+</div>
+
+**
