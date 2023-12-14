@@ -2,5 +2,6 @@ collections:
   test-folder:
     output: true
     order:
+      - Headshot.md
       - Cards.md
       - Accordion.md
