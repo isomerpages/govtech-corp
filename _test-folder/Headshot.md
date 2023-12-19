@@ -5,6 +5,114 @@ variant: markdown
 description: ""
 ---
 <style>
+    .iso-template h3 {
+        color: #4372D6;
+        font-family: Lato;
+        font-size: 32px;
+        font-style: normal;
+        font-weight: 400;
+        line-height: normal;
+        margin-bottom: 0px;
+    }
+
+    .iso-template h4 {
+        color: #4372D6;
+        font-family: Lato;
+        font-size: 26px;
+        font-style: normal;
+        font-weight: 400;
+        line-height: normal;
+        margin-bottom: 0px;
+    }
+
+    .iso-template h5 {
+        color: #4372D6;
+        font-family: Lato;
+        font-size: 24px;
+        font-style: normal;
+        font-weight: 400;
+        line-height: normal;
+        margin-bottom: 0px;
+    }
+
+    .iso-template .body-text-regular {
+        color: #484848;
+        font-family: Lato;
+        font-size: 20px;
+        font-style: normal;
+        font-weight: 400;
+        line-height: normal;
+    }
+
+    .iso-template .body-text-small {
+        color: #484848;
+        font-family: Lato;
+        font-size: 16px;
+        font-style: normal;
+        font-weight: 400;
+        line-height: normal;
+    }
+
+    .iso-template .body-text-bold {
+        color: #000;
+        font-family: Lato;
+        font-size: 20px;
+        font-style: normal;
+        font-weight: 700;
+        line-height: normal;
+    }
+
+    .iso-template .body-text-small-bold {
+        color: #4372D6;
+        font-family: Lato;
+        font-size: 16px;
+        font-style: normal;
+        font-weight: 700;
+        line-height: normal;
+    }
+
+    .iso-template .anchorlink {
+        color: #4372D6;
+        font-family: Lato;
+        font-size: 20px;
+        font-style: normal;
+        font-weight: 700;
+        line-height: normal;
+        text-decoration-line: underline;
+    }
+
+    .iso-template .button-default {
+        width: auto;
+        height: auto;
+        padding: 15px 20px;
+        border-radius: 8px;
+        border: 1px solid #4372D6;
+        color: #4372D6;
+        font-family: Lato;
+        font-size: 16px;
+        font-style: normal;
+        font-weight: 700;
+        line-height: normal;
+        text-transform: uppercase;
+        cursor: pointer;
+        display: inline-block;
+    }
+
+    @media only screen and (max-width: 768px) {
+        .iso-template h3 {
+            font-size: 28px;
+        }
+
+        .iso-template h4 {
+            font-size: 24px;
+        }
+
+        .iso-template h5 {
+            font-size: 22px;
+        }
+    }
+</style>
+<style>
     .headshot-template {
         width: 100%;
         display: flex;
@@ -25,28 +133,11 @@ description: ""
     .headshot-template .section.anchor-links a {
         margin-bottom: 0px;
         margin-right: 44px;
-        font-family: Lato;
-        font-size: 20px;
-        font-style: normal;
-        font-weight: 700;
-        line-height: normal;
-        text-decoration-line: underline;
-        color: #4372D6;
     }
 
     .headshot-template .section.page-title {
         text-align: left;
-        font-family: Lato;
-        font-size: 32px;
-        font-style: normal;
-        font-weight: 400;
-        line-height: normal;
-        color: #4372D6;
         margin: 44px 0px;
-    }
-
-    .headshot-template .section.headshot-items-container {
-        margin-bottom: 44px
     }
 
     .headshot-template .headshot-item {
@@ -88,33 +179,16 @@ description: ""
     .headshot-template .headshot-item .headshot-details .headshot-name {
         width: 100%;
         height: auto;
-        font-family: Lato;
-        font-size: 20px;
-        font-style: normal;
-        font-weight: 700;
-        line-height: normal;
-        color: #000;
     }
 
     .headshot-template .headshot-item .headshot-details .headshot-title {
         width: 100%;
         height: auto;
-        font-family: Lato;
-        font-size: 16px;
-        font-style: normal;
-        font-weight: 400;
-        line-height: normal;
     }
 
     .headshot-template .headshot-item .headshot-details .headshot-department {
         width: 100%;
         height: auto;
-        color: #4372D6;
-        font-family: Lato;
-        font-size: 16px;
-        font-style: normal;
-        font-weight: 700;
-        line-height: normal;
     }
 
     @media only screen and (max-width: 768px) {
@@ -156,26 +230,26 @@ description: ""
     }
 </style>
 
-<div class="headshot-template">
+<div class="iso-template headshot-template">
     <div class="section anchor-links">
-        <a href="#anchorlink-1">ANCHORLINK #1</a>
-        <a href="#anchorlink-2">ANCHORLINK #2</a>
+        <a class="anchorlink" href="#anchorlink-1">ANCHORLINK #1</a>
+        <a class="anchorlink" href="#anchorlink-2">ANCHORLINK #2</a>
     </div>
     <div class="section page-title">
-        Section Title
+        <h3>Section Title</h3>
     </div>
     <div class="section headshot-items-container">
         <div class="headshot-item">
             <img alt="" src="https://developers.elementor.com/docs/assets/img/elementor-placeholder-image.png">
             <div class="headshot-details">
                 <div class="headshot-name">
-                    Mr Leong Weng Keong Joseph
+                    <span class="body-text-bold">Mr Leong Weng Keong Joseph</span>
                 </div>
                 <div class="headshot-title">
-                    Chairman
+                    <span class="body-text-small">Chairman</span>
                 </div>
                 <div class="headshot-department">
-                    Permanent Secretary (Smart Nation and Digital Government)
+                    <span class="body-text-small-bold">Permanent Secretary (Smart Nation and Digital Government)</span>
                 </div>
             </div>
         </div>
@@ -183,13 +257,13 @@ description: ""
             <img alt="" src="https://developers.elementor.com/docs/assets/img/elementor-placeholder-image.png">
             <div class="headshot-details">
                 <div class="headshot-name">
-                    Ms Vaishali Rastogi
+                    <span class="body-text-bold">Ms Vaishali Rastogi</span>
                 </div>
                 <div class="headshot-title">
-                    Global leader of technology, media and telecommunications business
+                    <span class="body-text-small">Global leader of technology, media and telecommunications business</span>
                 </div>
                 <div class="headshot-department">
-                    BCG
+                    <span class="body-text-small-bold">BCG</span>
                 </div>
             </div>
         </div>
@@ -197,13 +271,13 @@ description: ""
             <img alt="" src="https://developers.elementor.com/docs/assets/img/elementor-placeholder-image.png">
             <div class="headshot-details">
                 <div class="headshot-name">
-                    Mr Augustin Lee
+                    <span class="body-text-bold">Mr Augustin Lee</span>
                 </div>
                 <div class="headshot-title">
-                    Deputy Chairman
+                    <span class="body-text-small">Deputy Chairman</span>
                 </div>
                 <div class="headshot-department">
-                    Second Permanent Secretary (Smart Nation and Digital Government Group)
+                    <span class="body-text-small-bold">Second Permanent Secretary (Smart Nation and Digital Government Group)</span>
                 </div>
             </div>
         </div>
@@ -211,13 +285,13 @@ description: ""
             <img alt="" src="https://developers.elementor.com/docs/assets/img/elementor-placeholder-image.png">
             <div class="headshot-details">
                 <div class="headshot-name">
-                    Ms Stacey N. Lacy
+                    <span class="body-text-bold">Ms Stacey N. Lacy</span>
                 </div>
                 <div class="headshot-title">
-                    Asia Pacific Chief Information Officer And Head Of Operations &amp; Technology
+                    <span class="body-text-small">Asia Pacific Chief Information Officer And Head Of Operations &amp; Technology</span>
                 </div>
                 <div class="headshot-department">
-                    Citi
+                    <span class="body-text-small-bold">Citi</span>
                 </div>
             </div>
         </div>
@@ -225,13 +299,13 @@ description: ""
             <img alt="" src="https://developers.elementor.com/docs/assets/img/elementor-placeholder-image.png">
             <div class="headshot-details">
                 <div class="headshot-name">
-                    Mr Dominic Chan
+                    <span class="body-text-bold">Mr Dominic Chan</span>
                 </div>
                 <div class="headshot-title">
-                    Assistant Chief Executive / Senior Director (Ndi)
+                    <span class="body-text-small">Assistant Chief Executive / Senior Director (Ndi)</span>
                 </div>
                 <div class="headshot-department">
-                    Product Management, National Digital Identity (NDI)
+                    <span class="body-text-small-bold">Product Management, National Digital Identity (NDI)</span>
                 </div>
             </div>
         </div>
@@ -239,32 +313,32 @@ description: ""
             <img alt="" src="https://developers.elementor.com/docs/assets/img/elementor-placeholder-image.png">
             <div class="headshot-details">
                 <div class="headshot-name">
-                    Name of Person
+                    <span class="body-text-bold">Name of Person</span>
                 </div>
                 <div class="headshot-title">
-                    Position 
+                    <span class="body-text-small">Position </span>
                 </div>
                 <div class="headshot-department">
-                    Department/Division
+                    <span class="body-text-small-bold">Department/Division</span>
                 </div>
             </div>
         </div>
     </div>
     <div class="section page-title">
-        Section Title
+        <h3>Section Title</h3>
     </div>
     <div class="section headshot-items-container">
         <div class="headshot-item">
             <img alt="" src="https://developers.elementor.com/docs/assets/img/elementor-placeholder-image.png">
             <div class="headshot-details">
                 <div class="headshot-name">
-                    Mr Leong Weng Keong Joseph
+                    <span class="body-text-bold">Mr Leong Weng Keong Joseph</span>
                 </div>
                 <div class="headshot-title">
-                    Chairman
+                    <span class="body-text-small">Chairman</span>
                 </div>
                 <div class="headshot-department">
-                    Permanent Secretary (Smart Nation and Digital Government)
+                    <span class="body-text-small-bold">Permanent Secretary (Smart Nation and Digital Government)</span>
                 </div>
             </div>
         </div>
@@ -272,13 +346,13 @@ description: ""
             <img alt="" src="https://developers.elementor.com/docs/assets/img/elementor-placeholder-image.png">
             <div class="headshot-details">
                 <div class="headshot-name">
-                    Ms Vaishali Rastogi
+                    <span class="body-text-bold">Ms Vaishali Rastogi</span>
                 </div>
                 <div class="headshot-title">
-                    Global leader of technology, media and telecommunications business
+                    <span class="body-text-small">Global leader of technology, media and telecommunications business</span>
                 </div>
                 <div class="headshot-department">
-                    BCG
+                    <span class="body-text-small-bold">BCG</span>
                 </div>
             </div>
         </div>
@@ -286,13 +360,13 @@ description: ""
             <img alt="" src="https://developers.elementor.com/docs/assets/img/elementor-placeholder-image.png">
             <div class="headshot-details">
                 <div class="headshot-name">
-                    Mr Augustin Lee
+                    <span class="body-text-bold">Mr Augustin Lee</span>
                 </div>
                 <div class="headshot-title">
-                    Deputy Chairman
+                    <span class="body-text-small">Deputy Chairman</span>
                 </div>
                 <div class="headshot-department">
-                    Second Permanent Secretary (Smart Nation and Digital Government Group)
+                    <span class="body-text-small-bold">Second Permanent Secretary (Smart Nation and Digital Government Group)</span>
                 </div>
             </div>
         </div>
@@ -300,13 +374,13 @@ description: ""
             <img alt="" src="https://developers.elementor.com/docs/assets/img/elementor-placeholder-image.png">
             <div class="headshot-details">
                 <div class="headshot-name">
-                    Ms Stacey N. Lacy
+                    <span class="body-text-bold">Ms Stacey N. Lacy</span>
                 </div>
                 <div class="headshot-title">
-                    Asia Pacific Chief Information Officer And Head Of Operations &amp; Technology
+                    <span class="body-text-small">Asia Pacific Chief Information Officer And Head Of Operations &amp; Technology</span>
                 </div>
                 <div class="headshot-department">
-                    Citi
+                    <span class="body-text-small-bold">Citi</span>
                 </div>
             </div>
         </div>
@@ -314,13 +388,13 @@ description: ""
             <img alt="" src="https://developers.elementor.com/docs/assets/img/elementor-placeholder-image.png">
             <div class="headshot-details">
                 <div class="headshot-name">
-                    Mr Dominic Chan
+                    <span class="body-text-bold">Mr Dominic Chan</span>
                 </div>
                 <div class="headshot-title">
-                    Assistant Chief Executive / Senior Director (Ndi)
+                    <span class="body-text-small">Assistant Chief Executive / Senior Director (Ndi)</span>
                 </div>
                 <div class="headshot-department">
-                    Product Management, National Digital Identity (NDI)
+                    <span class="body-text-small-bold"></span>Product Management, National Digital Identity (NDI)
                 </div>
             </div>
         </div>
@@ -328,13 +402,13 @@ description: ""
             <img alt="" src="https://developers.elementor.com/docs/assets/img/elementor-placeholder-image.png">
             <div class="headshot-details">
                 <div class="headshot-name">
-                    Name of Person
+                    <span class="body-text-bold">Name of Person</span>
                 </div>
                 <div class="headshot-title">
-                    Position 
+                    <span class="body-text-small">Position</span> 
                 </div>
                 <div class="headshot-department">
-                    Department/Division
+                    <span class="body-text-small-bold">Department/Division</span>
                 </div>
             </div>
         </div>
