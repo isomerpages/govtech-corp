@@ -2,6 +2,7 @@ collections:
   test-folder:
     output: true
     order:
+      - Form.md
       - Article.md
       - Informative.md
       - Experiments/Accordion.md
