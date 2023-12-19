@@ -98,6 +98,29 @@ description: ""
         display: inline-block;
     }
 
+    .iso-template .button-blue {
+        width: auto;
+        height: auto;
+        padding: 15px 20px;
+        border-radius: 8px;
+        border: 1px solid #4372D6;
+        color: #fff;
+        background-color: #4372D6;
+        font-family: Lato;
+        font-size: 16px;
+        font-style: normal;
+        font-weight: 700;
+        line-height: normal;
+        text-transform: uppercase;
+        cursor: pointer;
+        display: inline-block;
+    }
+
+    .iso-template .button-blue > svg {
+        display: inline;
+        margin-left: 15px
+    }
+
     @media only screen and (max-width: 768px) {
         .iso-template h3 {
             font-size: 28px;
