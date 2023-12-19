@@ -2,6 +2,7 @@ collections:
   test-folder:
     output: true
     order:
+      - Experiments/Cards.md
       - Experiments/Lightbox.md
       - Experiments/.keep
       - Listing.md
