@@ -6,7 +6,7 @@ description: ""
 ---
 <style>
     .iso-template h3 {
-        color: #4372D6;
+        color: #4372D6 !important;
         font-family: Lato;
         font-size: 32px;
         font-style: normal;
@@ -16,7 +16,7 @@ description: ""
     }
 
     .iso-template h4 {
-        color: #4372D6;
+        color: #4372D6 !important;
         font-family: Lato;
         font-size: 26px;
         font-style: normal;
@@ -26,7 +26,7 @@ description: ""
     }
 
     .iso-template h5 {
-        color: #4372D6;
+        color: #4372D6 !important;
         font-family: Lato;
         font-size: 24px;
         font-style: normal;
@@ -36,7 +36,7 @@ description: ""
     }
 
     .iso-template .body-text-regular {
-        color: #484848;
+        color: #484848 !important;
         font-family: Lato;
         font-size: 20px;
         font-style: normal;
@@ -45,7 +45,7 @@ description: ""
     }
 
     .iso-template .body-text-small {
-        color: #484848;
+        color: #484848 !important;
         font-family: Lato;
         font-size: 16px;
         font-style: normal;
@@ -54,7 +54,7 @@ description: ""
     }
 
     .iso-template .body-text-bold {
-        color: #000;
+        color: #000 !important;
         font-family: Lato;
         font-size: 20px;
         font-style: normal;
@@ -63,7 +63,7 @@ description: ""
     }
 
     .iso-template .body-text-small-bold {
-        color: #4372D6;
+        color: #4372D6 !important;
         font-family: Lato;
         font-size: 16px;
         font-style: normal;
@@ -72,7 +72,7 @@ description: ""
     }
 
     .iso-template .anchorlink {
-        color: #4372D6;
+        color: #4372D6 !important;
         font-family: Lato;
         font-size: 20px;
         font-style: normal;
@@ -87,7 +87,7 @@ description: ""
         padding: 15px 20px;
         border-radius: 8px;
         border: 1px solid #4372D6;
-        color: #4372D6;
+        color: #4372D6 !important;
         font-family: Lato;
         font-size: 16px;
         font-style: normal;
@@ -104,7 +104,7 @@ description: ""
         padding: 15px 20px;
         border-radius: 8px;
         border: 1px solid #4372D6;
-        color: #fff;
+        color: #fff !important;
         background-color: #4372D6;
         font-family: Lato;
         font-size: 16px;
