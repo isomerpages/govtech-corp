@@ -63,4 +63,15 @@ sections:
       alt: Tech for Public Good
       url: /digital-government-efforts/tech-for-public-good
       image: /images/tracetogethertest1.jpg
+  - infopic:
+      title: Infopic
+      subtitle: Add an image and text
+      id: infopic
+      description: Infopic description
+      button: Button Text
+      alt: Image alt text
+  - resources:
+      title: Resources
+      subtitle: Add a preview and link to your Resource Room
+      id: resources
 ---
