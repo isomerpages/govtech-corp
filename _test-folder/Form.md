@@ -174,6 +174,7 @@ description: ""
         font-family: Lato;
         font-size: 16px;
         box-sizing: border-box;
+        border: 1px solid #D6D6D6;
     }
 
     .form-template #mc_embed_signup .section.form-fields {
@@ -289,7 +290,7 @@ description: ""
                     </div>
                 </div>
                 <div class="section form-fields">
-                    <div class="mc-field-group">
+                    <div class="mc-field-group full-width">
                         <label class="body-text-bold" for="mce-TECH">Are you in a tech-based job / field of study? <span class="asterisk">*</span>
                         </label>
                         <select required="" id="mce-TECH" class="required" name="TECH">
@@ -299,7 +300,9 @@ description: ""
                         </select>
                         <span class="helper_text" id="mce-TECH-HELPERTEXT"></span>
                     </div>
-                    <div class="mc-field-group">
+                </div>
+                <div class="section form-fields">
+                    <div class="mc-field-group full-width">
                         <label class="body-text-bold" for="mce-INDUSTRY">Which industry do you primarily work in? <span class="asterisk">*</span>
                         </label>
                         <select required="" id="mce-INDUSTRY" class="required" name="INDUSTRY">
