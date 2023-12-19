@@ -2,6 +2,7 @@ collections:
   test-folder:
     output: true
     order:
+      - Lightbox.md
       - Listing.md
       - Headshot.md
       - Cards.md
