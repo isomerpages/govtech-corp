@@ -214,6 +214,34 @@ description: ""
         height: auto;
     }
 
+    @media only screen and (max-width: 1279px) {
+        .headshot-template .headshot-item {
+            width: 100%;
+        }
+
+        .headshot-template .headshot-item:nth-of-type(odd) {
+            margin-right: 0px;
+        }
+
+        .headshot-template .headshot-item:nth-of-type(even) {
+            margin-left: 0px;
+        }
+    }
+
+    @media only screen and (max-width: 1023px) {
+        .headshot-template .headshot-item {
+            width: calc(50% - 12px);
+        }
+
+        .headshot-template .headshot-item:nth-of-type(odd) {
+            margin-right: 12px;
+        }
+
+        .headshot-template .headshot-item:nth-of-type(even) {
+            margin-left: 12px;
+        }
+    }
+
     @media only screen and (max-width: 768px) {
         .headshot-template .section.anchor-links {
             flex-direction: column;
