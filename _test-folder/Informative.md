@@ -391,6 +391,86 @@ description: ""
         width: 412px;
         height: 232px;
     }
+
+    @media only screen and (max-width: 768px) {
+        .informative-template .info-cards {
+            flex: 0 0 100%;
+            padding-bottom: 32px;
+        }
+
+        .informative-template .info-cards:last-of-type {
+            padding-bottom: 0px;
+        }
+
+        .informative-template .info-cards-details {
+            padding: 15px
+        }
+
+        .informative-template .info-cards:nth-of-type(3n+1) {
+            padding-right: 0px;
+        }
+
+        .informative-template .info-cards:nth-of-type(3n+2) {
+            padding-right: 0px;
+            padding-left: 0px;
+        }
+
+        .informative-template .info-cards:nth-of-type(3n+3) {
+            padding-left: 0px;
+        }
+
+        .informative-template .info-cards-details .body-text-small {
+            display: block;
+            margin-top: 11px
+        }
+
+        .informative-template .portrait-box > img {
+            width: 100%;
+            height: auto;
+        }
+
+        .informative-template .portrait-box-details {
+            width: 100%;
+            height: auto;
+            padding-left: 0px;
+        }
+
+        .informative-template .portrait-box-details > h4 {
+            font-size: 28px;
+        }
+
+        .informative-template .swap-image-box,
+        .informative-template .swap-image-box:nth-of-type(even) {
+            flex-direction: column;
+        }
+
+        .informative-template .swap-image-box > img {
+            width: 100%;
+            height: auto;
+        }
+
+        .informative-template .swap-image-box > .swap-image-details {
+            width: 100%;
+            height: auto;
+            padding-left: 0px;
+            padding-top: 20px;
+        }
+
+        .informative-template .accordion-container .accordion-content {
+            padding: 10px 12px 30px 12px;
+        }
+
+        .informative-template .feature-image > img {
+            width: 100%;
+            height: auto;
+            max-width: 320px;
+        }
+
+        .informative-template .feature-center > img {
+            width: 100%;
+            height: auto;
+        }
+    }
 </style>
 
 <div class="iso-template informative-template">
