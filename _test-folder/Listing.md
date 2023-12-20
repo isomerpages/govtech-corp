@@ -255,8 +255,8 @@ description: ""
     }
 
     .listing-template .card-two-box > img {
-        width: 410px;
-        height: 301px;
+        width: 100%;
+        height: auto;
     }
 
     .listing-template .card-two-details {
@@ -299,11 +299,6 @@ description: ""
         .listing-template .card-two-box:nth-of-type(even) {
             padding-left: 0px;
         }
-
-        .listing-template .card-two-box > img {
-            width: 100%;
-            height: auto
-        }
     }
 </style>
 <style>
@@ -335,8 +330,8 @@ description: ""
     }
 
     .listing-template .card-three-box > img {
-        width: 410px;
-        height: 301px;
+        width: 100%;
+        height: auto;
     }
 
     .listing-template .card-three-details {
@@ -383,11 +378,6 @@ description: ""
 
         .listing-template .card-three-box:nth-of-type(3n+3) {
             padding-left: 0px;
-        }
-
-        .listing-template .card-three-box > img {
-            width: 100%;
-            height: auto;
         }
     }
 </style>
