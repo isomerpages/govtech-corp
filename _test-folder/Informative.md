@@ -195,6 +195,9 @@ description: ""
         display: block;
         border-top-right-radius: 10px;
         border-top-left-radius: 10px;
+        border: 2px solid #D9D9D9;
+        box-sizing: border-box;
+        border-bottom: none;
     }
 
     .informative-template .info-cards-details {
