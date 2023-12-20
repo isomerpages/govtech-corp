@@ -280,6 +280,59 @@ description: ""
     .article-template .card-banner-image h3 {
         margin-bottom: 15px
     }
+
+    @media only screen and (max-width: 768px) {
+        .article-template .swap-image-box,
+        .article-template .swap-image-box:nth-of-type(even) {
+            flex-direction: column;
+        }
+
+        .article-template .swap-image-box > img {
+            width: 100%;
+            height: auto
+        }
+
+        .article-template .swap-image-box > .swap-image-details {
+            width: 100%;
+            height: auto;
+            padding-left: 0px;
+            padding-top: 20px;
+        }
+
+        .article-template .swap-banner-box {
+            min-height: 100vw;
+        }
+
+        .article-template .swap-banner-box > .swap-banner-details,
+        .article-template .swap-banner-box:nth-of-type(even) > .swap-banner-details {
+            width: 100%;
+            height: auto;
+            justify-content: flex-start;
+            padding-left: 30px;
+            padding-right: 30px;
+            padding-top: 30px;
+            padding-bottom: 30px;
+        }
+
+        .article-template .card-banner-box {
+            flex: 0 0 100%;
+        }
+
+        .article-template .card-banner-image {
+            width: 100%;
+            height: auto;
+            min-height: 90vw;
+        }
+
+        .article-template .card-banner-box:nth-of-type(odd) .card-banner-image {
+            margin-bottom: 44px;
+            margin-right: 0px;
+        }
+
+        .article-template .card-banner-box:nth-of-type(even) .card-banner-image {
+            margin-left: 0px;
+        }
+    }
 </style>
 
 <div class="iso-template article-template">
