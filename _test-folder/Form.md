@@ -238,6 +238,30 @@ description: ""
     .form-template ul.ul-vertical {
         flex-direction: column;
     }
+
+    @media only screen and (max-width: 768px) {
+        .form-template #mc_embed_signup {
+            width: calc(100% + 48px);
+            margin-left: -24px;
+        }
+
+        .form-template #mc_embed_signup .section.form-fields .mc-field-group {
+            width: 100%;
+        }
+
+        .form-template #mc_embed_signup .section.form-fields .mc-field-group:nth-of-type(odd){
+            margin-right: 0px;
+            margin-bottom: 44px;
+        }
+
+        .form-template #mc_embed_signup .section.form-fields .mc-field-group:nth-of-type(even){
+            margin-left: 0px;
+        }
+
+        .form-template #mc_embed_signup .section.form-fields {
+            flex-direction: column;
+        }
+    }
 </style>
 <div class="iso-template form-template">
     <div class="section">
