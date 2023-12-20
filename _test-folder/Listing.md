@@ -213,16 +213,22 @@ description: ""
         float: left;
     }
 
-    @media only screen and (max-width: 1279px) {
-        
-    }
-
-    @media only screen and (max-width: 1023px) {
-        
-    }
-
     @media only screen and (max-width: 768px) {
-        
+        .listing-template .card-one-box {
+            flex-direction: column-reverse;
+        }
+
+        .listing-template .card-one-box > img {
+            width: 100%;
+            height: auto;
+            border-radius: 10px;
+            margin-top: 20px;
+        }
+
+        .listing-template .card-one-details {
+            width: 100%;
+            padding: 0px;
+        }
     }
 </style>
 <style>
@@ -282,7 +288,22 @@ description: ""
     }
 
     @media only screen and (max-width: 768px) {
-        
+        .listing-template .card-two-box {
+            flex: 0 0 100%;
+        }
+
+        .listing-template .card-two-box:nth-of-type(odd) {
+            padding-right: 0px;
+        }
+
+        .listing-template .card-two-box:nth-of-type(even) {
+            padding-left: 0px;
+        }
+
+        .listing-template .card-two-box > img {
+            width: 100%;
+            height: auto
+        }
     }
 </style>
 <style>
@@ -347,7 +368,27 @@ description: ""
     }
 
     @media only screen and (max-width: 768px) {
-        
+        .listing-template .card-three-box {
+            flex: 0 0 100%;
+        }
+
+        .listing-template .card-three-box:nth-of-type(3n+1) {
+            padding-right: 0px;
+        }
+
+        .listing-template .card-three-box:nth-of-type(3n+2) {
+            padding-right: 0px;
+            padding-left: 0px;
+        }
+
+        .listing-template .card-three-box:nth-of-type(3n+3) {
+            padding-left: 0px;
+        }
+
+        .listing-template .card-three-box > img {
+            width: 100%;
+            height: auto;
+        }
     }
 </style>
 <div class="iso-template listing-template">
