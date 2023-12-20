@@ -436,6 +436,7 @@ description: ""
             width: 100%;
             height: auto;
             padding-left: 0px;
+            padding-top: 20px;
         }
 
         .informative-template .portrait-box-details > h4 {
