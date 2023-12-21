@@ -5,9 +5,9 @@ collections:
       - Form.md
       - Article.md
       - Informative.md
+      - Listing.md
+      - Headshot.md
+      - Experiments/.keep
       - Experiments/Accordion.md
       - Experiments/Cards.md
       - Experiments/Lightbox.md
-      - Experiments/.keep
-      - Listing.md
-      - Headshot.md
