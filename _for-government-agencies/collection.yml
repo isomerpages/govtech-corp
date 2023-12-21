@@ -1,5 +1,5 @@
 collections:
-  government-products:
+  for-government-agencies:
     output: true
     order:
       - government-on-commercial-cloud.md
