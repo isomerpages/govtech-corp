@@ -2,6 +2,7 @@ collections:
   our-capabilities:
     output: true
     order:
+      - capability-centre-sctd.md
       - capability-centre-gig.md
       - capability-centre-gds.md
       - capability-centre-dsaid.md
