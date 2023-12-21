@@ -2,6 +2,6 @@ collections:
   persona-entry-pages:
     output: true
     order:
+      - For Citizens.md
       - For Businesses and Vendors.md
       - For Government Agencies.md
-      - For Citizens.md
