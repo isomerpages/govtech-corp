@@ -1,4 +1,5 @@
 collections:
   our-capabilities:
     output: true
-    order: []
+    order:
+      - capability-centre-csg.md
