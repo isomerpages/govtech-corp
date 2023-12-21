@@ -1,0 +1,4 @@
+collections:
+  our-capabilities:
+    output: true
+    order: []
