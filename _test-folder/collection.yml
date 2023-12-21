@@ -2,10 +2,10 @@ collections:
   test-folder:
     output: true
     order:
-      - Form.md
-      - Article.md
-      - Informative.md
       - Listing.md
+      - Informative.md
+      - Article.md
+      - Form.md
       - Headshot.md
       - Experiments/.keep
       - Experiments/Accordion.md
