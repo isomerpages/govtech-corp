@@ -1,5 +1,4 @@
 collections:
   for-citizens:
     output: true
-    order:
-      - student-learning-space.md
+    order: []
