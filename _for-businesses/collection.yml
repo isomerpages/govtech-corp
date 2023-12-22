@@ -2,6 +2,6 @@ collections:
   for-businesses:
     output: true
     order:
-      - GoBusiness.md
-      - Corppass.md
       - Singpass APIs.md
+      - Corppass.md
+      - GoBusiness.md
