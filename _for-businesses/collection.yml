@@ -2,6 +2,7 @@ collections:
   for-businesses:
     output: true
     order:
+      - Corppass.md
       - Smart City Tech.md
       - corppass.md
       - gobusiness-portal.md
