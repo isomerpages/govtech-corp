@@ -2,6 +2,5 @@ collections:
   for-citizens:
     output: true
     order:
-      - singpass.md
       - responding-to-covid-19-with-tech.md
       - student-learning-space.md
