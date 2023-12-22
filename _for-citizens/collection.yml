@@ -2,8 +2,6 @@ collections:
   for-citizens:
     output: true
     order:
-      - Test/parking-sg.md
-      - Test/.keep
       - lifesg.md
       - parents-gateway.md
       - singpass.md
