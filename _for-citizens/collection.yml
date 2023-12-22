@@ -2,7 +2,6 @@ collections:
   for-citizens:
     output: true
     order:
-      - lifesg.md
       - parents-gateway.md
       - singpass.md
       - responding-to-covid-19-with-tech.md
