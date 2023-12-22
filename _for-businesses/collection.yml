@@ -3,7 +3,7 @@ collections:
     output: true
     order:
       - Corppass.md
-      - Smart City Tech.md
+      - Singpass APIs.md
       - corppass.md
       - gobusiness-portal.md
       - national-trade-platform.md
