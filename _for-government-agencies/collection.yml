@@ -2,7 +2,6 @@ collections:
   for-government-agencies:
     output: true
     order:
-      - government-on-commercial-cloud.md
       - data-gov-sg.md
       - vica.md
       - developer-portal.md
