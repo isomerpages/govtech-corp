@@ -2,5 +2,4 @@ collections:
   for-government-agencies:
     output: true
     order:
-      - Data and AI/.keep
       - Software Development/.keep
