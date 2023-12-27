@@ -2,7 +2,6 @@ collections:
   for-government-agencies:
     output: true
     order:
-      - digital-service-standards.md
       - Transcribe.md
       - LaunchPad.md
       - Pair.md
