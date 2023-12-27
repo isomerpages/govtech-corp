@@ -2,5 +2,4 @@ collections:
   for-government-agencies:
     output: true
     order:
-      - govtech-digital-academy.md
       - singapore-government-tech-stack.md
