@@ -2,6 +2,7 @@ collections:
   for-citizens:
     output: true
     order:
+      - CrowdTaskSG.md
       - TreesSG.md
       - MyENV.md
       - Healthy365.md
