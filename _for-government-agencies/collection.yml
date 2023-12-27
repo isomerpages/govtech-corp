@@ -2,6 +2,5 @@ collections:
   for-government-agencies:
     output: true
     order:
-      - formSG.md
       - govtech-digital-academy.md
       - singapore-government-tech-stack.md
