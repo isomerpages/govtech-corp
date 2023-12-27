@@ -2,7 +2,6 @@ collections:
   for-government-agencies:
     output: true
     order:
-      - data-gov-sg.md
       - vica.md
       - developer-portal.md
       - digital-workplace.md
