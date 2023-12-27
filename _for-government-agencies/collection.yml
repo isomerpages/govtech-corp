@@ -1,5 +1,4 @@
 collections:
   for-government-agencies:
     output: true
-    order:
-      - singapore-government-tech-stack.md
+    order: []
