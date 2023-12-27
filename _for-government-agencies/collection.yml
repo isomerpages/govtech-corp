@@ -2,6 +2,7 @@ collections:
   for-government-agencies:
     output: true
     order:
+      - ICT and Infrastructure/Content Disarm and Reconstruction.md
       - ICT and Infrastructure/.keep
       - Secure Internet Surfing.md
       - Data Loss Prevention.md
