@@ -2,6 +2,7 @@ collections:
   for-government-agencies:
     output: true
     order:
+      - Pair.md
       - VICA.md
       - FormSG.md
       - Digital Workplace.md
