@@ -2,5 +2,6 @@ collections:
   for-government-agencies:
     output: true
     order:
+      - Data and AI/Video Analytics System (VAS).md
       - Data and AI/.keep
       - Software Development/.keep
