@@ -3,7 +3,6 @@ collections:
     output: true
     order:
       - ICT and Infrastructure/.keep
-      - Content Disarm and Reconstruction.md
       - Secure Internet Surfing.md
       - Data Loss Prevention.md
       - Digital Service Standards.md
