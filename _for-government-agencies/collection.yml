@@ -2,8 +2,6 @@ collections:
   for-government-agencies:
     output: true
     order:
-      - Data and AI/Test.md
-      - Data and AI/.keep
       - WOGAA.md
       - Analytics gov.md
       - Video Analytics System (VAS).md
