@@ -2,7 +2,6 @@ collections:
   for-government-agencies:
     output: true
     order:
-      - developer-portal.md
       - digital-workplace.md
       - formSG.md
       - govtech-digital-academy.md
