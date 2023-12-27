@@ -2,6 +2,7 @@ collections:
   for-citizens:
     output: true
     order:
+      - Healthcerts.md
       - Notarise.md
       - OpenAttestation.md
       - FileSG.md
