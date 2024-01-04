@@ -164,6 +164,7 @@ description: ""
         background: #F0F4F6;
         padding: 30px;
         display: inline-block;
+        border-radius: 10px;
     }
 
     .form-template #mc_embed_signup input,
@@ -175,6 +176,10 @@ description: ""
         font-size: 16px;
         box-sizing: border-box;
         border: 1px solid #D6D6D6;
+    }
+
+    .form-template #mc_embed_signup input[type="submit"]{
+        border: none;
     }
 
     .form-template #mc_embed_signup .section.form-fields {
