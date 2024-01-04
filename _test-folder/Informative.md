@@ -369,6 +369,7 @@ description: ""
         width: 500px;
         height: 375px;
         margin-bottom: 20px;
+        border-radius: 10px
     }
 
     .informative-template .feature-image-button-holder {
@@ -402,6 +403,7 @@ description: ""
         margin-bottom: 30px;
         width: 412px;
         height: 232px;
+        border-radius: 10px
     }
 
     @media only screen and (max-width: 768px) {
