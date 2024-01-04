@@ -168,7 +168,6 @@ description: ""
     .article-template .banner-image {
         width: 100%;
         height: auto;
-        border-radius: 10px;
     }
 
     .article-template .section.swap-image-container {
