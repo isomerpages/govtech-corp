@@ -374,10 +374,10 @@ description: ""
             width: 100%;
             height: auto;
             min-height: 90vw;
+            margin-bottom: 44px;
         }
 
         .article-template .card-banner-box:nth-of-type(odd) .card-banner-image {
-            margin-bottom: 44px;
             margin-right: 0px;
         }
 
@@ -389,6 +389,7 @@ description: ""
             width: 100%;
             height: auto;
             min-height: 90vw;
+            margin-bottom: 44px;
         }
 
         .article-template .section.card-banner-container-three .card-banner-box:nth-of-type(3n-2) .card-banner-image {
