@@ -148,6 +148,16 @@ description: ""
         margin-bottom: 44px
     }
 
+    .article-template .section.tldr {
+        background-color: #f5f5f5;
+        border-radius: 10px;
+        padding: 24px 30px;
+    }
+
+    .article-template .section.tldr > h5{
+        padding-bottom: 15px;
+    }
+
     .article-template .section.linebreak {
         width: 100%;
         height: 1px;
@@ -157,7 +167,8 @@ description: ""
 
     .article-template .banner-image {
         width: 100%;
-        height: auto
+        height: auto;
+        border-radius: 10px;
     }
 
     .article-template .section.swap-image-container {
@@ -249,7 +260,8 @@ description: ""
         margin-bottom: 30px
     }
 
-    .article-template .section.card-banner-container {
+    .article-template .section.card-banner-container,
+    .article-template .section.card-banner-container-three  {
         display: flex;
         flex-wrap: wrap;
     }
@@ -257,6 +269,10 @@ description: ""
     .article-template .card-banner-box {
         flex: 0 0 50%;
         position: relative;
+    }
+
+    .article-template .section.card-banner-container-three .card-banner-box {
+        flex: 0 0 33%;
     }
 
     .article-template .card-banner-image {
@@ -277,11 +293,43 @@ description: ""
         margin-left: 12px;
     }
 
-    .article-template .card-banner-image h3 {
+    .article-template .section.card-banner-container-three .card-banner-image {
+        width: calc(100% - 16px);
+    }
+
+    .article-template .section.card-banner-container-three .card-banner-box:nth-of-type(3n-2) .card-banner-image {
+        margin-right: 16px;
+    }
+
+    .article-template .section.card-banner-container-three .card-banner-box:nth-of-type(3n-1) .card-banner-image {
+        margin-right: 8px;
+        margin-left: 8px;
+    }
+
+    .article-template .section.card-banner-container-three .card-banner-box:nth-of-type(3n-0) .card-banner-image {
+        margin-left: 16px;
+    }
+
+    .article-template .card-banner-image h3,
+    .article-template .card-banner-image h5 {
         margin-bottom: 15px
     }
 
+    .article-template .section.related-content h5 {
+        margin-bottom: 44px
+    }
+
+    .article-template .section.related-content ul,
+    .article-template .section.related-content li,
+    .article-template .section.related-content a {
+        color: #4372D6
+    }
+
     @media only screen and (max-width: 768px) {
+        .article-template .section.tldr {
+            padding: 18px 24px;
+        }
+
         .article-template .swap-image-box,
         .article-template .swap-image-box:nth-of-type(even) {
             flex-direction: column;
@@ -318,6 +366,10 @@ description: ""
             flex: 0 0 100%;
         }
 
+        .article-template .section.card-banner-container-three .card-banner-box {
+            flex: 0 0 100%;
+        }
+
         .article-template .card-banner-image {
             width: 100%;
             height: auto;
@@ -332,15 +384,38 @@ description: ""
         .article-template .card-banner-box:nth-of-type(even) .card-banner-image {
             margin-left: 0px;
         }
+
+        .article-template .section.card-banner-container-three .card-banner-image {
+            width: 100%;
+            height: auto;
+            min-height: 90vw;
+        }
+
+        .article-template .section.card-banner-container-three .card-banner-box:nth-of-type(3n-2) .card-banner-image {
+            margin-right: 0px;
+        }
+
+        .article-template .section.card-banner-container-three .card-banner-box:nth-of-type(3n-1) .card-banner-image {
+            margin-right: 0px;
+            margin-left: 0px;
+        }
+
+        .article-template .section.card-banner-container-three .card-banner-box:nth-of-type(3n-0) .card-banner-image {
+            margin-left: 0px;
+        }
     }
 </style>
 
 <div class="iso-template article-template">
     <div class="section">
-        <img class="banner-image" alt="" src="https://developers.elementor.com/docs/assets/img/elementor-placeholder-image.png">
+        <img class="banner-image" alt="" src="https://i.ibb.co/9gLh4zh/image-63-4.jpg">
     </div>
     <div class="section">
         <h3>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam tempor in lorem nec ornare. In in turpis dolor. Fusce feugiat, risus id euismod gravida, lectus urna fermentum nisi, ac mattis nulla velit eu quam.</h3>
+    </div>
+    <div class="section tldr">
+        <h5>TL;DR</h5>
+        <span class="body-text-regular">Vestibulum tincidunt neque at elit dictum cursus. Praesent eu libero at velit vestibulum sollicitudin vel non lorem. Pellentesque vitae lorem scelerisque, vehicula tellus ut, vestibulum erat.</span>
     </div>
     <div class="section linebreak"></div>
     <div class="section">
@@ -351,6 +426,15 @@ description: ""
     </div>
     <div class="section">
         <h5>Fusce feugiat, risus id euismod gravida, lectus urna fermentum:</h5>
+    </div>
+    <div class="section">
+        <img class="banner-image" alt="" src="https://i.ibb.co/9YkB81q/sample-2.jpg">
+    </div>
+    <div class="section">
+        <img class="banner-image" alt="" src="https://i.ibb.co/j5qfrLs/image-63-3.jpg">
+    </div>
+    <div class="section">
+        <img class="banner-image" alt="" src="https://i.ibb.co/8836Zxf/Rectangle-10.jpg">
     </div>
     <div class="section">
         <span class="body-text-regular">Vestibulum tincidunt neque at elit dictum cursus. Praesent eu libero at velit vestibulum sollicitudin vel non lorem. Pellentesque vitae lorem scelerisque, vehicula tellus ut, vestibulum erat.</span>
@@ -418,5 +502,36 @@ description: ""
                 <a class="anchorlink" href="https://www.google.com/">HYPERLINK</a>
             </div>
         </div>
+    </div>
+    <div class="section card-banner-container-three">
+        <div class="card-banner-box">
+            <div style="background-image: url(https://developers.elementor.com/docs/assets/img/elementor-placeholder-image.png)" class="card-banner-image">
+                <h5>Nam tempor in lorem nec ornare</h5>
+                <a class="anchorlink" href="https://www.google.com/">HYPERLINK</a>
+            </div>
+        </div>
+        <div class="card-banner-box">
+            <div style="background-image: url(https://developers.elementor.com/docs/assets/img/elementor-placeholder-image.png)" class="card-banner-image">
+                <h5>Nam tempor in lorem nec ornare</h5>
+                <a class="anchorlink" href="https://www.google.com/">HYPERLINK</a>
+            </div>
+        </div>
+        <div class="card-banner-box">
+            <div style="background-image: url(https://developers.elementor.com/docs/assets/img/elementor-placeholder-image.png)" class="card-banner-image">
+                <h5>Nam tempor in lorem nec ornare</h5>
+                <a class="anchorlink" href="https://www.google.com/">HYPERLINK</a>
+            </div>
+        </div>
+    </div>
+    <div class="section linebreak"></div>
+    <div class="section related-content">
+        <h5>Related Content</h5>
+        <ul class="body-text-regular">
+            <li><a href="#dummy-1">Vestibulum tincidunt neque at elit dictum cursus</a></li>
+            <li><a href="#dummy-2">Praesent eu libero at velit vestibulum sollicitudin vel non lorem</a></li>
+            <li><a href="#dummy-3">Pellentesque vitae lorem scelerisque, vehicula tellus ut, vestibulum erat.</a></li>
+            <li><a href="#dummy-4">Nam tempor in lorem nec ornare</a></li>
+            <li><a href="#dummy-5">Vestibulum tincidunt neque at elit dictum cursus. Praesent eu libero at velit vestibulum </a></li>
+        </ul>
     </div>
 </div>
