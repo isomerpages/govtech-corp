@@ -191,6 +191,7 @@ description: ""
     .listing-template .card-one-box > img {
         width: 273px;
         height: 205px;
+        border-radius: 10px;
     }
 
     .listing-template .card-one-details {
@@ -221,7 +222,6 @@ description: ""
         .listing-template .card-one-box > img {
             width: 100%;
             height: auto;
-            border-radius: 10px;
             margin-top: 20px;
         }
 
@@ -257,6 +257,7 @@ description: ""
     .listing-template .card-two-box > img {
         width: 100%;
         height: auto;
+        border-radius: 10px;
     }
 
     .listing-template .card-two-details {
@@ -332,6 +333,7 @@ description: ""
     .listing-template .card-three-box > img {
         width: 100%;
         height: auto;
+        border-radius: 10px;
     }
 
     .listing-template .card-three-details {
