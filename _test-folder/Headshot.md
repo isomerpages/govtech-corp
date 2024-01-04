@@ -287,7 +287,7 @@ description: ""
         <a class="anchorlink" href="#anchorlink-2">ANCHORLINK #2</a>
     </div>
     <div class="section page-title">
-        <h3>Section Title</h3>
+        <h3 id="anchorlink-1">Section Title 1</h3>
     </div>
     <div class="section headshot-items-container">
         <div class="headshot-item">
@@ -376,7 +376,7 @@ description: ""
         </div>
     </div>
     <div class="section page-title">
-        <h3>Section Title</h3>
+        <h3 id="anchorlink-2">Section Title 2</h3>
     </div>
     <div class="section headshot-items-container">
         <div class="headshot-item">
