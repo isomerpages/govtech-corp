@@ -19,10 +19,13 @@ sections:
         - title: For Citizens
           description: Events, Stories, and Updates
           url: /for-citizens
-        - title: For Businesses and Vendors
+        - title: For Businessess
+          description: Key Highlight description
+          url: ""
+        - title: For Vendors
           description: Resources and Opportunities
           url: /for-businesses-and-vendors
-        - title: For Government
+        - title: For Government Agencies
           description: Productivity and Collaboration
           url: /for-government
       title: Digital Services Awards 2023
