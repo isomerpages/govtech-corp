@@ -21,13 +21,13 @@ sections:
           url: /for-citizens
         - title: For Businessess
           description: Key Highlight description
-          url: ""
+          url: /for-businesses
         - title: For Vendors
           description: Resources and Opportunities
-          url: /for-businesses-and-vendors
+          url: /for-vendors
         - title: For Government Agencies
           description: Productivity and Collaboration
-          url: /for-government
+          url: /for-government-agencies
       title: Digital Services Awards 2023
       variant: center
   - infopic:
