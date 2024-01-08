@@ -12,8 +12,8 @@ permalink: /
 notification: Notification banner test
 sections:
   - hero:
-      background: /images/Homepage/DSA_bg.png
-      button: Find out more
+      background: /images/Homepage/homepage_generic.jpg
+      button: TECH FOR PUBLIC GOOD
       url: /
       key_highlights:
         - title: For Citizens
@@ -28,7 +28,6 @@ sections:
         - title: For Government Agencies
           description: Productivity and Collaboration
           url: /for-government-agencies
-      title: Digital Services Awards 2023
       variant: center
   - infopic:
       title: Our Role
