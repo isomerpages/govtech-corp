@@ -8,3 +8,4 @@ description: Discover how an LPA empowers you to control your affairs,
 image: /images/LPA_application_time_shortened_from_3_weeks_to_15_minutes.jpg
 variant: tiptap
 ---
+<p></p>
