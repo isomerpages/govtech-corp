@@ -324,6 +324,49 @@ description: ""
         color: #4372D6
     }
 
+    .article-template .section.related-content {
+        border-top: 1px solid #d6d6d6;
+    }
+
+    .article-template .section.related-content .related-content-card {
+        width: 100%;
+        display: flex;
+        flex-direction: row;
+        justify-content: middle;
+        padding: 20px 0px;
+        box-sizing: border-box;
+        border-bottom: 1px solid #d6d6d6;
+    }
+
+    .article-template .section.related-content .related-content-card > img {
+        width: 300px;
+        height: auto;
+    }
+
+    .article-template .section.related-content .related-content-card-text {
+        width: calc(100% - 300px);
+        box-sizing: border-box;
+        display: flex;
+        flex-direction: column;
+        padding-left: 20px;
+    }
+
+    .article-template .section.related-content .related-content-card-text > h4 {
+        display: block;
+        padding-bottom: 12px;
+        box-sizing: border-box;
+    }
+
+    .article-template .section.related-content .related-content-card-text > .body-text-small {
+        display: block;
+        padding-bottom: 12px;
+        box-sizing: border-box;
+    }
+
+    .article-template .section.related-content .related-content-card-text > .anchorlink {
+        margin-bottom: 0px
+    }
+
     @media only screen and (max-width: 768px) {
         .article-template .section.tldr {
             padding: 18px 24px;
@@ -402,6 +445,19 @@ description: ""
 
         .article-template .section.card-banner-container-three .card-banner-box:nth-of-type(3n-0) .card-banner-image {
             margin-left: 0px;
+        }
+
+        .article-template .section.related-content .related-content-card {
+            flex-direction: column;
+        }
+
+        .article-template .section.related-content .related-content-card > img {
+            width: 100%;
+        }
+
+        .article-template .section.related-content .related-content-card-text {
+            width: 100%;
+            padding-right: 20px;
         }
     }
 </style>
@@ -524,14 +580,39 @@ description: ""
         </div>
     </div>
     <div class="section linebreak"></div>
+    <div class="section">
+        <h3>Related Content (with image)</h3>
+    </div>
     <div class="section related-content">
-        <h5>Related Content</h5>
-        <ul class="body-text-regular">
-            <li><a href="#dummy-1">Vestibulum tincidunt neque at elit dictum cursus</a></li>
-            <li><a href="#dummy-2">Praesent eu libero at velit vestibulum sollicitudin vel non lorem</a></li>
-            <li><a href="#dummy-3">Pellentesque vitae lorem scelerisque, vehicula tellus ut, vestibulum erat.</a></li>
-            <li><a href="#dummy-4">Nam tempor in lorem nec ornare</a></li>
-            <li><a href="#dummy-5">Vestibulum tincidunt neque at elit dictum cursus. Praesent eu libero at velit vestibulum </a></li>
-        </ul>
+        <div class="related-content-card">
+            <img alt="" src="https://i.ibb.co/Vg52m2Q/image-63.png">
+            <div class="related-content-card-text">
+                <h4>Card title</h4>
+                <div class="body-text-small">
+                    Nam tempor in lorem nec ornare. In in turpis dolor. Fusce feugiat, risus id euismod gravida, lectus urna velit eu.
+                </div>
+                <a class="anchorlink" target="_blank" href="https://www.google.com.sg/">HYPERLINK &gt;</a>
+            </div>
+        </div>
+        <div class="related-content-card">
+            <img alt="" src="https://i.ibb.co/Vg52m2Q/image-63.png">
+            <div class="related-content-card-text">
+                <h4>Card title</h4>
+                <div class="body-text-small">
+                    Nam tempor in lorem nec ornare. In in turpis dolor. Fusce feugiat, risus id euismod gravida, lectus urna velit eu.
+                </div>
+                <a class="anchorlink" target="_blank" href="https://www.google.com.sg/">HYPERLINK &gt;</a>
+            </div>
+        </div>
+        <div class="related-content-card">
+            <img alt="" src="https://i.ibb.co/Vg52m2Q/image-63.png">
+            <div class="related-content-card-text">
+                <h4>Card title</h4>
+                <div class="body-text-small">
+                    Nam tempor in lorem nec ornare. In in turpis dolor. Fusce feugiat, risus id euismod gravida, lectus urna velit eu.
+                </div>
+                <a class="anchorlink" target="_blank" href="https://www.google.com.sg/">HYPERLINK &gt;</a>
+            </div>
+        </div>
     </div>
 </div>
