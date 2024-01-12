@@ -2,6 +2,7 @@ collections:
   test-folder:
     output: true
     order:
+      - Persona.md
       - Listing.md
       - Informative.md
       - Article.md
