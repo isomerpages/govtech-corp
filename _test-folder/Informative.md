@@ -129,6 +129,20 @@ description: ""
         display: inline;
         margin-left: 15px
     }
+	
+	.bp-youtube {
+        position: relative;
+        overflow: hidden;
+        padding-top: 56.25%;
+    }
+    .bp-youtube iframe {
+        position: absolute;
+        top: 0;
+        left: 0;
+        width: 100%;
+        height: 100%;
+        border: 0;
+    }
 
     @media only screen and (max-width: 768px) {
         .iso-template h3 {
@@ -749,4 +763,7 @@ description: ""
             <img class="button-image" alt="" src="https://i.ibb.co/JQxHsnk/download-1.png">
         </div>
     </div>
+</div>
+<div class="bp-youtube">
+    <iframe allowfullscreen="" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" frameborder="0" title="YouTube video player" src="https://www.youtube.com/embed/MfkeAoVo4Vo?si=Mn1ssByy4RAiSBQw" height="315" width="560"></iframe>
 </div>
