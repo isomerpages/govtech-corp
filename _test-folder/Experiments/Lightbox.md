@@ -65,13 +65,29 @@ third_nav_title: Experiments
     input:checked + label + .accordion-content > img{
         width: 600px
     }
+    
+    .iframe-parent {
+        width: 100%;
+        position: relative;
+        display: flex;
+    }
+
+    .iframe-full-width {
+        width: 100%;
+        height: 100%;
+        position: absolute;
+    }
 </style>
 
 <div>
-        <input type="checkbox" id="title1">
-				<label for="title1"><span>Sustainable Organisation</span></label>
-        <div class="accordion-content">
-            <img alt="" src="https://developers.elementor.com/docs/assets/img/elementor-placeholder-image.png">
-        </div>
+    <input type="checkbox" id="title1">
+            <label for="title1"><span>Sustainable Organisation</span></label>
+    <div class="accordion-content">
+        <img alt="" src="https://developers.elementor.com/docs/assets/img/elementor-placeholder-image.png">
+    </div>
 </div>
-<iframe allowfullscreen="" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" frameborder="0" title="YouTube video player" src="https://www.youtube.com/embed/u1pRapBEHlU?si=PhHY-KOtWQgXRw8W" height="315" width="560"></iframe>
+<div class="iframe-parent">
+    <img alt="box" src="https://i.ibb.co/0CTHM8n/box.png">
+    <iframe allowfullscreen="" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" frameborder="0" title="YouTube video player" src="https://www.youtube.com/embed/MfkeAoVo4Vo?si=R-CH49mKpYLhqc9v" class="iframe-full-width"></iframe>
+</div>
+<div>test</div>
