@@ -65,18 +65,20 @@ third_nav_title: Experiments
     input:checked + label + .accordion-content > img{
         width: 600px
     }
-    
-    .iframe-parent {
-        width: 100%;
+	
+   .bp-youtube {
         position: relative;
-        display: flex;
+        overflow: hidden;
+        padding-top: 56.25%;
     }
-
-    .iframe-full-width {
-        width: 100%;
-        height: 100%;
-        position: absolute;
-    }
+	.bp-youtube iframe {
+			position: absolute;
+			top: 0;
+			left: 0;
+			width: 100%;
+			height: 100%;
+			border: 0;
+	}
 </style>
 
 <div>
@@ -86,8 +88,6 @@ third_nav_title: Experiments
         <img alt="" src="https://developers.elementor.com/docs/assets/img/elementor-placeholder-image.png">
     </div>
 </div>
-<div class="iframe-parent">
-    <img alt="box" src="https://i.ibb.co/0CTHM8n/box.png">
-    <iframe allowfullscreen="" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" frameborder="0" title="YouTube video player" src="https://www.youtube.com/embed/MfkeAoVo4Vo?si=R-CH49mKpYLhqc9v" class="iframe-full-width"></iframe>
+<div class="bp-youtube">
+    <iframe allowfullscreen="" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" frameborder="0" title="YouTube video player" src="https://www.youtube.com/embed/MfkeAoVo4Vo?si=Mn1ssByy4RAiSBQw" height="315" width="560"></iframe>
 </div>
-<div>test</div>
