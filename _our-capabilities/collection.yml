@@ -4,7 +4,6 @@ collections:
     order:
       - Our Capabilities/capability-centre-sctd.md
       - Our Capabilities/.keep
-      - capability-centre-gig.md
       - capability-centre-gds.md
       - capability-centre-dsaid.md
       - capability-centre-csg.md
