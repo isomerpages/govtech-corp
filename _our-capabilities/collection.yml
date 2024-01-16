@@ -3,7 +3,6 @@ collections:
     output: true
     order:
       - Our Capabilities/.keep
-      - capability-centre-sctd.md
       - capability-centre-gig.md
       - capability-centre-gds.md
       - capability-centre-dsaid.md
