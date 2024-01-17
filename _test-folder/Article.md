@@ -507,6 +507,11 @@ description: ""
         <img class="banner-image" alt="" src="https://i.ibb.co/8836Zxf/Rectangle-10.jpg">
     </div>
     <div class="section">
+        <div class="bp-youtube">
+            <iframe allowfullscreen="" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" frameborder="0" title="YouTube video player" src="https://www.youtube.com/embed/MfkeAoVo4Vo?si=Mn1ssByy4RAiSBQw" height="315" width="560"></iframe>
+        </div>
+    </div>
+    <div class="section">
         <span class="body-text-regular">Vestibulum tincidunt neque at elit dictum cursus. Praesent eu libero at velit vestibulum sollicitudin vel non lorem. Pellentesque vitae lorem scelerisque, vehicula tellus ut, vestibulum erat.</span>
     </div>
     <div class="section swap-image-container">
@@ -629,7 +634,4 @@ description: ""
             </div>
         </div>
     </div>
-</div>
-<div class="bp-youtube">
-    <iframe allowfullscreen="" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" frameborder="0" title="YouTube video player" src="https://www.youtube.com/embed/MfkeAoVo4Vo?si=Mn1ssByy4RAiSBQw" height="315" width="560"></iframe>
 </div>
