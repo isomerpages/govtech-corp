@@ -2,6 +2,7 @@ collections:
   about-us:
     output: true
     order:
+      - Example Title.md
       - Who We Are.md
       - What We Do/Application Design, Development & Deployment.md
       - What We Do/.keep
