@@ -2,5 +2,4 @@ collections:
   for-citizens:
     output: true
     order:
-      - LifeSG.md
       - Singpass.md
