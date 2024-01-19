@@ -2,7 +2,6 @@ collections:
   for-citizens:
     output: true
     order:
-      - TreesSG.md
       - MyENV.md
       - Healthy365.md
       - Healthcerts.md
