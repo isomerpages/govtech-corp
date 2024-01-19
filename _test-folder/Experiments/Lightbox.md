@@ -9,7 +9,6 @@ third_nav_title: Experiments
     input {
         display: none;
     }
-
     label {
         display: block;
         padding: 8px 22px;
