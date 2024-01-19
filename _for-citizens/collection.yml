@@ -2,7 +2,6 @@ collections:
   for-citizens:
     output: true
     order:
-      - Notarise.md
       - OpenAttestation.md
       - FileSG.md
       - GovWallet.md
