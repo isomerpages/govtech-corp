@@ -85,13 +85,13 @@ Mr Kok Ping Soon, Chief Executive, GovTech, said: “Our ICT investments in the 
 <br>Communications &amp; Marketing Group
 <br>Government Technology Agency
 <br>Tel: 9100 4477
-<br>Email: 
-&nbsp;<br>
+<br>Email: [Adrian\_Chan@tech.gov.sg](mailto:Adrian_Chan@tech.gov.sg)
+<br>
 <br>**Lester WONG&nbsp;(Mr)**&nbsp;
 <br>Communications &amp; Marketing Group&nbsp;
 <br>Government Technology Agency&nbsp;
 <br>Tel:&nbsp;9190 5932&nbsp;
-<br>Email:&nbsp;
+<br>Email: [lester\_wong@tech.gov.sg](mailto:lester_wong@tech.gov.sg)
 
 ---
 
@@ -102,5 +102,5 @@ Centre of Excellence for&nbsp;Infocomm&nbsp;Technology and Smart Systems (ICT &a
 &nbsp;<br>
 <br>GovTech&nbsp;supports public agencies to manage enterprise IT operations and develop new digital products for citizens and businesses.&nbsp;GovTech&nbsp;is the public sector lead for cybersecurity and oversees key government ICT infrastructure, and also regulates ICT procurement, data protection and security in the public sector.&nbsp;GovTech&nbsp;is a Statutory Board under the Smart Nation and Digital Government Group (SNDGG) in the Prime Minister’s Office.&nbsp;
 &nbsp;<br>
-<br>For more information, please visit [www.tech.gov.sg](https://www.tech.gov.sg/){:target="_blank"}.
+<br>For more information, please visit [www.tech.gov.sg](https://www.tech.gov.sg/).
 <br>Follow&nbsp;GovTech&nbsp;on Facebook / Twitter / Instagram/&nbsp;Linkedin&nbsp;**@GovTechSG**.
