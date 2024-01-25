@@ -10,36 +10,4 @@ description: Explore the future of digital government at Smart Nation Industry
 image: /images/media/events/industry_briefing_2023_banner.jpg
 variant: tiptap
 ---
-[![Smart Nation &amp; Digital Government Industry Briefing 2023](/images/media/events/Industry-Briefing-2023-banner2.jpg)](https://go.gov.sg/ib2023-gt){:target="_blank"} 
-
-The Smart Nation and Digital Government Industry Briefing 2023 returned on 24 May at Suntec Convention Centre.
-
-
-
-**Themed “Engineering Digital Government: Next Bound of Industry Partnerships”, this year’s event focused on:**
-* $1 billion for applications developed on the cloud
-* Co-developed projects with industry will account for almost half (45%) of projected spending, up from a third in FY22
-* New bulk tenders to further aggregate demand for ICT services
-* Sustainability criteria to be incorporated into evaluation process starting mid-2023
-
-More details on the announcements are found in the [media release](https://www.tech.gov.sg/media/media-releases/2023-05-24-government-projected-to-spend-on-ict-in-fy23){:target="_blank"}.
-
-Want to catch up on the discussions and insights from the event? Head over to our [LinkedIn event page](https://go.gov.sg/ib2023-virtual){:target="_blank"}.
-
-## Event Details
-<br> Date: 24 May 2023 (Wed)
-<br> Venue: Suntec City Convention Centre, Summit 1 &amp; 2, Level 3 
-<br> Time:  8.30am – 12.30pm
-<br> Dress code: Smart casual
-<br> 
-## Programme
-
-| Time      | Item | Presentation Slides |
-| ----------- | ----------- | ----------- |
-| 9.30am  | **Opening Address** <br> <br> **Kok Ping Soon** <br> Chief Executive <br> GovTech | [Download]({{"/files/media/corporate-publications/IB2023-Towards-the-Next-Bound-of-Digital-Government-GovTech-CE.pdf" | absolute_url }}){:target="_blank"} |
-| 10.00am  | **Accelerate WOG Digital Transformation through Singapore Government Tech Stack** <br>  <br> **Kevin Ng** <br> Senior Director <br> GovTech <br><br> **Thao Dang** <br> Head of Enterprise Modernisation, Platforms and Cloud <br> ThoughtWorks| [Download]({{"/files/media/corporate-publications/IB2023-Accelerate-WOG-digital-transformation-through-Singapore-Government-Tech-Stack.pdf" | absolute_url }}){:target="_blank"} |
-| 10.30am  | **Geospatial Data Powering Smart City Operations** <br>  <br> **James Tan** <br> Director <br> GovTech <br> <br>  **Brian Wong** <br> Cluster Lead <br> Esri Singapore | [Download]({{"/files/media/corporate-publications/IB2023-Geospatial-data-powering-Smart-City-Operations.pdf" | absolute_url }}){:target="_blank"} |
-| 11.00am  | **Sustainable Digitalisation:  Opportunities and Challenges** <br>  <br> Moderator <br> **Henry Chang** <br> Deputy Chief Executive <br> GovTech <br>  <br> Panellists <br> **Eleana Liew** <br> Managing Director, Public Sector <br> Accenture SG Services <br>  <br> **Patrick Pang** <br> Chief Technologist <br> Worldwide Public Sector at Amazon Web Services <br>  <br> **Andy Sim** <br> Vice President &amp; Managing Director <br> Dell Technologies | [Download]({{"/files/media/corporate-publications/IB2023-Sustainable-Digitalisation-Opportunities-and-Challenges.pdf" | absolute_url }}){:target="_blank"} |
-| 12:00pm  | End of event |
-
-<br> Catch up on the highlights from #SmartNationIB via our social media channels!
+<a class="isomer-image-wrapper" href="https://www.gevme.com/IB-2023"><img style="width: 100%" height="auto" width="100%" alt="Smart Nation &amp; Digital Government Industry Briefing 2023 banner" src="/images/media/events/industry_briefing_2023_banner.jpg"></a><p>The Smart Nation and Digital Government Industry Briefing 2023 returned on 24 May at Suntec Convention Centre.</p><p><strong>Themed “Engineering Digital Government: Next Bound of Industry Partnerships”, this year’s event focused on:</strong></p><ul data-tight="true" class="tight"><li><p>$1 billion for applications developed on the cloud</p></li><li><p>Co-developed projects with industry will account for almost half (45%) of projected spending, up from a third in FY22</p></li><li><p>New bulk tenders to further aggregate demand for ICT services</p></li><li><p>Sustainability criteria to be incorporated into the evaluation process starting mid-2023</p></li></ul><p>More details on the announcements are found in the <a href="https://www.tech.gov.sg/media/media-releases/2023-05-24-government-projected-to-spend-on-ict-in-fy23" rel="noopener noreferrer nofollow" target="_blank">media release</a>.</p><p>Want to catch up on the discussions and insights from the event? Head over to our <a href="https://go.gov.sg/ib2023-virtual" rel="noopener noreferrer nofollow" target="_blank">LinkedIn event page</a>.</p><h3>Event Details</h3><p><strong>Date:</strong> 24 May 2023 (Wed) <br><strong>Venue: </strong>Suntec City Convention Centre, Summit 1 &amp; 2, Level 3 <br><strong>Time:</strong> 8.30am – 12.30pm <br><strong>Dress code:</strong> Smart casual </p><h2>Programme</h2><table><tbody><tr><th rowspan="1" colspan="1"><p>Time</p></th><th rowspan="1" colspan="1"><p>Item</p></th><th rowspan="1" colspan="1"><p>Presentation Slides</p></th></tr><tr><td rowspan="1" colspan="1"><p>9.30am</p></td><td rowspan="1" colspan="1"><p><strong>Opening Address</strong> <br><br><strong>Kok Ping Soon</strong> <br>Chief Executive <br>GovTech</p></td><td rowspan="1" colspan="1"><p>[Download]({{"/files/media/corporate-publications/IB2023-Towards-the-Next-Bound-of-Digital-Government-GovTech-CE.pdf"</p><p></p></td></tr><tr><td rowspan="1" colspan="1"><p>10.00am</p></td><td rowspan="1" colspan="1"><p><strong>Accelerate WOG Digital Transformation through Singapore Government Tech Stack</strong> <br><br><strong>Kevin Ng</strong> <br>Senior Director <br>GovTech <br><br><strong>Thao Dang</strong> <br>Head of Enterprise Modernisation, Platforms and Cloud <br>ThoughtWorks</p></td><td rowspan="1" colspan="1"><p>[Download]({{"/files/media/corporate-publications/IB2023-Accelerate-WOG-digital-transformation-through-Singapore-Government-Tech-Stack.pdf"</p></td></tr><tr><td rowspan="1" colspan="1"><p>10.30am</p></td><td rowspan="1" colspan="1"><p><strong>Geospatial Data Powering Smart City Operations</strong> <br><br><strong>James Tan</strong> <br>Director <br>GovTech <br><br><strong>Brian Wong</strong> <br>Cluster Lead <br>Esri Singapore</p></td><td rowspan="1" colspan="1"><p>[Download]({{"/files/media/corporate-publications/IB2023-Geospatial-data-powering-Smart-City-Operations.pdf"</p></td></tr><tr><td rowspan="1" colspan="1"><p>11.00am</p></td><td rowspan="1" colspan="1"><p><strong>Sustainable Digitalisation: Opportunities and Challenges</strong> <br><br>Moderator <br><strong>Henry Chang</strong> <br>Deputy Chief Executive <br>GovTech <br><br>Panellists <br><strong>Eleana Liew</strong> <br>Managing Director, Public Sector <br>Accenture SG Services <br><br><strong>Patrick Pang</strong> <br>Chief Technologist <br>Worldwide Public Sector at Amazon Web Services <br><br><strong>Andy Sim</strong> <br>Vice President &amp; Managing Director <br>Dell Technologies</p></td><td rowspan="1" colspan="1"><p>[Download]({{"/files/media/corporate-publications/IB2023-Sustainable-Digitalisation-Opportunities-and-Challenges.pdf"</p></td></tr><tr><td rowspan="1" colspan="1"><p>12:00pm</p></td><td rowspan="1" colspan="1"><p>End of event</p></td><td rowspan="1" colspan="1"><p></p></td></tr></tbody></table><p><br>Catch up on the highlights from #SmartNationIB via our social media channels!</p>
