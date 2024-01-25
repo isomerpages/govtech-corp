@@ -1,0 +1,121 @@
+---
+layout: post
+title: "Smart Nation and Digital Government Industry Briefing 2020: Reshaping
+  Government Operating System"
+permalink: /media/events/ib2020/
+category: events
+date: 2020-07-01
+description: "Unlocking ICT opportunities! Join webinars on cloud, AI, and more.
+  🌩️🤖 Learn about Singapore's digital strategies. "
+image: /images/media/events/Smart_Nation_and_Digital_Government_Industry_Briefing_2020.jpg
+variant: tiptap
+---
+![IB2020 HEADER](/images/technews/IB2020-Header.png)
+
+This year, Singapore will be spending [an estimated S$3.5 billion on infocomm technology (ICT) projects](https://www.tech.gov.sg/media/media-releases/thirty-percent-increase-fy2020-ict-spend-to-accelerate-digitalisation-and-support-businesses) to accelerate digitalisation and support businesses recovering from the impact of COVID-19. While the ICT procurement and digitalisation roadmap is usually announced at the annual Smart Nation and Digital Government Industry Briefing (IB), this year’s IB is going digital in light of the pandemic.
+
+---
+### **Here is an overview of the Government’s five key areas of projected spending:** 
+
+- Development of new tech tools to respond to COVID-19;
+- Development of citizen- and business-centric digital services;
+- Development of ICT systems on cloud;
+- Modernisation of government ICT infrastructure; and 
+- Use of data analytics, artificial intelligence (AI) and sensors within the public sector
+
+
+
+Read more about each focus area in our multimedia features below.
+
+![IB2020 TECHNEWS](/images/technews/Tech-News.png)
+![IB2020 TECHNEWS STOCK](/images/technews/glenn-carstens-peters-npxXWgQ33ZQ-unsplash.jpg)
+
+- [More opportunities for businesses: 80% of infocomm technology contracts open to SMEs](https://www.tech.gov.sg/media/technews/govt-award-up-ict-contracts) 
+- [Early tech push eases COVID-19 impact](https://www.tech.gov.sg/media/technews/early-tech-push-eases-covid-19-impact) 
+- [Doubling down on cloud to deliver better government services](https://www.tech.gov.sg/media/technews/doubling-down-on-cloud-to-deliver-better-government-services)
+- [Big push for AI proves fruitful and useful](https://www.tech.gov.sg/media/technews/big-push-for-ai-proves-fruitful-and-useful)
+- [More users pleased with user-friendly government digital services, says poll](https://www.tech.gov.sg/media/technews/more-users-pleased-with_user-friendly-govt-digital-services)
+
+
+![IB2020 WEBINARS](/images/technews/Webinars.png)
+![IB2020 WEBINARS](/images/technews/SGTechwebinar.png)
+
+A series of webinars centred on the theme of Re-Engineering the Government OS was organised in conjunction with the online campaign. If you have missed them, click to watch what was discussed at each webinar.
+
+### **Smart Nation – In Conversation: Partnering Industry to Re-Engineer the Government’s OS**
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/zbdTSKzvDRA" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe>
+
+Since the launch of Singapore’s Smart Nation initiative in 2014, the Government has embarked on a journey to re-engineer itself by deepening tech capabilities, modernising digital infrastructure, enhancing service delivery and driving co-creation, in order to deliver a more seamless and pleasant digital service experience for citizens and businesses.
+
+In this webinar held on 15 July 2020, we discussed
+- How the Government is “upgrading” and “updating” its “Operating System” – the digital interface between users and Government services – to serve citizens and businesses better;
+- Singapore’s Smart Nation digitalisation journey and how it has shaped business models in the current climate;  
+- Government’s key tech development priorities and challenges;  
+- Five broad areas of ICT opportunities in FY 2020; and  
+- Role of industry in building a Smart Nation and Digital Government 
+
+Speakers:
+
+- Dr Janil Puthucheary, Senior Minister of State, Ministry of Communications and Information and Ministry of Transport, and Minister-in-charge of GovTech
+- Mr Kok Ping Soon, Chief Executive, GovTech
+- Mr Wong Wai Meng, Chairman, SGTech
+
+Moderator: Mr Lau Shih Hor, Honorary Secretary &amp; Chairman, Smart Nation Chapter, SGTech
+
+### **Taking a Citizen-Centric Approach to Tech Development** 
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/xNd1CPBuPVA" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe>
+
+Singapore believes in taking a user-centric approach to developing tech solutions that will enable faster and smoother delivery of government services for citizens. 
+
+In this webinar held on 17 June 2020, we discussed: 
+- Recent projects such as Moments of Life;
+- How service journeys are helping Government tech teams develop citizen-centric digital services; and 
+- How industry partners can co-create citizen-centric projects with GovTech 
+
+Speakers:
+- Mr Simon Ang, Assistant Director, Moments of Life, GovTech
+- Mr Gordon Heap, 1st Vice Chairman of Smart Nation Chapter, SGTech
+
+Moderator: Mr Ivan Chang, Co-opted Councillor, SGTech
+
+### **Strengthening Capabilities with Cloud** 
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vY4e_WCg9JE" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe>
+
+Maximising the use of commercial cloud is key to driving digital transformation in the public sector. Moving to the cloud allows the Government to deliver quality digital services for citizens and businesses. 
+
+In this webinar held on 26 June 2020, we discussed: 
+- How industry and the Government can collaborate to ramp up capabilities in Agile and Cloud 
+- The public sector’s plans to enhance its competency to deploy and use Cloud 
+- How the public sector will tap on the commercial cloud to drive digital transformation 
+
+Speakers:
+- Mr Choong Keng Leong, Director, Managed Hosting Infrastructure, GovTech
+- Mr Gunasekharan Chellappan, 2nd Vice Chairman of Cloud &amp; Data Chapter, SGTech
+
+Moderator: Mr Ivan Chang, Co-opted Councillor, SGTech
+
+### **Developing Artificial Intelligence and Sensors Capabilities**
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/wkobJo2fSsw" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe>
+
+Artificial intelligence, sensors and data science will be a new strategic push for the Government and a game-changer in the way services are delivered to citizens. Of particular interest are the various key sectors announced in the National AI Strategy such as education, logistics, health, security and public services. 
+
+In this webinar held on 1 July 2020, we discussed:
+- Singapore’s National AI Strategy and Smart Nation Sensor Platform
+- An update on upcoming AI and sensor platform projects
+
+Speakers:
+- Mr Huang Juejing, Senior Assistant Director, National AI Office, SNDGO
+- Mr Chong Jia Yi, Distinguished Engineer, GovTech
+- Mr Foo Tee Meng, AI &amp; HPC Chapter EXCO Member, SGTech
+
+Moderator: Mr Ivan Chang, Co-opted Councillor, SGTech
+
+### **Harnessing the Opportunities of Digital Technologies for Businesses and Workers** 
+
+In this webinar held on 23 June 2020 by the Singapore Business Federation Sustainable Employment Programme Office and the UN Global Compact Network Singapore, Mr Daniel Chan, GovTech's Director (Moments of Life Business), discussed how businesses can harness digital technology in these changing times. 
+ 
+ *Note: A recording of this webinar is not available*
