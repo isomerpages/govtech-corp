@@ -2,7 +2,6 @@
 layout: post
 title:  "Beware of scam letter bearing GovTech’s logo and forged signatures"
 permalink: "/media/advisory/2021-03-25-beware-of-scam-letter-bearing-govtech-logo-and-forged-signatures"
-category: advisory
 date: 2021-03-25
 ---
 ### **Beware of scam letter bearing GovTech’s logo and forged signatures**
