@@ -2,7 +2,6 @@
 layout: post
 title: "Meet the man using myResponder to save lives"
 permalink: "/media/technews/meet-the-man-using-myResponder-to-save-lives"
-category: technews
 image: "/images/technews/man-using-myresponder1.JPG"
 ---
      

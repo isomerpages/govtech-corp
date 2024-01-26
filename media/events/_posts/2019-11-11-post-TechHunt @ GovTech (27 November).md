@@ -2,7 +2,6 @@
 layout: post
 title: TechHunt @ GovTech (27 November)
 permalink: /media/events/techhunt-at-govtech/
-category: events
 variant: tiptap
 date: 2019-11-11
 description: Discover the latest in AI, cloud, and more at STACK Developer

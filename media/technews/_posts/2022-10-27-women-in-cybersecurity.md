@@ -2,7 +2,6 @@
 layout: post
 title: "Women in cybersecurity – GovTechies on life as cyber guardians"
 permalink: "/media/technews/women-in-cybersecurity"
-category: technews
 image: "/images/technews/women-in-cyber"
 ---
 

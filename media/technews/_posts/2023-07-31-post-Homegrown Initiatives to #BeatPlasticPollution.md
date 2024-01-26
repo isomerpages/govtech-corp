@@ -2,7 +2,6 @@
 layout: post
 title: "Homegrown Initiatives to #BeatPlasticPollution"
 permalink: /media/technews/homegrown-intiatives-to-beat-plastic-pollution/
-category: technews
 image: /images/technews/Homegrown_Initiatives_to__BeatPlasticPollution.jpg
 date: 2023-07-31
 description: "#BeatPlasticPollution with tech solutions! Explore initiatives

@@ -2,7 +2,6 @@
 layout: post
 title:  "A hire calling: Making MyCareersFuture an inclusive platform"
 permalink: "/media/technews/hire-calling-making-mycareersfuture-inclusive"
-category: technews
 image: "images/mycareersfuture.PNG"
 ---
 

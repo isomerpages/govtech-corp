@@ -2,7 +2,6 @@
 layout: post
 title: "From source to sink: how data science helps Singapore manage its water resources"
 permalink: "/media/technews/from-source-to-sink"
-category: technews
 image: "/images/technews/pub-technews-part1.jpg"
 ---
 ![From source to sink: how data science helps Singapore manage its water resources](/images/technews/pub-technews-part1.jpg)

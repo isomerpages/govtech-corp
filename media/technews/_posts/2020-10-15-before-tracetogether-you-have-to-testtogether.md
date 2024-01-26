@@ -2,7 +2,6 @@
 layout: post
 title: "Before you #TraceTogether, the team first #TestsTogether"
 permalink: "/media/technews/20201015-before-tracetogether-you-have-to-testtogether"
-category: technews
 image: "/images/technews/tracetogethertest1.jpg"
 ---
 

@@ -2,7 +2,6 @@
 layout: post
 title: "Making the leap: how one GovTechie switched careers to product design"
 permalink: /media/technews/making-the-leap/
-category: technews
 image: /images/technews/Making_the_leap__how_one_GovTechie_switched_careers_to_product_design.jpg
 date: 2023-08-24
 description: Explore the inspiring career switch from non-tech to tech with

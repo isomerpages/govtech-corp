@@ -2,7 +2,6 @@
 layout: post
 title: "STACK Developer Conference 2022: Hybrid event hosts over 2,500 attendees"
 permalink: "/media/technews/stack-developer-conference-2022"
-category: technews
 image: "/images/technews/stacktechnews.jpg"
 ---
 

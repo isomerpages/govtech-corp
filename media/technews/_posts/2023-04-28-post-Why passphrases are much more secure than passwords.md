@@ -2,7 +2,6 @@
 layout: post
 title: Why passphrases are much more secure than passwords
 permalink: /media/technews/why-passphases-are-much-more-secure-than-passwords/
-category: technews
 image: /images/technews/Why_passphrases_are_much_more_secure_than_passwords.jpg
 date: 2023-04-28
 description: National Password Day! Discover why longer beats complex in

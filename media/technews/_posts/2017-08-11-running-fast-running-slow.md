@@ -2,7 +2,6 @@
 layout: post
 title:  "Running fast, running slow"
 permalink: "/media/technews/running-fast-running-slow"
-category: technews
 image: "/images/technews/running-fast-running-slow-part-1.png"
 ---
 

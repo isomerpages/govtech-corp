@@ -2,7 +2,6 @@
 layout: post
 title: "How GovTech created a web accessibility testing tool"
 permalink: "/media/technews/how-govtech-created-web-accessibility-testing-tool"
-category: technews
 image: "/images/technews/web4all-part1.JPG"
 ---
 

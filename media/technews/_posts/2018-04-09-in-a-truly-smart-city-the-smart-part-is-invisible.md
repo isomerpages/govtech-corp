@@ -2,7 +2,6 @@
 layout: post
 title:  "In a truly smart city, the ‘smart’ part is invisible"
 permalink: "/media/technews/in-a-truly-smart-city-the-smart-part-is-invisible"
-category: technews
 image: "/images/technews/in-a-truly-smart-city-the-smart-part-is-invisible-part-1.png"
 ---
 

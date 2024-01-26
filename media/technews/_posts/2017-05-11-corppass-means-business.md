@@ -2,7 +2,6 @@
 layout: post
 title:  "CorpPass means business"
 permalink: "/media/technews/corppass-means-business"
-category: technews
 image: "/images/technews/corppass-means-business-part-1.png"
 ---
 

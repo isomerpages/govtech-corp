@@ -2,7 +2,6 @@
 layout: post
 title: "Build Your Own Personal Voice Assistant Part 2"
 permalink: "/media/technews/build-your-own-personal-voice-assistant-part2"
-category: technews
 image: "/images/technews/personal-voice-assistance-head.jpg"
 ---
 

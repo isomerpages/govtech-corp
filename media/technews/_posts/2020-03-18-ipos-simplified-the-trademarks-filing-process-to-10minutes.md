@@ -2,7 +2,6 @@
 layout: post
 title: "IPOS simplified the trademarks filing process – to a mere 10 minutes"
 permalink: "/media/technews/ipos-simplified-the-trademarks-filing-process-to-10minutes"
-category: technews
 image: "/images/technews/ipos-part1.jpg"
 ---
 

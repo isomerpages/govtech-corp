@@ -2,7 +2,6 @@
 layout: post
 title:  "An inside look at how GovTech reduced 845 form fields to just 90 on the GoBusiness Licensing portal"
 permalink: "/media/technews/inside-look-at-gobusiness"
-category: technews
 image: "/images/technews/Gobiz-part1.jpg"
 
 ---

@@ -2,7 +2,6 @@
 layout: post
 title: "Two reasons why Singapore is sticking with TraceTogether’s protocol"
 permalink: "/media/technews/two-reasons-why-singapore-sticking-with-tracetogether-protocol"
-category: technews
 image: "/images/technews/two-reasons-singapore-sticking-with-tt1.png"
 ---
 

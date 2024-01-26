@@ -2,7 +2,6 @@
 layout: post
 title:  "A Wiz at Data Viz? Join the Challenge!"
 permalink: "/media/technews/a-wiz-at-data-viz"
-category: technews
 image: "/images/technews/a-wiz-at-data-viz-part-1.png"
 ---
 

@@ -2,7 +2,6 @@
 layout: post
 title:  "Digital Government, Smart Nation: Pursuing Singapore’s Tech Imperative"
 permalink: "/media/technews/digital-government-smart-nation-pursuing singapore-tech-imperative"
-category: technews
 image: "/images/technews/smart-nation-starts-with-disrupting-ourselves-part-1.png"
 ---
 

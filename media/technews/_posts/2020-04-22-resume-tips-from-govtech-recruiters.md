@@ -2,7 +2,6 @@
 layout: post
 title: "Resume tips from GovTech Recruiters"
 permalink: "/media/technews/resume-tips-from-govtech-recruiters"
-category: technews
 image: "/images/technews/cv-tips.JPG"
 ---
 

@@ -2,7 +2,6 @@
 layout: post
 title:  "Simplifying tax experience for Small and Medium Enterprises"
 permalink: "/media/technews/simplifying-tax-experience-for-small-and-medium-enterprises"
-category: technews
 image: "images/technews/iras-part1.jpg"
 ---
 

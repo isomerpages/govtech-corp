@@ -2,7 +2,6 @@
 layout: post
 title: "Businesses to get one-stop portal for more streamlined interactions with government."
 permalink: "/media/technews/businesses-to-get-one-stop-portal"
-category: technews
 image: images/technews/gobizlaunch.jpg
 ---
 Singapore is already known as one of the most business friendly countries in the world, but we’re not resting on our laurels. 

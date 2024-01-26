@@ -2,7 +2,6 @@
 layout: post
 title: Artificial intelligence – 5 terms to boost your real intelligence
 permalink: /media/technews/5-ai-terms-to-boost-your-intelligence/
-category: technews
 image: /images/technews/Artificial_intelligence___5_terms_to_boost_your_real_intelligence.jpg
 date: 2023-06-08
 description: "Dive into AI with a guide on key terms: machine learning, neural

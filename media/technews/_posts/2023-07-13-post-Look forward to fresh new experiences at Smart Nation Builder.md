@@ -2,7 +2,6 @@
 layout: post
 title: Look forward to fresh new experiences at Smart Nation Builder
 permalink: /media/technews/look-forward-to-fresh-new-experiences-at-smart-nation-builder/
-category: technews
 image: /images/technews/Look_forward_to_fresh_new_experiences_at_Smart_Nation_Builder.jpg
 date: 2023-07-13
 description: Explore tech innovations at Smart Nation Builder, Plaza Singapura,

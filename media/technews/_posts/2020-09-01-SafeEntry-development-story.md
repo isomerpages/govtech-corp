@@ -2,7 +2,6 @@
 layout: post
 title: "SafeEntry's Development Story"
 permalink: "/media/technews/2020-09-01-SafeEntry-development-story"
-category: technews
 image: "/images/technews/se-development-story.png"
 ---
 

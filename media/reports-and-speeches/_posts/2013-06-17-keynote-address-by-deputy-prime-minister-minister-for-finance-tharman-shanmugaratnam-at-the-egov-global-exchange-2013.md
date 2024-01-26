@@ -2,7 +2,6 @@
 layout: post
 title:  "Keynote Address By Deputy Prime Minister Minister for Finance Tharman Shanmugaratnam at the eGov Global Exchange 2013"
 permalink: "/media/speeches/keynote-address-by-deputy-prime-minister-minister-for-finance-tharman-shanmugaratnam-at-the-egov-global-exchange-2013"
-category: speeches
 ---
 
 Keynote Address By Deputy Prime Minister / Minister for Finance Tharman Shanmugaratnam, at The eGov Global Exchange 2013 on 17 June 2013, at the Marina Bay Sands Expo and Convention Centre

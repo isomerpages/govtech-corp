@@ -2,7 +2,6 @@
 layout: post
 title: "How GovTech is reinventing the smart glasses"
 permalink: "/media/technews/how-govtech-is-reinventing-the-smart-glasses"
-category: technews
 image: "/images/technews/how-govtech-is-reinventing-the-smart-glasses-part1.png"
 ---
 

@@ -2,7 +2,6 @@
 layout: post
 title: "Clearing the air – using tech to keep our environment smoke-free"
 permalink: "/media/technews/clearing-the-air-using-tech-to-keep-our-environment-smoke-free"
-category: technews
 image: "images/technews/balefire-smoking-1.jpg"
 ---
 As a garden city, Singapore is known for its lush greenery, clean streets, and fresh air. 

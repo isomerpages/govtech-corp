@@ -2,7 +2,6 @@
 layout: post
 title:  "How to keep your smart home secure"
 permalink: "/media/technews/how-to-keep-your-smart-home-secure"
-category: technews
 image: "images/technews/how-to-keep-you-smart-home-safe.jpg"
 ---
 

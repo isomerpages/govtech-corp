@@ -2,7 +2,6 @@
 layout: post
 title:  "Stay Cyber Ready to be Cyber Safe"
 permalink: "/media/technews/stay-cyber-ready-to-be-cyber-safe"
-category: technews
 image: "/images/technews/stay-cyber-ready-to-be-cyber-safe-part-1.png"
 ---
 

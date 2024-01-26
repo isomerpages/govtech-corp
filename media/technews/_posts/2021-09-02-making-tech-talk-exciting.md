@@ -2,7 +2,6 @@
 layout: post
 title: "Making Tech Talk Exciting - Lessons from the GovTech's marketing team"
 permalink: "/media/technews/making-tech-talk-exciting"
-category: technews
 image: "images/technews/awards1.jpeg"
 
 ---

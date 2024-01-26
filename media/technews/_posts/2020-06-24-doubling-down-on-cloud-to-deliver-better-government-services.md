@@ -2,7 +2,6 @@
 layout: post
 title: "Doubling down on cloud to deliver better government services"
 permalink: "/media/technews/doubling-down-on-cloud-to-deliver-better-government-services"
-category: technews
 image: "/images/technews/ib3-part1.jpg"
 ---
 

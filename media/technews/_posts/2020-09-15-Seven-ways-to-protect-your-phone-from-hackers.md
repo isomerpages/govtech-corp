@@ -2,7 +2,6 @@
 layout: post
 title: "Seven ways to protect your smartphone from hackers"
 permalink: "/media/technews/Seven-ways-to-protect-your-smartphone-from-hackers"
-category: technews
 image: "images/technews/7-ways-to-jaga-smartphone2.jpg"
 ---
 

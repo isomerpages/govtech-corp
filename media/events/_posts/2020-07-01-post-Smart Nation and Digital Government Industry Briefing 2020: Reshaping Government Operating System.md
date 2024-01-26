@@ -3,7 +3,6 @@ layout: post
 title: "Smart Nation and Digital Government Industry Briefing 2020: Reshaping
   Government Operating System"
 permalink: /media/events/ib2020/
-category: events
 date: 2020-07-01
 description: Unlocking ICT opportunities! Join webinars on cloud, AI, and more.
   🌩️🤖 Learn about Singapore's digital strategies.

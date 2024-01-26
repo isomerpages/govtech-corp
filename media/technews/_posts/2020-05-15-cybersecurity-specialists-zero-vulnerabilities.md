@@ -2,7 +2,6 @@
 layout: post
 title: "GovTech cybersecurity specialists zero in on zero-day vulnerabilities"
 permalink: "/media/technews/cybersecurity-on-zero-day-vulnerabilities"
-category: technews
 image: "/images/GovTech-Smart-Nation-zerodayteam.png"
 ---
 ![The GovTech Cybersecurity Zero Day Team](/images/GovTech-Smart-Nation-zerodayteam.png)

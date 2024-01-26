@@ -2,7 +2,6 @@
 layout: post
 title: "Digital Services Awards 2022 recognises excellence in public sector online offerings"
 permalink: "/media/technews/digital-services-awards-2022"
-category: technews
 image: "/images/technews/WOGAA_DSA.JPG"
 ---
 

@@ -2,7 +2,6 @@
 layout: post
 title: STACK Developer Conference 2020
 permalink: /media/events/stack-2020/
-category: events
 date: 2020-10-27
 description: Unlock the future at STACK 2020, GovTech-led tech event. Join key
   industry experts for workshops, keynotes, and innovations. Get your free pass

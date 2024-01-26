@@ -2,7 +2,6 @@
 layout: post
 title:  "Gov Apps for Everyone"
 permalink: "/media/technews/gov-apps-for-everyone"
-category: technews
 image: "/images/technews/gov-apps-for-everyone-part-1.png"
 ---
 

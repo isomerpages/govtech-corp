@@ -2,7 +2,6 @@
 layout: post
 title:  "Tech for Good: How tech is transforming social services in Singapore"
 permalink: "/media/technews/tech-for-good-how-tech-is-transforming-social-services-in-singapore"
-category: technews
 image: 
 ---
 

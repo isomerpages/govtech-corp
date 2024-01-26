@@ -2,7 +2,6 @@
 layout: post
 title: "Smart Cities around the World. Seoul"
 permalink: "/media/technews/smart-cities-around-the-world-seoul"
-category: technews
 image: "/images/technews/seoul1.jpg"
 ---
 

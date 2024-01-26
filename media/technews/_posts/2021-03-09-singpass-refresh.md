@@ -2,7 +2,6 @@
 layout: post
 title: "Refreshed Singpass brings with it 5 awesome features  "
 permalink: "/media/technews/singpass-refresh"
-category: technews
 image: "images/technews/singpass-rebrand.png"
 ---
 

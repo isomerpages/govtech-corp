@@ -2,7 +2,6 @@
 layout: post
 title:  "Taking Deep Tech to the World"
 permalink: "/media/technews/taking-deep-tech-to-the-world"
-category: technews
 image: "/images/technews/taking-deep-tech-to-the-world-part-1.png"
 ---
 

@@ -2,7 +2,6 @@
 layout: post
 title: "Improving TraceTogether through community engagement"
 permalink: "/media/technews/2020-07-06-tracetogether-token-teardown"
-category: technews
 image: "/images/technews/tracetogethertokenteardown1.jpg"
 ---
 

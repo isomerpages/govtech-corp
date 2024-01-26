@@ -2,7 +2,6 @@
 layout: post
 title:  "Cyberattacks in healthcare put human lives at risk"
 permalink: "/media/technews/cyberattacks-in-healthcare-put-human-lives-at-risk"
-category: technews
 image: "/images/technews/cyberattacks-in-healthcare-put-human-lives-at-risk-part-1.png"
 ---
 

@@ -2,7 +2,6 @@
 layout: post
 title:  "Agile Innovator"
 permalink: "/media/technews/agile-innovator"
-category: technews
 image: "/images/technews/agile-innovator-part-1.png"
 ---
 

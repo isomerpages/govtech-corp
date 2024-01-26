@@ -2,7 +2,6 @@
 layout: post
 title: "Jaga the STACK – GovTech’s cybersecurity competition is back and bigger than ever!"
 permalink: "/media/technews/jaga-the-stack"
-category: technews
 image: "/images/technews/STC-banner.png"
 ---
 

@@ -2,7 +2,6 @@
 layout: post
 title:  "GovTech joins the Smart Nation and Digital Government Group"
 permalink: "/media/technews/govtech-joins-the-smart-nation-and-digital-government-group"
-category: technews
 image: 
 ---
 

@@ -2,7 +2,6 @@
 layout: post
 title:  "Moments of Life lucky draw - Terms & Conditions"
 permalink: "/media/technews/momentsoflifecontest"
-category: technews
 image: 
 ---
 

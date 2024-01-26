@@ -2,7 +2,6 @@
 layout: post
 title:  "An open mind on open government data"
 permalink: "/media/technews/an-open-mind-on-open-government-data"
-category: technews
 image: "/images/technews/an-open-mind-on-open-government-data-part-1.png"
 ---
 

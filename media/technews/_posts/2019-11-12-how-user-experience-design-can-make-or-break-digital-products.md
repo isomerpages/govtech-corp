@@ -2,7 +2,6 @@
 layout: post
 title:  "How user experience design can make or break digital products"
 permalink: "/media/technews/how-user-experience-design-can-make-or-break-digital-products"
-category: technews
 image: "images/technews/stack-x-experience-reimagined.png"
 ---
 

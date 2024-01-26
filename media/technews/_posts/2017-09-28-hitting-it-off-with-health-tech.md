@@ -2,7 +2,6 @@
 layout: post
 title:  "HIT-ting it off with health tech"
 permalink: "/media/technews/hitting-it-off-with-health-tech"
-category: technews
 image: "/images/technews/hitting-it-off-with-health-tech-part-1.png"
 ---
 

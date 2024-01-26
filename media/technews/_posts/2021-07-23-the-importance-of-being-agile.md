@@ -2,7 +2,6 @@
 layout: post
 title: "The Importance of Being Agile "
 permalink: "/media/technews/the-importance-of-being-agile"
-category: technews
 image: "/images/technews/importance-of-being-agile.jpg"
 ---
 

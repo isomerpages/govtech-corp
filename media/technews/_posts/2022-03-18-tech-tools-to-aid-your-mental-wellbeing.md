@@ -2,7 +2,6 @@
 layout: post
 title: "Tech tools to aid your mental well-being"
 permalink: "/media/technews/tech-tools-to-aid-your-mental-wellbeing"
-category: technews
 image: "images/technews/mentalwellbeing.jpg"
 ---
 Cast your minds back, if you will, to the first months of 2020, when the Covid-19 pandemic was flaring up across the world. How many of us would have thought then that the situation would persist for a year, let alone two? 

@@ -2,7 +2,6 @@
 layout: post
 title:  "Work in progress: 2037"
 permalink: "/media/technews/work-in-progress-2037"
-category: technews
 image: 
 ---
 

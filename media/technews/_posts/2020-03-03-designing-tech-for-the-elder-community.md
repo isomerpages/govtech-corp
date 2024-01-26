@@ -2,7 +2,6 @@
 layout: post
 title: "Designing Tech for the Elder Community"
 permalink: "/media/technews/designing-tech-for-the-elder-community"
-category: technews
 image: "/images/technews/personal-alert-button-govtech-technews.jpg"
 ---
 

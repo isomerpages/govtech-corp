@@ -2,7 +2,6 @@
 layout: post
 title: "Geekout 2023: Shaping future tech leaders on multiple levels"
 permalink: /media/technews/geekout-2023-shaping-future-tech-leaders/
-category: technews
 image: /images/technews/geekout2-2023.jpg
 variant: tiptap
 date: 2023-09-28

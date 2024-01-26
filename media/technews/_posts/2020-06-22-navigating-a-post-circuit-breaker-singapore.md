@@ -2,7 +2,6 @@
 layout: post
 title: "Navigating a post-circuit breaker Singapore with data-driven tech"
 permalink: "/media/technews/navigating-a-post-circuit-breaker-sg"
-category: technews
 image: "/images/technews/navigating-a-post-circuit-breaker-singapore.pic1.png"
 ---
 

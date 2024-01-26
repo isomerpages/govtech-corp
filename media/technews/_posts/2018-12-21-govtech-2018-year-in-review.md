@@ -2,7 +2,6 @@
 layout: post
 title:  "GovTech 2018 Year in Review"
 permalink: "/media/technews/infographics/govtech-year-in-review-2018"
-category: technews
 image: /images/technews/govtech-year-in-review-for-2018.png
 
 ---

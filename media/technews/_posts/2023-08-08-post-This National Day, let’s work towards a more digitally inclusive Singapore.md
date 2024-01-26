@@ -2,7 +2,6 @@
 layout: post
 title: This National Day, let’s work towards a more digitally inclusive Singapore
 permalink: /media/technews/this-national-day-lets-work-towards-a-more-digitally-inclusive-singapore/
-category: technews
 image: /images/technews/fig_c_a11y_week_empathy_lab.jpg
 date: 2023-08-08
 description: "Digital inclusivity at A11y Week 2023: Engaging workshops,

@@ -2,7 +2,6 @@
 layout: post
 title:  "Gov Innovation: Of fees, fines and flotsam"
 permalink: "/media/technews/gov-innovation-of-fees-fines-and-flotsam"
-category: technews
 image: "/images/technews/gov-innovation-of-fees-fines-and-flotsam-part-1.png"
 ---
 

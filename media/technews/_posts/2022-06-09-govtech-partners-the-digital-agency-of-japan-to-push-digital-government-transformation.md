@@ -2,7 +2,6 @@
 layout: post
 title: "GovTech partners the Digital Agency of Japan to push Digital Government Transformation"
 permalink: "/media/technews/govtech-partners-the-digital-agency-of-japan-to-push-digital-government-transformation"
-category: technews
 image: "/images/technews/MOC-signing-between-GovTech-and-JDA.jpg"
 ---
 

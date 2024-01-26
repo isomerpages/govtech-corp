@@ -2,7 +2,6 @@
 layout: post
 title: "5 tips to boost security and privacy when using WhatsApp"
 permalink: "/media/technews/5-tips-to-boost-security-and-privacy-when-using-whatsapp"
-category: technews
 image: "/images/technews/5-tips-to-boost-security-and-privacy-when-using-whatsapp.png"
 ---
 

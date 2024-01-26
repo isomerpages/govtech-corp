@@ -2,7 +2,6 @@
 layout: post
 title: "Working from home with kids - Hear how these dads make it work. "
 permalink: "/media/technews/working-from-home-with-kids"
-category: technews
 image: "/images/technews/fathersday-01.png"
 ---
 Once upon a time, dads were not expected to be as involved in their children’s upbringing as moms. Today, however, fathers are much more hands on and taking on more domestic duties. The work from home arrangement in the last year or so have also given working dads more time to spend with their kids.

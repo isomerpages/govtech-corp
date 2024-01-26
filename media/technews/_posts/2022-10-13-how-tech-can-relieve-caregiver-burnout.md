@@ -2,7 +2,6 @@
 layout: post
 title: "How tech can relieve caregiver burnout"
 permalink: "/media/technews/how-tech-can-relieve-caregiver-burnout"
-category: technews
 image: "/images/technews/caregiver-burnout.jpg"
 ---
 

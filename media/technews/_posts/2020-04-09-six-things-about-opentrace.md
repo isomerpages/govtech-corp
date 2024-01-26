@@ -2,7 +2,6 @@
 layout: post
 title: "6 things about OpenTrace, the open-source code published by the TraceTogether team"
 permalink: "/media/technews/six-things-about-opentrace"
-category: technews
 image: "/images/technews/OpenTrace-Infographic-Final.png"
 ---
 ![TraceTogether GovTech reaches one million](/images/technews/TraceTogether-1m-banner.png)

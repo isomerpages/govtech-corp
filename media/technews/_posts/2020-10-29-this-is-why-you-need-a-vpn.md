@@ -2,7 +2,6 @@
 layout: post
 title: "This is why you need a VPN"
 permalink: "/media/technews/this-is-why-you-need-a-vpn"
-category: technews
 image: "/images/technews/benefit-of-vpn1.jpg"
 ---
 

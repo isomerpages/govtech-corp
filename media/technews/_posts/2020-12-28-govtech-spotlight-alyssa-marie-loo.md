@@ -2,7 +2,6 @@
 layout: post
 title: "GovTech Spotlight: Alyssa Marie Loo - Intern, Product Manager. Recipient of The President's Scholarship"
 permalink: "/media/technews/govtech-spotlight-alyssa-marie-loo"
-category: technews
 image: "/images/technews/Alyssa.jpg"
 ---
 

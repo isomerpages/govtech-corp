@@ -2,7 +2,6 @@
 layout: post
 title:  "The original Tech Maverick in Gov"
 permalink: "/media/technews/the-original-tech-maverick-in-gov"
-category: technews
 image: "/images/technews/the-original-tech-maverick-in-gov-part-1.png"
 ---
 

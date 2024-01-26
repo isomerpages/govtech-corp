@@ -2,7 +2,6 @@
 layout: post
 title:  "Speech by Dr Janil Puthucheary, Senior Minister of State, Ministry of Communications and Information & Ministry of Health at The Digital Academy Virtual Launch Symposium"
 permalink: "/media/speeches/2021-06-21-speech-by-dr-janil-puthucheary-at-the-digital-academy-virtual-launch"
-category: speeches
 ---
 
 Speech by Dr Janil Puthucheary, Senior Minister of State, Ministry of Communications and Information & Ministry of Health at The Digital Academy Virtual Launch Symposium

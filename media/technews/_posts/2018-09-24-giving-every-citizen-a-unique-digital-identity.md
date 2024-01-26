@@ -2,7 +2,6 @@
 layout: post
 title:  "Giving every citizen a unique digital identity"
 permalink: "/media/technews/giving-every-citizen-a-unique-digital-identity"
-category: technews
 image: "/images/technews/giving-every-citizen-a-unique-digital-identity-part-1.png"
 ---
 

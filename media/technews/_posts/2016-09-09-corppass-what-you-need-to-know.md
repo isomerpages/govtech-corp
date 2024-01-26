@@ -2,7 +2,6 @@
 layout: post
 title:  "CorpPass: What you need to know"
 permalink: "/media/technews/corppass-what-you-need-to-know"
-category: technews
 image: "/images/technews/corppass-what-you-need-to-know-part-1.png"
 ---
 

@@ -2,7 +2,6 @@
 layout: post
 title: "Looking back on GovTech's 5th Birthday"
 permalink: "/media/technews/looking-back-on-govtechs-fifth-birthday"
-category: technews
 image: "/images/technews/govtech-fifth-birthday.jpg"
 ---
 Five years ago, GovTech was tasked to provide infrastructure and support for the country’s Smart Nation initiative. With how the agency has grown and developed over the years; we wanted to have a look at where GovTech has come from and how far it has come..

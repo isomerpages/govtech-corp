@@ -2,7 +2,6 @@
 layout: post
 title: "From holy water to luxury cars, vending machines dispense all"
 permalink: "/media/technews/history-of-vending-machine"
-category: technews
 image: "images/technews/history-of-vending.PNG"
 ---
 

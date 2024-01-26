@@ -2,7 +2,6 @@
 layout: post
 title: "Why you need a VPN and how to choose a provider"
 permalink: "/media/technews/why-you-need-a-vpn"
-category: technews
 image: "/images/technews/Why-you-need-a-vpn-smart-nation-govtech.png"
 ---
 

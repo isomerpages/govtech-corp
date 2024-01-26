@@ -2,7 +2,6 @@
 layout: post
 title:  "STACK-X: Experience Reimagined"
 permalink: "/media/events/stackx-experience-reimagined"
-category: events
 ---
 
 ![STACK-X Experience Reimagined](/images/media/events/StackX-banner-service-reimagined.jpg)

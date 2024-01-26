@@ -2,7 +2,6 @@
 layout: post
 title: "The Benefits of Solar Power"
 permalink: "/media/technews/benefits-of-solar-power"
-category: technews
 image: "images/technews/solar2.jpg"
 ---
 Reservoirs in Singapore are awesome. Not only do they provide the fundamental resource of water, they are also great recreational spots for water sports, hiking, and running. 

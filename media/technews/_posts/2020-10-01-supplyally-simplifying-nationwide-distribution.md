@@ -2,7 +2,6 @@
 layout: post
 title: "SupplyAlly - Simplifying Nationwide Distribution"
 permalink: "/media/technews/supplyally-simplifying-nationwide-distribution"
-category: technews
 image: "/images/technews/supplyally9.png"
 ---
 

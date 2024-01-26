@@ -2,7 +2,6 @@
 layout: post
 title:  "Is your smartphone slowing down? Get it back up to speed with these hacks"
 permalink: "/media/technews/is-your-smartphone-slowing-down-get-it-back-up-to-speed-with-these-hacks"
-category: technews
 image: "/images/technews/images/technews/speedupyourphone.png"
 ---
 

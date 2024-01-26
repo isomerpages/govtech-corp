@@ -2,7 +2,6 @@
 layout: post
 title: Faster, better, healthier – how to type the “right” way
 permalink: /media/technews/how-to-type-the-right-way/
-category: technews
 image: /images/technews/Faster__better__healthier___how_to_type_the__right__way.jpg
 date: 2023-05-25
 description: Upgrade your typing game! Learn proper techniques for a healthier

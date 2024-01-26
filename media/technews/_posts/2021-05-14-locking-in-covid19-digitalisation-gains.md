@@ -2,7 +2,6 @@
 layout: post
 title: "Locking in COVID-19 digitalisation gains"
 permalink: "/media/technews/locking-in-covid19-digitalisaion-gains"
-category: technews
 image: "/images/technews/locking-in-covid19-digitalisation-gains.1.png"
 ---
 

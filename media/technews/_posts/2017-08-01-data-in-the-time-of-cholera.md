@@ -2,7 +2,6 @@
 layout: post
 title:  "Data in the time of Cholera"
 permalink: "/media/technews/data-in-the-time-of-cholera"
-category: technews
 image: "/images/technews/data-in-the-time-of-cholera-part-1.png"
 ---
 

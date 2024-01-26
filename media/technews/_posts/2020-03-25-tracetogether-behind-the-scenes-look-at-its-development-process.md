@@ -2,7 +2,6 @@
 layout: post
 title: "TraceTogether - behind the scenes look at its development process"
 permalink: "/media/technews/tracetogether-behind-the-scenes-look-at-its-development-process"
-category: technews
 image: "/images/technews/tt-part1.JPG"
 ---
 <div class="bp-youtube">

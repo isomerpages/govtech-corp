@@ -2,7 +2,6 @@
 layout: post
 title: "A conversation with Bertrand Lee, GovTech's Smart Nation Fellow"
 permalink: "/media/technews/a-conversation-with-bertrand-lee"
-category: technews
 image: "images/technews/VICA1.jpg"
 ---
 

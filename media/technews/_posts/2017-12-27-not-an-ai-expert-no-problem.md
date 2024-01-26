@@ -2,7 +2,6 @@
 layout: post
 title:  "Not an AI expert? No problem"
 permalink: "/media/technews/not-an-ai-expert-no-problem"
-category: technews
 image: "/images/technews/not-an-ai-expert-no-problem-part-1.png"
 ---
 

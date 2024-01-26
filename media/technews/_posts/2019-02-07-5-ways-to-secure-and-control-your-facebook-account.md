@@ -2,7 +2,6 @@
 layout: post
 title: "5 ways to secure and control your Facebook account"
 permalink: "/media/technews/5-ways-to-secure-and-control-your-facebook-account"
-category: technews
 image: "/images/technews/5-ways-to-secure-and-control-your-facebook-account-part1.png"
 ---
 

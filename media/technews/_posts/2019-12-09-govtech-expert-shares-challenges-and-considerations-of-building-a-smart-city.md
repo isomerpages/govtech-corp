@@ -2,7 +2,6 @@
 layout: post
 title:  "GovTech expert shares challenges and considerations of building a smart city"
 permalink: "/media/technews/govtech-expert-shares-challenges-and-considerations-of-building-a-smart-city"
-category: technews
 image: "images/technews/smart-city-part1.jpg"
 ---
 

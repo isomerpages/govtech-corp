@@ -2,7 +2,6 @@
 layout: post
 title: "How tech is bringing this year’s NDP to you "
 permalink: "/media/technews/how-tech-is-bringing-this-year-ndp-to-you"
-category: technews
 image: "images/technews/ndp-part5.png"
 ---
 

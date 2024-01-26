@@ -2,7 +2,6 @@
 layout: post
 title: "Getting started with upskilling your employees"
 permalink: "/media/technews/getting-started-with-upskilling"
-category: technews
 image: "/images/technews/upskill-your-employees.jpg"
 ---
 

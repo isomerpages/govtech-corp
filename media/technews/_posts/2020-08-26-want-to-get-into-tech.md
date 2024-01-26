@@ -2,7 +2,6 @@
 layout: post
 title: "Want to get into tech? Here's what our new graduates say"
 permalink: "/media/technews/want-to-get-into-tech"
-category: technews
 image: "images/technews/getting-started-in-tech1.jpg"
 ---
 

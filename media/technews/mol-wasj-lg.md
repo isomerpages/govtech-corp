@@ -2,7 +2,6 @@
 layout: post
 title: Moments of Life (Working Adults) 
 permalink: "/media/technews/mol-wasj-lg"
-category: technews
 image:
 ---
 

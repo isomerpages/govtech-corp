@@ -2,7 +2,6 @@
 layout: post
 title:  "Helping SMEs to improve personal data protection"
 permalink: "/media/technews/helping-smes-to-improve-personal-data-protection"
-category: technews
 image: "/images/technews/helping-smes-to-improve-personal-data-protection-part-1.png"
 ---
 

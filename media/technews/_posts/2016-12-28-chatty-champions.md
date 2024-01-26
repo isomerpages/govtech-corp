@@ -2,7 +2,6 @@
 layout: post
 title:  "Chatty champions"
 permalink: "/media/technews/chatty-champions"
-category: technews
 image: "/images/technews/chatty-champions-part-1.png"
 ---
 

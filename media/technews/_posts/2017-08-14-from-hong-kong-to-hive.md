@@ -2,7 +2,6 @@
 layout: post
 title:  "From Hong Kong to Hive"
 permalink: "/media/technews/from-hong-kong-to-hive"
-category: technews
 image: 
 ---
 

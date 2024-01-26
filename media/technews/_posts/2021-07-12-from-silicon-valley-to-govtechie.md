@@ -2,7 +2,6 @@
 layout: post
 title: "From Silicon Valley to GovTechie - Why one Smart Nation Fellow joined the Public Service "
 permalink: "/media/technews/from-silicon-valley-to-govtechie"
-category: technews
 image: "/images/technews/wangzhen.jpg"
 ---
 Tech is usually thought of as gizmos, gadgets, machines, and computers. But really, it is the human talent that makes the biggest difference and gives tech its focus in making our lives better. 

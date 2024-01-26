@@ -2,7 +2,6 @@
 layout: post
 title:  "Highway to Singapore's Smart Future"
 permalink: "/media/technews/highway-to-singapore-smart-future"
-category: technews
 image: "/images/technews/highway-to-singapore-smart-future-part-1.png"
 ---
 

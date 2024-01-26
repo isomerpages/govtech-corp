@@ -2,7 +2,6 @@
 layout: post
 title:  "Smart Nation Starts With Disrupting Ourselves"
 permalink: "/media/technews/smart-nation-starts-with-disrupting-ourselves"
-category: technews
 image: "/images/technews/smart-nation-starts-with-disrupting-ourselves-part-1.png"
 ---
 

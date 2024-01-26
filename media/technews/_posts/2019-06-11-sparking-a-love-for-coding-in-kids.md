@@ -2,7 +2,6 @@
 layout: post
 title: "Sparking a love for coding in kids"
 permalink: "/media/technews/sparking-a-love-for-coding-in-kids"
-category: technews
 image: "/images/technews/Getting-kids-interested-in-scratch-coding-GovTech-Smart-Nation.jpg"
 ---
 

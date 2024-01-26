@@ -2,7 +2,6 @@
 layout: post
 title: "How MyMoneySense can make financial planning less challenging"
 permalink: "/media/technews/how-mymoneysense-can-make-financial-planning-less-challenging"
-category: technews
 image: "images/technews/mymoneysense1.PNG"
 ---
 

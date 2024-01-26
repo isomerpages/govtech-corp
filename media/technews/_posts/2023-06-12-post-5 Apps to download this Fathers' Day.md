@@ -2,7 +2,6 @@
 layout: post
 title: 5 Apps to download this Fathers' Day
 permalink: /media/technews/five-apps-to-download-this-fathers-day/
-category: technews
 image: /images/technews/5_Apps_to_download_this_Fathers__Day.jpg
 date: 2023-06-12
 description: Discover apps for dads in Singapore! From health records to

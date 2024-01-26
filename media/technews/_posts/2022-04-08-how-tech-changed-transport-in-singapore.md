@@ -2,7 +2,6 @@
 layout: post
 title: "How tech changed transport in Singapore"
 permalink: "/media/technews/how-tech-changed-transport-in-singapore"
-category: technews
 image: "images/technews/future-of-transport.jpg"
 ---
 

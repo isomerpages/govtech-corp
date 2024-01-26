@@ -2,7 +2,6 @@
 layout: post
 title:  "Security in the realm of Cloud, AI and Voice"
 permalink: "/media/technews/security-in-the-realm-of-cloud-ai-and-voice"
-category: technews
 image: "/images/technews/security-in-the-realm-of-cloud-ai-and-voice-part-1.png"
 ---
 

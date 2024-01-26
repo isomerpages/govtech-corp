@@ -2,7 +2,6 @@
 layout: post
 title: "CrowdTaskSG - Get your opinions heard!"
 permalink: "/media/technews/crowdtasksg-get-your-opinions-heard"
-category: technews
 image: "/images/technews/crowdtasksg-logo.png"
 ---
 

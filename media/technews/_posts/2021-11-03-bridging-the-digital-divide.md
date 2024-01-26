@@ -2,7 +2,6 @@
 layout: post
 title: "Bridging the digital divide? It can start with you."
 permalink: "/media/technews/bridging-the-digital-divide"
-category: technews
 image: "images/technews/digitaldivide.PNG"
 ---
 

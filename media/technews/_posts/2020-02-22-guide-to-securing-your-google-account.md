@@ -2,7 +2,6 @@
 layout: post
 title:  "A guide to securing your Google account"
 permalink: "/media/technews/guide-to-securing-your-google-account"
-category: technews
 image: "images/technews/michael-part1.jpg"
 ---
 

@@ -2,7 +2,6 @@
 layout: post
 title: "How the government is building citizen-centric digital services"
 permalink: "/media/technews/how-the-government-is-building-citizen-centric-digital-services"
-category: technews
 image: "/images/technews/how-the-government-is-building-citizen-centric-digital-services-part1.png"
 ---
      

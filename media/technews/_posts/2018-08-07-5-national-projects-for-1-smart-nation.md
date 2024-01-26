@@ -2,7 +2,6 @@
 layout: post
 title:  "5 National Projects For 1 Smart Nation"
 permalink: "/media/technews/5-national-projects-for-1-smart-nation"
-category: technews
 image: 
 ---
 

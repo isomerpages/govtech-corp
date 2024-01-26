@@ -2,7 +2,6 @@
 layout: post
 title:  "Meet one of the men behind Singapore's 1st secure email system"
 permalink: "/media/technews/meet-the-man-who-helped-create-singapores-first-secure-email-system"
-category: technews
 image: "/images/technews/meet-the-man-who-helped-create-singapores-first-secure-email-system-part-1.png"
 ---
 

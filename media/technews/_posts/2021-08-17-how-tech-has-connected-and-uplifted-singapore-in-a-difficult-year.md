@@ -2,7 +2,6 @@
 layout: post
 title: "How tech has connected and uplifted Singapore in a difficult year"
 permalink: "/media/technews/how-tech-has-connected-and-uplifted-singapore-in-a-difficult-year"
-category: technews
 image: "images/technews/nationalday2021.jpg"
 
 ---

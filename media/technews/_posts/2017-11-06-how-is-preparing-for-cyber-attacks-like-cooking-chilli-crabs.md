@@ -2,7 +2,6 @@
 layout: post
 title:  "How is preparing for cyber-attacks like cooking chilli crabs?"
 permalink: "/media/technews/how-is-preparing-for-cyber-attacks-like-cooking-chilli-crabs"
-category: technews
 image: "/images/technews/how-is-preparing-for-cyber-attacks-like-cooking-chilli-crabs-part-1.png"
 ---
 

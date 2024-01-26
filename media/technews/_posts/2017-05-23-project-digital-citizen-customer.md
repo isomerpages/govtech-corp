@@ -2,7 +2,6 @@
 layout: post
 title:  "Project: Digital citizen-customer"
 permalink: "/media/technews/project-digital-citizen-customer"
-category: technews
 image: "/images/technews/project-digital-citizen-customer-part-1.png"
 ---
 

@@ -2,7 +2,6 @@
 layout: post
 title: "Developing the OneService chatbot to improve municipal services"
 permalink: "/media/technews/developing-the-one-service-chatbot"
-category: technews
 image: "/images/servicechatbot1.png"
 ---
 

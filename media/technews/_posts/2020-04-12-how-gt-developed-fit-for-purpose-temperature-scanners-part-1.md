@@ -2,7 +2,6 @@
 layout: post
 title: "How GovTech developed fit for purpose temperature scanners – Part 1"
 permalink: "/media/technews/how-gt-developed-fit-for-purpose-temperature-scanners-part-1"
-category: technews
 image: "/images/technews/thermo-part1.JPG"
 ---
 

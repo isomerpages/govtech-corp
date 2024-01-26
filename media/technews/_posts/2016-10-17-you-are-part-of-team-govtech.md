@@ -2,7 +2,6 @@
 layout: post
 title:  "You are part of Team GovTech"
 permalink: "/media/technews/you-are-part-of-team-govtech"
-category: technews
 image: "/images/technews/you-are-part-of-team-govtech-part-1.png"
 ---
 

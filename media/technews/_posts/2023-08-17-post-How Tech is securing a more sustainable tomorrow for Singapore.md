@@ -2,7 +2,6 @@
 layout: post
 title: How Tech is securing a more sustainable tomorrow for Singapore
 permalink: /media/technews/how-tech-is-securing-a-more-sustainable-tomorrow-for-singapore/
-category: technews
 image: /images/technews/rotiferthumbnail.png
 date: 2023-08-17
 description: Discover how AI is used to enhance fish farm productivity and learn

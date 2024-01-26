@@ -2,7 +2,6 @@
 layout: post
 title:  "Rolling out iCON 2.0: Lessons in change management"
 permalink: "/media/technews/rolling-out-icon-lessons-in-change-management"
-category: technews
 image: "images/technews/icon-part1.jpg"
 ---
 

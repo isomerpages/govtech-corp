@@ -2,7 +2,6 @@
 layout: post
 title: "Using AI to differentiate different types of mosquito larvae"
 permalink: "/media/technews/using-ai-to-differentiate-mosquito-larvae"
-category: technews
 image: "images/technews/Using AI for Mosquito Larvae Differentiation.png"
 ---
 

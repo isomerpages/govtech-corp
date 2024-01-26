@@ -2,7 +2,6 @@
 layout: post
 title: "Generative AI: Where it can go wrong"
 permalink: /media/technews/generative-ai-where-can-it-go-wrong/
-category: technews
 image: /images/technews/Generative_AI__Where_it_can_go_wrong.jpg
 date: 2023-07-07
 description: Navigate the risks of using Generative AI in your reports. From

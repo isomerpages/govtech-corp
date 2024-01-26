@@ -2,7 +2,6 @@
 layout: post
 title: "10 tech developments to look forward to in 2019"
 permalink: "/media/technews/10-tech-developments-to-look-forward-to-in-2019"
-category: technews
 image: "/images/technews/10-tech-developments-to-look-forward-to-in-2019-part1.png"
 ---
      

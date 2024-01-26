@@ -2,7 +2,6 @@
 layout: post
 title: "Of drones and interactive maps – meet GovTech’s Modelling and Simulation team"
 permalink: "/media/technews/of-drones-and-interactive-maps"
-category: technews
 image: "/images/technews/digital_burnout.jpg"
 ---
 

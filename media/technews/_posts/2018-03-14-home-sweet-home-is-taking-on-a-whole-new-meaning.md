@@ -2,7 +2,6 @@
 layout: post
 title:  "‘Home sweet home’ is taking on a whole new meaning with these cool inventions"
 permalink: "/media/technews/home-sweet-home-is-taking-on-a-whole-new-meaning"
-category: technews
 image: "/images/technews/home-sweet-home-is-taking-on-a-whole-new-meaning-part-1.png"
 ---
 

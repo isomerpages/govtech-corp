@@ -2,7 +2,6 @@
 layout: post
 title: Hate waiting around in clinics? Here’s how virtual healthcare is changing that
 permalink: /media/technews/hate-waiting-around-in-clinics/
-category: technews
 image: /images/technews/Hate_waiting_around_in_clinics__Here_s_how_virtual_healthcare_is_changing_that_.jpg
 date: 2023-08-31
 description: Virtual healthcare is changing the game! Cut down hospital visits

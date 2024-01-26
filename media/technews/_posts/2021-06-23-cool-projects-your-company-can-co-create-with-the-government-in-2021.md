@@ -2,7 +2,6 @@
 layout: post
 title: "Check out these cool projects your company can co-create with the government in 2021"
 permalink: "/media/technews/2021-06-23-cool-projects-your-company-can-co-create-with-the-government-in-2021"
-category: technews
 image: "/images/technews/IB2021-Header.png"
 ---
 Have a company with tech expertise? Always wanted to lend a hand in building the Smart Nation? Then throw your hat into the ring to compete for a slice of the pie as the government is spending up to $3.8 billion on info-communications technology (ICT) procurement in 2021, up 10 per cent from last year. 

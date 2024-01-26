@@ -2,7 +2,6 @@
 layout: post
 title:  "Product Design Lessons from Google"
 permalink: "/media/technews/product-design-lessons-from-google"
-category: technews
 image: "/images/technews/product-design-lessons-from-google-part-1.png"
 ---
 

@@ -2,7 +2,6 @@
 layout: post
 title: "Tech Productivity Tools To Help You Work Like a Tech Professional"
 permalink: "/media/technews/tech-productivity-tools-to-work-like-a-tech-pro"
-category: technews
 image: "images/technews/productivity1.jpg"
 ---
 

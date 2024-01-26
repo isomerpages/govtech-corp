@@ -2,7 +2,6 @@
 layout: post
 title:  "Building an operating system for Punggol Digital District"
 permalink: "/media/technews/building-an-operating-system-for-punggol-digital-district"
-category: technews
 image: "images/technews/pdd-part4.PNG"
 ---
 

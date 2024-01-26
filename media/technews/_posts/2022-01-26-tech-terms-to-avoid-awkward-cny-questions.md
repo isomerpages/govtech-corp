@@ -2,7 +2,6 @@
 layout: post
 title: "Awkward questions this CNY? Use these tech terms to distract your relatives"
 permalink: "/media/technews/tech-terms-to-avoid-awkward-cny-questions"
-category: technews
 image: "images/technews/CNYArticle_V3-01.jpg"
 ---
 You know it’s Chinese New Year season when you see articles surfacing about how to deal with awkward questions from relatives you see once in a while. 

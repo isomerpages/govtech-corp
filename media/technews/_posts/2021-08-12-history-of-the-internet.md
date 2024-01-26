@@ -2,7 +2,6 @@
 layout: post
 title: "History of internet in Singapore – from niche toy to must-have essential"
 permalink: "/media/technews/history-of-the-internet"
-category: technews
 image: "/images/technews/images/technews/history-of-internet1.jpg"
 ---
 

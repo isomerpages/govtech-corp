@@ -2,7 +2,6 @@
 layout: post
 title: Losing your educational certificates is now a thing of the past
 permalink: /media/technews/losing-your-educational-certs-a-thing-of-the-past/
-category: technews
 image: images/technews/opencerts.PNG
 date: 2020-10-22
 description: ""

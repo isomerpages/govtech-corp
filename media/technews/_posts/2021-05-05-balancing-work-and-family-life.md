@@ -2,7 +2,6 @@
 layout: post
 title: "Balancing Work & Life - GovTech mums reveal how they do it. "
 permalink: "/media/technews/balancing-work-and-family-life"
-category: technews
 image: "/images/technews/MothersDay01.jpg"
 ---
 Work-life balance: it’s something we all strive for. For the parents out there, it’s a goal that is all the more challenging as life consists of young ones that depend on them for care and love. 

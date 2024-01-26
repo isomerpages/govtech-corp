@@ -2,7 +2,6 @@
 layout: post
 title:  "Singapore's fast and furious Supercomputer"
 permalink: "/media/technews/singapore-fast-and-furious-supercomputer"
-category: technews
 image: "/images/technews/singapore-fast-and-furious-supercomputer-part-1.png"
 ---
 

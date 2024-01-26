@@ -2,7 +2,6 @@
 layout: post
 title: GovTech STACKx Data & AI 2023
 permalink: /media/events/stackx-data-and-ai-2023/
-category: events
 date: 2023-05-16
 description: Explore the future of AI at STACKx Data & AI 2023. Join experts,
   government leaders, and industry professionals on July 18 at Suntec Singapore.

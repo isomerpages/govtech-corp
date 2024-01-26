@@ -2,7 +2,6 @@
 layout: post
 title:  "GovTech TechNews Referral Contest - Terms and Conditions"
 permalink: "/media/technews/technewsreferralcontest3"
-category: technews
 image: 
 ---
 

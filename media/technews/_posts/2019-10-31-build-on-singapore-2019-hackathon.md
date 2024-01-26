@@ -2,7 +2,6 @@
 layout: post
 title:  "Ideas abound at the ‘Build On, Singapore 2019’ hackathon"
 permalink: "/media/technews/build-on-singapore-2019-hackathon"
-category: technews
 image: "images/technews/build-on-part1.png"
 ---
 

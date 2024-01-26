@@ -2,7 +2,6 @@
 layout: post
 title: "Three key elements needed in IoT deployments"
 permalink: "/media/technews/three-key-elements-needed-in-IoT-deployments"
-category: technews
 image: "/images/technews/three-key-elements-you-need-in-iot-deployments-part1.png"
 ---
 

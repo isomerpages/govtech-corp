@@ -2,7 +2,6 @@
 layout: post
 title: "Digital 4 Good: GovTech UX designers sharing their UX career journey! "
 permalink: "/media/technews/digital-4-good-hatch-ux-hatch"
-category: technews
 image: "/images/technews/govtechxhatch_d4g.jpg"
 ---
 

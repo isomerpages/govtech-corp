@@ -2,7 +2,6 @@
 layout: post
 title: "Mosquitoes and data fall into place with NEA’s Gravitrap project"
 permalink: "/media/technews/mosquitoes-and-data-fall-into-place-with-nea-gravitrap-project"
-category: technews
 image: "/images/technews/goh-wei-jie-nea1.jpg"
 ---
 

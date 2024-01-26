@@ -2,7 +2,6 @@
 layout: post
 title: "[Not spam] Real answers to the question bugging you – How did tech terms get their names?"
 permalink: "/media/technews/how-tech-terms-got-their-names"
-category: technews
 image: "/images/technews/term-names.jpg"
 ---
 

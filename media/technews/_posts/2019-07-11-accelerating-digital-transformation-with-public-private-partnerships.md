@@ -2,7 +2,6 @@
 layout: post
 title: "Accelerating digital transformation with public-private partnerships"
 permalink: "/media/technews/accelerating-digital-transformation-with-public-private-partnerships"
-category: technews
 image: "/images/technews/dgx-panel-part1.png"
 ---
 

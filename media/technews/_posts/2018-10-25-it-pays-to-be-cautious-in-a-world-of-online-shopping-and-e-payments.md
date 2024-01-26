@@ -2,7 +2,6 @@
 layout: post
 title: "It pays to be cautious in a world of online shopping and e-payments"
 permalink: "/media/technews/it-pays-to-be-cautious-in-a-world-of-online-shopping-and-e-payments"
-category: technews
 image: "/images/technews/it-pays-to-be-cautious-part1.png"
 ---
 

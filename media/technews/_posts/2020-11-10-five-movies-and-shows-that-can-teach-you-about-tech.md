@@ -2,7 +2,6 @@
 layout: post
 title: "5 Movies and TV Shows that can teach you about tech!"
 permalink: "/media/technews/five-movies-and-shows-that-can-teach-you-about-tech"
-category: technews
 image: "images/technews/five-tech-shows1.jpg"
 ---
 

@@ -2,7 +2,6 @@
 layout: post
 title:  "Assistive Tech an enabling force"
 permalink: "/media/technews/assistive-tech-an-enabling-force"
-category: technews
 image: "/images/technews/assistive-tech-an-enabling-force-part-1.png"
 ---
 

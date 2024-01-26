@@ -2,7 +2,6 @@
 layout: post
 title: "A day in the life of a Data Scientist in the Technology Associate Programme"
 permalink: "/media/technews/a-day-in-the-life-of-a-data-scientist-in-tap"
-category: technews
 image: "/images/technews/joviloo.png"
 ---
 

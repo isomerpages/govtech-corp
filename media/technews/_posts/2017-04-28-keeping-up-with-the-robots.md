@@ -2,7 +2,6 @@
 layout: post
 title:  "Keeping up with the Robots"
 permalink: "/media/technews/keeping-up-with-the-robots"
-category: technews
 image: "/images/technews/keeping-up-with-the-robots-part-1.png"
 ---
 

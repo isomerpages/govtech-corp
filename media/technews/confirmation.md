@@ -2,7 +2,6 @@
 layout: post
 title: TechNews Confirmation
 permalink: "/media/technews/confirmation"
-category: technews
 image:
 ---
 

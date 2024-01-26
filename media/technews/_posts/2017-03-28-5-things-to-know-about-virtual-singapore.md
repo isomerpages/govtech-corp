@@ -2,7 +2,6 @@
 layout: post
 title:  "5 things to know about Virtual Singapore"
 permalink: "/media/technews/5-things-to-know-about-virtual-singapore"
-category: technews
 image: "/images/technews/5-things-to-know-about-virtual-singapore-part-1.png"
 ---
 

@@ -2,7 +2,6 @@
 layout: post
 title:  "Four key insights from GovTech’s cloud architect"
 permalink: "/media/technews/four-key-insights-from-govtech-cloud-architect"
-category: technews
 image: "/images/technews/gregor-insights.png"
 
 ---

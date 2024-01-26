@@ -2,7 +2,6 @@
 layout: post
 title: "All you ever wanted to know about the SIM card"
 permalink: "/media/technews/all-you-ever-wanted-to-know-about-the-sim-card-history"
-category: technews
 image: "/images/technews/cloud-government.jpg"
 ---
 Hands up if you’ve ever heard of the SIM card. Yes, we see that all of you are reaching for the sky.

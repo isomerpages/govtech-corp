@@ -2,7 +2,6 @@
 layout: post
 title: "More users pleased with user-friendly govt digital services, says poll"
 permalink: "/media/technews/more-users-pleased-with_user-friendly-govt-digital-services"
-category: technews
 image: "/images/technews/more_users_satisfied_digital_serivces1.jpg"
 ---
 

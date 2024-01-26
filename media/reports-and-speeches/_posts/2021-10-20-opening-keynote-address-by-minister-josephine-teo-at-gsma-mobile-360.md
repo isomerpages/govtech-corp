@@ -2,7 +2,6 @@
 layout: post
 title:  "Opening Keynote Address by Minister Josephine Teo at Global System for Mobile Communications Association (GSMA) Mobile 360 (M360) Asia Pacific"
 permalink: "/media/speeches/opening-keynote-address-by-minister-josephine-teo-at-gsma-mobile-360"
-category: speeches
 ---
 
 

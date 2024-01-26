@@ -2,7 +2,6 @@
 layout: post
 title: "Gaming our way to healthier lifestyles"
 permalink: "/media/technews/gaming-our-way-to-healthier-lifestyles"
-category: technews
 image: "/images/technews/steps.jpg"
 ---
 

@@ -2,7 +2,6 @@
 layout: post
 title: LifeSG gets a makeover with design and service upgrades!
 permalink: /media/technews/lifesg-gets-a-makeover/
-category: technews
 image: /images/technews/LifeSG_gets_a_makeover_with_design_and_service_upgrades_.jpg
 date: 2023-04-11
 description: "Unveiling the new LifeSG app! Seamlessly access 400 government

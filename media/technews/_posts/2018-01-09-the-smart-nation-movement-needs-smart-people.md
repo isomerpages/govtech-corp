@@ -2,7 +2,6 @@
 layout: post
 title:  "The Smart Nation movement needs smart people"
 permalink: "/media/technews/the-smart-nation-movement-needs-smart-people"
-category: technews
 image: 
 ---
 

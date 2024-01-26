@@ -2,7 +2,6 @@
 layout: post
 title:  "Using data science for social good"
 permalink: "/media/technews/using-data-science-for-social-good"
-category: technews
 image: "images/technews/datascience1.jpg"
 ---
 

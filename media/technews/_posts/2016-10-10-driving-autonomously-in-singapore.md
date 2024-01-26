@@ -2,7 +2,6 @@
 layout: post
 title:  "Driving autonomously in Singapore"
 permalink: "/media/technews/driving-autonomously-in-singapore"
-category: technews
 image: "/images/technews/driving-autonomously-in-singapore-part-1.png"
 ---
 

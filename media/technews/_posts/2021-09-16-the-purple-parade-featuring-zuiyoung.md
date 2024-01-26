@@ -2,7 +2,6 @@
 layout: post
 title: "The Purple Parade - featuring Zui Young"
 permalink: "/media/technews/the-purple-parade-featuring-zuiyoung"
-category: technews
 image: "images/technews/Zuiyoung1.jpg"
 
 

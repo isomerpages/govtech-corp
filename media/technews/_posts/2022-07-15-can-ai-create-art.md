@@ -2,7 +2,6 @@
 layout: post
 title: "Can AI create art?"
 permalink: "/media/technews/can-ai-create-art"
-category: technews
 image: "/images/technews/Can-AI-make-art.jpg"
 ---
 The Mona Lisa. Fur Elise. Swan Lake. Whenever we think of art, these are some of the examples that come to mind, representing monumental expressions of creativity that continue to stir emotions across centuries. 

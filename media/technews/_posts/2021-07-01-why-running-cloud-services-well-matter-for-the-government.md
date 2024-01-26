@@ -2,7 +2,6 @@
 layout: post
 title: "Why running cloud services well matter for the government"
 permalink: "/media/technews/why-running-cloud-services-matter-for-the-government"
-category: technews
 image: "/images/technews/cloud-government.jpg"
 ---
 

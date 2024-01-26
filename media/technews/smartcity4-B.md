@@ -2,7 +2,6 @@
 layout: post
 title:  "Guess this Smart City"
 permalink: "/media/technews/smartcity4-B"
-category: technews
 image: 
 ---
 

@@ -2,7 +2,6 @@
 layout: post
 title: "From coding to clicking – how website creation has evolved over decades"
 permalink: "/media/technews/how-website-creation-has-evolved-over-decades"
-category: technews
 image: "/images/technews/history-website-building.jpg"
 ---
 

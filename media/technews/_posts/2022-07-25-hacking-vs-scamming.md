@@ -2,7 +2,6 @@
 layout: post
 title: "Hacked or Scammed?"
 permalink: "/media/technews/hacking-vs-scamming"
-category: technews
 image: "/images/technews/jagasuper.png"
 ---
 Hacking vs scamming – take this quiz with our cyber and data security mascot to know the difference!

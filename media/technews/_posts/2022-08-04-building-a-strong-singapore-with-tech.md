@@ -2,7 +2,6 @@
 layout: post
 title: "National Day 2022 - building a stronger Singapore with tech"
 permalink: "/media/technews/building-a-stronger-singapore-with-tech"
-category: technews
 image: "/images/technews/ndp2022.jpg"
 ---
 Many aspects go towards building a nation, and one of the most important is community. Communities, after all, give different people a sense of identity and forge common values, ultimately rooting individuals to a country. 

@@ -2,7 +2,6 @@
 layout: post
 title:  "Celebrating tech innovation in Singapore"
 permalink: "/media/technews/celebrating-tech-innovation-in-singapore"
-category: technews
 image: "/images/technews/celebrating-tech-innovation-in-singapore-part-1.png"
 ---
 

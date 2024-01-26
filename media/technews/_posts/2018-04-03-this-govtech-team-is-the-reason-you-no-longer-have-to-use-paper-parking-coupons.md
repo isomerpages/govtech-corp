@@ -2,7 +2,6 @@
 layout: post
 title:  "This GovTech team is the reason you no longer have to use paper parking coupons"
 permalink: "/media/technews/this-govtech-team-is-the-reason-you-no-longer-have-to-use-paper-parking-coupons"
-category: technews
 image: "/images/technews/this-govtech-team-is-the-reason-you-no-longer-have-to-use-paper-parking-coupons-part-1.png"
 ---
 

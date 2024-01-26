@@ -2,7 +2,6 @@
 layout: post
 title: "Not just crypto – Blockchain uses you might not have heard of"
 permalink: "/media/technews/blockchain-uses-you-might-not-have-heard-of"
-category: technews
 image: "/images/technews/blockchain-uses.jpg"
 ---
 

@@ -2,7 +2,6 @@
 layout: post
 title: "“Moments of Life” - A new approach to seamless government digital services"
 permalink: "/media/technews/moments-of-life-a-new-approach-to-seamless-government-digital-services"
-category: technews
 image: "/images/technews/moments-of-life-a-new-approach-to-government-digital-services-part1.png"
 ---
      

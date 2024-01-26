@@ -2,7 +2,6 @@
 layout: post
 title:  "Driving the autonomous revolution"
 permalink: "/media/technews/driving-the-autonomous-revolution"
-category: technews
 image: "/images/technews/driving-the-autonomous-revolution-part-1.png"
 ---
 

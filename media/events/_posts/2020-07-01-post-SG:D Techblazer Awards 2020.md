@@ -2,7 +2,6 @@
 layout: post
 title: SG:D Techblazer Awards 2020
 permalink: /media/events/sg-digital-techblazer-awards-2020/
-category: events
 date: 2020-07-01
 description: "Innovate and adapt with SG:D Techblazer Awards 2020. Recognizing
   tech excellence in challenging times. Submit your entry now!

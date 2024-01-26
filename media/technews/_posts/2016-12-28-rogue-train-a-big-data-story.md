@@ -2,7 +2,6 @@
 layout: post
 title:  "Rogue Train: A Big Data Story"
 permalink: "/media/technews/rogue-train-a-big-data-story"
-category: technews
 image: "/images/technews/rogue-train-a-big-data-story-part-1.png"
 ---
 

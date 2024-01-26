@@ -2,7 +2,6 @@
 layout: post
 title: "Smart Cities around the world. Amsterdam Edition"
 permalink: "/media/technews/smart-cities-around-the-world-amsterdam"
-category: technews
 image: "images/technews/smartcityamsterdam1.jpg"
 ---
 

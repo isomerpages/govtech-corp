@@ -2,7 +2,6 @@
 layout: post
 title:  "Don’t go solo along the path of innovation"
 permalink: "/media/technews/dont-go-solo-along-the-path-of-innovation"
-category: technews
 image: 
 ---
 

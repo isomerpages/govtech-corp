@@ -2,7 +2,6 @@
 layout: post
 title:  "Improving productivity, sustainability and usability"
 permalink: "/media/technews/improving-productivity-sustainability-and-usability"
-category: technews
 image: "/images/technews/improving-productivity-sustainability-and-usability-part-1.png"
 ---
 

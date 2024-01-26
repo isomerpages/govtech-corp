@@ -2,7 +2,6 @@
 layout: post
 title: "Ping, PM, DM, notification – how to avoid digital burnout"
 permalink: "/media/technews/how-to-avoid-digital-burnout"
-category: technews
 image: "/images/technews/digital_burnout.jpg"
 ---
 

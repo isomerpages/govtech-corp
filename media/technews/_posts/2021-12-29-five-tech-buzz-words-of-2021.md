@@ -2,7 +2,6 @@
 layout: post
 title: "Five Tech Buzz Words of 2021"
 permalink: "/media/technews/five-tech-buzz-words-of-2021"
-category: technews
 image: "images/technews/techbuzzwordsthisyear.jpg"
 ---
 Ah, December. It’s the festive season, the period when everyone is winding down and the new year beckons. 

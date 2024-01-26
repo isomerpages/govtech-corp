@@ -2,7 +2,6 @@
 layout: post
 title: "Supporting Women in (Gov)Tech Beyond International Women’s Day"
 permalink: "/media/technews/supporting-women-in-govtech-beyond-international-womens-day"
-category: technews
 image: "images/technews/supporting-women-in-govtech-beyond-international-womens-day.png"
 ---
 

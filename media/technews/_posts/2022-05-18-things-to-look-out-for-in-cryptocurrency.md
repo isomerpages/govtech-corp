@@ -2,7 +2,6 @@
 layout: post
 title: "Buyer Alert: Things to look out for in cryptocurrency"
 permalink: "/media/technews/things-to-look-out-for-in-cryptocurrency"
-category: technews
 image: "images/technews/crypto-pitfalls.jpg"
 ---
 

@@ -2,7 +2,6 @@
 layout: post
 title: "Lessons from a cloud architect"
 permalink: "/media/technews/lessons-from-a-cloud-architect"
-category: technews
 image: "/images/technews/Gregor-Hope-StackX-Cloud-GovTech-Smart-Nation.jpg"
 ---
 

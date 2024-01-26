@@ -2,7 +2,6 @@
 layout: post
 title:  "Meet the man who is working on improving the accuracy of your GPS system"
 permalink: "/media/technews/meet-the-man-who-is-working-on-improving-the-accuracy-of-your-gps-system"
-category: technews
 image: 
 ---
 ![paul](/images/technews/meet-the-man-who-is-working-on-improving-the-accuracy-of-your-gps-system-part-1.jpg)

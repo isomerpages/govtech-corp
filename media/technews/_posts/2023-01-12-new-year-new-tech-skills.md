@@ -2,7 +2,6 @@
 layout: post
 title: "New Year, New Tech Skills! 5 free tech learning resources"
 permalink: "/media/technews/new-year-new-tech-skills"
-category: technews
 image: "/images/technews/5-free-courses.jpg"
 ---
 

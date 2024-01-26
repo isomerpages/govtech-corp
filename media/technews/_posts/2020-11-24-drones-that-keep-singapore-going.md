@@ -2,7 +2,6 @@
 layout: post
 title: "Drones that keep Singapore going"
 permalink: "/media/technews/drones-that-keep-singapore-going"
-category: technews
 image: "images/technews/drones-that-keep-singapore-going.jpg"
 ---
 Not all heroes wear capes, skintight outfits or appear in films directed by Zack Synder. 

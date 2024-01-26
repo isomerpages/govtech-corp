@@ -2,7 +2,6 @@
 layout: post
 title:  "Bringing innovation to the cybersecurity fight"
 permalink: "/media/technews/bringing-innovation-to-the-cybersecurity-fight"
-category: technews
 image: "/images/technews/bringing-innovation-to-the-cybersecurity-fight-part-1.png"
 ---
 

@@ -2,7 +2,6 @@
 layout: post
 title:  "Redesigning the school admission portal for better user centricity"
 permalink: "/media/technews/redesigning-school-admission-portal-for-better-user-centricity"
-category: technews
 image: "/images/technews/DSA%20article%20header.jpg"
 ---
 

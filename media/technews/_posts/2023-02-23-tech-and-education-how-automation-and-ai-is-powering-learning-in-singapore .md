@@ -2,7 +2,6 @@
 layout: post
 title: "Tech and education: How automation and AI are powering learning in Singapore"
 permalink: "/media/technews/tech-and-education-how-automation-and-ai-is-powering-learning-in-singapore"
-category: technews
 image: "/images/technews/tech-and-education.jpg"
 ---
 

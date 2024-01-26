@@ -2,7 +2,6 @@
 layout: post
 title: "Smart Cities around the world. The Helsinki Chapter"
 permalink: "/media/technews/smart-cities-around-the-world-helsinki"
-category: technews
 image: "/images/technews/helsinki1.jpg"
 ---
 

@@ -2,7 +2,6 @@
 layout: post
 title: "No short supply of good ideas"
 permalink: "/media/technews/no-short-supply-of-good-ideas"
-category: technews
 image: "/images/technews/SupplyAlly-GovTech-team-photo.jpg"
 ---
 ![The SupplyAlly team from GovTech in a Smart Nation](/images/technews/SupplyAlly-GovTech-team-photo.jpg)

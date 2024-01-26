@@ -2,7 +2,6 @@
 layout: post
 title: Top 5 scams in Singapore and how to protect yourself from them
 permalink: /media/technews/top-five-scams-in-singapore-and-how-to-protect-yourself/
-category: technews
 image: /images/technews/Top_5_scams_in_Singapore_and_how_to_protect_yourself_from_them__1_.jpg
 date: 2023-09-07
 description: Scams on the rise! Learn about the different types of scams

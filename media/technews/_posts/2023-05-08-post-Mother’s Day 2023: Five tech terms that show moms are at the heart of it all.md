@@ -2,7 +2,6 @@
 layout: post
 title: "Mother’s Day 2023: Five tech terms that show moms are at the heart of it all"
 permalink: /media/technews/mothers-day-2023-five-tech-terms/
-category: technews
 image: /images/technews/Mother_s_Day_2023__five_tech_terms_that_show_moms_are_at_the_heart_of_it_all.jpg
 date: 2023-05-08
 description: Explore the tech world's homage to moms! From motherboards to the

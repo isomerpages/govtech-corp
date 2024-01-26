@@ -2,7 +2,6 @@
 layout: post
 title: "How oTTers got into TraceTogether"
 permalink: "/media/technews/how-otters-got-into-tracetogether"
-category: technews
 image: "images/technews/otterwa1"
 ---
 Love otters and how they’ve become part of Singapore’s landscape? So do we. So much so that users of the latest version of the TraceTogether app, or TT for short, will notice that we’ve incorporated a swimming otter into the display after one does SafeEntry through TT. 

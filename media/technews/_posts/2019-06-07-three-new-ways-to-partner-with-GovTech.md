@@ -2,7 +2,6 @@
 layout: post
 title: "3 new ways to partner with GovTech"
 permalink: "/media/technews/3-new-ways-to-partner-with-GovTech"
-category: technews
 image: "/images/technews/New-Partnership-Models-Industry-Briefing-Smart-Nation-Digital-Government.JPG"
 ---
 

@@ -2,7 +2,6 @@
 layout: post
 title: "Conserving nature: How AI is helping to save wildlife"
 permalink: "/media/technews/how-ai-is-helping-to-save-wildlife"
-category: technews
 image: "/images/technews/ai-save-wildlife.jpg"
 ---
 

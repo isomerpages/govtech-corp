@@ -2,7 +2,6 @@
 layout: post
 title:  "Digital Realm of Engineering Marvels"
 permalink: "/media/technews/digital-realm-of-engineering-marvels"
-category: technews
 image: "/images/technews/digital-realm-of-engineering-marvels-part-1.png"
 ---
 

@@ -2,7 +2,6 @@
 layout: post
 title: "Tech Projects that were created to deal with cabin fever"
 permalink: "/media/technews/tech-projects-that-were-created-to-deal-with-cabin-fever"
-category: technews
 image: "images/technews/cabin-fever.jpg"
 ---
 

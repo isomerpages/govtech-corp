@@ -2,7 +2,6 @@
 layout: post
 title:  "Next-level upgrades for school tech"
 permalink: "/media/technews/next-level-upgrades-for-school-tech"
-category: technews
 image: 
 ---
 

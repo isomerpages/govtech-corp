@@ -2,7 +2,6 @@
 layout: post
 title: "What we learnt from GovTech’s Data Arcade Tournament"
 permalink: "/media/technews/what-we-learnt-from-govtech-data-arcade-tournament"
-category: technews
 image: "/images/technews/what-we-learnt-from-govtech-data-arcade-tournament-part1.png"
 ---
       

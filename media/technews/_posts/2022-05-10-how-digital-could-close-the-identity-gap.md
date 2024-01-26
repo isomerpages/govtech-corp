@@ -2,7 +2,6 @@
 layout: post
 title: "How digital could help close the 'identity gap' "
 permalink: "/media/technews/how-digital-could-close-the-identity-gap"
-category: technews
 image: "images/technews/3dprinting.jpg"
 ---
 This op-ed is written by Kendrick Lee (Director, National Digital Identity, Trusted Data Division, Government Technology Agency of Singapore) and Calum Handforth (Adviser, UNDP Global Centre for Technology, Innovation, and Sustainable Development).

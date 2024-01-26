@@ -2,7 +2,6 @@
 layout: post
 title: "Explaining your tech job this CNY"
 permalink: "/media/technews/explaining-your-tech-job-this-cny"
-category: technews
 image: "images/technews/cnytechjobs.jpg"
 ---
 

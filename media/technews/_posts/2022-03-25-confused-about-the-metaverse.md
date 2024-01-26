@@ -2,7 +2,6 @@
 layout: post
 title: "Confused about the metaverse? Let TV shows and movies show you the way."
 permalink: "/media/technews/confused-about-the-metaverse"
-category: technews
 image: "images/technews/metaverse.jpg"
 ---
 

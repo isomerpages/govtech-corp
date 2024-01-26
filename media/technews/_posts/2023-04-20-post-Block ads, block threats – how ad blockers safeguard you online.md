@@ -2,7 +2,6 @@
 layout: post
 title: Block ads, block threats – how ad blockers safeguard you online
 permalink: /media/technews/how-ad-blockers-safeguard-you-online/
-category: technews
 image: /images/technews/Block_ads__block_threats___how_ad_blockers_safeguard_you_online.jpg
 date: 2023-04-20
 description: Shield yourself from online scams with ad blockers! Learn how these

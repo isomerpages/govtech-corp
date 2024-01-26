@@ -2,7 +2,6 @@
 layout: post
 title: "Innovative solutions to fight food waste"
 permalink: "/media/technews/innovative-solutions-to-fight-food-waste"
-category: technews
 image: "/images/technews/food-waste.jpg"
 ---
 

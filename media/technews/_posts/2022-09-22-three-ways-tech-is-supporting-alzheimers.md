@@ -2,7 +2,6 @@
 layout: post
 title: "Three ways tech is supporting Alzheimer's"
 permalink: "/media/technews/three-ways-tech-is-supporting-alzheimers"
-category: technews
 image: "/images/technews/ProjectPensieve.jpg"
 ---
 

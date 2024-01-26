@@ -2,7 +2,6 @@
 layout: post
 title: "Tech Talk to sound like a Tech Vet"
 permalink: "/media/technews/tech-talk-to-sound-like-a-tech-veteran"
-category: technews
 image: "images/technews/tech-talk1.jpg"
 ---
 Every industry has its set of jargon and commonly used terms. It’s the grease that speeds up communication and keeps everyone on the same page. 

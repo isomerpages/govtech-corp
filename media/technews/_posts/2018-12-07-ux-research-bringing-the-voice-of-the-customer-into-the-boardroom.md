@@ -2,7 +2,6 @@
 layout: post
 title: "UX Research: Bringing the voice of the customer into the boardroom"
 permalink: "/media/technews/ux-research-bringing-the-voice-of-the-customer-into-the-boardroom"
-category: technews
 image: "/images/technews/ux-research-bringing-the-voice-of-the-customer-into-the-boardroom-part1.png"
 ---
       

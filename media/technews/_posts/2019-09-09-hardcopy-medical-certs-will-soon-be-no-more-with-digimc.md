@@ -2,7 +2,6 @@
 layout: post
 title:  "Hardcopy medical certs will soon be no more with DigiMC"
 permalink: "/media/technews/hardcopy-medical-certs-will-soon-be-no-more-with-digimc"
-category: technews
 image: "/images/technews/digimc-part1.PNG"
 ---
 

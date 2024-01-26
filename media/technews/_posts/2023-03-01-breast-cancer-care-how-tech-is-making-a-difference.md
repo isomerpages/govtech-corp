@@ -2,7 +2,6 @@
 layout: post
 title: "Breast cancer care - How tech is making a difference"
 permalink: "/media/technews/breast-cancer-care-how-tech-is-making-a-difference"
-category: technews
 image: "/images/technews/tech-in-breast-cancer.jpg"
 ---
 

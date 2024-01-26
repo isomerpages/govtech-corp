@@ -2,7 +2,6 @@
 layout: post
 title:  "Be Our Tech Kaki!"
 permalink: "/media/technews/be-our-tech-kaki"
-category: technews
 image: "/images/technews/be-our-tech-kaki-part-1.png"
 ---
 

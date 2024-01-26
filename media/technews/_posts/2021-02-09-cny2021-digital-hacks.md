@@ -2,7 +2,6 @@
 layout: post
 title: "CNY2021 Digital Hacks"
 permalink: "/media/technews/cny2021-digital-hacks"
-category: technews
 image: "images/technews/CNY1.jpg"
 ---
 

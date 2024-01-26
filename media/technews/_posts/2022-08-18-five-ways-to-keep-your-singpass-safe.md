@@ -2,7 +2,6 @@
 layout: post
 title: "Five ways to keep your Singpass safe"
 permalink: "/media/technews/five-ways-to-keep-your-singpass-safe"
-category: technews
 image: "/images/technews/singpasssecure2.png"
 ---
 Did you know that Singpass is almost 20 years old? Launched in 2003 (the same year Cristiano Ronaldo made his first Manchester United debut), Singpass has come a long way from being a login to transact with the Government to becoming an all-encompassing digital identity with its own feature-packed mobile application. Its security has also been constantly enhanced, such as when Two-Factor Authentication (2FA) was introduced in 2015. 

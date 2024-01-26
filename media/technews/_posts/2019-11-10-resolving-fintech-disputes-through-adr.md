@@ -2,7 +2,6 @@
 layout: post
 title: "Resolving Fintech Disputes through ADR"
 permalink: "/media/technews/resolving-fintech-disputes-through-adr"
-category: technews
 image: "/images/technews/resolving-fintech-disputes-through-adr-part1.png"
 ---
 

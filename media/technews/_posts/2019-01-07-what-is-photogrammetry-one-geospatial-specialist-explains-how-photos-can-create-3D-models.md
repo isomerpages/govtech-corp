@@ -2,7 +2,6 @@
 layout: post
 title: "What is photogrammetry? One geospatial specialist explains how photos can create 3D models"
 permalink: "/media/technews/what-is-photogrammetry-one-geospatial-specialist-explains-how-photos-can-create-3D-models"
-category: technews
 image: "/images/technews/what-is-photogrammetry-part1.png"
 ---
      

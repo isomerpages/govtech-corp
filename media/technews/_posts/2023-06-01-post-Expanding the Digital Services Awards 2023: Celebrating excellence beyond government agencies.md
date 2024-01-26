@@ -3,7 +3,6 @@ layout: post
 title: "Expanding the Digital Services Awards 2023: Celebrating excellence
   beyond government agencies"
 permalink: /media/technews/expanding-the-digital-services-award-2023/
-category: technews
 image: /images/technews/Expanding_the_Digital_Services_Awards_2023__celebrating_excellence_beyond_government_agencies.jpg
 date: 2023-06-01
 description: DSA 2023 expands to industry! Nominate for Best Usability and Most

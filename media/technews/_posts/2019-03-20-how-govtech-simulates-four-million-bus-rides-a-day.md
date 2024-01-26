@@ -2,7 +2,6 @@
 layout: post
 title: "How GovTech simulates four million bus rides a day"
 permalink: "/media/technews/How-GovTech-simulates-four-million-bus-rides-a-day"
-category: technews
 image: "/images/technews/how-govtech-simulates-four million-bus-rides-day-part1.png"
 ---
 

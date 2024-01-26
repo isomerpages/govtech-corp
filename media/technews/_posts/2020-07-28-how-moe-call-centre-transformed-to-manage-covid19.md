@@ -2,7 +2,6 @@
 layout: post
 title: "How the MOE Call Centre transformed to manage COVID-19 head on"
 permalink: "/media/technews/How the MOE Call Centre transformed to manage COVID"
-category: technews
 image: "images/technews/moe-call-centre2.JPG"
 ---
 

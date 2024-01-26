@@ -2,7 +2,6 @@
 layout: post
 title: Smart Nation & Digital Government Industry Briefing 2023
 permalink: /media/events/industry-briefing-2023/
-category: events
 date: 2023-04-18
 description: Explore the future of digital government at Smart Nation Industry
   Briefing 2023. Highlights include $1B for cloud apps and sustainability

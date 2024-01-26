@@ -2,7 +2,6 @@
 layout: post
 title: "How measuring digital maturity can help improve e-services"
 permalink: "/media/technews/how-measuring-digital-maturity-can-improve-e-services"
-category: technews
 image: "/images/technews/digitalmaturity.jpg"
 ---
 

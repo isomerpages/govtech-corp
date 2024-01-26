@@ -2,7 +2,6 @@
 layout: post
 title:  "5 things to know about AR/VR"
 permalink: "/media/technews/5-things-to-know-about-arvr"
-category: technews
 image: "/images/technews/5-things-to-know-about-arvr-part-1.png"
 ---
 

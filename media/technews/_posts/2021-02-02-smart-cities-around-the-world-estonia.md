@@ -2,7 +2,6 @@
 layout: post
 title: "Smart Cities around the world. The Estonia Edition"
 permalink: "/media/technews/smart-cities-around-the-world-estonia"
-category: technews
 image: "images/technews/estonia1.jpgg"
 ---
 Despite being a small European nation with 1.3 million citizens, Estonia punches above its weight when it comes to digital adoption, and is often lauded as one of the most digitally advanced countries in the world.

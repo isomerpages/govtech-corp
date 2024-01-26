@@ -2,7 +2,6 @@
 layout: post
 title:  "Running provision shops with Blockchain"
 permalink: "/media/technews/running-provision-shops-with-blockchain"
-category: technews
 image: 
 ---
 

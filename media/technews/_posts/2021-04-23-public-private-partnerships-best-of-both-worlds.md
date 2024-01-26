@@ -2,7 +2,6 @@
 layout: post
 title: "Public-private partnerships – having the best of both worlds"
 permalink: "/media/technews/public-private-partnerships-best-of-both-worlds"
-category: technews
 image: "/images/technews/barrylim.JPG"
 ---
 

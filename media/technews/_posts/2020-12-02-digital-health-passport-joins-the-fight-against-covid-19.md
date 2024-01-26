@@ -2,7 +2,6 @@
 layout: post
 title: "Digital Health Passport joins the fight against COVID-19"
 permalink: "/media/technews/digital-health-passport-joins-the-fight-against-covid-19"
-category: technews
 image: "images/technews/digital-health-passport.jpg"
 ---
 

@@ -2,7 +2,6 @@
 layout: post
 title: "Early tech push eases Covid-19 impact"
 permalink: "/media/technews/early-tech-push-eases-covid-19-impact"
-category: technews
 image: "/images/technews/ib2-part2.jpg"
 ---
 

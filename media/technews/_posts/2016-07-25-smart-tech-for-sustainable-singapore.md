@@ -2,7 +2,6 @@
 layout: post
 title:  "Smart Tech for Sustainable Singapore"
 permalink: "/media/technews/smart-tech-for-sustainable-singapore"
-category: technews
 image: "/images/technews/smart-tech-for-sustainable-singapore-part-1.png"
 ---
 

@@ -2,7 +2,6 @@
 layout: post
 title: "Pay your bills by scanning a QR code? This GovTech team is making it possible"
 permalink: "/media/technews/pay-your-bills-by-scanning-a-QR-code"
-category: technews
 image: "/images/technews/pay-your-bills-by-QR.jpg"
 ---
 

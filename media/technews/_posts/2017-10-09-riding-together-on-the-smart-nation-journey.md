@@ -2,7 +2,6 @@
 layout: post
 title:  "Riding together on the Smart Nation journey"
 permalink: "/media/technews/riding-together-on-the-smart-nation-journey"
-category: technews
 image: "/images/technews/riding-together-on-the-smart-nation-journey-part-1.png"
 ---
 

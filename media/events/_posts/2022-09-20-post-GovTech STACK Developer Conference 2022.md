@@ -2,7 +2,6 @@
 layout: post
 title: GovTech STACK Developer Conference 2022
 permalink: /media/events/stack-developer-conference-2022/
-category: events
 date: 2022-09-20
 description: Discover the future of tech at STACK 2022, Nov 15-16. Keynotes by
   industry leaders, insights on cloud, data, and smart city trends. Join us!

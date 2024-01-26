@@ -2,7 +2,6 @@
 layout: post
 title:  "Learning what machine learning can achieve"
 permalink: "/media/technews/learning-what-machine-learning-can-achieve"
-category: technews
 image: "images/technews/machine-learning-part1.jpg"
 ---
 

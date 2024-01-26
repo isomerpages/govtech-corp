@@ -2,7 +2,6 @@
 layout: post
 title: "From tearing tabs to tapping apps – a history of parking in Singapore"
 permalink: "/media/technews/history-of-parking"
-category: technews
 image: "/images/technews/history-of-internet1.jpg"
 ---
 

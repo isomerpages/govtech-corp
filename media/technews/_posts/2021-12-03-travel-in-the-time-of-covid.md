@@ -2,7 +2,6 @@
 layout: post
 title: "Travel in the time of COVID – tech is making your overseas trip less painful than you think"
 permalink: "/media/technews/travel-in-the-time-of-covid"
-category: technews
 
 image: images/technews/covidtravel1.jpg
 ---

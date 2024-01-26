@@ -2,7 +2,6 @@
 layout: post
 title: "Tech tips to beat COVID-19 blues - part 1"
 permalink: "/media/technews/tech-tips-to-beat-covid-blues-part1"
-category: technews
 image: "/images/technews/tech-covid-part3.JPG"
 ---
 

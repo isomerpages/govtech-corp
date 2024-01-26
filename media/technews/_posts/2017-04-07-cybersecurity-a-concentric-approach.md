@@ -2,7 +2,6 @@
 layout: post
 title:  "Cybersecurity: A Concentric Approach"
 permalink: "/media/technews/cybersecurity-a-concentric-approach"
-category: technews
 image: "/images/technews/cybersecurity-a-concentric-approach-part-1.png"
 ---
 

@@ -2,7 +2,6 @@
 layout: post
 title:  "How the government chief information security officer keeps cyberspace secure"
 permalink: "/media/technews/how-the-government-chief-information-security-officer-keeps-cyberspace secure"
-category: technews
 image: "/images/technews/chinloon-technews.png"
 
 ---

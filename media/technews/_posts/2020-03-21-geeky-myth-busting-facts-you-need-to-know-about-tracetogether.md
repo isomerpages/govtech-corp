@@ -2,7 +2,6 @@
 layout: post
 title: "9 geeky myth-busting facts you need to know about TraceTogether"
 permalink: "/media/technews/geeky-myth-busting-facts-you-need-to-know-about-tracetogether"
-category: technews
 image: "/images/technews/tt-myth.jpg"
 ---
 

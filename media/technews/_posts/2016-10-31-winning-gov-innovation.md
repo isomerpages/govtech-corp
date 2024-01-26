@@ -2,7 +2,6 @@
 layout: post
 title:  "Winning Gov Innovation"
 permalink: "/media/technews/winning-gov-innovation"
-category: technews
 image: "/images/technews/winning-gov-innovation-part-1.png"
 ---
 

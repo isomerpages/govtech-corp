@@ -2,7 +2,6 @@
 layout: post
 title: "Blood, Flesh and....3D printing?"
 permalink: "/media/technews/blood-flesh-and-3d-printing"
-category: technews
 image: "images/technews/3dprinting.jpg"
 ---
 What do Luke Skywalker, Bucky Barnes AKA the Winter Soldier, and Robocop have in common? Beyond being fictional heroes, they are also outfitted with prosthetics that are just as good (some would say even better) than real limbs. 

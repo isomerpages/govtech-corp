@@ -2,7 +2,6 @@
 layout: post
 title: "Big push for AI proves fruitful and useful"
 permalink: "/media/technews/big-push-for-ai-proves-fruitful-and-useful"
-category: technews
 image: "/images/technews/ib4-part1.jpg"
 ---
 

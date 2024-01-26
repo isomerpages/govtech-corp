@@ -2,7 +2,6 @@
 layout: post
 title: "Non-tech students share their summer internship takeaways"
 permalink: "/media/technews/non-tech-students-share-internship-takeaways"
-category: technews
 image: "images/technews/YTPO_Interns_Oct21.jpg"
 ---
 

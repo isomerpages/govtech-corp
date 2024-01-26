@@ -2,7 +2,6 @@
 layout: post
 title: "How ‘smart’ is Singapore? Find out at the Smart Nation CityScape"
 permalink: "/media/technews/smart-nation-city-scape"
-category: technews
 image: "images/technews/CityScape.jpeg"
 ---
 How long has it been since you last travelled? The only right answer is that it’s been too long.  

@@ -2,7 +2,6 @@
 layout: post
 title: "Valentine’s Day: Pick-up lines to set techies’ hearts aflutter"
 permalink: "/media/technews/techie-vday-pick-up-lines"
-category: technews
 image: "images/technews/vday2022.jpg"
 ---
 

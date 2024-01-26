@@ -2,7 +2,6 @@
 layout: post
 title:  "Bringing connectivity to the Southern Islands over Television White Space"
 permalink: "/media/technews/bringing-connectivity-to-the-southern-islands"
-category: technews
 image: "images/technews/tvws-part1.JPG"
 ---
 

@@ -2,7 +2,6 @@
 layout: post
 title:  "Digital Government Blueprint"
 permalink: "/media/technews/digital-government-blueprint"
-category: technews
 image: "/images/technews/digital-government-blueprint-part-1.png"
 ---
 

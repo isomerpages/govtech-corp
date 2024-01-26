@@ -2,7 +2,6 @@
 layout: post
 title:  "Sizing up the fun at Tech Saturday Upsized"
 permalink: "/media/technews/sizing-up-the-fun-at-tech-saturday-upsized"
-category: technews
 image: 
 ---
 

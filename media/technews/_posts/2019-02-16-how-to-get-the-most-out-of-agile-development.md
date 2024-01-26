@@ -2,7 +2,6 @@
 layout: post
 title: "How to get the most out of agile development"
 permalink: "/media/technews/how-to-get-the-most-out-of-agile-development"
-category: technews
 image: "/images/technews/how-to-get-the-most-out-of-agile-development-part1.png"
 
 ---

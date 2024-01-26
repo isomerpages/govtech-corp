@@ -2,7 +2,6 @@
 layout: post
 title:  "Smart Nation supercharged"
 permalink: "/media/technews/smart-nation-supercharged"
-category: technews
 image: "/images/technews/smart-nation-supercharged-part-1.png"
 ---
 

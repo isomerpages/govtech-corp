@@ -2,7 +2,6 @@
 layout: post
 title: "Why is Bluetooth called Bluetooth, and all the other questions you always had"
 permalink: "/media/technews/history-of-bluetooth"
-category: technews
 image: "images/technews/history-of-bluetooth.jpg"
 ---
 

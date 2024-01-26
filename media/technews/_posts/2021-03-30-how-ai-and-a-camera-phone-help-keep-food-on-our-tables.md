@@ -2,7 +2,6 @@
 layout: post
 title: "How AI and a camera phone help keep food on our tables"
 permalink: "/media/technews/how-ai-and-a-camera-phone-help-keep-food-on-our-tables"
-category: technews
 image: "/images/technews/rotifer-counting-application.png"
 ---
 

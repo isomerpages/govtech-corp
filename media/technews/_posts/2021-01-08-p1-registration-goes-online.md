@@ -2,7 +2,6 @@
 layout: post
 title: "P1 Registration Post COVID-19 - A modern Singapore 'Tradition' goes online"
 permalink: "/media/technews/p1-registration-goes-online"
-category: technews
 image: "images/technews/classroom1.jpg"
 ---
 It's the first week of school for 2021, the day of reckoning for 7 year-olds who start Primary 1. But even before their first-day-of-school jitters , parents had their own jitters when it came to tackling the 2020 P1 Registration excercise.

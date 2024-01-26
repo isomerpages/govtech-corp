@@ -2,7 +2,6 @@
 layout: post
 title:  "The Learning Workplace"
 permalink: "/media/technews/the-learning-workplace"
-category: technews
 image: "/images/technews/the-learning-workplace-part-1.png"
 ---
 

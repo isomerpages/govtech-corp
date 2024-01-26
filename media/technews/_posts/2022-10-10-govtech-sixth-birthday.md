@@ -2,7 +2,6 @@
 layout: post
 title: "GovTechies reflect on their journey"
 permalink: "/media/technews/govtech-sixth-birthday"
-category: technews
 image: "/images/technews/govtech-sixth-birthday.jpg"
 ---
 

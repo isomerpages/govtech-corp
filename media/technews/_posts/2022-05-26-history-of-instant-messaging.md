@@ -2,7 +2,6 @@
 layout: post
 title: "Text me: Instant messaging through the years"
 permalink: "/media/technews/history-of-instant-messaging"
-category: technews
 image: "images/technews/history-of-instant-messaging.jpg"
 ---
 

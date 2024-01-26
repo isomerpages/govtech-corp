@@ -2,7 +2,6 @@
 layout: post
 title: "Safe Distance @ Parks: how AI replaced eye power for crowd counting"
 permalink: "/media/technews/safe-distance-at-nparks"
-category: technews
 image: "/images/technews/nparksimage4.png.jpg"
 ---
 

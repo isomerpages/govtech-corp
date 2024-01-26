@@ -2,7 +2,6 @@
 layout: post
 title: "How to build a service blueprint and what you can achieve with it"
 permalink: "/media/technews/how-to-build-service-blueprint-and-what-you-can-achieve-with-it"
-category: technews
 image: "/images/technews/service-blueprinting-part1"
 ---
 

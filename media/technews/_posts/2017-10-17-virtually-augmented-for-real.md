@@ -2,7 +2,6 @@
 layout: post
 title:  "Virtually augmented for real"
 permalink: "/media/technews/virtually-augmented-for-real"
-category: technews
 image: "/images/technews/virtually-augmented-for-real-part-1.png"
 ---
 

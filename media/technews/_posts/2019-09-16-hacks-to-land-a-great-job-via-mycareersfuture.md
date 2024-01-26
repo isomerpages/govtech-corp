@@ -2,7 +2,6 @@
 layout: post
 title:  "6 hacks to land a great job via MyCareersFuture.sg"
 permalink: "/media/technews/hacks-to-land-a-great-job-via-mycareersfuture"
-category: technews
 image: "/images/technews/images/technews/mcf-hacks-part1.png"
 ---
 

@@ -2,7 +2,6 @@
 layout: post
 title:  "Three Apps That Millennials Must Share with Their Grandparents"
 permalink: "/media/technews/three-apps-that-millennials-must-share-with-their-grandparents"
-category: technews
 image: "images/technews/grandparents.jpg"
 ---
 

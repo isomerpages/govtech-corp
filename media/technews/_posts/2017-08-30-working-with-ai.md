@@ -2,7 +2,6 @@
 layout: post
 title:  "Working with AI"
 permalink: "/media/technews/working-with-ai"
-category: technews
 image: "/images/technews/working-with-ai-part-1.png"
 ---
 

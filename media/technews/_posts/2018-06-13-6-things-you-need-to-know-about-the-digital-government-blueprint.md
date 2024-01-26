@@ -2,7 +2,6 @@
 layout: post
 title:  "6 things you need to know about the Digital Government Blueprint"
 permalink: "/media/technews/6-things-you-need-to-know-about-the-digital-government-blueprint"
-category: technews
 image: 
 ---
 

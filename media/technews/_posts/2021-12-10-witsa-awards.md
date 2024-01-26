@@ -2,7 +2,6 @@
 layout: post
 title: "WITSA awards – GovTech bags four prizes at Olympics of ICT"
 permalink: "/media/technews/witsa-awards"
-category: technews
 image: "images/technews/witsa1.jpg"
 ---
 GovTech has always prided itself for making a difference in everyone’s lives through tech innovation that’s world class. World class? Yup. And how do we know? Well, we recently bagged four prizes at the World Information Technology and Services Alliance (WITSA) Global ICT Excellence Awards, which is very much the Olympics of the information & communications technology industry. 

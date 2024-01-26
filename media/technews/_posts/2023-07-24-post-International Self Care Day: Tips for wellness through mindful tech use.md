@@ -2,7 +2,6 @@
 layout: post
 title: "International Self Care Day: Tips for wellness through mindful tech use"
 permalink: /media/technews/international-self-care-day/
-category: technews
 image: /images/technews/International_Self_Care_Day___tips_for_wellness_through_mindful_tech_use.jpg
 date: 2023-07-24
 description: Mindful tech use for a healthier life! Learn to combat digital

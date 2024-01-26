@@ -2,7 +2,6 @@
 layout: post
 title:  "Machine Learning will transform Cybersecurity"
 permalink: "/media/technews/machine-learning-will-transform-cybersecurity"
-category: technews
 image: "/images/technews/machine-learning-will-transform-cybersecurity-part-1.png"
 ---
 

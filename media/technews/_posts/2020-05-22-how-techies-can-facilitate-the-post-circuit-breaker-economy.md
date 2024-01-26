@@ -2,7 +2,6 @@
 layout: post
 title: "How techies can facilitate the post-circuit breaker economy"
 permalink: "/media/technews/how-techies-can-facilitate-the-post-circuit-breaker-economy"
-category: technews
 image: "/images/technews/post-cb-part1.jpg"
 ---
 ![How techies can facilitate the post-circuit breaker economy](/images/technews/post-cb-part1.jpg)

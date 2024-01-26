@@ -2,7 +2,6 @@
 layout: post
 title: "Taking flight with Smart Nation Scholarship"
 permalink: "/media/technews/taking-flight-with-smart-nation-scholarship"
-category: technews
 image: "images/technews/SNS_TechNews_Artwork.jpg"
 ---
 As GovTech delivers our mission of ‘Engineering Digital Government, Making Lives Better’, we firmly believe in the importance of having representation of our population in our workforce, in order to be able to design products and services that adequately serve our people. 

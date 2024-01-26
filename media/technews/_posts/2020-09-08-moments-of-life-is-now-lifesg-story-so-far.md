@@ -2,7 +2,6 @@
 layout: post
 title: "Moments of Life is now LifeSG – the story so far"
 permalink: "/media/technews/moments-of-life-is-now-lifesg-story-so-far"
-category: technews
 image: "images/technews/lifesg-technews-part1.png"
 ---
 

@@ -2,7 +2,6 @@
 layout: post
 title:  "MaskGoWhere - This team has the answers"
 permalink: "/media/technews/maskgowhere"
-category: technews
 image: "images/technews/maskgowhereteam.jpg"
 ---
 

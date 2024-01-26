@@ -2,7 +2,6 @@
 layout: post
 title:  "Blockchain beyond cryptocurrencies"
 permalink: "/media/technews/blockchain-beyond-cryptocurrencies"
-category: technews
 image: "/images/technews/blockchain-beyond-cryptocurrencies-part-1.png"
 ---
 

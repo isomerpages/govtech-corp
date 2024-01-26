@@ -2,7 +2,6 @@
 layout: post
 title: "Your Sentiments matter in the design of government digital services"
 permalink: "/media/technews/your-sentiments-matter-in-the-design-of-government-digital-services"
-category: technews
 image: "/images/technews/Whole-of-Government-Application-Analytics-Sentiments-Smart-Nation-2.jpg"
 ---
 

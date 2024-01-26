@@ -2,7 +2,6 @@
 layout: post
 title: "Tech activities to keep your kids entertained"
 permalink: "/media/technews/tech-activities-to-keep-your-kids-entertained"
-category: technews
 image: "images/technews/LFS_Thumbnail (1).jpg"
 ---
 

@@ -2,7 +2,6 @@
 layout: post
 title:  "Pulse of the Smart Nation"
 permalink: "/media/technews/pulse-of-the-smart-nation"
-category: technews
 image: "/images/technews/pulse-of-the-smart-nation-part-1.png"
 ---
 

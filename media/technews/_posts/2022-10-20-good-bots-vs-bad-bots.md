@@ -2,7 +2,6 @@
 layout: post
 title: "Good Bots vs Bad Bots. Know the difference and protect yourself"
 permalink: "/media/technews/good-bots-vs-bad-bots"
-category: technews
 image: "/images/technews/good_bots_bad_bots.jpg"
 ---
 

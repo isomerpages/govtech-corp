@@ -2,7 +2,6 @@
 layout: post
 title:  "Government Tech for the People"
 permalink: "/media/technews/government-tech-for-the-people"
-category: technews
 image: "/images/technews/government-tech-for-the-people-part-1.png"
 ---
 

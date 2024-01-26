@@ -2,7 +2,6 @@
 layout: post
 title: "Practical applications of artificial intelligence"
 permalink: "/media/technews/practical-applications-of-artificial-intelligence"
-category: technews
 image: "/images/technews/practical-applications-of-artificial-intelligence-smart-nation-govtech-header.jpg"
 ---
 
