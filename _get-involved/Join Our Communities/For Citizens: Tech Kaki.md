@@ -9,7 +9,7 @@ image: /images/Get Involved/Get_involved__Become_a_Tech_Kaki_with_GovTech_.jpg
 ---
 <h2>A tech community from all walks of life</h2>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="GovTech community Tech Kaki networking" src="https://d33wubrfki0l68.cloudfront.net/f09cf63c771c697acbc52f58889237714acdd215/8b2d2/images/gt7-techkaki.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="GovTech community Tech Kaki networking" src="/images/Get Involved/Get_involved__Become_a_Tech_Kaki_with_GovTech_.jpg">
 </div>
 <h3>About Tech Kaki</h3>
 <p>Citizens are at the heart of our work. Since 2016, a community of everyday
