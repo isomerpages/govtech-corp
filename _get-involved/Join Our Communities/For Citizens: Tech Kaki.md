@@ -674,11 +674,8 @@ You’ll get first dibs on these digital products and services as one of us. Rea
         </div>
     </div>
     <div class="section feature-center">
-        <h3>
-            Nam tempor in lorem nec ornare
-        </h3>
-        <div class="body-text-regular">
-            Vestibulum tincidunt neque at elit dictum cursus. Praesent eu libero at velit vestibulum sollicitudin vel non lorem. Pellentesque vitae lorem scelerisque, vehicula tellus ut, vestibulum erat.
+        <h3>Join our community</h3>
+        <div class="body-text-regular">Connect with us and receive opportunities for co-creation, right in your email inbox.
         </div>
         <img alt="" src="https://developers.elementor.com/docs/assets/img/elementor-placeholder-image.png">
         <div class="feature-image-button-holder">
