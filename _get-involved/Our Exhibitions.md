@@ -554,42 +554,31 @@ image: /images/Get Involved/Smart_Nation_Cityscape_GovTech_exhibition_display.jp
     <div class="section">
         <span class="body-text-regular">Vestibulum tincidunt neque at elit dictum cursus. Praesent eu libero at velit vestibulum sollicitudin vel non lorem. Pellentesque vitae lorem scelerisque, vehicula tellus ut, vestibulum erat.</span>
     </div>
-    <div class="section portrait-box">
-        <img alt="" src="https://developers.elementor.com/docs/assets/img/elementor-placeholder-image.png">
-        <div class="portrait-box-details">
-            <h4>“Vestibulum tincidunt neque at elit dictum cursus. Praesent eu libero at velit vestibulum sollicitudin vel non lorem. Pellentesque vitae lorem scelerisque, vehicula tellus ut,  erat.”</h4>
-            <span class="body-text-small">– Vestibulum tincidunt, neque at </span>
-        </div>
-    </div>
-    <div class="section quote-box">
-        <h3>“Vestibulum tincidunt neque at elit dictum cursus. Praesent eu libero at velit vestibulum sollicitudin vel non lorem. Pellentesque vitae lorem scelerisque, vehicula tellus ut,  erat.”</h3>
-        <div class="body-text-small">– Vestibulum tincidunt, neque at </div>
+	 <div class="section">
     </div>
     <div class="section linebreak"></div>
     <div class="section">
-        <h3>Lorem ipsum dolor sit amet, consectetur adipiscing elit</h3>
+        <h3>Smart Nation Playscape</h3>
     </div>
     <div class="section">
-        <span class="body-text-regular">Vestibulum tincidunt neque at elit dictum cursus. Praesent eu libero at velit vestibulum sollicitudin vel non lorem. Pellentesque vitae lorem scelerisque, vehicula tellus ut, vestibulum erat.</span>
+        <span class="body-text-regular">New technologies are constantly coming into our lives. With this tech exhibition, you can deepen your knowledge about the latest tech in fun and interactive ways.</span>
     </div>
     <div class="section swap-image-container">
         <div class="swap-image-box">
-            <img alt="" src="https://developers.elementor.com/docs/assets/img/elementor-placeholder-image.png">
+            <img alt="Smart Nation PlayScape GovTech showcase robot activity" src="/images/Get%20Involved/Smart_Nation_PlayScape_GovTech_showcase_robot_activity.jpg">
             <div class="swap-image-details">
-                <h4>Nam tempor in lorem nec ornare</h4>
-                <span class="body-text-small">
-                    Vestibulum tincidunt neque at elit dictum cursus. Praesent eu libero at velit vestibulum sollicitudin vel non lorem. Pellentesque vitae lorem scelerisque, vehicula tellus ut, vestibulum erat.
+                <h4>A simpler way to learn about tech</h4>
+                <span class="body-text-small">Get to know the ins and outs of AI, VR, robotics and more by playing games and completing cool activities like programming a robot to dance and watching a robot solve a Rubik’s Cube.
                     <br><br>
                     Click <a target="_blank" href="https://www.google.com/">here</a> to find out more 
                 </span>
             </div>
         </div>
         <div class="swap-image-box">
-            <img alt="" src="https://developers.elementor.com/docs/assets/img/elementor-placeholder-image.png">
+            <img alt="Kids taking part in interactive activities at Smart Nation PlayScape" src="/images/Get%20Involved/Kids_interactive_activities_Smart_Nation_PlayScape.jpg">
             <div class="swap-image-details">
-                <h4>Nam tempor in lorem nec ornare</h4>
-                <span class="body-text-small">
-                    Vestibulum tincidunt neque at elit dictum cursus. Praesent eu libero at velit vestibulum sollicitudin vel non lorem. Pellentesque vitae lorem scelerisque, vehicula tellus ut, vestibulum erat.
+                <h4>Fun for the whole family</h4>
+                <span class="body-text-small">Suitable for visitors aged 10 and up, it’s the perfect opportunity for both the young and old to learn more about tech and our Smart Nation.
                     <br><br>
                     Click <a target="_blank" href="https://www.google.com/">here</a> to find out more 
                 </span>
