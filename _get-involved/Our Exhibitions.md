@@ -520,11 +520,6 @@ image: /images/Get Involved/Smart_Nation_Cityscape_GovTech_exhibition_display.jp
         <span class="body-text-regular">Our work at GovTech impacts every part of your daily life. Learn more about the initiatives that improve the way you live, work and play at this immersive exhibition.</span>
     </div>
     <div class="section">
-        <h4>Fusce feugiat, risus id euismod gravida, lectus urna fermentum:</h4>
-    </div>
-    <div class="section">
-        <span class="body-text-regular">Vestibulum tincidunt neque at elit dictum cursus. Praesent eu libero at velit vestibulum sollicitudin vel non lorem. Pellentesque vitae lorem scelerisque, vehicula tellus ut, vestibulum erat.</span>
-    </div>
     <div class="section info-cards-container">
         <div class="info-cards">
             <img alt="Smart Nation CityScape GovTech exhibition display" src="/images/Get%20Involved/Smart_Nation_Cityscape_GovTech_exhibition_display.jpg">
@@ -551,31 +546,6 @@ image: /images/Get Involved/Smart_Nation_Cityscape_GovTech_exhibition_display.jp
             </div>
         </div>
     </div>
-    <div class="section info-cards-container">
-        <div class="info-cards">
-            <div class="info-cards-details no-image">
-                <h5>Praesent eu libero at velit vestibulum</h5>
-                <span class="body-text-small">
-                    Pellentesque vitae lorem scelerisque, vehicula tellus ut, vestibulum erat.
-                </span>
-            </div>
-        </div>
-        <div class="info-cards">
-            <div class="info-cards-details no-image">
-                <h5>Praesent eu libero at velit vestibulum</h5>
-                <span class="body-text-small">
-                    Pellentesque vitae lorem scelerisque, vehicula tellus ut, vestibulum erat.
-                </span>
-            </div>
-        </div>
-        <div class="info-cards">
-            <div class="info-cards-details no-image">
-                <h5>Praesent eu libero at velit vestibulum</h5>
-                <span class="body-text-small">
-                    Pellentesque vitae lorem scelerisque, vehicula tellus ut, vestibulum erat.
-                </span>
-            </div>
-        </div>
     </div>
     <div class="section linebreak"></div>
     <div class="section">
