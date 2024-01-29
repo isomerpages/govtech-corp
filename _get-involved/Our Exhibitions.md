@@ -563,6 +563,10 @@ image: /images/Get Involved/Smart_Nation_Cityscape_GovTech_exhibition_display.jp
     <div class="section">
         <span class="body-text-regular">New technologies are constantly coming into our lives. With this tech exhibition, you can deepen your knowledge about the latest tech in fun and interactive ways.</span>
     </div>
+   <div class="section">
+<div class="bp-youtube">
+    <iframe allowfullscreen="" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" frameborder="0" title="YouTube video player" src="https://www.youtube.com/embed/CId3K2e2dmk?si=GF16TlgWjNDFq40E" height="315" width="560"></iframe>
+</div></div>
     <div class="section swap-image-container">
         <div class="swap-image-box">
             <img alt="Smart Nation PlayScape GovTech showcase robot activity" src="/images/Get%20Involved/Smart_Nation_PlayScape_GovTech_showcase_robot_activity.jpg">
