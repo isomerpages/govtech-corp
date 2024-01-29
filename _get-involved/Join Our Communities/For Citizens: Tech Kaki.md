@@ -27,7 +27,7 @@ Kaki. As part of our community, you’ll be involved in government research
 to address government feedback and co-create better products and services
 for all.</p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="New Singpass login page co-created by Tech Kaki" src="https://www.tech.gov.sg/images/technews/govtechturns7-1.png">
+<img style="width: 100%" height="auto" width="100%" alt="New Singpass login page co-created by Tech Kaki" src="/images/technews/govtechturns7-1.png">
 </div>
 <h4>Protecting citizens on Singpass</h4>
 <p>Citizens can now spot fraudulent activity better with a redesigned login
