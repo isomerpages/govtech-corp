@@ -765,6 +765,6 @@ image: /images/Get Involved/Smart_Nation_Cityscape_GovTech_exhibition_display.jp
     </div>
 </a></div><a href="https://go.gov.sg/cityscapetour">
 <div class="bp-youtube">
-    <iframe allowfullscreen="" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" frameborder="0" title="YouTube video player" src="https://www.youtube.com/embed/MfkeAoVo4Vo?si=Mn1ssByy4RAiSBQw" height="315" width="560"></iframe>
+    <iframe allowfullscreen="" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" frameborder="0" title="YouTube video player" src="https://www.youtube.com/embed/CId3K2e2dmk?si=GF16TlgWjNDFq40E" height="315" width="560"></iframe>
 </div>
 </a>
