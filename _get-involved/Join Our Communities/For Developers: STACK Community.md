@@ -559,9 +559,9 @@ If our purpose resonates with you, read on for a glimpse of life as a GovTech ST
 
 The event was a stellar opportunity for government leaders, tech professionals and practitioners to connect and move the conversation around AI forward. 
 
-Find your way to our next flagship conference by joining our STACK meet-ups as a community member.
-</span>
+Find your way to our next flagship conference by joining our STACK meet-ups as a community member.</span>
     </div>
 <div class="bp-youtube">
     <iframe allowfullscreen="" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" frameborder="0" title="YouTube video player" src="https://www.youtube.com/embed/5DGAIiUwMuU?si=vx4sW43nS01ysCQ6" height="315" width="560"></iframe>
-</div></div>
+</div>
+</div>
