@@ -7,6 +7,7 @@ third_nav_title: Join Our Communities
 variant: markdown
 image: /images/Get Involved/Get_involved__Become_a_Tech_Kaki_with_GovTech_.jpg
 ---
+
 <style>
     .iso-template h3 {
         color: #4372D6 !important;
@@ -516,7 +517,11 @@ image: /images/Get Involved/Get_involved__Become_a_Tech_Kaki_with_GovTech_.jpg
         <h3>About Tech Kaki</h3>
     </div>
     <div class="section">
-        <span class="body-text-regular">Citizens are at the heart of our work. Since 2016, a community of everyday people has played an active role in the development of our digital products and services. Members from our 7,000-strong Tech Kaki community take part in focus group discussions, government user testing and more to make sure that our products and services meet the needs of citizens and businesses. You’ll get first dibs on these digital products and services as one of us. Read on to explore the potential of your contributions as a Tech Kaki member.</span>
+        <span class="body-text-regular">Citizens are at the heart of our work. Since 2016, a community of everyday people has played an active role in the development of our digital products and services. 
+					
+Members from our 7,000-strong Tech Kaki community take part in focus group discussions, government user testing and more to make sure that our products and services meet the needs of citizens and businesses. 
+					
+You’ll get first dibs on these digital products and services as one of us. Read on to explore the potential of your contributions as a Tech Kaki member.</span>
 <div class="section linebreak"></div>
 	<div class="section">
         <h3>A small community with a big impact</h3>
