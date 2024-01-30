@@ -507,11 +507,8 @@ image: /images/Get Involved/Smart_Nation_Cityscape_GovTech_exhibition_display.jp
 
 <div class="iso-template informative-template">
     <div class="section">
-        <h3>Deep dive into Smart Nation initiatives</h3>
-    </div>
-    <div class="section infographic">
-        <img alt="" src="https://developers.elementor.com/docs/assets/img/elementor-placeholder-image.png">
-    </div>
+        <h2>Deep dive into Smart Nation initiatives</h2>
+	</div>
     <div class="section linebreak"></div>
     <div class="section">
         <h3>Smart Nation CityScape</h3>
