@@ -526,23 +526,17 @@ Read on to learn about the perks of signing up for GovTech ReCONNECT.</span>
         <div class="swap-image-box">
             <img alt="" src="https://developers.elementor.com/docs/assets/img/elementor-placeholder-image.png">
             <div class="swap-image-details">
-                <h4>Nam tempor in lorem nec ornare</h4>
+                <h4>Be invited to exclusive events</h4>
                 <span class="body-text-small">
-                    Vestibulum tincidunt neque at elit dictum cursus. Praesent eu libero at velit vestibulum sollicitudin vel non lorem. Pellentesque vitae lorem scelerisque, vehicula tellus ut, vestibulum erat.
-                    <br><br>
-                    Click <a target="_blank" href="https://www.google.com/">here</a> to find out more 
-                </span>
+                    Share your expertise at industry events as you network with current and former GovTechies. We held our first physical event for our community in early 2023 with many more to come.</span>
             </div>
         </div>
         <div class="swap-image-box">
             <img alt="" src="https://developers.elementor.com/docs/assets/img/elementor-placeholder-image.png">
             <div class="swap-image-details">
-                <h4>Nam tempor in lorem nec ornare</h4>
+                <h4>Stay updated on GovTech developments</h4>
                 <span class="body-text-small">
-                    Vestibulum tincidunt neque at elit dictum cursus. Praesent eu libero at velit vestibulum sollicitudin vel non lorem. Pellentesque vitae lorem scelerisque, vehicula tellus ut, vestibulum erat.
-                    <br><br>
-                    Click <a target="_blank" href="https://www.google.com/">here</a> to find out more 
-                </span>
+                    Get updates on tech happenings in the government, even after your time in GovTech. You’ll also have access to collaboration opportunities so you can keep contributing to the Smart Nation initiative.</span>
             </div>
         </div>
     </div>
@@ -552,7 +546,7 @@ Read on to learn about the perks of signing up for GovTech ReCONNECT.</span>
             Join Our Community
         </h3>
         <div class="body-text-regular">
-            Vestibulum tincidunt neque at elit dictum cursus. Praesent eu libero at velit vestibulum sollicitudin vel non lorem. Pellentesque vitae lorem scelerisque, vehicula tellus ut, vestibulum erat.
+            Connect with GovTech members from the past and present, and receive updates on future events.
         </div>
         <img alt="" src="https://developers.elementor.com/docs/assets/img/elementor-placeholder-image.png">
         <div class="feature-image-button-holder">
