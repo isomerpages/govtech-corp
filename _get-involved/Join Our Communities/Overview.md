@@ -385,20 +385,20 @@ variant: markdown
     }
 </style>
 <div class="iso-template listing-template">
-    <div class="section heading-text">
-        <h3>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam tempor in lorem nec ornare. In in turpis dolor. Fusce feugiat, risus id euismod gravida, lectus urna fermentum nisi, ac mattis nulla velit eu quam.</h3>
-    </div>
     <div class="section article-title">
-        <h3>Lorem ipsum dolor sit amet, consectetur adipiscing elit</h3>
+        <h3>Make an impact with GovTech</h3>
     </div>
     <div class="section article-text">
-        <span class="body-text-regular">Vestibulum tincidunt neque at elit dictum cursus. Praesent eu libero at velit vestibulum sollicitudin vel non lorem. Pellentesque vitae lorem scelerisque, vehicula tellus ut, vestibulum erat.</span>
+        <span class="body-text-regular">Your ideas could advance a nation. Contribute your talents as part of a GovTech community, where you’ll connect with like-minded individuals and drive change for Singaporeans. 
+
+By working closely with us and other changemakers, we can keep innovating on what works, and improve on what doesn’t. Your skills and experience will go a long way to help us understand what citizens need and better their lives through technology.
+</span>
     </div>
     <div class="section article-subtitle">
-        <h5>Vestibulum tincidunt neque at elit dictum cursus. Praesent eu libero at velit vestibulum sollicitudin vel non lorem. Pellentesque vitae lorem scelerisque, vehicula tellus ut, vestibulum erat.</h5>
+        <h5>Explore all communities</h5>
     </div>
     <div class="section article-text">
-        <span class="body-text-regular">Vestibulum tincidunt neque at elit dictum cursus. Praesent eu libero at velit vestibulum sollicitudin vel non lorem. Pellentesque vitae lorem scelerisque, vehicula tellus ut, vestibulum erat.</span>
+        <span class="body-text-regular">There’s a place for every changemaker. Whether you’re skilled in tech or not, learn more about our communities below as you look for the right fit.</span>
     </div>
     <div class="section card-one-container">
         <div class="card-one-box">
