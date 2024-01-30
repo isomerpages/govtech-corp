@@ -543,8 +543,6 @@ image: /images/Get Involved/Smart_Nation_Cityscape_GovTech_exhibition_display.jp
             </div>
         </div>
     </div>
-    </div>
-   
     <div class="section linebreak"></div>
     <div class="section">
         <h3>Smart Nation Playscape</h3>
@@ -561,133 +559,14 @@ image: /images/Get Involved/Smart_Nation_Cityscape_GovTech_exhibition_display.jp
             <img alt="Smart Nation PlayScape GovTech showcase robot activity" src="/images/Get%20Involved/Smart_Nation_PlayScape_GovTech_showcase_robot_activity.jpg">
             <div class="swap-image-details">
                 <h4>A simpler way to learn about tech</h4>
-                <span class="body-text-small">Get to know the ins and outs of AI, VR, robotics and more by playing games and completing cool activities like programming a robot to dance and watching a robot solve a Rubik’s Cube.
-                    <br><br>
-                    Click <a target="_blank" href="https://www.google.com/">here</a> to find out more 
-                </span>
+                <span class="body-text-small">Get to know the ins and outs of AI, VR, robotics and more by playing games and completing cool activities like programming a robot to dance and watching a robot solve a Rubik’s Cube.</span>
             </div>
         </div>
         <div class="swap-image-box">
             <img alt="Kids taking part in interactive activities at Smart Nation PlayScape" src="/images/Get%20Involved/Kids_interactive_activities_Smart_Nation_PlayScape.jpg">
             <div class="swap-image-details">
                 <h4>Fun for the whole family</h4>
-                <span class="body-text-small">Suitable for visitors aged 10 and up, it’s the perfect opportunity for both the young and old to learn more about tech and our Smart Nation.
-                    <br><br>
-                    Click <a target="_blank" href="https://www.google.com/">here</a> to find out more 
-                </span>
-            </div>
-        </div>
-    </div>
-    <div class="section linebreak"></div>
-    <div class="section">
-        <h3>Lorem ipsum dolor sit amet, consectetur adipiscing elit</h3>
-    </div>
-    <div class="section">
-        <span class="body-text-regular">Vestibulum tincidunt neque at elit dictum cursus. Praesent eu libero at velit vestibulum sollicitudin vel non lorem. Pellentesque vitae lorem scelerisque, vehicula tellus ut, vestibulum erat.</span>
-    </div>
-    <div class="section accordion-container">
-        <input type="checkbox" id="title1">
-        <label for="title1">
-            <h5>Nam tempor in lorem nec ornare</h5>
-            <svg class="open-accordion-icon" fill="none" viewBox="0 0 22 22" height="22" width="22" xmlns="http://www.w3.org/2000/svg"><path fill="#4372D6" d="M12.9841 12.8664L20.1104 12.8995C20.5081 12.8995 20.8727 12.5349 20.8727 12.1371V10.4799C20.8727 10.0821 20.5081 9.71752 20.1104 9.71752L12.9841 9.75066V2.59121C12.9841 2.19346 12.6195 1.82886 12.2217 1.82886H10.5644C10.1667 1.82886 9.80208 2.19346 9.80208 2.59121L9.83522 9.71752H2.67577C2.27802 9.71752 1.91342 10.0821 1.91342 10.4799V12.1371C1.91342 12.5349 2.27802 12.8995 2.67577 12.8995H9.83522L9.80208 20.0258C9.80208 20.4236 10.1667 20.7882 10.5644 20.7882H12.2217C12.6195 20.7882 12.9841 20.4236 12.9841 20.0258V12.8664Z"></path></svg><svg class="close-accordion-icon" fill="none" viewBox="0 0 21 22" height="22" width="21" xmlns="http://www.w3.org/2000/svg"><path fill="#4372D6" d="M12.7266 11.2849L17.7891 6.26929C18.0703 5.98804 18.0703 5.47241 17.7891 5.19116L16.6172 4.01929C16.3359 3.73804 15.8203 3.73804 15.5391 4.01929L10.5234 9.08179L5.46094 4.01929C5.17969 3.73804 4.66406 3.73804 4.38281 4.01929L3.21094 5.19116C2.92969 5.47241 2.92969 5.98804 3.21094 6.26929L8.27344 11.2849L3.21094 16.3474C2.92969 16.6287 2.92969 17.1443 3.21094 17.4255L4.38281 18.5974C4.66406 18.8787 5.17969 18.8787 5.46094 18.5974L10.5234 13.5349L15.5391 18.5974C15.8203 18.8787 16.3359 18.8787 16.6172 18.5974L17.7891 17.4255C18.0703 17.1443 18.0703 16.6287 17.7891 16.3474L12.7266 11.2849Z"></path></svg>
-        </label>
-        <div class="accordion-content">
-            <div class="feature-image">
-                <img alt="" src="https://developers.elementor.com/docs/assets/img/elementor-placeholder-image.png">
-                <div class="feature-image-button-holder">
-                    <div class="button-blue">
-                        BUTTON
-                    </div>
-                    <div class="button-blue">
-                        BUTTON
-                        <svg fill="none" viewBox="0 0 16 17" height="17" width="16" xmlns="http://www.w3.org/2000/svg"><path fill="white" d="M10 0.723633C9.44687 0.723633 9 1.17051 9 1.72363C9 2.27676 9.44687 2.72363 10 2.72363H12.5844L6.29375 9.01738C5.90312 9.40801 5.90312 10.0424 6.29375 10.433C6.68437 10.8236 7.31875 10.8236 7.70937 10.433L14 4.13926V6.72363C14 7.27676 14.4469 7.72363 15 7.72363C15.5531 7.72363 16 7.27676 16 6.72363V1.72363C16 1.17051 15.5531 0.723633 15 0.723633H10ZM2.5 1.72363C1.11875 1.72363 0 2.84238 0 4.22363V14.2236C0 15.6049 1.11875 16.7236 2.5 16.7236H12.5C13.8813 16.7236 15 15.6049 15 14.2236V10.7236C15 10.1705 14.5531 9.72363 14 9.72363C13.4469 9.72363 13 10.1705 13 10.7236V14.2236C13 14.4986 12.775 14.7236 12.5 14.7236H2.5C2.225 14.7236 2 14.4986 2 14.2236V4.22363C2 3.94863 2.225 3.72363 2.5 3.72363H6C6.55312 3.72363 7 3.27676 7 2.72363C7 2.17051 6.55312 1.72363 6 1.72363H2.5Z"></path></svg>
-                    </div>
-                </div>
-                <div class="feature-image-text">
-                    <span class="body-text-small">
-                        Vestibulum tincidunt neque at elit dictum cursus. Praesent eu libero at velit vestibulum sollicitudin vel non lorem. Pellentesque vitae lorem scelerisque, vehicula tellus ut, vestibulum erat.
-                        <br><br>
-                        Vestibulum tincidunt neque at elit dictum cursus. Praesent eu libero at velit vestibulum sollicitudin vel non lorem. Pellentesque vitae lorem scelerisque, vehicula tellus ut, vestibulum erat.
-                    </span>
-                </div>
-            </div>
-        </div>
-        <input type="checkbox" id="title2">
-        <label for="title2">
-            <h5>Nam tempor in lorem nec ornare</h5>
-            <svg class="open-accordion-icon" fill="none" viewBox="0 0 22 22" height="22" width="22" xmlns="http://www.w3.org/2000/svg"><path fill="#4372D6" d="M12.9841 12.8664L20.1104 12.8995C20.5081 12.8995 20.8727 12.5349 20.8727 12.1371V10.4799C20.8727 10.0821 20.5081 9.71752 20.1104 9.71752L12.9841 9.75066V2.59121C12.9841 2.19346 12.6195 1.82886 12.2217 1.82886H10.5644C10.1667 1.82886 9.80208 2.19346 9.80208 2.59121L9.83522 9.71752H2.67577C2.27802 9.71752 1.91342 10.0821 1.91342 10.4799V12.1371C1.91342 12.5349 2.27802 12.8995 2.67577 12.8995H9.83522L9.80208 20.0258C9.80208 20.4236 10.1667 20.7882 10.5644 20.7882H12.2217C12.6195 20.7882 12.9841 20.4236 12.9841 20.0258V12.8664Z"></path></svg><svg class="close-accordion-icon" fill="none" viewBox="0 0 21 22" height="22" width="21" xmlns="http://www.w3.org/2000/svg"><path fill="#4372D6" d="M12.7266 11.2849L17.7891 6.26929C18.0703 5.98804 18.0703 5.47241 17.7891 5.19116L16.6172 4.01929C16.3359 3.73804 15.8203 3.73804 15.5391 4.01929L10.5234 9.08179L5.46094 4.01929C5.17969 3.73804 4.66406 3.73804 4.38281 4.01929L3.21094 5.19116C2.92969 5.47241 2.92969 5.98804 3.21094 6.26929L8.27344 11.2849L3.21094 16.3474C2.92969 16.6287 2.92969 17.1443 3.21094 17.4255L4.38281 18.5974C4.66406 18.8787 5.17969 18.8787 5.46094 18.5974L10.5234 13.5349L15.5391 18.5974C15.8203 18.8787 16.3359 18.8787 16.6172 18.5974L17.7891 17.4255C18.0703 17.1443 18.0703 16.6287 17.7891 16.3474L12.7266 11.2849Z"></path></svg>
-        </label>
-        <div class="accordion-content">
-            <div class="feature-image">
-                <img alt="" src="https://developers.elementor.com/docs/assets/img/elementor-placeholder-image.png">
-                <div class="feature-image-button-holder">
-                    <div class="button-blue">
-                        BUTTON
-                    </div>
-                    <div class="button-blue">
-                        BUTTON
-                        <svg fill="none" viewBox="0 0 16 17" height="17" width="16" xmlns="http://www.w3.org/2000/svg"><path fill="white" d="M10 0.723633C9.44687 0.723633 9 1.17051 9 1.72363C9 2.27676 9.44687 2.72363 10 2.72363H12.5844L6.29375 9.01738C5.90312 9.40801 5.90312 10.0424 6.29375 10.433C6.68437 10.8236 7.31875 10.8236 7.70937 10.433L14 4.13926V6.72363C14 7.27676 14.4469 7.72363 15 7.72363C15.5531 7.72363 16 7.27676 16 6.72363V1.72363C16 1.17051 15.5531 0.723633 15 0.723633H10ZM2.5 1.72363C1.11875 1.72363 0 2.84238 0 4.22363V14.2236C0 15.6049 1.11875 16.7236 2.5 16.7236H12.5C13.8813 16.7236 15 15.6049 15 14.2236V10.7236C15 10.1705 14.5531 9.72363 14 9.72363C13.4469 9.72363 13 10.1705 13 10.7236V14.2236C13 14.4986 12.775 14.7236 12.5 14.7236H2.5C2.225 14.7236 2 14.4986 2 14.2236V4.22363C2 3.94863 2.225 3.72363 2.5 3.72363H6C6.55312 3.72363 7 3.27676 7 2.72363C7 2.17051 6.55312 1.72363 6 1.72363H2.5Z"></path></svg>
-                    </div>
-                </div>
-                <div class="feature-image-text">
-                    <span class="body-text-small">
-                        Vestibulum tincidunt neque at elit dictum cursus. Praesent eu libero at velit vestibulum sollicitudin vel non lorem. Pellentesque vitae lorem scelerisque, vehicula tellus ut, vestibulum erat.
-                        <br><br>
-                        Vestibulum tincidunt neque at elit dictum cursus. Praesent eu libero at velit vestibulum sollicitudin vel non lorem. Pellentesque vitae lorem scelerisque, vehicula tellus ut, vestibulum erat.
-                    </span>
-                </div>
-            </div>
-        </div>
-        <input type="checkbox" id="title3">
-        <label for="title3">
-            <h5>Nam tempor in lorem nec ornare</h5>
-            <svg class="open-accordion-icon" fill="none" viewBox="0 0 22 22" height="22" width="22" xmlns="http://www.w3.org/2000/svg"><path fill="#4372D6" d="M12.9841 12.8664L20.1104 12.8995C20.5081 12.8995 20.8727 12.5349 20.8727 12.1371V10.4799C20.8727 10.0821 20.5081 9.71752 20.1104 9.71752L12.9841 9.75066V2.59121C12.9841 2.19346 12.6195 1.82886 12.2217 1.82886H10.5644C10.1667 1.82886 9.80208 2.19346 9.80208 2.59121L9.83522 9.71752H2.67577C2.27802 9.71752 1.91342 10.0821 1.91342 10.4799V12.1371C1.91342 12.5349 2.27802 12.8995 2.67577 12.8995H9.83522L9.80208 20.0258C9.80208 20.4236 10.1667 20.7882 10.5644 20.7882H12.2217C12.6195 20.7882 12.9841 20.4236 12.9841 20.0258V12.8664Z"></path></svg><svg class="close-accordion-icon" fill="none" viewBox="0 0 21 22" height="22" width="21" xmlns="http://www.w3.org/2000/svg"><path fill="#4372D6" d="M12.7266 11.2849L17.7891 6.26929C18.0703 5.98804 18.0703 5.47241 17.7891 5.19116L16.6172 4.01929C16.3359 3.73804 15.8203 3.73804 15.5391 4.01929L10.5234 9.08179L5.46094 4.01929C5.17969 3.73804 4.66406 3.73804 4.38281 4.01929L3.21094 5.19116C2.92969 5.47241 2.92969 5.98804 3.21094 6.26929L8.27344 11.2849L3.21094 16.3474C2.92969 16.6287 2.92969 17.1443 3.21094 17.4255L4.38281 18.5974C4.66406 18.8787 5.17969 18.8787 5.46094 18.5974L10.5234 13.5349L15.5391 18.5974C15.8203 18.8787 16.3359 18.8787 16.6172 18.5974L17.7891 17.4255C18.0703 17.1443 18.0703 16.6287 17.7891 16.3474L12.7266 11.2849Z"></path></svg>
-        </label>
-        <div class="accordion-content">
-            <div class="feature-image">
-                <img alt="" src="https://developers.elementor.com/docs/assets/img/elementor-placeholder-image.png">
-                <div class="feature-image-button-holder">
-                    <div class="button-blue">
-                        BUTTON
-                    </div>
-                    <div class="button-blue">
-                        BUTTON
-                        <svg fill="none" viewBox="0 0 16 17" height="17" width="16" xmlns="http://www.w3.org/2000/svg"><path fill="white" d="M10 0.723633C9.44687 0.723633 9 1.17051 9 1.72363C9 2.27676 9.44687 2.72363 10 2.72363H12.5844L6.29375 9.01738C5.90312 9.40801 5.90312 10.0424 6.29375 10.433C6.68437 10.8236 7.31875 10.8236 7.70937 10.433L14 4.13926V6.72363C14 7.27676 14.4469 7.72363 15 7.72363C15.5531 7.72363 16 7.27676 16 6.72363V1.72363C16 1.17051 15.5531 0.723633 15 0.723633H10ZM2.5 1.72363C1.11875 1.72363 0 2.84238 0 4.22363V14.2236C0 15.6049 1.11875 16.7236 2.5 16.7236H12.5C13.8813 16.7236 15 15.6049 15 14.2236V10.7236C15 10.1705 14.5531 9.72363 14 9.72363C13.4469 9.72363 13 10.1705 13 10.7236V14.2236C13 14.4986 12.775 14.7236 12.5 14.7236H2.5C2.225 14.7236 2 14.4986 2 14.2236V4.22363C2 3.94863 2.225 3.72363 2.5 3.72363H6C6.55312 3.72363 7 3.27676 7 2.72363C7 2.17051 6.55312 1.72363 6 1.72363H2.5Z"></path></svg>
-                    </div>
-                </div>
-                <div class="feature-image-text">
-                    <span class="body-text-small">
-                        Vestibulum tincidunt neque at elit dictum cursus. Praesent eu libero at velit vestibulum sollicitudin vel non lorem. Pellentesque vitae lorem scelerisque, vehicula tellus ut, vestibulum erat.
-                        <br><br>
-                        Vestibulum tincidunt neque at elit dictum cursus. Praesent eu libero at velit vestibulum sollicitudin vel non lorem. Pellentesque vitae lorem scelerisque, vehicula tellus ut, vestibulum erat.
-                    </span>
-                </div>
-            </div>
-        </div>
-        <input type="checkbox" id="title4">
-        <label for="title4">
-            <h5>Nam tempor in lorem nec ornare</h5>
-            <svg class="open-accordion-icon" fill="none" viewBox="0 0 22 22" height="22" width="22" xmlns="http://www.w3.org/2000/svg"><path fill="#4372D6" d="M12.9841 12.8664L20.1104 12.8995C20.5081 12.8995 20.8727 12.5349 20.8727 12.1371V10.4799C20.8727 10.0821 20.5081 9.71752 20.1104 9.71752L12.9841 9.75066V2.59121C12.9841 2.19346 12.6195 1.82886 12.2217 1.82886H10.5644C10.1667 1.82886 9.80208 2.19346 9.80208 2.59121L9.83522 9.71752H2.67577C2.27802 9.71752 1.91342 10.0821 1.91342 10.4799V12.1371C1.91342 12.5349 2.27802 12.8995 2.67577 12.8995H9.83522L9.80208 20.0258C9.80208 20.4236 10.1667 20.7882 10.5644 20.7882H12.2217C12.6195 20.7882 12.9841 20.4236 12.9841 20.0258V12.8664Z"></path></svg><svg class="close-accordion-icon" fill="none" viewBox="0 0 21 22" height="22" width="21" xmlns="http://www.w3.org/2000/svg"><path fill="#4372D6" d="M12.7266 11.2849L17.7891 6.26929C18.0703 5.98804 18.0703 5.47241 17.7891 5.19116L16.6172 4.01929C16.3359 3.73804 15.8203 3.73804 15.5391 4.01929L10.5234 9.08179L5.46094 4.01929C5.17969 3.73804 4.66406 3.73804 4.38281 4.01929L3.21094 5.19116C2.92969 5.47241 2.92969 5.98804 3.21094 6.26929L8.27344 11.2849L3.21094 16.3474C2.92969 16.6287 2.92969 17.1443 3.21094 17.4255L4.38281 18.5974C4.66406 18.8787 5.17969 18.8787 5.46094 18.5974L10.5234 13.5349L15.5391 18.5974C15.8203 18.8787 16.3359 18.8787 16.6172 18.5974L17.7891 17.4255C18.0703 17.1443 18.0703 16.6287 17.7891 16.3474L12.7266 11.2849Z"></path></svg>
-        </label>
-        <div class="accordion-content">
-            <div class="feature-image">
-                <img alt="" src="https://developers.elementor.com/docs/assets/img/elementor-placeholder-image.png">
-                <div class="feature-image-button-holder">
-                    <div class="button-blue">
-                        BUTTON
-                    </div>
-                    <div class="button-blue">
-                        BUTTON
-                        <svg fill="none" viewBox="0 0 16 17" height="17" width="16" xmlns="http://www.w3.org/2000/svg"><path fill="white" d="M10 0.723633C9.44687 0.723633 9 1.17051 9 1.72363C9 2.27676 9.44687 2.72363 10 2.72363H12.5844L6.29375 9.01738C5.90312 9.40801 5.90312 10.0424 6.29375 10.433C6.68437 10.8236 7.31875 10.8236 7.70937 10.433L14 4.13926V6.72363C14 7.27676 14.4469 7.72363 15 7.72363C15.5531 7.72363 16 7.27676 16 6.72363V1.72363C16 1.17051 15.5531 0.723633 15 0.723633H10ZM2.5 1.72363C1.11875 1.72363 0 2.84238 0 4.22363V14.2236C0 15.6049 1.11875 16.7236 2.5 16.7236H12.5C13.8813 16.7236 15 15.6049 15 14.2236V10.7236C15 10.1705 14.5531 9.72363 14 9.72363C13.4469 9.72363 13 10.1705 13 10.7236V14.2236C13 14.4986 12.775 14.7236 12.5 14.7236H2.5C2.225 14.7236 2 14.4986 2 14.2236V4.22363C2 3.94863 2.225 3.72363 2.5 3.72363H6C6.55312 3.72363 7 3.27676 7 2.72363C7 2.17051 6.55312 1.72363 6 1.72363H2.5Z"></path></svg>
-                    </div>
-                </div>
-                <div class="feature-image-text">
-                    <span class="body-text-small">
-                        Vestibulum tincidunt neque at elit dictum cursus. Praesent eu libero at velit vestibulum sollicitudin vel non lorem. Pellentesque vitae lorem scelerisque, vehicula tellus ut, vestibulum erat.
-                        <br><br>
-                        Vestibulum tincidunt neque at elit dictum cursus. Praesent eu libero at velit vestibulum sollicitudin vel non lorem. Pellentesque vitae lorem scelerisque, vehicula tellus ut, vestibulum erat.
-                    </span>
-                </div>
+                <span class="body-text-small">Suitable for visitors aged 10 and up, it’s the perfect opportunity for both the young and old to learn more about tech and our Smart Nation.</span>
             </div>
         </div>
     </div>
@@ -702,19 +581,11 @@ image: /images/Get Involved/Smart_Nation_Cityscape_GovTech_exhibition_display.jp
         </div>
         <img alt="" src="https://developers.elementor.com/docs/assets/img/elementor-placeholder-image.png">
         <div class="feature-image-button-holder">
-            <a href="https://go.gov.sg/cityscapetour"><div class="button-blue">Find tours
+            <a href="https://go.gov.sg/cityscapetour"><div class="button-blue">FIND TOURS
             </div>
            </a><a href=""><div class="button-blue">Download guide
                 <svg fill="none" viewBox="0 0 16 17" height="17" width="16" xmlns="http://www.w3.org/2000/svg"><path fill="white" d="M10 0.723633C9.44687 0.723633 9 1.17051 9 1.72363C9 2.27676 9.44687 2.72363 10 2.72363H12.5844L6.29375 9.01738C5.90312 9.40801 5.90312 10.0424 6.29375 10.433C6.68437 10.8236 7.31875 10.8236 7.70937 10.433L14 4.13926V6.72363C14 7.27676 14.4469 7.72363 15 7.72363C15.5531 7.72363 16 7.27676 16 6.72363V1.72363C16 1.17051 15.5531 0.723633 15 0.723633H10ZM2.5 1.72363C1.11875 1.72363 0 2.84238 0 4.22363V14.2236C0 15.6049 1.11875 16.7236 2.5 16.7236H12.5C13.8813 16.7236 15 15.6049 15 14.2236V10.7236C15 10.1705 14.5531 9.72363 14 9.72363C13.4469 9.72363 13 10.1705 13 10.7236V14.2236C13 14.4986 12.775 14.7236 12.5 14.7236H2.5C2.225 14.7236 2 14.4986 2 14.2236V4.22363C2 3.94863 2.225 3.72363 2.5 3.72363H6C6.55312 3.72363 7 3.27676 7 2.72363C7 2.17051 6.55312 1.72363 6 1.72363H2.5Z"></path></svg>
             </div>
-        </a></div><a href="https://go.gov.sg/cityscapetour">
-    </a></div><a href="https://go.gov.sg/cityscapetour">
-    <div class="section feature-center">
-        <div class="feature-image-button-holder">
-            <img class="button-image" alt="" src="https://i.ibb.co/dmVMjxp/download.png">
-            <img class="button-image" alt="" src="https://i.ibb.co/JQxHsnk/download-1.png">
-        </div>
-    </div>
  <div class="section">
         <h3>Smart Nation Playscape</h3>
     </div>
@@ -724,4 +595,4 @@ image: /images/Get Involved/Smart_Nation_Cityscape_GovTech_exhibition_display.jp
    <div class="section">
 <div class="bp-youtube">
     <iframe allowfullscreen="" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" frameborder="0" title="YouTube video player" src="https://www.youtube.com/embed/CId3K2e2dmk?si=GF16TlgWjNDFq40E" height="315" width="560"></iframe>
-</div></div></a></div>
+</div></div></a></div></div></div></div>
