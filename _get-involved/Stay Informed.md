@@ -527,3 +527,44 @@ description: Never miss a GovTech update. Stay connected with us through our
         </div>
     </div>
 </div>
+
+
+#### Fresh insights from GovTech blogs
+
+Our very own GovTechies reflect on their experiences, as they share career insights, lessons from their time in GovTech and product development journeys.
+
+| Division | Medium Blog | 
+| -------- | -------- | 
+| Cyber Security Group     | https://medium.com/csg-govtech     | 
+| Data.gov.sg     | https://blog.data.gov.sg     | 
+| Data Science and Artificial Intelligence     | https://medium.com/dsaid-govtech     | 
+| Government Digital Services     | https://blog.gds-gov.tech     | 
+| LifeSG     | https://medium.com/lifesg     | 
+| National Digital Identity     | https://medium.com/ndi-sg     | 
+| Open Government Products     | https://opengovsg.medium.com     | 
+| Smart City Technology Division     | https://medium.com/siot-govtech     | 
+| Young Talents @ GovTech     | https://medium.com/ytpo-govtech     | 
+<br><br>
+
+<div class="iso-template informative-template">
+    <div class="section linebreak"></div>
+    <div class="section feature-center">
+        <h3>
+            Connect with us on social media
+        </h3>
+        <div class="body-text-regular">
+            Be updated on the latest GovTech news and happenings when you connect with GovTech on social media.
+        </div>
+        <img alt="" src="https://developers.elementor.com/docs/assets/img/elementor-placeholder-image.png">
+        <div class="feature-image-button-holder">
+            <div class="button-blue">
+                <a class="anchorlink" target="_blank" href="https://www.google.com.sg/"></a>FOLLOW US
+							            </div>
+            <div class="button-blue">
+                FOLLOW US
+                <svg fill="none" viewBox="0 0 16 17" height="17" width="16" xmlns="http://www.w3.org/2000/svg"><path fill="white" d="M10 0.723633C9.44687 0.723633 9 1.17051 9 1.72363C9 2.27676 9.44687 2.72363 10 2.72363H12.5844L6.29375 9.01738C5.90312 9.40801 5.90312 10.0424 6.29375 10.433C6.68437 10.8236 7.31875 10.8236 7.70937 10.433L14 4.13926V6.72363C14 7.27676 14.4469 7.72363 15 7.72363C15.5531 7.72363 16 7.27676 16 6.72363V1.72363C16 1.17051 15.5531 0.723633 15 0.723633H10ZM2.5 1.72363C1.11875 1.72363 0 2.84238 0 4.22363V14.2236C0 15.6049 1.11875 16.7236 2.5 16.7236H12.5C13.8813 16.7236 15 15.6049 15 14.2236V10.7236C15 10.1705 14.5531 9.72363 14 9.72363C13.4469 9.72363 13 10.1705 13 10.7236V14.2236C13 14.4986 12.775 14.7236 12.5 14.7236H2.5C2.225 14.7236 2 14.4986 2 14.2236V4.22363C2 3.94863 2.225 3.72363 2.5 3.72363H6C6.55312 3.72363 7 3.27676 7 2.72363C7 2.17051 6.55312 1.72363 6 1.72363H2.5Z"></path></svg>
+            </div>
+        </div>
+    </div>
+</div>
+
