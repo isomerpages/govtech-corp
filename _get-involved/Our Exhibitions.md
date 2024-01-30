@@ -544,15 +544,7 @@ image: /images/Get Involved/Smart_Nation_Cityscape_GovTech_exhibition_display.jp
         </div>
     </div>
     </div>
-    <div class="section linebreak"></div>
-    <div class="section">
-        <h3>Lorem ipsum dolor sit amet, consectetur adipiscing elit</h3>
-    </div>
-    <div class="section">
-        <span class="body-text-regular">Vestibulum tincidunt neque at elit dictum cursus. Praesent eu libero at velit vestibulum sollicitudin vel non lorem. Pellentesque vitae lorem scelerisque, vehicula tellus ut, vestibulum erat.</span>
-    </div>
-	 <div class="section">
-    </div>
+   
     <div class="section linebreak"></div>
     <div class="section">
         <h3>Smart Nation Playscape</h3>
