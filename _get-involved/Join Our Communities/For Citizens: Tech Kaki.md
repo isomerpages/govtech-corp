@@ -506,7 +506,7 @@ image: /images/Get Involved/Get_involved__Become_a_Tech_Kaki_with_GovTech_.jpg
 </style>
 <div class="iso-template informative-template">
     <div class="section">
-        <h3>A tech community from all walks of life</h3>
+        <h2>A tech community from all walks of life</h2>
     </div>
     <div class="section infographic">
        <img class="banner-image" alt="GovTech community Tech Kaki networking" src="/images/Get%20Involved/gt7_techkaki.jpg">
