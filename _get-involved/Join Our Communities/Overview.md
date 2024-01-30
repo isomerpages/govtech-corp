@@ -419,7 +419,7 @@ By working closely with us and other changemakers, we can keep innovating on wha
             <img alt="" src="https://developers.elementor.com/docs/assets/img/elementor-placeholder-image.png">
             <div class="card-one-details">
                 <div class="card-one-title">
-                    <h4>GovTech STACK community</h4>
+                    <h4>GovTech STACK</h4>
                 </div>
                 <div class="card-one-text">
                     <span class="body-text-small">Design, build and deploy Tech for Public Good. You’ll also get opportunities for networking through tech conferences and meet-ups.
