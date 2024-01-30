@@ -405,13 +405,13 @@ By working closely with us and other changemakers, we can keep innovating on wha
             <img alt="" src="https://developers.elementor.com/docs/assets/img/elementor-placeholder-image.png">
             <div class="card-one-details">
                 <div class="card-one-title">
-                    <h4>Card title</h4>
+                    <h4>Tech Kaki </h4>
                 </div>
                 <div class="card-one-text">
-                    <span class="body-text-small">Nam tempor in lorem nec ornare. In in turpis dolor. Fusce feugiat, risus id euismod gravida, lectus urna velit eu.</span>
+                    <span class="body-text-small">Co-create digital products and services for citizens' everyday use by attending user testing sessions, interviews and more.</span>
                 </div>
                 <div class="button-default">
-                    BUTTON
+                    LEARN MORE
                 </div>
             </div>
         </div>
@@ -419,13 +419,14 @@ By working closely with us and other changemakers, we can keep innovating on wha
             <img alt="" src="https://developers.elementor.com/docs/assets/img/elementor-placeholder-image.png">
             <div class="card-one-details">
                 <div class="card-one-title">
-                    <h4>Card title</h4>
+                    <h4>GovTech STACK community</h4>
                 </div>
                 <div class="card-one-text">
-                    <span class="body-text-small">Nam tempor in lorem nec ornare. In in turpis dolor. Fusce feugiat, risus id euismod gravida, lectus urna velit eu.</span>
+                    <span class="body-text-small">Design, build and deploy Tech for Public Good. You’ll also get opportunities for networking through tech conferences and meet-ups.
+</span>
                 </div>
                 <div class="button-default">
-                    BUTTON
+                    LEARN MORE
                 </div>
             </div>
         </div>
@@ -433,13 +434,13 @@ By working closely with us and other changemakers, we can keep innovating on wha
             <img alt="" src="https://developers.elementor.com/docs/assets/img/elementor-placeholder-image.png">
             <div class="card-one-details">
                 <div class="card-one-title">
-                    <h4>Card title</h4>
+                    <h4>GovTech ReCONNECT</h4>
                 </div>
                 <div class="card-one-text">
-                    <span class="body-text-small">Nam tempor in lorem nec ornare. In in turpis dolor. Fusce feugiat, risus id euismod gravida, lectus urna velit eu.</span>
+                    <span class="body-text-small">A community for GovTech alumni who want to keep contributing to our Smart Nation initiative through knowledge-sharing and collaboration.</span>
                 </div>
                 <div class="button-default">
-                    BUTTON
+                    LEARN MORE
                 </div>
             </div>
         </div>
