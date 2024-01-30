@@ -504,9 +504,6 @@ variant: markdown
 </style>
 
 <div class="iso-template informative-template">
-    <div class="section">
-        <h3>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam tempor in lorem nec ornare. In in turpis dolor. Fusce feugiat, risus id euismod gravida, lectus urna fermentum nisi, ac mattis nulla velit eu quam.</h3>
-    </div>
     <div class="section infographic">
         <img alt="" src="https://developers.elementor.com/docs/assets/img/elementor-placeholder-image.png">
     </div>
@@ -519,8 +516,7 @@ variant: markdown
 
 Since then, we’ve used technology to better the lives of Singaporeans by creating Tech for Public Good. Our efforts also work towards building Singapore into a Smart Nation using the SG Tech Stack.
 
-If our purpose resonates with you, read on for a glimpse of life as a GovTech STACK community member.
-</span>
+If our purpose resonates with you, read on for a glimpse of life as a GovTech STACK community member.</span>
     </div>
     <div class="section">
         <h4>Connecting for a bigger purpose</h4>
@@ -531,30 +527,41 @@ If our purpose resonates with you, read on for a glimpse of life as a GovTech ST
     <div class="section info-cards-container">
         <div class="info-cards">
             <div class="info-cards-details no-image">
-                <h5>Praesent eu libero at velit vestibulum</h5>
+                <h5>GovTech STACK conferences</h5>
                 <span class="body-text-small">
-                    Pellentesque vitae lorem scelerisque, vehicula tellus ut, vestibulum erat.
+                    Attend our flagship conference, packed with keynote speeches, panel discussions and workshops.
                 </span>
             </div>
         </div>
         <div class="info-cards">
             <div class="info-cards-details no-image">
-                <h5>Praesent eu libero at velit vestibulum</h5>
+                <h5>STACKx conferences</h5>
                 <span class="body-text-small">
-                    Pellentesque vitae lorem scelerisque, vehicula tellus ut, vestibulum erat.
+                    Biannual tech community gatherings where experts deep dive into hot topics in tech.
                 </span>
             </div>
         </div>
         <div class="info-cards">
             <div class="info-cards-details no-image">
-                <h5>Praesent eu libero at velit vestibulum</h5>
+                <h5>STACKx meetups</h5>
                 <span class="body-text-small">
-                    Pellentesque vitae lorem scelerisque, vehicula tellus ut, vestibulum erat.
+                    Casual community meet-ups with talks by GovTech professionals and industry speakers.
                 </span>
             </div>
         </div>
     </div>
     <div class="section linebreak"></div>
+	    <div class="section">
+        <h4>Conference spotlight: STACKx Data &amp; AI 2023</h4>
+    </div>
+    <div class="section">
+        <span class="body-text-regular">Our community explored the possibilities of AI in the public sector at our latest flagship conference. Experts covered the latest trends around AI, while industry folks held discussions on Large Language Models (LLMs).
+
+The event was a stellar opportunity for government leaders, tech professionals and practitioners to connect and move the conversation around AI forward. 
+
+Find your way to our next flagship conference by joining our STACK meet-ups as a community member.
+</span>
+    </div>
 <div class="bp-youtube">
-    <iframe allowfullscreen="" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" frameborder="0" title="YouTube video player" src="https://www.youtube.com/embed/MfkeAoVo4Vo?si=Mn1ssByy4RAiSBQw" height="315" width="560"></iframe>
+    <iframe allowfullscreen="" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" frameborder="0" title="YouTube video player" src="https://www.youtube.com/embed/5DGAIiUwMuU?si=vx4sW43nS01ysCQ6" height="315" width="560"></iframe>
 </div></div>
