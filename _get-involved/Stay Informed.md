@@ -544,7 +544,6 @@ Our very own GovTechies reflect on their experiences, as they share career insig
 | Open Government Products     | https://opengovsg.medium.com     | 
 | Smart City Technology Division     | https://medium.com/siot-govtech     | 
 | Young Talents @ GovTech     | https://medium.com/ytpo-govtech     | 
-<br><br>
 
 <div class="iso-template informative-template">
     <div class="section linebreak"></div>
@@ -567,4 +566,3 @@ Our very own GovTechies reflect on their experiences, as they share career insig
         </div>
     </div>
 </div>
-
