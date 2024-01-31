@@ -187,10 +187,13 @@ description: ""
             margin-bottom: 16px;
         }
 
+        .iso-template .section.anchorlinks-header .anchor-holder:last-of-type {
+            margin-bottom: 0px;
+        }
+
         .iso-template .section.anchorlinks-header a {
             margin-bottom: 16px;
             margin-right: 0px;
-            width: 100%;
         }
     }
 </style>
