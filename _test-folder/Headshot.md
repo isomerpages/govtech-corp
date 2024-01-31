@@ -140,6 +140,12 @@ description: ""
         margin-bottom: 40px
     }
 
+    .iso-template .line-divider {
+        width: 100%;
+        height: 1px;
+        background-color: #D8D9DA;
+    }
+
     @media only screen and (max-width: 768px) {
         .iso-template .section {
             margin-bottom: 32px
@@ -213,6 +219,10 @@ description: ""
         margin-left: 12px;
     }
 
+    .iso-template .headshot-item:nth-last-of-type(-n+2) {
+        margin-bottom: 0px;
+    }
+
     .iso-template .headshot-item > img {
         width: 120px;
         height: 120px;
@@ -276,15 +286,23 @@ description: ""
             margin-bottom: 32px;
         }
 
-        .iso-template .headshot-item .headshot-details {
-            padding-left: 0px;
-            min-height: 0px;
-        }
-
         .iso-template .headshot-item:nth-of-type(odd),
         .iso-template .headshot-item:nth-of-type(even) {
             margin-right: 0px;
             margin-left: 0px;
+        }
+
+        .iso-template .headshot-item:nth-last-of-type(-n+2) {
+            margin-bottom: 32px;
+        }
+
+        .iso-template .headshot-item:last-of-type {
+            margin-bottom: 0px;
+        }
+
+        .iso-template .headshot-item .headshot-details {
+            padding-left: 0px;
+            min-height: 0px;
         }
 
         .iso-template .headshot-item > img {
@@ -371,6 +389,7 @@ description: ""
             </div>
         </div>
     </div>
+    <div class="section line-divider"></div>
     <div class="section">
         <span class="text-label-1">[Label 1] Lorem ipsum amet conse</span>
         <h3 id="anchorlink-1">[H3] Lorem ipsum dolor sit amet consectetur nisl id odio</h3>
