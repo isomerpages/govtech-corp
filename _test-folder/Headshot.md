@@ -318,7 +318,6 @@ description: ""
         }
     }
 </style>
-
 <div class="iso-template">
     <div class="section">
         <div class="anchorlinks-header">
