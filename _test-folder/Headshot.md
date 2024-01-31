@@ -5,38 +5,86 @@ variant: markdown
 description: ""
 ---
 <style>
+    .iso-template {
+        width: 100%;
+        display: flex;
+        flex-direction: column;
+    }
+
     .iso-template h3 {
-        color: #4372D6 !important;
+        color: #4372D6;
         font-family: Lato;
         font-size: 32px;
         font-style: normal;
-        font-weight: 400;
-        line-height: normal;
+        font-weight: 700;
+        line-height: 45px;
         margin-bottom: 0px;
+        margin-top: 0px;
     }
 
     .iso-template h4 {
-        color: #4372D6 !important;
+        color: #4372D6;
         font-family: Lato;
         font-size: 26px;
         font-style: normal;
         font-weight: 400;
         line-height: normal;
         margin-bottom: 0px;
+        margin-top: 0px;
     }
 
     .iso-template h5 {
-        color: #4372D6 !important;
+        color: #4372D6;
         font-family: Lato;
         font-size: 24px;
         font-style: normal;
         font-weight: 400;
         line-height: normal;
         margin-bottom: 0px;
+        margin-top: 0px;
     }
 
-    .iso-template .body-text-regular {
-        color: #484848 !important;
+    .iso-template h6 {
+        color: #0061AF;
+        font-family: Lato;
+        font-size: 20px;
+        font-style: normal;
+        font-weight: 700;
+        margin-bottom: 0px;
+        margin-top: 0px;
+    }
+    
+    .iso-template .text-label-1 {
+        color: #4D4D4F;
+        font-family: Lato;
+        font-size: 16px;
+        font-style: normal;
+        font-weight: 400;
+        line-height: 22px; 
+        text-transform: uppercase;
+    }
+
+    .iso-template .text-label-2 {
+        color: #4D4D4F;
+        font-family: Lato;
+        font-size: 15px;
+        font-style: normal;
+        font-weight: 400;
+        line-height: 22px; 
+        text-transform: uppercase;
+    }
+
+    .iso-template .text-body-2 {
+        color: #4D4D4F;
+        font-family: Lato;
+        font-size: 16px;
+        font-style: normal;
+        font-weight: 400;
+        line-height: 24px; 
+    }
+
+    .iso-template .text-regular {
+        color: #484848;
         font-family: Lato;
         font-size: 20px;
         font-style: normal;
@@ -44,8 +92,8 @@ description: ""
         line-height: normal;
     }
 
-    .iso-template .body-text-small {
-        color: #484848 !important;
+    .iso-template .text-small {
+        color: #484848;
         font-family: Lato;
         font-size: 16px;
         font-style: normal;
@@ -53,8 +101,8 @@ description: ""
         line-height: normal;
     }
 
-    .iso-template .body-text-bold {
-        color: #000 !important;
+    .iso-template .text-bold {
+        color: #000;
         font-family: Lato;
         font-size: 20px;
         font-style: normal;
@@ -62,8 +110,8 @@ description: ""
         line-height: normal;
     }
 
-    .iso-template .body-text-small-bold {
-        color: #4372D6 !important;
+    .iso-template .text-small-bold {
+        color: #4372D6;
         font-family: Lato;
         font-size: 16px;
         font-style: normal;
@@ -71,14 +119,15 @@ description: ""
         line-height: normal;
     }
 
-    .iso-template .anchorlink {
-        color: #4372D6 !important;
+    .iso-template .text-anchorlink {
+        color: #B41E8E;
         font-family: Lato;
-        font-size: 20px;
+        font-size: 15px;
         font-style: normal;
         font-weight: 700;
-        line-height: normal;
-        text-decoration-line: underline;
+        line-height: 22px;
+        text-transform: uppercase;
+        text-decoration: none;
     }
 
     .iso-template .button-default {
@@ -87,7 +136,7 @@ description: ""
         padding: 15px 20px;
         border-radius: 8px;
         border: 1px solid #4372D6;
-        color: #4372D6 !important;
+        color: #4372D6;
         font-family: Lato;
         font-size: 16px;
         font-style: normal;
@@ -104,7 +153,7 @@ description: ""
         padding: 15px 20px;
         border-radius: 8px;
         border: 1px solid #4372D6;
-        color: #fff !important;
+        color: #fff;
         background-color: #4372D6;
         font-family: Lato;
         font-size: 16px;
@@ -119,6 +168,12 @@ description: ""
     .iso-template .button-blue > svg {
         display: inline;
         margin-left: 15px
+    }
+
+    .iso-template .section {
+        width: 100%;
+        position: relative;
+        margin-bottom: 40px
     }
 
     @media only screen and (max-width: 768px) {
@@ -136,330 +191,273 @@ description: ""
     }
 </style>
 <style>
-    .headshot-template {
-        width: 100%;
-        display: flex;
-        flex-direction: column;
-    }
-
-    .headshot-template .section {
-        width: 100%;
-        position: relative;
-    }
-
-    .headshot-template .section.anchor-links {
+    .iso-template .section.anchorlinks-header {
         display: flex;
         flex-direction: row;
         text-align: left;
     }
 
-    .headshot-template .section.anchor-links a {
+    .iso-template .section.anchorlinks-header .text-anchorlink {
+        padding-bottom: 8px;
+        border-bottom: none;
         margin-bottom: 0px;
-        margin-right: 44px;
+        margin-right: 24px;
+        box-sizing: border-box;
+        display: inline-block;
     }
 
-    .headshot-template .section.page-title {
-        text-align: left;
-        margin: 44px 0px;
+    .iso-template .section.anchorlinks-header .text-anchorlink.active {
+        border-bottom: 2px solid #B41E8E;
     }
 
-    .headshot-template .headshot-item {
+    @media only screen and (max-width: 768px) {
+        .iso-template .section.anchorlinks-header {
+            flex-direction: column;
+        }
+
+        .iso-template .section.anchorlinks-header .anchor-holder {
+            margin-bottom: 16px;
+        }
+
+        .iso-template .section.anchorlinks-header a {
+            margin-bottom: 16px;
+            margin-right: 0px;
+            width: 100%;
+        }
+    }
+</style>
+<style>
+    .iso-template .headshot-item {
         width: calc(50% - 12px);
-        height: 138px;
-        border-radius: 10px;
+        height: 120px;
         float: left;
         overflow: hidden;
         margin-bottom: 24px;
     }
 
-    .headshot-template .headshot-item:nth-of-type(odd) {
+    .iso-template .headshot-item:nth-of-type(odd) {
         margin-right: 12px;
     }
 
-    .headshot-template .headshot-item:nth-of-type(even) {
+    .iso-template .headshot-item:nth-of-type(even) {
         margin-left: 12px;
     }
 
-    .headshot-template .headshot-item > img {
-        width: 138px;
-        height: 138px;
+    .iso-template .headshot-item > img {
+        width: 120px;
+        height: 120px;
+        border-radius: 10px;
         float: left
     }
 
-    .headshot-template .headshot-item .headshot-details {
-        width: calc(100% - 138px);
-        height: 138px;
+    .iso-template .headshot-item .headshot-details {
+        width: calc(100% - 136px);
+        height: 120px;
         float: left;
         display: flex;
         flex-direction: column;
         position: relative;
         box-sizing: border-box;
-        padding: 12px;
+        padding-left: 16px;
         justify-content: center;
-        background-color: #f5f5f5;
     }
 
-    .headshot-template .headshot-item .headshot-details .headshot-name {
+    .iso-template .headshot-item .headshot-details > * {
         width: 100%;
         height: auto;
+        display: block;
     }
 
-    .headshot-template .headshot-item .headshot-details .headshot-title {
-        width: 100%;
-        height: auto;
-    }
-
-    .headshot-template .headshot-item .headshot-details .headshot-department {
-        width: 100%;
-        height: auto;
+    .iso-template .headshot-item .headshot-details > h6 {
+        margin-bottom: 12px
     }
 
     @media only screen and (max-width: 1279px) {
-        .headshot-template .headshot-item {
+        .iso-template .headshot-item {
             width: 100%;
         }
 
-        .headshot-template .headshot-item:nth-of-type(odd) {
+        .iso-template .headshot-item:nth-of-type(odd) {
             margin-right: 0px;
         }
 
-        .headshot-template .headshot-item:nth-of-type(even) {
+        .iso-template .headshot-item:nth-of-type(even) {
             margin-left: 0px;
         }
     }
 
     @media only screen and (max-width: 1023px) {
-        .headshot-template .headshot-item {
+        .iso-template .headshot-item {
             width: calc(50% - 12px);
         }
 
-        .headshot-template .headshot-item:nth-of-type(odd) {
+        .iso-template .headshot-item:nth-of-type(odd) {
             margin-right: 12px;
         }
 
-        .headshot-template .headshot-item:nth-of-type(even) {
+        .iso-template .headshot-item:nth-of-type(even) {
             margin-left: 12px;
         }
     }
 
     @media only screen and (max-width: 768px) {
-        .headshot-template .section.anchor-links {
-            flex-direction: column;
-        }
-
-        .headshot-template .section.anchor-links a {
-            margin-bottom: 4px;
-            margin-right: 0px;
-            width: 100%;
-        }
-
-        .headshot-template .section.page-title {
-            margin: 47px 0px 32px;
-        }
-
-        .headshot-template .headshot-item {
+        .iso-template .headshot-item {
             width: 100%;
             height: auto;
             margin-bottom: 32px;
         }
 
-        .headshot-template .headshot-item:nth-of-type(odd),
-        .headshot-template .headshot-item:nth-of-type(even) {
+        .iso-template .headshot-item .headshot-details {
+            padding-left: 0px
+        }
+
+        .iso-template .headshot-item:nth-of-type(odd),
+        .iso-template .headshot-item:nth-of-type(even) {
             margin-right: 0px;
             margin-left: 0px;
         }
 
-        .headshot-template .headshot-item > img {
+        .iso-template .headshot-item > img {
             width: 100%;
             height: auto;
         }
 
-        .headshot-template .headshot-item .headshot-details {
+        .iso-template .headshot-item .headshot-details {
             width: 100%;
             height: auto;
         }
     }
 </style>
 
-<div class="iso-template headshot-template">
-    <div class="section anchor-links">
-        <a class="anchorlink" href="#anchorlink-1">ANCHORLINK #1</a>
-        <a class="anchorlink" href="#anchorlink-2">ANCHORLINK #2</a>
+<div class="iso-template">
+    <div class="section anchorlinks-header">
+        <div class="anchor-holder">
+            <a class="text-anchorlink active" href="#anchorlink-1">ANCHORLINK</a>
+        </div>
+        <div class="anchor-holder">
+            <a class="text-anchorlink" href="#anchorlink-2">ANCHORLINK</a>
+        </div>
     </div>
-    <div class="section page-title">
-        <h3 id="anchorlink-1">Section Title 1</h3>
+    <div class="section">
+        <span class="text-label-1">[Label 1] Lorem ipsum amet conse</span>
+        <h3 id="anchorlink-1">[H3] Lorem ipsum dolor sit amet consectetur nisl id odio</h3>
     </div>
-    <div class="section headshot-items-container">
+    <div class="section">
         <div class="headshot-item">
-            <img alt="" src="https://developers.elementor.com/docs/assets/img/elementor-placeholder-image.png">
+            <img alt="" src="https://i.ibb.co/Nt1nxfX/Frame-29.png">
             <div class="headshot-details">
-                <div class="headshot-name">
-                    <span class="body-text-bold">Mr Leong Weng Keong Joseph</span>
+                <div class="text-label-2">
+                    [Label 2] (Position) Lorem ipsum 
                 </div>
-                <div class="headshot-title">
-                    <span class="body-text-small">Chairman</span>
-                </div>
-                <div class="headshot-department">
-                    <span class="body-text-small-bold">Permanent Secretary (Smart Nation and Digital Government)</span>
+                <h6>
+                    [H6] Mr Leong Weng Keong Joseph Lorem Lipsup
+                </h6>
+                <div class="text-body-2">
+                    [Body 2] Department/Division - consectetur. Amet venenatis mattis at
                 </div>
             </div>
         </div>
         <div class="headshot-item">
-            <img alt="" src="https://developers.elementor.com/docs/assets/img/elementor-placeholder-image.png">
+            <img alt="" src="https://i.ibb.co/Nt1nxfX/Frame-29.png">
             <div class="headshot-details">
-                <div class="headshot-name">
-                    <span class="body-text-bold">Ms Vaishali Rastogi</span>
+                <div class="text-label-2">
+                    [Label 2] (Position) Lorem ipsum 
                 </div>
-                <div class="headshot-title">
-                    <span class="body-text-small">Global leader of technology, media and telecommunications business</span>
-                </div>
-                <div class="headshot-department">
-                    <span class="body-text-small-bold">BCG</span>
+                <h6>
+                    [H6] Mr Leong Weng Keong Joseph Lorem Lipsup
+                </h6>
+                <div class="text-body-2">
+                    [Body 2] Department/Division - consectetur. Amet venenatis mattis at
                 </div>
             </div>
         </div>
         <div class="headshot-item">
-            <img alt="" src="https://developers.elementor.com/docs/assets/img/elementor-placeholder-image.png">
+            <img alt="" src="https://i.ibb.co/Nt1nxfX/Frame-29.png">
             <div class="headshot-details">
-                <div class="headshot-name">
-                    <span class="body-text-bold">Mr Augustin Lee</span>
+                <div class="text-label-2">
+                    [Label 2] (Position) Lorem ipsum 
                 </div>
-                <div class="headshot-title">
-                    <span class="body-text-small">Deputy Chairman</span>
-                </div>
-                <div class="headshot-department">
-                    <span class="body-text-small-bold">Second Permanent Secretary (Smart Nation and Digital Government Group)</span>
+                <h6>
+                    [H6] Mr Leong Weng Keong Joseph Lorem Lipsup
+                </h6>
+                <div class="text-body-2">
+                    [Body 2] Department/Division - consectetur. Amet venenatis mattis at
                 </div>
             </div>
         </div>
         <div class="headshot-item">
-            <img alt="" src="https://developers.elementor.com/docs/assets/img/elementor-placeholder-image.png">
+            <img alt="" src="https://i.ibb.co/Nt1nxfX/Frame-29.png">
             <div class="headshot-details">
-                <div class="headshot-name">
-                    <span class="body-text-bold">Ms Stacey N. Lacy</span>
+                <div class="text-label-2">
+                    [Label 2] (Position) Lorem ipsum 
                 </div>
-                <div class="headshot-title">
-                    <span class="body-text-small">Asia Pacific Chief Information Officer And Head Of Operations &amp; Technology</span>
-                </div>
-                <div class="headshot-department">
-                    <span class="body-text-small-bold">Citi</span>
-                </div>
-            </div>
-        </div>
-        <div class="headshot-item">
-            <img alt="" src="https://developers.elementor.com/docs/assets/img/elementor-placeholder-image.png">
-            <div class="headshot-details">
-                <div class="headshot-name">
-                    <span class="body-text-bold">Mr Dominic Chan</span>
-                </div>
-                <div class="headshot-title">
-                    <span class="body-text-small">Assistant Chief Executive / Senior Director (Ndi)</span>
-                </div>
-                <div class="headshot-department">
-                    <span class="body-text-small-bold">Product Management, National Digital Identity (NDI)</span>
-                </div>
-            </div>
-        </div>
-        <div class="headshot-item">
-            <img alt="" src="https://developers.elementor.com/docs/assets/img/elementor-placeholder-image.png">
-            <div class="headshot-details">
-                <div class="headshot-name">
-                    <span class="body-text-bold">Name of Person</span>
-                </div>
-                <div class="headshot-title">
-                    <span class="body-text-small">Position </span>
-                </div>
-                <div class="headshot-department">
-                    <span class="body-text-small-bold">Department/Division</span>
+                <h6>
+                    [H6] Mr Leong Weng Keong Joseph Lorem Lipsup
+                </h6>
+                <div class="text-body-2">
+                    [Body 2] Department/Division - consectetur. Amet venenatis mattis at
                 </div>
             </div>
         </div>
     </div>
-    <div class="section page-title">
-        <h3 id="anchorlink-2">Section Title 2</h3>
+    <div class="section">
+        <span class="text-label-1">[Label 1] Lorem ipsum amet conse</span>
+        <h3 id="anchorlink-1">[H3] Lorem ipsum dolor sit amet consectetur nisl id odio</h3>
     </div>
     <div class="section headshot-items-container">
         <div class="headshot-item">
-            <img alt="" src="https://developers.elementor.com/docs/assets/img/elementor-placeholder-image.png">
+            <img alt="" src="https://i.ibb.co/Nt1nxfX/Frame-29.png">
             <div class="headshot-details">
-                <div class="headshot-name">
-                    <span class="body-text-bold">Mr Leong Weng Keong Joseph</span>
+                <div class="text-label-2">
+                    [Label 2] (Position) Lorem ipsum 
                 </div>
-                <div class="headshot-title">
-                    <span class="body-text-small">Chairman</span>
-                </div>
-                <div class="headshot-department">
-                    <span class="body-text-small-bold">Permanent Secretary (Smart Nation and Digital Government)</span>
+                <h6>
+                    [H6] Mr Leong Weng Keong Joseph Lorem Lipsup
+                </h6>
+                <div class="text-body-2">
+                    [Body 2] Department/Division - consectetur. Amet venenatis mattis at
                 </div>
             </div>
         </div>
         <div class="headshot-item">
-            <img alt="" src="https://developers.elementor.com/docs/assets/img/elementor-placeholder-image.png">
+            <img alt="" src="https://i.ibb.co/Nt1nxfX/Frame-29.png">
             <div class="headshot-details">
-                <div class="headshot-name">
-                    <span class="body-text-bold">Ms Vaishali Rastogi</span>
+                <div class="text-label-2">
+                    [Label 2] (Position) Lorem ipsum 
                 </div>
-                <div class="headshot-title">
-                    <span class="body-text-small">Global leader of technology, media and telecommunications business</span>
-                </div>
-                <div class="headshot-department">
-                    <span class="body-text-small-bold">BCG</span>
+                <h6>
+                    [H6] Mr Leong Weng Keong Joseph Lorem Lipsup
+                </h6>
+                <div class="text-body-2">
+                    [Body 2] Department/Division - consectetur. Amet venenatis mattis at
                 </div>
             </div>
         </div>
         <div class="headshot-item">
-            <img alt="" src="https://developers.elementor.com/docs/assets/img/elementor-placeholder-image.png">
+            <img alt="" src="https://i.ibb.co/Nt1nxfX/Frame-29.png">
             <div class="headshot-details">
-                <div class="headshot-name">
-                    <span class="body-text-bold">Mr Augustin Lee</span>
+                <div class="text-label-2">
+                    [Label 2] (Position) Lorem ipsum 
                 </div>
-                <div class="headshot-title">
-                    <span class="body-text-small">Deputy Chairman</span>
-                </div>
-                <div class="headshot-department">
-                    <span class="body-text-small-bold">Second Permanent Secretary (Smart Nation and Digital Government Group)</span>
+                <h6>
+                    [H6] Mr Leong Weng Keong Joseph Lorem Lipsup
+                </h6>
+                <div class="text-body-2">
+                    [Body 2] Department/Division - consectetur. Amet venenatis mattis at
                 </div>
             </div>
         </div>
         <div class="headshot-item">
-            <img alt="" src="https://developers.elementor.com/docs/assets/img/elementor-placeholder-image.png">
+            <img alt="" src="https://i.ibb.co/Nt1nxfX/Frame-29.png">
             <div class="headshot-details">
-                <div class="headshot-name">
-                    <span class="body-text-bold">Ms Stacey N. Lacy</span>
+                <div class="text-label-2">
+                    [Label 2] (Position) Lorem ipsum 
                 </div>
-                <div class="headshot-title">
-                    <span class="body-text-small">Asia Pacific Chief Information Officer And Head Of Operations &amp; Technology</span>
-                </div>
-                <div class="headshot-department">
-                    <span class="body-text-small-bold">Citi</span>
-                </div>
-            </div>
-        </div>
-        <div class="headshot-item">
-            <img alt="" src="https://developers.elementor.com/docs/assets/img/elementor-placeholder-image.png">
-            <div class="headshot-details">
-                <div class="headshot-name">
-                    <span class="body-text-bold">Mr Dominic Chan</span>
-                </div>
-                <div class="headshot-title">
-                    <span class="body-text-small">Assistant Chief Executive / Senior Director (Ndi)</span>
-                </div>
-                <div class="headshot-department">
-                    <span class="body-text-small-bold"></span>Product Management, National Digital Identity (NDI)
-                </div>
-            </div>
-        </div>
-        <div class="headshot-item">
-            <img alt="" src="https://developers.elementor.com/docs/assets/img/elementor-placeholder-image.png">
-            <div class="headshot-details">
-                <div class="headshot-name">
-                    <span class="body-text-bold">Name of Person</span>
-                </div>
-                <div class="headshot-title">
-                    <span class="body-text-small">Position</span> 
-                </div>
-                <div class="headshot-department">
-                    <span class="body-text-small-bold">Department/Division</span>
+                <h6>
+                    [H6] Mr Leong Weng Keong Joseph Lorem Lipsup
+                </h6>
+                <div class="text-body-2">
+                    [Body 2] Department/Division - consectetur. Amet venenatis mattis at
                 </div>
             </div>
         </div>
