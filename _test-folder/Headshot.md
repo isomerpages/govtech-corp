@@ -83,42 +83,6 @@ description: ""
         line-height: 24px; 
     }
 
-    .iso-template .text-regular {
-        color: #484848;
-        font-family: Lato;
-        font-size: 20px;
-        font-style: normal;
-        font-weight: 400;
-        line-height: normal;
-    }
-
-    .iso-template .text-small {
-        color: #484848;
-        font-family: Lato;
-        font-size: 16px;
-        font-style: normal;
-        font-weight: 400;
-        line-height: normal;
-    }
-
-    .iso-template .text-bold {
-        color: #000;
-        font-family: Lato;
-        font-size: 20px;
-        font-style: normal;
-        font-weight: 700;
-        line-height: normal;
-    }
-
-    .iso-template .text-small-bold {
-        color: #4372D6;
-        font-family: Lato;
-        font-size: 16px;
-        font-style: normal;
-        font-weight: 700;
-        line-height: normal;
-    }
-
     .iso-template .text-anchorlink {
         color: #B41E8E;
         font-family: Lato;
@@ -229,9 +193,8 @@ description: ""
 <style>
     .iso-template .headshot-item {
         width: calc(50% - 12px);
-        height: 120px;
+        min-height: 120px;
         float: left;
-        overflow: hidden;
         margin-bottom: 24px;
     }
 
@@ -252,14 +215,13 @@ description: ""
 
     .iso-template .headshot-item .headshot-details {
         width: calc(100% - 136px);
-        height: 120px;
+        min-height: 120px;
         float: left;
         display: flex;
         flex-direction: column;
         position: relative;
         box-sizing: border-box;
         padding-left: 16px;
-        justify-content: center;
     }
 
     .iso-template .headshot-item .headshot-details > * {
@@ -269,7 +231,8 @@ description: ""
     }
 
     .iso-template .headshot-item .headshot-details > h6 {
-        margin-bottom: 12px
+        margin-top: 4px;
+        margin-bottom: 12px;
     }
 
     @media only screen and (max-width: 1279px) {
@@ -353,7 +316,7 @@ description: ""
                     [H6] Mr Leong Weng Keong Joseph Lorem Lipsup
                 </h6>
                 <div class="text-body-2">
-                    [Body 2] Department/Division - consectetur. Amet venenatis mattis at
+                    [Body 2] Department/Division - consectetur. Amet venenatis mattis
                 </div>
             </div>
         </div>
@@ -367,7 +330,7 @@ description: ""
                     [H6] Mr Leong Weng Keong Joseph Lorem Lipsup
                 </h6>
                 <div class="text-body-2">
-                    [Body 2] Department/Division - consectetur. Amet venenatis mattis at
+                    [Body 2] Department/Division - consectetur. Amet venenatis mattis
                 </div>
             </div>
         </div>
@@ -381,7 +344,7 @@ description: ""
                     [H6] Mr Leong Weng Keong Joseph Lorem Lipsup
                 </h6>
                 <div class="text-body-2">
-                    [Body 2] Department/Division - consectetur. Amet venenatis mattis at
+                    [Body 2] Department/Division - consectetur. Amet venenatis mattis
                 </div>
             </div>
         </div>
@@ -395,7 +358,7 @@ description: ""
                     [H6] Mr Leong Weng Keong Joseph Lorem Lipsup
                 </h6>
                 <div class="text-body-2">
-                    [Body 2] Department/Division - consectetur. Amet venenatis mattis at
+                    [Body 2] Department/Division - consectetur. Amet venenatis mattis
                 </div>
             </div>
         </div>
@@ -415,7 +378,7 @@ description: ""
                     [H6] Mr Leong Weng Keong Joseph Lorem Lipsup
                 </h6>
                 <div class="text-body-2">
-                    [Body 2] Department/Division - consectetur. Amet venenatis mattis at
+                    [Body 2] Department/Division - consectetur. Amet venenatis mattis
                 </div>
             </div>
         </div>
@@ -429,7 +392,7 @@ description: ""
                     [H6] Mr Leong Weng Keong Joseph Lorem Lipsup
                 </h6>
                 <div class="text-body-2">
-                    [Body 2] Department/Division - consectetur. Amet venenatis mattis at
+                    [Body 2] Department/Division - consectetur. Amet venenatis mattis
                 </div>
             </div>
         </div>
@@ -443,7 +406,7 @@ description: ""
                     [H6] Mr Leong Weng Keong Joseph Lorem Lipsup
                 </h6>
                 <div class="text-body-2">
-                    [Body 2] Department/Division - consectetur. Amet venenatis mattis at
+                    [Body 2] Department/Division - consectetur. Amet venenatis mattis
                 </div>
             </div>
         </div>
@@ -457,7 +420,7 @@ description: ""
                     [H6] Mr Leong Weng Keong Joseph Lorem Lipsup
                 </h6>
                 <div class="text-body-2">
-                    [Body 2] Department/Division - consectetur. Amet venenatis mattis at
+                    [Body 2] Department/Division - consectetur. Amet venenatis mattis
                 </div>
             </div>
         </div>
