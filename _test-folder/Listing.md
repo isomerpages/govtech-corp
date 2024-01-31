@@ -165,20 +165,6 @@ description: ""
         background-color: #D8D9DA;
     }
 
-    .iso-template .content-text {
-        width: 100%;
-        height: auto;
-        float: left;
-        margin-bottom: 24px
-    }
-
-    .iso-template .content-title {
-        width: 100%;
-        height: auto;
-        float: left;
-        margin-bottom: 8px
-    }
-
     @media only screen and (max-width: 768px) {
         .iso-template .section {
             margin-bottom: 32px
@@ -202,14 +188,6 @@ description: ""
 
         .iso-template .text-label-1 {
             margin-bottom: 8px
-        }
-
-        .iso-template .content-text {
-            margin-bottom: 16px
-        }
-
-        .iso-template .content-title {
-            margin-bottom: 4px
         }
     }
 </style>
@@ -236,11 +214,25 @@ description: ""
         margin: 0px
     }
 
-    .iso-template .card-one-details {
+    .iso-template .card-details {
         width: calc(100% - 273px);
         height: auto;
         box-sizing: border-box;
         padding: 0px 20px;
+    }
+
+    .iso-template .card-text {
+        width: 100%;
+        height: auto;
+        float: left;
+        margin-bottom: 24px
+    }
+
+    .iso-template .card-title {
+        width: 100%;
+        height: auto;
+        float: left;
+        margin-bottom: 8px
     }
 
     .iso-template .card-container.two-column .card-box,
@@ -274,8 +266,8 @@ description: ""
         margin-bottom: 24px
     }
 
-    .iso-template .card-container.two-column .card-one-details,
-    .iso-template .card-container.three-column .card-one-details {
+    .iso-template .card-container.two-column .card-details,
+    .iso-template .card-container.three-column .card-details {
         width: 100%;
         height: auto;
         padding: 0px;
@@ -334,9 +326,17 @@ description: ""
             margin-bottom: 16px;
         }
 
-        .iso-template .card-one-details {
+        .iso-template .card-details {
             width: 100%;
             padding: 0px;
+        }
+
+        .iso-template .card-text {
+            margin-bottom: 16px
+        }
+
+        .iso-template .card-title {
+            margin-bottom: 4px
         }
 
         .iso-template .card-container.two-column .card-box,
@@ -406,9 +406,9 @@ description: ""
         <div class="card-container">
             <div class="card-box">
                 <img alt="" src="https://i.ibb.co/rGPw8T6/Frame-162.png">
-                <div class="card-one-details">
-                    <h4 class="content-title">[H4] Lorem ipsum dolor sit amet consectetur</h4>
-                    <div class="content-text text-body-2">
+                <div class="card-details">
+                    <h4 class="card-title">[H4] Lorem ipsum dolor sit amet consectetur</h4>
+                    <div class="card-text text-body-2">
                         [Body 2] Lorem ipsum dolor sit amet consectetur. Amet venenatis mattis aliquam pharetra aenean turpis nisl aliquam nisl. Eget maecenas pulvinar venenatis viverra sociis ut bibendum nulla. Orci aliquet in consequat lobortis mauris. Augue facilisis arcu egestas lectus convallis adipiscing. Sed nam felis id.
                     </div>
                     <a class="button secondary" href="https://www.google.com.sg/">
@@ -418,9 +418,9 @@ description: ""
             </div>
             <div class="card-box">
                 <img alt="" src="https://i.ibb.co/rGPw8T6/Frame-162.png">
-                <div class="card-one-details">
-                    <h4 class="content-title">[H4] Lorem ipsum dolor sit amet consectetur</h4>
-                    <div class="content-text text-body-2">
+                <div class="card-details">
+                    <h4 class="card-title">[H4] Lorem ipsum dolor sit amet consectetur</h4>
+                    <div class="card-text text-body-2">
                         [Body 2] Lorem ipsum dolor sit amet consectetur. Amet venenatis mattis aliquam pharetra aenean turpis nisl aliquam nisl. Eget maecenas pulvinar venenatis viverra sociis ut bibendum nulla. Orci aliquet in consequat lobortis mauris. Augue facilisis arcu egestas lectus convallis adipiscing. Sed nam felis id.
                     </div>
                     <a class="button secondary" href="https://www.google.com.sg/">
@@ -430,9 +430,9 @@ description: ""
             </div>
             <div class="card-box">
                 <img alt="" src="https://i.ibb.co/rGPw8T6/Frame-162.png">
-                <div class="card-one-details">
-                    <h4 class="content-title">[H4] Lorem ipsum dolor sit amet consectetur</h4>
-                    <div class="content-text text-body-2">
+                <div class="card-details">
+                    <h4 class="card-title">[H4] Lorem ipsum dolor sit amet consectetur</h4>
+                    <div class="card-text text-body-2">
                         [Body 2] Lorem ipsum dolor sit amet consectetur. Amet venenatis mattis aliquam pharetra aenean turpis nisl aliquam nisl. Eget maecenas pulvinar venenatis viverra sociis ut bibendum nulla. Orci aliquet in consequat lobortis mauris. Augue facilisis arcu egestas lectus convallis adipiscing. Sed nam felis id.
                     </div>
                     <a class="button secondary" href="https://www.google.com.sg/">
@@ -442,9 +442,9 @@ description: ""
             </div>
             <div class="card-box">
                 <img alt="" src="https://i.ibb.co/rGPw8T6/Frame-162.png">
-                <div class="card-one-details">
-                    <h4 class="content-title">[H4] Lorem ipsum dolor sit amet consectetur</h4>
-                    <div class="content-text text-body-2">
+                <div class="card-details">
+                    <h4 class="card-title">[H4] Lorem ipsum dolor sit amet consectetur</h4>
+                    <div class="card-text text-body-2">
                         [Body 2] Lorem ipsum dolor sit amet consectetur. Amet venenatis mattis aliquam pharetra aenean turpis nisl aliquam nisl. Eget maecenas pulvinar venenatis viverra sociis ut bibendum nulla. Orci aliquet in consequat lobortis mauris. Augue facilisis arcu egestas lectus convallis adipiscing. Sed nam felis id.
                     </div>
                     <a class="button secondary" href="https://www.google.com.sg/">
@@ -461,9 +461,9 @@ description: ""
         <div class="card-container two-column">
             <div class="card-box">
                 <img alt="" src="https://i.ibb.co/rGPw8T6/Frame-162.png">
-                <div class="card-one-details">
-                    <h4 class="content-title">[H4] Lorem ipsum dolor sit amet conse ctetur mattis iaculis lectus</h4>
-                    <div class="content-text text-body-2">
+                <div class="card-details">
+                    <h4 class="card-title">[H4] Lorem ipsum dolor sit amet conse ctetur mattis iaculis lectus</h4>
+                    <div class="card-text text-body-2">
                         [Body 2] Lorem ipsum dolor sit amet consectetur. Amet venenatis mattis aliquam pharetra aenean turpis nisl aliquam nisl. Eget maecenas pulvinar venenatis viverra sociis ut bibendum nulla. Orci aliquet in consequat lobortis. 
                     </div>
                     <a class="button secondary" href="https://www.google.com.sg/">
@@ -473,9 +473,9 @@ description: ""
             </div>
             <div class="card-box">
                 <img alt="" src="https://i.ibb.co/rGPw8T6/Frame-162.png">
-                <div class="card-one-details">
-                    <h4 class="content-title">[H4] Lorem ipsum dolor sit amet conse ctetur mattis iaculis lectus</h4>
-                    <div class="content-text text-body-2">
+                <div class="card-details">
+                    <h4 class="card-title">[H4] Lorem ipsum dolor sit amet conse ctetur mattis iaculis lectus</h4>
+                    <div class="card-text text-body-2">
                         [Body 2] Lorem ipsum dolor sit amet consectetur. Amet venenatis mattis aliquam pharetra aenean turpis nisl aliquam nisl. Eget maecenas pulvinar venenatis viverra sociis ut bibendum nulla. Orci aliquet in consequat lobortis. 
                     </div>
                     <a class="button secondary" href="https://www.google.com.sg/">
@@ -485,9 +485,9 @@ description: ""
             </div>
             <div class="card-box">
                 <img alt="" src="https://i.ibb.co/rGPw8T6/Frame-162.png">
-                <div class="card-one-details">
-                    <h4 class="content-title">[H4] Lorem ipsum dolor sit amet conse ctetur mattis iaculis lectus</h4>
-                    <div class="content-text text-body-2">
+                <div class="card-details">
+                    <h4 class="card-title">[H4] Lorem ipsum dolor sit amet conse ctetur mattis iaculis lectus</h4>
+                    <div class="card-text text-body-2">
                         [Body 2] Lorem ipsum dolor sit amet consectetur. Amet venenatis mattis aliquam pharetra aenean turpis nisl aliquam nisl. Eget maecenas pulvinar venenatis viverra sociis ut bibendum nulla. Orci aliquet in consequat lobortis. 
                     </div>
                     <a class="button secondary" href="https://www.google.com.sg/">
@@ -497,9 +497,9 @@ description: ""
             </div>
             <div class="card-box">
                 <img alt="" src="https://i.ibb.co/rGPw8T6/Frame-162.png">
-                <div class="card-one-details">
-                    <h4 class="content-title">[H4] Lorem ipsum dolor sit amet conse ctetur mattis iaculis lectus</h4>
-                    <div class="content-text text-body-2">
+                <div class="card-details">
+                    <h4 class="card-title">[H4] Lorem ipsum dolor sit amet conse ctetur mattis iaculis lectus</h4>
+                    <div class="card-text text-body-2">
                         [Body 2] Lorem ipsum dolor sit amet consectetur. Amet venenatis mattis aliquam pharetra aenean turpis nisl aliquam nisl. Eget maecenas pulvinar venenatis viverra sociis ut bibendum nulla. Orci aliquet in consequat lobortis. 
                     </div>
                     <a class="button secondary" href="https://www.google.com.sg/">
@@ -516,9 +516,9 @@ description: ""
         <div class="card-container three-column">
             <div class="card-box">
                 <img alt="" src="https://i.ibb.co/rGPw8T6/Frame-162.png">
-                <div class="card-one-details">
-                    <h4 class="content-title">[H4] Lorem ipsum dolor sit amet</h4>
-                    <div class="content-text text-body-2">
+                <div class="card-details">
+                    <h4 class="card-title">[H4] Lorem ipsum dolor sit amet</h4>
+                    <div class="card-text text-body-2">
                         [Body 2] Lorem ipsum dolor sit amet consectetur. Amet venenatis mattis aliquam pharetra aenean turpis nisl aliquam nisl. Eget maecenas pulvinar.
                     </div>
                     <a class="button secondary" href="https://www.google.com.sg/">
@@ -528,9 +528,9 @@ description: ""
             </div>
             <div class="card-box">
                 <img alt="" src="https://i.ibb.co/rGPw8T6/Frame-162.png">
-                <div class="card-one-details">
-                    <h4 class="content-title">[H4] Lorem ipsum dolor sit amet</h4>
-                    <div class="content-text text-body-2">
+                <div class="card-details">
+                    <h4 class="card-title">[H4] Lorem ipsum dolor sit amet</h4>
+                    <div class="card-text text-body-2">
                         [Body 2] Lorem ipsum dolor sit amet consectetur. Amet venenatis mattis aliquam pharetra aenean turpis nisl aliquam nisl. Eget maecenas pulvinar.
                     </div>
                     <a class="button secondary" href="https://www.google.com.sg/">
@@ -540,9 +540,9 @@ description: ""
             </div>
             <div class="card-box">
                 <img alt="" src="https://i.ibb.co/rGPw8T6/Frame-162.png">
-                <div class="card-one-details">
-                    <h4 class="content-title">[H4] Lorem ipsum dolor sit amet</h4>
-                    <div class="content-text text-body-2">
+                <div class="card-details">
+                    <h4 class="card-title">[H4] Lorem ipsum dolor sit amet</h4>
+                    <div class="card-text text-body-2">
                         [Body 2] Lorem ipsum dolor sit amet consectetur. Amet venenatis mattis aliquam pharetra aenean turpis nisl aliquam nisl. Eget maecenas pulvinar.
                     </div>
                     <a class="button secondary" href="https://www.google.com.sg/">
@@ -552,9 +552,9 @@ description: ""
             </div>
             <div class="card-box">
                 <img alt="" src="https://i.ibb.co/rGPw8T6/Frame-162.png">
-                <div class="card-one-details">
-                    <h4 class="content-title">[H4] Lorem ipsum dolor sit amet</h4>
-                    <div class="content-text text-body-2">
+                <div class="card-details">
+                    <h4 class="card-title">[H4] Lorem ipsum dolor sit amet</h4>
+                    <div class="card-text text-body-2">
                         [Body 2] Lorem ipsum dolor sit amet consectetur. Amet venenatis mattis aliquam pharetra aenean turpis nisl aliquam nisl. Eget maecenas pulvinar.
                     </div>
                     <a class="button secondary" href="https://www.google.com.sg/">
@@ -564,9 +564,9 @@ description: ""
             </div>
             <div class="card-box">
                 <img alt="" src="https://i.ibb.co/rGPw8T6/Frame-162.png">
-                <div class="card-one-details">
-                    <h4 class="content-title">[H4] Lorem ipsum dolor sit amet</h4>
-                    <div class="content-text text-body-2">
+                <div class="card-details">
+                    <h4 class="card-title">[H4] Lorem ipsum dolor sit amet</h4>
+                    <div class="card-text text-body-2">
                         [Body 2] Lorem ipsum dolor sit amet consectetur. Amet venenatis mattis aliquam pharetra aenean turpis nisl aliquam nisl. Eget maecenas pulvinar.
                     </div>
                     <a class="button secondary" href="https://www.google.com.sg/">
@@ -576,9 +576,9 @@ description: ""
             </div>
             <div class="card-box">
                 <img alt="" src="https://i.ibb.co/rGPw8T6/Frame-162.png">
-                <div class="card-one-details">
-                    <h4 class="content-title">[H4] Lorem ipsum dolor sit amet</h4>
-                    <div class="content-text text-body-2">
+                <div class="card-details">
+                    <h4 class="card-title">[H4] Lorem ipsum dolor sit amet</h4>
+                    <div class="card-text text-body-2">
                         [Body 2] Lorem ipsum dolor sit amet consectetur. Amet venenatis mattis aliquam pharetra aenean turpis nisl aliquam nisl. Eget maecenas pulvinar.
                     </div>
                     <a class="button secondary" href="https://www.google.com.sg/">
