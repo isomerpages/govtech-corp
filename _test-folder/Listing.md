@@ -62,6 +62,7 @@ description: ""
         font-weight: 400;
         line-height: 22px; 
         text-transform: uppercase;
+        margin-bottom: 16px;
     }
 
     .iso-template .text-label-2 {
@@ -92,6 +93,15 @@ description: ""
         line-height: 24px; 
     }
 
+    .iso-template .text-note {
+        color: #4D4D4F;
+        font-family: Lato;
+        font-size: 12px;
+        font-style: normal;
+        font-weight: 400;
+        line-height: 20px; 
+    }
+
     .iso-template a {
         color: #B41E8E;
         font-family: Lato;
@@ -99,44 +109,48 @@ description: ""
         font-weight: 700;
     }
 
-    .iso-template .button-default {
+    .iso-template .button {
         width: auto;
         height: auto;
-        padding: 15px 20px;
+        padding: 16px 20px;
+        border: 1px solid;
+        box-sizing: border-box;
         border-radius: 8px;
-        border: 1px solid #4372D6;
-        color: #4372D6;
         font-family: Lato;
         font-size: 16px;
         font-style: normal;
         font-weight: 700;
-        line-height: normal;
+        line-height: 24px;
         text-transform: uppercase;
         cursor: pointer;
+        text-decoration: none;
         display: inline-block;
+        margin: 0px;
     }
 
-    .iso-template .button-blue {
-        width: auto;
-        height: auto;
-        padding: 15px 20px;
-        border-radius: 8px;
-        border: 1px solid #4372D6;
+    .iso-template .button.primary {
+        background-color: #B41E8E;
+        border-color: #B41E8E;
         color: #fff;
-        background-color: #4372D6;
-        font-family: Lato;
-        font-size: 16px;
-        font-style: normal;
-        font-weight: 700;
-        line-height: normal;
-        text-transform: uppercase;
-        cursor: pointer;
-        display: inline-block;
     }
 
-    .iso-template .button-blue > svg {
+    .iso-template .button.secondary {
+        background-color: transparent;
+        border-color: #B41E8E;
+        color: #B41E8E;
+    }
+
+    .iso-template .button.text {
+        background-color: transparent;
+        border: none;
+        padding: 0px;
+        color: #B41E8E;
+    }
+
+    .iso-template .button > svg {
         display: inline;
-        margin-left: 15px
+        margin-left: 2px;
+        position: absolute;
     }
 
     .iso-template .section {
@@ -170,6 +184,10 @@ description: ""
 
         .iso-template h6 {
             font-size: 22px;
+        }
+
+        .iso-template .text-label-1 {
+            margin-bottom: 8px
         }
     }
 </style>
@@ -398,15 +416,40 @@ description: ""
     </div>
     <div class="section">
         <span class="text-body-1">
+            [Body 1] <b>Lorem ipsum dolor</b> sit amet, consectetur adipiscing elit. Aliquam vestibulum lectus risus, id maximus nibh consectetur aliquam. In sit amet efficitur nisl. <br><br>
             <a href="https://www.google.com.sg/">Quisque scelerisque</a> tellus vitae massa pulvinar, eu posuere diam convallis.
         </span>
     </div>
     <div class="section">
-        <span class="text-body-1">
-            [Body 1] <b>Lorem ipsum dolor</b> sit amet, consectetur adipiscing elit. Aliquam vestibulum lectus risus, id maximus nibh consectetur aliquam. In sit amet efficitur nisl. 
+        <span class="text-body-2">
+            [Body 2] <b>Lorem ipsum dolor</b> sit amet, consectetur adipiscing elit. Aliquam vestibulum lectus risus, id maximus nibh consectetur aliquam. In sit amet efficitur nisl. <br><br>
+            <a href="https://www.google.com.sg/">Quisque scelerisque</a> tellus vitae massa pulvinar, eu posuere diam convallis.
         </span>
     </div>
+    <div class="section">
+        <span class="text-note">
+            [Note] <b>Lorem ipsum dolor</b> sit amet, consectetur adipiscing elit. Aliquam vestibulum lectus risus, id maximus nibh consectetur aliquam. In sit amet efficitur nisl. <br><br>
+            <a href="https://www.google.com.sg/">Quisque scelerisque</a> tellus vitae massa pulvinar, eu posuere diam convallis.
+        </span>
+    </div>
+    <div class="section">
+        <a href="https://www.google.com.sg/" class="button secondary">
+            BUTTON
+        </a>
+        <a href="https://www.google.com.sg/" class="button primary">
+            BUTTON
+        </a>
+    </div>
+    <div class="section">
+        <a href="https://www.google.com.sg/" class="button text">
+            TEXT CTA 
+            <svg fill="none" viewBox="0 0 24 24" height="24" width="24" xmlns="http://www.w3.org/2000/svg"><path stroke-linejoin="round" stroke-linecap="round" stroke-width="1.5" stroke="#B41E8E" d="M10 7L15 12L10 17"></path></svg>
+        </a>
+    </div>
+    <div class="section line-divider"></div>
     <div class="section card-one-container">
+        <div class="text-label-1">[Label 1] Lorem ipsum amet conse</div>
+        <h3 id="anchorlink-1">[H3] Lorem ipsum dolor sit amet consectetur nisl id odio</h3>
         <div class="card-one-box">
             <img alt="" src="https://developers.elementor.com/docs/assets/img/elementor-placeholder-image.png">
             <div class="card-one-details">
