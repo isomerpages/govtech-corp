@@ -141,6 +141,10 @@ description: ""
     }
 
     @media only screen and (max-width: 768px) {
+        .iso-template .section {
+            margin-bottom: 32px
+        }
+
         .iso-template h3 {
             font-size: 28px;
         }
@@ -266,12 +270,12 @@ description: ""
     @media only screen and (max-width: 768px) {
         .iso-template .headshot-item {
             width: 100%;
-            height: auto;
             margin-bottom: 32px;
         }
 
         .iso-template .headshot-item .headshot-details {
-            padding-left: 0px
+            padding-left: 0px;
+            min-height: 0px;
         }
 
         .iso-template .headshot-item:nth-of-type(odd),
@@ -283,6 +287,7 @@ description: ""
         .iso-template .headshot-item > img {
             width: 100%;
             height: auto;
+            margin-bottom: 24px;
         }
 
         .iso-template .headshot-item .headshot-details {
