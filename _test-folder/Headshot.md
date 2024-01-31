@@ -165,13 +165,14 @@ description: ""
     }
 </style>
 <style>
-    .iso-template .section.anchorlinks-header {
+    .iso-template .anchorlinks-header {
+        width: 100%;
         display: flex;
         flex-direction: row;
         text-align: left;
     }
 
-    .iso-template .section.anchorlinks-header .text-anchorlink {
+    .iso-template .anchorlinks-header .text-anchorlink {
         padding-bottom: 8px;
         border-bottom: none;
         margin-bottom: 0px;
@@ -180,24 +181,24 @@ description: ""
         display: inline-block;
     }
 
-    .iso-template .section.anchorlinks-header .text-anchorlink.active {
+    .iso-template .anchorlinks-header .text-anchorlink.active {
         border-bottom: 2px solid #B41E8E;
     }
 
     @media only screen and (max-width: 768px) {
-        .iso-template .section.anchorlinks-header {
+        .iso-template .anchorlinks-header {
             flex-direction: column;
         }
 
-        .iso-template .section.anchorlinks-header .anchor-holder {
+        .iso-template .anchorlinks-header .anchor-holder {
             margin-bottom: 16px;
         }
 
-        .iso-template .section.anchorlinks-header .anchor-holder:last-of-type {
+        .iso-template .anchorlinks-header .anchor-holder:last-of-type {
             margin-bottom: 0px;
         }
 
-        .iso-template .section.anchorlinks-header a {
+        .iso-template .anchorlinks-header a {
             margin-bottom: 16px;
             margin-right: 0px;
         }
@@ -319,12 +320,14 @@ description: ""
 </style>
 
 <div class="iso-template">
-    <div class="section anchorlinks-header">
-        <div class="anchor-holder">
-            <a class="text-anchorlink active" href="#anchorlink-1">ANCHORLINK</a>
-        </div>
-        <div class="anchor-holder">
-            <a class="text-anchorlink" href="#anchorlink-2">ANCHORLINK</a>
+    <div class="section">
+        <div class="anchorlinks-header">
+            <div class="anchor-holder">
+                <a class="text-anchorlink active" href="#anchorlink-1">ANCHORLINK</a>
+            </div>
+            <div class="anchor-holder">
+                <a class="text-anchorlink" href="#anchorlink-2">ANCHORLINK</a>
+            </div>
         </div>
     </div>
     <div class="section">
