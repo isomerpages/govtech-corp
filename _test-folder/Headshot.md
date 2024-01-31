@@ -12,7 +12,7 @@ description: ""
     }
 
     .iso-template h3 {
-        color: #4372D6;
+        color: #0061AF;
         font-family: Lato;
         font-size: 32px;
         font-style: normal;
@@ -23,18 +23,18 @@ description: ""
     }
 
     .iso-template h4 {
-        color: #4372D6;
+        color: #0061AF;
         font-family: Lato;
         font-size: 26px;
         font-style: normal;
-        font-weight: 400;
-        line-height: normal;
+        font-weight: 700;
+        line-height: 32px;
         margin-bottom: 0px;
         margin-top: 0px;
     }
 
     .iso-template h5 {
-        color: #4372D6;
+        color: #0061AF;
         font-family: Lato;
         font-size: 24px;
         font-style: normal;
@@ -74,6 +74,15 @@ description: ""
         text-transform: uppercase;
     }
 
+    .iso-template .text-body-1 {
+        color: #4D4D4F;
+        font-family: Lato;
+        font-size: 20px;
+        font-style: normal;
+        font-weight: 400;
+        line-height: 32px;
+    }
+
     .iso-template .text-body-2 {
         color: #4D4D4F;
         font-family: Lato;
@@ -83,15 +92,11 @@ description: ""
         line-height: 24px; 
     }
 
-    .iso-template .text-anchorlink {
+    .iso-template a {
         color: #B41E8E;
         font-family: Lato;
-        font-size: 15px;
         font-style: normal;
         font-weight: 700;
-        line-height: 22px;
-        text-transform: uppercase;
-        text-decoration: none;
     }
 
     .iso-template .button-default {
@@ -162,6 +167,10 @@ description: ""
         .iso-template h5 {
             font-size: 22px;
         }
+
+        .iso-template h6 {
+            font-size: 22px;
+        }
     }
 </style>
 <style>
@@ -172,16 +181,17 @@ description: ""
         text-align: left;
     }
 
-    .iso-template .anchorlinks-header .text-anchorlink {
+    .iso-template .anchorlinks-header a {
         padding-bottom: 8px;
         border-bottom: none;
         margin-bottom: 0px;
         margin-right: 24px;
         box-sizing: border-box;
         display: inline-block;
+        text-decoration: none;
     }
 
-    .iso-template .anchorlinks-header .text-anchorlink.active {
+    .iso-template .anchorlinks-header a.active {
         border-bottom: 2px solid #B41E8E;
     }
 
@@ -321,11 +331,11 @@ description: ""
 <div class="iso-template">
     <div class="section">
         <div class="anchorlinks-header">
-            <div class="anchor-holder">
-                <a class="text-anchorlink active" href="#anchorlink-1">ANCHORLINK</a>
+            <div class="anchor-holder text-label-2">
+                <a class="active" href="#anchorlink-1">ANCHORLINK</a>
             </div>
-            <div class="anchor-holder">
-                <a class="text-anchorlink" href="#anchorlink-2">ANCHORLINK</a>
+            <div class="anchor-holder text-label-2">
+                <a href="#anchorlink-2">ANCHORLINK</a>
             </div>
         </div>
     </div>
