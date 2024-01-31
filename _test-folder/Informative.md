@@ -5,137 +5,244 @@ variant: markdown
 description: ""
 ---
 <style>
-    .iso-template h3 {
-        color: #4372D6 !important;
+    .content .iso-template {
+        width: 100%;
+        display: flex;
+        flex-direction: column;
+    }
+
+    .content .iso-template h3 {
+        color: #0061AF !important;
         font-family: Lato;
         font-size: 32px;
         font-style: normal;
-        font-weight: 400;
-        line-height: normal;
+        font-weight: 700;
+        line-height: 45px !important;
         margin-bottom: 0px;
+        margin-top: 0px;
     }
 
-    .iso-template h4 {
-        color: #4372D6 !important;
+    .content .iso-template h4 {
+        color: #0061AF !important;
         font-family: Lato;
         font-size: 26px;
         font-style: normal;
-        font-weight: 400;
-        line-height: normal;
+        font-weight: 700;
+        line-height: 32px !important;
         margin-bottom: 0px;
+        margin-top: 0px;
     }
 
-    .iso-template h5 {
-        color: #4372D6 !important;
+    .content .iso-template h5 {
+        color: #0061AF !important;
         font-family: Lato;
-        font-size: 24px;
+        font-size: 22px;
         font-style: normal;
-        font-weight: 400;
-        line-height: normal;
+        font-weight: 700;
+        line-height: 30px !important;
         margin-bottom: 0px;
+        margin-top: 0px;
     }
 
-    .iso-template .body-text-regular {
-        color: #484848 !important;
+    .content .iso-template h6 {
+        color: #0061AF !important;
         font-family: Lato;
         font-size: 20px;
         font-style: normal;
-        font-weight: 400;
-        line-height: normal;
+        font-weight: 700;
+        margin-bottom: 0px;
+        line-height: 20px !important;
+        margin-top: 0px;
     }
-
-    .iso-template .body-text-small {
-        color: #484848 !important;
+    
+    .content .iso-template .text-label-1 {
+        color: #4D4D4F !important;
         font-family: Lato;
         font-size: 16px;
         font-style: normal;
         font-weight: 400;
-        line-height: normal;
+        line-height: 22px !important; 
+        text-transform: uppercase;
+        margin-bottom: 16px;
     }
 
-    .iso-template .body-text-bold {
-        color: #000 !important;
+    .content .iso-template .text-label-2 {
+        color: #4D4D4F !important;
+        font-family: Lato;
+        font-size: 15px;
+        font-style: normal;
+        font-weight: 400;
+        line-height: 22px !important; 
+        text-transform: uppercase;
+    }
+
+    .content .iso-template .text-body-1 {
+        color: #4D4D4F !important;
         font-family: Lato;
         font-size: 20px;
         font-style: normal;
-        font-weight: 700;
-        line-height: normal;
+        font-weight: 400;
+        line-height: 32px !important; 
     }
 
-    .iso-template .body-text-small-bold {
-        color: #4372D6 !important;
+    .content .iso-template .text-body-2 {
+        color: #4D4D4F !important;
         font-family: Lato;
         font-size: 16px;
         font-style: normal;
-        font-weight: 700;
-        line-height: normal;
+        font-weight: 400;
+        line-height: 24px !important; 
     }
 
-    .iso-template .anchorlink {
-        color: #4372D6 !important;
+    .content .iso-template .text-note {
+        color: #4D4D4F !important;
         font-family: Lato;
-        font-size: 20px;
+        font-size: 12px;
+        font-style: normal;
+        font-weight: 400;
+        line-height: 20px !important; 
+    }
+
+    .content .iso-template a {
+        color: #B41E8E !important;
+        font-family: Lato;
         font-style: normal;
         font-weight: 700;
-        line-height: normal;
-        text-decoration-line: underline;
     }
 
-    .iso-template .button-default {
+    .content .iso-template .section .text-color-grey {
+        color: #4D4D4F !important;
+    }
+
+    .content .iso-template .section .text-align-right {
+        text-align: right !important;
+    }
+
+    .content .iso-template .section .text-align-center {
+        text-align: center !important;
+    }
+
+    .content .iso-template .section .text-align-left {
+        text-align: left !important;
+    }
+
+    .content .iso-template .spacer-24 {
+        width: 100%;
+        height: 24px;
+    }
+
+    .content .iso-template .spacer-16 {
+        width: 100%;
+        height: 16px;
+    }
+
+    .content .iso-template .button {
         width: auto;
         height: auto;
-        padding: 15px 20px;
+        padding: 16px 20px;
+        border: 1px solid;
+        box-sizing: border-box;
         border-radius: 8px;
-        border: 1px solid #4372D6;
-        color: #4372D6 !important;
         font-family: Lato;
         font-size: 16px;
         font-style: normal;
         font-weight: 700;
-        line-height: normal;
+        line-height: 24px !important; 
         text-transform: uppercase;
         cursor: pointer;
+        text-decoration: none;
         display: inline-block;
+        margin: 0px;
     }
 
-    .iso-template .button-blue {
-        width: auto;
-        height: auto;
-        padding: 15px 20px;
-        border-radius: 8px;
-        border: 1px solid #4372D6;
+    .content .iso-template .button.primary {
+        background-color: #B41E8E;
+        border-color: #B41E8E;
         color: #fff !important;
-        background-color: #4372D6;
-        font-family: Lato;
-        font-size: 16px;
-        font-style: normal;
-        font-weight: 700;
-        line-height: normal;
-        text-transform: uppercase;
-        cursor: pointer;
-        display: inline-block;
     }
 
-    .iso-template .button-image {
-        width: auto;
-        height: 43px;
-        border-radius: 8px;
-        cursor: pointer;
-        display: inline-block;
-        margin: 0px 8px;
+    .content .iso-template .button.secondary {
+        background-color: transparent;
+        border-color: #B41E8E;
+        color: #B41E8E !important;
     }
 
-    .iso-template .button-blue > svg {
+    .content .iso-template .button.text {
+        background-color: transparent;
+        border: none;
+        padding: 0px;
+        color: #B41E8E !important;
+    }
+
+    .content .iso-template .button.has-svg {
+        padding-right: 40px;
+    }
+
+    .content .iso-template .button > svg {
         display: inline;
-        margin-left: 15px
+        margin-left: 2px;
+        position: absolute;
     }
-	
-	.bp-youtube {
+
+    .content .iso-template .section {
+        width: 100%;
+        position: relative;
+        margin-bottom: 40px
+    }
+
+    .content .iso-template .line-divider {
+        width: 100%;
+        height: 1px;
+        background-color: #D8D9DA;
+    }
+
+    .content .iso-template ul,
+    .content .iso-template ol {
+        margin-top: 0px
+    }
+
+    .content .iso-template ul > li,
+    .content .iso-template ol > li {
+        margin-top: 0px;
+        margin-bottom: 0px;
+        line-height: inherit;
+    }
+
+    .content .iso-template .box-two-columns {
+        width: 100%;
+        display: flex;
+        flex-direction: row;
+        padding: 24px 0px;
+        border-bottom: 1px solid #D8D9DA;
+        box-sizing: border-box;
+    }
+
+    .content .iso-template .box-two-columns:first-of-type {
+        border-top: 1px solid #D8D9DA
+    }
+
+    .content .iso-template .box-two-columns > * {
+        width: 50%;
+       
+        box-sizing: border-box;
+    }
+
+    .content .iso-template .box-two-columns > *:nth-of-type(odd) {
+        padding-right: 10px;
+    }
+
+    .content .iso-template .box-two-columns > *:nth-of-type(even) {
+        padding-left: 10px;
+    }
+
+    .content .iso-template .bp-youtube {
         position: relative;
         overflow: hidden;
         padding-top: 56.25%;
+        margin-bottom: 24px;
     }
-    .bp-youtube iframe {
+
+    .content .iso-template .bp-youtube iframe {
         position: absolute;
         top: 0;
         left: 0;
@@ -144,114 +251,154 @@ description: ""
         border: 0;
     }
 
+    .content .iso-template .infographic {
+        width: 100%;
+        height: auto;
+    }
+
     @media only screen and (max-width: 768px) {
-        .iso-template h3 {
+        .content .iso-template .section {
+            margin-bottom: 32px
+        }
+
+        .content .iso-template h3 {
             font-size: 28px;
         }
 
-        .iso-template h4 {
+        .content .iso-template h4 {
             font-size: 24px;
         }
 
-        .iso-template h5 {
+        .content .iso-template h5 {
             font-size: 22px;
+        }
+
+        .content .iso-template h6 {
+            font-size: 22px;
+        }
+
+        .content .iso-template .text-label-1 {
+            margin-bottom: 8px
+        }
+
+        .content .iso-template .bp-youtube {
+            margin-bottom: 16px;
+        }
+
+        .content .iso-template .spacer-24 {
+            height: 16px;
+        }
+
+        .content .iso-template .spacer-16 {
+            height: 8px;
         }
     }
 </style>
 <style>
-    .informative-template {
-        width: 100%;
-        display: flex;
-        flex-direction: column;
-    }
-
-    .informative-template .section {
-        width: 100%;
-        position: relative;
-        margin-bottom: 44px
-    }
-
-    .informative-template .section.infographic {
-        width: 100%;
-        position: relative;
-    }
-
-    .informative-template .section.infographic > img {
-        width: 100%;
-        height: auto;
-    }
-
-    .informative-template .section.linebreak {
-        width: 100%;
-        height: 1px;
-        background-color: #D6D6D6;
-        position: relative;
-    }
-
-    .informative-template .section.info-cards-container {
+    .content .iso-template .info-cards-container {
         display: flex;
         flex-wrap: wrap;
     }
 
-    .informative-template .info-cards {
+    .content .iso-template .info-cards-container.padding-top {
+        padding-top: 24px;
+    }
+
+    .content .iso-template .info-cards {
         flex: 0 0 33.33333%;
         box-sizing: border-box;
     }
 
-    .informative-template .info-cards:nth-of-type(3n+1) {
+    .content .iso-template .info-cards:nth-of-type(3n+1) {
         padding-right: 16px;
     }
 
-    .informative-template .info-cards:nth-of-type(3n+2) {
+    .content .iso-template .info-cards:nth-of-type(3n+2) {
         padding-right: 8px;
         padding-left: 8px;
     }
 
-    .informative-template .info-cards:nth-of-type(3n+3) {
+    .content .iso-template .info-cards:nth-of-type(3n+3) {
         padding-left: 16px;
     }
 
-    .informative-template .info-cards > img {
+    .content .iso-template .info-cards > img {
         width: 100%;
         height: auto;
         float: left;
         display: block;
-        border-top-right-radius: 10px;
-        border-top-left-radius: 10px;
-        border: 2px solid #D9D9D9;
+        border-radius: 10px;
+        border: none;
         box-sizing: border-box;
-        border-bottom: none;
+        margin-bottom: -10px;
     }
 
-    .informative-template .info-cards-details {
+    .content .iso-template .info-cards-details {
         width: 100%;
         height: auto;
         float: left;
         display: block;
-        border: 2px solid #D9D9D9;
+        border: 1px solid #D8D9DA;
         border-bottom-right-radius: 10px;
         border-bottom-left-radius: 10px;
         box-sizing: border-box;
-        padding: 12px;
+        padding: 24px 16px;
+        padding-top: 34px;
         border-top: none;
     }
 
-    .informative-template .info-cards-details.no-image {
-        border-top: 2px solid #D9D9D9;
+    .content .iso-template .info-cards-details.no-image {
+        border-top: 1px solid #D9D9D9;
+        padding: 24px 16px;
         border-top-right-radius: 10px;
         border-top-left-radius: 10px;
     }
 
-    .informative-template .portrait-box > img {
+    @media only screen and (max-width: 768px) {
+        .content .iso-template .info-cards {
+            flex: 0 0 100%;
+            padding-bottom: 24px;
+        }
+
+        .content .iso-template .info-cards:last-of-type {
+            padding-bottom: 0px;
+        }
+
+        .content .iso-template .info-cards-details {
+            padding: 16px;
+            padding-top: 26px;
+        }
+
+        .content .iso-template .info-cards-details.no-image {
+            padding: 16px;
+        }
+
+        .content .iso-template .info-cards:nth-of-type(3n+1) {
+            padding-right: 0px;
+        }
+
+        .content .iso-template .info-cards:nth-of-type(3n+2) {
+            padding-right: 0px;
+            padding-left: 0px;
+        }
+
+        .content .iso-template .info-cards:nth-of-type(3n+3) {
+            padding-left: 0px;
+        }
+    }
+</style>
+<style>
+    .content .iso-template .portrait-box > img {
         width: 246px;
         height: 246px;
         border-radius: 10px;
         float: left;
     }
 
-    .informative-template .portrait-box-details {
+    .content .iso-template .portrait-box-details {
         width: calc(100% - 246px);
-        height: 246px;
+        height: auto;
+        min-height: 246px;
         float: left;
         display: flex;
         justify-content: center;
@@ -260,43 +407,49 @@ description: ""
         flex-direction: column;
     }
 
-    .informative-template .portrait-box-details > h4 {
-        margin-bottom: 11px
-    }
+    @media only screen and (max-width: 768px) {
+        .content .iso-template .portrait-box > img {
+            width: 100%;
+            height: auto;
+        }
 
-    .informative-template .quote-box > .body-text-small {
-        margin-top: 11px;
-        text-align: right;
+        .content .iso-template .portrait-box-details {
+            width: 100%;
+            height: auto;
+            padding-left: 0px;
+            padding-top: 16px;
+        }
     }
-
-    .informative-template .section.swap-image-container {
+</style>
+<style>
+    .content .iso-template .swap-image-container {
         display: flex;
         flex-direction: column;
     }
 
-    .informative-template .swap-image-box {
+    .content .iso-template .swap-image-box {
         display: flex;
         flex-direction: row;
         margin-bottom: 44px;
     }
 
-    .informative-template .swap-image-box:last-of-type {
+    .content .iso-template .swap-image-box:last-of-type {
         margin-bottom: 0px;
     }
 
-    .informative-template .swap-image-box:nth-of-type(even) {
+    .content .iso-template .swap-image-box:nth-of-type(even) {
         flex-direction: row-reverse;
     }
 
-    .informative-template .swap-image-box > img {
+    .content .iso-template .swap-image-box > img {
         width: 294px;
-        height: 221px;
+        height: 220px;
         border-radius: 10px
     }
 
-    .informative-template .swap-image-box > .swap-image-details {
+    .content .iso-template .swap-image-box > .swap-image-details {
         width: calc(100% - 294px);
-        height: 221px;
+        min-height: 220px;
         box-sizing: border-box;
         padding-left: 26px;
         display: flex;
@@ -304,24 +457,24 @@ description: ""
         flex-direction: column;
     }
 
-    .informative-template .swap-image-box:nth-of-type(even) > .swap-image-details {
+    .content .iso-template .swap-image-box:nth-of-type(even) > .swap-image-details {
         padding-left: 0px;
         padding-right: 26px;
     }
 
-    .informative-template .swap-image-details > h4 {
+    .content .iso-template .swap-image-details > h4 {
         margin-bottom: 30px
     }
 
-    .informative-template .accordion-container {
+    .content .iso-template .accordion-container {
         border-bottom: 1px solid #8A8A8A;
     }
 
-    .informative-template .accordion-container input {
+    .content .iso-template .accordion-container input {
         display: none;
     }
 
-    .informative-template .accordion-container label {
+    .content .iso-template .accordion-container label {
         display: flex;
         padding: 11px 15px;
         margin: 0 0 5px 0;
@@ -333,45 +486,45 @@ description: ""
         align-items: center;
     }
 
-    .informative-template .accordion-container label h5 {
+    .content .iso-template .accordion-container label h5 {
         color: #484848 !important; 
     }
    
-    .informative-template .accordion-container label .open-accordion-icon {
+    .content .iso-template .accordion-container label .open-accordion-icon {
         display: block;
     }
 
-    .informative-template .accordion-container label .close-accordion-icon {
+    .content .iso-template .accordion-container label .close-accordion-icon {
         display: none;
     }
 
-    .informative-template .accordion-container .accordion-content {
+    .content .iso-template .accordion-container .accordion-content {
         padding: 10px 0px 30px 30px;
         margin: 0 0 1px 0;
         border-radius: 3px;
     }
 
-    .informative-template .accordion-container input:checked + label h5 {
+    .content .iso-template .accordion-container input:checked + label h5 {
         color: #4372D6 !important;
     }
 
-    .informative-template .accordion-container input:checked + label .open-accordion-icon {
+    .content .iso-template .accordion-container input:checked + label .open-accordion-icon {
         display: none;
     }
 
-    .informative-template .accordion-container input:checked + label .close-accordion-icon {
+    .content .iso-template .accordion-container input:checked + label .close-accordion-icon {
         display: block;
     }
 
-    .informative-template .accordion-container input + label + .accordion-content {
+    .content .iso-template .accordion-container input + label + .accordion-content {
         display: none;
     }
 
-    .informative-template .accordion-container input:checked + label + .accordion-content {
+    .content .iso-template .accordion-container input:checked + label + .accordion-content {
         display: flex;
     }
 
-    .informative-template .feature-image {
+    .content .iso-template .feature-image {
         width: 100%;
         height: auto;
         display: flex;
@@ -379,41 +532,41 @@ description: ""
         align-items: center;
     }
 
-    .informative-template .feature-image > img {
+    .content .iso-template .feature-image > img {
         width: 500px;
         height: 375px;
         margin-bottom: 20px;
         border-radius: 10px
     }
 
-    .informative-template .feature-image-button-holder {
+    .content .iso-template .feature-image-button-holder {
         width: 100%;
         display: flex;
         justify-content: center;
     }
 
-    .informative-template .feature-image-button-holder > .button-blue,
-    .informative-template .feature-image-button-holder > .button-default {
+    .content .iso-template .feature-image-button-holder > .button-blue,
+    .content .iso-template .feature-image-button-holder > .button-default {
         margin: 0px 10px
     }
 
-    .informative-template .feature-image-text {
+    .content .iso-template .feature-image-text {
         margin-top: 20px
     }
 
-    .informative-template .feature-center {
+    .content .iso-template .feature-center {
         text-align: center;
     }
 
-    .informative-template .feature-center > h3 {
+    .content .iso-template .feature-center > h3 {
         margin-bottom: 30px
     }
 
-    .informative-template .feature-center > .body-text-regular {
+    .content .iso-template .feature-center > .body-text-regular {
         margin-bottom: 30px
     }
 
-    .informative-template .feature-center > img {
+    .content .iso-template .feature-center > img {
         margin-bottom: 30px;
         width: 412px;
         height: 232px;
@@ -421,217 +574,358 @@ description: ""
     }
 
     @media only screen and (max-width: 768px) {
-        .informative-template .info-cards {
-            flex: 0 0 100%;
-            padding-bottom: 32px;
-        }
-
-        .informative-template .info-cards:last-of-type {
-            padding-bottom: 0px;
-        }
-
-        .informative-template .info-cards-details {
-            padding: 15px
-        }
-
-        .informative-template .info-cards:nth-of-type(3n+1) {
-            padding-right: 0px;
-        }
-
-        .informative-template .info-cards:nth-of-type(3n+2) {
-            padding-right: 0px;
-            padding-left: 0px;
-        }
-
-        .informative-template .info-cards:nth-of-type(3n+3) {
-            padding-left: 0px;
-        }
-
-        .informative-template .info-cards-details .body-text-small {
-            display: block;
-            margin-top: 11px
-        }
-
-        .informative-template .portrait-box > img {
-            width: 100%;
-            height: auto;
-        }
-
-        .informative-template .portrait-box-details {
-            width: 100%;
-            height: auto;
-            padding-left: 0px;
-            padding-top: 20px;
-        }
-
-        .informative-template .portrait-box-details > h4 {
-            font-size: 28px;
-        }
-
-        .informative-template .swap-image-box,
-        .informative-template .swap-image-box:nth-of-type(even) {
+        .content .iso-template .swap-image-box,
+        .content .iso-template .swap-image-box:nth-of-type(even) {
             flex-direction: column;
         }
 
-        .informative-template .swap-image-box > img {
+        .content .iso-template .swap-image-box > img {
             width: 100%;
             height: auto;
         }
 
-        .informative-template .swap-image-box > .swap-image-details {
+        .content .iso-template .swap-image-box > .swap-image-details {
             width: 100%;
             height: auto;
             padding-left: 0px;
             padding-top: 20px;
         }
 
-        .informative-template .accordion-container .accordion-content {
+        .content .iso-template .accordion-container .accordion-content {
             padding: 10px 12px 30px 12px;
         }
 
-        .informative-template .feature-image > img {
+        .content .iso-template .feature-image > img {
             width: 100%;
             height: auto;
             max-width: 320px;
         }
 
-        .informative-template .feature-center > img {
+        .content .iso-template .feature-center > img {
             width: 100%;
             height: auto;
         }
     }
 </style>
-
-<div class="iso-template informative-template">
-    <div class="section">
-        <h3>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam tempor in lorem nec ornare. In in turpis dolor. Fusce feugiat, risus id euismod gravida, lectus urna fermentum nisi, ac mattis nulla velit eu quam.</h3>
-    </div>
-    <div class="section infographic">
-        <img alt="" src="https://developers.elementor.com/docs/assets/img/elementor-placeholder-image.png">
-    </div>
-    <div class="section linebreak"></div>
-    <div class="section">
-        <h3>Lorem ipsum dolor sit amet, consectetur adipiscing elit</h3>
-    </div>
-    <div class="section">
-        <span class="body-text-regular">Vestibulum tincidunt neque at elit dictum cursus. Praesent eu libero at velit vestibulum sollicitudin vel non lorem. Pellentesque vitae lorem scelerisque, vehicula tellus ut, vestibulum erat.</span>
-    </div>
-    <div class="section">
-        <h4>Fusce feugiat, risus id euismod gravida, lectus urna fermentum:</h4>
-    </div>
-    <div class="section">
-        <span class="body-text-regular">Vestibulum tincidunt neque at elit dictum cursus. Praesent eu libero at velit vestibulum sollicitudin vel non lorem. Pellentesque vitae lorem scelerisque, vehicula tellus ut, vestibulum erat.</span>
-    </div>
-    <div class="section info-cards-container">
-        <div class="info-cards">
-            <img alt="" src="https://developers.elementor.com/docs/assets/img/elementor-placeholder-image.png">
-            <div class="info-cards-details">
-                <h5>Praesent eu libero at velit vestibulum</h5>
-                <span class="body-text-small">
-                    Pellentesque vitae lorem scelerisque, vehicula tellus ut, vestibulum erat.
-                </span>
+<div class="iso-template">
+    <div class="clamp">
+        <div class="section">
+            <h3>[H3] Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam tempor in lorem nec ornare. In in turpis dolor. Fusce feugiat, risus id euismod gravida, lectus urna fermentum nisi, ac mattis nulla velit eu quam.</h3>
+        </div>
+        <div class="section line-divider"></div>
+        <div class="section">
+            <h2>[H2] Morbi orci diam elementum et odio imperdiet facilisis</h2>
+        </div>
+        <div class="section">
+            <h3>[H3] Morbi orci diam elementum et odio imperdiet facilisis</h3>
+        </div>
+        <div class="section">
+            <h4>[H4] Morbi orci diam elementum et odio imperdiet facilisis</h4>
+        </div>
+        <div class="section">
+            <h5>[H5] Morbi orci diam elementum et odio imperdiet facilisis</h5>
+        </div>
+        <div class="section">
+            <span class="text-body-1">
+                [Body 1] <b>Lorem ipsum dolor</b> sit amet, consectetur adipiscing elit. Aliquam vestibulum lectus risus, id maximus nibh consectetur aliquam. In sit amet efficitur nisl. <br><br>
+                <a href="https://www.google.com.sg/">Quisque scelerisque</a> tellus vitae massa pulvinar, eu posuere diam convallis.
+            </span>
+        </div>
+        <div class="section">
+            <span class="text-body-2">
+                [Body 2] <b>Lorem ipsum dolor</b> sit amet, consectetur adipiscing elit. Aliquam vestibulum lectus risus, id maximus nibh consectetur aliquam. In sit amet efficitur nisl. <br><br>
+                <a href="https://www.google.com.sg/">Quisque scelerisque</a> tellus vitae massa pulvinar, eu posuere diam convallis.
+            </span>
+        </div>
+        <div class="section">
+            <span class="text-note">
+                [Note] <b>Lorem ipsum dolor</b> sit amet, consectetur adipiscing elit. Aliquam vestibulum lectus risus, id maximus nibh consectetur aliquam. In sit amet efficitur nisl. <br><br>
+                <a href="https://www.google.com.sg/">Quisque scelerisque</a> tellus vitae massa pulvinar, eu posuere diam convallis.
+            </span>
+        </div>
+        <div class="section">
+            <ul class="text-body-1">
+                <li>
+                    [Body 1] <b>Lorem ipsum dolor</b> sit amet, consectetur adipiscing elit. Aliquam vestibulum lectus risus.
+                </li>
+                <li>
+                    [Body 1] <a href="https://www.google.com.sg/">Maximus nibh</a>consectetur aliquam. In sit amet efficitur nisl. Quisque scelerisque tellus vitae massa pulvinar.
+                </li>
+                <li>
+                    [Body 1] Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam vestibulum lectus risus.
+                </li>
+            </ul>
+        </div>
+        <div class="section">
+            <ul class="text-body-2">
+                <li>
+                    [Body 2] <b>Lorem ipsum dolor</b> sit amet, consectetur adipiscing elit. Aliquam vestibulum lectus risus.
+                </li>
+                <li>
+                    [Body 2] <a href="https://www.google.com.sg/">Maximus nibh</a>consectetur aliquam. In sit amet efficitur nisl. Quisque scelerisque tellus vitae massa pulvinar.
+                </li>
+                <li>
+                    [Body 2] Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam vestibulum lectus risus.
+                </li>
+            </ul>
+        </div>
+        <div class="section">
+            <ul class="text-note">
+                <li>
+                    [Note] <b>Lorem ipsum dolor</b> sit amet, consectetur adipiscing elit. Aliquam vestibulum lectus risus.
+                </li>
+                <li>
+                    [Note] <a href="https://www.google.com.sg/">Maximus nibh</a>consectetur aliquam. In sit amet efficitur nisl. Quisque scelerisque tellus vitae massa pulvinar.
+                </li>
+                <li>
+                    [Note] Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam vestibulum lectus risus.
+                </li>
+            </ul>
+        </div>
+        <div class="section">
+            <ol class="text-body-1">
+                <li>
+                    [Body 1] <b>Lorem ipsum dolor</b> sit amet, consectetur adipiscing elit. Aliquam vestibulum lectus risus.
+                </li>
+                <li>
+                    [Body 1] <a href="https://www.google.com.sg/">Maximus nibh</a>consectetur aliquam. In sit amet efficitur nisl. Quisque scelerisque tellus vitae massa pulvinar.
+                </li>
+                <li>
+                    [Body 1] Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam vestibulum lectus risus.
+                </li>
+            </ol>
+        </div>
+        <div class="section">
+            <ol class="text-body-2">
+                <li>
+                    [Body 2] <b>Lorem ipsum dolor</b> sit amet, consectetur adipiscing elit. Aliquam vestibulum lectus risus.
+                </li>
+                <li>
+                    [Body 2] <a href="https://www.google.com.sg/">Maximus nibh</a>consectetur aliquam. In sit amet efficitur nisl. Quisque scelerisque tellus vitae massa pulvinar.
+                </li>
+                <li>
+                    [Body 2] Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam vestibulum lectus risus.
+                </li>
+            </ol>
+        </div>
+        <div class="section">
+            <ol class="text-note">
+                <li>
+                    [Note] <b>Lorem ipsum dolor</b> sit amet, consectetur adipiscing elit. Aliquam vestibulum lectus risus.
+                </li>
+                <li>
+                    [Note] <a href="https://www.google.com.sg/">Maximus nibh</a>consectetur aliquam. In sit amet efficitur nisl. Quisque scelerisque tellus vitae massa pulvinar.
+                </li>
+                <li>
+                    [Note] Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam vestibulum lectus risus.
+                </li>
+            </ol>
+        </div>
+        <div class="section">
+            <a href="https://www.google.com.sg/" class="button secondary">
+                BUTTON
+            </a>
+            <a href="https://www.google.com.sg/" class="button primary">
+                BUTTON
+            </a>
+        </div>
+        <div class="section">
+            <a target="_blank" href="https://www.google.com.sg/" class="button secondary has-svg">
+                BUTTON
+                <svg fill="none" viewBox="0 0 24 24" height="24" width="24" xmlns="http://www.w3.org/2000/svg"><path fill="#B41E8E" d="M13.75 5C13.266 5 12.875 5.39102 12.875 5.875C12.875 6.35898 13.266 6.75 13.75 6.75H16.0113L10.507 12.257C10.1652 12.5988 10.1652 13.1539 10.507 13.4957C10.8488 13.8375 11.4039 13.8375 11.7457 13.4957L17.25 7.98867V10.25C17.25 10.734 17.641 11.125 18.125 11.125C18.609 11.125 19 10.734 19 10.25V5.875C19 5.39102 18.609 5 18.125 5H13.75ZM7.1875 5.875C5.97891 5.875 5 6.85391 5 8.0625V16.8125C5 18.0211 5.97891 19 7.1875 19H15.9375C17.1461 19 18.125 18.0211 18.125 16.8125V13.75C18.125 13.266 17.734 12.875 17.25 12.875C16.766 12.875 16.375 13.266 16.375 13.75V16.8125C16.375 17.0531 16.1781 17.25 15.9375 17.25H7.1875C6.94687 17.25 6.75 17.0531 6.75 16.8125V8.0625C6.75 7.82188 6.94687 7.625 7.1875 7.625H10.25C10.734 7.625 11.125 7.23398 11.125 6.75C11.125 6.26602 10.734 5.875 10.25 5.875H7.1875Z"></path></svg>
+            </a>
+            <a target="_blank" href="https://www.google.com.sg/" class="button primary has-svg">
+                BUTTON 
+                <svg fill="none" viewBox="0 0 24 24" height="24" width="24" xmlns="http://www.w3.org/2000/svg"><path fill="white" d="M13.75 5C13.266 5 12.875 5.39102 12.875 5.875C12.875 6.35898 13.266 6.75 13.75 6.75H16.0113L10.507 12.257C10.1652 12.5988 10.1652 13.1539 10.507 13.4957C10.8488 13.8375 11.4039 13.8375 11.7457 13.4957L17.25 7.98867V10.25C17.25 10.734 17.641 11.125 18.125 11.125C18.609 11.125 19 10.734 19 10.25V5.875C19 5.39102 18.609 5 18.125 5H13.75ZM7.1875 5.875C5.97891 5.875 5 6.85391 5 8.0625V16.8125C5 18.0211 5.97891 19 7.1875 19H15.9375C17.1461 19 18.125 18.0211 18.125 16.8125V13.75C18.125 13.266 17.734 12.875 17.25 12.875C16.766 12.875 16.375 13.266 16.375 13.75V16.8125C16.375 17.0531 16.1781 17.25 15.9375 17.25H7.1875C6.94687 17.25 6.75 17.0531 6.75 16.8125V8.0625C6.75 7.82188 6.94687 7.625 7.1875 7.625H10.25C10.734 7.625 11.125 7.23398 11.125 6.75C11.125 6.26602 10.734 5.875 10.25 5.875H7.1875Z"></path></svg>
+            </a>
+        </div>
+        <div class="section">
+            <a href="https://www.google.com.sg/" class="button text">
+                TEXT CTA 
+            </a>
+        </div>
+        <div class="section">
+            <a target="_blank" href="https://www.google.com.sg/" class="button text">
+                TEXT CTA 
+                <svg fill="none" viewBox="0 0 24 24" height="24" width="24" xmlns="http://www.w3.org/2000/svg"><path stroke-linejoin="round" stroke-linecap="round" stroke-width="1.5" stroke="#B41E8E" d="M10 7L15 12L10 17"></path></svg>
+            </a>
+        </div>
+        <div class="section line-divider"></div>
+        <div class="section">
+            <div class="text-label-1">[Label 1] Lorem ipsum amet conse </div>
+            <h3>[H3] 2 Col - Lorem ipsum ametconse massa sit eleifend</h3><br>
+            <div class="text-body-1">[Body 1] Lorem ipsum dolor sit amet consectetur. In massa sit eleifend vitae ullamcorper dolor sed egestas etiam. Non ornare sit ornare imperdiet at sit sed. Massa morbi vestibulum vitae neque elit facilisis fringilla. Phasellus lacinia amet turpis morbi malesuada. Dui tincidunt justo venenatis viverra eget. Non nascetur mi risus platea at parturient. Neque donec turpis nisi neque.</div>
+        </div>
+        <div class="section">
+            <div class="box-two-columns">
+                <h5 class="text-color-grey">[H5] Lorem ipsum dolor sit amet consectetur laoreet condimentum aliquet</h5>
+                <h5 class="text-color-grey">[H5] Lorem ipsum dolor sit amet consectetur laoreet condimentum aliquet</h5>
+            </div>
+            <div class="box-two-columns">
+                <div class="text-body-2">
+                    [Body 2] Lorem ipsum dolor sit amet consectetur. Laoreet condimentum aliquet adipiscing cursus enim vel volutpat egestas. Turpis aenean aenean massa pellentesque. Leo ullamcorper id purus sit habitasse.
+                </div>
+                <div class="text-body-2">
+                    <a href="https://www.google.com.sg/">
+                        [Body 2] Lorem ipsum dolor sit amet consectetur. Laoreet condimentum aliquet adipiscing cursus enim vel volutpat egestas. Turpis aenean aenean massa pellentesque. Leo ullamcorper id purus sit habitasse.
+                    </a>
+                </div>
+            </div>
+            <div class="box-two-columns">
+                <div class="text-body-2">
+                    [Body 2] Lorem ipsum dolor sit amet consectetur. Laoreet condimentum aliquet adipiscing cursus enim vel volutpat egestas. Turpis aenean aenean massa pellentesque. Leo ullamcorper id purus sit habitasse.
+                </div>
+                <div class="text-body-2">
+                    <a href="https://www.google.com.sg/">
+                        [Body 2] Lorem ipsum dolor sit amet consectetur. Laoreet condimentum aliquet adipiscing cursus enim vel volutpat egestas. Turpis aenean aenean massa pellentesque. Leo ullamcorper id purus sit habitasse.
+                    </a>
+                </div>
+            </div>
+            <div class="box-two-columns">
+                <div class="text-body-2">
+                    [Body 2] Lorem ipsum dolor sit amet consectetur. Laoreet condimentum aliquet adipiscing cursus enim vel volutpat egestas. Turpis aenean aenean massa pellentesque. Leo ullamcorper id purus sit habitasse.
+                </div>
+                <div class="text-body-2">
+                    <a href="https://www.google.com.sg/">
+                        [Body 2] Lorem ipsum dolor sit amet consectetur. Laoreet condimentum aliquet adipiscing cursus enim vel volutpat egestas. Turpis aenean aenean massa pellentesque. Leo ullamcorper id purus sit habitasse.
+                    </a>
+                </div>
+            </div>
+            <div class="box-two-columns">
+                <div class="text-body-2">
+                    [Body 2] Lorem ipsum dolor sit amet consectetur. Laoreet condimentum aliquet adipiscing cursus enim vel volutpat egestas. Turpis aenean aenean massa pellentesque. Leo ullamcorper id purus sit habitasse.
+                </div>
+                <div class="text-body-2">
+                    <a href="https://www.google.com.sg/">
+                        [Body 2] Lorem ipsum dolor sit amet consectetur. Laoreet condimentum aliquet adipiscing cursus enim vel volutpat egestas. Turpis aenean aenean massa pellentesque. Leo ullamcorper id purus sit habitasse.
+                    </a>
+                </div>
             </div>
         </div>
-        <div class="info-cards">
-            <img alt="" src="https://developers.elementor.com/docs/assets/img/elementor-placeholder-image.png">
-            <div class="info-cards-details">
-                <h5>Praesent eu libero at velit vestibulum</h5>
-                <span class="body-text-small">
-                    Pellentesque vitae lorem scelerisque, vehicula tellus ut, vestibulum erat.
-                </span>
+        <div class="section">
+            <div class="text-label-1">[Label 1] Lorem ipsum amet conse </div>
+            <h3>[H3] 2 Col - Lorem ipsum ametconse massa sit eleifend</h3>
+        </div>
+        <div class="section">
+            <div class="bp-youtube">
+                <iframe allowfullscreen="" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" frameborder="0" title="YouTube video player" src="https://www.youtube.com/embed/MfkeAoVo4Vo?si=Mn1ssByy4RAiSBQw" height="315" width="560"></iframe>
+            </div>
+            <h4>
+                [H4] Lorem ipsum dolor sit amet consectetur nisl id odio nunc massa
+            </h4>
+            <div class="text-body-2">
+                [body 2] Lorem ipsum dolor sit amet consectetur. Varius adipiscing commodo purus sagittis. Tristique dui purus orci orci est. Ornare id mauris eget eu id. Sit nulla commodo vitae et dictum erat vitae metus. Sed orci vitae proin enim tempus imperdiet risus. Molestie egestas lacinia ornare aenean non tincidunt quam. At neque tellus blandit mauris id semper arcu. Senectus a interdum cursus ac quam libero id lorem erat. Eget gravida lectus fringilla nunc turpis. Vitae egestas vestibulu.
             </div>
         </div>
-        <div class="info-cards">
-            <img alt="" src="https://developers.elementor.com/docs/assets/img/elementor-placeholder-image.png">
-            <div class="info-cards-details">
-                <h5>Praesent eu libero at velit vestibulum</h5>
-                <span class="body-text-small">
-                    Pellentesque vitae lorem scelerisque, vehicula tellus ut, vestibulum erat.
-                </span>
+        <div class="section">
+            <img alt="" src="https://i.ibb.co/j5qfrLs/image-63-3.jpg" class="infographic">
+        </div>
+        <div class="section">
+            <div class="text-label-1">[Label 1] Lorem ipsum amet conse </div>
+            <h3>[H3] Lorem ipsum dolor sit amet consectetur nisl id odio</h3>
+            <div class="info-cards-container padding-top">
+                <div class="info-cards">
+                    <img alt="" src="https://i.ibb.co/hR7bRYp/Frame-167.png">
+                    <div class="info-cards-details">
+                        <h5>[H5] Lorem ipsum dolor sit amet conse </h5>
+                        <div class="text-body-2">
+                            [Body 2] Lorem ipsum dolor sit amet consectetur. Amet venenatis mattis aliquam pharetra aenean turpis nisl.
+                        </div>
+                    </div>
+                </div>
+                <div class="info-cards">
+                    <img alt="" src="https://i.ibb.co/hR7bRYp/Frame-167.png">
+                    <div class="info-cards-details">
+                        <h5>[H5] Lorem ipsum dolor sit amet conse </h5>
+                        <div class="text-body-2">
+                            [Body 2] Lorem ipsum dolor sit amet consectetur. Amet venenatis mattis aliquam pharetra aenean turpis nisl.
+                        </div>
+                    </div>
+                </div>
+                <div class="info-cards">
+                    <img alt="" src="https://i.ibb.co/hR7bRYp/Frame-167.png">
+                    <div class="info-cards-details">
+                        <h5>[H5] Lorem ipsum dolor sit amet conse </h5>
+                        <div class="text-body-2">
+                            [Body 2] Lorem ipsum dolor sit amet consectetur. Amet venenatis mattis aliquam pharetra aenean turpis nisl.
+                        </div>
+                    </div>
+                </div>
             </div>
         </div>
-    </div>
-    <div class="section info-cards-container">
-        <div class="info-cards">
-            <div class="info-cards-details no-image">
-                <h5>Praesent eu libero at velit vestibulum</h5>
-                <span class="body-text-small">
-                    Pellentesque vitae lorem scelerisque, vehicula tellus ut, vestibulum erat.
-                </span>
+        <div class="section">
+            <div class="info-cards-container">
+                <div class="info-cards">
+                    <div class="info-cards-details no-image">
+                        <h5>[H5] Lorem ipsum dolor sit amet conse </h5>
+                        <div class="text-body-2">
+                            [Body 2] Lorem ipsum dolor sit amet consectetur. Amet venenatis mattis aliquam pharetra aenean turpis nisl.
+                        </div>
+                    </div>
+                </div>
+                <div class="info-cards">
+                    <div class="info-cards-details no-image">
+                        <h5>[H5] Lorem ipsum dolor sit amet conse </h5>
+                        <div class="text-body-2">
+                            [Body 2] Lorem ipsum dolor sit amet consectetur. Amet venenatis mattis aliquam pharetra aenean turpis nisl.
+                        </div>
+                    </div>
+                </div>
+                <div class="info-cards">
+                    <div class="info-cards-details no-image">
+                        <h5>[H5] Lorem ipsum dolor sit amet conse </h5>
+                        <div class="text-body-2">
+                            [Body 2] Lorem ipsum dolor sit amet consectetur. Amet venenatis mattis aliquam pharetra aenean turpis nisl.
+                        </div>
+                    </div>
+                </div>
             </div>
         </div>
-        <div class="info-cards">
-            <div class="info-cards-details no-image">
-                <h5>Praesent eu libero at velit vestibulum</h5>
-                <span class="body-text-small">
-                    Pellentesque vitae lorem scelerisque, vehicula tellus ut, vestibulum erat.
-                </span>
+        <div class="section">
+            <div class="portrait-box">
+                <img alt="" src="https://i.ibb.co/6RPpZH4/Frame-165.png">
+                <div class="portrait-box-details">
+                    <h4>[H4] “Lorem ipsum dolor sit amet consectetur. Nisl sapien egestas vulputate neque semper turpis. Tincidunt eget auctor sit fames cursus. Aliquam sollicitudin iaculis eleifend pellentesque.”</h4>
+                    <div class="spacer-16"></div>
+                    <div class="text-body-2">[Body2] Lorem ipsum dolor sit amet consectetur. Nullam pharetra sit euismod.</div>
+                </div>
             </div>
         </div>
-        <div class="info-cards">
-            <div class="info-cards-details no-image">
-                <h5>Praesent eu libero at velit vestibulum</h5>
-                <span class="body-text-small">
-                    Pellentesque vitae lorem scelerisque, vehicula tellus ut, vestibulum erat.
-                </span>
+        <div class="section">
+            <h4>[H4] “Lorem ipsum dolor sit amet consectetur. Nisl sapien egestas vulputate neque semper turpis. Tincidunt eget auctor sit fames cursus. Aliquam sollicitudin iaculis eleifend pellentesque.”</h4>
+            <div class="spacer-16"></div>
+            <div class="text-body-2 text-align-right">[Body2] Lorem ipsum dolor sit amet consectetur. Nullam pharetra sit euismod.</div>
+        </div>
+        <div class="section">
+            <div class="swap-image-container">
+                <div class="swap-image-box">
+                    <img alt="" src="https://i.ibb.co/zHQ23s4/Frame-161.png">
+                    <div class="swap-image-details">
+                        <h4>[H4] Lorem ipsum dolor sit amet conse tetur</h4>
+                        <div class="text-body-2">
+                            [Body 2] Vestibulum tincidunt neque at elit dictum cursus. Praesent eu libero at velit vestibulum sollicitudin vel non lorem. Pellentesque vitae lorem scelerisque, vehicula tellus ut, vestibulum erat.
+                            <br><br>
+                            Click <a target="_blank" href="https://www.google.com/">here</a> to find out more 
+                        </div>
+                    </div>
+                </div>
+                <div class="swap-image-box">
+                    <img alt="" src="https://i.ibb.co/zHQ23s4/Frame-161.png">
+                    <div class="swap-image-details">
+                        <h4>[H4] Lorem ipsum dolor sit amet conse tetur</h4>
+                        <div class="text-body-2">
+                            [Body 2] Vestibulum tincidunt neque at elit dictum cursus. Praesent eu libero at velit vestibulum sollicitudin vel non lorem. Pellentesque vitae lorem scelerisque, vehicula tellus ut, vestibulum erat.
+                            <br><br>
+                            Click <a target="_blank" href="https://www.google.com/">here</a> to find out more 
+                        </div>
+                    </div>
+                </div>
             </div>
         </div>
-    </div>
-    <div class="section linebreak"></div>
-    <div class="section">
-        <h3>Lorem ipsum dolor sit amet, consectetur adipiscing elit</h3>
-    </div>
-    <div class="section">
-        <span class="body-text-regular">Vestibulum tincidunt neque at elit dictum cursus. Praesent eu libero at velit vestibulum sollicitudin vel non lorem. Pellentesque vitae lorem scelerisque, vehicula tellus ut, vestibulum erat.</span>
-    </div>
-    <div class="section portrait-box">
-        <img alt="" src="https://developers.elementor.com/docs/assets/img/elementor-placeholder-image.png">
-        <div class="portrait-box-details">
-            <h4>“Vestibulum tincidunt neque at elit dictum cursus. Praesent eu libero at velit vestibulum sollicitudin vel non lorem. Pellentesque vitae lorem scelerisque, vehicula tellus ut,  erat.”</h4>
-            <span class="body-text-small">– Vestibulum tincidunt, neque at </span>
+        <div class="section">
+            <div class="text-label-1">[Label 1] Lorem ipsum amet conse </div>
+            <h3>[H3] Lorem ipsum dolor sit amet consectetur nisl id odio</h3>
         </div>
-    </div>
-    <div class="section quote-box">
-        <h3>“Vestibulum tincidunt neque at elit dictum cursus. Praesent eu libero at velit vestibulum sollicitudin vel non lorem. Pellentesque vitae lorem scelerisque, vehicula tellus ut,  erat.”</h3>
-        <div class="body-text-small">– Vestibulum tincidunt, neque at </div>
-    </div>
-    <div class="section linebreak"></div>
-    <div class="section">
-        <h3>Lorem ipsum dolor sit amet, consectetur adipiscing elit</h3>
-    </div>
-    <div class="section">
-        <span class="body-text-regular">Vestibulum tincidunt neque at elit dictum cursus. Praesent eu libero at velit vestibulum sollicitudin vel non lorem. Pellentesque vitae lorem scelerisque, vehicula tellus ut, vestibulum erat.</span>
-    </div>
-    <div class="section swap-image-container">
-        <div class="swap-image-box">
-            <img alt="" src="https://developers.elementor.com/docs/assets/img/elementor-placeholder-image.png">
-            <div class="swap-image-details">
-                <h4>Nam tempor in lorem nec ornare</h4>
-                <span class="body-text-small">
-                    Vestibulum tincidunt neque at elit dictum cursus. Praesent eu libero at velit vestibulum sollicitudin vel non lorem. Pellentesque vitae lorem scelerisque, vehicula tellus ut, vestibulum erat.
-                    <br><br>
-                    Click <a target="_blank" href="https://www.google.com/">here</a> to find out more 
-                </span>
-            </div>
-        </div>
-        <div class="swap-image-box">
-            <img alt="" src="https://developers.elementor.com/docs/assets/img/elementor-placeholder-image.png">
-            <div class="swap-image-details">
-                <h4>Nam tempor in lorem nec ornare</h4>
-                <span class="body-text-small">
-                    Vestibulum tincidunt neque at elit dictum cursus. Praesent eu libero at velit vestibulum sollicitudin vel non lorem. Pellentesque vitae lorem scelerisque, vehicula tellus ut, vestibulum erat.
-                    <br><br>
-                    Click <a target="_blank" href="https://www.google.com/">here</a> to find out more 
-                </span>
-            </div>
-        </div>
-    </div>
-    <div class="section linebreak"></div>
-    <div class="section">
-        <h3>Lorem ipsum dolor sit amet, consectetur adipiscing elit</h3>
-    </div>
-    <div class="section">
-        <span class="body-text-regular">Vestibulum tincidunt neque at elit dictum cursus. Praesent eu libero at velit vestibulum sollicitudin vel non lorem. Pellentesque vitae lorem scelerisque, vehicula tellus ut, vestibulum erat.</span>
     </div>
     <div class="section accordion-container">
         <input type="checkbox" id="title1">
@@ -763,7 +1057,4 @@ description: ""
             <img class="button-image" alt="" src="https://i.ibb.co/JQxHsnk/download-1.png">
         </div>
     </div>
-</div>
-<div class="bp-youtube">
-    <iframe allowfullscreen="" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" frameborder="0" title="YouTube video player" src="https://www.youtube.com/embed/MfkeAoVo4Vo?si=Mn1ssByy4RAiSBQw" height="315" width="560"></iframe>
 </div>
