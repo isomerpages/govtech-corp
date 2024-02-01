@@ -764,15 +764,15 @@ Our very own GovTechies reflect on their experiences, as they share career insig
 
 | Division | Medium Blog | 
 | -------- | -------- | 
-| Cyber Security Group     | https://medium.com/csg-govtech     | 
-| Data.gov.sg     | https://blog.data.gov.sg     | 
-| Data Science and Artificial Intelligence     | https://medium.com/dsaid-govtech     | 
-| Government Digital Services     | https://blog.gds-gov.tech     | 
-| LifeSG     | https://medium.com/lifesg     | 
-| National Digital Identity     | https://medium.com/ndi-sg     | 
-| Open Government Products     | https://opengovsg.medium.com     | 
-| Smart City Technology Division     | https://medium.com/siot-govtech     | 
-| Young Talents @ GovTech     | https://medium.com/ytpo-govtech     | 
+| Cyber Security Group     | [https://medium.com/csg-govtech](https://medium.com/csg-govtech)     | 
+| Data.gov.sg     | [https://blog.data.gov.sg](https://blog.data.gov.sg)     | 
+| Data Science and Artificial Intelligence     | [https://medium.com/dsaid-govtech](https://medium.com/dsaid-govtech)     | 
+| Government Digital Services     | [https://blog.gds-gov.tech](https://blog.gds-gov.tech)     | 
+| LifeSG     | [https://medium.com/lifesg](https://medium.com/lifesg)     | 
+| National Digital Identity     | [https://medium.com/ndi-sg](https://medium.com/ndi-sg)     | 
+| Open Government Products     | [https://opengovsg.medium.com](https://opengovsg.medium.com)     | 
+| Smart City Technology Division     | [https://medium.com/siot-govtech](https://medium.com/siot-govtech)     | 
+| Young Talents @ GovTech     | [https://medium.com/ytpo-govtech](https://medium.com/ytpo-govtech)     | 
 
 <div class="iso-template informative-template">
     <div class="section linebreak"></div>
