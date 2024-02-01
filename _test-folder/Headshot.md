@@ -218,6 +218,10 @@ description: ""
         background-color: #D8D9DA;
     }
 
+    .content .iso-template .rounded {
+        border-radius: 10px;
+    }
+
     .content .iso-template ul,
     .content .iso-template ol {
         margin-top: 0px
@@ -322,6 +326,11 @@ description: ""
         float: right;
     }
 
+    .content .iso-template .image-box > .text-content.align-full {
+        float: left;
+        max-width: 99999px;
+    }
+
     @media only screen and (max-width: 768px) {
         .content .iso-template .section {
             margin-bottom: 32px
@@ -366,7 +375,7 @@ description: ""
         }
 
         .content .iso-template .image-box > .text-content {
-            max-width: 768px;
+            max-width: 768px !important;
         }
     }
 </style>
