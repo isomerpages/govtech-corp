@@ -218,6 +218,10 @@ description: ""
         background-color: #D8D9DA;
     }
 
+    .content .iso-template .rounded {
+        border-radius: 10px;
+    }
+
     .content .iso-template ul,
     .content .iso-template ol {
         margin-top: 0px
@@ -322,6 +326,11 @@ description: ""
         float: right;
     }
 
+    .content .iso-template .image-box > .text-content.align-full {
+        float: left;
+        max-width: 99999px;
+    }
+
     @media only screen and (max-width: 768px) {
         .content .iso-template .section {
             margin-bottom: 32px
@@ -366,7 +375,7 @@ description: ""
         }
 
         .content .iso-template .image-box > .text-content {
-            max-width: 768px;
+            max-width: 768px !important;
         }
     }
 </style>
@@ -380,17 +389,18 @@ description: ""
         border-top: 1px solid #D8D9DA;
         width: 100%;
         height: auto;
-        min-height: 205px;
         padding: 24px 0px;
         display: flex;
         flex-direction: row;
+        align-items: flex-start;
     }
 
     .content .iso-template .card-box > img {
         width: 273px;
-        height: 205px;
+        height: auto;
         border-radius: 10px;
-        margin: 0px
+        margin: 0px;
+        object-fit: contain;
     }
 
     .content .iso-template .card-details {
@@ -429,7 +439,6 @@ description: ""
     .content .iso-template .card-container.three-column .card-box {
         border-top: none;
         width: 100%;
-        min-height: 0px;
     }
 
     .content .iso-template .card-container.two-column .card-box:last-of-type,
