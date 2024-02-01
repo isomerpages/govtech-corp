@@ -331,6 +331,34 @@ description: ""
         max-width: 99999px;
     }
 
+    .content .iso-template .logo-boxes-container {
+        width: 100%;
+        display: flex;
+        align-items: center;
+        justify-content: center;
+        flex-wrap: wrap;
+        margin: 12px 0px;
+    }
+
+    .content .iso-template .logo-boxes {
+        width: 193px;
+        height: 108px;
+        display: flex;
+        align-items: center;
+        justify-content: center;
+        margin: 12px;
+        box-sizing: border-box;
+        padding: 0px 19px;
+        border-radius: 10px;
+        border: 1px solid #D8D9DA;
+        flex: 0 0 33.33333%;
+    }
+
+    .content .iso-template .logo-boxes > img {
+        width: 100%;
+        height: auto;
+    }
+
     @media only screen and (max-width: 768px) {
         .content .iso-template .section {
             margin-bottom: 32px
@@ -376,6 +404,14 @@ description: ""
 
         .content .iso-template .image-box > .text-content {
             max-width: 768px !important;
+        }
+
+        .content .iso-template .logo-boxes {
+            width: 152px;
+            height: 94px;
+            margin: 8px 0px;
+            padding: 0px 9px;
+            flex-wrap: 0 0 50%;
         }
     }
 </style>
@@ -507,44 +543,44 @@ description: ""
     }
 </style>
 <style>
-    .content .iso-template .swap-image-container {
+    .content .iso-template .swap-container {
         display: flex;
         flex-direction: column;
     }
 
-    .content .iso-template .swap-image-box {
+    .content .iso-template .swap-box {
         display: flex;
         flex-direction: row;
         margin-bottom: 44px;
     }
 
-    .content .iso-template .swap-image-box:last-of-type {
+    .content .iso-template .swap-box:last-of-type {
         margin-bottom: 0px;
     }
     
-    .content .iso-template .swap-image-box:nth-of-type(odd) {
+    .content .iso-template .swap-box:nth-of-type(odd) {
         flex-direction: row;
     }
 
-    .content .iso-template .swap-image-box:nth-of-type(even) {
+    .content .iso-template .swap-box:nth-of-type(even) {
         flex-direction: row-reverse;
     }
 
-    .content .iso-template .swap-image-container.flip .swap-image-box:nth-of-type(odd) {
+    .content .iso-template .swap-container.flip .swap-box:nth-of-type(odd) {
         flex-direction: row-reverse;
     }
 
-    .content .iso-template .swap-image-container.flip .swap-image-box:nth-of-type(even) {
+    .content .iso-template .swap-container.flip .swap-box:nth-of-type(even) {
         flex-direction: row;
     }
 
-    .content .iso-template .swap-image-box > img {
+    .content .iso-template .swap-box > img {
         width: 300px;
         height: auto;
         border-radius: 10px
     }
 
-    .content .iso-template .swap-image-box > .swap-image-details {
+    .content .iso-template .swap-box > .swap-details {
         width: calc(100% - 300px);
         box-sizing: border-box;
         display: flex;
@@ -552,42 +588,47 @@ description: ""
         flex-direction: column;
     }
 
-    .content .iso-template .swap-image-box:nth-of-type(odd) > .swap-image-details {
+    .content .iso-template .swap-box:nth-of-type(odd) > .swap-details {
         padding-left: 24px;
         padding-right: 0px;
     }
 
-    .content .iso-template .swap-image-box:nth-of-type(even) > .swap-image-details {
+    .content .iso-template .swap-box:nth-of-type(even) > .swap-details {
         padding-left: 0px;
         padding-right: 24px;
     }
 
-    .content .iso-template .swap-image-container.flip .swap-image-box:nth-of-type(odd) > .swap-image-details {
+    .content .iso-template .swap-container.flip .swap-box:nth-of-type(odd) > .swap-details {
         padding-left: 0px;
         padding-right: 24px;
     }
 
-    .content .iso-template .swap-image-container.flip .swap-image-box:nth-of-type(even) > .swap-image-details {
+    .content .iso-template .swap-container.flip .swap-box:nth-of-type(even) > .swap-details {
         padding-left: 24px;
         padding-right: 0px;
     }
 
-    .content .iso-template .swap-image-details > h4 {
+    .content .iso-template .swap-details > h4 {
         margin-bottom: 30px
     }
 
     @media only screen and (max-width: 768px) {
-        .content .iso-template .swap-image-box,
-        .content .iso-template .swap-image-box:nth-of-type(even) {
+        .content .iso-template .swap-box,
+        .content .iso-template .swap-box:nth-of-type(odd),
+        .content .iso-template .swap-box:nth-of-type(even) {
             flex-direction: column;
         }
 
-        .content .iso-template .swap-image-box > img {
+        .content .iso-template .swap-box > img {
             width: 100%;
             height: auto;
         }
 
-        .content .iso-template .swap-image-box > .swap-image-details {
+        .content .iso-template .swap-box > .swap-details,
+        .content .iso-template .swap-box:nth-of-type(odd) > .swap-details,
+        .content .iso-template .swap-box:nth-of-type(even) > .swap-details,
+        .content .iso-template .swap-container.flip .swap-box:nth-of-type(odd) > .swap-details,
+        .content .iso-template .swap-container.flip .swap-box:nth-of-type(even) > .swap-details {
             width: 100%;
             height: auto;
             padding-left: 0px;
@@ -944,7 +985,8 @@ description: ""
     <div class="section">
         <div class="text-label-1">[Label 1] Lorem ipsum amet conse </div>
         <h3>[H3] Lorem ipsum dolor sit amet consectetur nisl id odio</h3>
-        <div class="info-cards-container padding-top">
+        <div class="spacer-24"></div>
+        <div class="info-cards-container">
             <div class="info-cards">
                 <img alt="" src="https://i.ibb.co/hR7bRYp/Frame-167.png">
                 <div class="info-cards-details">
@@ -1018,10 +1060,10 @@ description: ""
         <div class="text-body-2 text-align-right">[Body2] Lorem ipsum dolor sit amet consectetur. Nullam pharetra sit euismod.</div>
     </div>
     <div class="section">
-        <div class="swap-image-container">
-            <div class="swap-image-box">
+        <div class="swap-container">
+            <div class="swap-box">
                 <img alt="" src="https://i.ibb.co/zHQ23s4/Frame-161.png">
-                <div class="swap-image-details">
+                <div class="swap-details">
                     <h4>[H4] Lorem ipsum dolor sit amet conse tetur</h4>
                     <div class="text-body-2">
                         [Body 2] Vestibulum tincidunt neque at elit dictum cursus. Praesent eu libero at velit vestibulum sollicitudin vel non lorem. Pellentesque vitae lorem scelerisque, vehicula tellus ut, vestibulum erat.
@@ -1030,9 +1072,9 @@ description: ""
                     </div>
                 </div>
             </div>
-            <div class="swap-image-box">
+            <div class="swap-box">
                 <img alt="" src="https://i.ibb.co/zHQ23s4/Frame-161.png">
-                <div class="swap-image-details">
+                <div class="swap-details">
                     <h4>[H4] Lorem ipsum dolor sit amet conse tetur</h4>
                     <div class="text-body-2">
                         [Body 2] Vestibulum tincidunt neque at elit dictum cursus. Praesent eu libero at velit vestibulum sollicitudin vel non lorem. Pellentesque vitae lorem scelerisque, vehicula tellus ut, vestibulum erat.
@@ -1258,10 +1300,10 @@ description: ""
         </div>
     </div>
     <div class="section">
-        <div class="swap-image-container flip">
-            <div class="swap-image-box">
+        <div class="swap-container flip">
+            <div class="swap-box">
                 <img alt="" src="https://i.ibb.co/hMq3WB2/transparent-bg-image-1.png">
-                <div class="swap-image-details">
+                <div class="swap-details">
                     <h3>[H3] Lorem ipsum dolor sit amet conse tetur</h3>
                     <div class="text-body-2">
                         [Body 2] Vestibulum tincidunt neque at elit dictum cursus. Praesent eu libero at velit vestibulum sollicitudin vel non lorem. Pellentesque vitae lorem scelerisque, vehicula tellus ut, vestibulum erat.
@@ -1270,9 +1312,9 @@ description: ""
                     <div><a class="button secondary" href="https://www.google.com.sg/">BUTTON</a></div>
                 </div>
             </div>
-            <div class="swap-image-box">
+            <div class="swap-box">
                 <img alt="" src="https://i.ibb.co/hMq3WB2/transparent-bg-image-1.png">
-                <div class="swap-image-details">
+                <div class="swap-details">
                     <h3>[H3] Lorem ipsum dolor sit amet conse tetur</h3>
                     <div class="text-body-2">
                         [Body 2] Vestibulum tincidunt neque at elit dictum cursus. Praesent eu libero at velit vestibulum sollicitudin vel non lorem. Pellentesque vitae lorem scelerisque, vehicula tellus ut, vestibulum erat.
