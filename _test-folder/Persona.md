@@ -581,44 +581,44 @@ description: ""
     }
 </style>
 <style>
-    .content .iso-template .swap-image-container {
+    .content .iso-template .swap-container {
         display: flex;
         flex-direction: column;
     }
 
-    .content .iso-template .swap-image-box {
+    .content .iso-template .swap-box {
         display: flex;
         flex-direction: row;
         margin-bottom: 44px;
     }
 
-    .content .iso-template .swap-image-box:last-of-type {
+    .content .iso-template .swap-box:last-of-type {
         margin-bottom: 0px;
     }
     
-    .content .iso-template .swap-image-box:nth-of-type(odd) {
+    .content .iso-template .swap-box:nth-of-type(odd) {
         flex-direction: row;
     }
 
-    .content .iso-template .swap-image-box:nth-of-type(even) {
+    .content .iso-template .swap-box:nth-of-type(even) {
         flex-direction: row-reverse;
     }
 
-    .content .iso-template .swap-image-container.flip .swap-image-box:nth-of-type(odd) {
+    .content .iso-template .swap-container.flip .swap-box:nth-of-type(odd) {
         flex-direction: row-reverse;
     }
 
-    .content .iso-template .swap-image-container.flip .swap-image-box:nth-of-type(even) {
+    .content .iso-template .swap-container.flip .swap-box:nth-of-type(even) {
         flex-direction: row;
     }
 
-    .content .iso-template .swap-image-box > img {
+    .content .iso-template .swap-box > img {
         width: 300px;
         height: auto;
         border-radius: 10px
     }
 
-    .content .iso-template .swap-image-box > .swap-image-details {
+    .content .iso-template .swap-box > .swap-details {
         width: calc(100% - 300px);
         box-sizing: border-box;
         display: flex;
@@ -626,47 +626,47 @@ description: ""
         flex-direction: column;
     }
 
-    .content .iso-template .swap-image-box:nth-of-type(odd) > .swap-image-details {
+    .content .iso-template .swap-box:nth-of-type(odd) > .swap-details {
         padding-left: 24px;
         padding-right: 0px;
     }
 
-    .content .iso-template .swap-image-box:nth-of-type(even) > .swap-image-details {
+    .content .iso-template .swap-box:nth-of-type(even) > .swap-details {
         padding-left: 0px;
         padding-right: 24px;
     }
 
-    .content .iso-template .swap-image-container.flip .swap-image-box:nth-of-type(odd) > .swap-image-details {
+    .content .iso-template .swap-container.flip .swap-box:nth-of-type(odd) > .swap-details {
         padding-left: 0px;
         padding-right: 24px;
     }
 
-    .content .iso-template .swap-image-container.flip .swap-image-box:nth-of-type(even) > .swap-image-details {
+    .content .iso-template .swap-container.flip .swap-box:nth-of-type(even) > .swap-details {
         padding-left: 24px;
         padding-right: 0px;
     }
 
-    .content .iso-template .swap-image-details > h4 {
+    .content .iso-template .swap-details > h4 {
         margin-bottom: 30px
     }
 
     @media only screen and (max-width: 768px) {
-        .content .iso-template .swap-image-box,
-        .content .iso-template .swap-image-box:nth-of-type(odd),
-        .content .iso-template .swap-image-box:nth-of-type(even) {
+        .content .iso-template .swap-box,
+        .content .iso-template .swap-box:nth-of-type(odd),
+        .content .iso-template .swap-box:nth-of-type(even) {
             flex-direction: column;
         }
 
-        .content .iso-template .swap-image-box > img {
+        .content .iso-template .swap-box > img {
             width: 100%;
             height: auto;
         }
 
-        .content .iso-template .swap-image-box > .swap-image-details,
-        .content .iso-template .swap-image-box:nth-of-type(odd) > .swap-image-details,
-        .content .iso-template .swap-image-box:nth-of-type(even) > .swap-image-details,
-        .content .iso-template .swap-image-container.flip .swap-image-box:nth-of-type(odd) > .swap-image-details,
-        .content .iso-template .swap-image-container.flip .swap-image-box:nth-of-type(even) > .swap-image-details {
+        .content .iso-template .swap-box > .swap-details,
+        .content .iso-template .swap-box:nth-of-type(odd) > .swap-details,
+        .content .iso-template .swap-box:nth-of-type(even) > .swap-details,
+        .content .iso-template .swap-container.flip .swap-box:nth-of-type(odd) > .swap-details,
+        .content .iso-template .swap-container.flip .swap-box:nth-of-type(even) > .swap-details {
             width: 100%;
             height: auto;
             padding-left: 0px;
@@ -1049,10 +1049,10 @@ description: ""
             </div>
         </div>
         <div class="section">
-            <div class="swap-image-container">
-                <div class="swap-image-box">
+            <div class="swap-container">
+                <div class="swap-box">
                     <img alt="" src="https://i.ibb.co/zHQ23s4/Frame-161.png">
-                    <div class="swap-image-details">
+                    <div class="swap-details">
                         <h4>[H4] Lorem ipsum dolor sit amet conse tetur</h4>
                         <div class="text-body-2">
                             [Body 2] Vestibulum tincidunt neque at elit dictum cursus. Praesent eu libero at velit vestibulum sollicitudin vel non lorem. Pellentesque vitae lorem scelerisque, vehicula tellus ut, vestibulum erat.
@@ -1061,9 +1061,9 @@ description: ""
                         </div>
                     </div>
                 </div>
-                <div class="swap-image-box">
+                <div class="swap-box">
                     <img alt="" src="https://i.ibb.co/zHQ23s4/Frame-161.png">
-                    <div class="swap-image-details">
+                    <div class="swap-details">
                         <h4>[H4] Lorem ipsum dolor sit amet conse tetur</h4>
                         <div class="text-body-2">
                             [Body 2] Vestibulum tincidunt neque at elit dictum cursus. Praesent eu libero at velit vestibulum sollicitudin vel non lorem. Pellentesque vitae lorem scelerisque, vehicula tellus ut, vestibulum erat.
