@@ -721,557 +721,555 @@ description: ""
     }
 </style>
 <div class="iso-template">
-    <div class="clamp">
-        <div class="section">
-            <h3>[H3] Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam tempor in lorem nec ornare. In in turpis dolor. Fusce feugiat, risus id euismod gravida, lectus urna fermentum nisi, ac mattis nulla velit eu quam.</h3>
+    <div class="section">
+        <h3>[H3] Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam tempor in lorem nec ornare. In in turpis dolor. Fusce feugiat, risus id euismod gravida, lectus urna fermentum nisi, ac mattis nulla velit eu quam.</h3>
+    </div>
+    <div class="section line-divider"></div>
+    <div class="section">
+        <h2>[H2] Morbi orci diam elementum et odio imperdiet facilisis</h2>
+    </div>
+    <div class="section">
+        <h3>[H3] Morbi orci diam elementum et odio imperdiet facilisis</h3>
+    </div>
+    <div class="section">
+        <h4>[H4] Morbi orci diam elementum et odio imperdiet facilisis</h4>
+    </div>
+    <div class="section">
+        <h5>[H5] Morbi orci diam elementum et odio imperdiet facilisis</h5>
+    </div>
+    <div class="section">
+        <span class="text-body-1">
+            [Body 1] <b>Lorem ipsum dolor</b> sit amet, consectetur adipiscing elit. Aliquam vestibulum lectus risus, id maximus nibh consectetur aliquam. In sit amet efficitur nisl. <br><br>
+            <a href="https://www.google.com.sg/">Quisque scelerisque</a> tellus vitae massa pulvinar, eu posuere diam convallis.
+        </span>
+    </div>
+    <div class="section">
+        <span class="text-body-2">
+            [Body 2] <b>Lorem ipsum dolor</b> sit amet, consectetur adipiscing elit. Aliquam vestibulum lectus risus, id maximus nibh consectetur aliquam. In sit amet efficitur nisl. <br><br>
+            <a href="https://www.google.com.sg/">Quisque scelerisque</a> tellus vitae massa pulvinar, eu posuere diam convallis.
+        </span>
+    </div>
+    <div class="section">
+        <span class="text-note">
+            [Note] <b>Lorem ipsum dolor</b> sit amet, consectetur adipiscing elit. Aliquam vestibulum lectus risus, id maximus nibh consectetur aliquam. In sit amet efficitur nisl. <br><br>
+            <a href="https://www.google.com.sg/">Quisque scelerisque</a> tellus vitae massa pulvinar, eu posuere diam convallis.
+        </span>
+    </div>
+    <div class="section">
+        <ul class="text-body-1">
+            <li>
+                [Body 1] <b>Lorem ipsum dolor</b> sit amet, consectetur adipiscing elit. Aliquam vestibulum lectus risus.
+            </li>
+            <li>
+                [Body 1] <a href="https://www.google.com.sg/">Maximus nibh</a>consectetur aliquam. In sit amet efficitur nisl. Quisque scelerisque tellus vitae massa pulvinar.
+            </li>
+            <li>
+                [Body 1] Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam vestibulum lectus risus.
+            </li>
+        </ul>
+    </div>
+    <div class="section">
+        <ul class="text-body-2">
+            <li>
+                [Body 2] <b>Lorem ipsum dolor</b> sit amet, consectetur adipiscing elit. Aliquam vestibulum lectus risus.
+            </li>
+            <li>
+                [Body 2] <a href="https://www.google.com.sg/">Maximus nibh</a>consectetur aliquam. In sit amet efficitur nisl. Quisque scelerisque tellus vitae massa pulvinar.
+            </li>
+            <li>
+                [Body 2] Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam vestibulum lectus risus.
+            </li>
+        </ul>
+    </div>
+    <div class="section">
+        <ul class="text-note">
+            <li>
+                [Note] <b>Lorem ipsum dolor</b> sit amet, consectetur adipiscing elit. Aliquam vestibulum lectus risus.
+            </li>
+            <li>
+                [Note] <a href="https://www.google.com.sg/">Maximus nibh</a>consectetur aliquam. In sit amet efficitur nisl. Quisque scelerisque tellus vitae massa pulvinar.
+            </li>
+            <li>
+                [Note] Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam vestibulum lectus risus.
+            </li>
+        </ul>
+    </div>
+    <div class="section">
+        <ol class="text-body-1">
+            <li>
+                [Body 1] <b>Lorem ipsum dolor</b> sit amet, consectetur adipiscing elit. Aliquam vestibulum lectus risus.
+            </li>
+            <li>
+                [Body 1] <a href="https://www.google.com.sg/">Maximus nibh</a>consectetur aliquam. In sit amet efficitur nisl. Quisque scelerisque tellus vitae massa pulvinar.
+            </li>
+            <li>
+                [Body 1] Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam vestibulum lectus risus.
+            </li>
+        </ol>
+    </div>
+    <div class="section">
+        <ol class="text-body-2">
+            <li>
+                [Body 2] <b>Lorem ipsum dolor</b> sit amet, consectetur adipiscing elit. Aliquam vestibulum lectus risus.
+            </li>
+            <li>
+                [Body 2] <a href="https://www.google.com.sg/">Maximus nibh</a>consectetur aliquam. In sit amet efficitur nisl. Quisque scelerisque tellus vitae massa pulvinar.
+            </li>
+            <li>
+                [Body 2] Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam vestibulum lectus risus.
+            </li>
+        </ol>
+    </div>
+    <div class="section">
+        <ol class="text-note">
+            <li>
+                [Note] <b>Lorem ipsum dolor</b> sit amet, consectetur adipiscing elit. Aliquam vestibulum lectus risus.
+            </li>
+            <li>
+                [Note] <a href="https://www.google.com.sg/">Maximus nibh</a>consectetur aliquam. In sit amet efficitur nisl. Quisque scelerisque tellus vitae massa pulvinar.
+            </li>
+            <li>
+                [Note] Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam vestibulum lectus risus.
+            </li>
+        </ol>
+    </div>
+    <div class="section">
+        <a href="https://www.google.com.sg/" class="button secondary">
+            BUTTON
+        </a>
+        <a href="https://www.google.com.sg/" class="button primary">
+            BUTTON
+        </a>
+    </div>
+    <div class="section">
+        <a target="_blank" href="https://www.google.com.sg/" class="button secondary has-svg">
+            BUTTON
+            <svg fill="none" viewBox="0 0 24 24" height="24" width="24" xmlns="http://www.w3.org/2000/svg"><path fill="#B41E8E" d="M13.75 5C13.266 5 12.875 5.39102 12.875 5.875C12.875 6.35898 13.266 6.75 13.75 6.75H16.0113L10.507 12.257C10.1652 12.5988 10.1652 13.1539 10.507 13.4957C10.8488 13.8375 11.4039 13.8375 11.7457 13.4957L17.25 7.98867V10.25C17.25 10.734 17.641 11.125 18.125 11.125C18.609 11.125 19 10.734 19 10.25V5.875C19 5.39102 18.609 5 18.125 5H13.75ZM7.1875 5.875C5.97891 5.875 5 6.85391 5 8.0625V16.8125C5 18.0211 5.97891 19 7.1875 19H15.9375C17.1461 19 18.125 18.0211 18.125 16.8125V13.75C18.125 13.266 17.734 12.875 17.25 12.875C16.766 12.875 16.375 13.266 16.375 13.75V16.8125C16.375 17.0531 16.1781 17.25 15.9375 17.25H7.1875C6.94687 17.25 6.75 17.0531 6.75 16.8125V8.0625C6.75 7.82188 6.94687 7.625 7.1875 7.625H10.25C10.734 7.625 11.125 7.23398 11.125 6.75C11.125 6.26602 10.734 5.875 10.25 5.875H7.1875Z"></path></svg>
+        </a>
+        <a target="_blank" href="https://www.google.com.sg/" class="button primary has-svg">
+            BUTTON 
+            <svg fill="none" viewBox="0 0 24 24" height="24" width="24" xmlns="http://www.w3.org/2000/svg"><path fill="white" d="M13.75 5C13.266 5 12.875 5.39102 12.875 5.875C12.875 6.35898 13.266 6.75 13.75 6.75H16.0113L10.507 12.257C10.1652 12.5988 10.1652 13.1539 10.507 13.4957C10.8488 13.8375 11.4039 13.8375 11.7457 13.4957L17.25 7.98867V10.25C17.25 10.734 17.641 11.125 18.125 11.125C18.609 11.125 19 10.734 19 10.25V5.875C19 5.39102 18.609 5 18.125 5H13.75ZM7.1875 5.875C5.97891 5.875 5 6.85391 5 8.0625V16.8125C5 18.0211 5.97891 19 7.1875 19H15.9375C17.1461 19 18.125 18.0211 18.125 16.8125V13.75C18.125 13.266 17.734 12.875 17.25 12.875C16.766 12.875 16.375 13.266 16.375 13.75V16.8125C16.375 17.0531 16.1781 17.25 15.9375 17.25H7.1875C6.94687 17.25 6.75 17.0531 6.75 16.8125V8.0625C6.75 7.82188 6.94687 7.625 7.1875 7.625H10.25C10.734 7.625 11.125 7.23398 11.125 6.75C11.125 6.26602 10.734 5.875 10.25 5.875H7.1875Z"></path></svg>
+        </a>
+    </div>
+    <div class="section">
+        <a href="https://www.google.com.sg/" class="button text">
+            TEXT CTA 
+        </a>
+    </div>
+    <div class="section">
+        <a target="_blank" href="https://www.google.com.sg/" class="button text">
+            TEXT CTA 
+            <svg fill="none" viewBox="0 0 24 24" height="24" width="24" xmlns="http://www.w3.org/2000/svg"><path stroke-linejoin="round" stroke-linecap="round" stroke-width="1.5" stroke="#B41E8E" d="M10 7L15 12L10 17"></path></svg>
+        </a>
+    </div>
+    <div class="section line-divider"></div>
+    <div class="section">
+        <div class="text-label-1">[Label 1] Lorem ipsum amet conse </div>
+        <h3>[H3] 2 Col - Lorem ipsum ametconse massa sit eleifend</h3><br>
+        <div class="text-body-1">[Body 1] Lorem ipsum dolor sit amet consectetur. In massa sit eleifend vitae ullamcorper dolor sed egestas etiam. Non ornare sit ornare imperdiet at sit sed. Massa morbi vestibulum vitae neque elit facilisis fringilla. Phasellus lacinia amet turpis morbi malesuada. Dui tincidunt justo venenatis viverra eget. Non nascetur mi risus platea at parturient. Neque donec turpis nisi neque.</div>
+    </div>
+    <div class="section">
+        <div class="box-two-columns">
+            <h5 class="text-color-grey">[H5] Lorem ipsum dolor sit amet consectetur laoreet condimentum aliquet</h5>
+            <h5 class="text-color-grey">[H5] Lorem ipsum dolor sit amet consectetur laoreet condimentum aliquet</h5>
         </div>
-        <div class="section line-divider"></div>
-        <div class="section">
-            <h2>[H2] Morbi orci diam elementum et odio imperdiet facilisis</h2>
-        </div>
-        <div class="section">
-            <h3>[H3] Morbi orci diam elementum et odio imperdiet facilisis</h3>
-        </div>
-        <div class="section">
-            <h4>[H4] Morbi orci diam elementum et odio imperdiet facilisis</h4>
-        </div>
-        <div class="section">
-            <h5>[H5] Morbi orci diam elementum et odio imperdiet facilisis</h5>
-        </div>
-        <div class="section">
-            <span class="text-body-1">
-                [Body 1] <b>Lorem ipsum dolor</b> sit amet, consectetur adipiscing elit. Aliquam vestibulum lectus risus, id maximus nibh consectetur aliquam. In sit amet efficitur nisl. <br><br>
-                <a href="https://www.google.com.sg/">Quisque scelerisque</a> tellus vitae massa pulvinar, eu posuere diam convallis.
-            </span>
-        </div>
-        <div class="section">
-            <span class="text-body-2">
-                [Body 2] <b>Lorem ipsum dolor</b> sit amet, consectetur adipiscing elit. Aliquam vestibulum lectus risus, id maximus nibh consectetur aliquam. In sit amet efficitur nisl. <br><br>
-                <a href="https://www.google.com.sg/">Quisque scelerisque</a> tellus vitae massa pulvinar, eu posuere diam convallis.
-            </span>
-        </div>
-        <div class="section">
-            <span class="text-note">
-                [Note] <b>Lorem ipsum dolor</b> sit amet, consectetur adipiscing elit. Aliquam vestibulum lectus risus, id maximus nibh consectetur aliquam. In sit amet efficitur nisl. <br><br>
-                <a href="https://www.google.com.sg/">Quisque scelerisque</a> tellus vitae massa pulvinar, eu posuere diam convallis.
-            </span>
-        </div>
-        <div class="section">
-            <ul class="text-body-1">
-                <li>
-                    [Body 1] <b>Lorem ipsum dolor</b> sit amet, consectetur adipiscing elit. Aliquam vestibulum lectus risus.
-                </li>
-                <li>
-                    [Body 1] <a href="https://www.google.com.sg/">Maximus nibh</a>consectetur aliquam. In sit amet efficitur nisl. Quisque scelerisque tellus vitae massa pulvinar.
-                </li>
-                <li>
-                    [Body 1] Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam vestibulum lectus risus.
-                </li>
-            </ul>
-        </div>
-        <div class="section">
-            <ul class="text-body-2">
-                <li>
-                    [Body 2] <b>Lorem ipsum dolor</b> sit amet, consectetur adipiscing elit. Aliquam vestibulum lectus risus.
-                </li>
-                <li>
-                    [Body 2] <a href="https://www.google.com.sg/">Maximus nibh</a>consectetur aliquam. In sit amet efficitur nisl. Quisque scelerisque tellus vitae massa pulvinar.
-                </li>
-                <li>
-                    [Body 2] Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam vestibulum lectus risus.
-                </li>
-            </ul>
-        </div>
-        <div class="section">
-            <ul class="text-note">
-                <li>
-                    [Note] <b>Lorem ipsum dolor</b> sit amet, consectetur adipiscing elit. Aliquam vestibulum lectus risus.
-                </li>
-                <li>
-                    [Note] <a href="https://www.google.com.sg/">Maximus nibh</a>consectetur aliquam. In sit amet efficitur nisl. Quisque scelerisque tellus vitae massa pulvinar.
-                </li>
-                <li>
-                    [Note] Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam vestibulum lectus risus.
-                </li>
-            </ul>
-        </div>
-        <div class="section">
-            <ol class="text-body-1">
-                <li>
-                    [Body 1] <b>Lorem ipsum dolor</b> sit amet, consectetur adipiscing elit. Aliquam vestibulum lectus risus.
-                </li>
-                <li>
-                    [Body 1] <a href="https://www.google.com.sg/">Maximus nibh</a>consectetur aliquam. In sit amet efficitur nisl. Quisque scelerisque tellus vitae massa pulvinar.
-                </li>
-                <li>
-                    [Body 1] Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam vestibulum lectus risus.
-                </li>
-            </ol>
-        </div>
-        <div class="section">
-            <ol class="text-body-2">
-                <li>
-                    [Body 2] <b>Lorem ipsum dolor</b> sit amet, consectetur adipiscing elit. Aliquam vestibulum lectus risus.
-                </li>
-                <li>
-                    [Body 2] <a href="https://www.google.com.sg/">Maximus nibh</a>consectetur aliquam. In sit amet efficitur nisl. Quisque scelerisque tellus vitae massa pulvinar.
-                </li>
-                <li>
-                    [Body 2] Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam vestibulum lectus risus.
-                </li>
-            </ol>
-        </div>
-        <div class="section">
-            <ol class="text-note">
-                <li>
-                    [Note] <b>Lorem ipsum dolor</b> sit amet, consectetur adipiscing elit. Aliquam vestibulum lectus risus.
-                </li>
-                <li>
-                    [Note] <a href="https://www.google.com.sg/">Maximus nibh</a>consectetur aliquam. In sit amet efficitur nisl. Quisque scelerisque tellus vitae massa pulvinar.
-                </li>
-                <li>
-                    [Note] Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam vestibulum lectus risus.
-                </li>
-            </ol>
-        </div>
-        <div class="section">
-            <a href="https://www.google.com.sg/" class="button secondary">
-                BUTTON
-            </a>
-            <a href="https://www.google.com.sg/" class="button primary">
-                BUTTON
-            </a>
-        </div>
-        <div class="section">
-            <a target="_blank" href="https://www.google.com.sg/" class="button secondary has-svg">
-                BUTTON
-                <svg fill="none" viewBox="0 0 24 24" height="24" width="24" xmlns="http://www.w3.org/2000/svg"><path fill="#B41E8E" d="M13.75 5C13.266 5 12.875 5.39102 12.875 5.875C12.875 6.35898 13.266 6.75 13.75 6.75H16.0113L10.507 12.257C10.1652 12.5988 10.1652 13.1539 10.507 13.4957C10.8488 13.8375 11.4039 13.8375 11.7457 13.4957L17.25 7.98867V10.25C17.25 10.734 17.641 11.125 18.125 11.125C18.609 11.125 19 10.734 19 10.25V5.875C19 5.39102 18.609 5 18.125 5H13.75ZM7.1875 5.875C5.97891 5.875 5 6.85391 5 8.0625V16.8125C5 18.0211 5.97891 19 7.1875 19H15.9375C17.1461 19 18.125 18.0211 18.125 16.8125V13.75C18.125 13.266 17.734 12.875 17.25 12.875C16.766 12.875 16.375 13.266 16.375 13.75V16.8125C16.375 17.0531 16.1781 17.25 15.9375 17.25H7.1875C6.94687 17.25 6.75 17.0531 6.75 16.8125V8.0625C6.75 7.82188 6.94687 7.625 7.1875 7.625H10.25C10.734 7.625 11.125 7.23398 11.125 6.75C11.125 6.26602 10.734 5.875 10.25 5.875H7.1875Z"></path></svg>
-            </a>
-            <a target="_blank" href="https://www.google.com.sg/" class="button primary has-svg">
-                BUTTON 
-                <svg fill="none" viewBox="0 0 24 24" height="24" width="24" xmlns="http://www.w3.org/2000/svg"><path fill="white" d="M13.75 5C13.266 5 12.875 5.39102 12.875 5.875C12.875 6.35898 13.266 6.75 13.75 6.75H16.0113L10.507 12.257C10.1652 12.5988 10.1652 13.1539 10.507 13.4957C10.8488 13.8375 11.4039 13.8375 11.7457 13.4957L17.25 7.98867V10.25C17.25 10.734 17.641 11.125 18.125 11.125C18.609 11.125 19 10.734 19 10.25V5.875C19 5.39102 18.609 5 18.125 5H13.75ZM7.1875 5.875C5.97891 5.875 5 6.85391 5 8.0625V16.8125C5 18.0211 5.97891 19 7.1875 19H15.9375C17.1461 19 18.125 18.0211 18.125 16.8125V13.75C18.125 13.266 17.734 12.875 17.25 12.875C16.766 12.875 16.375 13.266 16.375 13.75V16.8125C16.375 17.0531 16.1781 17.25 15.9375 17.25H7.1875C6.94687 17.25 6.75 17.0531 6.75 16.8125V8.0625C6.75 7.82188 6.94687 7.625 7.1875 7.625H10.25C10.734 7.625 11.125 7.23398 11.125 6.75C11.125 6.26602 10.734 5.875 10.25 5.875H7.1875Z"></path></svg>
-            </a>
-        </div>
-        <div class="section">
-            <a href="https://www.google.com.sg/" class="button text">
-                TEXT CTA 
-            </a>
-        </div>
-        <div class="section">
-            <a target="_blank" href="https://www.google.com.sg/" class="button text">
-                TEXT CTA 
-                <svg fill="none" viewBox="0 0 24 24" height="24" width="24" xmlns="http://www.w3.org/2000/svg"><path stroke-linejoin="round" stroke-linecap="round" stroke-width="1.5" stroke="#B41E8E" d="M10 7L15 12L10 17"></path></svg>
-            </a>
-        </div>
-        <div class="section line-divider"></div>
-        <div class="section">
-            <div class="text-label-1">[Label 1] Lorem ipsum amet conse </div>
-            <h3>[H3] 2 Col - Lorem ipsum ametconse massa sit eleifend</h3><br>
-            <div class="text-body-1">[Body 1] Lorem ipsum dolor sit amet consectetur. In massa sit eleifend vitae ullamcorper dolor sed egestas etiam. Non ornare sit ornare imperdiet at sit sed. Massa morbi vestibulum vitae neque elit facilisis fringilla. Phasellus lacinia amet turpis morbi malesuada. Dui tincidunt justo venenatis viverra eget. Non nascetur mi risus platea at parturient. Neque donec turpis nisi neque.</div>
-        </div>
-        <div class="section">
-            <div class="box-two-columns">
-                <h5 class="text-color-grey">[H5] Lorem ipsum dolor sit amet consectetur laoreet condimentum aliquet</h5>
-                <h5 class="text-color-grey">[H5] Lorem ipsum dolor sit amet consectetur laoreet condimentum aliquet</h5>
-            </div>
-            <div class="box-two-columns">
-                <div class="text-body-2">
-                    [Body 2] Lorem ipsum dolor sit amet consectetur. Laoreet condimentum aliquet adipiscing cursus enim vel volutpat egestas. Turpis aenean aenean massa pellentesque. Leo ullamcorper id purus sit habitasse.
-                </div>
-                <div class="text-body-2">
-                    <a href="https://www.google.com.sg/">
-                        [Body 2] Lorem ipsum dolor sit amet consectetur. Laoreet condimentum aliquet adipiscing cursus enim vel volutpat egestas. Turpis aenean aenean massa pellentesque. Leo ullamcorper id purus sit habitasse.
-                    </a>
-                </div>
-            </div>
-            <div class="box-two-columns">
-                <div class="text-body-2">
-                    [Body 2] Lorem ipsum dolor sit amet consectetur. Laoreet condimentum aliquet adipiscing cursus enim vel volutpat egestas. Turpis aenean aenean massa pellentesque. Leo ullamcorper id purus sit habitasse.
-                </div>
-                <div class="text-body-2">
-                    <a href="https://www.google.com.sg/">
-                        [Body 2] Lorem ipsum dolor sit amet consectetur. Laoreet condimentum aliquet adipiscing cursus enim vel volutpat egestas. Turpis aenean aenean massa pellentesque. Leo ullamcorper id purus sit habitasse.
-                    </a>
-                </div>
-            </div>
-            <div class="box-two-columns">
-                <div class="text-body-2">
-                    [Body 2] Lorem ipsum dolor sit amet consectetur. Laoreet condimentum aliquet adipiscing cursus enim vel volutpat egestas. Turpis aenean aenean massa pellentesque. Leo ullamcorper id purus sit habitasse.
-                </div>
-                <div class="text-body-2">
-                    <a href="https://www.google.com.sg/">
-                        [Body 2] Lorem ipsum dolor sit amet consectetur. Laoreet condimentum aliquet adipiscing cursus enim vel volutpat egestas. Turpis aenean aenean massa pellentesque. Leo ullamcorper id purus sit habitasse.
-                    </a>
-                </div>
-            </div>
-            <div class="box-two-columns">
-                <div class="text-body-2">
-                    [Body 2] Lorem ipsum dolor sit amet consectetur. Laoreet condimentum aliquet adipiscing cursus enim vel volutpat egestas. Turpis aenean aenean massa pellentesque. Leo ullamcorper id purus sit habitasse.
-                </div>
-                <div class="text-body-2">
-                    <a href="https://www.google.com.sg/">
-                        [Body 2] Lorem ipsum dolor sit amet consectetur. Laoreet condimentum aliquet adipiscing cursus enim vel volutpat egestas. Turpis aenean aenean massa pellentesque. Leo ullamcorper id purus sit habitasse.
-                    </a>
-                </div>
-            </div>
-        </div>
-        <div class="section">
-            <div class="text-label-1">[Label 1] Lorem ipsum amet conse </div>
-            <h3>[H3] 2 Col - Lorem ipsum ametconse massa sit eleifend</h3>
-        </div>
-        <div class="section">
-            <div class="bp-youtube">
-                <iframe allowfullscreen="" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" frameborder="0" title="YouTube video player" src="https://www.youtube.com/embed/MfkeAoVo4Vo?si=Mn1ssByy4RAiSBQw" height="315" width="560"></iframe>
-            </div>
-            <h4>
-                [H4] Lorem ipsum dolor sit amet consectetur nisl id odio nunc massa
-            </h4>
+        <div class="box-two-columns">
             <div class="text-body-2">
-                [body 2] Lorem ipsum dolor sit amet consectetur. Varius adipiscing commodo purus sagittis. Tristique dui purus orci orci est. Ornare id mauris eget eu id. Sit nulla commodo vitae et dictum erat vitae metus. Sed orci vitae proin enim tempus imperdiet risus. Molestie egestas lacinia ornare aenean non tincidunt quam. At neque tellus blandit mauris id semper arcu. Senectus a interdum cursus ac quam libero id lorem erat. Eget gravida lectus fringilla nunc turpis. Vitae egestas vestibulu.
+                [Body 2] Lorem ipsum dolor sit amet consectetur. Laoreet condimentum aliquet adipiscing cursus enim vel volutpat egestas. Turpis aenean aenean massa pellentesque. Leo ullamcorper id purus sit habitasse.
+            </div>
+            <div class="text-body-2">
+                <a href="https://www.google.com.sg/">
+                    [Body 2] Lorem ipsum dolor sit amet consectetur. Laoreet condimentum aliquet adipiscing cursus enim vel volutpat egestas. Turpis aenean aenean massa pellentesque. Leo ullamcorper id purus sit habitasse.
+                </a>
             </div>
         </div>
-        <div class="section">
-            <img alt="" src="https://i.ibb.co/j5qfrLs/image-63-3.jpg" class="infographic">
+        <div class="box-two-columns">
+            <div class="text-body-2">
+                [Body 2] Lorem ipsum dolor sit amet consectetur. Laoreet condimentum aliquet adipiscing cursus enim vel volutpat egestas. Turpis aenean aenean massa pellentesque. Leo ullamcorper id purus sit habitasse.
+            </div>
+            <div class="text-body-2">
+                <a href="https://www.google.com.sg/">
+                    [Body 2] Lorem ipsum dolor sit amet consectetur. Laoreet condimentum aliquet adipiscing cursus enim vel volutpat egestas. Turpis aenean aenean massa pellentesque. Leo ullamcorper id purus sit habitasse.
+                </a>
+            </div>
         </div>
-        <div class="section">
+        <div class="box-two-columns">
+            <div class="text-body-2">
+                [Body 2] Lorem ipsum dolor sit amet consectetur. Laoreet condimentum aliquet adipiscing cursus enim vel volutpat egestas. Turpis aenean aenean massa pellentesque. Leo ullamcorper id purus sit habitasse.
+            </div>
+            <div class="text-body-2">
+                <a href="https://www.google.com.sg/">
+                    [Body 2] Lorem ipsum dolor sit amet consectetur. Laoreet condimentum aliquet adipiscing cursus enim vel volutpat egestas. Turpis aenean aenean massa pellentesque. Leo ullamcorper id purus sit habitasse.
+                </a>
+            </div>
+        </div>
+        <div class="box-two-columns">
+            <div class="text-body-2">
+                [Body 2] Lorem ipsum dolor sit amet consectetur. Laoreet condimentum aliquet adipiscing cursus enim vel volutpat egestas. Turpis aenean aenean massa pellentesque. Leo ullamcorper id purus sit habitasse.
+            </div>
+            <div class="text-body-2">
+                <a href="https://www.google.com.sg/">
+                    [Body 2] Lorem ipsum dolor sit amet consectetur. Laoreet condimentum aliquet adipiscing cursus enim vel volutpat egestas. Turpis aenean aenean massa pellentesque. Leo ullamcorper id purus sit habitasse.
+                </a>
+            </div>
+        </div>
+    </div>
+    <div class="section">
+        <div class="text-label-1">[Label 1] Lorem ipsum amet conse </div>
+        <h3>[H3] 2 Col - Lorem ipsum ametconse massa sit eleifend</h3>
+    </div>
+    <div class="section">
+        <div class="bp-youtube">
+            <iframe allowfullscreen="" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" frameborder="0" title="YouTube video player" src="https://www.youtube.com/embed/MfkeAoVo4Vo?si=Mn1ssByy4RAiSBQw" height="315" width="560"></iframe>
+        </div>
+        <h4>
+            [H4] Lorem ipsum dolor sit amet consectetur nisl id odio nunc massa
+        </h4>
+        <div class="text-body-2">
+            [body 2] Lorem ipsum dolor sit amet consectetur. Varius adipiscing commodo purus sagittis. Tristique dui purus orci orci est. Ornare id mauris eget eu id. Sit nulla commodo vitae et dictum erat vitae metus. Sed orci vitae proin enim tempus imperdiet risus. Molestie egestas lacinia ornare aenean non tincidunt quam. At neque tellus blandit mauris id semper arcu. Senectus a interdum cursus ac quam libero id lorem erat. Eget gravida lectus fringilla nunc turpis. Vitae egestas vestibulu.
+        </div>
+    </div>
+    <div class="section">
+        <img alt="" src="https://i.ibb.co/j5qfrLs/image-63-3.jpg" class="infographic">
+    </div>
+    <div class="section">
+        <div class="text-label-1">[Label 1] Lorem ipsum amet conse </div>
+        <h3>[H3] Lorem ipsum dolor sit amet consectetur nisl id odio</h3>
+        <div class="info-cards-container padding-top">
+            <div class="info-cards">
+                <img alt="" src="https://i.ibb.co/hR7bRYp/Frame-167.png">
+                <div class="info-cards-details">
+                    <h5>[H5] Lorem ipsum dolor sit amet conse </h5>
+                    <div class="text-body-2">
+                        [Body 2] Lorem ipsum dolor sit amet consectetur. Amet venenatis mattis aliquam pharetra aenean turpis nisl.
+                    </div>
+                </div>
+            </div>
+            <div class="info-cards">
+                <img alt="" src="https://i.ibb.co/hR7bRYp/Frame-167.png">
+                <div class="info-cards-details">
+                    <h5>[H5] Lorem ipsum dolor sit amet conse </h5>
+                    <div class="text-body-2">
+                        [Body 2] Lorem ipsum dolor sit amet consectetur. Amet venenatis mattis aliquam pharetra aenean turpis nisl.
+                    </div>
+                </div>
+            </div>
+            <div class="info-cards">
+                <img alt="" src="https://i.ibb.co/hR7bRYp/Frame-167.png">
+                <div class="info-cards-details">
+                    <h5>[H5] Lorem ipsum dolor sit amet conse </h5>
+                    <div class="text-body-2">
+                        [Body 2] Lorem ipsum dolor sit amet consectetur. Amet venenatis mattis aliquam pharetra aenean turpis nisl.
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+    <div class="section">
+        <div class="info-cards-container">
+            <div class="info-cards">
+                <div class="info-cards-details no-image">
+                    <h5>[H5] Lorem ipsum dolor sit amet conse </h5>
+                    <div class="text-body-2">
+                        [Body 2] Lorem ipsum dolor sit amet consectetur. Amet venenatis mattis aliquam pharetra aenean turpis nisl.
+                    </div>
+                </div>
+            </div>
+            <div class="info-cards">
+                <div class="info-cards-details no-image">
+                    <h5>[H5] Lorem ipsum dolor sit amet conse </h5>
+                    <div class="text-body-2">
+                        [Body 2] Lorem ipsum dolor sit amet consectetur. Amet venenatis mattis aliquam pharetra aenean turpis nisl.
+                    </div>
+                </div>
+            </div>
+            <div class="info-cards">
+                <div class="info-cards-details no-image">
+                    <h5>[H5] Lorem ipsum dolor sit amet conse </h5>
+                    <div class="text-body-2">
+                        [Body 2] Lorem ipsum dolor sit amet consectetur. Amet venenatis mattis aliquam pharetra aenean turpis nisl.
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+    <div class="section">
+        <div class="portrait-box">
+            <img alt="" src="https://i.ibb.co/6RPpZH4/Frame-165.png">
+            <div class="portrait-box-details">
+                <h4>[H4] “Lorem ipsum dolor sit amet consectetur. Nisl sapien egestas vulputate neque semper turpis. Tincidunt eget auctor sit fames cursus. Aliquam sollicitudin iaculis eleifend pellentesque.”</h4>
+                <div class="spacer-16"></div>
+                <div class="text-body-2">[Body2] Lorem ipsum dolor sit amet consectetur. Nullam pharetra sit euismod.</div>
+            </div>
+        </div>
+    </div>
+    <div class="section">
+        <h4>[H4] “Lorem ipsum dolor sit amet consectetur. Nisl sapien egestas vulputate neque semper turpis. Tincidunt eget auctor sit fames cursus. Aliquam sollicitudin iaculis eleifend pellentesque.”</h4>
+        <div class="spacer-16"></div>
+        <div class="text-body-2 text-align-right">[Body2] Lorem ipsum dolor sit amet consectetur. Nullam pharetra sit euismod.</div>
+    </div>
+    <div class="section">
+        <div class="swap-image-container">
+            <div class="swap-image-box">
+                <img alt="" src="https://i.ibb.co/zHQ23s4/Frame-161.png">
+                <div class="swap-image-details">
+                    <h4>[H4] Lorem ipsum dolor sit amet conse tetur</h4>
+                    <div class="text-body-2">
+                        [Body 2] Vestibulum tincidunt neque at elit dictum cursus. Praesent eu libero at velit vestibulum sollicitudin vel non lorem. Pellentesque vitae lorem scelerisque, vehicula tellus ut, vestibulum erat.
+                        <br><br>
+                        Click <a target="_blank" href="https://www.google.com/">here</a> to find out more 
+                    </div>
+                </div>
+            </div>
+            <div class="swap-image-box">
+                <img alt="" src="https://i.ibb.co/zHQ23s4/Frame-161.png">
+                <div class="swap-image-details">
+                    <h4>[H4] Lorem ipsum dolor sit amet conse tetur</h4>
+                    <div class="text-body-2">
+                        [Body 2] Vestibulum tincidunt neque at elit dictum cursus. Praesent eu libero at velit vestibulum sollicitudin vel non lorem. Pellentesque vitae lorem scelerisque, vehicula tellus ut, vestibulum erat.
+                        <br><br>
+                        Click <a target="_blank" href="https://www.google.com/">here</a> to find out more 
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+    <div class="section">
+        <div class="text-label-1">[Label 1] Lorem ipsum amet conse </div>
+        <h3>[H3] Lorem ipsum dolor sit amet consectetur nisl id odio</h3>
+    </div>
+    <div class="section">
+        <div class="accordion-container">
+            <input type="checkbox" id="title1">
+            <label for="title1">
+                <h5>[H5] Nam tempor in iorem nec ornare in turpis dolor eueuismod gravida</h5>
+                <svg class="open-accordion-icon" fill="none" viewBox="0 0 22 22" height="22" width="22" xmlns="http://www.w3.org/2000/svg"><path fill="#4372D6" d="M12.9841 12.8664L20.1104 12.8995C20.5081 12.8995 20.8727 12.5349 20.8727 12.1371V10.4799C20.8727 10.0821 20.5081 9.71752 20.1104 9.71752L12.9841 9.75066V2.59121C12.9841 2.19346 12.6195 1.82886 12.2217 1.82886H10.5644C10.1667 1.82886 9.80208 2.19346 9.80208 2.59121L9.83522 9.71752H2.67577C2.27802 9.71752 1.91342 10.0821 1.91342 10.4799V12.1371C1.91342 12.5349 2.27802 12.8995 2.67577 12.8995H9.83522L9.80208 20.0258C9.80208 20.4236 10.1667 20.7882 10.5644 20.7882H12.2217C12.6195 20.7882 12.9841 20.4236 12.9841 20.0258V12.8664Z"></path></svg><svg class="close-accordion-icon" fill="none" viewBox="0 0 21 22" height="22" width="21" xmlns="http://www.w3.org/2000/svg"><path fill="#4372D6" d="M12.7266 11.2849L17.7891 6.26929C18.0703 5.98804 18.0703 5.47241 17.7891 5.19116L16.6172 4.01929C16.3359 3.73804 15.8203 3.73804 15.5391 4.01929L10.5234 9.08179L5.46094 4.01929C5.17969 3.73804 4.66406 3.73804 4.38281 4.01929L3.21094 5.19116C2.92969 5.47241 2.92969 5.98804 3.21094 6.26929L8.27344 11.2849L3.21094 16.3474C2.92969 16.6287 2.92969 17.1443 3.21094 17.4255L4.38281 18.5974C4.66406 18.8787 5.17969 18.8787 5.46094 18.5974L10.5234 13.5349L15.5391 18.5974C15.8203 18.8787 16.3359 18.8787 16.6172 18.5974L17.7891 17.4255C18.0703 17.1443 18.0703 16.6287 17.7891 16.3474L12.7266 11.2849Z"></path></svg>
+            </label>
+            <div class="accordion-content">
+                <div class="feature-center">
+                    <img alt="" src="https://i.ibb.co/NCH2BfN/Frame-172.png">
+                    <div class="spacer-24"></div>
+                    <div>
+                        <a href="https://www.google.com.sg/" class="button secondary">
+                            BUTTON
+                        </a>
+                        <a href="https://www.google.com.sg/" class="button primary">
+                            BUTTON
+                        </a>
+                    </div>
+                    <div class="spacer-24"></div>
+                    <span class="text-body-2">
+                        [body 2] Lorem ipsum dolor sit amet consectetur. Mollis in augue tincidunt eget mauris sed nibh non sed. Ultricies tellus nibh proin congue ullamcorper egestas duis massa dui. A leo facilisis vitae faucibus lorem vitae egestas. Rhoncus id ut magna nisi malesuada id egestas viverra netus. A faucibus cras ornare risus. Pellentesque aliquam sit pretium libero sagittis venenatis posuere fringilla lectus. <br><br>
+                        Molestie ullamcorper consectetur at risus mattis dictum. Augue sed amet pharetra blandit sagittis interdum diam. Neque arcu justo egestas felis. Curabitur velit elementum venenatis volutpat faucibus mi leo. Dictum morbi eu lacus enim convallis. Pretium morbi at non ultrices. Non nascetur mi risus platea at parturient. Neque donec turpis nisi neque sed quis nullam.
+                    </span>
+                </div>
+            </div>
+            <input type="checkbox" id="title2">
+            <label for="title2">
+                <h5>[H5] Nam tempor in iorem nec ornare in turpis dolor eueuismod gravida</h5>
+                <svg class="open-accordion-icon" fill="none" viewBox="0 0 22 22" height="22" width="22" xmlns="http://www.w3.org/2000/svg"><path fill="#4372D6" d="M12.9841 12.8664L20.1104 12.8995C20.5081 12.8995 20.8727 12.5349 20.8727 12.1371V10.4799C20.8727 10.0821 20.5081 9.71752 20.1104 9.71752L12.9841 9.75066V2.59121C12.9841 2.19346 12.6195 1.82886 12.2217 1.82886H10.5644C10.1667 1.82886 9.80208 2.19346 9.80208 2.59121L9.83522 9.71752H2.67577C2.27802 9.71752 1.91342 10.0821 1.91342 10.4799V12.1371C1.91342 12.5349 2.27802 12.8995 2.67577 12.8995H9.83522L9.80208 20.0258C9.80208 20.4236 10.1667 20.7882 10.5644 20.7882H12.2217C12.6195 20.7882 12.9841 20.4236 12.9841 20.0258V12.8664Z"></path></svg><svg class="close-accordion-icon" fill="none" viewBox="0 0 21 22" height="22" width="21" xmlns="http://www.w3.org/2000/svg"><path fill="#4372D6" d="M12.7266 11.2849L17.7891 6.26929C18.0703 5.98804 18.0703 5.47241 17.7891 5.19116L16.6172 4.01929C16.3359 3.73804 15.8203 3.73804 15.5391 4.01929L10.5234 9.08179L5.46094 4.01929C5.17969 3.73804 4.66406 3.73804 4.38281 4.01929L3.21094 5.19116C2.92969 5.47241 2.92969 5.98804 3.21094 6.26929L8.27344 11.2849L3.21094 16.3474C2.92969 16.6287 2.92969 17.1443 3.21094 17.4255L4.38281 18.5974C4.66406 18.8787 5.17969 18.8787 5.46094 18.5974L10.5234 13.5349L15.5391 18.5974C15.8203 18.8787 16.3359 18.8787 16.6172 18.5974L17.7891 17.4255C18.0703 17.1443 18.0703 16.6287 17.7891 16.3474L12.7266 11.2849Z"></path></svg>
+            </label>
+            <div class="accordion-content">
+                <div class="feature-center">
+                    <img alt="" src="https://i.ibb.co/NCH2BfN/Frame-172.png">
+                    <div class="spacer-24"></div>
+                    <div>
+                        <a href="https://www.google.com.sg/" class="button secondary">
+                            BUTTON
+                        </a>
+                        <a href="https://www.google.com.sg/" class="button primary">
+                            BUTTON
+                        </a>
+                    </div>
+                    <div class="spacer-24"></div>
+                    <span class="text-body-2">
+                        [body 2] Lorem ipsum dolor sit amet consectetur. Mollis in augue tincidunt eget mauris sed nibh non sed. Ultricies tellus nibh proin congue ullamcorper egestas duis massa dui. A leo facilisis vitae faucibus lorem vitae egestas. Rhoncus id ut magna nisi malesuada id egestas viverra netus. A faucibus cras ornare risus. Pellentesque aliquam sit pretium libero sagittis venenatis posuere fringilla lectus. <br><br>
+                        Molestie ullamcorper consectetur at risus mattis dictum. Augue sed amet pharetra blandit sagittis interdum diam. Neque arcu justo egestas felis. Curabitur velit elementum venenatis volutpat faucibus mi leo. Dictum morbi eu lacus enim convallis. Pretium morbi at non ultrices. Non nascetur mi risus platea at parturient. Neque donec turpis nisi neque sed quis nullam.
+                    </span>
+                </div>
+            </div>
+            <input type="checkbox" id="title3">
+            <label for="title3">
+                <h5>[H5] Nam tempor in iorem nec ornare in turpis dolor eueuismod gravida</h5>
+                <svg class="open-accordion-icon" fill="none" viewBox="0 0 22 22" height="22" width="22" xmlns="http://www.w3.org/2000/svg"><path fill="#4372D6" d="M12.9841 12.8664L20.1104 12.8995C20.5081 12.8995 20.8727 12.5349 20.8727 12.1371V10.4799C20.8727 10.0821 20.5081 9.71752 20.1104 9.71752L12.9841 9.75066V2.59121C12.9841 2.19346 12.6195 1.82886 12.2217 1.82886H10.5644C10.1667 1.82886 9.80208 2.19346 9.80208 2.59121L9.83522 9.71752H2.67577C2.27802 9.71752 1.91342 10.0821 1.91342 10.4799V12.1371C1.91342 12.5349 2.27802 12.8995 2.67577 12.8995H9.83522L9.80208 20.0258C9.80208 20.4236 10.1667 20.7882 10.5644 20.7882H12.2217C12.6195 20.7882 12.9841 20.4236 12.9841 20.0258V12.8664Z"></path></svg><svg class="close-accordion-icon" fill="none" viewBox="0 0 21 22" height="22" width="21" xmlns="http://www.w3.org/2000/svg"><path fill="#4372D6" d="M12.7266 11.2849L17.7891 6.26929C18.0703 5.98804 18.0703 5.47241 17.7891 5.19116L16.6172 4.01929C16.3359 3.73804 15.8203 3.73804 15.5391 4.01929L10.5234 9.08179L5.46094 4.01929C5.17969 3.73804 4.66406 3.73804 4.38281 4.01929L3.21094 5.19116C2.92969 5.47241 2.92969 5.98804 3.21094 6.26929L8.27344 11.2849L3.21094 16.3474C2.92969 16.6287 2.92969 17.1443 3.21094 17.4255L4.38281 18.5974C4.66406 18.8787 5.17969 18.8787 5.46094 18.5974L10.5234 13.5349L15.5391 18.5974C15.8203 18.8787 16.3359 18.8787 16.6172 18.5974L17.7891 17.4255C18.0703 17.1443 18.0703 16.6287 17.7891 16.3474L12.7266 11.2849Z"></path></svg>
+            </label>
+            <div class="accordion-content">
+                <div class="feature-center">
+                    <img alt="" src="https://i.ibb.co/NCH2BfN/Frame-172.png">
+                    <div class="spacer-24"></div>
+                    <div>
+                        <a href="https://www.google.com.sg/" class="button secondary">
+                            BUTTON
+                        </a>
+                        <a href="https://www.google.com.sg/" class="button primary">
+                            BUTTON
+                        </a>
+                    </div>
+                    <div class="spacer-24"></div>
+                    <span class="text-body-2">
+                        [body 2] Lorem ipsum dolor sit amet consectetur. Mollis in augue tincidunt eget mauris sed nibh non sed. Ultricies tellus nibh proin congue ullamcorper egestas duis massa dui. A leo facilisis vitae faucibus lorem vitae egestas. Rhoncus id ut magna nisi malesuada id egestas viverra netus. A faucibus cras ornare risus. Pellentesque aliquam sit pretium libero sagittis venenatis posuere fringilla lectus. <br><br>
+                        Molestie ullamcorper consectetur at risus mattis dictum. Augue sed amet pharetra blandit sagittis interdum diam. Neque arcu justo egestas felis. Curabitur velit elementum venenatis volutpat faucibus mi leo. Dictum morbi eu lacus enim convallis. Pretium morbi at non ultrices. Non nascetur mi risus platea at parturient. Neque donec turpis nisi neque sed quis nullam.
+                    </span>
+                </div>
+            </div>
+            <input type="checkbox" id="title4">
+            <label for="title4">
+                <h5>[H5] Nam tempor in iorem nec ornare in turpis dolor eueuismod gravida</h5>
+                <svg class="open-accordion-icon" fill="none" viewBox="0 0 22 22" height="22" width="22" xmlns="http://www.w3.org/2000/svg"><path fill="#4372D6" d="M12.9841 12.8664L20.1104 12.8995C20.5081 12.8995 20.8727 12.5349 20.8727 12.1371V10.4799C20.8727 10.0821 20.5081 9.71752 20.1104 9.71752L12.9841 9.75066V2.59121C12.9841 2.19346 12.6195 1.82886 12.2217 1.82886H10.5644C10.1667 1.82886 9.80208 2.19346 9.80208 2.59121L9.83522 9.71752H2.67577C2.27802 9.71752 1.91342 10.0821 1.91342 10.4799V12.1371C1.91342 12.5349 2.27802 12.8995 2.67577 12.8995H9.83522L9.80208 20.0258C9.80208 20.4236 10.1667 20.7882 10.5644 20.7882H12.2217C12.6195 20.7882 12.9841 20.4236 12.9841 20.0258V12.8664Z"></path></svg><svg class="close-accordion-icon" fill="none" viewBox="0 0 21 22" height="22" width="21" xmlns="http://www.w3.org/2000/svg"><path fill="#4372D6" d="M12.7266 11.2849L17.7891 6.26929C18.0703 5.98804 18.0703 5.47241 17.7891 5.19116L16.6172 4.01929C16.3359 3.73804 15.8203 3.73804 15.5391 4.01929L10.5234 9.08179L5.46094 4.01929C5.17969 3.73804 4.66406 3.73804 4.38281 4.01929L3.21094 5.19116C2.92969 5.47241 2.92969 5.98804 3.21094 6.26929L8.27344 11.2849L3.21094 16.3474C2.92969 16.6287 2.92969 17.1443 3.21094 17.4255L4.38281 18.5974C4.66406 18.8787 5.17969 18.8787 5.46094 18.5974L10.5234 13.5349L15.5391 18.5974C15.8203 18.8787 16.3359 18.8787 16.6172 18.5974L17.7891 17.4255C18.0703 17.1443 18.0703 16.6287 17.7891 16.3474L12.7266 11.2849Z"></path></svg>
+            </label>
+            <div class="accordion-content">
+                <div class="feature-center">
+                    <img alt="" src="https://i.ibb.co/NCH2BfN/Frame-172.png">
+                    <div class="spacer-24"></div>
+                    <div>
+                        <a href="https://www.google.com.sg/" class="button secondary">
+                            BUTTON
+                        </a>
+                        <a href="https://www.google.com.sg/" class="button primary">
+                            BUTTON
+                        </a>
+                    </div>
+                    <div class="spacer-24"></div>
+                    <span class="text-body-2">
+                        [body 2] Lorem ipsum dolor sit amet consectetur. Mollis in augue tincidunt eget mauris sed nibh non sed. Ultricies tellus nibh proin congue ullamcorper egestas duis massa dui. A leo facilisis vitae faucibus lorem vitae egestas. Rhoncus id ut magna nisi malesuada id egestas viverra netus. A faucibus cras ornare risus. Pellentesque aliquam sit pretium libero sagittis venenatis posuere fringilla lectus. <br><br>
+                        Molestie ullamcorper consectetur at risus mattis dictum. Augue sed amet pharetra blandit sagittis interdum diam. Neque arcu justo egestas felis. Curabitur velit elementum venenatis volutpat faucibus mi leo. Dictum morbi eu lacus enim convallis. Pretium morbi at non ultrices. Non nascetur mi risus platea at parturient. Neque donec turpis nisi neque sed quis nullam.
+                    </span>
+                </div>
+            </div>
+        </div>
+    </div>
+    <div class="section">
+        <div class="feature-center">
             <div class="text-label-1">[Label 1] Lorem ipsum amet conse </div>
             <h3>[H3] Lorem ipsum dolor sit amet consectetur nisl id odio</h3>
-            <div class="info-cards-container padding-top">
-                <div class="info-cards">
-                    <img alt="" src="https://i.ibb.co/hR7bRYp/Frame-167.png">
-                    <div class="info-cards-details">
-                        <h5>[H5] Lorem ipsum dolor sit amet conse </h5>
-                        <div class="text-body-2">
-                            [Body 2] Lorem ipsum dolor sit amet consectetur. Amet venenatis mattis aliquam pharetra aenean turpis nisl.
-                        </div>
-                    </div>
-                </div>
-                <div class="info-cards">
-                    <img alt="" src="https://i.ibb.co/hR7bRYp/Frame-167.png">
-                    <div class="info-cards-details">
-                        <h5>[H5] Lorem ipsum dolor sit amet conse </h5>
-                        <div class="text-body-2">
-                            [Body 2] Lorem ipsum dolor sit amet consectetur. Amet venenatis mattis aliquam pharetra aenean turpis nisl.
-                        </div>
-                    </div>
-                </div>
-                <div class="info-cards">
-                    <img alt="" src="https://i.ibb.co/hR7bRYp/Frame-167.png">
-                    <div class="info-cards-details">
-                        <h5>[H5] Lorem ipsum dolor sit amet conse </h5>
-                        <div class="text-body-2">
-                            [Body 2] Lorem ipsum dolor sit amet consectetur. Amet venenatis mattis aliquam pharetra aenean turpis nisl.
-                        </div>
-                    </div>
-                </div>
-            </div>
-        </div>
-        <div class="section">
-            <div class="info-cards-container">
-                <div class="info-cards">
-                    <div class="info-cards-details no-image">
-                        <h5>[H5] Lorem ipsum dolor sit amet conse </h5>
-                        <div class="text-body-2">
-                            [Body 2] Lorem ipsum dolor sit amet consectetur. Amet venenatis mattis aliquam pharetra aenean turpis nisl.
-                        </div>
-                    </div>
-                </div>
-                <div class="info-cards">
-                    <div class="info-cards-details no-image">
-                        <h5>[H5] Lorem ipsum dolor sit amet conse </h5>
-                        <div class="text-body-2">
-                            [Body 2] Lorem ipsum dolor sit amet consectetur. Amet venenatis mattis aliquam pharetra aenean turpis nisl.
-                        </div>
-                    </div>
-                </div>
-                <div class="info-cards">
-                    <div class="info-cards-details no-image">
-                        <h5>[H5] Lorem ipsum dolor sit amet conse </h5>
-                        <div class="text-body-2">
-                            [Body 2] Lorem ipsum dolor sit amet consectetur. Amet venenatis mattis aliquam pharetra aenean turpis nisl.
-                        </div>
-                    </div>
-                </div>
-            </div>
-        </div>
-        <div class="section">
-            <div class="portrait-box">
-                <img alt="" src="https://i.ibb.co/6RPpZH4/Frame-165.png">
-                <div class="portrait-box-details">
-                    <h4>[H4] “Lorem ipsum dolor sit amet consectetur. Nisl sapien egestas vulputate neque semper turpis. Tincidunt eget auctor sit fames cursus. Aliquam sollicitudin iaculis eleifend pellentesque.”</h4>
-                    <div class="spacer-16"></div>
-                    <div class="text-body-2">[Body2] Lorem ipsum dolor sit amet consectetur. Nullam pharetra sit euismod.</div>
-                </div>
-            </div>
-        </div>
-        <div class="section">
-            <h4>[H4] “Lorem ipsum dolor sit amet consectetur. Nisl sapien egestas vulputate neque semper turpis. Tincidunt eget auctor sit fames cursus. Aliquam sollicitudin iaculis eleifend pellentesque.”</h4>
-            <div class="spacer-16"></div>
-            <div class="text-body-2 text-align-right">[Body2] Lorem ipsum dolor sit amet consectetur. Nullam pharetra sit euismod.</div>
-        </div>
-        <div class="section">
-            <div class="swap-image-container">
-                <div class="swap-image-box">
-                    <img alt="" src="https://i.ibb.co/zHQ23s4/Frame-161.png">
-                    <div class="swap-image-details">
-                        <h4>[H4] Lorem ipsum dolor sit amet conse tetur</h4>
-                        <div class="text-body-2">
-                            [Body 2] Vestibulum tincidunt neque at elit dictum cursus. Praesent eu libero at velit vestibulum sollicitudin vel non lorem. Pellentesque vitae lorem scelerisque, vehicula tellus ut, vestibulum erat.
-                            <br><br>
-                            Click <a target="_blank" href="https://www.google.com/">here</a> to find out more 
-                        </div>
-                    </div>
-                </div>
-                <div class="swap-image-box">
-                    <img alt="" src="https://i.ibb.co/zHQ23s4/Frame-161.png">
-                    <div class="swap-image-details">
-                        <h4>[H4] Lorem ipsum dolor sit amet conse tetur</h4>
-                        <div class="text-body-2">
-                            [Body 2] Vestibulum tincidunt neque at elit dictum cursus. Praesent eu libero at velit vestibulum sollicitudin vel non lorem. Pellentesque vitae lorem scelerisque, vehicula tellus ut, vestibulum erat.
-                            <br><br>
-                            Click <a target="_blank" href="https://www.google.com/">here</a> to find out more 
-                        </div>
-                    </div>
-                </div>
-            </div>
-        </div>
-        <div class="section">
-            <div class="text-label-1">[Label 1] Lorem ipsum amet conse </div>
-            <h3>[H3] Lorem ipsum dolor sit amet consectetur nisl id odio</h3>
-        </div>
-        <div class="section">
-            <div class="accordion-container">
-                <input type="checkbox" id="title1">
-                <label for="title1">
-                    <h5>[H5] Nam tempor in iorem nec ornare in turpis dolor eueuismod gravida</h5>
-                    <svg class="open-accordion-icon" fill="none" viewBox="0 0 22 22" height="22" width="22" xmlns="http://www.w3.org/2000/svg"><path fill="#4372D6" d="M12.9841 12.8664L20.1104 12.8995C20.5081 12.8995 20.8727 12.5349 20.8727 12.1371V10.4799C20.8727 10.0821 20.5081 9.71752 20.1104 9.71752L12.9841 9.75066V2.59121C12.9841 2.19346 12.6195 1.82886 12.2217 1.82886H10.5644C10.1667 1.82886 9.80208 2.19346 9.80208 2.59121L9.83522 9.71752H2.67577C2.27802 9.71752 1.91342 10.0821 1.91342 10.4799V12.1371C1.91342 12.5349 2.27802 12.8995 2.67577 12.8995H9.83522L9.80208 20.0258C9.80208 20.4236 10.1667 20.7882 10.5644 20.7882H12.2217C12.6195 20.7882 12.9841 20.4236 12.9841 20.0258V12.8664Z"></path></svg><svg class="close-accordion-icon" fill="none" viewBox="0 0 21 22" height="22" width="21" xmlns="http://www.w3.org/2000/svg"><path fill="#4372D6" d="M12.7266 11.2849L17.7891 6.26929C18.0703 5.98804 18.0703 5.47241 17.7891 5.19116L16.6172 4.01929C16.3359 3.73804 15.8203 3.73804 15.5391 4.01929L10.5234 9.08179L5.46094 4.01929C5.17969 3.73804 4.66406 3.73804 4.38281 4.01929L3.21094 5.19116C2.92969 5.47241 2.92969 5.98804 3.21094 6.26929L8.27344 11.2849L3.21094 16.3474C2.92969 16.6287 2.92969 17.1443 3.21094 17.4255L4.38281 18.5974C4.66406 18.8787 5.17969 18.8787 5.46094 18.5974L10.5234 13.5349L15.5391 18.5974C15.8203 18.8787 16.3359 18.8787 16.6172 18.5974L17.7891 17.4255C18.0703 17.1443 18.0703 16.6287 17.7891 16.3474L12.7266 11.2849Z"></path></svg>
-                </label>
-                <div class="accordion-content">
-                    <div class="feature-center">
-                        <img alt="" src="https://i.ibb.co/NCH2BfN/Frame-172.png">
-                        <div class="spacer-24"></div>
-                        <div>
-                            <a href="https://www.google.com.sg/" class="button secondary">
-                                BUTTON
-                            </a>
-                            <a href="https://www.google.com.sg/" class="button primary">
-                                BUTTON
-                            </a>
-                        </div>
-                        <div class="spacer-24"></div>
-                        <span class="text-body-2">
-                            [body 2] Lorem ipsum dolor sit amet consectetur. Mollis in augue tincidunt eget mauris sed nibh non sed. Ultricies tellus nibh proin congue ullamcorper egestas duis massa dui. A leo facilisis vitae faucibus lorem vitae egestas. Rhoncus id ut magna nisi malesuada id egestas viverra netus. A faucibus cras ornare risus. Pellentesque aliquam sit pretium libero sagittis venenatis posuere fringilla lectus. <br><br>
-                            Molestie ullamcorper consectetur at risus mattis dictum. Augue sed amet pharetra blandit sagittis interdum diam. Neque arcu justo egestas felis. Curabitur velit elementum venenatis volutpat faucibus mi leo. Dictum morbi eu lacus enim convallis. Pretium morbi at non ultrices. Non nascetur mi risus platea at parturient. Neque donec turpis nisi neque sed quis nullam.
-                        </span>
-                    </div>
-                </div>
-                <input type="checkbox" id="title2">
-                <label for="title2">
-                    <h5>[H5] Nam tempor in iorem nec ornare in turpis dolor eueuismod gravida</h5>
-                    <svg class="open-accordion-icon" fill="none" viewBox="0 0 22 22" height="22" width="22" xmlns="http://www.w3.org/2000/svg"><path fill="#4372D6" d="M12.9841 12.8664L20.1104 12.8995C20.5081 12.8995 20.8727 12.5349 20.8727 12.1371V10.4799C20.8727 10.0821 20.5081 9.71752 20.1104 9.71752L12.9841 9.75066V2.59121C12.9841 2.19346 12.6195 1.82886 12.2217 1.82886H10.5644C10.1667 1.82886 9.80208 2.19346 9.80208 2.59121L9.83522 9.71752H2.67577C2.27802 9.71752 1.91342 10.0821 1.91342 10.4799V12.1371C1.91342 12.5349 2.27802 12.8995 2.67577 12.8995H9.83522L9.80208 20.0258C9.80208 20.4236 10.1667 20.7882 10.5644 20.7882H12.2217C12.6195 20.7882 12.9841 20.4236 12.9841 20.0258V12.8664Z"></path></svg><svg class="close-accordion-icon" fill="none" viewBox="0 0 21 22" height="22" width="21" xmlns="http://www.w3.org/2000/svg"><path fill="#4372D6" d="M12.7266 11.2849L17.7891 6.26929C18.0703 5.98804 18.0703 5.47241 17.7891 5.19116L16.6172 4.01929C16.3359 3.73804 15.8203 3.73804 15.5391 4.01929L10.5234 9.08179L5.46094 4.01929C5.17969 3.73804 4.66406 3.73804 4.38281 4.01929L3.21094 5.19116C2.92969 5.47241 2.92969 5.98804 3.21094 6.26929L8.27344 11.2849L3.21094 16.3474C2.92969 16.6287 2.92969 17.1443 3.21094 17.4255L4.38281 18.5974C4.66406 18.8787 5.17969 18.8787 5.46094 18.5974L10.5234 13.5349L15.5391 18.5974C15.8203 18.8787 16.3359 18.8787 16.6172 18.5974L17.7891 17.4255C18.0703 17.1443 18.0703 16.6287 17.7891 16.3474L12.7266 11.2849Z"></path></svg>
-                </label>
-                <div class="accordion-content">
-                    <div class="feature-center">
-                        <img alt="" src="https://i.ibb.co/NCH2BfN/Frame-172.png">
-                        <div class="spacer-24"></div>
-                        <div>
-                            <a href="https://www.google.com.sg/" class="button secondary">
-                                BUTTON
-                            </a>
-                            <a href="https://www.google.com.sg/" class="button primary">
-                                BUTTON
-                            </a>
-                        </div>
-                        <div class="spacer-24"></div>
-                        <span class="text-body-2">
-                            [body 2] Lorem ipsum dolor sit amet consectetur. Mollis in augue tincidunt eget mauris sed nibh non sed. Ultricies tellus nibh proin congue ullamcorper egestas duis massa dui. A leo facilisis vitae faucibus lorem vitae egestas. Rhoncus id ut magna nisi malesuada id egestas viverra netus. A faucibus cras ornare risus. Pellentesque aliquam sit pretium libero sagittis venenatis posuere fringilla lectus. <br><br>
-                            Molestie ullamcorper consectetur at risus mattis dictum. Augue sed amet pharetra blandit sagittis interdum diam. Neque arcu justo egestas felis. Curabitur velit elementum venenatis volutpat faucibus mi leo. Dictum morbi eu lacus enim convallis. Pretium morbi at non ultrices. Non nascetur mi risus platea at parturient. Neque donec turpis nisi neque sed quis nullam.
-                        </span>
-                    </div>
-                </div>
-                <input type="checkbox" id="title3">
-                <label for="title3">
-                    <h5>[H5] Nam tempor in iorem nec ornare in turpis dolor eueuismod gravida</h5>
-                    <svg class="open-accordion-icon" fill="none" viewBox="0 0 22 22" height="22" width="22" xmlns="http://www.w3.org/2000/svg"><path fill="#4372D6" d="M12.9841 12.8664L20.1104 12.8995C20.5081 12.8995 20.8727 12.5349 20.8727 12.1371V10.4799C20.8727 10.0821 20.5081 9.71752 20.1104 9.71752L12.9841 9.75066V2.59121C12.9841 2.19346 12.6195 1.82886 12.2217 1.82886H10.5644C10.1667 1.82886 9.80208 2.19346 9.80208 2.59121L9.83522 9.71752H2.67577C2.27802 9.71752 1.91342 10.0821 1.91342 10.4799V12.1371C1.91342 12.5349 2.27802 12.8995 2.67577 12.8995H9.83522L9.80208 20.0258C9.80208 20.4236 10.1667 20.7882 10.5644 20.7882H12.2217C12.6195 20.7882 12.9841 20.4236 12.9841 20.0258V12.8664Z"></path></svg><svg class="close-accordion-icon" fill="none" viewBox="0 0 21 22" height="22" width="21" xmlns="http://www.w3.org/2000/svg"><path fill="#4372D6" d="M12.7266 11.2849L17.7891 6.26929C18.0703 5.98804 18.0703 5.47241 17.7891 5.19116L16.6172 4.01929C16.3359 3.73804 15.8203 3.73804 15.5391 4.01929L10.5234 9.08179L5.46094 4.01929C5.17969 3.73804 4.66406 3.73804 4.38281 4.01929L3.21094 5.19116C2.92969 5.47241 2.92969 5.98804 3.21094 6.26929L8.27344 11.2849L3.21094 16.3474C2.92969 16.6287 2.92969 17.1443 3.21094 17.4255L4.38281 18.5974C4.66406 18.8787 5.17969 18.8787 5.46094 18.5974L10.5234 13.5349L15.5391 18.5974C15.8203 18.8787 16.3359 18.8787 16.6172 18.5974L17.7891 17.4255C18.0703 17.1443 18.0703 16.6287 17.7891 16.3474L12.7266 11.2849Z"></path></svg>
-                </label>
-                <div class="accordion-content">
-                    <div class="feature-center">
-                        <img alt="" src="https://i.ibb.co/NCH2BfN/Frame-172.png">
-                        <div class="spacer-24"></div>
-                        <div>
-                            <a href="https://www.google.com.sg/" class="button secondary">
-                                BUTTON
-                            </a>
-                            <a href="https://www.google.com.sg/" class="button primary">
-                                BUTTON
-                            </a>
-                        </div>
-                        <div class="spacer-24"></div>
-                        <span class="text-body-2">
-                            [body 2] Lorem ipsum dolor sit amet consectetur. Mollis in augue tincidunt eget mauris sed nibh non sed. Ultricies tellus nibh proin congue ullamcorper egestas duis massa dui. A leo facilisis vitae faucibus lorem vitae egestas. Rhoncus id ut magna nisi malesuada id egestas viverra netus. A faucibus cras ornare risus. Pellentesque aliquam sit pretium libero sagittis venenatis posuere fringilla lectus. <br><br>
-                            Molestie ullamcorper consectetur at risus mattis dictum. Augue sed amet pharetra blandit sagittis interdum diam. Neque arcu justo egestas felis. Curabitur velit elementum venenatis volutpat faucibus mi leo. Dictum morbi eu lacus enim convallis. Pretium morbi at non ultrices. Non nascetur mi risus platea at parturient. Neque donec turpis nisi neque sed quis nullam.
-                        </span>
-                    </div>
-                </div>
-                <input type="checkbox" id="title4">
-                <label for="title4">
-                    <h5>[H5] Nam tempor in iorem nec ornare in turpis dolor eueuismod gravida</h5>
-                    <svg class="open-accordion-icon" fill="none" viewBox="0 0 22 22" height="22" width="22" xmlns="http://www.w3.org/2000/svg"><path fill="#4372D6" d="M12.9841 12.8664L20.1104 12.8995C20.5081 12.8995 20.8727 12.5349 20.8727 12.1371V10.4799C20.8727 10.0821 20.5081 9.71752 20.1104 9.71752L12.9841 9.75066V2.59121C12.9841 2.19346 12.6195 1.82886 12.2217 1.82886H10.5644C10.1667 1.82886 9.80208 2.19346 9.80208 2.59121L9.83522 9.71752H2.67577C2.27802 9.71752 1.91342 10.0821 1.91342 10.4799V12.1371C1.91342 12.5349 2.27802 12.8995 2.67577 12.8995H9.83522L9.80208 20.0258C9.80208 20.4236 10.1667 20.7882 10.5644 20.7882H12.2217C12.6195 20.7882 12.9841 20.4236 12.9841 20.0258V12.8664Z"></path></svg><svg class="close-accordion-icon" fill="none" viewBox="0 0 21 22" height="22" width="21" xmlns="http://www.w3.org/2000/svg"><path fill="#4372D6" d="M12.7266 11.2849L17.7891 6.26929C18.0703 5.98804 18.0703 5.47241 17.7891 5.19116L16.6172 4.01929C16.3359 3.73804 15.8203 3.73804 15.5391 4.01929L10.5234 9.08179L5.46094 4.01929C5.17969 3.73804 4.66406 3.73804 4.38281 4.01929L3.21094 5.19116C2.92969 5.47241 2.92969 5.98804 3.21094 6.26929L8.27344 11.2849L3.21094 16.3474C2.92969 16.6287 2.92969 17.1443 3.21094 17.4255L4.38281 18.5974C4.66406 18.8787 5.17969 18.8787 5.46094 18.5974L10.5234 13.5349L15.5391 18.5974C15.8203 18.8787 16.3359 18.8787 16.6172 18.5974L17.7891 17.4255C18.0703 17.1443 18.0703 16.6287 17.7891 16.3474L12.7266 11.2849Z"></path></svg>
-                </label>
-                <div class="accordion-content">
-                    <div class="feature-center">
-                        <img alt="" src="https://i.ibb.co/NCH2BfN/Frame-172.png">
-                        <div class="spacer-24"></div>
-                        <div>
-                            <a href="https://www.google.com.sg/" class="button secondary">
-                                BUTTON
-                            </a>
-                            <a href="https://www.google.com.sg/" class="button primary">
-                                BUTTON
-                            </a>
-                        </div>
-                        <div class="spacer-24"></div>
-                        <span class="text-body-2">
-                            [body 2] Lorem ipsum dolor sit amet consectetur. Mollis in augue tincidunt eget mauris sed nibh non sed. Ultricies tellus nibh proin congue ullamcorper egestas duis massa dui. A leo facilisis vitae faucibus lorem vitae egestas. Rhoncus id ut magna nisi malesuada id egestas viverra netus. A faucibus cras ornare risus. Pellentesque aliquam sit pretium libero sagittis venenatis posuere fringilla lectus. <br><br>
-                            Molestie ullamcorper consectetur at risus mattis dictum. Augue sed amet pharetra blandit sagittis interdum diam. Neque arcu justo egestas felis. Curabitur velit elementum venenatis volutpat faucibus mi leo. Dictum morbi eu lacus enim convallis. Pretium morbi at non ultrices. Non nascetur mi risus platea at parturient. Neque donec turpis nisi neque sed quis nullam.
-                        </span>
-                    </div>
-                </div>
-            </div>
-        </div>
-        <div class="section">
-            <div class="feature-center">
-                <div class="text-label-1">[Label 1] Lorem ipsum amet conse </div>
-                <h3>[H3] Lorem ipsum dolor sit amet consectetur nisl id odio</h3>
-                <div class="spacer-24"></div>
-                <div class="text-body-1">
-                    [Body 1] Lorem ipsum dolor sit amet consectetur. Laoreet condimentum aliquet adipiscing cursus enim vel volutpat egestas. Turpis aenean aenean massa pellentesque. Leo ullamcorper id purus sit habitasse parturient morbi dui enim. Tincidunt laoreet consectetur rutrum egestas faucibus malesuada congue. Commodo sagittis etiam maecenas lorem nibh habitant ultrices.
-                </div>
-                <div class="spacer-24"></div>
-                <img alt="" src="https://i.ibb.co/NCH2BfN/Frame-172.png">
-                <div class="spacer-24"></div>
-                <div>
-                    <a href="https://www.google.com.sg/" class="button secondary">
-                        BUTTON
-                    </a>
-                    <a href="https://www.google.com.sg/" class="button primary">
-                        BUTTON
-                    </a>
-                </div>
-                <div class="spacer-24"></div>
-                <div>
-                    <a href="https://www.google.com.sg/" class="button image">
-                        <img alt="" src="https://i.ibb.co/dmVMjxp/download.png">
-                    </a>
-                    <a href="https://www.google.com.sg/" class="button image">
-                        <img class="" alt="" src="https://i.ibb.co/JQxHsnk/download-1.png">
-                    </a>
-                    <a href="https://www.google.com.sg/" class="button image">
-                        <img class="" alt="" src="https://i.ibb.co/8cp3ffh/image-83.png">
-                    </a>
-                </div>
-            </div>
-        </div>
-        <div class="section">
-            <div class="text-label-1">[Label 1] Lorem ipsum amet conse </div>
-            <h3>[H3] 2 Col - Lorem ipsum ametconse massa sit eleifend</h3>
             <div class="spacer-24"></div>
-            <div class="gradient-box-container three-column">
-                <div class="gradient-box">
-                    <h4 class="text-color-white">[H4] Nam tempor in iorem nec ornare in turpis dolor eueuismod gravida iectus</h4><br>
-                    <a target="_blank" href="https://www.google.com.sg/" class="button text text-color-white">
-                        TEXT CTA 
-                        <svg fill="none" viewBox="0 0 24 24" height="24" width="24" xmlns="http://www.w3.org/2000/svg"><path stroke-linejoin="round" stroke-linecap="round" stroke-width="1.5" stroke="#B41E8E" d="M10 7L15 12L10 17"></path></svg>
-                    </a>
-                </div>
-                <div class="gradient-box">
-                    <h4 class="text-color-white">[H4] Nam tempor in iorem nec ornare in turpis dolor eueuismod gravida iectus</h4><br>
-                    <a target="_blank" href="https://www.google.com.sg/" class="button text text-color-white">
-                        TEXT CTA 
-                        <svg fill="none" viewBox="0 0 24 24" height="24" width="24" xmlns="http://www.w3.org/2000/svg"><path stroke-linejoin="round" stroke-linecap="round" stroke-width="1.5" stroke="#B41E8E" d="M10 7L15 12L10 17"></path></svg>
-                    </a>
-                </div>
-                <div class="gradient-box">
-                    <h4 class="text-color-white">[H4] Nam tempor in iorem nec ornare in turpis dolor eueuismod gravida iectus</h4><br>
-                    <a target="_blank" href="https://www.google.com.sg/" class="button text text-color-white">
-                        TEXT CTA 
-                        <svg fill="none" viewBox="0 0 24 24" height="24" width="24" xmlns="http://www.w3.org/2000/svg"><path stroke-linejoin="round" stroke-linecap="round" stroke-width="1.5" stroke="#B41E8E" d="M10 7L15 12L10 17"></path></svg>
-                    </a>
-                </div>
+            <div class="text-body-1">
+                [Body 1] Lorem ipsum dolor sit amet consectetur. Laoreet condimentum aliquet adipiscing cursus enim vel volutpat egestas. Turpis aenean aenean massa pellentesque. Leo ullamcorper id purus sit habitasse parturient morbi dui enim. Tincidunt laoreet consectetur rutrum egestas faucibus malesuada congue. Commodo sagittis etiam maecenas lorem nibh habitant ultrices.
             </div>
-        </div>
-        <div class="section">
-            <div class="text-label-1">[Label 1] Lorem ipsum amet conse </div>
-            <h3>[H3] 2 Col - Lorem ipsum ametconse massa sit eleifend</h3>
             <div class="spacer-24"></div>
-            <div class="gradient-box-container two-column">
-                <div class="gradient-box">
-                    <h4 class="text-color-white">[H4] Nam tempor in iorem nec ornare in turpis dolor eueuismod gravida iectus</h4><br>
-                    <a target="_blank" href="https://www.google.com.sg/" class="button text text-color-white">
-                        TEXT CTA 
-                        <svg fill="none" viewBox="0 0 24 24" height="24" width="24" xmlns="http://www.w3.org/2000/svg"><path stroke-linejoin="round" stroke-linecap="round" stroke-width="1.5" stroke="#B41E8E" d="M10 7L15 12L10 17"></path></svg>
-                    </a>
-                </div>
-                <div class="gradient-box">
-                    <h4 class="text-color-white">[H4] Nam tempor in iorem nec ornare in turpis dolor eueuismod gravida iectus</h4><br>
-                    <a target="_blank" href="https://www.google.com.sg/" class="button text text-color-white">
-                        TEXT CTA 
-                        <svg fill="none" viewBox="0 0 24 24" height="24" width="24" xmlns="http://www.w3.org/2000/svg"><path stroke-linejoin="round" stroke-linecap="round" stroke-width="1.5" stroke="#B41E8E" d="M10 7L15 12L10 17"></path></svg>
-                    </a>
-                </div>
+            <img alt="" src="https://i.ibb.co/NCH2BfN/Frame-172.png">
+            <div class="spacer-24"></div>
+            <div>
+                <a href="https://www.google.com.sg/" class="button secondary">
+                    BUTTON
+                </a>
+                <a href="https://www.google.com.sg/" class="button primary">
+                    BUTTON
+                </a>
+            </div>
+            <div class="spacer-24"></div>
+            <div>
+                <a href="https://www.google.com.sg/" class="button image">
+                    <img alt="" src="https://i.ibb.co/dmVMjxp/download.png">
+                </a>
+                <a href="https://www.google.com.sg/" class="button image">
+                    <img class="" alt="" src="https://i.ibb.co/JQxHsnk/download-1.png">
+                </a>
+                <a href="https://www.google.com.sg/" class="button image">
+                    <img class="" alt="" src="https://i.ibb.co/8cp3ffh/image-83.png">
+                </a>
             </div>
         </div>
-        <div class="section">
-            <div style="background-image: url(https://i.ibb.co/gdkNd7Q/wew.png);" class="image-box">
-                <div class="text-content align-left">
-                    <h3 class="text-color-white">[H3] Nam tempor in iorem nec ornare in turpis dolor</h3>
-                    <div class="text-body-1 text-color-white">
-                        [Body 1] Vestibulum tincidunt neque at elit dictum cursus. Praesent eu libero at velit vestibulum sollicitudin vel non lorem. Pellentesque vitae scelerisque, vehicula tellus.
-                    </div>
-                    <div class="spacer-16"></div>
-                    <div><a class="button bright" href="https://www.google.com.sg/">
-                        BUTTON
-                    </a></div>
-                </div>
+    </div>
+    <div class="section">
+        <div class="text-label-1">[Label 1] Lorem ipsum amet conse </div>
+        <h3>[H3] 2 Col - Lorem ipsum ametconse massa sit eleifend</h3>
+        <div class="spacer-24"></div>
+        <div class="gradient-box-container three-column">
+            <div class="gradient-box">
+                <h4 class="text-color-white">[H4] Nam tempor in iorem nec ornare in turpis dolor eueuismod gravida iectus</h4><br>
+                <a target="_blank" href="https://www.google.com.sg/" class="button text text-color-white">
+                    TEXT CTA 
+                    <svg fill="none" viewBox="0 0 24 24" height="24" width="24" xmlns="http://www.w3.org/2000/svg"><path stroke-linejoin="round" stroke-linecap="round" stroke-width="1.5" stroke="#B41E8E" d="M10 7L15 12L10 17"></path></svg>
+                </a>
+            </div>
+            <div class="gradient-box">
+                <h4 class="text-color-white">[H4] Nam tempor in iorem nec ornare in turpis dolor eueuismod gravida iectus</h4><br>
+                <a target="_blank" href="https://www.google.com.sg/" class="button text text-color-white">
+                    TEXT CTA 
+                    <svg fill="none" viewBox="0 0 24 24" height="24" width="24" xmlns="http://www.w3.org/2000/svg"><path stroke-linejoin="round" stroke-linecap="round" stroke-width="1.5" stroke="#B41E8E" d="M10 7L15 12L10 17"></path></svg>
+                </a>
+            </div>
+            <div class="gradient-box">
+                <h4 class="text-color-white">[H4] Nam tempor in iorem nec ornare in turpis dolor eueuismod gravida iectus</h4><br>
+                <a target="_blank" href="https://www.google.com.sg/" class="button text text-color-white">
+                    TEXT CTA 
+                    <svg fill="none" viewBox="0 0 24 24" height="24" width="24" xmlns="http://www.w3.org/2000/svg"><path stroke-linejoin="round" stroke-linecap="round" stroke-width="1.5" stroke="#B41E8E" d="M10 7L15 12L10 17"></path></svg>
+                </a>
             </div>
         </div>
-        <div class="section">
-            <div style="background-image: url(https://i.ibb.co/gdkNd7Q/wew.png);" class="image-box">
-                <div class="text-content align-right">
-                    <h3 class="text-color-white">[H3] Nam tempor in iorem nec ornare in turpis dolor</h3>
-                    <div class="text-body-1 text-color-white">
-                        [Body 1] Vestibulum tincidunt neque at elit dictum cursus. Praesent eu libero at velit vestibulum sollicitudin vel non lorem. Pellentesque vitae scelerisque, vehicula tellus.
-                    </div>
-                    <div class="spacer-16"></div>
-                    <div><a class="button bright" href="https://www.google.com.sg/">
-                        BUTTON
-                    </a></div>
-                </div>
+    </div>
+    <div class="section">
+        <div class="text-label-1">[Label 1] Lorem ipsum amet conse </div>
+        <h3>[H3] 2 Col - Lorem ipsum ametconse massa sit eleifend</h3>
+        <div class="spacer-24"></div>
+        <div class="gradient-box-container two-column">
+            <div class="gradient-box">
+                <h4 class="text-color-white">[H4] Nam tempor in iorem nec ornare in turpis dolor eueuismod gravida iectus</h4><br>
+                <a target="_blank" href="https://www.google.com.sg/" class="button text text-color-white">
+                    TEXT CTA 
+                    <svg fill="none" viewBox="0 0 24 24" height="24" width="24" xmlns="http://www.w3.org/2000/svg"><path stroke-linejoin="round" stroke-linecap="round" stroke-width="1.5" stroke="#B41E8E" d="M10 7L15 12L10 17"></path></svg>
+                </a>
+            </div>
+            <div class="gradient-box">
+                <h4 class="text-color-white">[H4] Nam tempor in iorem nec ornare in turpis dolor eueuismod gravida iectus</h4><br>
+                <a target="_blank" href="https://www.google.com.sg/" class="button text text-color-white">
+                    TEXT CTA 
+                    <svg fill="none" viewBox="0 0 24 24" height="24" width="24" xmlns="http://www.w3.org/2000/svg"><path stroke-linejoin="round" stroke-linecap="round" stroke-width="1.5" stroke="#B41E8E" d="M10 7L15 12L10 17"></path></svg>
+                </a>
             </div>
         </div>
-        <div class="section">
-            <div class="swap-image-container flip">
-                <div class="swap-image-box">
-                    <img alt="" src="https://i.ibb.co/hMq3WB2/transparent-bg-image-1.png">
-                    <div class="swap-image-details">
-                        <h3>[H3] Lorem ipsum dolor sit amet conse tetur</h3>
-                        <div class="text-body-2">
-                            [Body 2] Vestibulum tincidunt neque at elit dictum cursus. Praesent eu libero at velit vestibulum sollicitudin vel non lorem. Pellentesque vitae lorem scelerisque, vehicula tellus ut, vestibulum erat.
-                        </div>
-                        <div class="spacer-24"></div>
-                        <div><a class="button secondary" href="https://www.google.com.sg/">BUTTON</a></div>
-                    </div>
+    </div>
+    <div class="section">
+        <div style="background-image: url(https://i.ibb.co/gdkNd7Q/wew.png);" class="image-box">
+            <div class="text-content align-left">
+                <h3 class="text-color-white">[H3] Nam tempor in iorem nec ornare in turpis dolor</h3>
+                <div class="text-body-1 text-color-white">
+                    [Body 1] Vestibulum tincidunt neque at elit dictum cursus. Praesent eu libero at velit vestibulum sollicitudin vel non lorem. Pellentesque vitae scelerisque, vehicula tellus.
                 </div>
-                <div class="swap-image-box">
-                    <img alt="" src="https://i.ibb.co/hMq3WB2/transparent-bg-image-1.png">
-                    <div class="swap-image-details">
-                        <h3>[H3] Lorem ipsum dolor sit amet conse tetur</h3>
-                        <div class="text-body-2">
-                            [Body 2] Vestibulum tincidunt neque at elit dictum cursus. Praesent eu libero at velit vestibulum sollicitudin vel non lorem. Pellentesque vitae lorem scelerisque, vehicula tellus ut, vestibulum erat.
-                        </div>
-                        <div class="spacer-24"></div>
-                        <div><a class="button secondary" href="https://www.google.com.sg/">BUTTON</a></div>
+                <div class="spacer-16"></div>
+                <div><a class="button bright" href="https://www.google.com.sg/">
+                    BUTTON
+                </a></div>
+            </div>
+        </div>
+    </div>
+    <div class="section">
+        <div style="background-image: url(https://i.ibb.co/gdkNd7Q/wew.png);" class="image-box">
+            <div class="text-content align-right">
+                <h3 class="text-color-white">[H3] Nam tempor in iorem nec ornare in turpis dolor</h3>
+                <div class="text-body-1 text-color-white">
+                    [Body 1] Vestibulum tincidunt neque at elit dictum cursus. Praesent eu libero at velit vestibulum sollicitudin vel non lorem. Pellentesque vitae scelerisque, vehicula tellus.
+                </div>
+                <div class="spacer-16"></div>
+                <div><a class="button bright" href="https://www.google.com.sg/">
+                    BUTTON
+                </a></div>
+            </div>
+        </div>
+    </div>
+    <div class="section">
+        <div class="swap-image-container flip">
+            <div class="swap-image-box">
+                <img alt="" src="https://i.ibb.co/hMq3WB2/transparent-bg-image-1.png">
+                <div class="swap-image-details">
+                    <h3>[H3] Lorem ipsum dolor sit amet conse tetur</h3>
+                    <div class="text-body-2">
+                        [Body 2] Vestibulum tincidunt neque at elit dictum cursus. Praesent eu libero at velit vestibulum sollicitudin vel non lorem. Pellentesque vitae lorem scelerisque, vehicula tellus ut, vestibulum erat.
                     </div>
+                    <div class="spacer-24"></div>
+                    <div><a class="button secondary" href="https://www.google.com.sg/">BUTTON</a></div>
+                </div>
+            </div>
+            <div class="swap-image-box">
+                <img alt="" src="https://i.ibb.co/hMq3WB2/transparent-bg-image-1.png">
+                <div class="swap-image-details">
+                    <h3>[H3] Lorem ipsum dolor sit amet conse tetur</h3>
+                    <div class="text-body-2">
+                        [Body 2] Vestibulum tincidunt neque at elit dictum cursus. Praesent eu libero at velit vestibulum sollicitudin vel non lorem. Pellentesque vitae lorem scelerisque, vehicula tellus ut, vestibulum erat.
+                    </div>
+                    <div class="spacer-24"></div>
+                    <div><a class="button secondary" href="https://www.google.com.sg/">BUTTON</a></div>
                 </div>
             </div>
         </div>
