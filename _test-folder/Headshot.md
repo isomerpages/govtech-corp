@@ -331,6 +331,34 @@ description: ""
         max-width: 99999px;
     }
 
+    .content .iso-template .logo-boxes-container {
+        width: 100%;
+        display: flex;
+        align-items: center;
+        justify-content: center;
+        flex-wrap: wrap;
+        margin: 12px 0px;
+    }
+
+    .content .iso-template .logo-boxes {
+        width: 193px;
+        height: 108px;
+        display: flex;
+        align-items: center;
+        justify-content: center;
+        margin: 12px;
+        box-sizing: border-box;
+        padding: 0px 19px;
+        border-radius: 10px;
+        border: 1px solid #D8D9DA;
+        flex: 0 0 33.33333%;
+    }
+
+    .content .iso-template .logo-boxes > img {
+        width: 100%;
+        height: auto;
+    }
+
     @media only screen and (max-width: 768px) {
         .content .iso-template .section {
             margin-bottom: 32px
@@ -376,6 +404,14 @@ description: ""
 
         .content .iso-template .image-box > .text-content {
             max-width: 768px !important;
+        }
+
+        .content .iso-template .logo-boxes {
+            width: 152px;
+            height: 94px;
+            margin: 8px 0px;
+            padding: 0px 9px;
+            flex-wrap: 0 0 50%;
         }
     }
 </style>
