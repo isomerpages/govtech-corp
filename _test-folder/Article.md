@@ -903,28 +903,30 @@ description: ""
         </div>
     </div>
     <div class="section">
-        <div class="swap-image-container">
-            <div class="swap-image-box">
-                <img alt="" src="https://i.ibb.co/zHQ23s4/Frame-161.png">
-                <div class="swap-image-details">
-                    <h4>[H4] Lorem ipsum dolor sit amet conse tetur</h4>
-                    <div class="text-body-2">
-                        [Body 2] Vestibulum tincidunt neque at elit dictum cursus. Praesent eu libero at velit vestibulum sollicitudin vel non lorem. Pellentesque vitae lorem scelerisque, vehicula tellus ut, vestibulum erat.
-                        <br><br>
-                        Click <a target="_blank" href="https://www.google.com/">here</a> to find out more 
-                    </div>
+        <div style="background-image: url(https://i.ibb.co/gdkNd7Q/wew.png);" class="image-box">
+            <div class="text-content align-left">
+                <h3 class="text-color-white">[H3] Nam tempor in iorem nec ornare in turpis dolor</h3>
+                <div class="text-body-1 text-color-white">
+                    [Body 1] Vestibulum tincidunt neque at elit dictum cursus. Praesent eu libero at velit vestibulum sollicitudin vel non lorem. Pellentesque vitae scelerisque, vehicula tellus.
                 </div>
+                <div class="spacer-16"></div>
+                <div><a class="button bright" href="https://www.google.com.sg/">
+                    BUTTON
+                </a></div>
             </div>
-            <div class="swap-image-box">
-                <img alt="" src="https://i.ibb.co/zHQ23s4/Frame-161.png">
-                <div class="swap-image-details">
-                    <h4>[H4] Lorem ipsum dolor sit amet conse tetur</h4>
-                    <div class="text-body-2">
-                        [Body 2] Vestibulum tincidunt neque at elit dictum cursus. Praesent eu libero at velit vestibulum sollicitudin vel non lorem. Pellentesque vitae lorem scelerisque, vehicula tellus ut, vestibulum erat.
-                        <br><br>
-                        Click <a target="_blank" href="https://www.google.com/">here</a> to find out more 
-                    </div>
+        </div>
+    </div>
+    <div class="section">
+        <div style="background-image: url(https://i.ibb.co/gdkNd7Q/wew.png);" class="image-box">
+            <div class="text-content align-right">
+                <h3 class="text-color-white">[H3] Nam tempor in iorem nec ornare in turpis dolor</h3>
+                <div class="text-body-1 text-color-white">
+                    [Body 1] Vestibulum tincidunt neque at elit dictum cursus. Praesent eu libero at velit vestibulum sollicitudin vel non lorem. Pellentesque vitae scelerisque, vehicula tellus.
                 </div>
+                <div class="spacer-16"></div>
+                <div><a class="button bright" href="https://www.google.com.sg/">
+                    BUTTON
+                </a></div>
             </div>
         </div>
     </div>
