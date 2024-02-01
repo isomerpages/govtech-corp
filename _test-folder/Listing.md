@@ -5,111 +5,122 @@ variant: markdown
 description: ""
 ---
 <style>
-    .iso-template {
+    .content .iso-template {
         width: 100%;
         display: flex;
         flex-direction: column;
     }
 
-    .iso-template h3 {
-        color: #0061AF;
+    .content .iso-template h3 {
+        color: #0061AF !important;
         font-family: Lato;
         font-size: 32px;
         font-style: normal;
         font-weight: 700;
-        line-height: 45px;
+        line-height: 45px !important;
         margin-bottom: 0px;
         margin-top: 0px;
     }
 
-    .iso-template h4 {
-        color: #0061AF;
+    .content .iso-template h4 {
+        color: #0061AF !important;
         font-family: Lato;
         font-size: 26px;
         font-style: normal;
         font-weight: 700;
-        line-height: 32px;
+        line-height: 32px !important;
         margin-bottom: 0px;
         margin-top: 0px;
     }
 
-    .iso-template h5 {
-        color: #0061AF;
+    .content .iso-template h5 {
+        color: #0061AF !important;
         font-family: Lato;
-        font-size: 24px;
+        font-size: 22px;
         font-style: normal;
-        font-weight: 400;
-        line-height: normal;
+        font-weight: 700;
+        line-height: 30px !important;
         margin-bottom: 0px;
         margin-top: 0px;
     }
 
-    .iso-template h6 {
-        color: #0061AF;
+    .content .iso-template h6 {
+        color: #0061AF !important;
         font-family: Lato;
         font-size: 20px;
         font-style: normal;
         font-weight: 700;
         margin-bottom: 0px;
+        line-height: 20px !important;
         margin-top: 0px;
     }
     
-    .iso-template .text-label-1 {
-        color: #4D4D4F;
+    .content .iso-template .text-label-1 {
+        color: #4D4D4F !important;
         font-family: Lato;
         font-size: 16px;
         font-style: normal;
         font-weight: 400;
-        line-height: 22px; 
+        line-height: 22px !important; 
         text-transform: uppercase;
         margin-bottom: 16px;
     }
 
-    .iso-template .text-label-2 {
-        color: #4D4D4F;
+    .content .iso-template .text-label-2 {
+        color: #4D4D4F !important;
         font-family: Lato;
         font-size: 15px;
         font-style: normal;
         font-weight: 400;
-        line-height: 22px; 
+        line-height: 22px !important; 
         text-transform: uppercase;
     }
 
-    .iso-template .text-body-1 {
-        color: #4D4D4F;
+    .content .iso-template .text-body-1 {
+        color: #4D4D4F !important;
         font-family: Lato;
         font-size: 20px;
         font-style: normal;
         font-weight: 400;
-        line-height: 32px;
+        line-height: 32px !important; 
     }
 
-    .iso-template .text-body-2 {
-        color: #4D4D4F;
+    .content .iso-template .text-body-2 {
+        color: #4D4D4F !important;
         font-family: Lato;
         font-size: 16px;
         font-style: normal;
         font-weight: 400;
-        line-height: 24px; 
+        line-height: 24px !important; 
     }
 
-    .iso-template .text-note {
-        color: #4D4D4F;
+    .content .iso-template .text-note {
+        color: #4D4D4F !important;
         font-family: Lato;
         font-size: 12px;
         font-style: normal;
         font-weight: 400;
-        line-height: 20px; 
+        line-height: 20px !important; 
     }
 
-    .iso-template a {
-        color: #B41E8E;
+    .content .iso-template a {
+        color: #B41E8E !important;
         font-family: Lato;
         font-style: normal;
         font-weight: 700;
     }
 
-    .iso-template .button {
+    .content .iso-template .spacer-24 {
+        width: 100%;
+        height: 24px;
+    }
+
+    .content .iso-template .spacer-16 {
+        width: 100%;
+        height: 16px;
+    }
+
+    .content .iso-template .button {
         width: auto;
         height: auto;
         padding: 16px 20px;
@@ -120,7 +131,7 @@ description: ""
         font-size: 16px;
         font-style: normal;
         font-weight: 700;
-        line-height: 24px;
+        line-height: 24px !important; 
         text-transform: uppercase;
         cursor: pointer;
         text-decoration: none;
@@ -128,76 +139,244 @@ description: ""
         margin: 0px;
     }
 
-    .iso-template .button.primary {
+    .content .iso-template .button.primary {
         background-color: #B41E8E;
         border-color: #B41E8E;
-        color: #fff;
+        color: #fff !important;
     }
 
-    .iso-template .button.secondary {
+    .content .iso-template .button.secondary {
         background-color: transparent;
         border-color: #B41E8E;
-        color: #B41E8E;
+        color: #B41E8E !important;
     }
 
-    .iso-template .button.text {
+    .content .iso-template .button.bright {
+        background-color: #fff;
+        border-color: #fff;
+        color: #B41E8E !important;
+    }
+
+    .content .iso-template .button.text {
         background-color: transparent;
         border: none;
         padding: 0px;
-        color: #B41E8E;
+        color: #B41E8E !important;
     }
 
-    .iso-template .button > svg {
+    .content .iso-template .button.image {
+        background-color: transparent;
+        border: none;
+        padding: 0px;
+        height: 48px;
+    }
+
+    .content .iso-template .button.image > img {
+        height: 100%;
+        border-radius: 8px;
+    }
+
+    .content .iso-template .button.has-svg {
+        padding-right: 40px;
+    }
+
+    .content .iso-template .button > svg {
         display: inline;
         margin-left: 2px;
         position: absolute;
     }
 
-    .iso-template .section {
+    .content .iso-template .section .text-color-grey {
+        color: #4D4D4F !important;
+    }
+
+    .content .iso-template .section .text-color-white {
+        color: #fff !important;
+    }
+
+    .content .iso-template .section .text-align-right {
+        text-align: right !important;
+    }
+
+    .content .iso-template .section .text-align-center {
+        text-align: center !important;
+    }
+
+    .content .iso-template .section .text-align-left {
+        text-align: left !important;
+    }
+
+    .content .iso-template .section {
         width: 100%;
         position: relative;
         margin-bottom: 40px
     }
 
-    .iso-template .line-divider {
+    .content .iso-template .line-divider {
         width: 100%;
         height: 1px;
         background-color: #D8D9DA;
     }
 
+    .content .iso-template ul,
+    .content .iso-template ol {
+        margin-top: 0px
+    }
+
+    .content .iso-template ul > li,
+    .content .iso-template ol > li {
+        margin-top: 0px;
+        margin-bottom: 0px;
+        line-height: inherit;
+    }
+
+    .content .iso-template .box-two-columns {
+        width: 100%;
+        display: flex;
+        flex-direction: row;
+        padding: 24px 0px;
+        border-bottom: 1px solid #D8D9DA;
+        box-sizing: border-box;
+    }
+
+    .content .iso-template .box-two-columns:first-of-type {
+        border-top: 1px solid #D8D9DA
+    }
+
+    .content .iso-template .box-two-columns > * {
+        width: 50%;
+       
+        box-sizing: border-box;
+    }
+
+    .content .iso-template .box-two-columns > *:nth-of-type(odd) {
+        padding-right: 10px;
+    }
+
+    .content .iso-template .box-two-columns > *:nth-of-type(even) {
+        padding-left: 10px;
+    }
+
+    .content .iso-template .bp-youtube {
+        position: relative;
+        overflow: hidden;
+        padding-top: 56.25%;
+        margin-bottom: 24px;
+    }
+
+    .content .iso-template .bp-youtube iframe {
+        position: absolute;
+        top: 0;
+        left: 0;
+        width: 100%;
+        height: 100%;
+        border: 0;
+    }
+
+    .content .iso-template .infographic {
+        width: 100%;
+        height: auto;
+    }
+
+    .content .iso-template .feature-center {
+        width: 100%;
+        height: auto;
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+        text-align: center;
+    }
+
+    .content .iso-template .feature-center > img {
+        width: 100%;
+        max-width: 500px;
+        height: auto;
+        border-radius: 10px
+    }
+
+    .content .iso-template .feature-center .button {
+        margin: 0px 8px
+    }
+
+    .content .iso-template .image-box {
+        width: 100%;
+        height: auto;
+        position: relative;
+        background-position: center;
+        background-size: cover;
+        padding: 32px;
+        box-sizing: border-box;
+        display: inline-block;
+    }
+
+    .content .iso-template .image-box > .text-content {
+        width: 100%;
+        max-width: 420px;
+    }
+
+    .content .iso-template .image-box > .text-content.align-left {
+        float: left;
+    }
+
+    .content .iso-template .image-box > .text-content.align-right {
+        float: right;
+    }
+
     @media only screen and (max-width: 768px) {
-        .iso-template .section {
+        .content .iso-template .section {
             margin-bottom: 32px
         }
 
-        .iso-template h3 {
+        .content .iso-template h3 {
             font-size: 28px;
         }
 
-        .iso-template h4 {
+        .content .iso-template h4 {
             font-size: 24px;
         }
 
-        .iso-template h5 {
+        .content .iso-template h5 {
             font-size: 22px;
         }
 
-        .iso-template h6 {
+        .content .iso-template h6 {
             font-size: 22px;
         }
 
-        .iso-template .text-label-1 {
+        .content .iso-template .text-label-1 {
             margin-bottom: 8px
+        }
+
+        .content .iso-template .bp-youtube {
+            margin-bottom: 16px;
+        }
+
+        .content .iso-template .spacer-24 {
+            height: 16px;
+        }
+
+        .content .iso-template .spacer-16 {
+            height: 8px;
+        }
+
+        .content .iso-template .feature-center > img {
+            width: 100%;
+            height: auto;
+            max-width: 320px;
+        }
+
+        .content .iso-template .image-box > .text-content {
+            max-width: 768px;
         }
     }
 </style>
 <style>
-    .iso-template .card-container {
+    .content .iso-template .card-container {
         width: 100%;
         margin-top: 24px;
     }
 
-    .iso-template .card-box {
+    .content .iso-template .card-box {
         border-top: 1px solid #D8D9DA;
         width: 100%;
         height: auto;
@@ -207,153 +386,153 @@ description: ""
         flex-direction: row;
     }
 
-    .iso-template .card-box > img {
+    .content .iso-template .card-box > img {
         width: 273px;
         height: 205px;
         border-radius: 10px;
         margin: 0px
     }
 
-    .iso-template .card-details {
+    .content .iso-template .card-details {
         width: calc(100% - 273px);
         height: auto;
         box-sizing: border-box;
         padding: 0px 20px;
     }
 
-    .iso-template .card-text {
+    .content .iso-template .card-text {
         width: 100%;
         height: auto;
         float: left;
         margin-bottom: 24px
     }
 
-    .iso-template .card-title {
+    .content .iso-template .card-title {
         width: 100%;
         height: auto;
         float: left;
         margin-bottom: 8px
     }
 
-    .iso-template .card-container.two-column .card-box,
-    .iso-template .card-container.three-column .card-box {
+    .content .iso-template .card-container.two-column .card-box,
+    .content .iso-template .card-container.three-column .card-box {
         flex-direction: column;
     }
 
-    .iso-template .card-container.two-column,
-    .iso-template .card-container.three-column {
+    .content .iso-template .card-container.two-column,
+    .content .iso-template .card-container.three-column {
         display: flex;
         flex-wrap: wrap;
     }
 
-    .iso-template .card-container.two-column .card-box,
-    .iso-template .card-container.three-column .card-box {
+    .content .iso-template .card-container.two-column .card-box,
+    .content .iso-template .card-container.three-column .card-box {
         border-top: none;
         width: 100%;
         min-height: 0px;
     }
 
-    .iso-template .card-container.two-column .card-box:last-of-type,
-    .iso-template .card-container.three-column .card-box:last-of-type {
+    .content .iso-template .card-container.two-column .card-box:last-of-type,
+    .content .iso-template .card-container.three-column .card-box:last-of-type {
         border-bottom: none
     }
 
-    .iso-template .card-container.two-column .card-box > img,
-    .iso-template .card-container.three-column .card-box > img {
+    .content .iso-template .card-container.two-column .card-box > img,
+    .content .iso-template .card-container.three-column .card-box > img {
         width: 100%;
         height: auto;
         border-radius: 10px;
         margin-bottom: 24px
     }
 
-    .iso-template .card-container.two-column .card-details,
-    .iso-template .card-container.three-column .card-details {
+    .content .iso-template .card-container.two-column .card-details,
+    .content .iso-template .card-container.three-column .card-details {
         width: 100%;
         height: auto;
         padding: 0px;
     }
 
-    .iso-template .card-container.two-column .card-box {
+    .content .iso-template .card-container.two-column .card-box {
         flex: 0 0 50%;
     }
 
-    .iso-template .card-container.three-column .card-box {
+    .content .iso-template .card-container.three-column .card-box {
         flex: 0 0 33.3333%;
     }
 
-    .iso-template .card-container.two-column .card-box:nth-of-type(odd) {
+    .content .iso-template .card-container.two-column .card-box:nth-of-type(odd) {
         padding-right: 12px;
     }
 
-    .iso-template .card-container.two-column .card-box:nth-of-type(even) {
+    .content .iso-template .card-container.two-column .card-box:nth-of-type(even) {
         padding-left: 12px;
     }
 
-    .iso-template .card-container.three-column .card-box:nth-of-type(3n+1) {
+    .content .iso-template .card-container.three-column .card-box:nth-of-type(3n+1) {
         padding-right: 16px;
     }
 
-    .iso-template .card-container.three-column .card-box:nth-of-type(3n+2) {
+    .content .iso-template .card-container.three-column .card-box:nth-of-type(3n+2) {
         padding-right: 8px;
         padding-left: 8px;
     }
 
-    .iso-template .card-container.three-column .card-box:nth-of-type(3n+3) {
+    .content .iso-template .card-container.three-column .card-box:nth-of-type(3n+3) {
         padding-left: 16px;
     }
 
     @media only screen and (max-width: 768px) {
-        .iso-template .card-container {
+        .content .iso-template .card-container {
             margin-top: 0px;
         }
 
-        .iso-template .card-box {
+        .content .iso-template .card-box {
             flex-direction: column;
             padding-bottom: 0px;
         }
 
-        .iso-template .card-box {
+        .content .iso-template .card-box {
             border-top: none;
         }
 
-        .iso-template .card-box:last-of-type {
+        .content .iso-template .card-box:last-of-type {
             border-bottom: none;
         }
 
-        .iso-template .card-box > img {
+        .content .iso-template .card-box > img {
             width: 100%;
             height: auto;
             margin-bottom: 16px;
         }
 
-        .iso-template .card-details {
+        .content .iso-template .card-details {
             width: 100%;
             padding: 0px;
         }
 
-        .iso-template .card-text {
+        .content .iso-template .card-text {
             margin-bottom: 16px
         }
 
-        .iso-template .card-title {
+        .content .iso-template .card-title {
             margin-bottom: 4px
         }
 
-        .iso-template .card-container.two-column .card-box,
-        .iso-template .card-container.three-column .card-box {
+        .content .iso-template .card-container.two-column .card-box,
+        .content .iso-template .card-container.three-column .card-box {
             flex: 0 0 100%
         }
 
-        .iso-template .card-container.two-column .card-box > img,
-        .iso-template .card-container.three-column .card-box > img {
+        .content .iso-template .card-container.two-column .card-box > img,
+        .content .iso-template .card-container.three-column .card-box > img {
             margin-bottom: 16px
         }
 
-        .iso-template .card-container.two-column .card-box:nth-of-type(odd),
-        .iso-template .card-container.two-column .card-box:nth-of-type(even),
-        .iso-template .card-container.three-column .card-box:nth-of-type(3n+1),
-        .iso-template .card-container.three-column .card-box:nth-of-type(3n+2),
-        .iso-template .card-container.three-column .card-box:nth-of-type(3n+3) {
+        .content .iso-template .card-container.two-column .card-box:nth-of-type(odd),
+        .content .iso-template .card-container.two-column .card-box:nth-of-type(even),
+        .content .iso-template .card-container.three-column .card-box:nth-of-type(3n+1),
+        .content .iso-template .card-container.three-column .card-box:nth-of-type(3n+2),
+        .content .iso-template .card-container.three-column .card-box:nth-of-type(3n+3) {
             padding-right: 0px;
             padding-left: 0px;
         }
@@ -394,7 +573,7 @@ description: ""
         </a>
     </div>
     <div class="section">
-        <a href="https://www.google.com.sg/" class="button text">
+        <a target="_blank" href="https://www.google.com.sg/" class="button text">
             TEXT CTA 
             <svg fill="none" viewBox="0 0 24 24" height="24" width="24" xmlns="http://www.w3.org/2000/svg"><path stroke-linejoin="round" stroke-linecap="round" stroke-width="1.5" stroke="#B41E8E" d="M10 7L15 12L10 17"></path></svg>
         </a>
