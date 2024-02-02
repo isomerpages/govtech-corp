@@ -745,8 +745,6 @@ image: /images/Get Involved/Smart_Nation_Cityscape_GovTech_exhibition_display.jp
             <iframe allowfullscreen="" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" frameborder="0" title="YouTube video player" src="https://www.youtube.com/embed/MfkeAoVo4Vo?si=Mn1ssByy4RAiSBQw" height="315" width="560"></iframe>
         </div>
     <div class="section">
-        <div class="text-label-1">[Label 1] Lorem ipsum amet conse </div>
-        <h3>[H3] Lorem ipsum dolor sit amet consectetur nisl id odio</h3>
         <div class="info-cards-container padding-top">
             <div class="info-cards">
                 <img alt="Smart Nation CityScape GovTech exhibition display" src="/images/Get%20Involved/Smart_Nation_Cityscape_GovTech_exhibition_display.jpg">
@@ -778,6 +776,28 @@ image: /images/Get Involved/Smart_Nation_Cityscape_GovTech_exhibition_display.jp
         </div>
     </div>
     <div class="section">
+        <div class="feature-center">
+            <h3>Visitor Information</h3>
+            <div class="spacer-24"></div>
+            <div class="text-body-1">
+                Open from Mondays to Saturdays, 9am to 5pm at:
+
+<br>45 Maxwell Road
+<br>The URA Centre
+<br>Singapore 069118
+            </div>
+            <div class="spacer-24"></div>
+            <div>
+                <a href="https://go.gov.sg/cityscapetour" class="button primary">
+                    FIND TOURS
+                </a>
+                <a href="https://www.smartnation.gov.sg/files/publications/sn_cityscape_visitor's_guide.pdf" class="button secondary">
+                    DOWNLOAD GUIDE
+                </a>
+            </div>
+        </div>
+    </div>			
+    <div class="section">
         <div class="swap-image-container">
             <div class="swap-image-box">
                 <img alt="" src="https://i.ibb.co/zHQ23s4/Frame-161.png">
@@ -800,26 +820,6 @@ image: /images/Get Involved/Smart_Nation_Cityscape_GovTech_exhibition_display.jp
                         Click <a target="_blank" href="https://www.google.com/">here</a> to find out more 
                     </div>
                 </div>
-            </div>
-        </div>
-    </div>
-    <div class="section">
-        <div class="feature-center">
-            <h3>[H3] Lorem ipsum dolor sit amet consectetur nisl id odio</h3>
-            <div class="spacer-24"></div>
-            <div class="text-body-1">
-                [Body 1] Lorem ipsum dolor sit amet consectetur. Laoreet condimentum aliquet adipiscing cursus enim vel volutpat egestas. Turpis aenean aenean massa pellentesque. Leo ullamcorper id purus sit habitasse parturient morbi dui enim. Tincidunt laoreet consectetur rutrum egestas faucibus malesuada congue. Commodo sagittis etiam maecenas lorem nibh habitant ultrices.
-            </div>
-            <div class="spacer-24"></div>
-            <img alt="" src="https://i.ibb.co/NCH2BfN/Frame-172.png">
-            <div class="spacer-24"></div>
-            <div>
-                <a href="https://www.google.com.sg/" class="button secondary">
-                    BUTTON
-                </a>
-                <a href="https://www.google.com.sg/" class="button primary">
-                    BUTTON
-                </a>
             </div>
         </div>
     </div>
