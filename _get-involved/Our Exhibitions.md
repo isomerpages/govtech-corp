@@ -793,6 +793,7 @@ image: /images/Get Involved/Smart_Nation_Cityscape_GovTech_exhibition_display.jp
             </div>
         </div>
     </div>
+    <div class="section line-divider"></div>					
     <div class="section">
         <h3>Smart Nation PlayScape</h3>
     </div>
