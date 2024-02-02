@@ -806,24 +806,20 @@ image: /images/Get Involved/Smart_Nation_Cityscape_GovTech_exhibition_display.jp
     <div class="section">
         <div class="swap-image-container">
             <div class="swap-image-box">
-                <img alt="" src="https://i.ibb.co/zHQ23s4/Frame-161.png">
+                <img alt="Smart Nation PlayScape GovTech showcase robot activity" src="/images/Get%20Involved/Smart_Nation_PlayScape_GovTech_showcase_robot_activity.jpg">
                 <div class="swap-image-details">
-                    <h4>[H4] Lorem ipsum dolor sit amet conse tetur</h4>
+                    <h4>A simpler way to learn about tech</h4>
                     <div class="text-body-2">
-                        [Body 2] Vestibulum tincidunt neque at elit dictum cursus. Praesent eu libero at velit vestibulum sollicitudin vel non lorem. Pellentesque vitae lorem scelerisque, vehicula tellus ut, vestibulum erat.
-                        <br><br>
-                        Click <a target="_blank" href="https://www.google.com/">here</a> to find out more 
+                        Get to know the ins and outs of AI, VR, robotics and more by playing games and completing cool activities like programming a robot to dance and watching a robot solve a Rubik’s Cube.
                     </div>
                 </div>
             </div>
             <div class="swap-image-box">
-                <img alt="" src="https://i.ibb.co/zHQ23s4/Frame-161.png">
+                <img alt="Kids taking part in interactive activities at Smart Nation PlayScape" src="/images/Get%20Involved/Kids_interactive_activities_Smart_Nation_PlayScape.jpg">
                 <div class="swap-image-details">
-                    <h4>[H4] Lorem ipsum dolor sit amet conse tetur</h4>
+                    <h4>Fun for the whole family</h4>
                     <div class="text-body-2">
-                        [Body 2] Vestibulum tincidunt neque at elit dictum cursus. Praesent eu libero at velit vestibulum sollicitudin vel non lorem. Pellentesque vitae lorem scelerisque, vehicula tellus ut, vestibulum erat.
-                        <br><br>
-                        Click <a target="_blank" href="https://www.google.com/">here</a> to find out more 
+                        Suitable for visitors aged 10 and up, it’s the perfect opportunity for both the young and old to learn more about tech and our Smart Nation.
                     </div>
                 </div>
             </div>
