@@ -8,7 +8,13 @@ description: Navigate awkward Lunar New Year talks with tech flair! 🚀🧧 Lea
   to dazzle with 2023's key tech terms and own the conversation. 💻🐉
 variant: tiptap
 ---
-## Lunar New Year is here and so are the awkward conversations!
-You know how it goes, the conversation inevitably turns to topics revolving around your marital status, your salary and sometimes even your body weight. This Lunar New Year, take control and steer the conversation by dropping key tech terms of 2023! Find out how you can Distract, Deflect and Impress this CNY in the video below!
-
-<iframe width="560" height="315" src="https://www.youtube.com/embed/a6C5BnVdAiw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen=""></iframe>
+<h3>Lunar New Year is here and so are the awkward conversations!</h3>
+<p>You know how it goes, the conversation inevitably turns to topics revolving
+around your marital status, your salary and sometimes even your body weight.
+This Lunar New Year, take control and steer the conversation by dropping
+key tech terms of 2023! Find out how you can Distract, Deflect and Impress
+this CNY in the video below!</p>
+<div class="iframe-wrapper">
+<iframe height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/a6C5BnVdAiw"></iframe>
+</div>
+<p></p>
