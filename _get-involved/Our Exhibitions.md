@@ -741,10 +741,6 @@ image: /images/Get Involved/Smart_Nation_Cityscape_GovTech_exhibition_display.jp
         <span class="text-body-1">
             Our work at GovTech impacts every part of your daily life. Learn more about the initiatives that improve the way you live, work and play at this immersive exhibition.<br><br>
     <div class="section">
-        <div class="bp-youtube">
-            <iframe allowfullscreen="" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" frameborder="0" title="YouTube video player" src="https://www.youtube.com/embed/MfkeAoVo4Vo?si=Mn1ssByy4RAiSBQw" height="315" width="560"></iframe>
-        </div>
-    <div class="section">
         <div class="info-cards-container padding-top">
             <div class="info-cards">
                 <img alt="Smart Nation CityScape GovTech exhibition display" src="/images/Get%20Involved/Smart_Nation_Cityscape_GovTech_exhibition_display.jpg">
@@ -796,7 +792,17 @@ image: /images/Get Involved/Smart_Nation_Cityscape_GovTech_exhibition_display.jp
                 </a>
             </div>
         </div>
-    </div>			
+    </div>
+    <div class="section">
+        <h3>Smart Nation PlayScape</h3>
+    </div>
+    <div class="section">
+        <span class="text-body-1">
+            New technologies are constantly coming into our lives. With this tech exhibition, you can deepen your knowledge about the latest tech in fun and interactive ways.<br><br>			
+    <div class="section">
+        <div class="bp-youtube">
+            <iframe allowfullscreen="" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" frameborder="0" title="YouTube video player" src="https://www.youtube.com/embed/CId3K2e2dmk?si=-Fmrd3Ev4SBsF64w" height="315" width="560"></iframe>
+        </div>					
     <div class="section">
         <div class="swap-image-container">
             <div class="swap-image-box">
@@ -823,4 +829,4 @@ image: /images/Get Involved/Smart_Nation_Cityscape_GovTech_exhibition_display.jp
             </div>
         </div>
     </div>
-</div></span></div></div>
+</div></span></div></span></div></div>
