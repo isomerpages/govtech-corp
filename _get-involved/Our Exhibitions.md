@@ -822,7 +822,29 @@ image: /images/Get Involved/Smart_Nation_Cityscape_GovTech_exhibition_display.jp
                         Suitable for visitors aged 10 and up, it’s the perfect opportunity for both the young and old to learn more about tech and our Smart Nation.
                     </div>
                 </div>
-            </div>
+           </div>
         </div>
     </div>
-</div></span></div></span></div></div>
+</div>
+    <div class="section">
+        <div class="feature-center">
+            <h3>Visitor Information</h3>
+            <div class="spacer-24"></div>
+            <div class="text-body-1">
+                Open from Tuesdays to Sundays, 10am to 5pm at:
+
+<br>Science Centre Singapore
+<br>15 Science Centre Road
+<br>Singapore 609081
+            </div>
+            <div class="spacer-24"></div>
+            <div>
+                <a href="https://go.gov.sg/cityscapetour" class="button primary">
+                    FIND TOURS
+                </a>
+                <a href="https://www.smartnation.gov.sg/files/publications/sn_cityscape_visitor's_guide.pdf" class="button secondary">
+                    DOWNLOAD GUIDE
+                </a>
+            </div>
+        </div>
+    </div>					</span></div></span></div></div>
