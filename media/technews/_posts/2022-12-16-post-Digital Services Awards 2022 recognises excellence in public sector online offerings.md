@@ -64,27 +64,27 @@ a necessity,” he said.</p>
 <p>In all, a total of 18 awards were presented to government agencies that
 delivered excellent functionality and usability in their digital services.
 Check out the full list of winners below.</p>
-<p><strong>Best Usability – Citizens’ Choice</strong>
+<p><strong>Best Usability – Citizens’ Choice</strong> 
 <br>MOE Corporate Website Team</p>
-<p><strong>Best Usability – Accessibility</strong>
+<p><strong>Best Usability – Accessibility</strong> 
 <br>CPFB Informational Service Team</p>
-<p><strong>Most Popular Informational Service</strong>
+<p><strong>Most Popular Informational Service</strong> 
 <br>CPFB Informational Service Team</p>
-<p><strong>Best Agency Improvement</strong>
+<p><strong>Best Agency Improvement</strong> 
 <br>Singapore Land Authority</p>
-<p><strong>Best Agency Functionality</strong>
+<p><strong>Best Agency Functionality</strong> 
 <br>S (1-5 websites): Tote Board
 <br>M (6-10 websites): Public Service Division
 <br>L (&gt;10 websites): National Environmental Agency, Singapore Land Authority</p>
-<p><strong>Best Agency Accessibility</strong>
+<p><strong>Best Agency Accessibility</strong> 
 <br>S (1-5 websites): National Security Coordination Secretariat, Tote Board
 <br>M (6-10 websites): Central Provident Fund Board
 <br>L (&gt;10 websites): National Heritage Board</p>
-<p><strong>Best Agency Search Engine Optimisation</strong>
+<p><strong>Best Agency Search Engine Optimisation</strong> 
 <br>S (1-5 websites): Tote Board
 <br>M (6-10 websites): Public Utilities Board
 <br>L (&gt;10 websites): National Heritage Board</p>
-<p><strong>Best Agency Customer Satisfaction Score for Transactional Services</strong>
+<p><strong>Best Agency Customer Satisfaction Score for Transactional Services</strong> 
 <br>S (1-5 websites): Elections Department Singapore
 <br>M (6-10 websites): Singapore Customs
 <br>L (&gt;10 websites): Ministry of Education</p>
