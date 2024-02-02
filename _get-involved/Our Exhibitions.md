@@ -839,11 +839,11 @@ image: /images/Get Involved/Smart_Nation_Cityscape_GovTech_exhibition_display.jp
             </div>
             <div class="spacer-24"></div>
             <div>
-                <a href="https://go.gov.sg/cityscapetour" class="button primary">
-                    FIND TOURS
-                </a>
-                <a href="https://www.smartnation.gov.sg/files/publications/sn_cityscape_visitor's_guide.pdf" class="button secondary">
+                <a href="https://www.smartnation.gov.sg/files/publications/playscape_pamphlet.pdf" class="button primary">
                     DOWNLOAD GUIDE
+                </a>
+                <a href="https://www.gevme.com/scsonlinetickets" class="button secondary">
+                    BUY A TICKET
                 </a>
             </div>
         </div>
