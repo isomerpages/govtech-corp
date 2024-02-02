@@ -732,246 +732,46 @@ image: /images/Get Involved/Smart_Nation_Cityscape_GovTech_exhibition_display.jp
         }
     }
 </style>
+
 <div class="iso-template">
     <div class="section">
-        <h3>[H3] Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam tempor in lorem nec ornare. In in turpis dolor. Fusce feugiat, risus id euismod gravida, lectus urna fermentum nisi, ac mattis nulla velit eu quam.</h3>
-    </div>
-    <div class="section line-divider"></div>
-    <div class="section">
-        <h2>[H2] Morbi orci diam elementum et odio imperdiet facilisis</h2>
-    </div>
-    <div class="section">
-        <h3>[H3] Morbi orci diam elementum et odio imperdiet facilisis</h3>
-    </div>
-    <div class="section">
-        <h4>[H4] Morbi orci diam elementum et odio imperdiet facilisis</h4>
-    </div>
-    <div class="section">
-        <h5>[H5] Morbi orci diam elementum et odio imperdiet facilisis</h5>
+        <h3>Smart Nation CityScape</h3>
     </div>
     <div class="section">
         <span class="text-body-1">
-            [Body 1] <b>Lorem ipsum dolor</b> sit amet, consectetur adipiscing elit. Aliquam vestibulum lectus risus, id maximus nibh consectetur aliquam. In sit amet efficitur nisl. <br><br>
-            <a href="https://www.google.com.sg/">Quisque scelerisque</a> tellus vitae massa pulvinar, eu posuere diam convallis.
-        </span>
-    </div>
-    <div class="section">
-        <span class="text-body-2">
-            [Body 2] <b>Lorem ipsum dolor</b> sit amet, consectetur adipiscing elit. Aliquam vestibulum lectus risus, id maximus nibh consectetur aliquam. In sit amet efficitur nisl. <br><br>
-            <a href="https://www.google.com.sg/">Quisque scelerisque</a> tellus vitae massa pulvinar, eu posuere diam convallis.
-        </span>
-    </div>
-    <div class="section">
-        <span class="text-note">
-            [Note] <b>Lorem ipsum dolor</b> sit amet, consectetur adipiscing elit. Aliquam vestibulum lectus risus, id maximus nibh consectetur aliquam. In sit amet efficitur nisl. <br><br>
-            <a href="https://www.google.com.sg/">Quisque scelerisque</a> tellus vitae massa pulvinar, eu posuere diam convallis.
-        </span>
-    </div>
-    <div class="section">
-        <ul class="text-body-1">
-            <li>
-                [Body 1] <b>Lorem ipsum dolor</b> sit amet, consectetur adipiscing elit. Aliquam vestibulum lectus risus.
-            </li>
-            <li>
-                [Body 1] <a href="https://www.google.com.sg/">Maximus nibh</a>consectetur aliquam. In sit amet efficitur nisl. Quisque scelerisque tellus vitae massa pulvinar.
-            </li>
-            <li>
-                [Body 1] Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam vestibulum lectus risus.
-            </li>
-        </ul>
-    </div>
-    <div class="section">
-        <ul class="text-body-2">
-            <li>
-                [Body 2] <b>Lorem ipsum dolor</b> sit amet, consectetur adipiscing elit. Aliquam vestibulum lectus risus.
-            </li>
-            <li>
-                [Body 2] <a href="https://www.google.com.sg/">Maximus nibh</a>consectetur aliquam. In sit amet efficitur nisl. Quisque scelerisque tellus vitae massa pulvinar.
-            </li>
-            <li>
-                [Body 2] Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam vestibulum lectus risus.
-            </li>
-        </ul>
-    </div>
-    <div class="section">
-        <ul class="text-note">
-            <li>
-                [Note] <b>Lorem ipsum dolor</b> sit amet, consectetur adipiscing elit. Aliquam vestibulum lectus risus.
-            </li>
-            <li>
-                [Note] <a href="https://www.google.com.sg/">Maximus nibh</a>consectetur aliquam. In sit amet efficitur nisl. Quisque scelerisque tellus vitae massa pulvinar.
-            </li>
-            <li>
-                [Note] Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam vestibulum lectus risus.
-            </li>
-        </ul>
-    </div>
-    <div class="section">
-        <ol class="text-body-1">
-            <li>
-                [Body 1] <b>Lorem ipsum dolor</b> sit amet, consectetur adipiscing elit. Aliquam vestibulum lectus risus.
-            </li>
-            <li>
-                [Body 1] <a href="https://www.google.com.sg/">Maximus nibh</a>consectetur aliquam. In sit amet efficitur nisl. Quisque scelerisque tellus vitae massa pulvinar.
-            </li>
-            <li>
-                [Body 1] Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam vestibulum lectus risus.
-            </li>
-        </ol>
-    </div>
-    <div class="section">
-        <ol class="text-body-2">
-            <li>
-                [Body 2] <b>Lorem ipsum dolor</b> sit amet, consectetur adipiscing elit. Aliquam vestibulum lectus risus.
-            </li>
-            <li>
-                [Body 2] <a href="https://www.google.com.sg/">Maximus nibh</a>consectetur aliquam. In sit amet efficitur nisl. Quisque scelerisque tellus vitae massa pulvinar.
-            </li>
-            <li>
-                [Body 2] Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam vestibulum lectus risus.
-            </li>
-        </ol>
-    </div>
-    <div class="section">
-        <ol class="text-note">
-            <li>
-                [Note] <b>Lorem ipsum dolor</b> sit amet, consectetur adipiscing elit. Aliquam vestibulum lectus risus.
-            </li>
-            <li>
-                [Note] <a href="https://www.google.com.sg/">Maximus nibh</a>consectetur aliquam. In sit amet efficitur nisl. Quisque scelerisque tellus vitae massa pulvinar.
-            </li>
-            <li>
-                [Note] Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam vestibulum lectus risus.
-            </li>
-        </ol>
-    </div>
-    <div class="section">
-        <a href="https://www.google.com.sg/" class="button secondary">
-            BUTTON
-        </a>
-        <a href="https://www.google.com.sg/" class="button primary">
-            BUTTON
-        </a>
-    </div>
-    <div class="section">
-        <a target="_blank" href="https://www.google.com.sg/" class="button secondary has-svg">
-            BUTTON
-            <svg fill="none" viewBox="0 0 24 24" height="24" width="24" xmlns="http://www.w3.org/2000/svg"><path fill="#B41E8E" d="M13.75 5C13.266 5 12.875 5.39102 12.875 5.875C12.875 6.35898 13.266 6.75 13.75 6.75H16.0113L10.507 12.257C10.1652 12.5988 10.1652 13.1539 10.507 13.4957C10.8488 13.8375 11.4039 13.8375 11.7457 13.4957L17.25 7.98867V10.25C17.25 10.734 17.641 11.125 18.125 11.125C18.609 11.125 19 10.734 19 10.25V5.875C19 5.39102 18.609 5 18.125 5H13.75ZM7.1875 5.875C5.97891 5.875 5 6.85391 5 8.0625V16.8125C5 18.0211 5.97891 19 7.1875 19H15.9375C17.1461 19 18.125 18.0211 18.125 16.8125V13.75C18.125 13.266 17.734 12.875 17.25 12.875C16.766 12.875 16.375 13.266 16.375 13.75V16.8125C16.375 17.0531 16.1781 17.25 15.9375 17.25H7.1875C6.94687 17.25 6.75 17.0531 6.75 16.8125V8.0625C6.75 7.82188 6.94687 7.625 7.1875 7.625H10.25C10.734 7.625 11.125 7.23398 11.125 6.75C11.125 6.26602 10.734 5.875 10.25 5.875H7.1875Z"></path></svg>
-        </a>
-        <a target="_blank" href="https://www.google.com.sg/" class="button primary has-svg">
-            BUTTON 
-            <svg fill="none" viewBox="0 0 24 24" height="24" width="24" xmlns="http://www.w3.org/2000/svg"><path fill="white" d="M13.75 5C13.266 5 12.875 5.39102 12.875 5.875C12.875 6.35898 13.266 6.75 13.75 6.75H16.0113L10.507 12.257C10.1652 12.5988 10.1652 13.1539 10.507 13.4957C10.8488 13.8375 11.4039 13.8375 11.7457 13.4957L17.25 7.98867V10.25C17.25 10.734 17.641 11.125 18.125 11.125C18.609 11.125 19 10.734 19 10.25V5.875C19 5.39102 18.609 5 18.125 5H13.75ZM7.1875 5.875C5.97891 5.875 5 6.85391 5 8.0625V16.8125C5 18.0211 5.97891 19 7.1875 19H15.9375C17.1461 19 18.125 18.0211 18.125 16.8125V13.75C18.125 13.266 17.734 12.875 17.25 12.875C16.766 12.875 16.375 13.266 16.375 13.75V16.8125C16.375 17.0531 16.1781 17.25 15.9375 17.25H7.1875C6.94687 17.25 6.75 17.0531 6.75 16.8125V8.0625C6.75 7.82188 6.94687 7.625 7.1875 7.625H10.25C10.734 7.625 11.125 7.23398 11.125 6.75C11.125 6.26602 10.734 5.875 10.25 5.875H7.1875Z"></path></svg>
-        </a>
-    </div>
-    <div class="section">
-        <a href="https://www.google.com.sg/" class="button text">
-            TEXT CTA 
-        </a>
-    </div>
-    <div class="section">
-        <a target="_blank" href="https://www.google.com.sg/" class="button text">
-            TEXT CTA 
-            <svg fill="none" viewBox="0 0 24 24" height="24" width="24" xmlns="http://www.w3.org/2000/svg"><path stroke-linejoin="round" stroke-linecap="round" stroke-width="1.5" stroke="#B41E8E" d="M10 7L15 12L10 17"></path></svg>
-        </a>
-    </div>
-    <div class="section line-divider"></div>
-    <div class="section">
-        <div class="text-label-1">[Label 1] Lorem ipsum amet conse </div>
-        <h3>[H3] 2 Col - Lorem ipsum ametconse massa sit eleifend</h3><br>
-        <div class="text-body-1">[Body 1] Lorem ipsum dolor sit amet consectetur. In massa sit eleifend vitae ullamcorper dolor sed egestas etiam. Non ornare sit ornare imperdiet at sit sed. Massa morbi vestibulum vitae neque elit facilisis fringilla. Phasellus lacinia amet turpis morbi malesuada. Dui tincidunt justo venenatis viverra eget. Non nascetur mi risus platea at parturient. Neque donec turpis nisi neque.</div>
-    </div>
-    <div class="section">
-        <div class="box-two-columns">
-            <h5 class="text-color-grey">[H5] Lorem ipsum dolor sit amet consectetur laoreet condimentum aliquet</h5>
-            <h5 class="text-color-grey">[H5] Lorem ipsum dolor sit amet consectetur laoreet condimentum aliquet</h5>
-        </div>
-        <div class="box-two-columns">
-            <div class="text-body-2">
-                [Body 2] Lorem ipsum dolor sit amet consectetur. Laoreet condimentum aliquet adipiscing cursus enim vel volutpat egestas. Turpis aenean aenean massa pellentesque. Leo ullamcorper id purus sit habitasse.
-            </div>
-            <div class="text-body-2">
-                <a href="https://www.google.com.sg/">
-                    [Body 2] Lorem ipsum dolor sit amet consectetur. Laoreet condimentum aliquet adipiscing cursus enim vel volutpat egestas. Turpis aenean aenean massa pellentesque. Leo ullamcorper id purus sit habitasse.
-                </a>
-            </div>
-        </div>
-        <div class="box-two-columns">
-            <div class="text-body-2">
-                [Body 2] Lorem ipsum dolor sit amet consectetur. Laoreet condimentum aliquet adipiscing cursus enim vel volutpat egestas. Turpis aenean aenean massa pellentesque. Leo ullamcorper id purus sit habitasse.
-            </div>
-            <div class="text-body-2">
-                <a href="https://www.google.com.sg/">
-                    [Body 2] Lorem ipsum dolor sit amet consectetur. Laoreet condimentum aliquet adipiscing cursus enim vel volutpat egestas. Turpis aenean aenean massa pellentesque. Leo ullamcorper id purus sit habitasse.
-                </a>
-            </div>
-        </div>
-        <div class="box-two-columns">
-            <div class="text-body-2">
-                [Body 2] Lorem ipsum dolor sit amet consectetur. Laoreet condimentum aliquet adipiscing cursus enim vel volutpat egestas. Turpis aenean aenean massa pellentesque. Leo ullamcorper id purus sit habitasse.
-            </div>
-            <div class="text-body-2">
-                <a href="https://www.google.com.sg/">
-                    [Body 2] Lorem ipsum dolor sit amet consectetur. Laoreet condimentum aliquet adipiscing cursus enim vel volutpat egestas. Turpis aenean aenean massa pellentesque. Leo ullamcorper id purus sit habitasse.
-                </a>
-            </div>
-        </div>
-        <div class="box-two-columns">
-            <div class="text-body-2">
-                [Body 2] Lorem ipsum dolor sit amet consectetur. Laoreet condimentum aliquet adipiscing cursus enim vel volutpat egestas. Turpis aenean aenean massa pellentesque. Leo ullamcorper id purus sit habitasse.
-            </div>
-            <div class="text-body-2">
-                <a href="https://www.google.com.sg/">
-                    [Body 2] Lorem ipsum dolor sit amet consectetur. Laoreet condimentum aliquet adipiscing cursus enim vel volutpat egestas. Turpis aenean aenean massa pellentesque. Leo ullamcorper id purus sit habitasse.
-                </a>
-            </div>
-        </div>
-    </div>
-    <div class="section">
-        <div class="text-label-1">[Label 1] Lorem ipsum amet conse </div>
-        <h3>[H3] 2 Col - Lorem ipsum ametconse massa sit eleifend</h3>
-    </div>
+            Our work at GovTech impacts every part of your daily life. Learn more about the initiatives that improve the way you live, work and play at this immersive exhibition.<br><br>
     <div class="section">
         <div class="bp-youtube">
             <iframe allowfullscreen="" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" frameborder="0" title="YouTube video player" src="https://www.youtube.com/embed/MfkeAoVo4Vo?si=Mn1ssByy4RAiSBQw" height="315" width="560"></iframe>
         </div>
-        <h4>
-            [H4] Lorem ipsum dolor sit amet consectetur nisl id odio nunc massa
-        </h4>
-        <div class="text-body-2">
-            [body 2] Lorem ipsum dolor sit amet consectetur. Varius adipiscing commodo purus sagittis. Tristique dui purus orci orci est. Ornare id mauris eget eu id. Sit nulla commodo vitae et dictum erat vitae metus. Sed orci vitae proin enim tempus imperdiet risus. Molestie egestas lacinia ornare aenean non tincidunt quam. At neque tellus blandit mauris id semper arcu. Senectus a interdum cursus ac quam libero id lorem erat. Eget gravida lectus fringilla nunc turpis. Vitae egestas vestibulu.
-        </div>
-    </div>
-    <div class="section">
-        <img alt="" src="https://i.ibb.co/j5qfrLs/image-63-3.jpg" class="infographic">
-    </div>
     <div class="section">
         <div class="text-label-1">[Label 1] Lorem ipsum amet conse </div>
         <h3>[H3] Lorem ipsum dolor sit amet consectetur nisl id odio</h3>
         <div class="info-cards-container padding-top">
             <div class="info-cards">
-                <img alt="" src="https://i.ibb.co/hR7bRYp/Frame-167.png">
+                <img alt="Smart Nation CityScape GovTech exhibition display" src="/images/Get%20Involved/Smart_Nation_Cityscape_GovTech_exhibition_display.jpg">
                 <div class="info-cards-details">
-                    <h5>[H5] Lorem ipsum dolor sit amet conse </h5>
+                    <h5>Singapore’s Smart Nation evolution</h5>
                     <div class="text-body-2">
-                        [Body 2] Lorem ipsum dolor sit amet consectetur. Amet venenatis mattis aliquam pharetra aenean turpis nisl.
+                        Take a historical trip through Singapore’s Smart Nation journey.
                     </div>
                 </div>
             </div>
             <div class="info-cards">
-                <img alt="" src="https://i.ibb.co/hR7bRYp/Frame-167.png">
+                <img alt="Smart Nation CityScape GovTech exhibition activity" src="/images/Get%20Involved/Smart_Nation_Cityscape_GovTech_exhibition_activities.jpg">
                 <div class="info-cards-details">
-                    <h5>[H5] Lorem ipsum dolor sit amet conse </h5>
+                    <h5>Digital services designed for you</h5>
                     <div class="text-body-2">
-                        [Body 2] Lorem ipsum dolor sit amet consectetur. Amet venenatis mattis aliquam pharetra aenean turpis nisl.
+                        Get to know more about the government digital services that were made with you in mind.
                     </div>
                 </div>
             </div>
             <div class="info-cards">
-                <img alt="" src="https://i.ibb.co/hR7bRYp/Frame-167.png">
+                <img alt="Smart Nation CityScape GovTech interactive exhibition" src="/images/Get%20Involved/Smart_Nation_Cityscape_GovTech_interactive_exhibition.jpg">
                 <div class="info-cards-details">
-                    <h5>[H5] Lorem ipsum dolor sit amet conse </h5>
+                    <h5>An interactive experience for all</h5>
                     <div class="text-body-2">
-                        [Body 2] Lorem ipsum dolor sit amet consectetur. Amet venenatis mattis aliquam pharetra aenean turpis nisl.
+                        Touch, watch and listen your way through this immersive Smart Nation showcase.
                     </div>
                 </div>
             </div>
@@ -1286,4 +1086,4 @@ image: /images/Get Involved/Smart_Nation_Cityscape_GovTech_exhibition_display.jp
             </div>
         </div>
     </div>
-</div>
+</div></span></div></div>
