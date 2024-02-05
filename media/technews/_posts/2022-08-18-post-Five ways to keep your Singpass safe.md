@@ -108,7 +108,7 @@ them that we can all do our part to protect our digital identity and data.
 The more people we can help spread the word to, the more we can keep safe
 from scammers.</p>
 <p>For more information on security measures and tips to protect your Singpass
-account, visit&nbsp;<a href="https://www.tech.gov.sg/media/technews/five-ways-to-keep-your-singpass-safe#1-dont-share-your-singpass-details-with-others" rel="noopener noreferrer nofollow" target="_blank">https://go.gov.sg/even-safer-singpass</a>
+account, visit&nbsp;<a href="https://www.tech.gov.sg/media/technews/five-ways-to-keep-your-singpass-safe#1-dont-share-your-singpass-details-with-others" rel="noopener noreferrer nofollow" target="_blank">https://go.gov.sg/even-safer-singpass</a> 
 <a href="https://go.gov.sg/even-safer-singpass" class="editor-rtfLink" rel="noopener noreferrer nofollow" target="_blank">.</a>
 </p>
 <p>Together, we can keep scammers at bay!</p>
