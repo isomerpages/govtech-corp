@@ -52,6 +52,9 @@ lessons for children of different age groups. But better still, there are
 also tons of free learning materials online.</p>
 <p>Case in point, check out our very own&nbsp;<a href="https://www.youtube.com/c/GovTechSG" class="editor-rtfLink" rel="noopener noreferrer nofollow" target="_blank">GovTech YouTube channel</a>,
 which has instructional videos aimed at teaching children how to code.</p>
+<div class="iframe-wrapper">
+<iframe height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/MfkeAoVo4Vo?si=OKQpZ9XLvei2Ab92"></iframe>
+</div>
 <p>And if you think Python or Java are too intimidating for your child, fret
 not as lessons primarily use programming languages aimed at children such
 as Scratch.</p>
