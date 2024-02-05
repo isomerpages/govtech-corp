@@ -15,7 +15,7 @@ new level of convenience to everyday activities like checking our bank
 account balances and grocery shopping. Yet this increasing dependence on
 tech also means that there are more opportunities for bad actors to prey
 on potential victims.</p>
-<p>Indeed, hacks and scams are on the rise in Singapore. For instance, scam&nbsp;
+<p>Indeed, hacks and scams are on the rise in Singapore. For instance, scam
 <a href="https://www.straitstimes.com/singapore/courts-crime/victims-lost-6333-million-to-scams-in-2021" class="editor-rtfLink" rel="noopener noreferrer nofollow" target="_blank">victims here lost $633.3 million in 2021</a>, 2.5 times the amount the
 previous year. There has also been a&nbsp;<a href="https://www.todayonline.com/singapore/surge-singapore-linked-botnet-drones-used-cyber-criminals-hack-household-devices-report" class="editor-rtfLink" rel="noopener noreferrer nofollow" target="_blank">surge in the hacking of internet-linked household devices.</a>
 </p>
@@ -28,6 +28,9 @@ but knowing the difference means you know how these crimes are committed
 and gives you a better chance of detecting and avoiding them. Think you
 can spot one from the other? Jaga, our cyber and data security mascot,
 will put your knowledge to the test with this handy quiz below!</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Super Jaga to educate users on the difference between hacks and scams" src="/images/technews/Hacked_or_Scammed___1_.png">
+</div>
 <p><em>Super Jaga to the rescue</em>
 </p>
 <h3>Scenario 1:</h3>
@@ -96,10 +99,19 @@ sceptical when asked to transfer money. Why didn’t that person turn to
 other family or friends? If you’ve never met in real life, chances are
 the person might not be who he or she claims to be.</p>
 <h3>How did you fare?</h3>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Super Jaga giving a thumbs up" src="/images/technews/Hacked_or_Scammed___2_.png">
+</div>
 <p>5/5 – Perfect! You’re up to date with the different forms of dangers online
 and can avoid such harm.</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="A wounded Super Jaga" src="/images/technews/Hacked_or_Scammed___3_.png">
+</div>
 <p>3-4/5 – Good, you’re familiar with cyber threats, but some things may
 slip past you.</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="An alarmed Super Jaga" src="/images/technews/Hacked_or_Scammed___4_.png">
+</div>
 <p>0-2/5 – There should be alarm bells ringing in your head! Your lack of
 awareness of scams and hacks makes you vulnerable to them. Stay safe online
 by reading up more about&nbsp;<a href="https://www.imda.gov.sg/seniorsgodigital/-/media/Seniors-Go-Digital/PDF/pdf4/Staying%20Safe%20Online.pdf" class="editor-rtfLink" rel="noopener noreferrer nofollow" target="_blank">scams</a>&nbsp;and
