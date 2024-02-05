@@ -2,6 +2,7 @@ collections:
   test-folder:
     output: true
     order:
+      - Templates/.keep
       - Persona.md
       - Listing.md
       - Informative.md
