@@ -11,17 +11,9 @@ variant: tiptap
 ---
 <p>Hands up if you’ve ever heard of the SIM card. Yes, we see that all of
 you are reaching for the sky.</p>
-<table>
-<tbody>
-<tr>
-<th rowspan="1" colspan="1">
 <div class="iframe-wrapper">
-<iframe height="400" width="700" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/G5wANyk3Fv0?si=Hd8uQ_XDa7CQ6BEL"></iframe>
+<iframe height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/G5wANyk3Fv0?si=QaCwZDPGN3ivM60R"></iframe>
 </div>
-</th>
-</tr>
-</tbody>
-</table>
 <p>Now, hands up if you know what SIM stands for. Chances are, there aren’t
 many hands left up. Even though SIM cards have been by our side since the
 time we owned our first mobile phones, there is precious little we know
