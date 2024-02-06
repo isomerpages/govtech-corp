@@ -62,10 +62,6 @@ third_nav_title: Students and Graduates
 <script src="//www.instagram.com/embed.js" async="true"></script>
 </div>
 <p></p>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
 <p>Image at 50% width</p>
 <p></p>
 <div class="isomer-image-wrapper">
