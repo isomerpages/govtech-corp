@@ -610,7 +610,6 @@ variant: markdown
            Embrace your new role as a changemaker. From digital services that bring convenience to the masses to critical inventions for navigating unforeseen crises, the multifaceted projects you undertake will serve and impact the public.<br>
 					 </span></div>
             <a href="https://www.google.com.sg/">Quisque scelerisque</a> tellus vitae massa pulvinar, eu posuere diam convallis.
-        
     </div>
     <div class="section">
         <span class="text-body-2">
