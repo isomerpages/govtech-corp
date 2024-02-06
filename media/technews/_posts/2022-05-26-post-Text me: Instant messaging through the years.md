@@ -10,7 +10,7 @@ description: Uncover the history of instant messaging, from IRC to WhatsApp and
 variant: tiptap
 ---
 <p>If we want to talk about instant messaging, we have got to mention Blackberry.
-Once so popular and addictive that it was nicknamed the Crackberry, Blackberry&nbsp;
+Once so popular and addictive that it was nicknamed the Crackberry, Blackberry
 <a href="https://www.theguardian.com/technology/2022/jan/03/blackberry-discontinue-service-classic" class="editor-rtfLink" rel="noopener noreferrer nofollow" target="_blank">pulled the plug</a>&nbsp;on its smartphones in January 2022.</p>
 <p>The devices with physical qwerty keyboards were once the staple of white-collar
 professionals and even former US president Barack Obama couldn’t <a href="https://money.cnn.com/2014/05/22/technology/security/nsa-obama-blackberry/index.html" class="editor-rtfLink" rel="noopener noreferrer nofollow" target="_blank">put his down</a>.
