@@ -94,10 +94,7 @@ third_nav_title: Students and Graduates
 <table>
 <tbody>
 <tr>
-<td rowspan="1" colspan="1">
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Placeholders/Screenshot_2023_11_10_at_12_20_50_PM.png">
-</div>
+<td rowspan="1" colspan="1"><a class="isomer-image-wrapper" href="https://www.google.com/"><img style="width: 100%" height="auto" width="100%" alt="" src="/images/Placeholders/Screenshot_2023_11_10_at_12_20_50_PM.png"></a>
 </td>
 <td rowspan="1" colspan="1">
 <p>Text</p>
@@ -107,10 +104,7 @@ third_nav_title: Students and Graduates
 <td rowspan="1" colspan="1">
 <p>Text</p>
 </td>
-<td rowspan="1" colspan="1">
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Placeholders/Screenshot_2023_11_10_at_12_20_50_PM.png">
-</div>
+<td rowspan="1" colspan="1"><a class="isomer-image-wrapper" href="https://www.google.com/"><img style="width: 100%" height="auto" width="100%" alt="" src="/images/Placeholders/Screenshot_2023_11_10_at_12_20_50_PM.png"></a>
 </td>
 </tr>
 </tbody>
