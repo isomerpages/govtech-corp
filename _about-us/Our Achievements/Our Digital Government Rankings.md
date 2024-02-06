@@ -7,7 +7,7 @@ description: Discover how GovTech has propelled Singapore into the global
 third_nav_title: Our Achievements
 variant: markdown
 ---
-Nations all over the world look up to Singapore for its innovative digital government. GovTech will continue to transform the way we live through technology as part of Singapore’s Smart Nation initiative.
+> Nations all over the world look up to Singapore for its innovative digital government. GovTech will continue to transform the way we live through technology as part of Singapore’s Smart Nation initiative.
 
 ## Our ranking in the United Nations e-Government Survey
 
