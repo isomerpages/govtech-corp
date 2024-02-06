@@ -58,5 +58,31 @@ third_nav_title: Students and Graduates
 <img style="width: 50%;" height="auto" width="100%" alt="playscape" src="/images/Get Involved/Smart_Nation_PlayScape_GovTech_showcase_robot_activity.jpg">
 </div>
 <p></p>
-<hr>
+<table>
+<tbody>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Text</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Placeholders/Screenshot_2023_11_10_at_12_20_50_PM.png">
+</div>
+<p>Text</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Text</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Placeholders/Screenshot_2023_11_10_at_12_20_50_PM.png">
+</div>
+<p>Text</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Text</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Placeholders/Screenshot_2023_11_10_at_12_20_50_PM.png">
+</div>
+<p>Text</p>
+</td>
+</tr>
+</tbody>
+</table>
 <p></p>
