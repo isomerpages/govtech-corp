@@ -51,4 +51,10 @@ third_nav_title: Students and Graduates
 </blockquote>
 <script src="//www.instagram.com/embed.js" async="true"></script>
 </div>
+<hr>
+<p></p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 50%;" height="auto" width="100%" alt="playscape" src="/images/Get Involved/Smart_Nation_PlayScape_GovTech_showcase_robot_activity.jpg">
+</div>
 <p></p>
