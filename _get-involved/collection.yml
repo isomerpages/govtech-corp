@@ -2,6 +2,7 @@ collections:
   get-involved:
     output: true
     order:
+      - Stay Informed (New Editor).md
       - "Join Our Communities/For Citizens: Tech Kaki (new editor).md"
       - Join Our Communities/.keep
       - Join Our Communities/Overview.md
