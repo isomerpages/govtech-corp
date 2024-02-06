@@ -22,6 +22,7 @@ a revolutionary change from voice calls at one point in time.</p>
 <p>And instant messaging itself has seen various shifts in how we communicate:
 from plain texts to winks, voice messages to stickers. We take a look at
 how instant messaging has evolved across the years.</p>
+<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="Instant messaging app" src="/images/technews/Text_me__Instant_messaging_through_the_years.jpg">
 </div>
