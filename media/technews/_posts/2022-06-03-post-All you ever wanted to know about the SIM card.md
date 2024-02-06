@@ -12,7 +12,7 @@ variant: tiptap
 <p>Hands up if you’ve ever heard of the SIM card. Yes, we see that all of
 you are reaching for the sky.</p>
 <div class="iframe-wrapper">
-<iframe height="550" width="900" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/G5wANyk3Fv0"></iframe>
+<iframe height="550" width="900" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/G5wANyk3Fv0?si=Hd8uQ_XDa7CQ6BEL"></iframe>
 </div>
 <p>Now, hands up if you know what SIM stands for. Chances are, there aren’t
 many hands left up. Even though SIM cards have been by our side since the
