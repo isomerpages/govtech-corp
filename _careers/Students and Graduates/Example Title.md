@@ -171,12 +171,16 @@ third_nav_title: Students and Graduates
 <td rowspan="1" colspan="1"><a class="isomer-image-wrapper" href="https://www.google.com/"><img style="width: 100%" height="auto" width="100%" alt="" src="/images/Placeholders/Screenshot_2023_11_10_at_12_20_50_PM.png"></a>
 </td>
 <td rowspan="1" colspan="1">
-<p>Text</p>
+<h4><strong>Mr Leong Weng Keong Joseph Lorem Lipsup</strong></h4>
+<p></p>
+<p>Department/Division - consectetur. Amet venenatis mattis at</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Text</p>
+<h4><strong>Mr Leong Weng Keong Joseph Lorem Lipsup</strong></h4>
+<p></p>
+<p>Department/Division - consectetur. Amet venenatis mattis at</p>
 </td>
 <td rowspan="1" colspan="1"><a class="isomer-image-wrapper" href="https://www.google.com/"><img style="width: 100%" height="auto" width="100%" alt="" src="/images/Placeholders/Screenshot_2023_11_10_at_12_20_50_PM.png"></a>
 </td>
