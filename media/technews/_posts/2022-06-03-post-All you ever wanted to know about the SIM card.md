@@ -19,7 +19,7 @@ many hands left up. Even though SIM cards have been by our side since the
 time we owned our first mobile phones, there is precious little we know
 about them (including the tidbit that SIM stands for Subscriber Identity
 Module).</p>
-<p>And this is a pity, because this fundamental piece of technology has enabled
+<p>And this is a pity because this fundamental piece of technology has enabled
 us to store our contacts, make calls, and send text messages over the decades.
 So if you want to stop taking it for granted and learn about the history
 of the SIM card, you’ve come to the right place!</p>
