@@ -48,7 +48,6 @@ study which inspired design changes for the app.</p>
 <tr>
 <td rowspan="1" colspan="1">
 <h4>A smoother LifeSG inbox experience</h4>
-<p></p>
 <p>The inbox design for the app was enhanced so citizens could search for
 applications more easily. This was done by engaging over 100 Tech Kaki
 members, who shared their views and needs around the app.</p>
@@ -65,13 +64,23 @@ members, who shared their views and needs around the app.</p>
 </div>
 </td>
 <td rowspan="1" colspan="1">
-<p>Appreciation events for our members</p>
-<p></p>
-<p></p>
+<h4>Appreciation events for our members</h4>
+<p>Annual networking events are organised to celebrate the impact of our
+Tech Kaki community. It's a great chance for our members to network and
+share more about their contributions towards GovTech.</p>
 </td>
 </tr>
 </tbody>
 </table>
-<p></p>
-<p></p>
-<p></p>
+<h4>Join our community</h4>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Tech Kaki team appreciation dinner" src="/images/Get Involved/Tech_Kaki_Appreciation_Dinner.jpg">
+</div>
+<p><a href="https://www.tech.gov.sg/products-and-services/tech-kaki-community/" rel="noopener noreferrer nofollow" target="_blank">Connect</a> with
+us and receive opportunities for co-creation, right in your email inbox.</p>
+<h4>Stay updated on social media</h4>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Tech Kaki logo" src="/images/Get Involved/Tech_Kaki_Facebook_logo.jpeg">
+</div>
+<p>Keep up to date with Tech Kaki happenings when you join our community
+on <a href="https://www.facebook.com/TechKaki/" rel="noopener noreferrer nofollow" target="_blank">Facebook</a>.</p>
