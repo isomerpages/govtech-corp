@@ -69,6 +69,68 @@ third_nav_title: Students and Graduates
 <div class="isomer-image-wrapper">
 <img style="width: 50%;" height="auto" width="100%" alt="playscape" src="/images/Get Involved/Smart_Nation_PlayScape_GovTech_showcase_robot_activity.jpg">
 </div>
+<table>
+<tbody>
+<tr>
+<td rowspan="2" colspan="1"><a class="isomer-image-wrapper" href="https://www.google.com/"><img style="width: 100%;" height="auto" width="100%" alt="" src="/images/Placeholders/Screenshot_2023_11_10_at_12_20_50_PM.png"></a>
+</td>
+<td rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="width: 20%;" height="auto" width="100%" alt="" src="/images/tracetogethertest1.jpg">
+</div>
+</td>
+</tr>
+<tr>
+<th rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="width: 20%;" height="auto" width="100%" alt="playscape" src="/images/Get Involved/Smart_Nation_PlayScape_GovTech_showcase_robot_activity.jpg">
+</div>
+</th>
+</tr>
+</tbody>
+</table>
+<table>
+<tbody>
+<tr>
+<th rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="width: 100%;" height="auto" width="100%" alt="" src="/images/wogaa-logo1.png">
+</div>
+</th>
+<th rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="width: 100%;" height="auto" width="100%" alt="" src="/images/wogaa-logo1.png">
+</div>
+</th>
+<th rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="width: 100%;" height="auto" width="100%" alt="" src="/images/wogaa-logo1.png">
+</div>
+</th>
+</tr>
+</tbody>
+</table>
+<table>
+<tbody>
+<tr>
+<th rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="width: 100%;" height="auto" width="100%" alt="" src="/images/wogaa-logo1.png">
+</div>
+</th>
+<th rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="width: 100%;" height="auto" width="100%" alt="" src="/images/wogaa-logo1.png">
+</div>
+</th>
+<th rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="width: 100%;" height="auto" width="100%" alt="" src="/images/wogaa-logo1.png">
+</div>
+</th>
+</tr>
+</tbody>
+</table>
 <p></p>
 <p>1 row table layout</p>
 <p></p>
