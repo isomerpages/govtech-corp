@@ -27,6 +27,7 @@ member.</p>
 Kaki. As part of our community, you’ll be involved in government research
 to address government feedback and co-create better products and services
 for all.</p>
+<p></p>
 <table>
 <tbody>
 <tr>
@@ -64,6 +65,8 @@ members, who shared their views and needs around the app.</p>
 </div>
 </td>
 <td rowspan="1" colspan="1">
+<p>Appreciation events for our members</p>
+<p></p>
 <p></p>
 </td>
 </tr>
