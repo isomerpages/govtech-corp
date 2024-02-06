@@ -73,13 +73,13 @@ share more about their contributions towards GovTech.</p>
 </table>
 <h4>Join our community</h4>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Tech Kaki team appreciation dinner" src="/images/Get Involved/Tech_Kaki_Appreciation_Dinner.jpg">
+<img style="width: 60%;" height="auto" width="100%" alt="Tech Kaki team appreciation dinner" src="/images/Get Involved/Tech_Kaki_Appreciation_Dinner.jpg">
 </div>
 <p><a href="https://www.tech.gov.sg/products-and-services/tech-kaki-community/" rel="noopener noreferrer nofollow" target="_blank">Connect</a> with
 us and receive opportunities for co-creation, right in your email inbox.</p>
 <h4>Stay updated on social media</h4>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Tech Kaki logo" src="/images/Get Involved/Tech_Kaki_Facebook_logo.jpeg">
+<img style="width: 60%;" height="auto" width="100%" alt="Tech Kaki logo" src="/images/Get Involved/Tech_Kaki_Facebook_logo.jpeg">
 </div>
 <p>Keep up to date with Tech Kaki happenings when you join our community
 on <a href="https://www.facebook.com/TechKaki/" rel="noopener noreferrer nofollow" target="_blank">Facebook</a>.</p>
