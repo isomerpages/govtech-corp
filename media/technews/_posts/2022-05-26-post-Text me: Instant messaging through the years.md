@@ -13,9 +13,9 @@ variant: tiptap
 Once so popular and addictive that it was nicknamed the Crackberry, Blackberry&nbsp;
 <a href="https://www.theguardian.com/technology/2022/jan/03/blackberry-discontinue-service-classic" class="editor-rtfLink" rel="noopener noreferrer nofollow" target="_blank">pulled the plug</a>&nbsp;on its smartphones in January 2022.</p>
 <p>The devices with physical qwerty keyboards were once the staple of white-collar
-professionals and even former US president Barack Obama couldn’t&nbsp;
-<a href="https://money.cnn.com/2014/05/22/technology/security/nsa-obama-blackberry/index.html" class="editor-rtfLink" rel="noopener noreferrer nofollow" target="_blank">put his down</a>. And the Blackberry Messenger (BBM) – similar to today’s
-iMessage – service ruled the roost in corporate boardrooms.</p>
+professionals and even former US president Barack Obama couldn’t <a href="https://money.cnn.com/2014/05/22/technology/security/nsa-obama-blackberry/index.html" class="editor-rtfLink" rel="noopener noreferrer nofollow" target="_blank">put his down</a>.
+And the Blackberry Messenger (BBM) – similar to today’s iMessage – service
+ruled the roost in corporate boardrooms.</p>
 <p>BBM, as the first instant messenger for mobile phones, was then deemed
 superior to the delayed and expensive SMS service. Yet SMS was seen as
 a revolutionary change from voice calls at one point in time.</p>
