@@ -171,7 +171,7 @@ iaculis eleifend pellentesque.”</p>
 <table>
 <tbody>
 <tr>
-<td rowspan="1" colspan="1"><a class="isomer-image-wrapper" href="https://www.google.com/"><img style="width: 100%" height="auto" width="100%" alt="" src="/images/Placeholders/Screenshot_2023_11_10_at_12_20_50_PM.png"></a>
+<td rowspan="1" colspan="1"><a class="isomer-image-wrapper" href="https://www.google.com/"><img style="width: 40%;" height="auto" width="100%" alt="" src="/images/Placeholders/Screenshot_2023_11_10_at_12_20_50_PM.png"></a>
 </td>
 <td rowspan="1" colspan="1">
 <h4><strong>Mr Leong Weng Keong Joseph Lorem Lipsup</strong></h4>
@@ -179,18 +179,21 @@ iaculis eleifend pellentesque.”</p>
 <p>Department/Division - consectetur. Amet venenatis mattis at</p>
 </td>
 </tr>
+</tbody>
+</table>
+<table>
+<tbody>
 <tr>
 <td rowspan="1" colspan="1">
 <h4><strong>Mr Leong Weng Keong Joseph Lorem Lipsup</strong></h4>
 <p></p>
 <p>Department/Division - consectetur. Amet venenatis mattis at</p>
 </td>
-<td rowspan="1" colspan="1"><a class="isomer-image-wrapper" href="https://www.google.com/"><img style="width: 100%" height="auto" width="100%" alt="" src="/images/Placeholders/Screenshot_2023_11_10_at_12_20_50_PM.png"></a>
+<td rowspan="1" colspan="1"><a class="isomer-image-wrapper" href="https://www.google.com/"><img style="width: 40%;" height="auto" width="100%" alt="" src="/images/Placeholders/Screenshot_2023_11_10_at_12_20_50_PM.png"></a>
 </td>
 </tr>
 </tbody>
 </table>
-<p></p>
 <p></p>
 <table>
 <tbody>
