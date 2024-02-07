@@ -11,6 +11,8 @@ variant: tiptap
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="Otters as inspiration for redesigning the TraceTogether app" src="/images/technews/How_oTTers_got_into_TraceTogether__1_.jpg">
 </div>
+<p>Image by <a href="https://www.freepik.com/free-photo/closeup-shot-cute-otters-zoo_23036089.htm#query=otters&amp;position=24&amp;from_view=search&amp;track=sph&amp;uuid=794c4f47-ba82-486a-b4df-06f8daeedf4b" rel="noopener noreferrer nofollow" target="_blank">wirestock</a> on
+Freepik</p>
 <p>Love otters and how they’ve become part of Singapore’s landscape? So do
 we. So much so that users of the latest version of the TraceTogether app,
 or TT for short, will notice that we’ve incorporated a swimming otter into
