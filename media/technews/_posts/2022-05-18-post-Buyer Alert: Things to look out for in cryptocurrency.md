@@ -23,23 +23,23 @@ idea that investors should be aware of some potential pitfalls.</p>
 </p>
 <ol data-tight="true" class="tight">
 <li>
-<p><a href="https://staging-lite.d2uz1494fahfnj.amplifyapp.com/media/technews/things-to-look-out-for-in-cryptocurrency#1-high-volatility/" class="editor-rtfLink" rel="noopener noreferrer nofollow" target="_blank">High volatility</a>
+<p><a href="https://staging-lite.d2uz1494fahfnj.amplifyapp.com/media/technews/things-to-look-out-for-in-cryptocurrency#1-high-volatility" class="editor-rtfLink" rel="noopener noreferrer nofollow" target="_blank">High volatility</a>
 </p>
 </li>
 <li>
-<p><a href="https://staging-lite.d2uz1494fahfnj.amplifyapp.com/media/technews/things-to-look-out-for-in-cryptocurrency#2-outright-scams/" class="editor-rtfLink" rel="noopener noreferrer nofollow" target="_blank">Outright scams</a>
+<p><a href="https://staging-lite.d2uz1494fahfnj.amplifyapp.com/media/technews/things-to-look-out-for-in-cryptocurrency#2-outright-scams" class="editor-rtfLink" rel="noopener noreferrer nofollow" target="_blank">Outright scams</a>
 </p>
 </li>
 <li>
-<p><a href="https://staging-lite.d2uz1494fahfnj.amplifyapp.com/media/technews/things-to-look-out-for-in-cryptocurrency#3-hacked-wallets/" class="editor-rtfLink" rel="noopener noreferrer nofollow" target="_blank">Hacked wallets</a>
+<p><a href="https://staging-lite.d2uz1494fahfnj.amplifyapp.com/media/technews/things-to-look-out-for-in-cryptocurrency#3-hacked-wallets" class="editor-rtfLink" rel="noopener noreferrer nofollow" target="_blank">Hacked wallets</a>
 </p>
 </li>
 <li>
-<p><a href="https://staging-lite.d2uz1494fahfnj.amplifyapp.com/media/technews/things-to-look-out-for-in-cryptocurrency#4-forgotten-password/" class="editor-rtfLink" rel="noopener noreferrer nofollow" target="_blank">Forgotten password</a>
+<p><a href="https://staging-lite.d2uz1494fahfnj.amplifyapp.com/media/technews/things-to-look-out-for-in-cryptocurrency#4-forgotten-password" class="editor-rtfLink" rel="noopener noreferrer nofollow" target="_blank">Forgotten password</a>
 </p>
 </li>
 <li>
-<p><a href="https://staging-lite.d2uz1494fahfnj.amplifyapp.com/media/technews/things-to-look-out-for-in-cryptocurrency#5-high-potential-high-risk/" class="editor-rtfLink" rel="noopener noreferrer nofollow" target="_blank">High potential, high risk</a>
+<p><a href="https://staging-lite.d2uz1494fahfnj.amplifyapp.com/media/technews/things-to-look-out-for-in-cryptocurrency#5-high-potential-high-risk" class="editor-rtfLink" rel="noopener noreferrer nofollow" target="_blank">High potential, high risk</a>
 </p>
 </li>
 </ol>
