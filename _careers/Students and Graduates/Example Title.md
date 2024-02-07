@@ -124,20 +124,38 @@ third_nav_title: Students and Graduates
 </tbody>
 </table>
 <p></p>
-<h4>Quote </h4>
+<h4>Quote</h4>
 <blockquote>
 <p>“Lorem ipsum dolor sit amet consectetur. Nisl sapien egestas vulputate
 neque semper turpis. Tincidunt eget auctor sit fames cursus. Aliquam sollicitudin
 iaculis eleifend pellentesque.”</p>
 </blockquote>
 <p></p>
-<h4>Headshot / Info </h4>
+<h4>Headshot / Info</h4>
 <table>
 <tbody>
 <tr>
-<td rowspan="1" colspan="1"><a class="isomer-image-wrapper" href="https://www.google.com/"><img style="width: 40%;" height="auto" width="100%" alt="" src="/images/Placeholders/Screenshot_2023_11_10_at_12_20_50_PM.png"></a>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+</tbody>
+</table>
+<table>
+<tbody>
+<tr>
+<td rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="width: 50%;" height="auto" width="100%" alt="" src="/images/About Us/Diversity_Inclusion.png">
+</div>
+<h4><strong>Mr Leong Weng Keong Joseph Lorem Lipsup</strong></h4>
+<p></p>
+<p>Department/Division - consectetur. Amet venenatis mattis at</p>
 </td>
 <td rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="width: 50%;" height="auto" width="100%" alt="" src="/images/About Us/Diversity_Inclusion.png">
+</div>
 <h4><strong>Mr Leong Weng Keong Joseph Lorem Lipsup</strong></h4>
 <p></p>
 <p>Department/Division - consectetur. Amet venenatis mattis at</p>
@@ -153,7 +171,7 @@ iaculis eleifend pellentesque.”</p>
 <p></p>
 <p>Department/Division - consectetur. Amet venenatis mattis at</p>
 </td>
-<td rowspan="1" colspan="1"><a class="isomer-image-wrapper" href="https://www.google.com/"><img style="width: 40%;" height="auto" width="100%" alt="" src="/images/Placeholders/Screenshot_2023_11_10_at_12_20_50_PM.png"></a>
+<td rowspan="1" colspan="1"><a class="isomer-image-wrapper" href="https://www.google.com/"><img style="width: 60%;" height="auto" width="100%" alt="" src="/images/Placeholders/Screenshot_2023_11_10_at_12_20_50_PM.png"></a>
 </td>
 </tr>
 </tbody>
