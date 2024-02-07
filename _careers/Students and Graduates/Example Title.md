@@ -158,7 +158,7 @@ iaculis eleifend pellentesque.”</p>
 <div class="isomer-image-wrapper">
 <img style="width: 50%;" height="auto" width="100%" alt="" src="/images/About Us/Diversity_Inclusion.png">
 </div>
-<p><strong>Mr Leong Weng Keong Joseph </strong>
+<p><strong>Mr Leong Weng Keong Joseph</strong>
 </p>
 <p>Department/Division - consectetur. Amet venenatis mattis at</p>
 <hr>
