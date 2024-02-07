@@ -51,6 +51,8 @@ get a better night’s rest.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="Meditation for mindfulness" src="/images/technews/close_up_kid_meditating_mat.jpg">
 </div>
+<p>Image by <a href="https://www.freepik.com/free-photo/close-up-kid-meditating-mat_18492324.htm#query=meditation&amp;position=1&amp;from_view=search&amp;track=sph&amp;uuid=03825f09-1555-4b7a-a5fe-4b9a2f557885" rel="noopener noreferrer nofollow" target="_blank">Freepik</a>
+</p>
 <p>We’ve all seen photos and videos of people meditating. That perfect, straight-backed
 posture with legs crossed. The look of calm and focus at the same time.
 An ethereal smile across the face.</p>
@@ -76,6 +78,8 @@ home.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="Smartwatches that measure our heartrate, sleep time, health metrics" src="/images/technews/close_up_hand_wearing_smartwatch.jpg">
 </div>
+<p>Image by <a href="https://www.freepik.com/free-photo/close-up-hand-wearing-smartwatch_20078967.htm#query=smartwatch&amp;position=12&amp;from_view=search&amp;track=sph&amp;uuid=65aa5a13-46dc-43ae-82fc-91800c2a9cdb" rel="noopener noreferrer nofollow" target="_blank">Freepik</a>
+</p>
 <p>Smartwatches are becoming almost as common as smartphones. But beyond
 being techy and cool, they also provide several benefits like tracking
 heart rate, skin temperature, and electrodermal activity to assess wellbeing.</p>
