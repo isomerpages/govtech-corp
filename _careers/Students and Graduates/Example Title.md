@@ -149,7 +149,6 @@ iaculis eleifend pellentesque.”</p>
 <img style="width: 50%;" height="auto" width="100%" alt="" src="/images/About Us/Diversity_Inclusion.png">
 </div>
 <h4><strong>Mr Leong Weng Keong Joseph Lorem Lipsup</strong></h4>
-<p></p>
 <p>Department/Division - consectetur. Amet venenatis mattis at</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -157,7 +156,6 @@ iaculis eleifend pellentesque.”</p>
 <img style="width: 50%;" height="auto" width="100%" alt="" src="/images/About Us/Diversity_Inclusion.png">
 </div>
 <h4><strong>Mr Leong Weng Keong Joseph Lorem Lipsup</strong></h4>
-<p></p>
 <p>Department/Division - consectetur. Amet venenatis mattis at</p>
 </td>
 </tr>
