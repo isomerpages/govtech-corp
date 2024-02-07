@@ -252,4 +252,23 @@ iaculis eleifend pellentesque.”</p>
 <div class="iframe-wrapper">
 <iframe height="500" width="800" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/MfkeAoVo4Vo?si=Mn1ssByy4RAiSBQw"></iframe>
 </div>
+<table>
+<tbody>
+<tr>
+<th rowspan="1" colspan="1">
+<p></p>
+</th>
+<th rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="width: 30%;" height="auto" width="100%" alt="" src="/images/find_out_more.png">
+</div>
+<p></p>
+</th>
+<th rowspan="1" colspan="1">
+<p></p>
+</th>
+</tr>
+</tbody>
+</table>
+<p></p>
 <p></p>
