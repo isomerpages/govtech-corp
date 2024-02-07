@@ -22,27 +22,27 @@ along the way. You can thank us later.</p>
 </p>
 <ol data-tight="true" class="tight">
 <li>
-<p><a href="https://www.tech.gov.sg/media/technews/tech-activities-to-keep-your-kids-entertained#1-learn-coding" rel="noopener noreferrer nofollow" target="_blank"><u>Learn coding</u></a>
+<p><a href="https://staging-lite.d2uz1494fahfnj.amplifyapp.com/media/technews/tech-activities-to-keep-your-kids-entertained#1-learn-coding" rel="noopener noreferrer nofollow" target="_blank"><u>Learn coding</u></a>
 </p>
 </li>
 <li>
-<p><a href="https://www.tech.gov.sg/media/technews/tech-activities-to-keep-your-kids-entertained#2-be-a-drone-pilot" rel="noopener noreferrer nofollow" target="_blank"><u>Be a drone pilot</u></a>
+<p><a href="https://staging-lite.d2uz1494fahfnj.amplifyapp.com/media/technews/tech-activities-to-keep-your-kids-entertained#2-be-a-drone-pilot" rel="noopener noreferrer nofollow" target="_blank"><u>Be a drone pilot</u></a>
 </p>
 </li>
 <li>
-<p><a href="https://www.tech.gov.sg/media/technews/tech-activities-to-keep-your-kids-entertained#3-learn-about-3d-printing" rel="noopener noreferrer nofollow" target="_blank"><u>Learn about 3D printing</u></a>
+<p><a href="https://staging-lite.d2uz1494fahfnj.amplifyapp.com/media/technews/tech-activities-to-keep-your-kids-entertained#3-learn-about-3d-printing" rel="noopener noreferrer nofollow" target="_blank"><u>Learn about 3D printing</u></a>
 </p>
 </li>
 <li>
-<p><a href="https://www.tech.gov.sg/media/technews/tech-activities-to-keep-your-kids-entertained#4-watch-robots-in-action" rel="noopener noreferrer nofollow" target="_blank"><u>Watch robots in action</u></a>
+<p><a href="https://staging-lite.d2uz1494fahfnj.amplifyapp.com/media/technews/tech-activities-to-keep-your-kids-entertained#4-watch-robots-in-action" rel="noopener noreferrer nofollow" target="_blank"><u>Watch robots in action</u></a>
 </p>
 </li>
 <li>
-<p><a href="https://www.tech.gov.sg/media/technews/tech-activities-to-keep-your-kids-entertained#5-check-out-how-the-smart-nation-is-built" rel="noopener noreferrer nofollow" target="_blank"><u>Check out how the Smart Nation is built</u></a>
+<p><a href="https://staging-lite.d2uz1494fahfnj.amplifyapp.com/media/technews/tech-activities-to-keep-your-kids-entertained#5-check-out-how-the-smart-nation-is-built" rel="noopener noreferrer nofollow" target="_blank"><u>Check out how the Smart Nation is built</u></a>
 </p>
 </li>
 <li>
-<p><a href="https://www.tech.gov.sg/media/technews/tech-activities-to-keep-your-kids-entertained#6-follow-smart-nation-builder--a-moving-roadshow" rel="noopener noreferrer nofollow" target="_blank"><u>Follow Smart Nation Builder – a moving roadshow</u></a>
+<p><a href="https://staging-lite.d2uz1494fahfnj.amplifyapp.com/media/technews/tech-activities-to-keep-your-kids-entertained#6-follow-smart-nation-builder--a-moving-roadshow" rel="noopener noreferrer nofollow" target="_blank"><u>Follow Smart Nation Builder – a moving roadshow</u></a>
 </p>
 </li>
 </ol>
