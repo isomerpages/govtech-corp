@@ -21,28 +21,34 @@ and services meet the needs of citizens and businesses.&nbsp;</p>
 <p>You’ll get first dibs on these digital products and services as one of
 us. Read on to explore the potential of your contributions as a Tech Kaki
 member.</p>
-<h4>A small community with a big impact</h4>
+<p></p>
+<table>
+<tbody>
+<tr>
+<td rowspan="1" colspan="2">
+<h3>A small community with a big impact</h3>
+<p></p>
 <p>Apps like Singpass and LifeSG would not be what they are without Tech
 Kaki. As part of our community, you’ll be involved in government research
 to address government feedback and co-create better products and services
 for all.</p>
 <p></p>
-<table>
-<tbody>
+</td>
+</tr>
 <tr>
 <th rowspan="1" colspan="1">
-<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%;" height="auto" width="100%" alt="New Singpass login page co-created by Tech Kaki" src="/images/Get Involved/govtechturns7_2.jpg">
 </div>
+<p></p>
 </th>
-<th rowspan="1" colspan="1">
+<td rowspan="1" colspan="1">
 <h4>Protecting citizens on Singpass</h4>
+<p></p>
 <p>Citizens can now spot fraudulent activity better with a redesigned login
 page for Singpass, thanks to Tech Kaki. They took part in a user research
 study which inspired design changes for the app.</p>
-<p></p>
-</th>
+</td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
@@ -52,12 +58,13 @@ applications more easily. This was done by engaging over 100 Tech Kaki
 members, who shared their views and needs around the app.</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Placeholders/Screenshot_2023_11_10_at_9_56_05_AM.png">
+</div>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="Tech Kaki appreciation networking event" src="/images/Get Involved/Tech_Kaki_Appreciation_Dinner__1_.jpg">
 </div>
