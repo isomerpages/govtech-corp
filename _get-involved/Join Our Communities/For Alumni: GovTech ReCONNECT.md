@@ -6,7 +6,7 @@ description: Stay connected to GovTech as an alumni member. Join our community
 third_nav_title: Join Our Communities
 variant: tiptap
 ---
-<h2>A community for GovTech alumni</h2>
+<h3>A community for GovTech alumni</h3>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="https://developers.elementor.com/docs/assets/img/elementor-placeholder-image.png">
 </div>
@@ -18,23 +18,22 @@ own ways.</p>
 <p>We have over 600 members who get opportunities for networking, knowledge
 sharing and referral programmes.</p>
 <p>Read on to learn about the perks of signing up for GovTech ReCONNECT.</p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="https://developers.elementor.com/docs/assets/img/elementor-placeholder-image.png">
-</div>
-<h4>Be invited to exclusive events</h4>
+<hr>
+<h3>Be invited to exclusive events</h3>
 <p>Share your expertise at industry events as you network with current and
 former GovTechies. We held our first physical event for our community in
 early 2023 with many more to come.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="https://developers.elementor.com/docs/assets/img/elementor-placeholder-image.png">
 </div>
-<h4>Stay updated on GovTech developments</h4>
+<h3>Stay updated on GovTech developments</h3>
 <p>Get updates on tech happenings in the government, even after your time
 in GovTech. You’ll also have access to collaboration opportunities so you
 can keep contributing to the Smart Nation initiative.</p>
+<p>(Image)</p>
 <h3>Join Our Community</h3>
 <p>Connect with GovTech members from the past and present, and receive updates
 on future events.</p>
-<p><a href="https://form.gov.sg/5c6ced30526d99001034c7fd" class="button primary" rel="noopener noreferrer nofollow" target="_blank"> SIGN UP NOW</a>
+<p><a href="https://form.gov.sg/5c6ced30526d99001034c7fd" class="button primary" rel="noopener noreferrer nofollow" target="_blank">SIGN UP NOW</a>
 </p>
 <p></p>
