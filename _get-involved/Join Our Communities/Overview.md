@@ -20,9 +20,10 @@ their lives through technology.</p>
 <tr>
 <th rowspan="1" colspan="2">
 <h3>Explore all communities</h3>
-<p>There’s a place for every changemaker. Whether you’re skilled in tech
-or not, learn more about our communities below as you look for the right
-fit.</p>
+<p>There’s a place for every changemaker.</p>
+<p></p>
+<p>Whether you’re skilled in tech or not, learn more about our communities
+below as you look for the right fit.</p>
 </th>
 </tr>
 <tr>
