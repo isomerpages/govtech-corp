@@ -79,25 +79,4 @@ Nation initiative through knowledge-sharing and collaboration.</p>
 <p></p>
 <p></p>
 <p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="https://developers.elementor.com/docs/assets/img/elementor-placeholder-image.png">
-</div>
-<h4>Tech Kaki</h4>
-<p>Co-create digital products and services for citizens' everyday use by
-attending user testing sessions, interviews and more.</p>
-<p>LEARN MORE</p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="https://developers.elementor.com/docs/assets/img/elementor-placeholder-image.png">
-</div>
-<h4>GovTech STACK</h4>
-<p>Design, build and deploy Tech for Public Good. You’ll also get opportunities
-for networking through tech conferences and meet-ups.</p>
-<p>LEARN MORE</p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="https://developers.elementor.com/docs/assets/img/elementor-placeholder-image.png">
-</div>
-<h4>GovTech ReCONNECT</h4>
-<p>A community for GovTech alumni who want to keep contributing to our Smart
-Nation initiative through knowledge-sharing and collaboration.</p>
-<p>LEARN MORE</p>
 <p></p>
