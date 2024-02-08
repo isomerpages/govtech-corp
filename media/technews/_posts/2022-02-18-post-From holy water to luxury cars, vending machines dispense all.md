@@ -21,7 +21,7 @@ just how diverse their use has been over the years? Well, you’ve come to
 the right place then, as we’re running through the history of vending machines.</p>
 <p>Short on time? Catch this video to see how vending machines have evolved!</p>
 <div class="iframe-wrapper">
-<iframe height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/TZlPEh1UG2g?si=HhhNxRoNYVOcryNP"></iframe>
+<iframe style="max-width: 100%;" height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/TZlPEh1UG2g?si=HhhNxRoNYVOcryNP"></iframe>
 </div>
 <h3>First vending machine was from 2,000 years ago</h3>
 <p>Vending machines seem like modern marvels, but the first one was actually
