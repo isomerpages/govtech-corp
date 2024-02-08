@@ -46,7 +46,7 @@ which you can use to get up to all sorts of&nbsp;<a href="https://all3dp.com/1/u
 <p>With that, let’s get back to the main topic: impactful uses of 3D printing.</p>
 <h3>Prosthetic limbs</h3>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Patient being fitted with prosthetic arm" src="/images/technews/Blood__Flesh_and____3D_printing___2_.jpg">
+<img style="width: 80%;" height="auto" width="100%" alt="Patient being fitted with prosthetic arm" src="/images/technews/Blood__Flesh_and____3D_printing___2_.jpg">
 </div>
 <p>Photo by <a href="https://unsplash.com/@thisisengineering?utm_content=creditCopyText&amp;utm_medium=referral&amp;utm_source=unsplash" rel="noopener noreferrer nofollow" target="_blank">ThisisEngineering RAEng</a> on
 <a href="https://unsplash.com/photos/man-in-blue-crew-neck-shirt-holding-black-smartphone-J0XncLhc0vY?utm_content=creditCopyText&amp;utm_medium=referral&amp;utm_source=unsplash" rel="noopener noreferrer nofollow" target="_blank">Unsplash</a>
