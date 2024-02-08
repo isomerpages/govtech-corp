@@ -80,7 +80,7 @@ the material is even waterproof (traditional cast wearers have been known
 to wrap their casts in plastic bags while taking a shower)!</p>
 <h3>Dental implants</h3>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Structure of dental implant and how different components can be 3D printed" src="/images/technews/Blood__Flesh_and____3D_printing__4_.jpg">
+<img style="width: 70%;" height="auto" width="100%" alt="Structure of dental implant and how different components can be 3D printed" src="/images/technews/Blood__Flesh_and____3D_printing__4_.jpg">
 </div>
 <p>Image by <a href="https://www.freepik.com/free-vector/infographic-human-structure-dental-implant_25539219.htm#page=3&amp;query=3d%20pring%20dental%20implants&amp;position=6&amp;from_view=search&amp;track=ais&amp;uuid=eab20623-c770-49b2-9555-5905fa8daae6" rel="noopener noreferrer nofollow" target="_blank">brgfx</a> on
 Freepik</p>
