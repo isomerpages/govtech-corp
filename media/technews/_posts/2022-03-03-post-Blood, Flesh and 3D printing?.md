@@ -97,6 +97,11 @@ instead of relying on moulds, improving accuracy and patient comfort. The
 3D printing process also enables greater precision in crafting artificial
 teeth or aligners that are unique to patients.</p>
 <h3>Food</h3>
+<div class="isomer-image-wrapper">
+<img style="width: 70%;" height="auto" width="100%" alt="Graphic of burger being 3D printed using organic materials" src="/images/technews/Blood__Flesh_and____3D_printing___5_.jpg">
+</div>
+<p>Image by <a href="https://www.freepik.com/free-vector/realistic-composition-with-process-burger-3d-printing-vector-illustration_6933102.htm#query=3d%20print%20food&amp;position=1&amp;from_view=search&amp;track=ais&amp;uuid=e7b35946-2277-4755-8580-3a604a68b3ce" rel="noopener noreferrer nofollow" target="_blank">macrovector</a> on
+Freepik</p>
 <p>Yes, you read that right, food. Instead of just using material like plastic,
 edible materials can be used as well.</p>
 <p>While&nbsp;<a href="https://all3dp.com/2/3d-printed-food-3d-printing-food/" class="editor-rtfLink" rel="noopener noreferrer nofollow" target="_blank">3D printed food</a>&nbsp;has
