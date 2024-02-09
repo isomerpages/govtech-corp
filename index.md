@@ -44,7 +44,7 @@ sections:
       description: View our portfolio of work for citizens, businesses, and government
         agencies
       button: Explore Now
-      url: /our-work
+      url: /products-and-services
       image: /images/singpass_homepage_2560.jpg
       alt: Image alt text
   - infopic:
