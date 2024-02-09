@@ -16,7 +16,7 @@ to yourself or with friends, all power to you too!</p>
 day with but haven’t quite locked it down, read on. Especially if that
 someone happens to work in the tech industry!</p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Valentine's Day pickup lines with GovTech" src="/images/Valentine_s_Day__Pick_up_lines_to_set_techies__hearts_aflutter.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="Valentine's Day pickup lines with GovTech" src="/images/technews/Valentine_s_Day__Pick_up_lines_to_set_techies__hearts_aflutter.jpg">
 </div>
 <p>Valentine’s Day is just around the corner, get your pickup lines ready!</p>
 <p>We’ve got some pick-up lines specially geared towards techies that you
