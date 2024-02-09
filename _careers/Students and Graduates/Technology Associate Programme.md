@@ -15,8 +15,11 @@ Designed with final-year students and fresh university graduates in mind,
 this exclusive and personalised programme turns young minds like you into
 confident tech leaders who will ultimately make a positive impact on the
 lives of Singaporeans.</p>
-<p></p>
-<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="GovTech's Technology Associate Programme for final-year students and university graduates" src="/images/careers/TAP_infographic_v3.jpg">
+</div>
+<h3>Benefits of becoming a Tech Associate</h3>
+<h3></h3>
 <h3>What is Technology Associate Programme and who is it for?</h3>
 <ul data-tight="true" class="tight">
 <li>
