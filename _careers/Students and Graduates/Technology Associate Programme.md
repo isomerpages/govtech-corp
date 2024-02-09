@@ -45,14 +45,12 @@ for you to tap into.</p>
 </blockquote>
 <script src="//www.instagram.com/embed.js" async="true"></script>
 </div>
-<p>(image)</p>
+<p></p>
 <blockquote>
 <p>"TAP provided me with an environment for honing my technical skills and
 gaining exposure to different tech domains."
 <br>- Christine Yong, Data Scientist</p>
 </blockquote>
-<p>Read more <a href="https://www.instagram.com/p/Ce5Gd3DLPgE/?utm_source=ig_web_copy_link&amp;img_index=1" rel="noopener noreferrer nofollow" target="_blank"><u>here.</u></a>
-</p>
 <p></p>
 <div class="instagram-wrapper">
 <blockquote style="background:#FFF; border:0; border-radius:3px; box-shadow:0 0 1px 0 rgba(0,0,0,0.5),0 1px 10px 0 rgba(0,0,0,0.15); margin: 1px; max-width:540px; min-width:326px; padding:0; width:99.375%; width:-webkit-calc(100% - 2px); width:calc(100% - 2px);" data-instgrm-version="14" data-instgrm-permalink="https://www.instagram.com/p/CfbSJn9h-xQ/?utm_source=ig_embed&amp;utm_campaign=loading" data-instgrm-captioned="" class="instagram-media">
@@ -69,8 +67,6 @@ gaining exposure to different tech domains."
 impactful products that tackle real-life problems!"</p>
 <p>- Vienna Neo, UX Designer</p>
 </blockquote>
-<p>Read more <a href="https://www.instagram.com/p/CfbSJn9h-xQ/?utm_source=ig_web_copy_link" rel="noopener noreferrer nofollow" target="_blank"><u>here.</u></a>
-</p>
 <p></p>
 <div class="instagram-wrapper">
 <blockquote style="background:#FFF; border:0; border-radius:3px; box-shadow:0 0 1px 0 rgba(0,0,0,0.5),0 1px 10px 0 rgba(0,0,0,0.15); margin: 1px; max-width:540px; min-width:326px; padding:0; width:99.375%; width:-webkit-calc(100% - 2px); width:calc(100% - 2px);" data-instgrm-version="14" data-instgrm-permalink="https://www.instagram.com/p/CglCJI2vfz8/?utm_source=ig_embed&amp;utm_campaign=loading" data-instgrm-captioned="" class="instagram-media">
@@ -87,8 +83,6 @@ impactful products that tackle real-life problems!"</p>
 that improved our soft skills."</p>
 <p>- Esmond Ng, Associate Research Engineer</p>
 </blockquote>
-<p>Read more <a href="https://www.instagram.com/p/CglCJI2vfz8/?utm_source=ig_web_copy_link" rel="noopener noreferrer nofollow" target="_blank"><u>here.</u></a>
-</p>
 <h3>Interested in joining TAP?</h3>
 <p>TAP applications are open from April to July every year. Keep a lookout
 by joining the GovTech talent community, and get updates on other recruitment
@@ -96,4 +90,3 @@ opportunities!</p>
 <p><a href="https://careers.tech.gov.sg/careers/talentcommunity" rel="noopener noreferrer nofollow" target="_blank">Join now</a>
 </p>
 <p>Have an enquiry? Reach out to us directly at <a href="mailto:AreYouIT@tech.gov.sg" rel="noopener noreferrer nofollow" target="_blank">AreYouIT@tech.gov.sg</a>.</p>
-<p></p>
