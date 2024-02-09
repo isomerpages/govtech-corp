@@ -53,8 +53,6 @@ Empathy and Develop People.</p>
 the community with my expertise.”</p>
 <p>- Winston Liu</p>
 </blockquote>
-<p>Read more <a href="https://www.instagram.com/p/CJ-uORZhYQ4/?utm_source=ig_web_copy_link" rel="noopener noreferrer nofollow" target="_blank"><u>here.</u></a>
-</p>
 <p></p>
 <div class="instagram-wrapper">
 <blockquote style="background:#FFF; border:0; border-radius:3px; box-shadow:0 0 1px 0 rgba(0,0,0,0.5),0 1px 10px 0 rgba(0,0,0,0.15); margin: 1px; max-width:540px; min-width:326px; padding:0; width:99.375%; width:-webkit-calc(100% - 2px); width:calc(100% - 2px);" data-instgrm-version="14" data-instgrm-permalink="https://www.instagram.com/p/CIknzmbl49_/?utm_source=ig_embed&amp;utm_campaign=loading" data-instgrm-captioned="" class="instagram-media">
@@ -71,8 +69,6 @@ the community with my expertise.”</p>
 one step at a time."</p>
 <p>- Goh Jia Yi</p>
 </blockquote>
-<p>Read more <a href="https://www.instagram.com/p/CIknzmbl49_/?utm_source=ig_web_copy_link" rel="noopener noreferrer nofollow" target="_blank"><u>here.</u></a>
-</p>
 <p></p>
 <div class="instagram-wrapper">
 <blockquote style="background:#FFF; border:0; border-radius:3px; box-shadow:0 0 1px 0 rgba(0,0,0,0.5),0 1px 10px 0 rgba(0,0,0,0.15); margin: 1px; max-width:540px; min-width:326px; padding:0; width:99.375%; width:-webkit-calc(100% - 2px); width:calc(100% - 2px);" data-instgrm-version="14" data-instgrm-permalink="https://www.instagram.com/p/CHzGKObgX8Y/?utm_source=ig_embed&amp;utm_campaign=loading" data-instgrm-captioned="" class="instagram-media">
@@ -89,8 +85,6 @@ one step at a time."</p>
 alongside people who are equally passionate about tech."</p>
 <p>- Fan Ting Wei</p>
 </blockquote>
-<p>Read more <a href="https://www.instagram.com/p/CHzGKObgX8Y/?utm_source=ig_web_copy_link" rel="noopener noreferrer nofollow" target="_blank"><u>here.</u></a>
-</p>
 <hr>
 <p>Curious about the scholarship selection process? Check out this<a href="https://medium.com/ytpo-govtech/finding-my-match-42607d032049" rel="noopener noreferrer nofollow" target="_blank"><u> blog post</u></a> by
 Glenda T, one of our Smart Nation Scholars, who has detailed her own journey.</p>
