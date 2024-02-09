@@ -44,17 +44,9 @@ sections:
       description: View our portfolio of work for citizens, businesses, and government
         agencies
       button: Explore Now
-      url: /products-and-services
+      url: /products-and-services/overview/
       image: /images/singpass_homepage_2560.jpg
       alt: Image alt text
-  - infopic:
-      title: Our Achievements
-      subtitle: From Vision to Achievement
-      description: View our latest rankings, awards, and KPI achievements
-      button: Find out more
-      url: /about-us/our-achievements/our-scorecards/
-      image: /images/ytpo-awards.png
-      alt: Our Achievements
   - infopic:
       title: Tech for Public Good
       subtitle: Our Communities
@@ -65,6 +57,14 @@ sections:
       alt: Tech for Public Good
       url: /digital-government-efforts/tech-for-public-good
       image: /images/tracetogethertest1.jpg
+  - infopic:
+      title: Our Achievements
+      subtitle: From Vision to Achievement
+      description: View our latest rankings, awards, and KPI achievements
+      button: Find out more
+      url: /about-us/our-achievements/our-kpis/
+      image: /images/ytpo-awards.png
+      alt: Our Achievements
   - resources:
       title: Media
       subtitle: STAY UPDATED ON GOVTECH NEWS
