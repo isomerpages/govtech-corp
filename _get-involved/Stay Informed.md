@@ -6,6 +6,7 @@ description: Never miss a GovTech update. Stay connected with us through our
   TechNews newsletter, GovTech blogs, and GovTech social media.
 ---
 <h3>Receive GovTech news and updates</h3>
+<p>(image)</p>
 <h3>Subscribe to TechNews</h3>
 <p>Get tech tips and GovTech updates when you sign up to receive TechNews
 newsletters. With over 20,000 readers, you’ll enjoy articles about tech
