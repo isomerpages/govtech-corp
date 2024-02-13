@@ -200,10 +200,15 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/About Us/Stacey_Sze_Wan_Lacy__1_.jpg">
+</div>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p><strong>Ms Stacey N. LACY</strong>
+</p>
+<p>ASIA PACIFIC CHIEF INFORMATION OFFICER / HEAD OF OPERATIONS &amp; TECHNOLOGY</p>
+<p>Citi</p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
@@ -214,10 +219,15 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/About Us/Lew_Chuen_Hong__1_.jpg">
+</div>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p><strong>Mr LEW Chuen Hong</strong>
+</p>
+<p>CHIEF EXECUTIVE</p>
+<p>Infocomm Media Development Authority</p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
