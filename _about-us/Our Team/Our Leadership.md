@@ -11,14 +11,14 @@ variant: tiptap
 <tr>
 <td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<img style="width: 100%;" height="auto" width="100%" alt="" src="/images/About Us/Goh_Wei_Boon.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/About Us/Joseph_Leong.jpg">
 </div>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>Mr GOH Wei Boon</strong>
+<p><strong>Mr Augustin LEE</strong>
 </p>
-<p>CHIEF EXECUTIVE</p>
-<p>Government Technology Agency</p>
+<p>CHAIRMAN / PERMANENT SECRETARY</p>
+<p>Smart Nation and Digital Government Group</p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
