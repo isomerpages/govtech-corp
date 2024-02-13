@@ -110,7 +110,7 @@ variant: tiptap
 <p><strong>Prof HO Teck Hua</strong>
 </p>
 <p>PRESIDENT</p>
-<p>Nanyang Technological University (NTU), Singapore</p>
+<p>Nanyang Technological University, Singapore</p>
 </td>
 </tr>
 <tr>
@@ -268,10 +268,10 @@ variant: tiptap
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>Mr Augustin LEE</strong>
+<p><strong>Mr Henry CHANG</strong>
 </p>
-<p>DEPUTY CHAIRMAN / SECOND PERMANENT SECRETARY</p>
-<p>Smart Nation and Digital Government Group</p>
+<p>DEPUTY CHIEF EXECUTIVE</p>
+<p>Services, Governance and Cybersecurity</p>
 </td>
 </tr>
 <tr>
@@ -279,10 +279,10 @@ variant: tiptap
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>Mr CHNG Kai Fong</strong>
+<p><strong>Mr Dominic CHAN</strong>
 </p>
-<p>PERMANENT SECRETARY (INFORMATION AND DEVELOPMENT)</p>
-<p>Ministry of Communications and Information</p>
+<p>CHIEF INFORMATION OFFICER / ASSISTANT CHIEF EXECUTIVE</p>
+<p>Product Management</p>
 </td>
 </tr>
 <tr>
@@ -290,10 +290,10 @@ variant: tiptap
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>Mr Bojan BLECIC</strong>
+<p><strong>Mr TAN Bee Teck</strong>
 </p>
-<p>SENIOR VICE PRESIDENT / HEAD OF EXPERIENCE DESIGN</p>
-<p>OCBC Bank</p>
+<p>ASSISTANT CHIEF EXECUTIVE, Central Administration and Social Clusters</p>
+<p>SENIOR DIRECTOR, Education Cluster</p>
 </td>
 </tr>
 <tr>
@@ -301,10 +301,10 @@ variant: tiptap
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>Mr Derrick GOH</strong>
+<p><strong>Mr TAN Eng Pheng</strong>
 </p>
-<p>MANAGING DIRECTOR AND HEAD OF GROUP AUDIT</p>
-<p>DBS Bank</p>
+<p>ASSISTANT CHIEF EXECUTIVE</p>
+<p>Economic and National Development Clusters, Services HQ</p>
 </td>
 </tr>
 <tr>
@@ -312,10 +312,10 @@ variant: tiptap
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>Ms Lesly GOH</strong>
+<p><strong>Mr Bernard TOH</strong>
 </p>
-<p>SENIOR TECHNOLOGY ADVISOR</p>
-<p>World Bank</p>
+<p>ASSISTANT CHIEF EXECUTIVE</p>
+<p>Strategy and Corporate Development</p>
 </td>
 </tr>
 <tr>
@@ -323,10 +323,10 @@ variant: tiptap
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>Prof HO Teck Hua</strong>
+<p><strong>Mr CHAI Chin Loon</strong>
 </p>
-<p>PRESIDENT</p>
-<p>Nanyang Technological University (NTU), Singapore</p>
+<p>SENIOR DIRECTOR</p>
+<p>Cybersecurity Group</p>
 </td>
 </tr>
 <tr>
