@@ -68,8 +68,7 @@ variant: tiptap
 <td rowspan="1" colspan="1">
 <p><strong>Mr Bojan BLECIC</strong>
 </p>
-<p>SENIOR VICE PRESIDENT / HEAD OF EXPERIENCE DESIGN</p>
-<p>OCBC Bank</p>
+<p>SENIOR VICE PRESIDENT / HEAD OF EXPERIENCE DESIGN, OCBC Bank</p>
 </td>
 </tr>
 <tr>
@@ -81,8 +80,7 @@ variant: tiptap
 <td rowspan="1" colspan="1">
 <p><strong>Mr Derrick GOH</strong>
 </p>
-<p>MANAGING DIRECTOR AND HEAD OF GROUP AUDIT</p>
-<p>DBS Bank</p>
+<p>MANAGING DIRECTOR AND HEAD OF GROUP AUDIT, DBS Bank</p>
 </td>
 </tr>
 <tr>
@@ -94,8 +92,7 @@ variant: tiptap
 <td rowspan="1" colspan="1">
 <p><strong>Ms Lesly GOH</strong>
 </p>
-<p>SENIOR TECHNOLOGY ADVISOR</p>
-<p>World Bank</p>
+<p>SENIOR TECHNOLOGY ADVISOR, World Bank</p>
 </td>
 </tr>
 <tr>
@@ -107,8 +104,7 @@ variant: tiptap
 <td rowspan="1" colspan="1">
 <p><strong>Prof HO Teck Hua</strong>
 </p>
-<p>PRESIDENT</p>
-<p>Nanyang Technological University, Singapore</p>
+<p>PRESIDENT, Nanyang Technological University, Singapore</p>
 </td>
 </tr>
 <tr>
@@ -120,8 +116,7 @@ variant: tiptap
 <td rowspan="1" colspan="1">
 <p><strong>Ms Melissa KHOO</strong>
 </p>
-<p>DEPUTY SECRETARY (HIGHER EDUCATION AND SKILLS)</p>
-<p>Ministry of Education</p>
+<p>DEPUTY SECRETARY (HIGHER EDUCATION AND SKILLS), Ministry of Education</p>
 </td>
 </tr>
 <tr>
@@ -133,8 +128,7 @@ variant: tiptap
 <td rowspan="1" colspan="1">
 <p><strong>Mr David KOH</strong>
 </p>
-<p>CHIEF EXECUTIVE</p>
-<p>Cyber Security Agency, Prime Minister’s Office</p>
+<p>CHIEF EXECUTIVE, Cyber Security Agency, Prime Minister’s Office</p>
 </td>
 </tr>
 <tr>
@@ -146,8 +140,8 @@ variant: tiptap
 <td rowspan="1" colspan="1">
 <p><strong>Ms Stacey N. LACY</strong>
 </p>
-<p>ASIA PACIFIC CHIEF INFORMATION OFFICER / HEAD OF OPERATIONS &amp; TECHNOLOGY</p>
-<p>Citi</p>
+<p>ASIA PACIFIC CHIEF INFORMATION OFFICER / HEAD OF OPERATIONS &amp; TECHNOLOGY,
+Citi</p>
 </td>
 </tr>
 <tr>
@@ -159,8 +153,7 @@ variant: tiptap
 <td rowspan="1" colspan="1">
 <p><strong>Mr LEW Chuen Hong</strong>
 </p>
-<p>CHIEF EXECUTIVE</p>
-<p>Infocomm Media Development Authority</p>
+<p>CHIEF EXECUTIVE, Infocomm Media Development Authority</p>
 </td>
 </tr>
 <tr>
@@ -172,8 +165,7 @@ variant: tiptap
 <td rowspan="1" colspan="1">
 <p><strong>Mr LIEW Nam Soon</strong>
 </p>
-<p>MANAGING PARTNER FOR EY ASEAN, SINGAPORE, AND BRUNEI</p>
-<p>EY</p>
+<p>MANAGING PARTNER FOR EY ASEAN, SINGAPORE, AND BRUNEI, EY</p>
 </td>
 </tr>
 <tr>
@@ -185,8 +177,7 @@ variant: tiptap
 <td rowspan="1" colspan="1">
 <p><strong>Mr Shonn MILLS</strong>
 </p>
-<p>MANAGING DIRECTOR</p>
-<p>Whitby Wood Mills</p>
+<p>MANAGING DIRECTOR, Whitby Wood Mills</p>
 </td>
 </tr>
 <tr>
@@ -210,8 +201,7 @@ variant: tiptap
 <td rowspan="1" colspan="1">
 <p><strong>Ms Vaishali RASTOGI</strong>
 </p>
-<p>GLOBAL LEADER OF TECHNOLOGY, MEDIA AND TELECOMMUNICATIONS BUSINESS</p>
-<p>BCG</p>
+<p>GLOBAL LEADER OF TECHNOLOGY, MEDIA AND TELECOMMUNICATIONS BUSINESS, BCG</p>
 </td>
 </tr>
 <tr>
@@ -223,8 +213,7 @@ variant: tiptap
 <td rowspan="1" colspan="1">
 <p><strong>Mr Mervyn TAN</strong>
 </p>
-<p>CHIEF EXECUTIVE</p>
-<p>Defence Science and Technology Agency</p>
+<p>CHIEF EXECUTIVE, Defence Science and Technology Agency</p>
 </td>
 </tr>
 </tbody>
@@ -244,8 +233,7 @@ variant: tiptap
 <td rowspan="1" colspan="1">
 <p><strong>Mr GOH Wei Boon</strong>
 </p>
-<p>CHIEF EXECUTIVE</p>
-<p>Government Technology Agency</p>
+<p>CHIEF EXECUTIVE, Government Technology Agency</p>
 </td>
 </tr>
 <tr>
