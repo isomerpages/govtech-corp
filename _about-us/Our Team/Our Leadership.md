@@ -18,8 +18,7 @@ variant: tiptap
 <td rowspan="1" colspan="1">
 <p><strong>Mr LEONG Weng Keong Joseph</strong>
 </p>
-<p>CHAIRMAN / PERMANENT SECRETARY</p>
-<p>Smart Nation and Digital Government Group</p>
+<p>CHAIRMAN / PERMANENT SECRETARY, Smart Nation and Digital Government Group</p>
 </td>
 </tr>
 <tr>
@@ -31,8 +30,7 @@ variant: tiptap
 <td rowspan="1" colspan="1">
 <p><strong>Mr GOH Wei Boon</strong>
 </p>
-<p>CHIEF EXECUTIVE</p>
-<p>Government Technology Agency</p>
+<p>CHIEF EXECUTIVE, Government Technology Agency</p>
 </td>
 </tr>
 <tr>
