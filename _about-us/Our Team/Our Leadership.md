@@ -124,10 +124,15 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/About Us/Lesly_Goh__1_.jpg">
+</div>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p><strong>Ms Lesly GOH</strong>
+</p>
+<p>SENIOR TECHNOLOGY ADVISOR</p>
+<p>World Bank</p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
@@ -139,9 +144,15 @@ variant: tiptap
 <tr>
 <td rowspan="1" colspan="1">
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/About Us/Ho_Teck_Hua__1_.jpg">
+</div>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p><strong>Prof HO Teck Hua</strong>
+</p>
+<p>PRESIDENT</p>
+<p>Nanyang Technological University (NTU), Singapore</p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
