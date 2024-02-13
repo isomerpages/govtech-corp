@@ -238,7 +238,9 @@ Citi</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 30%;" height="auto" width="100%" alt="" src="/images/About Us/Chang_Sau_Sheong__1_.jpg">
+</div>
 </td>
 <td rowspan="1" colspan="1">
 <p><strong>Mr CHANG Sau Sheong</strong>
@@ -248,7 +250,9 @@ Citi</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 30%;" height="auto" width="100%" alt="" src="/images/About Us/Henry_Chang__1_.jpg">
+</div>
 </td>
 <td rowspan="1" colspan="1">
 <p><strong>Mr Henry CHANG</strong>
@@ -258,7 +262,9 @@ Citi</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 30%;" height="auto" width="100%" alt="" src="/images/About Us/Dominic_Chan__1_.jpg">
+</div>
 </td>
 <td rowspan="1" colspan="1">
 <p><strong>Mr Dominic CHAN</strong>
@@ -268,7 +274,9 @@ Citi</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 30%;" height="auto" width="100%" alt="" src="/images/About Us/Tan_Bee_Teck__2_.jpg">
+</div>
 </td>
 <td rowspan="1" colspan="1">
 <p><strong>Mr TAN Bee Teck</strong>
@@ -279,7 +287,9 @@ Citi</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 30%;" height="auto" width="100%" alt="" src="/images/About Us/Tan_Eng_Pheng__2_.jpg">
+</div>
 </td>
 <td rowspan="1" colspan="1">
 <p><strong>Mr TAN Eng Pheng</strong>
@@ -290,7 +300,9 @@ Services HQ</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 30%;" height="auto" width="100%" alt="" src="/images/About Us/Bernard_Toh__1_.jpg">
+</div>
 </td>
 <td rowspan="1" colspan="1">
 <p><strong>Mr Bernard TOH</strong>
@@ -300,7 +312,9 @@ Services HQ</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 30%;" height="auto" width="100%" alt="" src="/images/About Us/Chai_Chin_Loon__2_.jpg">
+</div>
 </td>
 <td rowspan="1" colspan="1">
 <p><strong>Mr CHAI Chin Loon</strong>
@@ -310,7 +324,9 @@ Services HQ</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 30%;" height="auto" width="100%" alt="" src="/images/About Us/Thian_Chin.jpg">
+</div>
 </td>
 <td rowspan="1" colspan="1">
 <p><strong>Mr LIM Thian Chin</strong>
@@ -320,7 +336,9 @@ Services HQ</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 30%;" height="auto" width="100%" alt="" src="/images/About Us/Kevin_Ng__1_.jpg">
+</div>
 </td>
 <td rowspan="1" colspan="1">
 <p><strong>Mr Kevin NG</strong>
@@ -330,7 +348,9 @@ Services HQ</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 30%;" height="auto" width="100%" alt="" src="/images/About Us/DN_Prasad__1_.jpg">
+</div>
 </td>
 <td rowspan="1" colspan="1">
 <p><strong>Mr D. N. PRASAD</strong>
@@ -340,7 +360,9 @@ Services HQ</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 30%;" height="auto" width="100%" alt="" src="/images/About Us/Jason_See__1_.jpg">
+</div>
 </td>
 <td rowspan="1" colspan="1">
 <p><strong>Mr Jason SEE</strong>
@@ -351,7 +373,9 @@ Services HQ</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 30%;" height="auto" width="100%" alt="" src="/images/About Us/Sing_Khang_Leng__2_.jpg">
+</div>
 </td>
 <td rowspan="1" colspan="1">
 <p><strong>Mr SING Khang Leng</strong>
@@ -361,7 +385,9 @@ Services HQ</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 30%;" height="auto" width="100%" alt="" src="/images/About Us/Richard_Tay__1_.jpg">
+</div>
 </td>
 <td rowspan="1" colspan="1">
 <p><strong>Mr Richard TAY</strong>
@@ -371,7 +397,9 @@ Services HQ</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 30%;" height="auto" width="100%" alt="" src="/images/About Us/Vlasto__1_.jpg">
+</div>
 </td>
 <td rowspan="1" colspan="1">
 <p><strong>Mr Vlastimil CHVOJKA</strong>
@@ -381,7 +409,9 @@ Services HQ</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 30%;" height="auto" width="100%" alt="" src="/images/About Us/Chong_Wan_Yieng__2_.jpg">
+</div>
 </td>
 <td rowspan="1" colspan="1">
 <p><strong>Ms CHONG Wan Yieng</strong>
@@ -391,7 +421,9 @@ Services HQ</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 30%;" height="auto" width="100%" alt="" src="/images/About Us/Steven_Koh__1_.jpg">
+</div>
 </td>
 <td rowspan="1" colspan="1">
 <p><strong>Mr Steven KOH</strong>
@@ -403,6 +435,9 @@ Services HQ</p>
 <tr>
 <td rowspan="1" colspan="1">
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 30%;" height="auto" width="100%" alt="" src="/images/About Us/Eyung_Lim__1_.jpg">
+</div>
 </td>
 <td rowspan="1" colspan="1">
 <p><strong>Mr Eyung LIM</strong>
@@ -413,7 +448,9 @@ Services HQ</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 30%;" height="auto" width="100%" alt="" src="/images/About Us/Loh_Xianghui__1_.jpg">
+</div>
 </td>
 <td rowspan="1" colspan="1">
 <p><strong>Mr LOH Xiang Hui</strong>
@@ -423,7 +460,9 @@ Services HQ</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 30%;" height="auto" width="100%" alt="" src="/images/About Us/James_Tan__1_.jpg">
+</div>
 </td>
 <td rowspan="1" colspan="1">
 <p><strong>Mr James TAN</strong>
@@ -433,7 +472,9 @@ Services HQ</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 30%;" height="auto" width="100%" alt="" src="/images/About Us/Jordan_Tan__2_.jpg">
+</div>
 </td>
 <td rowspan="1" colspan="1">
 <p><strong>Mr Jordan TAN</strong>
@@ -443,7 +484,9 @@ Services HQ</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 30%;" height="auto" width="100%" alt="" src="/images/About Us/Gabriyel_Wong__1_.jpg">
+</div>
 </td>
 <td rowspan="1" colspan="1">
 <p><strong>Mr Gabriyel WONG</strong>
@@ -453,7 +496,9 @@ Services HQ</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 30%;" height="auto" width="100%" alt="" src="/images/About Us/Vincent_Kor__1_.jpg">
+</div>
 </td>
 <td rowspan="1" colspan="1">
 <p><strong>Mr Vincent KOR</strong>
