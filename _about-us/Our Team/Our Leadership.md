@@ -143,7 +143,6 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/About Us/Ho_Teck_Hua__1_.jpg">
 </div>
@@ -163,10 +162,15 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/About Us/Melissa_Khoo__1_.jpg">
+</div>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p><strong>Ms Melissa KHOO</strong>
+</p>
+<p>DEPUTY SECRETARY (HIGHER EDUCATION AND SKILLS)</p>
+<p>Ministry of Education</p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
@@ -177,10 +181,15 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/About Us/David_Koh__1_.jpg">
+</div>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p><strong>Mr David KOH</strong>
+</p>
+<p>CHIEF EXECUTIVE</p>
+<p>Cyber Security Agency, Prime Minister’s Office</p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
