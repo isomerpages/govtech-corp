@@ -238,10 +238,15 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/About Us/Liew_Nam_Soon__1_.jpg">
+</div>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p><strong>Mr LIEW Nam Soon</strong>
+</p>
+<p>EY ASEAN MANAGING PARTNER / MANAGING PARTNER FOR SINGAPORE AND BRUNEI</p>
+<p>EY</p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
@@ -252,10 +257,15 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/About Us/Shonn_Mills.jpg">
+</div>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p><strong>Mr Shonn MILLS</strong>
+</p>
+<p>MANAGING DIRECTOR</p>
+<p>Whitby Wood Mills</p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
