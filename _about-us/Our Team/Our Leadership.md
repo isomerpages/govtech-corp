@@ -86,10 +86,15 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/About Us/Bojan_Blecic__1_.jpg">
+</div>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p><strong>Mr Bojan BLECIC</strong>
+</p>
+<p>SENIOR VICE PRESIDENT / HEAD OF EXPERIENCE DESIGN</p>
+<p>OCBC Bank</p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
@@ -100,10 +105,15 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/About Us/Derrick_Goh__1_.jpg">
+</div>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p><strong>Mr Derrick GOH</strong>
+</p>
+<p>MANAGING DIRECTOR AND HEAD OF GROUP AUDIT</p>
+<p>DBS Bank</p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
