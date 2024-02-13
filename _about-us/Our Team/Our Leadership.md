@@ -378,10 +378,10 @@ variant: tiptap
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>Mr LIEW Nam Soon</strong>
+<p><strong>Mr SING Khang Leng</strong>
 </p>
-<p>MANAGING PARTNER FOR EY ASEAN, SINGAPORE, AND BRUNEI</p>
-<p>EY</p>
+<p>SENIOR DIRECTOR</p>
+<p>Manpower Cluster</p>
 </td>
 </tr>
 <tr>
@@ -389,10 +389,10 @@ variant: tiptap
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>Mr Shonn MILLS</strong>
+<p><strong>Mr Richard TAY</strong>
 </p>
-<p>MANAGING DIRECTOR</p>
-<p>Whitby Wood Mills</p>
+<p>SENIOR DIRECTOR</p>
+<p>Government Infrastructure Group</p>
 </td>
 </tr>
 <tr>
@@ -400,9 +400,10 @@ variant: tiptap
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>Mr Noah PEPPER</strong>
+<p><strong>Mr Vlastimil CHVOJKA</strong>
 </p>
-<p>CEO AND CO-FOUNDER OF A NEW COMPANY (TO BE ANNOUNCED)</p>
+<p>SENIOR DIRECTOR</p>
+<p>Product Innovation Centre</p>
 </td>
 </tr>
 <tr>
@@ -410,10 +411,10 @@ variant: tiptap
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>Ms Vaishali RASTOGI</strong>
+<p><strong>Ms CHONG Wan Yieng</strong>
 </p>
-<p>GLOBAL LEADER OF TECHNOLOGY, MEDIA AND TELECOMMUNICATIONS BUSINESS</p>
-<p>BCG</p>
+<p>DIRECTOR</p>
+<p>Communications and Marketing</p>
 </td>
 </tr>
 <tr>
@@ -421,10 +422,76 @@ variant: tiptap
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>Mr Mervyn TAN</strong>
+<p><strong>Mr Steven KOH</strong>
 </p>
-<p>CHIEF EXECUTIVE</p>
-<p>Defence Science and Technology Agency</p>
+<p>DIRECTOR</p>
+<p>Government Digital Services - Agile Consulting &amp; Engineering (ACE)</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Mr Eyung LIM</strong>
+</p>
+<p>DIRECTOR</p>
+<p>Government Digital Services - Digital Design &amp; Development (DCube)</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Mr LOH Xiang Hui</strong>
+</p>
+<p>DIRECTOR</p>
+<p>Finance and Procurement</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Mr James TAN</strong>
+</p>
+<p>DIRECTOR</p>
+<p>Smart City Technology Division (SCTD)</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Mr Jordan TAN</strong>
+</p>
+<p>DIRECTOR</p>
+<p>Digital Workplace</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Mr Gabriyel WONG</strong>
+</p>
+<p>DIRECTOR</p>
+<p>Moments of Life</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Mr Vincent KOR</strong>
+</p>
+<p>GENERAL COUNSEL</p>
+<p>Legal</p>
 </td>
 </tr>
 </tbody>
