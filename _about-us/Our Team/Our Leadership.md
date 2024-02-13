@@ -46,8 +46,8 @@ variant: tiptap
 <td rowspan="1" colspan="1">
 <p><strong>Mr Augustin LEE</strong>
 </p>
-<p>DEPUTY CHAIRMAN / SECOND PERMANENT SECRETARY</p>
-<p>Smart Nation and Digital Government Group</p>
+<p>DEPUTY CHAIRMAN / SECOND PERMANENT SECRETARY, Smart Nation and Digital
+Government Group</p>
 </td>
 </tr>
 <tr>
@@ -59,8 +59,8 @@ variant: tiptap
 <td rowspan="1" colspan="1">
 <p><strong>Mr CHNG Kai Fong</strong>
 </p>
-<p>PERMANENT SECRETARY (INFORMATION AND DEVELOPMENT)</p>
-<p>Ministry of Communications and Information</p>
+<p>PERMANENT SECRETARY (INFORMATION AND DEVELOPMENT), Ministry of Communications
+and Information</p>
 </td>
 </tr>
 <tr>
