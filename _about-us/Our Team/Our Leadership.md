@@ -252,9 +252,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<div class="isomer-image-wrapper">
-<img style="width: 30%;" height="auto" width="100%" alt="" src="/images/About Us/Sau_Sheong__1_.jpg">
-</div>
+<p></p>
 </td>
 <td rowspan="1" colspan="1">
 <p><strong>Mr CHANG Sau Sheong</strong>
