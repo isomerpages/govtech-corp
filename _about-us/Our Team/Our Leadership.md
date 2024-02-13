@@ -265,9 +265,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<div class="isomer-image-wrapper">
-<img style="width: 30%;" height="auto" width="100%" alt="" src="/images/About Us/Augustin_Lee__1_.jpg">
-</div>
+<p></p>
 </td>
 <td rowspan="1" colspan="1">
 <p><strong>Mr Augustin LEE</strong>
@@ -278,9 +276,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<div class="isomer-image-wrapper">
-<img style="width: 30%;" height="auto" width="100%" alt="" src="/images/About Us/Chng_Kai_Fong__2_.jpg">
-</div>
+<p></p>
 </td>
 <td rowspan="1" colspan="1">
 <p><strong>Mr CHNG Kai Fong</strong>
@@ -291,9 +287,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<div class="isomer-image-wrapper">
-<img style="width: 30%;" height="auto" width="100%" alt="" src="/images/About Us/Bojan_Blecic__1_.jpg">
-</div>
+<p></p>
 </td>
 <td rowspan="1" colspan="1">
 <p><strong>Mr Bojan BLECIC</strong>
@@ -304,9 +298,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<div class="isomer-image-wrapper">
-<img style="width: 30%;" height="auto" width="100%" alt="" src="/images/About Us/Derrick_Goh__1_.jpg">
-</div>
+<p></p>
 </td>
 <td rowspan="1" colspan="1">
 <p><strong>Mr Derrick GOH</strong>
@@ -317,9 +309,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<div class="isomer-image-wrapper">
-<img style="width: 30%;" height="auto" width="100%" alt="" src="/images/About Us/Lesly_Goh__1_.jpg">
-</div>
+<p></p>
 </td>
 <td rowspan="1" colspan="1">
 <p><strong>Ms Lesly GOH</strong>
@@ -330,9 +320,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<div class="isomer-image-wrapper">
-<img style="width: 30%;" height="auto" width="100%" alt="" src="/images/About Us/Ho_Teck_Hua__1_.jpg">
-</div>
+<p></p>
 </td>
 <td rowspan="1" colspan="1">
 <p><strong>Prof HO Teck Hua</strong>
@@ -343,9 +331,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<div class="isomer-image-wrapper">
-<img style="width: 30%;" height="auto" width="100%" alt="" src="/images/About Us/Melissa_Khoo__1_.jpg">
-</div>
+<p></p>
 </td>
 <td rowspan="1" colspan="1">
 <p><strong>Ms Melissa KHOO</strong>
@@ -356,9 +342,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<div class="isomer-image-wrapper">
-<img style="width: 30%;" height="auto" width="100%" alt="" src="/images/About Us/David_Koh__1_.jpg">
-</div>
+<p></p>
 </td>
 <td rowspan="1" colspan="1">
 <p><strong>Mr David KOH</strong>
@@ -369,9 +353,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<div class="isomer-image-wrapper">
-<img style="width: 30%;" height="auto" width="100%" alt="" src="/images/About Us/Stacey_Sze_Wan_Lacy__1_.jpg">
-</div>
+<p></p>
 </td>
 <td rowspan="1" colspan="1">
 <p><strong>Ms Stacey N. LACY</strong>
@@ -382,9 +364,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<div class="isomer-image-wrapper">
-<img style="width: 30%;" height="auto" width="100%" alt="" src="/images/About Us/Lew_Chuen_Hong__1_.jpg">
-</div>
+<p></p>
 </td>
 <td rowspan="1" colspan="1">
 <p><strong>Mr LEW Chuen Hong</strong>
@@ -395,9 +375,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<div class="isomer-image-wrapper">
-<img style="width: 30%;" height="auto" width="100%" alt="" src="/images/About Us/Liew_Nam_Soon__1_.jpg">
-</div>
+<p></p>
 </td>
 <td rowspan="1" colspan="1">
 <p><strong>Mr LIEW Nam Soon</strong>
@@ -408,9 +386,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<div class="isomer-image-wrapper">
-<img style="width: 30%;" height="auto" width="100%" alt="" src="/images/About Us/Shonn_Mills.jpg">
-</div>
+<p></p>
 </td>
 <td rowspan="1" colspan="1">
 <p><strong>Mr Shonn MILLS</strong>
@@ -421,9 +397,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<div class="isomer-image-wrapper">
-<img style="width: 30%;" height="auto" width="100%" alt="" src="/images/About Us/Noah_Pepper__1_.jpg">
-</div>
+<p></p>
 </td>
 <td rowspan="1" colspan="1">
 <p><strong>Mr Noah PEPPER</strong>
@@ -433,9 +407,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<div class="isomer-image-wrapper">
-<img style="width: 30%;" height="auto" width="100%" alt="" src="/images/About Us/Vaishali_Rastogi__1_.jpg">
-</div>
+<p></p>
 </td>
 <td rowspan="1" colspan="1">
 <p><strong>Ms Vaishali RASTOGI</strong>
@@ -446,9 +418,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<div class="isomer-image-wrapper">
-<img style="width: 30%;" height="auto" width="100%" alt="" src="/images/About Us/Mervyn_Tan__1_.jpg">
-</div>
+<p></p>
 </td>
 <td rowspan="1" colspan="1">
 <p><strong>Mr Mervyn TAN</strong>
