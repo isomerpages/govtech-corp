@@ -5,10 +5,14 @@ description: ""
 third_nav_title: Our Team
 variant: tiptap
 ---
-<h3>Board of Directors</h3>
 <p></p>
 <table>
 <tbody>
+<tr>
+<td rowspan="1" colspan="2">
+<h3>BOARD OF DIRECTORS</h3>
+</td>
+</tr>
 <tr>
 <td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
@@ -216,14 +220,11 @@ Citi</p>
 <p>CHIEF EXECUTIVE, Defence Science and Technology Agency</p>
 </td>
 </tr>
-</tbody>
-</table>
-<p></p>
-<p></p>
-<h3>Senior Leadership</h3>
-<p></p>
-<table>
-<tbody>
+<tr>
+<td rowspan="1" colspan="2">
+<h3>SENIOR LEADERSHIP</h3>
+</td>
+</tr>
 <tr>
 <td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
@@ -508,4 +509,9 @@ Services HQ</p>
 </tr>
 </tbody>
 </table>
+<p></p>
+<p></p>
+<p>
+<br>
+</p>
 <p></p>
