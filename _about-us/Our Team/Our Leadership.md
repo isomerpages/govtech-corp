@@ -245,7 +245,7 @@ variant: tiptap
 <td rowspan="1" colspan="1">
 <p><strong>Mr LIEW Nam Soon</strong>
 </p>
-<p>EY ASEAN MANAGING PARTNER / MANAGING PARTNER FOR SINGAPORE AND BRUNEI</p>
+<p>MANAGING PARTNER FOR EY ASEAN, SINGAPORE, AND BRUNEI</p>
 <p>EY</p>
 </td>
 <td rowspan="1" colspan="1">
