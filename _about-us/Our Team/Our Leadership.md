@@ -16,7 +16,7 @@ variant: tiptap
 </div>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>Mr Augustin LEE</strong>
+<p><strong>Mr LEONG Weng Keong Joseph</strong>
 </p>
 <p>CHAIRMAN / PERMANENT SECRETARY</p>
 <p>Smart Nation and Digital Government Group</p>
