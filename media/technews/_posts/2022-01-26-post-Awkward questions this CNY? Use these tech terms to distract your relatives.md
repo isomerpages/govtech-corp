@@ -21,7 +21,7 @@ and then dominate the conversation with our handy list of must-know tech
 terms below, written in ready-to-use conversation style.</p>
 <h3>Metaverse (元宇宙)</h3>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Metaverse term in mandarin/chinese and definition" src="/images/technews/Awkward_questions_this_CNY__Use_these_tech_terms_to_distract_your_relatives__1_.jpg">
+<img style="width: 70%;" height="auto" width="100%" alt="Metaverse term in mandarin/chinese and definition" src="/images/technews/Awkward_questions_this_CNY__Use_these_tech_terms_to_distract_your_relatives__1_.jpg">
 </div>
 <p>So you’ve probably heard that Facebook has renamed itself Meta. But yeah,
 everyone still calls it Facebook, haha.</p>
@@ -34,7 +34,7 @@ and appealing that will be is anyone’s guess. Maybe we’ll all be having
 our reunion dinner in the metaverse in a few years’ time!</p>
 <h3>Blockchain (区块链)</h3>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Blockchain term in mandarin/chinese and the definition" src="/images/technews/Awkward_questions_this_CNY__Use_these_tech_terms_to_distract_your_relatives__2_.jpg">
+<img style="width: 70%;" height="auto" width="100%" alt="Blockchain term in mandarin/chinese and the definition" src="/images/technews/Awkward_questions_this_CNY__Use_these_tech_terms_to_distract_your_relatives__2_.jpg">
 </div>
 <p>One thing I’ve been reading more about is the blockchain. It’s a new way
 of storing data: instead of storing data in a central location, copies
@@ -51,7 +51,7 @@ Right now, it’s being used to verify someone’s vaccination status and COVID
 test results. Cryptocurrency (加密货币)</p>
 <h3>Cryptocurrency (加密货币)</h3>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Cryptocurrency term in mandarin/chinese and the definition" src="/images/technews/Awkward_questions_this_CNY__Use_these_tech_terms_to_distract_your_relatives__3_.jpg">
+<img style="width: 70%;" height="auto" width="100%" alt="Cryptocurrency term in mandarin/chinese and the definition" src="/images/technews/Awkward_questions_this_CNY__Use_these_tech_terms_to_distract_your_relatives__3_.jpg">
 </div>
 <p>Hey, I heard uncle has been buying plenty of bitcoin. What is bitcoin?
 Oh bitcoin is a kind of cryptocurrency made possible by blockchain technology.
@@ -63,7 +63,7 @@ up in recent years. Anyway, please give my hongbaos in the form of cryptocurrenc
 from now on, thanks!</p>
 <h3>Non-Fungible Token or NFT (非同质化代币)</h3>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="NFT term in mandarin/chinese and the definition" src="/images/technews/Awkward_questions_this_CNY__Use_these_tech_terms_to_distract_your_relatives__4_.jpg">
+<img style="width: 70%;" height="auto" width="100%" alt="NFT term in mandarin/chinese and the definition" src="/images/technews/Awkward_questions_this_CNY__Use_these_tech_terms_to_distract_your_relatives__4_.jpg">
 </div>
 <p>You know how anything digital can be copied countless times, just like
 a photo you can share on WhatsApp to all your friends? Well, NFTs are digital
@@ -76,7 +76,7 @@ to videos to music!</p>
 <p>Hey, we can even take a family photo now and convert it into an NFT!</p>
 <h3>Smart Nation (智慧国)</h3>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Smart Nation term in mandarin/chinese and the definition" src="/images/technews/Awkward_questions_this_CNY__Use_these_tech_terms_to_distract_your_relatives__5_.jpg">
+<img style="width: 70%;" height="auto" width="100%" alt="Smart Nation term in mandarin/chinese and the definition" src="/images/technews/Awkward_questions_this_CNY__Use_these_tech_terms_to_distract_your_relatives__5_.jpg">
 </div>
 <p>I really like that more and more government services can be done digitally.
 We don’t have to wait in line or be put on hold on the phone. The Singpass
@@ -89,7 +89,7 @@ worried about losing your IC? Now you don’t have to be.</p>
 technology is used to improve the lives of everyone.</p>
 <h3>GovTech (政府科技局)</h3>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="GovTech term in chinese/mandarin and what GovTech is" src="/images/technews/Awkward_questions_this_CNY__Use_these_tech_terms_to_distract_your_relatives__6_.jpg">
+<img style="width: 70%;" height="auto" width="100%" alt="GovTech term in chinese/mandarin and what GovTech is" src="/images/technews/Awkward_questions_this_CNY__Use_these_tech_terms_to_distract_your_relatives__6_.jpg">
 </div>
 <p>At the end of the day, someone has to build and maintain digital government
 services. That someone is GovTech, a government agency that is spearheading
@@ -105,4 +105,5 @@ at GovTech.</p>
 new vocabulary to spark some fresh conversations. You might even uncover
 a crypto millionaire or two among your relatives.</p>
 <p>*Enjoyed this article? Check out this article to out about&nbsp;<a href="https://www.tech.gov.sg/media/technews/travel-in-the-time-of-covid" class="editor-rtfLink" rel="noopener noreferrer nofollow" target="_blank">how tech is making travel in the time of covid less painful</a>&nbsp;or
-this article to find out how&nbsp;<a href="https://www.tech.gov.sg/media/technews/benefits-of-solar-polar" class="editor-rtfLink" rel="noopener noreferrer nofollow" target="_blank">reserviors are being used to harness the power of solar!</a>.</p>
+this article to find out how&nbsp;<a href="https://www.tech.gov.sg/media/technews/benefits-of-solar-polar" class="editor-rtfLink" rel="noopener noreferrer nofollow" target="_blank">reserviors are being used to harness the power of solar!</a>
+</p>
