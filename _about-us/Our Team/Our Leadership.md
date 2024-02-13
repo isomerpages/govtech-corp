@@ -356,10 +356,10 @@ variant: tiptap
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>Ms Stacey N. LACY</strong>
+<p><strong>Mr D. N. PRASAD</strong>
 </p>
-<p>ASIA PACIFIC CHIEF INFORMATION OFFICER / HEAD OF OPERATIONS &amp; TECHNOLOGY</p>
-<p>Citi</p>
+<p>SENIOR DIRECTOR</p>
+<p>People and Organisation Division</p>
 </td>
 </tr>
 <tr>
@@ -367,10 +367,10 @@ variant: tiptap
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>Mr LEW Chuen Hong</strong>
+<p><strong>Mr Jason SEE</strong>
 </p>
-<p>CHIEF EXECUTIVE</p>
-<p>Infocomm Media Development Authority</p>
+<p>SENIOR DIRECTOR, Data Science and Artificial Intelligence</p>
+<p>SENIOR DIRECTOR-DESIGNATE, Education Cluster</p>
 </td>
 </tr>
 <tr>
