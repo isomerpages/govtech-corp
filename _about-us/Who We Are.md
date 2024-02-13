@@ -4,7 +4,7 @@ permalink: /about-us/who-we-are/
 description: ""
 variant: tiptap
 ---
-<h3><strong>What is GovTech? </strong></h3>
+<h3><strong>What is GovTech?</strong></h3>
 <p>GovTech is the lead agency driving Singapore's Smart Nation initiative
 and public sector digital transformation, as the implementing arm of PMO's
 Smart Nation and Digital Government Office (SNDGO). It is also collectively
@@ -44,17 +44,17 @@ and agility that reflects starlings as they shift synchronously to adapt
 and respond to the evolving environment. This mirrors our agency's positioning
 - empower the nation with possibilities, realised through the innovation
 of technology and engineering.</p>
-<h3><strong>Our Values</strong> </h3>
+<h3><strong>Our Values</strong></h3>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="GovTech values: Agile, Bold, Collaborative and what they mean" src="/images/About Us/ABC_Values_Info.jpg">
 </div>
 <p></p>
-<h4>1. <strong>Agile</strong>: </h4>
+<h4>1. <strong>Agile</strong>:</h4>
 <p>Being prepared to disrupt ourselves, being prepared to think twice, think
 in a different way, and really make those changes on time.</p>
-<h4>2. <strong>Bold</strong> in adoptive new solutions: </h4>
+<h4>2. <strong>Bold</strong> in adoptive new solutions:</h4>
 <p>Especially where technology is involved, which is possibly ahead of the
 curve, [or even] possibly ahead of the private sector.</p>
-<h4>3. <strong>Collaborative:</strong> </h4>
+<h4>3. <strong>Collaborative:</strong></h4>
 <p>What we want to do in GovTech is to leverage on the resources that are
 already available.</p>
