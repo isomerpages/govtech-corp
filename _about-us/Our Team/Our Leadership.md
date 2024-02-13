@@ -243,8 +243,7 @@ Citi</p>
 <td rowspan="1" colspan="1">
 <p><strong>Mr CHANG Sau Sheong</strong>
 </p>
-<p>DEPUTY CHIEF EXECUTIVE</p>
-<p>Product and Engineering, TMO / CODE</p>
+<p>DEPUTY CHIEF EXECUTIVE, Product and Engineering, TMO / CODE</p>
 </td>
 </tr>
 <tr>
@@ -254,8 +253,7 @@ Citi</p>
 <td rowspan="1" colspan="1">
 <p><strong>Mr Henry CHANG</strong>
 </p>
-<p>DEPUTY CHIEF EXECUTIVE</p>
-<p>Services, Governance and Cybersecurity</p>
+<p>DEPUTY CHIEF EXECUTIVE, Services, Governance and Cybersecurity</p>
 </td>
 </tr>
 <tr>
@@ -265,8 +263,7 @@ Citi</p>
 <td rowspan="1" colspan="1">
 <p><strong>Mr Dominic CHAN</strong>
 </p>
-<p>CHIEF INFORMATION OFFICER / ASSISTANT CHIEF EXECUTIVE</p>
-<p>Product Management</p>
+<p>CHIEF INFORMATION OFFICER / ASSISTANT CHIEF EXECUTIVE, Product Management</p>
 </td>
 </tr>
 <tr>
@@ -287,8 +284,8 @@ Citi</p>
 <td rowspan="1" colspan="1">
 <p><strong>Mr TAN Eng Pheng</strong>
 </p>
-<p>ASSISTANT CHIEF EXECUTIVE</p>
-<p>Economic and National Development Clusters, Services HQ</p>
+<p>ASSISTANT CHIEF EXECUTIVE, Economic and National Development Clusters,
+Services HQ</p>
 </td>
 </tr>
 <tr>
@@ -298,8 +295,7 @@ Citi</p>
 <td rowspan="1" colspan="1">
 <p><strong>Mr Bernard TOH</strong>
 </p>
-<p>ASSISTANT CHIEF EXECUTIVE</p>
-<p>Strategy and Corporate Development</p>
+<p>ASSISTANT CHIEF EXECUTIVE, Strategy and Corporate Development</p>
 </td>
 </tr>
 <tr>
@@ -309,8 +305,7 @@ Citi</p>
 <td rowspan="1" colspan="1">
 <p><strong>Mr CHAI Chin Loon</strong>
 </p>
-<p>SENIOR DIRECTOR</p>
-<p>Cybersecurity Group</p>
+<p>SENIOR DIRECTOR, Cybersecurity Group</p>
 </td>
 </tr>
 <tr>
@@ -320,8 +315,7 @@ Citi</p>
 <td rowspan="1" colspan="1">
 <p><strong>Mr LIM Thian Chin</strong>
 </p>
-<p>SENIOR DIRECTOR</p>
-<p>Governance Group</p>
+<p>SENIOR DIRECTOR, Governance Group</p>
 </td>
 </tr>
 <tr>
@@ -331,8 +325,7 @@ Citi</p>
 <td rowspan="1" colspan="1">
 <p><strong>Mr Kevin NG</strong>
 </p>
-<p>SENIOR DIRECTOR</p>
-<p>Government Digital Services - Central</p>
+<p>SENIOR DIRECTOR, Government Digital Services - Central</p>
 </td>
 </tr>
 <tr>
@@ -342,8 +335,7 @@ Citi</p>
 <td rowspan="1" colspan="1">
 <p><strong>Mr D. N. PRASAD</strong>
 </p>
-<p>SENIOR DIRECTOR</p>
-<p>People and Organisation Division</p>
+<p>SENIOR DIRECTOR, People and Organisation Division</p>
 </td>
 </tr>
 <tr>
@@ -364,8 +356,7 @@ Citi</p>
 <td rowspan="1" colspan="1">
 <p><strong>Mr SING Khang Leng</strong>
 </p>
-<p>SENIOR DIRECTOR</p>
-<p>Manpower Cluster</p>
+<p>SENIOR DIRECTOR, Manpower Cluster</p>
 </td>
 </tr>
 <tr>
@@ -375,8 +366,7 @@ Citi</p>
 <td rowspan="1" colspan="1">
 <p><strong>Mr Richard TAY</strong>
 </p>
-<p>SENIOR DIRECTOR</p>
-<p>Government Infrastructure Group</p>
+<p>SENIOR DIRECTOR, Government Infrastructure Group</p>
 </td>
 </tr>
 <tr>
@@ -386,8 +376,7 @@ Citi</p>
 <td rowspan="1" colspan="1">
 <p><strong>Mr Vlastimil CHVOJKA</strong>
 </p>
-<p>SENIOR DIRECTOR</p>
-<p>Product Innovation Centre</p>
+<p>SENIOR DIRECTOR, Product Innovation Centre</p>
 </td>
 </tr>
 <tr>
@@ -397,8 +386,7 @@ Citi</p>
 <td rowspan="1" colspan="1">
 <p><strong>Ms CHONG Wan Yieng</strong>
 </p>
-<p>DIRECTOR</p>
-<p>Communications and Marketing</p>
+<p>DIRECTOR, Communications and Marketing</p>
 </td>
 </tr>
 <tr>
@@ -408,8 +396,8 @@ Citi</p>
 <td rowspan="1" colspan="1">
 <p><strong>Mr Steven KOH</strong>
 </p>
-<p>DIRECTOR</p>
-<p>Government Digital Services - Agile Consulting &amp; Engineering (ACE)</p>
+<p>DIRECTOR, Government Digital Services - Agile Consulting &amp; Engineering
+(ACE)</p>
 </td>
 </tr>
 <tr>
@@ -419,8 +407,8 @@ Citi</p>
 <td rowspan="1" colspan="1">
 <p><strong>Mr Eyung LIM</strong>
 </p>
-<p>DIRECTOR</p>
-<p>Government Digital Services - Digital Design &amp; Development (DCube)</p>
+<p>DIRECTOR, Government Digital Services - Digital Design &amp; Development
+(DCube)</p>
 </td>
 </tr>
 <tr>
@@ -430,8 +418,7 @@ Citi</p>
 <td rowspan="1" colspan="1">
 <p><strong>Mr LOH Xiang Hui</strong>
 </p>
-<p>DIRECTOR</p>
-<p>Finance and Procurement</p>
+<p>DIRECTOR, Finance and Procurement</p>
 </td>
 </tr>
 <tr>
@@ -441,8 +428,7 @@ Citi</p>
 <td rowspan="1" colspan="1">
 <p><strong>Mr James TAN</strong>
 </p>
-<p>DIRECTOR</p>
-<p>Smart City Technology Division (SCTD)</p>
+<p>DIRECTOR, Smart City Technology Division (SCTD)</p>
 </td>
 </tr>
 <tr>
@@ -452,8 +438,7 @@ Citi</p>
 <td rowspan="1" colspan="1">
 <p><strong>Mr Jordan TAN</strong>
 </p>
-<p>DIRECTOR</p>
-<p>Digital Workplace</p>
+<p>DIRECTOR, Digital Workplace</p>
 </td>
 </tr>
 <tr>
@@ -463,8 +448,7 @@ Citi</p>
 <td rowspan="1" colspan="1">
 <p><strong>Mr Gabriyel WONG</strong>
 </p>
-<p>DIRECTOR</p>
-<p>Moments of Life</p>
+<p>DIRECTOR, Moments of Life</p>
 </td>
 </tr>
 <tr>
@@ -474,11 +458,9 @@ Citi</p>
 <td rowspan="1" colspan="1">
 <p><strong>Mr Vincent KOR</strong>
 </p>
-<p>GENERAL COUNSEL</p>
-<p>Legal</p>
+<p>GENERAL COUNSEL, Legal</p>
 </td>
 </tr>
 </tbody>
 </table>
-<p></p>
 <p></p>
