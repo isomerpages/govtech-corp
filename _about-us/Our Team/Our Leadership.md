@@ -334,10 +334,10 @@ variant: tiptap
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>Ms Melissa KHOO</strong>
+<p><strong>Mr LIM Thian Chin</strong>
 </p>
-<p>DEPUTY SECRETARY (HIGHER EDUCATION AND SKILLS)</p>
-<p>Ministry of Education</p>
+<p>SENIOR DIRECTOR</p>
+<p>Governance Group</p>
 </td>
 </tr>
 <tr>
@@ -345,10 +345,10 @@ variant: tiptap
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>Mr David KOH</strong>
+<p><strong>Mr Kevin NG</strong>
 </p>
-<p>CHIEF EXECUTIVE</p>
-<p>Cyber Security Agency, Prime Minister’s Office</p>
+<p>SENIOR DIRECTOR</p>
+<p>Government Digital Services - Central</p>
 </td>
 </tr>
 <tr>
