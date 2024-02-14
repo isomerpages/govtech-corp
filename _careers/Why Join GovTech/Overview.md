@@ -64,7 +64,6 @@ and be moulded into a confident leader.</p>
 <p>Ensuring our employees are able to maintain a healthy work-life balance
 is a priority for us. We have numerous policies in place that help create
 and sustain our signature employee-centric culture.</p>
-<h3>Banner - 3 col (no photo)</h3>
 <div class="isomer-card-grid">
 <div class="isomer-card">
 <div class="isomer-card-body">
