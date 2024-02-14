@@ -21,7 +21,7 @@ engineering, DevOps, reusable digital services and more.</p>
 <ol data-tight="true" class="tight">
 <li>
 <p><strong>Designing for users: </strong>Engaging citizens, listening to
-feedback and iteratively testing products for further enhancements</p>
+feedback and iteratively testing products for further enhancements.</p>
 </li>
 <li>
 <p><strong>Engineering with care: </strong>Building tech to last. Accelerating
@@ -34,7 +34,7 @@ for everybody, with a priority on accessibility.</p>
 </li>
 <li>
 <p><strong>Going far, together: </strong>Making a lasting impact on how government
-products are built to improve digital capabilities across the government</p>
+products are built to improve digital capabilities across the government.</p>
 </li>
 </ol>
 <h3>Our Work and Initiatives</h3>
