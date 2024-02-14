@@ -9,7 +9,7 @@ variant: tiptap
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="Government ICT Infrastructure develops cloud technology for SG's digital transformation" src="/images/About Us/capcentre_ICT_banner.jpg">
 </div>
-<h3>What does Government ICT Infrastructure do? </h3>
+<h3>What does Government ICT Infrastructure do?</h3>
 <p>In GovTech, the Info-Communications Technology Infrastructure (ICT Infra)
 capability centre, also known as the Government Infrastructure Group (GIG),
 develops centralised ICT Infra for the whole-of-government (WOG).</p>
@@ -24,7 +24,7 @@ and lead in optimising across performance-security-cost for the government.
 We tinker with new technologies to constantly improve the ICT experiences
 for public officers and provide reference architectures, standards and
 consultancy support to government agencies.</p>
-<h3>Our Work and Initiatives </h3>
+<h3>Our Work and Initiatives</h3>
 <p>As we tinker with new technologies to constantly improve the ICT experiences
 across the WOG and provide support for public officers, our work ranges
 from reference architectures to standards and consultancy support. Below
@@ -54,9 +54,6 @@ pushed for <strong>better and smarter office productivity and collaborative tool
 to government agencies upgrading their ICT Infra.</p>
 </li>
 </ol>
-<h3>Want to learn more about our work? </h3>
-<p>- (Note: To confirm with clients that GIG doesn't have a Medium blog or
-an equivalent page)</p>
 <h3>Interested in joining our team?</h3>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="Daryl Chee (Infrastructure Engineer) sharing about why he chose GovTech" src="/images/About Us/capcentre_ICT_quotes__1_.jpg">
