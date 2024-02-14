@@ -5,7 +5,7 @@ variant: tiptap
 description: ""
 third_nav_title: Students and Graduates
 ---
-<h4>Banner - 3 col (no photo)</h4>
+<h3>Banner - 3 col (no photo)</h3>
 <div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="https://www.isomer.gov.sg" class="isomer-card"><div class="isomer-card-body"><div class="isomer-card-title">This is a title for your card</div><div class="isomer-card-description">This is body text for your card. Describe your card.</div><div class="isomer-card-link">This is a link for your card</div></div></a>
 <a rel="noopener noreferrer nofollow" href="https://www.isomer.gov.sg" class="isomer-card">
 <div class="isomer-card-body">
@@ -22,7 +22,7 @@ third_nav_title: Students and Graduates
 </div>
 </a>
 </div>
-<h4>Banner - 3 col (with photo)</h4>
+<h3>Banner - 3 col (with photo)</h3>
 <div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="https://www.isomer.gov.sg" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="XXX" src="/images/Screenshot_2023_11_10_at_9_56_05_AM.png"></div></div><div class="isomer-card-body"><div class="isomer-card-title">This is a title for your card</div><div class="isomer-card-description">This is body text for your card. Describe your card.</div><div class="isomer-card-link">This is a link for your card</div></div></a>
 <a rel="noopener noreferrer nofollow" href="https://www.isomer.gov.sg" class="isomer-card">
 <div class="isomer-card-image">
@@ -37,8 +37,7 @@ third_nav_title: Students and Graduates
 </div>
 </a><a rel="noopener noreferrer nofollow" href="https://www.isomer.gov.sg" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="XXX" src="/images/Screenshot_2023_11_10_at_9_56_05_AM.png"></div></div><div class="isomer-card-body"><div class="isomer-card-title">This is a title for your card</div><div class="isomer-card-description">This is body text for your card. Describe your card.</div><div class="isomer-card-link">This is a link for your card</div></div></a>
 </div>
-<p></p>
-<h4>Banner - 2 col</h4>
+<h3>Banner - 2 col</h3>
 <div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="https://www.isomer.gov.sg" class="isomer-card"><div class="isomer-card-body"><div class="isomer-card-title">This is a title for your card</div><div class="isomer-card-description">This is body text for your card. Describe your card.</div><div class="isomer-card-link">This is a link for your card</div></div></a>
 <a rel="noopener noreferrer nofollow" href="https://www.isomer.gov.sg" class="isomer-card">
 <div class="isomer-card-body">
@@ -51,51 +50,64 @@ third_nav_title: Students and Graduates
 <h4>Banner - 1 col</h4>
 <div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="test link" class="isomer-card"><div class="isomer-card-body"><div class="isomer-card-title">This is the title of your card</div><div class="isomer-card-link">test link</div></div></a>
 </div>
-<h4>Logo table</h4>
-<table>
-<tbody>
-<tr>
-<th rowspan="1" colspan="1">
-<div class="isomer-image-wrapper">
-<img style="width: 100%;" height="auto" width="100%" alt="" src="/images/wogaa-logo1.png">
-</div>
-</th>
-<th rowspan="1" colspan="1">
-<div class="isomer-image-wrapper">
-<img style="width: 100%;" height="auto" width="100%" alt="" src="/images/wogaa-logo1.png">
-</div>
-</th>
-<th rowspan="1" colspan="1">
-<div class="isomer-image-wrapper">
-<img style="width: 100%;" height="auto" width="100%" alt="" src="/images/wogaa-logo1.png">
-</div>
-</th>
-</tr>
-</tbody>
-</table>
-<table>
-<tbody>
-<tr>
-<th rowspan="1" colspan="1">
-<div class="isomer-image-wrapper">
-<img style="width: 100%;" height="auto" width="100%" alt="" src="/images/wogaa-logo1.png">
-</div>
-</th>
-<th rowspan="1" colspan="1">
-<div class="isomer-image-wrapper">
-<img style="width: 100%;" height="auto" width="100%" alt="" src="/images/wogaa-logo1.png">
-</div>
-</th>
-<th rowspan="1" colspan="1">
-<div class="isomer-image-wrapper">
-<img style="width: 100%;" height="auto" width="100%" alt="" src="/images/wogaa-logo1.png">
-</div>
-</th>
-</tr>
-</tbody>
-</table>
 <p></p>
-<h4>Card table - 3 col</h4>
+<div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="https://www.isomer.gov.sg" class="isomer-card"><div class="isomer-card-body"><div class="isomer-card-title">This is a title for your card</div><div class="isomer-card-link">This is a link for your card</div></div></a>
+</div>
+<p></p>
+<hr>
+<p></p>
+<h3>Quote</h3>
+<blockquote>
+<p>“Lorem ipsum dolor sit amet consectetur. Nisl sapien egestas vulputate
+neque semper turpis. Tincidunt eget auctor sit fames cursus. Aliquam sollicitudin
+iaculis eleifend pellentesque.”</p>
+</blockquote>
+<hr>
+<h3>Logo table</h3>
+<table>
+<tbody>
+<tr>
+<th rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="width: 100%;" height="auto" width="100%" alt="" src="/images/wogaa-logo1.png">
+</div>
+</th>
+<th rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="width: 100%;" height="auto" width="100%" alt="" src="/images/wogaa-logo1.png">
+</div>
+</th>
+<th rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="width: 100%;" height="auto" width="100%" alt="" src="/images/wogaa-logo1.png">
+</div>
+</th>
+</tr>
+</tbody>
+</table>
+<table>
+<tbody>
+<tr>
+<th rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="width: 100%;" height="auto" width="100%" alt="" src="/images/wogaa-logo1.png">
+</div>
+</th>
+<th rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="width: 100%;" height="auto" width="100%" alt="" src="/images/wogaa-logo1.png">
+</div>
+</th>
+<th rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="width: 100%;" height="auto" width="100%" alt="" src="/images/wogaa-logo1.png">
+</div>
+</th>
+</tr>
+</tbody>
+</table>
+<hr>
+<h3>Card table - 3 col</h3>
 <table>
 <tbody>
 <tr>
@@ -104,46 +116,40 @@ third_nav_title: Students and Graduates
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Placeholders/Screenshot_2023_11_10_at_12_20_50_PM.png">
 </div>
-<p>Text</p>
+<p>TextLorem ipsum dolor sit amet, consectetur adipiscing elit.</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Text</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Placeholders/Screenshot_2023_11_10_at_12_20_50_PM.png">
 </div>
-<p>Text</p>
+<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit.</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Text</p>
 <div class="isomer-image-wrapper">
 <img style="width: 80%;" height="auto" width="100%" alt="" src="/images/Placeholders/Screenshot_2023_11_10_at_12_20_50_PM.png">
 </div>
-<p>Text</p>
+<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit.</p>
 </td>
 </tr>
 </tbody>
 </table>
-<p></p>
-<h4>Quote</h4>
-<blockquote>
-<p>“Lorem ipsum dolor sit amet consectetur. Nisl sapien egestas vulputate
-neque semper turpis. Tincidunt eget auctor sit fames cursus. Aliquam sollicitudin
-iaculis eleifend pellentesque.”</p>
-</blockquote>
-<p></p>
-<h4>Headshot / Info</h4>
-<table>
-<tbody>
-<tr>
-<td rowspan="1" colspan="1">
-<div class="isomer-image-wrapper">
-<img style="width: 50%;" height="auto" width="100%" alt="" src="/images/About Us/Diversity_Inclusion.png">
-</div>
-<p><strong>Mr Leong Weng Keong Joseph</strong>
-</p>
-<p>Department/Division - consectetur. Amet venenatis mattis at</p>
 <hr>
-<p></p>
+<h3>Headshot / Info</h3>
+<table>
+<tbody>
+<tr>
+<td rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="width: 80%;" height="auto" width="100%" alt="" src="/images/About Us/Diversity_Inclusion.png">
+</div>
+</td>
+<td rowspan="1" colspan="1">
+<h4>Lorem ipsum dolor sit amet</h4>
+<p>Consectetur adipiscing elit. Phasellus quis libero pellentesque, faucibus
+urna at, rutrum diam. Etiam quis magna at arcu eleifend rutrum. Cras iaculis
+suscipit nisi, id porta tellus maximus et.</p>
 </td>
 </tr>
 </tbody>
@@ -155,22 +161,20 @@ iaculis eleifend pellentesque.”</p>
 <div class="isomer-image-wrapper">
 <img style="width: 50%;" height="auto" width="100%" alt="" src="/images/About Us/Diversity_Inclusion.png">
 </div>
-<p><strong>Mr Leong Weng Keong Joseph</strong>
-</p>
+<h4><strong>Mr Leong Weng Keong Joseph</strong></h4>
 <p>Department/Division - consectetur. Amet venenatis mattis at</p>
 </td>
 <td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
 <img style="width: 50%;" height="auto" width="100%" alt="" src="/images/About Us/Diversity_Inclusion.png">
 </div>
-<p><strong>Mr Leong Weng Keong Joseph</strong>
-</p>
+<h4><strong>Mr Leong Weng Keong Joseph</strong></h4>
 <p>Department/Division - consectetur. Amet venenatis mattis at</p>
 </td>
 </tr>
 </tbody>
 </table>
-<h4>headshot 2</h4>
+<h3>Headshot 2</h3>
 <table>
 <tbody>
 <tr>
@@ -197,10 +201,12 @@ iaculis eleifend pellentesque.”</p>
 </tr>
 </tbody>
 </table>
+<hr>
 <h4><br>Image at 50% width</h4>
 <div class="isomer-image-wrapper">
 <img style="width: 50%;" height="auto" width="100%" alt="playscape" src="/images/Get Involved/Smart_Nation_PlayScape_GovTech_showcase_robot_activity.jpg">
 </div>
+<hr>
 <p></p>
 <h4>Social media table 1 col</h4>
 <div class="instagram-wrapper">
@@ -289,7 +295,7 @@ iaculis eleifend pellentesque.”</p>
 </th>
 <th rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<img style="width: 30%;" height="auto" width="100%" alt="" src="/images/find_out_more.png">
+<img style="width: 40%;" height="auto" width="100%" alt="" src="/images/find_out_more.png">
 </div>
 <p></p>
 </th>
