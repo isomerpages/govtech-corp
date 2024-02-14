@@ -99,8 +99,73 @@ quis libero pellentesque, faucibus urna at, rutrum diam.</p>
 </blockquote>
 <p></p>
 <h2>Related Content Module</h2>
-<p>Reuse cards</p>
-<p></p>
+<p>using table with image links</p>
+<table>
+<tbody>
+<tr>
+<td rowspan="1" colspan="1"><a class="isomer-image-wrapper" href="isomer.com"><img style="width: 100%" height="auto" width="100%" alt="" src="/images/technews/Five_ways_you_might_be_sabotaging_your_data_privacy_.jpg"></a>
+</td>
+<td rowspan="1" colspan="1"><a class="isomer-image-wrapper" href="isomer.com"><img style="width: 100%" height="auto" width="100%" alt="" src="/images/technews/Five_ways_you_might_be_sabotaging_your_data_privacy_.jpg"></a>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/technews/Five_ways_you_might_be_sabotaging_your_data_privacy_.jpg">
+</div>
+</td>
+<td rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/technews/Five_ways_you_might_be_sabotaging_your_data_privacy_.jpg">
+</div>
+</td>
+</tr>
+</tbody>
+</table>
+<p>using table with 2cols</p>
+<table>
+<tbody>
+<tr>
+<td rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/technews/Five_ways_you_might_be_sabotaging_your_data_privacy_.jpg">
+</div>
+</td>
+<td rowspan="1" colspan="1">
+<h4>Lorem ipsum dolor sit amet, consectetur adipiscing elit.</h4>
+<p><a href="Link" rel="noopener noreferrer nofollow" target="_blank">Link</a>
+</p>
+</td>
+</tr>
+</tbody>
+</table>
+<p>using cards without image</p>
+<div class="isomer-card-grid">
+<div class="isomer-card">
+<div class="isomer-card-body">
+<div class="isomer-card-title">Lorem ipsum dolor sit amet consectetur</div>
+<div class="isomer-card-description">Amet venenatis mattis aliquam pharetra aenean turpis nisl aliquam nisl.
+Eget maecenas pulvinar venenatis viverra sociis ut bibendum nulla. Orci
+aliquet in consequat lobortis mauris.</div>
+</div>
+</div>
+<div class="isomer-card">
+<div class="isomer-card-body">
+<div class="isomer-card-title">Lorem ipsum dolor sit amet consectetur</div>
+<div class="isomer-card-description">Amet venenatis mattis aliquam pharetra aenean turpis nisl aliquam nisl.
+Eget maecenas pulvinar venenatis viverra sociis ut bibendum nulla. Orci
+aliquet in consequat lobortis mauris.</div>
+</div>
+</div>
+<div class="isomer-card">
+<div class="isomer-card-body">
+<div class="isomer-card-title">Lorem ipsum dolor sit amet consectetur</div>
+<div class="isomer-card-description">Amet venenatis mattis aliquam pharetra aenean turpis nisl aliquam nisl.
+Eget maecenas pulvinar venenatis viverra sociis ut bibendum nulla. Orci
+aliquet in consequat lobortis mauris.</div>
+</div>
+</div>
+</div>
 <h2>3 Col Accent Card Module</h2>
 <h4>no image</h4>
 <div class="isomer-card-grid">
@@ -217,21 +282,18 @@ libero pellentesque, faucibus urna at, rutrum diam</p>
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
-<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/wogaa-logo1.png">
 </div>
 </th>
 <th rowspan="1" colspan="1">
-<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Products and Services/corppass_logo.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Products and Services/sgfindex-logo.png">
 </div>
 </th>
 <th rowspan="1" colspan="1">
-<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Products and Services/singpass-logo.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/wogaa-logo1.png">
 </div>
 </th>
 </tr>
@@ -243,12 +305,12 @@ libero pellentesque, faucibus urna at, rutrum diam</p>
 </td>
 <td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Products and Services/corppass_logo.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/wogaa-logo1.png">
 </div>
 </td>
 <td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Products and Services/corppass_logo.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Products and Services/sgfindex-logo.png">
 </div>
 </td>
 </tr>
