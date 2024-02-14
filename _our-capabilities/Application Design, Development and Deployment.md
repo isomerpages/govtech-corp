@@ -41,34 +41,28 @@ products are built to improve digital capabilities across the government</p>
 <p>As the team delivering citizen-centric products and services, our capability
 centre has a wide portfolio of past works as we build Tech for Public Good.
 Below are a few examples:</p>
-<ol data-tight="true" class="tight">
-<li>
-<p>Helping Singapore curb the spread of COVID-19 with the development of
-apps like <a href="https://www.developer.tech.gov.sg/products/categories/digital-solutions-to-address-covid-19/tracetogether/overview.html" rel="noopener noreferrer nofollow" target="_blank">TraceTogether</a> -
-a tool that was used by over 90% of Singapore residents as of 2021.</p>
-</li>
-<li>
-<p>Making it easier for entrepreneurs to start businesses with a one-stop-shop
-portal, <a href="https://www.gobusiness.gov.sg/" rel="noopener noreferrer nofollow" target="_blank">GoBusiness</a> Licensing.</p>
-</li>
-<li>
-<p>Preventing fraud in education credentials by enabling educational institutions
-to issue digital certificates via <a href="https://www.opencerts.io/" rel="noopener noreferrer nofollow" target="_blank">OpenCerts</a>, allowing for cost and time
-savings due to ease of verification.</p>
-</li>
-<li>
-<p>Facilitating inter-agency collaboration through <a href="https://www.developer.tech.gov.sg/products/categories/data-and-apis/apex-cloud/overview.html" rel="noopener noreferrer nofollow" target="_blank">APEX</a><strong> </strong>(Application
-Programming interface EXchange), a secure catalogue of all APIs across
-the government.</p>
-</li>
-<li>
-<p>Developed a government virtual assistant, <a href="https://www.developer.tech.gov.sg/products/categories/platform/virtual-intelligent-chat-assistant/overview.html" rel="noopener noreferrer nofollow" target="_blank">VICA</a> (Virtual
-Intelligent Chat Assistant) - a technology that powers chatbots across
-government agencies. The chatbot itself is also customisable, presenting
-itself as different personas for each agency such as "Ask Gayle" on GovTech's
-website, "Ask Wally" on PUB's website and more.</p>
-</li>
-</ol>
+<div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="https://www.developer.tech.gov.sg/products/categories/digital-solutions-to-address-covid-19/tracetogether/overview.html" class="isomer-card"><div class="isomer-card-body"><div class="isomer-card-title">TraceTogether</div><div class="isomer-card-description">Helping Singapore curb the spread of COVID-19 with the development of apps like TraceTogether - a tool that was used by over 90% of Singapore residents as of 2021.</div><div class="isomer-card-link">TraceTogether</div></div></a>
+<a rel="noopener noreferrer nofollow" href="https://www.gobusiness.gov.sg/" class="isomer-card">
+<div class="isomer-card-body">
+<div class="isomer-card-title">GoBusiness</div>
+<div class="isomer-card-description">Making it easier for entrepreneurs to start businesses with a one-stop-shop
+portal, GoBusiness Licensing.</div>
+<div class="isomer-card-link">GoBusiness</div>
+</div>
+</a>
+</div>
+<div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="https://www.opencerts.io/" class="isomer-card"><div class="isomer-card-body"><div class="isomer-card-title">OpenCerts</div><div class="isomer-card-description">Preventing fraud in education credentials by enabling educational institutions to issue digital certificates via OpenCerts, allowing for cost and time savings due to ease of verification.</div><div class="isomer-card-link">OpenCerts</div></div></a>
+<a rel="noopener noreferrer nofollow" href="https://www.developer.tech.gov.sg/products/categories/data-and-apis/apex-cloud/overview.html" class="isomer-card">
+<div class="isomer-card-body">
+<div class="isomer-card-title">APEX</div>
+<div class="isomer-card-description">Facilitating inter-agency collaboration through APEX (Application Programming
+Interface Exchange), a secure catalogue of all APIs across the government.</div>
+<div class="isomer-card-link">APEX</div>
+</div>
+</a>
+</div>
+<div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="https://www.developer.tech.gov.sg/products/categories/platform/virtual-intelligent-chat-assistant/overview.html" class="isomer-card"><div class="isomer-card-body"><div class="isomer-card-title">VICA (Virtual Intelligent Chat Assistant)</div><div class="isomer-card-description">Developed technology that powers chatbots across government agencies. The chatbot itself is also customisable, presenting itself as different personas for each agency such as "Ask Gayle" on GovTech's website, "Ask Wally" on PUB's website and more.</div><div class="isomer-card-link">VICA</div></div></a>
+</div>
 <h3>Want to learn more about our work?</h3>
 <p>Check out our <a href="https://www.tech.gov.sg/media/blogs/listing" rel="noopener noreferrer nofollow" target="_blank">Medium blogs</a> and
 uncover our latest projects and their development processes.</p>
