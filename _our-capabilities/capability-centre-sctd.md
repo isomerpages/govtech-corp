@@ -54,8 +54,8 @@ the Punggol Digital District —JTC's first smart and sustainable district.</div
 </div>
 </div>
 <h3>Want to learn more about our work?</h3>
-<p>Check out our Medium blog and uncover our latest projects and their development
-processes. (Link to <a href="https://medium.com/siot-govtech" rel="noopener noreferrer nofollow" target="_blank"><u>https://medium.com/siot-govtech</u></a>)</p>
+<p>Check out our <a href="https://medium.com/siot-govtech" rel="noopener noreferrer nofollow" target="_blank">Medium blog</a> and
+uncover our latest projects and their development processes.</p>
 <h3>Interested in joining our team?</h3>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="Testimonials from GovTechies in the Government ICT Infrastructure division" src="/images/About Us/capcentre_siot_quotes.jpg">
