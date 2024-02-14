@@ -48,13 +48,28 @@ of technology and engineering.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="GovTech values: Agile, Bold, Collaborative and what they mean" src="/images/About Us/ABC_Values_Info.jpg">
 </div>
+<div class="isomer-card-grid">
+<div class="isomer-card">
+<div class="isomer-card-body">
+<div class="isomer-card-title">Agile</div>
+<div class="isomer-card-description">Being prepared to disrupt ourselves, being prepared to think twice, think
+in a different way, and really make those changes on time.</div>
+</div>
+</div>
+<div class="isomer-card">
+<div class="isomer-card-body">
+<div class="isomer-card-title">Bold</div>
+<div class="isomer-card-description">Bold in adopting new solutions. “Especially where technology is involved,
+which is possibly ahead of the curve, [or even] possibly ahead of the private
+sector.</div>
+</div>
+</div>
+<div class="isomer-card">
+<div class="isomer-card-body">
+<div class="isomer-card-title">Collaborative</div>
+<div class="isomer-card-description">What we want to do in GovTech is to leverage on the resources that are
+already available.</div>
+</div>
+</div>
+</div>
 <p></p>
-<h4>1. <strong>Agile</strong>:</h4>
-<p>Being prepared to disrupt ourselves, being prepared to think twice, think
-in a different way, and really make those changes on time.</p>
-<h4>2. <strong>Bold</strong> in adoptive new solutions:</h4>
-<p>Especially where technology is involved, which is possibly ahead of the
-curve, [or even] possibly ahead of the private sector.</p>
-<h4>3. <strong>Collaborative:</strong></h4>
-<p>What we want to do in GovTech is to leverage on the resources that are
-already available.</p>
