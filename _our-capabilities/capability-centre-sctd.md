@@ -5,15 +5,6 @@ permalink: /capability-centre-sctd/
 breadcrumb: Smart City Technology
 variant: tiptap
 ---
-<div class="isomer-card-grid">
-<div class="isomer-card">
-<div class="isomer-card-body">
-<div class="isomer-card-title">Open Digital Platform</div>
-<div class="isomer-card-description">The Open Digital Platform for smart district management, starting with
-the Punggol Digital District —JTC's first smart and sustainable district.</div>
-</div>
-</div>
-</div>
 <h3>What does Smart City Technology do?</h3>
 <p>The Smart City Technology (SCTD) division, established as a capability
 centre, designs, builds, and implements a government-wide Internet of Things
