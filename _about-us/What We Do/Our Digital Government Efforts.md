@@ -27,6 +27,22 @@ and services.</div>
 </div>
 </a><a rel="noopener noreferrer nofollow" href="https://www.tech.gov.sg/singapore-digital-government-journey/user-and-business-journeys" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Simplifying user and business journeys in accessing government services" src="/images/About Us/03_User_Business_Journey.png"></div></div><div class="isomer-card-body"><div class="isomer-card-title">User and Business Journeys</div><div class="isomer-card-description">GovTech is committed to providing citizens and businesses with a simplified user journey and a single touchpoint to government services.</div><div class="isomer-card-link">Learn more</div></div></a>
 </div>
+<div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="https://www.tech.gov.sg/singapore-digital-government-journey/ai-and-data-driven-government" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Using AI technology to enhance citizen-centric government services." src="/images/About Us/04_Data_Driven_Gov_AI.png"></div></div><div class="isomer-card-body"><div class="isomer-card-title">AI and Data Driven Government</div><div class="isomer-card-description">GovTech’s Data Science and AI Division facilitates whole of government adoption of data science and AI to deliver citizen-centric government services.</div><div class="isomer-card-link">Learn more</div></div></a>
+<a rel="noopener noreferrer nofollow" href="https://www.tech.gov.sg/singapore-digital-government-journey/digital-identity" class="isomer-card">
+<div class="isomer-card-image">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Enhancement of Digital Identity services for convenient and secure online transactions" src="/images/About Us/05_Digital_Identity.png">
+</div>
+</div>
+<div class="isomer-card-body">
+<div class="isomer-card-title">Digital Identity</div>
+<div class="isomer-card-description">Singapore’s National Digital Identity Initiative (NDI) provides our citizens
+and businesses with more convenient and secure online transactions with
+both the government and private sector organisations.</div>
+<div class="isomer-card-link">Learn more</div>
+</div>
+</a><a rel="noopener noreferrer nofollow" href="https://www.tech.gov.sg/singapore-digital-government-journey/wog-platforms-and-tools" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="WOG platform and tools makes transactions with government easy and secure." src="/images/About Us/06_WOG_Platforms_Tools.png"></div></div><div class="isomer-card-body"><div class="isomer-card-title">WOG Platforms and Tools</div><div class="isomer-card-description">Transacting with the government is aimed to be easy, seamless, and secure. Government agencies will upskill and collaborate to drive digitalisation and offer better services to citizens and businesses.</div><div class="isomer-card-link">Learn more</div></div></a>
+</div>
 <p></p>
 <p></p>
 <p></p>
