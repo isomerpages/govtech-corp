@@ -5,7 +5,16 @@ permalink: /capability-centre-sctd/
 breadcrumb: Smart City Technology
 variant: tiptap
 ---
-<h3>What does Smart City Technology do? </h3>
+<div class="isomer-card-grid">
+<div class="isomer-card">
+<div class="isomer-card-body">
+<div class="isomer-card-title">Open Digital Platform</div>
+<div class="isomer-card-description">The Open Digital Platform for smart district management, starting with
+the Punggol Digital District —JTC's first smart and sustainable district.</div>
+</div>
+</div>
+</div>
+<h3>What does Smart City Technology do?</h3>
 <p>The Smart City Technology (SCTD) division, established as a capability
 centre, designs, builds, and implements a government-wide Internet of Things
 (IoT) infrastructure to support a range of Smart City applications. Formerly
@@ -22,7 +31,7 @@ to build capabilities in IoT, pilot new sensor technologies, and solve
 IoT challenges. - We also work closely with government agencies and industry
 partners to understand their pain points and develop solutions to actual
 use cases.</p>
-<h3>Our Work and Initiatives </h3>
+<h3>Our Work and Initiatives</h3>
 <p>SCTD has delivered meaningful projects that serve the nation, as well
 as prototyped solutions to meet the needs of diverse groups of users:</p>
 <div class="isomer-card-grid">
@@ -47,7 +56,7 @@ as arts and crafts.</div>
 <p></p>
 <div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="https://www.isomer.gov.sg" class="isomer-card"><div class="isomer-card-body"><div class="isomer-card-title">Open Digital Platform</div><div class="isomer-card-description">The Open Digital Platform for smart district management, starting with the Punggol Digital District —JTC's first smart and sustainable district.</div><div class="isomer-card-link">This is a link for your card</div></div></a>
 </div>
-<h3>Want to learn more about our work? </h3>
+<h3>Want to learn more about our work?</h3>
 <p>Check out our Medium blog and uncover our latest projects and their development
 processes. (Link to <a href="https://medium.com/siot-govtech" rel="noopener noreferrer nofollow" target="_blank"><u>https://medium.com/siot-govtech</u></a>)</p>
 <h3>Interested in joining our team?</h3>
@@ -117,5 +126,14 @@ to find out more about what we do!</p>
 <p>Check out our available jobs <a href="https://sggovterp.wd102.myworkdayjobs.com/PublicServiceCareers/0/refreshFacet/318c8bb6f553100021d223d9780d30be" rel="noopener noreferrer nofollow" target="_blank">here</a>{:target="_blank"}.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="Sensors and Internet of Things Quotes" src="/images/capcentre-siot-quotes.png">
+</div>
+<div class="isomer-card-grid">
+<div class="isomer-card">
+<div class="isomer-card-body">
+<div class="isomer-card-title">Open Digital Platform</div>
+<div class="isomer-card-description">The Open Digital Platform for smart district management, starting with
+the Punggol Digital District —JTC's first smart and sustainable district.</div>
+</div>
+</div>
 </div>
 <p></p>
