@@ -4,7 +4,7 @@ permalink: /test-folder/permalink/
 variant: tiptap
 description: ""
 ---
-<h2>Headshot Module</h2>
+<h2>1. Headshot Module</h2>
 <div class="isomer-card-grid">
 <div class="isomer-card">
 <div class="isomer-card-image">
@@ -43,7 +43,7 @@ mattis at</div>
 </div>
 </div>
 </div>
-<h2>Product Card Module</h2>
+<h2>2. Product Card Module</h2>
 <h4>3 col</h4>
 <div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="https://www.isomer.gov.sg" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Placeholder image" src="/images/Products and Services/singpass-security-measures.jpg"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Card title</div><div class="isomer-card-description">Lorem ipsum dolor sit amet consectetur. Amet venenatis mattis aliquam pharetra aenean turpis nisl aliquam nisl. Eget maecenas pulvinar venenatis viverra sociis ut bibendum nulla. Orci aliquet in consequat lobortis mauris.</div><div class="isomer-card-link">Find Out More</div></div></a>
 <a rel="noopener noreferrer nofollow" href="https://www.isomer.gov.sg" class="isomer-card">
@@ -82,7 +82,7 @@ viverra sociis ut bibendum nulla. Orci aliquet in consequat lobortis mauris.</di
 <div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="https://www.isomer.gov.sg" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Placeholder image" src="/images/Products and Services/gobusiness-header.png"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Card title</div><div class="isomer-card-description">Lorem ipsum dolor sit amet consectetur. Amet venenatis mattis aliquam pharetra aenean turpis nisl aliquam nisl. Eget maecenas pulvinar venenatis viverra sociis ut bibendum nulla. Orci aliquet in consequat lobortis mauris.</div><div class="isomer-card-link">Find Out More</div></div></a>
 </div>
 <p></p>
-<h2>Info Module</h2>
+<h2>3. Info Module</h2>
 <p>hyperlink cannot be within text, always placed below</p>
 <div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="https://www.isomer.gov.sg" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Placeholder image" src="/images/Products and Services/singpass-security-measures.jpg"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Card title</div><div class="isomer-card-description">Lorem ipsum dolor sit amet consectetur. Amet venenatis mattis aliquam pharetra aenean turpis nisl aliquam nisl. Eget maecenas pulvinar venenatis viverra sociis ut bibendum nulla. Orci aliquet in consequat lobortis mauris.</div><div class="isomer-card-link">Find Out More</div></div></a>
 <a rel="noopener noreferrer nofollow" href="https://www.isomer.gov.sg" class="isomer-card">
@@ -101,7 +101,7 @@ viverra sociis ut bibendum nulla. Orci aliquet in consequat lobortis mauris.</di
 </a><a rel="noopener noreferrer nofollow" href="https://www.isomer.gov.sg" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Placeholder image" src="/images/Products and Services/gobusiness-header.png"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Card title</div><div class="isomer-card-description">Lorem ipsum dolor sit amet consectetur. Amet venenatis mattis aliquam pharetra aenean turpis nisl aliquam nisl. Eget maecenas pulvinar venenatis viverra sociis ut bibendum nulla. Orci aliquet in consequat lobortis mauris.</div><div class="isomer-card-link">Find Out More</div></div></a>
 </div>
 <h4></h4>
-<h2>Quote Module</h2>
+<h2>4. Quote Module</h2>
 <blockquote>
 <p>[Regular] Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus
 quis libero pellentesque, faucibus urna at, rutrum diam.</p>
@@ -115,7 +115,7 @@ quis libero pellentesque, faucibus urna at, rutrum diam.</p>
 <h3>[Heading 2]Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus quis libero pellentesque, faucibus urna at, rutrum diam.</h3>
 </blockquote>
 <p></p>
-<h2>Related Content Module</h2>
+<h2>5. Related Content Module</h2>
 <p>using table with image links</p>
 <table>
 <tbody>
@@ -151,7 +151,7 @@ aliquet in consequat lobortis mauris.</div>
 </div>
 </a><a rel="noopener noreferrer nofollow" href="link" class="isomer-card"><div class="isomer-card-body"><div class="isomer-card-title">Lorem ipsum dolor sit amet consectetur</div><div class="isomer-card-description">Amet venenatis mattis aliquam pharetra aenean turpis nisl aliquam nisl. Eget maecenas pulvinar venenatis viverra sociis ut bibendum nulla. Orci aliquet in consequat lobortis mauris.</div><div class="isomer-card-link">Link</div></div></a>
 </div>
-<h2>3 Col Accent Card Module</h2>
+<h2>6. 3 Col Accent Card Module</h2>
 <h4>no image</h4>
 <div class="isomer-card-grid">
 <div class="isomer-card">
@@ -221,7 +221,7 @@ aliquet in consequat lobortis mauris.</div>
 </div>
 </div>
 </div>
-<h2>2 Col Call Out Module</h2>
+<h2>7. 2 Col Call Out Module</h2>
 <div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="https://www.isomer.gov.sg" class="isomer-card"><div class="isomer-card-body"><div class="isomer-card-title">Card title</div><div class="isomer-card-description">Lorem ipsum dolor sit amet consectetur. Amet venenatis mattis aliquam pharetra aenean turpis nisl aliquam nisl. Eget maecenas pulvinar venenatis viverra sociis ut bibendum nulla. Orci aliquet in consequat lobortis mauris.</div><div class="isomer-card-link">Find Out More</div></div></a>
 <a rel="noopener noreferrer nofollow" href="https://www.isomer.gov.sg" class="isomer-card">
 <div class="isomer-card-body">
@@ -233,7 +233,7 @@ viverra sociis ut bibendum nulla. Orci aliquet in consequat lobortis mauris.</di
 </div>
 </a>
 </div>
-<h2>3 Col Call Out Module</h2>
+<h2>8. 3 Col Call Out Module</h2>
 <div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="https://www.isomer.gov.sg" class="isomer-card"><div class="isomer-card-body"><div class="isomer-card-title">Card title</div><div class="isomer-card-description">Lorem ipsum dolor sit amet consectetur. Amet venenatis mattis aliquam pharetra aenean turpis nisl aliquam nisl. Eget maecenas pulvinar venenatis viverra sociis ut bibendum nulla. Orci aliquet in consequat lobortis mauris.</div><div class="isomer-card-link">Find Out More</div></div></a>
 <a rel="noopener noreferrer nofollow" href="https://www.isomer.gov.sg" class="isomer-card">
 <div class="isomer-card-body">
@@ -245,23 +245,23 @@ viverra sociis ut bibendum nulla. Orci aliquet in consequat lobortis mauris.</di
 </div>
 </a><a rel="noopener noreferrer nofollow" href="https://www.isomer.gov.sg" class="isomer-card"><div class="isomer-card-body"><div class="isomer-card-title">Card title</div><div class="isomer-card-description">Lorem ipsum dolor sit amet consectetur. Amet venenatis mattis aliquam pharetra aenean turpis nisl aliquam nisl. Eget maecenas pulvinar venenatis viverra sociis ut bibendum nulla. Orci aliquet in consequat lobortis mauris.</div><div class="isomer-card-link">Find Out More</div></div></a>
 </div>
-<h2>1 Col Call Out Module</h2>
+<h2>9. 1 Col Call Out Module</h2>
 <div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="https://www.isomer.gov.sg" class="isomer-card"><div class="isomer-card-body"><div class="isomer-card-title">Card title</div><div class="isomer-card-description">Lorem ipsum dolor sit amet consectetur. Amet venenatis mattis aliquam pharetra aenean turpis nisl aliquam nisl. Eget maecenas pulvinar venenatis viverra sociis ut bibendum nulla. Orci aliquet in consequat lobortis mauris.</div><div class="isomer-card-link">Find Out More</div></div></a>
 </div>
-<h2>Intro Module</h2>
+<h2>10. Intro Module</h2>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/technews/Five_ways_you_might_be_sabotaging_your_data_privacy_.jpg">
 </div>
 <h4>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus quis libero pellentesque, faucibus urna at, rutrum diam.</h4>
 <p></p>
-<h2>Get In Touch Module</h2>
+<h2>11. Get In Touch Module</h2>
 <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus quis
 libero pellentesque, faucibus urna at, rutrum diam</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/tracetogethertest1.jpg">
 </div>
 <h4><a href="www.isomer.com" rel="noopener noreferrer nofollow" target="_blank">Get In Touch</a></h4>
-<h2>Logo Showcase Module</h2>
+<h2>12. Logo Showcase Module</h2>
 <table>
 <tbody>
 <tr>
@@ -311,20 +311,20 @@ libero pellentesque, faucibus urna at, rutrum diam</p>
 </tr>
 </tbody>
 </table>
-<h2>Video Module</h2>
+<h2>13. Video Module</h2>
 <div class="iframe-wrapper">
 <iframe height="500" width="100%" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/MfkeAoVo4Vo?si=Mn1ssByy4RAiSBQw"></iframe>
 </div>
-<h2>Accordion Module</h2>
+<h2>14. Accordion Module</h2>
 <p>Release in End Feb on isomer</p>
-<h2>Form Module</h2>
+<h2>15. Form Module</h2>
 <p>GT to check Mailchimp feasibility or porting over to formsg to embed</p>
 <p></p>
-<h2><s>Image Collage Module</s></h2>
+<h2><s>16. Image Collage Module</s></h2>
 <p>does not look good in mobile, upload images separately</p>
-<h2><s>Plain Card Module [TLDR]</s></h2>
+<h2><s>17. Plain Card Module [TLDR]</s></h2>
 <p>unable to have coloured background – utilise normal text</p>
-<h2><s>Anchor Link Module - Variant 1/2</s></h2>
+<h2><s>18. &amp; 19. Anchor Link Module - Variant 1/2</s></h2>
 <p>unable to anchor within same page</p>
 <p></p>
 <p></p>
