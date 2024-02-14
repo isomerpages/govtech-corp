@@ -116,7 +116,7 @@ third_nav_title: Students and Graduates
 <td rowspan="1" colspan="1">
 <p>Text</p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Placeholders/Screenshot_2023_11_10_at_12_20_50_PM.png">
+<img style="width: 80%;" height="auto" width="100%" alt="" src="/images/Placeholders/Screenshot_2023_11_10_at_12_20_50_PM.png">
 </div>
 <p>Text</p>
 </td>
@@ -136,6 +136,13 @@ iaculis eleifend pellentesque.”</p>
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="width: 50%;" height="auto" width="100%" alt="" src="/images/About Us/Diversity_Inclusion.png">
+</div>
+<p><strong>Mr Leong Weng Keong Joseph</strong>
+</p>
+<p>Department/Division - consectetur. Amet venenatis mattis at</p>
+<hr>
 <p></p>
 </td>
 </tr>
@@ -151,8 +158,6 @@ iaculis eleifend pellentesque.”</p>
 <p><strong>Mr Leong Weng Keong Joseph</strong>
 </p>
 <p>Department/Division - consectetur. Amet venenatis mattis at</p>
-<hr>
-<p></p>
 </td>
 <td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
@@ -161,13 +166,11 @@ iaculis eleifend pellentesque.”</p>
 <p><strong>Mr Leong Weng Keong Joseph</strong>
 </p>
 <p>Department/Division - consectetur. Amet venenatis mattis at</p>
-<hr>
-<p></p>
 </td>
 </tr>
 </tbody>
 </table>
-<p>headshot 2</p>
+<h4>headshot 2</h4>
 <table>
 <tbody>
 <tr>
@@ -176,12 +179,25 @@ iaculis eleifend pellentesque.”</p>
 <p></p>
 <p>Department/Division - consectetur. Amet venenatis mattis at</p>
 </td>
-<td rowspan="1" colspan="1"><a class="isomer-image-wrapper" href="https://www.google.com/"><img style="width: 80%;" height="auto" width="100%" alt="" src="/images/Placeholders/Screenshot_2023_11_10_at_12_20_50_PM.png"></a>
+<td rowspan="1" colspan="1"><a class="isomer-image-wrapper" href="https://www.google.com/"><img style="width: 100%;" height="auto" width="100%" alt="" src="/images/Placeholders/Screenshot_2023_11_10_at_12_20_50_PM.png"></a>
 </td>
 </tr>
 </tbody>
 </table>
-<h4>Image at 50% width</h4>
+<table>
+<tbody>
+<tr>
+<td rowspan="1" colspan="1"><a class="isomer-image-wrapper" href="https://www.google.com/"><img style="width: 100%;" height="auto" width="100%" alt="" src="/images/Placeholders/Screenshot_2023_11_10_at_12_20_50_PM.png"></a>
+</td>
+<td rowspan="1" colspan="1">
+<h4><strong>Mr Leong Weng Keong Joseph Lorem Lipsup</strong></h4>
+<p></p>
+<p>Department/Division - consectetur. Amet venenatis mattis at</p>
+</td>
+</tr>
+</tbody>
+</table>
+<h4><br>Image at 50% width</h4>
 <div class="isomer-image-wrapper">
 <img style="width: 50%;" height="auto" width="100%" alt="playscape" src="/images/Get Involved/Smart_Nation_PlayScape_GovTech_showcase_robot_activity.jpg">
 </div>
