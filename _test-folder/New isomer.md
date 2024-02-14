@@ -83,7 +83,24 @@ viverra sociis ut bibendum nulla. Orci aliquet in consequat lobortis mauris.</di
 </div>
 <p></p>
 <h2>Info Module</h2>
-<p>Reuse cards</p>
+<p>hyperlink cannot be within text, always placed below</p>
+<div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="https://www.isomer.gov.sg" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Placeholder image" src="/images/Products and Services/singpass-security-measures.jpg"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Card title</div><div class="isomer-card-description">Lorem ipsum dolor sit amet consectetur. Amet venenatis mattis aliquam pharetra aenean turpis nisl aliquam nisl. Eget maecenas pulvinar venenatis viverra sociis ut bibendum nulla. Orci aliquet in consequat lobortis mauris.</div><div class="isomer-card-link">Find Out More</div></div></a>
+<a rel="noopener noreferrer nofollow" href="https://www.isomer.gov.sg" class="isomer-card">
+<div class="isomer-card-image">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Placeholder image" src="/images/Products and Services/lifesg-header.jpg">
+</div>
+</div>
+<div class="isomer-card-body">
+<div class="isomer-card-title">Card title</div>
+<div class="isomer-card-description">Lorem ipsum dolor sit amet consectetur. Amet venenatis mattis aliquam
+pharetra aenean turpis nisl aliquam nisl. Eget maecenas pulvinar venenatis
+viverra sociis ut bibendum nulla. Orci aliquet in consequat lobortis mauris.</div>
+<div class="isomer-card-link">Find Out More</div>
+</div>
+</a><a rel="noopener noreferrer nofollow" href="https://www.isomer.gov.sg" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Placeholder image" src="/images/Products and Services/gobusiness-header.png"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Card title</div><div class="isomer-card-description">Lorem ipsum dolor sit amet consectetur. Amet venenatis mattis aliquam pharetra aenean turpis nisl aliquam nisl. Eget maecenas pulvinar venenatis viverra sociis ut bibendum nulla. Orci aliquet in consequat lobortis mauris.</div><div class="isomer-card-link">Find Out More</div></div></a>
+</div>
+<h4></h4>
 <h2>Quote Module</h2>
 <blockquote>
 <p>[Regular] Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus
@@ -122,49 +139,17 @@ quis libero pellentesque, faucibus urna at, rutrum diam.</p>
 </tr>
 </tbody>
 </table>
-<p>using table with 2cols</p>
-<table>
-<tbody>
-<tr>
-<td rowspan="1" colspan="1">
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/technews/Five_ways_you_might_be_sabotaging_your_data_privacy_.jpg">
-</div>
-</td>
-<td rowspan="1" colspan="1">
-<h4>Lorem ipsum dolor sit amet, consectetur adipiscing elit.</h4>
-<p><a href="Link" rel="noopener noreferrer nofollow" target="_blank">Link</a>
-</p>
-</td>
-</tr>
-</tbody>
-</table>
 <p>using cards without image</p>
-<div class="isomer-card-grid">
-<div class="isomer-card">
+<div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="Link" class="isomer-card"><div class="isomer-card-body"><div class="isomer-card-title">Lorem ipsum dolor sit amet consectetur</div><div class="isomer-card-description">Amet venenatis mattis aliquam pharetra aenean turpis nisl aliquam nisl. Eget maecenas pulvinar venenatis viverra sociis ut bibendum nulla. Orci aliquet in consequat lobortis mauris.</div><div class="isomer-card-link">Link</div></div></a>
+<a rel="noopener noreferrer nofollow" href="Link" class="isomer-card">
 <div class="isomer-card-body">
 <div class="isomer-card-title">Lorem ipsum dolor sit amet consectetur</div>
 <div class="isomer-card-description">Amet venenatis mattis aliquam pharetra aenean turpis nisl aliquam nisl.
 Eget maecenas pulvinar venenatis viverra sociis ut bibendum nulla. Orci
 aliquet in consequat lobortis mauris.</div>
+<div class="isomer-card-link">Link</div>
 </div>
-</div>
-<div class="isomer-card">
-<div class="isomer-card-body">
-<div class="isomer-card-title">Lorem ipsum dolor sit amet consectetur</div>
-<div class="isomer-card-description">Amet venenatis mattis aliquam pharetra aenean turpis nisl aliquam nisl.
-Eget maecenas pulvinar venenatis viverra sociis ut bibendum nulla. Orci
-aliquet in consequat lobortis mauris.</div>
-</div>
-</div>
-<div class="isomer-card">
-<div class="isomer-card-body">
-<div class="isomer-card-title">Lorem ipsum dolor sit amet consectetur</div>
-<div class="isomer-card-description">Amet venenatis mattis aliquam pharetra aenean turpis nisl aliquam nisl.
-Eget maecenas pulvinar venenatis viverra sociis ut bibendum nulla. Orci
-aliquet in consequat lobortis mauris.</div>
-</div>
-</div>
+</a><a rel="noopener noreferrer nofollow" href="link" class="isomer-card"><div class="isomer-card-body"><div class="isomer-card-title">Lorem ipsum dolor sit amet consectetur</div><div class="isomer-card-description">Amet venenatis mattis aliquam pharetra aenean turpis nisl aliquam nisl. Eget maecenas pulvinar venenatis viverra sociis ut bibendum nulla. Orci aliquet in consequat lobortis mauris.</div><div class="isomer-card-link">Link</div></div></a>
 </div>
 <h2>3 Col Accent Card Module</h2>
 <h4>no image</h4>
@@ -275,8 +260,7 @@ libero pellentesque, faucibus urna at, rutrum diam</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/tracetogethertest1.jpg">
 </div>
-<p><a href="www.isomer.com" rel="noopener noreferrer nofollow" target="_blank">Get In Touch</a>
-</p>
+<h4><a href="www.isomer.com" rel="noopener noreferrer nofollow" target="_blank">Get In Touch</a></h4>
 <h2>Logo Showcase Module</h2>
 <table>
 <tbody>
@@ -325,7 +309,9 @@ libero pellentesque, faucibus urna at, rutrum diam</p>
 <p>GT to check Mailchimp feasibility</p>
 <p></p>
 <h2><s>Image Collage Module</s></h2>
+<p>does not look good in mobile, upload images separately</p>
 <h2><s>Plain Card Module [TLDR]</s></h2>
+<p>unable to have coloured background – utilise normal text</p>
 <h2><s>Anchor Link Module - Variant 1/2</s></h2>
 <p>unable to anchor within same page</p>
 <p></p>
