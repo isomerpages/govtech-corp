@@ -81,4 +81,3 @@ the products and services developed by our team.</p>
 <p>Some of the key roles in our capability centre include UX designers, Software
 engineers, Quality engineers, DevOps engineers, Delivery managers and more.</p>
 <p>Learn more about career opportunities and what you stand to gain <a href="https://careers.tech.gov.sg/" rel="noopener noreferrer nofollow" target="_blank">here</a>.</p>
-<p></p>
