@@ -27,8 +27,8 @@ too!</p>
 </div>
 <p></p>
 <blockquote>
-<p>"We learnt first-hand from the engineers about the myriad of technologies
-used to solve different nationwide problems." - Ong Yi Chen</p>
+<p><em>"We learnt first-hand from the engineers about the myriad of technologies used to solve different nationwide problems." - Ong Yi Chen</em>
+</p>
 </blockquote>
 <p></p>
 <div class="instagram-wrapper">
@@ -42,8 +42,8 @@ used to solve different nationwide problems." - Ong Yi Chen</p>
 </div>
 <p></p>
 <blockquote>
-<p>"I picked up new concepts such as design thinking. My favourite part would
-be having my personal Arduino kit to tinker with." - Vania Lim</p>
+<p><em>"I picked up new concepts such as design thinking. My favourite part would be having my personal Arduino kit to tinker with." - Vania Lim</em>
+</p>
 </blockquote>
 <p></p>
 <div class="instagram-wrapper">
@@ -57,10 +57,9 @@ be having my personal Arduino kit to tinker with." - Vania Lim</p>
 </div>
 <p></p>
 <blockquote>
-<p>“At the bootcamp, I got the chance to broaden my knowledge of tech beyond
-the areas I was already familiar with!" - Glenda Teo</p>
+<p><em>“At the bootcamp, I got the chance to broaden my knowledge of tech beyond the areas I was already familiar with!" - Glenda Teo</em>
+</p>
 </blockquote>
-<p></p>
 <p></p>
 <div class="instagram-wrapper">
 <blockquote style="background:#FFF; border:0; border-radius:3px; box-shadow:0 0 1px 0 rgba(0,0,0,0.5),0 1px 10px 0 rgba(0,0,0,0.15); margin: 1px; max-width:540px; min-width:326px; padding:0; width:99.375%; width:-webkit-calc(100% - 2px); width:calc(100% - 2px);" data-instgrm-version="14" data-instgrm-permalink="https://www.instagram.com/p/CcxLgKKMfqu/?utm_source=ig_embed&amp;utm_campaign=loading" class="instagram-media">
