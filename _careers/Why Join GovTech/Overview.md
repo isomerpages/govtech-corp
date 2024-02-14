@@ -64,78 +64,50 @@ and be moulded into a confident leader.</p>
 <p>Ensuring our employees are able to maintain a healthy work-life balance
 is a priority for us. We have numerous policies in place that help create
 and sustain our signature employee-centric culture.</p>
-<p></p>
-<table>
-<tbody>
-<tr>
-<th rowspan="1" colspan="1">
-<p></p>
-</th>
-<th rowspan="1" colspan="1">
-<p></p>
-</th>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p><strong>A supportive environment</strong>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Face challenges and step out of your comfort zone with the backing of
-nurturing colleagues and mentors.</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p><strong>Hybrid work arrangements</strong>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Enjoy flexibility as to how and where you want to work. Have the autonomy
-to manage your own time!</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p><strong>Work in a diverse environment</strong>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Being able to listen to and consider different viewpoints will sharpen
-your strategic thinking.</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p><strong>Young talent programmes</strong>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Receive the necessary guidance you need to excel in your chosen field.</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p><strong>Special interest groups</strong>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Connect with fellow hobbyists in the organisation and build a great social
-life for yourself.</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p><strong>Events at GovTech</strong>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Work hard, play harder! Our fun-filled events range from dinner-and-dance
-nights to festive celebrations.</p>
-</td>
-</tr>
-</tbody>
-</table>
+<h3>Banner - 3 col (no photo)</h3>
+<div class="isomer-card-grid">
+<div class="isomer-card">
+<div class="isomer-card-body">
+<div class="isomer-card-title">A supportive environment</div>
+<div class="isomer-card-description">Face challenges and step out of your comfort zone with the backing of
+nurturing colleagues and mentors.</div>
+</div>
+</div>
+<div class="isomer-card">
+<div class="isomer-card-body">
+<div class="isomer-card-title">Hybrid work arrangements</div>
+<div class="isomer-card-description">Enjoy flexibility as to how and where you want to work. Have the autonomy
+to manage your own time!</div>
+</div>
+</div>
+<div class="isomer-card">
+<div class="isomer-card-body">
+<div class="isomer-card-title">Work in a diverse environment</div>
+<div class="isomer-card-description">Being able to listen to and consider different viewpoints will sharpen
+your strategic thinking.</div>
+</div>
+</div>
+<div class="isomer-card">
+<div class="isomer-card-body">
+<div class="isomer-card-title">Young talent programmes</div>
+<div class="isomer-card-description">Receive the necessary guidance you need to excel in your chosen field.</div>
+</div>
+</div>
+<div class="isomer-card">
+<div class="isomer-card-body">
+<div class="isomer-card-title">Special interest groups</div>
+<div class="isomer-card-description">Connect with fellow hobbyists in the organisation and build a great social
+life for yourself.</div>
+</div>
+</div>
+<div class="isomer-card">
+<div class="isomer-card-body">
+<div class="isomer-card-title">Events at GovTech</div>
+<div class="isomer-card-description">Work hard, play harder! Our fun-filled events range from dinner-and-dance
+nights to festive celebrations.</div>
+</div>
+</div>
+</div>
 <p></p>
 <h3>A peek into our work culture</h3>
 <div class="iframe-wrapper">
