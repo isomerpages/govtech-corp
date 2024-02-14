@@ -43,7 +43,22 @@ both the government and private sector organisations.</div>
 </div>
 </a><a rel="noopener noreferrer nofollow" href="https://www.tech.gov.sg/singapore-digital-government-journey/wog-platforms-and-tools" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="WOG platform and tools makes transactions with government easy and secure." src="/images/About Us/06_WOG_Platforms_Tools.png"></div></div><div class="isomer-card-body"><div class="isomer-card-title">WOG Platforms and Tools</div><div class="isomer-card-description">Transacting with the government is aimed to be easy, seamless, and secure. Government agencies will upskill and collaborate to drive digitalisation and offer better services to citizens and businesses.</div><div class="isomer-card-link">Learn more</div></div></a>
 </div>
-<p></p>
+<div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="https://www.tech.gov.sg/singapore-digital-government-journey/cybersecurity" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Cybersecurity Group (CSG) develops the cybersecurity strategy for the Government and secures digital services." src="/images/About Us/07_Cybersecurity.png"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Cybersecurity</div><div class="isomer-card-description">The Cybersecurity Group (CSG) develops the cybersecurity strategy for the Government, secures the usage of government digital services for the public and protects the Government’s ICT systems and Smart systems.</div><div class="isomer-card-link">Learn more</div></div></a>
+<a rel="noopener noreferrer nofollow" href="https://www.tech.gov.sg/singapore-digital-government-journey/diversity-and-inclusion" class="isomer-card">
+<div class="isomer-card-image">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Commitment to diversity and inclusion in all areas of our work with external and internal stakeholders, local communities" src="/images/About Us/08_Diversity_Inclusion.png">
+</div>
+</div>
+<div class="isomer-card-body">
+<div class="isomer-card-title">Diversity and Inclusion</div>
+<div class="isomer-card-description">We are committed to diversity and inclusion in all areas of our work with
+external and internal stakeholders, including empowering vulnerable communities,
+designing inclusive products, and creating an inclusive tech community.</div>
+<div class="isomer-card-link">Learn more</div>
+</div>
+</a><a rel="noopener noreferrer nofollow" href="https://www.tech.gov.sg/singapore-digital-government-journey/sustainability" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="GovTech to lead in decarbonising public sector technology to mitigate global warming and secure a smart and sustainable future for SG citizens." src="/images/About Us/09_Sustainability.png"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Sustainability</div><div class="isomer-card-description">As part of Singapore's Green Plan 2030, GovTech is taking the lead in decarbonising public sector technology in order to mitigate global warming and secure a smart and sustainable future for the people living in Singapore.</div><div class="isomer-card-link">Learn more</div></div></a>
+</div>
 <p></p>
 <p></p>
 <p></p>
