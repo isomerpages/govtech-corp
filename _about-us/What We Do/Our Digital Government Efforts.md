@@ -11,7 +11,7 @@ variant: tiptap
 harness new technologies, and drive broader efforts to build a digital
 economy and society.</p>
 <p>These efforts help support the larger Smart Nation vision and are classified
-as the areas below:</p>
+into the areas below:</p>
 <div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="https://www.tech.gov.sg/singapore-digital-government-journey/tech-for-public-good" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Technology being utilised to serve the public and improve the quality of living" src="/images/About Us/01_Tech_for_Public_Good.png"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Tech for Public Good</div><div class="isomer-card-description">Cultivating a Digital Government that is “Digital to the Core, and Serves with Heart,” GovTech has developed technologies that are tailored to the needs of our citizens and businesses and empower them to achieve a greater quality of life.</div><div class="isomer-card-link">Learn more</div></div></a>
 <a rel="noopener noreferrer nofollow" href="https://www.tech.gov.sg/singapore-digital-government-journey/citizen-engagement-and-cocreation" class="isomer-card">
 <div class="isomer-card-image">
