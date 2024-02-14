@@ -26,7 +26,6 @@ technologist, designer or applied researcher, we need your expertise and
 experience!</p>
 </li>
 </ul>
-<hr>
 <h3>What you gain</h3>
 <ul data-tight="true" class="tight">
 <li>
@@ -41,13 +40,9 @@ citizen</p>
 that we have pre-identified, or propose new, innovative projects across
 tech domains from artificial intelligence, blockchain, cloud, data science,
 app development, cybersecurity to sensors &amp; IoT.</p>
+<p></p>
 </li>
 </ul>
-<p><strong>Interested? Find out more here:</strong>
-</p>
-<p><a href="https://go.gov.sg/govtechcareers" rel="noopener noreferrer nofollow" target="\_blank">Apply Now</a> (Links
-to relevant application portal)</p>
-<hr>
 <h3>Hear from our Fellows</h3>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="Smart Nation Fellowship Fellows" src="/images/careers/Smart_Nation_Fellowship_Group2.png">
