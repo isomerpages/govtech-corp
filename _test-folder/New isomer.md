@@ -304,9 +304,10 @@ libero pellentesque, faucibus urna at, rutrum diam</p>
 <div class="iframe-wrapper">
 <iframe height="500" width="100%" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/MfkeAoVo4Vo?si=Mn1ssByy4RAiSBQw"></iframe>
 </div>
-<h2>Accordion Module [End Feb]</h2>
+<h2>Accordion Module</h2>
+<p>Release in End Feb on isomer</p>
 <h2>Form Module</h2>
-<p>GT to check Mailchimp feasibility</p>
+<p>GT to check Mailchimp feasibility or porting over to formsg to embed</p>
 <p></p>
 <h2><s>Image Collage Module</s></h2>
 <p>does not look good in mobile, upload images separately</p>
