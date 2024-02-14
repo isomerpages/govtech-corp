@@ -56,7 +56,7 @@ an automated temperature screening access control system that also interfaces
 with face recognition for identification.</p>
 </li>
 <li>
-<p>Development and deployment of data-driven products and WOG platforms such
+<p>Development and deployment of data-driven products and <a href="https://www.tech.gov.sg/singapore-digital-government-journey/wog-platforms-and-tools" rel="noopener noreferrer nofollow" target="_blank">WOG platforms</a> such
 as a central and secure data exploitation platform.</p>
 </li>
 <li>
