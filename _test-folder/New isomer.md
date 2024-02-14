@@ -298,6 +298,17 @@ libero pellentesque, faucibus urna at, rutrum diam</p>
 </div>
 </td>
 </tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<h4><a href="www.isomer.com" rel="noopener noreferrer nofollow" target="_blank">Find Out More</a></h4>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
 </tbody>
 </table>
 <h2>Video Module</h2>
