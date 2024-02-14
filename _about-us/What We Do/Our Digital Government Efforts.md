@@ -5,28 +5,30 @@ description: ""
 third_nav_title: What We Do
 variant: tiptap
 ---
-<h3>Our Digital Government Efforts<strong> </strong></h3>
+<h3>Our Digital Government Efforts</h3>
 <p>These efforts are aligned with the Digital Government Blueprint (DGB)
 2.0, which represents the Government’s ambition to better leverage data,
 harness new technologies, and drive broader efforts to build a digital
 economy and society. These efforts help support the larger Smart Nation
 vision and are classified as the areas below.</p>
-<p></p>
-<p></p>
 <div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="https://www.tech.gov.sg/singapore-digital-government-journey/tech-for-public-good" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Technology being utilised to serve the public and improve the quality of living" src="/images/About Us/01_Tech_for_Public_Good.png"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Tech for Public Good</div><div class="isomer-card-description">Cultivating a Digital Government that is “Digital to the Core, and Serves with Heart,” GovTech has developed technologies that are tailored to the needs of our citizens and businesses and empower them to achieve a greater quality of life.</div><div class="isomer-card-link">Learn more</div></div></a>
-<a rel="noopener noreferrer nofollow" href="https://www.isomer.gov.sg" class="isomer-card">
+<a rel="noopener noreferrer nofollow" href="https://www.tech.gov.sg/singapore-digital-government-journey/citizen-engagement-and-cocreation" class="isomer-card">
 <div class="isomer-card-image">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Placeholder image" src="https://placehold.co/600x400">
+<img style="width: 100%" height="auto" width="100%" alt="Citizen Engagement and Co-creation in the creation of products and services" src="/images/About Us/02_Citizen_Engagement.png">
 </div>
 </div>
 <div class="isomer-card-body">
-<div class="isomer-card-title">This is a title for your card</div>
-<div class="isomer-card-description">This is body text for your card. Describe your card.</div>
-<div class="isomer-card-link">This is a link for your card</div>
+<div class="isomer-card-title">Citizen Engagement and Co-creation</div>
+<div class="isomer-card-description">At GovTech, we believe that public engagement and participation will help
+us identify citizen’s needs more accurately and refine government products
+and services.</div>
+<div class="isomer-card-link">Learn more</div>
 </div>
-</a><a rel="noopener noreferrer nofollow" href="https://www.isomer.gov.sg" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Placeholder image" src="https://placehold.co/600x400"></div></div><div class="isomer-card-body"><div class="isomer-card-title">This is a title for your card</div><div class="isomer-card-description">This is body text for your card. Describe your card.</div><div class="isomer-card-link">This is a link for your card</div></div></a>
+</a><a rel="noopener noreferrer nofollow" href="https://www.tech.gov.sg/singapore-digital-government-journey/user-and-business-journeys" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Simplifying user and business journeys in accessing government services" src="/images/About Us/03_User_Business_Journey.png"></div></div><div class="isomer-card-body"><div class="isomer-card-title">User and Business Journeys</div><div class="isomer-card-description">GovTech is committed to providing citizens and businesses with a simplified user journey and a single touchpoint to government services.</div><div class="isomer-card-link">Learn more</div></div></a>
 </div>
+<p></p>
+<p></p>
 <p></p>
 <p></p>
 <p></p>
