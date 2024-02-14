@@ -10,7 +10,7 @@ under Digital Government Efforts)</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/About Us/214202582_L__Compressed_.jpg">
 </div>
-<h3>Our journey to net zero with the Singapore Green Plan 2030 </h3>
+<h3>Our journey to net zero with the Singapore Green Plan 2030</h3>
 <p>In 2021, the Singapore Government unveiled the <a href="https://www.greenplan.gov.sg/" rel="noopener noreferrer nofollow" target="_blank">Singapore Green Plan 2030</a>, an
 ambitious and rigorous strategy that outlines the country’s long-term plan
 to achieve net zero emissions by 2050 with the public sector leading the
@@ -45,37 +45,62 @@ the environment by reducing our consumption of energy, water, and waste.</div>
 </div>
 </div>
 </div>
+<div class="isomer-card-grid">
+<div class="isomer-card">
+<div class="isomer-card-body">
+<div class="isomer-card-title">Sustainable Digital Value Chain</div>
+<div class="isomer-card-description">We consider the environmental impact of our products and services, from
+the point of creation to its end-of-life.</div>
+</div>
+</div>
+<div class="isomer-card">
+<div class="isomer-card-body">
+<div class="isomer-card-title">Green Government Hosting</div>
+<div class="isomer-card-description">We centrally provide greener data centre and cloud hosting options that
+serve the whole-of-government’s consolidated needs more efficiently. All
+our data centres are Green Mark Platinum certified.</div>
+</div>
+</div>
+</div>
+<h3>Our Sustainability Framework &amp; Strategy</h3>
+<p>As part of our Sustainability Framework, GovTech is focusing on 3 key
+pillars:</p>
 <ol data-tight="true" class="tight">
 <li>
-<p>Net Zero Emissions around 2045 - We aim to peak emissions around 2025
-and achieve net zero emissions around 2045, as aligned with the public
-sector’s commitment to lead the way.</p>
+<p>Sustainable Organisation</p>
 </li>
 <li>
-<p>An Environmentally Friendly Workplace - GovTech has been Eco-Office Elite
-certified since 2022. We commit to protecting the environment by reducing
-our consumption of energy, water, and waste.</p>
+<p>Sustainable ICT &amp; SS</p>
 </li>
 <li>
-<p>Sustainable Digital Value Chain - We consider the environmental impact
-of our products and services, from the point of creation to its end-of-life.</p>
-</li>
-<li>
-<p>Green Government Hosting - We centrally provide greener data centre and
-cloud hosting options that serve the whole-of-government’s consolidated
-needs more efficiently. All our data centres are Green Mark Platinum certified.</p>
+<p>Digital Innovation for Sustainability.</p>
 </li>
 </ol>
-<h3>Our Sustainability Framework &amp; Strategy </h3>
-<p>As part of our Sustainability Framework, GovTech is focusing on 3 key
-pillars - Sustainable Organisation, Sustainable ICT&amp;SS and Digital
-Innovation for Sustainability. - Use new infographic created for About
-Us - Focus Areas (Sustainability portion) to show the 3 key pillars and
-what each entails + the 6 key enablers</p>
-<p><strong>Our key initiatives </strong>
+<p>(Use new infographic created for About Us - Focus Areas (Sustainability
+portion) to show the 3 key pillars and what each entails + the 6 key enablers)</p>
+<h3>Our key initiatives</h3>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="GovTechies during the Green GovTech Week 2023: Green Pledge and participation in green activities" src="/images/Digital Gov Efforts/Compressed__16_9__Green_GovTech_Week_2023.jpg">
+</div>
+<p><em>GovTechies got together during the Green GovTech Week (3 – 7 July 2023) to take the Green Pledge and participate in various green activities.</em>
 </p>
-<p>- Include last image on GovTech Green Week 2023 from <a href="https://www.tech.gov.sg/singapore-digital-government-journey/sustainability" rel="noopener noreferrer nofollow" target="_blank"><u>https://www.tech.gov.sg/singapore-digital-government-journey/sustainability</u></a> 
-</p>
+<p></p>
+<div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="https://www.isomer.gov.sg" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Placeholder image" src="https://placehold.co/600x400"></div></div><div class="isomer-card-body"><div class="isomer-card-title">This is a title for your card</div><div class="isomer-card-description">This is body text for your card. Describe your card.</div><div class="isomer-card-link">This is a link for your card</div></div></a>
+<a rel="noopener noreferrer nofollow" href="https://www.isomer.gov.sg" class="isomer-card">
+<div class="isomer-card-image">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Placeholder image" src="https://placehold.co/600x400">
+</div>
+</div>
+<div class="isomer-card-body">
+<div class="isomer-card-title">This is a title for your card</div>
+<div class="isomer-card-description">This is body text for your card. Describe your card.</div>
+<div class="isomer-card-link">This is a link for your card</div>
+</div>
+</a><a rel="noopener noreferrer nofollow" href="https://www.isomer.gov.sg" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Placeholder image" src="https://placehold.co/600x400"></div></div><div class="isomer-card-body"><div class="isomer-card-title">This is a title for your card</div><div class="isomer-card-description">This is body text for your card. Describe your card.</div><div class="isomer-card-link">This is a link for your card</div></div></a>
+</div>
+<p></p>
+<p></p>
 <p>1. Digital Workplace - provides digital alternatives to physical transactions
 such as tele-conferencing and digital business cards.</p>
 <p>2. Government Hosting Consolidation and Cloud Migration - centralised
@@ -94,7 +119,7 @@ and took part in a variety of activities that promote environmental sustainabili
 while learning how they can contribute to driving sustainable digitalisation
 for the public sector and a more sustainable future for Singapore. CTA:
 Follow our social media channels to stay updated on green efforts by GovTech.
-(Link to <a href="https://www.tech.gov.sg/singapore-digital-government-journey/sustainability" rel="noopener noreferrer nofollow" target="_blank"><u>https://linktr.ee/connectwithgovtech</u></a>
+(Link to <a href="https://www.tech.gov.sg/singapore-digital-government-journey/sustainability" rel="noopener noreferrer nofollow" target="_blank"><u>https://linktr.ee/connectwithgovtech</u></a> 
 <a href="https://linktr.ee/connectwithgovtech)" class="waffle-rich-text-link" rel="noopener noreferrer nofollow" target="_blank"><u>)</u>
 </a>
 </p>
