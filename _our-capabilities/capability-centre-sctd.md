@@ -61,5 +61,5 @@ uncover our latest projects and their development processes.</p>
 <img style="width: 100%" height="auto" width="100%" alt="Testimonials from GovTechies in the Government ICT Infrastructure division" src="/images/About Us/capcentre_siot_quotes.jpg">
 </div>
 <p>Some of the key roles in our capability centre include Systems Engineers,
-Robotics Engineers, Research and Development Engineers, and more. Learn
-more about career opportunities and what you stand to gain <a href="https://sggovterp.wd102.myworkdayjobs.com/PublicServiceCareers/0/refreshFacet/318c8bb6f553100021d223d9780d30be" rel="noopener noreferrer nofollow" target="_blank">here</a>.</p>
+Robotics Engineers, Research and Development Engineers, and more.</p>
+<p>Learn more about career opportunities and what you stand to gain <a href="https://sggovterp.wd102.myworkdayjobs.com/PublicServiceCareers/0/refreshFacet/318c8bb6f553100021d223d9780d30be" rel="noopener noreferrer nofollow" target="_blank">here</a>.</p>
