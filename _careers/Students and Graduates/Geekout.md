@@ -72,3 +72,12 @@ the areas I was already familiar with!" - Glenda Teo</p>
 <script src="//www.instagram.com/embed.js" async="true"></script>
 </div>
 <p></p>
+<p>Want to know more? Past GeekOut participants have reflected on their unforgettable
+experiences. Read their entries at our <a href="https://medium.com/ytpo-govtech/tagged/geek-out" rel="noopener noreferrer nofollow" target="_blank"><u>Medium blog.</u></a>
+</p>
+<p></p>
+<h3>Interested in joining GeekOut?</h3>
+<p>Keep an eye out for the 2024 applications! Meanwhile, join our GovTech
+Talent Community to stay updated on upcoming opportunities and events.</p>
+<p></p>
+<p></p>
