@@ -118,7 +118,7 @@ by as much as 30% compared to the national average.</div>
 </div>
 </div>
 </div>
-<div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="https://www.gogreen.gov.sg/about/#:~:text=Led%20by%20the%20Ministry%20of,a%20sustainable%20future%20for%20Singapore." class="isomer-card"><div class="isomer-card-body"><div class="isomer-card-title"> GovTech Green Week</div><div class="isomer-card-description">GovTechies learnt more about sustainability in support of the Go Green SG movement and took part in activities that promote environmental sustainability, while learning how they can contribute to driving sustainable digitalisation for the public sector and a more sustainable future for Singapore.</div><div class="isomer-card-link">Go Green SG Movement</div></div></a>
+<div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="https://www.gogreen.gov.sg/about/#:~:text=Led%20by%20the%20Ministry%20of,a%20sustainable%20future%20for%20Singapore." class="isomer-card"><div class="isomer-card-body"><div class="isomer-card-title">GovTech Green Week</div><div class="isomer-card-description">GovTechies learnt more about sustainability in support of the Go Green SG movement and took part in activities that promote environmental sustainability, while learning how they can contribute to driving sustainable digitalisation for the public sector and a more sustainable future for Singapore.</div><div class="isomer-card-link">Go Green SG Movement</div></div></a>
 </div>
 <p>Follow our <a href="https://linktr.ee/connectwithgovtech" rel="noopener noreferrer nofollow" target="_blank">social media channels</a> to
 stay updated on green efforts by GovTech.</p>
