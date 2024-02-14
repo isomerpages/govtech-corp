@@ -15,7 +15,7 @@ capability centre, also known as the Government Infrastructure Group (GIG),
 develops centralised ICT Infra for the whole-of-government (WOG).</p>
 <p>We are unique in developing ICT Infra at scale and as the foundational
 ICT layer that enables the entire government, impacting all government
-agencies and public officers</p>
+agencies and public officers.</p>
 <p>Our expertise lies in developing agile, secure, resilient and cost-effective
 public sector ICT infra. Our diverse scope extends across data centres/hosting,
 networks, digital workplace applications, end-user devices, IT support,
