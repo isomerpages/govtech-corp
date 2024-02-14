@@ -202,6 +202,24 @@ suscipit nisi, id porta tellus maximus et.</p>
 </tbody>
 </table>
 <hr>
+<h3>Recommended article</h3>
+<table>
+<tbody>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/technews/Don_t_let_the_scammers_huat__5_common_Lunar_New_Year_scams_.jpg">
+</div>
+</td>
+<td rowspan="1" colspan="1">
+<h4><strong>Lorem ipsum dolor sit amet</strong></h4>
+<p>Consectetur adipiscing elit. Phasellus quis libero pellentesque, faucibus
+urna at, rutrum diam. Etiam quis magna at arcu eleifend rutrum.</p>
+</td>
+</tr>
+</tbody>
+</table>
 <h4><br>Image at 50% width</h4>
 <div class="isomer-image-wrapper">
 <img style="width: 50%;" height="auto" width="100%" alt="playscape" src="/images/Get Involved/Smart_Nation_PlayScape_GovTech_showcase_robot_activity.jpg">
