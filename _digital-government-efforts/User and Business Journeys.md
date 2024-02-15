@@ -4,9 +4,10 @@ permalink: /digital-government-efforts/user-and-business-journeys/
 variant: tiptap
 description: ""
 ---
-<p>Use banner image from <a href="https://www.tech.gov.sg/singapore-digital-government-journey/user-and-business-journeys" rel="noopener noreferrer nofollow" target="_blank"><u>https://www.tech.gov.sg/singapore-digital-government-journey/user-and-business-journeys</u></a><u> </u>
-</p>
-<h3>Providing citizens and businesses with a single touchpoint to government services </h3>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Digital Gov Efforts/User_and_business_journey_header_banner.jpg">
+</div>
+<h3>Providing citizens and businesses with a single touchpoint to government services</h3>
 <p>GovTech is committed to increasing convenience for citizens, ensuring
 that users can locate specific government offerings easily and quickly
 without hassle.</p>
@@ -15,38 +16,43 @@ users' journeys as they access government services is highly important.</p>
 <p>To encourage user engagement and ensure that services are easily discovered,
 a data-driven approach was used to ensure that the service recommendations
 are customised for different user profiles on both platforms.</p>
-<p><strong>2. Increasing convenience through centralised systems and platforms </strong>
-</p>
-<p>- Digitalising government services with quick and convenient online systems
+<h3>Increasing convenience through centralised systems and platforms</h3>
+<p>Digitalising government services with quick and convenient online systems
 supports the growth of businesses, from start-ups to multinational corporations.</p>
-<p>- With GoBusiness, business owners enjoy easy access to government e-services
+<p>With GoBusiness, business owners enjoy easy access to government e-services
 and a tailored journey to executing business transactions, saving them
 time and costs.</p>
-<p><u>GoBusiness</u>
-</p>
-<p>- Include logo of product/service</p>
-<p>- Business owners can locate their needs quickly and access over 300 government
+<h4><u>GoBusiness</u></h4>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Digital Gov Efforts/GoBusiness_banner.jpg">
+</div>
+<p>Business owners can locate their needs quickly and access over 300 government
 e-services, including business registration, licence and grant applications
 with the GoBusiness e-Services Navigator.</p>
-<p>- There are also e-advisers which provide recommendations on how to start
+<p>There are also e-advisers which provide recommendations on how to start
 up a business, the licenses businesses should apply for based on their
 business intents, and suitable government assistance schemes for them.
 Additionally, the website contains guides for businesses, and opportunities
 for business growth through the GeBIZ portal.</p>
-<p>- Designed to be a one-stop portal for business owners, GoBusiness receives
+<p>Designed to be a one-stop portal for business owners, GoBusiness receives
 a monthly average of 200,000 visits, and its Business Grants Portal processed
 more than 60,000 requests for business assistance in 2020.</p>
-<p>- Include GoBusiness infographic from <a href="https://www.tech.gov.sg/singapore-digital-government-journey/user-and-business-journeys" rel="noopener noreferrer nofollow" target="_blank"><u>https://www.tech.gov.sg/singapore-digital-government-journey/user-and-business-journeys/creating-a-vibrant-business-hub-through-centralised-information-and-services</u></a> 
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Digital Gov Efforts/GoBusiness_infographic.jpg">
+</div>
+<p></p>
+<p>- Include GoBusiness infographic from <a href="https://www.tech.gov.sg/singapore-digital-government-journey/user-and-business-journeys" rel="noopener noreferrer nofollow" target="_blank"><u>https://www.tech.gov.sg/singapore-digital-government-journey/user-and-business-journeys/creating-a-vibrant-business-hub-through-centralised-information-and-services</u></a>
 </p>
-<p>CTA: Learn more about GoBusiness <u>here</u>. (Link to specific product
-page on Products &amp; Services).</p>
-<p><strong>3. Delivering seamless digital experiences by simplifying the user journey </strong>
+<p></p>
+<p>Learn more about GoBusiness <u>here</u>. (Link to specific product page
+on Products &amp; Services).</p>
+<p><strong>3. Delivering seamless digital experiences by simplifying the user journey</strong>
 </p>
 <p>- As online transactions become increasingly common, it is crucial that
 governments support citizens by designing digital services that are easy
 to access and navigate. Putting citizens’ needs first can build public
 trust and yield positive outcomes for both the public sector and citizens.</p>
-<p><u>LifeSG </u>
+<p><u>LifeSG</u>
 </p>
 <p>- LifeSG smartphone app grants citizens simpler access to over 70 life
 journey services from various government agencies on just one app. The
@@ -58,7 +64,7 @@ relevant events. These include birth registration and applying for the
 baby bonus (family and parenting), buying an HDB flat (housing and property),
 signing up for skills upgrading (career and employment), and finding out
 how to manage healthcare costs in Singapore.</p>
-<p>- Include LifeSG video from <a href="https://www.tech.gov.sg/singapore-digital-government-journey/user-and-business-journeys" rel="noopener noreferrer nofollow" target="_blank"><u>https://www.tech.gov.sg/singapore-digital-government-journey/user-and-business-journeys/simpler-and-personalised-government-services-throughout-our-citizens-life-journeys</u></a><u> </u>
+<p>- Include LifeSG video from <a href="https://www.tech.gov.sg/singapore-digital-government-journey/user-and-business-journeys" rel="noopener noreferrer nofollow" target="_blank"><u>https://www.tech.gov.sg/singapore-digital-government-journey/user-and-business-journeys/simpler-and-personalised-government-services-throughout-our-citizens-life-journeys</u></a>
 </p>
 <p>CTA: Learn more about LifeSG <u>here</u>. (Link to specific product page
 on Products &amp; Services).</p>
