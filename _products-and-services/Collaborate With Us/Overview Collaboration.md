@@ -5,7 +5,7 @@ description: ""
 third_nav_title: Collaborate With Us
 variant: tiptap
 ---
-<h3><strong>Drive Digital Transformation with us through collaboration </strong></h3>
+<h3><strong>Drive Digital Transformation with us through collaboration</strong></h3>
 <p>At GovTech, we are dedicated to improve lives through tech. As the lead
 agency driving Singapore's Smart Nation vision, we aim to empower our nation
 with possibilities through infocomm technology and related engineer technology.
