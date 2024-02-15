@@ -58,6 +58,13 @@ models to identify the most relevant or personalised content for our users.</p>
 targeting and engagement strategies can be developed to achieve policy-based
 outcomes.</p>
 <div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Digital Gov Efforts/Personalise_tool_usage__1_.jpg">
+</div>
+<p><em>The Personalise email campaign report page.</em>
+</p>
+<div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Digital Gov Efforts/Personalise_tool_usage.jpg">
 </div>
+<p><em>The flow of the Email Personalisation Tool in Personalise.</em>
+</p>
 <p>Learn more about Personalise <a href="https://www.developer.tech.gov.sg/products/categories/analytics/personalise/overview.html" rel="noopener noreferrer nofollow" target="_blank">here</a>.</p>
