@@ -67,20 +67,22 @@ that is used to verify its identity during online transactions.</p>
 transactions with government agencies, customers, and other businesses
 without the need for physical verification and tedious administrative processes.</p>
 <h4><u>Corppass</u></h4>
-<p>- Include logo of product</p>
-<p>- Corppass is an authorisation system used by over 550,000 participating
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Digital Gov Efforts/corppass_logo.png">
+</div>
+<p>Corppass is an authorisation system used by over 550,000 participating
 businesses, non-profit organisations and associations to manage the digital
 service access of their employees and conduct corporate transactions digitally
 in a secure manner.</p>
-<p>- With Corppass, businesses can transact with government agencies online
+<p>With Corppass, businesses can transact with government agencies online
 for over 250 digital services such as applying for trade licenses and businesses
 grants, the filing of corporate taxes, and more.</p>
-<p>- Businesses also can allow specific employees to conduct specialised
-and separate transactions on behalf of the business such as filing of corporate
+<p>Businesses also can allow specific employees to conduct specialised and
+separate transactions on behalf of the business such as filing of corporate
 tax, application for permits and licenses. At the same time, business owners
 enjoy greater control and visibility of these transactions.</p>
-<p>CTA: Learn more about Corppass <u>here</u>. (Link to specific product page
-under Products &amp; Services)</p>
+<p>Learn more about Corppass <a href="https://www.tech.gov.sg/products-and-services/corppass/" rel="noopener noreferrer nofollow" target="_blank">here</a>.</p>
 <p></p>
 <p></p>
 <p></p>
