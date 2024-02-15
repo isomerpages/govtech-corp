@@ -40,14 +40,9 @@ more than 60,000 requests for business assistance in 2020.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Digital Gov Efforts/GoBusiness_infographic.jpg">
 </div>
-<p></p>
-<p>- Include GoBusiness infographic from <a href="https://www.tech.gov.sg/singapore-digital-government-journey/user-and-business-journeys" rel="noopener noreferrer nofollow" target="_blank"><u>https://www.tech.gov.sg/singapore-digital-government-journey/user-and-business-journeys/creating-a-vibrant-business-hub-through-centralised-information-and-services</u></a>
-</p>
-<p></p>
-<p>Learn more about GoBusiness <u>here</u>. (Link to specific product page
-on Products &amp; Services).</p>
-<p><strong>3. Delivering seamless digital experiences by simplifying the user journey</strong>
-</p>
+<p>Learn more about GoBusiness <a href="https://www.tech.gov.sg/products-and-services/gobusiness/" rel="noopener noreferrer nofollow" target="_blank">here</a>.
+(Link to specific product page on Products &amp; Services).</p>
+<h3><strong>Delivering seamless digital experiences by simplifying the user journey</strong></h3>
 <p>- As online transactions become increasingly common, it is crucial that
 governments support citizens by designing digital services that are easy
 to access and navigate. Putting citizens’ needs first can build public
