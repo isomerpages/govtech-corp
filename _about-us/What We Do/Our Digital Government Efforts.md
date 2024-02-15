@@ -28,6 +28,21 @@ and services.</div>
 </div>
 </a><a rel="noopener noreferrer nofollow" href="https://www.tech.gov.sg/singapore-digital-government-journey/user-and-business-journeys" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Simplifying user and business journeys in accessing government services" src="/images/About Us/03_User_Business_Journey.png"></div></div><div class="isomer-card-body"><div class="isomer-card-title">User and Business Journeys</div><div class="isomer-card-description">GovTech is committed to providing citizens and businesses with a simplified user journey and a single touchpoint to government services.</div><div class="isomer-card-link">Learn more</div></div></a>
 </div>
+<p></p>
+<div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="https://www.isomer.gov.sg" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Placeholder image" src="https://placehold.co/600x400"></div></div><div class="isomer-card-body"><div class="isomer-card-title">This is a title for your card</div><div class="isomer-card-description">This is body text for your card. Describe your card.</div><div class="isomer-card-link">This is a link for your card</div></div></a>
+<a rel="noopener noreferrer nofollow" href="https://www.isomer.gov.sg" class="isomer-card">
+<div class="isomer-card-image">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Placeholder image" src="https://placehold.co/600x400">
+</div>
+</div>
+<div class="isomer-card-body">
+<div class="isomer-card-title">This is a title for your card</div>
+<div class="isomer-card-description">This is body text for your card. Describe your card.</div>
+<div class="isomer-card-link">This is a link for your card</div>
+</div>
+</a>
+</div>
 <div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="https://www.tech.gov.sg/singapore-digital-government-journey/ai-and-data-driven-government" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Using AI technology to enhance citizen-centric government services." src="/images/About Us/04_Data_Driven_Gov_AI.png"></div></div><div class="isomer-card-body"><div class="isomer-card-title">AI and Data Driven Government</div><div class="isomer-card-description">GovTech’s Data Science and AI Division facilitates whole of government adoption of data science and AI to deliver citizen-centric government services.</div><div class="isomer-card-link">Learn more</div></div></a>
 <a rel="noopener noreferrer nofollow" href="https://www.tech.gov.sg/singapore-digital-government-journey/digital-identity" class="isomer-card">
 <div class="isomer-card-image">
@@ -60,10 +75,4 @@ designing inclusive products, and creating an inclusive tech community.</div>
 </div>
 </a><a rel="noopener noreferrer nofollow" href="https://www.tech.gov.sg/singapore-digital-government-journey/sustainability" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="GovTech to lead in decarbonising public sector technology to mitigate global warming and secure a smart and sustainable future for SG citizens." src="/images/About Us/09_Sustainability.png"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Sustainability</div><div class="isomer-card-description">As part of Singapore's Green Plan 2030, GovTech is taking the lead in decarbonising public sector technology in order to mitigate global warming and secure a smart and sustainable future for the people living in Singapore.</div><div class="isomer-card-link">Learn more</div></div></a>
 </div>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
 <p></p>
