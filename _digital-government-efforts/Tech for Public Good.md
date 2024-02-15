@@ -42,28 +42,32 @@ efficient management of the estate.</p>
 </div>
 <p>Learn more about ODP <a href="https://www.developer.tech.gov.sg/products/categories/sensor-platforms-and-internet-of-things/open-digital-platform/overview.html" rel="noopener noreferrer nofollow" target="_blank">here</a>.</p>
 <h3>How we facilitate safe and seamless government digital transactions for citizens</h3>
-<p>Singpass</p>
-<p>- Include logo of product</p>
-<p>- Singpass is Singapore resident's trusted digital identity for secure
-transaction needs in everyday life, giving citizens access to over 2700
-services across 800 connected government agencies and businesses, all at
-their fingertips.</p>
-<p>- The transactions are also ensured to be secure with Singpass, as it
-has been developed with cybersecurity measures such as biometric verifications,
+<h4><u>Singpass</u></h4>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Digital Gov Efforts/singpass_logo_fullcolours_1.png">
+</div>
+<p>Singpass is Singapore resident's trusted digital identity for secure transaction
+needs in everyday life, giving citizens access to over 2700 services across
+800 connected government agencies and businesses, all at their fingertips.</p>
+<p>The transactions are also ensured to be secure with Singpass, as it has
+been developed with cybersecurity measures such as biometric verifications,
 2-factor authentications and consent-based access - all of whichsafeguard
 the citizen's identity and personal details.</p>
-<p>CTA: Learn more about Singpass here. (Link to Singpass product page)</p>
-<p>LifeSG</p>
-<p>- Include logo of product</p>
-<p>- An app that not only consolidates services and information across various
+<p>Learn more about Singpass <a href="https://www.tech.gov.sg/products-and-services/singpass/" rel="noopener noreferrer nofollow" target="_blank">here</a>.</p>
+<h4><u>LifeSG</u></h4>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Digital Gov Efforts/lifesg_header_image.jpg">
+</div>
+<p>An app that not only consolidates services and information across various
 government agencies, but also provides recommendations to citizens based
 on the stag of life they are at and what they would need - whether you
 just got married and need financial tips, or whether you just had a baby
 and need to know what to do.</p>
-<p>- The app features services, guides, calculators, tips and more to guide
+<p>The app features services, guides, calculators, tips and more to guide
 citizens along as they go through their lives.</p>
-<p>CTA: Learn more about LifeSG here. (Link to LifeSG product page)</p>
-<p>GoBusiness</p>
+<p>Learn more about LifeSG <a href="https://www.tech.gov.sg/products-and-services/lifesg/" rel="noopener noreferrer nofollow" target="_blank">here</a>.</p>
+<h4><u>GoBusiness</u></h4>
 <p>- Include logo of product</p>
 <p>- GoBusiness is an online platform to connect business owners to various
 Government e-services and resources. This includes registering a business,
