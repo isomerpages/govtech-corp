@@ -512,3 +512,43 @@ Services HQ</p>
 <p>
 <br>
 </p>
+<div class="isomer-card-grid">
+<div class="isomer-card">
+<div class="isomer-card-image">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Mr LEONG Weng Keong Joseph" src="/images/About Us/Joseph_Leong.jpg">
+</div>
+</div>
+<div class="isomer-card-body">
+<div class="isomer-card-title">Mr LEONG Weng Keong Joseph</div>
+<div class="isomer-card-description">CHAIRMAN / PERMANENT SECRETARY, Smart Nation and Digital Government Group</div>
+</div>
+</div>
+<div class="isomer-card">
+<div class="isomer-card-image">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Mr GOH Wei Boon" src="/images/About Us/Goh_Wei_Boon.jpg">
+</div>
+</div>
+<div class="isomer-card-body">
+<div class="isomer-card-title">Mr GOH Wei Boon</div>
+<div class="isomer-card-description">CHIEF EXECUTIVE, Government Technology Agency</div>
+</div>
+</div>
+<div class="isomer-card">
+<div class="isomer-card-image">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Mr Augustin LEE" src="/images/About Us/Augustin_Lee__1_.jpg">
+</div>
+</div>
+<div class="isomer-card-body">
+<div class="isomer-card-title">Mr Augustin LEE</div>
+<div class="isomer-card-description">DEPUTY CHAIRMAN / SECOND PERMANENT SECRETARY, Smart Nation and Digital
+Government Group</div>
+</div>
+</div>
+</div>
+<h2></h2>
+<p></p>
+<p></p>
+<p></p>
