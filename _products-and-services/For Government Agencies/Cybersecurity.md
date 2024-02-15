@@ -5,3 +5,40 @@ description: ""
 third_nav_title: For Government Agencies
 variant: tiptap
 ---
+<p><strong>1. Putting up our best cyber defences with proactive cybersecurity services </strong>
+</p>
+<p><strong>-</strong> As part of its mission to Engineer a Digital Government,
+GovTech also prioritises the need to defend Singapore's cyberspace and
+ensure cybersafety for all. - This includes developing a comprehensive
+suite of cybersecurity capabilities that detect and respond against cyber
+threats, as well as uncover cyber vulnerabilities, as well as working with
+various agencies to implement secure architectures and provide cybersecurity
+governance and technical guidance to ensure a safer, more secure Smart
+Nation.<strong> </strong>
+</p>
+<p><strong>2. Explore one of GovTech's Cybersecurity services - the Government Cybersecurity Operations Centre (GCSOC) </strong>
+</p>
+<p>- Include 2nd image from <a href="https://www.smartnation.gov.sg/media-hub/press-releases/gcsoc-factsheet/" rel="noopener noreferrer nofollow" target="_blank"><u>https://www.smartnation.gov.sg/media-hub/press-releases/gcsoc-factsheet/</u></a><u> </u>-
+The Government Cybersecurity Operations Centre (GCSOC) is an integrated
+initiative that aims to upgrade monitoring and detection technologies,
+automate and augment cyber threat detection and response at scale, and
+develop capabilities to proactively hunt for sophisticated threats. - GCSOC
+aims to better secure the Government’s evolving Information and Communications
+Technology (ICT) infrastructure, and guard against threats more effectively.
+It centralises cybersecurity operations across government agencies, and
+better leverages technologies in artificial intelligence and machine learning
+to enhance security analytics. - The Operations Centre has led to multiple
+benefits, such as improved detection coverage, proactive threat hunting
+and and faster response times. - An example of GCSOC's work is PhishMonSG,
+a phishing detection tool developed in collaboration with the Ministry
+of Home Affairs that enables GCSOC to proactively scan across the Internet
+daily for malicious sites that mimic Government agencies’ websites. - (Any
+other products or works by GCSOC that we can highlight?)<strong> </strong>
+</p>
+<p></p>
+<p><strong>Interested to find out more about GCSOC? </strong>
+</p>
+<p>Learn more about GCSOC <a href="https://www.smartnation.gov.sg/media-hub/press-releases/gcsoc-factsheet/" class="waffle-rich-text-link" rel="noopener noreferrer nofollow" target="_blank"><u>here</u></a>.</p>
+<p>Have questions? Get in touch with us at xxx
+<br>
+</p>
