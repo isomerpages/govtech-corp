@@ -128,7 +128,7 @@ to either a Senior Activity Centre (SAC) or CareLine, a 24-hour telecare
 service.</p>
 <p>This is a fast and responsive device that enables our seniors to live
 safely and independently by providing round-the-clock monitoring and assistance.</p>
-<p>CTA: Learn more about PAB here.</p>
+<p>Learn more about PAB <a href="https://www.developer.tech.gov.sg/products/categories/sensor-platforms-and-internet-of-things/personal-alert-button/overview.html" rel="noopener noreferrer nofollow" target="_blank">here</a>.</p>
 <h4><u>e-Pad</u></h4>
 <p>- Include logo/image of product</p>
 <p>- ePAD is an assistive digital technology that enables PWDs to carry out
