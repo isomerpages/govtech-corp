@@ -5,7 +5,7 @@ description: ""
 third_nav_title: For Government Agencies
 variant: tiptap
 ---
-<h3><strong>Empowering public officers to continually upskill with Knowledge and Training tools </strong></h3>
+<h3><strong>Empowering public officers to continually upskill with Knowledge and Training tools</strong></h3>
 <p>Through our Digital Government Blueprint, we aspire to create a Digital
 Government with a digitally confident public service workforce that is
 “Digital to the Core, and Serves with Heart” to enable a Digital Society
@@ -13,15 +13,16 @@ and Digital Economy - this includes the need for public officers to also
 be able to continually upskill, adapt to new challenges and work more effectively
 across agencies as well as with citizens and businesses in Singapore. This
 is where our Knowledge and Training products come in.</p>
-<p>Include video from <a href="https://www.thedigitalacademy.tech.gov.sg/about-us/practitioners" rel="noopener noreferrer nofollow" target="_blank"><u>https://www.thedigitalacademy.tech.gov.sg/about-us/practitioners</u></a> 
-</p>
+<div class="iframe-wrapper">
+<iframe height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/o73wtjdPQi4?si=LCgMaYd9uerXx89Q"></iframe>
+</div>
 <p>A “Practitioner for Practitioner” academy that operates at the unique
 intersection of technology and public service, blending best-in-class technical
 training with the business of Government. - DA grooms future-ready digital
 leaders and officers to accelerate public sector’s digital transformation
 to support the Smart Nation initiative. DA offers a robust suite of ICT
 programmes that are contextualised to the public service.</p>
-<h3><strong>Why use Digital Academy? </strong></h3>
+<h3><strong>Why use Digital Academy?</strong></h3>
 <p>Include one the lesson images at the bottom from <a href="https://www.thedigitalacademy.tech.gov.sg/about-us/practitioners" rel="noopener noreferrer nofollow" target="_blank"><u>https://www.thedigitalacademy.tech.gov.sg/cio-milestone-programme</u></a> -</p>
 <p>The public sectors's basic courses on digital technlogies do not meet
 the advanced needs of public sector ICT&amp;SS professionals and the higher-level
