@@ -6,12 +6,12 @@ third_nav_title: Collaborate With Us
 variant: tiptap
 ---
 <h3><strong>Let's engineer a digital government together</strong></h3>
-<p>- As we transform Singapore through technology, digital government transformation
+<p>As we transform Singapore through technology, digital government transformation
 is all about harnessing technologies to enable significant improvements
-and empower how we serve citizens and businesses in Singapore. - At GovTech,
+and empower how we serve citizens and businesses in Singapore. At GovTech,
 we aim to lend our expertise not only in the form of product development,
 but also event collaborations to promote knowledge- and idea-sharing within
-the government. - Explore our collaborations to see how we can work together
+the government. Explore our collaborations to see how we can work together
 to provide value.</p>
 <h3><strong>Product Collaborations</strong></h3>
 <p>Work with us on product-related collaborations. This could involve tapping
