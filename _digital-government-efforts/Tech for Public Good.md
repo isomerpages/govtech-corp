@@ -68,24 +68,27 @@ and need to know what to do.</p>
 citizens along as they go through their lives.</p>
 <p>Learn more about LifeSG <a href="https://www.tech.gov.sg/products-and-services/lifesg/" rel="noopener noreferrer nofollow" target="_blank">here</a>.</p>
 <h4><u>GoBusiness</u></h4>
-<p>- Include logo of product</p>
-<p>- GoBusiness is an online platform to connect business owners to various
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Digital Gov Efforts/GoBusiness_banner.jpg">
+</div>
+<p>GoBusiness is an online platform to connect business owners to various
 Government e-services and resources. This includes registering a business,
 applying for licenses and grants, and more.</p>
-<p>- It services as a single, reliable government touchpoint for businesses
+<p>It services as a single, reliable government touchpoint for businesses
 at every stage of their journey and provides businesses in Singapore with
 seamless access to business info and services from the government.</p>
-<p>CTA: Learn more about GoBusiness here. (Link to GoBusiness product page)</p>
+<p>Learn more about GoBusiness <a href="https://www.tech.gov.sg/products-and-services/gobusiness/" rel="noopener noreferrer nofollow" target="_blank">here</a>.</p>
 <h4><u>MyCareersFuture</u></h4>
-<p>- Include logo of product</p>
-<p>- A digital one-stop portal for hirers and job seekers, supporting the
-job search journey by matching skills and competencies.</p>
-<p>- MyCareersFuture aims to provide expert and personalised insights on
-job search strategies, career development, talent acquisition strategies
-and more, with guides, career-related tips, personalised recommenders and
-more.</p>
-<p>CTA: Learn more about MyCareersFuture here. (Link to MyCareersFuture product
-page)</p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Digital Gov Efforts/MyCareersFuture_logo.jpg">
+</div>
+<p>A digital one-stop portal for hirers and job seekers, supporting the job
+search journey by matching skills and competencies.</p>
+<p>MyCareersFuture aims to provide expert and personalised insights on job
+search strategies, career development, talent acquisition strategies and
+more, with guides, career-related tips, personalised recommenders and more.</p>
+<p>Learn more about MyCareersFuture <a href="https://www.mycareersfuture.gov.sg/" rel="noopener noreferrer nofollow" target="_blank">here</a>.</p>
 <h3>How we provide the public with ease and convenience when communicating with the Government</h3>
 <p>- As we improve the lives of Singaporeans, it is also important to provide
 convenience for citizens, especially when there is a need to communicate
