@@ -19,8 +19,10 @@ Healthier SG initiative. As of 2019, Healthy 365 app had garnered over
 among Singaporeans as it gamifies and rewards users for health-related
 actions.</p>
 <h3><strong>Why use Healthy 365?</strong></h3>
-<p>- Include GIF of pages on the app from <a href="https://www.healthhub.sg/programmes/healthyliving?utm_source=google&amp;amp;utm_medium=paid-search&amp;amp;utm_campaign=ip-h365&amp;amp;utm_content=campaign" rel="noopener noreferrer nofollow" target="_blank"><u>https://www.healthhub.sg/programmes/healthyliving?utm_source=google&amp;utm_medium=paid-search&amp;utm_campaign=ip-h365&amp;utm_content=campaign</u></a>
-</p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 50%;" height="auto" width="100%" alt="" src="/images/Products and Services/healthy365_screenshot_1.png">
+</div>
 <p>Connect the app to your fitness-tracking device to count your daily steps
 and time spent on active exercises - Check your daily progress on the app
 to ensure you are on track to achieving your health goals - Get recommendations
