@@ -114,13 +114,21 @@ sceleris</p>
 <p>– [40] Nunc a massa feugiat, feugiat orceleifen</p>
 <p></p>
 <h2>5. Related Content Module</h2>
-<p>using table with image links</p>
+<p>using table with image links (2 col might be small in mobile)</p>
 <table>
 <tbody>
 <tr>
-<td rowspan="1" colspan="1"><a class="isomer-image-wrapper" href="isomer.com"><img style="width: 100%" height="auto" width="100%" alt="" src="/images/technews/Five_ways_you_might_be_sabotaging_your_data_privacy_.jpg"></a>
+<td rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/technews/Five_ways_you_might_be_sabotaging_your_data_privacy_.jpg">
+</div>
+<p>[40] Nunc a massa feugiat, feugiat orceleifen</p>
 </td>
-<td rowspan="1" colspan="1"><a class="isomer-image-wrapper" href="isomer.com"><img style="width: 100%" height="auto" width="100%" alt="" src="/images/technews/Five_ways_you_might_be_sabotaging_your_data_privacy_.jpg"></a>
+<td rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/technews/Five_ways_you_might_be_sabotaging_your_data_privacy_.jpg">
+</div>
+<p>[40] Nunc a massa feugiat, feugiat orceleifen</p>
 </td>
 </tr>
 <tr>
@@ -128,27 +136,45 @@ sceleris</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/technews/Five_ways_you_might_be_sabotaging_your_data_privacy_.jpg">
 </div>
+<p>[40] Nunc a massa feugiat, feugiat orceleifen</p>
 </td>
 <td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/technews/Five_ways_you_might_be_sabotaging_your_data_privacy_.jpg">
 </div>
+<p>[40] Nunc a massa feugiat, feugiat orceleifen</p>
 </td>
 </tr>
 </tbody>
 </table>
-<p>using cards without image</p>
-<div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="Link" class="isomer-card"><div class="isomer-card-body"><div class="isomer-card-title">Lorem ipsum dolor sit amet consectetur</div><div class="isomer-card-description">Amet venenatis mattis aliquam pharetra aenean turpis nisl aliquam nisl. Eget maecenas pulvinar venenatis viverra sociis ut bibendum nulla. Orci aliquet in consequat lobortis mauris.</div><div class="isomer-card-link">Link</div></div></a>
-<a rel="noopener noreferrer nofollow" href="Link" class="isomer-card">
+<p>using cards without image as it crops badly in this isomer module</p>
+<div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="https://www.isomer.gov.sg" class="isomer-card"><div class="isomer-card-body"><div class="isomer-card-title">[40] Nunc a massa feugiat, feugiat orceleifen</div><div class="isomer-card-description">[120] Sitmet consectetur. Amet venenatis mattis aliquam pharetra aenean turpis nisl aliquam nisl. Eget maecenas pulvinar venen</div><div class="isomer-card-link">[20] Etiam quis elementum</div></div></a>
+<a rel="noopener noreferrer nofollow" href="https://www.isomer.gov.sg" class="isomer-card">
 <div class="isomer-card-body">
-<div class="isomer-card-title">Lorem ipsum dolor sit amet consectetur</div>
-<div class="isomer-card-description">Amet venenatis mattis aliquam pharetra aenean turpis nisl aliquam nisl.
-Eget maecenas pulvinar venenatis viverra sociis ut bibendum nulla. Orci
-aliquet in consequat lobortis mauris.</div>
-<div class="isomer-card-link">Link</div>
+<div class="isomer-card-title">[40] Nunc a massa feugiat, feugiat orceleifen</div>
+<div class="isomer-card-description">[120] Sitmet consectetur. Amet venenatis mattis aliquam pharetra aenean
+turpis nisl aliquam nisl. Eget maecenas pulvinar venen</div>
+<div class="isomer-card-link">[20] Etiam quis elementum</div>
 </div>
-</a><a rel="noopener noreferrer nofollow" href="link" class="isomer-card"><div class="isomer-card-body"><div class="isomer-card-title">Lorem ipsum dolor sit amet consectetur</div><div class="isomer-card-description">Amet venenatis mattis aliquam pharetra aenean turpis nisl aliquam nisl. Eget maecenas pulvinar venenatis viverra sociis ut bibendum nulla. Orci aliquet in consequat lobortis mauris.</div><div class="isomer-card-link">Link</div></div></a>
+</a><a rel="noopener noreferrer nofollow" href="https://www.isomer.gov.sg" class="isomer-card"><div class="isomer-card-body"><div class="isomer-card-title">[40] Nunc a massa feugiat, feugiat orceleifen</div><div class="isomer-card-description">[120] Sitmet consectetur. Amet venenatis mattis aliquam pharetra aenean turpis nisl aliquam nisl. Eget maecenas pulvinar venen</div><div class="isomer-card-link">[20] Etiam quis elementum</div></div></a>
 </div>
+<p>example of bad cropping:</p>
+<div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="https://www.isomer.gov.sg" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="placeholder" src="/images/technews/Five_ways_you_might_be_sabotaging_your_data_privacy_.jpg"></div></div><div class="isomer-card-body"><div class="isomer-card-title">[40] Nunc a massa feugiat, feugiat orceleifen</div><div class="isomer-card-description">[120] Sitmet consectetur. Amet venenatis mattis aliquam pharetra aenean turpis nisl aliquam nisl. Eget maecenas pulvinar venen</div><div class="isomer-card-link">[20] Etiam quis elementum</div></div></a>
+<a rel="noopener noreferrer nofollow" href="https://www.isomer.gov.sg" class="isomer-card">
+<div class="isomer-card-image">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="placeholder" src="/images/technews/CDC_SMS_links__scam_or_not_.jpg">
+</div>
+</div>
+<div class="isomer-card-body">
+<div class="isomer-card-title">[40] Nunc a massa feugiat, feugiat orceleifen</div>
+<div class="isomer-card-description">[120] Sitmet consectetur. Amet venenatis mattis aliquam pharetra aenean
+turpis nisl aliquam nisl. Eget maecenas pulvinar venen</div>
+<div class="isomer-card-link">[20] Etiam quis elementum</div>
+</div>
+</a><a rel="noopener noreferrer nofollow" href="https://www.isomer.gov.sg" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="placeholder" src="/images/technews/Don_t_let_the_scammers_huat__5_common_Lunar_New_Year_scams_.jpg"></div></div><div class="isomer-card-body"><div class="isomer-card-title">[40] Nunc a massa feugiat, feugiat orceleifen</div><div class="isomer-card-description">[120] Sitmet consectetur. Amet venenatis mattis aliquam pharetra aenean turpis nisl aliquam nisl. Eget maecenas pulvinar venen</div><div class="isomer-card-link">[20] Etiam quis elementum</div></div></a>
+</div>
+<h2></h2>
 <h2>6. 3 Col Accent Card Module</h2>
 <h4>no image</h4>
 <div class="isomer-card-grid">
