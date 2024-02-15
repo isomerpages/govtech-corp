@@ -5,16 +5,98 @@ description: ""
 third_nav_title: Collaborate With Us
 variant: tiptap
 ---
-### **Discover Collaborative Opportunities With GovTech**
-
-* Types of industry collaborations and short summaries on what these collaborations entail 
-* Types of collaboration with industry partners (Short term and long term)
-
-### **Our Success Stories**
-* Case studies of other industry collaborations as examples 
-* Past 5 years examples of industry collaborations.
-
-### **Collaborate With Us Today!**
-* Reach out to GovTech to take this collaboration forward
-
-![](/images/get%20in%20touch.png)
+<p><strong>1. Co-create with us as we build our Smart Nation. </strong>-
+In the next bound of Digital Government for Singapore, GovTech is committed
+to co-developing solutions and exploring innovative ways to deliver digital
+services for citizens, businesses, and government agencies. - Our approach
+is to collaborate with industry and research ecosystem through various
+initiatives in supporting the Government’s efforts in driving our Smart
+Nation ambition, whether it is to facilitate end-to-end technology partnership
+throughout the Government’s digital transformation journey or encourage
+ideas- or knowledge-sharing through events like conferences and talks.</p>
+<p><strong>2. Vendor Partnerships and Collaborations </strong>
+</p>
+<p><u>Why partner with us as vendors?</u><strong> </strong>
+</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Co-create/Co-develop digital products and services, developing technology
+for public good, benefiting citizens and businesses</p>
+</li>
+<li>
+<p>Achieve validation opportunities through test bedding in actual deployment
+environment</p>
+</li>
+<li>
+<p>Build digital capabilities, experience and knowhow in public sector domain
+- Familiarize with Singapore Government’s ICT operating environment</p>
+</li>
+<li>
+<p>Proliferate outcomes to other business domains and international markets
+for greater economic benefits</p>
+<p></p>
+<p></p>
+</li>
+</ul>
+<p>Such partnerships further extend GovTech’s efforts in maximizing the value
+created by digital innovation towards building a Digital Economy, promotes
+a vibrant ICT ecosystem involving public-private stakeholders, and strengthens
+Singapore’s position as a hub for digital innovation.</p>
+<p>For the current FY, GovTech has 3 focus areas as ICT opportunities - Application
+Development, Sustainability and Smart Cities.</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>For Application Development: Going cloud-first by expanding on the systems
+on GCC, building on the SG Tech Stack through toolchain, runtime, monitoring
+and service management, using more SaaS for future applications portfolio
+and modernising legacy systems</p>
+</li>
+<li>
+<p>For Sustainability: Enabling a green ICT sector in government through
+green supply chain, green hardware &amp; equipment, green hosting and green
+software engineering &amp; data</p>
+</li>
+<li>
+<p>For Smart Cities: Achieving better lived experience, greater sustainability
+and higher productivity through the implementation of services like Open
+Digital Platform and GALE.</p>
+</li>
+</ul>
+<p>Find out more about the partnership opportunities for FY23 <a href="https://www.tech.gov.sg/files/media/corporate-publications/IB2023-Towards-the-Next-Bound-of-Digital-Government-GovTech-CE.pdf" class="waffle-rich-text-link" rel="noopener noreferrer nofollow" target="_blank"><u>here</u></a>.
+For a full list of current available opportunities and open tenders, visit
+<a href="https://www.gebiz.gov.sg/" class="waffle-rich-text-link" rel="noopener noreferrer nofollow" target="_blank"><u>GeBIZ</u>
+</a>.</p>
+<p>Have an enquiry or a proactive proposal that will drive our Smart Nation
+efforts? Reach out to us at <a href="https://www.tech.gov.sg/files/media/corporate-publications/IB2023-Towards-the-Next-Bound-of-Digital-Government-GovTech-CE.pdf" rel="noopener noreferrer nofollow" target="_blank">govtech_sipeo@tech.gov.sg</a>.</p>
+<h3><strong>Event Collaborations </strong></h3>
+<p>At GovTech, we value opportunities to collaborate in the spirit of knowledge-sharing.
+Public-private collaborations like this encourage new ideas and more innovative
+government offerings.</p>
+<p>Below are examples of past event collaborations we have had:</p>
+<ul data-tight="true" class="tight">
+<li>
+<p> <u>Google Cloud Next '23 x GovTech </u>- Include image of GovTech speaker
+at event - In collaboration with Google, GovTech lent its expertise at
+a knowledge-sharing event through our Deputy Chief Executive, Sau Sheong
+Chang, who was invited to speak on "Data governance and the business implications
+on Gen AI" - He shared about the AI Trailblazer, how Singapore is collaborating
+with Google to spur the adoption of hashtag#ArtificialIntelligence across
+public and private sectors, as well as use cases of AI in GovTech. - To
+learn more, watch the session <a href="https://www.youtube.com/watch?v=t6zXXgJLNzI" class="waffle-rich-text-link" rel="noopener noreferrer nofollow" target="_blank"><u>here</u></a>.</p>
+</li>
+<li>
+<p><u>GovTech Digital Academy x Google Cloud - AI Bootcamp </u>- Include
+3rd image from social post <a href="https://www.tech.gov.sg/files/media/corporate-publications/IB2023-Towards-the-Next-Bound-of-Digital-Government-GovTech-CE.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>https://www.linkedin.com/feed/update/urn:li:activity:7122099364247834624</u></a> -
+In partnership with Google Cloud, the GovTech Digital Academy conducted
+the Google AI Bootcamp for the upskilling of over 1,400 public officers
+across 85 government agencies. Through the sessions, public officers learn
+about on-trend topics like foundations of AI, applications of AI in Government,
+ethics of AI, generative AI, and the future of AI. Click <a href="https://www.linkedin.com/feed/update/urn:li:activity:7122099364247834624/" class="waffle-rich-text-link" rel="noopener noreferrer nofollow" target="_blank"><u>here</u></a> to
+learn more.</p>
+</li>
+</ul>
+<p></p>
+<h3><strong>Have an enquiry? </strong></h3>
+<p>Reach out to us directly via email at <a href="https://www.tech.gov.sg/files/media/corporate-publications/IB2023-Towards-the-Next-Bound-of-Digital-Government-GovTech-CE.pdf" rel="noopener noreferrer nofollow" target="_blank">info@tech.gov.sg</a> for
+any enquiries on collaborations.</p>
+<p></p>
