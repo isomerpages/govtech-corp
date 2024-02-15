@@ -14,8 +14,6 @@ uncover cyber vulnerabilities, as well as working with various agencies
 to implement secure architectures and provide cybersecurity governance
 and technical guidance to ensure a safer, more secure Smart Nation.</p>
 <h3><strong>Government Cybersecurity Operations Centre (GCSOC)</strong></h3>
-<p>- Include 2nd image from <a href="https://www.smartnation.gov.sg/media-hub/press-releases/gcsoc-factsheet/" rel="noopener noreferrer nofollow" target="_blank"><u>https://www.smartnation.gov.sg/media-hub/press-releases/gcsoc-factsheet/</u></a>
-</p>
 <p>The Government Cybersecurity Operations Centre (GCSOC) is an integrated
 initiative that aims to upgrade monitoring and detection technologies,
 automate and augment cyber threat detection and response at scale, and
