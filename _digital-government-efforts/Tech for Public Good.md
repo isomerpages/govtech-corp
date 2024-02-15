@@ -76,7 +76,7 @@ applying for licenses and grants, and more.</p>
 at every stage of their journey and provides businesses in Singapore with
 seamless access to business info and services from the government.</p>
 <p>CTA: Learn more about GoBusiness here. (Link to GoBusiness product page)</p>
-<p>MyCareersFuture</p>
+<h4><u>MyCareersFuture</u></h4>
 <p>- Include logo of product</p>
 <p>- A digital one-stop portal for hirers and job seekers, supporting the
 job search journey by matching skills and competencies.</p>
@@ -86,19 +86,18 @@ and more, with guides, career-related tips, personalised recommenders and
 more.</p>
 <p>CTA: Learn more about MyCareersFuture here. (Link to MyCareersFuture product
 page)</p>
-<p>3. How we provide the public with ease and convenience when communicating
-with the Government</p>
+<h3>How we provide the public with ease and convenience when communicating with the Government</h3>
 <p>- As we improve the lives of Singaporeans, it is also important to provide
 convenience for citizens, especially when there is a need to communicate
 with a Government agency.</p>
-<p>FileSG</p>
+<h4><u>FileSG</u></h4>
 <p>- Include logo of product</p>
 <p>- A centralised place to store and retrieve verified official documents,
 negating the need for citizens to visit different websites or portals</p>
 <p>- Increased convenience with its integration with Singpass, allowing for
 secure and easy logins to access the storage portal</p>
 <p>CTA: Learn more about FileSG here. (Link to FileSG product page)</p>
-<p>Parents Gateway</p>
+<h4><u>Parents Gateway</u></h4>
 <p>- Include logo of product</p>
 <p>- To support children in their education journey while making it more
 convenient for parents and teachers, Parents Gateway is a one-stop portal
@@ -108,12 +107,12 @@ matters, in a consolidated digital form.</p>
 child's activities, book their slots for parent-teacher meetings and more.</p>
 <p>CTA: Learn more about Parents Gateway here. (Link to Parents Gateway product
 page)</p>
-<p>4. How we empower vulnerable communities with tech</p>
+<h3>How we empower vulnerable communities with tech</h3>
 <p>- Through the Smart Nation initiative, we aim to use technology to build
 an inclusive society for all citizens and enhance the well-being of vulnerable
 communities. The implementation of assistive technologies is facilitated
 by government systems designed to improve service delivery.</p>
-<p>Personal Alert Button (PAB)</p>
+<h4><u>Personal Alert Button (PAB)</u></h4>
 <p>- Include logo/image of product</p>
 <p>- PAB is an alert device that can be installed in an elderly’s home. When
 a senior in distress activates the PAB, a distress signal will be sent
@@ -122,7 +121,7 @@ service.</p>
 <p>- This is a fast and responsive device that enables our seniors to live
 safely and independently by providing round-the-clock monitoring and assistance.</p>
 <p>CTA: Learn more about PAB here.</p>
-<p>e-Pad</p>
+<h4><u>e-Pad</u></h4>
 <p>- Include logo/image of product</p>
 <p>- ePAD is an assistive digital technology that enables PWDs to carry out
 photography and videography professionally despite limited mobility in
@@ -131,16 +130,16 @@ their upper limbs.</p>
 via an accessible mounting platform. The platform allows for panning and
 tilting of the tablet, providing greater mobility and independence for
 PWDs in using the software photography app on the tablet.</p>
-<p>CTA: Learn more about e-Pad here.</p>
-<p>e-Canvas</p>
+<p>Learn more about e-Pad here.</p>
+<h4><u>e-Canvas</u></h4>
 <p>- Include logo/image of product</p>
 <p>- The eCanvas is a voice-controlled assistive technology that provides
 support and greater independence for special needs users who have a passion
 for painting. A microphone connected to the eCanvas processes voice commands
 via a pre-trained neural network engine, allowing the canvas to move or
 dispense paint in the corresponding paint colour on the palette accordingly.</p>
-<p>CTA: Learn more about e-Canvas here</p>
-<p>5. How we supported Singaporeans through COVID-19</p>
+<p>Learn more about e-Canvas here</p>
+<h3>How we supported Singaporeans through COVID-19</h3>
 <p>- To develop and scale digital solutions quickly, GovTech leveraged its
 robust digital infrastructure and strong engineering capabilities to meet
 citizen and business needs. National portals and initiatives were successfully
