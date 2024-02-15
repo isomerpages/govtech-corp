@@ -130,15 +130,11 @@ sceleris</div>
 </blockquote>
 <p>– [40] Nunc a massa feugiat, feugiat orceleifen</p>
 <p></p>
-<p>Quote using "H3" text, this follows H3 styling with tighter spacing and
-bigger font</p>
-<blockquote>
-<h4><em>[H3 150] Lorem ipsum dolor sit amet, consectetur adipiscing elit. Etiam quis elementum ex. Nunc a massa feugiat, feugiat orci at, eleifend quam. Donec sceleris</em></h4>
-</blockquote>
-<p>– [40] Nunc a massa feugiat, feugiat orceleifen</p>
-<p></p>
 <h2>5. Related Content Module</h2>
-<p>using table with image links (2 col might be small in mobile)</p>
+<h3>ith image links – 2</h3>
+<h4>ith image links – 2</h4>
+<p>using table with image links – 2 col might be small in mobile and do not
+recommend</p>
 <table>
 <tbody>
 <tr>
