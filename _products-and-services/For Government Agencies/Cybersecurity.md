@@ -14,7 +14,7 @@ uncover cyber vulnerabilities, as well as working with various agencies
 to implement secure architectures and provide cybersecurity governance
 and technical guidance to ensure a safer, more secure Smart Nation.</p>
 <h3><strong>Government Cybersecurity Operations Centre (GCSOC)</strong></h3>
-<p>- Include 2nd image from <a href="https://www.smartnation.gov.sg/media-hub/press-releases/gcsoc-factsheet/" rel="noopener noreferrer nofollow" target="_blank"><u>https://www.smartnation.gov.sg/media-hub/press-releases/gcsoc-factsheet/</u></a><u> </u>
+<p>- Include 2nd image from <a href="https://www.smartnation.gov.sg/media-hub/press-releases/gcsoc-factsheet/" rel="noopener noreferrer nofollow" target="_blank"><u>https://www.smartnation.gov.sg/media-hub/press-releases/gcsoc-factsheet/</u></a>
 </p>
 <p>The Government Cybersecurity Operations Centre (GCSOC) is an integrated
 initiative that aims to upgrade monitoring and detection technologies,
@@ -32,10 +32,10 @@ with the Ministry of Home Affairs that enables GCSOC to proactively scan
 across the Internet daily for malicious sites that mimic Government agencies’
 websites.</p>
 <p></p>
-<p><strong>Interested to find out more about GCSOC?</strong>
-</p>
+<h3><strong>Interested to find out more about GCSOC?</strong></h3>
 <p>Learn more about GCSOC <a href="https://www.smartnation.gov.sg/media-hub/press-releases/gcsoc-factsheet/" class="waffle-rich-text-link" rel="noopener noreferrer nofollow" target="_blank"><u>here</u></a>.</p>
 <p>Have questions? Get in touch with us at xxx
 <br>
 </p>
+<h3></h3>
 <p></p>
