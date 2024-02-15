@@ -5,8 +5,7 @@ description: ""
 third_nav_title: For Government Agencies
 variant: tiptap
 ---
-<p><strong>1. Leveraging Data Science and Artificial Intelligence to improve policy outcomes and operational efficiency within the government. </strong>
-</p>
+<h3><strong>Leveraging Data Science and Artificial Intelligence to improve policy outcomes and operational efficiency within the government</strong></h3>
 <p>- As we Engineer a Digital Government, it is important to ensure we are
 continuously improving internal processes by harnessing the latest technologies.
 This includes tapping on technologies like Artificial Intelligence (AI).</p>
@@ -16,15 +15,11 @@ efficiency for government agencies.</p>
 <p>- These ultimately allow for evidence-based policy making, enhanced productivity
 in public service provision and better targeted services to meet citizens'
 needs - all while providing time-savings for public officers.</p>
-<p><strong>2. Our Data and AI services (double-check to make sure this matches the list of product pages under Data &amp; AI) </strong>
-</p>
+<h3><strong>Our Data and AI tools</strong></h3>
 <p>1. (Include product logo) <a href="http://analytics.gov/" rel="noopener noreferrer nofollow" target="_blank"><u>Analytics.gov</u></a> (AG) - A data exploitation
 platform within the Government Data Architecture (GDA), providing features
 for users to exploit data with built-in data security and governance with
-access to a wide range of analytics tools. (Link to AG product page)
-<a href="https://sgdcs.sgnet.gov.sg/sites/data/SitePages/data-%26-analytics-platforms.aspx)" class="waffle-rich-text-link" rel="noopener noreferrer nofollow" target="_blank"><u> </u>
-</a>
-</p>
+access to a wide range of analytics tools. (Link to AG product page)</p>
 <p>2. (Include product logo) Video Analytics System - A central platform
 for agencies to explore VA solutions, exchange video data and analytics
 across WOG, and expand the video sensor network (link to VAS page)</p>
