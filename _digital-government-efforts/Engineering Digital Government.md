@@ -36,8 +36,7 @@ components that cover the entire app development life cycle.</p>
 <p>Through the SGTS, government agencies can develop applications in a better,
 smarter, and faster way as they can now tap a ready suite of products and
 services to produce services of a high quality and standard.</p>
-<p>CTA: Learn more about SGTS here. (Link to specific product page under
-Products &amp; Services)</p>
+<p>Learn more about SGTS <a href="https://www.tech.gov.sg/products-and-services/singapore-government-tech-stack/" rel="noopener noreferrer nofollow" target="_blank">here</a>.</p>
 <h4><u>Government on Commercial Cloud (GCC)</u></h4>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Digital Gov Efforts/GCC_NewHeaderBanner.jpg">
@@ -73,35 +72,51 @@ monitor system health checks and analytics</p>
 </div>
 <p>CTA: Learn more about APEX <a href="https://www.developer.tech.gov.sg/products/categories/data-and-apis/apex-cloud/overview.html" rel="noopener noreferrer nofollow" target="_blank">here</a>.</p>
 <h4><u>Digital Workplace (DWP)</u></h4>
-<p>- Include logo of product (logo from page 7 of <a href="https://www.developer.tech.gov.sg/our-digital-journey/singapore-digital-government-journey/files/govtech-singapore-digital-government-journey-factsheet.pdf" rel="noopener noreferrer nofollow" target="_blank">https://www.developer.tech.gov.sg/our-digital-journey/singapore-digital-government-journey/files/govtech-singapore-digital-government-journey-factsheet.pdf</a> )</p>
-<p>- DWP is a suite of productivity tools and digital enablers, designed
-to allow public officers of any division and tech literacy to move through
+<div class="isomer-image-wrapper">
+<img style="width: 70%;" height="auto" width="100%" alt="" src="/images/Digital Gov Efforts/DWP_logo.png">
+</div>
+<p>DWP is a suite of productivity tools and digital enablers, designed to
+allow public officers of any division and tech literacy to move through
 the workday with ease, tapping on the power of today's digital tools.</p>
-<p>- Some of the products include CalSync, which allows public officers to
+<p>Some of the products include CalSync, which allows public officers to
 access work calenders on-the-go, Biometric logins, Visitor Management System,
 and more.</p>
-<p>- This suite of tools facilitates cross-government collaboration and productivity,
+<p>This suite of tools facilitates cross-government collaboration and productivity,
 creating a seamless working environment for public officers and ultimately
 increasing efficiency.</p>
-<p>3. Ensuring security within the Digital Government with cybersecurity
-efforts</p>
-<p>- As one of the five capability centres at GovTech, the Cybersecurity
-Group (CSG) leads these efforts to develop the cybersecurity strategy for
-the Government, secures the usage of government digital services for the
-public and protects the Government’s ICT systems and Smart systems (ICT
-&amp; SS).</p>
-<p>- The group's suite of cybersecurity capabilities range from blue-teaming
+<h3>Ensuring security within the Digital Government with cybersecurity efforts</h3>
+<p>As one of the five capability centres at GovTech, the Cybersecurity Group
+(CSG) leads these efforts to develop the cybersecurity strategy for the
+Government, secures the usage of government digital services for the public
+and protects the Government’s ICT systems and Smart systems (ICT &amp;
+SS).</p>
+<p>The group's suite of cybersecurity capabilities range from blue-teaming
 capabilities that detect and respond against cyber threats, to red-teaming
 capabilities that uncover cyber vulnerabilities in Government’s ICT &amp;
 SS.</p>
-<p>- Beyond developing cyber-defence capabilities, this centre also develops
+<p>Beyond developing cyber-defence capabilities, this centre also develops
 cybersecurity policies and guidelines for agencies, works with agencies
 to implement secure architectures and provides cybersecurity technical
 guidance that help build a safer, more secure Smart Nation for our citizens
 and businesses.</p>
-<p>- Learn more about our cybersecurity efforts with these articles below.</p>
+<p><strong>Learn more about our cybersecurity efforts with these articles below.</strong>
+</p>
 <p>(3 cards to spotlight TechNews articles around GovTech's cybersecurity
 team &amp; their efforts)</p>
+<div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="https://www.tech.gov.sg/media/technews/how-the-government-chief-information-security-officer-keeps-cyberspace%20secure" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Placeholder image" src="/images/Digital Gov Efforts/_Resized__How_the_government_chief_information_security_officer_keeps_cyberspace_secure_copy.png"></div></div><div class="isomer-card-body"><div class="isomer-card-title">How the government chief information security officer keeps cyberspace secure</div><div class="isomer-card-link">Read more</div></div></a>
+<a rel="noopener noreferrer nofollow" href="https://www.tech.gov.sg/media/technews/cybersecurity-on-zero-day-vulnerabilities" class="isomer-card">
+<div class="isomer-card-image">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Placeholder image" src="/images/Digital Gov Efforts/_Resized__Loke_Hui_Yi___Card_2_.jpeg">
+</div>
+</div>
+<div class="isomer-card-body">
+<div class="isomer-card-title">GovTech cybersecurity specialists zero in on zero-day vulnerabilities</div>
+<div class="isomer-card-link">Read more</div>
+</div>
+</a><a rel="noopener noreferrer nofollow" href="https://www.tech.gov.sg/media/technews/women-in-cybersecurity" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Placeholder image" src="/images/Digital Gov Efforts/women_in_cyber__card_3_.jpg"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Women in cybersecurity – GovTechies on life as cyber guardians</div><div class="isomer-card-link">Read more</div></div></a>
+</div>
+<p></p>
 <p>- Card 1: How the government chief information security officer keeps
 cyberspace secure</p>
 <p>- Card 2: GovTech cybersecurity specialists zero in on zero-day vulnerabilities</p>
