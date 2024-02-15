@@ -6,7 +6,6 @@ third_nav_title: For Businesses
 variant: tiptap
 ---
 <h3><strong>Powering smart city solutions for a smarter future with Open Digital Platform (ODP)</strong></h3>
-<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 50%;" height="auto" width="100%" alt="" src="/images/Products and Services/Punggol_Digital_District.jpg">
 </div>
@@ -17,7 +16,6 @@ kick things off, Punggol Digital District was created with ODP as its digital
 backbone, where data is collected and operational activities can be managed
 on a centralised platform. Moving forward, this product can empower estate
 managers and ease the delivery of estate services.</p>
-<p></p>
 <h3><strong>Why use ODP?</strong></h3>
 <p>Provides a trusted, open environment that allows for easy collaboration
 among contributors. Test-bed solutions risk-free through virtual simulations
@@ -30,7 +28,6 @@ for devices no longer in use</p>
 <iframe height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/WKsgKA-YHmc?si=YU3wJd7ZmEpq4-Gs"></iframe>
 </div>
 <h3><strong>What's the latest on ODP?</strong></h3>
-<p></p>
 <p>Ahead of its roll-out in PDD from 2024 onwards, the ODP has been test-bedded
 in The JTC Summit and Woodlands North Coast since 2022 and 2023 respectively.
 GovTech is also looking at how the platform can be further developed with
