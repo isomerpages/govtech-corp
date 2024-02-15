@@ -21,7 +21,7 @@ actions.</p>
 <h3><strong>Why use Healthy 365?</strong></h3>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 50%;" height="auto" width="100%" alt="" src="/images/Products and Services/healthy365_screenshot_1.png">
+<img style="width: 30%;" height="auto" width="100%" alt="" src="/images/Products and Services/healthy365_screenshot_1.png">
 </div>
 <p>Connect the app to your fitness-tracking device to count your daily steps
 and time spent on active exercises - Check your daily progress on the app
