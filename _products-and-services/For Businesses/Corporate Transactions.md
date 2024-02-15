@@ -5,7 +5,7 @@ description: ""
 third_nav_title: For Businesses
 variant: tiptap
 ---
-<h3><strong>Empowering businesses with convenience, ease and security during business transactions and operations. </strong></h3>
+<h3><strong>Empowering businesses with convenience, ease and security during business transactions and operations.</strong></h3>
 <p>In support of the Smart Nation objectives, we aim to create secure and
 reliable digital services for not just citizens, but also businesses in
 Singapore. The acceleration of digital transformation without Singapore's
@@ -18,7 +18,7 @@ and tedious manual or administrative processes such as form filling.</p>
 <h3><strong>Explore Our Platforms for Corporate Transactions</strong></h3>
 <p></p>
 <p></p>
-<h3><strong> </strong></h3>
+<h3></h3>
 <p>1. (Include product logo) Singpass API - A library with a suite of Singpass
 APIs to save time and money on customer acquisition. (Link to Singpass
 API page)</p>
@@ -29,4 +29,18 @@ transactions. (Link to Corppass page)</p>
 businesses with integrated, personalised and seamless access to business
 info and services from the government, including Government-to-Business
 transactions (Link to GoBusiness page)</p>
+<p></p>
+<div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="/products-and-services/for-businesses/singpass-api" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Placeholder image" src="https://placehold.co/600x400"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Singpass API</div><div class="isomer-card-link">Find Out More</div></div></a>
+<a rel="noopener noreferrer nofollow" href="/products-and-services/for-businesses/corppass" class="isomer-card">
+<div class="isomer-card-image">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Placeholder image" src="https://placehold.co/600x400">
+</div>
+</div>
+<div class="isomer-card-body">
+<div class="isomer-card-title">Corppass</div>
+<div class="isomer-card-link">Find Out More</div>
+</div>
+</a><a rel="noopener noreferrer nofollow" href="https://www.isomer.gov.sg" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Placeholder image" src="https://placehold.co/600x400"></div></div><div class="isomer-card-body"><div class="isomer-card-title">This is a title for your card</div><div class="isomer-card-description">This is body text for your card. Describe your card.</div><div class="isomer-card-link">This is a link for your card</div></div></a>
+</div>
 <p></p>
