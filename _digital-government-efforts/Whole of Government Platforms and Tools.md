@@ -7,36 +7,39 @@ description: ""
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="Whole of Government (WOG) Platforms and tools" src="/images/Digital Gov Efforts/WOG_platforms_and_tools_header_banner.jpg">
 </div>
-<h3>Driving the digital transformation of Singapore's public sector<strong> </strong></h3>
+<h3>Driving the digital transformation of Singapore's public sector</h3>
 <p>Through our Digital Government Blueprint, we aspire to create a government
 that is “Digital to the Core, and Serves with Heart.” This means that transacting
 with the government will be easy, seamless, and secure.</p>
 <p>It also means that public officers will continually upskill and work collaboratively
 across agencies to drive digitalisation within the government and offer
 better services to citizens and businesses.</p>
-<h3>Engineering a Digital Government through a Shared Stack<strong> </strong></h3>
+<h3>Engineering a Digital Government through a Shared Stack</h3>
 <p>In line with the Digital Government Blueprint, we need to enable a consistent
 service standard across the Government comprising user-centric services
 that do not compromise on security. Thus, a robust development stack that
 supports modern application development across the Government has been
 adopted.</p>
 <h4><u>Singapore Government Tech Stack (SGTS)</u></h4>
-<p>- Include logo of product</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Singapore Government Tech Stack (SGTS)" src="/images/Digital Gov Efforts/SGTS_banner_image.jpg">
+</div>
 <p>The Singapore Government Tech Stack (SGTS) provides all government agencies
 with a shared digital infrastructure, services, and tools. It comprises
 software and infrastructure components that are scalable, reusable, and
 interoperable.</p>
-<p>- The two layers of the SGTS are the base and services layers, which contain
+<p>The two layers of the SGTS are the base and services layers, which contain
 components that cover the entire app development life cycle.</p>
-<p>- Through the SGTS, government agencies can develop applications in a
-better, smarter, and faster way as they can now tap a ready suite of products
-and services to produce services of a high quality and standard.</p>
-<p>CTA: Learn more about SGTS <u>here</u>. (Link to specific product page
-under Products &amp; Services)</p>
-<p><u>Government on Commercial Cloud (GCC) </u>
-</p>
-<p>- Include logo of product - GCC allows less sensitive government systems
-and information to be stored on a cloud computing platform.</p>
+<p>Through the SGTS, government agencies can develop applications in a better,
+smarter, and faster way as they can now tap a ready suite of products and
+services to produce services of a high quality and standard.</p>
+<p>Learn more about SGTS <a href="https://www.tech.gov.sg/products-and-services/singapore-government-tech-stack/" rel="noopener noreferrer nofollow" target="_blank">here</a>.</p>
+<h4><u>Government on Commercial Cloud (GCC)</u></h4>
+<p>- Include logo of product</p>
+<p></p>
+<p></p>
+<p>GCC allows less sensitive government systems and information to be stored
+on a cloud computing platform.</p>
 <p>- It provides agencies with a means of adopting commercial cloud solutions
 offered by Amazon, Microsoft, and Google without compromising on cybersecurity.
 Currently, more than 600 government systems have migrated to cloud.</p>
@@ -44,9 +47,9 @@ Currently, more than 600 government systems have migrated to cloud.</p>
 racking, stacking, and maintaining on-site computing hardware. This gives
 development teams more time to focus on software engineering and delivering
 digital applications to internal and external stakeholders.</p>
-<p>CTA: Learn more about GCC <u>here</u>. (Link to specific product page under
-Products &amp; Services)</p>
-<p><u>API Exchange (APEX) </u>
+<p>Learn more about GCC <a href="https://www.tech.gov.sg/products-and-services/government-on-commercial-cloud/" rel="noopener noreferrer nofollow" target="_blank">here</a>.
+(Link to specific product page under Products &amp; Services)</p>
+<p><u>API Exchange (APEX)</u>
 </p>
 <p>- Include logo of product</p>
 <p>- APEX is a self-service API platform that functions as a centralised
@@ -61,7 +64,7 @@ can monitor system health checks and analytics</p>
 <p>- Include APEX infographic from <a href="https://www.tech.gov.sg/singapore-digital-government-journey/wog-platforms-and-tools" rel="noopener noreferrer nofollow" target="_blank"><u>https://www.tech.gov.sg/singapore-digital-government-journey/wog-platforms-and-tools/streamlining-the-building-of-a-digital-government-through-a-shared-tech-stack</u></a>
 </p>
 <p>CTA: Learn more about APEX here. (Link to <a href="https://www.tech.gov.sg/singapore-digital-government-journey/wog-platforms-and-tools" rel="noopener noreferrer nofollow" target="_blank"><u>https://www.developer.tech.gov.sg/products/categories/data-and-apis/apex-cloud/overview.html</u></a>)</p>
-<p><u>Digital Workplace (DWP) </u>
+<p><u>Digital Workplace (DWP)</u>
 </p>
 <p>- Include logo of product (logo from page 7 of <a href="https://www.tech.gov.sg/singapore-digital-government-journey/wog-platforms-and-tools" rel="noopener noreferrer nofollow" target="_blank"><u>https://www.developer.tech.gov.sg/our-digital-journey/singapore-digital-government-journey/files/govtech-singapore-digital-government-journey-factsheet.pdf</u></a> )</p>
 <p>- DWP is a suite of productivity tools and digital enablers, designed
@@ -73,7 +76,7 @@ and more.</p>
 <p>- This suite of tools facilitates cross-government collaboration and productivity,
 creating a seamless working environment for public officers and ultimately
 increasing efficiency.</p>
-<p><strong>3. Ensuring security within the Digital Government with cybersecurity efforts </strong>
+<p><strong>3. Ensuring security within the Digital Government with cybersecurity efforts</strong>
 </p>
 <p>- As one of the five capability centres at GovTech, the Cybersecurity
 Group (CSG) leads these efforts to develop the cybersecurity strategy for
