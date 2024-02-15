@@ -180,26 +180,23 @@ turpis nisl aliquam nisl. Eget maecenas pulvinar venen</div>
 <div class="isomer-card-grid">
 <div class="isomer-card">
 <div class="isomer-card-body">
-<div class="isomer-card-title">Lorem ipsum dolor sit amet consectetur</div>
-<div class="isomer-card-description">Amet venenatis mattis aliquam pharetra aenean turpis nisl aliquam nisl.
-Eget maecenas pulvinar venenatis viverra sociis ut bibendum nulla. Orci
-aliquet in consequat lobortis mauris.</div>
+<div class="isomer-card-title">[35] Nunc a massa feugiat, feugiat orcel</div>
+<div class="isomer-card-description">[100] Sitmet consectetur. Amet venenatis mattis aliquam pharetra aenean
+turpis nisl aliquam nisl. Eget mae</div>
 </div>
 </div>
 <div class="isomer-card">
 <div class="isomer-card-body">
-<div class="isomer-card-title">Lorem ipsum dolor sit amet consectetur</div>
-<div class="isomer-card-description">Amet venenatis mattis aliquam pharetra aenean turpis nisl aliquam nisl.
-Eget maecenas pulvinar venenatis viverra sociis ut bibendum nulla. Orci
-aliquet in consequat lobortis mauris.</div>
+<div class="isomer-card-title">[35] Nunc a massa feugiat, feugiat orcel</div>
+<div class="isomer-card-description">[100] Sitmet consectetur. Amet venenatis mattis aliquam pharetra aenean
+turpis nisl aliquam nisl. Eget mae</div>
 </div>
 </div>
 <div class="isomer-card">
 <div class="isomer-card-body">
-<div class="isomer-card-title">Lorem ipsum dolor sit amet consectetur</div>
-<div class="isomer-card-description">Amet venenatis mattis aliquam pharetra aenean turpis nisl aliquam nisl.
-Eget maecenas pulvinar venenatis viverra sociis ut bibendum nulla. Orci
-aliquet in consequat lobortis mauris.</div>
+<div class="isomer-card-title">[35] Nunc a massa feugiat, feugiat orcel</div>
+<div class="isomer-card-description">[100] Sitmet consectetur. Amet venenatis mattis aliquam pharetra aenean
+turpis nisl aliquam nisl. Eget mae</div>
 </div>
 </div>
 </div>
@@ -212,10 +209,9 @@ aliquet in consequat lobortis mauris.</div>
 </div>
 </div>
 <div class="isomer-card-body">
-<div class="isomer-card-title">Lorem ipsum dolor sit amet consectetur</div>
-<div class="isomer-card-description">Amet venenatis mattis aliquam pharetra aenean turpis nisl aliquam nisl.
-Eget maecenas pulvinar venenatis viverra sociis ut bibendum nulla. Orci
-aliquet in consequat lobortis mauris.</div>
+<div class="isomer-card-title">[35] Nunc a massa feugiat, feugiat orcel</div>
+<div class="isomer-card-description">[100] Sitmet consectetur. Amet venenatis mattis aliquam pharetra aenean
+turpis nisl aliquam nisl. Eget mae</div>
 </div>
 </div>
 <div class="isomer-card">
@@ -225,10 +221,9 @@ aliquet in consequat lobortis mauris.</div>
 </div>
 </div>
 <div class="isomer-card-body">
-<div class="isomer-card-title">Lorem ipsum dolor sit amet consectetur</div>
-<div class="isomer-card-description">Amet venenatis mattis aliquam pharetra aenean turpis nisl aliquam nisl.
-Eget maecenas pulvinar venenatis viverra sociis ut bibendum nulla. Orci
-aliquet in consequat lobortis mauris.</div>
+<div class="isomer-card-title">[35] Nunc a massa feugiat, feugiat orcel</div>
+<div class="isomer-card-description">[100] Sitmet consectetur. Amet venenatis mattis aliquam pharetra aenean
+turpis nisl aliquam nisl. Eget mae</div>
 </div>
 </div>
 <div class="isomer-card">
@@ -238,54 +233,56 @@ aliquet in consequat lobortis mauris.</div>
 </div>
 </div>
 <div class="isomer-card-body">
-<div class="isomer-card-title">Lorem ipsum dolor sit amet consectetur</div>
-<div class="isomer-card-description">Amet venenatis mattis aliquam pharetra aenean turpis nisl aliquam nisl.
-Eget maecenas pulvinar venenatis viverra sociis ut bibendum nulla. Orci
-aliquet in consequat lobortis mauris.</div>
+<div class="isomer-card-title">[35] Nunc a massa feugiat, feugiat orcel</div>
+<div class="isomer-card-description">[100] Sitmet consectetur. Amet venenatis mattis aliquam pharetra aenean
+turpis nisl aliquam nisl. Eget mae</div>
 </div>
 </div>
 </div>
 <h2>7. 2 Col Call Out Module</h2>
-<div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="https://www.isomer.gov.sg" class="isomer-card"><div class="isomer-card-body"><div class="isomer-card-title">Card title</div><div class="isomer-card-description">Lorem ipsum dolor sit amet consectetur. Amet venenatis mattis aliquam pharetra aenean turpis nisl aliquam nisl. Eget maecenas pulvinar venenatis viverra sociis ut bibendum nulla. Orci aliquet in consequat lobortis mauris.</div><div class="isomer-card-link">Find Out More</div></div></a>
+<div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="https://www.isomer.gov.sg" class="isomer-card"><div class="isomer-card-body"><div class="isomer-card-title">[80] Lorem ipsum dolor sit amet, consectetur adipiscing elit. Etiam quis elementum ex</div><div class="isomer-card-link">[20] Etiam quis elementum</div></div></a>
 <a rel="noopener noreferrer nofollow" href="https://www.isomer.gov.sg" class="isomer-card">
 <div class="isomer-card-body">
-<div class="isomer-card-title">Card title</div>
-<div class="isomer-card-description">Lorem ipsum dolor sit amet consectetur. Amet venenatis mattis aliquam
-pharetra aenean turpis nisl aliquam nisl. Eget maecenas pulvinar venenatis
-viverra sociis ut bibendum nulla. Orci aliquet in consequat lobortis mauris.</div>
-<div class="isomer-card-link">Find Out More</div>
+<div class="isomer-card-title">[80] Lorem ipsum dolor sit amet, consectetur adipiscing elit. Etiam quis
+elementum ex</div>
+<div class="isomer-card-link">[20] Etiam quis elementum</div>
 </div>
 </a>
 </div>
 <h2>8. 3 Col Call Out Module</h2>
-<div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="https://www.isomer.gov.sg" class="isomer-card"><div class="isomer-card-body"><div class="isomer-card-title">Card title</div><div class="isomer-card-description">Lorem ipsum dolor sit amet consectetur. Amet venenatis mattis aliquam pharetra aenean turpis nisl aliquam nisl. Eget maecenas pulvinar venenatis viverra sociis ut bibendum nulla. Orci aliquet in consequat lobortis mauris.</div><div class="isomer-card-link">Find Out More</div></div></a>
+<div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="https://www.isomer.gov.sg" class="isomer-card"><div class="isomer-card-body"><div class="isomer-card-title">[80] Lorem ipsum dolor sit amet, consectetur adipiscing elit. Etiam quis elementum ex</div><div class="isomer-card-link">[20] Etiam quis elementum</div></div></a>
 <a rel="noopener noreferrer nofollow" href="https://www.isomer.gov.sg" class="isomer-card">
 <div class="isomer-card-body">
-<div class="isomer-card-title">Card title</div>
-<div class="isomer-card-description">Lorem ipsum dolor sit amet consectetur. Amet venenatis mattis aliquam
-pharetra aenean turpis nisl aliquam nisl. Eget maecenas pulvinar venenatis
-viverra sociis ut bibendum nulla. Orci aliquet in consequat lobortis mauris.</div>
-<div class="isomer-card-link">Find Out More</div>
+<div class="isomer-card-title">[80] Lorem ipsum dolor sit amet, consectetur adipiscing elit. Etiam quis
+elementum ex</div>
+<div class="isomer-card-link">[20] Etiam quis elementum</div>
 </div>
-</a><a rel="noopener noreferrer nofollow" href="https://www.isomer.gov.sg" class="isomer-card"><div class="isomer-card-body"><div class="isomer-card-title">Card title</div><div class="isomer-card-description">Lorem ipsum dolor sit amet consectetur. Amet venenatis mattis aliquam pharetra aenean turpis nisl aliquam nisl. Eget maecenas pulvinar venenatis viverra sociis ut bibendum nulla. Orci aliquet in consequat lobortis mauris.</div><div class="isomer-card-link">Find Out More</div></div></a>
+</a><a rel="noopener noreferrer nofollow" href="https://www.isomer.gov.sg" class="isomer-card"><div class="isomer-card-body"><div class="isomer-card-title">[80] Lorem ipsum dolor sit amet, consectetur adipiscing elit. Etiam quis elementum ex</div><div class="isomer-card-link">[20] Etiam quis elementum</div></div></a>
 </div>
 <h2>9. 1 Col Call Out Module</h2>
-<div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="https://www.isomer.gov.sg" class="isomer-card"><div class="isomer-card-body"><div class="isomer-card-title">Card title</div><div class="isomer-card-description">Lorem ipsum dolor sit amet consectetur. Amet venenatis mattis aliquam pharetra aenean turpis nisl aliquam nisl. Eget maecenas pulvinar venenatis viverra sociis ut bibendum nulla. Orci aliquet in consequat lobortis mauris.</div><div class="isomer-card-link">Find Out More</div></div></a>
+<div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="https://www.isomer.gov.sg" class="isomer-card"><div class="isomer-card-body"><div class="isomer-card-title">[50] Nunc a massa feugiat, feugiat orci at, eleifend qu</div><div class="isomer-card-description">[150] Lorem ipsum dolor sit amet, consectetur adipiscing elit. Etiam quis elementum ex. Nunc a massa feugiat, feugiat orci at, eleifend quam. Donec sceleris</div><div class="isomer-card-link">[20] Etiam quis elementum</div></div></a>
 </div>
 <h2>10. Intro Module</h2>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/technews/Five_ways_you_might_be_sabotaging_your_data_privacy_.jpg">
 </div>
-<h4>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus quis libero pellentesque, faucibus urna at, rutrum diam.</h4>
+<h4>[150] Lorem ipsum dolor sit amet, consectetur adipiscing elit. Etiam quis elementum ex. Nunc a massa feugiat, feugiat orci at, eleifend quam. Donec sceleris</h4>
 <p></p>
 <h2>11. Get In Touch Module</h2>
-<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus quis
-libero pellentesque, faucibus urna at, rutrum diam</p>
+<h3>[50] Nunc a massa feugiat, feugiat orci at, eleifend qu</h3>
+<p>[200] Lorem ipsum dolor sit amet, consectetur adipiscing elit. Etiam quis
+elementum ex. Nunc a massa feugiat, feugiat orci at, eleifend quam. Donec
+scelerisque semper nisl et sodales. Suspendisse euismod or</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/tracetogethertest1.jpg">
 </div>
-<h4><a href="www.isomer.com" rel="noopener noreferrer nofollow" target="_blank">Get In Touch</a></h4>
+<p><a href="www.isomer.com" rel="noopener noreferrer nofollow" target="_blank">[20] Etiam quis elementum</a>
+</p>
 <h2>12. Logo Showcase Module</h2>
+<h3>[50] Nunc a massa feugiat, feugiat orci at, eleifend qu</h3>
+<p>[200] Lorem ipsum dolor sit amet, consectetur adipiscing elit. Etiam quis
+elementum ex. Nunc a massa feugiat, feugiat orci at, eleifend quam. Donec
+scelerisque semper nisl et sodales. Suspendisse euismod or</p>
 <table>
 <tbody>
 <tr>
@@ -323,26 +320,24 @@ libero pellentesque, faucibus urna at, rutrum diam</p>
 </td>
 </tr>
 <tr>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<h4><a href="www.isomer.com" rel="noopener noreferrer nofollow" target="_blank">Find Out More</a></h4>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
+<td rowspan="1" colspan="3">
+<h4><a href="www.isomer.com" rel="noopener noreferrer nofollow" target="_blank">[20]Etiam quis elementum</a></h4>
 </td>
 </tr>
 </tbody>
 </table>
 <h2>13. Video Module</h2>
+<h3>[50] Nunc a massa feugiat, feugiat orci at, eleifend qu</h3>
+<p>[200] Lorem ipsum dolor sit amet, consectetur adipiscing elit. Etiam quis
+elementum ex. Nunc a massa feugiat, feugiat orci at, eleifend quam. Donec
+scelerisque semper nisl et sodales. Suspendisse euismod or</p>
 <div class="iframe-wrapper">
 <iframe height="500" width="100%" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/MfkeAoVo4Vo?si=Mn1ssByy4RAiSBQw"></iframe>
 </div>
 <h2>14. Accordion Module</h2>
 <p>Release in End Feb on isomer</p>
-<h2>15. Form Module</h2>
-<p>GT to check Mailchimp feasibility or porting over to formsg to embed</p>
+<h2><s>15. Form Module</s></h2>
+<p>In future to be lead to separate landing page</p>
 <p></p>
 <h2><s>16. Image Collage Module</s></h2>
 <p>does not look good in mobile, upload images separately</p>
