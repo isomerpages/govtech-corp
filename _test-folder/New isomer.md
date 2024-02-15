@@ -4,6 +4,28 @@ permalink: /test-folder/permalink/
 variant: tiptap
 description: ""
 ---
+<div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="https://www.isomer.gov.sg" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="placegolder" src="/images/Products and Services/singpass-security-measures.jpg"></div></div><div class="isomer-card-body"><div class="isomer-card-title">[40] Nunc </div></div></a>
+</div>
+<div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="https://www.isomer.gov.sg" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="p" src="/images/Products and Services/singpass-security-measures.jpg"></div></div><div class="isomer-card-body"><div class="isomer-card-title">[40] Nunc a massa feugiat, feugiat orceleifen</div><div class="isomer-card-description">[150] Lorem ipsum dolor sit amet, consectetur adipiscing elit. Etiam quis elementum ex. Nunc a massa feugiat, feugiat orci at, eleifend quam. Donec sceleris</div><div class="isomer-card-link">[20] Etiam quis elementum</div></div></a>
+</div>
+<div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="https://www.isomer.gov.sg" class="isomer-card"><div class="isomer-card-body"><div class="isomer-card-title">a massa</div></div></a>
+</div>
+<div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="https://www.isomer.gov.sg" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="p" src="/images/Products and Services/singpass-security-measures.jpg"></div></div><div class="isomer-card-body"><div class="isomer-card-title">[40] Nunc a massa feugiat, feugiat orceleifen</div><div class="isomer-card-description">[150] Lorem ipsum dolor sit amet, consectetur adipiscing elit. Etiam quis elementum ex. Nunc a massa feugiat, feugiat orci at, eleifend quam. Donec sceleris</div><div class="isomer-card-link">[20] Etiam quis elementum</div></div></a>
+</div>
+<div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="https://www.isomer.gov.sg" class="isomer-card"><div class="isomer-card-body"><div class="isomer-card-title"> feugia</div></div></a>
+</div>
+<div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="https://www.isomer.gov.sg" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="place" src="/images/Products and Services/singpass-security-measures.jpg"></div></div><div class="isomer-card-body"><div class="isomer-card-title">[40] Nunc a massa feugiat, feugiat orceleifen</div><div class="isomer-card-description">[150] Lorem ipsum dolor sit amet, consectetur adipiscing elit. Etiam quis elementum ex. Nunc a massa feugiat, feugiat orci at, eleifend quam. Donec sceleris</div><div class="isomer-card-link">[20] Etiam quis elementum</div></div></a>
+</div>
+<div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="https://www.isomer.gov.sg" class="isomer-card"><div class="isomer-card-body"><div class="isomer-card-title">t, feug</div></div></a>
+</div>
+<div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="https://www.isomer.gov.sg" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="place" src="/images/Products and Services/singpass-security-measures.jpg"></div></div><div class="isomer-card-body"><div class="isomer-card-title">[40] Nunc a massa feugiat, feugiat orceleifen</div><div class="isomer-card-description">[150] Lorem ipsum dolor sit amet, consectetur adipiscing elit. Etiam quis elementum ex. Nunc a massa feugiat, feugiat orci at, eleifend quam. Donec sceleris</div><div class="isomer-card-link">[20] Etiam quis elementum</div></div></a>
+</div>
+<div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="https://www.isomer.gov.sg" class="isomer-card"><div class="isomer-card-body"><div class="isomer-card-title">iat orceleifen</div><div class="isomer-card-description">[150] Lorem ipsum dolor sit amet, cons</div></div></a>
+</div>
+<div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="https://www.isomer.gov.sg" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="placegold" src="/images/Products and Services/singpass-security-measures.jpg"></div></div><div class="isomer-card-body"><div class="isomer-card-title">[40] Nunc a massa feugiat, feugiat orceleifen</div><div class="isomer-card-description">[150] Lorem ipsum dolor sit amet, consectetur adipiscing elit. Etiam quis elementum ex. Nunc a massa feugiat, feugiat orci at, eleifend quam. Donec sceleris</div><div class="isomer-card-link">[20] Etiam quis elementum</div></div></a>
+</div>
+<div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="https://www.isomer.gov.sg" class="isomer-card"><div class="isomer-card-body"><div class="isomer-card-description">ectetur adipiscing elit. Etiam quis elementum ex. Nunc a massa feugiat, feugiat orci at, eleifend quam. Donec sceleris</div><div class="isomer-card-link">[20] Etiam quis elementum</div></div></a>
+</div>
 <h2>1. Headshot Module</h2>
 <div class="isomer-card-grid">
 <div class="isomer-card">
@@ -103,16 +125,15 @@ sceleris</div>
 <h2>4. Quote Module</h2>
 <p>Quote using "quote block" text, this has bigger spacing between lines</p>
 <blockquote>
-<p>[150] Lorem ipsum dolor sit amet, consectetur adipiscing elit. Etiam quis
-elementum ex. Nunc a massa feugiat, feugiat orci at, eleifend quam. Donec
-sceleris</p>
+<p><em>[150] Lorem ipsum dolor sit amet, consectetur adipiscing elit. Etiam quis elementum ex. Nunc a massa feugiat, feugiat orci at, eleifend quam. Donec sceleris</em>
+</p>
 </blockquote>
 <p>– [40] Nunc a massa feugiat, feugiat orceleifen</p>
 <p></p>
 <p>Quote using "H3" text, this follows H3 styling with tighter spacing and
 bigger font</p>
 <blockquote>
-<h4>[H3 150] Lorem ipsum dolor sit amet, consectetur adipiscing elit. Etiam quis elementum ex. Nunc a massa feugiat, feugiat orci at, eleifend quam. Donec sceleris</h4>
+<h4><em>[H3 150] Lorem ipsum dolor sit amet, consectetur adipiscing elit. Etiam quis elementum ex. Nunc a massa feugiat, feugiat orci at, eleifend quam. Donec sceleris</em></h4>
 </blockquote>
 <p>– [40] Nunc a massa feugiat, feugiat orceleifen</p>
 <p></p>
@@ -342,7 +363,9 @@ scelerisque semper nisl et sodales. Suspendisse euismod or</p>
 <p></p>
 <h2>15. Plain Card Module [TLDR]</h2>
 <p>unable to have coloured background – utilise normal text</p>
-<h3>[50] Nunc a massa feugiat, feugiat orci at, eleifend qu</h3>
+<blockquote>
+<h3><strong>[50] Nunc a massa feugiat, feugiat orci at, eleifend qu</strong></h3>
+</blockquote>
 <p>[150] Lorem ipsum dolor sit amet, consectetur adipiscing elit. Etiam quis
 elementum ex. Nunc a massa feugiat, feugiat orci at, eleifend quam. Donec
 sceleris</p>
