@@ -34,7 +34,7 @@ GovTech is also looking at how the platform can be further developed with
 the aim of scaling it up as our Smart Facilities Management (FM) solution
 within the Singapore Government.</p>
 <h3><strong>Interested to find out more about ODP?</strong></h3>
-<p>Learn more about ODP <a href="https://www.developer.tech.gov.sg/products/categories/sensor-platforms-and-internet-of-things/open-digital-platform/overview.html" class="waffle-rich-text-link" rel="noopener noreferrer nofollow" target="_blank"><u>here</u></a>.
-Have questions? Contact us at <a href="https://www.developer.tech.gov.sg/products/categories/sensor-platforms-and-internet-of-things/open-digital-platform/overview.html" rel="noopener noreferrer nofollow" target="_blank">digitalgov@tech.gov.sg</a> (GovTech
+<p>Learn more about ODP <a href="https://www.developer.tech.gov.sg/products/categories/sensor-platforms-and-internet-of-things/open-digital-platform/overview.html" class="waffle-rich-text-link" rel="noopener noreferrer nofollow" target="_blank"><u>here</u></a>.</p>
+<p>Have questions? Contact us at <a href="https://www.developer.tech.gov.sg/products/categories/sensor-platforms-and-internet-of-things/open-digital-platform/overview.html" rel="noopener noreferrer nofollow" target="_blank">digitalgov@tech.gov.sg</a> (GovTech
 to confirm if we should use this, or if there's a specific team/PIC to
 contact.</p>
