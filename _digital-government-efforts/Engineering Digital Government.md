@@ -99,8 +99,7 @@ cybersecurity policies and guidelines for agencies, works with agencies
 to implement secure architectures and provides cybersecurity technical
 guidance that help build a safer, more secure Smart Nation for our citizens
 and businesses.</p>
-<p><strong>Learn more about our cybersecurity efforts with these articles below.</strong>
-</p>
+<h4>Learn more about our cybersecurity efforts with these articles below.</h4>
 <p>(3 cards to spotlight TechNews articles around GovTech's cybersecurity
 team &amp; their efforts)</p>
 <div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="https://www.tech.gov.sg/media/technews/how-the-government-chief-information-security-officer-keeps-cyberspace%20secure" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Placeholder image" src="/images/Digital Gov Efforts/_Resized__How_the_government_chief_information_security_officer_keeps_cyberspace_secure_copy.png"></div></div><div class="isomer-card-body"><div class="isomer-card-title">How the government chief information security officer keeps cyberspace secure</div><div class="isomer-card-link">Read more</div></div></a>
