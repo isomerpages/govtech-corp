@@ -13,19 +13,42 @@ we provide citizens. This includes a suite of productivity tools to help
 you with everyday tasks, assistive technology to power your chatbots, and
 even a platform for you to innovate and brainstorm ideas. Start leveraging
 the tools available for you and improve your workflows.</p>
-<h3><strong>Explore our products under Productivity and Marketing </strong></h3>
+<h3><strong>Explore our products under Productivity and Marketing</strong></h3>
+<div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="/products-and-services/for-government-agencies/digital-workplace" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Placeholder image" src="https://placehold.co/600x400"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Digital Workplace</div><div class="isomer-card-link">Find Out More</div></div></a>
+<a rel="noopener noreferrer nofollow" href="/products-and-services/for-government-agencies/formsg" class="isomer-card">
+<div class="isomer-card-image">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Placeholder image" src="https://placehold.co/600x400">
+</div>
+</div>
+<div class="isomer-card-body">
+<div class="isomer-card-title">FormSG</div>
+<div class="isomer-card-link">Find Out More</div>
+</div>
+</a><a rel="noopener noreferrer nofollow" href="/products-and-services/for-government-agencies/vica" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Placeholder image" src="https://placehold.co/600x400"></div></div><div class="isomer-card-body"><div class="isomer-card-title">VICA</div><div class="isomer-card-link">Find Out More</div></div></a>
+<a rel="noopener noreferrer nofollow" href="/products-and-services/for-government-agencies/pair" class="isomer-card">
+<div class="isomer-card-image">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Placeholder image" src="https://placehold.co/600x400">
+</div>
+</div>
+<div class="isomer-card-body">
+<div class="isomer-card-title">Pair</div>
+<div class="isomer-card-link">Find Out More</div>
+</div>
+</a><a rel="noopener noreferrer nofollow" href="/products-and-services/for-government-agencies/launchpad" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Placeholder image" src="https://placehold.co/600x400"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Launchpad</div><div class="isomer-card-link">Find Out More</div></div></a>
+<a rel="noopener noreferrer nofollow" href="/products-and-services/for-government-agencies/transcibe" class="isomer-card">
+<div class="isomer-card-image">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Placeholder image" src="https://placehold.co/600x400">
+</div>
+</div>
+<div class="isomer-card-body">
+<div class="isomer-card-title">Transcribe</div>
+<div class="isomer-card-link">Find Out More</div>
+</div>
+</a>
+</div>
 <p></p>
-<p>1. (Include product logo) Digital Workplace: A suite of productivity tools
-and digital enablers, designed to allow public officers of any division
-and tech literacy to move through the workday with ease 2. (Include product
-logo) FormSG: A form builder tool that enables public officers to create
-digital government forms in minutes, replacing the use of paper forms 3.
-(Include product logo) VICA: GovTech's next-generation virtual assistant
-platform that powers government chatbots, enabling agencies to converse
-and serve citizens and business better 4. (Include product logo) Pair Chat:
-A free, fast and secure version of ChatGPT for public officers, acting
-as virtual personal assistant 5. (Include product logo) Launchpad: An AI
-innovation and experimentation platfom designed to kickstart agencies'
-AI transformation journey. 6. (Include product logo) Transcribe: A Speech-to-Text
-(STT) platform with auto-transcription technologies to improve productivity
-and provide time savings.</p>
+<p></p>
+<p></p>
