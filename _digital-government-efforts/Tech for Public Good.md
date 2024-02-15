@@ -98,32 +98,35 @@ with a Government agency.</p>
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Digital Gov Efforts/FileSG_header_image.png">
 </div>
 <p>A centralised place to store and retrieve verified official documents,
-negating the need for citizens to visit different websites or portals</p>
+negating the need for citizens to visit different websites or portals.</p>
 <p>Increased convenience with its integration with Singpass, allowing for
-secure and easy logins to access the storage portal</p>
+secure and easy logins to access the storage portal.</p>
 <p>Learn more about FileSG <a href="https://www.developer.tech.gov.sg/products/categories/platform/filesg/overview.html" rel="noopener noreferrer nofollow" target="_blank">here</a>.</p>
 <h4><u>Parents Gateway</u></h4>
-<p>- Include logo of product</p>
-<p>- To support children in their education journey while making it more
-convenient for parents and teachers, Parents Gateway is a one-stop portal
-used to disseminate information and receive parents' responses on admin
-matters, in a consolidated digital form.</p>
-<p>- It allows parents to provide consent digitally, have access to their
-child's activities, book their slots for parent-teacher meetings and more.</p>
-<p>CTA: Learn more about Parents Gateway here. (Link to Parents Gateway product
-page)</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Digital Gov Efforts/Parents_Gateway_graphic.jpg">
+</div>
+<p>To support children in their education journey while making it more convenient
+for parents and teachers, Parents Gateway is a one-stop portal used to
+disseminate information and receive parents' responses on admin matters,
+in a consolidated digital form.</p>
+<p>It allows parents to provide consent digitally, have access to their child's
+activities, book their slots for parent-teacher meetings and more.</p>
+<p>Learn more about Parents Gateway <a href="https://www.tech.gov.sg/products-and-services/parents-gateway/" rel="noopener noreferrer nofollow" target="_blank">here</a>.</p>
 <h3>How we empower vulnerable communities with tech</h3>
-<p>- Through the Smart Nation initiative, we aim to use technology to build
+<p>Through the Smart Nation initiative, we aim to use technology to build
 an inclusive society for all citizens and enhance the well-being of vulnerable
 communities. The implementation of assistive technologies is facilitated
 by government systems designed to improve service delivery.</p>
 <h4><u>Personal Alert Button (PAB)</u></h4>
-<p>- Include logo/image of product</p>
-<p>- PAB is an alert device that can be installed in an elderly’s home. When
+<div class="iframe-wrapper">
+<iframe style="max-width: 100%;" height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/D-xG_UQiTy4?si=C9mb7y72zUAJyotv"></iframe>
+</div>
+<p>PAB is an alert device that can be installed in an elderly’s home. When
 a senior in distress activates the PAB, a distress signal will be sent
 to either a Senior Activity Centre (SAC) or CareLine, a 24-hour telecare
 service.</p>
-<p>- This is a fast and responsive device that enables our seniors to live
+<p>This is a fast and responsive device that enables our seniors to live
 safely and independently by providing round-the-clock monitoring and assistance.</p>
 <p>CTA: Learn more about PAB here.</p>
 <h4><u>e-Pad</u></h4>
