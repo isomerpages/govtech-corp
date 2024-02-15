@@ -339,15 +339,25 @@ scelerisque semper nisl et sodales. Suspendisse euismod or</p>
 </div>
 <h2>14. Accordion Module</h2>
 <p>Release in End Feb on isomer</p>
-<h2><s>15. Form Module</s></h2>
+<p></p>
+<h2>15. Plain Card Module [TLDR]</h2>
+<p>unable to have coloured background – utilise normal text</p>
+<h3>[50] Nunc a massa feugiat, feugiat orci at, eleifend qu</h3>
+<p>[150] Lorem ipsum dolor sit amet, consectetur adipiscing elit. Etiam quis
+elementum ex. Nunc a massa feugiat, feugiat orci at, eleifend quam. Donec
+sceleris</p>
+<p></p>
+<h2>16. Social media Module</h2>
+<p>Do not recommend placing in 2 col as swiping through will confuse users</p>
+<p></p>
+<p></p>
+<h2><s>17. Form Module</s></h2>
 <p>In future to be lead to separate landing page</p>
 <p></p>
-<h2><s>16. Image Collage Module</s></h2>
+<h2><s>18. Image Collage Module</s></h2>
 <p>does not look good in mobile, upload images separately</p>
-<h2><s>17. Plain Card Module [TLDR]</s></h2>
-<p>unable to have coloured background – utilise normal text</p>
-<h2><s>18. &amp; 19. Anchor Link Module - Variant 1/2</s></h2>
+<h2></h2>
+<h2><s>19. &amp; 20. Anchor Link Module - Variant 1/2</s></h2>
 <p>unable to anchor within same page</p>
-<h2>20. Social media Module</h2>
-<p>Do not recommend placing in 2 col as swiping through will confuse users</p>
+<h2></h2>
 <p></p>
