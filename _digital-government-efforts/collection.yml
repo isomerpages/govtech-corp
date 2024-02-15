@@ -3,7 +3,7 @@ collections:
     output: true
     order:
       - Sustainability.md
-      - Cybersecurity.md
+      - Engineering Digital Government.md
       - Diversity and Inclusion.md
       - Whole of Government Platforms and Tools.md
       - Digital Identity.md
