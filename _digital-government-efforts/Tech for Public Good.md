@@ -90,16 +90,18 @@ search strategies, career development, talent acquisition strategies and
 more, with guides, career-related tips, personalised recommenders and more.</p>
 <p>Learn more about MyCareersFuture <a href="https://www.mycareersfuture.gov.sg/" rel="noopener noreferrer nofollow" target="_blank">here</a>.</p>
 <h3>How we provide the public with ease and convenience when communicating with the Government</h3>
-<p>- As we improve the lives of Singaporeans, it is also important to provide
+<p>As we improve the lives of Singaporeans, it is also important to provide
 convenience for citizens, especially when there is a need to communicate
 with a Government agency.</p>
 <h4><u>FileSG</u></h4>
-<p>- Include logo of product</p>
-<p>- A centralised place to store and retrieve verified official documents,
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Digital Gov Efforts/FileSG_header_image.png">
+</div>
+<p>A centralised place to store and retrieve verified official documents,
 negating the need for citizens to visit different websites or portals</p>
-<p>- Increased convenience with its integration with Singpass, allowing for
+<p>Increased convenience with its integration with Singpass, allowing for
 secure and easy logins to access the storage portal</p>
-<p>CTA: Learn more about FileSG here. (Link to FileSG product page)</p>
+<p>Learn more about FileSG <a href="https://www.developer.tech.gov.sg/products/categories/platform/filesg/overview.html" rel="noopener noreferrer nofollow" target="_blank">here</a>.</p>
 <h4><u>Parents Gateway</u></h4>
 <p>- Include logo of product</p>
 <p>- To support children in their education journey while making it more
