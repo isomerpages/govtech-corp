@@ -21,9 +21,12 @@ anytime, anywhere. Conveniently book your preferred slots for Parent-Teacher
 meetings. Easily make travel declarations to inform schools of your children’s
 travel plans. Discover curated parenting resources to better support your
 children in their education journey. -</p>
-<p>Include video from MOE with testimonials from parents (from <a href="https://www.youtube.com/watch?v=EKpiTM5axNA" rel="noopener noreferrer nofollow" target="_blank"><u>https://www.youtube.com/watch?v=EKpiTM5axNA</u></a>)</p>
-<p><strong>How to use Parents Gateway?</strong> 
-</p>
+<p></p>
+<div class="iframe-wrapper">
+<iframe height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/EKpiTM5axNA?si=X08HUA1fdX0UhAzR"></iframe>
+</div>
+<p></p>
+<h3><strong>How to use Parents Gateway?</strong></h3>
 <p>Include screenshots of app to show main features</p>
 <p>Download the app via the App Store (for Apple devices) or Google Play
 Store (for Android devices). Upon launching the app, login to Singpass
@@ -33,8 +36,9 @@ or studying in an MOE school. If your child is currently eligible for P1
 registration but not yet registered in a school, email the Parents Gateway
 Helpdesk at <a href="https://www.youtube.com/watch?v=EKpiTM5axNA" rel="noopener noreferrer nofollow" target="_blank">moe_parents_gateway@moe.gov.sg</a> for
 assistance.</p>
-<p><strong>4. Interested to find out more about Parents Gateway?</strong> -
-Visit the <a href="https://pg.moe.edu.sg/#home" class="waffle-rich-text-link" rel="noopener noreferrer nofollow" target="_blank"><u>Parents Gateway website</u></a> to
-read more about the product. - Stay informed on updates and any new product
-developments by subscribing to our TechNews Newsletter! (Subscription form
-link)</p>
+<p></p>
+<h3><strong>Interested to find out more about Parents Gateway?</strong></h3>
+<p>Visit the <a href="https://pg.moe.edu.sg/#home" class="waffle-rich-text-link" rel="noopener noreferrer nofollow" target="_blank"><u>Parents Gateway website</u></a> to
+read more about the product.</p>
+<p>Stay informed on updates and any new product developments by subscribing
+to our TechNews Newsletter!</p>
