@@ -53,6 +53,9 @@ governments support citizens by designing digital services that are easy
 to access and navigate. Putting citizens’ needs first can build public
 trust and yield positive outcomes for both the public sector and citizens.</p>
 <h4><u>LifeSG</u></h4>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Digital Gov Efforts/lifesg_header_image.jpg">
+</div>
 <p>LifeSG smartphone app grants citizens simpler access to over 70 life journey
 services from various government agencies on just one app. The app has
 more than 330,000 downloads since its inception in 2018.</p>
