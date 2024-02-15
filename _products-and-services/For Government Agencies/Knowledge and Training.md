@@ -23,8 +23,11 @@ leaders and officers to accelerate public sector’s digital transformation
 to support the Smart Nation initiative. DA offers a robust suite of ICT
 programmes that are contextualised to the public service.</p>
 <h3><strong>Why use Digital Academy?</strong></h3>
-<p>Include one the lesson images at the bottom from <a href="https://www.thedigitalacademy.tech.gov.sg/about-us/practitioners" rel="noopener noreferrer nofollow" target="_blank"><u>https://www.thedigitalacademy.tech.gov.sg/cio-milestone-programme</u></a> -</p>
-<p>The public sectors's basic courses on digital technlogies do not meet
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 50%;" height="auto" width="100%" alt="" src="/images/Products and Services/da_classroom.jpg">
+</div>
+<p>The public sector's basic courses on digital technologies do not meet
 the advanced needs of public sector ICT&amp;SS professionals and the higher-level
 ICT programmes offered by private training providers are not contextualised
 for the public sector's needs and goals. DA can help. Get up to speed with
