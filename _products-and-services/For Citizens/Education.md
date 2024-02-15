@@ -5,8 +5,7 @@ description: ""
 third_nav_title: For Citizens
 variant: tiptap
 ---
-<p><strong>1. Digitalising processes in the educational sector with Parents Gateway </strong>
-</p>
+<h3><strong>Digitalising processes in the educational sector with Parents Gateway</strong></h3>
 <p>As part of the Digital Government, GovTech aims to harness technology
 to strengthen school-home partnerships in support of children in their
 education journey Launched in 2019 in collaboration with MOE, Parents Gateway
@@ -15,8 +14,7 @@ consent on admin matters, in a consolidated digital form. It gives parents
 greater access and control over their child’s participation in school activities
 and for parents to better manage school-related administrative tasks. To
 date, the app has garnered over 100,000 downloads.</p>
-<p><strong>Why use Parents Gateway? </strong>
-</p>
+<h3><strong>Why use Parents Gateway?</strong></h3>
 <p>Get access to all your children’s school announcements and consent forms
 from one single app. Effortlessly give consent for their school activities
 anytime, anywhere. Conveniently book your preferred slots for Parent-Teacher
