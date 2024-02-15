@@ -103,8 +103,6 @@ to implement secure architectures and provides cybersecurity technical
 guidance that help build a safer, more secure Smart Nation for our citizens
 and businesses.</p>
 <h4>Learn more about our cybersecurity efforts with these articles below.</h4>
-<p>(3 cards to spotlight TechNews articles around GovTech's cybersecurity
-team &amp; their efforts)</p>
 <div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="https://www.tech.gov.sg/media/technews/how-the-government-chief-information-security-officer-keeps-cyberspace%20secure" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Placeholder image" src="/images/Digital Gov Efforts/_Resized__How_the_government_chief_information_security_officer_keeps_cyberspace_secure_copy.png"></div></div><div class="isomer-card-body"><div class="isomer-card-title">How the government chief information security officer keeps cyberspace secure</div><div class="isomer-card-link">Read more</div></div></a>
 <a rel="noopener noreferrer nofollow" href="https://www.tech.gov.sg/media/technews/cybersecurity-on-zero-day-vulnerabilities" class="isomer-card">
 <div class="isomer-card-image">
@@ -118,12 +116,6 @@ team &amp; their efforts)</p>
 </div>
 </a><a rel="noopener noreferrer nofollow" href="https://www.tech.gov.sg/media/technews/women-in-cybersecurity" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Placeholder image" src="/images/Digital Gov Efforts/women_in_cyber__card_3_.jpg"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Women in cybersecurity – GovTechies on life as cyber guardians</div><div class="isomer-card-link">Read more</div></div></a>
 </div>
-<p></p>
-<p>- Card 1: How the government chief information security officer keeps
-cyberspace secure</p>
-<p>- Card 2: GovTech cybersecurity specialists zero in on zero-day vulnerabilities</p>
-<p>- Card 3: Women in cybersecurity – GovTechies on life as cyber guardians</p>
-<p>CTA: Interested to learn more about CSG and the work they do? Read about
-this capability centre here. (Link to About Us - Our Capabilities - Cybersecurity
-[Hidden-Level Page])</p>
-<p></p>
+<h3>Interested to learn more about CSG and the work they do? </h3>
+<p>Read about this capability centre here. (Link to About Us - Our Capabilities
+- Cybersecurity [Hidden-Level Page])</p>
