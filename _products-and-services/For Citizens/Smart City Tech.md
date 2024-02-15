@@ -27,11 +27,12 @@ consists of technology and care layers - i) hardware IoT button, the Personal
 Alert Button (PAB) ii) Case Management System (CMS) and iii) 24 x 7 telecare
 operators and SAC staff.</p>
 <p></p>
-<h3><strong>What initiatives have been piloted under GALE? </strong></h3>
+<h3><strong>What initiatives have been piloted under GALE?</strong></h3>
 <p></p>
-<p><u>Personal alert button as first successful use case of GALE</u>
-</p>
-<p>Asset: Include PAB video from <a href="https://www.youtube.com/watch?v=mhI3eCfekcs" rel="noopener noreferrer nofollow" target="_blank"><u>https://www.youtube.com/watch?v=mhI3eCfekcs</u></a><u> </u>-</p>
+<div class="iframe-wrapper">
+<iframe height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/mhI3eCfekcs?si=GyaQvgVd2qu9dzc4"></iframe>
+</div>
+<p></p>
 <p>Personal Alert Button (PAB) is an alert device that can be installed in
 an elderly’s home. It is hardware IoT button to trigger help in times of
 emergency. When triggered, it connects the user to either <a href="https://www.healthhub.sg/a-z/medical-and-care-facilities/senior_activity_centre" class="waffle-rich-text-link" rel="noopener noreferrer nofollow" target="_blank"><u>Senior Activity Centre (SAC)</u></a> or
@@ -53,7 +54,7 @@ and offer assistance - GALE CMS further extended to support MOF, PA and
 its partners to handle appeal or re-issue requests of the Grocery Vouchers
 to support the lower income families</p>
 <p></p>
-<h3><strong>What's the latest on GALE? </strong></h3>
+<h3><strong>What's the latest on GALE?</strong></h3>
 <p></p>
 <p><u>PAB is a successful pilot to be expanded on a larger scale </u>- To
 date, PAB under GALE has been piloted in 53 rental housing blocks, and
@@ -64,7 +65,7 @@ This is a steep increase from 47,000 in 2016 - The GALE team is looking
 for opportunities to expand beyond the 53 rental blocks to reach more vulnerable
 communities needing help</p>
 <p></p>
-<h3><strong>Interested to find out more about GALE? </strong></h3>
+<h3><strong>Interested to find out more about GALE?</strong></h3>
 <p></p>
 <p>Follow GALE's updates on the Smart City Technology Division <a href="https://medium.com/siot-govtech" class="waffle-rich-text-link" rel="noopener noreferrer nofollow" target="_blank"><u>blog</u></a>.
 Stay informed on updates and any new product developments by subscribing
