@@ -101,6 +101,7 @@ sceleris</div>
 </a><a rel="noopener noreferrer nofollow" href="https://www.isomer.gov.sg" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Placeholder image" src="/images/Products and Services/gobusiness-header.png"></div></div><div class="isomer-card-body"><div class="isomer-card-title">[40] Nunc a massa feugiat, feugiat orceleifen</div><div class="isomer-card-description">[150] Lorem ipsum dolor sit amet, consectetur adipiscing elit. Etiam quis elementum ex. Nunc a massa feugiat, feugiat orci at, eleifend quam. Donec sceleris</div><div class="isomer-card-link">[20] Etiam quis elementum</div></div></a>
 </div>
 <h2>4. Quote Module</h2>
+<p>Quote using "quote block" text, this has bigger spacing between lines</p>
 <blockquote>
 <p>[150] Lorem ipsum dolor sit amet, consectetur adipiscing elit. Etiam quis
 elementum ex. Nunc a massa feugiat, feugiat orci at, eleifend quam. Donec
@@ -108,6 +109,8 @@ sceleris</p>
 </blockquote>
 <p>– [40] Nunc a massa feugiat, feugiat orceleifen</p>
 <p></p>
+<p>Quote using "H3" text, this follows H3 styling with tighter spacing and
+bigger font</p>
 <blockquote>
 <h4>[H3 150] Lorem ipsum dolor sit amet, consectetur adipiscing elit. Etiam quis elementum ex. Nunc a massa feugiat, feugiat orci at, eleifend quam. Donec sceleris</h4>
 </blockquote>
