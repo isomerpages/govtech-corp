@@ -14,8 +14,9 @@ uncover cyber vulnerabilities, as well as working with various agencies
 to implement secure architectures and provide cybersecurity governance
 and technical guidance to ensure a safer, more secure Smart Nation.</p>
 <h3><strong>Government Cybersecurity Operations Centre (GCSOC)</strong></h3>
-<p>- Include 2nd image from <a href="https://www.smartnation.gov.sg/media-hub/press-releases/gcsoc-factsheet/" rel="noopener noreferrer nofollow" target="_blank"><u>https://www.smartnation.gov.sg/media-hub/press-releases/gcsoc-factsheet/</u></a><u> </u>-
-The Government Cybersecurity Operations Centre (GCSOC) is an integrated
+<p>- Include 2nd image from <a href="https://www.smartnation.gov.sg/media-hub/press-releases/gcsoc-factsheet/" rel="noopener noreferrer nofollow" target="_blank"><u>https://www.smartnation.gov.sg/media-hub/press-releases/gcsoc-factsheet/</u></a><u> </u>
+</p>
+<p>The Government Cybersecurity Operations Centre (GCSOC) is an integrated
 initiative that aims to upgrade monitoring and detection technologies,
 automate and augment cyber threat detection and response at scale, and
 develop capabilities to proactively hunt for sophisticated threats. - GCSOC
@@ -23,13 +24,13 @@ aims to better secure the Government’s evolving Information and Communications
 Technology (ICT) infrastructure, and guard against threats more effectively.
 It centralises cybersecurity operations across government agencies, and
 better leverages technologies in artificial intelligence and machine learning
-to enhance security analytics. - The Operations Centre has led to multiple
-benefits, such as improved detection coverage, proactive threat hunting
-and and faster response times. - An example of GCSOC's work is PhishMonSG,
-a phishing detection tool developed in collaboration with the Ministry
-of Home Affairs that enables GCSOC to proactively scan across the Internet
-daily for malicious sites that mimic Government agencies’ websites. - (Any
-other products or works by GCSOC that we can highlight?)</p>
+to enhance security analytics.</p>
+<p>The Operations Centre has led to multiple benefits, such as improved detection
+coverage, proactive threat hunting and and faster response times. An example
+of GCSOC's work is PhishMonSG, a phishing detection tool developed in collaboration
+with the Ministry of Home Affairs that enables GCSOC to proactively scan
+across the Internet daily for malicious sites that mimic Government agencies’
+websites.</p>
 <p></p>
 <p><strong>Interested to find out more about GCSOC?</strong>
 </p>
@@ -37,3 +38,4 @@ other products or works by GCSOC that we can highlight?)</p>
 <p>Have questions? Get in touch with us at xxx
 <br>
 </p>
+<p></p>
