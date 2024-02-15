@@ -36,6 +36,9 @@ components that cover the entire app development life cycle.</p>
 <p>Through the SGTS, government agencies can develop applications in a better,
 smarter, and faster way as they can now tap a ready suite of products and
 services to produce services of a high quality and standard.</p>
+<div class="iframe-wrapper">
+<iframe style="max-width: 100%;" height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/Vt-r2vCqSh8?si=SmSERZgQUE2IZs0e"></iframe>
+</div>
 <p>Learn more about SGTS <a href="https://www.tech.gov.sg/products-and-services/singapore-government-tech-stack/" rel="noopener noreferrer nofollow" target="_blank">here</a>.</p>
 <h4><u>Government on Commercial Cloud (GCC)</u></h4>
 <div class="isomer-image-wrapper">
