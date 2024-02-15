@@ -116,6 +116,6 @@ and businesses.</p>
 </div>
 </a><a rel="noopener noreferrer nofollow" href="https://www.tech.gov.sg/media/technews/women-in-cybersecurity" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Placeholder image" src="/images/Digital Gov Efforts/women_in_cyber__card_3_.jpg"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Women in cybersecurity – GovTechies on life as cyber guardians</div><div class="isomer-card-link">Read more</div></div></a>
 </div>
-<h3>Interested to learn more about CSG and the work they do? </h3>
+<h3>Interested to learn more about CSG and the work they do?</h3>
 <p>Read about this capability centre here. (Link to About Us - Our Capabilities
 - Cybersecurity [Hidden-Level Page])</p>
