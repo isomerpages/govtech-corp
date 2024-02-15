@@ -130,40 +130,44 @@ service.</p>
 safely and independently by providing round-the-clock monitoring and assistance.</p>
 <p>Learn more about PAB <a href="https://www.developer.tech.gov.sg/products/categories/sensor-platforms-and-internet-of-things/personal-alert-button/overview.html" rel="noopener noreferrer nofollow" target="_blank">here</a>.</p>
 <h4><u>e-Pad</u></h4>
-<p>- Include logo/image of product</p>
-<p>- ePAD is an assistive digital technology that enables PWDs to carry out
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Digital Gov Efforts/epad_figure.jpg">
+</div>
+<p>ePAD is an assistive digital technology that enables PWDs to carry out
 photography and videography professionally despite limited mobility in
 their upper limbs.</p>
-<p>- Users can access and stabilise their tablets to capture proper photos,
+<p>Users can access and stabilise their tablets to capture proper photos,
 via an accessible mounting platform. The platform allows for panning and
 tilting of the tablet, providing greater mobility and independence for
 PWDs in using the software photography app on the tablet.</p>
-<p>Learn more about e-Pad here.</p>
+<p>Learn more about e-Pad <a href="https://www.developer.tech.gov.sg/products/categories/sensor-platforms-and-internet-of-things/epad/overview.html" rel="noopener noreferrer nofollow" target="_blank">here</a>.</p>
 <h4><u>e-Canvas</u></h4>
-<p>- Include logo/image of product</p>
-<p>- The eCanvas is a voice-controlled assistive technology that provides
-support and greater independence for special needs users who have a passion
-for painting. A microphone connected to the eCanvas processes voice commands
+<div class="iframe-wrapper">
+<iframe style="max-width: 100%;" height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/tTio3SsVMvc?si=FsHmhI24Arl1GBf5"></iframe>
+</div>
+<p>The eCanvas is a voice-controlled assistive technology that provides support
+and greater independence for special needs users who have a passion for
+painting. A microphone connected to the eCanvas processes voice commands
 via a pre-trained neural network engine, allowing the canvas to move or
 dispense paint in the corresponding paint colour on the palette accordingly.</p>
-<p>Learn more about e-Canvas here</p>
+<p>Learn more about e-Canvas <a href="https://www.tech.gov.sg/media/technews/this-govtech-team-built-an-ecanvas-to-help-persons-with-disabilities-paint" rel="noopener noreferrer nofollow" target="_blank">here</a>.</p>
 <h3>How we supported Singaporeans through COVID-19</h3>
-<p>- To develop and scale digital solutions quickly, GovTech leveraged its
+<p>To develop and scale digital solutions quickly, GovTech leveraged its
 robust digital infrastructure and strong engineering capabilities to meet
 citizen and business needs. National portals and initiatives were successfully
 implemented as a result.</p>
-<p>- The result was a suite of products that worked seamlessly together to
+<p>The result was a suite of products that worked seamlessly together to
 drive the response operations for the pandemic, enabling the government
 to efficiently facilitate activities like contact tracing and safe distancing,
 while maintaining convenience and support for the public.</p>
-<p>- Some of the key products developed during COVID-19 include:</p>
-<p>- TraceTogether: A contact tracing technology that utilises Bluetooth,
-TraceTogether allows a log of individuals that one has been in close contact.
-It also worked with SafeEntry, to facilitate tracking and check-ins at
-public spaces. Since its launch, over 60 countries have indicated an interest
-in its technology, with Australia, Canada, and Poland adapting the open-source
-version of TraceTogether.</p>
-<p>- GoWhere Suite (Link to GoWhere product page): This consists of the GoWhere
+<p>Some of the key products developed during COVID-19 include:</p>
+<p>TraceTogether: A contact tracing technology that utilises Bluetooth, TraceTogether
+allows a log of individuals that one has been in close contact. It also
+worked with SafeEntry, to facilitate tracking and check-ins at public spaces.
+Since its launch, over 60 countries have indicated an interest in its technology,
+with Australia, Canada, and Poland adapting the open-source version of
+TraceTogether.</p>
+<p>GoWhere Suite (Link to GoWhere product page): This consists of the GoWhere
 Directory, a one-stop national resource hub for citizens to access all
 official COVID-19 related information and government guides efficiently
 and quickly, and location query-based websites that have helped facilitate
@@ -171,7 +175,7 @@ nation-wide distribution exercises. Even though this product was created
 in response to the pandemic, it has since then been built upon as a continued
 valuable resource for citizens, with new directories like BudgetGoWhere
 being added.</p>
-<p>- Video Analytics System (VAS) (Link to VAS product page): The Video Analytics
+<p>Video Analytics System (VAS) (Link to VAS product page): The Video Analytics
 System is one of the key technologies behind Safe Distance @ Parks, the
 national website and app that shows users near real-time crowd sizes for
 parks across Singapore. This is achieved by relaying image snapshots captured
