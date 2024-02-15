@@ -29,6 +29,9 @@ and drive adoption of products and services domestically and internationally.</p
 industry feedback that governments can use to garner insights and improve
 solutions.</p>
 <h4><u>Open Source Tech</u></h4>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Digital Gov Efforts/Open_source_tech__compressed_.jpg">
+</div>
 <p>Singapore government agencies’ open-source technologies, such as those
 relating to our National Digital Identity, Infrastructure-as-code and OpenAttestation
 framework, are accessible to all developers on GitHub and product websites,
@@ -37,9 +40,11 @@ as well as on the Singapore Government Developer Portal.</p>
 GovTech using blockchain technology that allows Singapore’s digital education
 and training institutions to issue digital certificates to students upon
 the completion of their course of study.</p>
-<p>Learn more about Open Source Technologies here. (Link to <a href="https://www.developer.tech.gov.sg/products/categories/open-source/" rel="noopener noreferrer nofollow" target="_blank">https://www.developer.tech.gov.sg/products/categories/open-source/</a>)</p>
+<p>Learn more about Open Source Technologies <a href="https://www.developer.tech.gov.sg/products/categories/open-source/" rel="noopener noreferrer nofollow" target="_blank">here</a>.</p>
 <h4><u>STACK Community</u></h4>
-<p>- Include logo of community</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Digital Gov Efforts/STACK_Meetup_logo.jpg">
+</div>
 <p>Conceived in 2019, GovTech's STACK community, comprising of STACK and
 STACKx sub-community groups, brings together like-minded tech experts who
 share a passion for driving Tech for Public Good in innovative ways.</p>
@@ -48,8 +53,10 @@ for using technology to improve lives and contribute to building Singapore
 into a Smart Nation using the SG Tech Stack. The STACK developer conference
 is also the largest Government-led, biennial developer conference in Singapore,
 connecting the government, industry, and the tech community.</p>
-<p>Learn more about STACK here. (Link to Get Involved - Join Our Communities
-- For Developers: STACK Community)</p>
+<p><s>Learn more about STACK here. (Link to Get Involved - Join Our Communities - For Developers: STACK Community)</s>
+</p>
+<p>Join our <a href="https://www.meetup.com/stack-by-govtech-singapore/" rel="noopener noreferrer nofollow" target="_blank">STACK Meetup Community</a> and
+<a href="https://go.gov.sg/stacktelegram" rel="noopener noreferrer nofollow" target="_blank">Telegram</a>to stay updated on our STACK community events.</p>
 <h4><u>Tech Kaki Community</u></h4>
 <p>- Include logo of community</p>
 <p>Tech Kaki was set up in 2016 to engage a citizen community in the development
