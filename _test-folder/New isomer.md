@@ -13,9 +13,9 @@ description: ""
 </div>
 </div>
 <div class="isomer-card-body">
-<div class="isomer-card-title">Mr Leong Weng Keong Joseph Lorem Lipsup</div>
-<div class="isomer-card-description">(Position) Lorem ipsum Department/Division - consectetur. Amet venenatis
-mattis at</div>
+<div class="isomer-card-title">[40] Nunc a massa feugiat, feugiat orceleifen</div>
+<div class="isomer-card-description">[80] Lorem ipsum dolor sit amet, consectetur adipiscing elit. Etiam quis
+elementum ex</div>
 </div>
 </div>
 <div class="isomer-card">
@@ -25,9 +25,9 @@ mattis at</div>
 </div>
 </div>
 <div class="isomer-card-body">
-<div class="isomer-card-title">Mr Leong Weng Keong Joseph Lorem Lipsup</div>
-<div class="isomer-card-description">(Position) Lorem ipsum Department/Division - consectetur. Amet venenatis
-mattis at</div>
+<div class="isomer-card-title">[40] Nunc a massa feugiat, feugiat orceleifen</div>
+<div class="isomer-card-description">[80] Lorem ipsum dolor sit amet, consectetur adipiscing elit. Etiam quis
+elementum ex</div>
 </div>
 </div>
 <div class="isomer-card">
@@ -37,15 +37,15 @@ mattis at</div>
 </div>
 </div>
 <div class="isomer-card-body">
-<div class="isomer-card-title">Mr Leong Weng Keong Joseph Lorem Lipsup</div>
-<div class="isomer-card-description">(Position) Lorem ipsum Department/Division - consectetur. Amet venenatis
-mattis at</div>
+<div class="isomer-card-title">[40] Nunc a massa feugiat, feugiat orceleifen</div>
+<div class="isomer-card-description">[80] Lorem ipsum dolor sit amet, consectetur adipiscing elit. Etiam quis
+elementum ex</div>
 </div>
 </div>
 </div>
 <h2>2. Product Card Module</h2>
 <h4>3 col</h4>
-<div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="https://www.isomer.gov.sg" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Placeholder image" src="/images/Products and Services/singpass-security-measures.jpg"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Card title</div><div class="isomer-card-description">Lorem ipsum dolor sit amet consectetur. Amet venenatis mattis aliquam pharetra aenean turpis nisl aliquam nisl. Eget maecenas pulvinar venenatis viverra sociis ut bibendum nulla. Orci aliquet in consequat lobortis mauris.</div><div class="isomer-card-link">Find Out More</div></div></a>
+<div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="https://www.isomer.gov.sg" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Placeholder image" src="/images/Products and Services/singpass-security-measures.jpg"></div></div><div class="isomer-card-body"><div class="isomer-card-title">[40] Nunc a massa feugiat, feugiat orceleifen</div><div class="isomer-card-description">[150] Lorem ipsum dolor sit amet, consectetur adipiscing elit. Etiam quis elementum ex. Nunc a massa feugiat, feugiat orci at, eleifend quam. Donec sceleris</div><div class="isomer-card-link">[20] Etiam quis elementum</div></div></a>
 <a rel="noopener noreferrer nofollow" href="https://www.isomer.gov.sg" class="isomer-card">
 <div class="isomer-card-image">
 <div class="isomer-image-wrapper">
@@ -53,38 +53,38 @@ mattis at</div>
 </div>
 </div>
 <div class="isomer-card-body">
-<div class="isomer-card-title">Card title</div>
-<div class="isomer-card-description">Lorem ipsum dolor sit amet consectetur. Amet venenatis mattis aliquam
-pharetra aenean turpis nisl aliquam nisl. Eget maecenas pulvinar venenatis
-viverra sociis ut bibendum nulla. Orci aliquet in consequat lobortis mauris.</div>
-<div class="isomer-card-link">Find Out More</div>
+<div class="isomer-card-title">[40] Nunc a massa feugiat, feugiat orceleifen</div>
+<div class="isomer-card-description">[150] Lorem ipsum dolor sit amet, consectetur adipiscing elit. Etiam quis
+elementum ex. Nunc a massa feugiat, feugiat orci at, eleifend quam. Donec
+sceleris</div>
+<div class="isomer-card-link">[20] Etiam quis elementum</div>
 </div>
-</a><a rel="noopener noreferrer nofollow" href="https://www.isomer.gov.sg" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Placeholder image" src="/images/Products and Services/gobusiness-header.png"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Card title</div><div class="isomer-card-description">Lorem ipsum dolor sit amet consectetur. Amet venenatis mattis aliquam pharetra aenean turpis nisl aliquam nisl. Eget maecenas pulvinar venenatis viverra sociis ut bibendum nulla. Orci aliquet in consequat lobortis mauris.</div><div class="isomer-card-link">Find Out More</div></div></a>
+</a><a rel="noopener noreferrer nofollow" href="https://www.isomer.gov.sg" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Placeholder image" src="/images/Products and Services/gobusiness-header.png"></div></div><div class="isomer-card-body"><div class="isomer-card-title">[40] Nunc a massa feugiat, feugiat orceleifen</div><div class="isomer-card-description">[150] Lorem ipsum dolor sit amet, consectetur adipiscing elit. Etiam quis elementum ex. Nunc a massa feugiat, feugiat orci at, eleifend quam. Donec sceleris</div><div class="isomer-card-link">[20] Etiam quis elementum</div></div></a>
 </div>
 <h4>2 col</h4>
-<div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="https://www.isomer.gov.sg" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Placeholder image" src="/images/Products and Services/lifesg-header.jpg"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Card title</div><div class="isomer-card-description">Lorem ipsum dolor sit amet consectetur. Amet venenatis mattis aliquam pharetra aenean turpis nisl aliquam nisl. Eget maecenas pulvinar venenatis viverra sociis ut bibendum nulla. Orci aliquet in consequat lobortis mauris.</div><div class="isomer-card-link">Find Out More</div></div></a>
+<div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="https://www.isomer.gov.sg" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Placeholder image" src="/images/Products and Services/singpass-security-measures.jpg"></div></div><div class="isomer-card-body"><div class="isomer-card-title">[40] Nunc a massa feugiat, feugiat orceleifen</div><div class="isomer-card-description">[150] Lorem ipsum dolor sit amet, consectetur adipiscing elit. Etiam quis elementum ex. Nunc a massa feugiat, feugiat orci at, eleifend quam. Donec sceleris</div><div class="isomer-card-link">[20] Etiam quis elementum</div></div></a>
 <a rel="noopener noreferrer nofollow" href="https://www.isomer.gov.sg" class="isomer-card">
 <div class="isomer-card-image">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Placeholder image" src="/images/Products and Services/gobusiness-header.png">
+<img style="width: 100%" height="auto" width="100%" alt="Placeholder image" src="/images/Products and Services/lifesg-header.jpg">
 </div>
 </div>
 <div class="isomer-card-body">
-<div class="isomer-card-title">Card title</div>
-<div class="isomer-card-description">Lorem ipsum dolor sit amet consectetur. Amet venenatis mattis aliquam
-pharetra aenean turpis nisl aliquam nisl. Eget maecenas pulvinar venenatis
-viverra sociis ut bibendum nulla. Orci aliquet in consequat lobortis mauris.</div>
-<div class="isomer-card-link">Find Out More</div>
+<div class="isomer-card-title">[40] Nunc a massa feugiat, feugiat orceleifen</div>
+<div class="isomer-card-description">[150] Lorem ipsum dolor sit amet, consectetur adipiscing elit. Etiam quis
+elementum ex. Nunc a massa feugiat, feugiat orci at, eleifend quam. Donec
+sceleris</div>
+<div class="isomer-card-link">[20] Etiam quis elementum</div>
 </div>
 </a>
 </div>
 <h4>1 col</h4>
-<div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="https://www.isomer.gov.sg" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Placeholder image" src="/images/Products and Services/gobusiness-header.png"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Card title</div><div class="isomer-card-description">Lorem ipsum dolor sit amet consectetur. Amet venenatis mattis aliquam pharetra aenean turpis nisl aliquam nisl. Eget maecenas pulvinar venenatis viverra sociis ut bibendum nulla. Orci aliquet in consequat lobortis mauris.</div><div class="isomer-card-link">Find Out More</div></div></a>
+<div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="https://www.isomer.gov.sg" class="isomer-card"><div class="isomer-card-body"><div class="isomer-card-title">[40] Nunc a massa feugiat, feugiat orceleifen</div><div class="isomer-card-description">[150] Lorem ipsum dolor sit amet, consectetur adipiscing elit. Etiam quis elementum ex. Nunc a massa feugiat, feugiat orci at, eleifend quam. Donec sceleris</div><div class="isomer-card-link">[20] Etiam quis elementum</div></div></a>
 </div>
-<p></p>
+<h4></h4>
 <h2>3. Info Module</h2>
-<p>hyperlink cannot be within text, always placed below</p>
-<div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="https://www.isomer.gov.sg" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Placeholder image" src="/images/Products and Services/singpass-security-measures.jpg"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Card title</div><div class="isomer-card-description">Lorem ipsum dolor sit amet consectetur. Amet venenatis mattis aliquam pharetra aenean turpis nisl aliquam nisl. Eget maecenas pulvinar venenatis viverra sociis ut bibendum nulla. Orci aliquet in consequat lobortis mauris.</div><div class="isomer-card-link">Find Out More</div></div></a>
+<p>hyperlink cannot be within text, always located below</p>
+<div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="https://www.isomer.gov.sg" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Placeholder image" src="/images/Products and Services/singpass-security-measures.jpg"></div></div><div class="isomer-card-body"><div class="isomer-card-title">[40] Nunc a massa feugiat, feugiat orceleifen</div><div class="isomer-card-description">[150] Lorem ipsum dolor sit amet, consectetur adipiscing elit. Etiam quis elementum ex. Nunc a massa feugiat, feugiat orci at, eleifend quam. Donec sceleris</div><div class="isomer-card-link">[20] Etiam quis elementum</div></div></a>
 <a rel="noopener noreferrer nofollow" href="https://www.isomer.gov.sg" class="isomer-card">
 <div class="isomer-card-image">
 <div class="isomer-image-wrapper">
@@ -92,15 +92,14 @@ viverra sociis ut bibendum nulla. Orci aliquet in consequat lobortis mauris.</di
 </div>
 </div>
 <div class="isomer-card-body">
-<div class="isomer-card-title">Card title</div>
-<div class="isomer-card-description">Lorem ipsum dolor sit amet consectetur. Amet venenatis mattis aliquam
-pharetra aenean turpis nisl aliquam nisl. Eget maecenas pulvinar venenatis
-viverra sociis ut bibendum nulla. Orci aliquet in consequat lobortis mauris.</div>
-<div class="isomer-card-link">Find Out More</div>
+<div class="isomer-card-title">[40] Nunc a massa feugiat, feugiat orceleifen</div>
+<div class="isomer-card-description">[150] Lorem ipsum dolor sit amet, consectetur adipiscing elit. Etiam quis
+elementum ex. Nunc a massa feugiat, feugiat orci at, eleifend quam. Donec
+sceleris</div>
+<div class="isomer-card-link">[20] Etiam quis elementum</div>
 </div>
-</a><a rel="noopener noreferrer nofollow" href="https://www.isomer.gov.sg" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Placeholder image" src="/images/Products and Services/gobusiness-header.png"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Card title</div><div class="isomer-card-description">Lorem ipsum dolor sit amet consectetur. Amet venenatis mattis aliquam pharetra aenean turpis nisl aliquam nisl. Eget maecenas pulvinar venenatis viverra sociis ut bibendum nulla. Orci aliquet in consequat lobortis mauris.</div><div class="isomer-card-link">Find Out More</div></div></a>
+</a><a rel="noopener noreferrer nofollow" href="https://www.isomer.gov.sg" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Placeholder image" src="/images/Products and Services/gobusiness-header.png"></div></div><div class="isomer-card-body"><div class="isomer-card-title">[40] Nunc a massa feugiat, feugiat orceleifen</div><div class="isomer-card-description">[150] Lorem ipsum dolor sit amet, consectetur adipiscing elit. Etiam quis elementum ex. Nunc a massa feugiat, feugiat orci at, eleifend quam. Donec sceleris</div><div class="isomer-card-link">[20] Etiam quis elementum</div></div></a>
 </div>
-<h4></h4>
 <h2>4. Quote Module</h2>
 <blockquote>
 <p>[Regular] Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus
