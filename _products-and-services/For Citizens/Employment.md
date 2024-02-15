@@ -7,6 +7,9 @@ variant: tiptap
 ---
 <h3><strong>Improving the digital employment journey for Singaporeans with MyCareersFuture</strong></h3>
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 60%;" height="auto" width="100%" alt="" src="/images/Products and Services/mycareersfuture.png">
+</div>
 <p>A digital one-stop portal for hirers and job seekers, supporting the job
 search journey by matching skills and competencies. Whether you are a jobseeker
 or a hirer, MyCareersFuture aims to provide expert and personalised insights
@@ -16,7 +19,7 @@ individuals and 50,000 employers. To improve the job-matching process on
 the portal, GovTech leveraged on <a href="https://medium.com/dsaid-govtech/generating-job-recommendations-for-jobseekers-on-mycareersfuture-699c82cf6463" class="waffle-rich-text-link" rel="noopener noreferrer nofollow" target="_blank"><u>AI and data science</u></a> to
 provide job recommendations and predict jobs that users may not explicitly
 search for, but might be suitable for.</p>
-<h3><strong>Why use MyCareersFuture? </strong></h3>
+<h3><strong>Why use MyCareersFuture?</strong></h3>
 <p>Get step-by-step guidance through your job-searching journey, including
 career-related tips and considerations to take before submitting a new
 job application or deciding on a career switch. - Conveniently explore
@@ -30,11 +33,12 @@ the platform with ease.</p>
 <iframe height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/apGASPSxdBE?si=ZT9sUizM8XCdmWpO"></iframe>
 </div>
 <p></p>
-<p><strong>3. How to use MyCareersFuture?</strong> - Simply visit the MyCareersFuture
-website <a href="https://www.mycareersfuture.gov.sg/search?page=0&amp;gad_source=1&amp;gclid=CjwKCAiAzJOtBhALEiwAtwj8trZgdhipwvN9LkRNcqczUaYikeXoqWXK2IblQ7K-BOqJp7V3iatGbBoCyUIQAvD_BwE" class="waffle-rich-text-link" rel="noopener noreferrer nofollow" target="_blank"><u>here</u></a> and
+<h3><strong>How to use MyCareersFuture?</strong> </h3>
+<p>Simply visit the MyCareersFuture website <a href="https://www.mycareersfuture.gov.sg/search?page=0&amp;gad_source=1&amp;gclid=CjwKCAiAzJOtBhALEiwAtwj8trZgdhipwvN9LkRNcqczUaYikeXoqWXK2IblQ7K-BOqJp7V3iatGbBoCyUIQAvD_BwE" class="waffle-rich-text-link" rel="noopener noreferrer nofollow" target="_blank"><u>here</u></a> and
 login via Singpass to get started.</p>
-<p><strong>4. Interested to find out more about MyCareersFuture?</strong> -
-Stay informed on updates and any new product developments by subscribing
-to our TechNews Newsletter! (Subscription form link) - Sign up as a Tech
+<p></p>
+<h3><strong>Interested to find out more about MyCareersFuture?</strong> </h3>
+<p>Stay informed on updates and any new product developments by subscribing
+to our TechNews Newsletter! (Subscription form link). Sign up as a Tech
 Kaki to join our feedback community if you're keen to share feedback to
 improve any of our products. (Tech kaki sign up form).</p>
