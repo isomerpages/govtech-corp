@@ -23,7 +23,6 @@ leaders and officers to accelerate public sector’s digital transformation
 to support the Smart Nation initiative. DA offers a robust suite of ICT
 programmes that are contextualised to the public service.</p>
 <h3><strong>Why use Digital Academy?</strong></h3>
-<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 50%;" height="auto" width="100%" alt="" src="/images/Products and Services/da_classroom.jpg">
 </div>
