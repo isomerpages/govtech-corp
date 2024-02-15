@@ -5,19 +5,6 @@ description: ""
 third_nav_title: For Businesses
 variant: tiptap
 ---
-<div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="/products-and-services/for-businesses/singpass-api" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Placeholder image" src="https://placehold.co/600x400"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Singpass API</div><div class="isomer-card-link">Find Out More</div></div></a>
-<a rel="noopener noreferrer nofollow" href="/products-and-services/for-businesses/corppass" class="isomer-card">
-<div class="isomer-card-image">
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Placeholder image" src="https://placehold.co/600x400">
-</div>
-</div>
-<div class="isomer-card-body">
-<div class="isomer-card-title">Corppass</div>
-<div class="isomer-card-link">Find Out More</div>
-</div>
-</a><a rel="noopener noreferrer nofollow" href="/products-and-services/for-businesses/gobusiness" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Placeholder image" src="https://placehold.co/600x400"></div></div><div class="isomer-card-body"><div class="isomer-card-title">GoBusiness</div><div class="isomer-card-link">Find Out More</div></div></a>
-</div>
 <h3><strong>Empowering businesses with convenience, ease and security during business transactions and operations.</strong></h3>
 <p>In support of the Smart Nation objectives, we aim to create secure and
 reliable digital services for not just citizens, but also businesses in
