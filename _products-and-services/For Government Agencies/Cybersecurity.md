@@ -5,19 +5,15 @@ description: ""
 third_nav_title: For Government Agencies
 variant: tiptap
 ---
-<p><strong>1. Putting up our best cyber defences with proactive cybersecurity services </strong>
-</p>
-<p><strong>-</strong> As part of its mission to Engineer a Digital Government,
-GovTech also prioritises the need to defend Singapore's cyberspace and
-ensure cybersafety for all. - This includes developing a comprehensive
-suite of cybersecurity capabilities that detect and respond against cyber
-threats, as well as uncover cyber vulnerabilities, as well as working with
-various agencies to implement secure architectures and provide cybersecurity
-governance and technical guidance to ensure a safer, more secure Smart
-Nation.<strong> </strong>
-</p>
-<p><strong>2. Explore one of GovTech's Cybersecurity services - the Government Cybersecurity Operations Centre (GCSOC) </strong>
-</p>
+<h3><strong>Putting up our best cyber defences with proactive cybersecurity services</strong></h3>
+<p>As part of its mission to Engineer a Digital Government, GovTech also
+prioritises the need to defend Singapore's cyberspace and ensure cybersafety
+for all. This includes developing a comprehensive suite of cybersecurity
+capabilities that detect and respond against cyber threats, as well as
+uncover cyber vulnerabilities, as well as working with various agencies
+to implement secure architectures and provide cybersecurity governance
+and technical guidance to ensure a safer, more secure Smart Nation.</p>
+<h3><strong>Government Cybersecurity Operations Centre (GCSOC)</strong></h3>
 <p>- Include 2nd image from <a href="https://www.smartnation.gov.sg/media-hub/press-releases/gcsoc-factsheet/" rel="noopener noreferrer nofollow" target="_blank"><u>https://www.smartnation.gov.sg/media-hub/press-releases/gcsoc-factsheet/</u></a><u> </u>-
 The Government Cybersecurity Operations Centre (GCSOC) is an integrated
 initiative that aims to upgrade monitoring and detection technologies,
@@ -33,10 +29,9 @@ and and faster response times. - An example of GCSOC's work is PhishMonSG,
 a phishing detection tool developed in collaboration with the Ministry
 of Home Affairs that enables GCSOC to proactively scan across the Internet
 daily for malicious sites that mimic Government agencies’ websites. - (Any
-other products or works by GCSOC that we can highlight?)<strong> </strong>
-</p>
+other products or works by GCSOC that we can highlight?)</p>
 <p></p>
-<p><strong>Interested to find out more about GCSOC? </strong>
+<p><strong>Interested to find out more about GCSOC?</strong>
 </p>
 <p>Learn more about GCSOC <a href="https://www.smartnation.gov.sg/media-hub/press-releases/gcsoc-factsheet/" class="waffle-rich-text-link" rel="noopener noreferrer nofollow" target="_blank"><u>here</u></a>.</p>
 <p>Have questions? Get in touch with us at xxx
