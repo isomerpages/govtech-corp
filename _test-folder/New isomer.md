@@ -348,5 +348,6 @@ scelerisque semper nisl et sodales. Suspendisse euismod or</p>
 <p>unable to have coloured background – utilise normal text</p>
 <h2><s>18. &amp; 19. Anchor Link Module - Variant 1/2</s></h2>
 <p>unable to anchor within same page</p>
-<p></p>
+<h2>20. Social media Module</h2>
+<p>Do not recommend placing in 2 col as swiping through will confuse users</p>
 <p></p>
