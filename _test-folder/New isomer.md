@@ -102,17 +102,16 @@ sceleris</div>
 </div>
 <h2>4. Quote Module</h2>
 <blockquote>
-<p>[Regular] Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus
-quis libero pellentesque, faucibus urna at, rutrum diam.</p>
+<p>[150] Lorem ipsum dolor sit amet, consectetur adipiscing elit. Etiam quis
+elementum ex. Nunc a massa feugiat, feugiat orci at, eleifend quam. Donec
+sceleris</p>
 </blockquote>
+<p>– [40] Nunc a massa feugiat, feugiat orceleifen</p>
 <p></p>
 <blockquote>
-<h4>[Heading 3] Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus quis libero pellentesque, faucibus urna at, rutrum diam.</h4>
+<h4>[H3 150] Lorem ipsum dolor sit amet, consectetur adipiscing elit. Etiam quis elementum ex. Nunc a massa feugiat, feugiat orci at, eleifend quam. Donec sceleris</h4>
 </blockquote>
-<p></p>
-<blockquote>
-<h3>[Heading 2]Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus quis libero pellentesque, faucibus urna at, rutrum diam.</h3>
-</blockquote>
+<p>– [40] Nunc a massa feugiat, feugiat orceleifen</p>
 <p></p>
 <h2>5. Related Content Module</h2>
 <p>using table with image links</p>
