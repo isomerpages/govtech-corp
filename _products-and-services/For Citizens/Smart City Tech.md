@@ -19,8 +19,7 @@ a shot at using technology to improve quality of life. These partnerships
 have delivered meaningful projects aimed at improving life for diverse
 users with accessibility needs as part of our Tech for Good motto.</p>
 <p></p>
-<p><strong>Explore our Smart City Tech Project: GALE</strong> 
-</p>
+<h3><strong>Explore our Smart City Tech Project: GALE</strong></h3>
 <p>Government Assisted Living Ecosystem (GALE) is a large scale project that
 employed IoT to create tools and an infrastructure of support system for
 caregiving that helped our senior citizens in vulnerable positions. <strong>- </strong>GALE
@@ -28,7 +27,9 @@ consists of technology and care layers - i) hardware IoT button, the Personal
 Alert Button (PAB) ii) Case Management System (CMS) and iii) 24 x 7 telecare
 operators and SAC staff.</p>
 <p></p>
-<p><strong>3. What initiatives have been piloted under GALE? </strong><u>Personal alert button as first successful use case of GALE</u>
+<h3><strong>What initiatives have been piloted under GALE? </strong></h3>
+<p></p>
+<p><u>Personal alert button as first successful use case of GALE</u>
 </p>
 <p>Asset: Include PAB video from <a href="https://www.youtube.com/watch?v=mhI3eCfekcs" rel="noopener noreferrer nofollow" target="_blank"><u>https://www.youtube.com/watch?v=mhI3eCfekcs</u></a><u> </u>-</p>
 <p>Personal Alert Button (PAB) is an alert device that can be installed in
@@ -52,8 +53,10 @@ and offer assistance - GALE CMS further extended to support MOF, PA and
 its partners to handle appeal or re-issue requests of the Grocery Vouchers
 to support the lower income families</p>
 <p></p>
-<p><strong>4. What's the latest on GALE? </strong><u>PAB is a successful pilot to be expanded on a larger scale </u>-
-To date, PAB under GALE has been piloted in 53 rental housing blocks, and
+<h3><strong>What's the latest on GALE? </strong></h3>
+<p></p>
+<p><u>PAB is a successful pilot to be expanded on a larger scale </u>- To
+date, PAB under GALE has been piloted in 53 rental housing blocks, and
 installed in more than 6,000 units - 415 medical, social and crime related
 emergency cases have been handled successfully - Projections estimate that
 the number of seniors living alone in Singapore will reach 83,000 by 2030.
@@ -61,9 +64,10 @@ This is a steep increase from 47,000 in 2016 - The GALE team is looking
 for opportunities to expand beyond the 53 rental blocks to reach more vulnerable
 communities needing help</p>
 <p></p>
-<p><strong>5. Interested to find out more about GALE? </strong>- Follow GALE's
-updates on the Smart City Technology Division <a href="https://medium.com/siot-govtech" class="waffle-rich-text-link" rel="noopener noreferrer nofollow" target="_blank"><u>blog</u></a>.
-- Stay informed on updates and any new product developments by subscribing
+<h3><strong>Interested to find out more about GALE? </strong></h3>
+<p></p>
+<p>Follow GALE's updates on the Smart City Technology Division <a href="https://medium.com/siot-govtech" class="waffle-rich-text-link" rel="noopener noreferrer nofollow" target="_blank"><u>blog</u></a>.
+Stay informed on updates and any new product developments by subscribing
 to our TechNews Newsletter! (Subscription form link)
 <br>
 </p>
