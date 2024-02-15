@@ -6,9 +6,6 @@ description: ""
 ---
 <h4>Discover all the products and services developed by GovTech.</h4>
 <p></p>
-<h3>For Citizens</h3>
-<p></p>
-<p></p>
 <div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="/products-and-services/for-citizens/digital-services/" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Placeholder image" src="https://placehold.co/600x400"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Digital Services</div><div class="isomer-card-description">Creating Digital Services to ensure e-government services are always accessible</div><div class="isomer-card-link">Find Out More</div></div></a>
 <a rel="noopener noreferrer nofollow" href="/products-and-services/for-citizens/smart-city-tech/" class="isomer-card">
 <div class="isomer-card-image">
@@ -54,9 +51,6 @@ description: ""
 </a><a rel="noopener noreferrer nofollow" href="/products-and-services/for-citizens/crowdsourcing/" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Placeholder image" src="https://placehold.co/600x400"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Crowdsourcing</div><div class="isomer-card-description">Tapping into the collective intelligence of Singaporeans in a collaborative effort.</div><div class="isomer-card-link">Find Out More</div></div></a>
 </div>
 <p></p>
-<h3>For Businesses</h3>
-<p></p>
-<p></p>
 <div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="/products-and-services/for-businesses/corporate-transactions/" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Placeholder image" src="https://placehold.co/600x400"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Corporate Transactions</div><div class="isomer-card-description">Empowering businesses with convenience, ease and security during business transactions and operations.</div><div class="isomer-card-link">Find Out More</div></div></a>
 <a rel="noopener noreferrer nofollow" href="/products-and-services/for-businesses/trade-transactions/" class="isomer-card">
 <div class="isomer-card-image">
@@ -71,10 +65,6 @@ description: ""
 </div>
 </a><a rel="noopener noreferrer nofollow" href="/products-and-services/for-businesses/smart-city-tech/" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Placeholder image" src="https://placehold.co/600x400"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Smart City Tech</div><div class="isomer-card-description">Powering smart city solutions for a smarter future</div><div class="isomer-card-link">This is a link for your card</div></div></a>
 </div>
-<p></p>
-<p></p>
-<h3>For Government Agencies</h3>
-<p></p>
 <p></p>
 <div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="/products-and-services/for-government-agencies/government-transactions/" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Placeholder image" src="https://placehold.co/600x400"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Government Transactions</div><div class="isomer-card-description">Enabling government agencies to facilitate seamless government transactions with ease.</div><div class="isomer-card-link">Find Out More</div></div></a>
 <a rel="noopener noreferrer nofollow" href="/products-and-services/for-government-agencies/software-development/" class="isomer-card">
