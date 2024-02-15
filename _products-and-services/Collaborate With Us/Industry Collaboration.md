@@ -5,18 +5,19 @@ description: ""
 third_nav_title: Collaborate With Us
 variant: tiptap
 ---
-<p><strong>1. Co-create with us as we build our Smart Nation. </strong>-
-In the next bound of Digital Government for Singapore, GovTech is committed
+<p><strong>1. Co-create with us as we build our Smart Nation. </strong>
+</p>
+<p>In the next bound of Digital Government for Singapore, GovTech is committed
 to co-developing solutions and exploring innovative ways to deliver digital
-services for citizens, businesses, and government agencies. - Our approach
+services for citizens, businesses, and government agencies. Our approach
 is to collaborate with industry and research ecosystem through various
 initiatives in supporting the Government’s efforts in driving our Smart
 Nation ambition, whether it is to facilitate end-to-end technology partnership
 throughout the Government’s digital transformation journey or encourage
 ideas- or knowledge-sharing through events like conferences and talks.</p>
-<p><strong>2. Vendor Partnerships and Collaborations </strong>
+<p><strong>2. Vendor Partnerships and Collaborations</strong>
 </p>
-<p><u>Why partner with us as vendors?</u><strong> </strong>
+<p><u>Why partner with us as vendors?</u>
 </p>
 <ul data-tight="true" class="tight">
 <li>
@@ -64,18 +65,18 @@ Digital Platform and GALE.</p>
 </ul>
 <p>Find out more about the partnership opportunities for FY23 <a href="https://www.tech.gov.sg/files/media/corporate-publications/IB2023-Towards-the-Next-Bound-of-Digital-Government-GovTech-CE.pdf" class="waffle-rich-text-link" rel="noopener noreferrer nofollow" target="_blank"><u>here</u></a>.
 For a full list of current available opportunities and open tenders, visit
-<a href="https://www.gebiz.gov.sg/" class="waffle-rich-text-link" rel="noopener noreferrer nofollow" target="_blank"><u>GeBIZ</u>
+<a href="https://www.gebiz.gov.sg/" class="waffle-rich-text-link" rel="noopener noreferrer nofollow" target="_blank"><u>GeBIZ</u> 
 </a>.</p>
 <p>Have an enquiry or a proactive proposal that will drive our Smart Nation
 efforts? Reach out to us at <a href="https://www.tech.gov.sg/files/media/corporate-publications/IB2023-Towards-the-Next-Bound-of-Digital-Government-GovTech-CE.pdf" rel="noopener noreferrer nofollow" target="_blank">govtech_sipeo@tech.gov.sg</a>.</p>
-<h3><strong>Event Collaborations </strong></h3>
+<h3><strong>Event Collaborations</strong></h3>
 <p>At GovTech, we value opportunities to collaborate in the spirit of knowledge-sharing.
 Public-private collaborations like this encourage new ideas and more innovative
 government offerings.</p>
 <p>Below are examples of past event collaborations we have had:</p>
 <ul data-tight="true" class="tight">
 <li>
-<p> <u>Google Cloud Next '23 x GovTech </u>- Include image of GovTech speaker
+<p><u>Google Cloud Next '23 x GovTech </u>- Include image of GovTech speaker
 at event - In collaboration with Google, GovTech lent its expertise at
 a knowledge-sharing event through our Deputy Chief Executive, Sau Sheong
 Chang, who was invited to speak on "Data governance and the business implications
@@ -96,7 +97,7 @@ learn more.</p>
 </li>
 </ul>
 <p></p>
-<h3><strong>Have an enquiry? </strong></h3>
+<h3><strong>Have an enquiry?</strong></h3>
 <p>Reach out to us directly via email at <a href="https://www.tech.gov.sg/files/media/corporate-publications/IB2023-Towards-the-Next-Bound-of-Digital-Government-GovTech-CE.pdf" rel="noopener noreferrer nofollow" target="_blank">info@tech.gov.sg</a> for
 any enquiries on collaborations.</p>
 <p></p>
