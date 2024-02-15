@@ -36,5 +36,5 @@ when benchmarked against DSS.</p>
 <p>You can access the Standards <a href="https://www.tech.gov.sg/files/digital-transformation/DSS%20for%20Public%202020.pdf" class="waffle-rich-text-link" rel="noopener noreferrer nofollow" target="_blank"><u>here</u></a>.
 Do note that all government digital services must meet the DSS.</p>
 <h3><strong>Interested to find out more about Digital Service Standards?</strong></h3>
-<h3>Reach out to as at <a href="https://www.tech.gov.sg/files/digital-transformation/GovTech_DSS_Summary_Infographic_2Oct2018.pdf" rel="noopener noreferrer nofollow" target="_blank">info@tech.gov.sg</a> if you have any questions on the DSS.</h3>
+<p>Reach out to as at info@tech.gov.sg if you have any questions on the DSS.</p>
 <p></p>
