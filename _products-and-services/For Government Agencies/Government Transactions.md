@@ -6,8 +6,7 @@ description: ""
 third_nav_title: For Government Agencies
 ---
 <h3><strong>Enabling government agencies to facilitate seamless government transactions with ease</strong></h3>
-<p>As we build <u>Tech for Public Good</u> (Link to About Us - Our Digital
-Gov Efforts - Tech for Public Good) and develop digital products and services
+<p>As we build Tech for Public Good and develop digital products and services
 to improve the lives of Singaporeans, it is important to ensure transactions
 with the Whole-of-Government (WOG) are kept seamless and secure. It is
 also important for our government agencies to be able to facilitate these
