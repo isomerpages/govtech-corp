@@ -93,8 +93,7 @@ through balance.</p>
 </tbody>
 </table>
 <p></p>
-<p>We are also guided by our ABC values at GovTech - what it means to be
-Agile, Bold and Collaborative: -</p>
+<h3>We are also guided by our <strong>ABC </strong>values at GovTech</h3>
 <p>1. Agile - being prepared to disrupt ourselves, being prepared to think
 twice, think in a different way, and really make those changes on time
 -</p>
@@ -104,10 +103,7 @@ sector -</p>
 <p>3. Collaborative - What we want to do in GovTech is to leverage on the
 resources that are already available Click <u>here</u> to find out more about
 GovTech. (Link to Who We Are page)</p>
-<p><u>Hear from our GovTechies </u>- Want to know more about life at GovTech
-and how our teams develop products? Check out some of the stories below
-featuring our very own GovTechies!</p>
-<p>- List of featured articles (Zig-Zag / 2-column component):</p>
+<h3>Want to know more about life at GovTech and how our teams develop products? Check out some of the stories below featuring our very own GovTechies!</h3>
 <p>1. <a href="https://www.tech.gov.sg/media/technews/international-womens-day-2023" class="waffle-rich-text-link" rel="noopener noreferrer nofollow" target="_blank"><u>International Woman’s day: GovTechies talk about switching to tech careers</u></a>
 </p>
 <p>2. <a href="https://www.tech.gov.sg/media/technews/a-day-in-the-life-of-a-data-scientist-in-tap" class="waffle-rich-text-link" rel="noopener noreferrer nofollow" target="_blank"><u>A day in the life of a data scientist in the Technology Associate Programme</u></a>
@@ -118,8 +114,8 @@ featuring our very own GovTechies!</p>
 </p>
 <p>5. <a href="https://www.tech.gov.sg/media/technews/making-the-leap" class="waffle-rich-text-link" rel="noopener noreferrer nofollow" target="_blank"><u>Making the leap: how one GovTechie switched careers to product design</u></a>
 </p>
-<p>CTA: Interested in becoming a GovTechie? Click <u>here</u> to explore career
-opportunities at GovTech. (Link to Careers page).</p>
+<p>Interested in becoming a GovTechie? Explore <a href="/careers/opportunities-for-professionals/overview/" rel="noopener noreferrer nofollow" target="_blank">career opportunities</a> at
+GovTech.</p>
 <h3><strong>Looking for useful apps, tools and portals?</strong></h3>
 <p>&lt;Include collage of (citizen) product logos - Singpass, LifeSG, GoWhere,
 Parents Gateway, <a href="https://www.tech.gov.sg/media/technews/top-five-scams-in-singapore-and-how-to-protect-yourself" rel="noopener noreferrer nofollow" target="_blank"><u>Parking.sg</u></a>,
