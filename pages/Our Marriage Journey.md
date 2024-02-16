@@ -50,7 +50,7 @@ marriage, divorce, spousal death</p>
 <h3>How to use Our Marriage Journey?</h3>
 <p>Our Marriage Journey is available at <a href="https://www.marriage.gov.sg/" rel="noopener noreferrer nofollow" target="_blank">https://www.marriage.gov.sg/</a>.</p>
 <p>Simply login with your Singpass to begin using Our Marriage Journey.</p>
-<h3>Interested to find out more about Our Marriage Journey? </h3>
+<h3>Interested to find out more about Our Marriage Journey?</h3>
 <p>- Stay informed on updates and any new product developments by subscribing
 to our TechNews Newsletter! (Subscription form link)</p>
 <p>- Sgn up as a Tech Kaki to join our feedback community if you're keen
