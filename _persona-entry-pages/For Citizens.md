@@ -33,7 +33,7 @@ tech tips? Check out these latest stories by GovTech TechNews.</p>
 <p><strong>Stay updated on the latest tech tips and GovTech news. Subscribe to our TechNews Newsletter today!</strong>
 </p>
 <p></p>
-<p><a href="/media/technews/subscribe" rel="noopener noreferrer nofollow" target="_blank">SUBSCRIBE TO TECHNEWS</a>
+<p><a href="http://eepurl.com/cUwIsD" rel="noopener noreferrer nofollow" target="_blank">SUBSCRIBE TO TECHNEWS</a>
 </p>
 <p></p>
 <h3><strong>Want your voice heard? Co-create with us by joining the Tech Kaki community.</strong></h3>
