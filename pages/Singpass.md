@@ -78,24 +78,38 @@ need for manual paper filing.</div>
 </div>
 </div>
 <h3>How to use Singpass?</h3>
-<p>- Singpass is eligible for all Singaporean Citizens, Permanent Residents
+<p>Singpass is eligible for all Singaporean Citizens, Permanent Residents
 or Foreign Identification Number (FIN) holder who are above 15 years old.</p>
-<p>- It's easy to start using Singpass in 3 simple steps.</p>
-<p>- Register on <a href="http://Singpass.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Singpass.gov.sg</a> via
+<h4>It's easy to start using Singpass in 3 simple steps:</h4>
+<ol data-tight="true" class="tight">
+<li>
+<p>Register on <a href="https://www.singpass.gov.sg/main/" rel="noopener noreferrer nofollow" target="_blank">Singpass.gov.sg</a> via
 face verification or with a One-Time Password Pin mailer.</p>
-<p>- Set up your Singpass password and SMS 2FA once you've registered successfully.</p>
-<p>- Start accessing the Singpass ecosystem by downloading the app through
+</li>
+<li>
+<p>Set up your Singpass password and SMS 2FA once you've registered successfully.</p>
+</li>
+<li>
+<p>Start accessing the Singpass ecosystem by downloading the app through
 your preferred app store.</p>
-<p>- For a more detailed step-by-step walkthrough, please read this guide.</p>
-<p>4. What's the latest on Singpass?</p>
-<p>New features to come</p>
-<p>We are constantly working on expanding the services associated to Singpass.
-Here are some upcoming features</p>
-<p>1. Peer-to-peer check - Verify details of someone else's identity before
-granting them access to yours.</p>
-<p>2. Bill payments - Make payments easily on your pending transactions on
-the app.</p>
-<p>Public Service Advisory on Scams</p>
+</li>
+</ol>
+<p>For a more detailed step-by-step walkthrough, please read this <a href="https://www.singpass.gov.sg/home/ui/assets/pdf/Singpass_Registration_Guide.pdf" rel="noopener noreferrer nofollow" target="_blank">guide</a>.</p>
+<h3>What's the latest on Singpass?</h3>
+<p>New features to come!</p>
+<p>We are constantly working on expanding the services associated to Singpass.</p>
+<h4>Here are some upcoming features:</h4>
+<ol data-tight="true" class="tight">
+<li>
+<p><strong>Peer-to-peer check</strong> — Verify details of someone else's
+identity before granting them access to yours.</p>
+</li>
+<li>
+<p><strong>Bill payments</strong> — Make payments easily on your pending transactions
+on the app.</p>
+</li>
+</ol>
+<h4>Public Service Advisory on Scams</h4>
 <p>Working with the Singapore Police Force, we can prevent the rise of scams
 by educating ourselves on the latest phishing tactics. Some of them include:</p>
 <p>- Unsolicited SMSes with Senders claiming to be Singpass, asking the recipient
