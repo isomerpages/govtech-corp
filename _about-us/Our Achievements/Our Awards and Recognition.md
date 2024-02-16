@@ -18,7 +18,7 @@ recognising our efforts in advancing the adoption of greener hosting options
 through data centre consolidation, cloud migration, and workload optimisation
 in our endeavour to cut government data centres' electrical consumption
 by at least 20%.</p>
-<h4>2. Employer Awards </h4>
+<h4>2. Employer Awards</h4>
 <p>GovTech is proud to be a Great Place to Work-Certified™ organisation,
 a validation of our collaborative spirit and shared vision that defines
 who we are as an organisation. GovTech was also named Singapore's top 10
