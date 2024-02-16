@@ -40,25 +40,37 @@ transformation.</p>
 <p>Singapore actively participates in platforms by giving keynote talks and
 conducting workshops. We believe such engagements will serve a much larger
 community of countries looking to learn about Singapore’s journey.</p>
-<h3>Explore a few of our past international collaborations below</h3>
-<p>Digital Government Exchange (DGX) - Include image of DGX event from https://drive.google.com/drive/folders/1Ds0YkkfTO2muVX6jFjQGFNU0G1zHXrOY
-- This is an annual global gathering of Government Chief Information Officers
-(CIOs) and public sector leaders from digital governments and smart cities
-from all over the world. Including countries like Australia, Canada, China,
-France, the United Kingdom, the United States and more, DGX brings together
-a community of like-minded leaders who engage in information exchange,
-sharing of experiences and mutual learning, while providing a platform
-to explore future collaboration opportunities. - Read more about this international
-collaboration here.</p>
-<p>Smart City Expo World Congress 2023 in Barcelona - Our GovTechies from
-the Smart City Technology Division, together with JTC Corporation and ST
-Engineering recently represented Singapore at the Smart City Expo World
-Congress (SCEWC). - SCEWC is the world’s biggest and most influential event
-on urban innovation, connecting leaders from the most innovative companies,
-governments, and organizations to move cities towards a better future.
-The GovTech team showcased Singapore’s digital ambitions with projects
-such as Open-Robotics Middle Framework, wireless Alert Alarm System, and
-remote photoplethysmography. Learn more about this collaboration here</p>
+<h3>Take a look at some of our past international collaborations below</h3>
+<div class="isomer-card-grid">
+<div class="isomer-card">
+<div class="isomer-card-image">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Placeholder image" src="https://placehold.co/600x400">
+</div>
+</div>
+<div class="isomer-card-body">
+<div class="isomer-card-title">Digital Government Exchange (DGX)</div>
+<div class="isomer-card-description">An annual global gathering of CIOs and public sector leaders from digital
+governments and smart cities from all over the world. DGX brings together
+a community of like-minded leaders for information exchange and mutual
+learning, and helps spark future collaboration.</div>
+</div>
+</div>
+<div class="isomer-card">
+<div class="isomer-card-image">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Placeholder image" src="https://placehold.co/600x400">
+</div>
+</div>
+<div class="isomer-card-body">
+<div class="isomer-card-title">Smart City Expo World Congress</div>
+<div class="isomer-card-description">Together with JTC Corporation and ST Engineering, GovTech participated
+in the 2023 Smart City Expo World Congress (SCEWC) in Barcelona where GovTech
+showcased Singapore’s urban innovation projects such as Open-Robotics Middle
+Framework, Wireless Alert Alarm System, and more.</div>
+</div>
+</div>
+</div>
 <h3><strong>Interested to collaborate?</strong></h3>
 <p>Reach out directly to us via email at <a href="https://drive.google.com/drive/folders/1Ds0YkkfTO2muVX6jFjQGFNU0G1zHXrOY" rel="noopener noreferrer nofollow" target="_blank">info@tech.gov.sg</a> for
 collaboration opportunities.
