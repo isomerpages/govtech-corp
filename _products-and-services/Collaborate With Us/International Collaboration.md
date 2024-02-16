@@ -45,7 +45,7 @@ community of countries looking to learn about Singapore’s journey.</p>
 <div class="isomer-card">
 <div class="isomer-card-image">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Placeholder image" src="https://placehold.co/600x400">
+<img style="width: 100%" height="auto" width="100%" alt="Placeholder image" src="/images/Products and Services/DGX_2023.jpeg">
 </div>
 </div>
 <div class="isomer-card-body">
@@ -59,7 +59,7 @@ learning, and helps spark future collaboration.</div>
 <div class="isomer-card">
 <div class="isomer-card-image">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Placeholder image" src="https://placehold.co/600x400">
+<img style="width: 100%" height="auto" width="100%" alt="Placeholder image" src="/images/Products and Services/Smart_City_Expo_2023.jpg">
 </div>
 </div>
 <div class="isomer-card-body">
