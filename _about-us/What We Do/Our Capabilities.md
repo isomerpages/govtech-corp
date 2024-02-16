@@ -59,7 +59,7 @@ also provides guidelines and support to government agencies.</p>
 <p>Some examples of their work include the development of VPN capacity and
 of the next bound of government networks like SD-WAN (Software-defined
 Wide Area Network) and Zero Trust Network.</p>
-<p>Learn more about Government ICT Infrastructure.</p>
+<h4>Learn more about <a href="/our-capabilities/government-ict-infrastructure" rel="noopener noreferrer nofollow" target="_blank">Government ICT Infrastructure</a>.</h4>
 <h3>5. Smart City Technology</h3>
 <p>(image)</p>
 <p>This centre works on the design and implementation of a government-wide
@@ -76,6 +76,5 @@ Town, Personal Alert Button for seniors living alone, e-Canvas for Persons
 With Disabilities (PWDs) and more.</p>
 <h4>Learn more about <a href="/our-capabilities/smart-city-technology" rel="noopener noreferrer nofollow" target="_blank">Smart City Technology</a>.</h4>
 <h3>Interested to be a part of one of our capability centres?</h3>
-<p>Our team is always searching for like-minded tech talents - if you have
-a similar purpose, check out the <a href="/careers/why-join-govtech/overview/" rel="noopener noreferrer nofollow" target="_blank">career opportunities</a> available
-at GovTech</p>
+<h4>Our team is always searching for like-minded tech talents - if you have a similar purpose, check out the <a href="/careers/why-join-govtech/overview/" rel="noopener noreferrer nofollow" target="_blank">career opportunities</a> available at GovTech</h4>
+<p></p>
