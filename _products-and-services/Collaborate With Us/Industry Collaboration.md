@@ -72,28 +72,29 @@ efforts? Reach out to us at <a href="https://www.tech.gov.sg/files/media/corpora
 Public-private collaborations like this encourage new ideas and more innovative
 government offerings.</p>
 <p>Below are examples of past event collaborations we have had:</p>
-<ul data-tight="true" class="tight">
-<li>
-<p><u>Google Cloud Next '23 x GovTech </u>- Include image of GovTech speaker
-at event - In collaboration with Google, GovTech lent its expertise at
-a knowledge-sharing event through our Deputy Chief Executive, Sau Sheong
-Chang, who was invited to speak on "Data governance and the business implications
-on Gen AI" - He shared about the AI Trailblazer, how Singapore is collaborating
-with Google to spur the adoption of hashtag#ArtificialIntelligence across
-public and private sectors, as well as use cases of AI in GovTech. - To
-learn more, watch the session <a href="https://www.youtube.com/watch?v=t6zXXgJLNzI" class="waffle-rich-text-link" rel="noopener noreferrer nofollow" target="_blank"><u>here</u></a>.</p>
-</li>
-<li>
-<p><u>GovTech Digital Academy x Google Cloud - AI Bootcamp </u>- Include
-3rd image from social post <a href="https://www.tech.gov.sg/files/media/corporate-publications/IB2023-Towards-the-Next-Bound-of-Digital-Government-GovTech-CE.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>https://www.linkedin.com/feed/update/urn:li:activity:7122099364247834624</u></a> -
-In partnership with Google Cloud, the GovTech Digital Academy conducted
+<h4>Google Cloud Next '23 x GovTech </h4>
+<div class="iframe-wrapper">
+<iframe height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/t6zXXgJLNzI?si=7igKz4EgfxmadPUg"></iframe>
+</div>
+<p>In collaboration with Google, GovTech lent its expertise at a knowledge-sharing
+event through our Deputy Chief Executive, Sau Sheong Chang, who was invited
+to speak on "Data governance and the business implications on Gen AI" He
+shared about the AI Trailblazer, how Singapore is collaborating with Google
+to spur the adoption of Artificial Intelligence across public and private
+sectors, as well as use cases of AI in GovTech.</p>
+<p></p>
+<h4>GovTech Digital Academy x Google Cloud - AI Bootcamp</h4>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 50%;" height="auto" width="100%" alt="" src="/images/Products and Services/digitalacademy_googlecloud.jpeg">
+</div>
+<p></p>
+<p>In partnership with Google Cloud, the GovTech Digital Academy conducted
 the Google AI Bootcamp for the upskilling of over 1,400 public officers
 across 85 government agencies. Through the sessions, public officers learn
 about on-trend topics like foundations of AI, applications of AI in Government,
-ethics of AI, generative AI, and the future of AI. Click <a href="https://www.linkedin.com/feed/update/urn:li:activity:7122099364247834624/" class="waffle-rich-text-link" rel="noopener noreferrer nofollow" target="_blank"><u>here</u></a> to
-learn more.</p>
-</li>
-</ul>
+ethics of AI, generative AI, and the future of AI. Click here to learn
+more.</p>
 <p></p>
 <h3><strong>Have an enquiry?</strong></h3>
 <p>Reach out to us directly via email at <a href="https://www.tech.gov.sg/files/media/corporate-publications/IB2023-Towards-the-Next-Bound-of-Digital-Government-GovTech-CE.pdf" rel="noopener noreferrer nofollow" target="_blank">info@tech.gov.sg</a> for
