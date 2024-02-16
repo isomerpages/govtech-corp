@@ -2,12 +2,12 @@ collections:
   digital-government-efforts:
     output: true
     order:
-      - Sustainability.md
-      - Engineering Digital Government.md
-      - Diversity and Inclusion.md
-      - Whole of Government Platforms and Tools.md
-      - Digital Identity.md
+      - Tech for Public Good.md
+      - Citizen Engagement and Co Creation.md
       - User and Business Journeys.md
       - AI and Data Driven Government.md
-      - Citizen Engagement and Co Creation.md
-      - Tech for Public Good.md
+      - Digital Identity.md
+      - Engineering Digital Government.md
+      - Sustainability.md
+      - Diversity and Inclusion.md
+      - Whole of Government Platforms and Tools.md
