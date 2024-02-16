@@ -70,9 +70,9 @@ and their success stories.</p>
 <p></p>
 <p>Learn more about <a href="/products-and-services/collaborate-with-us/government-collaboration/" rel="noopener noreferrer nofollow" target="_blank">agency to agency collaborations</a> with
 GovTech.</p>
-<h3>Interested to collaborate with GovTech on a project? </h3>
+<h3>Interested to collaborate with GovTech on a project?</h3>
 <p>Reach out to the respective product teams within GovTech or drop an email
-to <a href="http://data.gov.sg/" rel="noopener noreferrer nofollow" target="_blank">info@tech.gov.sg</a>.
+to <a href="info@tech.gov.sg" rel="noopener noreferrer nofollow" target="_blank">info@tech.gov.sg</a>.
 <br>
 </p>
 <p></p>
