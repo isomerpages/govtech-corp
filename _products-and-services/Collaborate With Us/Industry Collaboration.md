@@ -14,9 +14,8 @@ initiatives in supporting the Government’s efforts in driving our Smart
 Nation ambition, whether it is to facilitate end-to-end technology partnership
 throughout the Government’s digital transformation journey or encourage
 ideas- or knowledge-sharing through events like conferences and talks.</p>
-<h3><strong>Vendor Partnerships and Collaborations</strong></h3>
-<p><u>Why partner with us as vendors?</u>
-</p>
+<h3>Vendor Partnerships and Collaborations</h3>
+<h4>Why partner with us as vendors?</h4>
 <ul data-tight="true" class="tight">
 <li>
 <p>Co-create/Co-develop digital products and services, developing technology
@@ -41,8 +40,7 @@ created by digital innovation towards building a Digital Economy, promotes
 a vibrant ICT ecosystem involving public-private stakeholders, and strengthens
 Singapore’s position as a hub for digital innovation.</p>
 <p></p>
-<p>For the current FY, GovTech has 3 focus areas as ICT opportunities - Application
-Development, Sustainability and Smart Cities.</p>
+<h4>For the current FY, GovTech has 3 focus areas as ICT opportunities - Application Development, Sustainability and Smart Cities.</h4>
 <ol data-tight="true" class="tight">
 <li>
 <p>For Application Development: Going cloud-first by expanding on the systems
@@ -67,12 +65,12 @@ Digital Platform and GALE.</p>
 </a>.</p>
 <p>Have an enquiry or a proactive proposal that will drive our Smart Nation
 efforts? Reach out to us at <a href="https://www.tech.gov.sg/files/media/corporate-publications/IB2023-Towards-the-Next-Bound-of-Digital-Government-GovTech-CE.pdf" rel="noopener noreferrer nofollow" target="_blank">govtech_sipeo@tech.gov.sg</a>.</p>
-<h3><strong>Event Collaborations</strong></h3>
+<h3>Event Collaborations</h3>
 <p>At GovTech, we value opportunities to collaborate in the spirit of knowledge-sharing.
 Public-private collaborations like this encourage new ideas and more innovative
 government offerings.</p>
 <p>Below are examples of past event collaborations we have had:</p>
-<h4>Google Cloud Next '23 x GovTech </h4>
+<h4>Google Cloud Next '23 x GovTech</h4>
 <div class="iframe-wrapper">
 <iframe height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/t6zXXgJLNzI?si=7igKz4EgfxmadPUg"></iframe>
 </div>
