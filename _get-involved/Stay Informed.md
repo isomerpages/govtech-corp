@@ -114,9 +114,8 @@ insights, lessons from their time in GovTech and product development journeys.</
 </table>
 <h3>Connect with us on social media</h3>
 <p>Be updated on the latest GovTech news and happenings when you connect
-with GovTech on social media.</p>
+with GovTech on <a href="https://linktr.ee/connectwithgovtech" rel="noopener noreferrer nofollow" target="_blank">social media</a>.</p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="https://i.ibb.co/NCH2BfN/Frame-172.png">
+<img style="width: 50%;" height="auto" width="100%" alt="" src="https://i.ibb.co/NCH2BfN/Frame-172.png">
 </div>
-<p><a href="https://linktr.ee/connectwithgovtech" class="button primary" rel="noopener noreferrer nofollow" target="_blank">FOLLOW US</a>
-</p>
+<p></p>
