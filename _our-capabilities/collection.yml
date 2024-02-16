@@ -2,8 +2,8 @@ collections:
   our-capabilities:
     output: true
     order:
-      - Government ICT Infrastructure.md
-      - Data Science and Artificial Intelligence.md
-      - Cybersecurity.md
-      - Smart City Technology.md
       - Application Design, Development and Deployment.md
+      - Cybersecurity.md
+      - Data Science and Artificial Intelligence.md
+      - Government ICT Infrastructure.md
+      - Smart City Technology.md
