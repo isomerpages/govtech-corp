@@ -20,33 +20,25 @@ one of our apps like Singpass or LifeSG, or even tapping on our communities
 to test your products. From MOE to NEA and MOH, GovTech has collaborated
 with a myriad of government agencies to develop products and services -
 explore a few of these below.</p>
-<p>1. Parents Gateway App - Include image of app (screenshots) - In collaboration
-with MOE, this app is a one-stop portal used to disseminate information
-and seek parents’ consent on admin matters, in a consolidated digital form.
-It gives parents greater access and control over their child’s participation
-in school activities and for parents to better manage school-related administrative
-tasks. - With over 100,000 downloads and counting, this app has been an
-invaluable tool that strengthens school-home partnerships in support of
-children in their education journey - Learn more about this collaboration <u>here</u>.
-(Link to Parents Gateway product page)</p>
-<p>2. SPOT Robot - Include image of robot from <a href="https://www.straitstimes.com/singapore/meet-spot-the-safe-distancing-robot-on-trial-in-bishan-amk-park" rel="noopener noreferrer nofollow" target="_blank"><u>https://www.straitstimes.com/singapore/meet-spot-the-safe-distancing-robot-on-trial-in-bishan-amk-park</u></a> -
-In collaboration with NParks, this played a role in the safe distancing
-measures put in place during the COVID-19 pandemic. - Fitted with cameras,
-SPOT assisted to broadcast a recorded message to remind park patrons of
-the safe distance measures to be observed. With its video analytics capabilities,
-it could also provide insight into the number of patrons currently at the
-park, again to aid with crowd control during the pandemic. - Learn more
-about this collaboration <a href="https://www.tech.gov.sg/media/media-releases/spot-robot-trial-for-safe-distancing-operations" class="waffle-rich-text-link" rel="noopener noreferrer nofollow" target="_blank"><u>here</u></a>.</p>
-<p>3. AI for Fish Farming - Include screenshot image from <a href="https://www.straitstimes.com/singapore/meet-spot-the-safe-distancing-robot-on-trial-in-bishan-amk-park" rel="noopener noreferrer nofollow" target="_blank"><u>https://www.tech.gov.sg/media/technews/how-ai-and-a-camera-phone-help-keep-food-on-our-tables</u></a> -
-In collaboration with SFA, GovTech developed an AI tool to cut down on
-manhours needed for the process of rotifer-counting - a necessary but time-consuming
-activity in fish farming. With this AI tool, fish farmers now have an app
-that can analyse uploaded images and provide the required insights, cutting
-down the time needed for this process from 40 minutes to just 1 minute.
-- This project was also awarded the Ministry of Sustainability and the
-Environment (MSE) Innovation Award in 2020. - Learn more about this collaboration
-<a href="https://www.tech.gov.sg/media/technews/how-ai-and-a-camera-phone-help-keep-food-on-our-tables" class="waffle-rich-text-link" rel="noopener noreferrer nofollow" target="_blank"><u>here</u> 
-</a>.</p>
+<p></p>
+<div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="/media/technews/behind-the-scenes-look-at-the-parents-gateway-app" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Placeholder image" src="https://placehold.co/600x400"></div></div><div class="isomer-card-body"><div class="isomer-card-title">GovTech X MOE: Parents Gateway</div><div class="isomer-card-description">This app is a one-stop portal to disseminate information and seek parents’ consent on admin matters, in a consolidated digital form. It gives parents greater access and control over their child’s participation in school activities and for parents to better manage school-related administrative tasks.</div><div class="isomer-card-link">Read More</div></div></a>
+<a rel="noopener noreferrer nofollow" href="/media/media-releases/spot-robot-trial-for-safe-distancing-operations" class="isomer-card">
+<div class="isomer-card-image">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Placeholder image" src="/images/Products and Services/spot_robot.PNG">
+</div>
+</div>
+<div class="isomer-card-body">
+<div class="isomer-card-title">GovTech X NParks: SPOT Robot for Safe Distancing</div>
+<div class="isomer-card-description">Fitted with cameras, SPOT assisted to broadcast a recorded message to
+remind park patrons of the safe distance measures to be observed. With
+its video analytics capabilities, it could also count the number of patrons
+currently at the park, to aid with crowd control during the pandemic.</div>
+<div class="isomer-card-link">Read More</div>
+</div>
+</a><a rel="noopener noreferrer nofollow" href="/media/technews/how-ai-and-a-camera-phone-help-keep-food-on-our-tables" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Placeholder image" src="/images/Products and Services/rotifer_counting_application.png"></div></div><div class="isomer-card-body"><div class="isomer-card-title">GovTech X SFA: Rotifer Counting with AI</div><div class="isomer-card-description">In collaboration with SFA, GovTech developed an AI tool to cut down on manhours needed for rotifer-counting - a necessary but time-consuming part of fish farming. With this tool, fish farmers can now analyse images and automatically track rotifer numbers.</div><div class="isomer-card-link">Read More</div></div></a>
+</div>
+<p></p>
 <h3>Product and User Testing</h3>
 <p>&lt;Include Tech Kaki Community image (showing product/user testing in
 action)&gt;</p>
