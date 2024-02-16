@@ -6,30 +6,39 @@ variant: tiptap
 ---
 <p><em>Whether you're a tech enthusiast or hoping to be a future GovTechie, this page has been specially curated to provide you with tech tips, behind-the-scenes stories, opportunities to get involved with GovTech and more.</em>
 </p>
-<h3><strong>Check out what's in it for you at GovTech today</strong></h3>
+<h3><strong>Check out what's in store for you at GovTech today</strong></h3>
 <p>Our upcoming event, the STACKx Smart City conference, will be a one-day,
 in-person event, held at Suntec Convention Centre on <strong>Wednesday, 27 March 2024</strong>.
 At STACKx Smart City, you’ll hear from experts on the latest technology
 trends that will shape today’s Smart City.</p>
-<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 75%;" height="auto" width="100%" alt="" src="/images/media/Stackx_Smart_City_2024_EventPage_updated.jpg">
+</div>
 <p></p>
 <h3><strong>Always be in the know with our TechNews stories</strong></h3>
 <p>Interested to learn more about all-things-technology and gather useful
-tech tips? Check out these articles by GovTech.</p>
-<p>List of featured articles:</p>
-<p>1.<a href="https://www.tech.gov.sg/media/technews/top-five-scams-in-singapore-and-how-to-protect-yourself" class="waffle-rich-text-link" rel="noopener noreferrer nofollow" target="_blank"><u> Top 5 scams in Singapore and how to protect yourself from them.</u></a>
+tech tips? Check out these latest stories by GovTech TechNews.</p>
+<p></p>
+<p></p>
+<div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="/media/technews/top-five-scams-in-singapore-and-how-to-protect-yourself/" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Placeholder image" src="https://placehold.co/600x400"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Top 5 scams in Singapore and how to protect yourself from them</div><div class="isomer-card-link">Read More</div></div></a>
+<a rel="noopener noreferrer nofollow" href="/media/technews/generative-ai-where-can-it-go-wrong/" class="isomer-card">
+<div class="isomer-card-image">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Placeholder image" src="https://placehold.co/600x400">
+</div>
+</div>
+<div class="isomer-card-body">
+<div class="isomer-card-title">Generative AI: Where it can go wrong</div>
+<div class="isomer-card-link">Read More</div>
+</div>
+</a><a rel="noopener noreferrer nofollow" href="/media/technews/tips-for-safe-online-shopping/" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Placeholder image" src="https://placehold.co/600x400"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Tips for safe online shopping</div><div class="isomer-card-link">Read More</div></div></a>
+</div>
+<p></p>
+<p><strong>Stay updated on the latest tech tips and GovTech news. Subscribe to our TechNews Newsletter today!</strong>
 </p>
-<p>2. <a href="https://www.tech.gov.sg/media/technews/tips-to-secure-your-tech-devices-while-travelling" class="waffle-rich-text-link" rel="noopener noreferrer nofollow" target="_blank"><u>Tips to secure your tech devices when travelling.</u></a>
+<p></p>
+<p><a href="/media/technews/subscribe" rel="noopener noreferrer nofollow" target="_blank">SUBSCRIBE TO TECHNEWS</a>
 </p>
-<p>3. <a href="https://www.tech.gov.sg/media/technews/generative-ai-where-can-it-go-wrong" class="waffle-rich-text-link" rel="noopener noreferrer nofollow" target="_blank"><u>Generative AI: Where it can go wrong</u></a>
-</p>
-<p>4. <a href="https://www.tech.gov.sg/media/technews/history-of-the-internet" class="waffle-rich-text-link" rel="noopener noreferrer nofollow" target="_blank"><u>History of internet in Singapore – from niche toy to must-have essential</u></a>
-</p>
-<p>5.<a href="https://www.tech.gov.sg/media/technews/2020-09-24-the-qr-code-is-everywhere-but-where-did-it-come-from" class="waffle-rich-text-link" rel="noopener noreferrer nofollow" target="_blank"><u> The QR code is everywhere, but where did it come from?</u></a>
-</p>
-<p>CTA: Stay updated on the latest tech tips and GovTech news. Subscribe
-to our TechNews Newsletter <u>here</u> (Link to TechNews Newsletter subscription
-form).</p>
 <p></p>
 <h3><strong>Want your voice heard? Co-create with us by joining the Tech Kaki community.</strong></h3>
 <p>&lt;Include banner image of Tech Kaki&gt;</p>
