@@ -139,8 +139,8 @@ MOE.</p>
 with a large pool of tech talent that include software engineers, data
 scientists, DevOps engineers, UX/UI designers and more. As the go-to organisation
 for all-things-tech, GovTech also has strong ties to the local citizens
-and tech community, through its communities like Tech Kaki, STACK and GovTech
-REConnect (<strong>Link each community to the relevant page under Get Involved</strong>)</p>
+and tech community, through its communities like <a href="/get-involved/join-our-communities/tech-kaki/" rel="noopener noreferrer nofollow" target="_blank">Tech Kaki</a>, <a href="/get-involved/join-our-communities/stack-community/" rel="noopener noreferrer nofollow" target="_blank">STACK</a> and
+<a href="/get-involved/join-our-communities/govtech-reconnect/" rel="noopener noreferrer nofollow" target="_blank">GovTech REConnect</a>.</p>
 <p></p>
 <p></p>
 <p></p>
