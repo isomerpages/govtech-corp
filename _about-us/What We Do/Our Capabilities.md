@@ -82,5 +82,5 @@ With Disabilities (PWDs) and more.</p>
 - Smart City Technology [Hidden-Level Page]).</p>
 <h3>Interested to be a part of one of our capability centres?</h3>
 <p>Our team is always searching for like-minded tech talents - if you have
-a similar purpose, check out the opportunities available at GovTech <u>here</u> (Link
-to Careers page)</p>
+a similar purpose, check out the <a href="/careers/why-join-govtech/overview/" rel="noopener noreferrer nofollow" target="_blank">career opportunities</a> available
+at GovTech.</p>
