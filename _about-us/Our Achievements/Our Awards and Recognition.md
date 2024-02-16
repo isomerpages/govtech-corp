@@ -122,9 +122,16 @@ Award (2023)</p>
 </li>
 </ul>
 <h4><u>SGFindex</u></h4>
-<p>- Most Innovative Use of Data for Digital Transformation at the INSPIRE
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Digital Gov Efforts/sgfindex_logo.png">
+</div>
+<ul data-tight="true" class="tight">
+<li>
+<p>Most Innovative Use of Data for Digital Transformation at the INSPIRE
 Tech Awards (2021)</p>
-<h4><u>Singapore Student Learning Space (SLS)</u> </h4>
+</li>
+</ul>
+<h4><u>Singapore Student Learning Space (SLS)</u></h4>
 <div class="iframe-wrapper">
 <iframe style="max-width: 100%;" height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/F0FTP2FveSg?si=dLtAmExNhqD3FtZe"></iframe>
 </div>
@@ -158,68 +165,18 @@ Identity for a Nation (2022)</p>
 (Southeast Asia) (2021)</p>
 </li>
 </ul>
-<h4>Water Resource Management System (WRMS) by GALE:</h4>
-<p>- World Innovation, Technology and Services Alliance (WITSA) - Runner-up
+<h4><u>Water Resource Management System (WRMS) by GALE</u></h4>
+<p></p>
+<ul data-tight="true" class="tight">
+<li>
+<p>World Innovation, Technology and Services Alliance (WITSA) - Runner-up
 in Sustainable Growth/Circular Economy Waste Management (2021)</p>
-<h4>Zendesk COVID System:</h4>
+</li>
+</ul>
+<h4><u>Zendesk COVID System</u></h4>
 <p>- Public Sector Transformation (PST) Awards - Agility Award (2023)</p>
-<p>3. Interested to collaborate on a digital product or service?</p>
-<p>- CTA link to "Products &amp; Services - Collaborate with Us"</p>
+<h3>Interested to collaborate on a digital product or service?</h3>
+<p>Check out our <a href="/products-and-services/overview/" rel="noopener noreferrer nofollow" target="_blank">Products &amp; Services</a>.</p>
+<p>Get in touch here. (To add link)</p>
 <p></p>
 <p></p>
-<p></p>
-<p></p>
-<p></p>
-<h3>Our Awards</h3>
-<ul data-tight="true" class="tight">
-<li>
-<p>How GovTech tries to promote broader participation and acknowledging the
-valuable contributions of citizens and private organisations.</p>
-</li>
-</ul>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" src="/images/Placeholders/Screenshot_2023_11_10_at_9_56_05_AM.png">
-</div>
-<p><strong>The Digital Services Awards</strong>
-</p>
-<p>
-<br>An annual event dedicated to recognising exceptional digital service standards.</p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" src="/images/Placeholders/Screenshot_2023_11_10_at_9_56_05_AM.png">
-</div>
-<p><strong>IDC Future Enterprise 2023 Special Award for Sustainability</strong>
-</p>
-<p>
-<br>GovTech's efforts in advancing the adoption of greener hosting options
-through data centre consolidation, cloud migration, and workload optimisation
-was recently recognised by the IDC.</p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" src="/images/Placeholders/Screenshot_2023_11_10_at_9_56_05_AM.png">
-</div>
-<p><strong>Public Sector Transformation (PST) Awards</strong>
-</p>
-<p>
-<br>Rewarding public officers and public agencies for excellence in their
-work and organisational practices, and inspire more officers and agencies
-to pursue PST practices.</p>
-<hr>
-<h3>Our Product Awards</h3>
-<ul data-tight="true" class="tight">
-<li>
-<p>How GovTech's products and platforms has been gaining recognition within
-Singapore</p>
-</li>
-</ul>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" src="/images/Placeholders/Screenshot_2023_11_10_at_9_56_05_AM.png">
-</div>
-<p><strong>SGFinDex Wins Most Innovative Use of Data</strong>
-</p>
-<p>
-<br>GovTech's efforts in pushing for Digital Transformation at the INSPIRE
-Tech Awards</p>
-<hr>
-<h3>Interested To work With Us?</h3>
-<p>Find out ways to collaborate with us on business and government projects!</p>
-<p><a href="/international-collaboration" rel="noopener noreferrer nofollow" target="\_blank">Get in Touch</a>
-</p>
