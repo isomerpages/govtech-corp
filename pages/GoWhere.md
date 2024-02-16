@@ -59,24 +59,6 @@ what they need in the closest proximity.</div>
 </div>
 </div>
 </div>
-<ol data-tight="true" class="tight">
-<li>
-<p>Provides citizens with quick access to over 20 government initiatives
-through 1 single directory, without the need to search for multiple websites</p>
-</li>
-<li>
-<p>One single source of truth on government measures where information is
-authenticated and the latest, especially in times of emergency where misinformation
-is rampant</p>
-</li>
-<li>
-<p>Answers all location-based and eligibility queries to help citizens identify
-what they need in the closest proximity</p>
-</li>
-<li>
-<p>Multi-language content to improve accessibility</p>
-</li>
-</ol>
 <p>The suite of GoWhere directories that has coverage across these topics:</p>
 <p>- Asset: Create an infographic of all the GoWhere initiatives on this
 <a href="https://www.gowhere.gov.sg/" rel="noopener noreferrer nofollow" target="_blank">page</a>
