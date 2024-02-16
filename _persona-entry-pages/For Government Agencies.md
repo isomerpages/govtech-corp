@@ -57,14 +57,14 @@ and their success stories.</p>
 <a rel="noopener noreferrer nofollow" href="/media/media-releases/spot-robot-trial-for-safe-distancing-operations" class="isomer-card">
 <div class="isomer-card-image">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Placeholder image" src="https://placehold.co/600x400">
+<img style="width: 100%" height="auto" width="100%" alt="Placeholder image" src="/images/Products and Services/spot_robot.PNG">
 </div>
 </div>
 <div class="isomer-card-body">
 <div class="isomer-card-title">GovTech X NParks: SPOT Robot for Safe Distancing</div>
 <div class="isomer-card-link">Read More</div>
 </div>
-</a><a rel="noopener noreferrer nofollow" href="/media/technews/how-ai-and-a-camera-phone-help-keep-food-on-our-tables" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Placeholder image" src="https://placehold.co/600x400"></div></div><div class="isomer-card-body"><div class="isomer-card-title">GovTech X SFA: Rotifer Counting with AI</div><div class="isomer-card-link">Read More</div></div></a>
+</a><a rel="noopener noreferrer nofollow" href="/media/technews/how-ai-and-a-camera-phone-help-keep-food-on-our-tables" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Placeholder image" src="/images/Products and Services/rotifer_counting_application.png"></div></div><div class="isomer-card-body"><div class="isomer-card-title">GovTech X SFA: Rotifer Counting with AI</div><div class="isomer-card-link">Read More</div></div></a>
 </div>
 <p></p>
 <p>Learn more about <a href="/products-and-services/collaborate-with-us/government-collaboration/" rel="noopener noreferrer nofollow" target="_blank">agency to agency collaborations</a> with
