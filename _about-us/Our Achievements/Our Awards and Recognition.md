@@ -113,24 +113,51 @@ Innovative eHealth Solutions (2021)</p>
 in Digital Opportunity/Inclusion (2021)</p>
 </li>
 </ul>
-<h4><u>ServiceSG Centre</u></h4>
-<p>- Public Sector Transformation (PST) Awards - Service Delivery Excellence
+<h4><u>ServiceSG Centre</u></h4><a class="isomer-image-wrapper" href="https://www.psd.gov.sg/servicesg/"><img style="width: 100%" height="auto" width="100%" alt="" src="/images/About Us/Our Achievements/serviceSG__1_.jpg"></a>
+<p></p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Public Sector Transformation (PST) Awards - Service Delivery Excellence
 Award (2023)</p>
-<h4>SGFindex:</h4>
+</li>
+</ul>
+<h4><u>SGFindex</u></h4>
 <p>- Most Innovative Use of Data for Digital Transformation at the INSPIRE
 Tech Awards (2021)</p>
-<h4>Singapore Student Learning Space (SLS):</h4>
-<p>- Public Sector Transformation (PST) Awards - Service Delivery Excellence
+<h4><u>Singapore Student Learning Space (SLS)</u> </h4>
+<div class="iframe-wrapper">
+<iframe style="max-width: 100%;" height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/F0FTP2FveSg?si=dLtAmExNhqD3FtZe"></iframe>
+</div>
+<p></p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Public Sector Transformation (PST) Awards - Service Delivery Excellence
 Award (2023)</p>
-<p>- World Innovation, Technology and Services Alliance (WITSA) - Runner-Up
+</li>
+<li>
+<p>World Innovation, Technology and Services Alliance (WITSA) - Runner-Up
 in e-Education and Learning</p>
-<h4>Singpass:</h4>
-<p>- Public Sector Transformation Awards (One Public Sector Award) - Digital
+</li>
+</ul>
+<h4><u>Singpass</u></h4>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Digital Gov Efforts/singpass_logo_fullcolours_1.png">
+</div>
+<ul data-tight="true" class="tight">
+<li>
+<p>Public Sector Transformation Awards (One Public Sector Award) - Digital
 Identity for a Nation (2022)</p>
-<p>- IDC Smart City Asia Pacific Awards (SCAPA) for digital equity and accessibility
+</li>
+<li>
+<p>IDC Smart City Asia Pacific Awards (SCAPA) for digital equity and accessibility
 (2021)</p>
-<p>- Inspire Tech Awards for the most innovative use of data for digital
-transformation (Southeast Asia) (2021)</p>
+</li>
+<li>
+<p>Inspire Tech Awards for the most innovative use of data for digital transformation
+(Southeast Asia) (2021)</p>
+</li>
+</ul>
 <h4>Water Resource Management System (WRMS) by GALE:</h4>
 <p>- World Innovation, Technology and Services Alliance (WITSA) - Runner-up
 in Sustainable Growth/Circular Economy Waste Management (2021)</p>
