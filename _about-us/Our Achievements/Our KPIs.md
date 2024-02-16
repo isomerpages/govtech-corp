@@ -87,5 +87,5 @@ was done through telephone interviews.</p>
 </div>
 <p><strong>Past Years' Results for Surveys on Satisfaction with Government Digital Services for Citizens and Businesses</strong>
 </p>
-<p><a href="/digital-government-perception-survey/" rel="noopener noreferrer nofollow" target="\_blank">View Now</a> 
-<br>(Link to survey results https://www.tech.gov.sg/digital-government-perception-survey/)</p>
+<h3><a href="/digital-government-perception-survey/" rel="noopener noreferrer nofollow" target="\_blank">View Now</a> <br>(Link to survey results <a href="https://www.tech.gov.sg/digital-government-perception-survey/" rel="noopener noreferrer nofollow" target="_blank">https://www.tech.gov.sg/digital-government-perception-survey/</a>)</h3>
+<p></p>
