@@ -18,6 +18,8 @@ recognising our efforts in advancing the adoption of greener hosting options
 through data centre consolidation, cloud migration, and workload optimisation
 in our endeavour to cut government data centres' electrical consumption
 by at least 20%.</p>
+<p><a href="https://www.idc.com/getdoc.jsp?containerId=prAP51332323" rel="noopener noreferrer nofollow" target="_blank">Singapore Winners for IDC's 2023 Future Enterprise Awards</a>
+</p>
 <h4>2. Employer Awards</h4>
 <p>GovTech is proud to be a Great Place to Work-Certified™ organisation,
 a validation of our collaborative spirit and shared vision that defines
@@ -25,6 +27,8 @@ who we are as an organisation. GovTech was also named Singapore's top 10
 most attractive employers in IT by Universum in 2023, and ranked 9th as
 Singapore's leading graduate employers in IT &amp; technology by GradSingapore
 in 2023.</p>
+<p></p><a class="isomer-image-wrapper" href="https://rankings.universumglobal.com/en/most-attractive-employers-ranking-government-technology-agency-singapore-it-2023/"><img style="width: 100%" height="auto" width="100%" alt="" src="/images/About Us/Our Achievements/Universum_award.png"></a>
+<p></p>
 <h4>3. SG 100 Women in Tech</h4>
 <p>Introduced by the IMDA and the SG Computer Society, the list has recognised
 the achievements of over 300 remarkable women since its launch in 2020.
@@ -41,14 +45,12 @@ out our post below!</p>
 </blockquote>
 <script src="//www.instagram.com/embed.js" async="true"></script>
 </div>
-<p></p>
-<p></p>
-<p>Our Award-Winning Products</p>
-<p>- As we promote innovation and challenge tech possibilities, many of GovTech's
+<h3>Our Award-Winning Products</h3>
+<p>As we promote innovation and challenge tech possibilities, many of GovTech's
 digital products and services have gained recognition through a myriad
 of awards.</p>
 <p>(to include product logos accordingly for each)</p>
-<p>Asynchronous Data Exchange (ADEX):</p>
+<h4><u>Asynchronous Data Exchange (ADEX):</u></h4>
 <p>- IDC Smart City Awards (SCAPA) – Administration Category (2022)</p>
 <p>- IDC Future Enterprise Awards – Best in Future of Connectedness (2022)</p>
 <p>Digitalisation of Birth &amp; Death Registation Process:</p>
