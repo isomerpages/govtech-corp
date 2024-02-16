@@ -5,6 +5,9 @@ variant: tiptap
 description: ""
 ---
 <h3>Providing government e-services tailored to moments of life through LifeSG.</h3>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Digital Gov Efforts/lifesg_header_image.jpg">
+</div>
 <p>As we grow older, there are many different government services that we
 will need to access at different moments of life.</p>
 <p>To make life administration easy, LifeSG was created as an app that consolidates
@@ -117,6 +120,9 @@ are some newly introduced features:</p>
 <div class="isomer-card-description">(Placeholder)</div>
 </div>
 </div>
+</div>
+<div class="iframe-wrapper">
+<iframe style="max-width: 100%;" height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/optdiAV0Ukg?si=qLcixPmELIvKuqzP"></iframe>
 </div>
 <h3>Interested to find out more about LifeSG?</h3>
 <p>Download LifeSG App today (link)</p>
