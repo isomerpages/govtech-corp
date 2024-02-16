@@ -11,9 +11,9 @@ variant: tiptap
 government. GovTech will continue to transform the way we live through
 technology as part of Singapore’s Smart Nation initiative.</p>
 <h3>Our ranking in the United Nations e-Government Survey</h3>
-<p>Singapore was ranked 12th in the world in 2022 as part of the United Nations
-e-Government Survey - an assessment that measures the development of all
-193 United Nations member states.</p>
+<p>Singapore was ranked 12th in the world in 2022 as part of the <a href="https://publicadministration.un.org/egovkb/en-us/Reports/UN-E-Government-Survey-2022" rel="noopener noreferrer nofollow" target="_blank">United Nations e-Government Survey</a> —
+an assessment that measures the development of all 193 United Nations member
+states.</p>
 <p>The survey is published biennially and recognises that each country pursues
 e-Government initiatives to realise its own national development goals.</p>
 <p>Denmark and Finland were the top two leading countries in e-Government
