@@ -123,8 +123,9 @@ Parents Gateway, <a href="https://www.tech.gov.sg/media/technews/top-five-scams-
 </a>, SGFindex, etc.) &gt;</p>
 <p>From Singpass to LifeSG, GovTech's portfolio of products and services
 include those specially developed for citizens like you, aimed at improving
-the lives of Singaporeans. Explore and find the right tools for you <u>here</u> (Link
-to Products &amp; Services - For Citizens - Overview).
+the lives of Singaporeans.</p>
+<p>Explore and find the right <a href="/products-and-services/for-citizens/overview/" rel="noopener noreferrer nofollow" target="_blank">products and services</a> for
+you. (Link to Products &amp; Services - For Citizens - Overview).
 <br>
 </p>
 <p></p>
