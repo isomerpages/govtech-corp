@@ -30,17 +30,28 @@ and personal reminders. The best part? Passwordless.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Digital Gov Efforts/singpass_infographic.jpg">
 </div>
-<p></p>
-<p>1. Login without passwords through face verification kiosks at public
-service centres, QR logins, login shortcuts from Singpass app to access
-other government services</p>
-<p>2. Prove identity in-person via digital IC, share identification with
-trusted businesses</p>
-<p>3. Digitally sign documents and transactions securely</p>
-<p>4. Access personal data through MyinfoProfile across different public
-agencies, and use Autofill with MyInfo for one click form signing</p>
-<p>5. Receive timely notifications on public announcements and renewal of
-documents</p>
+<ol data-tight="true" class="tight">
+<li>
+<p><strong>Login without passwords</strong> through face verification kiosks
+at public service centres, QR logins, login shortcuts from Singpass app
+to access other government services</p>
+</li>
+<li>
+<p>Prove identity in-person via <strong>digital IC</strong>, share identification
+with trusted businesses</p>
+</li>
+<li>
+<p><strong>Digitally sign</strong> documents and transactions securely</p>
+</li>
+<li>
+<p>Access personal data through <strong>MyinfoProfile</strong> across different
+public agencies, and use Autofill with MyInfo for one click form signing</p>
+</li>
+<li>
+<p><strong>Receive timely notifications</strong> on public announcements and
+renewal of documents</p>
+</li>
+</ol>
 <h4>Benefits of using Singpass:</h4>
 <div class="isomer-card-grid">
 <div class="isomer-card">
