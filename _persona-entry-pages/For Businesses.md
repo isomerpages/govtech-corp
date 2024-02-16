@@ -28,29 +28,12 @@ registering for Corppass.</div>
 </div>
 <h3><strong>Bring your business to the next level with digital solutions</strong></h3>
 <p>With digital technology transforming every sector of Singapore’s economy,
-there is an opportunity for SMEs like yours to grow and leverage on digital
-solutions to improve operations and generate new revenue.</p>
-<p><u>Collaborating with GovTech</u> - Level up your business on digital platforms
-by collaborating with GovTech and leveraging on our tech, products and
-services to improve your user journeys.</p>
-<p>- Include first image asset from: <a href="https://www.gobusiness.gov.sg/" rel="noopener noreferrer nofollow" target="_blank"><u>https://api.singpass.gov.sg/case/dbs</u></a>
-</p>
-<p>- Example: DBS Bank adopted our Singpass API to reduce the time needed
-for customers to open a bank account, through MyInfo. Customers can now
-sign up online by digitally checking against government-verified data in
-a matter of seconds, reducing the hassle and increasing convenience for
-the users.</p>
-<p>- Click <a href="https://api.singpass.gov.sg/case/dbs" class="waffle-rich-text-link" rel="noopener noreferrer nofollow" target="_blank"><u>here</u></a> to learn more
-about how DBS collaborated with GovTech and the benefits they reaped.</p>
-<p><u>Need help going digital?</u> - If you have yet to digitalise your business
-but would like to get started, the SMEs Go Digital Programme by IMDA is
-for you. This programme helps SMEs adopt advanced digital solutions to
-go digital and use digital technologies.</p>
-<p>- Find out if your business is digital-ready with the Industry Digital
-Plan (IDP), search for digital solutions, grants and resources based on
-your needs and even get free digital consultancy and project management
-services.</p>
-<p>CTA: Learn more about the SMEs Go Digital Programme <a href="https://www.imda.gov.sg/how-we-can-help/smes-go-digital" class="waffle-rich-text-link" rel="noopener noreferrer nofollow" target="_blank"><u>here</u></a>.</p>
+there is an opportunity for SMEs and bigger organisations alike to grow
+and leverage digital solutions for better operational productivity and
+gains.</p>
+<div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="https://api.singpass.gov.sg/case/dbs" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Placeholder image" src="https://placehold.co/600x400"></div></div><div class="isomer-card-body"><div class="isomer-card-title">DBS X Singpass</div><div class="isomer-card-description">DBS Bank adopted our Singpass API to reduce the time needed for customers to open a bank account, through MyInfo. Customers can now sign up online by digitally checking against government-verified data in a matter of seconds, reducing the hassle and increasing convenience for the users.</div><div class="isomer-card-link">Read More</div></div></a>
+</div>
+<p></p>
 <h3><strong>Always be in the know with TechNews</strong></h3>
 <div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="/media/technews/getting-started-with-upskilling/" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Placeholder image" src="https://placehold.co/600x400"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Getting started with upskilling your employees</div><div class="isomer-card-link">Read More</div></div></a>
 <a rel="noopener noreferrer nofollow" href="/media/technews/corppass-means-business" class="isomer-card">
