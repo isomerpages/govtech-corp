@@ -39,6 +39,9 @@ achieve a higher quality of life for residents.</p>
 <p>In 2023, Singapore ranked 7th in the world. Zurich, Oslo, and Canberra
 were the top three cities respectively</p>
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/About Us/Our Achievements/IMD_Report_rank.png">
+</div>
 <p></p>
 <p></p>
 <p></p>
