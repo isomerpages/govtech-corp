@@ -49,7 +49,7 @@ gains.</p>
 </a><a rel="noopener noreferrer nofollow" href="/media/technews/simplifying-tax-experience-for-small-and-medium-enterprises" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Placeholder image" src="https://placehold.co/600x400"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Simplifying tax experience for Small and Medium Enterprises (SMEs)</div><div class="isomer-card-link">Read More</div></div></a>
 </div>
 <p></p>
-<p>Don't want to miss out on anything? Subscribe to our <a href="https://www.tech.gov.sg/media/technews/subscribe" rel="noopener noreferrer nofollow" target="_blank">TechNews Newsletter</a> to
+<p>Don't want to miss out on anything? Subscribe to our <a href="http://eepurl.com/cUwIsD" rel="noopener noreferrer nofollow" target="_blank">TechNews Newsletter</a> to
 stay updated.
 <br>
 </p>
