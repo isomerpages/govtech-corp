@@ -4,7 +4,157 @@ permalink: /for-citizens/
 description: ""
 variant: tiptap
 ---
-<p><em>Whether you're a tech enthusiast or hoping to be a future GovTechie, this page has been specially curated to provide you with tech tips, behind-the-scenes stories, opportunities to get involved with GovTech and more.</em>
+<p><em>Whether you're a tech enthusiast or hoping to b</em>
+</p>
+<div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="/media/technews/women-in-cybersecurity/" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Placeholder image" src="https://placehold.co/600x400"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Women in cybersecurity – GovTechies on life as cyber guardians</div><div class="isomer-card-link">Read More</div></div></a>
+<a rel="noopener noreferrer nofollow" href="/media/technews/a-day-in-the-life-of-a-data-scientist-in-tap" class="isomer-card">
+<div class="isomer-card-image">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Placeholder image" src="https://placehold.co/600x400">
+</div>
+</div>
+<div class="isomer-card-body">
+<div class="isomer-card-title">A day in the life of a data scientist in the Technology Associate Programme</div>
+<div class="isomer-card-link">Read More</div>
+</div>
+</a><a rel="noopener noreferrer nofollow" href="/media/technews/making-the-leap/" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Placeholder image" src="https://placehold.co/600x400"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Making the leap: how one GovTechie switched careers to product design</div><div class="isomer-card-link">Re</div></div></a>
+</div>
+<p><em>e</em>
+</p>
+<div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="/media/technews/women-in-cybersecurity/" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Placeholder image" src="https://placehold.co/600x400"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Women in cybersecurity – GovTechies on life as cyber guardians</div><div class="isomer-card-link">Read More</div></div></a>
+<a rel="noopener noreferrer nofollow" href="/media/technews/a-day-in-the-life-of-a-data-scientist-in-tap" class="isomer-card">
+<div class="isomer-card-image">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Placeholder image" src="https://placehold.co/600x400">
+</div>
+</div>
+<div class="isomer-card-body">
+<div class="isomer-card-title">A day in the life of a data scientist in the Technology Associate Programme</div>
+<div class="isomer-card-link">Read More</div>
+</div>
+</a><a rel="noopener noreferrer nofollow" href="/media/technews/making-the-leap/" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Placeholder image" src="https://placehold.co/600x400"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Making the leap: how one GovTechie switched careers to product design</div><div class="isomer-card-link">Re</div></div></a>
+</div>
+<p><em> </em>
+</p>
+<div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="/media/technews/women-in-cybersecurity/" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Placeholder image" src="https://placehold.co/600x400"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Women in cybersecurity – GovTechies on life as cyber guardians</div><div class="isomer-card-link">Read More</div></div></a>
+<a rel="noopener noreferrer nofollow" href="/media/technews/a-day-in-the-life-of-a-data-scientist-in-tap" class="isomer-card">
+<div class="isomer-card-image">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Placeholder image" src="https://placehold.co/600x400">
+</div>
+</div>
+<div class="isomer-card-body">
+<div class="isomer-card-title">A day in the life of a data scientist in the Technology Associate Programme</div>
+<div class="isomer-card-link">Read More</div>
+</div>
+</a><a rel="noopener noreferrer nofollow" href="/media/technews/making-the-leap/" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Placeholder image" src="https://placehold.co/600x400"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Making the leap: how one GovTechie switched careers to product design</div><div class="isomer-card-link">Re</div></div></a>
+</div>
+<p><em>a</em>
+</p>
+<div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="/media/technews/women-in-cybersecurity/" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Placeholder image" src="https://placehold.co/600x400"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Women in cybersecurity – GovTechies on life as cyber guardians</div><div class="isomer-card-link">Read More</div></div></a>
+<a rel="noopener noreferrer nofollow" href="/media/technews/a-day-in-the-life-of-a-data-scientist-in-tap" class="isomer-card">
+<div class="isomer-card-image">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Placeholder image" src="https://placehold.co/600x400">
+</div>
+</div>
+<div class="isomer-card-body">
+<div class="isomer-card-title">A day in the life of a data scientist in the Technology Associate Programme</div>
+<div class="isomer-card-link">Read More</div>
+</div>
+</a><a rel="noopener noreferrer nofollow" href="/media/technews/making-the-leap/" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Placeholder image" src="https://placehold.co/600x400"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Making the leap: how one GovTechie switched careers to product design</div><div class="isomer-card-description">This is body text for your card. Describe your card.</div><div class="isomer-card-link">Re</div></div></a>
+</div>
+<p><em> </em>
+</p>
+<div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="/media/technews/women-in-cybersecurity/" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Placeholder image" src="https://placehold.co/600x400"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Women in cybersecurity – GovTechies on life as cyber guardians</div><div class="isomer-card-link">Read More</div></div></a>
+<a rel="noopener noreferrer nofollow" href="/media/technews/a-day-in-the-life-of-a-data-scientist-in-tap" class="isomer-card">
+<div class="isomer-card-image">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Placeholder image" src="https://placehold.co/600x400">
+</div>
+</div>
+<div class="isomer-card-body">
+<div class="isomer-card-title">A day in the life of a data scientist in the Technology Associate Programme</div>
+<div class="isomer-card-link">Read More</div>
+</div>
+</a><a rel="noopener noreferrer nofollow" href="/media/technews/making-the-leap/" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Placeholder image" src="https://placehold.co/600x400"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Making the leap: how one GovTechie switched careers to product design</div><div class="isomer-card-description">This is body text for your card. Describe your card.</div><div class="isomer-card-link">Re</div></div></a>
+</div>
+<p><em>f</em>
+</p>
+<div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="/media/technews/women-in-cybersecurity/" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Placeholder image" src="https://placehold.co/600x400"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Women in cybersecurity – GovTechies on life as cyber guardians</div><div class="isomer-card-link">Read More</div></div></a>
+<a rel="noopener noreferrer nofollow" href="/media/technews/a-day-in-the-life-of-a-data-scientist-in-tap" class="isomer-card">
+<div class="isomer-card-image">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Placeholder image" src="https://placehold.co/600x400">
+</div>
+</div>
+<div class="isomer-card-body">
+<div class="isomer-card-title">A day in the life of a data scientist in the Technology Associate Programme</div>
+<div class="isomer-card-link">Read More</div>
+</div>
+</a><a rel="noopener noreferrer nofollow" href="/media/technews/making-the-leap/" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Placeholder image" src="https://placehold.co/600x400"></div></div><div class="isomer-card-body"><div class="isomer-card-title">This is a title for your card</div><div class="isomer-card-description">This is body text for your card. Describe your card.</div><div class="isomer-card-link">Re</div></div></a>
+</div>
+<p><em>u</em>
+</p>
+<div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="/media/technews/women-in-cybersecurity/" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Placeholder image" src="https://placehold.co/600x400"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Women in cybersecurity – GovTechies on life as cyber guardians</div><div class="isomer-card-link">Read More</div></div></a>
+<a rel="noopener noreferrer nofollow" href="/media/technews/a-day-in-the-life-of-a-data-scientist-in-tap" class="isomer-card">
+<div class="isomer-card-image">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Placeholder image" src="https://placehold.co/600x400">
+</div>
+</div>
+<div class="isomer-card-body">
+<div class="isomer-card-title">A day in the life of a data scientist in the Technology Associate Programme</div>
+<div class="isomer-card-link">Read More</div>
+</div>
+</a><a rel="noopener noreferrer nofollow" href="/media/technews/making-the-leap/" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Placeholder image" src="https://placehold.co/600x400"></div></div><div class="isomer-card-body"><div class="isomer-card-title">This is a title for your card</div><div class="isomer-card-description">This is body text for your card. Describe your card.</div><div class="isomer-card-link">Re</div></div></a>
+</div>
+<p><em>t</em>
+</p>
+<div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="/media/technews/women-in-cybersecurity/" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Placeholder image" src="https://placehold.co/600x400"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Women in cybersecurity – GovTechies on life as cyber guardians</div><div class="isomer-card-link">Read More</div></div></a>
+<a rel="noopener noreferrer nofollow" href="/media/technews/a-day-in-the-life-of-a-data-scientist-in-tap" class="isomer-card">
+<div class="isomer-card-image">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Placeholder image" src="https://placehold.co/600x400">
+</div>
+</div>
+<div class="isomer-card-body">
+<div class="isomer-card-title">A day in the life of a data scientist in the Technology Associate Programme</div>
+<div class="isomer-card-link">Read More</div>
+</div>
+</a><a rel="noopener noreferrer nofollow" href="/media/technews/making-the-leap/" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Placeholder image" src="https://placehold.co/600x400"></div></div><div class="isomer-card-body"><div class="isomer-card-title">This is a title for your card</div><div class="isomer-card-description">This is body text for your card. Describe your card.</div><div class="isomer-card-link">R</div></div></a>
+</div>
+<p><em>u</em>
+</p>
+<div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="/media/technews/women-in-cybersecurity/" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Placeholder image" src="https://placehold.co/600x400"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Women in cybersecurity – GovTechies on life as cyber guardians</div><div class="isomer-card-link">Read More</div></div></a>
+<a rel="noopener noreferrer nofollow" href="/media/technews/a-day-in-the-life-of-a-data-scientist-in-tap" class="isomer-card">
+<div class="isomer-card-image">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Placeholder image" src="https://placehold.co/600x400">
+</div>
+</div>
+<div class="isomer-card-body">
+<div class="isomer-card-title">A day in the life of a data scientist in the Technology Associate Programme</div>
+<div class="isomer-card-link">Read More</div>
+</div>
+</a><a rel="noopener noreferrer nofollow" href="/media/technews/making-the-leap/" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Placeholder image" src="https://placehold.co/600x400"></div></div><div class="isomer-card-body"><div class="isomer-card-title">This is a title for your card</div><div class="isomer-card-description">This is body text for your card. Describe your card.</div><div class="isomer-card-link">R</div></div></a>
+</div>
+<p><em>r</em>
+</p>
+<div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="/media/technews/women-in-cybersecurity/" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Placeholder image" src="https://placehold.co/600x400"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Women in cybersecurity – GovTechies on life as cyber guardians</div><div class="isomer-card-link">Read More</div></div></a>
+<a rel="noopener noreferrer nofollow" href="/media/technews/a-day-in-the-life-of-a-data-scientist-in-tap" class="isomer-card">
+<div class="isomer-card-image">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Placeholder image" src="https://placehold.co/600x400">
+</div>
+</div>
+<div class="isomer-card-body">
+<div class="isomer-card-title">A day in the life of a data scientist in the Technology Associate Programme</div>
+<div class="isomer-card-link">Read More</div>
+</div>
+</a><a rel="noopener noreferrer nofollow" href="/media/technews/making-the-leap/" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Placeholder image" src="https://placehold.co/600x400"></div></div><div class="isomer-card-body"><div class="isomer-card-title">This is a title for your card</div><div class="isomer-card-description">This is body text for your card. Describe your card.</div><div class="isomer-card-link">This is a link for your card</div></div></a>
+</div>
+<p><em>e GovTechie, this page has been specially curated to provide you with tech tips, behind-the-scenes stories, opportunities to get involved with GovTech and more.</em>
 </p>
 <h3><strong>Check out what's in store for you at GovTech today</strong></h3>
 <p>Our upcoming event, the STACKx Smart City conference, will be a one-day,
@@ -125,8 +275,6 @@ best results.</div>
 </div>
 <p></p>
 <h3>Want to know more about life at GovTech and how our teams develop products? Check out some of the stories below featuring our very own GovTechies!</h3>
-<p></p>
-<p></p>
 <div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="/media/technews/women-in-cybersecurity/" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Placeholder image" src="https://placehold.co/600x400"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Women in cybersecurity – GovTechies on life as cyber guardians</div><div class="isomer-card-link">Read More</div></div></a>
 <a rel="noopener noreferrer nofollow" href="/media/technews/a-day-in-the-life-of-a-data-scientist-in-tap" class="isomer-card">
 <div class="isomer-card-image">
@@ -138,18 +286,9 @@ best results.</div>
 <div class="isomer-card-title">A day in the life of a data scientist in the Technology Associate Programme</div>
 <div class="isomer-card-link">Read More</div>
 </div>
-</a><a rel="noopener noreferrer nofollow" href="https://www.isomer.gov.sg" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Placeholder image" src="https://placehold.co/600x400"></div></div><div class="isomer-card-body"><div class="isomer-card-title">This is a title for your card</div><div class="isomer-card-description">This is body text for your card. Describe your card.</div><div class="isomer-card-link">This is a link for your card</div></div></a>
+</a><a rel="noopener noreferrer nofollow" href="/media/technews/making-the-leap/" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Placeholder image" src="https://placehold.co/600x400"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Making the leap: how one GovTechie switched careers to product design</div><div class="isomer-card-link">Read More</div></div></a>
 </div>
-<p>1. <a href="https://www.tech.gov.sg/media/technews/international-womens-day-2023" class="waffle-rich-text-link" rel="noopener noreferrer nofollow" target="_blank"><u>International Woman’s day: GovTechies talk about switching to tech careers</u></a>
-</p>
-<p>2. <a href="https://www.tech.gov.sg/media/technews/a-day-in-the-life-of-a-data-scientist-in-tap" class="waffle-rich-text-link" rel="noopener noreferrer nofollow" target="_blank"><u>A day in the life of a data scientist in the Technology Associate Programme</u></a>
-</p>
-<p>3. <a href="https://www.tech.gov.sg/media/technews/tracetogether-behind-the-scenes-look-at-its-development-process" class="waffle-rich-text-link" rel="noopener noreferrer nofollow" target="_blank"><u>TraceTogether - behind the scenes look at its development process</u></a>
-</p>
-<p>4. <a href="https://www.tech.gov.sg/media/technews/women-in-cybersecurity" class="waffle-rich-text-link" rel="noopener noreferrer nofollow" target="_blank"><u>Women in cybersecurity – GovTechies on life as cyber guardians</u></a>
-</p>
-<p>5. <a href="https://www.tech.gov.sg/media/technews/making-the-leap" class="waffle-rich-text-link" rel="noopener noreferrer nofollow" target="_blank"><u>Making the leap: how one GovTechie switched careers to product design</u></a>
-</p>
+<p></p>
 <p>Interested in becoming a GovTechie? Explore <a href="/careers/opportunities-for-professionals/overview/" rel="noopener noreferrer nofollow" target="_blank">career opportunities</a> at
 GovTech.</p>
 <h3><strong>Looking for useful apps, tools and portals?</strong></h3>
@@ -162,3 +301,17 @@ include those specially developed for citizens like you, aimed at improving
 the lives of Singaporeans.</p>
 <p>Explore and find the right <a href="/products-and-services/for-citizens/overview/" rel="noopener noreferrer nofollow" target="_blank">products and services</a> for
 you.</p>
+<div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="/media/technews/women-in-cybersecurity/" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Placeholder image" src="https://placehold.co/600x400"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Women in cybersecurity – GovTechies on life as cyber guardians</div><div class="isomer-card-link">Read More</div></div></a>
+<a rel="noopener noreferrer nofollow" href="/media/technews/a-day-in-the-life-of-a-data-scientist-in-tap" class="isomer-card">
+<div class="isomer-card-image">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Placeholder image" src="https://placehold.co/600x400">
+</div>
+</div>
+<div class="isomer-card-body">
+<div class="isomer-card-title">A day in the life of a data scientist in the Technology Associate Programme</div>
+<div class="isomer-card-link">Read More</div>
+</div>
+</a><a rel="noopener noreferrer nofollow" href="/media/technews/making-the-leap/" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Placeholder image" src="https://placehold.co/600x400"></div></div><div class="isomer-card-body"><div class="isomer-card-title">This is a title for your card</div><div class="isomer-card-description">This is body text for your card. Describe your card.</div><div class="isomer-card-link">This is a link for your card</div></div></a>
+</div>
+<p></p>
