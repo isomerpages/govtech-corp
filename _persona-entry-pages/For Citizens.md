@@ -19,7 +19,6 @@ trends that will shape today’s Smart City.</p>
 <p>Interested to learn more about all-things-technology and gather useful
 tech tips? Check out these latest stories by GovTech TechNews.</p>
 <p></p>
-<p></p>
 <div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="/media/technews/top-five-scams-in-singapore-and-how-to-protect-yourself/" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Placeholder image" src="https://placehold.co/600x400"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Top 5 scams in Singapore and how to protect yourself from them</div><div class="isomer-card-link">Read More</div></div></a>
 <a rel="noopener noreferrer nofollow" href="/media/technews/generative-ai-where-can-it-go-wrong/" class="isomer-card">
 <div class="isomer-card-image">
@@ -41,16 +40,15 @@ tech tips? Check out these latest stories by GovTech TechNews.</p>
 </p>
 <p></p>
 <h3><strong>Want your voice heard? Co-create with us by joining the Tech Kaki community.</strong></h3>
-<p>&lt;Include banner image of Tech Kaki&gt;</p>
+<div class="isomer-image-wrapper">
+<img style="width: 20%;" height="auto" width="100%" alt="" src="/images/Get Involved/Tech_Kaki_Facebook_logo.jpeg">
+</div>
 <p>Be a driver of change - here is the opportunity to influence the way products
 and services are designed based on how you would like to experience them,
-driving enhacenments by providing us with your feedback. Join over 7,000
+driving enhancements by providing us with your feedback. Join over 7,000
 other members and co-create with us to develop government products and
 services that will improve the lives of Singaporeans.</p>
-<p>Learn more about Tech Kaki here (Link to Get Involved - Tech Kaki Community
-page)</p>
-<p>CTA: Join our Tech Kaki community today! Sign up <u>here</u> (Link to Tech
-Kaki Newsletter sign-up form).</p>
+<p>Learn more about <a href="/get-involved/join-our-communities/tech-kaki/" rel="noopener noreferrer nofollow" target="_blank">Tech Kaki</a>.</p>
 <h3><strong>Learn what life is like for our GovTechies behind-the-scenes</strong></h3>
 <p><u>Our Culture &amp; Values </u>- At GovTech, we provide opportunities
 that not only allow our GovTechies to take a break and enjoy themselves,
