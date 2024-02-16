@@ -7,7 +7,7 @@ description: ""
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/About Us/Our Achievements/healthcert_logo.jpg">
 </div>
-<h3>What is HealthCerts? </h3>
+<h3>What is HealthCerts?</h3>
 <p>As a COVID-19 response, HealthCerts was a globally inter-operable standard
 for Pre-Departure Test results and vaccination certificates to facilitate
 the safe resumption of travel.</p>
@@ -16,7 +16,7 @@ process within the government.</p>
 <p>The digitally authenticated and endorsed certificates are designed to
 be easily shared and provide added assurance to the traveller as well as
 authorities.</p>
-<h3>Why use HealthCerts? </h3>
+<h3>Why use HealthCerts?</h3>
 <p>As certificates (whether paper or digital form) could be susceptible to
 forgery, HealthCerts is tamper-proof, secure (i.e. prevents unauthorised
 access) and can be digitally stored/transmitted for greater convenience.</p>
