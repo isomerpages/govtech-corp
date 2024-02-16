@@ -38,32 +38,7 @@ by how technology is used to address the challenges each city faces to
 achieve a higher quality of life for residents.</p>
 <p>In 2023, Singapore ranked 7th in the world. Zurich, Oslo, and Canberra
 were the top three cities respectively</p>
-<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/About Us/Our Achievements/IMD_Report_rank.png">
 </div>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
-<p>Nations all over the world look up to Singapore for its innovative digital
-government. GovTech will continue to transform the way we live through
-technology as part of Singapore’s Smart Nation initiative.</p>
-<h3>Our ranking in the United Nations e-Government Survey</h3>
-<p>Singapore was ranked 12th in the world in 2022 as part of the <a href="https://publicadministration.un.org/egovkb/en-us/Reports/UN-E-Government-Survey-2022" rel="noopener noreferrer nofollow" target="_blank">United Nations e-Government Survey</a> —
-an assessment that measures the development of all 193 United Nations member
-states.</p>
-<p>The survey is published biennially and recognises that each country pursues
-e-Government initiatives to realise its own national development goals.</p>
-<p>Denmark and Finland were the top two leading countries in e-Government
-development.</p>
-<h3>Singapore’s Smart City ranking</h3>
-<p>Singapore came 7th in the world as part of the IMD Smart Cities Index
-in 2023.</p>
-<p>It’s published by Switzerland’s Institute for Management Development (IMD)
-and used data to rank 141 cities by how they use technology to address
-the city’s challenges and improve the quality of life for its residents.</p>
-<p>Zurich, Oslo and Canberra were the top three cities respectively.</p>
 <p></p>
