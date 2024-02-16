@@ -165,16 +165,20 @@ Identity for a Nation (2022)</p>
 (Southeast Asia) (2021)</p>
 </li>
 </ul>
-<h4><u>Water Resource Management System (WRMS) by GALE</u></h4>
+<h4><u>Water Resource Management System (WRMS) by GALE</u></h4><a class="isomer-image-wrapper" href="https://www.developer.tech.gov.sg/products/categories/digital-solutions-to-address-covid-19/government-assisted-living-ecosystem/overview.html"><img style="width: 100%" height="auto" width="100%" alt="" src="/images/About Us/Our Achievements/GALE_NewHeaderBanner.jpg"></a>
 <p></p>
 <ul data-tight="true" class="tight">
 <li>
-<p>World Innovation, Technology and Services Alliance (WITSA) - Runner-up
+<p>World Innovation, Technology and Services Alliance (WITSA) — Runner-up
 in Sustainable Growth/Circular Economy Waste Management (2021)</p>
 </li>
 </ul>
 <h4><u>Zendesk COVID System</u></h4>
-<p>- Public Sector Transformation (PST) Awards - Agility Award (2023)</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Public Sector Transformation (PST) Awards — Agility Award (2023)</p>
+</li>
+</ul>
 <h3>Interested to collaborate on a digital product or service?</h3>
 <p>Check out our <a href="/products-and-services/overview/" rel="noopener noreferrer nofollow" target="_blank">Products &amp; Services</a>.</p>
 <p>Get in touch here. (To add link)</p>
