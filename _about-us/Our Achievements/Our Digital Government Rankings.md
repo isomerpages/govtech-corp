@@ -11,21 +11,21 @@ variant: tiptap
 as the lead agency driving Singapore's Smart Nation initiative, exemplified
 by the recognition it has garnered for Singapore.</p>
 <h3>United Nations e-Government Survey (2012-2018)</h3>
-<p>- Published biennially, the United Nations e-Government Survey assesses
+<p>Published biennially, the United Nations e-Government Survey assesses
 the e-government development status of all 193 United Nations member states.</p>
-<p>- The assessment measures the e-government performance of countries relative
+<p>The assessment measures the e-government performance of countries relative
 to each other, and recognises that each country should decide upon the
 level and extent of its e-government initiatives in keeping with its own
 national development priorities.</p>
-<p>- In 2022, Singapore ranked 12th in the world. Denmark and Finland were
+<p>In 2022, Singapore ranked 12th in the world. Denmark and Finland were
 the top two leading countries in e-government development.</p>
-<h3>IMD Smart Cities Index  </h3>
-<p>- The IMD Smart Cities Index is published by Switzerland’s Institute for
+<h3>IMD Smart Cities Index</h3>
+<p>The IMD Smart Cities Index is published by Switzerland’s Institute for
 Management Development (IMD).</p>
-<p>- The 2023 edition combined hard data and survey responses to rank 141
-cities by how technology is used to address the challenges each city faces
-to achieve a higher quality of life for residents.</p>
-<p>- In 2023, Singapore ranked 7th in the world. Zurich, Oslo, and Canberra
+<p>The 2023 edition combined hard data and survey responses to rank 141 cities
+by how technology is used to address the challenges each city faces to
+achieve a higher quality of life for residents.</p>
+<p>In 2023, Singapore ranked 7th in the world. Zurich, Oslo, and Canberra
 were the top three cities respectively</p>
 <p></p>
 <p></p>
