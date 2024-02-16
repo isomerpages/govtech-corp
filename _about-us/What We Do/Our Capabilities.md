@@ -46,7 +46,7 @@ with agencies to support their data strategies and data infrastructure.</p>
 <p>Some examples of products and services developed by this centre include
 the incubation of AI tech solutions such as Vigilant Gantry, WOG ‘super’
 virtual assistant, VICA</p>
-<p>Learn more about Data Science and Artificial Intelligence.</p>
+<h4>Learn more about <a href="/our-capabilities/data-science-and-artificial-intelligence" rel="noopener noreferrer nofollow" target="_blank">Data Science and Artificial Intelligence</a>.</h4>
 <h3>4. Government ICT Infrastructure</h3>
 <p>(image)</p>
 <p>This centre develops a centralised Info-Communications Technology (ICT)
