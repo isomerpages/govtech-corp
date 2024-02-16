@@ -40,8 +40,9 @@ currently at the park, to aid with crowd control during the pandemic.</div>
 </div>
 <p></p>
 <h3>Product and User Testing</h3>
-<p>&lt;Include Tech Kaki Community image (showing product/user testing in
-action)&gt;</p>
+<div class="isomer-image-wrapper">
+<img style="width: 60%;" height="auto" width="100%" alt="" src="/images/Get Involved/techkaki_header.jpg">
+</div>
 <p>Tap on our <a href="https://form.gov.sg/60769e8fe0b9d900117857da" rel="noopener noreferrer nofollow" target="_blank">Tech Kaki Community</a> to
 conduct user testings for your products and gather valuable feedback. Set
 up in 2016, this was a citizen community meant to ensure that government
