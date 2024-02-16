@@ -10,10 +10,7 @@ variant: tiptap
 <p>Our upcoming event, the STACKx Smart City conference, will be a one-day,
 in-person event, held at Suntec Convention Centre on <strong>Wednesday, 27 March 2024</strong>.
 At STACKx Smart City, you’ll hear from experts on the latest technology
-trends that will shape today’s Smart City.</p>
-<div class="isomer-image-wrapper">
-<img style="width: 75%;" height="auto" width="100%" alt="" src="/images/media/Stackx_Smart_City_2024_EventPage_updated.jpg">
-</div>
+trends that will shape today’s Smart City.</p><a class="isomer-image-wrapper" href="https://www.developer.tech.gov.sg/communities/events/conferences/stackx-smart-city-2024/overview.html"><img style="width: 75%;" height="auto" width="100%" alt="" src="/images/media/Stackx_Smart_City_2024_EventPage_updated.jpg"></a>
 <p></p>
 <h3><strong>Always be in the know with our TechNews stories</strong></h3>
 <p>Interested to learn more about all-things-technology and gather useful
