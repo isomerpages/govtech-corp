@@ -22,7 +22,7 @@ solutions to improve operations and generate new revenue.</p>
 <p><u>Collaborating with GovTech</u> - Level up your business on digital platforms
 by collaborating with GovTech and leveraging on our tech, products and
 services to improve your user journeys.</p>
-<p>- Include first image asset from: <a href="https://www.gobusiness.gov.sg/" rel="noopener noreferrer nofollow" target="_blank"><u>https://api.singpass.gov.sg/case/dbs</u></a> 
+<p>- Include first image asset from: <a href="https://www.gobusiness.gov.sg/" rel="noopener noreferrer nofollow" target="_blank"><u>https://api.singpass.gov.sg/case/dbs</u></a>
 </p>
 <p>- Example: DBS Bank adopted our Singpass API to reduce the time needed
 for customers to open a bank account, through MyInfo. Customers can now
@@ -41,7 +41,6 @@ your needs and even get free digital consultancy and project management
 services.</p>
 <p>CTA: Learn more about the SMEs Go Digital Programme <a href="https://www.imda.gov.sg/how-we-can-help/smes-go-digital" class="waffle-rich-text-link" rel="noopener noreferrer nofollow" target="_blank"><u>here</u></a>.</p>
 <h3><strong>Always be in the know with TechNews</strong></h3>
-<p></p>
 <div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="/media/technews/getting-started-with-upskilling/" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Placeholder image" src="https://placehold.co/600x400"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Getting started with upskilling your employees</div><div class="isomer-card-link">Read More</div></div></a>
 <a rel="noopener noreferrer nofollow" href="/media/technews/corppass-means-business" class="isomer-card">
 <div class="isomer-card-image">
@@ -55,15 +54,8 @@ services.</p>
 </div>
 </a><a rel="noopener noreferrer nofollow" href="/media/technews/simplifying-tax-experience-for-small-and-medium-enterprises" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Placeholder image" src="https://placehold.co/600x400"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Simplifying tax experience for Small and Medium Enterprises (SMEs)</div><div class="isomer-card-link">Read More</div></div></a>
 </div>
-<p>- <a href="https://www.tech.gov.sg/media/technews/getting-started-with-upskilling" class="waffle-rich-text-link" rel="noopener noreferrer nofollow" target="_blank"><u>Getting started with upskilling your employees</u></a><u> </u>
-</p>
-<p>- <a href="https://www.tech.gov.sg/media/technews/businesses-to-get-one-stop-portal" class="waffle-rich-text-link" rel="noopener noreferrer nofollow" target="_blank"><u>Businesses to get a one-stop portal for more streamlined interactions with government </u></a>
-</p>
-<p>- <a href="https://www.tech.gov.sg/media/technews/corppass-means-business" class="waffle-rich-text-link" rel="noopener noreferrer nofollow" target="_blank"><u>CorpPass means business </u></a>
-</p>
-<p>- <a href="https://www.tech.gov.sg/media/technews/simplifying-tax-experience-for-small-and-medium-enterprises" class="waffle-rich-text-link" rel="noopener noreferrer nofollow" target="_blank"><u>Simplifying tax experience for Small and Medium Enterprises (SMEs) </u></a>
-</p>
-<p>CTA: Don't want to miss out on anything? Subscribe to our TechNews Newsletter <u>here</u> to
+<p></p>
+<p>Don't want to miss out on anything? Subscribe to our <a href="https://www.tech.gov.sg/media/technews/subscribe" rel="noopener noreferrer nofollow" target="_blank">TechNews Newsletter</a> to
 stay updated.
 <br>
 </p>
