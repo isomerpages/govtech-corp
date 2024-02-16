@@ -83,20 +83,42 @@ parents</p>
 </li>
 </ol>
 <h3>How to use LifeSG?</h3>
-<p>- To start using LifeSG, simply download the app from the app store and
+<p>To start using LifeSG, simply download the app from the app store and
 login with your Singpass to access LifeSG.</p>
 <h3>What's the latest on LifeSG?</h3>
-<p>Latest features</p>
+<h4>Latest features</h4>
 <p>LifeSG is always expanding to support Singaporeans in times of need. Here
 are some newly introduced features:</p>
-<p>1. MyLegacy - Plan ahead for end-of-life or find out what to do when death
-happens.</p>
-<p>2. BudgetMealGoWhere - Find coffee shops that are offering affordable
-meal options.</p>
-<p>3. SupportGoWhere - Check your eligibility for financial assistance and
-social services.</p>
-<p>5. Interested to find out more about LifeSG?</p>
-<p>- Download LifeSG App today. CTA buttons to Apple App Store, Google Play,
-Huawei AppGallery.</p>
-<p>- Stay informed on updates and any new product developments by subscribing
+<div class="isomer-card-grid">
+<div class="isomer-card">
+<div class="isomer-card-body">
+<div class="isomer-card-title">MyLegacy</div>
+<div class="isomer-card-description">Plan ahead for end-of-life or find out what to do when death happens.</div>
+</div>
+</div>
+<div class="isomer-card">
+<div class="isomer-card-body">
+<div class="isomer-card-title">BudgetMealGoWhere</div>
+<div class="isomer-card-description">Find coffee shops that are offering affordable meal options.</div>
+</div>
+</div>
+</div>
+<p></p>
+<div class="isomer-card-grid">
+<div class="isomer-card">
+<div class="isomer-card-body">
+<div class="isomer-card-title">SupportGoWhere</div>
+<div class="isomer-card-description">Check your eligibility for financial assistance and social services.</div>
+</div>
+</div>
+<div class="isomer-card">
+<div class="isomer-card-body">
+<div class="isomer-card-title">OneService@LifeSG</div>
+<div class="isomer-card-description">(Placeholder)</div>
+</div>
+</div>
+</div>
+<h3>Interested to find out more about LifeSG?</h3>
+<p>Download LifeSG App today (link)</p>
+<p>Stay informed on updates and any new product developments by subscribing
 to our TechNews Newsletter! (Subscription form link)</p>
