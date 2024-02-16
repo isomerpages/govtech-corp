@@ -76,5 +76,7 @@ Town, Personal Alert Button for seniors living alone, e-Canvas for Persons
 With Disabilities (PWDs) and more.</p>
 <h4>Learn more about <a href="/our-capabilities/smart-city-technology" rel="noopener noreferrer nofollow" target="_blank">Smart City Technology</a>.</h4>
 <h3>Interested to be a part of one of our capability centres?</h3>
-<h4>Our team is always searching for like-minded tech talents - if you have a similar purpose, check out the <a href="/careers/why-join-govtech/overview/" rel="noopener noreferrer nofollow" target="_blank">career opportunities</a> available at GovTech</h4>
+<p>Our team is always searching for like-minded tech talents - if you have
+a similar purpose, check out the <a href="/careers/why-join-govtech/overview/" rel="noopener noreferrer nofollow" target="_blank">career opportunities</a> available
+at GovTech.</p>
 <p></p>
