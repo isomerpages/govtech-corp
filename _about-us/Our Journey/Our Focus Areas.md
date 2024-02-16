@@ -88,6 +88,7 @@ do good for the community while doing something fun outside of work. The
 programme promotes the digital inclusion of underprivileged children, from
 ages 7 to 12, and seeks to spark their interest in technology while provisioning
 them with digital literacy skills.</p>
+<p>An example of this programme in action is the <a href="https://www.facebook.com/InsideGovTech/posts/pfbid02Hoz4qHVofiZaByfTU4AzbaNuXzCqQrgw3vVDxo99qPLJtxXSXbYYJfJP9GWD4sZNl" rel="noopener noreferrer nofollow" target="_blank">Digital4Good x Hatch collaboration</a>.</p>
 <table>
 <tbody>
 <tr>
