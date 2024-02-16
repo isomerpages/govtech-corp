@@ -35,12 +35,11 @@ is a repository of detailed information of the products, solutions and
 guidelines we have developed over the years to support Digital Government
 transformation.</p>
 <p></p>
+</li>
+</ul>
 <p>Singapore actively participates in platforms by giving keynote talks and
 conducting workshops. We believe such engagements will serve a much larger
 community of countries looking to learn about Singapore’s journey.</p>
-<p></p>
-</li>
-</ul>
 <h3>Explore a few of our past international collaborations below</h3>
 <p>Digital Government Exchange (DGX) - Include image of DGX event from https://drive.google.com/drive/folders/1Ds0YkkfTO2muVX6jFjQGFNU0G1zHXrOY
 - This is an annual global gathering of Government Chief Information Officers
