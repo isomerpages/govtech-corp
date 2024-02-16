@@ -78,7 +78,7 @@ at the respective portal(s). Financial information from government agencies
 <p>Synchronise the data explicitly. To protect users’ privacy, financial
 data is not updated automatically. Users may do this monthly to view their
 latest balance sheet.</p>
-<p><strong>- Asset: Create an infographic on the steps of connecting their accounts.</strong> 
+<p><strong>- Asset: Create an infographic on the steps of connecting their accounts.</strong>
 </p>
 <h3>What's the latest on SGFinDex?</h3>
 <h4>Organisations that are particpating in SGFinDex</h4>
