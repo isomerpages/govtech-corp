@@ -39,33 +39,27 @@ transformation.</p>
 conducting workshops. We believe such engagements will serve a much larger
 community of countries looking to learn about Singapore’s journey.</p>
 <p></p>
-<p>Explore a few of our past international collaborations below.</p>
 </li>
-<li>
-<p><u>Digital Government Exchange (DGX) </u>- Include image of DGX event
-from <a href="https://drive.google.com/drive/folders/1Ds0YkkfTO2muVX6jFjQGFNU0G1zHXrOY" rel="noopener noreferrer nofollow" target="_blank"><u>https://drive.google.com/drive/folders/1Ds0YkkfTO2muVX6jFjQGFNU0G1zHXrOY</u></a> -
-This is an annual global gathering of Government Chief Information Officers
+</ul>
+<h3>Explore a few of our past international collaborations below</h3>
+<p>Digital Government Exchange (DGX) - Include image of DGX event from https://drive.google.com/drive/folders/1Ds0YkkfTO2muVX6jFjQGFNU0G1zHXrOY
+- This is an annual global gathering of Government Chief Information Officers
 (CIOs) and public sector leaders from digital governments and smart cities
 from all over the world. Including countries like Australia, Canada, China,
 France, the United Kingdom, the United States and more, DGX brings together
 a community of like-minded leaders who engage in information exchange,
 sharing of experiences and mutual learning, while providing a platform
-to explore future collaboration opportunities.<strong> </strong>- Read
-more about this international collaboration <a href="https://blogs.worldbank.org/governance/dgx-bringing-govtech-community-together" class="waffle-rich-text-link" rel="noopener noreferrer nofollow" target="_blank"><u>here</u></a>.</p>
-</li>
-<li>
-<p><u>Smart City Expo World Congress 2023 in Barcelona </u>- Our GovTechies
-from the Smart City Technology Division, together with JTC Corporation
-and ST Engineering recently represented Singapore at the Smart City Expo
-World Congress (SCEWC). - SCEWC is the world’s biggest and most influential
-event on urban innovation, connecting leaders from the most innovative
-companies, governments, and organizations to move cities towards a better
-future. The GovTech team showcased Singapore’s digital ambitions with projects
+to explore future collaboration opportunities. - Read more about this international
+collaboration here.</p>
+<p>Smart City Expo World Congress 2023 in Barcelona - Our GovTechies from
+the Smart City Technology Division, together with JTC Corporation and ST
+Engineering recently represented Singapore at the Smart City Expo World
+Congress (SCEWC). - SCEWC is the world’s biggest and most influential event
+on urban innovation, connecting leaders from the most innovative companies,
+governments, and organizations to move cities towards a better future.
+The GovTech team showcased Singapore’s digital ambitions with projects
 such as Open-Robotics Middle Framework, wireless Alert Alarm System, and
-remote photoplethysmography. Learn more about this collaboration <a href="https://www.linkedin.com/feed/update/urn:li:activity:7128668518480318464/" class="waffle-rich-text-link" rel="noopener noreferrer nofollow" target="_blank"><u>here</u></a>
-</p>
-</li>
-</ul>
+remote photoplethysmography. Learn more about this collaboration here</p>
 <h3><strong>Interested to collaborate?</strong></h3>
 <p>Reach out directly to us via email at <a href="https://drive.google.com/drive/folders/1Ds0YkkfTO2muVX6jFjQGFNU0G1zHXrOY" rel="noopener noreferrer nofollow" target="_blank">info@tech.gov.sg</a> for
 collaboration opportunities.
