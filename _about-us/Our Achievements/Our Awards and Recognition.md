@@ -49,12 +49,21 @@ out our post below!</p>
 digital products and services have gained recognition through a myriad
 of awards.</p>
 <p>(to include product logos accordingly for each)</p>
-<h4><u>Asynchronous Data Exchange (ADEX):</u></h4>
+<h4><u>Asynchronous Data Exchange (ADEX):</u></h4><a class="isomer-image-wrapper" href="https://www.developer.tech.gov.sg/products/categories/sensor-platforms-and-internet-of-things/asynchronous-data-exchange/overview.html"><img style="width: 100%" height="auto" width="100%" alt="" src="/images/About Us/Our Achievements/Adex_NewHeaderBanner.jpg"></a>
+<ul data-tight="true" class="tight">
+<li>
 <p>IDC Smart City Awards (SCAPA) – Administration Category (2022)</p>
+</li>
+<li>
 <p>IDC Future Enterprise Awards – Best in Future of Connectedness (2022)</p>
-<h3>Digitalisation of Birth &amp; Death Registation Process:</h3>
-<p>- Public Sector Transformation (PST) Awards - One Public Service Award
-(2023)</p>
+</li>
+</ul>
+<h4>Digitalisation of Birth &amp; Death Registation Process:</h4>
+<ul data-tight="true" class="tight">
+<li>
+<p>Public Sector Transformation (PST) Awards - One Public Service Award (2023)</p>
+</li>
+</ul>
 <h4>Disbursement of NS Recognition Credits via GovWallet &amp; LifeSG</h4>
 <p>- Public Sector Transformation (PST) Awards - One Public Service Award
 (2023)</p>
