@@ -13,12 +13,12 @@ for a centralised place to store and retrieve verified official documents.</p>
 <p>Just like how we commonly use cloud drives such as Google Drive, and Dropbox
 for our personal use, FileSG is the one-stop portal for citizens to receive
 documents from all government agencies.</p>
-<p><strong>- Check if there are any stats of usage. </strong>
+<p><strong>- Check if there are any stats of usage.</strong>
 </p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Products and Services/_Compressed__filesg_overview_how_it_works.gif">
 </div>
-<h3>Why use FileSG? </h3>
+<h3>Why use FileSG?</h3>
 <p>For Citizens, it negates the need to visit different websites or portals
 to get one-view access to all their official documents.</p>
 <p>It's convenient as Singpass will allow easy access to the storage portal,
