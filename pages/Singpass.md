@@ -112,28 +112,42 @@ on the app.</p>
 <h4>Public Service Advisory on Scams</h4>
 <p>Working with the Singapore Police Force, we can prevent the rise of scams
 by educating ourselves on the latest phishing tactics. Some of them include:</p>
-<p>- Unsolicited SMSes with Senders claiming to be Singpass, asking the recipient
+<ul data-tight="true" class="tight">
+<li>
+<p>Unsolicited SMSes with Senders claiming to be Singpass, asking the recipient
 to login to their Singpass account via a spoofed Singpass login website.</p>
-<p>- Stay vigilant by following these steps:</p>
-<p>1. Check if the Sender for spelling errors that indicates is a spoof account.</p>
-<p>2. Do not click on links as Singpass does not send SMSes with web links
-asking for your login action.</p>
-<p>3. Call the 24 Hour scam hotline at 63353533 to verify is the message
-is authentic.</p>
-<p>4. Reset your Singpass password if you suspect your account has been compromised.</p>
+</li>
+</ul>
+<h4>Stay vigilant by following these steps:</h4>
+<ol data-tight="true" class="tight">
+<li>
+<p>Check if the Sender for spelling errors that indicates is a spoof account.</p>
+</li>
+<li>
+<p>Do not click on links as Singpass does not send SMSes with web links asking
+for your login action.</p>
+</li>
+<li>
+<p>Call the 24 Hour scam hotline at 63353533 to verify is the message is
+authentic.</p>
+</li>
+<li>
+<p>Reset your Singpass password if you suspect your account has been compromised.</p>
+</li>
+</ol>
 <p>For more information, refer to the latest Singapore Police Force's advisory
-on Singpass related phishing scams here.</p>
-<p>Updates to the Singpass infrastructure</p>
+on Singpass related phishing scams <a href="https://www.police.gov.sg/media-room/news/20221002_advisory_on_phishing_scams_involving_singpass" rel="noopener noreferrer nofollow" target="_blank">here</a>.</p>
+<h4>Updates to the Singpass infrastructure</h4>
 <p>The Singpass infrastructure is constantly evolving with ongoing work on
 new APIs and features to make Singpass accessible to all. If you are a
 developer, engineer, or a technical enthusiasts simply interested in the
-growth of Singpass, please refer to documentations on our digital identity
-on the Singapore's Government Developer Portal.</p>
-<p>5. Interested to find out more about Singpass?</p>
-<p>- Ready to get onboard Singpass? Visit Singpass to start registration.</p>
-<p>- Download the Singpass app to start using its services.</p>
-<p>- Insert CTA buttons to Apple App Store, Google Play, Huawei AppGallery.</p>
-<p>- Stay informed on updates and any new product developments by subscribing
+growth of Singpass, please refer to <a href="https://www.developer.tech.gov.sg/products/categories/digital-identity/" rel="noopener noreferrer nofollow" target="_blank">documentations</a> on
+our digital identity on the Singapore's Government Developer Portal.</p>
+<h3>5. Interested to find out more about Singpass?</h3>
+<p>Ready to get onboard Singpass? Visit Singpass to start registration.</p>
+<p>Download the Singpass app to start using its services.</p>
+<p></p>
+<p>Stay informed on updates and any new product developments by subscribing
 to our TechNews Newsletter! (Subscription form link)</p>
-<p>- Sign up as a Tech Kaki to join our feedback community if you're keen
-to share feedback to improve any of our products. (Tech kaki sign up form).</p>
+<p>Sign up as a Tech Kaki to join our feedback community if you're keen to
+share feedback to improve any of our products. (Tech kaki sign up form).</p>
