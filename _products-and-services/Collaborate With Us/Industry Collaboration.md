@@ -5,8 +5,7 @@ description: ""
 third_nav_title: Collaborate With Us
 variant: tiptap
 ---
-<p><strong>1. Co-create with us as we build our Smart Nation. </strong>
-</p>
+<h3><strong>Co-create with us as we build our Smart Nation</strong></h3>
 <p>In the next bound of Digital Government for Singapore, GovTech is committed
 to co-developing solutions and exploring innovative ways to deliver digital
 services for citizens, businesses, and government agencies. Our approach
@@ -15,8 +14,7 @@ initiatives in supporting the Government’s efforts in driving our Smart
 Nation ambition, whether it is to facilitate end-to-end technology partnership
 throughout the Government’s digital transformation journey or encourage
 ideas- or knowledge-sharing through events like conferences and talks.</p>
-<p><strong>2. Vendor Partnerships and Collaborations</strong>
-</p>
+<h3><strong>Vendor Partnerships and Collaborations</strong></h3>
 <p><u>Why partner with us as vendors?</u>
 </p>
 <ul data-tight="true" class="tight">
@@ -36,16 +34,16 @@ environment</p>
 <p>Proliferate outcomes to other business domains and international markets
 for greater economic benefits</p>
 <p></p>
-<p></p>
 </li>
 </ul>
 <p>Such partnerships further extend GovTech’s efforts in maximizing the value
 created by digital innovation towards building a Digital Economy, promotes
 a vibrant ICT ecosystem involving public-private stakeholders, and strengthens
 Singapore’s position as a hub for digital innovation.</p>
+<p></p>
 <p>For the current FY, GovTech has 3 focus areas as ICT opportunities - Application
 Development, Sustainability and Smart Cities.</p>
-<ul data-tight="true" class="tight">
+<ol data-tight="true" class="tight">
 <li>
 <p>For Application Development: Going cloud-first by expanding on the systems
 on GCC, building on the SG Tech Stack through toolchain, runtime, monitoring
@@ -62,9 +60,9 @@ software engineering &amp; data</p>
 and higher productivity through the implementation of services like Open
 Digital Platform and GALE.</p>
 </li>
-</ul>
-<p>Find out more about the partnership opportunities for FY23 <a href="https://www.tech.gov.sg/files/media/corporate-publications/IB2023-Towards-the-Next-Bound-of-Digital-Government-GovTech-CE.pdf" class="waffle-rich-text-link" rel="noopener noreferrer nofollow" target="_blank"><u>here</u></a>.
-For a full list of current available opportunities and open tenders, visit
+</ol>
+<p>Find out more about the partnership opportunities for FY23 <a href="https://www.tech.gov.sg/files/media/corporate-publications/IB2023-Towards-the-Next-Bound-of-Digital-Government-GovTech-CE.pdf" class="waffle-rich-text-link" rel="noopener noreferrer nofollow" target="_blank"><u>here</u></a>.</p>
+<p>For a full list of current available opportunities and open tenders, visit
 <a href="https://www.gebiz.gov.sg/" class="waffle-rich-text-link" rel="noopener noreferrer nofollow" target="_blank"><u>GeBIZ</u> 
 </a>.</p>
 <p>Have an enquiry or a proactive proposal that will drive our Smart Nation
