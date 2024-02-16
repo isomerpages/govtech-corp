@@ -87,7 +87,7 @@ of awards.</p>
 <p>Public Sector Transformation (PST) Awards - Dare to Do Award (2023)</p>
 </li>
 </ul>
-<h4>HealthCerts:</h4>
+<h4><u>HealthCerts</u></h4>
 <p>- World Innovation, Technology and Services Alliance (WITSA) - Merit in
 Innovative eHealth Solutions (2021)</p>
 <h4>myENV app (in collaboration with NEA:</h4>
