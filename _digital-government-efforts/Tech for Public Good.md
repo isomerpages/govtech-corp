@@ -164,7 +164,7 @@ drive the response operations for the pandemic, enabling the government
 to efficiently facilitate activities like contact tracing and safe distancing,
 while maintaining convenience and support for the public.</p>
 <h4>Some of the key products developed during COVID-19 include:</h4>
-<h4><a href="https://www.developer.tech.gov.sg/products/categories/digital-solutions-to-address-covid-19/tracetogether/overview.html" rel="noopener noreferrer nofollow" target="_blank">TraceTogether</a>: </h4>
+<h4><a href="https://www.developer.tech.gov.sg/products/categories/digital-solutions-to-address-covid-19/tracetogether/overview.html" rel="noopener noreferrer nofollow" target="_blank">TraceTogether</a>:</h4>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Digital Gov Efforts/TraceTogether_Infographic.jpg">
 </div>
@@ -174,7 +174,7 @@ with SafeEntry, to facilitate tracking and check-ins at public spaces.
 Since its launch, over 60 countries have indicated an interest in its technology,
 with Australia, Canada, and Poland adapting the open-source version of
 TraceTogether.</p>
-<h4><a href="https://www.developer.tech.gov.sg/products/categories/digital-solutions-to-address-covid-19/gowhere-suite/overview.html" rel="noopener noreferrer nofollow" target="_blank">GoWhere Suite</a>: </h4>
+<h4><a href="https://www.developer.tech.gov.sg/products/categories/digital-solutions-to-address-covid-19/gowhere-suite/overview.html" rel="noopener noreferrer nofollow" target="_blank">GoWhere Suite</a>:</h4>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Digital Gov Efforts/GOWhereSuite_NewHeaderBanner.jpg">
 </div>
@@ -185,7 +185,7 @@ have helped facilitate nation-wide distribution exercises. Even though
 this product was created in response to the pandemic, it has since then
 been built upon as a continued valuable resource for citizens, with new
 directories like BudgetGoWhere being added.</p>
-<h4><a href="https://www.developer.tech.gov.sg/products/categories/analytics/vas/overview.html" rel="noopener noreferrer nofollow" target="_blank">Video Analytics System (VAS)</a>: </h4>
+<h4><a href="https://www.developer.tech.gov.sg/products/categories/analytics/vas/overview.html" rel="noopener noreferrer nofollow" target="_blank">Video Analytics System (VAS)</a>:</h4>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Digital Gov Efforts/VAS_NewHeaderBanner.jpg">
 </div>
