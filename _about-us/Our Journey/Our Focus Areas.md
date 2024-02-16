@@ -136,103 +136,34 @@ with Disabilities (PwDs).</p>
 all abilities. Our GovTechies came together to paint the town purple, as
 we invited our friends at The Purple Parade to our office to share more
 about the movement and help to raise funds for the cause.</p>
-<p>- Image/Quote component - content from <a href="https://www.facebook.com/InsideGovTech/posts/pfbid0DtHM9wmsT6C2rffiLAMZZjX9jZuPrfag4ML2qhYGxiYQCtu5r3iiFYwdoqimga4nl" rel="noopener noreferrer nofollow" target="_blank">https://www.facebook.com/InsideGovTech/posts/pfbid0DtHM9wmsT6C2rffiLAMZZjX9jZuPrfag4ML2qhYGxiYQCtu5r3iiFYwdoqimga4nl</a>
-</p>
+<div class="iframe-wrapper">
+<iframe style="border:none;overflow:hidden" height="793" width="500" allowfullscreen="true" frameborder="0" src="https://www.facebook.com/plugins/post.php?href=https%3A%2F%2Fwww.facebook.com%2FInsideGovTech%2Fposts%2Fpfbid0Dw2wUmdGe4GJgcPDY3wrUvhZB86bDenTajZbujYsNg8uxo3JFHQhSvQwt36rAjWol&amp;show_text=true&amp;width=500"></iframe>
+</div>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Digital Gov Efforts/Quote__Purple_Parade_.jpg">
+</div>
 <h4><u>Women in (Gov)Tech</u></h4>
-<p>Employee Resource Group (ERG) - this was established to develop ground-up
+<p>Employee Resource Group (ERG) — this was established to develop ground-up
 programmes and initiatives to support the attraction, development, and
 retention of female talent within and outside of GovTech. This is in alignment
 with GovTech’s commitment to the SG Women in Tech Corporate Pledge.</p>
 <p>A manifestation of this ERG is our Girls in Tech Summer Mentorship Programme
-- a 3-month mentorship programme where participants are given a personal
+— a 3-month mentorship programme where participants are given a personal
 project to deepen their technical skills, whilst gaining valuable guidance
 and insights from experienced tech professionals. Mentees also learn about
 how GovTech builds solutions to address citizen and business needs and
 have the opportunity to build professional networks and relationships.</p>
-<p>- Include images from <a href="https://www.facebook.com/InsideGovTech/posts/pfbid02S9g9qfaXadx9qim1P4jLgTuKfN97zUeFCjWtMzvwtJ2KZmnLfLzoWnSzMF2CP7K9l" rel="noopener noreferrer nofollow" target="_blank">https://www.facebook.com/InsideGovTech/posts/pfbid02S9g9qfaXadx9qim1P4jLgTuKfN97zUeFCjWtMzvwtJ2KZmnLfLzoWnSzMF2CP7K9l</a>
-</p>
-<p>CTA: To learn more about these efforts, visit our page on Diversity and
-Inclusion (Link to "About us - Our Digital Government Efforts - Diversity
-and Inclusion" page)</p>
-<p>4. Contributing to Society through our CSR Efforts</p>
-<p>- At GovTech, we recognise our responsibility to the society in Singapore
+<div class="iframe-wrapper">
+<iframe style="border:none;overflow:hidden" height="787" width="500" allowfullscreen="true" frameborder="0" src="https://www.facebook.com/plugins/post.php?href=https%3A%2F%2Fwww.facebook.com%2FInsideGovTech%2Fposts%2Fpfbid0NenZFKoZvBqT2nL9aaD13E3PzbB6Zk6yPigr6zww4dZJHYQ2DrjaPL7nsMzsNKTyl&amp;show_text=true&amp;width=500"></iframe>
+</div>
+<p>To learn more about these efforts, visit our page on <a href="/our-digital-government-efforts/diversity-and-inclusion/" rel="noopener noreferrer nofollow" target="_blank">Diversity and Inclusion</a>.</p>
+<h3>Contributing to Society through our CSR Efforts</h3>
+<p>At GovTech, we recognise our responsibility to the society in Singapore
 and the importance of doing a part. Through a variety of events, GovTechies
 get opportunities to do just this. One example is the annual Hair for Hope,
 for which we recently broke our record in 2023 with a total of $171,307.70
-raised - the second-highest amount by a Hair for Hope Satellite Partner
+raised — the second-highest amount by a Hair for Hope Satellite Partner
 in 2023.</p>
-<p>- CTA: Click here to see how our GovTechies showed their support and solidarity
-through Hair for Hope 2023. (Link to <a href="https://www.linkedin.com/feed/update/urn:li:activity:7105478505164898305" rel="noopener noreferrer nofollow" target="_blank">https://www.linkedin.com/feed/update/urn:li:activity:7105478505164898305</a>)</p>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
-<h3>Digital Government Blueprint</h3>
-<p>Digitalisation is a key pillar of the Government’s public service transformation
-efforts. The Digital Government Blueprint (DGB) is a statement of the Government’s
-ambition to better leverage data and harness new technologies, and to drive
-broader efforts to build a digital economy and digital society, in support
-of Smart Nation.</p>
-<p>Two years after the launch of the DGB, the Government has introduced new
-policies and initiatives. COVID-19 has also reaffirmed our emphasis on
-capability building, and compelled different parts of the Government to
-accelerate the use of data and of technology to offer digital services
-that minimise physical contact, and to use technology and digital tools
-to keep us safe. This has been updated to accurately reflect the current
-plans and to push for more ambitious goals.</p>
-<p>Based on the DGB, GovTech plans to achieve the following goals by 2023:</p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Digital%20Gov%20Efforts/Fig-4-Singapore-digital-government-goals.png">
-</div>
-<h5>Read more about our Digital Government Blueprint here</h5>
-<p><a href="https://go.gov.sg/govtechcareers" rel="noopener noreferrer nofollow" target="\_blank">Read more</a>
-</p>
-<p>
-<br>
-</p>
-<hr>
-<h3>Sustainability Efforts in Singapore's Green Plan</h3>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Placeholders/Screenshot_2023_11_10_at_9_56_05_AM.png">
-</div>
-<ul data-tight="true" class="tight">
-<li>
-<p>Singapore Green Plan's goal by 2045</p>
-</li>
-<li>
-<p>How GovTech aims to achieve goal - 6 Key Pillars to enable change</p>
-</li>
-<li>
-<p>Success measurements and ways to optimisation</p>
-</li>
-</ul>
-<h5>Read more about our Green Plan here</h5>
-<p><a href="https://go.gov.sg/govtechcareers" rel="noopener noreferrer nofollow" target="\_blank">Read more</a>
-</p>
-<p>
-<br>
-</p>
-<hr>
-<h3>Tech For Public Good</h3>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Placeholders/Screenshot_2023_11_10_at_9_56_05_AM.png">
-</div>
-<ul data-tight="true" class="tight">
-<li>
-<p>Hair for Hope</p>
-</li>
-<li>
-<p>Digital4Good</p>
-</li>
-</ul>
-<h5>Read more about our CSR efforts here</h5>
-<p><a href="https://go.gov.sg/govtechcareers" rel="noopener noreferrer nofollow" target="\_blank">Read more</a>
-</p>
+<p>Click <a href="https://www.linkedin.com/posts/govtech-singapore_swipe-to-learn-more-about-our-achievements-activity-7105478505164898305-MKgz?utm_source=share&amp;utm_medium=member_desktop" rel="noopener noreferrer nofollow" target="_blank">here</a> to
+see how our GovTechies showed their support and solidarity through Hair
+for Hope 2023.</p>
