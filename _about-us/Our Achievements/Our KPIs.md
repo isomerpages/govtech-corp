@@ -23,9 +23,11 @@ period of 2022.</p>
 <p><strong>Methodology:</strong> About 1500 respondents were surveyed, comprising
 representatives of the total demographic population. Data collection was
 done via face-to-face interviews.</p>
-<p></p>
-<p>Survey results: Use 1st infographic from <a href="https://www.tech.gov.sg/who-we-are/our-statistics/" rel="noopener noreferrer nofollow" target="_blank">https://www.tech.gov.sg/who-we-are/our-statistics/</a>
+<p><strong>Survey Results:</strong>
 </p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/About Us/Our Achievements/_Compressed__Digital_Government_Perception_2022_Citizens.jpg">
+</div>
 <h4><u>Business Survey 2022</u></h4>
 <p>- Annual Survey on Satisfaction with Government Digital Services (Business)
 - For 2021</p>
