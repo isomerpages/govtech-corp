@@ -45,34 +45,34 @@ card.</p>
 </ul>
 <p>Looking to implement more of such tools within your agency? Explore all
 <a href="/products-and-services/for-government-agencies/overview/" rel="noopener noreferrer nofollow" target="_blank">Products for Government Agencies</a>.</p>
-<p><strong>3. Explore collaboration opportunities with GovTech</strong>
-</p>
-<p>- From MOE to NEA and MOH, GovTech has collaborated with a myriad of government
+<h3><strong>Explore collaboration opportunities with GovTech</strong></h3>
+<p>From MOE to NEA and MOH, GovTech has collaborated with a myriad of government
 agencies to develop products and services - whether it is to include a
 Singpass API, develop a new app or come up with a crafty tech solution
 for a niche problem.</p>
-<p>- Check out the articles below to learn more about these collaborations
-and their success stories!</p>
-<p>- Parents Gateway App - Collaboration with MOE: <a href="https://www.tech.gov.sg/media/technews/behind-the-scenes-look-at-the-parents-gateway-app" class="waffle-rich-text-link" rel="noopener noreferrer nofollow" target="_blank"><u>A behind-the-scenes look at the Parents Gateway app</u></a> (Include
-logo/image from <a href="http://data.gov.sg/" rel="noopener noreferrer nofollow" target="_blank"><u>https://pg.moe.edu.sg/#about</u></a> 
-<a href="https://pg.moe.edu.sg/#about)" class="waffle-rich-text-link" rel="noopener noreferrer nofollow" target="_blank"><u>)</u>
-</a>
-</p>
-<p>- SPOT Robot for Safe Distancing - Collaboration with NParks: <a href="https://www.tech.gov.sg/media/media-releases/spot-robot-trial-for-safe-distancing-operations" class="waffle-rich-text-link" rel="noopener noreferrer nofollow" target="_blank"><u>NParks and SNDGG trial SPOT robot for safe distancing operations at Bishan-Ang Mo Kio Park</u></a> (include
-image/video from <a href="http://data.gov.sg/" rel="noopener noreferrer nofollow" target="_blank"><u>https://www.straitstimes.com/singapore/robot-reminds-visitors-about-safe-distancing-measures-in-bishan-ang-mo-kio-park</u></a> 
-<a href="https://www.straitstimes.com/singapore/robot-reminds-visitors-about-safe-distancing-measures-in-bishan-ang-mo-kio-park)" class="waffle-rich-text-link" rel="noopener noreferrer nofollow" target="_blank"><u>)</u>
-</a>
-</p>
-<p>- Rotifer-Counting with AI - Collaboration with SFA: <a href="https://www.tech.gov.sg/media/technews/how-ai-and-a-camera-phone-help-keep-food-on-our-tables" class="waffle-rich-text-link" rel="noopener noreferrer nofollow" target="_blank"><u>How AI and a camera phone help keep food on our tables</u></a> (include
-images from <a href="http://data.gov.sg/" rel="noopener noreferrer nofollow" target="_blank"><u>https://www.tech.gov.sg/media/technews/how-ai-and-a-camera-phone-help-keep-food-on-our-tables</u></a> 
-<a href="https://www.tech.gov.sg/media/technews/how-ai-and-a-camera-phone-help-keep-food-on-our-tables)" class="waffle-rich-text-link" rel="noopener noreferrer nofollow" target="_blank"><u>)</u>
-</a>
-</p>
-<p>Click <u>here</u> to learn more about industry collaborations with GovTech.
-(Link to Industry Collaboration page under Products &amp; Services)</p>
-<p>CTA: Interested to collaborate with GovTech on a project? You can to reach
-out to the respective product teams within GovTech or drop an email to
-<a href="http://data.gov.sg/" rel="noopener noreferrer nofollow" target="_blank">info@tech.gov.sg</a>.
+<p>Check out the articles below to learn more about these collaborations
+and their success stories.</p>
+<p></p>
+<div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="/media/technews/behind-the-scenes-look-at-the-parents-gateway-app" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Placeholder image" src="https://placehold.co/600x400"></div></div><div class="isomer-card-body"><div class="isomer-card-title">GovTech X MOE: Parents Gateway</div><div class="isomer-card-link">Read More</div></div></a>
+<a rel="noopener noreferrer nofollow" href="/media/media-releases/spot-robot-trial-for-safe-distancing-operations" class="isomer-card">
+<div class="isomer-card-image">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Placeholder image" src="https://placehold.co/600x400">
+</div>
+</div>
+<div class="isomer-card-body">
+<div class="isomer-card-title">GovTech X NParks: SPOT Robot for Safe Distancing</div>
+<div class="isomer-card-description">This is body text for your card. Describe your card.</div>
+<div class="isomer-card-link">Read More</div>
+</div>
+</a><a rel="noopener noreferrer nofollow" href="/media/technews/how-ai-and-a-camera-phone-help-keep-food-on-our-tables" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Placeholder image" src="https://placehold.co/600x400"></div></div><div class="isomer-card-body"><div class="isomer-card-title">GovTech X SFA: Rotifer Counting with AI</div><div class="isomer-card-link">Read More</div></div></a>
+</div>
+<p></p>
+<p>Learn more about <a href="/products-and-services/collaborate-with-us/government-collaboration/" rel="noopener noreferrer nofollow" target="_blank">agency to agency collaborations</a> with
+GovTech.</p>
+<h3>Interested to collaborate with GovTech on a project? </h3>
+<p>Reach out to the respective product teams within GovTech or drop an email
+to <a href="http://data.gov.sg/" rel="noopener noreferrer nofollow" target="_blank">info@tech.gov.sg</a>.
 <br>
 </p>
 <p></p>
