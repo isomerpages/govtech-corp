@@ -52,7 +52,9 @@ but add in the 6 key enablers - Green Workplace, Education &amp; Outreach,
 Green Supply Chain, Architecture Standards &amp; Best-Practices, Innovation
 &amp; Ops-Tech, Ecosystem Partnerships. Details on enablers can be found
 from "Sustainability Framework &amp; Strategy" PDF on <a href="https://drive.google.com/drive/u/0/folders/12rWsvcvwujs7gw_vEHk3ScxSsHFri1NK" rel="noopener noreferrer nofollow" target="_blank">https://drive.google.com/drive/u/0/folders/12rWsvcvwujs7gw_vEHk3ScxSsHFri1NK</a>)</p>
-<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Digital Gov Efforts/Solar_panels.jpeg">
+</div>
 <p>GovTech has also taken active steps to educate on sustainability themes,
 such as through GovTech Green Week in 2023. At the 5-day event, GovTechies
 had the opportunity to learn more about sustainability in support of the
@@ -75,7 +77,7 @@ inclusion of VoiceOver and Voice Control features for the visually and/or
 physically handicapped on the SafeEntry app.</p>
 <p>With that, GovTech is also committed to developing tech that empowers
 vulnerable communities.</p>
-<h4><u>Digital4Good</u> </h4>
+<h4><u>Digital4Good</u></h4>
 <p>This programme was established to empower underprivileged children/youths
 and seniors by increasing their digital literacy. This is achieved by inculcating
 skillsets such as programming, problem solving and critical thinking for
@@ -85,7 +87,7 @@ do good for the community while doing something fun outside of work. The
 programme promotes the digital inclusion of underprivileged children, from
 ages 7 to 12, and seeks to spark their interest in technology while provisioning
 them with digital literacy skills.</p>
-<p>- Image/Quote component - content from <a href="https://www.facebook.com/InsideGovTech/posts/pfbid02Hoz4qHVofiZaByfTU4AzbaNuXzCqQrgw3vVDxo99qPLJtxXSXbYYJfJP9GWD4sZNl" rel="noopener noreferrer nofollow" target="_blank">https://www.facebook.com/InsideGovTech/posts/pfbid02Hoz4qHVofiZaByfTU4AzbaNuXzCqQrgw3vVDxo99qPLJtxXSXbYYJfJP9GWD4sZNl</a> 
+<p>- Image/Quote component - content from <a href="https://www.facebook.com/InsideGovTech/posts/pfbid02Hoz4qHVofiZaByfTU4AzbaNuXzCqQrgw3vVDxo99qPLJtxXSXbYYJfJP9GWD4sZNl" rel="noopener noreferrer nofollow" target="_blank">https://www.facebook.com/InsideGovTech/posts/pfbid02Hoz4qHVofiZaByfTU4AzbaNuXzCqQrgw3vVDxo99qPLJtxXSXbYYJfJP9GWD4sZNl</a>
 </p>
 <h4><u>A11y Team (Accessibility Enabling Team)</u></h4>
 <p>This accessibility-focused team was formed to understand and design inclusive
@@ -110,9 +112,9 @@ with Disabilities (PwDs).</p>
 all abilities. Our GovTechies came together to paint the town purple, as
 we invited our friends at The Purple Parade to our office to share more
 about the movement and help to raise funds for the cause.</p>
-<p>- Image/Quote component - content from <a href="https://www.facebook.com/InsideGovTech/posts/pfbid0DtHM9wmsT6C2rffiLAMZZjX9jZuPrfag4ML2qhYGxiYQCtu5r3iiFYwdoqimga4nl" rel="noopener noreferrer nofollow" target="_blank">https://www.facebook.com/InsideGovTech/posts/pfbid0DtHM9wmsT6C2rffiLAMZZjX9jZuPrfag4ML2qhYGxiYQCtu5r3iiFYwdoqimga4nl</a> 
+<p>- Image/Quote component - content from <a href="https://www.facebook.com/InsideGovTech/posts/pfbid0DtHM9wmsT6C2rffiLAMZZjX9jZuPrfag4ML2qhYGxiYQCtu5r3iiFYwdoqimga4nl" rel="noopener noreferrer nofollow" target="_blank">https://www.facebook.com/InsideGovTech/posts/pfbid0DtHM9wmsT6C2rffiLAMZZjX9jZuPrfag4ML2qhYGxiYQCtu5r3iiFYwdoqimga4nl</a>
 </p>
-<h4><u>Women in (Gov)Tech </u></h4>
+<h4><u>Women in (Gov)Tech</u></h4>
 <p>Employee Resource Group (ERG) - this was established to develop ground-up
 programmes and initiatives to support the attraction, development, and
 retention of female talent within and outside of GovTech. This is in alignment
@@ -123,7 +125,7 @@ project to deepen their technical skills, whilst gaining valuable guidance
 and insights from experienced tech professionals. Mentees also learn about
 how GovTech builds solutions to address citizen and business needs and
 have the opportunity to build professional networks and relationships.</p>
-<p>- Include images from <a href="https://www.facebook.com/InsideGovTech/posts/pfbid02S9g9qfaXadx9qim1P4jLgTuKfN97zUeFCjWtMzvwtJ2KZmnLfLzoWnSzMF2CP7K9l" rel="noopener noreferrer nofollow" target="_blank">https://www.facebook.com/InsideGovTech/posts/pfbid02S9g9qfaXadx9qim1P4jLgTuKfN97zUeFCjWtMzvwtJ2KZmnLfLzoWnSzMF2CP7K9l</a> 
+<p>- Include images from <a href="https://www.facebook.com/InsideGovTech/posts/pfbid02S9g9qfaXadx9qim1P4jLgTuKfN97zUeFCjWtMzvwtJ2KZmnLfLzoWnSzMF2CP7K9l" rel="noopener noreferrer nofollow" target="_blank">https://www.facebook.com/InsideGovTech/posts/pfbid02S9g9qfaXadx9qim1P4jLgTuKfN97zUeFCjWtMzvwtJ2KZmnLfLzoWnSzMF2CP7K9l</a>
 </p>
 <p>CTA: To learn more about these efforts, visit our page on Diversity and
 Inclusion (Link to "About us - Our Digital Government Efforts - Diversity
