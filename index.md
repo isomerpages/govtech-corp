@@ -30,41 +30,42 @@ sections:
           url: /for-government-agencies
       variant: center
   - infopic:
-      title: Our Role
-      subtitle: Empowering Growth through Tech
+      title: Tech for Public Good
+      subtitle: OUR DIGITAL GOVERNMENT EFFORTS
+      id: infopic
+      description: To build a Smart Nation, GovTech leverages innovative technology to
+        shape the way citizens use and interact with government digital services
+      button: FIND OUT MORE
+      alt: Tech for Public Good
+      url: /our-digital-government-efforts/tech-for-public-good
+      image: /images/tracetogethertest1.jpg
+  - infopic:
+      title: Engineering Digital Government
+      subtitle: OUR DIGITAL GOVERNMENT EFFORTS
       description: Find out how GovTech takes the lead in harnessing technology to
-        drive innovation and transform our nation
+        drive public sector digital transformation
       button: Find out more
-      url: /about-us/what-we-do/our-role/
+      url: /our-digital-government-efforts/engineering-digital-government/
       image: /images/digital_government_aug21.jpeg
       alt: Our Role
   - infopic:
+      title: Why Join GovTech
+      subtitle: CAREER OPPORTUNITIES
+      description: Be an agent of change at GovTech while gaining access to learning
+        and leadership opportunities
+      button: Find out more
+      url: /careers/why-join-govtech/overview/
+      image: /images/careers/Why_join_GovTech___Overview.jpg
+      alt: Our Achievements
+  - infopic:
       title: Products and Services
-      subtitle: We transform the Government
-      description: View our portfolio of work for citizens, businesses, and government
-        agencies
+      subtitle: OUR PORTFOLIO OF WORK
+      description: View our portfolio of apps, websites, and digital tools available
+        for citizens, businesses, and government agencies
       button: Explore Now
       url: /products-and-services/overview/
       image: /images/singpass_homepage_2560.jpg
       alt: Image alt text
-  - infopic:
-      title: Tech for Public Good
-      subtitle: OUR DIGITAL GOVERNMENT EFFORTS
-      id: infopic
-      description: Check out our efforts towards making lives better through
-        innovative technology
-      button: FIND OUT MORE
-      alt: Tech for Public Good
-      url: /digital-government-efforts/tech-for-public-good
-      image: /images/tracetogethertest1.jpg
-  - infopic:
-      title: Our Achievements
-      subtitle: From Vision to Achievement
-      description: View our latest rankings, awards, and KPI achievements
-      button: Find out more
-      url: /about-us/our-achievements/our-kpis/
-      image: /images/ytpo-awards.png
-      alt: Our Achievements
   - resources:
       title: Media
       subtitle: STAY UPDATED ON GOVTECH NEWS
