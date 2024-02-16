@@ -12,9 +12,9 @@ description: Never miss a GovTech update. Stay connected with us through our
 newsletters. With over 20,000 readers, you’ll enjoy articles about tech
 trends, behind-the-scenes stories and more.</p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="https://i.ibb.co/NCH2BfN/Frame-172.png">
+<img style="width: 50%;" height="auto" width="100%" alt="" src="https://i.ibb.co/NCH2BfN/Frame-172.png">
 </div>
-<p><a href="https://community.tech.gov.sg/" class="button primary" rel="noopener noreferrer nofollow" target="_blank">SIGN UP NOW</a>
+<p><a href="http://eepurl.com/cUwIsD" class="button primary" rel="noopener noreferrer nofollow" target="_blank">Subscribe to TechNews</a>
 </p>
 <h4>Fresh insights from GovTech blogs</h4>
 <p>Our very own GovTechies reflect on their experiences, as they share career
