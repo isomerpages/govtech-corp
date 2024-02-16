@@ -5,6 +5,10 @@ variant: tiptap
 description: ""
 ---
 <h3>Digitalising national identity and providing secure access to government e-services with Singpass.</h3>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Digital Gov Efforts/singpass_logo_fullcolours_1.png">
+</div>
 <p>Singpass is Singapore residents' trusted digital identity for secure transaction
 needs in everyday life.</p>
 <p>The platform gives you access to over 2700 services across 800 connected
@@ -77,6 +81,10 @@ need for manual paper filing.</div>
 </div>
 </div>
 </div>
+<p></p>
+<div class="iframe-wrapper">
+<iframe style="max-width: 100%;" height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/IostdtfKMhU?si=navRdNgJkEM7VlDv"></iframe>
+</div>
 <h3>How to use Singpass?</h3>
 <p>Singpass is eligible for all Singaporean Citizens, Permanent Residents
 or Foreign Identification Number (FIN) holder who are above 15 years old.</p>
@@ -118,6 +126,9 @@ by educating ourselves on the latest phishing tactics. Some of them include:</p>
 to login to their Singpass account via a spoofed Singpass login website.</p>
 </li>
 </ul>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/About Us/Our Achievements/singpass_security_measures_2.jpg">
+</div>
 <h4>Stay vigilant by following these steps:</h4>
 <ol data-tight="true" class="tight">
 <li>
