@@ -11,7 +11,7 @@ variant: tiptap
 as the lead agency driving Singapore's Smart Nation initiative, exemplified
 by the recognition it has garnered for Singapore.</p>
 <h3>United Nations e-Government Survey (2012-2018)</h3>
-<p>Published biennially, the United Nations e-Government Survey assesses
+<p>Published biennially, the <a href="https://publicadministration.un.org/egovkb/en-us/Reports/UN-E-Government-Survey-2022" rel="noopener noreferrer nofollow" target="_blank">United Nations e-Government Survey</a> assesses
 the e-government development status of all 193 United Nations member states.</p>
 <p>The assessment measures the e-government performance of countries relative
 to each other, and recognises that each country should decide upon the
