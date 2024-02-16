@@ -24,7 +24,7 @@ by at least 20%.</p>
 <p>GovTech is proud to be a Great Place to Work-Certified™ organisation,
 a validation of our collaborative spirit and shared vision that defines
 who we are as an organisation. GovTech was also named Singapore's top 10
-most attractive employers in IT by Universum in 2023, and ranked 9th as
+most attractive employers in IT by Universum in 2023, and ranked 10th as
 Singapore's leading graduate employers in IT &amp; technology by GradSingapore
 in 2023.</p>
 <p></p><a class="isomer-image-wrapper" href="https://rankings.universumglobal.com/en/most-attractive-employers-ranking-government-technology-agency-singapore-it-2023/"><img style="width: 100%" height="auto" width="100%" alt="" src="/images/About Us/Our Achievements/Universum_award.png"></a>
