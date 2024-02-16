@@ -11,8 +11,7 @@ sector's engineering expertise and build the government’s capabilities
 in emerging technologies.</p>
 <p>These enable GovTech to develop and deliver innovative citizen-centric
 products and services across the government.</p>
-<h3>Our Capability Centres</h3>
-<h4>1. Application Design, Development &amp; Deployment</h4>
+<h3>1. Application Design, Development &amp; Deployment</h3>
 <p>(image)</p>
 <p>This centre adopts an “outside-in” approach to deliver citizen-centric
 government digital services that support public sector digital transformation.
@@ -23,8 +22,8 @@ and reusable digital services which are supported by the Singapore Government
 Technology Stack.</p>
 <p>Some examples of products and services developed by this centre include
 TraceTogether, OpenCerts, GoBusiness Portal and more.</p>
-<p>Learn more about <a href="/our-capabilities/application-design-development-and-development/" rel="noopener noreferrer nofollow" target="_blank">Application Design, Development, and Deployment</a>.</p>
-<h4>2. Cybersecurity</h4>
+<h4>Learn more about <a href="/our-capabilities/application-design-development-and-development/" rel="noopener noreferrer nofollow" target="_blank">Application Design, Development, and Deployment</a>.</h4>
+<h3>2. Cybersecurity</h3>
 <p>(image)</p>
 <p>This capability centre develops a comprehensive suite of cybersecurity
 capabilities that detect and respond against cyber threats, as well as
@@ -35,9 +34,8 @@ and technical guidance to ensure a safer, more secure Smart Nation.</p>
 tool to monitor the web for new websites with similar domain names and
 content to those of our agencies, developing a common Government Trust-based
 architecture frameowrk and security testing for COVID-19 projects.</p>
-<p>CTA: Learn more <u>here</u> (Link to About Us - What We Do - Our Capabilities
-- Cybersecurity [Hidden-Level Page]).</p>
-<h4>3. Data Science and Artificial Intelligence</h4>
+<p>Learn more about Cybersecurity.</p>
+<h3>3. Data Science and Artificial Intelligence</h3>
 <p>(image)</p>
 <p>This centre uses data science and artificial intelligence (AI) to extract
 data-driven insights and build smart platforms that help improve the delivery
@@ -48,9 +46,8 @@ with agencies to support their data strategies and data infrastructure.</p>
 <p>Some examples of products and services developed by this centre include
 the incubation of AI tech solutions such as Vigilant Gantry, WOG ‘super’
 virtual assistant, VICA</p>
-<p>CTA: Learn more <u>here</u> (Link to About Us - What We Do - Our Capabilities
-- Data Science and Artificial Intelligence [Hidden-Level Page]).</p>
-<h4>4. Government ICT Infrastructure</h4>
+<p>Learn more about Data Science and Artificial Intelligence.</p>
+<h3>4. Government ICT Infrastructure</h3>
 <p>(image)</p>
 <p>This centre develops a centralised Info-Communications Technology (ICT)
 infrastructure, consisting of data centres, applications, devices, networks
@@ -62,9 +59,8 @@ also provides guidelines and support to government agencies.</p>
 <p>Some examples of their work include the development of VPN capacity and
 of the next bound of government networks like SD-WAN (Software-defined
 Wide Area Network) and Zero Trust Network.</p>
-<p>CTA: Learn more <u>here</u> (Link to About Us - What We Do - Our Capabilities
-- Government ICT infrastructure [Hidden-Level Page]).</p>
-<h4>5. Smart City Technology</h4>
+<p>Learn more about Government ICT Infrastructure.</p>
+<h3>5. Smart City Technology</h3>
 <p>(image)</p>
 <p>This centre works on the design and implementation of a government-wide
 Internet of Things (IoT) infrastructure to support a range of Smart City
@@ -78,9 +74,9 @@ vision.</p>
 <p>Some examples of innovations by this centre include the Punggol Smart
 Town, Personal Alert Button for seniors living alone, e-Canvas for Persons
 With Disabilities (PWDs) and more.</p>
-<p>CTA: Learn more <u>here</u> (Link to About Us - What We Do - Our Capabilities
-- Smart City Technology [Hidden-Level Page]).</p>
+<p>Learn more about <u>Smart City Technology.</u>
+</p>
 <h3>Interested to be a part of one of our capability centres?</h3>
 <p>Our team is always searching for like-minded tech talents - if you have
 a similar purpose, check out the <a href="/careers/why-join-govtech/overview/" rel="noopener noreferrer nofollow" target="_blank">career opportunities</a> available
-at GovTech.</p>
+at GovTech</p>
