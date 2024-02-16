@@ -97,5 +97,17 @@ on Facebook.</div>
 </div>
 </a>
 </div>
-<h3></h3>
+<hr>
+<h3>Test with us</h3>
+<p>Are you a product owner looking to harness the power of the end-user perspective?</p>
+<p>We are always looking to collaborate with product teams to leverage Tech
+Kaki for user engagement and co-creation opportunities.</p>
+<p>Our Tech Kaki community consists of members from diverse backgrounds,
+all motivated to help create Tech for Public Good. Our community offer
+a wide range of perspectives that can aid in shaping your products and
+services to cater to a broader and more inclusive audience. Our engagement
+format spans from opinion polls and surveys to user testing sessions, providing
+product teams with greater flexibility in terms of involvement and effort.</p>
+<p><a href="https://form.gov.sg/60769e8fe0b9d900117857da" rel="noopener noreferrer nofollow" target="_blank">Contact Us</a> today
+to embark on the innovation journey with Tech Kaki.</p>
 <p></p>
