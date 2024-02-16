@@ -47,10 +47,10 @@ down the time needed for this process from 40 minutes to just 1 minute.
 Environment (MSE) Innovation Award in 2020. - Learn more about this collaboration
 <a href="https://www.tech.gov.sg/media/technews/how-ai-and-a-camera-phone-help-keep-food-on-our-tables" class="waffle-rich-text-link" rel="noopener noreferrer nofollow" target="_blank"><u>here</u> 
 </a>.</p>
-<h3>Product and User Testing </h3>
+<h3>Product and User Testing</h3>
 <p>&lt;Include Tech Kaki Community image (showing product/user testing in
 action)&gt;</p>
-<p>Tap on our <a href="/get-involved/join-our-communities/tech-kaki/" rel="noopener noreferrer nofollow" target="_blank">Tech Kaki Community</a> to
+<p>Tap on our <a href="https://form.gov.sg/60769e8fe0b9d900117857da" rel="noopener noreferrer nofollow" target="_blank">Tech Kaki Community</a> to
 conduct user testings for your products and gather valuable feedback. Set
 up in 2016, this was a citizen community meant to ensure that government
 digital products and services actually meet the needs of citizens and businesses.
