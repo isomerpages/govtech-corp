@@ -28,7 +28,6 @@ most attractive employers in IT by Universum in 2023, and ranked 10th as
 Singapore's leading graduate employers in IT &amp; technology by GradSingapore
 in 2023.</p>
 <p></p><a class="isomer-image-wrapper" href="https://rankings.universumglobal.com/en/most-attractive-employers-ranking-government-technology-agency-singapore-it-2023/"><img style="width: 100%" height="auto" width="100%" alt="" src="/images/About Us/Our Achievements/Universum_award.png"></a>
-<p></p>
 <h4>3. SG 100 Women in Tech</h4>
 <p>Introduced by the IMDA and the SG Computer Society, the list has recognised
 the achievements of over 300 remarkable women since its launch in 2020.
@@ -51,47 +50,47 @@ digital products and services have gained recognition through a myriad
 of awards.</p>
 <p>(to include product logos accordingly for each)</p>
 <h4><u>Asynchronous Data Exchange (ADEX):</u></h4>
-<p>- IDC Smart City Awards (SCAPA) – Administration Category (2022)</p>
-<p>- IDC Future Enterprise Awards – Best in Future of Connectedness (2022)</p>
-<p>Digitalisation of Birth &amp; Death Registation Process:</p>
+<p>IDC Smart City Awards (SCAPA) – Administration Category (2022)</p>
+<p>IDC Future Enterprise Awards – Best in Future of Connectedness (2022)</p>
+<h3>Digitalisation of Birth &amp; Death Registation Process:</h3>
 <p>- Public Sector Transformation (PST) Awards - One Public Service Award
 (2023)</p>
-<p>Disbursement of NS Recognition Credits via GovWallet &amp; LifeSG</p>
+<h4>Disbursement of NS Recognition Credits via GovWallet &amp; LifeSG</h4>
 <p>- Public Sector Transformation (PST) Awards - One Public Service Award
 (2023)</p>
-<p>FWMOMCARE app:</p>
+<h4>FWMOMCARE app:</h4>
 <p>- Public Sector Transformation (PST) Awards - Dare to Do Award (2023)</p>
-<p>HealthCerts:</p>
+<h4>HealthCerts:</h4>
 <p>- World Innovation, Technology and Services Alliance (WITSA) - Merit in
 Innovative eHealth Solutions (2021)</p>
-<p>myENV app (in collaboration with NEA:</p>
+<h4>myENV app (in collaboration with NEA:</h4>
 <p>- Special Award for Smart Cities at the IDC Future Enterprise Awards)
 (2023)</p>
-<p>Personal Alert Button (PAB):</p>
+<h4>Personal Alert Button (PAB):</h4>
 <p>- World Innovation, Technology and Services Alliance (WITSA) - Runner-Up
 in Digital Opportunity/Inclusion (2021)</p>
-<p>ServiceSG Centre:</p>
+<h4>ServiceSG Centre:</h4>
 <p>- Public Sector Transformation (PST) Awards - Service Delivery Excellence
 Award (2023)</p>
-<p>SGFindex:</p>
+<h4>SGFindex:</h4>
 <p>- Most Innovative Use of Data for Digital Transformation at the INSPIRE
 Tech Awards (2021)</p>
-<p>Singapore Student Learning Space (SLS):</p>
+<h4>Singapore Student Learning Space (SLS):</h4>
 <p>- Public Sector Transformation (PST) Awards - Service Delivery Excellence
 Award (2023)</p>
 <p>- World Innovation, Technology and Services Alliance (WITSA) - Runner-Up
 in e-Education and Learning</p>
-<p>Singpass:</p>
+<h4>Singpass:</h4>
 <p>- Public Sector Transformation Awards (One Public Sector Award) - Digital
 Identity for a Nation (2022)</p>
 <p>- IDC Smart City Asia Pacific Awards (SCAPA) for digital equity and accessibility
 (2021)</p>
 <p>- Inspire Tech Awards for the most innovative use of data for digital
 transformation (Southeast Asia) (2021)</p>
-<p>Water Resource Management System (WRMS) by GALE:</p>
+<h4>Water Resource Management System (WRMS) by GALE:</h4>
 <p>- World Innovation, Technology and Services Alliance (WITSA) - Runner-up
 in Sustainable Growth/Circular Economy Waste Management (2021)</p>
-<p>Zendesk COVID System:</p>
+<h4>Zendesk COVID System:</h4>
 <p>- Public Sector Transformation (PST) Awards - Agility Award (2023)</p>
 <p>3. Interested to collaborate on a digital product or service?</p>
 <p>- CTA link to "Products &amp; Services - Collaborate with Us"</p>
