@@ -78,6 +78,7 @@ physically handicapped on the SafeEntry app.</p>
 <p>With that, GovTech is also committed to developing tech that empowers
 vulnerable communities.</p>
 <h4><u>Digital4Good</u></h4>
+<p></p>
 <p>This programme was established to empower underprivileged children/youths
 and seniors by increasing their digital literacy. This is achieved by inculcating
 skillsets such as programming, problem solving and critical thinking for
@@ -87,8 +88,30 @@ do good for the community while doing something fun outside of work. The
 programme promotes the digital inclusion of underprivileged children, from
 ages 7 to 12, and seeks to spark their interest in technology while provisioning
 them with digital literacy skills.</p>
-<p>- Image/Quote component - content from <a href="https://www.facebook.com/InsideGovTech/posts/pfbid02Hoz4qHVofiZaByfTU4AzbaNuXzCqQrgw3vVDxo99qPLJtxXSXbYYJfJP9GWD4sZNl" rel="noopener noreferrer nofollow" target="_blank">https://www.facebook.com/InsideGovTech/posts/pfbid02Hoz4qHVofiZaByfTU4AzbaNuXzCqQrgw3vVDxo99qPLJtxXSXbYYJfJP9GWD4sZNl</a>
-</p>
+<table>
+<tbody>
+<tr>
+<th rowspan="1" colspan="1">
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Digital Gov Efforts/Digital4Good__1_.jpg">
+</div>
+</th>
+<th rowspan="1" colspan="1">
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Digital Gov Efforts/Digital4Good__2_.jpg">
+</div>
+</th>
+<th rowspan="1" colspan="1">
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Digital Gov Efforts/Digital4Good__3_.jpg">
+</div>
+</th>
+</tr>
+</tbody>
+</table>
 <h4><u>A11y Team (Accessibility Enabling Team)</u></h4>
 <p>This accessibility-focused team was formed to understand and design inclusive
 government services based on the unique perspectives and usage patterns
