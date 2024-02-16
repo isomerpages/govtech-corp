@@ -49,7 +49,7 @@ sections:
       alt: Image alt text
   - infopic:
       title: Tech for Public Good
-      subtitle: Our Communities
+      subtitle: OUR DIGITAL GOVERNMENT EFFORTS
       id: infopic
       description: Check out our efforts towards making lives better through
         innovative technology
