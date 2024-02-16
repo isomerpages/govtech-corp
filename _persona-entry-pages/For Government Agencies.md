@@ -72,6 +72,6 @@ and their success stories.</p>
 GovTech.</p>
 <h3>Interested to collaborate with GovTech on a project?</h3>
 <p>Reach out to the respective product teams within GovTech or drop an email
-to <a href="<info@tech.gov.sg>" rel="noopener noreferrer nofollow" target="_blank">info@tech.gov.sg</a>
+<a href="mailto:info@tech.gov.sg" rel="noopener noreferrer nofollow" target="_blank">info@tech.gov.sg</a>
 </p>
 <p></p>
