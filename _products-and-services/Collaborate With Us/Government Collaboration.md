@@ -5,7 +5,7 @@ description: ""
 third_nav_title: Collaborate With Us
 variant: tiptap
 ---
-<h3><strong>Let's engineer a digital government together</strong></h3>
+<h3>Let's engineer a digital government together</h3>
 <p>As we transform Singapore through technology, digital government transformation
 is all about harnessing technologies to enable significant improvements
 and empower how we serve citizens and businesses in Singapore. At GovTech,
@@ -13,7 +13,7 @@ we aim to lend our expertise not only in the form of product development,
 but also event collaborations to promote knowledge- and idea-sharing within
 the government. Explore our collaborations to see how we can work together
 to provide value.</p>
-<h3><strong>Product Collaborations</strong></h3>
+<h3>Product Collaborations</h3>
 <p>Work with us on product-related collaborations. This could involve tapping
 onto our experts for product developments, onboarding your services onto
 one of our apps like Singpass or LifeSG, or even tapping on our communities
@@ -47,15 +47,16 @@ down the time needed for this process from 40 minutes to just 1 minute.
 Environment (MSE) Innovation Award in 2020. - Learn more about this collaboration
 <a href="https://www.tech.gov.sg/media/technews/how-ai-and-a-camera-phone-help-keep-food-on-our-tables" class="waffle-rich-text-link" rel="noopener noreferrer nofollow" target="_blank"><u>here</u> 
 </a>.</p>
-<p><u>Product testing </u>- Include Tech Kaki Community image (showing product/user
-testing in action) - Tap on our Tech Kaki Community (Link to Tech Kaki
-Community page) to conduct user testings for your products and gather valuable
-feedback. - Set up in 2016, this was a citizen community meant to ensure
-that government digital products and services actually meet the needs of
-citizens and businesses. - Leverage on our 7,000-strong community, ready
-to give you insight and inspire impactful improvements in your products
-and services.</p>
-<h3><strong>Ready to collaborate?</strong></h3>
+<h3>Product and User Testing </h3>
+<p>&lt;Include Tech Kaki Community image (showing product/user testing in
+action)&gt;</p>
+<p>Tap on our <a href="/get-involved/join-our-communities/tech-kaki/" rel="noopener noreferrer nofollow" target="_blank">Tech Kaki Community</a> to
+conduct user testings for your products and gather valuable feedback. Set
+up in 2016, this was a citizen community meant to ensure that government
+digital products and services actually meet the needs of citizens and businesses.
+Leverage on 7,000-strong community, ready to give you insight and inspire
+impactful improvements in your products and services.</p>
+<h3>Ready to collaborate?</h3>
 <p>Get in touch with us today to explore ways we can work together. Reach
 out to us directly via email at <a href="https://www.straitstimes.com/singapore/meet-spot-the-safe-distancing-robot-on-trial-in-bishan-amk-park" rel="noopener noreferrer nofollow" target="_blank">info@tech.gov.sg</a>.</p>
 <p></p>
