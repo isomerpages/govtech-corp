@@ -112,7 +112,16 @@ with reason. We take smart risks, learning from successes and failures.
 We do what is right and make tough decisions despite uncertainties or risks
 involved.</div>
 </div>
-</div><a rel="noopener noreferrer nofollow" href="https://www.isomer.gov.sg" class="isomer-card"><div class="isomer-card-body"><div class="isomer-card-title">This is a title for your card</div><div class="isomer-card-description">This is body text for your card. Describe your card.</div><div class="isomer-card-link">This is a link for your card</div></div></a>
+</div>
+<div class="isomer-card">
+<div class="isomer-card-body">
+<div class="isomer-card-title">COLLABORATIVE</div>
+<div class="isomer-card-description">We build "win-win" relationships based on mutual trust and respect. We
+do what is best for GovTech, working together as one team to achieve our
+common goals for Singapore. We leverage each others' strengths to get the
+best results.</div>
+</div>
+</div>
 </div>
 <p></p>
 <p></p>
