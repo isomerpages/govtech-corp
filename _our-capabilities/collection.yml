@@ -2,6 +2,7 @@ collections:
   our-capabilities:
     output: true
     order:
+      - Data Science and Artificial Intelligence.md
       - Cybersecurity.md
       - Smart City Technology.md
       - Application Design, Development and Deployment.md
