@@ -23,8 +23,7 @@ and reusable digital services which are supported by the Singapore Government
 Technology Stack.</p>
 <p>Some examples of products and services developed by this centre include
 TraceTogether, OpenCerts, GoBusiness Portal and more.</p>
-<p>CTA: Learn more <u>here</u> (Link to About Us - What We Do - Our Capabilities
-- Application Design, Development and Deployment [Hidden-Level Page]).</p>
+<p>Learn more about <a href="/our-capabilities/application-design-development-and-development/" rel="noopener noreferrer nofollow" target="_blank">Application Design, Development, and Deployment</a>.</p>
 <h4>2. Cybersecurity</h4>
 <p>(image)</p>
 <p>This capability centre develops a comprehensive suite of cybersecurity
@@ -38,7 +37,7 @@ content to those of our agencies, developing a common Government Trust-based
 architecture frameowrk and security testing for COVID-19 projects.</p>
 <p>CTA: Learn more <u>here</u> (Link to About Us - What We Do - Our Capabilities
 - Cybersecurity [Hidden-Level Page]).</p>
-<h4>3. Data Science and Artificial Intelligence </h4>
+<h4>3. Data Science and Artificial Intelligence</h4>
 <p>(image)</p>
 <p>This centre uses data science and artificial intelligence (AI) to extract
 data-driven insights and build smart platforms that help improve the delivery
@@ -51,7 +50,7 @@ the incubation of AI tech solutions such as Vigilant Gantry, WOG ‘super’
 virtual assistant, VICA</p>
 <p>CTA: Learn more <u>here</u> (Link to About Us - What We Do - Our Capabilities
 - Data Science and Artificial Intelligence [Hidden-Level Page]).</p>
-<h4>4. Government ICT Infrastructure </h4>
+<h4>4. Government ICT Infrastructure</h4>
 <p>(image)</p>
 <p>This centre develops a centralised Info-Communications Technology (ICT)
 infrastructure, consisting of data centres, applications, devices, networks
@@ -65,7 +64,7 @@ of the next bound of government networks like SD-WAN (Software-defined
 Wide Area Network) and Zero Trust Network.</p>
 <p>CTA: Learn more <u>here</u> (Link to About Us - What We Do - Our Capabilities
 - Government ICT infrastructure [Hidden-Level Page]).</p>
-<h4>5. Smart City Technology </h4>
+<h4>5. Smart City Technology</h4>
 <p>(image)</p>
 <p>This centre works on the design and implementation of a government-wide
 Internet of Things (IoT) infrastructure to support a range of Smart City
@@ -81,7 +80,7 @@ Town, Personal Alert Button for seniors living alone, e-Canvas for Persons
 With Disabilities (PWDs) and more.</p>
 <p>CTA: Learn more <u>here</u> (Link to About Us - What We Do - Our Capabilities
 - Smart City Technology [Hidden-Level Page]).</p>
-<h3>Interested to be a part of one of our capability centres? </h3>
+<h3>Interested to be a part of one of our capability centres?</h3>
 <p>Our team is always searching for like-minded tech talents - if you have
 a similar purpose, check out the opportunities available at GovTech <u>here</u> (Link
 to Careers page)</p>
