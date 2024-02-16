@@ -94,6 +94,29 @@ through balance.</p>
 </table>
 <p></p>
 <h3>We are also guided by our <strong>ABC </strong>values at GovTech</h3>
+<p></p>
+<div class="isomer-card-grid">
+<div class="isomer-card">
+<div class="isomer-card-body">
+<div class="isomer-card-title">AGILE</div>
+<div class="isomer-card-description">We are nimble, always open to new ideas and thinking of possibilities.
+We learn, adapt, and respond effectively to changes. We are flexible, proactive,
+and resilient when working towards our outcomes.</div>
+</div>
+</div>
+<div class="isomer-card">
+<div class="isomer-card-body">
+<div class="isomer-card-title">BOLD</div>
+<div class="isomer-card-description">We constructively challenge the status quo and prevailing assumptions
+with reason. We take smart risks, learning from successes and failures.
+We do what is right and make tough decisions despite uncertainties or risks
+involved.</div>
+</div>
+</div><a rel="noopener noreferrer nofollow" href="https://www.isomer.gov.sg" class="isomer-card"><div class="isomer-card-body"><div class="isomer-card-title">This is a title for your card</div><div class="isomer-card-description">This is body text for your card. Describe your card.</div><div class="isomer-card-link">This is a link for your card</div></div></a>
+</div>
+<p></p>
+<p></p>
+<p></p>
 <p>1. Agile - being prepared to disrupt ourselves, being prepared to think
 twice, think in a different way, and really make those changes on time
 -</p>
