@@ -5,7 +5,7 @@ description: ""
 third_nav_title: Collaborate With Us
 variant: tiptap
 ---
-<h3><strong>Co-create with us as we build our Smart Nation</strong></h3>
+<h3>Co-create with us as we build our Smart Nation</h3>
 <p>In the next bound of Digital Government for Singapore, GovTech is committed
 to co-developing solutions and exploring innovative ways to deliver digital
 services for citizens, businesses, and government agencies. Our approach
