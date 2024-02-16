@@ -40,6 +40,11 @@ and appointments across 400 government agencies relevant to your needs.</p>
 </p>
 <h3>Benefits of using LifeSG</h3>
 <h4>For new parents and families with children under 6 years old</h4>
+<div class="isomer-image-wrapper">
+<img style="width: 80%;" height="auto" width="100%" alt="" src="/images/About Us/Our Achievements/asian_family_mother_father_daughter_making_fun_sleep_play_living_room_home_background__1_.jpg">
+</div>
+<p>Image by <a href="https://www.freepik.com/free-photo/asian-family-mother-father-daughter-making-fun-sleep-play-living-room-home-background_25129586.htm#query=family&amp;position=22&amp;from_view=search&amp;track=sph&amp;uuid=1e8ca05e-a313-4b04-a31a-703bb20d90c0" rel="noopener noreferrer nofollow" target="_blank">Lifestylememory</a> on
+Freepik</p>
 <ol data-tight="true" class="tight">
 <li>
 <p>Register the birth of your child digitally and save a trip to Immigration
