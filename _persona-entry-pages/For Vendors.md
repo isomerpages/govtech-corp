@@ -84,7 +84,7 @@ through <a href="https://www.tech.gov.sg/media/events/industry-briefing-2023" cl
 </ol>
 <p></p>
 <h3>Check out the additional resources below to guide you and increase your chances of winning a project</h3>
-<p><u>About GovTech</u> 
+<p><u>About GovTech</u>
 </p>
 <ul data-tight="true" class="tight">
 <li>
@@ -92,7 +92,7 @@ through <a href="https://www.tech.gov.sg/media/events/industry-briefing-2023" cl
 the Government</p>
 </li>
 <li>
-<p><a href="/about-us/what-we-do/our-capabilities/" rel="noopener noreferrer nofollow" target="_blank">Our Capabilities</a> 
+<p><a href="/about-us/what-we-do/our-capabilities/" rel="noopener noreferrer nofollow" target="_blank">Our Capabilities</a>
 </p>
 </li>
 </ul>
@@ -108,7 +108,7 @@ the Government</p>
 </p>
 </li>
 </ul>
-<p><u>Guide for Government Procurement </u>
+<p><u>Guide for Government Procurement</u>
 </p>
 <ul data-tight="true" class="tight">
 <li>
@@ -119,6 +119,6 @@ suppliers participating in Singapore Government procurement opportunities</p>
 <p>Learn more about <a href="/products-and-services/collaborate-with-us/industry-collaboration/" rel="noopener noreferrer nofollow" target="_blank">industry collaborations</a> with
 GovTech.</p>
 <h3>Have an enquiry or proposal that will drive our Smart Nation efforts?</h3>
-<p>Reach out to us at <a href="https://www.tech.gov.sg/files/media/corporate-publications/IB2023-Towards-the-Next-Bound-of-Digital-Government-GovTech-CE.pdf)" rel="noopener noreferrer nofollow" target="_blank"><u>govtech_sipeo@tech.gov.sg</u></a> 
+<p>Reach out to us at <a href="govtech_sipeo@tech.gov.sg" rel="noopener noreferrer nofollow" target="_blank">govtech_sipeo@tech.gov.sg</a> 
 <br>
 </p>
