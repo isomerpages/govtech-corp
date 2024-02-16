@@ -78,7 +78,6 @@ physically handicapped on the SafeEntry app.</p>
 <p>With that, GovTech is also committed to developing tech that empowers
 vulnerable communities.</p>
 <h4><u>Digital4Good</u></h4>
-<p></p>
 <p>This programme was established to empower underprivileged children/youths
 and seniors by increasing their digital literacy. This is achieved by inculcating
 skillsets such as programming, problem solving and critical thinking for
@@ -129,8 +128,9 @@ was themed "Understand &amp; Understood: Making Communication Inclusive
 for All" - focusing on the importance of designing and deploying communications
 that are accessible for all, including vulnerable communities like Persons
 with Disabilities (PwDs).</p>
-<p>- Include 2nd image from <a href="https://www.tech.gov.sg/media/technews/this-national-day-lets-work-towards-a-more-digitally-inclusive-singapore" rel="noopener noreferrer nofollow" target="_blank">https://www.tech.gov.sg/media/technews/this-national-day-lets-work-towards-a-more-digitally-inclusive-singapore</a>
-</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Digital Gov Efforts/A11y_Week_participant.jpg">
+</div>
 <h4><u>GovTech x The Purple Parade</u></h4>
 <p>As Singapore's vibrant movement for inclusion, The Purple Parade celebrates
 all abilities. Our GovTechies came together to paint the town purple, as
