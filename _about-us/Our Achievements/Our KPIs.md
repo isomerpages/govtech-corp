@@ -5,29 +5,28 @@ description: ""
 third_nav_title: Our Achievements
 variant: tiptap
 ---
-<p>1. Striving to deliver on our key goals based on the Digital Government
-Blueprint (DGB) 2.0</p>
-<p>- As the document that outlines our key focus areas in building a Digital
-Government, the DGB 2.0 also guides GovTech on the key KPIs we should be
-aiming for.</p>
-<p>- Infographic with cards, showing each Thrust under the DGB 2.0 as the
-key goals for GovTech to strive for.</p>
-<p>2. Meeting past KPIs through satisfaction surveys</p>
-<p>Citizen Survey 2022</p>
-<p>- Annual Survey on Satisfaction with Government Digital Services (Citizens)
-- For 2022</p>
-<p>- Objective: The Survey on Satisfaction with Government Digital Services
-(Citizens) is conducted annually by the Smart Nation and Digital Government
-Office (SNDGO) and GovTech to assess citizens’ satisfaction with key government
-digital services and to identify areas for improvement. The survey was
-conducted from November 2022 to January 2023, for the reporting period
-of 2022.</p>
-<p>- Methodology: About 1500 respondents were surveyed, comprising representatives
-of the total demographic population. Data collection was done via face-to-face
-interviews.</p>
-<p>- Survey results: Use 1st infographic from <a href="https://www.tech.gov.sg/who-we-are/our-statistics/" rel="noopener noreferrer nofollow" target="_blank">https://www.tech.gov.sg/who-we-are/our-statistics/</a>
+<h3>Striving to deliver on our key goals based on the Digital Government Blueprint (DGB) 2.0</h3>
+<p>As the document outlines our key focus areas in building a Digital Government,
+the DGB 2.0 also guides GovTech on the key KPIs we should aim for.</p>
+<p><strong>Infographic with cards, showing each Thrust under the DGB 2.0 as the key goals for GovTech to strive for.</strong>
 </p>
-<p>Business Survey 2022</p>
+<h3>Meeting past KPIs through satisfaction surveys</h3>
+<h4><u>Citizen Survey 2022</u></h4>
+<p>Annual Survey on Satisfaction with Government Digital Services (Citizens)
+— For 2022</p>
+<p><strong>Objective: </strong>The Survey on Satisfaction with Government
+Digital Services (Citizens) is conducted annually by the Smart Nation and
+Digital Government Office (SNDGO) and GovTech to assess citizens’ satisfaction
+with key government digital services and to identify areas for improvement.
+The survey was conducted from November 2022 to January 2023, for the reporting
+period of 2022.</p>
+<p><strong>Methodology:</strong> About 1500 respondents were surveyed, comprising
+representatives of the total demographic population. Data collection was
+done via face-to-face interviews.</p>
+<p></p>
+<p>Survey results: Use 1st infographic from <a href="https://www.tech.gov.sg/who-we-are/our-statistics/" rel="noopener noreferrer nofollow" target="_blank">https://www.tech.gov.sg/who-we-are/our-statistics/</a>
+</p>
+<h4><u>Business Survey 2022</u></h4>
 <p>- Annual Survey on Satisfaction with Government Digital Services (Business)
 - For 2021</p>
 <p>- Objective: The Survey on Satisfaction with Government Digital Services
