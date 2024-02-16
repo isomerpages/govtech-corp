@@ -124,17 +124,6 @@ best results.</div>
 </div>
 </div>
 <p></p>
-<p></p>
-<p></p>
-<p>1. Agile - being prepared to disrupt ourselves, being prepared to think
-twice, think in a different way, and really make those changes on time
--</p>
-<p>2. Bold in adoptive new solutions. “Especially where technology is involved,
-which is possibly ahead of the curve, [or even] possibly ahead of the private
-sector -</p>
-<p>3. Collaborative - What we want to do in GovTech is to leverage on the
-resources that are already available Click <u>here</u> to find out more about
-GovTech. (Link to Who We Are page)</p>
 <h3>Want to know more about life at GovTech and how our teams develop products? Check out some of the stories below featuring our very own GovTechies!</h3>
 <p>1. <a href="https://www.tech.gov.sg/media/technews/international-womens-day-2023" class="waffle-rich-text-link" rel="noopener noreferrer nofollow" target="_blank"><u>International Woman’s day: GovTechies talk about switching to tech careers</u></a>
 </p>
