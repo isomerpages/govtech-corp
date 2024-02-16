@@ -42,7 +42,7 @@ from a range of industry sectors (e.g. Commerce, Construction, Financial
 &amp; Business Services, Manufacturing, Transportation, Storage, Information
 &amp; Communications, etc.), and company types and sizes in Singapore were
 surveyed. Data collection was done through telephone interviews.</p>
-<p><strong>Survey results: </strong>
+<p><strong>Survey results:</strong>
 </p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/About Us/Our Achievements/_Compressed__Digital_Government_Perception_2022_Business.jpg">
