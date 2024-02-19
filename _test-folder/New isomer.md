@@ -415,5 +415,3 @@ not the table, users might miss the second post</p>
 <h2></h2>
 <h2><s>19. &amp; 20. Anchor Link Module - Variant 1/2</s></h2>
 <p>unable to anchor within same page</p>
-<h2></h2>
-<p></p>
