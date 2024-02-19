@@ -13,7 +13,7 @@ for Singapore government agencies to accept payment from citizens and businesses
 <p>To date, the platform has handled over 300 million dollars in payments
 for trusted agencies. In 2023 alone, PaySG collected a total of $23 million
 across government agencies and facilitated over 60,000 transactions.</p>
-<h3>Why use PaySG? </h3>
+<h3>Why use PaySG?</h3>
 <p>Self-service, simplified: Set up your payment service in minutes, not
 months. PaySG offers a 100% self-service experience for swift implementation.</p>
 <p>Free and effortless: Avoid lengthy procurement processes. PaySG is free
