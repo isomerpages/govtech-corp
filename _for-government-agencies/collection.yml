@@ -2,7 +2,6 @@ collections:
   for-government-agencies:
     output: true
     order:
-      - VICA.md
       - FormSG.md
       - Digital Workplace.md
       - GovText.md
