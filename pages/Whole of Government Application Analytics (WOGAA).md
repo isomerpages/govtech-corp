@@ -4,7 +4,7 @@ permalink: /products-and-services/for-government-agencies/data-and-ai/wogaa/
 variant: tiptap
 description: ""
 ---
-<h3>Real-time monitoring of government websites and digital services with Whole-of-Government Application Analytics (WOGAA).</h3>
+<h3>Real-time monitoring of government websites and digital services with Whole-of-Government Application Analytics (WOGAA)</h3>
 <p>Monitoring the performance of the government's digital services and platforms,
 this tool presents key information like website traffic, user feedback,
 and even benchmarks against WOG averages in a single dashboard.</p>
