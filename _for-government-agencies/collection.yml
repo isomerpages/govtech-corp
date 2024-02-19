@@ -2,8 +2,6 @@ collections:
   for-government-agencies:
     output: true
     order:
-      - ICT and Infrastructure/.keep
-      - Productivity and Marketing/.keep
       - Government Transactions/.keep
       - Government Transactions/Singpass APIs.md
       - Government Transactions/RedeemSG.md
@@ -11,6 +9,8 @@ collections:
       - Software Development/.keep
       - Software Development/Government on Commercial Cloud.md
       - Software Development/Singapore Government Tech Stack.md
+      - Productivity and Marketing/.keep
+      - ICT and Infrastructure/.keep
       - Whole of Government Application Analytics (WOGAA).md
       - Analytic gov.md
       - Video Analytics System.md
