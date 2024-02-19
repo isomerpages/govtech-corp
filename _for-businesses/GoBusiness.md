@@ -35,7 +35,7 @@ regulatory resources, and keep business transactions in one place</p>
 <p>Visit the <a href="https://dashboard.gobusiness.gov.sg/login" rel="noopener noreferrer nofollow" target="_blank">GoBusiness portal</a>
 </p>
 <p>Simply log in via Singpass to get started</p>
-<p>Need support while using GoBusiness? Visit the helpdesk here.</p>
+<p>Need support while using GoBusiness? Visit the helpdesk <a href="https://www.gobusiness.gov.sg/contact-us/?src=topnav" rel="noopener noreferrer nofollow" target="_blank">here</a>.</p>
 <h3>Interested to find out more about GoBusiness?</h3>
 <p>Find out more about this product on the GoBusiness website (Link to website)</p>
 <p>Have questions? Contact us via email at <a href="mailto:info@tech.gov.sg" rel="noopener noreferrer nofollow" target="_blank">info@tech.gov.sg</a>
