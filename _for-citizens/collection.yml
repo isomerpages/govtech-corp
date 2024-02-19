@@ -2,6 +2,7 @@ collections:
   for-citizens:
     output: true
     order:
+      - Environment/TreesSG.md
       - Environment/MyENV.md
       - Environment/.keep
       - Digital Storage & Verification/.keep
