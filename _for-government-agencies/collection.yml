@@ -2,7 +2,6 @@ collections:
   for-government-agencies:
     output: true
     order:
-      - Transcribe.md
       - LaunchPad.md
       - Pair.md
       - VICA.md
