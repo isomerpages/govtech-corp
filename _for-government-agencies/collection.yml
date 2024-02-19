@@ -3,7 +3,7 @@ collections:
     output: true
     order:
       - Government Transactions/.keep
-      - Government Transactions/Singpass APIs.md
+      - Government Transactions/Singpass API.md
       - Government Transactions/RedeemSG.md
       - Government Transactions/PaySG.md
       - Software Development/.keep
