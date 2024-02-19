@@ -2,7 +2,7 @@ collections:
   for-government-agencies:
     output: true
     order:
-      - ICT/.keep
+      - Data & AI/.keep
       - Government Transactions/.keep
       - Government Transactions/Singpass APIs.md
       - Government Transactions/RedeemSG.md
