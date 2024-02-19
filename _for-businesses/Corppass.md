@@ -20,7 +20,7 @@ Entity Number (UEN) and foreign entities are entitled for Corppass</p>
 <p>The service is currently used by more than 550,000 entities to conduct
 online transactions for over 250 services with agencies and to manage digital
 access of employees.</p>
-<h3>Why use Corppass? </h3>
+<h3>Why use Corppass?</h3>
 <p>Features of Corppass - access to more than 250 government digital services,
 brings convenience by providing a single platform for corporate entities
 to conduct online transactions, provides flexibility by allowing entities
