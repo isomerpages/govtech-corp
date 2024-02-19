@@ -2,6 +2,5 @@ collections:
   for-government-agencies:
     output: true
     order:
-      - Video Analytics System (VAS).md
       - Government Commercial Cloud.md
       - SG Tech Stack.md
