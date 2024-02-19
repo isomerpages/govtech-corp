@@ -2,9 +2,9 @@ collections:
   for-citizens:
     output: true
     order:
-      - Environment/TreesSG.md
-      - Environment/MyENV.md
       - Environment/.keep
+      - Environment/MyENV.md
+      - Environment/TreesSG.md
       - Digital Storage & Verification/.keep
       - Digital Storage & Verification/FileSG.md
       - Digital Storage & Verification/Healthcerts.md
