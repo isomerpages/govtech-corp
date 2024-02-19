@@ -2,6 +2,7 @@ collections:
   for-government-agencies:
     output: true
     order:
+      - Productivity and Marketing/.keep
       - Government Transactions/.keep
       - Government Transactions/Singpass APIs.md
       - Government Transactions/RedeemSG.md
