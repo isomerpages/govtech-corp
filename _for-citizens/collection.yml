@@ -2,6 +2,7 @@ collections:
   for-citizens:
     output: true
     order:
+      - Digital Storage & Verification/FileSG.md
       - Digital Storage & Verification/.keep
       - Directories and Distribution/.keep
       - Directories and Distribution/GoWhere.md
