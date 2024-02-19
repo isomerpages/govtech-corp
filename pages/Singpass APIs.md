@@ -32,7 +32,8 @@ your application.</p>
 <p><strong>- (Are there any recent developments to include here?)</strong>
 </p>
 <h3>Interested to find out more about Singpass APIs?</h3>
-<p>Visit the Singpass API website to learn more.</p>
+<p>Visit the <a href="https://api.singpass.gov.sg/" rel="noopener noreferrer nofollow" target="_blank">Singpass API website</a> to
+learn more.</p>
 <p>Have questions? Contact us at <a href="mailto:digitalgov@tech.gov.sg" rel="noopener noreferrer nofollow" target="_blank">digitalgov@tech.gov.sg</a> (GovTech
 to confirm if we should use this, or if there's a specific team/PIC to
 contact)</p>
