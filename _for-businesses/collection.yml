@@ -2,5 +2,4 @@ collections:
   for-businesses:
     output: true
     order:
-      - Corppass.md
       - GoBusiness.md
