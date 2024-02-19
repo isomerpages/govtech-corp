@@ -2,10 +2,6 @@ collections:
   for-government-agencies:
     output: true
     order:
-      - ICT and Infrastructure/Data Loss Prevention.md
-      - ICT and Infrastructure/Secure Internet Surfing.md
-      - ICT and Infrastructure/Content Disarm and Reconstruction.md
-      - ICT and Infrastructure/.keep
       - Digital Service Standards.md
       - Transcribe.md
       - LaunchPad.md
