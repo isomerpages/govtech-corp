@@ -2,6 +2,7 @@ collections:
   for-government-agencies:
     output: true
     order:
+      - Software Development/Government on Commercial Cloud.md
       - Software Development/Singapore Government Tech Stack.md
       - Software Development/.keep
       - Government Transactions/PaySG.md
