@@ -1,5 +1,4 @@
 collections:
   for-government-agencies:
     output: true
-    order:
-      - SG Tech Stack.md
+    order: []
