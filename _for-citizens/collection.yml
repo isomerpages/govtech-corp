@@ -2,6 +2,7 @@ collections:
   for-citizens:
     output: true
     order:
+      - Healthcerts.md
       - CrowdTaskSG.md
       - SGFinDex.md
       - Our Marriage Journey.md
