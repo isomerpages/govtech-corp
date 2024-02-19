@@ -2,13 +2,13 @@ collections:
   for-government-agencies:
     output: true
     order:
-      - Software Development/Government on Commercial Cloud.md
-      - Software Development/Singapore Government Tech Stack.md
-      - Software Development/.keep
+      - Government Transactions/.keep
       - Government Transactions/PaySG.md
       - Government Transactions/RedeemSG.md
       - Government Transactions/Singpass APIs.md
-      - Government Transactions/.keep
+      - Software Development/.keep
+      - Software Development/Government on Commercial Cloud.md
+      - Software Development/Singapore Government Tech Stack.md
       - Whole of Government Application Analytics (WOGAA).md
       - Analytic gov.md
       - Video Analytics System.md
