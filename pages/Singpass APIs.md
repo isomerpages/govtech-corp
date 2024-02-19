@@ -5,10 +5,10 @@ variant: tiptap
 description: ""
 ---
 <h3>Enabling secure, convenient and seamless government transactions with Singpass APIs.</h3>
-<p>- Create a trusted digital ecosystem for citizens and businesses in Singapore
+<p>Create a trusted digital ecosystem for citizens and businesses in Singapore
 to allow them to transact digitally with the Government in a convenient
 and secure manner.</p>
-<p>- Government agencies in Singapore can leverage on a variety of Singpass
+<p>Government agencies in Singapore can leverage on a variety of Singpass
 APIs, such as MyInfo, Identiface, Notify and more.</p>
 <h3>Why use Singpass APIs?</h3>
 <p>Achieve "one-click" online registrations, allowing agencies to pre-fill
