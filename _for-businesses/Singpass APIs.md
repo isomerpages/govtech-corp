@@ -11,7 +11,7 @@ time and money across processes - from authenticating online users to digital
 signing, and more.</p>
 <p>A few APIs relevant for businesses include Myinfo, Verify, Sign, Identiface,
 and more.</p>
-<h3>Why use Singpass APIs? </h3>
+<h3>Why use Singpass APIs?</h3>
 <p>Easily authenticate users of your business' online services with higher
 assurance</p>
 <p>Get digital signing done conveniently from both your end and your customers'
