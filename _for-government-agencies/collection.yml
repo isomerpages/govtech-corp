@@ -2,6 +2,7 @@ collections:
   for-government-agencies:
     output: true
     order:
+      - Whole of Government Application Analytics (WOGAA).md
       - Singapore Government Tech Stack.md
       - Singpass APIs.md
       - Analytic gov.md
