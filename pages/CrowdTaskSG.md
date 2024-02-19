@@ -57,11 +57,11 @@ to include cash straight into citizens' GovWallet accounts.</p>
 </p>
 <p>Great Budget Meal Hunt: allow people to submit info about meals priced
 between $3 and $3.50 to help others locate cheap meals</p>
-<p>- Starting Nov 17, Scam Public Education Quiz: tests ability to identify
+<p>Starting Nov 17, Scam Public Education Quiz: tests ability to identify
 signs of scams and teaches participants how to keep Singpass account safe</p>
 <h3>Interested to find out more about CrowdTaskSG?</h3>
 <p>Visit the <a href="https://www.crowdtask.gov.sg/" rel="noopener noreferrer nofollow" target="_blank">CrowdTaskSG website</a> to
 read more about the product.</p>
 <p>Sign up as a <a href="http://eepurl.com/hsr131" rel="noopener noreferrer nofollow" target="_blank">Tech Kaki</a> to
 join our feedback community if you're keen to share feedback to improve
-any of our products. (Tech kaki sign up form)</p>
+any of our products.</p>
