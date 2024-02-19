@@ -2,6 +2,7 @@ collections:
   for-citizens:
     output: true
     order:
+      - Directories and Distribution/GovWallet.md
       - Directories and Distribution/GoWhere.md
       - Directories and Distribution/.keep
       - Digital Services/.keep
