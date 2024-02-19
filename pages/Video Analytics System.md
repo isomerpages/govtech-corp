@@ -32,7 +32,7 @@ flexibility vis-à-vis private commercial vendors.</p>
 <h3>What's the latest on VAS?</h3>
 <p>- (any updates on the product, or upcoming developments?)</p>
 <h3>Interested to find out more about VAS?</h3>
-<p>- Find out more about the product here.</p>
-<p>- Have questions? Contact us at <a href="mailto:digitalgov@tech.gov.sg" rel="noopener noreferrer nofollow" target="_blank">digitalgov@tech.gov.sg</a> (GovTech
+<p>Find out more about the product here.</p>
+<p>Have questions? Contact us at <a href="mailto:digitalgov@tech.gov.sg" rel="noopener noreferrer nofollow" target="_blank">digitalgov@tech.gov.sg</a> (GovTech
 to confirm if we should use this, or if there's a specific team/PIC to
 contact)</p>
