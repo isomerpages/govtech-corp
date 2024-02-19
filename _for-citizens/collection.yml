@@ -2,6 +2,7 @@ collections:
   for-citizens:
     output: true
     order:
+      - Digital Services/Singpass.md
       - Digital Services/.keep
       - Vulnerability Discovery Programme.md
       - FileSG.md
