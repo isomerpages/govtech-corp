@@ -9,8 +9,8 @@ description: ""
 consistent means to adopt commercial cloud solutions offered by cloud service
 providers.</p>
 <p>To date, over 600 government digital services are on the GCC - this includes
-MyCareersFuture (Link to MyCareersFuture product page), GoBusiness (Link
-to GoBusiness product page), WOGAA (Link to WOGAA product page) and more.</p>
+<a href="https://www.mycareersfuture.gov.sg/" rel="noopener noreferrer nofollow" target="_blank">MyCareersFuture</a>, <a href="https://www.gobusiness.gov.sg/" rel="noopener noreferrer nofollow" target="_blank">GoBusiness</a>, <a href="https://www.developer.tech.gov.sg/products/categories/analytics/wogaa/overview.html" rel="noopener noreferrer nofollow" target="_blank">WOGAA</a> and
+more.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Products and Services/gcc_fig1.jpg">
 </div>
