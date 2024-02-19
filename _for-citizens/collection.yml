@@ -2,6 +2,7 @@ collections:
   for-citizens:
     output: true
     order:
+      - Environment/MyENV.md
       - Environment/.keep
       - Digital Storage & Verification/.keep
       - Digital Storage & Verification/FileSG.md
