@@ -2,6 +2,7 @@ collections:
   for-government-agencies:
     output: true
     order:
+      - Singapore Government Tech Stack.md
       - Singpass APIs.md
       - Analytic gov.md
       - Government on Commercial Cloud.md
