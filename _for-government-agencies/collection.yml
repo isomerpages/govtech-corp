@@ -2,7 +2,6 @@ collections:
   for-government-agencies:
     output: true
     order:
-      - WOGAA.md
       - Analytics gov.md
       - Video Analytics System (VAS).md
       - Government Commercial Cloud.md
