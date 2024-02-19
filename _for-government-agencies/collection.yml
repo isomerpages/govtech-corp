@@ -2,7 +2,6 @@ collections:
   for-government-agencies:
     output: true
     order:
-      - Digital Workplace.md
       - GovText.md
       - DataGovSG.md
       - WOGAA.md
