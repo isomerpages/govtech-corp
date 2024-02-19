@@ -19,7 +19,7 @@ like Nee Soon Cares Vouchers and Temasek Poly Care Network Vouchers.</p>
 over 19,000 merchants onboarded. 98% of Singaporean households have claimed
 at least 1 voucher using RedeemSG to date, with 2023 alone seeing 21 campaigns
 and over 1.2M vouchers claimed.</p>
-<h3>Why use RedeemSG? </h3>
+<h3>Why use RedeemSG?</h3>
 <p>Build your own voucher campaign or scheme with ease</p>
 <p>Select and onboard your preferred merchants</p>
 <p>Conveniently manage the campaign and track redemptions through the Admin
