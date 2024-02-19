@@ -2,6 +2,7 @@ collections:
   for-government-agencies:
     output: true
     order:
+      - Singpass APIs.md
       - Analytic gov.md
       - Government on Commercial Cloud.md
       - Video Analytics System.md
