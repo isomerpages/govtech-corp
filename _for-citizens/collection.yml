@@ -2,11 +2,11 @@ collections:
   for-citizens:
     output: true
     order:
-      - Digital Services/SGFinDex.md
-      - Digital Services/Our Marriage Journey.md
-      - Digital Services/LifeSG.md
-      - Digital Services/Singpass.md
       - Digital Services/.keep
+      - Digital Services/Singpass.md
+      - Digital Services/LifeSG.md
+      - Digital Services/Our Marriage Journey.md
+      - Digital Services/SGFinDex.md
       - Vulnerability Discovery Programme.md
       - FileSG.md
       - GoWhere.md
