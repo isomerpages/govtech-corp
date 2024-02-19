@@ -1,5 +1,4 @@
 collections:
   for-businesses:
     output: true
-    order:
-      - GoBusiness.md
+    order: []
