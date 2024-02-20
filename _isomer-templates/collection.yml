@@ -3,6 +3,7 @@ collections:
     output: true
     order:
       - New isomer.md
+      - Templates/Informative.md
       - Templates/Listing.md
       - Templates/Persona.md
       - Templates/.keep
