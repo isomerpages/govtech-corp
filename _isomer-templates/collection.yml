@@ -1,5 +1,5 @@
 collections:
-  old-isomer-templates:
+  isomer-templates:
     output: true
     order:
       - New isomer.md
