@@ -5,7 +5,7 @@ variant: tiptap
 description: ""
 third_nav_title: Productivity and Marketing
 ---
-<h3>Power public-facing chatbots and serve citizens better with VICA </h3>
+<h3>Power public-facing chatbots and serve citizens better with VICA</h3>
 <p>VICA, Virtual Intelligent Chat Assistant, is GovTech's next-generation
 virtual assistant platform that powers government chatbots</p>
 <p>It leverages natural language processing (NLP) engines, machine learning
@@ -40,7 +40,6 @@ by VICA:</p>
 </div>
 <div class="isomer-card-body">
 <div class="isomer-card-title">Ask Gayle</div>
-<div class="isomer-card-description">This is body text for your card. Describe your card.</div>
 <div class="isomer-card-link">GovTech</div>
 </div>
 </a>
