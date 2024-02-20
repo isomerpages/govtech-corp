@@ -573,6 +573,40 @@ and Information</div>
 </div>
 </div><a rel="noopener noreferrer nofollow" href="https://www.isomer.gov.sg" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Placeholder image" src="/images/About Us/Derrick_Goh__1_.jpg"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Mr Derrick GOH</div><div class="isomer-card-description">MANAGING DIRECTOR AND HEAD OF GROUP AUDIT, DBS Bank</div><div class="isomer-card-link">This is a link for your card</div></div></a>
 </div>
-<p></p>
+<div class="isomer-card-grid">
+<div class="isomer-card">
+<div class="isomer-card-image">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Placeholder image" src="/images/About Us/Lesly_Goh__1_.jpg">
+</div>
+</div>
+<div class="isomer-card-body">
+<div class="isomer-card-title">Ms Lesly GOH</div>
+<div class="isomer-card-description">SENIOR TECHNOLOGY ADVISOR, World Bank</div>
+</div>
+</div>
+<div class="isomer-card">
+<div class="isomer-card-image">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Placeholder image" src="/images/About Us/Ho_Teck_Hua__1_.jpg">
+</div>
+</div>
+<div class="isomer-card-body">
+<div class="isomer-card-title">Prof HO Teck Hua</div>
+<div class="isomer-card-description">PRESIDENT, Nanyang Technological University, Singapore</div>
+</div>
+</div>
+<div class="isomer-card">
+<div class="isomer-card-image">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Placeholder image" src="/images/About Us/Melissa_Khoo__1_.jpg">
+</div>
+</div>
+<div class="isomer-card-body">
+<div class="isomer-card-title">Ms Melissa KHOO</div>
+<div class="isomer-card-description">DEPUTY SECRETARY (HIGHER EDUCATION AND SKILLS), Ministry of Education</div>
+</div>
+</div>
+</div>
 <p></p>
 <p></p>
