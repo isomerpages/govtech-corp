@@ -2,6 +2,7 @@ collections:
   isomer-templates:
     output: true
     order:
+      - Headshot.md
       - Article.md
       - Informative.md
       - New Modules.md
