@@ -2,5 +2,6 @@ collections:
   for-businesses:
     output: true
     order:
+      - Corporate Transactions/Corppass.md
       - Corporate Transactions/Singpass API.md
       - Corporate Transactions/.keep
