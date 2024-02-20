@@ -2,6 +2,7 @@ collections:
   isomer-templates:
     output: true
     order:
+      - Informative.md
       - New isomer.md
       - Templates/Headshot.md
       - Templates/Form.md
