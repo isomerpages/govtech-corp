@@ -808,3 +808,40 @@ Services HQ</div>
 </div>
 </div>
 <p></p>
+<div class="isomer-card-grid">
+<div class="isomer-card">
+<div class="isomer-card-image">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Placeholder image" src="/images/About Us/Kevin_Ng__1_.jpg">
+</div>
+</div>
+<div class="isomer-card-body">
+<div class="isomer-card-title">Mr Kevin NG</div>
+<div class="isomer-card-description">SENIOR DIRECTOR, Government Digital Services - Central</div>
+</div>
+</div>
+<div class="isomer-card">
+<div class="isomer-card-image">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Placeholder image" src="/images/About Us/DN_Prasad__1_.jpg">
+</div>
+</div>
+<div class="isomer-card-body">
+<div class="isomer-card-title">Mr D. N. PRASAD</div>
+<div class="isomer-card-description">SENIOR DIRECTOR, People and Organisation Division</div>
+</div>
+</div>
+<div class="isomer-card">
+<div class="isomer-card-image">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Placeholder image" src="/images/About Us/Jason_See__1_.jpg">
+</div>
+</div>
+<div class="isomer-card-body">
+<div class="isomer-card-title">Mr Jason SEE</div>
+<div class="isomer-card-description">SENIOR DIRECTOR, Data Science and Artificial Intelligence SENIOR DIRECTOR-DESIGNATE,
+Education Cluster</div>
+</div>
+</div>
+</div>
+<p></p>
