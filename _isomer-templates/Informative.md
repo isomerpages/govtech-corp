@@ -46,9 +46,6 @@ description: ""
 </tbody>
 </table>
 <h4><strong>Video</strong></h4>
-<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Etiam quis elementum
-ex. Nunc a massa feugiat, feugiat orci at, eleifend quam. Donec scelerisque
-semper nisl et sodales. Suspendisse euismod or</p>
 <div class="iframe-wrapper">
 <iframe height="500" width="100%" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/MfkeAoVo4Vo?si=Mn1ssByy4RAiSBQw"></iframe>
 </div>
