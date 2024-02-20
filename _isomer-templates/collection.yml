@@ -4,7 +4,6 @@ collections:
     order:
       - New isomer.md
       - Templates/.keep
-      - Persona.md
       - Listing.md
       - Informative.md
       - Article.md
