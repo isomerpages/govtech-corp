@@ -735,4 +735,41 @@ Citi</div>
 </div>
 </div>
 </div>
+<div class="isomer-card-grid">
+<div class="isomer-card">
+<div class="isomer-card-image">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Placeholder image" src="/images/About Us/Dominic_Chan__1_.jpg">
+</div>
+</div>
+<div class="isomer-card-body">
+<div class="isomer-card-title">Mr Dominic CHAN</div>
+<div class="isomer-card-description">CHIEF INFORMATION OFFICER / ASSISTANT CHIEF EXECUTIVE, Product Management</div>
+</div>
+</div>
+<div class="isomer-card">
+<div class="isomer-card-image">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Placeholder image" src="/images/About Us/Tan_Bee_Teck__2_.jpg">
+</div>
+</div>
+<div class="isomer-card-body">
+<div class="isomer-card-title">Mr TAN Bee Teck</div>
+<div class="isomer-card-description">ASSISTANT CHIEF EXECUTIVE, Central Administration and Social Clusters
+SENIOR DIRECTOR, Education Cluster</div>
+</div>
+</div>
+<div class="isomer-card">
+<div class="isomer-card-image">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Placeholder image" src="/images/About Us/Tan_Eng_Pheng__2_.jpg">
+</div>
+</div>
+<div class="isomer-card-body">
+<div class="isomer-card-title">Mr TAN Eng Pheng</div>
+<div class="isomer-card-description">ASSISTANT CHIEF EXECUTIVE, Economic and National Development Clusters,
+Services HQ</div>
+</div>
+</div>
+</div>
 <p></p>
