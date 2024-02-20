@@ -29,23 +29,21 @@ transactions, 200+ e-Advisers to provide personalised recommendations on
 various business topics.</p>
 <p>Businesses can easily access 120+ government e-services, find updated
 regulatory resources, and keep business transactions in one place</p>
-<h3><strong>How to use GoBusiness?</strong> </h3>
+<h3><strong>How to use GoBusiness?</strong></h3>
 <p>Visit the <a href="https://dashboard.gobusiness.gov.sg/login" class="waffle-rich-text-link" rel="noopener noreferrer nofollow" target="_blank"><u>GoBusiness portal</u></a>.
 Simply log in via Singpass to get started.</p>
 <p>Need support while using GoBusiness? Visit the helpdesk <a href="https://www.gobusiness.gov.sg/contact-us/?src=topnav" class="waffle-rich-text-link" rel="noopener noreferrer nofollow" target="_blank"><u>here</u></a>.</p>
-<p><strong>4. What's the latest on GoBusiness?</strong>
-</p>
-<p>- e-Adviser for events: Get step-by-step guidance on the permits required
+<h3><strong>What's the latest on GoBusiness?</strong></h3>
+<p>e-Adviser for events: Get step-by-step guidance on the permits required
 for an upcoming event just by answering a few questions with this new and
-improved e-Adviser feature. Find out how to access this feature <a href="https://www.facebook.com/GovTechSG/posts/pfbid0VsAFmLUrC5sdA4NNGQknDjEzQ2CVhT48MfadGtJwePwCAEePe1TtgSmPXA7t5rQWl" class="waffle-rich-text-link" rel="noopener noreferrer nofollow" target="_blank"><u>here</u></a>.
-- e-Adviser for IP Service Provider: Use this e-Adviser to get recommendations
+improved e-Adviser feature. Find out how to access this feature <a href="https://www.facebook.com/GovTechSG/posts/pfbid0VsAFmLUrC5sdA4NNGQknDjEzQ2CVhT48MfadGtJwePwCAEePe1TtgSmPXA7t5rQWl" class="waffle-rich-text-link" rel="noopener noreferrer nofollow" target="_blank"><u>here</u></a>.</p>
+<p>e-Adviser for IP Service Provider: Use this e-Adviser to get recommendations
 on the most suitable IA/IP service providers that can meet your IA/IP needs.
-Find out more about this feature <a href="https://eadviser.gobusiness.gov.sg/ipserviceprovider" class="waffle-rich-text-link" rel="noopener noreferrer nofollow" target="_blank"><u>here</u></a>.
-- IP Grow and e-Adviser for IP Service: This new service helps business
+Find out more about this feature <a href="https://eadviser.gobusiness.gov.sg/ipserviceprovider" class="waffle-rich-text-link" rel="noopener noreferrer nofollow" target="_blank"><u>here</u></a>.</p>
+<p>IP Grow and e-Adviser for IP Service: This new service helps business
 owners like you with your IA/IP needs, to strengthen your business. Get
 recommendations on the IA/IP services your business might need through
 the e-Adviser feature. Find out more about this <a href="https://www.gobusiness.gov.sg/intellectual-property/ip-grow/" class="waffle-rich-text-link" rel="noopener noreferrer nofollow" target="_blank"><u>here</u></a>.</p>
-<p><strong>5. Interested to find out more about GoBusiness?</strong>
-</p>
-<p>- Find out more about this product on the GoBusiness website (Link to
-website) - Have questions? Contact the GoBusiness Helpdesk <a href="https://www.gobusiness.gov.sg/contact-us/?src=topnav" class="waffle-rich-text-link" rel="noopener noreferrer nofollow" target="_blank"><u>here</u></a>.</p>
+<h3><strong>Interested to find out more about GoBusiness?</strong></h3>
+<p>Find out more about this product on the <a href="https://www.gobusiness.gov.sg/" rel="noopener noreferrer nofollow" target="_blank">GoBusiness website</a>.</p>
+<p>Have questions? Contact the GoBusiness Helpdesk <a href="https://www.gobusiness.gov.sg/contact-us/?src=topnav" class="waffle-rich-text-link" rel="noopener noreferrer nofollow" target="_blank"><u>here</u></a>.</p>
