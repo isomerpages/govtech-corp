@@ -83,7 +83,6 @@ sceleris</div>
 </div>
 <h4></h4>
 <h2>3. Info Module</h2>
-<p>hyperlink cannot be within text, always located below</p>
 <div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="https://www.isomer.gov.sg" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Placeholder image" src="/images/Products and Services/singpass-security-measures.jpg"></div></div><div class="isomer-card-body"><div class="isomer-card-title">[40] Nunc a massa feugiat, feugiat orceleifen</div><div class="isomer-card-description">[150] Lorem ipsum dolor sit amet, consectetur adipiscing elit. Etiam quis elementum ex. Nunc a massa feugiat, feugiat orci at, eleifend quam. Donec sceleris</div><div class="isomer-card-link">[20] Etiam quis elementum</div></div></a>
 <a rel="noopener noreferrer nofollow" href="https://www.isomer.gov.sg" class="isomer-card">
 <div class="isomer-card-image">
@@ -336,9 +335,22 @@ scelerisque semper nisl et sodales. Suspendisse euismod or</p>
 </div>
 </td>
 </tr>
+</tbody>
+</table>
+<table>
+<tbody>
 <tr>
-<td rowspan="1" colspan="3">
-<h4><a href="www.isomer.com" rel="noopener noreferrer nofollow" target="_blank">[20]Etiam quis elementum</a></h4>
+<td rowspan="1" colspan="1">
+<p><a href="www.isomer.com" rel="noopener noreferrer nofollow" target="_blank">[20] Etiam quis elementum</a>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="www.isomer.com" rel="noopener noreferrer nofollow" target="_blank">[20] Etiam quis elementum</a>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="www.isomer.com" rel="noopener noreferrer nofollow" target="_blank">[20] Etiam quis elementum</a>
+</p>
 </td>
 </tr>
 </tbody>
@@ -351,7 +363,7 @@ scelerisque semper nisl et sodales. Suspendisse euismod or</p>
 <div class="iframe-wrapper">
 <iframe height="500" width="100%" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/MfkeAoVo4Vo?si=Mn1ssByy4RAiSBQw"></iframe>
 </div>
-<h2>14. Accordion Module</h2>
+<h2><em>14. Accordion Module</em></h2>
 <p>Release in End Feb on isomer</p>
 <p></p>
 <h2>15. Plain Card Module [TLDR]</h2>
