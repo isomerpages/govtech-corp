@@ -20,12 +20,12 @@ and brainstorm innovative solutions.</p>
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Products and Services/Launchpad_screenshot.jpg">
 </div>
 <p>Users can experiment in a safe and supportive space, allowing users to
-unlock the full potential of language models</p>
+unlock the full potential of language models.</p>
 <p>Collaborate across the Whole-of-Government to propose ideas, identify
-problems and brainstorm innovative solutions</p>
-<p>Rapidly prototype and vote for impactful projects, saving on time</p>
+problems and brainstorm innovative solutions.</p>
+<p>Rapidly prototype and vote for impactful projects, saving on time.</p>
 <p>Submit your ideas and get the necessary tech support to build a workable
-prototype</p>
+prototype.</p>
 <h3>How to use LaunchPad?</h3>
 <p>Visit <a href="https://launchpad.data.tech.gov.sg/" rel="noopener noreferrer nofollow" target="_blank">Launchpad website</a> if
 you have access within the government network to get started</p>
