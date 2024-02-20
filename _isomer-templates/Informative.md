@@ -122,7 +122,7 @@ turpis nisl aliquam nisl. Eget mae</div>
 </div>
 </div>
 </div>
-<h4><strong>Quote block </strong></h4>
+<h4><strong>Quote block</strong></h4>
 <blockquote>
 <p><em>[150] Lorem ipsum dolor sit amet, consectetur adipiscing elit. Etiam quis elementum ex. Nunc a massa feugiat, feugiat orci at, eleifend quam. Donec sceleris</em>
 </p>
