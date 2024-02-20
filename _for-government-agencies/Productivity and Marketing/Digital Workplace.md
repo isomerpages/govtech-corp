@@ -46,34 +46,6 @@ Data Loss Prevention (DLP).</div>
 </div>
 </a><a rel="noopener noreferrer nofollow" href="https://www.isomer.gov.sg" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Placeholder image" src="https://placehold.co/600x400"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Secure Internet Surfing (SIS)</div><div class="isomer-card-description">Surf the internet and download any necessary files from the web directly onto your work device securely and efficiently with Secure Internet Surfing (SIS).</div><div class="isomer-card-link">This is a link for your card</div></div></a>
 </div>
-<p></p>
-<p>Get seamless access to your work calendar, even when you're on-the-go,
-with CalSync</p>
-<ol data-tight="true" class="tight">
-<li>
-<p>Send multi-channel, personalised messages in bulk with minimal setup required
-through Postman</p>
-</li>
-<li>
-<p>Collect data quickly and securely with an easy-to-use form builder, FormSG
-(Link to FormSG product page on GT website)</p>
-</li>
-<li>
-<p>Reduce the time spent on manual transcription with Transcribe (Link to
-Transcribe product page on GT website), a speech-to-text platform with
-auto-transcription technologies</p>
-</li>
-<li>
-<p>Perform activities like sending emails and uploading files to Cloud services
-without worries of a data breach with enhanced data security measures through
-Data Loss Prevention (DLP) (Link to DLP product page on GT website)</p>
-</li>
-<li>
-<p>Surf the internet and download any necessary files from the web directly
-onto your work device securely and efficiently with Secure Internet Surfing
-(SIS) (Link to SIS product page).</p>
-</li>
-</ol>
 <h3>How to use DWP?</h3>
 <p><strong>- (Is it right to say that they can access all the Digital Workplace Products available to them via the App Library, and go from there?)</strong>
 </p>
