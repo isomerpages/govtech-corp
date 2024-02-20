@@ -274,8 +274,24 @@ scelerisque semper nisl et sodales. Suspendisse euismod or</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/tracetogethertest1.jpg">
 </div>
+<table>
+<tbody>
+<tr>
+<td rowspan="1" colspan="1">
 <p><a href="www.isomer.com" rel="noopener noreferrer nofollow" target="_blank">[20] Etiam quis elementum</a>
 </p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="www.isomer.com" rel="noopener noreferrer nofollow" target="_blank">[20] Etiam quis elementum</a>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="www.isomer.com" rel="noopener noreferrer nofollow" target="_blank">[20] Etiam quis elementum</a>
+</p>
+</td>
+</tr>
+</tbody>
+</table>
 <h2>12. Logo Showcase Module</h2>
 <h3>[50] Nunc a massa feugiat, feugiat orci at, eleifend qu</h3>
 <p>[200] Lorem ipsum dolor sit amet, consectetur adipiscing elit. Etiam quis
