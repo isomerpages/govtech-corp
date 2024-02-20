@@ -4,8 +4,10 @@ permalink: /isomer-templates/headshot/
 variant: tiptap
 description: ""
 ---
-<h4><strong>Headshot Module</strong></h4>
+<h4><strong>Intro Module</strong></h4>
 <h2>[150] Lorem ipsum dolor sit amet, consectetur adipiscing elit. Etiam quis elementum ex. Nunc a massa feugiat, feugiat orci at, eleifend quam. Donec sceleris</h2>
+<p></p>
+<h4><strong>Headshot Module</strong></h4>
 <h4>Board of Directors</h4>
 <div class="isomer-card-grid">
 <div class="isomer-card">
