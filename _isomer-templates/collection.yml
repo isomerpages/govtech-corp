@@ -8,10 +8,10 @@ collections:
       - Article.md
       - Informative.md
       - New Modules.md
-      - Templates/Headshot.md
-      - Templates/Form.md
-      - Templates/Article.md
-      - Templates/Informative.md
-      - Templates/Listing.md
-      - Templates/Persona.md
-      - Templates/.keep
+      - Old Templates/Headshot.md
+      - Old Templates/Form.md
+      - Old Templates/Article.md
+      - Old Templates/Informative.md
+      - Old Templates/Listing.md
+      - Old Templates/Persona.md
+      - Old Templates/.keep
