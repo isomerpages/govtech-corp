@@ -14,14 +14,14 @@ without the need for a separate device</p>
 filtered out to prevent a data breach or malware infection</p>
 <p>They will also be able to log in to social media sites to make text-based
 posts, as well as open links directly from e-mails and documents.</p>
-<p><strong>Include first infographic  from Straits Times article (to recreate, different design)</strong>
+<p><strong>Include first infographic from Straits Times article (to recreate, different design)</strong>
 </p>
 <p>As an extension of SIS, there is also Content Disarm &amp; Reconstruction
 (CDR) - a security feature that aims to reduce security risks when downloading
 files from internet sites, by isolating potential malware threats and allowing
 only clean and high-fidelity file content to reach the Government Standard
 Image Build (GSIB) work devices for file download via SIS</p>
-<h3>Why is SIS important? </h3>
+<h3>Why is SIS important?</h3>
 <p>SIS helps to improve public officers' productivity while safeguarding
 sensitive government data.</p>
 <p>With CDR, the number of allowed websites and file types for downloads
