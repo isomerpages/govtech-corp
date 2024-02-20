@@ -676,20 +676,63 @@ Citi</div>
 <div class="isomer-card-description">CEO AND CO-FOUNDER OF A NEW COMPANY (TO BE ANNOUNCED)</div>
 </div>
 </div>
-</div>
-<p></p>
-<div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="https://www.isomer.gov.sg" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Placeholder image" src="https://placehold.co/600x400"></div></div><div class="isomer-card-body"><div class="isomer-card-title">This is a title for your card</div><div class="isomer-card-description">This is body text for your card. Describe your card.</div><div class="isomer-card-link">This is a link for your card</div></div></a>
-<a rel="noopener noreferrer nofollow" href="https://www.isomer.gov.sg" class="isomer-card">
+<div class="isomer-card">
 <div class="isomer-card-image">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Placeholder image" src="https://placehold.co/600x400">
+<img style="width: 100%" height="auto" width="100%" alt="placeholder" src="/images/About Us/Vaishali_Rastogi__1_.jpg">
 </div>
 </div>
 <div class="isomer-card-body">
-<div class="isomer-card-title">This is a title for your card</div>
-<div class="isomer-card-description">This is body text for your card. Describe your card.</div>
-<div class="isomer-card-link">This is a link for your card</div>
+<div class="isomer-card-title">Ms Vaishali RASTOGI</div>
+<div class="isomer-card-description">GLOBAL LEADER OF TECHNOLOGY, MEDIA AND TELECOMMUNICATIONS BUSINESS, BCG</div>
 </div>
-</a><a rel="noopener noreferrer nofollow" href="https://www.isomer.gov.sg" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Placeholder image" src="https://placehold.co/600x400"></div></div><div class="isomer-card-body"><div class="isomer-card-title">This is a title for your card</div><div class="isomer-card-description">This is body text for your card. Describe your card.</div><div class="isomer-card-link">This is a link for your card</div></div></a>
+</div>
+<div class="isomer-card">
+<div class="isomer-card-image">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="placeholder" src="/images/About Us/Mervyn_Tan__1_.jpg">
+</div>
+</div>
+<div class="isomer-card-body">
+<div class="isomer-card-title">Mr Mervyn TAN</div>
+<div class="isomer-card-description">CHIEF EXECUTIVE, Defence Science and Technology Agency</div>
+</div>
+</div>
+</div>
+<h3>SENIOR LEADERSHIP</h3>
+<div class="isomer-card-grid">
+<div class="isomer-card">
+<div class="isomer-card-image">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Placeholder image" src="/images/About Us/Goh_Wei_Boon.jpg">
+</div>
+</div>
+<div class="isomer-card-body">
+<div class="isomer-card-title">Mr GOH Wei Boon</div>
+<div class="isomer-card-description">CHIEF EXECUTIVE, Government Technology Agency</div>
+</div>
+</div>
+<div class="isomer-card">
+<div class="isomer-card-image">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Placeholder image" src="/images/About Us/Chang_Sau_Sheong__1_.jpg">
+</div>
+</div>
+<div class="isomer-card-body">
+<div class="isomer-card-title">Mr CHANG Sau Sheong</div>
+<div class="isomer-card-description">DEPUTY CHIEF EXECUTIVE, Product and Engineering, TMO / CODE</div>
+</div>
+</div>
+<div class="isomer-card">
+<div class="isomer-card-image">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Placeholder image" src="/images/About Us/Henry_Chang__1_.jpg">
+</div>
+</div>
+<div class="isomer-card-body">
+<div class="isomer-card-title">Mr Henry CHANG</div>
+<div class="isomer-card-description">DEPUTY CHIEF EXECUTIVE, Services, Governance and Cybersecurity</div>
+</div>
+</div>
 </div>
 <p></p>
