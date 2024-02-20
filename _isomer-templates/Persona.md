@@ -8,7 +8,7 @@ description: ""
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/technews/Five_ways_you_might_be_sabotaging_your_data_privacy_.jpg">
 </div>
-<h4>[150] Lorem ipsum dolor sit amet, consectetur adipiscing elit. Etiam quis elementum ex. Nunc a massa feugiat, feugiat orci at, eleifend quam. Donec sceleris</h4>
+<h2>[150] Lorem ipsum dolor sit amet, consectetur adipiscing elit. Etiam quis elementum ex. Nunc a massa feugiat, feugiat orci at, eleifend quam. Donec sceleris</h2>
 <p></p>
 <h4><strong>Related Content Module</strong></h4>
 <div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="https://www.isomer.gov.sg" class="isomer-card"><div class="isomer-card-body"><div class="isomer-card-title">[40] Nunc a massa feugiat, feugiat orceleifen</div><div class="isomer-card-description">[120] Sitmet consectetur. Amet venenatis mattis aliquam pharetra aenean turpis nisl aliquam nisl. Eget maecenas pulvinar venen</div><div class="isomer-card-link">[20] Etiam quis elementum</div></div></a>
