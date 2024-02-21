@@ -26,32 +26,25 @@ this Valentine’s Day.</p>
 </p>
 <ol data-tight="true" class="tight">
 <li>
-<p><a href="https://www.tech.gov.sg/media/technews/kickstart-your-love-story-with-these-seven-digital-services#1-get-intellectually-stimulated-with-the-nlb-mobile-app" class="editor-rtfLink" rel="noopener noreferrer nofollow" target="_blank">Get intellectually stimulated with the NLB mobile app</a>
-</p>
+<p>Get intellectually stimulated with the NLB mobile app</p>
 </li>
 <li>
-<p><a href="https://www.tech.gov.sg/media/technews/kickstart-your-love-story-with-these-seven-digital-services#2-never-lose-your-way-again-with-nparks-near" class="editor-rtfLink" rel="noopener noreferrer nofollow" target="_blank">Never lose your way again with NParks NEAR</a>
-</p>
+<p>Never lose your way again with NParks NEAR</p>
 </li>
 <li>
-<p><a href="https://www.tech.gov.sg/media/technews/kickstart-your-love-story-with-these-seven-digital-services#3-get-your-relationship-moving-with-mytransport" class="editor-rtfLink" rel="noopener noreferrer nofollow" target="_blank">Get your relationship moving with MyTransport</a>
-</p>
+<p>Get your relationship moving with MyTransport</p>
 </li>
 <li>
-<p><a href="https://www.tech.gov.sg/media/technews/kickstart-your-love-story-with-these-seven-digital-services#4-keep-fit-together-with-activesg" class="editor-rtfLink" rel="noopener noreferrer nofollow" target="_blank">Keep fit together with ActiveSG</a>
-</p>
+<p>Keep fit together with ActiveSG</p>
 </li>
 <li>
-<p><a href="https://www.tech.gov.sg/media/technews/kickstart-your-love-story-with-these-seven-digital-services#5-prepare-to-settle-down-together-with-mynicehome" class="editor-rtfLink" rel="noopener noreferrer nofollow" target="_blank">Prepare to settle down together with MyNiceHome</a>
-</p>
+<p>Prepare to settle down together with MyNiceHome</p>
 </li>
 <li>
-<p><a href="https://www.tech.gov.sg/media/technews/kickstart-your-love-story-with-these-seven-digital-services#6-seal-the-deal-with-our-marriage-journey" class="editor-rtfLink" rel="noopener noreferrer nofollow" target="_blank">Seal the deal with Our Marriage Journey</a>
-</p>
+<p>Seal the deal with Our Marriage Journey</p>
 </li>
 <li>
-<p><a href="https://www.tech.gov.sg/media/technews/kickstart-your-love-story-with-these-seven-digital-services#7-go-through-life-together-with-lifesg" class="editor-rtfLink" rel="noopener noreferrer nofollow" target="_blank">Go through life together with LifeSG</a>
-</p>
+<p>Go through life together with LifeSG</p>
 </li>
 </ol>
 <h3>1. Get intellectually stimulated with the NLB mobile app</h3>
