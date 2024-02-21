@@ -57,13 +57,28 @@ government digital services.</p>
 <p>Our work can be classified into these key capability centres:</p>
 <p>Use information from this page and the subsequent pages - <a href="https://www.tech.gov.sg/digital-government-blueprint/" rel="noopener noreferrer nofollow" target="_blank"><u>https://www.tech.gov.sg/digital-government-transformation/</u></a>
 </p>
-<p>1. Application Design, Development &amp; Deployment <a href="https://www.tech.gov.sg/digital-government-blueprint/" rel="noopener noreferrer nofollow" target="_blank"><u>https://www.tech.gov.sg/capability-centre-gds</u></a>
-</p>
-<p>2. Cybersecurity <a href="https://www.tech.gov.sg/digital-government-blueprint/" rel="noopener noreferrer nofollow" target="_blank"><u>https://www.tech.gov.sg/capability-centre-csg</u></a>
-</p>
-<p>3. Data Science and Artificial Intelligence <a href="https://www.tech.gov.sg/digital-government-blueprint/" rel="noopener noreferrer nofollow" target="_blank"><u>https://www.tech.gov.sg/capability-centre-dsaid</u></a>
-</p>
-<p>4. Government ICT Infrastructure <a href="https://www.tech.gov.sg/digital-government-blueprint/" rel="noopener noreferrer nofollow" target="_blank"><u>https://www.tech.gov.sg/capability-centre-gig</u></a>
-</p>
-<p>5. Smart City Technology <a href="https://www.tech.gov.sg/digital-government-blueprint/" rel="noopener noreferrer nofollow" target="_blank"><u>https://www.tech.gov.sg/capability-centre-sctd</u></a>
-</p>
+<div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="https://www.tech.gov.sg/capability-centre-gds" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Placeholder image" src="https://placehold.co/600x400"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Application Design, Development &amp; Deployment</div><div class="isomer-card-link">Learn more</div></div></a>
+<a rel="noopener noreferrer nofollow" href="https://www.tech.gov.sg/capability-centre-csg" class="isomer-card">
+<div class="isomer-card-image">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Placeholder image" src="https://placehold.co/600x400">
+</div>
+</div>
+<div class="isomer-card-body">
+<div class="isomer-card-title">Cybersecurity</div>
+<div class="isomer-card-link">Learn more</div>
+</div>
+</a><a rel="noopener noreferrer nofollow" href="https://www.tech.gov.sg/capability-centre-dsaid" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Placeholder image" src="https://placehold.co/600x400"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Data Science and Artificial Intelligence</div><div class="isomer-card-link">Learn more</div></div></a>
+<a rel="noopener noreferrer nofollow" href="https://www.tech.gov.sg/capability-centre-gig" class="isomer-card">
+<div class="isomer-card-image">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Placeholder" src="https://placehold.co/600x400">
+</div>
+</div>
+<div class="isomer-card-body">
+<div class="isomer-card-title">Government ICT Infrastructure</div>
+<div class="isomer-card-link">Learn more</div>
+</div>
+</a><a rel="noopener noreferrer nofollow" href="https://www.tech.gov.sg/capability-centre-sctd" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Placeholder" src="https://placehold.co/600x400"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Smart City Technology</div><div class="isomer-card-link">Learn more</div></div></a>
+</div>
+<p></p>
