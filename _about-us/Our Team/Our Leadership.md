@@ -246,7 +246,7 @@ Citi</div>
 <div class="isomer-card">
 <div class="isomer-card-image">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Placeholder image" src="/images/About Us/Dominic_Chan__1_.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="Mr Dominic CHAN" src="/images/About Us/Dominic_CHAN.jpg">
 </div>
 </div>
 <div class="isomer-card-body">
@@ -257,7 +257,7 @@ Citi</div>
 <div class="isomer-card">
 <div class="isomer-card-image">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Placeholder image" src="/images/About Us/Tan_Bee_Teck__2_.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="Mr TAN Bee Teck" src="/images/About Us/TAN_Bee_Teck.jpg">
 </div>
 </div>
 <div class="isomer-card-body">
@@ -269,7 +269,7 @@ SENIOR DIRECTOR, Education Cluster</div>
 <div class="isomer-card">
 <div class="isomer-card-image">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Placeholder image" src="/images/About Us/Tan_Eng_Pheng__2_.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="Mr TAN Eng Pheng" src="/images/About Us/TAN_Eng_Pheng.jpg">
 </div>
 </div>
 <div class="isomer-card-body">
@@ -283,7 +283,7 @@ Services HQ</div>
 <div class="isomer-card">
 <div class="isomer-card-image">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Placeholder image" src="/images/About Us/Bernard_Toh__1_.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="Mr Bernard TOH" src="/images/About Us/Bernard_TOH.jpg">
 </div>
 </div>
 <div class="isomer-card-body">
@@ -294,7 +294,7 @@ Services HQ</div>
 <div class="isomer-card">
 <div class="isomer-card-image">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Placeholder image" src="/images/About Us/Chai_Chin_Loon__2_.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="Mr CHAI Chin Loon" src="/images/About Us/CHAI_Chin_Loon.jpg">
 </div>
 </div>
 <div class="isomer-card-body">
@@ -305,7 +305,7 @@ Services HQ</div>
 <div class="isomer-card">
 <div class="isomer-card-image">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Placeholder image" src="/images/About Us/Thian_Chin.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="Mr LIM Thian Chin" src="/images/About Us/LIM_Thian_Chin.jpg">
 </div>
 </div>
 <div class="isomer-card-body">
@@ -318,7 +318,7 @@ Services HQ</div>
 <div class="isomer-card">
 <div class="isomer-card-image">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Placeholder image" src="/images/About Us/Kevin_Ng__1_.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="Mr Kevin NG" src="/images/About Us/Kevin_NG.jpg">
 </div>
 </div>
 <div class="isomer-card-body">
@@ -329,7 +329,7 @@ Services HQ</div>
 <div class="isomer-card">
 <div class="isomer-card-image">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Placeholder image" src="/images/About Us/DN_Prasad__1_.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="Mr D. N. PRASAD" src="/images/About Us/D__N__PRASAD.jpg">
 </div>
 </div>
 <div class="isomer-card-body">
@@ -340,7 +340,7 @@ Services HQ</div>
 <div class="isomer-card">
 <div class="isomer-card-image">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Placeholder image" src="/images/About Us/Jason_See__1_.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="Mr Jason SEE" src="/images/About Us/Jason_SEE.jpg">
 </div>
 </div>
 <div class="isomer-card-body">
@@ -354,7 +354,7 @@ Education Cluster</div>
 <div class="isomer-card">
 <div class="isomer-card-image">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Placeholder image" src="/images/About Us/Sing_Khang_Leng__2_.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="Mr SING Khang Leng" src="/images/About Us/SING_Khang_Leng.jpg">
 </div>
 </div>
 <div class="isomer-card-body">
@@ -365,7 +365,7 @@ Education Cluster</div>
 <div class="isomer-card">
 <div class="isomer-card-image">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Placeholder image" src="/images/About Us/Richard_Tay__1_.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="Mr Richard TAY" src="/images/About Us/Richard_TAY.jpg">
 </div>
 </div>
 <div class="isomer-card-body">
@@ -376,7 +376,7 @@ Education Cluster</div>
 <div class="isomer-card">
 <div class="isomer-card-image">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Placeholder image" src="/images/About Us/Vlasto__1_.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="Mr Vlastimil CHVOJKA" src="/images/About Us/Vlastimil_CHVOJKA.jpg">
 </div>
 </div>
 <div class="isomer-card-body">
@@ -389,7 +389,7 @@ Education Cluster</div>
 <div class="isomer-card">
 <div class="isomer-card-image">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Placeholder image" src="/images/About Us/Chong_Wan_Yieng__2_.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="Ms CHONG Wan Yieng" src="/images/About Us/CHONG_Wan_Yieng.jpg">
 </div>
 </div>
 <div class="isomer-card-body">
@@ -400,7 +400,7 @@ Education Cluster</div>
 <div class="isomer-card">
 <div class="isomer-card-image">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Placeholder image" src="/images/About Us/Steven_Koh__1_.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="Mr Steven KOH" src="/images/About Us/Steven_KOH.jpg">
 </div>
 </div>
 <div class="isomer-card-body">
@@ -412,7 +412,7 @@ Education Cluster</div>
 <div class="isomer-card">
 <div class="isomer-card-image">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Placeholder image" src="/images/About Us/Eyung_Lim__1_.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="Mr Eyung LIM" src="/images/About Us/Eyung_LIM.jpg">
 </div>
 </div>
 <div class="isomer-card-body">
