@@ -10,7 +10,7 @@ variant: tiptap
 <div class="isomer-card">
 <div class="isomer-card-image">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Mr LEONG Weng Keong Joseph" src="/images/About Us/Joseph_Leong.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="Mr LEONG Weng Keong Joseph" src="/images/About Us/LEONG_Weng_Keong_Joseph.jpg">
 </div>
 </div>
 <div class="isomer-card-body">
@@ -21,7 +21,7 @@ variant: tiptap
 <div class="isomer-card">
 <div class="isomer-card-image">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Mr GOH Wei Boon" src="/images/About Us/Goh_Wei_Boon.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="Mr GOH Wei Boon" src="/images/About Us/GOH_Wei_Boon.jpg">
 </div>
 </div>
 <div class="isomer-card-body">
@@ -32,7 +32,7 @@ variant: tiptap
 <div class="isomer-card">
 <div class="isomer-card-image">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Mr Augustin LEE" src="/images/About Us/Augustin_Lee__1_.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="Mr Augustin LEE" src="/images/About Us/Augustin_LEE.jpg">
 </div>
 </div>
 <div class="isomer-card-body">
