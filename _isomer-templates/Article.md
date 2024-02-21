@@ -9,6 +9,45 @@ description: ""
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/technews/Five_ways_you_might_be_sabotaging_your_data_privacy_.jpg">
 </div>
 <h2>[150] Lorem ipsum dolor sit amet, consectetur adipiscing elit. Etiam quis elementum ex. Nunc a massa feugiat, feugiat orci at, eleifend quam. Donec sceleris</h2>
+<h2>[H1] Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam vestibulum lectus risus, id maximus nibh consectetur aliquam. In sit amet efficitur nisl.</h2>
+<h3>[H2] <strong>Lorem ipsum</strong> dolor sit amet, consectetur adipiscing elit. Aliquam vestibulum lectus risus, id maximus nibh consectetur aliquam. In sit amet efficitur nisl.</h3>
+<h4>[H3]<strong> Lorem ipsum</strong> dolor sit amet, consectetur adipiscing elit. Aliquam vestibulum lectus risus, id maximus nibh consectetur aliquam. In sit amet efficitur nisl.</h4>
+<p>[Paragraph] <strong>Lorem ipsum</strong> dolor sit amet, consectetur adipiscing
+elit. Aliquam vestibulum lectus risus, id maximus nibh consectetur aliquam.
+In sit amet efficitur nisl.</p>
+<h4><strong>RTE table module</strong></h4>
+<table>
+<tbody>
+<tr>
+<td rowspan="1" colspan="1">
+<h4>[50] Nunc a massa feugiat, feugiat orci at, eleifend qu</h4>
+</td>
+<td rowspan="1" colspan="1">
+<h4>[50] Nunc a massa feugiat, feugiat orci at, eleifend qu</h4>
+</td>
+<td rowspan="1" colspan="1">
+<h4>[50] Nunc a massa feugiat, feugiat orci at, eleifend qu</h4>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>[200] Lorem ipsum dolor sit amet, consectetur adipiscing elit. Etiam quis
+elementum ex. Nunc a massa feugiat, feugiat orci at, eleifend quam. Donec
+scelerisque semper nisl et sodales. Suspendisse euismod or</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>[200] Lorem ipsum dolor sit amet, consectetur adipiscing elit. Etiam quis
+elementum ex. Nunc a massa feugiat, feugiat orci at, eleifend quam. Donec
+scelerisque semper nisl et sodales. Suspendisse euismod or</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>[200] Lorem ipsum dolor sit amet, consectetur adipiscing elit. Etiam quis
+elementum ex. Nunc a massa feugiat, feugiat orci at, eleifend quam. Donec
+scelerisque semper nisl et sodales. Suspendisse euismod or</p>
+</td>
+</tr>
+</tbody>
+</table>
 <p></p>
 <h4><strong>Plain Card Module [TLDR]</strong></h4>
 <h4><strong>[50] Nunc a massa feugiat, feugiat orci at, eleifend qu</strong></h4>
