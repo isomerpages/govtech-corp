@@ -26,25 +26,32 @@ this Valentine’s Day.</p>
 </p>
 <ol data-tight="true" class="tight">
 <li>
-<p>Get intellectually stimulated with the NLB mobile app</p>
+<p>Get intellectually stimulated with the <strong>NLB mobile app</strong>
+</p>
 </li>
 <li>
-<p>Never lose your way again with NParks NEAR</p>
+<p>Never lose your way again with <strong>NParks NEAR</strong>
+</p>
 </li>
 <li>
-<p>Get your relationship moving with MyTransport</p>
+<p>Get your relationship moving with <strong>MyTransport</strong>
+</p>
 </li>
 <li>
-<p>Keep fit together with ActiveSG</p>
+<p>Keep fit together with <strong>ActiveSG</strong>
+</p>
 </li>
 <li>
-<p>Prepare to settle down together with MyNiceHome</p>
+<p>Prepare to settle down together with <strong>MyNiceHome</strong>
+</p>
 </li>
 <li>
-<p>Seal the deal with Our Marriage Journey</p>
+<p>Seal the deal with <strong>Our Marriage Journey</strong>
+</p>
 </li>
 <li>
-<p>Go through life together with LifeSG</p>
+<p>Go through life together with <strong>LifeSG</strong>
+</p>
 </li>
 </ol>
 <h3>1. Get intellectually stimulated with the NLB mobile app</h3>
