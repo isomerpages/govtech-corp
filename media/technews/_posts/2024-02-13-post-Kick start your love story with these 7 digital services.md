@@ -124,7 +124,7 @@ also the second, or even third time)</p>
 commitments Singaporeans make in their lifetime, so it’s important for
 couples to get educated on this!</p>
 <h3>6. Seal the deal with Our Marriage Journey</h3>
-<p>For couples planning to take their commitment to the next level, the&nbsp;
+<p>For couples planning to take their commitment to the next level, the
 <a href="https://www.marriage.gov.sg/" class="editor-rtfLink" rel="noopener noreferrer nofollow" target="_blank">Our Marriage Journey</a>&nbsp;portal is a game-changer. The new Registry
 of Marriages (ROM) portal simplifies the process of filing for marriage
 online via SingPass, making the journey to your big day a little less fuss-free.</p>
