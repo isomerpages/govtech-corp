@@ -20,7 +20,6 @@ one of our apps like Singpass or LifeSG, or even tapping on our communities
 to test your products. From MOE to NEA and MOH, GovTech has collaborated
 with a myriad of government agencies to develop products and services -
 explore a few of these below.</p>
-<p></p>
 <div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="/media/technews/behind-the-scenes-look-at-the-parents-gateway-app" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Placeholder image" src="https://placehold.co/600x400"></div></div><div class="isomer-card-body"><div class="isomer-card-title">GovTech X MOE: Parents Gateway</div><div class="isomer-card-description">This app is a one-stop portal to disseminate information and seek parents’ consent on admin matters, in a consolidated digital form. It gives parents greater access and control over their child’s participation in school activities and for parents to better manage school-related administrative tasks.</div><div class="isomer-card-link">Read More</div></div></a>
 <a rel="noopener noreferrer nofollow" href="/media/media-releases/spot-robot-trial-for-safe-distancing-operations" class="isomer-card">
 <div class="isomer-card-image">
@@ -38,7 +37,6 @@ currently at the park, to aid with crowd control during the pandemic.</div>
 </div>
 </a><a rel="noopener noreferrer nofollow" href="/media/technews/how-ai-and-a-camera-phone-help-keep-food-on-our-tables" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Placeholder image" src="/images/Products and Services/rotifer_counting_application.png"></div></div><div class="isomer-card-body"><div class="isomer-card-title">GovTech X SFA: Rotifer Counting with AI</div><div class="isomer-card-description">In collaboration with SFA, GovTech developed an AI tool to cut down on manhours needed for rotifer-counting - a necessary but time-consuming part of fish farming. With this tool, fish farmers can now analyse images and automatically track rotifer numbers.</div><div class="isomer-card-link">Read More</div></div></a>
 </div>
-<p></p>
 <h3>Product and User Testing</h3>
 <div class="isomer-image-wrapper">
 <img style="width: 60%;" height="auto" width="100%" alt="" src="/images/Get Involved/techkaki_header.jpg">
