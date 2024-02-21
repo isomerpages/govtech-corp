@@ -35,17 +35,38 @@ To achieve this, we are striving to adopt sustainability as a core principle
 in our digitalisation business and professional way of life.</p>
 <p>As part of our Sustainability Framework, GovTech is focusing on 3 key
 pillars:</p>
-<ol data-tight="true" class="tight">
-<li>
-<p>Sustainable Organisation</p>
-</li>
-<li>
-<p>Sustainable ICT&amp;SS</p>
-</li>
-<li>
-<p>Digital Innovation for Sustainability.</p>
-</li>
-</ol>
+<div class="isomer-card-grid">
+<div class="isomer-card">
+<div class="isomer-card-image">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Placeholder image" src="https://placehold.co/600x400">
+</div>
+</div>
+<div class="isomer-card-body">
+<div class="isomer-card-title">Sustainable Organisation</div>
+</div>
+</div>
+<div class="isomer-card">
+<div class="isomer-card-image">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Placeholder image" src="https://placehold.co/600x400">
+</div>
+</div>
+<div class="isomer-card-body">
+<div class="isomer-card-title">Sustainable ICT&amp;SS</div>
+</div>
+</div>
+<div class="isomer-card">
+<div class="isomer-card-image">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Placeholder image" src="https://placehold.co/600x400">
+</div>
+</div>
+<div class="isomer-card-body">
+<div class="isomer-card-title">Digital Innovation for Sustainability</div>
+</div>
+</div>
+</div>
 <p>- New infographic to show the 3 key pillars (can adapt from existing infographic
 "Sustainability Framework" from <a href="https://drive.google.com/drive/u/0/folders/12rWsvcvwujs7gw_vEHk3ScxSsHFri1NK" rel="noopener noreferrer nofollow" target="_blank">https://drive.google.com/drive/u/0/folders/12rWsvcvwujs7gw_vEHk3ScxSsHFri1NK</a>,
 but add in the 6 key enablers - Green Workplace, Education &amp; Outreach,
