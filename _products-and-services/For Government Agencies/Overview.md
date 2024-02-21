@@ -10,7 +10,6 @@ variant: tiptap
 and resources is core to what we do to drive and enable adoption of digital
 and smart technologies throughout Singapore. Explore our suite of services
 GovTech has created to help with government productivity.</p>
-<p></p>
 <div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="/products-and-services/for-government-agencies/government-transactions/" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Placeholder image" src="https://placehold.co/600x400"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Government Transactions</div><div class="isomer-card-description">Enabling government agencies to facilitate seamless government transactions with ease.</div><div class="isomer-card-link">Find Out More</div></div></a>
 <a rel="noopener noreferrer nofollow" href="/products-and-services/for-government-agencies/software-development/" class="isomer-card">
 <div class="isomer-card-image">
@@ -26,7 +25,6 @@ services with ease</div>
 </div>
 </a><a rel="noopener noreferrer nofollow" href="/products-and-services/for-government-agencies/cybersecurity/" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Placeholder image" src="https://placehold.co/600x400"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Cybersecurity</div><div class="isomer-card-description">Putting up our best cyber defences with proactive cybersecurity services</div><div class="isomer-card-link">Find Out More</div></div></a>
 </div>
-<p></p>
 <div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="/products-and-services/for-government-agencies/data-and-ai/" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Placeholder image" src="https://placehold.co/600x400"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Data and AI</div><div class="isomer-card-description">Leveraging Data Science and Artificial Intelligence to improve policy outcomes and operational efficiency within the government.</div><div class="isomer-card-link">Find Out More</div></div></a>
 <a rel="noopener noreferrer nofollow" href="/products-and-services/for-government-agencies/productivity-and-marketing/" class="isomer-card">
 <div class="isomer-card-image">
@@ -40,9 +38,8 @@ services with ease</div>
 effectiveness.</div>
 <div class="isomer-card-link">Find Out More</div>
 </div>
-</a><a rel="noopener noreferrer nofollow" href="/products-and-services/for-government-agencies/knowledge-and-training/" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Placeholder image" src="https://placehold.co/600x400"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Knowledge and Training</div><div class="isomer-card-description">Empowering public officers to continually upskill with Knowledge and Training tools</div><div class="isomer-card-link">This is a link for your card</div></div></a>
+</a><a rel="noopener noreferrer nofollow" href="/products-and-services/for-government-agencies/knowledge-and-training/" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Placeholder image" src="https://placehold.co/600x400"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Knowledge and Training</div><div class="isomer-card-description">Empowering public officers to continually upskill with Knowledge and Training tools</div><div class="isomer-card-link">Find Out More</div></div></a>
 </div>
-<h4></h4>
 <div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="/products-and-services/for-government-agencies/digital-standards-and-guides/" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Placeholder image" src="https://placehold.co/600x400"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Digital Standards and Guides</div><div class="isomer-card-description">Ensuring a positive, consistent user experience through Digital Standards and Guides.</div><div class="isomer-card-link">Find Out More</div></div></a>
 <a rel="noopener noreferrer nofollow" href="/products-and-services/for-government-agencies/ict-and-infrastructure/" class="isomer-card">
 <div class="isomer-card-image">
