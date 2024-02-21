@@ -19,21 +19,70 @@ related engineering technology.</p>
 <h3>Our Mission:</h3>
 <p>Engineering Digital Government, Making Lives Better.</p>
 <h4>Our work covers 5 areas:</h4>
-<h4>1. Tech for Public Good:</h4>
-<p>We build tech that improves the lives of Singaporeans and the Singapore
-economy.</p>
-<h4>2. Smart Nation:</h4>
-<p>We serve with heart and play a key role in Singapore's Smart Nation initiative.</p>
-<h4>3. Smart Cities:</h4>
-<p>We harness the latest smart city technologies for a better lived experience
-and higher productivity for the nation.</p>
-<h4>4. Sustainability &amp; Digital Transformation:</h4>
-<p>We drive innovation and digitalisation in the public sector to support
-the country's sustainability goals.</p>
-<h4>5. Talent Attraction:</h4>
-<p>We are a tech powerhouse that supports the growth of tech and non-tech
+<div class="isomer-card-grid">
+<div class="isomer-card">
+<div class="isomer-card-image">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Placeholder image" src="https://placehold.co/600x400">
+</div>
+</div>
+<div class="isomer-card-body">
+<div class="isomer-card-title">Tech for Public Good</div>
+<div class="isomer-card-description">We build tech that improves the lives of Singaporeans and the Singapore
+economy.</div>
+</div>
+</div>
+<div class="isomer-card">
+<div class="isomer-card-image">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Placeholder image" src="https://placehold.co/600x400">
+</div>
+</div>
+<div class="isomer-card-body">
+<div class="isomer-card-title">Smart Nation</div>
+<div class="isomer-card-description">We serve with heart and play a key role in Singapore's Smart Nation initiative.</div>
+</div>
+</div>
+<div class="isomer-card">
+<div class="isomer-card-image">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Placeholder image" src="https://placehold.co/600x400">
+</div>
+</div>
+<div class="isomer-card-body">
+<div class="isomer-card-title">Smart Cities</div>
+<div class="isomer-card-description">We harness the latest smart city technologies for a better-lived experience
+and higher productivity for the nation.</div>
+</div>
+</div>
+</div>
+<div class="isomer-card-grid">
+<div class="isomer-card">
+<div class="isomer-card-image">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Placeholder image" src="https://placehold.co/600x400">
+</div>
+</div>
+<div class="isomer-card-body">
+<div class="isomer-card-title">Sustainability &amp; Digital Transformation</div>
+<div class="isomer-card-description">We drive innovation and digitalisation in the public sector to support
+the country's sustainability goals.</div>
+</div>
+</div>
+<div class="isomer-card">
+<div class="isomer-card-image">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Placeholder image" src="https://placehold.co/600x400">
+</div>
+</div>
+<div class="isomer-card-body">
+<div class="isomer-card-title">Talent Attraction</div>
+<div class="isomer-card-description">We are a tech powerhouse that supports the growth of tech and non-tech
 talent, equipping them with the skills to support the nation's digital
-transformation.</p>
+transformation.</div>
+</div>
+</div>
+</div>
 <h3><strong>Our Identity</strong></h3>
 <p>(Show animated GIF of GovTech's dynamic logo) (Placeholder image)</p>
 <div class="isomer-image-wrapper">
