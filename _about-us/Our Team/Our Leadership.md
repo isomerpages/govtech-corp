@@ -46,7 +46,7 @@ Government Group</div>
 <div class="isomer-card">
 <div class="isomer-card-image">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Placeholder image" src="/images/About Us/Chng_Kai_Fong__2_.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="Mr CHNG Kai Fong" src="/images/About Us/CHNG_Kai_Fong.jpg">
 </div>
 </div>
 <div class="isomer-card-body">
@@ -58,14 +58,25 @@ and Information</div>
 <div class="isomer-card">
 <div class="isomer-card-image">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Placeholder image" src="/images/About Us/Bojan_Blecic__1_.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="Mr Bojan BLECIC" src="/images/About Us/Bojan_BLECIC.jpg">
 </div>
 </div>
 <div class="isomer-card-body">
 <div class="isomer-card-title">Mr Bojan BLECIC</div>
 <div class="isomer-card-description">SENIOR VICE PRESIDENT / HEAD OF EXPERIENCE DESIGN, OCBC Bank</div>
 </div>
-</div><a rel="noopener noreferrer nofollow" href="https://www.isomer.gov.sg" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Placeholder image" src="/images/About Us/Derrick_Goh__1_.jpg"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Mr Derrick GOH</div><div class="isomer-card-description">MANAGING DIRECTOR AND HEAD OF GROUP AUDIT, DBS Bank</div><div class="isomer-card-link">This is a link for your card</div></div></a>
+</div>
+<div class="isomer-card">
+<div class="isomer-card-image">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Mr Derrick GOH" src="/images/About Us/DERRICK_Goh.jpg">
+</div>
+</div>
+<div class="isomer-card-body">
+<div class="isomer-card-title">Mr Derrick GOH</div>
+<div class="isomer-card-description">MANAGING DIRECTOR AND HEAD OF GROUP AUDIT, DBS Bank</div>
+</div>
+</div>
 </div>
 <div class="isomer-card-grid">
 <div class="isomer-card">
