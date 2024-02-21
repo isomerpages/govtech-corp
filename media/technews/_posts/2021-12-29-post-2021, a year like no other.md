@@ -102,6 +102,9 @@ and independently.</p>
 one of our most exciting projects, the&nbsp;<a href="https://www.tech.gov.sg/media/media-releases/2021-10-20-first-batch-of-public-sector-5g-trials-at-sentosa-underway" class="editor-rtfLink" rel="noopener noreferrer nofollow" target="_blank">5G@Sentosa trials</a>&nbsp;is
 a step towards the&nbsp;<a href="https://www.imda.gov.sg/programme-listing/5G-Innovation?utm_medium=sem&amp;utm_source=google&amp;utm_campaign=5g&amp;utm_content=brand" class="editor-rtfLink" rel="noopener noreferrer nofollow" target="_blank">nationwide 5G rollout in 2025</a>,
 opening bigger and better possibilities in Singapore.</p>
+<div class="isomer-image-wrapper">
+<img style="width: 80%;" height="auto" width="100%" alt="GovTech - we hope that our tech solutions have given you more time to spend with loved ones" src="/images/technews/2021__a_year_like_no_other__7_.jpg">
+</div>
 <h3>The heros behind the scenes!</h3>
 <p>With all the amazing #TechforPublicGood that we’ve worked on in the past
 year, there’re just as many amazing men and women in the tech sector keeping
