@@ -68,11 +68,7 @@ app&nbsp;<a href="https://mobileapp.nlb.gov.sg/" class="editor-rtfLink" rel="noo
 </p>
 <p>PS: If you borrow ebooks, you don’t need to worry about returning them
 late. That’s one way to avoid arguing about fines!</p>
-<ol data-tight="true" class="tight">
-<li>
-<p>Never lose your way again with NParks NEAR</p>
-</li>
-</ol>
+<h3>2. Never lose your way again with NParks NEAR</h3>
 <p>Singapore has a huge range of public parks, thanks to NParks. That means
 plenty of green spaces for couples to unwind after a long week of work.
 Take a long stroll amongst nature as a couple, or hop on a bicycle and
@@ -89,11 +85,7 @@ and explore the PCN and various trails. This includes detailed route information
 points of interest, and distance markers, encouraging discovery and exploration.</p>
 <p>Get NEAR with your partner&nbsp;<a href="https://near.nparks.gov.sg/about" class="editor-rtfLink" rel="noopener noreferrer nofollow" target="_blank">here!</a>
 </p>
-<ol data-tight="true" class="tight">
-<li>
-<p>Get your relationship moving with MyTransport</p>
-</li>
-</ol>
+<h3>3. Get your relationship moving with MyTransport</h3>
 <p>When it comes to love, showing up is important. But showing up on time
 is equally, if not more important; it’s not good to keep your partner waiting
 in the sweltering Singapore heat.</p>
@@ -103,11 +95,7 @@ arrival timings, train schedules, and service disruptions to ensure smooth
 and efficient journeys.</p>
 <p>Use it to minimise waiting times at the bus stop, and save some money
 instead of taking a taxi or a ride-hail.</p>
-<ol data-tight="true" class="tight">
-<li>
-<p>Keep fit together with ActiveSG</p>
-</li>
-</ol>
+<h3>4. Keep fit together with ActiveSG</h3>
 <p>Feel like the relationship is getting a little stagnant? Maybe it’s time
 to liven things up with an active lifestyle. Why? Engaging in physical
 activities together and having shared goals are great ways for couples
@@ -123,11 +111,7 @@ even pickleball.</p>
 <p>Yes, pickleball (you read that correctly).</p>
 <p>(PS: You can also hold each other accountable to good fitness habits by
 downloading the LumiHealth app)</p>
-<ol data-tight="true" class="tight">
-<li>
-<p>Prepare to settle down together with MyNiceHome</p>
-</li>
-</ol>
+<h3>5. Prepare to settle down together with MyNiceHome</h3>
 <p>In Singapore, asking someone to buy a HDB together is the equivalent of
 a marriage proposal. That’s why you know things are getting serious when
 your partner tells you to check out&nbsp;<a href="https://www.mynicehome.gov.sg/" class="editor-rtfLink" rel="noopener noreferrer nofollow" target="_blank">MyNiceHome.</a>
@@ -139,11 +123,7 @@ also the second, or even third time)</p>
 <p>Remember, buying a flat will probably be one of the largest financial
 commitments Singaporeans make in their lifetime, so it’s important for
 couples to get educated on this!</p>
-<ol data-tight="true" class="tight">
-<li>
-<p>Seal the deal with Our Marriage Journey</p>
-</li>
-</ol>
+<h3>6. Seal the deal with Our Marriage Journey</h3>
 <p>For couples planning to take their commitment to the next level, the&nbsp;
 <a href="https://www.marriage.gov.sg/" class="editor-rtfLink" rel="noopener noreferrer nofollow" target="_blank">Our Marriage Journey</a>&nbsp;portal is a game-changer. The new Registry
 of Marriages (ROM) portal simplifies the process of filing for marriage
@@ -159,11 +139,7 @@ moments of planning your solemnisation ceremony, everything can be managed
 with ease and convenience.</p>
 <p>Getting married has never been easier! (Well, kinda, you still need to
 find a willing partner)</p>
-<ol data-tight="true" class="tight">
-<li>
-<p>Go through life together with LifeSG</p>
-</li>
-</ol>
+<h3>7. Go through life together with LifeSG</h3>
 <p>Got married? Trust us – you’re only halfway through your romantic journey
 together. Things often get hectic during marriage, with plenty of chores
 and errands. This is especially true if you have children.</p>
@@ -182,4 +158,3 @@ these apps provide not just convenience but also enriching experiences
 for you and your loved one.</p>
 <p>Happy Valentine’s Day from all of us at the GovTech team! Here’s to love,
 shared experiences, and the love of technology.</p>
-<p></p>
