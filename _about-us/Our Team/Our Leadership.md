@@ -82,7 +82,7 @@ and Information</div>
 <div class="isomer-card">
 <div class="isomer-card-image">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Placeholder image" src="/images/About Us/Lesly_Goh__1_.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="Ms Lesly GOH" src="/images/About Us/Lesly_GOH.jpg">
 </div>
 </div>
 <div class="isomer-card-body">
@@ -93,7 +93,7 @@ and Information</div>
 <div class="isomer-card">
 <div class="isomer-card-image">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Placeholder image" src="/images/About Us/Ho_Teck_Hua__1_.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="Prof HO Teck Hua" src="/images/About Us/HO_Teck_Hua.jpg">
 </div>
 </div>
 <div class="isomer-card-body">
@@ -104,7 +104,7 @@ and Information</div>
 <div class="isomer-card">
 <div class="isomer-card-image">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Placeholder image" src="/images/About Us/Melissa_Khoo__1_.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="Ms Melissa KHOO" src="/images/About Us/Melissa_KHOO.jpg">
 </div>
 </div>
 <div class="isomer-card-body">
@@ -117,7 +117,7 @@ and Information</div>
 <div class="isomer-card">
 <div class="isomer-card-image">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Placeholder image" src="/images/About Us/David_Koh__1_.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="Mr David KOH" src="/images/About Us/David_KOH.jpg">
 </div>
 </div>
 <div class="isomer-card-body">
@@ -128,7 +128,7 @@ and Information</div>
 <div class="isomer-card">
 <div class="isomer-card-image">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Placeholder image" src="/images/About Us/Stacey_Sze_Wan_Lacy__1_.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="Ms Stacey N. LACY" src="/images/About Us/Stacey_N__LACY.jpg">
 </div>
 </div>
 <div class="isomer-card-body">
@@ -140,7 +140,7 @@ Citi</div>
 <div class="isomer-card">
 <div class="isomer-card-image">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Placeholder image" src="/images/About Us/Lew_Chuen_Hong__1_.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="Mr LEW Chuen Hong" src="/images/About Us/LEW_Chuen_Hong.jpg">
 </div>
 </div>
 <div class="isomer-card-body">
@@ -153,7 +153,7 @@ Citi</div>
 <div class="isomer-card">
 <div class="isomer-card-image">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Placeholder image" src="/images/About Us/Liew_Nam_Soon__1_.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="Mr LIEW Nam Soon" src="/images/About Us/LIEW_Nam_Soon.jpg">
 </div>
 </div>
 <div class="isomer-card-body">
@@ -164,7 +164,7 @@ Citi</div>
 <div class="isomer-card">
 <div class="isomer-card-image">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Placeholder image" src="/images/About Us/Shonn_Mills.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="Mr Shonn MILLS" src="/images/About Us/Shonn_MILLS.jpg">
 </div>
 </div>
 <div class="isomer-card-body">
@@ -175,7 +175,7 @@ Citi</div>
 <div class="isomer-card">
 <div class="isomer-card-image">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Placeholder image" src="/images/About Us/Noah_Pepper__1_.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="Mr Noah PEPPER" src="/images/About Us/Noah_PEPPER.jpg">
 </div>
 </div>
 <div class="isomer-card-body">
@@ -186,7 +186,7 @@ Citi</div>
 <div class="isomer-card">
 <div class="isomer-card-image">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="placeholder" src="/images/About Us/Vaishali_Rastogi__1_.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="Ms Vaishali RASTOGI" src="/images/About Us/Vaishali_RASTOGI.jpg">
 </div>
 </div>
 <div class="isomer-card-body">
@@ -197,7 +197,7 @@ Citi</div>
 <div class="isomer-card">
 <div class="isomer-card-image">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="placeholder" src="/images/About Us/Mervyn_Tan__1_.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="Mr Mervyn TAN" src="/images/About Us/Mervyn_TAN.jpg">
 </div>
 </div>
 <div class="isomer-card-body">
