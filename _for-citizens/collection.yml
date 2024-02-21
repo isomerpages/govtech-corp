@@ -2,9 +2,9 @@ collections:
   for-citizens:
     output: true
     order:
-      - Crowdsourcing/Vulnerability Discovery Programme.md
-      - Crowdsourcing/CrowdTaskSG.md
       - Crowdsourcing/.keep
+      - Crowdsourcing/CrowdTaskSG.md
+      - Crowdsourcing/Vulnerability Discovery Programme.md
       - Digital Services/.keep
       - Digital Services/Singpass.md
       - Digital Services/LifeSG.md
