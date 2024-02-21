@@ -24,24 +24,19 @@ truly matters - spending quality time together!</p>
 </p>
 <ol data-tight="true" class="tight">
 <li>
-<p><a href="https://www.tech.gov.sg/media/technews/four-must-have-apps-for-parents#1-tackle-multiple-task-with-lifesg" class="editor-rtfLink" rel="noopener noreferrer nofollow" target="_blank">LifeSG</a>
-</p>
+<p>LifeSG</p>
 </li>
 <li>
-<p><a href="https://www.tech.gov.sg/media/technews/four-must-have-apps-for-parents#2-managing-your-finances-with-mymoneysense" class="editor-rtfLink" rel="noopener noreferrer nofollow" target="_blank">MyMoneySense</a>
-</p>
+<p>MyMoneySense</p>
 </li>
 <li>
-<p><a href="https://www.tech.gov.sg/media/technews/four-must-have-apps-for-parents#3-keep-your-family-safe-with-myenv" class="editor-rtfLink" rel="noopener noreferrer nofollow" target="_blank">MyENV</a>
-</p>
+<p>MyENV</p>
 </li>
 <li>
-<p><a href="https://www.tech.gov.sg/media/technews/four-must-have-apps-for-parents#4-learn-as-a-family-with-nlbmobile" class="editor-rtfLink" rel="noopener noreferrer nofollow" target="_blank">NLBMobile</a>
-</p>
+<p>NLBMobile</p>
 </li>
 <li>
-<p><a href="https://www.tech.gov.sg/media/technews/four-must-have-apps-for-parents#5-keep-track-of-your-child's-progress-with-parents-gateway" class="editor-rtfLink" rel="noopener noreferrer nofollow" target="_blank">Parents Gateway</a>
-</p>
+<p>Parents Gateway</p>
 </li>
 </ol>
 <h3>1. Tackle multiple tasks with LifeSG</h3>
