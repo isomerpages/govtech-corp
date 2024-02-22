@@ -145,7 +145,7 @@ consent to sharing data anytime.</div>
 <h3>Interested to find out more about SGFinDex?</h3>
 <p>Login to your financial insititute's website to start connecting today.</p>
 <p>Find out more about SGFinDex <a href="https://www.singpass.gov.sg/main/sgfindex/" rel="noopener noreferrer nofollow" target="_blank">here</a>.</p>
-<p>- Stay informed on updates and any new product developments by subscribing
-to our TechNews Newsletter! (Subscription form link)</p>
+<p>Stay informed on updates and any new product developments by subscribing
+to our <a href="http://eepurl.com/cUwIsD" rel="noopener noreferrer nofollow" target="_blank">TechNews Newsletter</a>!</p>
 <p>Organisations interested to become a participant of SGFinDex may contact
 us at <a href="mailto:support@sgdex.gov.sg" rel="noopener noreferrer nofollow" target="_blank">support@sgdex.gov.sg</a>.</p>
