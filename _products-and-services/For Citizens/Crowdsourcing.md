@@ -15,8 +15,8 @@ Singaporeans to become significant contributors and have collective ownership
 of the products developed by the government for them, as they have their
 voices heard.</p>
 <h3><strong>Explore Our Crowdsourcing Services</strong></h3>
-<div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="/for-citizens/crowdsourcing/crowdtasksg/" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Placeholder image" src="https://placehold.co/600x400"></div></div><div class="isomer-card-body"><div class="isomer-card-title">CrowdTaskSG</div><div class="isomer-card-link">Find Out More</div></div></a>
-<a rel="noopener noreferrer nofollow" href="/for-citizens/crowdsourcing/vulnerability-discovery-programme/" class="isomer-card">
+<div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="/products-and-services/for-citizens/crowdsourcing/crowdtasksg/" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Placeholder image" src="https://placehold.co/600x400"></div></div><div class="isomer-card-body"><div class="isomer-card-title">CrowdTaskSG</div><div class="isomer-card-link">Find Out More</div></div></a>
+<a rel="noopener noreferrer nofollow" href="/products-and-services/for-citizens/crowdsourcing/vulnerability-discovery-programme/" class="isomer-card">
 <div class="isomer-card-image">
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="Placeholder image" src="https://placehold.co/600x400">
