@@ -15,8 +15,8 @@ sending emails to downloading files, our products under ICT and Infrastructure
 ensure the safeguarding of all sensitive information, upholding the trust
 that has been upon us as the Singapore Government.</p>
 <h3><strong>Explore our products under ICT and Infrastructure</strong></h3>
-<div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="/for-government-agencies/ict-and-infrastructure/data-loss-prevention/" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Placeholder image" src="https://placehold.co/600x400"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Data Loss Prevention</div><div class="isomer-card-link">Find Out More</div></div></a>
-<a rel="noopener noreferrer nofollow" href="/for-government-agencies/ict-and-infrastructure/secure-internet-surfing/" class="isomer-card">
+<div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="/products-and-services/for-government-agencies/ict-and-infrastructure/data-loss-prevention/" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Placeholder image" src="https://placehold.co/600x400"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Data Loss Prevention</div><div class="isomer-card-link">Find Out More</div></div></a>
+<a rel="noopener noreferrer nofollow" href="/products-and-services/for-government-agencies/ict-and-infrastructure/secure-internet-surfing/" class="isomer-card">
 <div class="isomer-card-image">
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="Placeholder image" src="https://placehold.co/600x400">
