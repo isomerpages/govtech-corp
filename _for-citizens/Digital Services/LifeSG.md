@@ -133,4 +133,4 @@ are some newly introduced features:</p>
 <h3>Interested to find out more about LifeSG?</h3>
 <p>Download LifeSG App today (link)</p>
 <p>Stay informed on updates and any new product developments by subscribing
-to our TechNews Newsletter! (Subscription form link)</p>
+to our <a href="http://eepurl.com/cUwIsD" rel="noopener noreferrer nofollow" target="_blank">TechNews Newsletter</a>!</p>
