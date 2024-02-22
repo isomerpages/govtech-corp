@@ -39,5 +39,3 @@ those they serve, without worrying about developing the underlying infrastructur
 <p>Have questions? Contact us at <a href="mailto:digitalgov@tech.gov.sg" rel="noopener noreferrer nofollow" target="_blank">digitalgov@tech.gov.sg</a> (GovTech
 to confirm if we should use this, or if there's a specific team/PIC to
 contact)</p>
-<p>- (Is this readily available for everyone, or are there specific instructions
-they need to follow to get access?)</p>
