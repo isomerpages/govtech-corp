@@ -35,7 +35,6 @@ partners.</p>
 <div class="iframe-wrapper">
 <iframe height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/CEm9Sg-zyPA?si=x5zRfVVgiZEHJW8t"></iframe>
 </div>
-<p></p>
 <p>Download the app via the <a href="https://apps.apple.com/sg/app/healthy-365/id1040202154" class="waffle-rich-text-link" rel="noopener noreferrer nofollow" target="_blank"><u>App Store</u></a> (for
 Apple devices) or <a href="https://play.google.com/store/apps/details?id=sg.gov.hpb.healthy365&amp;hl=en_SG" class="waffle-rich-text-link" rel="noopener noreferrer nofollow" target="_blank"><u>Google Play Store</u></a> (for
 Android devices) - Upon launching the app, login via Singpass to start
