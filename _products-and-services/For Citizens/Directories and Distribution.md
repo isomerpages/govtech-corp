@@ -18,8 +18,8 @@ the resources available for them. To do so, GovTech created multiple Digital
 Directories which are databases of resources online designed to help citizens
 find relevant resources that are distributed across the country</p>
 <h3><strong>Explore our Directories and Distribution services</strong></h3>
-<div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="/for-citizens/directories-and-distribution/gowhere/" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Placeholder image" src="https://placehold.co/600x400"></div></div><div class="isomer-card-body"><div class="isomer-card-title">GoWhere</div><div class="isomer-card-link">Find Out More</div></div></a>
-<a rel="noopener noreferrer nofollow" href="/for-citizens/directories-and-distribution/govwallet/" class="isomer-card">
+<div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="/products-and-services/for-citizens/directories-and-distribution/gowhere/" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Placeholder image" src="https://placehold.co/600x400"></div></div><div class="isomer-card-body"><div class="isomer-card-title">GoWhere</div><div class="isomer-card-link">Find Out More</div></div></a>
+<a rel="noopener noreferrer nofollow" href="/products-and-services/for-citizens/directories-and-distribution/govwallet/" class="isomer-card">
 <div class="isomer-card-image">
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="Placeholder image" src="https://placehold.co/600x400">
