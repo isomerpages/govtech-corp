@@ -21,8 +21,7 @@ more.</p>
 or maintaining the digital service</p>
 <p>Save on costs while being assured of the security of your services</p>
 <h3>How to use GCC?</h3>
-<p>- (Are there instructions on how government agencies can get started on
-GCC via the intranet or how to implement?)</p>
+<p></p>
 <h3>What's the latest on GCC?</h3>
 <p>GCC 1.0 has been redesigned to give rise to GCC 2.0, leveraging on existing
 cloud-native capabilities and aligning with cloud security practices while
