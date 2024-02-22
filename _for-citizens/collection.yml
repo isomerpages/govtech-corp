@@ -2,9 +2,6 @@ collections:
   for-citizens:
     output: true
     order:
-      - Crowdsourcing/.keep
-      - Crowdsourcing/CrowdTaskSG.md
-      - Crowdsourcing/Vulnerability Discovery Programme.md
       - Digital Services/.keep
       - Digital Services/Singpass.md
       - Digital Services/LifeSG.md
@@ -19,3 +16,6 @@ collections:
       - Environment/.keep
       - Environment/MyENV.md
       - Environment/TreesSG.md
+      - Crowdsourcing/.keep
+      - Crowdsourcing/CrowdTaskSG.md
+      - Crowdsourcing/Vulnerability Discovery Programme.md
