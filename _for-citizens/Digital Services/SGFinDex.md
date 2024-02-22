@@ -46,28 +46,42 @@ easily.</p>
 </li>
 </ul>
 <h4>Benefits of using SGFinDex</h4>
-<ol data-tight="true" class="tight">
-<li>
-<p>It is a MAS approved and supported infrastructure that is powered by the
+<div class="isomer-card-grid">
+<div class="isomer-card">
+<div class="isomer-card-body">
+<div class="isomer-card-title">1. MAS Approved</div>
+<div class="isomer-card-description">It is a MAS approved and supported infrastructure that is powered by the
 National Digital Identity tech stack, which means it is a secure way to
-share data.</p>
-</li>
-<li>
-<p>Built for data privacy as SGFinDex will only transmit and not store or
-read any private information.</p>
-</li>
-<li>
-<p>Data encryption is embedded in every step of the data sharing process.</p>
-</li>
-<li>
-<p>User has the control over who gets to see their data as data sharing is
-consent driven.</p>
-</li>
-<li>
-<p>An expanding list of participating organisations across top banking and
-insurance institutes.</p>
-</li>
-</ol>
+share data.</div>
+</div>
+</div>
+<div class="isomer-card">
+<div class="isomer-card-body">
+<div class="isomer-card-title">2. Data Privacy</div>
+<div class="isomer-card-description">Built for data privacy as SGFinDex will only transmit and not store or
+read any private information.</div>
+</div>
+</div>
+<div class="isomer-card">
+<div class="isomer-card-body">
+<div class="isomer-card-title">3. Data Encryption</div>
+<div class="isomer-card-description">Data encryption is embedded in every step of the data-sharing process.</div>
+</div>
+</div>
+<div class="isomer-card">
+<div class="isomer-card-body">
+<div class="isomer-card-title">4. Consent-Driven</div>
+<div class="isomer-card-description">User has control over who gets to see their data as data sharing is consent-driven.</div>
+</div>
+</div>
+<div class="isomer-card">
+<div class="isomer-card-body">
+<div class="isomer-card-title">5. Expanding list of organisations</div>
+<div class="isomer-card-description">An expanding list of participating organisations across top banking and
+insurance institutes.</div>
+</div>
+</div>
+</div>
 <h3>How to use SGFinDex?</h3>
 <p>To get started, log in to any of the participating organisations’ applications/websites
 or MyMoneySense, and navigate to SGFinDex.</p>
