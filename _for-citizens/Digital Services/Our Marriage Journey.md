@@ -52,8 +52,8 @@ marriage, divorce, spousal death</p>
 <p>Our Marriage Journey is available at <a href="https://www.marriage.gov.sg/" rel="noopener noreferrer nofollow" target="_blank">https://www.marriage.gov.sg/</a>.</p>
 <p>Simply login with your Singpass to begin using Our Marriage Journey.</p>
 <h3>Interested to find out more about Our Marriage Journey?</h3>
-<p>- Stay informed on updates and any new product developments by subscribing
+<p>Stay informed on updates and any new product developments by subscribing
 to our <a href="http://eepurl.com/cUwIsD" rel="noopener noreferrer nofollow" target="_blank">TechNews Newsletter</a>!</p>
-<p>- Sgn up as a <a href="http://eepurl.com/hsr131" rel="noopener noreferrer nofollow" target="_blank">Tech Kaki</a> to
+<p>Sign up as a <a href="http://eepurl.com/hsr131" rel="noopener noreferrer nofollow" target="_blank">Tech Kaki</a> to
 join our feedback community if you're keen to share feedback to improve
 any of our products.</p>
