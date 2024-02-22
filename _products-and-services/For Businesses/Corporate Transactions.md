@@ -15,8 +15,8 @@ services allow for secure and reliable transactions with government agencies,
 customers, and other businesses without the need for physical verification
 and tedious manual or administrative processes such as form filling.</p>
 <h3><strong>Explore Our Platforms for Corporate Transactions</strong></h3>
-<div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="/for-businesses/corporate-transactions/singpass-api/" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Placeholder image" src="https://placehold.co/600x400"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Singpass API</div><div class="isomer-card-link">Find Out More</div></div></a>
-<a rel="noopener noreferrer nofollow" href="/for-businesses/corporate-transactions/corppass/" class="isomer-card">
+<div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="/products-and-services/for-businesses/corporate-transactions/singpass-api/" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Placeholder image" src="https://placehold.co/600x400"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Singpass API</div><div class="isomer-card-link">Find Out More</div></div></a>
+<a rel="noopener noreferrer nofollow" href="/products-and-services/for-businesses/corporate-transactions/corppass/" class="isomer-card">
 <div class="isomer-card-image">
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="Placeholder image" src="https://placehold.co/600x400">
@@ -26,6 +26,6 @@ and tedious manual or administrative processes such as form filling.</p>
 <div class="isomer-card-title">Corppass</div>
 <div class="isomer-card-link">Find Out More</div>
 </div>
-</a><a rel="noopener noreferrer nofollow" href="/for-businesses/corporate-transactions/gobusiness/" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Placeholder image" src="https://placehold.co/600x400"></div></div><div class="isomer-card-body"><div class="isomer-card-title">GoBusiness</div><div class="isomer-card-link">Find Out More</div></div></a>
+</a><a rel="noopener noreferrer nofollow" href="/products-and-services/for-businesses/corporate-transactions/gobusiness/" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Placeholder image" src="https://placehold.co/600x400"></div></div><div class="isomer-card-body"><div class="isomer-card-title">GoBusiness</div><div class="isomer-card-link">Find Out More</div></div></a>
 </div>
 <p></p>
