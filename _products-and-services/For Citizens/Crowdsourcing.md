@@ -23,7 +23,7 @@ voices heard.</p>
 </div>
 </div>
 <div class="isomer-card-body">
-<div class="isomer-card-title">Vulnerability Disclosure Programme</div>
+<div class="isomer-card-title">Vulnerability Discovery Programme</div>
 <div class="isomer-card-link">Find Out More</div>
 </div>
 </a>
