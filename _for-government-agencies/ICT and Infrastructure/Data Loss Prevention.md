@@ -9,10 +9,10 @@ third_nav_title: ICT and Infrastructure
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Products and Services/DLP_banner.jpg">
 </div>
-<p>As part of the Digital Workplace (Link to DWP product page), DLP uses
-technical and process controls to detect anomalous activities, such as
-unexpected downloads of large amounts of data to personal computers, that
-are indicators of possible malicious activity or data incidents</p>
+<p>As part of the <a href="/products-and-services/for-government-agencies/productivity-and-marketing/digital-workplace/" rel="noopener noreferrer nofollow" target="_blank">Digital Workplace</a>,
+DLP uses technical and process controls to detect anomalous activities,
+such as unexpected downloads of large amounts of data to personal computers,
+that are indicators of possible malicious activity or data incidents</p>
 <p>The public trusts us to use their data in a responsible way. Unauthorised
 use or disclosure of data can cause damage to individuals, organisations
 and/or the State, which will ultimately erode public confidence and trust
