@@ -118,7 +118,7 @@ the year!</p>
 <div class="isomer-image-wrapper">
 <img style="width: 80%;" height="auto" width="100%" alt="LifeSG and GoBusiness place users at the heart of the experience." src="/images/technews/2021__a_year_like_no_other__9_.jpg">
 </div>
-<h3>LifeSG &amp; GoBuisness</h3>
+<h3>LifeSG &amp; GoBusiness</h3>
 <p>Whether it is growing your business or helping in your child’s growing
 up journey, creating user-centric services like&nbsp;<a href="https://www.life.gov.sg/help-support/about-lifesg" class="editor-rtfLink" rel="noopener noreferrer nofollow" target="_blank">LifeSG</a>&nbsp;and&nbsp;
 <a href="https://www.gobusiness.gov.sg/faqs/popular/" class="editor-rtfLink" rel="noopener noreferrer nofollow" target="_blank">GoBusiness</a>&nbsp;is what we do! Businesses can receive guidance from
