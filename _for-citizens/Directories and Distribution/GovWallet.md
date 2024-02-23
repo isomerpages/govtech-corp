@@ -72,7 +72,7 @@ Reference asset: How to use LifeSG payment video</p>
 <h4>To make ATM cash withdrawals, go to an OCBC ATM to withdraw payout using your 8-digit Payment Reference Number (PRN) sent to you by mail or SMS, NRIC and Singpass.</h4>
 <p>Asset: Create an infographic of showing how to withdraw GovCash.</p>
 <h3>Interested to find out more about GovWallet?</h3>
-<p>Visit the GovWallet website today to find out where to spend your credits
-and GovCash. (Link to GovWallet where to spend page)</p>
-<p>- Stay informed on updates and any new product developments by subscribing
-to our TechNews Newsletter! (Subscription form link)</p>
+<p>Visit the <a href="https://www.wallet.gov.sg/where-to-spend" rel="noopener noreferrer nofollow" target="_blank">GovWallet website</a> today
+to find out where to spend your credits and GovCash.</p>
+<p>Stay informed on updates and any new product developments by subscribing
+to our <a href="http://eepurl.com/cUwIsD" rel="noopener noreferrer nofollow" target="_blank">TechNews Newsletter</a>!</p>
