@@ -116,7 +116,7 @@ the bugs out and the gears oiled, round the clock.</p>
 one of them personally, send them a message of encouragement to round up
 the year!</p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="LifeSG and GoBusiness place users at the heart of the experience." src="/images/technews/2021__a_year_like_no_other__9_.jpg">
+<img style="width: 80%;" height="auto" width="100%" alt="LifeSG and GoBusiness place users at the heart of the experience." src="/images/technews/2021__a_year_like_no_other__9_.jpg">
 </div>
 <h3>LifeSG &amp; GoBuisness</h3>
 <p>Whether it is growing your business or helping in your child’s growing
@@ -132,11 +132,17 @@ dashboard that helps you check out government benefits.</p>
 park for a breath of fresh air. But make sure you check out&nbsp;<a href="https://www.tech.gov.sg/media/technews/safe-distance-at-nparks" class="editor-rtfLink" rel="noopener noreferrer nofollow" target="_blank">Safe Distance@ parks</a>&nbsp;before
 you head out! Get information on the crowd situation at all the gardens
 and parks in Singapore. Keep your distance and keep safe.</p>
+<div class="isomer-image-wrapper">
+<img style="width: 80%;" height="auto" width="100%" alt="Cybersecurity teams race against time to find bugs and defend our systems." src="/images/technews/2021__a_year_like_no_other__11_.jpg">
+</div>
 <h3>VRP</h3>
 <p>Interested in helping keep our systems safe? The&nbsp;<a href="https://www.tech.gov.sg/media/media-releases/2021-08-31-new-vulnerability-rewards-programme" class="editor-rtfLink" rel="noopener noreferrer nofollow" target="_blank">Vulnerability Rewards Programme</a>&nbsp;is
 open to the international white hacker community for continuous systems
 and reporting. Basically, you can hack for a good while earning money,
 this kind of a good deal, go where find?!</p>
+<div class="isomer-image-wrapper">
+<img style="width: 80%;" height="auto" width="100%" alt="Continuously upskilling through the Digital Academy at GovTech to serve Singapore better." src="/images/technews/2021__a_year_like_no_other__12_.jpg">
+</div>
 <h3>The Digital Academy</h3>
 <p>We are committed to upskilling Singapore public officers’ digital competency.
 Launched in June,&nbsp;<a href="https://thedigitalacademy.tech.gov.sg/frequently-asked-questions" class="editor-rtfLink" rel="noopener noreferrer nofollow" target="_blank">The Digital Academy</a>&nbsp;was
