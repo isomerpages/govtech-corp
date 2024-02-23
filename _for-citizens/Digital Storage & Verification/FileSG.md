@@ -56,6 +56,7 @@ able to notify you of new documents uploaded into FileSG for your review.</div>
 </div>
 </div>
 <h3>Interested to find out more about FileSG?</h3>
-<p>Visit the FileSG website to start using. (Link to FileSG page)</p>
+<p>Visit the <a href="https://www.file.gov.sg/for-individuals" rel="noopener noreferrer nofollow" target="_blank">FileSG website</a> to
+start using.</p>
 <p>Stay informed on updates and any new product developments by subscribing
-to our TechNews Newsletter! (Subscription form link)</p>
+to our <a href="http://eepurl.com/cUwIsD" rel="noopener noreferrer nofollow" target="_blank">TechNews Newsletter</a>!</p>
