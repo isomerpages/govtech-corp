@@ -28,7 +28,7 @@ your digital services or platforms</p>
 <p>- (Are there any updates or new features on the tool? Any third-party
 tools provided at a small cost, as mentioned on the SGDP website?)</p>
 <h3>Interested to find out more about WOGAA?</h3>
-<p>Find out more about the product here.</p>
+<p>Find out more about the product <a href="https://wogaa.sg/#/" rel="noopener noreferrer nofollow" target="_blank">here</a>.</p>
 <p>Have questions? Contact us at <a href="mailto:digitalgov@tech.gov.sg" rel="noopener noreferrer nofollow" target="_blank">digitalgov@tech.gov.sg</a> (GovTech
 to confirm if we should use this, or if there's a specific team/PIC to
 contact)</p>
