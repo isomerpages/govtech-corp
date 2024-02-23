@@ -32,7 +32,7 @@ dengue clusters and more</p>
 <p>Simply download the app via the App Store (for Apple devices) or Google
 Play Store (for Android devices) to start using its services.</p>
 <h3>What's the latest on myENV?</h3>
-<p>myENV is regularly improved on based on user feedback.</p>
+<p>MyENV is regularly improved on based on user feedback.</p>
 <p>In the latest version, we have included an enhanced lightning map overlay
 containing past lightning occurences in shroter intervals, and other minor
 enhancements has been made to improve the user experience</p>
