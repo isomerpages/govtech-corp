@@ -41,5 +41,5 @@ access) and can be digitally stored/transmitted for greater convenience.</p>
 </ol>
 <h3>Interested to find out more on HealthCerts?</h3>
 <p>Learn more about HealthCerts <a href="https://www.healthcerts.gov.sg/" rel="noopener noreferrer nofollow" target="_blank">here</a>.</p>
-<p>- Stay informed on updates and any new product developments by subscribing
-to our TechNews Newsletter! (Subscription form link)</p>
+<p>Stay informed on updates and any new product developments by subscribing
+to our <a href="http://eepurl.com/cUwIsD" rel="noopener noreferrer nofollow" target="_blank">TechNews Newsletter</a>!</p>
