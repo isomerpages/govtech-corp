@@ -42,4 +42,3 @@ to our <a href="http://eepurl.com/cUwIsD" rel="noopener noreferrer nofollow" tar
 <p>Sign up as a <a href="http://eepurl.com/hsr131" rel="noopener noreferrer nofollow" target="_blank">Tech Kaki</a> to
 join our feedback community if you're keen to share feedback to improve
 any of our products.</p>
-<p></p>
