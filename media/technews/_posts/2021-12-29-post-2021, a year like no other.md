@@ -152,6 +152,10 @@ robust suite of information and communications technology (ICT) programmes
 that are contextualised to the public service! Armed with new and/or updated
 digital skills and know-how, public officers can contribute confidently
 to the digitalisation of public service and thrive in their careers!</p>
+<div class="isomer-image-wrapper">
+<img style="width: 80%;" height="auto" width="100%" alt="Thank you to GovTechies and everyone else for your hard work and contributions!" src="/images/technews/2021__a_year_like_no_other__14_.jpg">
+</div>
+<p></p>
 <ul data-tight="true" class="tight">
 <li>
 <p>Community Outreach: The tech community doesn’t stop learning! The STACK-X
