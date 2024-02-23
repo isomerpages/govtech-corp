@@ -38,5 +38,5 @@ of sensitive data from Government networks and user devices.</p>
 <h3>What's the latest on Data Loss Prevention?</h3>
 <p></p>
 <h3>Interested to find out more about Data Loss Prevention?</h3>
-<p>Have questions? Reach out to us directly via email at <a href="mailto:info@tech.gov.sg" rel="noopener noreferrer nofollow" target="_blank">info@tech.gov.sg</a>
+<p>Have questions? Reach out to us directly via email at <a href="mailto:info@tech.gov.sg" rel="noopener noreferrer nofollow" target="_blank">info@tech.gov.sg.</a>
 </p>
