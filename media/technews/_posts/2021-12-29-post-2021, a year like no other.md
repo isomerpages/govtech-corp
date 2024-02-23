@@ -105,6 +105,9 @@ opening bigger and better possibilities in Singapore.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 80%;" height="auto" width="100%" alt="GovTech - we hope that our tech solutions have given you more time to spend with loved ones" src="/images/technews/2021__a_year_like_no_other__7_.jpg">
 </div>
+<div class="isomer-image-wrapper">
+<img style="width: 80%;" height="auto" width="100%" alt="Let's not forget the people working their magic behind the scenes." src="/images/technews/2021__a_year_like_no_other__8_.jpg">
+</div>
 <h3>The heros behind the scenes!</h3>
 <p>With all the amazing #TechforPublicGood that we’ve worked on in the past
 year, there’re just as many amazing men and women in the tech sector keeping
@@ -112,6 +115,9 @@ the bugs out and the gears oiled, round the clock.</p>
 <p>Here’s to these unseen tech heroes and their contributions! If you know
 one of them personally, send them a message of encouragement to round up
 the year!</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="LifeSG and GoBusiness place users at the heart of the experience." src="/images/technews/2021__a_year_like_no_other__9_.jpg">
+</div>
 <h3>LifeSG &amp; GoBuisness</h3>
 <p>Whether it is growing your business or helping in your child’s growing
 up journey, creating user-centric services like&nbsp;<a href="https://www.life.gov.sg/help-support/about-lifesg" class="editor-rtfLink" rel="noopener noreferrer nofollow" target="_blank">LifeSG</a>&nbsp;and&nbsp;
