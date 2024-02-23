@@ -12,7 +12,7 @@ permalink: /
 notification: Notification banner test
 sections:
   - hero:
-      background: /images/Homepage/Journey_Banner1__gif__gif_4_8.gif
+      background: /images/Homepage/homepage_generic.jpg
       button: TECH FOR PUBLIC GOOD
       url: /
       key_highlights:
