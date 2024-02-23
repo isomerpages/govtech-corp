@@ -73,5 +73,5 @@ the latest updates.</p>
 <p>To include any new directories in the website to be launched</p>
 <h3>5. Interested to find out more about GoWhere?</h3>
 <p>- Visit the GoWhere website today. (Link to GoWhere directory)</p>
-<p>- Stay informed on updates and any new product developments by subscribing
-to our TechNews Newsletter! (Subscription form link)</p>
+<p>Stay informed on updates and any new product developments by subscribing
+to our <a href="http://eepurl.com/cUwIsD" rel="noopener noreferrer nofollow" target="_blank">TechNews Newsletter</a>!</p>
