@@ -124,6 +124,9 @@ up journey, creating user-centric services like&nbsp;<a href="https://www.life.g
 <a href="https://www.gobusiness.gov.sg/faqs/popular/" class="editor-rtfLink" rel="noopener noreferrer nofollow" target="_blank">GoBusiness</a>&nbsp;is what we do! Businesses can receive guidance from
 the nifty GoBusiness e-Advisers, while the LifeSG app has added a brand-new
 dashboard that helps you check out government benefits.</p>
+<div class="isomer-image-wrapper">
+<img style="width: 80%;" height="auto" width="100%" alt="Using AI to keep us safe even when we are out and about" src="/images/technews/2021__a_year_like_no_other__10_.jpg">
+</div>
 <h3>Safe Distance@Parks</h3>
 <p>After a long day of working from home, it is a great idea to head to the
 park for a breath of fresh air. But make sure you check out&nbsp;<a href="https://www.tech.gov.sg/media/technews/safe-distance-at-nparks" class="editor-rtfLink" rel="noopener noreferrer nofollow" target="_blank">Safe Distance@ parks</a>&nbsp;before
