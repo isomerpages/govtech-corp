@@ -39,9 +39,9 @@ reach out to the product team via this <a href="https://form.gov.sg/64d4a4708627
 <p>For any guidance needed on using PaySG, refer to this <a href="https://guide.pay.gov.sg/overview/introduction" rel="noopener noreferrer nofollow" target="_blank">guide</a>.</p>
 <h3>What's the latest on PaySG?</h3>
 <p>Recurring payments: Launching of recurring payment modes, which will support
-credit card and eGIRO deductions</p>
+credit card and eGIRO deductions.</p>
 <p>Integration with FormSG: Integrating PaySG payment modes with FormSG to
-create a more seamless payment experience</p>
+create a more seamless payment experience.</p>
 <h3>Interested to find out more about PaySG?</h3>
 <p>Visit this <a href="https://pay.gov.sg/" rel="noopener noreferrer nofollow" target="_blank">page</a> to
 learn more.</p>
