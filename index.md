@@ -14,7 +14,7 @@ sections:
   - hero:
       background: /images/Homepage/homepage_generic.jpg
       button: TECH FOR PUBLIC GOOD
-      url: /
+      url: /our-digital-government-efforts/tech-for-public-good/
       key_highlights:
         - title: For Citizens
           description: Events, Stories, and Updates
