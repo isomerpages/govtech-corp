@@ -23,6 +23,18 @@ your cybersecurity.</p>
 <p>As we observe Data Privacy Day on January 28, there’s no better time to
 learn about how to protect your personal information by avoiding the actions
 – which many of us carry out unthinkingly – listed below.</p>
+<p>Five ways you might be sabotaging your data privacy:</p>
+<ol data-tight="true" class="tight">
+<li>
+<p>Clicking "accept all cookies"</p>
+</li>
+<li>
+<p>Not checking if the website is secured</p>
+</li>
+<li>
+<p>Ignoring "password compromised</p>
+</li>
+</ol>
 <h3>1. Clicking “accept all cookies”</h3>
 <p>It seems like every website you visit has this nowadays – a popup asking
 for permission to track cookies. It happens so often that it becomes second
