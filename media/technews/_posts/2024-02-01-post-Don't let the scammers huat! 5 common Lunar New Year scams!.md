@@ -22,24 +22,19 @@ scams during the Lunar New Year period so that you can stay vigilant!</p>
 </p>
 <ol data-tight="true" class="tight">
 <li>
-<p><a href="https://www.tech.gov.sg/media/technews/dont-let-the-scammers-huat-this-lunar-new-year#1-bak-kwa-scam" class="editor-rtfLink" rel="noopener noreferrer nofollow" target="_blank">Bak kwa scam</a>
-</p>
+<p>Bak kwa scam</p>
 </li>
 <li>
-<p><a href="https://www.tech.gov.sg/media/technews/dont-let-the-scammers-huat-this-lunar-new-year#2-parcel-delivery-scam" class="editor-rtfLink" rel="noopener noreferrer nofollow" target="_blank">Parcel delivery scam</a>
-</p>
+<p>Parcel delivery scam</p>
 </li>
 <li>
-<p><a href="https://www.tech.gov.sg/media/technews/dont-let-the-scammers-huat-this-lunar-new-year#3-angbao-scam" class="editor-rtfLink" rel="noopener noreferrer nofollow" target="_blank">Angbao scam</a>
-</p>
+<p>Angbao scam</p>
 </li>
 <li>
-<p><a href="https://www.tech.gov.sg/media/technews/dont-let-the-scammers-huat-this-lunar-new-year#4-fake-promotion-scam" class="editor-rtfLink" rel="noopener noreferrer nofollow" target="_blank">Fake promotion scam</a>
-</p>
+<p>Fake promotion scam</p>
 </li>
 <li>
-<p><a href="https://www.tech.gov.sg/media/technews/dont-let-the-scammers-huat-this-lunar-new-year#5-online-travel-scam" class="editor-rtfLink" rel="noopener noreferrer nofollow" target="_blank">Online travel scam</a>
-</p>
+<p>Online travel scam</p>
 </li>
 </ol>
 <h3>1. Bak kwa scam</h3>
