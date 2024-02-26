@@ -82,6 +82,11 @@ designed AR glasses.</p>
 <p>A prominent example of AR is the&nbsp;<a href="https://niantic.helpshift.com/hc/en/6-pokemon-go/faq/28-catching-pokemon-in-ar-mode/" class="editor-rtfLink" rel="noopener noreferrer nofollow" target="_blank">Pokemon Go</a>&nbsp;game,
 where players can spot and catch Pokemon by pointing their phone cameras
 at their surroundings.</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Pokemon Go as an example of the application of Virtual Reality (VR) technology" src="/images/technews/Pokemon_Go__resized_.jpg">
+</div>
+<p><em>Image by keongdagreat at <a href="https://images.assetsdelivery.com/compings_v2/keongdagreat/keongdagreat1608/keongdagreat160800209/60797684.jpg" rel="noopener noreferrer nofollow" target="_blank">123RF</a></em>
+</p>
 <p>In addition, VR is well-suited for transplanting a user into a completely
 fictional, digital world, and so has uses in gaming and simulation. On
 the other hand, AR shines when interacting with the real world, so education
@@ -92,9 +97,14 @@ such as the&nbsp;<a href="https://www.playstation.com/en-sg/ps-vr/" class="edito
 headset and the&nbsp;<a href="https://www.meta.com/quest/products/quest-2/" class="editor-rtfLink" rel="noopener noreferrer nofollow" target="_blank">Oculus</a>&nbsp;series
 of headsets for PC gaming.</p>
 <p>VR is also being used for better healthcare outcomes in the medical industry.
-Surgeons at the George Washington University Hospital in the US use an&nbsp;
+Surgeons at the George Washington University Hospital in the US use an
 <a href="https://www.gwhospital.com/conditions-services/surgery/precision-virtual-reality" class="editor-rtfLink" rel="noopener noreferrer nofollow" target="_blank">advanced virtual reality tool</a>&nbsp;to explore a patient’s brain and
 body before operating.</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Doctor using VR headset to analyse the patient's brain anatomy before taking any medical action." src="/images/technews/VR_headset_healthcare.jpg">
+</div>
+<p><em>Image by DC Studio on <a href="https://www.freepik.com/free-photo/professional-researcher-wearing-virtual-reality-glasses-using-medical-inovation-lab-analysing-brain-scan-patient-team-neurological-doctors-working-with-equipment-high-tech-simulator-device_17787403.htm#fromView=search&amp;page=1&amp;position=45&amp;uuid=74341b1a-a1fc-4977-b329-ffa7aa86f087" rel="noopener noreferrer nofollow" target="_blank">Freepik</a></em>
+</p>
 <p>VR headsets have also proven to be effective in&nbsp;<a href="https://www.wsj.com/articles/for-children-in-the-hospital-vr-may-be-the-cure-for-anxiety-1527559995" class="editor-rtfLink" rel="noopener noreferrer nofollow" target="_blank">diminishing pain and anxiety</a>&nbsp;in
 patients as they undergo procedures such as wound cleaning and injections.</p>
 <p>As for AR, museums have been using the technology to enliven their displays
@@ -106,11 +116,14 @@ to view certain artefacts, such as a 42-foot-long Indian Fin Whale skeleton!</p>
 <p>In 2022, there was even an AR tour of what Singapore will be like in 2122
 if sea levels rise and flood the island.</p>
 <p>Most recently, Google’s ARCore partnered with the Singapore Tourism Board
-using Google’s new Geospatial Creator in Unity to create an&nbsp;<a href="https://www.youtube.com/watch?v=zFxpXiAkT2k" class="editor-rtfLink" rel="noopener noreferrer nofollow" target="_blank">immersive, AR-guided tour.</a>
-</p>
+using Google’s new Geospatial Creator in Unity to create an immersive,
+AR-guided tour.</p>
 <p>Users get to follow Merli, Singapore’s tourism mascot, on an immersive
 tour of Singapore’s iconic landmarks! Attractions include Merlion Park,
 Victoria Concert Hall, and Maxwell Food Centre.</p>
+<div class="iframe-wrapper">
+<iframe style="max-width: 100%;" height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/zFxpXiAkT2k?si=PxawMzXHrqtJGHEG"></iframe>
+</div>
 <p>Education is another field to which AR can be applied.</p>
 <p>For example, Apple offers suggested lesson&nbsp;<a href="https://www.apple.com/sg/education/docs/ar-in-edu-lesson-ideas.pdf" class="editor-rtfLink" rel="noopener noreferrer nofollow" target="_blank">plans</a>&nbsp;to
 accompany the use of AR with iPads. Having trouble with geometry? Perhaps
