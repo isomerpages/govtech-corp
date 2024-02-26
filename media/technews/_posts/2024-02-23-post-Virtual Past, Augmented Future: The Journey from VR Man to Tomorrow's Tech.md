@@ -83,7 +83,7 @@ designed AR glasses.</p>
 where players can spot and catch Pokemon by pointing their phone cameras
 at their surroundings.</p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Pokemon Go as an example of the application of Virtual Reality (VR) technology" src="/images/technews/Pokemon_Go__resized_.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="Pokemon Go as an example of the application of Augmented Reality (AR) technology" src="/images/technews/Pokemon_Go__resized_.jpg">
 </div>
 <p><em>Image by keongdagreat at <a href="https://images.assetsdelivery.com/compings_v2/keongdagreat/keongdagreat1608/keongdagreat160800209/60797684.jpg" rel="noopener noreferrer nofollow" target="_blank">123RF</a></em>
 </p>
