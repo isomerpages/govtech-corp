@@ -18,7 +18,7 @@ FrontPage. That led him to learn programming in secondary school, then
 to a Diploma in Business Information Technology at Singapore Polytechnic,
 and a Bachelor and Master in Information Systems at Singapore Management
 University.</p>
-<p>An internship with the then-Infocomm Development Authority (IDA) landed
+<p>An internship with the then – Infocomm Development Authority (IDA) landed
 him a full-time job after graduation. Zui Young credits his parents – who
 supported his interest in coding by buying him computers, software and
 computer magazines – for his achievements.</p>
