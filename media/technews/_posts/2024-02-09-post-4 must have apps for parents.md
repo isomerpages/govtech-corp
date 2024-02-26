@@ -40,6 +40,9 @@ truly matters - spending quality time together!</p>
 </li>
 </ol>
 <h3>1. Tackle multiple tasks with LifeSG</h3>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Access multiple e-services via the LifeSG app and make life simpler with LifeSG" src="/images/technews/lifesg_infographic.jpg">
+</div>
 <p>Parents often wear multiple hats. They might be property managers for
 the family home and teachers to their children. At the same time, they
 might be caregivers to their elderly parents. That’s why the LifeSG app
@@ -64,6 +67,9 @@ birth, or even end-of-life planning.</p>
 <p>Learn more about&nbsp;<a href="https://www.life.gov.sg/" class="editor-rtfLink" rel="noopener noreferrer nofollow" target="_blank">LifeSG here.</a>
 </p>
 <h3>2. Managing your finances with MyMoneySense</h3>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Get an overview of your finances and plan your financial goals with MyMoneySense" src="/images/technews/MyMoneySense.jpg">
+</div>
 <p>Making a big purchase and need to look at the family’s joint assets? Curious
 about what insurance coverage your loved ones actually have? Wonder how
 much to go about managing your finances?</p>
@@ -88,6 +94,9 @@ in the case of a loss of income.</p>
 <p>Try&nbsp;<a href="https://www.mymoneysense.gov.sg/" class="editor-rtfLink" rel="noopener noreferrer nofollow" target="_blank">MyMoneySense out here.</a>
 </p>
 <h3>3. Keep your family safe with MyENV</h3>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Plan your activities ahead with myENV to check for weather forecasts and updates." src="/images/technews/new_myenv_app_layout.jpg">
+</div>
 <p>With the haze making its rounds in Singapore again these days, it might
 be a good idea to be updated on air quality often. Particularly if the
 family is heading out for a hike or a picnic.</p>
@@ -104,6 +113,9 @@ nursing home) to stay on top of any hazards that appear there!</p>
 <p>Download MyEnv&nbsp;<a href="https://www.smartnation.gov.sg/initiatives/urban-living/myenv-app/" class="editor-rtfLink" rel="noopener noreferrer nofollow" target="_blank">here.</a>
 </p>
 <h3>4. Learn as a family with NLBMobile</h3>
+<div class="iframe-wrapper">
+<iframe style="max-width: 100%;" height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/47FBXNAUNUI?si=mb_Rtd3wzvxR5cus"></iframe>
+</div>
 <p>If you’re looking for a way to bond with your child, reading with them
 should be at the top of the list.</p>
 <p>You see, reading to children is an intimate ritual that weaves bonds of
