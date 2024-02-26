@@ -133,6 +133,9 @@ has been an independent nation!</p>
 <p>You can download the NLB mobile app&nbsp;<a href="https://mobileapp.nlb.gov.sg/" class="editor-rtfLink" rel="noopener noreferrer nofollow" target="_blank">here.</a>
 </p>
 <h3>5. Keep track of your child’s progress with Parents Gateway</h3>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Parents Gateway: Parents and teachers can communicate and check on children's academic progress" src="/images/technews/Parents_Gateway.jpg">
+</div>
 <p>Staying updated with your child’s academic progress and school activities
 can sometimes add to the many tasks parents juggle daily. While parents
 often rely on massive WhatsApp groups for updates, these chats can sometimes
