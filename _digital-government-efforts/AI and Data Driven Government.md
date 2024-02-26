@@ -26,7 +26,6 @@ or improving government digital services. Understanding citizens’ preferences
 also helps governments communicate more effectively with communities, fostering
 stronger public-private collaborations in the process.</p>
 <h4><u>Whole-of-Government Application Analytics (WOGAA)</u></h4>
-<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Digital Gov Efforts/WOGAA_NewHeaderBanner.jpg">
 </div>
@@ -44,7 +43,6 @@ and have a holistic overview of government digital services.</p>
 </div>
 <p>Learn more about WOGAA <a href="https://wogaa.sg/#/" rel="noopener noreferrer nofollow" target="_blank">here</a>.</p>
 <h4><u>Personalise/Percy</u></h4>
-<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Digital Gov Efforts/Personalise_HeaderBanner.jpg">
 </div>
