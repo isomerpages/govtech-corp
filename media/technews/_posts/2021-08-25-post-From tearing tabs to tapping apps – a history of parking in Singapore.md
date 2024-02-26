@@ -77,7 +77,7 @@ real-time information about available lots in EPS HDB carparks.</p>
 <img style="width: 100%" height="auto" width="100%" alt="Screenshot of Parking.sg website" src="/images/technews/Parking_sg.jpg">
 </div>
 <p>But for parking at carparks without the electronic gantries. Coupons continued
-to rule the day until 2018, when the&nbsp;<a href="https://www.nas.gov.sg/archivesonline/government_records/Flipviewer/grid_publish/0/0b6fe76b-9f10-11e7-843a-0050568939ad-Cmd.23of1982/web/html5/index.html?launchlogo=tablet/GovernmentRecords_brandingLogo_.png&amp;amp;pn=31" rel="noopener noreferrer nofollow" target="_blank">Parking.sg</a>
+to rule the day until 2018, when the&nbsp;<a href="https://www.nas.gov.sg/archivesonline/government_records/Flipviewer/grid_publish/0/0b6fe76b-9f10-11e7-843a-0050568939ad-Cmd.23of1982/web/html5/index.html?launchlogo=tablet/GovernmentRecords_brandingLogo_.png&amp;amp;pn=31" rel="noopener noreferrer nofollow" target="_blank">Parking.sg</a> 
 <a href="https://www.parking.sg" class="editor-rtfLink" rel="noopener noreferrer nofollow" target="_blank">app</a>&nbsp;was rolled out as part of Singapore’s Smart Nation initiative.</p>
 <p>In the past, you would have had to calculate the number of parking coupons
 needed for your parking session. The app will automatically calculate the
