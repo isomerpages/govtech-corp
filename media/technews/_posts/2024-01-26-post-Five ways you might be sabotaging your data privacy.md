@@ -23,7 +23,8 @@ your cybersecurity.</p>
 <p>As we observe Data Privacy Day on January 28, there’s no better time to
 learn about how to protect your personal information by avoiding the actions
 – which many of us carry out unthinkingly – listed below.</p>
-<p>Five ways you might be sabotaging your data privacy:</p>
+<p><strong>Five ways you might be sabotaging your data privacy:</strong>
+</p>
 <ol data-tight="true" class="tight">
 <li>
 <p>Clicking "accept all cookies"</p>
@@ -32,7 +33,13 @@ learn about how to protect your personal information by avoiding the actions
 <p>Not checking if the website is secured</p>
 </li>
 <li>
-<p>Ignoring "password compromised</p>
+<p>Ignoring "password compromised" prompts</p>
+</li>
+<li>
+<p>Sharing anything and everything online</p>
+</li>
+<li>
+<p>Allowing all app permissions</p>
 </li>
 </ol>
 <h3>1. Clicking “accept all cookies”</h3>
