@@ -19,8 +19,6 @@ GovTech STACK community member.</p>
 <p>Meet like-minded experts at GovTech STACK community events. As a member,
 you’ll enjoy access to exclusive tech conferences and developer events
 in Singapore.</p>
-<p></p>
-<p></p>
 <div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="/" class="isomer-card"><div class="isomer-card-body"><div class="isomer-card-title">GovTech STACK conferences</div><div class="isomer-card-description">Attend our flagship conference, packed with keynote speeches, panel discussions and workshops.</div><div class="isomer-card-link">Learn more</div></div></a>
 <a rel="noopener noreferrer nofollow" href="/" class="isomer-card">
 <div class="isomer-card-body">
@@ -31,7 +29,6 @@ in tech.</div>
 </div>
 </a><a rel="noopener noreferrer nofollow" href="/" class="isomer-card"><div class="isomer-card-body"><div class="isomer-card-title">STACKx meetups</div><div class="isomer-card-description">Casual community meet-ups with talks by GovTech professionals and industry speakers.</div><div class="isomer-card-link">Learn more</div></div></a>
 </div>
-<p></p>
 <h3>Conference spotlight: STACKx Data &amp; AI 2023</h3>
 <p>Our community explored the possibilities of AI in the public sector at
 our latest flagship conference. Experts covered the latest trends around
@@ -40,13 +37,11 @@ AI, while industry folks held discussions on Large Language Models (LLMs).</p>
 and practitioners to connect and move the conversation around AI forward.</p>
 <p>Find your way to our next flagship conference by joining our STACK meet-ups
 as a community member.</p>
-<p></p>
 <div class="iframe-wrapper">
 <iframe height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/5DGAIiUwMuU?si=vx4sW43nS01ysCQ6"></iframe>
 </div>
 <p></p>
 <hr>
-<p></p>
 <div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="https://www.meetup.com/stack-by-govtech-singapore/" class="isomer-card"><div class="isomer-card-body"><div class="isomer-card-title">Join our community</div><div class="isomer-card-description">Be part of our growing tech community and mingle with other like-minded professionals.</div><div class="isomer-card-link">Sign up</div></div></a>
 <a rel="noopener noreferrer nofollow" href="https://go.gov.sg/stacktelegram" class="isomer-card">
 <div class="isomer-card-body">
