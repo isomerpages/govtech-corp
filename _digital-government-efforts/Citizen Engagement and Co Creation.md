@@ -53,8 +53,7 @@ for using technology to improve lives and contribute to building Singapore
 into a Smart Nation using the SG Tech Stack. The STACK developer conference
 is also the largest Government-led, biennial developer conference in Singapore,
 connecting the government, industry, and the tech community.</p>
-<p>Learn more about STACK here. (Link to Get Involved - Join Our Communities
-- For Developers: STACK Community)</p>
+<p>Learn more about STACK <a href="/get-involved/join-our-communities/stack-community/" rel="noopener noreferrer nofollow" target="_blank">here</a>.</p>
 <p><a href="https://staging-lite.d2uz1494fahfnj.amplifyapp.com/get-involved/join-our-communities/stack-community/" rel="noopener noreferrer nofollow" target="_blank">https://staging-lite.d2uz1494fahfnj.amplifyapp.com/get-involved/join-our-communities/stack-community/</a>
 </p>
 <p>Join our <a href="https://www.meetup.com/stack-by-govtech-singapore/" rel="noopener noreferrer nofollow" target="_blank">STACK Meetup Community</a> and
@@ -71,8 +70,7 @@ GovTech and make an impact on government products and services. Members
 from all walks of life work alongside GovTech teams in focus group discussions
 and user-testing sessions, etc., to provide feedback on digital services
 that are being developed.</p>
-<p>Learn more about Tech Kaki here. (Link to Get Involved - Join Our Communities
-- For Citizens: Tech Kaki Community)</p>
+<p>Learn more about Tech Kaki <a href="/get-involved/join-our-communities/tech-kaki/" rel="noopener noreferrer nofollow" target="_blank">here</a>.</p>
 <p><a href="https://staging-lite.d2uz1494fahfnj.amplifyapp.com/get-involved/join-our-communities/tech-kaki/" rel="noopener noreferrer nofollow" target="_blank">https://staging-lite.d2uz1494fahfnj.amplifyapp.com/get-involved/join-our-communities/tech-kaki/</a>
 </p>
 <p><strong>(move crowdtask from tech for public good page)</strong>
