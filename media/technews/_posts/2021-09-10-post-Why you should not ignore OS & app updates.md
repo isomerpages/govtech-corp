@@ -99,4 +99,27 @@ appear? Well, just turn on the auto-update function available in the&nbsp;
 environments. Problem solved.</p>
 <p><em>Enjoyed this article? Check out this article to find out about&nbsp;<a href="https://www.tech.gov.sg/media/technews/here-are-5-jobs-that-didnt-exist-10-years-ago" class="editor-rtfLink" rel="noopener noreferrer nofollow" target="_blank">new jobs that didn’t exist a decade ago</a>, or this article where we show how&nbsp;<a href="https://www.tech.gov.sg/media/technews/developing-the-one-service-chatbot" class="editor-rtfLink" rel="noopener noreferrer nofollow" target="_blank">AI Chatbots</a>&nbsp;can improve your neighbourhood!</em>
 </p>
+<h4><strong>Related Content</strong></h4>
+<ul data-tight="true" class="tight">
+<li>
+<p><a href="https://www.tech.gov.sg/media/technews/5-tips-to-boost-security-and-privacy-when-using-whatsapp?utm_medium=recommender_0&amp;utm_source=aHR0cHM6Ly93d3cudGVjaC5nb3Yuc2cvbWVkaWEvdGVjaG5ld3Mvd2h5LXlvdS1zaG91bGRudC1pZ25vcmUtb3MtYW5kLWFwcC11cGRhdGVz&amp;utm_content=aHR0cHM6Ly93d3cudGVjaC5nb3Yuc2cvbWVkaWEvdGVjaG5ld3MvNS10aXBzLXRvLWJvb3N0LXNlY3VyaXR5LWFuZC1wcml2YWN5LXdoZW4tdXNpbmctd2hhdHNhcHA=" rel="noopener noreferrer nofollow" target="_blank"><u>5 tips to boost security and privacy when using WhatsApp</u></a>
+</p>
+</li>
+<li>
+<p><a href="https://www.tech.gov.sg/media/technews/stepping-up-to-the-healthy-challenge?utm_medium=recommender_1&amp;utm_source=aHR0cHM6Ly93d3cudGVjaC5nb3Yuc2cvbWVkaWEvdGVjaG5ld3Mvd2h5LXlvdS1zaG91bGRudC1pZ25vcmUtb3MtYW5kLWFwcC11cGRhdGVz&amp;utm_content=aHR0cHM6Ly93d3cudGVjaC5nb3Yuc2cvbWVkaWEvdGVjaG5ld3Mvc3RlcHBpbmctdXAtdG8tdGhlLWhlYWx0aHktY2hhbGxlbmdl" rel="noopener noreferrer nofollow" target="_blank"><u>Stepping Up to the Healthy Challenge</u></a>
+</p>
+</li>
+<li>
+<p><a href="https://www.tech.gov.sg/media/technews/moments-of-life-is-now-lifesg-story-so-far?utm_medium=recommender_2&amp;utm_source=aHR0cHM6Ly93d3cudGVjaC5nb3Yuc2cvbWVkaWEvdGVjaG5ld3Mvd2h5LXlvdS1zaG91bGRudC1pZ25vcmUtb3MtYW5kLWFwcC11cGRhdGVz&amp;utm_content=aHR0cHM6Ly93d3cudGVjaC5nb3Yuc2cvbWVkaWEvdGVjaG5ld3MvbW9tZW50cy1vZi1saWZlLWlzLW5vdy1saWZlc2ctc3Rvcnktc28tZmFy" rel="noopener noreferrer nofollow" target="_blank"><u>Moments of Life is now LifeSG – the story so far</u></a>
+</p>
+</li>
+<li>
+<p><a href="https://www.tech.gov.sg/media/technews/geeky-myth-busting-facts-you-need-to-know-about-tracetogether?utm_medium=recommender_3&amp;utm_source=aHR0cHM6Ly93d3cudGVjaC5nb3Yuc2cvbWVkaWEvdGVjaG5ld3Mvd2h5LXlvdS1zaG91bGRudC1pZ25vcmUtb3MtYW5kLWFwcC11cGRhdGVz&amp;utm_content=aHR0cHM6Ly93d3cudGVjaC5nb3Yuc2cvbWVkaWEvdGVjaG5ld3MvZ2Vla3ktbXl0aC1idXN0aW5nLWZhY3RzLXlvdS1uZWVkLXRvLWtub3ctYWJvdXQtdHJhY2V0b2dldGhlcg==" rel="noopener noreferrer nofollow" target="_blank"><u>9 geeky myth-busting facts you need to know about TraceTogether</u></a>
+</p>
+</li>
+<li>
+<p><a href="https://www.tech.gov.sg/media/technews/three-apps-that-millennials-must-share-with-their-grandparents?utm_medium=recommender_4&amp;utm_source=aHR0cHM6Ly93d3cudGVjaC5nb3Yuc2cvbWVkaWEvdGVjaG5ld3Mvd2h5LXlvdS1zaG91bGRudC1pZ25vcmUtb3MtYW5kLWFwcC11cGRhdGVz&amp;utm_content=aHR0cHM6Ly93d3cudGVjaC5nb3Yuc2cvbWVkaWEvdGVjaG5ld3MvdGhyZWUtYXBwcy10aGF0LW1pbGxlbm5pYWxzLW11c3Qtc2hhcmUtd2l0aC10aGVpci1ncmFuZHBhcmVudHM=" rel="noopener noreferrer nofollow" target="_blank"><u>Three Apps That Millennials Must Share with Their Grandparents</u></a>
+</p>
+</li>
+</ul>
 <p></p>
