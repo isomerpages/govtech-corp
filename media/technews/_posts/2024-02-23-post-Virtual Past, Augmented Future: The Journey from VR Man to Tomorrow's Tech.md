@@ -9,6 +9,9 @@ description: 🕶️🌐 Dive into the past and future of VR and AR! Explore the
 image: /images/technews/Virtual_Past__Augmented_Future__The_Journey_from_VR_Man_to_Tomorrow_s_Tech.jpg
 variant: tiptap
 ---
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="What is the difference between AR and VR?" src="/images/technews/Virtual_Past__Augmented_Future__The_Journey_from_VR_Man_to_Tomorrow_s_Tech.jpg">
+</div>
 <p>A long, long time ago in 1998, a series called “VR Man” graced the silver
 screen in Singapore.</p>
 <p>VR Man, Singapore’s first superhero – played by 90s heartthrob James Lye
@@ -139,7 +142,7 @@ teasing VR tech that can turn any flat surface into a virtual keyboard.</p>
 <p>With so many players vying to make VR and AR more a part of everyday life,
 we can be sure that these technologies will continue advancing, whether
 or not the newly launched Apple Vision Pro proves to be a hit.</p>
-<h3>6. Cool – any parting words before I go try out some VR/AR?</h3>
+<h3>Cool – any parting words before I go try out some VR/AR?</h3>
 <p>As mentioned above, technology is ever-changing and hence what counts
 as VR and AR evolves too. Try not to get caught up in strict definitions,
 as the lines between VR and AR blur over time.</p>
