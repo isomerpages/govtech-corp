@@ -66,7 +66,7 @@ in Singapore:</p>
 </p>
 </li>
 </ul>
-<h2><strong>Getting the dataset of videos</strong></h2>
+<h3>Getting the dataset of videos</h3>
 <p>NEA used a consumer-grade mobile phone to capture about 6,800 high-quality
 videos of between 5 and 50 seconds. The videos were filmed in a controlled
 environment so that the lighting, angle and focus were consistent, providing
@@ -76,16 +76,25 @@ were grown in a controlled environment, the larvae had fewer variations
 within a species in terms of size, colour, body texture, and movement patterns.
 The field-collected samples, which were harder to obtain, had more diverse
 features, as seen below.</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Comparison of lab-reared and field-collected larvae" src="/images/technews/Using_AI_to_differentiate_different_types_of_mosquito_larvae__3_.jpg">
+</div>
 <p><em>Comparison of lab-reared and field-collected larvae. (Source: National Environment Agency)</em>
 </p>
 <p>Next, we took still images from the videos at fixed intervals and then
 used an automated process to detect the area of interest where the larva
 is, crop the images to a consistent size, and rotate the images so that
 the head was on top.</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Pro-processing steps for identifying the mosquito larvae" src="/images/technews/Using_AI_to_differentiate_different_types_of_mosquito_larvae__4_.jpg">
+</div>
 <p><em>Pre-processing steps. (Source: GovTech and National Environment Agency)</em>
 </p>
 <p>These steps produced a sequence of images that can be analysed for differences
 in the motion of different species.</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Examples of pre-processed inputs of the mosquito larvae variety" src="/images/technews/Using_AI_to_differentiate_different_types_of_mosquito_larvae__5_.jpg">
+</div>
 <p><em>Examples of pre-processed inputs. (Source: National Environment Agency)</em>
 </p>
 <p>These images are then split into two sets: the training and test sets.
@@ -95,7 +104,7 @@ the training set to recognise different movement patterns in the video
 frames. After it has been trained, the model is then shown the previously
 unseen test set and is tasked to predict which species the video frames
 come from.</p>
-<h2><strong>How did the AI model perform?</strong></h2>
+<h3>How did the AI model perform?</h3>
 <p>When we first started the project, only lab-reared sample videos were
 available. Using this limited dataset, we were able to achieve more than
 99 per cent in weighted F1 score, which judges how accurate the model is!
@@ -109,6 +118,9 @@ samples, the F1 score dropped to about 89 per cent. Clearly, the different
 appearances of field-collected larvae gave the model difficulties. For
 example, the appearance of lab (left) and field (right)&nbsp;<em>Ae. aegypti</em>&nbsp;looked
 very different.</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Colour and pattern differences in lab-reared and field-collected samples" src="/images/technews/Using_AI_to_differentiate_different_types_of_mosquito_larvae__6_.jpg">
+</div>
 <p><em>Colour and pattern differences in lab-reared (left) and field-collected (right) samples. (Source: National Environment Agency)</em>
 </p>
 <p>We had known of this problem and tried to adjust for it by adding random
@@ -117,7 +129,7 @@ was clearly not enough to mitigate the problem.</p>
 <p>Subsequently, we introduced more field samples to train the model and
 after a few iterations, we were able to build up our F1 score to almost
 100 per cent!</p>
-<h2><strong>What lies ahead</strong></h2>
+<h3>What lies ahead</h3>
 <p>The result of the project has demonstrated the viability of using AI to
 classify the four most common species of mosquito larvae in Singapore.</p>
 <p>However, there are a few caveats to note. The end-to-end process, including
@@ -128,7 +140,7 @@ have to be retrained for every new mosquito larva we introduce.</p>
 <p>Nonetheless, this project has set the stage for developing complex AI
 models to handle challenging object classification problems and we are
 excited about enhancing it further to apply to other cases!</p>
-<h5><strong>Related Content</strong></h5>
+<h4><strong>Related Content</strong></h4>
 <ul data-tight="true" class="tight">
 <li>
 <p><a href="https://www.tech.gov.sg/media/technews/subscribe?utm_medium=recommender_0&amp;utm_source=aHR0cHM6Ly93d3cudGVjaC5nb3Yuc2cvbWVkaWEvdGVjaG5ld3MvdXNpbmctYWktdG8tZGlmZmVyZW50aWF0ZS1tb3NxdWl0by1sYXJ2YWU=&amp;utm_content=aHR0cHM6Ly93d3cudGVjaC5nb3Yuc2cvbWVkaWEvdGVjaG5ld3Mvc3Vic2NyaWJl" class="editor-rtfLink" rel="noopener noreferrer nofollow" target="_blank">TechNews Newsletter</a>
