@@ -59,7 +59,7 @@ this map? Contribute by filling up the details in this&nbsp;<a href="https://doc
 people. Two examples – home-based learning has made it essential for students
 to have access to computers and with job listings increasingly on online
 portals, job seekers also need computers to access the job market.</p>
-<p>The charity organisation&nbsp;<a href="https://engineeringgood.org/digital-inclusion/cac/" class="editor-rtfLink" rel="noopener noreferrer nofollow" target="_blank">Engineering Good</a>&nbsp;has
+<p>The charity organisation&nbsp;<a href="https://www.engineeringgood.org/" class="editor-rtfLink" rel="noopener noreferrer nofollow" target="_blank">Engineering Good</a>&nbsp;has
 been collecting used devices, refurbishing them, and then distributing
 them to low-income families. According to their website, they have distributed
 more than 4,000 laptops since May 2021 but are still trying to fulfil requests
