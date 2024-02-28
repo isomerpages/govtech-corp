@@ -29,28 +29,22 @@ here are some&nbsp;<strong>tips to avoid digital burnout:</strong>
 </p>
 <ol data-tight="true" class="tight">
 <li>
-<p><a href="https://www.tech.gov.sg/media/technews/how-to-avoid-digital-burnout#1-do-a-digital-cleanse" class="editor-rtfLink" rel="noopener noreferrer nofollow" target="_blank">Do a digital cleanse</a>
-</p>
+<p>Do a digital cleanse</p>
 </li>
 <li>
-<p><a href="https://www.tech.gov.sg/media/technews/how-to-avoid-digital-burnout#2-remove-false-urgencies" class="editor-rtfLink" rel="noopener noreferrer nofollow" target="_blank">Remove false urgencies</a>
-</p>
+<p>Remove false urgencies</p>
 </li>
 <li>
-<p><a href="https://www.tech.gov.sg/media/technews/how-to-avoid-digital-burnout#3-avoid-multitasking" class="editor-rtfLink" rel="noopener noreferrer nofollow" target="_blank">Avoid multitasking</a>
-</p>
+<p>Avoid multitasking</p>
 </li>
 <li>
-<p><a href="https://www.tech.gov.sg/media/technews/how-to-avoid-digital-burnout#4-set-digital-boundaries" class="editor-rtfLink" rel="noopener noreferrer nofollow" target="_blank">Set digital boundaries</a>
-</p>
+<p>Set digital boundaries</p>
 </li>
 <li>
-<p><a href="https://www.tech.gov.sg/media/technews/how-to-avoid-digital-burnout#5-routinely-unplug" class="editor-rtfLink" rel="noopener noreferrer nofollow" target="_blank">Routinely unplug</a>
-</p>
+<p>Routinely unplug</p>
 </li>
 <li>
-<p><a href="https://www.tech.gov.sg/media/technews/how-to-avoid-digital-burnout#6-manage-not-abandon-technology" class="editor-rtfLink" rel="noopener noreferrer nofollow" target="_blank">Manage, not abandon technology</a>
-</p>
+<p>Manage, not abandon technology</p>
 </li>
 </ol>
 <h3>1. Do a digital cleanse</h3>
@@ -85,6 +79,11 @@ and Google’s newer devices have&nbsp;<a href="https://support.apple.com/en-sg/
 enables you to customise the notifications you see when you activate the
 function.</p>
 <h3>3. Avoid multitasking</h3>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Avoid multitasking" src="/images/technews/Multitasking_stress.jpg">
+</div>
+<p><em>Image by <a href="https://govtechcmg.assetsdelivery.com/new/portfolio_image.php?contributorid=drogatnev&amp;lang=en" rel="noopener noreferrer nofollow" target="_blank">drogatnev</a> on 123RF</em>
+</p>
 <p>One of the great paradoxes of technology is how it’s allowed us to be
 productive on multiple tasks at the same time, but also doomed us to be
 unproductive on multiple distractions at the same time.</p>
@@ -111,6 +110,11 @@ if you’re willing to go cold turkey, simply delete the app altogether!</p>
 <p>The Chrome internet browser features a similar setting where you can limit
 the usage of individual websites.</p>
 <h3>5. Routinely unplug</h3>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Routinely unplug from tech devices to refocus and clear your mind" src="/images/technews/Unplug_from_tech.jpg">
+</div>
+<p><em>Image by <a href="https://www.freepik.com/free-vector/hand-drawn-flat-design-digital-detox-illustration_23789424.htm#fromView=search&amp;page=1&amp;position=0&amp;uuid=88770ceb-7e00-4c8d-b1c8-152967d1871c" rel="noopener noreferrer nofollow" target="_blank">freepik</a></em>
+</p>
 <p>Taking breaks from technology, whether for work or entertainment, helps
 you to decompress. Set technology-free times when you can focus on other
 things such as eating with your family, exercising, or just reading a good
