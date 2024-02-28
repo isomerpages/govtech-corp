@@ -31,20 +31,16 @@ that benefit their health and well-being.</p>
 </p>
 <ol data-tight="true" class="tight">
 <li>
-<p><a href="https://www.tech.gov.sg/media/technews/gaming-our-way-to-healthier-lifestyles#1-healthy-365-app" class="editor-rtfLink" rel="noopener noreferrer nofollow" target="_blank">Healthy 365 app</a>
-</p>
+<p>Healthy 365 app</p>
 </li>
 <li>
-<p><a href="https://www.tech.gov.sg/media/technews/gaming-our-way-to-healthier-lifestyles#2-lumi-health" class="editor-rtfLink" rel="noopener noreferrer nofollow" target="_blank">Lumi Health</a>
-</p>
+<p>Lumi Health</p>
 </li>
 <li>
-<p><a href="https://www.tech.gov.sg/media/technews/gaming-our-way-to-healthier-lifestyles#3-hisg" class="editor-rtfLink" rel="noopener noreferrer nofollow" target="_blank">hiSG</a>
-</p>
+<p>hiSG</p>
 </li>
 <li>
-<p><a href="https://www.tech.gov.sg/media/technews/gaming-our-way-to-healthier-lifestyles#4-mindworks" class="editor-rtfLink" rel="noopener noreferrer nofollow" target="_blank">MindWorks</a>
-</p>
+<p>MindWorks</p>
 </li>
 </ol>
 <h3>1. Healthy 365 app</h3><a class="isomer-image-wrapper" href="https://pphtpc.hpb.gov.sg/h365-app/home?a=b/"><img style="width: 100%" height="auto" width="100%" alt="Healthy 365 mobile app to improve overall health and well-being via points system" src="/images/technews/Healthy365_app.jpg"></a>
