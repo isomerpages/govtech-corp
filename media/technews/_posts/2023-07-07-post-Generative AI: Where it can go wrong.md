@@ -10,7 +10,7 @@ description: Navigate the risks of using Generative AI in your reports. From
 variant: tiptap
 ---
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Generative AI and where it can go wrong" src="/images/technews/Generative_AI_Where_it_can_go_wrong_1.jpg">
+<img style="width: 100%;" height="auto" width="100%" alt="Generative AI and where it can go wrong" src="/images/technews/Generative_AI_Where_it_can_go_wrong_1.jpg">
 </div>
 <p><em>Image by <a href="https://www.freepik.com/free-photo/people-generating-images-using-artificial-intelligence-laptop_66108429.htm#fromView=search&amp;page=1&amp;position=1&amp;uuid=f340be6f-18b0-46dc-83d1-f14b61a5560c" rel="noopener noreferrer nofollow" target="_blank">Freepik</a></em>
 </p>
