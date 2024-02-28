@@ -1,12 +1,9 @@
 ---
 layout: homepage
 title: Government Technology Agency of Singapore | GovTech
-description: The Government Technology Agency (GovTech) is the lead agency
-  driving Singapore’s Smart Nation initiative and public sector digital
-  transformation. GovTech supports public agencies to manage enterprise IT
-  operations and develop new digital products for citizens and businesses.
-  GovTech is a Statutory Board under the Smart Nation and Digital Government
-  Group (SNDGG) in the Prime Minister’s Office.
+description: Empowering our nation through digital transformation. From
+  tech-enabled solutions to smart city infrastructure, we aim to improve the
+  lives of all Singaporeans.
 image: /images/isomer-logo.svg
 permalink: /
 notification: Notification banner test
