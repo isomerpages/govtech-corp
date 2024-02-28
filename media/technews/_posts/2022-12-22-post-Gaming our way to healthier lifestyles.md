@@ -112,7 +112,7 @@ forfeit your $50 deposit should you fail to hit the target.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="MindWorks website screenshot, learn how to meditate and clear your mind for mental health" src="/images/technews/MindWorks_screenshot.jpg">
 </div>
-<p>Screenshot from MindWorks <a href="https://mindworks.org/about-us/why-mindworks/" rel="noopener noreferrer nofollow" target="_blank">website</a>
+<p><em>Screenshot from MindWorks <a href="https://mindworks.org/about-us/why-mindworks/" rel="noopener noreferrer nofollow" target="_blank">website</a></em>
 </p>
 <p>Being healthy is not just about physical well-being but mental fitness
 as well. The&nbsp;<a href="https://www.straitstimes.com/singapore/brain-training-game-launched-to-boost-seniors-cognitive-health" class="editor-rtfLink" rel="noopener noreferrer nofollow" target="_blank">MindWorks</a>&nbsp;app
