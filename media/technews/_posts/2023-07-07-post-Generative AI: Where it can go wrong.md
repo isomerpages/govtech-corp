@@ -9,6 +9,11 @@ description: Navigate the risks of using Generative AI in your reports. From
   use at work.
 variant: tiptap
 ---
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Generative AI and where it can go wrong" src="/images/technews/Generative_AI_Where_it_can_go_wrong_1.jpg">
+</div>
+<p><em>Image by <a href="https://www.freepik.com/free-photo/people-generating-images-using-artificial-intelligence-laptop_66108429.htm#fromView=search&amp;page=1&amp;position=1&amp;uuid=f340be6f-18b0-46dc-83d1-f14b61a5560c" rel="noopener noreferrer nofollow" target="_blank">Freepik</a></em>
+</p>
 <p>You’re rushing a report out for your boss due next week. You read that
 ChatGPT can generate reports in an instant. It even passed a bar exam and
 a whole bunch of other tests.</p>
@@ -109,6 +114,11 @@ always remember to verify the content with a human. Remember, AI can generate
 content, but it can’t take responsibility. After all, your boss is unlikely
 to accept ‘ChatGPT got it wrong’ as an answer.</p>
 <h3>2. Risk of plagiarism or infringement</h3>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Student using ChatGPT to generate answers for school assignment. Risks of plagiarism or false info" src="/images/technews/Generative_AI_Where_it_can_go_wrong_2.jpg">
+</div>
+<p><em>Image by frimufilms on <a href="https://www.freepik.com/free-photo/opened-ai-chat-laptop_38259334.htm#fromView=search&amp;page=1&amp;position=26&amp;uuid=e1b4f0c0-8f7f-40dc-839e-b7c055ba6d11" rel="noopener noreferrer nofollow" target="_blank">Freepik</a></em>
+</p>
 <p>Generative AI learns and generates content by analysing vast amounts of
 data, including past works. This means there’s a chance that generated
 content can closely mirror someone’s work; to the point where it can be
