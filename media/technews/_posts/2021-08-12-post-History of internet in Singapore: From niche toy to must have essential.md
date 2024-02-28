@@ -17,6 +17,9 @@ bubble tea delivery).</p>
 forever? We’re hopping into a time machine to trace its journey from niche
 toy to ubiquitous tool. Only have 2 minutes? You can watch the video below
 too!</p>
+<div class="iframe-wrapper">
+<iframe style="max-width: 100%;" height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/gt7WQinA_E4?si=S6BXXToSaaXCDdY_"></iframe>
+</div>
 <p>Short on time? Catch this video to find out how the internet landscape
 changed in Singapore.</p>
 <h3>1987 – Connection to Bitnet, the internet’s precursor</h3>
