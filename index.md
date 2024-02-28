@@ -29,6 +29,15 @@ sections:
           description: Productivity and Collaboration
           url: /for-government-agencies
       variant: center
+  - infobar:
+      title: Government Technology Agency (GovTech)
+      subtitle: WHO WE ARE
+      id: infobar
+      description: GovTech builds tech for public good to improve the lives of
+        Singaporeans and the economy, and supports public agencies in driving
+        digital transformation.
+      button: About GovTech
+      url: /about-us/who-we-are/
   - infopic:
       title: Tech for Public Good
       subtitle: OUR DIGITAL GOVERNMENT EFFORTS
@@ -71,13 +80,4 @@ sections:
       subtitle: STAY UPDATED ON GOVTECH NEWS
       id: resources
       button: READ MORE
-  - infobar:
-      title: Government Technology Agency (GovTech)
-      subtitle: WHO WE ARE
-      id: infobar
-      description: GovTech builds tech for public good to improve the lives of
-        Singaporeans and the economy, and supports public agencies in driving
-        digital transformation.
-      button: About GovTech
-      url: /about-us/who-we-are/
 ---
