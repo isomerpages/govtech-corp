@@ -21,13 +21,10 @@ gained considerable attention for their ability to generate diverse content,
 ranging from articles and photos to artwork and code.</p>
 <p><strong>Table of contents:</strong>
 </p>
-<ul data-tight="true" class="tight">
+<ol data-tight="true" class="tight">
 <li>
 <p>What is AI and generative AI?</p>
 </li>
-</ul>
-<p>The risks:</p>
-<ol data-tight="true" class="tight">
 <li>
 <p>Risks of Unverified Content of 'hallucinations'</p>
 </li>
@@ -37,12 +34,10 @@ ranging from articles and photos to artwork and code.</p>
 <li>
 <p>Unintended Biases</p>
 </li>
-</ol>
-<ul data-tight="true" class="tight">
 <li>
 <p>How can you protect yourself?</p>
 </li>
-</ul>
+</ol>
 <h3>What is AI and generative AI?</h3>
 <p>You’d probably know this by now, but ‘AI’ stands for Artificial Intelligence.
 AI refers to the development of computer systems capable of performing
