@@ -94,6 +94,9 @@ user experience, and Augmented/Virtual Reality/Mixed Reality (AR/VR/MR).</p>
 of Singapore’s landscape, they’ll learn about how technology is increasingly
 powering our daily city lives, including supporting the planning of towns
 and amenities and being embedded in our infrastructure.</p>
+<div class="iframe-wrapper">
+<iframe style="max-width: 100%;" height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/2QJqf0CZ4d4?si=75jGjGW30jxhU9gx"></iframe>
+</div>
 <h3>6. Follow Smart Nation Builder – a moving roadshow</h3>
 <p>Talk about fun on wheels. Head down to the Sports Hub on the final weekend
 of this year’s June holidays to catch the Smart Nation Builder, a 12m-long
