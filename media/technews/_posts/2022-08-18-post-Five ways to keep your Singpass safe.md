@@ -23,24 +23,20 @@ how you can play an active role in keeping your Singpass secure.</p>
 </p>
 <ol data-tight="true" class="tight">
 <li>
-<p><a href="https://www.tech.gov.sg/media/technews/five-ways-to-keep-your-singpass-safe#1-dont-share-your-singpass-details-with-others" class="editor-rtfLink" rel="noopener noreferrer nofollow" target="_blank">Don’t share your Singpass details with others</a>
-</p>
+<p>Don't share your Singpass details with others</p>
 </li>
 <li>
-<p><a href="https://www.tech.gov.sg/media/technews/five-ways-to-keep-your-singpass-safe#2-dont-click-on-hyperlinks-or-scan-qr-codes-sent-over-sms-or-whatsapp-by-singpass" class="editor-rtfLink" rel="noopener noreferrer nofollow" target="_blank">Don’t click on hyperlinks or scan QR codes sent over SMS or WhatsApp by “Singpass”</a>
-</p>
+<p>Don't click on hyperlinks or scan QR codes sent over SMS or WhatsApp by
+"Singpass"</p>
 </li>
 <li>
-<p><a href="https://www.tech.gov.sg/media/technews/five-ways-to-keep-your-singpass-safe#3-check-the-singpass-url-domain-carefully" class="editor-rtfLink" rel="noopener noreferrer nofollow" target="_blank">Check the Singpass URL domain carefully</a>
-</p>
+<p>Check the Singpass URL domain carefully</p>
 </li>
 <li>
-<p><a href="https://www.tech.gov.sg/media/technews/five-ways-to-keep-your-singpass-safe#4-dont-ignore-the-alert-about-an-unusual-login" class="editor-rtfLink" rel="noopener noreferrer nofollow" target="_blank">Don’t ignore the alert about an unusual login</a>
-</p>
+<p>Don't ignore the alert about an unusual login</p>
 </li>
 <li>
-<p><a href="https://www.tech.gov.sg/media/technews/five-ways-to-keep-your-singpass-safe#5-only-one-active-singpass-app-at-a-time" class="editor-rtfLink" rel="noopener noreferrer nofollow" target="_blank">Only one active Singpass app at a time</a>
-</p>
+<p>Only one active Singpass app at a time</p>
 </li>
 </ol>
 <h3>1. Don't share your Singpass details with others</h3>
