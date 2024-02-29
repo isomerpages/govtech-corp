@@ -8,7 +8,9 @@ description: Embrace the future of work! Discover 5 ways AI is reshaping your
 image: /images/5_ways_AI_can_support_your_day_to_day_work.jpg
 variant: tiptap
 ---
-<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="5 ways AI can support your day to day work and tasks" src="/images/technews/5_ways_AI_can_support_your_day_to_day_work.jpg">
+</div>
 <p>Generative AI tools have taken the world by storm in the past year: Nowadays,
 getting a 1,000-word essay on the history of different types of pasta or
 a picture of a cat dressed as a samurai is as easy as typing a prompt into
