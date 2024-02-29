@@ -98,6 +98,9 @@ and amenities and being embedded in our infrastructure.</p>
 <iframe style="max-width: 100%;" height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/2QJqf0CZ4d4?si=75jGjGW30jxhU9gx"></iframe>
 </div>
 <h3>6. Follow Smart Nation Builder – a moving roadshow</h3>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Smart nation builder roadshow - moving truck exhibition" src="/images/technews/smart_nation_builder_truck.jpg">
+</div>
 <p>Talk about fun on wheels. Head down to the Sports Hub on the final weekend
 of this year’s June holidays to catch the Smart Nation Builder, a 12m-long
 truck fitted with interactive game stations for members of the public to
