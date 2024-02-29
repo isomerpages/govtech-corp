@@ -15,6 +15,6 @@ This Lunar New Year, take control and steer the conversation by dropping
 key tech terms of 2023! Find out how you can Distract, Deflect and Impress
 this CNY in the video below!</p>
 <div class="iframe-wrapper">
-<iframe height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/a6C5BnVdAiw"></iframe>
+<iframe style="max-width: 100%;" height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/a6C5BnVdAiw?si=XML4vCU4XiljVfjQ"></iframe>
 </div>
 <p></p>
