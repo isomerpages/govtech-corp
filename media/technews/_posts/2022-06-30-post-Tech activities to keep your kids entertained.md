@@ -71,6 +71,11 @@ on 3D printing and how this technology has several medical applications.</p>
 from, though be sure to check with the organiser if there is a minimum
 age for participation as 3D printing involves machinery that must be handled
 with care.</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="3D printing a plastic owl-shaped figure" src="/images/technews/3D_printing.jpg">
+</div>
+<p><em>Image by mari1408 on 123RF</em>
+</p>
 <p>The National Library, for instance, organises periodic 3D printing workshops
 but participants must be at least 15 years old.</p>
 <h3>4. Watch robots in action</h3>
