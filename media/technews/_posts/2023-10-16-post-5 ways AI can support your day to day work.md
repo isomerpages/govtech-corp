@@ -103,6 +103,11 @@ ad. You could describe it to your boss, or you could get DALL-E to sketch
 a series of storyboards that convey the overall plot of your video; after
 all, a picture paints a thousand words!</p>
 <h3>4. Write and debug code with chatbots</h3>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Coding with ChatGPT as an assistant" src="/images/technews/chatgpt_coding.jpg">
+</div>
+<p><em>Image by elleaon on 123RF</em>
+</p>
 <p>Chatbots are also good at writing and debugging computer code, so anyone
 – from programming veterans to novices – can benefit from using chatbots
 to speed up their work.</p>
