@@ -44,6 +44,9 @@ special skills to do?</p>
 </li>
 </ol>
 <h3>1. Create slides with AI tools like Gamma</h3>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Gamma screenshot, showing how this AI tool can help create slide decks efficiently" src="/images/technews/Gamma_screenshot.jpg">
+</div>
 <p>Few companies have gone the way of Amazon to&nbsp;<a href="https://www.forbes.com/sites/quora/2018/08/22/jeff-bezos-banned-powerpoint-presentations-at-amazon-meetings-heres-what-replaced-them/?sh=75a3fe063b5f" class="editor-rtfLink" rel="noopener noreferrer nofollow" target="_blank">ban PowerPoint</a>,
 so slides are still very much a reality of work meetings.</p>
 <p>If you dread creating slide decks for town halls, weekly syncs, client
