@@ -112,5 +112,5 @@ those websites are entirely at your own risk.</p>
 laws of the Republic of Singapore.</p>
 <h3><strong>GovTech Digital Updates</strong></h3>
 <p>18. The Terms &amp; Conditions when subscribing to GovTech digital updates
-can be found&nbsp;<a href="https://www.tech.gov.sg/files/GovTech-Subscription-Terms-Conditions-2021.pdf" rel="noopener noreferrer nofollow" target="_blank">here.</a>
+can be found in the <a href="/files/GovTech_Subscription_Terms_Conditions.pdf" rel="noopener noreferrer nofollow" target="_blank">file here.</a>
 </p>
