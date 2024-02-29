@@ -47,6 +47,8 @@ special skills to do?</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="Gamma screenshot, showing how this AI tool can help create slide decks efficiently" src="/images/technews/Gamma_screenshot.jpg">
 </div>
+<p><em>Screenshot from <a href="https://gamma.app/" rel="noopener noreferrer nofollow" target="_blank">Gamma website</a></em>
+</p>
 <p>Few companies have gone the way of Amazon to&nbsp;<a href="https://www.forbes.com/sites/quora/2018/08/22/jeff-bezos-banned-powerpoint-presentations-at-amazon-meetings-heres-what-replaced-them/?sh=75a3fe063b5f" class="editor-rtfLink" rel="noopener noreferrer nofollow" target="_blank">ban PowerPoint</a>,
 so slides are still very much a reality of work meetings.</p>
 <p>If you dread creating slide decks for town halls, weekly syncs, client
@@ -82,6 +84,11 @@ make up false information.</p>
 <p>GovTech also has its own transcription product, check it out&nbsp;<a href="https://www.developer.tech.gov.sg/products/categories/productivity-tools/transcribe/overview.html" class="editor-rtfLink" rel="noopener noreferrer nofollow" target="_blank">here.</a>
 </p>
 <h3>3. Quick scenario sketching with AI tools like DALL-E</h3>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="DALL-E screenshot, showing how it can convert text prompts into generated images" src="/images/technews/Dall_E_screenshot.jpg">
+</div>
+<p><em>Screenshot from <a href="https://openai.com/research/dall-e" rel="noopener noreferrer nofollow" target="_blank">DALL-E website</a></em>
+</p>
 <p>Many of us use images in presentations, pitches, and general communication
 to convey what we want to say.</p>
 <p>However, finding the right image is not easy and few of us have the talent
