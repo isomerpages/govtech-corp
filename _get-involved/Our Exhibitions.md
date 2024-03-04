@@ -13,50 +13,46 @@ image: /images/Get Involved/Smart_Nation_Cityscape_GovTech_exhibition_display.jp
 <p>Our work at GovTech impacts every part of your daily life. Learn more
 about the initiatives that improve the way you live, work and play at this
 immersive exhibition.</p>
-<table>
-<tbody>
-<tr>
-<th rowspan="1" colspan="1">
+<div class="isomer-card-grid">
+<div class="isomer-card">
+<div class="isomer-card-image">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Smart Nation CityScape GovTech exhibition display" src="/images/Get%20Involved/Smart_Nation_Cityscape_GovTech_exhibition_display.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="Smart Nation CityScape GovTech exhibition display" src="/images/Get Involved/Smart_Nation_Cityscape_GovTech_exhibition_display.jpg">
 </div>
-<p></p>
-</th>
-<th rowspan="1" colspan="1">
-<h5>Singapore’s Smart Nation Evolution</h5>
-<p>Take a historical trip through Singapore’s Smart Nation journey.</p>
-</th>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<h5>Digital services designed for you</h5>
-<p>Get to know more about the government digital services that were made
-with you in mind.</p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
+</div>
+<div class="isomer-card-body">
+<div class="isomer-card-title">Singapore’s Smart Nation evolution</div>
+<div class="isomer-card-description">Take a historical trip through Singapore’s Smart Nation journey.</div>
+</div>
+</div>
+<div class="isomer-card">
+<div class="isomer-card-image">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Smart Nation CityScape GovTech exhibition activity" src="/images/Get%20Involved/Smart_Nation_Cityscape_GovTech_exhibition_activities.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="Smart Nation CityScape GovTech exhibition activity" src="/images/Get Involved/Smart_Nation_Cityscape_GovTech_exhibition_activities.jpg">
 </div>
-<p></p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p></p>
+</div>
+<div class="isomer-card-body">
+<div class="isomer-card-title">Digital services designed for you</div>
+<div class="isomer-card-description">Get to know more about the government digital services that were made
+with you in mind.</div>
+</div>
+</div>
+<div class="isomer-card">
+<div class="isomer-card-image">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Smart Nation CityScape GovTech interactive exhibition" src="/images/Get%20Involved/Smart_Nation_Cityscape_GovTech_interactive_exhibition.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="Smart Nation CityScape GovTech interactive exhibition" src="/images/Get Involved/Smart_Nation_Cityscape_GovTech_interactive_exhibition.jpg">
 </div>
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<h5>An interactive experience for all</h5>
-<p>Touch, watch and listen your way through this immersive Smart Nation showcase.</p>
-</td>
-</tr>
-</tbody>
-</table>
+</div>
+<div class="isomer-card-body">
+<div class="isomer-card-title">An interactive experience for all</div>
+<div class="isomer-card-description">Touch, watch and listen your way through this immersive Smart Nation showcase.</div>
+</div>
+</div>
+</div>
 <h3>Visitor Information</h3>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Learn about the latest technologies and upcoming developments to transform SG into a smart nation" src="/images/Get Involved/Smart_Nation_CityScape.jpg">
+</div>
 <p>Open from Mondays to Saturdays, 9am to 5pm at:</p>
 <p>45 Maxwell Road
 <br>The URA Centre
@@ -71,6 +67,34 @@ and interactive ways.</p>
 <div class="iframe-wrapper">
 <iframe style="max-width: 100%;" height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/CId3K2e2dmk?si=R5Xk7ZjcQBocO8HJ"></iframe>
 </div>
+<p></p>
+<div class="isomer-card-grid">
+<div class="isomer-card">
+<div class="isomer-card-image">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Smart Nation PlayScape GovTech showcase robot activity and interaction with girl" src="/images/Get Involved/Smart_Nation_PlayScape_GovTech_showcase_robot_activity.jpg">
+</div>
+</div>
+<div class="isomer-card-body">
+<div class="isomer-card-title">A simpler way to learn about tech</div>
+<div class="isomer-card-description">Get to know the ins and outs of AI, VR, robotics and more through games
+and cool activities, such as programming a robot to dance.</div>
+</div>
+</div>
+<div class="isomer-card">
+<div class="isomer-card-image">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Kids taking part in interactive activities at Smart Nation PlayScape" src="/images/Get Involved/Kids_interactive_activities_Smart_Nation_PlayScape.jpg">
+</div>
+</div>
+<div class="isomer-card-body">
+<div class="isomer-card-title">Fun for the whole family</div>
+<div class="isomer-card-description">Suitable for visitors aged 10 and up, it’s the perfect opportunity for
+both the young and old to learn more about tech and our Smart Nation.</div>
+</div>
+</div>
+</div>
+<p></p>
 <p></p>
 <table>
 <tbody>
