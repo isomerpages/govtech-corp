@@ -40,4 +40,5 @@ the city’s challenges and improve the quality of life for its residents.&nbsp;
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="Singapore's ranking in the IMD Smart City Index 2023" src="/images/About Us/Our Achievements/IMD_Report_rank_2023.jpg">
 </div>
-<p></p>
+<p><em>Screenshot from <a href="https://www.imd.org/wp-content/uploads/2023/04/smartcityindex-2023-v7.pdf" rel="noopener noreferrer nofollow" target="_blank">IMD Smart Cities Index report</a></em>
+</p>
