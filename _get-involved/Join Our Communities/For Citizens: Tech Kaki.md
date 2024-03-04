@@ -38,19 +38,31 @@ for all.</p>
 <div class="isomer-card-description">Citizens can now spot fraudulent activity better with a redesigned login
 page for Singpass, thanks to a user research study done by Tech Kaki.</div>
 </div>
-</div><a rel="noopener noreferrer nofollow" href="https://www.isomer.gov.sg" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Placeholder image" src="https://placehold.co/600x400"></div></div><div class="isomer-card-body"><div class="isomer-card-title">This is a title for your card</div><div class="isomer-card-description">This is body text for your card. Describe your card.</div><div class="isomer-card-link">This is a link for your card</div></div></a>
-<a rel="noopener noreferrer nofollow" href="https://www.isomer.gov.sg" class="isomer-card">
+</div>
+<div class="isomer-card">
 <div class="isomer-card-image">
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="Placeholder image" src="https://placehold.co/600x400">
 </div>
 </div>
 <div class="isomer-card-body">
-<div class="isomer-card-title">This is a title for your card</div>
-<div class="isomer-card-description">This is body text for your card. Describe your card.</div>
-<div class="isomer-card-link">This is a link for your card</div>
+<div class="isomer-card-title">A smoother LifeSG inbox experience</div>
+<div class="isomer-card-description">With the help of over 100 Tech Kaki members who shared their views, the
+inbox design was enhanced so users could search for applications more easily.</div>
 </div>
-</a>
+</div>
+<div class="isomer-card">
+<div class="isomer-card-image">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Tech Kaki appreciation dinner and networking event" src="/images/Get Involved/Tech_Kaki_Appreciation_Dinner__1_.jpg">
+</div>
+</div>
+<div class="isomer-card-body">
+<div class="isomer-card-title">Appreciation events for our members</div>
+<div class="isomer-card-description">Annual events are organised so members can network, celebrate the impact
+of our Tech Kaki community and share more about their contributions.</div>
+</div>
+</div>
 </div>
 <table>
 <tbody>
@@ -109,6 +121,17 @@ share more about their contributions towards GovTech.</p>
 </tbody>
 </table>
 <hr>
+<h3>Join our community</h3>
+<p>(image)</p>
+<p>Connect with us and receive opportunities for co-creation, right in your
+email inbox.</p>
+<p>Sign up</p>
+<h3>Stay updated on social media</h3>
+<p>(image)</p>
+<p>Keep up to date with Tech Kaki happenings when you join our community
+on Facebook.</p>
+<p>Join our community <a href="https://www.facebook.com/TechKaki/" rel="noopener noreferrer nofollow" target="_blank">here</a>.</p>
+<p></p>
 <h3>Connect with us</h3>
 <div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="http://eepurl.com/hsr131" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Tech Kaki Appreciation Dinner" src="/images/Get Involved/Tech_Kaki_Appreciation_Dinner.jpg"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Join our community</div><div class="isomer-card-description">Connect with us and receive opportunities for co-creation, right in your email inbox.</div><div class="isomer-card-link">Sign up</div></div></a>
 <a rel="noopener noreferrer nofollow" href="https://www.facebook.com/TechKaki/" class="isomer-card">
