@@ -94,48 +94,17 @@ both the young and old to learn more about tech and our Smart Nation.</div>
 </div>
 </div>
 </div>
-<p></p>
-<p></p>
-<table>
-<tbody>
-<tr>
-<th rowspan="1" colspan="1">
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Smart Nation PlayScape GovTech showcase robot activity" src="/images/Get%20Involved/Smart_Nation_PlayScape_GovTech_showcase_robot_activity.jpg">
-</div>
-<p></p>
-</th>
-<th rowspan="1" colspan="1">
-<h4>A simpler way to learn about tech</h4>
-<p>Get to know the ins and outs of AI, VR, robotics and more by playing games
-and completing cool activities like programming a robot to dance and watching
-a robot solve a Rubik’s Cube.</p>
-</th>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<h4>Fun for the whole family</h4>
-<p>Suitable for visitors aged 10 and up, it’s the perfect opportunity for
-both the young and old to learn more about tech and our Smart Nation.</p>
-</td>
-<td rowspan="1" colspan="1">
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Kids taking part in interactive activities at Smart Nation PlayScape" src="/images/Get%20Involved/Kids_interactive_activities_Smart_Nation_PlayScape.jpg">
-</div>
-<p></p>
-</td>
-</tr>
-</tbody>
-</table>
 <h3>Visitor Information</h3>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Smart Nation playscape exhibition at Science Centre" src="/images/Get Involved/Smart_nation_playscape_exhibition.jpg">
+</div>
 <p>Open from Tuesdays to Sundays, 10am to 5pm at:</p>
 <p>Science Centre Singapore
 <br>15 Science Centre Road
 <br>Singapore 609081
 <br>
 <br><a href="https://www.smartnation.gov.sg/files/publications/playscape_pamphlet.pdf" rel="noopener noreferrer nofollow" target="_blank">Download</a> guide
-for Smart Nation PlayScape</p>
-<p>Buy tickets <a href="https://www.gevme.com/scsonlinetickets" rel="noopener noreferrer nofollow" target="_blank">here</a>
-</p>
+for Smart Nation PlayScape.</p>
+<p><a href="https://www.gevme.com/scsonlinetickets" rel="noopener noreferrer nofollow" target="_blank">Buy tickets</a>.</p>
 <p></p>
 <p></p>
