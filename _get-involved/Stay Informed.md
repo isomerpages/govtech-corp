@@ -6,14 +6,12 @@ description: Never miss a GovTech update. Stay connected with us through our
   TechNews newsletter, GovTech blogs, and GovTech social media.
 ---
 <h3>Receive GovTech news and updates</h3>
-<p>(image)</p>
-<h3>Subscribe to TechNews</h3>
-<p>Get tech tips and GovTech updates when you sign up to receive TechNews
-newsletters. With over 20,000 readers, you’ll enjoy articles about tech
-trends, behind-the-scenes stories and more.</p>
 <div class="isomer-image-wrapper">
-<img style="width: 50%;" height="auto" width="100%" alt="" src="https://i.ibb.co/NCH2BfN/Frame-172.png">
+<img style="width: 100%" height="auto" width="100%" alt="Subscribe to Technews for the latest developments on tech and read from anywhere." src="/images/Get Involved/Subscribe_to_Technews.jpg">
 </div>
+<h3>Subscribe to TechNews</h3>
+<p>Get tech tips, trend alerts, behind-the-scenes stories, GovTech updates
+and more when you sign up to receive TechNews newsletters.</p>
 <p><a href="http://eepurl.com/cUwIsD" class="button primary" rel="noopener noreferrer nofollow" target="_blank">Subscribe to TechNews</a>
 </p>
 <h4>Fresh insights from GovTech blogs</h4>
@@ -114,7 +112,7 @@ insights, lessons from their time in GovTech and product development journeys.</
 </table>
 <h3>Connect with us on social media</h3>
 <p>Be updated on the latest GovTech news and happenings when you connect
-with GovTech on <a href="https://linktr.ee/connectwithgovtech" rel="noopener noreferrer nofollow" target="_blank">social media</a>.</p>
+with GovTech on different <a href="https://linktr.ee/connectwithgovtech" rel="noopener noreferrer nofollow" target="_blank">social media</a> platforms.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 50%;" height="auto" width="100%" alt="" src="https://i.ibb.co/NCH2BfN/Frame-172.png">
 </div>
