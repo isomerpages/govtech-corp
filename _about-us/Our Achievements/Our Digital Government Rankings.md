@@ -28,7 +28,7 @@ development.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/About Us/Our Achievements/Compressed_UN_infographic__1_.jpg">
 </div>
-<p><em>Screenshots from </em><a href="https://publicadministration.un.org/egovkb/en-us/Reports/UN-E-Government-Survey-2022#0" rel="noopener noreferrer nofollow" target="_blank">UN E-Government Survey 2022 Infographics</a>
+<p><em>Screenshots from <a href="https://publicadministration.un.org/egovkb/en-us/Reports/UN-E-Government-Survey-2022#0" rel="noopener noreferrer nofollow" target="_blank">UN E-Government Survey 2022 Infographics</a></em>
 </p>
 <h3>Singapore’s Smart City ranking</h3>
 <p>Singapore came 7th in the world as part of the <a href="https://www.imd.org/wp-content/uploads/2023/04/smartcityindex-2023-v7.pdf" rel="noopener noreferrer nofollow" target="_blank">IMD Smart Cities Index</a> in
