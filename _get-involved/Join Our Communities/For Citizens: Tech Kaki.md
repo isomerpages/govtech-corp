@@ -9,7 +9,7 @@ image: /images/Get Involved/gt7_techkaki.jpg
 ---
 <h3>A tech community from all walks of life</h3>
 <div class="isomer-image-wrapper">
-<img style="width: 60%;" height="auto" width="100%" alt="GovTech community Tech Kaki networking" src="/images/Get Involved/gt7_techkaki.jpg">
+<img style="width: 100%;" height="auto" width="100%" alt="GovTech community Tech Kaki networking" src="/images/Get Involved/gt7_techkaki.jpg">
 </div>
 <h3>About Tech Kaki</h3>
 <p>Citizens are at the heart of our work. Since 2016, a community of everyday
@@ -21,7 +21,37 @@ and services meet the needs of citizens and businesses.&nbsp;</p>
 <p>You’ll get first dibs on these digital products and services as one of
 us. Read on to explore the potential of your contributions as a Tech Kaki
 member.</p>
-<p></p>
+<h3>A small community with a big impact</h3>
+<p>Apps like Singpass and LifeSG would not be what they are without Tech
+Kaki. As part of our community, you’ll be involved in government research
+to address government feedback and co-create better products and services
+for all.</p>
+<div class="isomer-card-grid">
+<div class="isomer-card">
+<div class="isomer-card-image">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="New Singpass login page co-created by Tech Kaki" src="/images/Get Involved/govtechturns7_2.jpg">
+</div>
+</div>
+<div class="isomer-card-body">
+<div class="isomer-card-title">Protecting citizens on Singpass</div>
+<div class="isomer-card-description">Citizens can now spot fraudulent activity better with a redesigned login
+page for Singpass, thanks to a user research study done by Tech Kaki.</div>
+</div>
+</div><a rel="noopener noreferrer nofollow" href="https://www.isomer.gov.sg" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Placeholder image" src="https://placehold.co/600x400"></div></div><div class="isomer-card-body"><div class="isomer-card-title">This is a title for your card</div><div class="isomer-card-description">This is body text for your card. Describe your card.</div><div class="isomer-card-link">This is a link for your card</div></div></a>
+<a rel="noopener noreferrer nofollow" href="https://www.isomer.gov.sg" class="isomer-card">
+<div class="isomer-card-image">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Placeholder image" src="https://placehold.co/600x400">
+</div>
+</div>
+<div class="isomer-card-body">
+<div class="isomer-card-title">This is a title for your card</div>
+<div class="isomer-card-description">This is body text for your card. Describe your card.</div>
+<div class="isomer-card-link">This is a link for your card</div>
+</div>
+</a>
+</div>
 <table>
 <tbody>
 <tr>
