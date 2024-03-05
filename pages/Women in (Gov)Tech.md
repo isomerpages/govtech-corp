@@ -5,6 +5,9 @@ variant: tiptap
 description: Empowering women for tech success. Raising awareness, fostering
   community support, and driving change in the industry.
 ---
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Women in (Gov)Tech" src="/images/01_wig_logo.png">
+</div>
 <h3>Empowering women for tech success: Raising awareness, fostering community support, and driving change in the industry.</h3>
 <p></p>
 <p>Established in 2021, GovTech's Women in (Gov)Tech (WiG) Employee Resource
@@ -17,7 +20,8 @@ SheLovesTech. WiG continues to lead the charge in creating an inclusive
 environment where every individual has the opportunity to thrive and succeed.</p>
 <p></p>
 <h4>Girls in Tech Summer Mentorship Programme</h4>
-<p>17 May 2024 to 2 August 2024</p>
+<p><strong><em>17 May 2024 to 2 August 2024</em></strong>
+</p>
 <p>The Girls in Tech Summer Mentorship Programme is organised by the Women
 in (Gov)Tech Employee Resource Group to empower young females who are interested
 in joining the tech industry / public sector.</p>
@@ -25,17 +29,17 @@ in joining the tech industry / public sector.</p>
 </p>
 <ul data-tight="true" class="tight">
 <li>
-<p>* Female Singapore Citizen / PR studying in university, polytechnic, or
+<p>Female Singapore Citizen / PR studying in university, polytechnic, or
 junior college</p>
 </li>
 <li>
-<p>* Desire to meet new people and make new friends</p>
+<p>Desire to meet new people and make new friends</p>
 </li>
 <li>
-<p>* Learn new skills and gain valuable experience</p>
+<p>Learn new skills and gain valuable experience</p>
 </li>
 <li>
-<p>* Make a positive impact in your community and beyond</p>
+<p>Make a positive impact in your community and beyond</p>
 </li>
 </ul>
 <p></p>
@@ -60,8 +64,6 @@ and our initiatives.</p>
 </ul>
 <p></p>
 <h4>Our Initiatives</h4>
-<p></p>
-<p></p>
 <div class="isomer-card-grid">
 <div class="isomer-card">
 <div class="isomer-card-image">
@@ -91,6 +93,31 @@ and our initiatives.</p>
 </div>
 <div class="isomer-card-body">
 <div class="isomer-card-title">Girls in Tech Summer Mentorship Programme</div>
+</div>
+</div>
+</div>
+<p></p>
+<h4>Get-together Events</h4>
+<p></p>
+<div class="isomer-card-grid">
+<div class="isomer-card">
+<div class="isomer-card-image">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Women in (Gov)Tech’s Lunch and Community Get-Together" src="/images/15_wig_lunch_1.png">
+</div>
+</div>
+<div class="isomer-card-body">
+<div class="isomer-card-title">Women in (Gov)Tech Lunch and Community Get-together</div>
+</div>
+</div>
+<div class="isomer-card">
+<div class="isomer-card-image">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Women in (Gov)Tech at GovTech’s Annual Dinner and Dance" src="/images/17_wig_dnd.png">
+</div>
+</div>
+<div class="isomer-card-body">
+<div class="isomer-card-title">Women in (Gov)Tech at GovTech’s Annual Dinner and Dance</div>
 </div>
 </div>
 </div>
