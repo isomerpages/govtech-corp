@@ -43,7 +43,7 @@ junior college</p>
 </li>
 </ul>
 <p></p>
-<p><a href="https://go.gov.sg/git-mentee-signup-24" rel="noopener noreferrer nofollow" target="_blank">APPLY NOW</a>
+<p><strong><a href="https://go.gov.sg/git-mentee-signup-24" rel="noopener noreferrer nofollow" target="_blank">APPLY NOW</a></strong>
 </p>
 <p></p>
 <p>Spaces are filling up fast! Applications close <strong>22 March 2024</strong>.
