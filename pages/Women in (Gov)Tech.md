@@ -59,4 +59,42 @@ and our initiatives.</p>
 </li>
 </ul>
 <p></p>
+<h4>Our Initiatives</h4>
+<p></p>
+<p></p>
+<div class="isomer-card-grid">
+<div class="isomer-card">
+<div class="isomer-card-image">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Women in (Gov)Tech’s career conversations with Airbnb" src="/images/09_career_conversations_airbnb.png">
+</div>
+</div>
+<div class="isomer-card-body">
+<div class="isomer-card-title">Career conversations with public and private sector leaders</div>
+</div>
+</div>
+<div class="isomer-card">
+<div class="isomer-card-image">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Women in (Gov)Tech’s initiative Girls in Tech Coding Dojo" src="/images/11_girls_in_tech_coding_dojo_2.png">
+</div>
+</div>
+<div class="isomer-card-body">
+<div class="isomer-card-title">Girls in Tech Coding Dojo</div>
+</div>
+</div>
+<div class="isomer-card">
+<div class="isomer-card-image">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Women in (Gov)Tech’s initiative Girls in Tech Summer Mentorship Programme" src="/images/13_girls_in_tech_summer_mentorship_2.png">
+</div>
+</div>
+<div class="isomer-card-body">
+<div class="isomer-card-title">Girls in Tech Summer Mentorship Programme</div>
+</div>
+</div>
+</div>
+<p></p>
+<p></p>
+<p></p>
 <p></p>
