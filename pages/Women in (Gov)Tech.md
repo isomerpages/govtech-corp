@@ -5,9 +5,6 @@ variant: tiptap
 description: Empowering women for tech success. Raising awareness, fostering
   community support, and driving change in the industry.
 ---
-<div class="isomer-image-wrapper">
-<img style="width: 60%;" height="auto" width="100%" alt="Women in (Gov)Tech" src="/images/01_wig_logo.png">
-</div>
 <h3>Empowering women for tech success: Raising awareness, fostering community support, and driving change in the industry.</h3>
 <p></p>
 <p>Established in 2021, GovTech's Women in (Gov)Tech (WiG) Employee Resource
