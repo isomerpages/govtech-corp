@@ -9,7 +9,7 @@ variant: tiptap
 ---
 <p>Nations all over the world look up to Singapore for its innovative digital
 government, made possible through our Smart Nation initiative.</p>
-<h3>Our ranking in the United Nations e-Government Survey (2012-2018)</h3>
+<h3>Our ranking in the United Nations e-Government Survey</h3>
 <p>Singapore was ranked 12th in the world in 2022 as part of the <a href="https://publicadministration.un.org/egovkb/en-us/Reports/UN-E-Government-Survey-2022" rel="noopener noreferrer nofollow" target="_blank">United Nations e-Government Survey</a> —
 an assessment that measures the development of all 193 United Nations member
 states.</p>
