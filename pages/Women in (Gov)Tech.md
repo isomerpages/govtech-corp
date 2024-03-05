@@ -45,5 +45,18 @@ junior college</p>
 <p>Spaces are filling up fast! Applications close <strong>22 March 2024</strong>.
 Further details regarding mentor opportunities will be made available soon.</p>
 <p></p>
+<h4>Contact Us</h4>
+<p>Reach out to us if you would like to learn more about Women in (Gov)Tech
+and our initiatives.</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Liyana MUHAMMAD FAUZI: <a href="mailto:Liyana_MUHAMMAD_FAUZI@tech.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Liyana_MUHAMMAD_FAUZI@tech.gov.sg</a>
+</p>
+</li>
+<li>
+<p>Alicia LEE: <a href="mailto:Alicia_LEE@mci.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Alicia_LEE@mci.gov.sg</a>
+</p>
+</li>
+</ul>
 <p></p>
 <p></p>
