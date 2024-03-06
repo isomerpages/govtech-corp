@@ -124,7 +124,7 @@ and Information</div>
 </div>
 <div class="isomer-card-body">
 <div class="isomer-card-title">Mr David KOH</div>
-<div class="isomer-card-description">CHIEF EXECUTIVE, Cyber Security Agency, Prime Minister’s Office</div>
+<div class="isomer-card-description">Chief Executive, Cyber Security Agency, Prime Minister’s Office (PMO)</div>
 </div>
 </div>
 <div class="isomer-card">
@@ -135,7 +135,7 @@ and Information</div>
 </div>
 <div class="isomer-card-body">
 <div class="isomer-card-title">Ms Stacey N. LACY</div>
-<div class="isomer-card-description">ASIA PACIFIC CHIEF INFORMATION OFFICER / HEAD OF OPERATIONS &amp; TECHNOLOGY,
+<div class="isomer-card-description">Asia Pacific Chief Information Officer And Head Of Operations &amp; Technology,
 Citi</div>
 </div>
 </div>
@@ -147,7 +147,7 @@ Citi</div>
 </div>
 <div class="isomer-card-body">
 <div class="isomer-card-title">Mr LEW Chuen Hong</div>
-<div class="isomer-card-description">CHIEF EXECUTIVE, Infocomm Media Development Authority</div>
+<div class="isomer-card-description">Chief Executive, Infocomm Media Development Authority (IMDA)</div>
 </div>
 </div>
 </div>
@@ -160,7 +160,8 @@ Citi</div>
 </div>
 <div class="isomer-card-body">
 <div class="isomer-card-title">Mr LIEW Nam Soon</div>
-<div class="isomer-card-description">MANAGING PARTNER FOR EY ASEAN, SINGAPORE, AND BRUNEI, EY</div>
+<div class="isomer-card-description">EY ASEAN Managing Partner, And Managing Partner For Singapore And Brunei,
+EY</div>
 </div>
 </div>
 <div class="isomer-card">
@@ -171,7 +172,7 @@ Citi</div>
 </div>
 <div class="isomer-card-body">
 <div class="isomer-card-title">Mr Shonn MILLS</div>
-<div class="isomer-card-description">MANAGING DIRECTOR, Whitby Wood Mills</div>
+<div class="isomer-card-description">Managing Director, Whitby Wood Mills</div>
 </div>
 </div>
 <div class="isomer-card">
@@ -182,7 +183,7 @@ Citi</div>
 </div>
 <div class="isomer-card-body">
 <div class="isomer-card-title">Mr Noah PEPPER</div>
-<div class="isomer-card-description">CEO AND CO-FOUNDER OF A NEW COMPANY (TO BE ANNOUNCED)</div>
+<div class="isomer-card-description">CEO and co-founder of a new company (To be announced)</div>
 </div>
 </div>
 <div class="isomer-card">
@@ -193,7 +194,7 @@ Citi</div>
 </div>
 <div class="isomer-card-body">
 <div class="isomer-card-title">Ms Vaishali RASTOGI</div>
-<div class="isomer-card-description">GLOBAL LEADER OF TECHNOLOGY, MEDIA AND TELECOMMUNICATIONS BUSINESS, BCG</div>
+<div class="isomer-card-description">Global Leader Of Technology, Media And Telecommunications Business, BCG</div>
 </div>
 </div>
 <div class="isomer-card">
@@ -204,7 +205,7 @@ Citi</div>
 </div>
 <div class="isomer-card-body">
 <div class="isomer-card-title">Mr Mervyn TAN</div>
-<div class="isomer-card-description">CHIEF EXECUTIVE, Defence Science and Technology Agency</div>
+<div class="isomer-card-description">Chief Executive, Defence Science and Technology Agency (DSTA)</div>
 </div>
 </div>
 </div>
