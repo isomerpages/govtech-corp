@@ -9,7 +9,7 @@ variant: tiptap
 ---
 <p>Our work at GovTech extends beyond digital transformation to include areas
 like <a href="/our-digital-government-efforts/sustainability/" rel="noopener noreferrer nofollow" target="_blank">Sustainability</a>,
-<a href="/our-digital-government-efforts/diversity-and-inclusion/" rel="noopener noreferrer nofollow" target="_blank">Diversity and Inclusion</a>, and Social Responsibility.</p>
+<a href="/our-digital-government-efforts/diversity-and-inclusion/" rel="noopener noreferrer nofollow" target="_blank">Diversity and Inclusion</a>, and <a href="https://www.linkedin.com/feed/update/urn:li:activity:7105478505164898305/" rel="noopener noreferrer nofollow" target="_blank">Social Responsibility</a>.</p>
 <h3>Our commitment to build a digital government</h3>
 <p>When it comes to building Singapore’s digital government, GovTech’s focus
 areas are outlined by the 5 thrusts as defined by the Digital Government
@@ -36,8 +36,40 @@ by 2045.</p>
 <p><strong>GovTech sustainability framework to support Singapore Green Plan 2030</strong>
 </p>
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/About Us/Green_week_resized.png">
+</div>
 <p></p>
-<p></p>
+<h4>GovTech Green Week</h4>
+<p>GovTechies learnt how to drive sustainability in the public sector and
+contribute to a more sustainable future for Singapore at GovTech Green
+Week.</p>
+<p><a href="https://www.linkedin.com/feed/update/urn:li:activity:7086661976466067456/" rel="noopener noreferrer nofollow" target="_blank">Learn more</a>.</p>
+<p>Visit our page on <a href="/our-digital-government-efforts/sustainability/" rel="noopener noreferrer nofollow" target="_blank">Sustainability</a> to
+learn more about our green efforts.</p>
+<h3>Diversity and Inclusion in GovTech</h3>
+<p>GovTech creates products and services for every citizen — that includes
+vulnerable communities such as the elderly and persons with disabilities.</p>
+<p>Many of our products have strong accessibility features, like enabling
+high contrast for legibility challenges on Singpass, and the inclusion
+of VoiceOver and Voice Control features for the visually and/or physically
+handicapped on the SafeEntry app.</p>
+<p>GovTech is also committed to developing tech that empowers vulnerable
+communities.</p>
+<h4>Digital4Good</h4>
+<p>Since 2019, Digital4Good has empowered underprivileged children/youth
+and seniors by increasing their digital literacy through programming and
+more.</p>
+<div class="iframe-wrapper">
+<iframe style="border:none;overflow:hidden" height="710" width="500" allowfullscreen="true" frameborder="0" src="https://www.facebook.com/plugins/post.php?href=https%3A%2F%2Fwww.facebook.com%2FInsideGovTech%2Fposts%2Fpfbid02J31iTGvdx6BjfoKZyxWfx8hV5BuKT3SZs8kE5pSogdDEhMXTw3NZC7PVXQgZ4wrgl&amp;show_text=true&amp;width=500"></iframe>
+</div>
+<h4>A11y Team (accessibility enabling team)</h4>
+<p>This team was formed to design inclusive government services based on
+the unique experiences of persons with disabilities (PwDs) and seniors.</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="GovTech inclusivity A11y team" src="/images/About Us/A11y_GovTech.jpg">
+</div>
+<h4></h4>
 <p></p>
 <p></p>
 <p>As GovTech continues on its journey to empower our nation with possibilities
