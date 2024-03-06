@@ -50,9 +50,6 @@ contribute to a more sustainable future for Singapore at GovTech Green
 Week.</p>
 <p>Visit our page on <a href="/our-digital-government-efforts/sustainability/" rel="noopener noreferrer nofollow" target="_blank">Sustainability</a> to
 learn more about our green efforts.</p>
-<div class="iframe-wrapper">
-<iframe style="border:none;overflow:hidden" height="250" width="500" allowfullscreen="true" frameborder="0" src="https://www.facebook.com/plugins/post.php?href=https%3A%2F%2Fwww.facebook.com%2FInsideGovTech%2Fposts%2Fpfbid02UghsbZhvozPcftcg2NX8F4Lx41h5wtAVtUHDXurmAf2yGEh56UiG3uPJfe2fHGKgl&amp;show_text=true&amp;width=500"></iframe>
-</div>
 <h3>Diversity and Inclusion in GovTech</h3>
 <p>GovTech creates products and services for every citizen — that includes
 vulnerable communities such as the elderly and persons with disabilities.</p>
@@ -62,13 +59,15 @@ of VoiceOver and Voice Control features for the visually and/or physically
 handicapped on the SafeEntry app.</p>
 <p>GovTech is also committed to developing tech that empowers vulnerable
 communities.</p>
-<h4>Digital4Good</h4>
+<h4>Digital4Good</h4><a class="isomer-image-wrapper" href="https://www.facebook.com/GovTechSG/posts/are-you-interested-to-have-your-child-pick-up-a-new-skill-over-the-june-holidays/10157793497327511/"><img style="width: 100%" height="auto" width="100%" alt="Digital4Good:Since 2019, 307 GovTechies have volunteered and 132 children have benefitted from this" src="/images/About Us/Digital4Good.jpg"></a>
+<p><em>Follow <a href="https://www.facebook.com/GovTechSG/posts/are-you-interested-to-have-your-child-pick-up-a-new-skill-over-the-june-holidays/10157793497327511/" rel="noopener noreferrer nofollow" target="_blank">Inside GovTech</a> on Facebook for more updates!</em>
+</p>
 <p>Since 2019, Digital4Good has empowered underprivileged children/youth
 and seniors by increasing their digital literacy through programming and
 more.</p>
-<div class="iframe-wrapper">
-<iframe style="border:none;overflow:hidden" height="710" width="500" allowfullscreen="true" frameborder="0" src="https://www.facebook.com/plugins/post.php?href=https%3A%2F%2Fwww.facebook.com%2FInsideGovTech%2Fposts%2Fpfbid02J31iTGvdx6BjfoKZyxWfx8hV5BuKT3SZs8kE5pSogdDEhMXTw3NZC7PVXQgZ4wrgl&amp;show_text=true&amp;width=500"></iframe>
-</div>
+<p>Learn more about how GovTech’s UX designers worked with Hatch to host
+an industry sharing and career advisory session to share what it means
+to be in the UX space <a href="https://www.tech.gov.sg/media/technews/digital-4-good-hatch-ux-hatch" rel="noopener noreferrer nofollow" target="_blank">here</a>.</p>
 <h4>A11y Team (accessibility enabling team)</h4>
 <p>This team was formed to design inclusive government services based on
 the unique experiences of persons with disabilities (PwDs) and seniors.</p>
