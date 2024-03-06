@@ -17,6 +17,7 @@ related engineering technology.</p>
 <h4>Our Mission:</h4>
 <p>Engineering Digital Government, Making Lives Better.</p>
 <h3>What does GovTech do?</h3>
+<p>(To change the cards to accordion once released)</p>
 <div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="/products-and-services/for-citizens/directories-and-distribution/" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Placeholder image" src="https://placehold.co/600x400"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Tech for Public Good</div><div class="isomer-card-description">We build digital products and services that improve the lives of Singaporeans. Some examples include SafeEntry, GatherSG and the GoWhere suite.</div><div class="isomer-card-link">GoWhere suite</div></div></a>
 <div class="isomer-card">
 <div class="isomer-card-image">
@@ -73,42 +74,18 @@ transformation.</div>
 </div>
 </div>
 </div>
-<h3><strong>Our Identity</strong></h3>
-<p>(Show animated GIF of GovTech's dynamic logo) (Placeholder image)</p>
+<h3>Our Identity</h3>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="GovTech logo cyan inline" src="/images/About%20Us/GovTechSg_Inline_Logo_2_Cyan.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="GovTech logo" src="/images/About Us/logo_govtech_hort.gif">
 </div>
-<p>The GovTech logo is made from 5 primary symbols, representing dynamic
-and agility that reflects starlings as they shift synchronously to adapt
-and respond to the evolving environment. This mirrors our agency's positioning
-- empower the nation with possibilities, realised through the innovation
-of technology and engineering.</p>
-<h3><strong>Our Values</strong></h3>
+<p>Our logo is made from 5 primary symbols. Dynamic and agile, they reflect
+starlings as they shift synchronously to adapt and respond to the evolving
+environment.&nbsp;</p>
+<p>This mirrors our agency's positioning, which is to empower the nation
+with possibilities, realised through the innovation of technology and engineering.</p>
+<h3>Our Values</h3>
+<p>We aim to be agile, bold and collaborative in everything that we do.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="GovTech values: Agile, Bold, Collaborative and what they mean" src="/images/About Us/ABC_Values_Info.jpg">
-</div>
-<div class="isomer-card-grid">
-<div class="isomer-card">
-<div class="isomer-card-body">
-<div class="isomer-card-title">Agile</div>
-<div class="isomer-card-description">Being prepared to disrupt ourselves, being prepared to think twice, think
-in a different way, and really make those changes on time.</div>
-</div>
-</div>
-<div class="isomer-card">
-<div class="isomer-card-body">
-<div class="isomer-card-title">Bold</div>
-<div class="isomer-card-description">Bold in adopting new solutions. “Especially where technology is involved,
-which is possibly ahead of the curve, [or even] possibly ahead of the private
-sector.</div>
-</div>
-</div>
-<div class="isomer-card">
-<div class="isomer-card-body">
-<div class="isomer-card-title">Collaborative</div>
-<div class="isomer-card-description">What we want to do in GovTech is to leverage on the resources that are
-already available.</div>
-</div>
-</div>
 </div>
 <p></p>
