@@ -118,7 +118,7 @@ and Information</div>
 <div class="isomer-card">
 <div class="isomer-card-image">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Mr David KOH" src="/images/About Us/David_KOH.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="GovTech leader David Koh" src="/images/About Us/David_KOH.jpg">
 </div>
 </div>
 <div class="isomer-card-body">
@@ -129,7 +129,7 @@ and Information</div>
 <div class="isomer-card">
 <div class="isomer-card-image">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Ms Stacey N. LACY" src="/images/About Us/Stacey_N__LACY.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="GovTech leader Stacey N. Lacy" src="/images/About Us/Stacey_N__LACY.jpg">
 </div>
 </div>
 <div class="isomer-card-body">
@@ -141,7 +141,7 @@ Citi</div>
 <div class="isomer-card">
 <div class="isomer-card-image">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Mr LEW Chuen Hong" src="/images/About Us/LEW_Chuen_Hong.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="GovTech leader Lew Chuen Hong" src="/images/About Us/LEW_Chuen_Hong.jpg">
 </div>
 </div>
 <div class="isomer-card-body">
