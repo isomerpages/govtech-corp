@@ -319,7 +319,7 @@ Services HQ</div>
 <div class="isomer-card">
 <div class="isomer-card-image">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Mr Kevin NG" src="/images/About Us/Kevin_NG.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="GovTech leader Kevin Ng" src="/images/About Us/Kevin_NG.jpg">
 </div>
 </div>
 <div class="isomer-card-body">
@@ -330,7 +330,7 @@ Services HQ</div>
 <div class="isomer-card">
 <div class="isomer-card-image">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Mr D. N. PRASAD" src="/images/About Us/D__N__PRASAD.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="GovTech leader D. N. Prasad" src="/images/About Us/D__N__PRASAD.jpg">
 </div>
 </div>
 <div class="isomer-card-body">
@@ -341,7 +341,7 @@ Services HQ</div>
 <div class="isomer-card">
 <div class="isomer-card-image">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Mr Jason SEE" src="/images/About Us/Jason_SEE.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="GovTech leader Jason See" src="/images/About Us/Jason_SEE.jpg">
 </div>
 </div>
 <div class="isomer-card-body">
@@ -355,7 +355,7 @@ Education Cluster</div>
 <div class="isomer-card">
 <div class="isomer-card-image">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Mr SING Khang Leng" src="/images/About Us/SING_Khang_Leng.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="GovTech leader Sing Khang Leng" src="/images/About Us/SING_Khang_Leng.jpg">
 </div>
 </div>
 <div class="isomer-card-body">
@@ -366,7 +366,7 @@ Education Cluster</div>
 <div class="isomer-card">
 <div class="isomer-card-image">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Mr Richard TAY" src="/images/About Us/Richard_TAY.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="GovTech leader Richard Tay" src="/images/About Us/Richard_TAY.jpg">
 </div>
 </div>
 <div class="isomer-card-body">
@@ -377,7 +377,7 @@ Education Cluster</div>
 <div class="isomer-card">
 <div class="isomer-card-image">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Mr Vlastimil CHVOJKA" src="/images/About Us/Vlastimil_CHVOJKA.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="GovTech leader Vlastimil Chvojka" src="/images/About Us/Vlastimil_CHVOJKA.jpg">
 </div>
 </div>
 <div class="isomer-card-body">
@@ -390,7 +390,7 @@ Education Cluster</div>
 <div class="isomer-card">
 <div class="isomer-card-image">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Ms CHONG Wan Yieng" src="/images/About Us/CHONG_Wan_Yieng.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="GovTech leader Chong Wan Yieng" src="/images/About Us/CHONG_Wan_Yieng.jpg">
 </div>
 </div>
 <div class="isomer-card-body">
@@ -401,7 +401,7 @@ Education Cluster</div>
 <div class="isomer-card">
 <div class="isomer-card-image">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Mr Steven KOH" src="/images/About Us/Steven_KOH.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="GovTech leader Steven Koh" src="/images/About Us/Steven_KOH.jpg">
 </div>
 </div>
 <div class="isomer-card-body">
@@ -413,7 +413,7 @@ Education Cluster</div>
 <div class="isomer-card">
 <div class="isomer-card-image">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Mr Eyung LIM" src="/images/About Us/Eyung_LIM.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="GovTech leader Eyung Lim" src="/images/About Us/Eyung_LIM.jpg">
 </div>
 </div>
 <div class="isomer-card-body">
@@ -427,7 +427,7 @@ Education Cluster</div>
 <div class="isomer-card">
 <div class="isomer-card-image">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Mr LOH Xiang Hui" src="/images/About Us/LOH_Xiang_Hui.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="GovTech leader Loh Xiang Hui" src="/images/About Us/LOH_Xiang_Hui.jpg">
 </div>
 </div>
 <div class="isomer-card-body">
@@ -438,7 +438,7 @@ Education Cluster</div>
 <div class="isomer-card">
 <div class="isomer-card-image">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Placeholder image" src="/images/About Us/James_TAN.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="GovTech leader James Tan" src="/images/About Us/James_TAN.jpg">
 </div>
 </div>
 <div class="isomer-card-body">
@@ -449,7 +449,7 @@ Education Cluster</div>
 <div class="isomer-card">
 <div class="isomer-card-image">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Mr Jordan TAN" src="/images/About Us/Jordan_TAN.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="GovTech leader Jordan Tan" src="/images/About Us/Jordan_TAN.jpg">
 </div>
 </div>
 <div class="isomer-card-body">
@@ -460,7 +460,7 @@ Education Cluster</div>
 <div class="isomer-card">
 <div class="isomer-card-image">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Mr Gabriyel WONG" src="/images/About Us/Gabriyel_WONG.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="GovTech leader Gabriyel Wong" src="/images/About Us/Gabriyel_WONG.jpg">
 </div>
 </div>
 <div class="isomer-card-body">
@@ -471,7 +471,7 @@ Education Cluster</div>
 <div class="isomer-card">
 <div class="isomer-card-image">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Placeholder" src="/images/About Us/Vincent_KOR.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="GovTech leader Vincent Kor" src="/images/About Us/Vincent_KOR.jpg">
 </div>
 </div>
 <div class="isomer-card-body">
