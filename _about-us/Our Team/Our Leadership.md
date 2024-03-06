@@ -219,7 +219,7 @@ EY</div>
 </div>
 <div class="isomer-card-body">
 <div class="isomer-card-title">Mr GOH Wei Boon</div>
-<div class="isomer-card-description">CHIEF EXECUTIVE, Government Technology Agency</div>
+<div class="isomer-card-description">Chief Executive, Government Technology Agency of Singapore</div>
 </div>
 </div>
 <div class="isomer-card">
@@ -230,7 +230,7 @@ EY</div>
 </div>
 <div class="isomer-card-body">
 <div class="isomer-card-title">Mr CHANG Sau Sheong</div>
-<div class="isomer-card-description">DEPUTY CHIEF EXECUTIVE, Product and Engineering, TMO / CODE</div>
+<div class="isomer-card-description">Deputy Chief Executive, Product and Engineering, TMO / CODE</div>
 </div>
 </div>
 <div class="isomer-card">
@@ -241,7 +241,7 @@ EY</div>
 </div>
 <div class="isomer-card-body">
 <div class="isomer-card-title">Mr Henry CHANG</div>
-<div class="isomer-card-description">DEPUTY CHIEF EXECUTIVE, Services, Governance and Cybersecurity</div>
+<div class="isomer-card-description">Deputy Chief Executive, Services, Governance and Cybersecurity</div>
 </div>
 </div>
 </div>
@@ -254,7 +254,7 @@ EY</div>
 </div>
 <div class="isomer-card-body">
 <div class="isomer-card-title">Mr Dominic CHAN</div>
-<div class="isomer-card-description">CHIEF INFORMATION OFFICER / ASSISTANT CHIEF EXECUTIVE, Product Management</div>
+<div class="isomer-card-description">Chief Information Officer / Assistant Chief Executive, Product Management</div>
 </div>
 </div>
 <div class="isomer-card">
@@ -265,8 +265,8 @@ EY</div>
 </div>
 <div class="isomer-card-body">
 <div class="isomer-card-title">Mr TAN Bee Teck</div>
-<div class="isomer-card-description">ASSISTANT CHIEF EXECUTIVE, Central Administration and Social Clusters
-SENIOR DIRECTOR, Education Cluster</div>
+<div class="isomer-card-description">Assistant Chief Executive Central Administration and Social Clusters,
+Education Cluster (Senior Director)</div>
 </div>
 </div>
 <div class="isomer-card">
@@ -277,7 +277,7 @@ SENIOR DIRECTOR, Education Cluster</div>
 </div>
 <div class="isomer-card-body">
 <div class="isomer-card-title">Mr TAN Eng Pheng</div>
-<div class="isomer-card-description">ASSISTANT CHIEF EXECUTIVE, Economic and National Development Clusters,
+<div class="isomer-card-description">Assistant Chief Executive, Economic and National Development Clusters,
 Services HQ</div>
 </div>
 </div>
@@ -291,7 +291,7 @@ Services HQ</div>
 </div>
 <div class="isomer-card-body">
 <div class="isomer-card-title">Mr Bernard TOH</div>
-<div class="isomer-card-description">ASSISTANT CHIEF EXECUTIVE, Strategy and Corporate Development</div>
+<div class="isomer-card-description">Assistant Chief Executive, Strategy and Corporate Development</div>
 </div>
 </div>
 <div class="isomer-card">
@@ -302,7 +302,7 @@ Services HQ</div>
 </div>
 <div class="isomer-card-body">
 <div class="isomer-card-title">Mr CHAI Chin Loon</div>
-<div class="isomer-card-description">SENIOR DIRECTOR, Cybersecurity Group</div>
+<div class="isomer-card-description">Senior Director, Cybersecurity Group</div>
 </div>
 </div>
 <div class="isomer-card">
@@ -313,7 +313,7 @@ Services HQ</div>
 </div>
 <div class="isomer-card-body">
 <div class="isomer-card-title">Mr LIM Thian Chin</div>
-<div class="isomer-card-description">SENIOR DIRECTOR, Governance Group</div>
+<div class="isomer-card-description">Senior Director, Governance Group</div>
 </div>
 </div>
 </div>
@@ -326,7 +326,7 @@ Services HQ</div>
 </div>
 <div class="isomer-card-body">
 <div class="isomer-card-title">Mr Kevin NG</div>
-<div class="isomer-card-description">SENIOR DIRECTOR, Government Digital Services - Central</div>
+<div class="isomer-card-description">Senior Director, Government Digital Services - Central</div>
 </div>
 </div>
 <div class="isomer-card">
@@ -337,7 +337,7 @@ Services HQ</div>
 </div>
 <div class="isomer-card-body">
 <div class="isomer-card-title">Mr D. N. PRASAD</div>
-<div class="isomer-card-description">SENIOR DIRECTOR, People and Organisation Division</div>
+<div class="isomer-card-description">Senior Director, People and Organisation Division (POD)</div>
 </div>
 </div>
 <div class="isomer-card">
@@ -348,8 +348,8 @@ Services HQ</div>
 </div>
 <div class="isomer-card-body">
 <div class="isomer-card-title">Mr Jason SEE</div>
-<div class="isomer-card-description">SENIOR DIRECTOR, Data Science and Artificial Intelligence SENIOR DIRECTOR-DESIGNATE,
-Education Cluster</div>
+<div class="isomer-card-description">Senior Director, Data Science and Artificial Intelligence, Education Cluster
+(Senior Director-Designate)</div>
 </div>
 </div>
 </div>
@@ -362,7 +362,7 @@ Education Cluster</div>
 </div>
 <div class="isomer-card-body">
 <div class="isomer-card-title">Mr SING Khang Leng</div>
-<div class="isomer-card-description">SENIOR DIRECTOR, Manpower Cluster</div>
+<div class="isomer-card-description">Senior Director, Manpower Cluster</div>
 </div>
 </div>
 <div class="isomer-card">
@@ -373,7 +373,7 @@ Education Cluster</div>
 </div>
 <div class="isomer-card-body">
 <div class="isomer-card-title">Mr Richard TAY</div>
-<div class="isomer-card-description">SENIOR DIRECTOR, Government Infrastructure Group</div>
+<div class="isomer-card-description">Senior Director, Government Infrastructure Group</div>
 </div>
 </div>
 <div class="isomer-card">
@@ -384,7 +384,7 @@ Education Cluster</div>
 </div>
 <div class="isomer-card-body">
 <div class="isomer-card-title">Mr Vlastimil CHVOJKA</div>
-<div class="isomer-card-description">SENIOR DIRECTOR, Product Innovation Centre</div>
+<div class="isomer-card-description">Senior Director, Product Innovation Centre</div>
 </div>
 </div>
 </div>
@@ -397,7 +397,7 @@ Education Cluster</div>
 </div>
 <div class="isomer-card-body">
 <div class="isomer-card-title">Ms CHONG Wan Yieng</div>
-<div class="isomer-card-description">DIRECTOR, Communications and Marketing</div>
+<div class="isomer-card-description">Director, Communications and Marketing (CMG)</div>
 </div>
 </div>
 <div class="isomer-card">
@@ -408,7 +408,7 @@ Education Cluster</div>
 </div>
 <div class="isomer-card-body">
 <div class="isomer-card-title">Mr Steven KOH</div>
-<div class="isomer-card-description">DIRECTOR, Government Digital Services - Agile Consulting &amp; Engineering
+<div class="isomer-card-description">Director, Government Digital Services - Agile Consulting &amp; Engineering
 (ACE)</div>
 </div>
 </div>
@@ -420,7 +420,7 @@ Education Cluster</div>
 </div>
 <div class="isomer-card-body">
 <div class="isomer-card-title">Mr Eyung LIM</div>
-<div class="isomer-card-description">DIRECTOR, Government Digital Services - Digital Design &amp; Development
+<div class="isomer-card-description">Director, Government Digital Services - Digital Design &amp; Development
 (DCube)</div>
 </div>
 </div>
@@ -434,7 +434,7 @@ Education Cluster</div>
 </div>
 <div class="isomer-card-body">
 <div class="isomer-card-title">Mr LOH Xiang Hui</div>
-<div class="isomer-card-description">DIRECTOR, Finance and Procurement</div>
+<div class="isomer-card-description">Director, Finance and Procurement</div>
 </div>
 </div>
 <div class="isomer-card">
@@ -445,7 +445,7 @@ Education Cluster</div>
 </div>
 <div class="isomer-card-body">
 <div class="isomer-card-title">Mr James TAN</div>
-<div class="isomer-card-description">DIRECTOR, Smart City Technology Division (SCTD)</div>
+<div class="isomer-card-description">Director, Smart City Technology Division (SCTD)</div>
 </div>
 </div>
 <div class="isomer-card">
@@ -456,7 +456,7 @@ Education Cluster</div>
 </div>
 <div class="isomer-card-body">
 <div class="isomer-card-title">Mr Jordan TAN</div>
-<div class="isomer-card-description">DIRECTOR, Digital Workplace</div>
+<div class="isomer-card-description">Director, Digital Workplace</div>
 </div>
 </div>
 <div class="isomer-card">
@@ -467,7 +467,7 @@ Education Cluster</div>
 </div>
 <div class="isomer-card-body">
 <div class="isomer-card-title">Mr Gabriyel WONG</div>
-<div class="isomer-card-description">DIRECTOR, Moments of Life</div>
+<div class="isomer-card-description">Director, Moments of Life</div>
 </div>
 </div>
 <div class="isomer-card">
@@ -478,7 +478,7 @@ Education Cluster</div>
 </div>
 <div class="isomer-card-body">
 <div class="isomer-card-title">Mr Vincent KOR</div>
-<div class="isomer-card-description">GENERAL COUNSEL, Legal</div>
+<div class="isomer-card-description">General Counsel, Legal</div>
 </div>
 </div>
 </div>
