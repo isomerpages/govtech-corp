@@ -7,6 +7,30 @@ description: What does GovTech do and how does it drive Singapore's Smart Nation
 third_nav_title: What We Do
 variant: tiptap
 ---
+<h3>Advancing how we live, work and play through tech</h3>
+<p>Our vision is to create a government that is "Digital to the Core, and
+Serves with Heart". We achieve this by using technology to create services
+that are easy, seamless and secure for people to use, and placing the needs
+of citizens and businesses at the centre of everything we do.&nbsp;</p>
+<p>As a digital government, our public officers are also able to continually
+upskill, adapt to new challenges and work more effectively across agencies
+as well as with citizens and businesses in Singapore.</p>
+<p>Our nation’s response to the COVID-19 pandemic was a great manifestation
+of our strengths as a digital government. We used data and technology to
+offer digital services and tools that kept citizens safe and facilitated
+key activities, such as SafeEntry and TraceTogether.</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Singapore Digital Government infographic: How to become a digital government, serve who, what are the elements" src="/images/About Us/Digital_Gov_Info.jpg">
+</div>
+<h3>What's next for our digital government?</h3>
+<p>GovTech has its eyes set on harnessing new technologies and leveraging
+on data, as part of the Digital Government Blueprint (DGB) 2.0.&nbsp;</p>
+<p>Since the launch of the first DGB in 2018, we have successfully digitalised
+government services and achieved high citizen and business satisfaction
+through products like Singpass.&nbsp;</p>
+<p>With DGB 2.0, Govtech will drive even more digital government transformation
+to support the Smart Nation initiative.</p>
+<p></p>
 <h3>Building a Digital Government through Digital Transformation</h3>
 <p>As we transform Singapore through technology, digital government transformation
 is all about enabling significant improvements in how we live, work and
@@ -22,9 +46,6 @@ and businesses in Singapore.</p>
 COVID-19 pandemic as the government accelerated the use of data and technology
 to offer digital services and tools that keep citizens safe and facilitated
 key activities, such as SafeEntry and TraceTogether.</p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Digital Government summary: How to become a digital government, serve who, what are the elements" src="/images/About Us/Digital_Gov_Info.jpg">
-</div>
 <h3>Supporting the Smart Nation initiative by harnessing new technologies</h3>
 <p>With the first DGB, we have successfully digitalised Government services
 and achieved high citizen and business satisfaction through products like
