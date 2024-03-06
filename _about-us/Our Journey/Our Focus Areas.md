@@ -35,12 +35,10 @@ by 2045.</p>
 </p>
 <p><strong>GovTech sustainability framework to support Singapore Green Plan 2030</strong>
 </p>
-<p></p>
+<h4>GovTech Green Week</h4>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/About Us/Green_week_resized.png">
 </div>
-<p></p>
-<h4>GovTech Green Week</h4>
 <p>GovTechies learnt how to drive sustainability in the public sector and
 contribute to a more sustainable future for Singapore at GovTech Green
 Week.</p>
