@@ -6,21 +6,17 @@ description: Get to know the lead agency driving Singapore’s Smart Nation
   empower a nation.
 variant: tiptap
 ---
-<h3><strong>What is GovTech?</strong></h3>
+<h3>What is GovTech?</h3>
 <p>GovTech is the lead agency driving Singapore's Smart Nation initiative
-and public sector digital transformation, as the implementing arm of PMO's
-Smart Nation and Digital Government Office (SNDGO). It is also collectively
-known as the Smart Nation and Digital Government Group (SNDGG).</p>
-<p>As a purpose-led organisation, digital transformation is at the heart
-of what we do as we serve citizens, businesses, international audiences
-and the public service sector. At the core, we harness the power of technology
-to deliver impactful digital government services.</p>
-<h3>Our Vision:</h3>
+and public sector digital transformation. We harness the power of technology
+to make lives better for citizens, businesses, international audiences
+and the public service sector.</p>
+<h4>Our Vision:</h4>
 <p>Empowering our nation with possibilities through infocomm technology and
 related engineering technology.</p>
-<h3>Our Mission:</h3>
+<h4>Our Mission:</h4>
 <p>Engineering Digital Government, Making Lives Better.</p>
-<h4>Our work covers 5 areas:</h4>
+<h3>What does GovTech do?</h3>
 <div class="isomer-card-grid">
 <div class="isomer-card">
 <div class="isomer-card-image">
@@ -57,12 +53,10 @@ economy.</div>
 and higher productivity for the nation.</div>
 </div>
 </div>
-</div>
-<div class="isomer-card-grid">
 <div class="isomer-card">
 <div class="isomer-card-image">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Placeholder image" src="https://placehold.co/600x400">
+<img style="width: 100%" height="auto" width="100%" alt="Placeholder" src="https://placehold.co/600x400">
 </div>
 </div>
 <div class="isomer-card-body">
@@ -74,7 +68,7 @@ the country's sustainability goals.</div>
 <div class="isomer-card">
 <div class="isomer-card-image">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Placeholder image" src="https://placehold.co/600x400">
+<img style="width: 100%" height="auto" width="100%" alt="Placeholder" src="https://placehold.co/600x400">
 </div>
 </div>
 <div class="isomer-card-body">
