@@ -154,7 +154,7 @@ Citi</div>
 <div class="isomer-card">
 <div class="isomer-card-image">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Mr LIEW Nam Soon" src="/images/About Us/LIEW_Nam_Soon.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="GovTech leader Liew Nam Soon" src="/images/About Us/LIEW_Nam_Soon.jpg">
 </div>
 </div>
 <div class="isomer-card-body">
@@ -165,7 +165,7 @@ Citi</div>
 <div class="isomer-card">
 <div class="isomer-card-image">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Mr Shonn MILLS" src="/images/About Us/Shonn_MILLS.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="GovTech leader Shonn Mills" src="/images/About Us/Shonn_MILLS.jpg">
 </div>
 </div>
 <div class="isomer-card-body">
@@ -176,7 +176,7 @@ Citi</div>
 <div class="isomer-card">
 <div class="isomer-card-image">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Mr Noah PEPPER" src="/images/About Us/Noah_PEPPER.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="GovTech leader Noah Pepper" src="/images/About Us/Noah_PEPPER.jpg">
 </div>
 </div>
 <div class="isomer-card-body">
@@ -187,7 +187,7 @@ Citi</div>
 <div class="isomer-card">
 <div class="isomer-card-image">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Ms Vaishali RASTOGI" src="/images/About Us/Vaishali_RASTOGI.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="GovTech leader Vaishali Rastogi" src="/images/About Us/Vaishali_RASTOGI.jpg">
 </div>
 </div>
 <div class="isomer-card-body">
@@ -198,7 +198,7 @@ Citi</div>
 <div class="isomer-card">
 <div class="isomer-card-image">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Mr Mervyn TAN" src="/images/About Us/Mervyn_TAN.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="GovTech leader Mervyn Tan" src="/images/About Us/Mervyn_TAN.jpg">
 </div>
 </div>
 <div class="isomer-card-body">
@@ -212,7 +212,7 @@ Citi</div>
 <div class="isomer-card">
 <div class="isomer-card-image">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Mr GOH Wei Boon" src="/images/About Us/GOH_Wei_Boon.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="GovTech leader Goh Wei Boon" src="/images/About Us/GOH_Wei_Boon.jpg">
 </div>
 </div>
 <div class="isomer-card-body">
@@ -223,7 +223,7 @@ Citi</div>
 <div class="isomer-card">
 <div class="isomer-card-image">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Mr CHANG Sau Sheong" src="/images/About Us/CHANG_Sau_Sheong.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="GovTech leader Chang Sau Sheong" src="/images/About Us/CHANG_Sau_Sheong.jpg">
 </div>
 </div>
 <div class="isomer-card-body">
@@ -234,7 +234,7 @@ Citi</div>
 <div class="isomer-card">
 <div class="isomer-card-image">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Mr Henry CHANG" src="/images/About Us/Henry_CHANG.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="GovTech leader Henry Chang" src="/images/About Us/Henry_CHANG.jpg">
 </div>
 </div>
 <div class="isomer-card-body">
@@ -247,7 +247,7 @@ Citi</div>
 <div class="isomer-card">
 <div class="isomer-card-image">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Mr Dominic CHAN" src="/images/About Us/Dominic_CHAN.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="GovTech leader Dominic Chan" src="/images/About Us/Dominic_CHAN.jpg">
 </div>
 </div>
 <div class="isomer-card-body">
@@ -258,7 +258,7 @@ Citi</div>
 <div class="isomer-card">
 <div class="isomer-card-image">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Mr TAN Bee Teck" src="/images/About Us/TAN_Bee_Teck.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="GovTech leader Tan Bee Teck" src="/images/About Us/TAN_Bee_Teck.jpg">
 </div>
 </div>
 <div class="isomer-card-body">
@@ -270,7 +270,7 @@ SENIOR DIRECTOR, Education Cluster</div>
 <div class="isomer-card">
 <div class="isomer-card-image">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Mr TAN Eng Pheng" src="/images/About Us/TAN_Eng_Pheng.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="GovTech leader Tan Eng Pheng" src="/images/About Us/TAN_Eng_Pheng.jpg">
 </div>
 </div>
 <div class="isomer-card-body">
@@ -284,7 +284,7 @@ Services HQ</div>
 <div class="isomer-card">
 <div class="isomer-card-image">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Mr Bernard TOH" src="/images/About Us/Bernard_TOH.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="GovTech leader Bernard Toh" src="/images/About Us/Bernard_TOH.jpg">
 </div>
 </div>
 <div class="isomer-card-body">
@@ -295,7 +295,7 @@ Services HQ</div>
 <div class="isomer-card">
 <div class="isomer-card-image">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Mr CHAI Chin Loon" src="/images/About Us/CHAI_Chin_Loon.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="GovTech leader Chai Chin Loon" src="/images/About Us/CHAI_Chin_Loon.jpg">
 </div>
 </div>
 <div class="isomer-card-body">
@@ -306,7 +306,7 @@ Services HQ</div>
 <div class="isomer-card">
 <div class="isomer-card-image">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Mr LIM Thian Chin" src="/images/About Us/LIM_Thian_Chin.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="GovTech leader Lim Thian Chin" src="/images/About Us/LIM_Thian_Chin.jpg">
 </div>
 </div>
 <div class="isomer-card-body">
