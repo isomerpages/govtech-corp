@@ -11,7 +11,7 @@ variant: tiptap
 <div class="isomer-card">
 <div class="isomer-card-image">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Mr LEONG Weng Keong Joseph" src="/images/About Us/LEONG_Weng_Keong_Joseph.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="Head of GovTech Leong Weng Keong Joseph" src="/images/About Us/LEONG_Weng_Keong_Joseph.jpg">
 </div>
 </div>
 <div class="isomer-card-body">
@@ -22,7 +22,7 @@ variant: tiptap
 <div class="isomer-card">
 <div class="isomer-card-image">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Mr GOH Wei Boon" src="/images/About Us/GOH_Wei_Boon.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="GovTech leader Goh Wei Boon" src="/images/About Us/GOH_Wei_Boon.jpg">
 </div>
 </div>
 <div class="isomer-card-body">
@@ -33,7 +33,7 @@ variant: tiptap
 <div class="isomer-card">
 <div class="isomer-card-image">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Mr Augustin LEE" src="/images/About Us/Augustin_LEE.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="GovTech leader Augustin Lee" src="/images/About Us/Augustin_LEE.jpg">
 </div>
 </div>
 <div class="isomer-card-body">
@@ -47,7 +47,7 @@ Government Group</div>
 <div class="isomer-card">
 <div class="isomer-card-image">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Mr CHNG Kai Fong" src="/images/About Us/CHNG_Kai_Fong.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="GovTech leader Chng Kai Fong" src="/images/About Us/CHNG_Kai_Fong.jpg">
 </div>
 </div>
 <div class="isomer-card-body">
@@ -59,7 +59,7 @@ and Information</div>
 <div class="isomer-card">
 <div class="isomer-card-image">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Mr Bojan BLECIC" src="/images/About Us/Bojan_BLECIC.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="GovTech leader Bojan Blecic" src="/images/About Us/Bojan_BLECIC.jpg">
 </div>
 </div>
 <div class="isomer-card-body">
@@ -70,7 +70,7 @@ and Information</div>
 <div class="isomer-card">
 <div class="isomer-card-image">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Mr Derrick GOH" src="/images/About Us/DERRICK_Goh.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="GovTech leader Derrick Goh" src="/images/About Us/DERRICK_Goh.jpg">
 </div>
 </div>
 <div class="isomer-card-body">
@@ -83,7 +83,7 @@ and Information</div>
 <div class="isomer-card">
 <div class="isomer-card-image">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Ms Lesly GOH" src="/images/About Us/Lesly_GOH.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="GovTech leader Lesly Goh" src="/images/About Us/Lesly_GOH.jpg">
 </div>
 </div>
 <div class="isomer-card-body">
@@ -94,7 +94,7 @@ and Information</div>
 <div class="isomer-card">
 <div class="isomer-card-image">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Prof HO Teck Hua" src="/images/About Us/HO_Teck_Hua.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="GovTech leader Ho Teck Hua" src="/images/About Us/HO_Teck_Hua.jpg">
 </div>
 </div>
 <div class="isomer-card-body">
@@ -105,7 +105,7 @@ and Information</div>
 <div class="isomer-card">
 <div class="isomer-card-image">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Ms Melissa KHOO" src="/images/About Us/Melissa_KHOO.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="GovTech leader Melissa Khoo" src="/images/About Us/Melissa_KHOO.jpg">
 </div>
 </div>
 <div class="isomer-card-body">
