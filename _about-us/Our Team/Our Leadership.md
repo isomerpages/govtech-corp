@@ -16,7 +16,7 @@ variant: tiptap
 </div>
 <div class="isomer-card-body">
 <div class="isomer-card-title">Mr LEONG Weng Keong Joseph</div>
-<div class="isomer-card-description">CHAIRMAN / PERMANENT SECRETARY, Smart Nation and Digital Government Group</div>
+<div class="isomer-card-description">Chairman, Permanent Secretary (Smart Nation and Digital Government Group)</div>
 </div>
 </div>
 <div class="isomer-card">
@@ -27,7 +27,7 @@ variant: tiptap
 </div>
 <div class="isomer-card-body">
 <div class="isomer-card-title">Mr GOH Wei Boon</div>
-<div class="isomer-card-description">CHIEF EXECUTIVE, Government Technology Agency</div>
+<div class="isomer-card-description">Chief Executive, Government Technology Agency of Singapore</div>
 </div>
 </div>
 <div class="isomer-card">
@@ -38,8 +38,8 @@ variant: tiptap
 </div>
 <div class="isomer-card-body">
 <div class="isomer-card-title">Mr Augustin LEE</div>
-<div class="isomer-card-description">DEPUTY CHAIRMAN / SECOND PERMANENT SECRETARY, Smart Nation and Digital
-Government Group</div>
+<div class="isomer-card-description">Deputy Chairman, Second Permanent Secretary (Smart Nation and Digital
+Government Group)</div>
 </div>
 </div>
 </div>
@@ -52,7 +52,7 @@ Government Group</div>
 </div>
 <div class="isomer-card-body">
 <div class="isomer-card-title">Mr CHNG Kai Fong</div>
-<div class="isomer-card-description">PERMANENT SECRETARY (INFORMATION AND DEVELOPMENT), Ministry of Communications
+<div class="isomer-card-description">Permanent Secretary (Information And Development), Ministry of Communications
 and Information</div>
 </div>
 </div>
@@ -64,7 +64,7 @@ and Information</div>
 </div>
 <div class="isomer-card-body">
 <div class="isomer-card-title">Mr Bojan BLECIC</div>
-<div class="isomer-card-description">SENIOR VICE PRESIDENT / HEAD OF EXPERIENCE DESIGN, OCBC Bank</div>
+<div class="isomer-card-description">Senior Vice President/Head Of Experience Design, OCBC Bank</div>
 </div>
 </div>
 <div class="isomer-card">
@@ -75,7 +75,7 @@ and Information</div>
 </div>
 <div class="isomer-card-body">
 <div class="isomer-card-title">Mr Derrick GOH</div>
-<div class="isomer-card-description">MANAGING DIRECTOR AND HEAD OF GROUP AUDIT, DBS Bank</div>
+<div class="isomer-card-description">Managing Director And Head Of Group Audit, DBS Bank</div>
 </div>
 </div>
 </div>
@@ -88,7 +88,7 @@ and Information</div>
 </div>
 <div class="isomer-card-body">
 <div class="isomer-card-title">Ms Lesly GOH</div>
-<div class="isomer-card-description">SENIOR TECHNOLOGY ADVISOR, World Bank</div>
+<div class="isomer-card-description">Senior Technology Advisor, World Bank</div>
 </div>
 </div>
 <div class="isomer-card">
@@ -99,7 +99,7 @@ and Information</div>
 </div>
 <div class="isomer-card-body">
 <div class="isomer-card-title">Prof HO Teck Hua</div>
-<div class="isomer-card-description">PRESIDENT, Nanyang Technological University, Singapore</div>
+<div class="isomer-card-description">President, Nanyang Technological University (NTU), Singapore</div>
 </div>
 </div>
 <div class="isomer-card">
@@ -110,7 +110,8 @@ and Information</div>
 </div>
 <div class="isomer-card-body">
 <div class="isomer-card-title">Ms Melissa KHOO</div>
-<div class="isomer-card-description">DEPUTY SECRETARY (HIGHER EDUCATION AND SKILLS), Ministry of Education</div>
+<div class="isomer-card-description">Deputy Secretary (Higher Education And Skills), Ministry of Education
+(MOE)</div>
 </div>
 </div>
 </div>
