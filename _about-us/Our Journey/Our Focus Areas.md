@@ -67,7 +67,14 @@ the unique experiences of persons with disabilities (PwDs) and seniors.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="GovTech inclusivity A11y team" src="/images/About Us/A11y_GovTech.jpg">
 </div>
-<h4></h4>
+<h4>GovTech x The Purple Parade</h4>
+<p>(Post from Twitter)</p>
+<p>Alt text for image:</p>
+<p>GovTech inclusivity The Purple Parade</p>
+<p></p>
+<p></p>
+<p>We invited The Purple Parade, Singapore’s movement for inclusion, to share
+how they celebrate all abilities as we raised funds for their cause.</p>
 <p></p>
 <p></p>
 <p>As GovTech continues on its journey to empower our nation with possibilities
