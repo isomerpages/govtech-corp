@@ -9,7 +9,7 @@ variant: tiptap
 ---
 <p>Our work at GovTech extends beyond digital transformation to include areas
 like <a href="/our-digital-government-efforts/sustainability/" rel="noopener noreferrer nofollow" target="_blank">Sustainability</a>,
-<a href="/our-digital-government-efforts/diversity-and-inclusion/" rel="noopener noreferrer nofollow" target="_blank">Diversity and Inclusion</a>, and <a href="/our-digital-government-efforts/tech-for-public-good/" rel="noopener noreferrer nofollow" target="_blank">Social Responsibility</a>.</p>
+<a href="/our-digital-government-efforts/diversity-and-inclusion/" rel="noopener noreferrer nofollow" target="_blank">Diversity and Inclusion</a>, and Social Responsibility.</p>
 <h3>Our commitment to build a digital government</h3>
 <p>When it comes to building Singapore’s digital government, GovTech’s focus
 areas are outlined by the 5 thrusts as defined by the Digital Government
@@ -21,6 +21,22 @@ enablers for agencies to leverage digital technology, and maximising the
 use of our available resources.</p>
 <p>Learn more about the DGB 2.0 and what building a digital government entails
 <a href="/about-us/what-we-do/our-role/" rel="noopener noreferrer nofollow" target="_blank">here</a>.</p>
+<h3>Sustainability at the core of GovTech</h3>
+<p>We believe that sustainability should influence everything that we do.&nbsp;</p>
+<p>This is why we have adopted a Sustainability Framework with 3 key pillars
+— Sustainable Organisation, Sustainable Information and Communications
+Technology &amp; Smart Systems (ICT&amp;SS) and Digital Innovation for
+Sustainability.</p>
+<p>With these pillars, GovTech can drive sustainable digitalisation practices
+to support the Singapore Green Plan 2030 goals and achieve net zero emissions
+by 2045.</p>
+<p></p>
+<p><strong>Alt text for new infographic:</strong>
+</p>
+<p><strong>GovTech sustainability framework to support Singapore Green Plan 2030</strong>
+</p>
+<p></p>
+<p></p>
 <p></p>
 <p></p>
 <p></p>
