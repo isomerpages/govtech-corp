@@ -7,6 +7,23 @@ description: Learn more about how GovTech promotes sustainability, diversity and
 third_nav_title: Our Journey
 variant: tiptap
 ---
+<p>Our work at GovTech extends beyond digital transformation to include areas
+like <a href="/our-digital-government-efforts/sustainability/" rel="noopener noreferrer nofollow" target="_blank">Sustainability</a>,
+<a href="/our-digital-government-efforts/diversity-and-inclusion/" rel="noopener noreferrer nofollow" target="_blank">Diversity and Inclusion</a>, and <a href="/our-digital-government-efforts/tech-for-public-good/" rel="noopener noreferrer nofollow" target="_blank">Social Responsibility</a>.</p>
+<h3>Our commitment to build a digital government</h3>
+<p>When it comes to building Singapore’s digital government, GovTech’s focus
+areas are outlined by the 5 thrusts as defined by the Digital Government
+Blueprint (DGB) 2.0.&nbsp;</p>
+<p>This includes ensuring government services are easy to access and use
+for Singaporeans, improving the workplace experience for public officers,
+uplifting digital capabilities to enable bolder transformation, strengthening
+enablers for agencies to leverage digital technology, and maximising the
+use of our available resources.</p>
+<p>Learn more about the DGB 2.0 and what building a digital government entails
+<a href="/about-us/what-we-do/our-role/" rel="noopener noreferrer nofollow" target="_blank">here</a>.</p>
+<p></p>
+<p></p>
+<p></p>
 <p>As GovTech continues on its journey to empower our nation with possibilities
 through Infocomm and engineering technology, our organisation has set goals
 in the upcoming years to achieve goals not only in the area of Digital
