@@ -17,7 +17,7 @@ related engineering technology.</p>
 <h4>Our Mission:</h4>
 <p>Engineering Digital Government, Making Lives Better.</p>
 <h3>What does GovTech do?</h3>
-<div class="isomer-card-grid">
+<div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="/products-and-services/for-citizens/directories-and-distribution/" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Placeholder image" src="https://placehold.co/600x400"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Tech for Public Good</div><div class="isomer-card-description">We build digital products and services that improve the lives of Singaporeans. Some examples include SafeEntry, GatherSG and the GoWhere suite.</div><div class="isomer-card-link">GoWhere suite</div></div></a>
 <div class="isomer-card">
 <div class="isomer-card-image">
 <div class="isomer-image-wrapper">
@@ -25,20 +25,11 @@ related engineering technology.</p>
 </div>
 </div>
 <div class="isomer-card-body">
-<div class="isomer-card-title">Tech for Public Good</div>
-<div class="isomer-card-description">We build tech that improves the lives of Singaporeans and the Singapore
-economy.</div>
-</div>
-</div>
-<div class="isomer-card">
-<div class="isomer-card-image">
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Placeholder image" src="https://placehold.co/600x400">
-</div>
-</div>
-<div class="isomer-card-body">
-<div class="isomer-card-title">Smart Nation</div>
-<div class="isomer-card-description">We serve with heart and play a key role in Singapore's Smart Nation initiative.</div>
+<div class="isomer-card-title">Smart Nation Initiative</div>
+<div class="isomer-card-description">We serve with heart and play a key role in Singapore's Smart Nation initiative,
+as the implementing arm of PMO's Smart Nation and Digital Government Office
+(SNDGO) — collectively known as the Smart Nation and Digital Government
+Group (SNDGG).</div>
 </div>
 </div>
 <div class="isomer-card">
@@ -48,9 +39,11 @@ economy.</div>
 </div>
 </div>
 <div class="isomer-card-body">
-<div class="isomer-card-title">Smart Cities</div>
-<div class="isomer-card-description">We harness the latest smart city technologies for a better-lived experience
-and higher productivity for the nation.</div>
+<div class="isomer-card-title">Build Smart Cities</div>
+<div class="isomer-card-description">We harness the latest smart city technologies to create better living
+experiences for citizens and higher productivity for the economy. They
+include the Open Digital Platform for smart district management and assistive
+technologies such as the eCanvas for persons with disabilities.</div>
 </div>
 </div>
 <div class="isomer-card">
@@ -60,9 +53,10 @@ and higher productivity for the nation.</div>
 </div>
 </div>
 <div class="isomer-card-body">
-<div class="isomer-card-title">Sustainability &amp; Digital Transformation</div>
+<div class="isomer-card-title">Sustainability and Digital Transformation</div>
 <div class="isomer-card-description">We drive innovation and digitalisation in the public sector to support
-the country's sustainability goals.</div>
+Singapore’s sustainability goals, like achieving net zero emissions by
+2050.</div>
 </div>
 </div>
 <div class="isomer-card">
