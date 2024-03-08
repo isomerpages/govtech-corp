@@ -43,9 +43,23 @@ new revenue.</p>
 helps SMEs adopt advanced digital solutions, find grants and get a consultation.</div>
 <div class="isomer-card-link">Read more here</div>
 </div>
-</a><a rel="noopener noreferrer nofollow" href="https://www.isomer.gov.sg" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Placeholder image" src="https://placehold.co/600x400"></div></div><div class="isomer-card-body"><div class="isomer-card-title">This is a title for your card</div><div class="isomer-card-description">This is body text for your card. Describe your card.</div><div class="isomer-card-link">This is a link for your card</div></div></a>
+</a>
 </div>
-<p></p>
+<h3>Stay updated with TechNews</h3>
+<h4>Check out these articles curated for you!</h4>
+<div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="https://www.tech.gov.sg/media/technews/getting-started-with-upskilling" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Placeholder image" src="https://placehold.co/600x400"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Getting started with upskilling your employees</div><div class="isomer-card-link">Read more</div></div></a>
+<a rel="noopener noreferrer nofollow" href="https://www.tech.gov.sg/media/technews/businesses-to-get-one-stop-portal" class="isomer-card">
+<div class="isomer-card-image">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Placeholder image" src="https://placehold.co/600x400">
+</div>
+</div>
+<div class="isomer-card-body">
+<div class="isomer-card-title">Businesses to get a one-stop portal</div>
+<div class="isomer-card-link">Read more</div>
+</div>
+</a><a rel="noopener noreferrer nofollow" href="https://www.tech.gov.sg/media/technews/simplifying-tax-experience-for-small-and-medium-enterprises" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Placeholder image" src="https://placehold.co/600x400"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Simplifying tax experience for SMEs</div><div class="isomer-card-description">This is body text for your card. Describe your card.</div><div class="isomer-card-link">Read more</div></div></a>
+</div>
 <p></p>
 <p></p>
 <p><em>Whether you are looking for business tools and resources or seeking ways to upgrade your business, this page has been specially curated to provide you with useful links to important portals and other resources, opportunities to leverage on digital business solutions and more.</em>
