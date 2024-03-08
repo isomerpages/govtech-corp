@@ -31,11 +31,10 @@ curated to give you tech tips, behind-the-scenes stories and more.</p>
 TechNews Newsletter <u>here.</u> (Link to TechNews Newsletter subscription
 form)</p>
 <h3>Have your voice heard</h3>
-<p><strong>Alt text for image:</strong>
-</p>
-<p><strong>Tech Kaki GovTech community</strong>
-</p>
 <h4>Be part of our Tech Kaki community</h4>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Tech Kaki GovTech community" src="/images/About Us/TechKaki_Header.jpg">
+</div>
 <p>Join over 7,000 members to drive change in Singapore. By contributing
 feedback, you’ll co-create digital products and services for citizens.</p>
 <p>Sign up via our Tech Kaki newsletter form. (link)</p>
@@ -49,21 +48,6 @@ bonds with others.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="GovTech team from Dinner and Dance 2023" src="/images/About Us/GovTech_Dinner___Dance_2023.jpg">
 </div>
-<p></p>
-<p>Alt text for image 2 from national day celebration from:<a href="https://www.instagram.com/p/Cv_v4rvNp4j/?utm_source=ig_web_copy_link&amp;igsh=MzRlODBiNWFlZA==" rel="noopener noreferrer nofollow" target="_blank"> </a>
-<a href="https://www.instagram.com/p/Cv_v4rvNp4j/?utm_source=ig_web_copy_link&amp;amp;igsh=MzRlODBiNWFlZA==" rel="noopener noreferrer nofollow" target="_blank"><u>https://www.instagram.com/p/Cv_v4rvNp4j/?utm_source=ig_web_copy_link&amp;igsh=MzRlODBiNWFlZA==</u> 
-</a>:
-<br>
-</p>
-<p>GovTech National Day celebrations</p>
-<p></p>
-<p><a href="https://www.instagram.com/p/CqrfJVsrz8O/?ref=Imgum.net&amp;hl=ne&amp;img_index=1" rel="noopener noreferrer nofollow" target="_blank">https://www.instagram.com/p/CqrfJVsrz8O/?ref=Imgum.net&amp;hl=ne&amp;img_index=1</a>
-</p>
-<p>Alt text for image 3 from volunteering event at SAAC from: <a href="https://www.instagram.com/p/CqrfJVsrz8O/?ref=Imgum.net&amp;hl=ne" rel="noopener noreferrer nofollow" target="_blank">&nbsp;</a> 
-<a href="https://www.instagram.com/p/CqrfJVsrz8O/?ref=Imgum.net&amp;amp;hl=ne" rel="noopener noreferrer nofollow" target="_blank"><u>https://www.instagram.com/p/CqrfJVsrz8O/?ref=Imgum.net&amp;hl=ne</u> 
-</a>:</p>
-<p></p>
-<p>GovTech volunteers at SAAC</p>
 <table>
 <tbody>
 <tr>
@@ -126,32 +110,43 @@ find out more about GovTech.</p>
 <h3>Hear from our GovTechies</h3>
 <p>What’s it like working at GovTech? Take a closer look at life in GovTech
 and how our teams innovate through articles that feature our very own GovTechies!</p>
-<p>
-<br>
-</p>
 <p>Click on the links to read more:</p>
-<p>
-<br>
-</p>
-<p>1. International Women’s day: GovTechies talk about switching to tech
-careers<u> (link to: </u><a href="https://www.tech.gov.sg/media/technews/international-womens-day-2023" rel="noopener noreferrer nofollow" target="_blank"><u>https://www.tech.gov.sg/media/technews/international-womens-day-2023</u></a><u>)&nbsp;</u>
-</p>
-<p>2. A day in the life of a data scientist in the Technology Associate Programme<u> (link to: </u>
-<a href="https://www.tech.gov.sg/media/technews/international-womens-day-2023" rel="noopener noreferrer nofollow" target="_blank"><u>https://www.tech.gov.sg/media/technews/a-day-in-the-life-of-a-data-scientist-in-tap</u> 
-</a><u>)</u>
-</p>
-<p>3. TraceTogether - behind the scenes look at its development process<u> (link to: </u>
-<a href="https://www.tech.gov.sg/media/technews/international-womens-day-2023" rel="noopener noreferrer nofollow" target="_blank"><u>https://www.tech.gov.sg/media/technews/tracetogether-behind-the-scenes-look-at-its-development-process</u> 
-</a><u>)&nbsp;</u>
-</p>
-<p>4. Women in cybersecurity – GovTechies on life as cyber guardians<u> (link to: </u>
-<a href="https://www.tech.gov.sg/media/technews/international-womens-day-2023" rel="noopener noreferrer nofollow" target="_blank"><u>https://www.tech.gov.sg/media/technews/women-in-cybersecurity</u> 
-</a><u>)</u>
-</p>
-<p>5. Making the leap: how one GovTechie switched careers to product design
-(link to: <a href="https://www.tech.gov.sg/media/technews/international-womens-day-2023" rel="noopener noreferrer nofollow" target="_blank"><u>https://www.tech.gov.sg/media/technews/making-the-leap</u></a>)&nbsp;</p>
-<p>
-<br>Curious about a GovTech career? Click <u>here</u> to explore career opportunities
+<div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="https://www.tech.gov.sg/media/technews/international-womens-day-2023" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Placeholder image" src="https://placehold.co/600x400"></div></div><div class="isomer-card-body"><div class="isomer-card-title">International Women’s day: GovTechies talk about switching to tech careers</div><div class="isomer-card-link">Read more</div></div></a>
+<a rel="noopener noreferrer nofollow" href="https://www.tech.gov.sg/media/technews/a-day-in-the-life-of-a-data-scientist-in-tap" class="isomer-card">
+<div class="isomer-card-image">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Placeholder image" src="https://placehold.co/600x400">
+</div>
+</div>
+<div class="isomer-card-body">
+<div class="isomer-card-title">A day in the life of a data scientist in the Technology Associate Programme</div>
+<div class="isomer-card-link">Read more</div>
+</div>
+</a><a rel="noopener noreferrer nofollow" href="https://www.tech.gov.sg/media/technews/tracetogether-behind-the-scenes-look-at-its-development-process" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Placeholder image" src="https://placehold.co/600x400"></div></div><div class="isomer-card-body"><div class="isomer-card-title">TraceTogether — behind the scenes look at its development process</div><div class="isomer-card-link">Read more</div></div></a>
+<a rel="noopener noreferrer nofollow" href="https://www.tech.gov.sg/media/technews/women-in-cybersecurity" class="isomer-card">
+<div class="isomer-card-image">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Placeholder" src="https://placehold.co/600x400">
+</div>
+</div>
+<div class="isomer-card-body">
+<div class="isomer-card-title">Women in cybersecurity — GovTechies on life as cyber guardians</div>
+<div class="isomer-card-link">Read more</div>
+</div>
+</a><a rel="noopener noreferrer nofollow" href="https://www.tech.gov.sg/media/technews/making-the-leap" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Placeholder" src="https://placehold.co/600x400"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Making the leap: How one GovTechie switched careers to product design</div><div class="isomer-card-link">Read more</div></div></a>
+<a rel="noopener noreferrer nofollow" href="https://www.tech.gov.sg/images/technews/today-is-world-programmers-day" class="isomer-card">
+<div class="isomer-card-image">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Placeholder" src="https://placehold.co/600x400">
+</div>
+</div>
+<div class="isomer-card-body">
+<div class="isomer-card-title">Today is world programmer day. Meet one of our own!</div>
+<div class="isomer-card-link">Read more</div>
+</div>
+</a>
+</div>
+<p>Curious about a GovTech career? Click <u>here</u> to explore career opportunities
 and join GovTech. (Link to Careers page).</p>
 <h3>Find the right tools for you</h3>
 <p>We aim to make life better for citizens through tech. Explore our products
@@ -160,55 +155,46 @@ and services, and find the right tools for your needs.</p>
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
-<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Singpass logo" src="/images/About Us/Singpass.png">
+</div>
 </th>
 <th rowspan="1" colspan="1">
-<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="LifeSG logo" src="/images/About Us/LifeSG.png">
+</div>
 </th>
 <th rowspan="1" colspan="1">
-<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="GoWhere logo" src="/images/About Us/GoWhere.png">
+</div>
 </th>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Parent's Gateway logo" src="/images/About Us/Parents_Gateway.png">
+</div>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Parking.sg logo" src="/images/About Us/Parking_sg.png">
+</div>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Data.gov.sg logo" src="/images/About Us/Data_gov_sg.png">
+</div>
 </td>
 </tr>
 </tbody>
 </table>
+<p>Learn more about our <a href="/products-and-services/overview/" rel="noopener noreferrer nofollow" target="_blank">Products and Services</a>.</p>
 <p></p>
 <p></p>
 <p></p>
-<p>Stay on top of all things tech with the latest news and tips by GovTech.</p>
 <p></p>
-<p><em>Whether you're a tech enthusiast or hoping to become a future GovTechie, this page has been specially curated to provide you with tech tips, behind-the-scenes stories, opportunities to get involved with GovTech and more.</em>
-</p>
-<h3><strong>Check out what's in store for you at GovTech today</strong></h3>
-<p>Our upcoming event, the STACKx Smart City conference, will be a one-day,
-in-person event, held at Suntec Convention Centre on <strong>Wednesday, 27 March 2024</strong>.
-At STACKx Smart City, you’ll hear from experts on the latest technology
-trends that will shape today’s Smart City.</p><a class="isomer-image-wrapper" href="https://www.developer.tech.gov.sg/communities/events/conferences/stackx-smart-city-2024/overview.html"><img style="width: 75%;" height="auto" width="100%" alt="" src="/images/media/Stackx_Smart_City_2024_EventPage_updated.jpg"></a>
-<p></p>
-<h3><strong>Always be in the know with our TechNews stories</strong></h3>
-<p>Interested to learn more about all-things-technology and gather useful
-tech tips? Check out these latest stories by GovTech TechNews.</p>
+<h3></h3>
 <p></p>
 <div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="/media/technews/top-five-scams-in-singapore-and-how-to-protect-yourself/" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Placeholder image" src="https://placehold.co/600x400"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Top 5 scams in Singapore and how to protect yourself from them</div><div class="isomer-card-link">Read More</div></div></a>
 <a rel="noopener noreferrer nofollow" href="/media/technews/generative-ai-where-can-it-go-wrong/" class="isomer-card">
@@ -240,46 +226,7 @@ driving enhancements by providing us with your feedback. Join over 7,000
 other members and co-create with us to develop government products and
 services that will improve the lives of Singaporeans.</p>
 <p>Learn more about <a href="/get-involved/join-our-communities/tech-kaki/" rel="noopener noreferrer nofollow" target="_blank">Tech Kaki</a>.</p>
-<h3><strong>Learn what life is like for our GovTechies behind-the-scenes</strong></h3>
-<p><u>Our Culture &amp; Values </u>- At GovTech, we provide opportunities
-that not only allow our GovTechies to take a break and enjoy themselves,
-but also encourage them to grow, learn and form tight-knit bonds with other
-GovTechies. From celebrations of special occasions, to Dinner &amp; Dances
-and volunteering events, we at GovTech aim to create a positive culture
-through balance.</p>
-<p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 70%;" height="auto" width="100%" alt="" src="/images/Homepage/govtech_dinner_dance_2023.jpeg">
-</div>
-<p></p>
-<h3>We are also guided by our <strong>ABC </strong>values at GovTech</h3>
+<h3></h3>
 <p></p>
 <p></p>
-<h3>Want to know more about life at GovTech and how our teams develop products? Check out some of the stories below featuring our very own GovTechies!</h3>
-<div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="/media/technews/women-in-cybersecurity/" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Placeholder image" src="https://placehold.co/600x400"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Women in cybersecurity – GovTechies on life as cyber guardians</div><div class="isomer-card-link">Read More</div></div></a>
-<a rel="noopener noreferrer nofollow" href="/media/technews/a-day-in-the-life-of-a-data-scientist-in-tap" class="isomer-card">
-<div class="isomer-card-image">
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Placeholder image" src="https://placehold.co/600x400">
-</div>
-</div>
-<div class="isomer-card-body">
-<div class="isomer-card-title">A day in the life of a data scientist in the Technology Associate Programme</div>
-<div class="isomer-card-link">Read More</div>
-</div>
-</a><a rel="noopener noreferrer nofollow" href="/media/technews/making-the-leap/" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Placeholder image" src="https://placehold.co/600x400"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Making the leap: how one GovTechie switched careers to product design</div><div class="isomer-card-link">Read More</div></div></a>
-</div>
-<p></p>
-<p>Interested in becoming a GovTechie? Explore <a href="/careers/opportunities-for-professionals/overview/" rel="noopener noreferrer nofollow" target="_blank">career opportunities</a> at
-GovTech.</p>
-<h3><strong>Looking for useful apps, tools and portals?</strong></h3>
-<p>&lt;Include collage of (citizen) product logos - Singpass, LifeSG, GoWhere,
-Parents Gateway, <a href="https://www.tech.gov.sg/media/technews/top-five-scams-in-singapore-and-how-to-protect-yourself" rel="noopener noreferrer nofollow" target="_blank"><u>Parking.sg</u></a>,
-<a href="https://www.tech.gov.sg/media/technews/top-five-scams-in-singapore-and-how-to-protect-yourself" rel="noopener noreferrer nofollow" target="_blank"><u>Data.gov.sg</u> 
-</a>, SGFindex, etc.) &gt;</p>
-<p>From Singpass to LifeSG, GovTech's portfolio of products and services
-include those specially developed for citizens like you, aimed at improving
-the lives of Singaporeans.</p>
-<p>Explore and find the right <a href="/products-and-services/for-citizens/overview/" rel="noopener noreferrer nofollow" target="_blank">products and services</a> for
-you.</p>
 <p></p>
