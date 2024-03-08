@@ -67,80 +67,77 @@ of awards.</p>
 <th rowspan="1" colspan="1">
 <p>Award(s):</p>
 </th>
-<th rowspan="1" colspan="1">
-<p></p>
-</th>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Asynchronous Data Exchange (ADEX)</p>
 </td>
 <td rowspan="1" colspan="1">
+<p>IDC Smart City Awards (SCAPA) – Administration Category (2022)</p>
 <p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
+<p>IDC Future Enterprise Awards – Best in Future of Connectedness (2022)</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Digitalisation of Birth &amp; Death Registration Process</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
+<p>Public Sector Transformation (PST) Awards - One Public Service Award (2023)</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Disbursement of NS Recognition Credits via GovWallet &amp; LifeSG</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
+<p>Public Sector Transformation (PST) Awards - One Public Service Award (2023)</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>FWMOMCARE app</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
+<p>Public Sector Transformation (PST) Awards - Dare to Do Award (2023)</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>HealthCerts</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
+<p>World Innovation, Technology and Services Alliance (WITSA) - Merit in
+Innovative eHealth Solutions (2021)</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>myENV app (in collaboration with NEA)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
+<p>Special Award for Smart Cities at the IDC Future Enterprise Awards) (2023)</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Personal Alert Button (PAB)</p>
 </td>
+<td rowspan="1" colspan="1">
+<p>World Innovation, Technology and Services Alliance (WITSA) - Runner-Up
+in Digital Opportunity/Inclusion (2021)</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>ServiceSG Centre</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Public Sector Transformation (PST) Awards - Service Delivery Excellence
+Award (2023)</p>
+</td>
+</tr>
+<tr>
 <td rowspan="1" colspan="1">
 <p></p>
 </td>
