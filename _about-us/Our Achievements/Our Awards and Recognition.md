@@ -71,6 +71,7 @@ of awards.</p>
 <tr>
 <td rowspan="1" colspan="1">
 <p>Asynchronous Data Exchange (ADEX)</p>
+<p></p>
 </td>
 <td rowspan="1" colspan="1">
 <p>IDC Smart City Awards (SCAPA) – Administration Category (2022)</p>
@@ -177,18 +178,19 @@ Identity for a Nation (2022)</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Water Resource Management System (WRMS) by GALE</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>World Innovation, Technology and Services Alliance (WITSA) - Runner-up
+in Sustainable Growth/Circular Economy Waste Management (2021)</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Zendesk COVID System</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Public Sector Transformation (PST) Awards - Agility Award (2023)</p>
 </td>
 </tr>
 <tr>
@@ -201,6 +203,10 @@ Identity for a Nation (2022)</p>
 </tr>
 </tbody>
 </table>
+<h3>Explore collaboration opportunities with us</h3>
+<p>Interested in collaborating with us on a digital product or service? Let’s
+explore ways to work together.</p>
+<p>Reach out to us <a href="/products-and-services/collaborate-with-us/overview/" rel="noopener noreferrer nofollow" target="_blank">here</a>!</p>
 <p></p>
 <p></p>
 <h3>Organisational Awards &amp; Recognitions</h3>
