@@ -27,6 +27,17 @@ our Smart Nation ambition.</p>
 <p>Through the annual Industry Briefing for vendors, we invite you to bid
 for upcoming projects, whether large- or small-scale, regardless of the
 size of your business.</p>
+<h3>Why partner with us?</h3>
+<p>As a partner, you’ll leave a lasting impact on citizens and businesses
+by co-creating and co-developing technologies for public good. Through
+our work together, you’ll get to familiarise yourself with the Singapore
+government’s ICT operating environment.</p>
+<p>Your business also benefits from building digital capabilities, experience
+and know-how in the public sector domain. The fruits of your efforts can
+be applied in other areas and markets, bringing more growth to your organisation.</p>
+<p>In addition, your business can achieve validation opportunities through
+test bedding in actual deployment environments.</p>
+<p></p>
 <p></p>
 <p></p>
 <p></p>
