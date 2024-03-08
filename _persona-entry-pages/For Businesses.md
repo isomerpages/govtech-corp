@@ -26,7 +26,25 @@ and opportunities to upgrade your business.</p>
 </div>
 </a><a rel="noopener noreferrer nofollow" href="https://www.businessgrants.gov.sg/" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Placeholder image" src="https://placehold.co/600x400"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Apply for grants using the Business Grants Portal</div><div class="isomer-card-link">Explore more</div></div></a>
 </div>
-<p></p>
+<h3>Digital solutions to transform SMEs</h3>
+<p>Technology is transforming every sector of Singapore’s economy. It’s time
+for SMEs to leverage digital solutions to improve operations and generate
+new revenue.</p>
+<div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="https://api.singpass.gov.sg/case/dbs" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Upgraded DBS service with the help of GovTech" src="/images/About Us/DBS_case_study_govtech.jpg"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Integration of GovTech services</div><div class="isomer-card-description">Partner with us to level up your business. DBS Bank did just that by adopting our Singpass API to smoothen processes for their customers.</div><div class="isomer-card-link">Read more here</div></div></a>
+<a rel="noopener noreferrer nofollow" href="https://www.imda.gov.sg/how-we-can-help/smes-go-digital" class="isomer-card">
+<div class="isomer-card-image">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Placeholder image" src="/images/About Us/IMDA_logo.png">
+</div>
+</div>
+<div class="isomer-card-body">
+<div class="isomer-card-title">Go Digital Programme by IMDA</div>
+<div class="isomer-card-description">Take your first steps to digitalise your business with a programme that
+helps SMEs adopt advanced digital solutions, find grants and get a consultation.</div>
+<div class="isomer-card-link">Read more here</div>
+</div>
+</a><a rel="noopener noreferrer nofollow" href="https://www.isomer.gov.sg" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Placeholder image" src="https://placehold.co/600x400"></div></div><div class="isomer-card-body"><div class="isomer-card-title">This is a title for your card</div><div class="isomer-card-description">This is body text for your card. Describe your card.</div><div class="isomer-card-link">This is a link for your card</div></div></a>
+</div>
 <p></p>
 <p></p>
 <p></p>
