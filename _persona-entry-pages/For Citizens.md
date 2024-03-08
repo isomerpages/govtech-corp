@@ -137,15 +137,15 @@ and how our teams innovate through articles that feature our very own GovTechies
 careers<u> (link to: </u><a href="https://www.tech.gov.sg/media/technews/international-womens-day-2023" rel="noopener noreferrer nofollow" target="_blank"><u>https://www.tech.gov.sg/media/technews/international-womens-day-2023</u></a><u>)&nbsp;</u>
 </p>
 <p>2. A day in the life of a data scientist in the Technology Associate Programme<u> (link to: </u>
-<a href="https://www.tech.gov.sg/media/technews/international-womens-day-2023" rel="noopener noreferrer nofollow" target="_blank"><u>https://www.tech.gov.sg/media/technews/a-day-in-the-life-of-a-data-scientist-in-tap</u>
+<a href="https://www.tech.gov.sg/media/technews/international-womens-day-2023" rel="noopener noreferrer nofollow" target="_blank"><u>https://www.tech.gov.sg/media/technews/a-day-in-the-life-of-a-data-scientist-in-tap</u> 
 </a><u>)</u>
 </p>
 <p>3. TraceTogether - behind the scenes look at its development process<u> (link to: </u>
-<a href="https://www.tech.gov.sg/media/technews/international-womens-day-2023" rel="noopener noreferrer nofollow" target="_blank"><u>https://www.tech.gov.sg/media/technews/tracetogether-behind-the-scenes-look-at-its-development-process</u>
+<a href="https://www.tech.gov.sg/media/technews/international-womens-day-2023" rel="noopener noreferrer nofollow" target="_blank"><u>https://www.tech.gov.sg/media/technews/tracetogether-behind-the-scenes-look-at-its-development-process</u> 
 </a><u>)&nbsp;</u>
 </p>
 <p>4. Women in cybersecurity – GovTechies on life as cyber guardians<u> (link to: </u>
-<a href="https://www.tech.gov.sg/media/technews/international-womens-day-2023" rel="noopener noreferrer nofollow" target="_blank"><u>https://www.tech.gov.sg/media/technews/women-in-cybersecurity</u>
+<a href="https://www.tech.gov.sg/media/technews/international-womens-day-2023" rel="noopener noreferrer nofollow" target="_blank"><u>https://www.tech.gov.sg/media/technews/women-in-cybersecurity</u> 
 </a><u>)</u>
 </p>
 <p>5. Making the leap: how one GovTechie switched careers to product design
@@ -153,7 +153,46 @@ careers<u> (link to: </u><a href="https://www.tech.gov.sg/media/technews/interna
 <p>
 <br>Curious about a GovTech career? Click <u>here</u> to explore career opportunities
 and join GovTech. (Link to Careers page).</p>
+<h3>Find the right tools for you</h3>
+<p>We aim to make life better for citizens through tech. Explore our products
+and services, and find the right tools for your needs.</p>
+<table>
+<tbody>
+<tr>
+<th rowspan="1" colspan="1">
 <p></p>
+</th>
+<th rowspan="1" colspan="1">
+<p></p>
+</th>
+<th rowspan="1" colspan="1">
+<p></p>
+</th>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+</tbody>
+</table>
 <p></p>
 <p></p>
 <p></p>
