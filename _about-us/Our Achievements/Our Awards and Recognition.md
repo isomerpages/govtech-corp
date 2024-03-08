@@ -139,6 +139,60 @@ Award (2023)</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p>SGFindex</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Most Innovative Use of Data for Digital Transformation at the INSPIRE
+Tech Awards (2021)</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Singapore Student Learning Space (SLS)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Public Sector Transformation (PST) Awards - Service Delivery Excellence
+Award (2023)
+<br>
+</p>
+<p>World Innovation, Technology and Services Alliance (WITSA) — Runner-Up
+in e-Education and Learning</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Singpass</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Public Sector Transformation Awards (One Public Sector Award) — Digital
+Identity for a Nation (2022)</p>
+<p></p>
+<p>IDC Smart City Asia Pacific Awards (SCAPA) for digital equity and accessibility
+(2021)
+<br>
+</p>
+<p>Inspire Tech Awards for the most innovative use of data for digital transformation
+(Southeast Asia) (2021)</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
