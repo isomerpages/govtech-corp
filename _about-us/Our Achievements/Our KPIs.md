@@ -7,6 +7,28 @@ third_nav_title: Our Achievements
 variant: tiptap
 image: /images/About Us/About_Us___Our_Achievements___Our_KPIs.jpg
 ---
+<h3>Key goals for the Digital Government Blueprint 2.0</h3>
+<p>As we advance our digital government, GovTech looks to the Digital Government
+Blueprint (DGB) 2.0 to identify the KPIs for our organisation.</p>
+<p><strong>Alt image for infographic:</strong>
+</p>
+<p><strong>GovTech goals for the Digital Government Blueprint 2.0 (infographic to be created)</strong>
+</p>
+<h3>Our track record for meeting KPIs</h3>
+<h4><u>High citizen satisfaction with government digital services</u></h4>
+<p>Singaporeans responded positively when asked about their satisfaction
+with key government digital services.</p>
+<p>The Annual Survey on Satisfaction with Government Digital Services (Citizens)
+2022 was conducted from November 2022 to January 2023, for the reporting
+period of 2022. The survey also helped to identify areas for improvement.&nbsp;</p>
+<p>About 1500 respondents were surveyed, comprising representatives of the
+total demographic population. Data collection was done via face-to-face
+interviews.</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Government satisfaction survey measuring citizen satisfaction with government digital services." src="/images/About Us/Our Achievements/_Compressed__Digital_Government_Perception_2022_Citizens.jpg">
+</div>
+<p></p>
+<p></p>
 <h3>Striving to deliver on our key goals based on the Digital Government Blueprint (DGB) 2.0</h3>
 <p>As the document outlines our key focus areas in building a Digital Government,
 the DGB 2.0 also guides GovTech on the key KPIs we should aim for.</p>
