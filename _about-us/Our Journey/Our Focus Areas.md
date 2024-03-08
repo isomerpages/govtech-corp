@@ -23,6 +23,32 @@ use of our available resources.</p>
 <p>Learn more about the DGB 2.0 and what building a digital government entails
 <a href="/about-us/what-we-do/our-role/" rel="noopener noreferrer nofollow" target="_blank">here</a>.</p>
 <h3>Sustainability at the core of GovTech</h3>
+<table>
+<tbody>
+<tr>
+<th rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="GovTech Green Bounce station where GovTechies can reuse paper bags and containers to recycle them." src="/images/About Us/GovTech_Green_Bounce_Station.jpg">
+</div>
+</th>
+<th rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Green Week 2023: GovTechies take the Green Pledge and participate in green activities." src="/images/About Us/Green_GovTech_Week_2023.jpg">
+</div>
+</th>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><em>GovTech’s Green ‘Bounce’ Station encourages the use of reusable bags, lunch boxes, and cutlery.</em>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><em>GovTechies got together during the Green GovTech Week (3 – 7 July 2023) to take the Green Pledge and participate in various green activities.</em>
+</p>
+</td>
+</tr>
+</tbody>
+</table>
 <p>We believe that sustainability should influence everything that we do.&nbsp;</p>
 <p>This is why we have adopted a Sustainability Framework with 3 key pillars
 — Sustainable Organisation, Sustainable Information and Communications
@@ -75,6 +101,10 @@ the unique experiences of persons with disabilities (PwDs) and seniors.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="GovTech inclusivity A11y team" src="/images/About Us/A11y_GovTech.jpg">
 </div>
+<p><em>An A11y Week participant learning about screen reader accessibility at the A11y Tic Tac Toe booth. The game is modified to be playable only through keyboard navigation and listening to screen reader cues.</em>
+</p>
+<p>To learn more about the work of the A11y team, read this: <a href="https://www.tech.gov.sg/media/technews/this-national-day-lets-work-towards-a-more-digitally-inclusive-singapore" rel="noopener noreferrer nofollow" target="_blank">This National Day, let’s work towards a more digitally inclusive Singapore</a>
+</p>
 <h4>GovTech x The Purple Parade</h4>
 <div class="instagram-wrapper">
 <blockquote style="background:#FFF; border:0; border-radius:3px; box-shadow:0 0 1px 0 rgba(0,0,0,0.5),0 1px 10px 0 rgba(0,0,0,0.15); margin: 1px; max-width:540px; min-width:326px; padding:0; width:99.375%; width:-webkit-calc(100% - 2px); width:calc(100% - 2px);" data-instgrm-version="14" data-instgrm-permalink="https://www.instagram.com/p/C0YG6eDIkdd/?utm_source=ig_embed&amp;utm_campaign=loading" data-instgrm-captioned="" class="instagram-media">
