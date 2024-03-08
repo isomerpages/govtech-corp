@@ -51,7 +51,7 @@ bonds with others.</p>
 </div>
 <p></p>
 <p>Alt text for image 2 from national day celebration from:<a href="https://www.instagram.com/p/Cv_v4rvNp4j/?utm_source=ig_web_copy_link&amp;igsh=MzRlODBiNWFlZA==" rel="noopener noreferrer nofollow" target="_blank"> </a>
-<a href="https://www.instagram.com/p/Cv_v4rvNp4j/?utm_source=ig_web_copy_link&amp;amp;igsh=MzRlODBiNWFlZA==" rel="noopener noreferrer nofollow" target="_blank"><u>https://www.instagram.com/p/Cv_v4rvNp4j/?utm_source=ig_web_copy_link&amp;igsh=MzRlODBiNWFlZA==</u>
+<a href="https://www.instagram.com/p/Cv_v4rvNp4j/?utm_source=ig_web_copy_link&amp;amp;igsh=MzRlODBiNWFlZA==" rel="noopener noreferrer nofollow" target="_blank"><u>https://www.instagram.com/p/Cv_v4rvNp4j/?utm_source=ig_web_copy_link&amp;igsh=MzRlODBiNWFlZA==</u> 
 </a>:
 <br>
 </p>
@@ -59,8 +59,8 @@ bonds with others.</p>
 <p></p>
 <p><a href="https://www.instagram.com/p/CqrfJVsrz8O/?ref=Imgum.net&amp;hl=ne&amp;img_index=1" rel="noopener noreferrer nofollow" target="_blank">https://www.instagram.com/p/CqrfJVsrz8O/?ref=Imgum.net&amp;hl=ne&amp;img_index=1</a>
 </p>
-<p>Alt text for image 3 from volunteering event at SAAC from: <a href="https://www.instagram.com/p/CqrfJVsrz8O/?ref=Imgum.net&amp;hl=ne" rel="noopener noreferrer nofollow" target="_blank">&nbsp;</a>
-<a href="https://www.instagram.com/p/CqrfJVsrz8O/?ref=Imgum.net&amp;amp;hl=ne" rel="noopener noreferrer nofollow" target="_blank"><u>https://www.instagram.com/p/CqrfJVsrz8O/?ref=Imgum.net&amp;hl=ne</u>
+<p>Alt text for image 3 from volunteering event at SAAC from: <a href="https://www.instagram.com/p/CqrfJVsrz8O/?ref=Imgum.net&amp;hl=ne" rel="noopener noreferrer nofollow" target="_blank">&nbsp;</a> 
+<a href="https://www.instagram.com/p/CqrfJVsrz8O/?ref=Imgum.net&amp;amp;hl=ne" rel="noopener noreferrer nofollow" target="_blank"><u>https://www.instagram.com/p/CqrfJVsrz8O/?ref=Imgum.net&amp;hl=ne</u> 
 </a>:</p>
 <p></p>
 <p>GovTech volunteers at SAAC</p>
@@ -121,6 +121,39 @@ reach our goals.</div>
 </div>
 </div>
 </div>
+<p>Click <a href="/about-us/who-we-are/" rel="noopener noreferrer nofollow" target="_blank">here</a> to
+find out more about GovTech.</p>
+<h3>Hear from our GovTechies</h3>
+<p>What’s it like working at GovTech? Take a closer look at life in GovTech
+and how our teams innovate through articles that feature our very own GovTechies!</p>
+<p>
+<br>
+</p>
+<p>Click on the links to read more:</p>
+<p>
+<br>
+</p>
+<p>1. International Women’s day: GovTechies talk about switching to tech
+careers<u> (link to: </u><a href="https://www.tech.gov.sg/media/technews/international-womens-day-2023" rel="noopener noreferrer nofollow" target="_blank"><u>https://www.tech.gov.sg/media/technews/international-womens-day-2023</u></a><u>)&nbsp;</u>
+</p>
+<p>2. A day in the life of a data scientist in the Technology Associate Programme<u> (link to: </u>
+<a href="https://www.tech.gov.sg/media/technews/international-womens-day-2023" rel="noopener noreferrer nofollow" target="_blank"><u>https://www.tech.gov.sg/media/technews/a-day-in-the-life-of-a-data-scientist-in-tap</u>
+</a><u>)</u>
+</p>
+<p>3. TraceTogether - behind the scenes look at its development process<u> (link to: </u>
+<a href="https://www.tech.gov.sg/media/technews/international-womens-day-2023" rel="noopener noreferrer nofollow" target="_blank"><u>https://www.tech.gov.sg/media/technews/tracetogether-behind-the-scenes-look-at-its-development-process</u>
+</a><u>)&nbsp;</u>
+</p>
+<p>4. Women in cybersecurity – GovTechies on life as cyber guardians<u> (link to: </u>
+<a href="https://www.tech.gov.sg/media/technews/international-womens-day-2023" rel="noopener noreferrer nofollow" target="_blank"><u>https://www.tech.gov.sg/media/technews/women-in-cybersecurity</u>
+</a><u>)</u>
+</p>
+<p>5. Making the leap: how one GovTechie switched careers to product design
+(link to: <a href="https://www.tech.gov.sg/media/technews/international-womens-day-2023" rel="noopener noreferrer nofollow" target="_blank"><u>https://www.tech.gov.sg/media/technews/making-the-leap</u></a>)&nbsp;</p>
+<p>
+<br>Curious about a GovTech career? Click <u>here</u> to explore career opportunities
+and join GovTech. (Link to Careers page).</p>
+<p></p>
 <p></p>
 <p></p>
 <p></p>
