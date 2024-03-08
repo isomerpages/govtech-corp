@@ -6,6 +6,30 @@ description: A hub for businesses who want to level up through tech. Find
 variant: tiptap
 image: /images/About Us/For_Businesses_persona_copy.jpg
 ---
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Asian businessman with a smile on his face as he walks to a destination" src="/images/About Us/Business___header___persona_copy.jpg">
+</div>
+<p>Welcome to the GovTech hub for businesses, where you’ll find tools, resources
+and opportunities to upgrade your business.</p>
+<h3>Digitalise your business with GovTech</h3>
+<p>Go digital with ease using our tools and portals.</p>
+<div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="https://www.isomer.gov.sg" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Placeholder image" src="https://placehold.co/600x400"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Access guides, licenses and government schemes</div><div class="isomer-card-link">Visit GoBusiness</div></div></a>
+<a rel="noopener noreferrer nofollow" href="https://www.isomer.gov.sg" class="isomer-card">
+<div class="isomer-card-image">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Placeholder image" src="https://placehold.co/600x400">
+</div>
+</div>
+<div class="isomer-card-body">
+<div class="isomer-card-title">Use Corppass to manage employees’ service access</div>
+<div class="isomer-card-link">Register</div>
+</div>
+</a><a rel="noopener noreferrer nofollow" href="https://www.isomer.gov.sg" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Placeholder image" src="https://placehold.co/600x400"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Apply for grants using the Business Grants Portal</div><div class="isomer-card-link">Explore more</div></div></a>
+</div>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
 <p><em>Whether you are looking for business tools and resources or seeking ways to upgrade your business, this page has been specially curated to provide you with useful links to important portals and other resources, opportunities to leverage on digital business solutions and more.</em>
 </p>
 <h3><strong>Digitalising your business? GovTech can help.</strong></h3>
