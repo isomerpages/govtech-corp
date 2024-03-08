@@ -34,7 +34,7 @@ new revenue.</p>
 <a rel="noopener noreferrer nofollow" href="https://www.imda.gov.sg/how-we-can-help/smes-go-digital" class="isomer-card">
 <div class="isomer-card-image">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Placeholder image" src="/images/About Us/IMDA_logo.png">
+<img style="width: 100%" height="auto" width="100%" alt="IMDA logo" src="/images/About Us/IMDA.png">
 </div>
 </div>
 <div class="isomer-card-body">
@@ -58,9 +58,10 @@ helps SMEs adopt advanced digital solutions, find grants and get a consultation.
 <div class="isomer-card-title">Businesses to get a one-stop portal</div>
 <div class="isomer-card-link">Read more</div>
 </div>
-</a><a rel="noopener noreferrer nofollow" href="https://www.tech.gov.sg/media/technews/simplifying-tax-experience-for-small-and-medium-enterprises" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Placeholder image" src="https://placehold.co/600x400"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Simplifying tax experience for SMEs</div><div class="isomer-card-description">This is body text for your card. Describe your card.</div><div class="isomer-card-link">Read more</div></div></a>
+</a><a rel="noopener noreferrer nofollow" href="https://www.tech.gov.sg/media/technews/simplifying-tax-experience-for-small-and-medium-enterprises" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Placeholder image" src="https://placehold.co/600x400"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Simplifying tax experience for SMEs</div><div class="isomer-card-link">Read more</div></div></a>
 </div>
-<p></p>
+<p>Don't want to miss out on anything? Subscribe to our <a href="http://eepurl.com/cUwIsD" rel="noopener noreferrer nofollow" target="_blank">Technews newsletter</a> to
+stay updated.</p>
 <p></p>
 <p><em>Whether you are looking for business tools and resources or seeking ways to upgrade your business, this page has been specially curated to provide you with useful links to important portals and other resources, opportunities to leverage on digital business solutions and more.</em>
 </p>
