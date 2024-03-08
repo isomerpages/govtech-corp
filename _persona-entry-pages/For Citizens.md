@@ -25,7 +25,7 @@ curated to give you tech tips, behind-the-scenes stories and more.</p>
 <div class="isomer-card-title">Generative AI: Where it can go wrong</div>
 <div class="isomer-card-link">Read more</div>
 </div>
-</a><a rel="noopener noreferrer nofollow" href="https://www.tech.gov.sg/media/technews/history-of-the-internet" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Placeholder image" src="https://placehold.co/600x400"></div></div><div class="isomer-card-body"><div class="isomer-card-title">History of internet in Singapore – from niche toy to must-have essential</div><div class="isomer-card-link">Read more</div></div></a>
+</a><a rel="noopener noreferrer nofollow" href="https://www.tech.gov.sg/media/technews/tips-for-safe-online-shopping" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Placeholder image" src="https://placehold.co/600x400"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Tips for safe online shopping</div><div class="isomer-card-link">Read more</div></div></a>
 </div>
 <p>Stay updated on the latest tech tips and GovTech news. Subscribe to our
 TechNews Newsletter <u>here.</u> (Link to TechNews Newsletter subscription
@@ -146,8 +146,8 @@ and how our teams innovate through articles that feature our very own GovTechies
 </div>
 </a>
 </div>
-<p>Curious about a GovTech career? Click <u>here</u> to explore career opportunities
-and join GovTech. (Link to Careers page).</p>
+<p>Curious about a GovTech career? Click <a href="/careers/why-join-govtech/overview/" rel="noopener noreferrer nofollow" target="_blank">here</a> to explore career opportunities
+and join GovTech.</p>
 <h3>Find the right tools for you</h3>
 <p>We aim to make life better for citizens through tech. Explore our products
 and services, and find the right tools for your needs.</p>
@@ -190,43 +190,3 @@ and services, and find the right tools for your needs.</p>
 </tbody>
 </table>
 <p>Learn more about our <a href="/products-and-services/overview/" rel="noopener noreferrer nofollow" target="_blank">Products and Services</a>.</p>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
-<h3></h3>
-<p></p>
-<div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="/media/technews/top-five-scams-in-singapore-and-how-to-protect-yourself/" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Placeholder image" src="https://placehold.co/600x400"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Top 5 scams in Singapore and how to protect yourself from them</div><div class="isomer-card-link">Read More</div></div></a>
-<a rel="noopener noreferrer nofollow" href="/media/technews/generative-ai-where-can-it-go-wrong/" class="isomer-card">
-<div class="isomer-card-image">
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Placeholder image" src="https://placehold.co/600x400">
-</div>
-</div>
-<div class="isomer-card-body">
-<div class="isomer-card-title">Generative AI: Where it can go wrong</div>
-<div class="isomer-card-link">Read More</div>
-</div>
-</a><a rel="noopener noreferrer nofollow" href="/media/technews/tips-for-safe-online-shopping/" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Placeholder image" src="https://placehold.co/600x400"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Tips for safe online shopping</div><div class="isomer-card-link">Read More</div></div></a>
-</div>
-<p></p>
-<p><strong>Stay updated on the latest tech tips and GovTech news. Subscribe to our TechNews Newsletter today!</strong>
-</p>
-<p></p>
-<p><a href="http://eepurl.com/cUwIsD" rel="noopener noreferrer nofollow" target="_blank">SUBSCRIBE TO TECHNEWS</a>
-</p>
-<p></p>
-<h3><strong>Want your voice heard? Co-create with us by joining the Tech Kaki community.</strong></h3>
-<div class="isomer-image-wrapper">
-<img style="width: 20%;" height="auto" width="100%" alt="" src="/images/Get Involved/Tech_Kaki_Facebook_logo.jpeg">
-</div>
-<p>Be a driver of change - here is the opportunity to influence the way products
-and services are designed based on how you would like to experience them,
-driving enhancements by providing us with your feedback. Join over 7,000
-other members and co-create with us to develop government products and
-services that will improve the lives of Singaporeans.</p>
-<p>Learn more about <a href="/get-involved/join-our-communities/tech-kaki/" rel="noopener noreferrer nofollow" target="_blank">Tech Kaki</a>.</p>
-<h3></h3>
-<p></p>
-<p></p>
-<p></p>
