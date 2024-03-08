@@ -170,22 +170,26 @@ and services, and find the right tools for your needs.</p>
 </div>
 </th>
 </tr>
+</tbody>
+</table>
+<table>
+<tbody>
 <tr>
-<td rowspan="1" colspan="1">
+<th rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="Parent's Gateway logo" src="/images/About Us/Parents_Gateway.png">
 </div>
-</td>
-<td rowspan="1" colspan="1">
+</th>
+<th rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="Parking.sg logo" src="/images/About Us/Parking_sg.png">
 </div>
-</td>
-<td rowspan="1" colspan="1">
+</th>
+<th rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="Data.gov.sg logo" src="/images/About Us/Data_gov_sg.png">
 </div>
-</td>
+</th>
 </tr>
 </tbody>
 </table>
