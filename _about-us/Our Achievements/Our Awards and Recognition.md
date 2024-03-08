@@ -8,6 +8,34 @@ variant: tiptap
 image: /images/About Us/Our
   Achievements/Our_Achievements___Our_Awards_and_Recognition.jpg
 ---
+<h3>Highly acclaimed in Singapore and beyond</h3>
+<p>We are proud to have been given a variety of awards over the years that
+recognise our efforts in digital transformation, as we empower Singapore
+with tech possibilities and improve the lives of citizens.</p>
+<h4>IDC Future Enterprise Awards 2023</h4>
+<p>The awards spotlight the leading businesses as our world transitions to
+the dawn of the Digital Business age.&nbsp;</p>
+<p>GovTech was proudly given the Special Award for Sustainability, recognising
+our efforts in advancing the adoption of greener hosting options through
+data centre consolidation, cloud migration, and workload optimisation to
+cut government data centres' electrical consumption by at least 20%.</p>
+<p><a href="https://www.idc.com/getdoc.jsp?containerId=prAP51332323" rel="noopener noreferrer nofollow" target="_blank">Singapore Winners for IDC's 2023 Future Enterprise Awards</a>
+</p>
+<h4>Employer Awards</h4>
+<p>GovTech is proud to be a Great Place to Work-Certified™ organisation,
+a validation of our collaborative spirit.</p>
+<p>GovTech was also named Singapore's top 10 most attractive employers in
+IT by Universum in 2023, and ranked 9th as Singapore's leading graduate
+employers in IT &amp; technology by GradSingapore in 2023.</p>
+<h4>SG 100 Women in Tech</h4>
+<p>Introduced by the IMDA and the SG Computer Society, the list has recognised
+the achievements of over 300 remarkable women since its launch in 2020.</p>
+<p>In 2023, 4 of our very own GovTechies were recognised for their invaluable
+contributions to the tech industry in Singapore. To learn more about these
+GovTechies and their tech contributions, check out our post <u>here.</u>
+</p>
+<p></p>
+<p></p>
 <h3>Organisational Awards &amp; Recognitions</h3>
 <p>As GovTech empowers Singapore with tech possibilities and aims to improve
 the lives of Singaporeans, our organisation is proud to have been given
