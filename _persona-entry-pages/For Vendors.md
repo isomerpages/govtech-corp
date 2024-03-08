@@ -37,7 +37,31 @@ and know-how in the public sector domain. The fruits of your efforts can
 be applied in other areas and markets, bringing more growth to your organisation.</p>
 <p>In addition, your business can achieve validation opportunities through
 test bedding in actual deployment environments.</p>
-<p></p>
+<h3>Partnership opportunities</h3>
+<p>We are currently focusing on ICT opportunities in 3 areas: Application
+Development, Sustainability and Smart Cities.</p>
+<p>- <u>New</u> infographic showing the opportunities under each focus area
+(can take from<a href="https://docs.google.com/document/d/19WUEjzD8zqyZPCoE7zJntH0BCjdHqF5a/edit?usp=sharing&amp;ouid=103683068069231528394&amp;rtpof=true&amp;sd=true." rel="noopener noreferrer nofollow" target="_blank"> </a>
+<a href="https://docs.google.com/document/d/19WUEjzD8zqyZPCoE7zJntH0BCjdHqF5a/edit?usp=sharing&amp;amp;ouid=103683068069231528394&amp;amp;rtpof=true&amp;amp;sd=true." rel="noopener noreferrer nofollow" target="_blank"><u>https://docs.google.com/document/d/19WUEjzD8zqyZPCoE7zJntH0BCjdHqF5a/edit?usp=sharing&amp;ouid=103683068069231528394&amp;rtpof=true&amp;sd=true</u>
+</a>+ slides 10-15 on<a href="https://www.tech.gov.sg/files/media/corporate-publications/IB2023-Towards-the-Next-Bound-of-Digital-Government-GovTech-CE.pdf" rel="noopener noreferrer nofollow" target="_blank"> </a>
+<a href="https://docs.google.com/document/d/19WUEjzD8zqyZPCoE7zJntH0BCjdHqF5a/edit?usp=sharing&amp;amp;ouid=103683068069231528394&amp;amp;rtpof=true&amp;amp;sd=true." rel="noopener noreferrer nofollow" target="_blank"><u>https://www.tech.gov.sg/files/media/corporate-publications/IB2023-Towards-the-Next-Bound-of-Digital-Government-GovTech-CE.pdf</u>
+</a>)</p>
+<h3>Become a vendor for GovTech</h3>
+<p>Follow these steps to secure new opportunities.</p>
+<div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="https://www.gebiz.gov.sg/" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Placeholder image" src="https://placehold.co/600x400"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Register as a GeBIZ Trading Partner (GTP)</div><div class="isomer-card-link">Visit GeBIZ portal</div></div></a>
+<a rel="noopener noreferrer nofollow" href="https://www.gebiz.gov.sg/ptn/ppplisting/index.xhtml" class="isomer-card">
+<div class="isomer-card-image">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Placeholder image" src="https://placehold.co/600x400">
+</div>
+</div>
+<div class="isomer-card-body">
+<div class="isomer-card-title">Browse available opportunities</div>
+<div class="isomer-card-description">This is body text for your card. Describe your card.</div>
+<div class="isomer-card-link">Explore more</div>
+</div>
+</a><a rel="noopener noreferrer nofollow" href="https://www.tech.gov.sg/media/events/industry-briefing-2023" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Placeholder image" src="https://placehold.co/600x400"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Get to know our partnership requirements</div><div class="isomer-card-description">This is body text for your card. Describe your card.</div><div class="isomer-card-link">Read more</div></div></a>
+</div>
 <p></p>
 <p></p>
 <p></p>
