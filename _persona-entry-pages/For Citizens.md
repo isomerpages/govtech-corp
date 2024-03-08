@@ -35,14 +35,25 @@ form)</p>
 </p>
 <p><strong>Tech Kaki GovTech community</strong>
 </p>
-<p></p>
 <h4>Be part of our Tech Kaki community</h4>
 <p>Join over 7,000 members to drive change in Singapore. By contributing
 feedback, you’ll co-create digital products and services for citizens.</p>
 <p>Sign up via our Tech Kaki newsletter form. (link)</p>
+<p>Want to learn more about Tech Kaki? Find out more <a href="/get-involved/join-our-communities/tech-kaki/" rel="noopener noreferrer nofollow" target="_blank">here</a>.</p>
+<h3>Behind the scenes at GovTech</h3>
+<h4>Our culture and values</h4>
+<p>Balance is the key to a positive culture at GovTech. We encourage this
+through celebrations, Dinner &amp; Dances and volunteering events that
+allow our GovTechies to take a break, enjoy themselves and form tight-knit
+bonds with others.</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="GovTech team from Dinner and Dance 2023" src="/images/About Us/GovTech_Dinner___Dance_2023.jpg">
+</div>
 <p></p>
-<p>Want to learn more about Tech Kaki? Find out more <u>here.</u> (Link to
-Get Involved - Tech Kaki Community page)</p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
 <p></p>
 <p></p>
 <p></p>
