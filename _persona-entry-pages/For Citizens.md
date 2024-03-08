@@ -7,6 +7,30 @@ description: Whether you're a tech enthusiast or hoping to be a future
 variant: tiptap
 image: /images/About Us/For_citizens.jpg
 ---
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Happy couple sitting on the couch and spending time together while checking out GovTech events" src="/images/About Us/For_citizens_banner_image__1_.jpg">
+</div>
+<p>Welcome to your one-stop shop for citizens! This page has been specially
+curated to give you tech tips, behind-the-scenes stories and more.</p>
+<h3>Our picks for you</h3>
+<h4>What’s trending in TechNews!</h4>
+<div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="https://www.tech.gov.sg/media/technews/top-five-scams-in-singapore-and-how-to-protect-yourself" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Placeholder image" src="https://placehold.co/600x400"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Protect yourself from the top 5 scams in Singapore</div><div class="isomer-card-link">Read more</div></div></a>
+<a rel="noopener noreferrer nofollow" href="https://www.tech.gov.sg/media/technews/generative-ai-where-can-it-go-wrong" class="isomer-card">
+<div class="isomer-card-image">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Placeholder image" src="https://placehold.co/600x400">
+</div>
+</div>
+<div class="isomer-card-body">
+<div class="isomer-card-title">Generative AI: Where it can go wrong</div>
+<div class="isomer-card-link">Read more</div>
+</div>
+</a><a rel="noopener noreferrer nofollow" href="https://www.tech.gov.sg/media/technews/history-of-the-internet" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Placeholder image" src="https://placehold.co/600x400"></div></div><div class="isomer-card-body"><div class="isomer-card-title">History of internet in Singapore – from niche toy to must-have essential</div><div class="isomer-card-link">Read more</div></div></a>
+</div>
+<p></p>
+<p></p>
+<p>Stay on top of all things tech with the latest news and tips by GovTech.</p>
+<p></p>
 <p><em>Whether you're a tech enthusiast or hoping to become a future GovTechie, this page has been specially curated to provide you with tech tips, behind-the-scenes stories, opportunities to get involved with GovTech and more.</em>
 </p>
 <h3><strong>Check out what's in store for you at GovTech today</strong></h3>
