@@ -27,6 +27,23 @@ curated to give you tech tips, behind-the-scenes stories and more.</p>
 </div>
 </a><a rel="noopener noreferrer nofollow" href="https://www.tech.gov.sg/media/technews/history-of-the-internet" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Placeholder image" src="https://placehold.co/600x400"></div></div><div class="isomer-card-body"><div class="isomer-card-title">History of internet in Singapore – from niche toy to must-have essential</div><div class="isomer-card-link">Read more</div></div></a>
 </div>
+<p>Stay updated on the latest tech tips and GovTech news. Subscribe to our
+TechNews Newsletter <u>here.</u> (Link to TechNews Newsletter subscription
+form)</p>
+<h3>Have your voice heard</h3>
+<p><strong>Alt text for image:</strong>
+</p>
+<p><strong>Tech Kaki GovTech community</strong>
+</p>
+<p></p>
+<h4>Be part of our Tech Kaki community</h4>
+<p>Join over 7,000 members to drive change in Singapore. By contributing
+feedback, you’ll co-create digital products and services for citizens.</p>
+<p>Sign up via our Tech Kaki newsletter form. (link)</p>
+<p></p>
+<p>Want to learn more about Tech Kaki? Find out more <u>here.</u> (Link to
+Get Involved - Tech Kaki Community page)</p>
+<p></p>
 <p></p>
 <p></p>
 <p>Stay on top of all things tech with the latest news and tips by GovTech.</p>
