@@ -76,21 +76,30 @@ Awards and Recognition)]</p>
 the products we have developed for <u>citizens</u>, <u>businesses</u> and <u>government agencies</u>.
 <br>
 </p>
-<p>[Singapore Government Tech Stack (Link to: Products and Services - For
-Government Agencies - Software Development - Singapore Government Tech
-Stack)</p>
-<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;- Products for Citizens (Link to:
-Products and Services - For Citizens - Overview)</p>
-<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;- Products for Businesses (Link to:
-Products and Services - For Businesses - Overview)</p>
-<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;- Products for Government Agencies
-(Link to: Products and Services - For Government Agencies - Overview)]</p>
-<h4>Guide for government procurement</h4>
-<p>Read <u>our guide</u> for suppliers that are participating in Singapore
-government procurement opportunities.&nbsp;
-<br>(Link to <a href="https://www.gebiz.gov.sg/singapore-government-procurement-regime.html)" rel="noopener noreferrer nofollow" target="_blank"><u>https://www.gebiz.gov.sg/singapore-government-procurement-regime.html)</u></a>
+<p><a href="/products-and-services/for-government-agencies/software-development/sg-tech-stack/" rel="noopener noreferrer nofollow" target="_blank">Singapore Government Tech Stack</a>
 </p>
-<p>Click <u>here</u> to learn more about industry collaborations with GovTech.
-(Link to Industry Collaboration page under Products &amp; Services)</p>
+<div class="iframe-wrapper">
+<iframe style="max-width: 100%;" height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/Vt-r2vCqSh8?si=moecMgW-ucdrOWvC"></iframe>
+</div>
+<p></p>
+<ol data-tight="true" class="tight">
+<li>
+<p>Products for <a href="/products-and-services/for-citizens/overview/" rel="noopener noreferrer nofollow" target="_blank">Citizens</a>
+</p>
+</li>
+<li>
+<p>Products for <a href="/products-and-services/for-businesses/overview/" rel="noopener noreferrer nofollow" target="_blank">Businesses</a>
+</p>
+</li>
+<li>
+<p>Products for <a href="/products-and-services/for-government-agencies/overview/" rel="noopener noreferrer nofollow" target="_blank">Government Agencies</a>
+</p>
+</li>
+</ol>
+<h4>Guide for government procurement</h4>
+<p>Read <a href="https://www.gebiz.gov.sg/singapore-government-procurement-regime.html" rel="noopener noreferrer nofollow" target="_blank">our guide</a> for
+suppliers that are participating in Singapore government procurement opportunities.</p>
+<p>Learn more about <a href="/products-and-services/collaborate-with-us/industry-collaboration/" rel="noopener noreferrer nofollow" target="_blank">industry collaborations</a> with
+GovTech.</p>
 <p>Have an enquiry or a proactive proposal that will drive our Smart Nation
 efforts? Reach out to us at <a href="mailto:govtech_sipeo@tech.gov.sg" rel="noopener noreferrer nofollow" target="_blank"><u>govtech_sipeo@tech.gov.sg</u></a>.</p>
