@@ -67,10 +67,9 @@ test bedding in actual deployment environments.</p>
 </div>
 <div class="isomer-card-body">
 <div class="isomer-card-title">Browse available opportunities</div>
-<div class="isomer-card-description">This is body text for your card. Describe your card.</div>
-<div class="isomer-card-link">Explore more</div>
+<div class="isomer-card-link">Explore available opportunities</div>
 </div>
-</a><a rel="noopener noreferrer nofollow" href="https://www.tech.gov.sg/media/events/industry-briefing-2023" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Placeholder image" src="https://placehold.co/600x400"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Get to know our partnership requirements</div><div class="isomer-card-description">This is body text for your card. Describe your card.</div><div class="isomer-card-link">Read more</div></div></a>
+</a><a rel="noopener noreferrer nofollow" href="https://www.tech.gov.sg/files/media/corporate-publications/IB2023-Towards-the-Next-Bound-of-Digital-Government-GovTech-CE.pdf" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Placeholder image" src="https://placehold.co/600x400"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Get to know our partnership requirements</div><div class="isomer-card-link">Industry Briefing 2023</div></div></a>
 </div>
 <p>Check out the additional resources below to guide you and increase your
 chances of winning a project.</p>
