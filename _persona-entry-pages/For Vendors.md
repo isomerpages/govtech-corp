@@ -76,7 +76,7 @@ chances of winning a project.</p>
 <h4>About GovTech</h4>
 <p>(accordian)</p>
 <p>Get to know more about our organisation, starting with <u>our role in the government</u>, <u>our capabilities</u> and <u>our awards and recognition</u>.</p>
-<p><a href="/about-us/what-we-do/our-role/" rel="noopener noreferrer nofollow" target="_blank">Our Role in the Government</a> 
+<p><a href="/about-us/what-we-do/our-role/" rel="noopener noreferrer nofollow" target="_blank">Our Role in the Government</a>
 </p>
 <p><a href="/about-us/what-we-do/our-capabilities/" rel="noopener noreferrer nofollow" target="_blank">Our Capabilities</a>
 </p>
