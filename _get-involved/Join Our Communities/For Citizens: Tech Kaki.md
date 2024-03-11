@@ -66,18 +66,16 @@ of our Tech Kaki community and share more about their contributions.</div>
 </div>
 <hr>
 <h3>Connect with us</h3>
-<div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="http://eepurl.com/hsr131" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Tech Kaki Appreciation Dinner" src="/images/Get Involved/Tech_Kaki_Appreciation_Dinner.jpg"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Join our community</div><div class="isomer-card-description">Connect with us and receive opportunities for co-creation, right in your email inbox.</div><div class="isomer-card-link">Sign up</div></div></a>
-<a rel="noopener noreferrer nofollow" href="https://www.facebook.com/TechKaki/" class="isomer-card">
-<div class="isomer-card-image">
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="Tech Kaki Appreciation Dinner" src="/images/Get Involved/Tech_Kaki_Appreciation_Dinner.jpg">
 </div>
-</div>
+<div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="http://eepurl.com/hsr131" class="isomer-card"><div class="isomer-card-body"><div class="isomer-card-title">Join our community</div><div class="isomer-card-description">Connect with us and receive opportunities for co-creation, right in your email inbox.</div><div class="isomer-card-link">Sign up here</div></div></a>
+<a rel="noopener noreferrer nofollow" href="https://www.facebook.com/TechKaki/" class="isomer-card">
 <div class="isomer-card-body">
 <div class="isomer-card-title">Stay updated on social media</div>
 <div class="isomer-card-description">Keep up to date with Tech Kaki happenings when you join our community
 on Facebook.</div>
-<div class="isomer-card-link">Follow us</div>
+<div class="isomer-card-link">Follow us on Facebook</div>
 </div>
 </a>
 </div>
