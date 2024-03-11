@@ -8,6 +8,10 @@ variant: tiptap
 image: /images/Get Involved/Join_our_communities_meta_image_compressed.jpg
 ---
 <h3>Join our communities</h3>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Join our different communities at GovTech: Tech Kaki and STACK Community" src="/images/Get Involved/Join_our_communities_banner_image.jpg">
+</div>
+<p></p>
 <p>(Banner image showing all 3 communities TBC - to be created)
 <br>Alt text for banner image:</p>
 <p>GovTech communities Tech Kaki STACK and ReCONNECT</p>
