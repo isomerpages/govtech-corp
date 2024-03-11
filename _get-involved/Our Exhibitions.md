@@ -8,7 +8,9 @@ variant: tiptap
 image: /images/Get Involved/Smart_Nation_Cityscape_GovTech_interactive_exhibition.jpg
 ---
 <h3>Deep dive into Smart Nation initiatives</h3>
-<p>(image/infographic)</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Smart Nation Cityscape: An employee showing a visitor the latest developments via an iPad" src="/images/Get Involved/Smart_Nation_CityScape_banner_resized.jpg">
+</div>
 <h3>Smart Nation CityScape</h3>
 <p>Our work at GovTech impacts every part of your daily life. Learn more
 about the initiatives that improve the way you live, work and play at this
@@ -53,10 +55,10 @@ with you in mind.</div>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="Learn about the latest technologies and upcoming developments to transform SG into a smart nation" src="/images/Get Involved/Smart_Nation_CityScape.jpg">
 </div>
-<p>Open from Mondays to Saturdays, 9am to 5pm at:</p>
-<p>45 Maxwell Road
-<br>The URA Centre
-<br>Singapore 069118</p>
+<p><strong>Open from Mondays to Saturdays, 9am to 5pm at:</strong>
+</p>
+<p><strong>45 Maxwell Road <br>The URA Centre <br>Singapore 069118</strong>
+</p>
 <p><a href="https://www.eventbrite.com/e/guided-tour-of-smart-nation-cityscape-tickets-316263240867" rel="noopener noreferrer nofollow" target="_blank">Find tours for Smart Nation Cityscape here</a>.</p>
 <p>Smart Nation CityScape: <a href="https://www.smartnation.gov.sg/files/publications/sn_cityscape_visitor's_guide.pdf" rel="noopener noreferrer nofollow" target="_blank">Visitor Guide</a>
 </p>
@@ -98,10 +100,9 @@ both the young and old to learn more about tech and our Smart Nation.</div>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="Smart Nation playscape exhibition at Science Centre" src="/images/Get Involved/Smart_nation_playscape_exhibition.jpg">
 </div>
-<p>Open from Tuesdays to Sundays, 10am to 5pm at:</p>
-<p>Science Centre Singapore
-<br>15 Science Centre Road
-<br>Singapore 609081
+<p><strong>Open from Tuesdays to Sundays, 10am to 5pm at:</strong>
+</p>
+<p><strong>Science Centre Singapore <br>15 Science Centre Road <br>Singapore 609081 </strong>
 <br>
 <br><a href="https://www.smartnation.gov.sg/files/publications/playscape_pamphlet.pdf" rel="noopener noreferrer nofollow" target="_blank">Download</a> guide
 for Smart Nation PlayScape.</p>
