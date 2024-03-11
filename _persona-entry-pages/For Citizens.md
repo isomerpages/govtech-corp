@@ -28,8 +28,7 @@ curated to give you tech tips, behind-the-scenes stories and more.</p>
 </a><a rel="noopener noreferrer nofollow" href="https://www.tech.gov.sg/media/technews/tips-for-safe-online-shopping" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Placeholder image" src="https://placehold.co/600x400"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Tips for safe online shopping</div><div class="isomer-card-link">Read more</div></div></a>
 </div>
 <p>Stay updated on the latest tech tips and GovTech news. Subscribe to our
-TechNews Newsletter <u>here.</u> (Link to TechNews Newsletter subscription
-form)</p>
+<a href="http://eepurl.com/cUwIsD" rel="noopener noreferrer nofollow" target="_blank">Technews newsletter</a>.</p>
 <h3>Have your voice heard</h3>
 <h4>Be part of our Tech Kaki community</h4>
 <div class="isomer-image-wrapper">
@@ -37,8 +36,8 @@ form)</p>
 </div>
 <p>Join over 7,000 members to drive change in Singapore. By contributing
 feedback, you’ll co-create digital products and services for citizens.</p>
-<p>Sign up via our Tech Kaki newsletter form. (link)</p>
-<p>Want to learn more about Tech Kaki? Find out more <a href="/get-involved/join-our-communities/tech-kaki/" rel="noopener noreferrer nofollow" target="_blank">here</a>.</p>
+<p>Sign up via our <a href="http://eepurl.com/hsr131" rel="noopener noreferrer nofollow" target="_blank">Tech Kaki newsletter form</a>.</p>
+<p><a href="/get-involved/join-our-communities/tech-kaki/" rel="noopener noreferrer nofollow" target="_blank">Learn more about Tech Kaki</a>.</p>
 <h3>Behind the scenes at GovTech</h3>
 <h4>Our culture and values</h4>
 <p>Balance is the key to a positive culture at GovTech. We encourage this
