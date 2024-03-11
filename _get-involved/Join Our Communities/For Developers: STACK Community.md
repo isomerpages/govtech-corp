@@ -64,8 +64,7 @@ AI, while industry folks held discussions on Large Language Models (LLMs).</p>
 and practitioners to connect and move the conversation around AI forward.</p>
 <p>Find your way to our next flagship conference by joining our STACK meet-ups
 as a community member.</p>
-<hr>
-<div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="https://www.meetup.com/stack-by-govtech-singapore/" class="isomer-card"><div class="isomer-card-body"><div class="isomer-card-title">Join our community</div><div class="isomer-card-description">Be part of our growing tech community and mingle with other like-minded professionals.</div><div class="isomer-card-link">Sign up</div></div></a>
+<div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="https://www.meetup.com/stack-by-govtech-singapore/" class="isomer-card"><div class="isomer-card-body"><div class="isomer-card-title">Join our community</div><div class="isomer-card-description">Be part of our growing tech community and mingle with other like-minded professionals.</div><div class="isomer-card-link">Sign up now</div></div></a>
 <a rel="noopener noreferrer nofollow" href="https://go.gov.sg/stacktelegram" class="isomer-card">
 <div class="isomer-card-body">
 <div class="isomer-card-title">Stay updated via our Telegram channel</div>
