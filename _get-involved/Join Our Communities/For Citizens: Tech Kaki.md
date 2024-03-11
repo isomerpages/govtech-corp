@@ -70,7 +70,7 @@ of our Tech Kaki community and share more about their contributions.</div>
 <hr>
 <h3>Connect with us</h3>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Tech Kaki Appreciation Dinner" src="/images/Get Involved/Tech_Kaki_Appreciation_Dinner.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="Tech Kaki appreciation dinner with members of the community" src="/images/Get Involved/Tech_Kaki_Appreciation_Dinner_resized.jpg">
 </div>
 <div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="http://eepurl.com/hsr131" class="isomer-card"><div class="isomer-card-body"><div class="isomer-card-title">Join our community</div><div class="isomer-card-description">Connect with us and receive opportunities for co-creation, right in your email inbox.</div><div class="isomer-card-link">Sign up here</div></div></a>
 <a rel="noopener noreferrer nofollow" href="https://www.facebook.com/TechKaki/" class="isomer-card">
