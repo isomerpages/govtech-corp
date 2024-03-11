@@ -38,8 +38,18 @@ be applied in other areas and markets, bringing more growth to your organisation
 <p>In addition, your business can achieve validation opportunities through
 test bedding in actual deployment environments.</p>
 <h3>Partnership opportunities</h3>
-<p>We are currently focusing on ICT opportunities in 3 areas: Application
-Development, Sustainability and Smart Cities.</p>
+<p>We are currently focusing on ICT opportunities in 3 areas:</p>
+<ol data-tight="true" class="tight">
+<li>
+<p>Application Development</p>
+</li>
+<li>
+<p>Sustainability</p>
+</li>
+<li>
+<p>Smart Cities</p>
+</li>
+</ol>
 <p>- <u>New</u> infographic showing the opportunities under each focus area
 (can take from<a href="https://docs.google.com/document/d/19WUEjzD8zqyZPCoE7zJntH0BCjdHqF5a/edit?usp=sharing&amp;ouid=103683068069231528394&amp;rtpof=true&amp;sd=true." rel="noopener noreferrer nofollow" target="_blank"> </a>
 <a href="https://docs.google.com/document/d/19WUEjzD8zqyZPCoE7zJntH0BCjdHqF5a/edit?usp=sharing&amp;amp;ouid=103683068069231528394&amp;amp;rtpof=true&amp;amp;sd=true." rel="noopener noreferrer nofollow" target="_blank"><u>https://docs.google.com/document/d/19WUEjzD8zqyZPCoE7zJntH0BCjdHqF5a/edit?usp=sharing&amp;ouid=103683068069231528394&amp;rtpof=true&amp;sd=true</u> 
