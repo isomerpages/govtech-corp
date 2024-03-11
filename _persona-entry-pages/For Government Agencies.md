@@ -56,11 +56,11 @@ API, develop a new app or come up with a crafty tech solution for a niche
 problem.</p>
 <p>Check out the articles below to learn more about these collaborations
 and their success stories!</p>
-<div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="https://www.tech.gov.sg/media/technews/behind-the-scenes-look-at-the-parents-gateway-app" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Parents using the Parents Gateway App to support their child in their educational journey" src="https://placehold.co/600x400"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Parents Gateway App</div><div class="isomer-card-description">Launched in January 2019, an app developed by GovTech and MOE helped over 300 schools and 600,000 parents by changing the way they connect online.</div><div class="isomer-card-link">Read more about Parents Gateway App</div></div></a>
+<div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="https://www.tech.gov.sg/media/technews/behind-the-scenes-look-at-the-parents-gateway-app" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Parents using the Parents Gateway App to support their child in their educational journey" src="/images/About Us/Parents_Gateway_compressed_600x400.jpg"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Parents Gateway App</div><div class="isomer-card-description">Launched in January 2019, an app developed by GovTech and MOE helped over 300 schools and 600,000 parents by changing the way they connect online.</div><div class="isomer-card-link">Read more about Parents Gateway App</div></div></a>
 <a rel="noopener noreferrer nofollow" href="https://www.tech.gov.sg/media/media-releases/spot-robot-trial-for-safe-distancing-operations" class="isomer-card">
 <div class="isomer-card-image">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Spot the robot by GovTech and NParks" src="https://placehold.co/600x400">
+<img style="width: 100%" height="auto" width="100%" alt="SPOT, the robot developed by GovTech and NParks for safe distancing operations." src="/images/About Us/SPOT_compressed_600x400.jpg">
 </div>
 </div>
 <div class="isomer-card-body">
@@ -69,7 +69,7 @@ and their success stories!</p>
 safe distancing work to curb the spread of COVID-19 during the pandemic.</div>
 <div class="isomer-card-link">Learn more about SPOT robot</div>
 </div>
-</a><a rel="noopener noreferrer nofollow" href="https://www.tech.gov.sg/media/technews/how-ai-and-a-camera-phone-help-keep-food-on-our-tables" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Rotifer-Counting AI developed by GovTech in collaboration with SFA" src="https://placehold.co/600x400"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Rotifer-Counting AI</div><div class="isomer-card-description">To boost our local food production, the Singapore Food Agency collaborated with GovTech to create more efficient fish farming processes through AI.</div><div class="isomer-card-link">Learn more about the Rotifer-Counting AI</div></div></a>
+</a><a rel="noopener noreferrer nofollow" href="https://www.tech.gov.sg/media/technews/how-ai-and-a-camera-phone-help-keep-food-on-our-tables" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Rotifer-Counting AI developed by GovTech in collaboration with SFA" src="/images/About Us/Rotifer_counting_ai_600x400.png"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Rotifer-Counting AI</div><div class="isomer-card-description">To boost our local food production, the Singapore Food Agency collaborated with GovTech to create more efficient fish farming processes through AI.</div><div class="isomer-card-link">Learn more about the Rotifer-Counting AI</div></div></a>
 </div>
 <p></p>
 <p><em>Whether you are looking to improve productivity within your team or seeking collaboration opportunities with GovTech, this page has been specially curated to provide you with all the information you need, including case studies and contact details.</em>
