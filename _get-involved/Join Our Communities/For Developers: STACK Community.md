@@ -24,9 +24,6 @@ Singapore into a Smart Nation using the SG Tech Stack.</p>
 <p>If our purpose resonates with you, read on for a glimpse of life as a
 GovTech STACK community member.</p>
 <h3>Connecting for a bigger purpose</h3>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="STACK community meetup banner" src="/images/Get Involved/STACK_meetup_banner.jpg">
-</div>
 <p>Meet like-minded experts at GovTech STACK community events. As a member,
 you’ll enjoy access to exclusive tech conferences and developer events
 in Singapore.</p>
@@ -64,6 +61,9 @@ AI, while industry folks held discussions on Large Language Models (LLMs).</p>
 and practitioners to connect and move the conversation around AI forward.</p>
 <p>Find your way to our next flagship conference by joining our STACK meet-ups
 as a community member.</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="STACK community meetup banner" src="/images/Get Involved/STACK_meetup_banner.jpg">
+</div>
 <div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="https://www.meetup.com/stack-by-govtech-singapore/" class="isomer-card"><div class="isomer-card-body"><div class="isomer-card-title">Join our community</div><div class="isomer-card-description">Be part of our growing tech community and mingle with other like-minded professionals.</div><div class="isomer-card-link">Sign up now</div></div></a>
 <a rel="noopener noreferrer nofollow" href="https://go.gov.sg/stacktelegram" class="isomer-card">
 <div class="isomer-card-body">
