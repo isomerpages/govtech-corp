@@ -32,21 +32,20 @@ such as <a href="https://www.singpass.gov.sg/main/" rel="noopener noreferrer nof
 designed to create a borderless, seamless and collaborative working environment
 for public officers.&nbsp;</p>
 <p>Below are a few examples of the tools available for you.</p>
-<p></p>
-<div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="https://www.isomer.gov.sg" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="FormSG logo" src="https://placehold.co/600x400"></div></div><div class="isomer-card-body"><div class="isomer-card-title">FormSG</div><div class="isomer-card-description">An online platform for public officers to create official digital forms for citizens to respond to.</div><div class="isomer-card-link">This is a link for your card</div></div></a>
-<a rel="noopener noreferrer nofollow" href="https://www.isomer.gov.sg" class="isomer-card">
+<div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="https://form.gov.sg/" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="FormSG logo" src="/images/About Us/FormSG_600x400.png"></div></div><div class="isomer-card-body"><div class="isomer-card-title">FormSG</div><div class="isomer-card-description">An online platform for public officers to create official digital forms for citizens to respond to.</div><div class="isomer-card-link">Learn more about FormSG</div></div></a>
+<a rel="noopener noreferrer nofollow" href="https://play.google.com/store/apps/details?id=org.govtech.CalSync&amp;hl=en_AU" class="isomer-card">
 <div class="isomer-card-image">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="CalSync logo" src="https://placehold.co/600x400">
+<img style="width: 100%" height="auto" width="100%" alt="CalSync logo" src="/images/About Us/Calsync_600x400.png">
 </div>
 </div>
 <div class="isomer-card-body">
 <div class="isomer-card-title">CalSync</div>
 <div class="isomer-card-description">An app for Outlook that allows you to sync the calendars on your personal
 devices.</div>
-<div class="isomer-card-link">This is a link for your card</div>
+<div class="isomer-card-link">Download from Google Play store</div>
 </div>
-</a><a rel="noopener noreferrer nofollow" href="https://www.isomer.gov.sg" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Workpal logo" src="https://placehold.co/600x400"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Workpal</div><div class="isomer-card-description">Access workplace services such as applying for leave and submitting claims — anytime, anywhere.</div><div class="isomer-card-link">This is a link for your card</div></div></a>
+</a><a rel="noopener noreferrer nofollow" href="https://docs.developer.tech.gov.sg/docs?product=Workpal" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Workpal logo" src="/images/About Us/Workpal_600x400.png"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Workpal</div><div class="isomer-card-description">Access workplace services such as applying for leave and submitting claims — anytime, anywhere.</div><div class="isomer-card-link">Learn more about Workpal</div></div></a>
 </div>
 <h4>FormSG</h4>
 <p></p>
