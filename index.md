@@ -4,7 +4,7 @@ title: Government Technology Agency of Singapore | GovTech
 description: Empowering our nation through digital transformation. From
   tech-enabled solutions to smart city infrastructure, we aim to improve the
   lives of all Singaporeans.
-image: /images/isomer-logo.svg
+image: /images/GovTechSg_True_Inline_Logo_3_Blue.jpg
 permalink: /
 notification: Notification banner test
 sections:
