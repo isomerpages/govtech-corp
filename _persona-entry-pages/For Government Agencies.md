@@ -6,6 +6,52 @@ description: Collaborate with us and explore ways to improve productivity for
 variant: tiptap
 image: /images/About Us/Government_Agencies_copy.jpg
 ---
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Service staff from GovTech ready to engage external public officers for collaboration with GovTech" src="/images/About Us/For_Government_Agencies_banner_image_compressed.jpg">
+</div>
+<p>Whether you are looking to collaborate or improve team productivity, this
+page has been curated to provide you with all the information you need.</p>
+<h3>Who are we and what do we do?</h3>
+<p>GovTech is the lead agency driving Singapore's Smart Nation vision and
+a key driver in the digital transformation efforts and delivery of impactful
+government digital services.&nbsp;</p>
+<p>We empower the Whole of Government (WOG) with tools and solutions to design,
+develop and deliver digital services for citizens and businesses.</p>
+<p>With capabilities in areas such as Application Design, Development and
+Deployment, Cybersecurity, Data Science and AI, ICT Infrastructure and
+Smart City Technology, GovTech has successfully developed and deployed
+a myriad of products for citizens, businesses and government agencies,
+such as <a href="https://www.singpass.gov.sg/main/" rel="noopener noreferrer nofollow" target="_blank">Singpass</a>,
+<a href="https://www.gobusiness.gov.sg/" rel="noopener noreferrer nofollow" target="_blank">GoBusiness</a>, <a href="http://data.gov.sg/" rel="noopener noreferrer nofollow" target="_blank"><u>data.gov.sg</u></a>,
+<a href="https://form.gov.sg/" rel="noopener noreferrer nofollow" target="_blank">FormSG</a>and more.</p>
+<h3>Boost work productivity with GovTech</h3>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Digital Workplace (DWP) logo" src="/images/About Us/Digital_Workplace.png">
+</div>
+<p>The Digital Workplace is a suite of productivity tools and digital enablers,
+designed to create a borderless, seamless and collaborative working environment
+for public officers.&nbsp;</p>
+<p>Below are a few examples of the tools available for you.</p>
+<p></p>
+<div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="https://www.isomer.gov.sg" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="FormSG logo" src="https://placehold.co/600x400"></div></div><div class="isomer-card-body"><div class="isomer-card-title">FormSG</div><div class="isomer-card-description">An online platform for public officers to create official digital forms for citizens to respond to.</div><div class="isomer-card-link">This is a link for your card</div></div></a>
+<a rel="noopener noreferrer nofollow" href="https://www.isomer.gov.sg" class="isomer-card">
+<div class="isomer-card-image">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="CalSync logo" src="https://placehold.co/600x400">
+</div>
+</div>
+<div class="isomer-card-body">
+<div class="isomer-card-title">CalSync</div>
+<div class="isomer-card-description">An app for Outlook that allows you to sync the calendars on your personal
+devices.</div>
+<div class="isomer-card-link">This is a link for your card</div>
+</div>
+</a><a rel="noopener noreferrer nofollow" href="https://www.isomer.gov.sg" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Workpal logo" src="https://placehold.co/600x400"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Workpal</div><div class="isomer-card-description">Access workplace services such as applying for leave and submitting claims — anytime, anywhere.</div><div class="isomer-card-link">This is a link for your card</div></div></a>
+</div>
+<h4>FormSG</h4>
+<p></p>
+<p></p>
+<p></p>
 <p><em>Whether you are looking to improve productivity within your team or seeking collaboration opportunities with GovTech, this page has been specially curated to provide you with all the information you need, including case studies and contact details.</em>
 </p>
 <h3><strong>Who are we and what do we do?</strong></h3>
