@@ -76,10 +76,12 @@ chances of winning a project.</p>
 <h4>About GovTech</h4>
 <p>(accordian)</p>
 <p>Get to know more about our organisation, starting with <u>our role in the government</u>, <u>our capabilities</u> and <u>our awards and recognition</u>.</p>
-<p>[Our Role in the Government (Link to: About Us - What We Do - Our Role)</p>
-<p>&nbsp;Our Capabilities (Link to: About Us - What We Do - Our Capabilities)</p>
-<p>Our Awards &amp; Recognition (Link to: About Us - Our Achievements - Our
-Awards and Recognition)]</p>
+<p><a href="/about-us/what-we-do/our-role/" rel="noopener noreferrer nofollow" target="_blank">Our Role in the Government</a> 
+</p>
+<p><a href="/about-us/what-we-do/our-capabilities/" rel="noopener noreferrer nofollow" target="_blank">Our Capabilities</a>
+</p>
+<p><a href="/about-us/our-achievements/our-awards-and-recognitions/" rel="noopener noreferrer nofollow" target="_blank">Our Awards &amp; Recognition</a>
+</p>
 <h4>About our products and services</h4>
 <p>Find out more about the <u>Singapore Government Tech Stack</u> and explore
 the products we have developed for <u>citizens</u>, <u>businesses</u> and <u>government agencies</u>.
