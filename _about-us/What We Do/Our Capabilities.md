@@ -34,7 +34,7 @@ and technical guidance to ensure a safer, more secure Smart Nation.</p>
 tool to monitor the web for new websites with similar domain names and
 content to those of our agencies, developing a common Government Trust-based
 architecture frameowrk and security testing for COVID-19 projects.</p>
-<h4>Learn more about <a href="/our-capabilities/cybersecurity" rel="noopener noreferrer nofollow" target="_blank">Cybersecurity</a>.</h4>
+<h4>Learn more about <a href="/our-capabilities/cybersecurity/" rel="noopener noreferrer nofollow" target="_blank">Cybersecurity</a>.</h4>
 <h3>3. Data Science and Artificial Intelligence</h3>
 <p>(image)</p>
 <p>This centre uses data science and artificial intelligence (AI) to extract
