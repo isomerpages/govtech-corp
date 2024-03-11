@@ -9,6 +9,9 @@ variant: tiptap
 image: /images/About Us/Our
   Achievements/Digital_government_ranking_meta_image_compressed.jpg
 ---
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="GovTechies paving the way to make Singapore a Smart Nation through digital innovation" src="/images/About Us/Our Achievements/Digital_Government_Rankings_banner_compressed.jpg">
+</div>
 <p>Nations all over the world look up to Singapore for its innovative digital
 government, made possible through our Smart Nation initiative.</p>
 <h3>Our ranking in the United Nations e-Government Survey</h3>
