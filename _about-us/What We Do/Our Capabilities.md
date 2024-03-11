@@ -22,7 +22,7 @@ and reusable digital services which are supported by the Singapore Government
 Technology Stack.</p>
 <p>Some examples of products and services developed by this centre include
 TraceTogether, OpenCerts, GoBusiness Portal and more.</p>
-<h4>Learn more about <a href="/our-capabilities/application-design-development-and-development/" rel="noopener noreferrer nofollow" target="_blank">Application Design, Development, and Deployment</a>.</h4>
+<h4>Learn more about <a href="/our-capabilities/application-design-development-and-deployment/" rel="noopener noreferrer nofollow" target="_blank">Application Design, Development, and Deployment</a>.</h4>
 <h3>2. Cybersecurity</h3>
 <p>(image)</p>
 <p>This capability centre develops a comprehensive suite of cybersecurity
