@@ -7,10 +7,10 @@ third_nav_title: Join Our Communities
 variant: tiptap
 image: /images/Get Involved/GovTech_Reconnect_meta_image.jpg
 ---
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="https://developers.elementor.com/docs/assets/img/elementor-placeholder-image.png">
-</div>
 <h3>A community for GovTech alumni</h3>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Community of GovTech alumni during a networking session for GovTech ReCONNECT" src="/images/Get Involved/GovTech_Reconnect_meta_image.jpg">
+</div>
 <h3>About GovTech ReCONNECT</h3>
 <p>Once a part of GovTech, always a part of GovTech. This community was set
 up in 2019 for GovTech alumni to stay abreast of tech developments in the
