@@ -24,7 +24,7 @@ sharing and referral programmes.</p>
 <div class="isomer-card">
 <div class="isomer-card-image">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Placeholder image" src="https://placehold.co/600x400">
+<img style="width: 100%" height="auto" width="100%" alt="GovTech senior leader presenting at a GovTech ReCONNECT event and networking" src="/images/Get Involved/GovTech_Reconnect__1__600x300.jpg">
 </div>
 </div>
 <div class="isomer-card-body">
@@ -36,7 +36,7 @@ former GovTechies.</div>
 <div class="isomer-card">
 <div class="isomer-card-image">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Placeholder image" src="https://placehold.co/600x400">
+<img style="width: 100%" height="auto" width="100%" alt="GovTechie giving a presentation at a GovTech ReCONNECT event and networking" src="/images/Get Involved/GovTech_Reconnect__2__600x300.jpg">
 </div>
 </div>
 <div class="isomer-card-body">
@@ -46,6 +46,6 @@ for the Smart Nation initiative, even after your time in GovTech.</div>
 </div>
 </div>
 </div>
-<div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="https://form.gov.sg/5c6ced30526d99001034c7fd" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Placeholder image" src="https://placehold.co/600x400"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Join Our Community</div><div class="isomer-card-description">Connect with GovTech members from the past and present, and receive updates on future events.</div><div class="isomer-card-link">Sign up now</div></div></a>
+<div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="https://form.gov.sg/5c6ced30526d99001034c7fd" class="isomer-card"><div class="isomer-card-body"><div class="isomer-card-title">Join Our Community</div><div class="isomer-card-description">Connect with GovTech members from the past and present, and receive updates on future events.</div><div class="isomer-card-link">Sign up now</div></div></a>
 </div>
 <p></p>
