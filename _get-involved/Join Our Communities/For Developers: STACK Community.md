@@ -7,8 +7,10 @@ third_nav_title: Join Our Communities
 variant: tiptap
 image: /images/Get Involved/stack_x_a11y_2.jpg
 ---
-<p>(image)</p>
 <h3>Experts Driving Tech for Public Good</h3>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Experts in the STACK community listening to another member present his ideas and knowledge." src="/images/Get Involved/STACK_community__1_.jpg">
+</div>
 <h3>About the GovTech STACK community</h3>
 <p>Our members share the same passion: They live to innovate for good. This
 community was created in 2019 to bring together like-minded tech experts
@@ -19,6 +21,9 @@ Singapore into a Smart Nation using the SG Tech Stack.</p>
 <p>If our purpose resonates with you, read on for a glimpse of life as a
 GovTech STACK community member.</p>
 <h3>Connecting for a bigger purpose</h3>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Like-minded tech experts sharing with each other their knowledge and expertise." src="/images/Get Involved/STACK_community__2_.jpg">
+</div>
 <p>Meet like-minded experts at GovTech STACK community events. As a member,
 you’ll enjoy access to exclusive tech conferences and developer events
 in Singapore.</p>
