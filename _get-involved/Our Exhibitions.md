@@ -57,7 +57,7 @@ with you in mind.</div>
 <p>45 Maxwell Road
 <br>The URA Centre
 <br>Singapore 069118</p>
-<p>Find tours <a href="https://www.eventbrite.com/e/guided-tour-of-smart-nation-cityscape-tickets-316263240867" rel="noopener noreferrer nofollow" target="_blank">here</a>.</p>
+<p><a href="https://www.eventbrite.com/e/guided-tour-of-smart-nation-cityscape-tickets-316263240867" rel="noopener noreferrer nofollow" target="_blank">Find tours for Smart Nation Cityscape here</a>.</p>
 <p>Smart Nation CityScape: <a href="https://www.smartnation.gov.sg/files/publications/sn_cityscape_visitor's_guide.pdf" rel="noopener noreferrer nofollow" target="_blank">Visitor Guide</a>
 </p>
 <h3>Smart Nation PlayScape</h3>
@@ -105,6 +105,7 @@ both the young and old to learn more about tech and our Smart Nation.</div>
 <br>
 <br><a href="https://www.smartnation.gov.sg/files/publications/playscape_pamphlet.pdf" rel="noopener noreferrer nofollow" target="_blank">Download</a> guide
 for Smart Nation PlayScape.</p>
-<p><a href="https://www.gevme.com/scsonlinetickets" rel="noopener noreferrer nofollow" target="_blank">Buy tickets</a>.</p>
+<p><a href="https://www.gevme.com/scsonlinetickets" rel="noopener noreferrer nofollow" target="_blank">Buy tickets</a> for
+Smart Nation PlayScape.</p>
 <p></p>
 <p></p>
