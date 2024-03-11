@@ -45,7 +45,7 @@ page for Singpass, thanks to a user research study done by Tech Kaki.</div>
 <div class="isomer-card">
 <div class="isomer-card-image">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="A smoother LifeSG inbox experience" src="/images/Get Involved/lifesg_app_reminders__1_.png">
+<img style="width: 100%" height="auto" width="100%" alt="A smoother LifeSG inbox experience" src="/images/Get Involved/LifeSG_inbox_600x400.jpg">
 </div>
 </div>
 <div class="isomer-card-body">
