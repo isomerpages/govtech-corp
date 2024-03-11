@@ -18,7 +18,7 @@ on what works, and improve on what doesn’t. Your skills and experience
 will go a long way to help us understand what citizens need and better
 their lives through technology.</p>
 <h3>Explore all communities</h3>
-<p>There’s a place for every changemaker. Whether you’re skilled in tech
+<p>There’s a place for every change maker. Whether you’re skilled in tech
 or not, learn more about our communities below as you look for the right
 fit.</p>
 <div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="/get-involved/join-our-communities/tech-kaki/" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Tech Kaki tech community Singapore logo" src="https://placehold.co/600x400"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Tech Kaki</div><div class="isomer-card-description">Co-create digital products and services for citizens' everyday use by attending user testing sessions, interviews and more.</div><div class="isomer-card-link">Learn more</div></div></a>
