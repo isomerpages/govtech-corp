@@ -117,10 +117,16 @@ how to learn, how to listen to understand, and speak to be understood.”</p>
 </tr>
 </tbody>
 </table>
-<p>Read more below:</p>
-<p><a href="https://medium.com/ytpo-govtech/empowering-govtech-interns-7af65b29fef4" rel="noopener noreferrer nofollow" target="_blank">Empowering GovTech Interns: My Experience at Collab X Ideating Innovative Solutions for the Silver Generation</a>
-</p>
-<p></p>
+<p>Check out the <a href="https://medium.com/ytpo-govtech" rel="noopener noreferrer nofollow" target="_blank">Young Talents @GovTech Medium blog</a> for
+more testimonials and sharing from past interns.</p>
+<h3>How can you apply?</h3>
+<p>We're looking for ambitious pre-tertiary, polytechnic students and university
+students who are up for a challenge and want to make a difference. If that
+sounds like you, first check out the timelines as well as guidelines for
+our internship applications.</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Application periods for GovTech's internship programmes" src="/images/careers/2024_internship_application_periods_compressed.jpg">
+</div>
 <p></p>
 <p></p>
 <p></p>
