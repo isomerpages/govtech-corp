@@ -24,7 +24,7 @@ products and services across the government.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/About Us/Our capabilities/Our_capabilities_cybersecurity_compressed.jpg">
 </div>
-<div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="/our-capabilities/cybersecurity/" class="isomer-card"><div class="isomer-card-body"><div class="isomer-card-title">Cybersecurity</div><div class="isomer-card-description">This centre has launched a comprehensive suite of cybersecurity capabilities and works with various agencies to ensure a safer Smart Nation.</div><div class="isomer-card-link">Learn more about cybersecurity</div></div></a>
+<div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="/our-capabilities/cybersecurity/" class="isomer-card"><div class="isomer-card-body"><div class="isomer-card-title">Cybersecurity</div><div class="isomer-card-description">This centre has launched a comprehensive suite of cybersecurity capabilities and works with various agencies to ensure a safer Smart Nation.</div><div class="isomer-card-link">Learn more about Cybersecurity</div></div></a>
 </div>
 <p></p>
 <div class="isomer-image-wrapper">
@@ -36,7 +36,7 @@ products and services across the government.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/About Us/Our capabilities/our_capabilities_government_ict_infrastructure_compressed.jpg">
 </div>
-<div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="/our-capabilities/government-ict-infrastructure/" class="isomer-card"><div class="isomer-card-body"><div class="isomer-card-title">Government ICT Infrastructure</div><div class="isomer-card-description">The centre specialises in creating an agile, secure, resilient and cost-effective infrastructure that is optimised for government operations.</div><div class="isomer-card-link">Learn more about ICT infrastructure</div></div></a>
+<div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="/our-capabilities/government-ict-infrastructure/" class="isomer-card"><div class="isomer-card-body"><div class="isomer-card-title">Government ICT Infrastructure</div><div class="isomer-card-description">The centre specialises in creating an agile, secure, resilient and cost-effective infrastructure that is optimised for government operations.</div><div class="isomer-card-link">Learn more about ICT Infrastructure</div></div></a>
 </div>
 <p></p>
 <div class="isomer-image-wrapper">
