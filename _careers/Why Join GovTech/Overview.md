@@ -8,8 +8,35 @@ variant: tiptap
 image: /images/careers/Careers_overview_meta_image_compressed.jpg
 ---
 <div class="isomer-image-wrapper">
-<img style="width: 70%;" height="auto" width="100%" alt="Team-bonding activities: GovTechies enjoying a game of table soccer in the pantry area" src="/images/careers/Why_join_GovTech___Overview.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="Employees working at GovTech bonding over a game of foosball" src="/images/careers/Why_join_GovTech___Overview.jpg">
 </div>
+<h3>Advance our mission. Shape your future.</h3>
+<p>A GovTech career is one that’s filled with purpose and meaning. Our digital
+transformation projects underpin Singapore’s efforts to build a Smart Nation,
+a home where possibilities are powered by infocomm technology and engineering
+solutions. The work you do here will hence better the lives of all Singaporean
+citizens and residents. As you climb the corporate ladder to join the ranks
+of Singapore’s tech leaders, you too will undergo a journey of transformation,
+both professionally and personally.</p>
+<h3>Why join GovTech?</h3>
+<p>From a rewarding career to HR policies that value your welfare, here are
+the reasons why you should consider working at GovTech.</p>
+<h3>Your life's work will benefit society</h3>
+<p>Embrace your new role as a changemaker. From digital services that bring
+convenience to the masses to critical inventions for navigating unforeseen
+crises, the multifaceted projects you undertake will serve and impact the
+public. Get to Build Tech for Public Good, and make Singapore an even better
+place to live.</p>
+<div class="iframe-wrapper">
+<iframe style="max-width: 100%;" height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/HQ7LhDdcRaQ?si=7wWin82sbgSe8s2y"></iframe>
+</div>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
 <h3>Advance our mission. Shape your future.</h3>
 <p>A GovTech career is one that’s filled with purpose and meaning. Our digital
 transformation projects underpin Singapore’s efforts to build a Smart Nation,
