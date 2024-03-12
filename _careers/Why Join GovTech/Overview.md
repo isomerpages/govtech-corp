@@ -21,7 +21,7 @@ both professionally and personally.</p>
 <h3>Why join GovTech?</h3>
 <p>From a rewarding career to HR policies that value your welfare, here are
 the reasons why you should consider working at GovTech.</p>
-<h3>Your life's work will benefit society</h3>
+<h4>Your life's work will benefit society</h4>
 <p>Embrace your new role as a changemaker. From digital services that bring
 convenience to the masses to critical inventions for navigating unforeseen
 crises, the multifaceted projects you undertake will serve and impact the
@@ -30,7 +30,7 @@ place to live.</p>
 <div class="iframe-wrapper">
 <iframe style="max-width: 100%;" height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/HQ7LhDdcRaQ?si=7wWin82sbgSe8s2y"></iframe>
 </div>
-<h3>Relish the joy of continuous learning</h3>
+<h4>Relish the joy of continuous learning</h4>
 <p>We are an agency filled with multidisciplinary teams of experts from different
 backgrounds. Every day, you’ll work with innovators and explore how new
 and emerging technologies can streamline business workflows in the public
@@ -38,13 +38,23 @@ sector as well as enhance our existing solutions.&nbsp;</p>
 <p>What’s more, you’ll gain access to intensive technical training sessions
 as well as enriching courses and workshops, so your skills and knowledge
 will always stay relevant in an ever-evolving tech landscape.</p>
-<h3>Work for a reputable employer</h3>
+<h4>Work for a reputable employer</h4>
 <p>“Is GovTech a good employer?” That’s a question on every interested jobseeker’s
 mind. As a caring employer, we put the interests of our people — whom we
 call “GovTechies” — at the heart of everything we do. We believe our awards
 speak volumes about our vibrant and employee-friendly workplace!</p>
-<p></p>
-<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="GovTech's HR and workplace-related awards" src="/images/careers/Awards_CRMS_compressed.jpg">
+</div>
+<h4>Get on the leadership track</h4>
+<p>We see all incoming GovTechies as future leaders. Guided by the three
+key principles under our Leadership Competency Framework — Act with Purpose,
+Model Empathy, and Develop People — you will take on numerous opportunities
+and be moulded into a confident leader.</p>
+<h4>Become a well-rounded individual</h4>
+<p>Ensuring our employees are able to maintain a healthy work-life balance
+is a priority for us. We have numerous policies in place that help create
+and sustain our signature employee-centric culture.</p>
 <p></p>
 <p></p>
 <p></p>
