@@ -101,6 +101,28 @@ to festive celebrations.</div>
 </div>
 </div>
 </div>
+<h3>A peek into our work culture</h3>
+<div class="iframe-wrapper">
+<iframe style="max-width: 100%;" height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/WVLjmSgigbs?si=QuV5SiSpDxAxavoI"></iframe>
+</div>
+<h4>Want to learn more about life at GovTech? </h4>
+<p>Check out our <a href="https://linktr.ee/connectwithgovtech" rel="noopener noreferrer nofollow" target="_blank"><u>social media channels</u></a> to
+explore #InsideGovTech!</p>
+<h4>Start your GovTech journey today</h4>
+<p>Whether you're a student, graduate or working professional, many opportunities
+await you at GovTech. Find out more about joining GovTech by clicking below.</p>
+<div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="/careers/students-and-graduates/overview/" class="isomer-card"><div class="isomer-card-body"><div class="isomer-card-title">I am a student or graduate</div><div class="isomer-card-link">Explore internship/career opportunities </div></div></a>
+<a rel="noopener noreferrer nofollow" href="/careers/opportunities-for-professionals/overview/" class="isomer-card">
+<div class="isomer-card-body">
+<div class="isomer-card-title">I am a professional</div>
+<div class="isomer-card-link">See our job openings</div>
+</div>
+</a>
+</div>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
 <p></p>
 <p></p>
 <h3>Advance our mission. Shape your future.</h3>
