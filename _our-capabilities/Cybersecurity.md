@@ -23,37 +23,80 @@ approach that delivers innovative and forward-thinking cybersecurity capabilitie
 secure architectures, and the Chief Information Security Officers (CISOs)
 in agencies to provide cybersecurity governance and technical guidance.</p>
 <p>Our responsibilities/practices include:&nbsp;</p>
-<p>1. Government cybersecurity strategy and policy: Developing strategies
-and establishing cybersecurity governance policies, standards and guidelines
-for WOG.</p>
-<p>2. Government cybersecurity consulting: Providing cybersecurity advisories
-like risk assessments and ensuring policy implementation for government
-projects.</p>
-<p>3. Government cybersecurity defence: Strengthening blue-teaming capabilities
-through threat detection and incident response to protect government digital
-systems.</p>
-<p>4. Advanced cybersecurity capabilities: Strengthening the government's
-cybersecurity capabilities through red-teaming, product development and
-cybersecurity competency training.</p>
+<ol data-tight="true" class="tight">
+<li>
+<p><strong>Government cybersecurity strategy and policy: </strong>Developing
+strategies and establishing cybersecurity governance policies, standards
+and guidelines for WOG.</p>
+</li>
+<li>
+<p><strong>Government cybersecurity consulting: </strong>Providing cybersecurity
+advisories like risk assessments and ensuring policy implementation for
+government projects.</p>
+</li>
+<li>
+<p><strong>Government cybersecurity defence: </strong>Strengthening blue-teaming
+capabilities through threat detection and incident response to protect
+government digital systems.</p>
+</li>
+<li>
+<p><strong>Advanced cybersecurity capabilities:</strong> Strengthening the
+government's cybersecurity capabilities through red-teaming, product development
+and cybersecurity competency training.</p>
+</li>
+</ol>
 <h3>Our work and initiatives</h3>
 <p>We safeguard our country from heightened cyber threats made against government
 agencies.</p>
-<h4>Enhancing the government’s defences</h4>
-<div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="https://www.isomer.gov.sg" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Placeholder image" src="https://placehold.co/600x400"></div></div><div class="isomer-card-body"><div class="isomer-card-title">This is a title for your card</div><div class="isomer-card-description">This is body text for your card. Describe your card.</div><div class="isomer-card-link">This is a link for your card</div></div></a>
-<a rel="noopener noreferrer nofollow" href="https://www.isomer.gov.sg" class="isomer-card">
-<div class="isomer-card-image">
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Placeholder image" src="https://placehold.co/600x400">
-</div>
-</div>
+<div class="isomer-card-grid">
+<div class="isomer-card">
 <div class="isomer-card-body">
-<div class="isomer-card-title">This is a title for your card</div>
-<div class="isomer-card-description">This is body text for your card. Describe your card.</div>
-<div class="isomer-card-link">This is a link for your card</div>
+<div class="isomer-card-title">Enhancing the government’s defences</div>
+<div class="isomer-card-description">This includes managing security incidents and developing a tool to identify
+fake government sites.</div>
 </div>
-</a><a rel="noopener noreferrer nofollow" href="https://www.isomer.gov.sg" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Placeholder image" src="https://placehold.co/600x400"></div></div><div class="isomer-card-body"><div class="isomer-card-title">This is a title for your card</div><div class="isomer-card-description">This is body text for your card. Describe your card.</div><div class="isomer-card-link">This is a link for your card</div></div></a>
 </div>
-<p></p>
+<div class="isomer-card">
+<div class="isomer-card-body">
+<div class="isomer-card-title">Building cybersecurity capacity</div>
+<div class="isomer-card-description">We built a government trust-based architecture framework and security
+testing for COVID-19 projects.</div>
+</div>
+</div>
+<div class="isomer-card">
+<div class="isomer-card-body">
+<div class="isomer-card-title">Developing and engaging talent</div>
+<div class="isomer-card-description">We take part in international competitions, conduct exchange programmes
+and organise hackathons.</div>
+</div>
+</div>
+</div>
+<p>We also augment government capabilities by engaging the larger cybersecurity
+ecosystem and forging industry partnerships. Some of these initiatives
+include:</p>
+<div class="isomer-card-grid">
+<div class="isomer-card">
+<div class="isomer-card-body">
+<div class="isomer-card-title">Collaborations with partners</div>
+<div class="isomer-card-description">An engaging way for us to train our cybersecurity specialists, and conduct
+research and development.</div>
+</div>
+</div>
+<div class="isomer-card">
+<div class="isomer-card-body">
+<div class="isomer-card-title">Engaging the white hat community</div>
+<div class="isomer-card-description">To encourage responsible reporting of suspected vulnerabilities and weaknesses
+in our systems.</div>
+</div>
+</div>
+<div class="isomer-card">
+<div class="isomer-card-body">
+<div class="isomer-card-title">Efficient vulnerability disclosure</div>
+<div class="isomer-card-description">Prompt assignment of Common Vulnerabilities and Exposures (CVE) number
+so fixes can be made quickly.</div>
+</div>
+</div>
+</div>
 <p></p>
 <p></p>
 <h3>What does Cybersecurity do?</h3>
