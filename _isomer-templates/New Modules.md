@@ -4,7 +4,168 @@ permalink: /test-folder/permalink/
 variant: tiptap
 description: ""
 ---
-<h2>1. Headshot Module</h2>
+<p>Here are the approved modules for use on GovTech's website. For more information
+on what templates to follow, please refer to the website guide or templates
+in this folder for guidance.</p>
+<p></p>
+<h4><strong>1. Intro Module</strong></h4>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/technews/Five_ways_you_might_be_sabotaging_your_data_privacy_.jpg">
+</div>
+<h2>[150] Lorem ipsum dolor sit amet, consectetur adipiscing elit. Etiam quis elementum ex. Nunc a massa feugiat, feugiat orci at, eleifend quam. Donec sceleris</h2>
+<p></p>
+<h4><strong>2. RTE Module</strong></h4>
+<h2>[H1] Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam vestibulum lectus risus, id maximus nibh consectetur aliquam. In sit amet efficitur nisl.</h2>
+<h3>[H2] <strong>Lorem ipsum</strong> dolor sit amet, consectetur adipiscing elit. Aliquam vestibulum lectus risus, id maximus nibh consectetur aliquam. In sit amet efficitur nisl.</h3>
+<h4>[H3]<strong> Lorem ipsum</strong> dolor sit amet, consectetur adipiscing elit. Aliquam vestibulum lectus risus, id maximus nibh consectetur aliquam. In sit amet efficitur nisl.</h4>
+<p>[Paragraph] <strong>Lorem ipsum</strong> dolor sit amet, consectetur adipiscing
+elit. Aliquam vestibulum lectus risus, id maximus nibh consectetur aliquam.
+In sit amet efficitur nisl.</p>
+<h4><strong>3. RTE Table Module</strong></h4>
+<table>
+<tbody>
+<tr>
+<td rowspan="1" colspan="1">
+<h4>[50] Nunc a massa feugiat, feugiat orci at, eleifend qu</h4>
+</td>
+<td rowspan="1" colspan="1">
+<h4>[50] Nunc a massa feugiat, feugiat orci at, eleifend qu</h4>
+</td>
+<td rowspan="1" colspan="1">
+<h4>[50] Nunc a massa feugiat, feugiat orci at, eleifend qu</h4>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>[200] Lorem ipsum dolor sit amet, consectetur adipiscing elit. Etiam quis
+elementum ex. Nunc a massa feugiat, feugiat orci at, eleifend quam. Donec
+scelerisque semper nisl et sodales. Suspendisse euismod or</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>[200] Lorem ipsum dolor sit amet, consectetur adipiscing elit. Etiam quis
+elementum ex. Nunc a massa feugiat, feugiat orci at, eleifend quam. Donec
+scelerisque semper nisl et sodales. Suspendisse euismod or</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>[200] Lorem ipsum dolor sit amet, consectetur adipiscing elit. Etiam quis
+elementum ex. Nunc a massa feugiat, feugiat orci at, eleifend quam. Donec
+scelerisque semper nisl et sodales. Suspendisse euismod or</p>
+</td>
+</tr>
+</tbody>
+</table>
+<p></p>
+<h4><strong>4. Related Content Module</strong></h4>
+<div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="https://www.isomer.gov.sg" class="isomer-card"><div class="isomer-card-body"><div class="isomer-card-title">[40] Nunc a massa feugiat, feugiat orceleifen</div><div class="isomer-card-description">[120] Sitmet consectetur. Amet venenatis mattis aliquam pharetra aenean turpis nisl aliquam nisl. Eget maecenas pulvinar venen</div><div class="isomer-card-link">[20] Etiam quis elementum</div></div></a>
+<a rel="noopener noreferrer nofollow" href="https://www.isomer.gov.sg" class="isomer-card">
+<div class="isomer-card-body">
+<div class="isomer-card-title">[40] Nunc a massa feugiat, feugiat orceleifen</div>
+<div class="isomer-card-description">[120] Sitmet consectetur. Amet venenatis mattis aliquam pharetra aenean
+turpis nisl aliquam nisl. Eget maecenas pulvinar venen</div>
+<div class="isomer-card-link">[20] Etiam quis elementum</div>
+</div>
+</a><a rel="noopener noreferrer nofollow" href="https://www.isomer.gov.sg" class="isomer-card"><div class="isomer-card-body"><div class="isomer-card-title">[40] Nunc a massa feugiat, feugiat orceleifen</div><div class="isomer-card-description">[120] Sitmet consectetur. Amet venenatis mattis aliquam pharetra aenean turpis nisl aliquam nisl. Eget maecenas pulvinar venen</div><div class="isomer-card-link">[20] Etiam quis elementum</div></div></a>
+</div>
+<p></p>
+<h4><strong>5. Social Media Module</strong></h4>
+<div class="instagram-wrapper">
+<blockquote style="background:#FFF; border:0; border-radius:3px; box-shadow:0 0 1px 0 rgba(0,0,0,0.5),0 1px 10px 0 rgba(0,0,0,0.15); margin: 1px; max-width:540px; min-width:326px; padding:0; width:99.375%; width:-webkit-calc(100% - 2px); width:calc(100% - 2px);" data-instgrm-version="14" data-instgrm-permalink="https://www.instagram.com/p/COaFnw0HOeh/?utm_source=ig_embed&amp;utm_campaign=loading" class="instagram-media">
+<div style="padding: 16px;"><a style="background:#FFFFFF; line-height:0; padding:0 0; text-align:center; text-decoration:none; width:100%;" href="https://www.instagram.com/p/COaFnw0HOeh/?utm_source=ig_embed&amp;utm_campaign=loading"><div style="display: flex; flex-direction: row; align-items: center;"><div style="background-color: #F4F4F4; border-radius: 50%; flex-grow: 0; height: 40px; margin-right: 14px; width: 40px;"></div><div style="display: flex; flex-direction: column; flex-grow: 1; justify-content: center;"><div style="background-color: #F4F4F4; border-radius: 4px; flex-grow: 0; height: 14px; margin-bottom: 6px; width: 100px;"></div><div style="background-color: #F4F4F4; border-radius: 4px; flex-grow: 0; height: 14px; width: 60px;"></div></div></div><div style="padding: 19% 0;"></div><div style="display:block; height:50px; margin:0 auto 12px; width:50px;"><svg xmlns:xlink="https://www.w3.org/1999/xlink" xmlns="https://www.w3.org/2000/svg" version="1.1" viewBox="0 0 60 60" height="50px" width="50px"><g fill-rule="evenodd" fill="none" stroke-width="1" stroke="none"><g fill="#000000" transform="translate(-511.000000, -20.000000)"><g><path d="M556.869,30.41 C554.814,30.41 553.148,32.076 553.148,34.131 C553.148,36.186 554.814,37.852 556.869,37.852 C558.924,37.852 560.59,36.186 560.59,34.131 C560.59,32.076 558.924,30.41 556.869,30.41 M541,60.657 C535.114,60.657 530.342,55.887 530.342,50 C530.342,44.114 535.114,39.342 541,39.342 C546.887,39.342 551.658,44.114 551.658,50 C551.658,55.887 546.887,60.657 541,60.657 M541,33.886 C532.1,33.886 524.886,41.1 524.886,50 C524.886,58.899 532.1,66.113 541,66.113 C549.9,66.113 557.115,58.899 557.115,50 C557.115,41.1 549.9,33.886 541,33.886 M565.378,62.101 C565.244,65.022 564.756,66.606 564.346,67.663 C563.803,69.06 563.154,70.057 562.106,71.106 C561.058,72.155 560.06,72.803 558.662,73.347 C557.607,73.757 556.021,74.244 553.102,74.378 C549.944,74.521 548.997,74.552 541,74.552 C533.003,74.552 532.056,74.521 528.898,74.378 C525.979,74.244 524.393,73.757 523.338,73.347 C521.94,72.803 520.942,72.155 519.894,71.106 C518.846,70.057 518.197,69.06 517.654,67.663 C517.244,66.606 516.755,65.022 516.623,62.101 C516.479,58.943 516.448,57.996 516.448,50 C516.448,42.003 516.479,41.056 516.623,37.899 C516.755,34.978 517.244,33.391 517.654,32.338 C518.197,30.938 518.846,29.942 519.894,28.894 C520.942,27.846 521.94,27.196 523.338,26.654 C524.393,26.244 525.979,25.756 528.898,25.623 C532.057,25.479 533.004,25.448 541,25.448 C548.997,25.448 549.943,25.479 553.102,25.623 C556.021,25.756 557.607,26.244 558.662,26.654 C560.06,27.196 561.058,27.846 562.106,28.894 C563.154,29.942 563.803,30.938 564.346,32.338 C564.756,33.391 565.244,34.978 565.378,37.899 C565.522,41.056 565.552,42.003 565.552,50 C565.552,57.996 565.522,58.943 565.378,62.101 M570.82,37.631 C570.674,34.438 570.167,32.258 569.425,30.349 C568.659,28.377 567.633,26.702 565.965,25.035 C564.297,23.368 562.623,22.342 560.652,21.575 C558.743,20.834 556.562,20.326 553.369,20.18 C550.169,20.033 549.148,20 541,20 C532.853,20 531.831,20.033 528.631,20.18 C525.438,20.326 523.257,20.834 521.349,21.575 C519.376,22.342 517.703,23.368 516.035,25.035 C514.368,26.702 513.342,28.377 512.574,30.349 C511.834,32.258 511.326,34.438 511.181,37.631 C511.035,40.831 511,41.851 511,50 C511,58.147 511.035,59.17 511.181,62.369 C511.326,65.562 511.834,67.743 512.574,69.651 C513.342,71.625 514.368,73.296 516.035,74.965 C517.703,76.634 519.376,77.658 521.349,78.425 C523.257,79.167 525.438,79.673 528.631,79.82 C531.831,79.965 532.853,80.001 541,80.001 C549.148,80.001 550.169,79.965 553.369,79.82 C556.562,79.673 558.743,79.167 560.652,78.425 C562.623,77.658 564.297,76.634 565.965,74.965 C567.633,73.296 568.659,71.625 569.425,69.651 C570.167,67.743 570.674,65.562 570.82,62.369 C570.966,59.17 571,58.147 571,50 C571,41.851 570.966,40.831 570.82,37.631"></path></g></g></g></svg></div><div style="padding-top: 8px;"><div style="color:#3897f0; font-family:Arial,sans-serif; font-size:14px; font-style:normal; font-weight:550; line-height:18px;">View this post on Instagram</div></div><div style="padding: 12.5% 0;"></div><div style="display: flex; flex-direction: row; margin-bottom: 14px; align-items: center;"><div><div style="background-color: #F4F4F4; border-radius: 50%; height: 12.5px; width: 12.5px; transform: translateX(0px) translateY(7px);"></div><div style="background-color: #F4F4F4; height: 12.5px; transform: rotate(-45deg) translateX(3px) translateY(1px); width: 12.5px; flex-grow: 0; margin-right: 14px; margin-left: 2px;"></div><div style="background-color: #F4F4F4; border-radius: 50%; height: 12.5px; width: 12.5px; transform: translateX(9px) translateY(-18px);"></div></div><div style="margin-left: 8px;"><div style="background-color: #F4F4F4; border-radius: 50%; flex-grow: 0; height: 20px; width: 20px;"></div><div style="width: 0; height: 0; border-top: 2px solid transparent; border-left: 6px solid #f4f4f4; border-bottom: 2px solid transparent; transform: translateX(16px) translateY(-4px) rotate(30deg)"></div></div><div style="margin-left: auto;"><div style="width: 0px; border-top: 8px solid #F4F4F4; border-right: 8px solid transparent; transform: translateY(16px);"></div><div style="background-color: #F4F4F4; flex-grow: 0; height: 12px; width: 16px; transform: translateY(-4px);"></div><div style="width: 0; height: 0; border-top: 8px solid #F4F4F4; border-left: 8px solid transparent; transform: translateY(-4px) translateX(8px);"></div></div></div><div style="display: flex; flex-direction: column; flex-grow: 1; justify-content: center; margin-bottom: 24px;"><div style="background-color: #F4F4F4; border-radius: 4px; flex-grow: 0; height: 14px; margin-bottom: 6px; width: 224px;"></div><div style="background-color: #F4F4F4; border-radius: 4px; flex-grow: 0; height: 14px; width: 144px;"></div></div></a>
+<p style="color:#c9c8cd; font-family:Arial,sans-serif; font-size:14px; line-height:17px; margin-bottom:0; margin-top:8px; overflow:hidden; padding:8px 0 7px; text-align:center; text-overflow:ellipsis; white-space:nowrap;"><a target="_blank" style="color:#c9c8cd; font-family:Arial,sans-serif; font-size:14px; font-style:normal; font-weight:normal; line-height:17px; text-decoration:none;" href="https://www.instagram.com/p/COaFnw0HOeh/?utm_source=ig_embed&amp;utm_campaign=loading">A post shared by GovTech (Singapore) (@govtechsg)</a>
+</p>
+</div>
+</blockquote>
+<script src="//www.instagram.com/embed.js" async="true"></script>
+</div>
+<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Praesent sit
+amet quam lacus. Ut feugiat, tortor et porttitor scelerisque, sapien sem
+semper lorem, eu tincidunt felis ligula quis nibh. Integer id imperdiet
+sapien. Ut a accumsan dolor. Donec convallis neque ipsum, sit amet volutpat
+metus pellentesque quis. Praesent feugiat sapien ut volutpat blandit. Integer
+vel venenatis lorem, sit amet accumsan ligula. Donec finibus posuere sodales.
+Ut vitae justo eget neque placerat molestie.</p>
+<p></p>
+<h4><strong>6. 3 Col Accent Card Module</strong></h4>
+<div class="isomer-card-grid">
+<div class="isomer-card">
+<div class="isomer-card-body">
+<div class="isomer-card-title">[35] Nunc a massa feugiat, feugiat orcel</div>
+<div class="isomer-card-description">[100] Sitmet consectetur. Amet venenatis mattis aliquam pharetra aenean
+turpis nisl aliquam nisl. Eget mae</div>
+</div>
+</div>
+<div class="isomer-card">
+<div class="isomer-card-body">
+<div class="isomer-card-title">[35] Nunc a massa feugiat, feugiat orcel</div>
+<div class="isomer-card-description">[100] Sitmet consectetur. Amet venenatis mattis aliquam pharetra aenean
+turpis nisl aliquam nisl. Eget mae</div>
+</div>
+</div>
+<div class="isomer-card">
+<div class="isomer-card-body">
+<div class="isomer-card-title">[35] Nunc a massa feugiat, feugiat orcel</div>
+<div class="isomer-card-description">[100] Sitmet consectetur. Amet venenatis mattis aliquam pharetra aenean
+turpis nisl aliquam nisl. Eget mae</div>
+</div>
+</div>
+</div>
+<div class="isomer-card-grid">
+<div class="isomer-card">
+<div class="isomer-card-image">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="zz" src="/images/Screenshot_2023_11_10_at_9_56_05_AM.png">
+</div>
+</div>
+<div class="isomer-card-body">
+<div class="isomer-card-title">[35] Nunc a massa feugiat, feugiat orcel</div>
+<div class="isomer-card-description">[100] Sitmet consectetur. Amet venenatis mattis aliquam pharetra aenean
+turpis nisl aliquam nisl. Eget mae</div>
+</div>
+</div>
+<div class="isomer-card">
+<div class="isomer-card-image">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="zz" src="/images/Screenshot_2023_11_10_at_9_56_05_AM.png">
+</div>
+</div>
+<div class="isomer-card-body">
+<div class="isomer-card-title">[35] Nunc a massa feugiat, feugiat orcel</div>
+<div class="isomer-card-description">[100] Sitmet consectetur. Amet venenatis mattis aliquam pharetra aenean
+turpis nisl aliquam nisl. Eget mae</div>
+</div>
+</div>
+<div class="isomer-card">
+<div class="isomer-card-image">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="zz" src="/images/Screenshot_2023_11_10_at_9_56_05_AM.png">
+</div>
+</div>
+<div class="isomer-card-body">
+<div class="isomer-card-title">[35] Nunc a massa feugiat, feugiat orcel</div>
+<div class="isomer-card-description">[100] Sitmet consectetur. Amet venenatis mattis aliquam pharetra aenean
+turpis nisl aliquam nisl. Eget mae</div>
+</div>
+</div>
+</div>
+<h4><strong>7. Info Module</strong></h4>
+<div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="https://www.isomer.gov.sg" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Placeholder image" src="/images/Products and Services/singpass-security-measures.jpg"></div></div><div class="isomer-card-body"><div class="isomer-card-title">[40] Nunc a massa feugiat, feugiat orceleifen</div><div class="isomer-card-description">[150] Lorem ipsum dolor sit amet, consectetur adipiscing elit. Etiam quis elementum ex. Nunc a massa feugiat, feugiat orci at, eleifend quam. Donec sceleris</div><div class="isomer-card-link">[20] Etiam quis elementum</div></div></a>
+<a rel="noopener noreferrer nofollow" href="https://www.isomer.gov.sg" class="isomer-card">
+<div class="isomer-card-image">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Placeholder image" src="/images/Products and Services/lifesg-header.jpg">
+</div>
+</div>
+<div class="isomer-card-body">
+<div class="isomer-card-title">[40] Nunc a massa feugiat, feugiat orceleifen</div>
+<div class="isomer-card-description">[150] Lorem ipsum dolor sit amet, consectetur adipiscing elit. Etiam quis
+elementum ex. Nunc a massa feugiat, feugiat orci at, eleifend quam. Donec
+sceleris</div>
+<div class="isomer-card-link">[20] Etiam quis elementum</div>
+</div>
+</a><a rel="noopener noreferrer nofollow" href="https://www.isomer.gov.sg" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Placeholder image" src="/images/Products and Services/gobusiness-header.png"></div></div><div class="isomer-card-body"><div class="isomer-card-title">[40] Nunc a massa feugiat, feugiat orceleifen</div><div class="isomer-card-description">[150] Lorem ipsum dolor sit amet, consectetur adipiscing elit. Etiam quis elementum ex. Nunc a massa feugiat, feugiat orci at, eleifend quam. Donec sceleris</div><div class="isomer-card-link">[20] Etiam quis elementum</div></div></a>
+</div>
+<h4><strong>8. Headshot Module</strong></h4>
+<h4>Board of Directors</h4>
 <div class="isomer-card-grid">
 <div class="isomer-card">
 <div class="isomer-card-image">
@@ -43,213 +204,77 @@ elementum ex</div>
 </div>
 </div>
 </div>
-<h2>2. Product Card Module</h2>
-<h4>3 col</h4>
-<div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="https://www.isomer.gov.sg" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Placeholder image" src="/images/Products and Services/singpass-security-measures.jpg"></div></div><div class="isomer-card-body"><div class="isomer-card-title">[40] Nunc a massa feugiat, feugiat orceleifen</div><div class="isomer-card-description">[150] Lorem ipsum dolor sit amet, consectetur adipiscing elit. Etiam quis elementum ex. Nunc a massa feugiat, feugiat orci at, eleifend quam. Donec sceleris</div><div class="isomer-card-link">[20] Etiam quis elementum</div></div></a>
-<a rel="noopener noreferrer nofollow" href="https://www.isomer.gov.sg" class="isomer-card">
+<div class="isomer-card-grid">
+<div class="isomer-card">
 <div class="isomer-card-image">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Placeholder image" src="/images/Products and Services/lifesg-header.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="placeholder" src="/images/About Us/Jordan_Tan__2_.jpg">
 </div>
 </div>
 <div class="isomer-card-body">
 <div class="isomer-card-title">[40] Nunc a massa feugiat, feugiat orceleifen</div>
-<div class="isomer-card-description">[150] Lorem ipsum dolor sit amet, consectetur adipiscing elit. Etiam quis
-elementum ex. Nunc a massa feugiat, feugiat orci at, eleifend quam. Donec
-sceleris</div>
-<div class="isomer-card-link">[20] Etiam quis elementum</div>
+<div class="isomer-card-description">[80] Lorem ipsum dolor sit amet, consectetur adipiscing elit. Etiam quis
+elementum ex</div>
 </div>
-</a><a rel="noopener noreferrer nofollow" href="https://www.isomer.gov.sg" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Placeholder image" src="/images/Products and Services/gobusiness-header.png"></div></div><div class="isomer-card-body"><div class="isomer-card-title">[40] Nunc a massa feugiat, feugiat orceleifen</div><div class="isomer-card-description">[150] Lorem ipsum dolor sit amet, consectetur adipiscing elit. Etiam quis elementum ex. Nunc a massa feugiat, feugiat orci at, eleifend quam. Donec sceleris</div><div class="isomer-card-link">[20] Etiam quis elementum</div></div></a>
 </div>
-<h4>2 col</h4>
-<div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="https://www.isomer.gov.sg" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Placeholder image" src="/images/Products and Services/singpass-security-measures.jpg"></div></div><div class="isomer-card-body"><div class="isomer-card-title">[40] Nunc a massa feugiat, feugiat orceleifen</div><div class="isomer-card-description">[150] Lorem ipsum dolor sit amet, consectetur adipiscing elit. Etiam quis elementum ex. Nunc a massa feugiat, feugiat orci at, eleifend quam. Donec sceleris</div><div class="isomer-card-link">[20] Etiam quis elementum</div></div></a>
-<a rel="noopener noreferrer nofollow" href="https://www.isomer.gov.sg" class="isomer-card">
+<div class="isomer-card">
 <div class="isomer-card-image">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Placeholder image" src="/images/Products and Services/lifesg-header.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="Placeholder image" src="/images/About Us/Tan_Bee_Teck__2_.jpg">
 </div>
 </div>
 <div class="isomer-card-body">
 <div class="isomer-card-title">[40] Nunc a massa feugiat, feugiat orceleifen</div>
-<div class="isomer-card-description">[150] Lorem ipsum dolor sit amet, consectetur adipiscing elit. Etiam quis
-elementum ex. Nunc a massa feugiat, feugiat orci at, eleifend quam. Donec
-sceleris</div>
-<div class="isomer-card-link">[20] Etiam quis elementum</div>
+<div class="isomer-card-description">[80] Lorem ipsum dolor sit amet, consectetur adipiscing elit. Etiam quis
+elementum ex</div>
 </div>
-</a>
 </div>
-<h4>1 col</h4>
-<div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="https://www.isomer.gov.sg" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="placeholder" src="/images/Products and Services/singpass-security-measures.jpg"></div></div><div class="isomer-card-body"><div class="isomer-card-title">[40] Nunc a massa feugiat, feugiat orceleifen</div><div class="isomer-card-description">[150] Lorem ipsum dolor sit amet, consectetur adipiscing elit. Etiam quis elementum ex. Nunc a massa feugiat, feugiat orci at, eleifend quam. Donec sceleris</div><div class="isomer-card-link">[20] Etiam quis elementum</div></div></a>
-</div>
-<h4></h4>
-<h2>3. Info Module</h2>
-<div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="https://www.isomer.gov.sg" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Placeholder image" src="/images/Products and Services/singpass-security-measures.jpg"></div></div><div class="isomer-card-body"><div class="isomer-card-title">[40] Nunc a massa feugiat, feugiat orceleifen</div><div class="isomer-card-description">[150] Lorem ipsum dolor sit amet, consectetur adipiscing elit. Etiam quis elementum ex. Nunc a massa feugiat, feugiat orci at, eleifend quam. Donec sceleris</div><div class="isomer-card-link">[20] Etiam quis elementum</div></div></a>
-<a rel="noopener noreferrer nofollow" href="https://www.isomer.gov.sg" class="isomer-card">
+<div class="isomer-card">
 <div class="isomer-card-image">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Placeholder image" src="/images/Products and Services/lifesg-header.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="Placeholder image" src="/images/About Us/Lew_Chuen_Hong__1_.jpg">
 </div>
 </div>
 <div class="isomer-card-body">
 <div class="isomer-card-title">[40] Nunc a massa feugiat, feugiat orceleifen</div>
-<div class="isomer-card-description">[150] Lorem ipsum dolor sit amet, consectetur adipiscing elit. Etiam quis
-elementum ex. Nunc a massa feugiat, feugiat orci at, eleifend quam. Donec
-sceleris</div>
-<div class="isomer-card-link">[20] Etiam quis elementum</div>
+<div class="isomer-card-description">[80] Lorem ipsum dolor sit amet, consectetur adipiscing elit. Etiam quis
+elementum ex</div>
 </div>
-</a><a rel="noopener noreferrer nofollow" href="https://www.isomer.gov.sg" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Placeholder image" src="/images/Products and Services/gobusiness-header.png"></div></div><div class="isomer-card-body"><div class="isomer-card-title">[40] Nunc a massa feugiat, feugiat orceleifen</div><div class="isomer-card-description">[150] Lorem ipsum dolor sit amet, consectetur adipiscing elit. Etiam quis elementum ex. Nunc a massa feugiat, feugiat orci at, eleifend quam. Donec sceleris</div><div class="isomer-card-link">[20] Etiam quis elementum</div></div></a>
 </div>
-<h2>4. Quote Module</h2>
-<p>Quote using "quote block" text, this has bigger spacing between lines</p>
+</div>
+<h4><strong>9. Quote Block Module</strong></h4>
 <blockquote>
 <p><em>[150] Lorem ipsum dolor sit amet, consectetur adipiscing elit. Etiam quis elementum ex. Nunc a massa feugiat, feugiat orci at, eleifend quam. Donec sceleris</em>
 </p>
 </blockquote>
 <p>– [40] Nunc a massa feugiat, feugiat orceleifen</p>
-<p></p>
-<h2>5. Related Content Module</h2>
-<h4>using cards without image preferred</h4>
-<div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="https://www.isomer.gov.sg" class="isomer-card"><div class="isomer-card-body"><div class="isomer-card-title">[40] Nunc a massa feugiat, feugiat orceleifen</div><div class="isomer-card-description">[120] Sitmet consectetur. Amet venenatis mattis aliquam pharetra aenean turpis nisl aliquam nisl. Eget maecenas pulvinar venen</div><div class="isomer-card-link">[20] Etiam quis elementum</div></div></a>
-<a rel="noopener noreferrer nofollow" href="https://www.isomer.gov.sg" class="isomer-card">
-<div class="isomer-card-body">
-<div class="isomer-card-title">[40] Nunc a massa feugiat, feugiat orceleifen</div>
-<div class="isomer-card-description">[120] Sitmet consectetur. Amet venenatis mattis aliquam pharetra aenean
-turpis nisl aliquam nisl. Eget maecenas pulvinar venen</div>
-<div class="isomer-card-link">[20] Etiam quis elementum</div>
-</div>
-</a><a rel="noopener noreferrer nofollow" href="https://www.isomer.gov.sg" class="isomer-card"><div class="isomer-card-body"><div class="isomer-card-title">[40] Nunc a massa feugiat, feugiat orceleifen</div><div class="isomer-card-description">[120] Sitmet consectetur. Amet venenatis mattis aliquam pharetra aenean turpis nisl aliquam nisl. Eget maecenas pulvinar venen</div><div class="isomer-card-link">[20] Etiam quis elementum</div></div></a>
-</div>
-<p>example of bad cropping:</p>
-<h4>[do not recommend] cards with images</h4>
-<p>using table with image links – 2 col might be small in mobile and do not
-recommend</p>
-<div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="https://www.isomer.gov.sg" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="placeholder" src="/images/technews/Five_ways_you_might_be_sabotaging_your_data_privacy_.jpg"></div></div><div class="isomer-card-body"><div class="isomer-card-title">[40] Nunc a massa feugiat, feugiat orceleifen</div><div class="isomer-card-description">[120] Sitmet consectetur. Amet venenatis mattis aliquam pharetra aenean turpis nisl aliquam nisl. Eget maecenas pulvinar venen</div><div class="isomer-card-link">[20] Etiam quis elementum</div></div></a>
-<a rel="noopener noreferrer nofollow" href="https://www.isomer.gov.sg" class="isomer-card">
-<div class="isomer-card-image">
+<h4><strong>10. Get In Touch Module</strong></h4>
+<h4>[50] Nunc a massa feugiat, feugiat orci at, eleifend qu</h4>
+<p>[200] Lorem ipsum dolor sit amet, consectetur adipiscing elit. Etiam quis
+elementum ex. Nunc a massa feugiat, feugiat orci at, eleifend quam. Donec
+scelerisque semper nisl et sodales. Suspendisse euismod or</p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="placeholder" src="/images/technews/CDC_SMS_links__scam_or_not_.jpg">
+<img style="width: 100%;" height="auto" width="100%" alt="" src="/images/tracetogethertest1.jpg">
 </div>
-</div>
-<div class="isomer-card-body">
-<div class="isomer-card-title">[40] Nunc a massa feugiat, feugiat orceleifen</div>
-<div class="isomer-card-description">[120] Sitmet consectetur. Amet venenatis mattis aliquam pharetra aenean
-turpis nisl aliquam nisl. Eget maecenas pulvinar venen</div>
-<div class="isomer-card-link">[20] Etiam quis elementum</div>
-</div>
-</a><a rel="noopener noreferrer nofollow" href="https://www.isomer.gov.sg" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="placeholder" src="/images/technews/Don_t_let_the_scammers_huat__5_common_Lunar_New_Year_scams_.jpg"></div></div><div class="isomer-card-body"><div class="isomer-card-title">[40] Nunc a massa feugiat, feugiat orceleifen</div><div class="isomer-card-description">[120] Sitmet consectetur. Amet venenatis mattis aliquam pharetra aenean turpis nisl aliquam nisl. Eget maecenas pulvinar venen</div><div class="isomer-card-link">[20] Etiam quis elementum</div></div></a>
-</div>
-<h4>[do not recommend] with images as links</h4>
-<p>using table with image links – 2 col might be small in mobile and do not
-recommend</p>
 <table>
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
-<p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/technews/Five_ways_you_might_be_sabotaging_your_data_privacy_.jpg">
-</div>
-<p>[40] Nunc a massa feugiat, feugiat orceleifen</p>
+<p><a href="www.isomer.com" rel="noopener noreferrer nofollow" target="_blank">[20] Etiam quis elementum</a>
+</p>
 </td>
 <td rowspan="1" colspan="1">
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/technews/Five_ways_you_might_be_sabotaging_your_data_privacy_.jpg">
-</div>
-<p>[40] Nunc a massa feugiat, feugiat orceleifen</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/technews/Five_ways_you_might_be_sabotaging_your_data_privacy_.jpg">
-</div>
-<p>[40] Nunc a massa feugiat, feugiat orceleifen</p>
+<p><a href="www.isomer.com" rel="noopener noreferrer nofollow" target="_blank">[20] Etiam quis elementum</a>
+</p>
 </td>
 <td rowspan="1" colspan="1">
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/technews/Five_ways_you_might_be_sabotaging_your_data_privacy_.jpg">
-</div>
-<p>[40] Nunc a massa feugiat, feugiat orceleifen</p>
+<p><a href="www.isomer.com" rel="noopener noreferrer nofollow" target="_blank">[20] Etiam quis elementum</a>
+</p>
 </td>
 </tr>
 </tbody>
 </table>
-<h2></h2>
-<h2>6. 3 Col Accent Card Module</h2>
-<h4>no image</h4>
-<div class="isomer-card-grid">
-<div class="isomer-card">
-<div class="isomer-card-body">
-<div class="isomer-card-title">[35] Nunc a massa feugiat, feugiat orcel</div>
-<div class="isomer-card-description">[100] Sitmet consectetur. Amet venenatis mattis aliquam pharetra aenean
-turpis nisl aliquam nisl. Eget mae</div>
-</div>
-</div>
-<div class="isomer-card">
-<div class="isomer-card-body">
-<div class="isomer-card-title">[35] Nunc a massa feugiat, feugiat orcel</div>
-<div class="isomer-card-description">[100] Sitmet consectetur. Amet venenatis mattis aliquam pharetra aenean
-turpis nisl aliquam nisl. Eget mae</div>
-</div>
-</div>
-<div class="isomer-card">
-<div class="isomer-card-body">
-<div class="isomer-card-title">[35] Nunc a massa feugiat, feugiat orcel</div>
-<div class="isomer-card-description">[100] Sitmet consectetur. Amet venenatis mattis aliquam pharetra aenean
-turpis nisl aliquam nisl. Eget mae</div>
-</div>
-</div>
-</div>
-<h4>with image</h4>
-<div class="isomer-card-grid">
-<div class="isomer-card">
-<div class="isomer-card-image">
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="zz" src="/images/Screenshot_2023_11_10_at_9_56_05_AM.png">
-</div>
-</div>
-<div class="isomer-card-body">
-<div class="isomer-card-title">[35] Nunc a massa feugiat, feugiat orcel</div>
-<div class="isomer-card-description">[100] Sitmet consectetur. Amet venenatis mattis aliquam pharetra aenean
-turpis nisl aliquam nisl. Eget mae</div>
-</div>
-</div>
-<div class="isomer-card">
-<div class="isomer-card-image">
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="zz" src="/images/Screenshot_2023_11_10_at_9_56_05_AM.png">
-</div>
-</div>
-<div class="isomer-card-body">
-<div class="isomer-card-title">[35] Nunc a massa feugiat, feugiat orcel</div>
-<div class="isomer-card-description">[100] Sitmet consectetur. Amet venenatis mattis aliquam pharetra aenean
-turpis nisl aliquam nisl. Eget mae</div>
-</div>
-</div>
-<div class="isomer-card">
-<div class="isomer-card-image">
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="zz" src="/images/Screenshot_2023_11_10_at_9_56_05_AM.png">
-</div>
-</div>
-<div class="isomer-card-body">
-<div class="isomer-card-title">[35] Nunc a massa feugiat, feugiat orcel</div>
-<div class="isomer-card-description">[100] Sitmet consectetur. Amet venenatis mattis aliquam pharetra aenean
-turpis nisl aliquam nisl. Eget mae</div>
-</div>
-</div>
-</div>
-<h2>7. 2 Col Call Out Module</h2>
-<div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="https://www.isomer.gov.sg" class="isomer-card"><div class="isomer-card-body"><div class="isomer-card-title">[80] Lorem ipsum dolor sit amet, consectetur adipiscing elit. Etiam quis elementum ex</div><div class="isomer-card-link">[20] Etiam quis elementum</div></div></a>
-<a rel="noopener noreferrer nofollow" href="https://www.isomer.gov.sg" class="isomer-card">
-<div class="isomer-card-body">
-<div class="isomer-card-title">[80] Lorem ipsum dolor sit amet, consectetur adipiscing elit. Etiam quis
-elementum ex</div>
-<div class="isomer-card-link">[20] Etiam quis elementum</div>
-</div>
-</a>
-</div>
-<h2>8. 3 Col Call Out Module</h2>
+<h4><strong>11a. 3 Col Call Out Module</strong></h4>
 <div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="https://www.isomer.gov.sg" class="isomer-card"><div class="isomer-card-body"><div class="isomer-card-title">[80] Lorem ipsum dolor sit amet, consectetur adipiscing elit. Etiam quis elementum ex</div><div class="isomer-card-link">[20] Etiam quis elementum</div></div></a>
 <a rel="noopener noreferrer nofollow" href="https://www.isomer.gov.sg" class="isomer-card">
 <div class="isomer-card-body">
@@ -259,190 +284,125 @@ elementum ex</div>
 </div>
 </a><a rel="noopener noreferrer nofollow" href="https://www.isomer.gov.sg" class="isomer-card"><div class="isomer-card-body"><div class="isomer-card-title">[80] Lorem ipsum dolor sit amet, consectetur adipiscing elit. Etiam quis elementum ex</div><div class="isomer-card-link">[20] Etiam quis elementum</div></div></a>
 </div>
-<h2>9. 1 Col Call Out Module</h2>
+<h4><strong>11b. 2 Col Call Out Module</strong></h4>
+<div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="https://www.isomer.gov.sg" class="isomer-card"><div class="isomer-card-body"><div class="isomer-card-title">[80] Lorem ipsum dolor sit amet, consectetur adipiscing elit. Etiam quis elementum ex</div><div class="isomer-card-link">[20] Etiam quis elementum</div></div></a>
+<a rel="noopener noreferrer nofollow" href="https://www.isomer.gov.sg" class="isomer-card">
+<div class="isomer-card-body">
+<div class="isomer-card-title">[80] Lorem ipsum dolor sit amet, consectetur adipiscing elit. Etiam quis
+elementum ex</div>
+<div class="isomer-card-link">[20] Etiam quis elementum</div>
+</div>
+</a>
+</div>
+<h4><strong>11c. 1 Col Call Out Module</strong></h4>
 <div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="https://www.isomer.gov.sg" class="isomer-card"><div class="isomer-card-body"><div class="isomer-card-title">[50] Nunc a massa feugiat, feugiat orci at, eleifend qu</div><div class="isomer-card-description">[150] Lorem ipsum dolor sit amet, consectetur adipiscing elit. Etiam quis elementum ex. Nunc a massa feugiat, feugiat orci at, eleifend quam. Donec sceleris</div><div class="isomer-card-link">[20] Etiam quis elementum</div></div></a>
 </div>
-<h2>10. Intro Module</h2>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/technews/Five_ways_you_might_be_sabotaging_your_data_privacy_.jpg">
+<div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="https://www.isomer.gov.sg" class="isomer-card"><div class="isomer-card-body"><div class="isomer-card-title">[50] Nunc a massa feugiat, feugiat orci at, eleifend qu</div><div class="isomer-card-description">[150] Lorem ipsum dolor sit amet, consectetur adipiscing elit. Etiam quis elementum ex. Nunc a massa feugiat, feugiat orci at, eleifend quam. Donec sceleris</div><div class="isomer-card-link">[20] Etiam quis elementum</div></div></a>
 </div>
-<h4>[150] Lorem ipsum dolor sit amet, consectetur adipiscing elit. Etiam quis elementum ex. Nunc a massa feugiat, feugiat orci at, eleifend quam. Donec sceleris</h4>
-<p></p>
-<h2>11. Get In Touch Module</h2>
-<h3>[50] Nunc a massa feugiat, feugiat orci at, eleifend qu</h3>
-<p>[200] Lorem ipsum dolor sit amet, consectetur adipiscing elit. Etiam quis
-elementum ex. Nunc a massa feugiat, feugiat orci at, eleifend quam. Donec
-scelerisque semper nisl et sodales. Suspendisse euismod or</p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/tracetogethertest1.jpg">
-</div>
-<table>
-<tbody>
-<tr>
-<td rowspan="1" colspan="1">
-<p><a href="www.isomer.com" rel="noopener noreferrer nofollow" target="_blank">[20] Etiam quis elementum</a>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="www.isomer.com" rel="noopener noreferrer nofollow" target="_blank">[20] Etiam quis elementum</a>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="www.isomer.com" rel="noopener noreferrer nofollow" target="_blank">[20] Etiam quis elementum</a>
-</p>
-</td>
-</tr>
-</tbody>
-</table>
-<h2>12. Logo Showcase Module</h2>
-<h3>[50] Nunc a massa feugiat, feugiat orci at, eleifend qu</h3>
-<p>[200] Lorem ipsum dolor sit amet, consectetur adipiscing elit. Etiam quis
-elementum ex. Nunc a massa feugiat, feugiat orci at, eleifend quam. Donec
-scelerisque semper nisl et sodales. Suspendisse euismod or</p>
-<table>
-<tbody>
-<tr>
-<th rowspan="1" colspan="1">
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/wogaa-logo1.png">
-</div>
-</th>
-<th rowspan="1" colspan="1">
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Products and Services/sgfindex-logo.png">
-</div>
-</th>
-<th rowspan="1" colspan="1">
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/wogaa-logo1.png">
-</div>
-</th>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Products and Services/sgfindex-logo.png">
-</div>
-</td>
-<td rowspan="1" colspan="1">
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/wogaa-logo1.png">
-</div>
-</td>
-<td rowspan="1" colspan="1">
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Products and Services/sgfindex-logo.png">
-</div>
-</td>
-</tr>
-</tbody>
-</table>
-<table>
-<tbody>
-<tr>
-<td rowspan="1" colspan="1">
-<p><a href="www.isomer.com" rel="noopener noreferrer nofollow" target="_blank">[20] Etiam quis elementum</a>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="www.isomer.com" rel="noopener noreferrer nofollow" target="_blank">[20] Etiam quis elementum</a>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="www.isomer.com" rel="noopener noreferrer nofollow" target="_blank">[20] Etiam quis elementum</a>
-</p>
-</td>
-</tr>
-</tbody>
-</table>
-<h2>13. Video Module</h2>
-<h3>[50] Nunc a massa feugiat, feugiat orci at, eleifend qu</h3>
-<p>[200] Lorem ipsum dolor sit amet, consectetur adipiscing elit. Etiam quis
-elementum ex. Nunc a massa feugiat, feugiat orci at, eleifend quam. Donec
-scelerisque semper nisl et sodales. Suspendisse euismod or</p>
+<h4><strong>12. Video Module</strong></h4>
 <div class="iframe-wrapper">
 <iframe height="500" width="100%" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/MfkeAoVo4Vo?si=Mn1ssByy4RAiSBQw"></iframe>
 </div>
-<h2><em>14. Accordion Module</em></h2>
-<p>Release in End Feb on isomer</p>
-<p></p>
-<h2>15. Plain Card Module [TLDR]</h2>
-<p>unable to have coloured background – utilise normal text</p>
+<h4><strong>13. Logo Showcase Module</strong></h4>
+<h4>[50] Nunc a massa feugiat, feugiat orci at, eleifend qu</h4>
+<p>[200] Lorem ipsum dolor sit amet, consectetur adipiscing elit. Etiam quis
+elementum ex. Nunc a massa feugiat, feugiat orci at, eleifend quam. Donec
+scelerisque semper nisl et sodales. Suspendisse euismod or</p>
+<table>
+<tbody>
+<tr>
+<th rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/wogaa-logo1.png">
+</div>
+</th>
+<th rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Products and Services/sgfindex-logo.png">
+</div>
+</th>
+<th rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/wogaa-logo1.png">
+</div>
+</th>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Products and Services/sgfindex-logo.png">
+</div>
+</td>
+<td rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/wogaa-logo1.png">
+</div>
+</td>
+<td rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Products and Services/sgfindex-logo.png">
+</div>
+</td>
+</tr>
+</tbody>
+</table>
+<table>
+<tbody>
+<tr>
+<td rowspan="1" colspan="1">
+<p><a href="www.isomer.com" rel="noopener noreferrer nofollow" target="_blank">[20] Etiam quis elementum</a>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="www.isomer.com" rel="noopener noreferrer nofollow" target="_blank">[20] Etiam quis elementum</a>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="www.isomer.com" rel="noopener noreferrer nofollow" target="_blank">[20] Etiam quis elementum</a>
+</p>
+</td>
+</tr>
+</tbody>
+</table>
+<h4><strong>14a. 3 col Listing card</strong></h4>
+<div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="https://www.isomer.gov.sg" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Placeholder image" src="/images/Products and Services/singpass-security-measures.jpg"></div></div><div class="isomer-card-body"><div class="isomer-card-title">[40] Nunc a massa feugiat, feugiat orceleifen</div><div class="isomer-card-description">[150] Lorem ipsum dolor sit amet, consectetur adipiscing elit. Etiam quis elementum ex. Nunc a massa feugiat, feugiat orci at, eleifend quam. Donec sceleris</div><div class="isomer-card-link">[20] Etiam quis elementum</div></div></a>
+<a rel="noopener noreferrer nofollow" href="https://www.isomer.gov.sg" class="isomer-card">
+<div class="isomer-card-image">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Placeholder image" src="/images/Products and Services/lifesg-header.jpg">
+</div>
+</div>
+<div class="isomer-card-body">
+<div class="isomer-card-title">[40] Nunc a massa feugiat, feugiat orceleifen</div>
+<div class="isomer-card-description">[150] Lorem ipsum dolor sit amet, consectetur adipiscing elit. Etiam quis
+elementum ex. Nunc a massa feugiat, feugiat orci at, eleifend quam. Donec
+sceleris</div>
+<div class="isomer-card-link">[20] Etiam quis elementum</div>
+</div>
+</a><a rel="noopener noreferrer nofollow" href="https://www.isomer.gov.sg" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Placeholder image" src="/images/Products and Services/gobusiness-header.png"></div></div><div class="isomer-card-body"><div class="isomer-card-title">[40] Nunc a massa feugiat, feugiat orceleifen</div><div class="isomer-card-description">[150] Lorem ipsum dolor sit amet, consectetur adipiscing elit. Etiam quis elementum ex. Nunc a massa feugiat, feugiat orci at, eleifend quam. Donec sceleris</div><div class="isomer-card-link">[20] Etiam quis elementum</div></div></a>
+</div>
+<h4><strong>14b. 2 col Listing card</strong></h4>
+<div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="https://www.isomer.gov.sg" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Placeholder image" src="/images/Products and Services/singpass-security-measures.jpg"></div></div><div class="isomer-card-body"><div class="isomer-card-title">[40] Nunc a massa feugiat, feugiat orceleifen</div><div class="isomer-card-description">[150] Lorem ipsum dolor sit amet, consectetur adipiscing elit. Etiam quis elementum ex. Nunc a massa feugiat, feugiat orci at, eleifend quam. Donec sceleris</div><div class="isomer-card-link">[20] Etiam quis elementum</div></div></a>
+<a rel="noopener noreferrer nofollow" href="https://www.isomer.gov.sg" class="isomer-card">
+<div class="isomer-card-image">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Placeholder image" src="/images/Products and Services/lifesg-header.jpg">
+</div>
+</div>
+<div class="isomer-card-body">
+<div class="isomer-card-title">[40] Nunc a massa feugiat, feugiat orceleifen</div>
+<div class="isomer-card-description">[150] Lorem ipsum dolor sit amet, consectetur adipiscing elit. Etiam quis
+elementum ex. Nunc a massa feugiat, feugiat orci at, eleifend quam. Donec
+sceleris</div>
+<div class="isomer-card-link">[20] Etiam quis elementum</div>
+</div>
+</a>
+</div>
+<h4><strong>15. Plain Card Module [TLDR]</strong></h4>
 <h4><strong>[50] Nunc a massa feugiat, feugiat orci at, eleifend qu</strong></h4>
 <p><strong>[150] Lorem ipsum dolor sit amet, consectetur adipiscing elit. Etiam quis elementum ex. Nunc a massa feugiat, feugiat orci at, eleifend quam. Donec sceleris</strong>
 </p>
 <p></p>
-<h2>16. Social media Module</h2>
-<p>Recommend embedding without comments and keeping it to 1 col</p>
-<div class="instagram-wrapper">
-<blockquote style="background:#FFF; border:0; border-radius:3px; box-shadow:0 0 1px 0 rgba(0,0,0,0.5),0 1px 10px 0 rgba(0,0,0,0.15); margin: 1px; max-width:540px; min-width:326px; padding:0; width:99.375%; width:-webkit-calc(100% - 2px); width:calc(100% - 2px);" data-instgrm-version="14" data-instgrm-permalink="https://www.instagram.com/p/COaFnw0HOeh/?utm_source=ig_embed&amp;utm_campaign=loading" class="instagram-media">
-<div style="padding: 16px;"><a style="background:#FFFFFF; line-height:0; padding:0 0; text-align:center; text-decoration:none; width:100%;" href="https://www.instagram.com/p/COaFnw0HOeh/?utm_source=ig_embed&amp;utm_campaign=loading"><div style="display: flex; flex-direction: row; align-items: center;"><div style="background-color: #F4F4F4; border-radius: 50%; flex-grow: 0; height: 40px; margin-right: 14px; width: 40px;"></div><div style="display: flex; flex-direction: column; flex-grow: 1; justify-content: center;"><div style="background-color: #F4F4F4; border-radius: 4px; flex-grow: 0; height: 14px; margin-bottom: 6px; width: 100px;"></div><div style="background-color: #F4F4F4; border-radius: 4px; flex-grow: 0; height: 14px; width: 60px;"></div></div></div><div style="padding: 19% 0;"></div><div style="display:block; height:50px; margin:0 auto 12px; width:50px;"><svg xmlns:xlink="https://www.w3.org/1999/xlink" xmlns="https://www.w3.org/2000/svg" version="1.1" viewBox="0 0 60 60" height="50px" width="50px"><g fill-rule="evenodd" fill="none" stroke-width="1" stroke="none"><g fill="#000000" transform="translate(-511.000000, -20.000000)"><g><path d="M556.869,30.41 C554.814,30.41 553.148,32.076 553.148,34.131 C553.148,36.186 554.814,37.852 556.869,37.852 C558.924,37.852 560.59,36.186 560.59,34.131 C560.59,32.076 558.924,30.41 556.869,30.41 M541,60.657 C535.114,60.657 530.342,55.887 530.342,50 C530.342,44.114 535.114,39.342 541,39.342 C546.887,39.342 551.658,44.114 551.658,50 C551.658,55.887 546.887,60.657 541,60.657 M541,33.886 C532.1,33.886 524.886,41.1 524.886,50 C524.886,58.899 532.1,66.113 541,66.113 C549.9,66.113 557.115,58.899 557.115,50 C557.115,41.1 549.9,33.886 541,33.886 M565.378,62.101 C565.244,65.022 564.756,66.606 564.346,67.663 C563.803,69.06 563.154,70.057 562.106,71.106 C561.058,72.155 560.06,72.803 558.662,73.347 C557.607,73.757 556.021,74.244 553.102,74.378 C549.944,74.521 548.997,74.552 541,74.552 C533.003,74.552 532.056,74.521 528.898,74.378 C525.979,74.244 524.393,73.757 523.338,73.347 C521.94,72.803 520.942,72.155 519.894,71.106 C518.846,70.057 518.197,69.06 517.654,67.663 C517.244,66.606 516.755,65.022 516.623,62.101 C516.479,58.943 516.448,57.996 516.448,50 C516.448,42.003 516.479,41.056 516.623,37.899 C516.755,34.978 517.244,33.391 517.654,32.338 C518.197,30.938 518.846,29.942 519.894,28.894 C520.942,27.846 521.94,27.196 523.338,26.654 C524.393,26.244 525.979,25.756 528.898,25.623 C532.057,25.479 533.004,25.448 541,25.448 C548.997,25.448 549.943,25.479 553.102,25.623 C556.021,25.756 557.607,26.244 558.662,26.654 C560.06,27.196 561.058,27.846 562.106,28.894 C563.154,29.942 563.803,30.938 564.346,32.338 C564.756,33.391 565.244,34.978 565.378,37.899 C565.522,41.056 565.552,42.003 565.552,50 C565.552,57.996 565.522,58.943 565.378,62.101 M570.82,37.631 C570.674,34.438 570.167,32.258 569.425,30.349 C568.659,28.377 567.633,26.702 565.965,25.035 C564.297,23.368 562.623,22.342 560.652,21.575 C558.743,20.834 556.562,20.326 553.369,20.18 C550.169,20.033 549.148,20 541,20 C532.853,20 531.831,20.033 528.631,20.18 C525.438,20.326 523.257,20.834 521.349,21.575 C519.376,22.342 517.703,23.368 516.035,25.035 C514.368,26.702 513.342,28.377 512.574,30.349 C511.834,32.258 511.326,34.438 511.181,37.631 C511.035,40.831 511,41.851 511,50 C511,58.147 511.035,59.17 511.181,62.369 C511.326,65.562 511.834,67.743 512.574,69.651 C513.342,71.625 514.368,73.296 516.035,74.965 C517.703,76.634 519.376,77.658 521.349,78.425 C523.257,79.167 525.438,79.673 528.631,79.82 C531.831,79.965 532.853,80.001 541,80.001 C549.148,80.001 550.169,79.965 553.369,79.82 C556.562,79.673 558.743,79.167 560.652,78.425 C562.623,77.658 564.297,76.634 565.965,74.965 C567.633,73.296 568.659,71.625 569.425,69.651 C570.167,67.743 570.674,65.562 570.82,62.369 C570.966,59.17 571,58.147 571,50 C571,41.851 570.966,40.831 570.82,37.631"></path></g></g></g></svg></div><div style="padding-top: 8px;"><div style="color:#3897f0; font-family:Arial,sans-serif; font-size:14px; font-style:normal; font-weight:550; line-height:18px;">View this post on Instagram</div></div><div style="padding: 12.5% 0;"></div><div style="display: flex; flex-direction: row; margin-bottom: 14px; align-items: center;"><div><div style="background-color: #F4F4F4; border-radius: 50%; height: 12.5px; width: 12.5px; transform: translateX(0px) translateY(7px);"></div><div style="background-color: #F4F4F4; height: 12.5px; transform: rotate(-45deg) translateX(3px) translateY(1px); width: 12.5px; flex-grow: 0; margin-right: 14px; margin-left: 2px;"></div><div style="background-color: #F4F4F4; border-radius: 50%; height: 12.5px; width: 12.5px; transform: translateX(9px) translateY(-18px);"></div></div><div style="margin-left: 8px;"><div style="background-color: #F4F4F4; border-radius: 50%; flex-grow: 0; height: 20px; width: 20px;"></div><div style="width: 0; height: 0; border-top: 2px solid transparent; border-left: 6px solid #f4f4f4; border-bottom: 2px solid transparent; transform: translateX(16px) translateY(-4px) rotate(30deg)"></div></div><div style="margin-left: auto;"><div style="width: 0px; border-top: 8px solid #F4F4F4; border-right: 8px solid transparent; transform: translateY(16px);"></div><div style="background-color: #F4F4F4; flex-grow: 0; height: 12px; width: 16px; transform: translateY(-4px);"></div><div style="width: 0; height: 0; border-top: 8px solid #F4F4F4; border-left: 8px solid transparent; transform: translateY(-4px) translateX(8px);"></div></div></div><div style="display: flex; flex-direction: column; flex-grow: 1; justify-content: center; margin-bottom: 24px;"><div style="background-color: #F4F4F4; border-radius: 4px; flex-grow: 0; height: 14px; margin-bottom: 6px; width: 224px;"></div><div style="background-color: #F4F4F4; border-radius: 4px; flex-grow: 0; height: 14px; width: 144px;"></div></div></a>
-<p style="color:#c9c8cd; font-family:Arial,sans-serif; font-size:14px; line-height:17px; margin-bottom:0; margin-top:8px; overflow:hidden; padding:8px 0 7px; text-align:center; text-overflow:ellipsis; white-space:nowrap;"><a target="_blank" style="color:#c9c8cd; font-family:Arial,sans-serif; font-size:14px; font-style:normal; font-weight:normal; line-height:17px; text-decoration:none;" href="https://www.instagram.com/p/COaFnw0HOeh/?utm_source=ig_embed&amp;utm_campaign=loading">A post shared by GovTech (Singapore) (@govtechsg)</a>
-</p>
-</div>
-</blockquote>
-<script src="//www.instagram.com/embed.js" async="true"></script>
-</div>
-<p>Example of. 2col on mobile, swiping might trigger individual post and
-not the table, users might miss the second post</p>
-<table>
-<tbody>
-<tr>
-<td rowspan="1" colspan="1">
-<div class="instagram-wrapper">
-<blockquote style="background:#FFF; border:0; border-radius:3px; box-shadow:0 0 1px 0 rgba(0,0,0,0.5),0 1px 10px 0 rgba(0,0,0,0.15); margin: 1px; max-width:540px; min-width:326px; padding:0; width:99.375%; width:-webkit-calc(100% - 2px); width:calc(100% - 2px);" data-instgrm-version="14" data-instgrm-permalink="https://www.instagram.com/p/COaFnw0HOeh/?utm_source=ig_embed&amp;utm_campaign=loading" class="instagram-media">
-<div style="padding: 16px;"><a style="background:#FFFFFF; line-height:0; padding:0 0; text-align:center; text-decoration:none; width:100%;" href="https://www.instagram.com/p/COaFnw0HOeh/?utm_source=ig_embed&amp;utm_campaign=loading"><div style="display: flex; flex-direction: row; align-items: center;"><div style="background-color: #F4F4F4; border-radius: 50%; flex-grow: 0; height: 40px; margin-right: 14px; width: 40px;"></div><div style="display: flex; flex-direction: column; flex-grow: 1; justify-content: center;"><div style="background-color: #F4F4F4; border-radius: 4px; flex-grow: 0; height: 14px; margin-bottom: 6px; width: 100px;"></div><div style="background-color: #F4F4F4; border-radius: 4px; flex-grow: 0; height: 14px; width: 60px;"></div></div></div><div style="padding: 19% 0;"></div><div style="display:block; height:50px; margin:0 auto 12px; width:50px;"><svg xmlns:xlink="https://www.w3.org/1999/xlink" xmlns="https://www.w3.org/2000/svg" version="1.1" viewBox="0 0 60 60" height="50px" width="50px"><g fill-rule="evenodd" fill="none" stroke-width="1" stroke="none"><g fill="#000000" transform="translate(-511.000000, -20.000000)"><g><path d="M556.869,30.41 C554.814,30.41 553.148,32.076 553.148,34.131 C553.148,36.186 554.814,37.852 556.869,37.852 C558.924,37.852 560.59,36.186 560.59,34.131 C560.59,32.076 558.924,30.41 556.869,30.41 M541,60.657 C535.114,60.657 530.342,55.887 530.342,50 C530.342,44.114 535.114,39.342 541,39.342 C546.887,39.342 551.658,44.114 551.658,50 C551.658,55.887 546.887,60.657 541,60.657 M541,33.886 C532.1,33.886 524.886,41.1 524.886,50 C524.886,58.899 532.1,66.113 541,66.113 C549.9,66.113 557.115,58.899 557.115,50 C557.115,41.1 549.9,33.886 541,33.886 M565.378,62.101 C565.244,65.022 564.756,66.606 564.346,67.663 C563.803,69.06 563.154,70.057 562.106,71.106 C561.058,72.155 560.06,72.803 558.662,73.347 C557.607,73.757 556.021,74.244 553.102,74.378 C549.944,74.521 548.997,74.552 541,74.552 C533.003,74.552 532.056,74.521 528.898,74.378 C525.979,74.244 524.393,73.757 523.338,73.347 C521.94,72.803 520.942,72.155 519.894,71.106 C518.846,70.057 518.197,69.06 517.654,67.663 C517.244,66.606 516.755,65.022 516.623,62.101 C516.479,58.943 516.448,57.996 516.448,50 C516.448,42.003 516.479,41.056 516.623,37.899 C516.755,34.978 517.244,33.391 517.654,32.338 C518.197,30.938 518.846,29.942 519.894,28.894 C520.942,27.846 521.94,27.196 523.338,26.654 C524.393,26.244 525.979,25.756 528.898,25.623 C532.057,25.479 533.004,25.448 541,25.448 C548.997,25.448 549.943,25.479 553.102,25.623 C556.021,25.756 557.607,26.244 558.662,26.654 C560.06,27.196 561.058,27.846 562.106,28.894 C563.154,29.942 563.803,30.938 564.346,32.338 C564.756,33.391 565.244,34.978 565.378,37.899 C565.522,41.056 565.552,42.003 565.552,50 C565.552,57.996 565.522,58.943 565.378,62.101 M570.82,37.631 C570.674,34.438 570.167,32.258 569.425,30.349 C568.659,28.377 567.633,26.702 565.965,25.035 C564.297,23.368 562.623,22.342 560.652,21.575 C558.743,20.834 556.562,20.326 553.369,20.18 C550.169,20.033 549.148,20 541,20 C532.853,20 531.831,20.033 528.631,20.18 C525.438,20.326 523.257,20.834 521.349,21.575 C519.376,22.342 517.703,23.368 516.035,25.035 C514.368,26.702 513.342,28.377 512.574,30.349 C511.834,32.258 511.326,34.438 511.181,37.631 C511.035,40.831 511,41.851 511,50 C511,58.147 511.035,59.17 511.181,62.369 C511.326,65.562 511.834,67.743 512.574,69.651 C513.342,71.625 514.368,73.296 516.035,74.965 C517.703,76.634 519.376,77.658 521.349,78.425 C523.257,79.167 525.438,79.673 528.631,79.82 C531.831,79.965 532.853,80.001 541,80.001 C549.148,80.001 550.169,79.965 553.369,79.82 C556.562,79.673 558.743,79.167 560.652,78.425 C562.623,77.658 564.297,76.634 565.965,74.965 C567.633,73.296 568.659,71.625 569.425,69.651 C570.167,67.743 570.674,65.562 570.82,62.369 C570.966,59.17 571,58.147 571,50 C571,41.851 570.966,40.831 570.82,37.631"></path></g></g></g></svg></div><div style="padding-top: 8px;"><div style="color:#3897f0; font-family:Arial,sans-serif; font-size:14px; font-style:normal; font-weight:550; line-height:18px;">View this post on Instagram</div></div><div style="padding: 12.5% 0;"></div><div style="display: flex; flex-direction: row; margin-bottom: 14px; align-items: center;"><div><div style="background-color: #F4F4F4; border-radius: 50%; height: 12.5px; width: 12.5px; transform: translateX(0px) translateY(7px);"></div><div style="background-color: #F4F4F4; height: 12.5px; transform: rotate(-45deg) translateX(3px) translateY(1px); width: 12.5px; flex-grow: 0; margin-right: 14px; margin-left: 2px;"></div><div style="background-color: #F4F4F4; border-radius: 50%; height: 12.5px; width: 12.5px; transform: translateX(9px) translateY(-18px);"></div></div><div style="margin-left: 8px;"><div style="background-color: #F4F4F4; border-radius: 50%; flex-grow: 0; height: 20px; width: 20px;"></div><div style="width: 0; height: 0; border-top: 2px solid transparent; border-left: 6px solid #f4f4f4; border-bottom: 2px solid transparent; transform: translateX(16px) translateY(-4px) rotate(30deg)"></div></div><div style="margin-left: auto;"><div style="width: 0px; border-top: 8px solid #F4F4F4; border-right: 8px solid transparent; transform: translateY(16px);"></div><div style="background-color: #F4F4F4; flex-grow: 0; height: 12px; width: 16px; transform: translateY(-4px);"></div><div style="width: 0; height: 0; border-top: 8px solid #F4F4F4; border-left: 8px solid transparent; transform: translateY(-4px) translateX(8px);"></div></div></div><div style="display: flex; flex-direction: column; flex-grow: 1; justify-content: center; margin-bottom: 24px;"><div style="background-color: #F4F4F4; border-radius: 4px; flex-grow: 0; height: 14px; margin-bottom: 6px; width: 224px;"></div><div style="background-color: #F4F4F4; border-radius: 4px; flex-grow: 0; height: 14px; width: 144px;"></div></div></a>
-<p style="color:#c9c8cd; font-family:Arial,sans-serif; font-size:14px; line-height:17px; margin-bottom:0; margin-top:8px; overflow:hidden; padding:8px 0 7px; text-align:center; text-overflow:ellipsis; white-space:nowrap;"><a target="_blank" style="color:#c9c8cd; font-family:Arial,sans-serif; font-size:14px; font-style:normal; font-weight:normal; line-height:17px; text-decoration:none;" href="https://www.instagram.com/p/COaFnw0HOeh/?utm_source=ig_embed&amp;utm_campaign=loading">A post shared by GovTech (Singapore) (@govtechsg)</a>
-</p>
-</div>
-</blockquote>
-<script src="//www.instagram.com/embed.js" async="true"></script>
-</div>
-</td>
-<td rowspan="1" colspan="1">
-<div class="instagram-wrapper">
-<blockquote style="background:#FFF; border:0; border-radius:3px; box-shadow:0 0 1px 0 rgba(0,0,0,0.5),0 1px 10px 0 rgba(0,0,0,0.15); margin: 1px; max-width:540px; min-width:326px; padding:0; width:99.375%; width:-webkit-calc(100% - 2px); width:calc(100% - 2px);" data-instgrm-version="14" data-instgrm-permalink="https://www.instagram.com/p/COaFnw0HOeh/?utm_source=ig_embed&amp;utm_campaign=loading" class="instagram-media">
-<div style="padding: 16px;"><a style="background:#FFFFFF; line-height:0; padding:0 0; text-align:center; text-decoration:none; width:100%;" href="https://www.instagram.com/p/COaFnw0HOeh/?utm_source=ig_embed&amp;utm_campaign=loading"><div style="display: flex; flex-direction: row; align-items: center;"><div style="background-color: #F4F4F4; border-radius: 50%; flex-grow: 0; height: 40px; margin-right: 14px; width: 40px;"></div><div style="display: flex; flex-direction: column; flex-grow: 1; justify-content: center;"><div style="background-color: #F4F4F4; border-radius: 4px; flex-grow: 0; height: 14px; margin-bottom: 6px; width: 100px;"></div><div style="background-color: #F4F4F4; border-radius: 4px; flex-grow: 0; height: 14px; width: 60px;"></div></div></div><div style="padding: 19% 0;"></div><div style="display:block; height:50px; margin:0 auto 12px; width:50px;"><svg xmlns:xlink="https://www.w3.org/1999/xlink" xmlns="https://www.w3.org/2000/svg" version="1.1" viewBox="0 0 60 60" height="50px" width="50px"><g fill-rule="evenodd" fill="none" stroke-width="1" stroke="none"><g fill="#000000" transform="translate(-511.000000, -20.000000)"><g><path d="M556.869,30.41 C554.814,30.41 553.148,32.076 553.148,34.131 C553.148,36.186 554.814,37.852 556.869,37.852 C558.924,37.852 560.59,36.186 560.59,34.131 C560.59,32.076 558.924,30.41 556.869,30.41 M541,60.657 C535.114,60.657 530.342,55.887 530.342,50 C530.342,44.114 535.114,39.342 541,39.342 C546.887,39.342 551.658,44.114 551.658,50 C551.658,55.887 546.887,60.657 541,60.657 M541,33.886 C532.1,33.886 524.886,41.1 524.886,50 C524.886,58.899 532.1,66.113 541,66.113 C549.9,66.113 557.115,58.899 557.115,50 C557.115,41.1 549.9,33.886 541,33.886 M565.378,62.101 C565.244,65.022 564.756,66.606 564.346,67.663 C563.803,69.06 563.154,70.057 562.106,71.106 C561.058,72.155 560.06,72.803 558.662,73.347 C557.607,73.757 556.021,74.244 553.102,74.378 C549.944,74.521 548.997,74.552 541,74.552 C533.003,74.552 532.056,74.521 528.898,74.378 C525.979,74.244 524.393,73.757 523.338,73.347 C521.94,72.803 520.942,72.155 519.894,71.106 C518.846,70.057 518.197,69.06 517.654,67.663 C517.244,66.606 516.755,65.022 516.623,62.101 C516.479,58.943 516.448,57.996 516.448,50 C516.448,42.003 516.479,41.056 516.623,37.899 C516.755,34.978 517.244,33.391 517.654,32.338 C518.197,30.938 518.846,29.942 519.894,28.894 C520.942,27.846 521.94,27.196 523.338,26.654 C524.393,26.244 525.979,25.756 528.898,25.623 C532.057,25.479 533.004,25.448 541,25.448 C548.997,25.448 549.943,25.479 553.102,25.623 C556.021,25.756 557.607,26.244 558.662,26.654 C560.06,27.196 561.058,27.846 562.106,28.894 C563.154,29.942 563.803,30.938 564.346,32.338 C564.756,33.391 565.244,34.978 565.378,37.899 C565.522,41.056 565.552,42.003 565.552,50 C565.552,57.996 565.522,58.943 565.378,62.101 M570.82,37.631 C570.674,34.438 570.167,32.258 569.425,30.349 C568.659,28.377 567.633,26.702 565.965,25.035 C564.297,23.368 562.623,22.342 560.652,21.575 C558.743,20.834 556.562,20.326 553.369,20.18 C550.169,20.033 549.148,20 541,20 C532.853,20 531.831,20.033 528.631,20.18 C525.438,20.326 523.257,20.834 521.349,21.575 C519.376,22.342 517.703,23.368 516.035,25.035 C514.368,26.702 513.342,28.377 512.574,30.349 C511.834,32.258 511.326,34.438 511.181,37.631 C511.035,40.831 511,41.851 511,50 C511,58.147 511.035,59.17 511.181,62.369 C511.326,65.562 511.834,67.743 512.574,69.651 C513.342,71.625 514.368,73.296 516.035,74.965 C517.703,76.634 519.376,77.658 521.349,78.425 C523.257,79.167 525.438,79.673 528.631,79.82 C531.831,79.965 532.853,80.001 541,80.001 C549.148,80.001 550.169,79.965 553.369,79.82 C556.562,79.673 558.743,79.167 560.652,78.425 C562.623,77.658 564.297,76.634 565.965,74.965 C567.633,73.296 568.659,71.625 569.425,69.651 C570.167,67.743 570.674,65.562 570.82,62.369 C570.966,59.17 571,58.147 571,50 C571,41.851 570.966,40.831 570.82,37.631"></path></g></g></g></svg></div><div style="padding-top: 8px;"><div style="color:#3897f0; font-family:Arial,sans-serif; font-size:14px; font-style:normal; font-weight:550; line-height:18px;">View this post on Instagram</div></div><div style="padding: 12.5% 0;"></div><div style="display: flex; flex-direction: row; margin-bottom: 14px; align-items: center;"><div><div style="background-color: #F4F4F4; border-radius: 50%; height: 12.5px; width: 12.5px; transform: translateX(0px) translateY(7px);"></div><div style="background-color: #F4F4F4; height: 12.5px; transform: rotate(-45deg) translateX(3px) translateY(1px); width: 12.5px; flex-grow: 0; margin-right: 14px; margin-left: 2px;"></div><div style="background-color: #F4F4F4; border-radius: 50%; height: 12.5px; width: 12.5px; transform: translateX(9px) translateY(-18px);"></div></div><div style="margin-left: 8px;"><div style="background-color: #F4F4F4; border-radius: 50%; flex-grow: 0; height: 20px; width: 20px;"></div><div style="width: 0; height: 0; border-top: 2px solid transparent; border-left: 6px solid #f4f4f4; border-bottom: 2px solid transparent; transform: translateX(16px) translateY(-4px) rotate(30deg)"></div></div><div style="margin-left: auto;"><div style="width: 0px; border-top: 8px solid #F4F4F4; border-right: 8px solid transparent; transform: translateY(16px);"></div><div style="background-color: #F4F4F4; flex-grow: 0; height: 12px; width: 16px; transform: translateY(-4px);"></div><div style="width: 0; height: 0; border-top: 8px solid #F4F4F4; border-left: 8px solid transparent; transform: translateY(-4px) translateX(8px);"></div></div></div><div style="display: flex; flex-direction: column; flex-grow: 1; justify-content: center; margin-bottom: 24px;"><div style="background-color: #F4F4F4; border-radius: 4px; flex-grow: 0; height: 14px; margin-bottom: 6px; width: 224px;"></div><div style="background-color: #F4F4F4; border-radius: 4px; flex-grow: 0; height: 14px; width: 144px;"></div></div></a>
-<p style="color:#c9c8cd; font-family:Arial,sans-serif; font-size:14px; line-height:17px; margin-bottom:0; margin-top:8px; overflow:hidden; padding:8px 0 7px; text-align:center; text-overflow:ellipsis; white-space:nowrap;"><a target="_blank" style="color:#c9c8cd; font-family:Arial,sans-serif; font-size:14px; font-style:normal; font-weight:normal; line-height:17px; text-decoration:none;" href="https://www.instagram.com/p/COaFnw0HOeh/?utm_source=ig_embed&amp;utm_campaign=loading">A post shared by GovTech (Singapore) (@govtechsg)</a>
-</p>
-</div>
-</blockquote>
-<script src="//www.instagram.com/embed.js" async="true"></script>
-</div>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<div class="instagram-wrapper">
-<blockquote style="background:#FFF; border:0; border-radius:3px; box-shadow:0 0 1px 0 rgba(0,0,0,0.5),0 1px 10px 0 rgba(0,0,0,0.15); margin: 1px; max-width:540px; min-width:326px; padding:0; width:99.375%; width:-webkit-calc(100% - 2px); width:calc(100% - 2px);" data-instgrm-version="14" data-instgrm-permalink="https://www.instagram.com/p/COaFnw0HOeh/?utm_source=ig_embed&amp;utm_campaign=loading" class="instagram-media">
-<div style="padding: 16px;"><a style="background:#FFFFFF; line-height:0; padding:0 0; text-align:center; text-decoration:none; width:100%;" href="https://www.instagram.com/p/COaFnw0HOeh/?utm_source=ig_embed&amp;utm_campaign=loading"><div style="display: flex; flex-direction: row; align-items: center;"><div style="background-color: #F4F4F4; border-radius: 50%; flex-grow: 0; height: 40px; margin-right: 14px; width: 40px;"></div><div style="display: flex; flex-direction: column; flex-grow: 1; justify-content: center;"><div style="background-color: #F4F4F4; border-radius: 4px; flex-grow: 0; height: 14px; margin-bottom: 6px; width: 100px;"></div><div style="background-color: #F4F4F4; border-radius: 4px; flex-grow: 0; height: 14px; width: 60px;"></div></div></div><div style="padding: 19% 0;"></div><div style="display:block; height:50px; margin:0 auto 12px; width:50px;"><svg xmlns:xlink="https://www.w3.org/1999/xlink" xmlns="https://www.w3.org/2000/svg" version="1.1" viewBox="0 0 60 60" height="50px" width="50px"><g fill-rule="evenodd" fill="none" stroke-width="1" stroke="none"><g fill="#000000" transform="translate(-511.000000, -20.000000)"><g><path d="M556.869,30.41 C554.814,30.41 553.148,32.076 553.148,34.131 C553.148,36.186 554.814,37.852 556.869,37.852 C558.924,37.852 560.59,36.186 560.59,34.131 C560.59,32.076 558.924,30.41 556.869,30.41 M541,60.657 C535.114,60.657 530.342,55.887 530.342,50 C530.342,44.114 535.114,39.342 541,39.342 C546.887,39.342 551.658,44.114 551.658,50 C551.658,55.887 546.887,60.657 541,60.657 M541,33.886 C532.1,33.886 524.886,41.1 524.886,50 C524.886,58.899 532.1,66.113 541,66.113 C549.9,66.113 557.115,58.899 557.115,50 C557.115,41.1 549.9,33.886 541,33.886 M565.378,62.101 C565.244,65.022 564.756,66.606 564.346,67.663 C563.803,69.06 563.154,70.057 562.106,71.106 C561.058,72.155 560.06,72.803 558.662,73.347 C557.607,73.757 556.021,74.244 553.102,74.378 C549.944,74.521 548.997,74.552 541,74.552 C533.003,74.552 532.056,74.521 528.898,74.378 C525.979,74.244 524.393,73.757 523.338,73.347 C521.94,72.803 520.942,72.155 519.894,71.106 C518.846,70.057 518.197,69.06 517.654,67.663 C517.244,66.606 516.755,65.022 516.623,62.101 C516.479,58.943 516.448,57.996 516.448,50 C516.448,42.003 516.479,41.056 516.623,37.899 C516.755,34.978 517.244,33.391 517.654,32.338 C518.197,30.938 518.846,29.942 519.894,28.894 C520.942,27.846 521.94,27.196 523.338,26.654 C524.393,26.244 525.979,25.756 528.898,25.623 C532.057,25.479 533.004,25.448 541,25.448 C548.997,25.448 549.943,25.479 553.102,25.623 C556.021,25.756 557.607,26.244 558.662,26.654 C560.06,27.196 561.058,27.846 562.106,28.894 C563.154,29.942 563.803,30.938 564.346,32.338 C564.756,33.391 565.244,34.978 565.378,37.899 C565.522,41.056 565.552,42.003 565.552,50 C565.552,57.996 565.522,58.943 565.378,62.101 M570.82,37.631 C570.674,34.438 570.167,32.258 569.425,30.349 C568.659,28.377 567.633,26.702 565.965,25.035 C564.297,23.368 562.623,22.342 560.652,21.575 C558.743,20.834 556.562,20.326 553.369,20.18 C550.169,20.033 549.148,20 541,20 C532.853,20 531.831,20.033 528.631,20.18 C525.438,20.326 523.257,20.834 521.349,21.575 C519.376,22.342 517.703,23.368 516.035,25.035 C514.368,26.702 513.342,28.377 512.574,30.349 C511.834,32.258 511.326,34.438 511.181,37.631 C511.035,40.831 511,41.851 511,50 C511,58.147 511.035,59.17 511.181,62.369 C511.326,65.562 511.834,67.743 512.574,69.651 C513.342,71.625 514.368,73.296 516.035,74.965 C517.703,76.634 519.376,77.658 521.349,78.425 C523.257,79.167 525.438,79.673 528.631,79.82 C531.831,79.965 532.853,80.001 541,80.001 C549.148,80.001 550.169,79.965 553.369,79.82 C556.562,79.673 558.743,79.167 560.652,78.425 C562.623,77.658 564.297,76.634 565.965,74.965 C567.633,73.296 568.659,71.625 569.425,69.651 C570.167,67.743 570.674,65.562 570.82,62.369 C570.966,59.17 571,58.147 571,50 C571,41.851 570.966,40.831 570.82,37.631"></path></g></g></g></svg></div><div style="padding-top: 8px;"><div style="color:#3897f0; font-family:Arial,sans-serif; font-size:14px; font-style:normal; font-weight:550; line-height:18px;">View this post on Instagram</div></div><div style="padding: 12.5% 0;"></div><div style="display: flex; flex-direction: row; margin-bottom: 14px; align-items: center;"><div><div style="background-color: #F4F4F4; border-radius: 50%; height: 12.5px; width: 12.5px; transform: translateX(0px) translateY(7px);"></div><div style="background-color: #F4F4F4; height: 12.5px; transform: rotate(-45deg) translateX(3px) translateY(1px); width: 12.5px; flex-grow: 0; margin-right: 14px; margin-left: 2px;"></div><div style="background-color: #F4F4F4; border-radius: 50%; height: 12.5px; width: 12.5px; transform: translateX(9px) translateY(-18px);"></div></div><div style="margin-left: 8px;"><div style="background-color: #F4F4F4; border-radius: 50%; flex-grow: 0; height: 20px; width: 20px;"></div><div style="width: 0; height: 0; border-top: 2px solid transparent; border-left: 6px solid #f4f4f4; border-bottom: 2px solid transparent; transform: translateX(16px) translateY(-4px) rotate(30deg)"></div></div><div style="margin-left: auto;"><div style="width: 0px; border-top: 8px solid #F4F4F4; border-right: 8px solid transparent; transform: translateY(16px);"></div><div style="background-color: #F4F4F4; flex-grow: 0; height: 12px; width: 16px; transform: translateY(-4px);"></div><div style="width: 0; height: 0; border-top: 8px solid #F4F4F4; border-left: 8px solid transparent; transform: translateY(-4px) translateX(8px);"></div></div></div><div style="display: flex; flex-direction: column; flex-grow: 1; justify-content: center; margin-bottom: 24px;"><div style="background-color: #F4F4F4; border-radius: 4px; flex-grow: 0; height: 14px; margin-bottom: 6px; width: 224px;"></div><div style="background-color: #F4F4F4; border-radius: 4px; flex-grow: 0; height: 14px; width: 144px;"></div></div></a>
-<p style="color:#c9c8cd; font-family:Arial,sans-serif; font-size:14px; line-height:17px; margin-bottom:0; margin-top:8px; overflow:hidden; padding:8px 0 7px; text-align:center; text-overflow:ellipsis; white-space:nowrap;"><a target="_blank" style="color:#c9c8cd; font-family:Arial,sans-serif; font-size:14px; font-style:normal; font-weight:normal; line-height:17px; text-decoration:none;" href="https://www.instagram.com/p/COaFnw0HOeh/?utm_source=ig_embed&amp;utm_campaign=loading">A post shared by GovTech (Singapore) (@govtechsg)</a>
-</p>
-</div>
-</blockquote>
-<script src="//www.instagram.com/embed.js" async="true"></script>
-</div>
-</td>
-<td rowspan="1" colspan="1">
-<div class="instagram-wrapper">
-<blockquote style="background:#FFF; border:0; border-radius:3px; box-shadow:0 0 1px 0 rgba(0,0,0,0.5),0 1px 10px 0 rgba(0,0,0,0.15); margin: 1px; max-width:540px; min-width:326px; padding:0; width:99.375%; width:-webkit-calc(100% - 2px); width:calc(100% - 2px);" data-instgrm-version="14" data-instgrm-permalink="https://www.instagram.com/p/COaFnw0HOeh/?utm_source=ig_embed&amp;utm_campaign=loading" class="instagram-media">
-<div style="padding: 16px;"><a style="background:#FFFFFF; line-height:0; padding:0 0; text-align:center; text-decoration:none; width:100%;" href="https://www.instagram.com/p/COaFnw0HOeh/?utm_source=ig_embed&amp;utm_campaign=loading"><div style="display: flex; flex-direction: row; align-items: center;"><div style="background-color: #F4F4F4; border-radius: 50%; flex-grow: 0; height: 40px; margin-right: 14px; width: 40px;"></div><div style="display: flex; flex-direction: column; flex-grow: 1; justify-content: center;"><div style="background-color: #F4F4F4; border-radius: 4px; flex-grow: 0; height: 14px; margin-bottom: 6px; width: 100px;"></div><div style="background-color: #F4F4F4; border-radius: 4px; flex-grow: 0; height: 14px; width: 60px;"></div></div></div><div style="padding: 19% 0;"></div><div style="display:block; height:50px; margin:0 auto 12px; width:50px;"><svg xmlns:xlink="https://www.w3.org/1999/xlink" xmlns="https://www.w3.org/2000/svg" version="1.1" viewBox="0 0 60 60" height="50px" width="50px"><g fill-rule="evenodd" fill="none" stroke-width="1" stroke="none"><g fill="#000000" transform="translate(-511.000000, -20.000000)"><g><path d="M556.869,30.41 C554.814,30.41 553.148,32.076 553.148,34.131 C553.148,36.186 554.814,37.852 556.869,37.852 C558.924,37.852 560.59,36.186 560.59,34.131 C560.59,32.076 558.924,30.41 556.869,30.41 M541,60.657 C535.114,60.657 530.342,55.887 530.342,50 C530.342,44.114 535.114,39.342 541,39.342 C546.887,39.342 551.658,44.114 551.658,50 C551.658,55.887 546.887,60.657 541,60.657 M541,33.886 C532.1,33.886 524.886,41.1 524.886,50 C524.886,58.899 532.1,66.113 541,66.113 C549.9,66.113 557.115,58.899 557.115,50 C557.115,41.1 549.9,33.886 541,33.886 M565.378,62.101 C565.244,65.022 564.756,66.606 564.346,67.663 C563.803,69.06 563.154,70.057 562.106,71.106 C561.058,72.155 560.06,72.803 558.662,73.347 C557.607,73.757 556.021,74.244 553.102,74.378 C549.944,74.521 548.997,74.552 541,74.552 C533.003,74.552 532.056,74.521 528.898,74.378 C525.979,74.244 524.393,73.757 523.338,73.347 C521.94,72.803 520.942,72.155 519.894,71.106 C518.846,70.057 518.197,69.06 517.654,67.663 C517.244,66.606 516.755,65.022 516.623,62.101 C516.479,58.943 516.448,57.996 516.448,50 C516.448,42.003 516.479,41.056 516.623,37.899 C516.755,34.978 517.244,33.391 517.654,32.338 C518.197,30.938 518.846,29.942 519.894,28.894 C520.942,27.846 521.94,27.196 523.338,26.654 C524.393,26.244 525.979,25.756 528.898,25.623 C532.057,25.479 533.004,25.448 541,25.448 C548.997,25.448 549.943,25.479 553.102,25.623 C556.021,25.756 557.607,26.244 558.662,26.654 C560.06,27.196 561.058,27.846 562.106,28.894 C563.154,29.942 563.803,30.938 564.346,32.338 C564.756,33.391 565.244,34.978 565.378,37.899 C565.522,41.056 565.552,42.003 565.552,50 C565.552,57.996 565.522,58.943 565.378,62.101 M570.82,37.631 C570.674,34.438 570.167,32.258 569.425,30.349 C568.659,28.377 567.633,26.702 565.965,25.035 C564.297,23.368 562.623,22.342 560.652,21.575 C558.743,20.834 556.562,20.326 553.369,20.18 C550.169,20.033 549.148,20 541,20 C532.853,20 531.831,20.033 528.631,20.18 C525.438,20.326 523.257,20.834 521.349,21.575 C519.376,22.342 517.703,23.368 516.035,25.035 C514.368,26.702 513.342,28.377 512.574,30.349 C511.834,32.258 511.326,34.438 511.181,37.631 C511.035,40.831 511,41.851 511,50 C511,58.147 511.035,59.17 511.181,62.369 C511.326,65.562 511.834,67.743 512.574,69.651 C513.342,71.625 514.368,73.296 516.035,74.965 C517.703,76.634 519.376,77.658 521.349,78.425 C523.257,79.167 525.438,79.673 528.631,79.82 C531.831,79.965 532.853,80.001 541,80.001 C549.148,80.001 550.169,79.965 553.369,79.82 C556.562,79.673 558.743,79.167 560.652,78.425 C562.623,77.658 564.297,76.634 565.965,74.965 C567.633,73.296 568.659,71.625 569.425,69.651 C570.167,67.743 570.674,65.562 570.82,62.369 C570.966,59.17 571,58.147 571,50 C571,41.851 570.966,40.831 570.82,37.631"></path></g></g></g></svg></div><div style="padding-top: 8px;"><div style="color:#3897f0; font-family:Arial,sans-serif; font-size:14px; font-style:normal; font-weight:550; line-height:18px;">View this post on Instagram</div></div><div style="padding: 12.5% 0;"></div><div style="display: flex; flex-direction: row; margin-bottom: 14px; align-items: center;"><div><div style="background-color: #F4F4F4; border-radius: 50%; height: 12.5px; width: 12.5px; transform: translateX(0px) translateY(7px);"></div><div style="background-color: #F4F4F4; height: 12.5px; transform: rotate(-45deg) translateX(3px) translateY(1px); width: 12.5px; flex-grow: 0; margin-right: 14px; margin-left: 2px;"></div><div style="background-color: #F4F4F4; border-radius: 50%; height: 12.5px; width: 12.5px; transform: translateX(9px) translateY(-18px);"></div></div><div style="margin-left: 8px;"><div style="background-color: #F4F4F4; border-radius: 50%; flex-grow: 0; height: 20px; width: 20px;"></div><div style="width: 0; height: 0; border-top: 2px solid transparent; border-left: 6px solid #f4f4f4; border-bottom: 2px solid transparent; transform: translateX(16px) translateY(-4px) rotate(30deg)"></div></div><div style="margin-left: auto;"><div style="width: 0px; border-top: 8px solid #F4F4F4; border-right: 8px solid transparent; transform: translateY(16px);"></div><div style="background-color: #F4F4F4; flex-grow: 0; height: 12px; width: 16px; transform: translateY(-4px);"></div><div style="width: 0; height: 0; border-top: 8px solid #F4F4F4; border-left: 8px solid transparent; transform: translateY(-4px) translateX(8px);"></div></div></div><div style="display: flex; flex-direction: column; flex-grow: 1; justify-content: center; margin-bottom: 24px;"><div style="background-color: #F4F4F4; border-radius: 4px; flex-grow: 0; height: 14px; margin-bottom: 6px; width: 224px;"></div><div style="background-color: #F4F4F4; border-radius: 4px; flex-grow: 0; height: 14px; width: 144px;"></div></div></a>
-<p style="color:#c9c8cd; font-family:Arial,sans-serif; font-size:14px; line-height:17px; margin-bottom:0; margin-top:8px; overflow:hidden; padding:8px 0 7px; text-align:center; text-overflow:ellipsis; white-space:nowrap;"><a target="_blank" style="color:#c9c8cd; font-family:Arial,sans-serif; font-size:14px; font-style:normal; font-weight:normal; line-height:17px; text-decoration:none;" href="https://www.instagram.com/p/COaFnw0HOeh/?utm_source=ig_embed&amp;utm_campaign=loading">A post shared by GovTech (Singapore) (@govtechsg)</a>
-</p>
-</div>
-</blockquote>
-<script src="//www.instagram.com/embed.js" async="true"></script>
-</div>
-</td>
-</tr>
-</tbody>
-</table>
+<h4><strong><em>16. Accordions (TBC)</em></strong></h4>
 <p></p>
-<h2><s>17. Form Module</s></h2>
-<p>In future to be lead to separate landing page</p>
 <p></p>
-<h2><s>18. Image Collage Module</s></h2>
-<p>does not look good in mobile, upload images separately</p>
-<h2></h2>
-<h2><s>19. &amp; 20. Anchor Link Module - Variant 1/2</s></h2>
-<p>unable to anchor within same page</p>
