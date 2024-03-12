@@ -128,90 +128,33 @@ our internship applications.</p>
 <img style="width: 100%" height="auto" width="100%" alt="Application periods for GovTech's internship programmes" src="/images/careers/2024_internship_application_periods_compressed.jpg">
 </div>
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Step 1: Explore available roles and projects at GovTech" src="/images/careers/feb2024_internship_application_timeline_applications_open_1.png">
+</div>
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Step 2: Submit application via Careers@Gov" src="/images/careers/Feb_2024_internship_application_step2.png">
+</div>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Step 3: Tell GovTech about yourself and your top 3 preferred roles" src="/images/careers/internship_application_timeline_applications_open_3b.png">
+</div>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Step 4: Wait for GovTech to contact applicants, only shortlisted candidates will be contacted" src="/images/careers/Feb_2024_internship_application_step4.png">
+</div>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Post-application process for a role or project at GovTech" src="/images/careers/post_application_process.png">
+</div>
 <h4>Begin your GovTech journey today!</h4>
-<p></p>
-<div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="https://www.isomer.gov.sg" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Placeholder image" src="https://placehold.co/600x400"></div></div><div class="isomer-card-body"><div class="isomer-card-title">This is a title for your card</div><div class="isomer-card-description">This is body text for your card. Describe your card.</div><div class="isomer-card-link">This is a link for your card</div></div></a>
-<a rel="noopener noreferrer nofollow" href="https://www.isomer.gov.sg" class="isomer-card">
-<div class="isomer-card-image">
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Placeholder image" src="https://placehold.co/600x400">
-</div>
-</div>
+<div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="https://careers.tech.gov.sg/careers/talentcommunity" class="isomer-card"><div class="isomer-card-body"><div class="isomer-card-title">Join our GovTech Talent Community and receive the latest news!</div><div class="isomer-card-link">Join GovTech Talent Community</div></div></a>
+<a rel="noopener noreferrer nofollow" href="https://careers.tech.gov.sg/careers/Home" class="isomer-card">
 <div class="isomer-card-body">
-<div class="isomer-card-title">This is a title for your card</div>
-<div class="isomer-card-description">This is body text for your card. Describe your card.</div>
-<div class="isomer-card-link">This is a link for your card</div>
+<div class="isomer-card-title">Ready to apply? Check out our opportunities</div>
+<div class="isomer-card-link">Apply for GovTech careers</div>
 </div>
-</a><a rel="noopener noreferrer nofollow" href="https://www.isomer.gov.sg" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Placeholder image" src="https://placehold.co/600x400"></div></div><div class="isomer-card-body"><div class="isomer-card-title">This is a title for your card</div><div class="isomer-card-description">This is body text for your card. Describe your card.</div><div class="isomer-card-link">This is a link for your card</div></div></a>
+</a>
 </div>
-<p>Join our <a href="https://careers.tech.gov.sg/careers/talentcommunity" rel="noopener noreferrer nofollow" target="_blank">GovTech Talent Community</a> and
-receive the latest news!</p>
-<p></p>
-<p></p>
-<p></p>
-<h3>What is a GovTech Internship and who is it for?</h3>
-<ul data-tight="true" class="tight">
-<li>
-<p>A 3 to 6 months hands-on tech experience and to experience our culture.</p>
-</li>
-<li>
-<p>We are looking for undergraduates, post graduates and polytechnic students
-who are ... (include any skillsets, traits, qualifications GovTech is looking
-out for here)</p>
-</li>
-<li>
-<p>Gain the opportunity to work on projects beyond IT, and be part of a team
-of committed people that drive transformation through technology. GovTech
-provides a range of tech and non-tech internship roles for pre-tertiary,
-polytechnic and university students. If you have a passion for technology
-and are team-oriented, experience an internship with us today!</p>
-</li>
-</ul>
-<div class="isomer-image-wrapper">
-<img style="width: 50%;" height="auto" width="100%" alt="GovTech Internship" src="/images/careers/Internship_Infographic.png">
-</div>
-<h3>What to expect from the internship</h3>
-<ul data-tight="true" class="tight">
-<li>
-<p>Exposure to tech industry and strategic national projects</p>
-</li>
-<li>
-<p>Types of projects could include and are not limited to app development
-for government agencies, building infocomm infrastructures, supporting
-the Smart Nation initiative and more.</p>
-</li>
-<li>
-<p>Mentorship and peer learning</p>
-</li>
-<li>
-<p>Networking opportunities with our senior leaders</p>
-</li>
-</ul>
-<h3>Read about past interns’ experiences:</h3>
-<ul data-tight="true" class="tight">
-<li>
-<p><a href="https://medium.com/ytpo-govtech/internship-experience-at-dsaid-a16907042b28" rel="noopener noreferrer nofollow" target="_blank">Hari Shiman R, Data Science and Analytics at NUS, Data Science intern</a>
+<p>Have an enquiry? Reach out to us directly at <a href="mailto:AreYouIT@tech.gov.sg" rel="noopener noreferrer nofollow" target="_blank">AreYouIT@tech.gov.sg</a>
 </p>
-</li>
-<li>
-<p><a href="https://medium.com/ytpo-govtech/theres-so-much-to-designing-498774d58037" rel="noopener noreferrer nofollow" target="_blank">Chua Xiu Ling, User Experience intern</a>
-</p>
-</li>
-<li>
-<p><a href="https://medium.com/ytpo-govtech/internship-blog-7b021006e020" rel="noopener noreferrer nofollow" target="_blank">Han Xingjian, Sensors &amp; Internet of Things intern</a>
-</p>
-</li>
-</ul>
-<h3>How can you apply?</h3>
-<p>We welcome pre-tertiary, university and polytechnic students to apply
-for our internships during the internship application periods indicated
-below. Check out a wide range of internship opportunities across many exciting
-domains.</p>
-<p></p>
-<p>Join our <a href="https://go.gov.sg/govtechtalentcommunity" rel="noopener noreferrer nofollow" target="_blank">Talent Community</a> to
-be notified when our next application period opens.</p>
-<p>For enquiries, please write to <a href="mailto:AreYouIT@tech.gov.sg" rel="noopener noreferrer nofollow" target="_blank">AreYouIT@tech.gov.sg</a>
-</p>
-<p><a href="https://go.gov.sg/govtechtalentcommunity" rel="noopener noreferrer nofollow" target="\_blank">Apply Now</a> (Links
-to Application website when active)</p>
