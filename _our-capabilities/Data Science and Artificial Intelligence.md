@@ -47,6 +47,39 @@ can be translated into tangible impact. We start small and move fast; if
 a product works, we would scale them. If not, we would examine what could
 have gone wrong and what could be done better next time.</p>
 <h3>Our work and initiatives</h3>
+<p>DSAID has been instrumental in supporting WOG digital transformation and
+delivering Tech for Public Good.</p>
+<p>We also empower public officers and agencies to be more data-driven by
+building a strong data community and spearheading data training, bootcamps,
+and competitions.</p>
+<p>Below details some of the work that we engage in.</p>
+<div class="isomer-card-grid">
+<div class="isomer-card">
+<div class="isomer-card-body">
+<div class="isomer-card-title">DSAID consultancy projects</div>
+<div class="isomer-card-description">We partner with government agencies for projects involving data science
+and artificial intelligence.</div>
+</div>
+</div>
+<div class="isomer-card">
+<div class="isomer-card-body">
+<div class="isomer-card-title">Incubation of AI tech solutions</div>
+<div class="isomer-card-description">This includes Vigilant Gantry, an automated temperature screening access
+control system.</div>
+</div>
+</div>
+<div class="isomer-card">
+<div class="isomer-card-body">
+<div class="isomer-card-title">Development of data-driven products</div>
+<div class="isomer-card-description">We develop and deploy products for WOG, such as a central and secure data
+exploitation platform.</div>
+</div>
+</div>
+</div>
+<h3>Want to learn more about our work?</h3>
+<p></p>
+<p></p>
+<p></p>
 <p></p>
 <p></p>
 <h3>What does Data Science and Artificial Intelligence do?</h3>
