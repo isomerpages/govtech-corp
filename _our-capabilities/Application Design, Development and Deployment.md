@@ -11,8 +11,12 @@ image: /images/About Us/Our
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="GovTech capability centre for Application Design, Development and Deployment" src="/images/About Us/Our capabilities/capcentre_gds_banner__compressed_.jpg">
 </div>
-<h3>One of five capabilities centres, Application Design, Development and Deployment focuses on delivering citizen-centric solutions.</h3>
-<h4>What we do</h4>
+<p></p>
+<blockquote>
+<p>One of five capabilities centres, Application Design, Development and
+Deployment focuses on delivering citizen-centric solutions.</p>
+</blockquote>
+<h3>What we do</h3>
 <p>This capability centre prioritises the needs of citizens to develop products
 and services that improve their lives.&nbsp;</p>
 <p>Anchored by the Government Digital Services (GDS) division at GovTech,
@@ -76,6 +80,23 @@ personas for each agency such as "Ask Gayle" on GovTech's website, "Ask
 Wally" on PUB's website and more.</p>
 </li>
 </ol>
+<h3>Want to learn more about our work?</h3>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Official GovTech blogs from the different divisions." src="/images/About Us/Our capabilities/GovTech_blogs.png">
+</div>
+<p>Check out our <a href="/get-involved/stay-informed/" rel="noopener noreferrer nofollow" target="_blank">Medium blogs</a> to
+uncover our latest projects and learn about their development processes.</p>
+<p>Learn more about the <a href="https://www.developer.tech.gov.sg/products/all-products/" rel="noopener noreferrer nofollow" target="_blank">products and services</a> developed
+by our team.</p>
+<h3>Join our team</h3>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Testimonials for careers in GovTech capability centre for Application Design, Development and Deployment" src="/images/About Us/Our capabilities/capcentre_gds_quotes.jpg">
+</div>
+<p>Find opportunities as a UX Designer, Software Engineer, Quality Engineer,
+DevOps Engineer, Delivery Manager and more.</p>
+<p><a href="/careers/why-join-govtech/overview/" rel="noopener noreferrer nofollow" target="_blank">Explore careers at GovTech</a>.</p>
+<p></p>
+<p></p>
 <p></p>
 <h3>What does Application Design, Development and Deployment do?</h3>
 <p>Anchored by the Government Digital Services (GDS) division at GovTech,
@@ -139,9 +160,6 @@ uncover our latest projects and their development processes.</p>
 <p><a href="https://www.developer.tech.gov.sg/products/all-products/" rel="noopener noreferrer nofollow" target="_blank">Learn more</a> about
 the products and services developed by our team.</p>
 <h3>Interested in joining our team?</h3>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Testimonials from GovTechies working in the Application Design, Development and Deployment team" src="/images/About Us/capcentre_gds_quotes.jpg">
-</div>
 <p>Some of the key roles in our capability centre include UX designers, Software
 engineers, Quality engineers, DevOps engineers, Delivery managers and more.</p>
 <p>Learn more about career opportunities and what you stand to gain <a href="https://careers.tech.gov.sg/" rel="noopener noreferrer nofollow" target="_blank">here</a>.</p>
