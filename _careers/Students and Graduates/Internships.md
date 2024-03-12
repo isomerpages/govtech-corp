@@ -8,6 +8,9 @@ third_nav_title: Students and Graduates
 variant: tiptap
 image: /images/careers/internships_banner_compressed.jpg
 ---
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Batch of past GovTech interns having fun while posing for a photo at a photo booth" src="/images/careers/interns_photo_compressed.jpg">
+</div>
 <h3>Get the head start you need for a rewarding career</h3>
 <p>We know an internship is a crucial building block of a lifelong career.
 That's why our internship programmes, which span three to six months, are
@@ -24,9 +27,6 @@ as well as gain access to courses and career workshops.</p>
 <img style="width: 80%;" height="auto" width="100%" alt="GovTech's internship programme flowchart and what interns stand to gain from GovTech experience" src="/images/careers/internship_chart_2024.jpg">
 </div>
 <h3>Hear from our past interns</h3>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Batch of past GovTech interns having fun while posing for a photo at a photo booth" src="/images/careers/interns_photo_compressed.jpg">
-</div>
 <p></p>
 <table>
 <tbody>
