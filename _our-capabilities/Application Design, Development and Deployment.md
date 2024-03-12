@@ -1,0 +1,81 @@
+---
+title: Application Design, Development and Deployment
+permalink: /our-capabilities/application-design-development-and-deployment/
+variant: tiptap
+description: Learn about application development for government digital services
+  and find careers for DevOps engineers, UX designers, software engineers and
+  more!
+image: /images/About Us/Our
+  capabilities/Application_Design_Development_and_Deployment_compressed.jpg
+---
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Developing applications that shape the way we live, work and play in Singapore" src="/images/About Us/capcentre_gds_banner__compressed_.jpg">
+</div>
+<h3>What does Application Design, Development and Deployment do?</h3>
+<p>Anchored by the Government Digital Services (GDS) division at GovTech,
+our capability centre delivers citizen-centric solutions and creates a
+strong design and software engineering foundation within the public service.
+Our centre enables the government to continuously improve, integrate and
+deploy digital services to citizens while ensuring that these services
+are scalable, resilient and reusable.</p>
+<p>Our expertise includes Agile methods, user experience design, quality
+engineering, DevOps, reusable digital services and more.</p>
+<p><strong>Responsibilities / Practices:</strong>
+</p>
+<ol data-tight="true" class="tight">
+<li>
+<p><strong>Designing for users: </strong>Engaging citizens, listening to
+feedback and iteratively testing products for further enhancements.</p>
+</li>
+<li>
+<p><strong>Engineering with care: </strong>Building tech to last. Accelerating
+the process from inception to delivery, with modern technologies, open-source
+libraries and DevOps practices.</p>
+</li>
+<li>
+<p><strong>Building inclusive products and inclusive teams</strong>: Building
+for everybody, with a priority on accessibility.</p>
+</li>
+<li>
+<p><strong>Going far, together: </strong>Making a lasting impact on how government
+products are built to improve digital capabilities across the government.</p>
+</li>
+</ol>
+<h3>Our Work and Initiatives</h3>
+<p>As the team delivering citizen-centric products and services, our capability
+centre has a wide portfolio of past works as we build Tech for Public Good.
+Below are a few examples:</p>
+<div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="https://www.developer.tech.gov.sg/products/categories/digital-solutions-to-address-covid-19/tracetogether/overview.html" class="isomer-card"><div class="isomer-card-body"><div class="isomer-card-title">TraceTogether</div><div class="isomer-card-description">Helping Singapore curb the spread of COVID-19 with the development of apps like TraceTogether - a tool that was used by over 90% of Singapore residents as of 2021.</div><div class="isomer-card-link">TraceTogether</div></div></a>
+<a rel="noopener noreferrer nofollow" href="https://www.gobusiness.gov.sg/" class="isomer-card">
+<div class="isomer-card-body">
+<div class="isomer-card-title">GoBusiness</div>
+<div class="isomer-card-description">Making it easier for entrepreneurs to start businesses with a one-stop-shop
+portal, GoBusiness Licensing.</div>
+<div class="isomer-card-link">GoBusiness</div>
+</div>
+</a>
+</div>
+<div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="https://www.opencerts.io/" class="isomer-card"><div class="isomer-card-body"><div class="isomer-card-title">OpenCerts</div><div class="isomer-card-description">Preventing fraud in education credentials by enabling educational institutions to issue digital certificates via OpenCerts, allowing for cost and time savings due to ease of verification.</div><div class="isomer-card-link">OpenCerts</div></div></a>
+<a rel="noopener noreferrer nofollow" href="https://www.developer.tech.gov.sg/products/categories/data-and-apis/apex-cloud/overview.html" class="isomer-card">
+<div class="isomer-card-body">
+<div class="isomer-card-title">APEX</div>
+<div class="isomer-card-description">Facilitating inter-agency collaboration through APEX (Application Programming
+Interface Exchange), a secure catalogue of all APIs across the government.</div>
+<div class="isomer-card-link">APEX</div>
+</div>
+</a>
+</div>
+<div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="https://www.developer.tech.gov.sg/products/categories/platform/virtual-intelligent-chat-assistant/overview.html" class="isomer-card"><div class="isomer-card-body"><div class="isomer-card-title">VICA (Virtual Intelligent Chat Assistant)</div><div class="isomer-card-description">Developed technology that powers chatbots across government agencies. The chatbot itself is also customisable, presenting itself as different personas for each agency such as "Ask Gayle" on GovTech's website, "Ask Wally" on PUB's website and more.</div><div class="isomer-card-link">VICA</div></div></a>
+</div>
+<h3>Want to learn more about our work?</h3>
+<p>Check out our <a href="https://www.tech.gov.sg/media/blogs/listing" rel="noopener noreferrer nofollow" target="_blank">Medium blogs</a> and
+uncover our latest projects and their development processes.</p>
+<p><a href="https://www.developer.tech.gov.sg/products/all-products/" rel="noopener noreferrer nofollow" target="_blank">Learn more</a> about
+the products and services developed by our team.</p>
+<h3>Interested in joining our team?</h3>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Testimonials from GovTechies working in the Application Design, Development and Deployment team" src="/images/About Us/capcentre_gds_quotes.jpg">
+</div>
+<p>Some of the key roles in our capability centre include UX designers, Software
+engineers, Quality engineers, DevOps engineers, Delivery managers and more.</p>
+<p>Learn more about career opportunities and what you stand to gain <a href="https://careers.tech.gov.sg/" rel="noopener noreferrer nofollow" target="_blank">here</a>.</p>
