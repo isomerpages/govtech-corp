@@ -12,7 +12,7 @@ image: /images/careers/Careers_overview_meta_image_compressed.jpg
 </div>
 <h3>Advance our mission. Shape your future.</h3>
 <p>A GovTech career is one that’s filled with purpose and meaning. Our digital
-transformation projects underpin Singapore’s efforts to build a Smart Nation,
+transformation projects underpin Singapore’s efforts to build a Smart Nati3on,
 a home where possibilities are powered by infocomm technology and engineering
 solutions. The work you do here will hence better the lives of all Singaporean
 citizens and residents. As you climb the corporate ladder to join the ranks
@@ -105,13 +105,13 @@ to festive celebrations.</div>
 <div class="iframe-wrapper">
 <iframe style="max-width: 100%;" height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/WVLjmSgigbs?si=QuV5SiSpDxAxavoI"></iframe>
 </div>
-<h4>Want to learn more about life at GovTech? </h4>
+<h4>Want to learn more about life at GovTech?</h4>
 <p>Check out our <a href="https://linktr.ee/connectwithgovtech" rel="noopener noreferrer nofollow" target="_blank"><u>social media channels</u></a> to
 explore #InsideGovTech!</p>
 <h4>Start your GovTech journey today</h4>
 <p>Whether you're a student, graduate or working professional, many opportunities
 await you at GovTech. Find out more about joining GovTech by clicking below.</p>
-<div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="/careers/students-and-graduates/overview/" class="isomer-card"><div class="isomer-card-body"><div class="isomer-card-title">I am a student or graduate</div><div class="isomer-card-link">Explore internship/career opportunities </div></div></a>
+<div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="/careers/students-and-graduates/overview/" class="isomer-card"><div class="isomer-card-body"><div class="isomer-card-title">I am a student or graduate</div><div class="isomer-card-link">Explore internship/career opportunities</div></div></a>
 <a rel="noopener noreferrer nofollow" href="/careers/opportunities-for-professionals/overview/" class="isomer-card">
 <div class="isomer-card-body">
 <div class="isomer-card-title">I am a professional</div>
@@ -125,41 +125,7 @@ await you at GovTech. Find out more about joining GovTech by clicking below.</p>
 <p></p>
 <p></p>
 <p></p>
-<h3>Advance our mission. Shape your future.</h3>
-<p>A GovTech career is one that’s filled with purpose and meaning. Our digital
-transformation projects underpin Singapore’s efforts to build a Smart Nation,
-a home where possibilities are powered by infocomm technology and engineering
-solutions. The work you do here will hence better the lives of all Singaporean
-citizens and residents. As you climb the corporate ladder to join the ranks
-of Singapore’s tech leaders, you too will undergo a journey of transformation,
-both professionally and personally.
-<br>
-</p>
-<h3>Why join GovTech?</h3>
-<p>From a rewarding career to HR policies that value your welfare, here are
-the reasons why you should consider working at GovTech.
-<br>
-</p>
-<h4>Your life's work will benefit society</h4>
-<p>Embrace your new role as a changemaker. From digital services that bring
-convenience to the masses to critical inventions for navigating unforeseen
-crises, the multifaceted projects you undertake will serve and impact the
-public.
-<br>
-</p>
-<div class="iframe-wrapper">
-<iframe height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/HQ7LhDdcRaQ?si=6c08tezAyHxp9oP-"></iframe>
-</div>
-<p></p>
-<h4>Relish the joy of continuous learning</h4>
-<p>We are an agency filled with multidisciplinary teams of experts from different
-backgrounds. Every day, you’ll work with innovators and explore how new
-and emerging technologies can streamline business workflows in the public
-sector as well as enhance our existing solutions.</p>
-<p>What’s more, you’ll gain access to intensive technical training sessions
-as well as enriching courses and workshops, so your skills and knowledge
-will always stay relevant in an ever-evolving tech landscape.</p>
-<p></p>
+<h3></h3>
 <h4>Work for a reputable employer</h4>
 <p>“Is GovTech a good employer?” That’s a question on every interested jobseeker’s
 mind. As a caring employer, we put the interests of our people — whom we
