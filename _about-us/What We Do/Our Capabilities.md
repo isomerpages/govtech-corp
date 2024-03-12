@@ -44,6 +44,8 @@ infrastructure that is optimised for government operations.</div>
 </a><a rel="noopener noreferrer nofollow" href="/our-capabilities/smart-city-technology/" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Placeholder" src="https://placehold.co/600x400"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Smart City Technology</div><div class="isomer-card-description">This centre works on the design and implementation of a government-wide Internet of Things (IoT) infrastructure to support Smart City applications.</div><div class="isomer-card-link">Learn more</div></div></a>
 </div>
 <p></p>
+<div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="/our-capabilities/cybersecurity/" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Placeholder image" src="https://placehold.co/600x400"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Cybersecurity</div><div class="isomer-card-description">This centre has launched a comprehensive suite of cybersecurity capabilities and works with various agencies to ensure a safer Smart Nation.</div><div class="isomer-card-link">Learn more</div></div></a>
+</div>
 <p></p>
 <h3>Leading Digital Transformation</h3>
 <p>Our five capability centres were established to strengthen the public
