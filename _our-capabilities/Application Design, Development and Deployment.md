@@ -23,19 +23,28 @@ are scalable, resilient and reusable.</p>
 the public service. Our expertise includes Agile methods, user experience
 design, quality engineering, DevOps, reusable digital services and more.</p>
 <p>Below are the responsibilities that we uphold in our work.</p>
-<div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="https://www.isomer.gov.sg" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Placeholder image" src="https://placehold.co/600x400"></div></div><div class="isomer-card-body"><div class="isomer-card-title">This is a title for your card</div><div class="isomer-card-description">This is body text for your card. Describe your card.</div><div class="isomer-card-link">This is a link for your card</div></div></a>
-<a rel="noopener noreferrer nofollow" href="https://www.isomer.gov.sg" class="isomer-card">
-<div class="isomer-card-image">
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Placeholder image" src="https://placehold.co/600x400">
-</div>
-</div>
+<div class="isomer-card-grid">
+<div class="isomer-card">
 <div class="isomer-card-body">
-<div class="isomer-card-title">This is a title for your card</div>
-<div class="isomer-card-description">This is body text for your card. Describe your card.</div>
-<div class="isomer-card-link">This is a link for your card</div>
+<div class="isomer-card-title">Designing for users</div>
+<div class="isomer-card-description">Engage citizens, listen to feedback and iteratively test products for
+further enhancements.</div>
 </div>
-</a><a rel="noopener noreferrer nofollow" href="https://www.isomer.gov.sg" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Placeholder image" src="https://placehold.co/600x400"></div></div><div class="isomer-card-body"><div class="isomer-card-title">This is a title for your card</div><div class="isomer-card-description">This is body text for your card. Describe your card.</div><div class="isomer-card-link">This is a link for your card</div></div></a>
+</div>
+<div class="isomer-card">
+<div class="isomer-card-body">
+<div class="isomer-card-title">Engineering with care</div>
+<div class="isomer-card-description">Build robust innovations in less time using modern tech, open-source libraries
+and DevOps practices.</div>
+</div>
+</div>
+<div class="isomer-card">
+<div class="isomer-card-body">
+<div class="isomer-card-title">Prioritising inclusivity</div>
+<div class="isomer-card-description">Create products and services that are accessible for everybody, and build
+an inclusive team culture.</div>
+</div>
+</div>
 </div>
 <p></p>
 <p></p>
