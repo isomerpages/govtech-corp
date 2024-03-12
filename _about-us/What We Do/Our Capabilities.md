@@ -33,5 +33,4 @@ products and services across the government.</p>
 <p>We are always searching for like-minded tech talents. If any of our digital
 transformation goals resonate with you, check out the opportunities available
 at GovTech now.</p>
-<p><a href="/careers/why-join-govtech/overview/" rel="noopener noreferrer nofollow" target="_blank">Explore career opportunities at GovTech.</a>
-</p>
+<p><a href="/careers/why-join-govtech/overview/" rel="noopener noreferrer nofollow" target="_blank">Explore career opportunities at GovTech</a>.</p>
