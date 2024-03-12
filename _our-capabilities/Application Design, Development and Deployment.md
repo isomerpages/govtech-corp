@@ -46,7 +46,36 @@ an inclusive team culture.</div>
 </div>
 </div>
 </div>
-<p></p>
+<h3>Our work and initiatives</h3>
+<p>Our capability centre has a wide portfolio of past works as we build Tech
+for Public Good. Below are a few examples:</p>
+<ol data-tight="true" class="tight">
+<li>
+<p>Helping Singapore curb the spread of COVID-19 with the development of
+apps like TraceTogether, a tool that was used by over 90% of Singapore
+residents as of 2021.</p>
+</li>
+<li>
+<p>Making it easier for entrepreneurs to start businesses with a one-stop-shop
+portal, GoBusiness Licensing.</p>
+</li>
+<li>
+<p>Preventing fraud in education credentials by enabling educational institutions
+to issue digital certificates via OpenCerts, allowing for cost and time
+savings due to ease of verification.</p>
+</li>
+<li>
+<p>Facilitating inter-agency collaboration through APEX (Application Programming
+interface EXchange), a secure catalogue of all APIs across the government.</p>
+</li>
+<li>
+<p>Developed a government virtual assistant, VICA (Virtual Intelligent Chat
+Assistant) - a technology that powers chatbots across government agencies.
+The chatbot itself is also customisable, presenting itself as different
+personas for each agency such as "Ask Gayle" on GovTech's website, "Ask
+Wally" on PUB's website and more.</p>
+</li>
+</ol>
 <p></p>
 <h3>What does Application Design, Development and Deployment do?</h3>
 <p>Anchored by the Government Digital Services (GDS) division at GovTech,
