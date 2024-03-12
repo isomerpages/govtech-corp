@@ -30,7 +30,19 @@ place to live.</p>
 <div class="iframe-wrapper">
 <iframe style="max-width: 100%;" height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/HQ7LhDdcRaQ?si=7wWin82sbgSe8s2y"></iframe>
 </div>
-<p></p>
+<h3>Relish the joy of continuous learning</h3>
+<p>We are an agency filled with multidisciplinary teams of experts from different
+backgrounds. Every day, you’ll work with innovators and explore how new
+and emerging technologies can streamline business workflows in the public
+sector as well as enhance our existing solutions.&nbsp;</p>
+<p>What’s more, you’ll gain access to intensive technical training sessions
+as well as enriching courses and workshops, so your skills and knowledge
+will always stay relevant in an ever-evolving tech landscape.</p>
+<h3>Work for a reputable employer</h3>
+<p>“Is GovTech a good employer?” That’s a question on every interested jobseeker’s
+mind. As a caring employer, we put the interests of our people — whom we
+call “GovTechies” — at the heart of everything we do. We believe our awards
+speak volumes about our vibrant and employee-friendly workplace!</p>
 <p></p>
 <p></p>
 <p></p>
