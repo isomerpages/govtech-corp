@@ -18,13 +18,13 @@ products and services across the government.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/About Us/Our capabilities/Application_Design_Development_and_Deployment_compressed.jpg">
 </div>
-<div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="/our-capabilities/application-design-development-and-deployment/" class="isomer-card"><div class="isomer-card-body"><div class="isomer-card-title">Application Design, Development and Deployment</div><div class="isomer-card-description">This centre develops citizen-centric services that support public sector digital transformation, such as TraceTogether and GoBusiness Portal.</div><div class="isomer-card-link">Learn more</div></div></a>
+<div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="/our-capabilities/application-design-development-and-deployment/" class="isomer-card"><div class="isomer-card-body"><div class="isomer-card-title">Application Design, Development and Deployment</div><div class="isomer-card-description">This centre develops citizen-centric services that support public sector digital transformation, such as TraceTogether and GoBusiness Portal.</div><div class="isomer-card-link">Learn more about Application Design, Development and Deployment</div></div></a>
 </div>
 <p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/About Us/Our capabilities/Our_capabilities_cybersecurity_compressed.jpg">
 </div>
-<div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="/our-capabilities/cybersecurity/" class="isomer-card"><div class="isomer-card-body"><div class="isomer-card-title">Cybersecurity</div><div class="isomer-card-description">This centre has launched a comprehensive suite of cybersecurity capabilities and works with various agencies to ensure a safer Smart Nation.</div><div class="isomer-card-link">Learn more</div></div></a>
+<div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="/our-capabilities/cybersecurity/" class="isomer-card"><div class="isomer-card-body"><div class="isomer-card-title">Cybersecurity</div><div class="isomer-card-description">This centre has launched a comprehensive suite of cybersecurity capabilities and works with various agencies to ensure a safer Smart Nation.</div><div class="isomer-card-link">Learn more about cybersecurity</div></div></a>
 </div>
 <p></p>
 <div class="isomer-image-wrapper">
