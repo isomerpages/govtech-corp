@@ -7,8 +7,55 @@ description: How does GovTech’s cybersecurity capabilities centre safeguard ou
 image: /images/About Us/Our capabilities/Our_capabilities_cybersecurity_compressed.jpg
 ---
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Cybersecurity team defending Singapore's cyberspace and digital way of life" src="/images/About Us/capcentre_cybersecurity_banner.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="GovTech capability centre for cybersecurity" src="/images/About Us/Our capabilities/capcentre_cybersecurity_banner.jpg">
 </div>
+<p></p>
+<blockquote>
+<p>The Cyber Security Group (CSG) is a capability centre that safeguards
+the government’s Information and Communications Technology &amp; Smart
+Systems.</p>
+</blockquote>
+<h3>What we do</h3>
+<p>Our goal is to enable Singapore to be a safe and secure Smart Nation.
+We do this by driving a holistic and sustainable whole-of-government (WOG)
+approach that delivers innovative and forward-thinking cybersecurity capabilities.&nbsp;</p>
+<p>We work with the owners of WOG and Smart Nation Programmes to implement
+secure architectures, and the Chief Information Security Officers (CISOs)
+in agencies to provide cybersecurity governance and technical guidance.</p>
+<p>Our responsibilities/practices include:&nbsp;</p>
+<p>1. Government cybersecurity strategy and policy: Developing strategies
+and establishing cybersecurity governance policies, standards and guidelines
+for WOG.</p>
+<p>2. Government cybersecurity consulting: Providing cybersecurity advisories
+like risk assessments and ensuring policy implementation for government
+projects.</p>
+<p>3. Government cybersecurity defence: Strengthening blue-teaming capabilities
+through threat detection and incident response to protect government digital
+systems.</p>
+<p>4. Advanced cybersecurity capabilities: Strengthening the government's
+cybersecurity capabilities through red-teaming, product development and
+cybersecurity competency training.</p>
+<h3>Our work and initiatives</h3>
+<p>We safeguard our country from heightened cyber threats made against government
+agencies.</p>
+<h4>Enhancing the government’s defences</h4>
+<div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="https://www.isomer.gov.sg" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Placeholder image" src="https://placehold.co/600x400"></div></div><div class="isomer-card-body"><div class="isomer-card-title">This is a title for your card</div><div class="isomer-card-description">This is body text for your card. Describe your card.</div><div class="isomer-card-link">This is a link for your card</div></div></a>
+<a rel="noopener noreferrer nofollow" href="https://www.isomer.gov.sg" class="isomer-card">
+<div class="isomer-card-image">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Placeholder image" src="https://placehold.co/600x400">
+</div>
+</div>
+<div class="isomer-card-body">
+<div class="isomer-card-title">This is a title for your card</div>
+<div class="isomer-card-description">This is body text for your card. Describe your card.</div>
+<div class="isomer-card-link">This is a link for your card</div>
+</div>
+</a><a rel="noopener noreferrer nofollow" href="https://www.isomer.gov.sg" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Placeholder image" src="https://placehold.co/600x400"></div></div><div class="isomer-card-body"><div class="isomer-card-title">This is a title for your card</div><div class="isomer-card-description">This is body text for your card. Describe your card.</div><div class="isomer-card-link">This is a link for your card</div></div></a>
+</div>
+<p></p>
+<p></p>
+<p></p>
 <h3>What does Cybersecurity do?</h3>
 <p>The Cyber Security Group (CSG), established as a capability centre at
 GovTech, drives a holistic and sustainable whole-of-government (WOG) approach
