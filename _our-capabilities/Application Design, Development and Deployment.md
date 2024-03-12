@@ -9,8 +9,36 @@ image: /images/About Us/Our
   capabilities/Application_Design_Development_and_Deployment_compressed.jpg
 ---
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Developing applications that shape the way we live, work and play in Singapore" src="/images/About Us/capcentre_gds_banner__compressed_.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="GovTech capability centre for Application Design, Development and Deployment" src="/images/About Us/Our capabilities/capcentre_gds_banner__compressed_.jpg">
 </div>
+<h3>One of five capabilities centres, Application Design, Development and Deployment focuses on delivering citizen-centric solutions.</h3>
+<h4>What we do</h4>
+<p>This capability centre prioritises the needs of citizens to develop products
+and services that improve their lives.&nbsp;</p>
+<p>Anchored by the Government Digital Services (GDS) division at GovTech,
+this centre enables the government to continuously improve, integrate and
+deploy digital services to citizens while ensuring that these services
+are scalable, resilient and reusable.</p>
+<p>We also create a strong design and software engineering foundation within
+the public service. Our expertise includes Agile methods, user experience
+design, quality engineering, DevOps, reusable digital services and more.</p>
+<p>Below are the responsibilities that we uphold in our work.</p>
+<div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="https://www.isomer.gov.sg" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Placeholder image" src="https://placehold.co/600x400"></div></div><div class="isomer-card-body"><div class="isomer-card-title">This is a title for your card</div><div class="isomer-card-description">This is body text for your card. Describe your card.</div><div class="isomer-card-link">This is a link for your card</div></div></a>
+<a rel="noopener noreferrer nofollow" href="https://www.isomer.gov.sg" class="isomer-card">
+<div class="isomer-card-image">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Placeholder image" src="https://placehold.co/600x400">
+</div>
+</div>
+<div class="isomer-card-body">
+<div class="isomer-card-title">This is a title for your card</div>
+<div class="isomer-card-description">This is body text for your card. Describe your card.</div>
+<div class="isomer-card-link">This is a link for your card</div>
+</div>
+</a><a rel="noopener noreferrer nofollow" href="https://www.isomer.gov.sg" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Placeholder image" src="https://placehold.co/600x400"></div></div><div class="isomer-card-body"><div class="isomer-card-title">This is a title for your card</div><div class="isomer-card-description">This is body text for your card. Describe your card.</div><div class="isomer-card-link">This is a link for your card</div></div></a>
+</div>
+<p></p>
+<p></p>
 <h3>What does Application Design, Development and Deployment do?</h3>
 <p>Anchored by the Government Digital Services (GDS) division at GovTech,
 our capability centre delivers citizen-centric solutions and creates a
