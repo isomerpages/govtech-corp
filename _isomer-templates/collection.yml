@@ -2,7 +2,6 @@ collections:
   isomer-templates:
     output: true
     order:
-      - Campaign.md
       - Persona.md
       - Listing.md
       - Headshot.md
