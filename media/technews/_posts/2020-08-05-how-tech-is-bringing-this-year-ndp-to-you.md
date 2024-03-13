@@ -67,8 +67,10 @@ there’s no more misplacing those coupons!</p>
 <p>Choose discounts from a wide variety of categories such as food &amp;
 beverages, grocery shopping, and local attractions like the Singapore Zoo
 and Sentosa.</p>
-<p>(For those of you who have our <a href="www.life.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Moments of Life app</a>, you can also access the
-discount list there)</p>
+<p>(For those of you who have our <a href="https://www.life.gov.sg/" rel="noopener noreferrer nofollow" target="_blank">Moments of Life app</a>, you can also access
+the discount list there)</p>
+<p><strong><em>Note: </em></strong><em>Moments of Life is now known as LifeSG</em>
+</p>
 <h3><strong>Highlight 3: Connect with fellow Singaporeans through your stories</strong></h3>
 <p>2020 has been a year of unprecedented challenges posed by the Covid-19
 pandemic. A major component of this year’s NDP will capture the voices
