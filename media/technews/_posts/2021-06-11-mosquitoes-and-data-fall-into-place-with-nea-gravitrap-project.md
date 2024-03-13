@@ -87,6 +87,6 @@ pants.</p>
 water from their homes and immediate surroundings to deprive the mosquitoes
 of breeding habitats.</p>
 <p>To see whether your neighbourhood is in a red, yellow or green zone, check
-out the <a href="www.nea.gov.sg" rel="noopener noreferrer nofollow" target="_blank">NEA website</a> and
-the myENV app. Updates happen every workday! Do also check out <a href="www.data.gov.sg" rel="noopener noreferrer nofollow" target="_blank">data.gov.sg</a> to
+out the <a href="https://www.nea.gov.sg/" rel="noopener noreferrer nofollow" target="_blank">NEA website</a> and
+the myENV app. Updates happen every workday! Do also check out <a href="https://beta.data.gov.sg/" rel="noopener noreferrer nofollow" target="_blank">data.gov.sg</a> to
 find out more information about dengue data patterns in Singapore!</p>
