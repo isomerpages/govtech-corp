@@ -4,7 +4,7 @@ permalink: /products-and-services/for-citizens/digital-services/singpass/
 variant: tiptap
 description: "Singpass: Singapore's trusted digital identity for secure access
   to 2,000+ services online and offline. 🌐🔒 Available in English, Chinese,
-  Malay & Tamil. "
+  Malay & Tamil."
 third_nav_title: Digital Services
 ---
 <h3>Digitalising national identity and providing secure access to government e-services with Singpass.</h3>
@@ -129,9 +129,6 @@ by educating ourselves on the latest phishing tactics. Some of them include:</p>
 to login to their Singpass account via a spoofed Singpass login website.</p>
 </li>
 </ul>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/About Us/Our Achievements/singpass_security_measures_2.jpg">
-</div>
 <h4>Stay vigilant by following these steps:</h4>
 <ol data-tight="true" class="tight">
 <li>
@@ -160,7 +157,6 @@ our digital identity on the Singapore's Government Developer Portal.</p>
 <h3>5. Interested to find out more about Singpass?</h3>
 <p>Ready to get onboard Singpass? Visit Singpass to start registration.</p>
 <p>Download the Singpass app to start using its services.</p>
-<p></p>
 <p>Stay informed on updates and any new product developments by subscribing
 to our <a href="http://eepurl.com/cUwIsD" rel="noopener noreferrer nofollow" target="_blank">TechNews Newsletter</a>!</p>
 <p>Sign up as a <a href="http://eepurl.com/hsr131" rel="noopener noreferrer nofollow" target="_blank">Tech Kaki</a> to
