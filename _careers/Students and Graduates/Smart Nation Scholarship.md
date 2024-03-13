@@ -18,6 +18,48 @@ opportunity to jump-start a dynamic career in tech. During your course
 of study, you'll learn how innovation can be harnessed to serve the public
 good.</p>
 <div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="GovTech's Smart Nation Scholarship - Advance your career, make an impact and lead others" src="/images/careers/SNS_Infographic.png">
+</div>
+<h3>Benefits of being a Smart Nation Scholar</h3>
+<div class="isomer-card-grid">
+<div class="isomer-card">
+<div class="isomer-card-body">
+<div class="isomer-card-title">Employer-sponsored training</div>
+<div class="isomer-card-description">As a GovTech scholar, you will receive training funds to attend professional
+development courses.</div>
+</div>
+</div>
+<div class="isomer-card">
+<div class="isomer-card-body">
+<div class="isomer-card-title">Direct entry to Technology Associate Programme (TAP)</div>
+<div class="isomer-card-description">Hone your leadership and technical abilities through GovTech's Technology
+Associate Programme (TAP).</div>
+</div>
+</div>
+<div class="isomer-card">
+<div class="isomer-card-body">
+<div class="isomer-card-title">Get access to mentors</div>
+<div class="isomer-card-description">Raise all your questions about a career in tech during the regular check-ins
+with your seniors.</div>
+</div>
+</div>
+</div>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p>Singapore has set its sights on becoming a Smart Nation. This has engendered
+a need for skilled talents who dare to dream big and desire to co-create
+a world of digital possibilities. The Smart Nation Scholarship, jointly
+offered by GovTech, Cyber Security Agency of Singapore and Infocomm Media
+Development Authority, aims to give promising individuals like you the
+opportunity to jump-start a dynamic career in tech. During your course
+of study, you'll learn how innovation can be harnessed to serve the public
+good.</p>
+<div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="GovTech's Smart Nation Scholarship" src="/images/careers/Smart_Nation_Scholarship_infographic.jpg">
 </div>
 <h3>Benefits of being a Smart Nation Scholar</h3>
