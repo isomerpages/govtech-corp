@@ -8,6 +8,9 @@ third_nav_title: Students and Graduates
 variant: tiptap
 image: /images/careers/TAP_meta_image_compressed.jpg
 ---
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="The Technology Associate Programme (TAP) is a 2-year programme designed for future tech leaders" src="/images/careers/TAP_banner.jpg">
+</div>
 <h3>Lay the foundation of your leadership development</h3>
 <p>Looking for a graduate programme that will allow you to work with tech
 and unlock your leadership potential at the same time? GovTech’s two-year
