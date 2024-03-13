@@ -45,6 +45,27 @@ with your seniors.</div>
 </div>
 </div>
 <p></p>
+<div class="isomer-card-grid">
+<div class="isomer-card">
+<div class="isomer-card-body">
+<div class="isomer-card-title">Expand your network</div>
+<div class="isomer-card-description">Make meaningful connections with our engineers, leaders and alumni.</div>
+</div>
+</div>
+<div class="isomer-card">
+<div class="isomer-card-body">
+<div class="isomer-card-title">Exposure to different sectors</div>
+<div class="isomer-card-description">Get to rotate among different technology tracks and find your true interest.</div>
+</div>
+</div>
+<div class="isomer-card">
+<div class="isomer-card-body">
+<div class="isomer-card-title">Demonstrate your leadership</div>
+<div class="isomer-card-description">Become a leader who operates in the GovTech way: Act with Purpose, Model
+Empathy and Develop People</div>
+</div>
+</div>
+</div>
 <p></p>
 <p></p>
 <p></p>
