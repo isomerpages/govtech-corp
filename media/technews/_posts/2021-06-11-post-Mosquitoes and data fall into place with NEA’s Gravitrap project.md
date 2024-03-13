@@ -94,3 +94,28 @@ of breeding habitats.</p>
 out the <a href="https://www.nea.gov.sg/" rel="noopener noreferrer nofollow" target="_blank">NEA website</a> and
 the myENV app. Updates happen every workday! Do also check out <a href="https://beta.data.gov.sg/" rel="noopener noreferrer nofollow" target="_blank">data.gov.sg</a> to
 find out more information about dengue data patterns in Singapore!</p>
+<hr>
+<h4><strong>Related Content</strong></h4>
+<ul data-tight="true" class="tight">
+<li>
+<p><a href="https://www.tech.gov.sg/media/technews/using-ai-to-differentiate-mosquito-larvae?utm_medium=recommender_0&amp;utm_source=aHR0cHM6Ly93d3cudGVjaC5nb3Yuc2cvbWVkaWEvdGVjaG5ld3MvbW9zcXVpdG9lcy1hbmQtZGF0YS1mYWxsLWludG8tcGxhY2Utd2l0aC1uZWEtZ3Jhdml0cmFwLXByb2plY3Q=&amp;utm_content=aHR0cHM6Ly93d3cudGVjaC5nb3Yuc2cvbWVkaWEvdGVjaG5ld3MvdXNpbmctYWktdG8tZGlmZmVyZW50aWF0ZS1tb3NxdWl0by1sYXJ2YWU=" rel="noopener noreferrer nofollow" target="_blank"><u>Using AI to differentiate different types of mosquito larvae</u></a>
+</p>
+</li>
+<li>
+<p><a href="https://www.tech.gov.sg/media/technews/how-ai-and-a-camera-phone-help-keep-food-on-our-tables?utm_medium=recommender_1&amp;utm_source=aHR0cHM6Ly93d3cudGVjaC5nb3Yuc2cvbWVkaWEvdGVjaG5ld3MvbW9zcXVpdG9lcy1hbmQtZGF0YS1mYWxsLWludG8tcGxhY2Utd2l0aC1uZWEtZ3Jhdml0cmFwLXByb2plY3Q=&amp;utm_content=aHR0cHM6Ly93d3cudGVjaC5nb3Yuc2cvbWVkaWEvdGVjaG5ld3MvaG93LWFpLWFuZC1hLWNhbWVyYS1waG9uZS1oZWxwLWtlZXAtZm9vZC1vbi1vdXItdGFibGVz" rel="noopener noreferrer nofollow" target="_blank"><u>How AI and a camera phone help keep food on our tables</u></a>
+</p>
+</li>
+<li>
+<p><a href="https://www.tech.gov.sg/media/technews/gov-innovation-of-fees-fines-and-flotsam?utm_medium=recommender_2&amp;utm_source=aHR0cHM6Ly93d3cudGVjaC5nb3Yuc2cvbWVkaWEvdGVjaG5ld3MvbW9zcXVpdG9lcy1hbmQtZGF0YS1mYWxsLWludG8tcGxhY2Utd2l0aC1uZWEtZ3Jhdml0cmFwLXByb2plY3Q=&amp;utm_content=aHR0cHM6Ly93d3cudGVjaC5nb3Yuc2cvbWVkaWEvdGVjaG5ld3MvZ292LWlubm92YXRpb24tb2YtZmVlcy1maW5lcy1hbmQtZmxvdHNhbQ==" rel="noopener noreferrer nofollow" target="_blank"><u>Gov Innovation: Of fees, fines and flotsam</u></a>
+</p>
+</li>
+<li>
+<p><a href="https://www.tech.gov.sg/media/technews/of-aliens-and-the-digital-dark-age?utm_medium=recommender_3&amp;utm_source=aHR0cHM6Ly93d3cudGVjaC5nb3Yuc2cvbWVkaWEvdGVjaG5ld3MvbW9zcXVpdG9lcy1hbmQtZGF0YS1mYWxsLWludG8tcGxhY2Utd2l0aC1uZWEtZ3Jhdml0cmFwLXByb2plY3Q=&amp;utm_content=aHR0cHM6Ly93d3cudGVjaC5nb3Yuc2cvbWVkaWEvdGVjaG5ld3Mvb2YtYWxpZW5zLWFuZC10aGUtZGlnaXRhbC1kYXJrLWFnZQ==" rel="noopener noreferrer nofollow" target="_blank"><u>Of Aliens and the Digital Dark Age</u></a>
+</p>
+</li>
+<li>
+<p><a href="https://www.tech.gov.sg/media/technews/from-internet-to-iot?utm_medium=recommender_4&amp;utm_source=aHR0cHM6Ly93d3cudGVjaC5nb3Yuc2cvbWVkaWEvdGVjaG5ld3MvbW9zcXVpdG9lcy1hbmQtZGF0YS1mYWxsLWludG8tcGxhY2Utd2l0aC1uZWEtZ3Jhdml0cmFwLXByb2plY3Q=&amp;utm_content=aHR0cHM6Ly93d3cudGVjaC5nb3Yuc2cvbWVkaWEvdGVjaG5ld3MvZnJvbS1pbnRlcm5ldC10by1pb3Q=" rel="noopener noreferrer nofollow" target="_blank"><u>From Internet to IoT</u></a>
+</p>
+</li>
+</ul>
+<p></p>
