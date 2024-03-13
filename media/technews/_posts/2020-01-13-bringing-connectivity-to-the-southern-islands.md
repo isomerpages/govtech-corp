@@ -6,7 +6,7 @@ image: images/technews/tvws-part1.JPG
 variant: tiptap
 ---
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="tvws" src="/images/technews//tvws-part1.JPG">
+<img style="width: 100%" height="auto" width="100%" alt="GovTech and SLA testing the use of television white space for data transmission over long distances to improve drone operations" src="/images/technews/Bringing_connectivity_to_the_Southern_Islands_over_Television_White_Space_1.jpg">
 </div>
 <h2>GovTech and SLA are testing the use of television white space for data transmission over long distances. This would pave the way for remote aerial drone operations and IoT deployments on Singapore’s Southern Islands.</h2>
 <p>Boasting pristine beaches and tranquillity that contrasts starkly with
@@ -43,7 +43,7 @@ unmanned aerial vehicle (drone) to a laptop. The six-propeller drone, custom-bui
 by ST Engineering, houses a high-definition camera and a module that allows
 it to tap into TVWS for sending video feeds wirelessly.</p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="tvws" src="/images/technews//tvws-part2.JPG">
+<img style="width: 100%" height="auto" width="100%" alt="GovTechie watching the video data transmitted from the drone to laptop" src="/images/technews/Bringing_connectivity_to_the_Southern_Islands_over_Television_White_Space_2.jpg">
 </div>
 <h3><strong>Connecting the dots</strong></h3>
 <p>Discussions for this trial began in October 2018, when officers from SLA
@@ -88,7 +88,7 @@ the frequency being used, the power adjustment on the TVWS equipment, and
 so on,” Mr Toh said. The findings of the trial will help inform how the
 eventual TVWS infrastructure on the Southern Islands will look like.</p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="tvws" src="/images/technews//tvws-part3.JPG">
+<img style="width: 100%" height="auto" width="100%" alt="Using data to restructure TVWS infrastructure on the Southern Islands" src="/images/technews/Bringing_connectivity_to_the_Southern_Islands_over_Television_White_Space_3.jpg">
 </div>
 <p>Mr Aw is optimistic that, once established, TVWS connectivity will further
 enable SLA to operate a range of Internet of Things (IoT) sensors on the
