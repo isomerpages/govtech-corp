@@ -139,7 +139,7 @@ Leads and our senior leaders.</p>
 <a rel="noopener noreferrer nofollow" href="https://careers.tech.gov.sg/careers/talentcommunity" class="isomer-card">
 <div class="isomer-card-body">
 <div class="isomer-card-title">Get updates on scholarship announcements</div>
-<div class="isomer-card-link">Join our Talent Community</div>
+<div class="isomer-card-link">Join our GovTech Talent Community</div>
 </div>
 </a>
 </div>
