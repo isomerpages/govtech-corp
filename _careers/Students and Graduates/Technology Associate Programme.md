@@ -20,6 +20,40 @@ lives of Singaporeans.</p>
 <img style="width: 100%" height="auto" width="100%" alt="GovTech's Technology Associate Programme for final-year students and university graduates" src="/images/careers/TAP_infographic_v3.jpg">
 </div>
 <h3>Benefits of becoming a Tech Associate</h3>
+<div class="isomer-card-grid">
+<div class="isomer-card">
+<div class="isomer-card-body">
+<div class="isomer-card-title">Acquire in-depth knowledge</div>
+<div class="isomer-card-description">Team up with experts in your chosen domain to solve nationwide problems.</div>
+</div>
+</div>
+<div class="isomer-card">
+<div class="isomer-card-body">
+<div class="isomer-card-title">Receive mentorship from veterans</div>
+<div class="isomer-card-description">Senior leaders and GovTechies will be on deck to share both career and
+technical advice with you.</div>
+</div>
+</div>
+<div class="isomer-card">
+<div class="isomer-card-body">
+<div class="isomer-card-title">Connect with tech enthusiasts</div>
+<div class="isomer-card-description">Brainstorm ideas and share your vision of a tech-enabled Singapore with
+your peers.</div>
+</div>
+</div>
+</div>
+<p></p>
+<p>Looking for a graduate programme that will allow you to work with tech
+and unlock your leadership potential at the same time? GovTech’s two-year
+Technology Associate Programme (TAP) may just be the right one for you.
+Designed with final-year students and fresh university graduates in mind,
+this exclusive and personalised programme turns young minds like you into
+confident tech leaders who will ultimately make a positive impact on the
+lives of Singaporeans.</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="GovTech's Technology Associate Programme for final-year students and university graduates" src="/images/careers/TAP_infographic_v3.jpg">
+</div>
+<h3>Benefits of becoming a Tech Associate</h3>
 <h4>1. Acquire in-depth knowledge</h4>
 <p>Team up with experts in your chosen domain to solve nationwide problems.</p>
 <h4>2. Receive mentorship from veterans:</h4>
