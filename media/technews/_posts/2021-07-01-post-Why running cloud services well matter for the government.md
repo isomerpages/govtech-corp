@@ -72,6 +72,7 @@ arise. Ultimately, this is the best way to serve citizens as we transform
 how we deliver services through digital technologies.</p>
 <p><em>This article was contributed by Alfred Siew. Alfred Siew is the editor of <a href="https://unsplash.com/@kowalikus?utm_source=unsplash&amp;amp;utm_medium=referral&amp;amp;utm_content=creditCopyText" rel="noopener noreferrer nofollow" target="_blank">Techgoondu.com</a>, a technology news website based in Singapore that was founded in 2008.</em>
 </p>
+<hr>
 <h4><strong>Related Content</strong></h4>
 <ul data-tight="true" class="tight">
 <li>
