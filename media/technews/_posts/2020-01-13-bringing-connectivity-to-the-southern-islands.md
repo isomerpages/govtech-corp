@@ -8,7 +8,7 @@ variant: tiptap
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="GovTech and SLA testing the use of television white space for data transmission over long distances to improve drone operations" src="/images/technews/Bringing_connectivity_to_the_Southern_Islands_over_Television_White_Space_1.jpg">
 </div>
-<h2>GovTech and SLA are testing the use of television white space for data transmission over long distances. This would pave the way for remote aerial drone operations and IoT deployments on Singapore’s Southern Islands.</h2>
+<h3>GovTech and SLA are testing the use of television white space for data transmission over long distances. This would pave the way for remote aerial drone operations and IoT deployments on Singapore’s Southern Islands.</h3>
 <p>Boasting pristine beaches and tranquillity that contrasts starkly with
 the hustle and bustle of city life, Singapore’s Southern Islands are a
 nature lover’s escape from reality and a throwback to simpler times. Waves
@@ -22,7 +22,7 @@ is spotty in some areas. Hence, one option to bring internet access to
 the Southern Islands is via television white space (TVWS)—the unused radio
 spectrum in the television broadcast bands—which can be tapped on to transmit
 and receive data wirelessly over distances of up to 10 kilometres.</p>
-<h3><strong>Above the static</strong></h3>
+<h3>Above the static</h3>
 <p>Unbeknownst to many, Singapore is actually a frontrunner in the development
 of TVWS technology, said Dr Oh Ser Wah, founder and CEO of connectivity
 solutions firm Whizpace Pte Ltd. “In 2006, I had been working on TVWS at
@@ -45,7 +45,7 @@ it to tap into TVWS for sending video feeds wirelessly.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="GovTechie watching the video data transmitted from the drone to laptop" src="/images/technews/Bringing_connectivity_to_the_Southern_Islands_over_Television_White_Space_2.jpg">
 </div>
-<h3><strong>Connecting the dots</strong></h3>
+<h3>Connecting the dots</h3>
 <p>Discussions for this trial began in October 2018, when officers from SLA
 and GovTech got together to define problem statements and aspirations surrounding
 the management of the Southern Islands. Currently, SLA officers have to
@@ -68,7 +68,7 @@ was stable, at least for the short flight distances being tested.</p>
 <p>Similarly, at a campsite on St. John’s Island, you could surf the web
 and stream videos off YouTube without suspecting that it was in fact TVWS
 acting as a backhaul.</p>
-<h3><strong>Pilot of the airwaves</strong></h3>
+<h3>Pilot of the airwaves</h3>
 <p>Six months in, Mr Jack Toh, executive manager of the Smart Nation Sensor
 Platform solutions division at GovTech noted that the trial has allowed
 GovTech and SLA to validate certain operational parameters of TVWS technology.
