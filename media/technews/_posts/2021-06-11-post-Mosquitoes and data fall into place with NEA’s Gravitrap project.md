@@ -12,32 +12,31 @@ description: 🦟 Discover how NEA's Gravitrap project uses data to fight dengue
 <p>On the surface, mosquitoes and big data might seem like two totally unrelated
 topics.</p>
 <p>One of them is primitive, with origins dating back to at least the Jurassic
-period. The other is a marvel of the 21st century; made possible only by
+period. The other is a marvel of the 21st century, made possible only by
 recent advancements in human technology. Ancient vs cutting edge, nature
 vs nurture. Almost impossible to reconcile.</p>
 <p>But that’s exactly what NEA’s Gravitrap project is doing – using data
-on mosquitoes to fight dengue</p>
+on mosquitoes to fight dengue.</p>
 <p>With that in mind, we approached Goh Jie Wei, Data Analyst from NEA to
 shed more light on the project. Here’s what he had to say.</p>
-<hr>
 <div class="iframe-wrapper">
-<iframe height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/nKbBaumLrIU"></iframe>
+<iframe style="max-width: 100%;" height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/nKbBaumLrIU?si=Qjtav4ohvO_Y5PXc"></iframe>
 </div>
 <p>Short on time? Catch this video to get the quick brief on how data is
 being used to fight dengue!</p>
-<h2>What and how does a Gravitrap work?</h2>
+<h3>What and how does a Gravitrap work?</h3>
 <p>The Gravitrap is designed to attract and trap gravid female Aedes mosquitoes
 – gravid here means egg-carrying, or if you prefer a human term – pregnant.</p>
 <p>Anyway, when these mosquitoes try to lay eggs in a Gravitrap, the sticky
 lining traps them, ensuring they can’t leave the trap. At the same time,
-due to the design, the Gravitrap prevents emergence of any mosquitoes from
-eggs that are laid in the trap. Here’s a fun fact: many people are concerned
-that more mosquitoes will bite them because of Gravitraps. Truth is, you've
-got nothing to fear: Female mosquitoes typically feed on blood, but only
-when they are looking to produce eggs.</p>
+due to the design, the Gravitrap prevents the emergence of any mosquitoes
+from eggs that are laid in the trap. Here’s a fun fact: many people are
+concerned that more mosquitoes will bite them because of Gravitraps. The
+truth is, you’ve got nothing to fear: Female mosquitoes typically feed
+on blood, but only when they are looking to produce eggs.</p>
 <p>Gravid female Aedes mosquitoes have already produced these eggs, so they
 will not bite people!</p>
-<h2>Where are the Gravitraps?</h2>
+<h3>Where are the Gravitraps?</h3>
 <p>In January 2020, NEA completed the Gravitrap deployment in private landed
 estates, complementing those already deployed at HDB estates since 2017.</p>
 <p>Before that, Gravitraps were mainly deployed along the common corridors
@@ -45,10 +44,11 @@ or staircases of HDB residential blocks. We now have more than 64,000 Gravitraps
 deployed island-wide to monitor the Aedes aegypti mosquito population in
 Singapore.</p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Goh Wei Jie, NEA" src="/images/technews/goh-wei-jie-nea1.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="Goh Jie Wei, Data Analyst from NEA to sheds more light on NEA's Gravitrap project" src="/images/technews/Mosquitoes_and_data.jpg">
 </div>
-<p>Read on to find out how Wei Jie from NEA uses data to fight dengue!</p>
-<h2>How does Gravitrap fit into NEA’s bigger efforts?</h2>
+<p><em>Read on to find out how Wei Jie from NEA uses data to fight dengue!</em>
+</p>
+<h3>How does Gravitrap fit into NEA’s bigger efforts?</h3>
 <p>Gravitraps, when distributed across an area, allow NEA to monitor the
 Aedes aegypti mosquito population in the vicinity. NEA checks and maintains
 the Gravitraps fortnightly to ensure that they are functioning properly
@@ -57,12 +57,12 @@ species level.</p>
 <p>Information such as the number of mosquitoes trapped, species of mosquitoes,
 location and functional status of the Gravitraps are collated for further
 analyses, and later used to guide NEA’s vector control efforts.</p>
-<p>That way, NEA can prioritise its resources, with greater precision at
-areas with higher Aedes aegypti mosquito population to search and destroy
-the breeding habitats that could be sustaining the populations!</p>
+<p>That way, NEA can prioritise its resources with greater precision in areas
+with higher Aedes aegypti mosquito populations to search for and destroy
+breeding habitats that could sustain the populations!</p>
 <p><em>Public Service Announcement: Misplace or toppled Gravitraps disrupt NEA’s island-wide Gravitrap surveillance network and could lead to gaps in our intelligence at the localised level! So, please do not remove or tamper with the Gravitraps – they are definitely not ashtrays!</em>
 </p>
-<h2>What does NEA do with all the data it collects?</h2>
+<h3>What does NEA do with all the data it collects?</h3>
 <p>NEA develops trends and assessments on the mosquito population at the
 national and localised levels. This is then used to optimise its resources
 to areas with high Aedes aegypti mosquito population; a shift towards risk-based
@@ -77,16 +77,16 @@ mosquito population and will be urged to carry out their own checks in
 their homes.</p>
 <p>NEA also provides Gravitrap surveillance data to Town Councils (TCs) and
 other relevant stakeholders to help prioritise their mosquito prevention
-and control measures at areas with higher Aedes aegypti mosquito population.</p>
+and control measures in areas with higher Aedes aegypti mosquito populations.</p>
 <p>Such information is also shared with key stakeholders such as IADTF(interagency
 dengue task force) members to enable them to take timely action to mitigate
 transmission.</p>
-<h2>What advice do you have for those of us living in dengue prone areas?</h2>
+<h3>What advice do you have for those of us living in dengue-prone areas?</h3>
 <p>It depends on what zone you live in!</p>
 <p>Residents residing in red and yellow dengue clusters should protect themselves
 against dengue fever by spraying insecticide in dark corners of the house,
-applying insect repellent regularly, and wearing long sleeve tops and long
-pants.</p>
+applying insect repellent regularly, and wearing long-sleeved tops and
+long pants.</p>
 <p>They should also do the Mozzie Wipe-out steps frequently to remove stagnant
 water from their homes and immediate surroundings to deprive the mosquitoes
 of breeding habitats.</p>
