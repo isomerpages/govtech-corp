@@ -6,7 +6,7 @@ image: /images/technews/images/technews/mol-technews-aa.png
 variant: tiptap
 ---
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Moments of Life for Seniors" src="/images/technews/mol-technews-aa.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/technews/Hello_Merdeka_Generation__1_.jpg">
 </div>
 <p>Singapore is home to one of the fastest ageing populations in the world.
 The government thus hopes to keep its senior citizens engaged in their
@@ -31,7 +31,7 @@ approached us [at GovTech] to create a mobile app for citizens over 60
 years old, which include those eligible for the recently launched Merdeka
 Generation Package,” said Mr Simon Ang, assistant director at GovTech.</p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Moments of Life Unique selling proposition" src="/images/programmes/products-and-services/MOL-Landing-Page_Main.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/technews/Hello_Merdeka_Generation__2_.png">
 </div>
 <h3><strong>All activities at a glance</strong></h3>
 <p>An important part of active ageing is keeping senior citizens involved
@@ -92,6 +92,6 @@ of Life platform, where the technology we build to serve one population
 segment can be repurposed quickly and easily to serve another group of
 people,” he quipped.</p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Moments of Life Product Features" src="/images/programmes/products-and-services/MOL-Landing-Page_1.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/technews/Hello_Merdeka_Generation__3_.png">
 </div>
 <p></p>
