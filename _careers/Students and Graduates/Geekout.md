@@ -7,6 +7,9 @@ third_nav_title: Students and Graduates
 variant: tiptap
 image: /images/careers/Geekout_Participants__1__compressed.jpg
 ---
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="GovTech's GeekOut, a tech bootcamp for students in Singapore" src="/images/careers/Geekout_Group_Photo.jpg">
+</div>
 <h3>Uniting young tech enthusiasts at GeekOut!</h3>
 <p>Imagine a tech bootcamp in Singapore that allows you to get hands-on with
 the government's key technology offerings. That's GeekOut! Held every June,
@@ -23,9 +26,6 @@ too!</p>
 <img style="width: 70%;" height="auto" width="100%" alt="Infographic showing you why you should take part in GovTech's GeekOut" src="/images/careers/geekout_infographic_small.png">
 </div>
 <h4>What our past GeekOut participants have to say</h4>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="GovTech's GeekOut, a tech bootcamp for students in Singapore" src="/images/careers/Geekout_Group_Photo.jpg">
-</div>
 <p></p>
 <blockquote>
 <p>"We learnt first-hand from the engineers about the myriad of technologies
