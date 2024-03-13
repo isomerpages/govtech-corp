@@ -8,17 +8,17 @@ variant: tiptap
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="Three Apps That Millennials Must Share with Their Grandparents" src="/images/technews/grandparents.jpg">
 </div>
-<h2>This Grandparents’ Day, help grandpa and grandma embrace digitalisation to keep them connected, engaged and healthy.</h2>
+<h3>This Grandparents’ Day, help grandpa and grandma embrace digitalisation to keep them connected, engaged and healthy.</h3>
 <p>The use of mobile apps and social media may be second nature to millennials,
 but the same can’t always be said for the elderly. Having been brought
 up in a world where the news was delivered on physical pages and mobile
 phones were non-existent, some seniors may struggle to keep up with the
 great advances in the digital realm.</p>
 <p>So listen up millennials! As digital natives, you can be tech advocates
-to the elderly in our midst. For a start, why not share with your grandparents
+for the elderly in our midst. For a start, why not share with your grandparents
 some mobile apps that could help them keep in touch with friends and family,
 make their lives more convenient and keep them healthy?</p>
-<p>This Grandparents’ Day, tell grandpa and grandma about the <a href="www.go.gov.sg/mol" rel="noopener noreferrer nofollow" target="_blank">Moments of Life app</a>,
+<p>This Grandparents’ Day, tell grandpa and grandma about the <a href="https://www.life.gov.sg/" rel="noopener noreferrer nofollow" target="_blank">Moments of Life app</a>,
 the SingPass app and the ActiveSG app.</p>
 <h3><strong>Cherishing Moments of Life better</strong></h3>
 <div class="isomer-image-wrapper">
