@@ -112,7 +112,7 @@ will enhance the general public interaction experience with Singapore Customs.</
 </p>
 </li>
 <li>
-<p><a href="/files/media/media-releases/2013/06/AnnexEpdf.pdf" rel="noopener noreferrer nofollow" target="_blank">Annex E - Centralised Provisioning of Data Encryption Products &amp; Services Fact Sheet</a>
+<p><a href="/files/media/media-releases/Annex_E___Centralised_Provisioning_of_Data_Encryption_Products___Services_Fact_Sheet.pdf" rel="noopener noreferrer nofollow" target="_blank">Annex E - Centralised Provisioning of Data Encryption Products &amp; Services Fact Sheet</a>
 </p>
 </li>
 </ul>
