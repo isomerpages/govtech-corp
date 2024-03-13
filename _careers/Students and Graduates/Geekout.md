@@ -25,7 +25,7 @@ too!</p>
 <div class="isomer-image-wrapper">
 <img style="width: 70%;" height="auto" width="100%" alt="Infographic showing you why you should take part in GovTech's GeekOut" src="/images/careers/geekout_infographic_small.png">
 </div>
-<h4>What our past GeekOut participants have to say</h4>
+<h3>What our past GeekOut participants have to say</h3>
 <p></p>
 <blockquote>
 <p>"We learnt first-hand from the engineers about the myriad of technologies
@@ -93,7 +93,6 @@ the areas I was already familiar with!"</p>
 </blockquote>
 <script src="//www.instagram.com/embed.js" async="true"></script>
 </div>
-<p></p>
 </td>
 </tr>
 </tbody>
