@@ -9,7 +9,7 @@ description: 🛡️ Learn about managing cyber threats and safeguarding data in
   industry! 📊
 variant: tiptap
 ---
-<p>We’ve all seen the meme by now: an innocuous-enough multiple-choice question
+<p>We’ve all seen the meme by now: an innocuous enough multiple-choice question
 about who led your organisation’s digital transformation. Your choices
 are Chief Executive Officer (CEO), Chief Information Officer (CIO), and
 – the punchline – Covid-19, of course!</p>
