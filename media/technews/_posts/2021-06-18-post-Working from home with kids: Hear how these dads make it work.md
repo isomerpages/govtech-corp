@@ -29,20 +29,16 @@ Chief Information Security Officer (ACISO) at the Singapore Land Authority
 am also responsible for the planning, development and implementation of
 information security strategies and policies in line with regulatory requirements
 and whole-of-government direction.</p>
-<p><strong>Eden:</strong>
-</p>
-<p>I sit at the Ministry of Education (MOE) as an Application Infrastructure
-Engineer and handle ICT and cybersecurity governance. Mostly I will review
-MOE’s IT systems and environment and provide advice on protecting systems
-and data against cyber and internal threats.</p>
-<p><strong>Mehul:</strong>
-</p>
-<p>I am a Manager in Government Digital Services division – the team that
-creates many digital services and products for our citizens and businesses
-in Singapore. I help the team with product marketing and engagement for
-TraceTogether. I also support internal communications efforts within the
-division. Since earlier in the year, I’ve been picking up UX (User-Experience)
-design as well, on the HealthCerts project.</p>
+<p><strong>Eden: </strong>I sit at the Ministry of Education (MOE) as an
+Application Infrastructure Engineer and handle ICT and cybersecurity governance.
+Mostly I will review MOE’s IT systems and environment and provide advice
+on protecting systems and data against cyber and internal threats.</p>
+<p><strong>Mehul: </strong>I am a Manager in Government Digital Services
+division – the team that creates many digital services and products for
+our citizens and businesses in Singapore. I help the team with product
+marketing and engagement for TraceTogether. I also support internal communications
+efforts within the division. Since earlier in the year, I’ve been picking
+up UX (User-Experience) design as well, on the HealthCerts project.</p>
 <h3>How would you describe yourself as a father?</h3>
 <p><strong>Eden:</strong>&nbsp;I’ve only become a father last year; my daughter
 is now 8 months old. Since becoming a father, I feel a deep yearning to
