@@ -23,6 +23,10 @@ good.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="GovTech's Smart Nation Scholarship - Advance your career, make an impact and lead others" src="/images/careers/SNS_Infographic.png">
 </div>
+<p></p>
+<div class="iframe-wrapper">
+<iframe style="max-width: 100%;" height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/tER0COx2WxM?si=ypc7bk8GZ-f9WmBi"></iframe>
+</div>
 <h3>Benefits of being a Smart Nation Scholar</h3>
 <div class="isomer-card-grid">
 <div class="isomer-card">
@@ -130,6 +134,9 @@ Empathy and Develop People</div>
 <p>Curious about the scholarship selection process? Check out this <a href="https://medium.com/ytpo-govtech/finding-my-match-42607d032049" rel="noopener noreferrer nofollow" target="_blank">Medium blog post</a> by
 Glenda, one of our Smart Nation Scholars, who has detailed her own journey.</p>
 <h3>Interested in becoming a Smart Nation Scholar?</h3>
+<div class="iframe-wrapper">
+<iframe style="max-width: 100%;" height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/Y_bk9YFZvSQ?si=1-UwIAr6Jxpws7LS"></iframe>
+</div>
 <p>Applications are open from 1st September to 1st April (of the following
 year) for each cycle. Shortlisted candidates can expect to undergo a holistic
 scholarship selection process, which includes a group assessment, an individual
