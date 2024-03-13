@@ -82,4 +82,28 @@ much a work in progress and is currently home to an estimated 70,000 people.</p>
 over. The city is still in its developmental years. If anything, it’s a
 reminder to all of us that hardware is only one aspect of a smart city—heartware
 is equally important.</p>
+<hr>
+<h4><strong>Related Content</strong></h4>
+<ul data-tight="true" class="tight">
+<li>
+<p><a href="https://www.tech.gov.sg/media/technews/subscribe?utm_medium=recommender_0&amp;utm_source=aHR0cHM6Ly93d3cudGVjaC5nb3Yuc2cvbWVkaWEvdGVjaG5ld3Mvc21hcnQtY2l0aWVzLWFyb3VuZC10aGUtd29ybGQtc2VvdWw=&amp;utm_content=aHR0cHM6Ly93d3cudGVjaC5nb3Yuc2cvbWVkaWEvdGVjaG5ld3Mvc3Vic2NyaWJl" rel="noopener noreferrer nofollow" target="_blank"><u>TechNews Newsletter</u></a>
+</p>
+</li>
+<li>
+<p><a href="https://www.tech.gov.sg/media/technews/smart-cities-around-the-world-amsterdam?utm_medium=recommender_1&amp;utm_source=aHR0cHM6Ly93d3cudGVjaC5nb3Yuc2cvbWVkaWEvdGVjaG5ld3Mvc21hcnQtY2l0aWVzLWFyb3VuZC10aGUtd29ybGQtc2VvdWw=&amp;utm_content=aHR0cHM6Ly93d3cudGVjaC5nb3Yuc2cvbWVkaWEvdGVjaG5ld3Mvc21hcnQtY2l0aWVzLWFyb3VuZC10aGUtd29ybGQtYW1zdGVyZGFt" rel="noopener noreferrer nofollow" target="_blank"><u>Smart Cities around the world. Amsterdam Edition</u></a>
+</p>
+</li>
+<li>
+<p><a href="https://www.tech.gov.sg/get-involved/tech-kaki-newsletter?utm_medium=recommender_2&amp;utm_source=aHR0cHM6Ly93d3cudGVjaC5nb3Yuc2cvbWVkaWEvdGVjaG5ld3Mvc21hcnQtY2l0aWVzLWFyb3VuZC10aGUtd29ybGQtc2VvdWw=&amp;utm_content=aHR0cHM6Ly93d3cudGVjaC5nb3Yuc2cvZ2V0LWludm9sdmVkL3RlY2gta2FraS1uZXdzbGV0dGVy" rel="noopener noreferrer nofollow" target="_blank"><u>Tech Kaki Newsletter</u></a>
+</p>
+</li>
+<li>
+<p><a href="https://www.tech.gov.sg/media/technews/is-your-smartphone-slowing-down-get-it-back-up-to-speed-with-these-hacks?utm_medium=recommender_3&amp;utm_source=aHR0cHM6Ly93d3cudGVjaC5nb3Yuc2cvbWVkaWEvdGVjaG5ld3Mvc21hcnQtY2l0aWVzLWFyb3VuZC10aGUtd29ybGQtc2VvdWw=&amp;utm_content=aHR0cHM6Ly93d3cudGVjaC5nb3Yuc2cvbWVkaWEvdGVjaG5ld3MvaXMteW91ci1zbWFydHBob25lLXNsb3dpbmctZG93bi1nZXQtaXQtYmFjay11cC10by1zcGVlZC13aXRoLXRoZXNlLWhhY2tz" rel="noopener noreferrer nofollow" target="_blank"><u>Is your smartphone slowing down? Get it back up to speed with these hacks</u></a>
+</p>
+</li>
+<li>
+<p><a href="https://www.tech.gov.sg/media/technews/five-movies-and-shows-that-can-teach-you-about-tech?utm_medium=recommender_4&amp;utm_source=aHR0cHM6Ly93d3cudGVjaC5nb3Yuc2cvbWVkaWEvdGVjaG5ld3Mvc21hcnQtY2l0aWVzLWFyb3VuZC10aGUtd29ybGQtc2VvdWw=&amp;utm_content=aHR0cHM6Ly93d3cudGVjaC5nb3Yuc2cvbWVkaWEvdGVjaG5ld3MvZml2ZS1tb3ZpZXMtYW5kLXNob3dzLXRoYXQtY2FuLXRlYWNoLXlvdS1hYm91dC10ZWNo" rel="noopener noreferrer nofollow" target="_blank"><u>5 Movies and TV Shows that can teach you about tech!</u></a>
+</p>
+</li>
+</ul>
 <p></p>
