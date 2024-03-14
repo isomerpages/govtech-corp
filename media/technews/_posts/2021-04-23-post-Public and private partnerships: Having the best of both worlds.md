@@ -112,5 +112,5 @@ and competitiveness. This approach to public-private partnership ensures
 that we are not simply approaching the problem in a demand-and-supply manner
 but rather working together to promote progressive solutions to a complex
 situation.</p>
-<p><em>If you’re evaluating digital solutions for digital test results, keen to issue or find out more about HealthCerts please click&nbsp;<a href="https://www.healthcerts.gov.sg/" class="editor-rtfLink" rel="noopener noreferrer nofollow" target="_blank">here</a>&nbsp;– so that more countries can open up for travel safely. </em>
+<p><em>If you’re evaluating digital solutions for digital test results, keen to issue or find out more about HealthCerts please click&nbsp;<a href="https://www.healthcerts.gov.sg/" class="editor-rtfLink" rel="noopener noreferrer nofollow" target="_blank">here</a>&nbsp;– so that more countries can open up for travel safely.</em>
 </p>
