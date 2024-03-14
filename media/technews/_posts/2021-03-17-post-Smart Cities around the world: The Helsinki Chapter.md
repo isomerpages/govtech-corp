@@ -26,7 +26,7 @@ by 2025!</p>
 </div>
 <p><em>Find out how Finns use technology when it comes to improving their transportation. PHOTO: UNSPLASH</em>
 </p>
-<h3><strong>Mobility as a Service (MaaS)</strong></h3>
+<h3>Mobility as a Service (MaaS)</h3>
 <p>You’ve heard of&nbsp;<a href="https://www.investopedia.com/terms/s/software-as-a-service-saas.asp" class="editor-rtfLink" rel="noopener noreferrer nofollow" target="_blank">Software as a Service (Saas)</a>&nbsp;-
 a method of software delivery and licensing in which software is accessed
 online via a subscription, rather than bought and installed on individual
@@ -57,7 +57,7 @@ the cheapest Whim subscription plan will only set them back by 60 euros
 a month.</p>
 <p>PS: Interestingly, Whim seems to be&nbsp;<a href="https://whimapp.com/sg/package/singapore-beta/" class="editor-rtfLink" rel="noopener noreferrer nofollow" target="_blank">in beta</a>&nbsp;in
 Singapore.</p>
-<h3><strong>All-weather smart bus — GACHA</strong></h3>
+<h3>All-weather smart bus — GACHA</h3>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="Specially designed transport vehicles in Helsinki" src="/images/technews/Smart_Cities_around_the_world_The_Helsinki_Chapter_2.jpg">
 </div>
@@ -84,7 +84,7 @@ but autonomous vehicles are currently being trialed in several parts of
 Western Singapore – most noticeably One North as well a NTU. Read more
 about our own efforts&nbsp;<a href="https://www.smartnation.gov.sg/what-is-smart-nation/initiatives/Transport/autonomous-vehicles" class="editor-rtfLink" rel="noopener noreferrer nofollow" target="_blank">here.</a>
 </p>
-<h3><strong>Uber for Boats</strong></h3>
+<h3>Uber for Boats</h3>
 <p><a href="https://www.bout.fi/" class="editor-rtfLink" rel="noopener noreferrer nofollow" target="_blank">Bout</a>, named as the “Uber for boats” platform,
 is another mobility service that piloted its test rides in Jätkäsaari in
 2018. Bout increases the accessibility of Helsinki’s archipelago and coastal
@@ -97,7 +97,7 @@ application.</p>
 operation, but we are trialling something that’s same-same but different:&nbsp;
 <a href="https://vulcanpost.com/725769/volocopter-electric-air-taxis-singapore-by-2023/" class="editor-rtfLink" rel="noopener noreferrer nofollow" target="_blank">helicopter taxis, touted to be the world’s first!</a>
 </p>
-<h3><strong>Open data policy creates mobility for the blind</strong></h3>
+<h3>Open data policy creates mobility for the blind</h3>
 <p>According to the Mayor of Helsinki, Jan Vapaavuori, Helsinki has the most
 open government in the world - and that is what sets it apart from its
 surrounding cities - the principle of transparency.</p>
