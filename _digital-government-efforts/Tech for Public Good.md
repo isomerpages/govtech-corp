@@ -80,17 +80,18 @@ competencies, get career-related tips, personalised recommenders and more.</div>
 <p>As we improve the lives of Singaporeans, it is also important to provide
 convenience for citizens, especially when there is a need to communicate
 with a government agency.</p>
-<div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="https://www.isomer.gov.sg" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Placeholder image" src="https://placehold.co/600x400"></div></div><div class="isomer-card-body"><div class="isomer-card-title">This is a title for your card</div><div class="isomer-card-description">This is body text for your card. Describe your card.</div><div class="isomer-card-link">This is a link for your card</div></div></a>
-<a rel="noopener noreferrer nofollow" href="https://www.isomer.gov.sg" class="isomer-card">
+<div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="/products-and-services/for-citizens/digital-storage-and-verification/filesg/" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="FileSG logo" src="/images/Digital Gov Efforts/FileSG_600x400.png"></div></div><div class="isomer-card-body"><div class="isomer-card-title">FileSG</div><div class="isomer-card-description">A centralised place to store and retrieve all verified official documents, which has been integrated with Singpass for secure and convenient logins.</div><div class="isomer-card-link">Learn more about FileSG</div></div></a>
+<a rel="noopener noreferrer nofollow" href="https://pg.moe.edu.sg/" class="isomer-card">
 <div class="isomer-card-image">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Placeholder image" src="https://placehold.co/600x400">
+<img style="width: 100%" height="auto" width="100%" alt="Parents Gateway logo" src="/images/Digital Gov Efforts/Parents_Gateway_600x400.png">
 </div>
 </div>
 <div class="isomer-card-body">
-<div class="isomer-card-title">This is a title for your card</div>
-<div class="isomer-card-description">This is body text for your card. Describe your card.</div>
-<div class="isomer-card-link">This is a link for your card</div>
+<div class="isomer-card-title">Parents Gateway</div>
+<div class="isomer-card-description">A one-stop portal used to disseminate information and receive parents'
+responses on admin matters, in a consolidated digital form.</div>
+<div class="isomer-card-link">Learn more about Parents Gateway</div>
 </div>
 </a>
 </div>
