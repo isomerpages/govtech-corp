@@ -7,9 +7,33 @@ description: Discover the importance of data science and AI in GovTech and how
   personalise.
 image: /images/Digital Gov Efforts/Data_and_AI.jpg
 ---
+<h3>Citizen-centric government services powered by data science and AI</h3>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Digital Gov Efforts/AI_and_data_driven_government_header_banner.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="AI and data-driven government by GovTech, banner image" src="/images/Digital Gov Efforts/AI_and_data_driven_government_banner.jpg">
 </div>
+<h4>Innovation led by GovTech</h4>
+<p>Led by the Data Science and AI Division (DSAID), GovTech facilitates whole-of-government
+(WOG) adoption of these technologies to enhance government services for
+citizens.</p>
+<p>DSAID utilises data science and AI when collaborating with government
+agencies to build in-house data science expertise, develop data strategies,
+deploy AI and data services, and set up data infrastructures across the
+government.</p>
+<p>Expertise in this area enables GovTech to deliver citizen-centric government
+services through data-driven insights and decision-making, ultimately improving
+Singapore's digital government policy outcomes, service delivery and operational
+efficiency.</p>
+<h4>The importance of data-driven decision-making</h4>
+<p>Citizen-derived data helps governments understand their citizens better
+and make decisions catered to their experiences when creating or improving
+government digital services.&nbsp;</p>
+<p>Understanding citizens’ preferences also helps governments communicate
+more effectively with communities, fostering stronger public-private collaborations
+in the process.</p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
 <h3>Driving the adoption of data science and AI to deliver citizen-centric government services</h3>
 <p>Led by the Data Science and AI Division (DSAID), GovTech facilitates whole-of-government
 (WOG) adoption of these technologies to enhance government services for
