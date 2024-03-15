@@ -45,17 +45,18 @@ efficient management of the estate.</p>
 <h3>Safe and seamless government digital transactions</h3>
 <p>Our technologies ensure that citizens and businesses are able to perform
 important government transactions conveniently and securely online.</p>
-<div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="https://www.isomer.gov.sg" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Placeholder image" src="/images/Digital Gov Efforts/Singpass_600x400.png"></div></div><div class="isomer-card-body"><div class="isomer-card-title">This is a title for your card</div><div class="isomer-card-description">This is body text for your card. Describe your card.</div><div class="isomer-card-link">This is a link for your card</div></div></a>
-<a rel="noopener noreferrer nofollow" href="https://www.isomer.gov.sg" class="isomer-card">
+<div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="/products-and-services/for-citizens/digital-services/singpass/" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Singpass logo" src="/images/Digital Gov Efforts/Singpass_600x400.png"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Singpass</div><div class="isomer-card-description">Biometric verifications, 2-factor authentications and consent-based access are used to safeguard citizens’ identity and personal details on Singpass.</div><div class="isomer-card-link">Learn more about Singpass</div></div></a>
+<a rel="noopener noreferrer nofollow" href="/products-and-services/for-citizens/digital-services/lifesg/" class="isomer-card">
 <div class="isomer-card-image">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Placeholder image" src="/images/Digital Gov Efforts/LifeSG_600x400.png">
+<img style="width: 100%" height="auto" width="100%" alt="LifeSG logo" src="/images/Digital Gov Efforts/LifeSG_600x400.png">
 </div>
 </div>
 <div class="isomer-card-body">
-<div class="isomer-card-title">This is a title for your card</div>
-<div class="isomer-card-description">This is body text for your card. Describe your card.</div>
-<div class="isomer-card-link">This is a link for your card</div>
+<div class="isomer-card-title">LifeSG</div>
+<div class="isomer-card-description">An app that consolidates services and information across government agencies,
+and provides recommendations to citizens based on their stage of life.</div>
+<div class="isomer-card-link">Learn more about LifeSG</div>
 </div>
 </a>
 </div>
