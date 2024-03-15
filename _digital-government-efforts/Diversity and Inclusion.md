@@ -4,6 +4,14 @@ permalink: /our-digital-government-efforts/diversity-and-inclusion/
 variant: tiptap
 description: ""
 ---
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="Digital Government Efforts: Diversity and Inclusion as one of the main efforts of GovTech" src="/images/Digital Gov Efforts/Diversity_and_inclusion_header_banner.jpg">
 </div>
