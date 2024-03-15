@@ -62,7 +62,6 @@ with GovTech and make an impact on government products and services.</div>
 </a><a rel="noopener noreferrer nofollow" href="/products-and-services/for-citizens/crowdsourcing/crowdtasksg/" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="CrowdTaskSG logo" src="/images/Digital Gov Efforts/CrowdtaskSG_600x400.png"></div></div><div class="isomer-card-body"><div class="isomer-card-title">CrowdTaskSG</div><div class="isomer-card-description">A crowdsourcing web portal for the government to gather insights that would help to improve the services we provide to citizens and businesses.</div><div class="isomer-card-link">Learn more about CrowdTaskSG</div></div></a>
 </div>
 <p></p>
-<p></p>
 <div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="/get-involved/join-our-communities/overview/" class="isomer-card"><div class="isomer-card-body"><div class="isomer-card-title">Want to co-create with GovTech?</div><div class="isomer-card-description">Explore ways to get involved and collaborate with us.</div><div class="isomer-card-link">Join our communities</div></div></a>
 </div>
 <p></p>
