@@ -6,10 +6,10 @@ description: The Singapore Government Tech Stack and Government on Commercial
   Cloud are among the tools for government digital transformation. Learn more!
 image: /images/Digital Gov Efforts/Engineering_Digital_Government_meta_image.jpg
 ---
+<h3>The digital transformation of Singapore's public sector</h3>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="Engineering Digital Government banner image" src="/images/Digital Gov Efforts/Engineering_Digital_Government_banner_image.jpg">
 </div>
-<h3>The digital transformation of Singapore's public sector</h3>
 <h4>Realising the Digital Government Blueprint</h4>
 <p>Through our Digital Government Blueprint, we aspire to create a government
 that is “Digital to the Core, and Serves with Heart.” This means that transacting
@@ -38,11 +38,14 @@ agencies can adopt commercial cloud solutions without compromising on security.<
 </div>
 </a><a rel="noopener noreferrer nofollow" href="https://www.developer.tech.gov.sg/products/categories/data-and-apis/apex-cloud/overview.html" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="API Exchange (APEX) logo" src="/images/Digital Gov Efforts/APEX_600x400.png"></div></div><div class="isomer-card-body"><div class="isomer-card-title">API Exchange (APEX)</div><div class="isomer-card-description">A self-service API platform that functions as a centralised and secure API gateway and data-sharing platform for the government.</div><div class="isomer-card-link">Learn more about APEX</div></div></a>
 </div>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Digital Gov Efforts/SGTS_banner_image.jpg">
 </div>
-<p></p>
-<p></p>
 <h3>Driving the digital transformation of Singapore's public sector</h3>
 <p>Through our Digital Government Blueprint, we aspire to create a government
 that is “Digital to the Core, and Serves with Heart.”</p>
