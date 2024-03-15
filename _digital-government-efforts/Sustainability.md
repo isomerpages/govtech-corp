@@ -7,12 +7,66 @@ description: GovTech’s sustainability efforts are on track to realise the
   government here.
 image: /images/Digital Gov Efforts/09_Sustainability.jpg
 ---
-<p>(A banner image for sustainability, matching the styles of the other pages
-under Digital Government Efforts)</p>
-<p>Placeholder:</p>
+<h3>GovTech’s role in the Singapore Green Plan 2030</h3>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/About Us/214202582_L__Compressed_.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="Sustainability banner image" src="/images/Digital Gov Efforts/09_Sustainability.jpg">
 </div>
+<h4>Our journey to net zero</h4>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Outline of the Singapore city with trees and greenery in the background" src="/images/Digital Gov Efforts/Sustainability_banner_image__1_.jpg">
+</div>
+<p>In 2021, the Singapore Government unveiled the Singapore Green Plan 2030,
+an ambitious and rigorous strategy that outlines the country’s long-term
+plan to achieve net zero emissions by 2050 with the public sector leading
+the way.</p>
+<p>As the public sector’s centre of excellence for info-comm technology and
+smart systems (ICT&amp;SS), one of our <a href="/about-us/our-journey/our-focus-areas/" rel="noopener noreferrer nofollow" target="_blank">key focus areas</a> is to
+take the lead in decarbonising public sector technology to mitigate global
+warming and secure a smart and sustainable future for the people living
+in Singapore.</p>
+<p></p>
+<blockquote>
+<p>"We drive the sustainability agenda as a convenor and orchestrator of
+all internal and external stakeholders and touchpoints of GovTech."</p>
+<p>~ Liew Hui Ming, Digitalisation Strategy</p>
+</blockquote>
+<h3>What are we committed to?</h3>
+<div class="isomer-card-grid">
+<div class="isomer-card">
+<div class="isomer-card-body">
+<div class="isomer-card-title">Net Zero Emissions around 2045</div>
+<div class="isomer-card-description">We aim to peak emissions around 2025 and achieve net zero emissions around
+2045, as aligned with the public sector’s commitment to lead the way.</div>
+</div>
+</div>
+<div class="isomer-card">
+<div class="isomer-card-body">
+<div class="isomer-card-title">An Environmentally Friendly Workplace</div>
+<div class="isomer-card-description">GovTech has been Eco-Office Elite certified since 2022. We commit to protecting
+the environment by reducing our consumption of energy, water, and waste.</div>
+</div>
+</div>
+</div>
+<p></p>
+<div class="isomer-card-grid">
+<div class="isomer-card">
+<div class="isomer-card-body">
+<div class="isomer-card-title">Sustainable Digital Value Chain</div>
+<div class="isomer-card-description">We consider the environmental impact of our products and services, from
+the point of creation to its end-of-life.</div>
+</div>
+</div>
+<div class="isomer-card">
+<div class="isomer-card-body">
+<div class="isomer-card-title">Green Government Hosting</div>
+<div class="isomer-card-description">We centrally provide greener data centre and cloud hosting options that
+serve the whole-of-government’s consolidated needs more efficiently. All
+our data centres are Green Mark Platinum certified.</div>
+</div>
+</div>
+</div>
+<p></p>
+<p></p>
 <h3>Our journey to net zero with the Singapore Green Plan 2030</h3>
 <p>In 2021, the Singapore Government unveiled the <a href="https://www.greenplan.gov.sg/" rel="noopener noreferrer nofollow" target="_blank">Singapore Green Plan 2030</a>, an
 ambitious and rigorous strategy that outlines the country’s long-term plan
