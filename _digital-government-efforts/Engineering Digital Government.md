@@ -36,9 +36,24 @@ across the government has been adopted.</p>
 agencies can adopt commercial cloud solutions without compromising on security.</div>
 <div class="isomer-card-link">Learn more about GCC</div>
 </div>
-</a><a rel="noopener noreferrer nofollow" href="https://www.developer.tech.gov.sg/products/categories/data-and-apis/apex-cloud/overview.html" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="API Exchange (APEX) logo" src="/images/Digital Gov Efforts/APEX_600x400.png"></div></div><div class="isomer-card-body"><div class="isomer-card-title">API Exchange (APEX)</div><div class="isomer-card-description">A self-service API platform that functions as a centralised and secure API gateway and data-sharing platform for the government.</div><div class="isomer-card-link">Learn more about APEX</div></div></a>
+</a>
 </div>
 <p></p>
+<div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="https://www.developer.tech.gov.sg/products/categories/data-and-apis/apex-cloud/overview.html" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="API Exchange (APEX) logo" src="/images/Digital Gov Efforts/APEX_600x400.png"></div></div><div class="isomer-card-body"><div class="isomer-card-title">API Exchange (APEX)</div><div class="isomer-card-description">A self-service API platform that functions as a centralised and secure API gateway and data-sharing platform for the government.</div><div class="isomer-card-link">Learn more about APEX</div></div></a>
+<a rel="noopener noreferrer nofollow" href="/for-government-agencies/" class="isomer-card">
+<div class="isomer-card-image">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Digital Workplace (DWP) logo" src="/images/Digital Gov Efforts/Digital_Workplace_600x400.png">
+</div>
+</div>
+<div class="isomer-card-body">
+<div class="isomer-card-title">Digital Workplace (DWP)</div>
+<div class="isomer-card-description">A suite of productivity tools designed to allow public officers of any
+division and tech literacy to move through the workday with ease.</div>
+<div class="isomer-card-link">Learn more about Digital Workplace</div>
+</div>
+</a>
+</div>
 <p></p>
 <p></p>
 <p></p>
