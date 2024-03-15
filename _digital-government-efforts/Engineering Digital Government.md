@@ -54,7 +54,34 @@ division and tech literacy to move through the workday with ease.</div>
 </div>
 </a>
 </div>
-<p></p>
+<h3>Cybersecurity efforts within the digital government</h3>
+<p>The Cybersecurity Group (CSG) leads the efforts to develop the cybersecurity
+strategy for the government, secures the usage of government digital services
+for the public and protects the Government’s ICT systems and Smart systems
+(ICT &amp; SS).</p>
+<p>One of the five capability centres at GovTech, the group's suite of cybersecurity
+capabilities range from blue-teaming capabilities that detect and respond
+against cyber threats, to red-teaming capabilities that uncover cyber vulnerabilities
+in Government’s ICT &amp; SS.&nbsp;</p>
+<p>Beyond developing cyber-defence capabilities, this centre also develops
+cybersecurity policies and guidelines for agencies, works with agencies
+to implement secure architectures and provides cybersecurity technical
+guidance that help build a safer, more secure Smart Nation for our citizens
+and businesses.</p>
+<p>Learn more about our cybersecurity efforts with these articles below.</p>
+<div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="/media/technews/how-the-government-chief-information-security-officer-keeps-cyberspace-secure" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="placeholder" src="/images/GovTechSg_True_Inline_Logo_3_Blue.jpg"></div></div><div class="isomer-card-body"><div class="isomer-card-title">How the government chief information security officer keeps cyberspace secure</div><div class="isomer-card-link">Read more</div></div></a>
+<a rel="noopener noreferrer nofollow" href="/media/technews/cybersecurity-on-zero-day-vulnerabilities" class="isomer-card">
+<div class="isomer-card-image">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="placeholder" src="/images/GovTechSg_True_Inline_Logo_3_Blue.jpg">
+</div>
+</div>
+<div class="isomer-card-body">
+<div class="isomer-card-title">GovTech cybersecurity specialists zero in on zero day vulnerabilities</div>
+<div class="isomer-card-link">Read more</div>
+</div>
+</a><a rel="noopener noreferrer nofollow" href="/media/technews/women-in-cybersecurity/" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Placeholder" src="/images/GovTechSg_True_Inline_Logo_3_Blue.jpg"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Women in cybersecurity — GovTechies on life as cyber guardians</div><div class="isomer-card-link">Read more</div></div></a>
+</div>
 <p></p>
 <p></p>
 <p></p>
