@@ -54,7 +54,6 @@ division and tech literacy to move through the workday with ease.</div>
 </div>
 </a>
 </div>
-<p></p>
 <h3>Cybersecurity efforts within the digital government</h3>
 <p>The Cybersecurity Group (CSG) leads the efforts to develop the cybersecurity
 strategy for the government, secures the usage of government digital services
