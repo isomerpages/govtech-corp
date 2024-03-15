@@ -7,9 +7,32 @@ description: GovTech develops government e-services that are seamless and easy
   LifeSG.
 image: /images/Digital Gov Efforts/03_User_Business_Journey.jpg
 ---
+<h3>Streamlined experiences for citizens and businesses</h3>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Digital Gov Efforts/User_and_business_journey_header_banner.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="User and business journeys in GovTech, banner image" src="/images/Digital Gov Efforts/User_and_business_journey_header_banner.jpg">
 </div>
+<h3>Providing users with a single touchpoint to government services</h3>
+<p>GovTech is committed to increasing convenience for citizens, ensuring
+that users can locate specific government offerings easily and quickly
+without hassle.</p>
+<p>As a key component of Singapore's digital government transformation, streamlining
+users' journeys as they access government services is highly important.</p>
+<p>To encourage user engagement and ensure that services are easily discovered,
+a data-driven approach was used to ensure that the service recommendations
+are customised for different user profiles on both platforms.</p>
+<h3>Increasing convenience through centralised platforms</h3>
+<p>Digitalising government services with quick and convenient online systems
+supports the growth of businesses, from start-ups to multinational corporations.</p>
+<p>With GoBusiness, business owners enjoy easy access to government e-services
+and a tailored journey to executing business transactions, saving them
+time and costs.</p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
 <h3>Providing citizens and businesses with a single touchpoint to government services</h3>
 <p>GovTech is committed to increasing convenience for citizens, ensuring
 that users can locate specific government offerings easily and quickly
