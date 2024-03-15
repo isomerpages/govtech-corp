@@ -122,8 +122,22 @@ that GovTech has forged.&nbsp;</p>
 the response operations for the pandemic, enabling the government to efficiently
 facilitate activities like contact tracing and safe distancing, while maintaining
 convenience and support for the public.</p>
-<p>Key products developed during COVID-19</p>
-<p></p>
+<h3>Key products developed during COVID-19</h3>
+<p>Citizens relied on three key products during the height of the COVID-19
+pandemic: TraceTogether, the GoWhere Suite and the Video Analytics System
+(VAS). Together, they enabled citizens to navigate the turbulent period
+with greater ease and manage the spread of the virus.</p>
+<p>TraceTogether is a contact tracing technology that utilises Bluetooth
+that allows a log of individuals that one has been in close contact with.
+It also worked with SafeEntry, to facilitate tracking and check-ins at
+public spaces.</p>
+<p>The <u>GoWhere Suite</u>  <em>(Link to GoWhere product page)</em> contains
+the GoWhere Directory, a one-stop national resource hub for citizens to
+access all official COVID-19 related information and government guides
+efficiently.</p>
+<p>The <u>Video Analytics System</u><em>(Link to VAS product page) </em>was
+behind Safe Distance @ Parks, the national website and app that displayed
+near real-time crowd sizes for parks so citizens could plan accordingly.</p>
 <p></p>
 <p></p>
 <p></p>
