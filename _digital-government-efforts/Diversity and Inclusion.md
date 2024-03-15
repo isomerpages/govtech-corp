@@ -26,6 +26,29 @@ which includes accessibility requirements.&nbsp;</p>
 spurring agencies to uplift the standard of their digital services.</p>
 <p>Below are a few ways we ensure the digital services developed across the
 government are inclusive and accessible for everyone.</p>
+<h3>Digital Service Standards (DSS)</h3>
+<p>This helps government agencies implement digital services that meet the
+Digital Government Blueprint’s (DGB) goal of delivering digital services
+that are easy, seamless, and relevant for our citizens and businesses.</p>
+<p>It consists of policies, standards, and guidelines for government agencies
+to adhere to and fulfils a core need of Singapore’s Digital Government
+Journey — to design and deliver unified and consistent government digital
+services to citizens and businesses based on their user needs.&nbsp;</p>
+<p>The design principles of the DSS include Intuitive Design and Usability,
+Accessibility and Inclusivity, and Relevance and Consistency.&nbsp;</p>
+<p>Learn more about <a href="https://www.developer.tech.gov.sg/guidelines/standards-and-best-practices/digital-service-standards.html" rel="noopener noreferrer nofollow" target="_blank">Digital Service Standards (DSS)</a>.</p>
+<h3>Singapore Government Design System (SGDS)</h3>
+<p>The SGDS ensures that all government services are united by a common UI
+language and user experience that is compliant to the DSS where applicable.&nbsp;</p>
+<p>It is made up of UI components, patterns and templates that are oriented
+towards citizen and business needs.&nbsp;</p>
+<p>By following curated design guidelines to maximise user experiences, government
+agencies that utilise the SGDS can transform their websites and deliver
+high-quality digital services easily.&nbsp;</p>
+<p>Learn more about the <a href="https://www.developer.tech.gov.sg/products/categories/design/singapore-government-design-system/overview.html" rel="noopener noreferrer nofollow" target="_blank">Singapore Government Design System (SGDS)</a>.</p>
+<p></p>
+<p></p>
+<p></p>
 <p></p>
 <p></p>
 <p></p>
