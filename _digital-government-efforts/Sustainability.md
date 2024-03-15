@@ -12,9 +12,6 @@ image: /images/Digital Gov Efforts/09_Sustainability.jpg
 <img style="width: 100%" height="auto" width="100%" alt="Sustainability banner image" src="/images/Digital Gov Efforts/09_Sustainability.jpg">
 </div>
 <h4>Our journey to net zero</h4>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Outline of the Singapore city with trees and greenery in the background" src="/images/Digital Gov Efforts/Sustainability_banner_image__1_.jpg">
-</div>
 <p>In 2021, the Singapore Government unveiled the Singapore Green Plan 2030,
 an ambitious and rigorous strategy that outlines the country’s long-term
 plan to achieve net zero emissions by 2050 with the public sector leading
@@ -24,6 +21,9 @@ smart systems (ICT&amp;SS), one of our <a href="/about-us/our-journey/our-focus-
 take the lead in decarbonising public sector technology to mitigate global
 warming and secure a smart and sustainable future for the people living
 in Singapore.</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Outline of the Singapore city with trees and greenery in the background" src="/images/Digital Gov Efforts/Sustainability_banner_image__1_.jpg">
+</div>
 <p></p>
 <blockquote>
 <p>"We drive the sustainability agenda as a convenor and orchestrator of
