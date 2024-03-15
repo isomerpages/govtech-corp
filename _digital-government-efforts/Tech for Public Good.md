@@ -7,9 +7,44 @@ description: GovTech develops Tech for Public Good such as TraceTogether,
   more!
 image: /images/Digital Gov Efforts/01_Tech_for_Public_Good.jpg
 ---
+<h3>Empowering citizens and businesses through tech</h3>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Digital Gov Efforts/Tech_for_public_good_header_banner.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="Tech for public good, GovTech banner image" src="/images/Digital Gov Efforts/Tech_for_public_good_header_banner.jpg">
 </div>
+<h3>Digital to the core and serves with heart</h3>
+<p>At GovTech, we are dedicated to developing technologies that are tailored
+to the needs of citizens and businesses, enabling them to achieve a greater
+quality of life.</p>
+<p>This was exemplified during the COVID-19 pandemic, where digital infrastructures
+were enhanced and developed to support public health facilities, disseminate
+public communications and contain the spread of the virus.&nbsp;</p>
+<p>Products and services like TraceTogether, SafeEntry and HealthCerts led
+to a coordinated approach that improved convenience for citizens as we
+combat the pandemic.</p>
+<p>Today, we at GovTech continue to develop tech for public good through
+products like Personal Alert Buttons (PABs) to assist the elderly community
+and eCanvas for Persons with Disabilities (PWDs) - using technology as
+a catalyst for public good, community development and change.</p>
+<h3>Driving digitalisation through Smart City tech</h3>
+<p>GovTech aims to harness technologies to support Singapore's vision of
+becoming a smart city. This includes the use of sensors and Internet-of-Things
+(IoT) to build a more connected living experience.</p>
+<h4>Our award-winning Open Digital Platform (ODP)</h4>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Open Digital Platform by GovTech" src="/images/Digital Gov Efforts/ODP_GovTech.png">
+</div>
+<p>One of the key products developed in this area is ODP, a smart city operating
+system that integrates various district management operations onto a single
+platform, such as facilities, district cooling systems, security systems,
+carpark systems and more.</p>
+<p>ODP also formed the digital backbone of Punggol Digital District, the
+first smart district in Singapore, where data is collected and operational
+activities can be managed on a centralised platform which allows for more
+efficient management of the estate.</p>
+<p>Learn more about <a href="https://www.developer.tech.gov.sg/products/categories/sensor-platforms-and-internet-of-things/open-digital-platform/overview.html" rel="noopener noreferrer nofollow" target="_blank">ODP</a>.</p>
+<p>Safe and seamless government digital transactions</p>
+<p></p>
+<p></p>
 <h3>Cultivating a Digital Government that is "Digital to the Core, and Serves with Heart"</h3>
 <p>GovTech's dedication to developing technologies that are tailored to the
 needs of citizens and businesses, empowering them to achieve a greater
