@@ -23,11 +23,11 @@ service standard across the government comprising user-centric services
 that are secure.</p>
 <p>Thus, a robust development stack that supports modern application development
 across the government has been adopted.</p>
-<div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="/products-and-services/for-government-agencies/software-development/sg-tech-stack/" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Singapore Government Tech Stack (SGTS)" src="https://placehold.co/600x400"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Singapore Government Tech Stack (SGTS)</div><div class="isomer-card-description">The SGTS provides all government agencies with a shared digital infrastructure and tools so they can develop applications better, smarter and faster.</div><div class="isomer-card-link">Learn more about SGTS</div></div></a>
+<div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="/products-and-services/for-government-agencies/software-development/sg-tech-stack/" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Singapore Government Tech Stack (SGTS) logo" src="/images/Digital Gov Efforts/SGTS_600x400.png"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Singapore Government Tech Stack (SGTS)</div><div class="isomer-card-description">The SGTS provides all government agencies with a shared digital infrastructure and tools so they can develop applications better, smarter and faster.</div><div class="isomer-card-link">Learn more about SGTS</div></div></a>
 <a rel="noopener noreferrer nofollow" href="/products-and-services/for-government-agencies/software-development/government-on-commercial-cloud/" class="isomer-card">
 <div class="isomer-card-image">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Placeholder image" src="https://placehold.co/600x400">
+<img style="width: 100%" height="auto" width="100%" alt="Government on Commercial Cloud (GCC) logo" src="/images/Digital Gov Efforts/GCC_logo_600x400.png">
 </div>
 </div>
 <div class="isomer-card-body">
@@ -36,7 +36,7 @@ across the government has been adopted.</p>
 agencies can adopt commercial cloud solutions without compromising on security.</div>
 <div class="isomer-card-link">Learn more about GCC</div>
 </div>
-</a><a rel="noopener noreferrer nofollow" href="https://www.developer.tech.gov.sg/products/categories/data-and-apis/apex-cloud/overview.html" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Placeholder image" src="https://placehold.co/600x400"></div></div><div class="isomer-card-body"><div class="isomer-card-title">API Exchange (APEX)</div><div class="isomer-card-description">A self-service API platform that functions as a centralised and secure API gateway and data-sharing platform for the government.</div><div class="isomer-card-link">Learn more about APEX</div></div></a>
+</a><a rel="noopener noreferrer nofollow" href="https://www.developer.tech.gov.sg/products/categories/data-and-apis/apex-cloud/overview.html" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="API Exchange (APEX) logo" src="/images/Digital Gov Efforts/APEX_600x400.png"></div></div><div class="isomer-card-body"><div class="isomer-card-title">API Exchange (APEX)</div><div class="isomer-card-description">A self-service API platform that functions as a centralised and secure API gateway and data-sharing platform for the government.</div><div class="isomer-card-link">Learn more about APEX</div></div></a>
 </div>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Digital Gov Efforts/SGTS_banner_image.jpg">
