@@ -7,9 +7,25 @@ description: We uphold diversity and inclusivity in GovTech by creating
   tech. Learn more.
 image: /images/Digital Gov Efforts/08_Diversity_Inclusion.jpg
 ---
-<p></p>
-<p></p>
-<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Diversity and inclusion GovTech banner" src="/images/Digital Gov Efforts/Diversity_and_inclusion_header_banner.jpg">
+</div>
+<h3>Innovation with purpose</h3>
+<h4>Designing digital services for everyone</h4>
+<p>We believe tech should be for everyone. We are committed to diversity
+and inclusion as one of our <a href="/about-us/our-journey/our-focus-areas/" rel="noopener noreferrer nofollow" target="_blank">key focus areas</a>, in all
+areas of our work with external and internal stakeholders.&nbsp;</p>
+<p>This includes empowering vulnerable communities through tech, designing
+inclusive interfaces and products, and creating an inclusive and diverse
+tech community within GovTech and beyond.</p>
+<p>Every year, Singapore’s government digital services undergo a round of
+Usability Checks (UC) conducted by GovTech, via a Mystery Shopper concept.
+Through the UCs, all digital services are rated against a set of criteria,
+which includes accessibility requirements.&nbsp;</p>
+<p>The scorecards of the digital services are then shared across the whole-of-government,
+spurring agencies to uplift the standard of their digital services.</p>
+<p>Below are a few ways we ensure the digital services developed across the
+government are inclusive and accessible for everyone.</p>
 <p></p>
 <p></p>
 <p></p>
