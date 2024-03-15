@@ -63,10 +63,45 @@ as a Tech for Public Good.</p>
 <p>As we commit ourselves to developing inclusive and accessible products,
 it is just as important to ensure we apply the same principles within the
 organisation and among GovTechies as well.</p>
-<p></p>
+<div class="isomer-card-grid">
+<div class="isomer-card">
+<div class="isomer-card-image">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="GovTech Digital4Good programme: Teaching kids how to code and why its useful" src="/images/Digital Gov Efforts/Digital4Good_programme_GovTech.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="GovTech Digital4Good programme" src="/images/Digital Gov Efforts/Digital4Good__600x400_.jpg">
 </div>
+</div>
+<div class="isomer-card-body">
+<div class="isomer-card-title">Digital4Good programme</div>
+<div class="isomer-card-description">Helps underprivileged youth and seniors improve their digital literacy
+through programming and more.</div>
+</div>
+</div>
+<div class="isomer-card">
+<div class="isomer-card-image">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Women in GovTech meeting in a Zoom call" src="/images/Digital Gov Efforts/Women_in__Gov_Tech__600x400_.jpg">
+</div>
+</div>
+<div class="isomer-card-body">
+<div class="isomer-card-title">Women in (Gov)Tech</div>
+<div class="isomer-card-description">This Employee Resource Group develops initiatives to support female talent
+in GovTech and beyond.</div>
+</div>
+</div>
+<div class="isomer-card">
+<div class="isomer-card-image">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="GovTech’s accessibility enabling team" src="/images/Digital Gov Efforts/Accessibility_enabling_team__600x400_.jpg">
+</div>
+</div>
+<div class="isomer-card-body">
+<div class="isomer-card-title">Accessibility enabling team</div>
+<div class="isomer-card-description">This team designs inclusive government services based on the experiences
+of vulnerable communities.</div>
+</div>
+</div>
+</div>
+<p></p>
 <p></p>
 <p></p>
 <p></p>
