@@ -6,11 +6,42 @@ description: The Singapore Government Tech Stack and Government on Commercial
   Cloud are among the tools for government digital transformation. Learn more!
 image: /images/Digital Gov Efforts/Engineering_Digital_Government_meta_image.jpg
 ---
-<p>Use banner image (need to be edited to new page name) from <a href="https://www.tech.gov.sg/singapore-digital-government-journey/wog-platforms-and-tools" rel="noopener noreferrer nofollow" target="_blank">https://www.tech.gov.sg/singapore-digital-government-journey/wog-platforms-and-tools</a>
-</p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Digital Gov Efforts/WOG_platforms_and_tools_header_banner.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="Engineering Digital Government banner image" src="/images/Digital Gov Efforts/Engineering_Digital_Government_banner_image.jpg">
 </div>
+<h3>The digital transformation of Singapore's public sector</h3>
+<h4>Realising the Digital Government Blueprint</h4>
+<p>Through our Digital Government Blueprint, we aspire to create a government
+that is “Digital to the Core, and Serves with Heart.” This means that transacting
+with the government will be easy, seamless, and secure.&nbsp;</p>
+<p>It also means that public officers will continually upskill and work collaboratively
+across agencies to drive digitalisation within the government and offer
+better services to citizens and businesses.</p>
+<h4>A shared stack for collective progress</h4>
+<p>In line with the Digital Government Blueprint, we need to enable a consistent
+service standard across the government comprising user-centric services
+that are secure.</p>
+<p>Thus, a robust development stack that supports modern application development
+across the government has been adopted.</p>
+<div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="/products-and-services/for-government-agencies/software-development/sg-tech-stack/" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Singapore Government Tech Stack (SGTS)" src="https://placehold.co/600x400"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Singapore Government Tech Stack (SGTS)</div><div class="isomer-card-description">The SGTS provides all government agencies with a shared digital infrastructure and tools so they can develop applications better, smarter and faster.</div><div class="isomer-card-link">Learn more about SGTS</div></div></a>
+<a rel="noopener noreferrer nofollow" href="https://www.isomer.gov.sg" class="isomer-card">
+<div class="isomer-card-image">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Placeholder image" src="https://placehold.co/600x400">
+</div>
+</div>
+<div class="isomer-card-body">
+<div class="isomer-card-title">This is a title for your card</div>
+<div class="isomer-card-description">This is body text for your card. Describe your card.</div>
+<div class="isomer-card-link">This is a link for your card</div>
+</div>
+</a><a rel="noopener noreferrer nofollow" href="https://www.isomer.gov.sg" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Placeholder image" src="https://placehold.co/600x400"></div></div><div class="isomer-card-body"><div class="isomer-card-title">This is a title for your card</div><div class="isomer-card-description">This is body text for your card. Describe your card.</div><div class="isomer-card-link">This is a link for your card</div></div></a>
+</div>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Digital Gov Efforts/SGTS_banner_image.jpg">
+</div>
+<p></p>
+<p></p>
 <h3>Driving the digital transformation of Singapore's public sector</h3>
 <p>Through our Digital Government Blueprint, we aspire to create a government
 that is “Digital to the Core, and Serves with Heart.”</p>
@@ -26,9 +57,6 @@ that do not compromise on security. Thus, a robust development stack that
 supports modern application development across the Government has been
 adopted.</p>
 <h4><u>Singapore Government Tech Stack (SGTS)</u></h4>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Digital Gov Efforts/SGTS_banner_image.jpg">
-</div>
 <p>The Singapore Government Tech Stack (SGTS) provides all government agencies
 with a shared digital infrastructure, services, and tools. It comprises
 software and infrastructure components that are scalable, reusable, and
