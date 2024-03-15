@@ -28,7 +28,7 @@ and a tailored journey to executing business transactions, saving them
 time and costs.</p>
 <h4>GoBusiness: A one-stop portal for business owners</h4>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Different capabilities of GoBusiness and how it helps businesses in Singapore" src="/images/Digital Gov Efforts/GoBusiness_infographic.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="Different capabilities of GoBusiness to assist businesses in Singapore" src="/images/Digital Gov Efforts/GoBusiness_banner.jpg">
 </div>
 <p>With this portal, business owners can locate their needs quickly and access
 over 300 government e-services, including business registration, and licence
@@ -38,10 +38,35 @@ up a business, the licences businesses should apply for based on their
 business intents, and suitable government assistance schemes for them.&nbsp;</p>
 <p>Additionally, the website contains guides for businesses, and opportunities
 for business growth through the GeBIZ portal.</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Different capabilities of GoBusiness and how it helps businesses in Singapore" src="/images/Digital Gov Efforts/GoBusiness_infographic.jpg">
+</div>
+<p></p>
+<div class="iframe-wrapper">
+<iframe style="max-width: 100%;" height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/LNqktCVCsNE?si=73pUfex32NDOTGuk"></iframe>
+</div>
 <p><a href="/products-and-services/for-businesses/corporate-transactions/gobusiness/" rel="noopener noreferrer nofollow" target="_blank">Learn more about GoBusiness</a>.</p>
-<p></p>
-<p></p>
-<p></p>
+<h3>Turning simpler user journeys into seamless digital experiences</h3>
+<p>As online transactions become increasingly common, it is crucial that
+we support citizens by designing digital services that are easy to access
+and navigate.</p>
+<h4>70 life journeys in 1 app with LifeSG</h4>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="LifeSG simplifying access to government services and providing more convenience" src="/images/Digital Gov Efforts/lifesg_infographic.jpg">
+</div>
+<p>Using LifeSG, users can apply for government assistance schemes, benefits,
+events and more.&nbsp;</p>
+<p>For intuitive use and a personalised experience, government services are
+grouped according to major life milestones and relevant events.&nbsp;</p>
+<p>These include birth registration and applying for the baby bonus (family
+and parenting), buying an HDB flat (housing and property), signing up for
+skills upgrading (career and employment), and finding out how to manage
+healthcare costs in Singapore.</p>
+<p>The app has more than 330,000 downloads since its inception in 2018.</p>
+<div class="iframe-wrapper">
+<iframe style="max-width: 100%;" height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/rBZVBNzhIqI?si=wMcZgVC467rsiBer"></iframe>
+</div>
+<p><a href="/products-and-services/for-citizens/digital-services/lifesg/" rel="noopener noreferrer nofollow" target="_blank">Learn more about LifeSG</a>.</p>
 <p></p>
 <h3>Providing citizens and businesses with a single touchpoint to government services</h3>
 <p>GovTech is committed to increasing convenience for citizens, ensuring
@@ -59,15 +84,9 @@ supports the growth of businesses, from start-ups to multinational corporations.
 and a tailored journey to executing business transactions, saving them
 time and costs.</p>
 <h4><u>GoBusiness</u></h4>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Digital Gov Efforts/GoBusiness_banner.jpg">
-</div>
 <p>Business owners can locate their needs quickly and access over 300 government
 e-services, including business registration, licence and grant applications
 with the GoBusiness e-Services Navigator.</p>
-<div class="iframe-wrapper">
-<iframe style="max-width: 100%;" height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/LNqktCVCsNE?si=73pUfex32NDOTGuk"></iframe>
-</div>
 <p>There are also e-advisers which provide recommendations on how to start
 up a business, the licenses businesses should apply for based on their
 business intents, and suitable government assistance schemes for them.
@@ -102,7 +121,4 @@ These include birth registration and applying for the baby bonus (family
 and parenting), buying an HDB flat (housing and property), signing up for
 skills upgrading (career and employment), and finding out how to manage
 healthcare costs in Singapore.</p>
-<div class="iframe-wrapper">
-<iframe style="max-width: 100%;" height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/rBZVBNzhIqI?si=wMcZgVC467rsiBer"></iframe>
-</div>
 <p>Learn more about LifeSG <a href="https://www.tech.gov.sg/products-and-services/lifesg/" rel="noopener noreferrer nofollow" target="_blank">here</a>.</p>
