@@ -26,9 +26,19 @@ supports the growth of businesses, from start-ups to multinational corporations.
 <p>With GoBusiness, business owners enjoy easy access to government e-services
 and a tailored journey to executing business transactions, saving them
 time and costs.</p>
-<p></p>
-<p></p>
-<p></p>
+<h4>GoBusiness: A one-stop portal for business owners</h4>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Different capabilities of GoBusiness and how it helps businesses in Singapore" src="/images/Digital Gov Efforts/GoBusiness_infographic.jpg">
+</div>
+<p>With this portal, business owners can locate their needs quickly and access
+over 300 government e-services, including business registration, and licence
+and grant applications.</p>
+<p>There are also e-advisers which provide recommendations on how to start
+up a business, the licences businesses should apply for based on their
+business intents, and suitable government assistance schemes for them.&nbsp;</p>
+<p>Additionally, the website contains guides for businesses, and opportunities
+for business growth through the GeBIZ portal.</p>
+<p><a href="/products-and-services/for-businesses/corporate-transactions/gobusiness/" rel="noopener noreferrer nofollow" target="_blank">Learn more about GoBusiness</a>.</p>
 <p></p>
 <p></p>
 <p></p>
