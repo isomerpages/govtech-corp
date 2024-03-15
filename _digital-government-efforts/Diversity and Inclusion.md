@@ -26,7 +26,7 @@ which includes accessibility requirements.&nbsp;</p>
 spurring agencies to uplift the standard of their digital services.</p>
 <p>Below are a few ways we ensure the digital services developed across the
 government are inclusive and accessible for everyone.</p>
-<h3>Digital Service Standards (DSS)</h3>
+<h4>Digital Service Standards (DSS)</h4>
 <p>This helps government agencies implement digital services that meet the
 Digital Government Blueprint’s (DGB) goal of delivering digital services
 that are easy, seamless, and relevant for our citizens and businesses.</p>
@@ -37,7 +37,7 @@ services to citizens and businesses based on their user needs.&nbsp;</p>
 <p>The design principles of the DSS include Intuitive Design and Usability,
 Accessibility and Inclusivity, and Relevance and Consistency.&nbsp;</p>
 <p>Learn more about <a href="https://www.developer.tech.gov.sg/guidelines/standards-and-best-practices/digital-service-standards.html" rel="noopener noreferrer nofollow" target="_blank">Digital Service Standards (DSS)</a>.</p>
-<h3>Singapore Government Design System (SGDS)</h3>
+<h4>Singapore Government Design System (SGDS)</h4>
 <p>The SGDS ensures that all government services are united by a common UI
 language and user experience that is compliant to the DSS where applicable.&nbsp;</p>
 <p>It is made up of UI components, patterns and templates that are oriented
@@ -46,9 +46,27 @@ towards citizen and business needs.&nbsp;</p>
 agencies that utilise the SGDS can transform their websites and deliver
 high-quality digital services easily.&nbsp;</p>
 <p>Learn more about the <a href="https://www.developer.tech.gov.sg/products/categories/design/singapore-government-design-system/overview.html" rel="noopener noreferrer nofollow" target="_blank">Singapore Government Design System (SGDS)</a>.</p>
+<h4>Purple A11y</h4>
+<p>(To check if its the same thing as Purple A11y)</p>
+<p>GovTech introduced this customisable, automated web accessibility-testing
+tool that allows software development teams to find and fix accessibility
+issues or gaps in their product/service.</p>
+<p>In 2022, Purple HATS was also registered as a DigitalPublicGood by the
+United Nations Development Programme (UNDP) and published as an Organisation
+for Economic Co-operation and Development (OECD) case study for its impact
+as a Tech for Public Good.</p>
+<p>Learn more about <u>Purple HATS</u>. (Link to<a href="https://www.developer.tech.gov.sg/products/categories/design/purple-a11y/overview.html)" rel="noopener noreferrer nofollow" target="_blank"> <u>https://www.developer.tech.gov.sg/products/categories/design/purple-a11y/overview.html)</u></a>
+</p>
+<p><em>Note: Purple A11y is formerly known as Purple HATS</em>
+</p>
+<h3>Driving diversity and inclusion within GovTech</h3>
+<p>As we commit ourselves to developing inclusive and accessible products,
+it is just as important to ensure we apply the same principles within the
+organisation and among GovTechies as well.</p>
 <p></p>
-<p></p>
-<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="GovTech Digital4Good programme: Teaching kids how to code and why its useful" src="/images/Digital Gov Efforts/Digital4Good_programme_GovTech.jpg">
+</div>
 <p></p>
 <p></p>
 <p></p>
