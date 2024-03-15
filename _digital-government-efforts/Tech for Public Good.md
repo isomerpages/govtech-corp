@@ -127,7 +127,6 @@ convenience and support for the public.</p>
 pandemic: TraceTogether, the GoWhere Suite and the Video Analytics System
 (VAS). Together, they enabled citizens to navigate the turbulent period
 with greater ease and manage the spread of the virus.</p>
-<p></p>
 <div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="https://www.developer.tech.gov.sg/products/categories/digital-solutions-to-address-covid-19/tracetogether/overview.html" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="TraceTogether logo" src="/images/Digital Gov Efforts/TraceTogether_600x400.png"></div></div><div class="isomer-card-body"><div class="isomer-card-title">TraceTogether</div><div class="isomer-card-description">TraceTogether is a contact tracing technology that utilises Bluetooth which allows a log of individuals that one has been in close contact with. It also worked with SafeEntry, to facilitate tracking and check-ins at public spaces.</div><div class="isomer-card-link">Learn more about TraceTogether</div></div></a>
 <a rel="noopener noreferrer nofollow" href="https://www.developer.tech.gov.sg/products/categories/digital-solutions-to-address-covid-19/gowhere-suite/overview.html" class="isomer-card">
 <div class="isomer-card-image">
@@ -142,17 +141,6 @@ resource hub for citizens to access all official COVID-19 related information
 and government guides efficiently.</div>
 <div class="isomer-card-link">Learn more about GoWhere Suite</div>
 </div>
-</a><a rel="noopener noreferrer nofollow" href="https://www.developer.tech.gov.sg/products/categories/analytics/vas/overview.html" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Video Analytics System (VAS) logo" src="/images/Digital Gov Efforts/VAS_600x400.png"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Video Analytics System (VAS)</div><div class="isomer-card-description">The VAS was behind Safe Distance @ Parks, the national website and app that displayed near real-time crowd sizes for parks so citizens could plan accordingly. </div><div class="isomer-card-link">Learn more about VAS</div></div></a>
+</a><a rel="noopener noreferrer nofollow" href="https://www.developer.tech.gov.sg/products/categories/analytics/vas/overview.html" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Video Analytics System (VAS) logo" src="/images/Digital Gov Efforts/VAS_600x400.png"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Video Analytics System (VAS)</div><div class="isomer-card-description">The VAS was behind Safe Distance @ Parks, the national website and app that displayed near real-time crowd sizes for parks so citizens could plan accordingly.</div><div class="isomer-card-link">Learn more about VAS</div></div></a>
 </div>
-<p>TraceTogether is a contact tracing technology that utilises Bluetooth
-that allows a log of individuals that one has been in close contact with.
-It also worked with SafeEntry, to facilitate tracking and check-ins at
-public spaces.</p>
-<p>The <a href="https://www.developer.tech.gov.sg/products/categories/digital-solutions-to-address-covid-19/gowhere-suite/overview.html" rel="noopener noreferrer nofollow" target="_blank">GoWhere suite</a> contains
-the GoWhere Directory, a one-stop national resource hub for citizens to
-access all official COVID-19 related information and government guides
-efficiently.</p>
-<p>The <a href="https://www.developer.tech.gov.sg/products/categories/analytics/vas/overview.html" rel="noopener noreferrer nofollow" target="_blank">Video Analytics System (VAS)</a><em> </em>was
-behind Safe Distance @ Parks, the national website and app that displayed
-near real-time crowd sizes for parks so citizens could plan accordingly.</p>
 <p></p>
