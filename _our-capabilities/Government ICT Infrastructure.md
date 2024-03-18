@@ -71,7 +71,7 @@ tools.</div>
 <div class="isomer-card-grid">
 <div class="isomer-card">
 <div class="isomer-card-body">
-<div class="isomer-card-title">Provide consultancy support in ICT</div>
+<div class="isomer-card-title">5. Provide consultancy support in ICT</div>
 <div class="isomer-card-description">Provide consultancy support, with our valued deep expertise, to government
 agencies upgrading their ICT infrastructure.</div>
 </div>
