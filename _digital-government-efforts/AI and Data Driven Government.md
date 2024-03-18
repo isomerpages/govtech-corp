@@ -51,7 +51,7 @@ and have a holistic overview of government digital services.</p>
 </p>
 <h4>Personalise</h4>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Personalise logo" src="/images/Digital Gov Efforts/Personalise_logo_600x300.png">
+<img style="width: 70%;" height="auto" width="100%" alt="Personalise logo" src="/images/Digital Gov Efforts/Personalise_logo_600x300.png">
 </div>
 <p>This is a whole-of-government personalisation engine that aims to customise
 digital touch points such as emails and websites to provide the most relevant
