@@ -29,7 +29,6 @@ ICT infrastructure applications.</p>
 across the WOG and provide support for public officers, our work ranges
 from reference architectures to standards and consultancy support. Below
 are a few examples.</p>
-<p></p>
 <div class="isomer-card-grid">
 <div class="isomer-card">
 <div class="isomer-card-body">
@@ -38,9 +37,11 @@ are a few examples.</p>
 for government agencies’ applications and services.</div>
 </div>
 </div>
+</div>
+<div class="isomer-card-grid">
 <div class="isomer-card">
 <div class="isomer-card-body">
-<div class="isomer-card-title">2. VPN capacity</div>
+<div class="isomer-card-title">2. Government networks</div>
 <div class="isomer-card-description">To help public officers work seamlessly and securely in our flexible working
 environment, we rapidly ramped up VPN capacity and are developing the next
 bound of government networks (e.g. SD-WAN (Software-defined Wide Area Network),
@@ -48,38 +49,34 @@ Zero Trust Network).</div>
 </div>
 </div>
 </div>
-<p></p>
-<div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="https://www.isomer.gov.sg" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Placeholder image" src="https://placehold.co/600x400"></div></div><div class="isomer-card-body"><div class="isomer-card-title">This is a title for your card</div><div class="isomer-card-description">This is body text for your card. Describe your card.</div><div class="isomer-card-link">This is a link for your card</div></div></a>
-<a rel="noopener noreferrer nofollow" href="https://www.isomer.gov.sg" class="isomer-card">
-<div class="isomer-card-image">
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Placeholder image" src="https://placehold.co/600x400">
-</div>
-</div>
+<div class="isomer-card-grid">
+<div class="isomer-card">
 <div class="isomer-card-body">
-<div class="isomer-card-title">This is a title for your card</div>
-<div class="isomer-card-description">This is body text for your card. Describe your card.</div>
-<div class="isomer-card-link">This is a link for your card</div>
+<div class="isomer-card-title">3. Secure internet surfing</div>
+<div class="isomer-card-description">Delivered secure internet surfing for public officers to access the internet
+for work needs, overcoming the previous internet surfing separation.</div>
 </div>
-</a><a rel="noopener noreferrer nofollow" href="https://www.isomer.gov.sg" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Placeholder image" src="https://placehold.co/600x400"></div></div><div class="isomer-card-body"><div class="isomer-card-title">This is a title for your card</div><div class="isomer-card-description">This is body text for your card. Describe your card.</div><div class="isomer-card-link">This is a link for your card</div></div></a>
 </div>
-<p>1. Develop government cloud and cloud-like solutions as the key foundation
-to enable greater agility and security for government agencies’ applications
-and services.</p>
-<p>2. To help public officers work seamlessly and securely in our flexible
-working environment, we rapidly ramped up VPN capacity and are developing
-the next bound of government networks (e.g. SD-WAN (Software-defined Wide
-Area Network), Zero Trust Network).&nbsp;</p>
-<p>3. Delivered secure internet surfing for public officers to access the
-internet for work needs, overcoming the previous internet surfing separation.&nbsp;</p>
-<ol start="4" data-tight="true" class="tight">
-<li>
-<p>To enable an efficient workforce and future-ready workplace, we have also
-pushed for better and smarter office productivity and collaborative tools.</p>
-</li>
-</ol>
-<p>5. Provide consultancy support, with our valued deep expertise, to government
-agencies upgrading their ICT infrastructure.</p>
+</div>
+<div class="isomer-card-grid">
+<div class="isomer-card">
+<div class="isomer-card-body">
+<div class="isomer-card-title">4. Smarter office tools</div>
+<div class="isomer-card-description">To enable an efficient workforce and a future-ready workplace, we have
+also pushed for better and smarter office productivity and collaborative
+tools.</div>
+</div>
+</div>
+</div>
+<div class="isomer-card-grid">
+<div class="isomer-card">
+<div class="isomer-card-body">
+<div class="isomer-card-title">Provide consultancy support in ICT</div>
+<div class="isomer-card-description">Provide consultancy support, with our valued deep expertise, to government
+agencies upgrading their ICT infrastructure.</div>
+</div>
+</div>
+</div>
 <h3>Join our team</h3>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="Infrastructure Engineer, Daryl Chee, on how GovTech is a collaborative environment for innovation" src="/images/About Us/Our capabilities/capcentre_gig_quote_daryl.jpg">
