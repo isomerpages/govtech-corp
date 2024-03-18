@@ -41,10 +41,6 @@ for business growth through the GeBIZ portal.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="Different capabilities of GoBusiness and how it helps businesses in Singapore" src="/images/Digital Gov Efforts/GoBusiness_infographic.jpg">
 </div>
-<p></p>
-<div class="iframe-wrapper">
-<iframe style="max-width: 100%;" height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/LNqktCVCsNE?si=73pUfex32NDOTGuk"></iframe>
-</div>
 <p><a href="/products-and-services/for-businesses/corporate-transactions/gobusiness/" rel="noopener noreferrer nofollow" target="_blank">Learn more about GoBusiness</a>.</p>
 <h3>Turning simpler user journeys into seamless digital experiences</h3>
 <p>As online transactions become increasingly common, it is crucial that
@@ -65,9 +61,5 @@ healthcare costs in Singapore.</p>
 <p>The app has more than 330,000 downloads since its inception in 2018.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="LifeSG providing convenience for all Singaporeans with quick and easy access to govt services" src="/images/Digital Gov Efforts/lifesg_header_image.jpg">
-</div>
-<p></p>
-<div class="iframe-wrapper">
-<iframe style="max-width: 100%;" height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/rBZVBNzhIqI?si=wMcZgVC467rsiBer"></iframe>
 </div>
 <p><a href="/products-and-services/for-citizens/digital-services/lifesg/" rel="noopener noreferrer nofollow" target="_blank">Learn more about LifeSG</a>.</p>
