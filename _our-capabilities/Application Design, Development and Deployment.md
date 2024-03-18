@@ -79,10 +79,15 @@ interface EXchange), a secure catalogue of all APIs across the government.</div>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="Official GovTech blogs from the different divisions." src="/images/About Us/Our capabilities/GovTech_blogs.png">
 </div>
-<p>Check out our <a href="/get-involved/stay-informed/" rel="noopener noreferrer nofollow" target="_blank">Medium blogs</a> to
-uncover our latest projects and learn about their development processes.</p>
-<p>Learn more about the <a href="https://www.developer.tech.gov.sg/products/all-products/" rel="noopener noreferrer nofollow" target="_blank">products and services</a> developed
-by our team.</p>
+<p></p>
+<div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="https://cms.isomer.gov.sg/get-involved/stay-informed/" class="isomer-card"><div class="isomer-card-body"><div class="isomer-card-title">See our latest projects and learn about their development on our Medium blog</div><div class="isomer-card-link">Check out our Medium blogs</div></div></a>
+<a rel="noopener noreferrer nofollow" href="https://www.developer.tech.gov.sg/products/all-products/" class="isomer-card">
+<div class="isomer-card-body">
+<div class="isomer-card-title">Learn more about the products and services developed by our team</div>
+<div class="isomer-card-link">Products and Services</div>
+</div>
+</a>
+</div>
 <h3>Join our team</h3>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="Testimonials for careers in GovTech capability centre for Application Design, Development and Deployment" src="/images/About Us/Our capabilities/capcentre_gds_quotes.jpg">
