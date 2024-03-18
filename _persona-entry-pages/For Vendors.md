@@ -69,7 +69,7 @@ test bedding in actual deployment environments.</p>
 <div class="isomer-card-title">Browse available opportunities</div>
 <div class="isomer-card-link">Explore available opportunities</div>
 </div>
-</a><a rel="noopener noreferrer nofollow" href="https://www.tech.gov.sg/files/media/corporate-publications/IB2023-Towards-the-Next-Bound-of-Digital-Government-GovTech-CE.pdf" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Placeholder image" src="https://placehold.co/600x400"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Get to know our partnership requirements</div><div class="isomer-card-link">Industry Briefing 2023</div></div></a>
+</a><a rel="noopener noreferrer nofollow" href="/products-and-services/collaborate-with-us/industry-collaboration/" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Placeholder image" src="https://placehold.co/600x400"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Get to know our partnership requirements</div><div class="isomer-card-link">Collaborate with us</div></div></a>
 </div>
 <p>Check out the additional resources below to guide you and increase your
 chances of winning a project.</p>
@@ -81,6 +81,8 @@ chances of winning a project.</p>
 <p><a href="/about-us/what-we-do/our-capabilities/" rel="noopener noreferrer nofollow" target="_blank">Our Capabilities</a>
 </p>
 <p><a href="/about-us/our-achievements/our-awards-and-recognitions/" rel="noopener noreferrer nofollow" target="_blank">Our Awards &amp; Recognition</a>
+</p>
+<p><a href="/files/IB2023_Towards_the_Next_Bound_of_Digital_Government_GovTech_CE.pdf" rel="noopener noreferrer nofollow" target="_blank">Industry Briefing 2023 by GovTech Singapore</a>
 </p>
 <h4>About our products and services</h4>
 <p>Find out more about the <u>Singapore Government Tech Stack</u> and explore
