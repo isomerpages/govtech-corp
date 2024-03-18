@@ -6,7 +6,7 @@ description: Empowering our nation through digital transformation. From
   lives of all Singaporeans.
 image: /images/GovTechSg_True_Inline_Logo_3_Blue.jpg
 permalink: /
-notification: Notification banner test
+notification: ""
 sections:
   - hero:
       background: /images/Test_Website.gif
