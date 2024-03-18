@@ -22,29 +22,40 @@ approach that delivers innovative and forward-thinking cybersecurity capabilitie
 <p>We work with the owners of WOG and Smart Nation Programmes to implement
 secure architectures, and the Chief Information Security Officers (CISOs)
 in agencies to provide cybersecurity governance and technical guidance.</p>
-<p>Our responsibilities/practices include:&nbsp;</p>
-<ol data-tight="true" class="tight">
-<li>
-<p><strong>Government cybersecurity strategy and policy: </strong>Developing
-strategies and establishing cybersecurity governance policies, standards
-and guidelines for WOG.</p>
-</li>
-<li>
-<p><strong>Government cybersecurity consulting: </strong>Providing cybersecurity
-advisories like risk assessments and ensuring policy implementation for
-government projects.</p>
-</li>
-<li>
-<p><strong>Government cybersecurity defence: </strong>Strengthening blue-teaming
-capabilities through threat detection and incident response to protect
-government digital systems.</p>
-</li>
-<li>
-<p><strong>Advanced cybersecurity capabilities:</strong> Strengthening the
-government's cybersecurity capabilities through red-teaming, product development
-and cybersecurity competency training.</p>
-</li>
-</ol>
+<p>Our responsibilities/practices include:</p>
+<div class="isomer-card-grid">
+<div class="isomer-card">
+<div class="isomer-card-body">
+<div class="isomer-card-title">1. Government cybersecurity strategy and policy</div>
+<div class="isomer-card-description">Developing strategies and establishing cybersecurity governance policies,
+standards and guidelines for WOG.</div>
+</div>
+</div>
+<div class="isomer-card">
+<div class="isomer-card-body">
+<div class="isomer-card-title">2. Government cybersecurity consulting</div>
+<div class="isomer-card-description">Providing cybersecurity advisories like risk assessments and ensuring
+policy implementation for government projects.</div>
+</div>
+</div>
+</div>
+<p></p>
+<div class="isomer-card-grid">
+<div class="isomer-card">
+<div class="isomer-card-body">
+<div class="isomer-card-title">3. Government cybersecurity defence</div>
+<div class="isomer-card-description">Strengthening blue-teaming capabilities through threat detection and incident
+response to protect government digital systems.</div>
+</div>
+</div>
+<div class="isomer-card">
+<div class="isomer-card-body">
+<div class="isomer-card-title">4. Advanced cybersecurity capabilities</div>
+<div class="isomer-card-description">Strengthening the government's cybersecurity capabilities through red-teaming,
+product development and cybersecurity competency training.</div>
+</div>
+</div>
+</div>
 <h3>Our work and initiatives</h3>
 <p>We safeguard our country from heightened cyber threats made against government
 agencies.</p>
