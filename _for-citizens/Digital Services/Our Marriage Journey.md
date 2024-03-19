@@ -25,7 +25,7 @@ person is not feasible.
 <br>
 </p>
 <div class="isomer-image-wrapper">
-<img style="width: 80%;" height="auto" width="100%" alt="" src="/images/Products and Services/Screenshot_2024_02_16_at_4_17_45_PM.png">
+<img style="width: 100%;" height="auto" width="100%" alt="" src="/images/Products and Services/Screenshot_2024_02_16_at_4_17_45_PM.png">
 </div>
 <p></p>
 </li>
