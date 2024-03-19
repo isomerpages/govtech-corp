@@ -63,7 +63,7 @@ by residents in different neighbourhoods.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="Amsterdam using smart detection cameras to detect waste, allowing for more timely clean up." src="/images/technews/Smart_Cities_around_the_world_amsterdam_3.jpg">
 </div>
-<p><em>Amsterdam uses a high-tech solution for waste detection and management PHOTO: Erwin van Eis </em>
+<p><em>Amsterdam uses a high-tech solution for waste detection and management PHOTO: Erwin van Eis</em>
 </p>
 <p>Waste management has always been a challenging task for modern cities.
 Each area has its own pattern of garbage production and the optimisation
