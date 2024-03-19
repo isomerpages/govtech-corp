@@ -2,7 +2,6 @@ collections:
   about-us:
     output: true
     order:
-      - Our Team.md
       - Who We Are.md
       - What We Do/.keep
       - What We Do/Our Role.md
@@ -15,3 +14,4 @@ collections:
       - Our Achievements/Our KPIs.md
       - Our Achievements/Our Digital Government Rankings.md
       - Our Achievements/Our Awards and Recognition.md
+      - Our Team.md
