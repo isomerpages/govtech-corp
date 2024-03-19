@@ -9,14 +9,14 @@ variant: tiptap
 <p>As we transform Singapore through technology, digital government transformation
 is all about harnessing technologies to enable significant improvements
 and empower how we serve citizens and businesses in Singapore. At GovTech,
-we aim to lend our expertise not only in the form of product development,
-but also event collaborations to promote knowledge- and idea-sharing within
-the government. Explore our collaborations to see how we can work together
-to provide value.</p>
+we aim to lend our expertise not only in the form of product development
+but also in event collaborations to promote knowledge- and idea-sharing
+within the government. Explore our collaborations to see how we can work
+together to provide value.</p>
 <h3>Product Collaborations</h3>
 <p>Work with us on product-related collaborations. This could involve tapping
-onto our experts for product developments, onboarding your services onto
-one of our apps like Singpass or LifeSG, or even tapping on our communities
+onto our experts for product development, onboarding your services onto
+one of our apps like Singpass or LifeSG, or even tapping into our communities
 to test your products. From MOE to NEA and MOH, GovTech has collaborated
 with a myriad of government agencies to develop products and services -
 explore a few of these below.</p>
@@ -35,7 +35,7 @@ its video analytics capabilities, it could also count the number of patrons
 currently at the park, to aid with crowd control during the pandemic.</div>
 <div class="isomer-card-link">Read More</div>
 </div>
-</a><a rel="noopener noreferrer nofollow" href="/media/technews/how-ai-and-a-camera-phone-help-keep-food-on-our-tables" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Placeholder image" src="/images/Products and Services/rotifer_counting_application.png"></div></div><div class="isomer-card-body"><div class="isomer-card-title">GovTech X SFA: Rotifer Counting with AI</div><div class="isomer-card-description">In collaboration with SFA, GovTech developed an AI tool to cut down on manhours needed for rotifer-counting - a necessary but time-consuming part of fish farming. With this tool, fish farmers can now analyse images and automatically track rotifer numbers.</div><div class="isomer-card-link">Read More</div></div></a>
+</a><a rel="noopener noreferrer nofollow" href="/media/technews/how-ai-and-a-camera-phone-help-keep-food-on-our-tables" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Rotifer Counting with AI technology developed by GovTech and SFA collaboration" src="/images/Products and Services/Rotifer_counting_ai_600x400.png"></div></div><div class="isomer-card-body"><div class="isomer-card-title">GovTech X SFA: Rotifer Counting with AI</div><div class="isomer-card-description">In collaboration with SFA, GovTech developed an AI tool to cut down on manhours needed for rotifer-counting - a necessary but time-consuming part of fish farming. With this tool, fish farmers can now analyse images and automatically track rotifer numbers.</div><div class="isomer-card-link">Read More</div></div></a>
 </div>
 <h3>Product and User Testing</h3>
 <div class="isomer-image-wrapper">
