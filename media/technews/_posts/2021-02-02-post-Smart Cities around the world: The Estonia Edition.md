@@ -38,7 +38,7 @@ paying taxes to checking health records and prescriptions to even e-voting!</p>
 aptly named eID — which allows citizens to identify themselves when making
 online transactions. In fact, enabling digital signatures has allowed the
 country to save up to 2% of its GDP annually.</p>
-<p>Estonia’s eID system is similar to Singapore’s very own&nbsp;<a href="https://www.singpass.gov.sg/singpass/common/aboutus" class="editor-rtfLink" rel="noopener noreferrer nofollow" target="_blank">SingPass</a>,
+<p>Estonia’s eID system is similar to Singapore’s very own&nbsp;<a href="https://www.singpass.gov.sg/singpass/common/aboutus" class="editor-rtfLink" rel="noopener noreferrer nofollow" target="_blank">Singpass</a>,
 which also allows Singapore residents to digitally verify their identities.
 This grants users access to over 2,000 online services from government
 and private organisations. With SingPass, one can instantly check their
