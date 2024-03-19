@@ -40,6 +40,6 @@ fit.</p>
 for networking through tech conferences and meet-ups.</div>
 <div class="isomer-card-link">Learn more about STACK community</div>
 </div>
-</a><a rel="noopener noreferrer nofollow" href="/get-involved/join-our-communities/govtech-reconnect/" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="GovTech ReCONNECT tech community Singapore" src="https://placehold.co/600x400"></div></div><div class="isomer-card-body"><div class="isomer-card-title">GovTech ReCONNECT</div><div class="isomer-card-description">A community for GovTech alumni who want to keep contributing to our Smart Nation initiative through knowledge-sharing and collaboration.</div><div class="isomer-card-link">Learn more about ReCONNECT</div></div></a>
+</a>
 </div>
 <p></p>
