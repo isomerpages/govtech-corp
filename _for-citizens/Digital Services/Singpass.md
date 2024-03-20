@@ -20,21 +20,8 @@ government agencies and businesses, all at your fingertips.</p>
 economy, we have managed to digitalise e-residency for 4.2M Singaporeans
 and PRs, with our users making 41M transactions monthly.</p>
 <div class="iframe-wrapper">
-<iframe style="max-width: 100%;" height="315" width="100%" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/rUZf1ZcB0NY?si=LYkyxpsfDVsEFRMV"></iframe>
-</div>
-<p></p>
-<div class="iframe-wrapper">
 <iframe style="max-width: 100%;" height="400" width="100%" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/rUZf1ZcB0NY?si=LYkyxpsfDVsEFRMV"></iframe>
 </div>
-<p></p>
-<div class="iframe-wrapper">
-<iframe style="max-width: 100%;" height="450" width="100%" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/rUZf1ZcB0NY?si=LYkyxpsfDVsEFRMV"></iframe>
-</div>
-<p></p>
-<div class="iframe-wrapper">
-<iframe style="max-width: 100%;" height="500" width="100%" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/rUZf1ZcB0NY?si=LYkyxpsfDVsEFRMV"></iframe>
-</div>
-<p></p>
 <p><em>Note: Statistics in the video above are accurate as of March 2021.</em>
 </p>
 <h3>Why use Singpass?</h3>
@@ -99,21 +86,8 @@ need for manual paper filing.</div>
 </div>
 <p></p>
 <div class="iframe-wrapper">
-<iframe style="max-width: 100%;" height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/IostdtfKMhU?si=navRdNgJkEM7VlDv"></iframe>
-</div>
-<p></p>
-<div class="iframe-wrapper">
 <iframe style="max-width: 100%;" height="400" width="100%" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/IostdtfKMhU?si=eWZE85ox8KIv0A7q"></iframe>
 </div>
-<p></p>
-<div class="iframe-wrapper">
-<iframe style="max-width: 100%;" height="450" width="100%" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/IostdtfKMhU?si=eWZE85ox8KIv0A7q"></iframe>
-</div>
-<p></p>
-<div class="iframe-wrapper">
-<iframe style="max-width: 100%;" height="500" width="100%" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/IostdtfKMhU?si=eWZE85ox8KIv0A7q"></iframe>
-</div>
-<p></p>
 <h3>How to use Singpass?</h3>
 <p>Singpass is eligible for all Singaporean Citizens, Permanent Residents
 or Foreign Identification Number (FIN) holder who are above 15 years old.</p>
