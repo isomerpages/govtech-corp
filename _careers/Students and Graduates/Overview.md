@@ -65,41 +65,21 @@ horizons. Take a look at the current list of programmes we host.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="GovTech's many opportunities for students and graduates" src="/images/careers/govtech-students-and-graduates-programmes.png">
 </div>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
-<h3>Kickstart your career with GovTech!</h3>
-<p>From technology boot camps, internships and scholarships to fresh grad
-opportunities, we are here to inspire you to join us in the building of
-the world’s first Smart Nation.</p>
-<h3>Find the right programme for you</h3>
-<h4>Find out more about our signature programmes:</h4>
-<p></p>
-<div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="/careers/students-and-graduates/geekout/" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Placeholder image" src="https://placehold.co/600x400"></div></div><div class="isomer-card-body"><div class="isomer-card-title">GeekOut</div><div class="isomer-card-link">Find Out More</div></div></a>
+<div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="/careers/students-and-graduates/geekout/" class="isomer-card"><div class="isomer-card-body"><div class="isomer-card-title">GeekOut is a fun-filled 5-day boot camp for young tech enthusiasts</div><div class="isomer-card-link">Discover GeekOut</div></div></a>
 <a rel="noopener noreferrer nofollow" href="/careers/students-and-graduates/internships/" class="isomer-card">
-<div class="isomer-card-image">
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Placeholder image" src="https://placehold.co/600x400">
-</div>
-</div>
 <div class="isomer-card-body">
-<div class="isomer-card-title">Internships</div>
-<div class="isomer-card-link">Find Out More</div>
+<div class="isomer-card-title">Hone your skill sets through internships designed to bring the best out
+of you</div>
+<div class="isomer-card-link">View internships</div>
 </div>
 </a>
 </div>
 <p></p>
-<div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="/careers/students-and-graduates/smart-nation-scholarship/" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Placeholder image" src="https://placehold.co/600x400"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Smart Nation Scholarship</div><div class="isomer-card-link">Find Out More</div></div></a>
+<div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="/careers/students-and-graduates/smart-nation-scholarship/" class="isomer-card"><div class="isomer-card-body"><div class="isomer-card-title">Passionate about digitalisation? The Smart Nation Scholarship is for you!</div><div class="isomer-card-link">Discover scholarship</div></div></a>
 <a rel="noopener noreferrer nofollow" href="/careers/students-and-graduates/technology-associate-programme/" class="isomer-card">
-<div class="isomer-card-image">
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Placeholder image" src="https://placehold.co/600x400">
-</div>
-</div>
 <div class="isomer-card-body">
-<div class="isomer-card-title">Technology Associate Programme</div>
-<div class="isomer-card-link">Find Out More</div>
+<div class="isomer-card-title">Become a tech leader with the Tech Associate Programme (TAP)</div>
+<div class="isomer-card-link">Learn about TAP</div>
 </div>
 </a>
 </div>
