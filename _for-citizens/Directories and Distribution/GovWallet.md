@@ -66,14 +66,41 @@ apps:</p>
 <p>Workpal (For Public Officers only)</p>
 </li>
 </ul>
-<h4>To check your credits, navigate to the benefits module</h4>
-<p>Asset: Create an infographic of LifeSG showing how to check credits balance.
-Reference asset: How to use LifeSG payment video</p>
-<h4>To make a payment, login to the government approved apps with your Singpass and use the scan QR feature.</h4>
-<p>Asset: Create an infographic of LifeSG showing how to make a payment,</p>
-<h4>To make ATM cash withdrawals, go to an OCBC ATM to withdraw payout using your 8-digit Payment Reference Number (PRN) sent to you by mail or SMS, NRIC and Singpass.</h4>
-<p>Asset: Create an infographic of showing how to withdraw GovCash.</p>
-<h3>Interested to find out more about GovWallet?</h3>
+<h4>To check your credit balance</h4>
+<ul>
+<li>
+<p>Scroll to the Benefits and Support module</p>
+</li>
+<li>
+<p>All your unused vouchers and cash payouts will be reflected</p>
+</li>
+</ul>
+<h4>To make payments</h4>
+<ul>
+<li>
+<p>Log into the supporting government apps with your Singpass</p>
+</li>
+<li>
+<p>Use the Scan QR feature</p>
+</li>
+<li>
+<p>Enter the amount of money you wish to use&nbsp;</p>
+</li>
+<li>
+<p>Slide Confirm to make the transaction</p>
+</li>
+</ul>
+<h4>To make cash withdrawals</h4>
+<ul>
+<li>
+<p>Head to an OCBC ATM</p>
+</li>
+<li>
+<p>Withdraw payout using the 8-digit Payment Reference Number that was sent
+via a letter and Singpass</p>
+</li>
+</ul>
+<h3>Interested in finding out more about GovWallet?</h3>
 <p>Visit the <a href="https://www.wallet.gov.sg/where-to-spend" rel="noopener noreferrer nofollow" target="_blank">GovWallet website</a> today
 to find out where to spend your credits and GovCash.</p>
 <p>Stay informed on updates and any new product developments by subscribing
