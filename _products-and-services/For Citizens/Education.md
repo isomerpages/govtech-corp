@@ -9,6 +9,10 @@ variant: tiptap
 image: /images/Products and Services/parents_gateway.jpg
 ---
 <h3><strong>Helping parents to be more involved in their children's schooling journeys</strong></h3>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Parents Gateway" src="/images/Products and Services/parents_gateway.jpg">
+</div>
 <p>In a bid to strengthen school-home partnerships and help parents become
 more aware of their children's day-to-day schooling activities, GovTech
 collaborated with the Ministry of Education (MOE) to create the Parents
