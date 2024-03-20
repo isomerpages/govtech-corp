@@ -7,27 +7,33 @@ description: GoWhere is a suite of websites that consolidates distribution and
 third_nav_title: Directories and Distribution
 image: /images/Products and Services/gowhere_logo.png
 ---
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Digital Gov Efforts/GOWhereSuite_NewHeaderBanner.jpg">
-</div>
-<h3>Providing easy access to a list of government directories with GoWhere</h3>
+<h3>Providing easy access to government directories with GoWhere</h3>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Products and Services/Featured_GoWhere_suites__screenshot_.jpg">
 </div>
-<p>In times of emergencies, efficient and effective ways of disseminating
-information and resources are critical to ensure the successful delivery
-of social services and support</p>
-<p>GoWhere is a suite of directories initially created in response to the
-COVID-19 pandemic and addresses the need for a rapid and reliable source
-of information.</p>
-<p>Today, the suite has expanded to directories that are useful for day-to-day
-such as BudgetGoWhere and SupportGoWhere</p>
-<p>The GoWhere suite of websites has received 49M total visits (as of June
-2023) and has evolved into the primary channel for more than 23 government
-agencies with a need to distribute social services and resources</p>
-<p>The latest site in the GoWhere suite is <a href="https://www.gowhere.gov.sg/sgready/" rel="noopener noreferrer nofollow" target="_blank">SGReadyGoWhere</a>, a directory
-supporting Exercise SG Ready as part of Total Defence Day in 2024, identifying
-the locations where the exercise will be taking place.</p>
+<p>One thing the COVID-19 pandemic has taught us is that during times of
+emergency, the efficient dissemination of information is pivotal to providing
+assurance to the public and maintaining stability. A ground-up initiative,
+GoWhere was designed to be a reliable source of information for citizens
+and businesses to keep up with the latest COVID-19 guidelines and measures.
+Capable of answering location-based queries, its suite of platforms, from
+ARTGoWhere to MaskGoWhere, supported nationwide distribution efforts by
+directing a user to a list of centres within the radius of the postal code
+he had entered.&nbsp;&nbsp;</p>
+<p>Today, the free-to-use GoWhere Suite exists as a mini-stack, and has become
+a repository of distribution and awareness campaigns in Singapore. SupportGoWhere,
+for example, directs Singaporeans in need to over 23 government agencies
+that distribute social services, grants and resources.&nbsp;</p>
+<p>There are also useful features for daily activities such as BudgetGoWhere,
+which crowdsources public recommendations on budget meals in coffee shops.
+The latest site in the GoWhere Suite is<a href="https://www.gowhere.gov.sg/sgready/" rel="noopener noreferrer nofollow" target="_blank"> <u>SGReadyGoWhere</u></a>,
+a directory where users can search for the locations of Civil Defence Shelters
+that are participating in Exercise SG Ready.&nbsp;</p>
+<p>As of June 2023, the entire GoWhere Suite has seen more than 49 million
+visits.</p>
+<p>
+<br>
+</p>
 <h3>Why use GoWhere?</h3>
 <div class="isomer-card-grid">
 <div class="isomer-card">
