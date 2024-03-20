@@ -101,7 +101,13 @@ via a letter and Singpass</p>
 </li>
 </ul>
 <h3>Interested in finding out more about GovWallet?</h3>
-<p>Visit the <a href="https://www.wallet.gov.sg/where-to-spend" rel="noopener noreferrer nofollow" target="_blank">GovWallet website</a> today
-to find out where to spend your credits and GovCash.</p>
-<p>Stay informed on updates and any new product developments by subscribing
-to our <a href="http://eepurl.com/cUwIsD" rel="noopener noreferrer nofollow" target="_blank">TechNews Newsletter</a>!</p>
+<p></p>
+<div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="https://www.wallet.gov.sg/where-to-spend" class="isomer-card"><div class="isomer-card-body"><div class="isomer-card-title">Visit the GovWallet website to find out where to spend your credits</div><div class="isomer-card-link">Access GovWallet </div></div></a>
+<a rel="noopener noreferrer nofollow" href="http://eepurl.com/cUwIsD" class="isomer-card">
+<div class="isomer-card-body">
+<div class="isomer-card-title">Subscribe to the TechNews newsletter for updates</div>
+<div class="isomer-card-link">Subscribe to TechNews</div>
+</div>
+</a>
+</div>
+<p></p>
