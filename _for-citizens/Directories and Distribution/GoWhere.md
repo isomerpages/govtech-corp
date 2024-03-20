@@ -77,14 +77,18 @@ Where to find support schemes and services?
 </p>
 </li>
 </ul>
-<h3>3. How to use GoWhere?</h3>
-<p>Simply go to <a href="http://GoWhere.gov.sg" rel="noopener noreferrer nofollow" target="_blank">GoWhere.gov.sg</a> to
-access the directories.</p>
-<p>Bookmark the page or add the page to homescreen to access it quickly for
-the latest updates.</p>
-<h3>4. What's the latest on GoWhere?</h3>
-<p>To include any new directories in the website to be launched</p>
-<h3>5. Interested to find out more about GoWhere?</h3>
-<p>- Visit the GoWhere website today. (Link to GoWhere directory)</p>
-<p>Stay informed on updates and any new product developments by subscribing
-to our <a href="http://eepurl.com/cUwIsD" rel="noopener noreferrer nofollow" target="_blank">TechNews Newsletter</a>!</p>
+<h3>How to use GoWhere?</h3>
+<p>Simply go to<a href="http://gowhere.gov.sg/" rel="noopener noreferrer nofollow" target="_blank"> <u>GoWhere.gov.sg</u></a> to
+access the respective websites. Bookmark the page or add the page to your
+home screen to access it quickly.</p>
+<h3>Interested in finding out more about GoWhere?</h3>
+<p></p>
+<div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="https://www.gowhere.gov.sg/" class="isomer-card"><div class="isomer-card-body"><div class="isomer-card-title">Visit the GoWhere website </div><div class="isomer-card-link">GoWhere Suite</div></div></a>
+<a rel="noopener noreferrer nofollow" href="http://eepurl.com/cUwIsD" class="isomer-card">
+<div class="isomer-card-body">
+<div class="isomer-card-title">Subscribe to the TechNews newsletter for updates</div>
+<div class="isomer-card-link">Subscribe to TechNews</div>
+</div>
+</a>
+</div>
+<p></p>
