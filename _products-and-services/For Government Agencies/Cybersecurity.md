@@ -35,5 +35,5 @@ websites.</p>
 <p>Have questions? Get in touch with us at xxx
 <br>
 </p>
-<h3></h3>
+<h3><a href="/files/products-and-services/GITSIR_RFC_2350_Profile.pdf" rel="noopener noreferrer nofollow" target="_blank">GITSIR Profile</a></h3>
 <p></p>
