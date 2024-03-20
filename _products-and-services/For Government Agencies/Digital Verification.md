@@ -7,32 +7,54 @@ description: Powered by blockchain, OpenAttestation is an open-source, backend
 third_nav_title: For Government Agencies
 image: /images/Products and Services/open_attestation_logo.png
 ---
-<h3><strong>Simplifying the verification of digital documents using blockchain with OpenAttestation</strong></h3>
-<p>Our official Government identification documents have mostly gone digital
-today. Think passports, driving licenses and qualitfications. In order
-to ensure that the digital equivalents do exist and are authentic, the
-blockchain protocols provide a reliable solution to store cryptographic
-proof of individual documents. OpenAttestation open-source framework to
-simplify the endorsement and verification of documents using the blockchain.
-Today, the OpenAttestation framework has helped create the <a href="https://www.developer.tech.gov.sg/products/categories/blockchain/opencerts/overview.html" class="waffle-rich-text-link" rel="noopener noreferrer nofollow" target="_blank"><u>OpenCerts</u></a> project,
-which stores authentic digital documents of education certifications, as
-well as the HealthCerts for Covid-19 certifications that are in line with
-International standards.</p>
-<h3><strong>Why use OpenAttestation? </strong></h3>
-<p>Offers verifiable credentials that are tamper-proof so it proves provenance
-of the document. Offers verifiable issuers that are only registered in
-the DNS records so that we know who the issuers are. Gives user power to
-selective disclose information where necessary and comfortable to safeguard
-data privacy. Renders your document in customised templates so you can
-use the document to submit in the right formats.</p>
-<h3><strong>How to use OpenAttestation? </strong></h3>
-<p>OpenAttestation is not a service to be used like other governmental services
-as it is backend framework that powers services such as OpenCerts or HealthCerts.
-That means citizens get to enjoy any government services that are built
-on this framework. For businesses or private sector partners, the OpenAttestation
+<h3><strong>Simplifying the verification of digital official documents with blockchain-powered OpenAttestation</strong></h3>
+<p>Today, official government documents are created, transmitted and stored
+digitally. In an era when scams and forgery are rampant, there is a need
+to ensure the authenticity and integrity of these digital documents.</p>
+<p>Enter OpenAttestation, an open-source framework that simplifies the endorsement
+and verification of official government documents. Created by GovTech's
+Government Digital Services, it harnesses blockchain protocols to store
+cryptographic proof of individual documents.</p>
+<p>Today, the OpenAttestation framework has helped create the <a href="https://www.developer.tech.gov.sg/products/categories/blockchain/opencerts/overview.html" rel="noopener noreferrer nofollow" target="_blank"><u>OpenCerts</u></a> project,
+which stores digital documents of educational certificates, as well as
+HealthCerts for COVID-19 certifications that are in line with international
+standards.</p>
+<h3><strong>Why use OpenAttestation?</strong></h3>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="OpenAttestation Features" src="/images/Products and Services/OpenAttestation_Features.png">
+</div>
+<p></p>
+<div class="isomer-card-grid">
+<div class="isomer-card">
+<div class="isomer-card-body">
+<div class="isomer-card-title">Ensure integrity of the document</div>
+<div class="isomer-card-description">The framework offers verifiable, tamper-evident credentials that prove
+the document's provenance.</div>
+</div>
+</div>
+<div class="isomer-card">
+<div class="isomer-card-body">
+<div class="isomer-card-title">Verify issuance identity</div>
+<div class="isomer-card-description">OpenAttestation checks the identity of the document's issuer through DNS.</div>
+</div>
+</div>
+<div class="isomer-card">
+<div class="isomer-card-body">
+<div class="isomer-card-title">Safeguard data privacy</div>
+<div class="isomer-card-description">Users are given the autonomy to selectively disclose information.</div>
+</div>
+</div>
+</div>
+<h3><strong>How to use OpenAttestation?</strong></h3>
+<p>A backend framework, OpenAttestation is not a service that can be used
+like other government services. However, citizens can use governmental
+services that are built on this framework to verify their official documents,
+such as OpenCerts and HealthCerts.</p>
+<p>For businesses or partners in the private sector, the OpenAttestation
 is publicly listed in the Digital Public Goods Registry. Interested parties
-may access the free-to-use framework <a href="https://digitalpublicgoods.net/registry/openattestation.html" class="waffle-rich-text-link" rel="noopener noreferrer nofollow" target="_blank"><u>here</u></a>.</p>
-<h3><strong>Interested to find out more about OpenAttestation? </strong></h3>
+may access the free-to-use <a href="https://digitalpublicgoods.net/registry/openattestation.html" rel="noopener noreferrer nofollow" target="_blank">OpenAttestation framework</a> here.</p>
+<h3><strong>Interested to find out more about OpenAttestation?</strong></h3>
 <p>Visit the OpenAttestation website to read more about it. Stay informed
 on updates and any new product developments by subscribing to our TechNews
 Newsletter!</p>
