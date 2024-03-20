@@ -8,8 +8,7 @@ third_nav_title: For Citizens
 variant: tiptap
 image: /images/Products and Services/mycareersfuture_logo.png
 ---
-<h3><strong>Helping Singaporeans land their dream jobs with MyCareersFuture</strong></h3>
-<p></p>
+<h3>Helping Singaporeans land their dream jobs with MyCareersFuture</h3>
 <p></p>
 <p>Every working adult in Singapore is familiar with the arduous journey
 of finding a job. Aiming to make job searching easier and more fruitful
@@ -27,7 +26,7 @@ searched for, but could be of interest.
 the portal also benefits job seekers and hirers with its database of insights
 on job searching, career development, talent acquisition and more.</p>
 <p></p>
-<h3><strong>Why use MyCareersFuture?</strong></h3>
+<h3>Why use MyCareersFuture?</h3>
 <div class="isomer-image-wrapper">
 <img style="width: 60%;" height="auto" width="100%" alt="MyCareersFuture is an online government career portal that facilitates job matching for Singaporeans" src="/images/Products and Services/mycareersfuture.png">
 </div>
@@ -57,12 +56,18 @@ vulnerable communities can navigate the platform with ease.</p>
 <iframe style="max-width: 100%;" height="400" width="100%" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/apGASPSxdBE?si=ZT9sUizM8XCdmWpO"></iframe>
 </div>
 <p></p>
-<h3><strong>How to use MyCareersFuture?</strong></h3>
-<p>Simply visit the MyCareersFuture website <a href="https://www.mycareersfuture.gov.sg/search?page=0&amp;gad_source=1&amp;gclid=CjwKCAiAzJOtBhALEiwAtwj8trZgdhipwvN9LkRNcqczUaYikeXoqWXK2IblQ7K-BOqJp7V3iatGbBoCyUIQAvD_BwE" class="waffle-rich-text-link" rel="noopener noreferrer nofollow" target="_blank"><u>here</u></a> and
+<h3>How to use MyCareersFuture?</h3>
+<p>Simply visit the <a href="https://www.mycareersfuture.gov.sg/" rel="noopener noreferrer nofollow" target="_blank"><u>MyCareersFuture website </u></a>and
 login via Singpass to get started.</p>
+<h3>Interested to find out more about MyCareersFuture?</h3>
 <p></p>
-<h3><strong>Interested to find out more about MyCareersFuture?</strong></h3>
-<p>Stay informed on updates and any new product developments by subscribing
-to our TechNews Newsletter! (Subscription form link). Sign up as a Tech
-Kaki to join our feedback community if you're keen to share feedback to
-improve any of our products. (Tech kaki sign up form).</p>
+<div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="http://eepurl.com/cUwIsD" class="isomer-card"><div class="isomer-card-body"><div class="isomer-card-title">Subscribe to the TechNews newsletter for updates</div><div class="isomer-card-link">Subscribe to TechNews</div></div></a>
+<a rel="noopener noreferrer nofollow" href="http://eepurl.com/hsr131" class="isomer-card">
+<div class="isomer-card-body">
+<div class="isomer-card-title">Join the Tech Kaki community to take part in feedback surveys and user
+testing sessions</div>
+<div class="isomer-card-link">Join Tech Kaki</div>
+</div>
+</a>
+</div>
+<p></p>
