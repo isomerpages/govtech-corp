@@ -31,47 +31,52 @@ a directory where users can search for the locations of Civil Defence Shelters
 that are participating in Exercise SG Ready.&nbsp;</p>
 <p>As of June 2023, the entire GoWhere Suite has seen more than 49 million
 visits.</p>
-<p>
-<br>
-</p>
 <h3>Why use GoWhere?</h3>
 <div class="isomer-card-grid">
 <div class="isomer-card">
 <div class="isomer-card-body">
-<div class="isomer-card-title">Quick access</div>
-<div class="isomer-card-description">Provides citizens with quick access to over 20 government initiatives
-through 1 single directory, without the need to search for multiple websites.</div>
+<div class="isomer-card-title">Quick access to many initiatives</div>
+<div class="isomer-card-description">Need government support? Or recommendations for activities? Get all the
+answers on one portal.</div>
 </div>
 </div>
 <div class="isomer-card">
 <div class="isomer-card-body">
-<div class="isomer-card-title">Reliable source</div>
-<div class="isomer-card-description">One single source of truth on government measures where information is
-authenticated and the latest, especially in times of emergency where misinformation
-is rampant.</div>
+<div class="isomer-card-title">Perform location-based queries</div>
+<div class="isomer-card-description">Simply enter your postal code to find support centres or recommendations
+that are in your vicinity.</div>
+</div>
+</div>
+<div class="isomer-card">
+<div class="isomer-card-body">
+<div class="isomer-card-title">Multi-language accessibility</div>
+<div class="isomer-card-description">The content is available in multiple languages so everyone can use it.</div>
 </div>
 </div>
 </div>
 <p></p>
-<div class="isomer-card-grid">
-<div class="isomer-card">
-<div class="isomer-card-body">
-<div class="isomer-card-title">Eligibility and location-based</div>
-<div class="isomer-card-description">Answers all location-based and eligibility queries to help citizens identify
-what they need in the closest proximity.</div>
-</div>
-</div>
-<div class="isomer-card">
-<div class="isomer-card-body">
-<div class="isomer-card-title">Multi-language</div>
-<div class="isomer-card-description">Multi-language content to improve accessibility.</div>
-</div>
-</div>
-</div>
-<p>The suite of GoWhere directories that has coverage across these topics:</p>
-<p>- Asset: Create an infographic of all the GoWhere initiatives on this
-<a href="https://www.gowhere.gov.sg/" rel="noopener noreferrer nofollow" target="_blank">page</a>
+<p>The <a href="https://www.gowhere.gov.sg/" rel="noopener noreferrer nofollow" target="_blank">GoWhere Suite</a> offers
+a wide coverage of topics. Here's a look at the featured websites:</p>
+<ul data-tight="true" class="tight">
+<li>
+<p><a href="https://www.gowhere.gov.sg/budgetmeal/" rel="noopener noreferrer nofollow" target="_blank">BudgetMealGoWhere</a> -
+Where to get a Budget Meal?</p>
+</li>
+<li>
+<p><a href="https://www.gowhere.gov.sg/cdcvouchers" rel="noopener noreferrer nofollow" target="_blank">CDCVouchersGoWhere</a> -
+Where to spend CDC vouchers?</p>
+</li>
+<li>
+<p><a href="https://gowhere.gov.sg/healthiersg" rel="noopener noreferrer nofollow" target="_blank">HealthierSGGoWhere</a> -
+Where to get preventive healthcare and support?</p>
+</li>
+<li>
+<p><a href="https://supportgowhere.life.gov.sg/" rel="noopener noreferrer nofollow" target="_blank">SupportGoWhere</a> -
+Where to find support schemes and services?
+<br>
 </p>
+</li>
+</ul>
 <h3>3. How to use GoWhere?</h3>
 <p>Simply go to <a href="http://GoWhere.gov.sg" rel="noopener noreferrer nofollow" target="_blank">GoWhere.gov.sg</a> to
 access the directories.</p>
