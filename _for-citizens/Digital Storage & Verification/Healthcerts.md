@@ -23,27 +23,28 @@ health documents are recognised by both local and overseas authorities.
 Hence, for travellers like you, they are an added form of assurance for
 a hiccup-free clearance procedure.</p>
 <h3>Why use HealthCerts?</h3>
-<p>As certificates (whether paper or digital form) could be susceptible to
-forgery, HealthCerts is tamper-proof, secure (i.e. prevents unauthorised
-access) and can be digitally stored/transmitted for greater convenience.</p>
+<p>In recent years, forged paper and digital certificates have become more
+prevalent. Powered by Notαrise, a platform that supports authentication
+and endorsement, HealthCerts is tamper-proof. It is also secure, and prevents
+unauthorised access. Furthermore, HealthCerts can be digitally stored or
+transmitted for an easy verification process by government officials.</p>
 <h3>How to use HealthCerts?</h3>
-<ol data-tight="true" class="tight">
-<li>
-<p>Head to the <a href="https://www.notarise.gov.sg/" rel="noopener noreferrer nofollow" target="_blank">notarise</a> website</p>
-</li>
-<li>
-<p>Select the document type you require</p>
-</li>
-<li>
-<p>Login via Singpass and perform email verification</p>
-</li>
-<li>
-<p>Fill up the form according to the instructions provided</p>
-</li>
-<li>
-<p>Submit and await the email notification along with your requested documents</p>
-</li>
-</ol>
+<p></p>
+<div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="https://www.healthcerts.gov.sg/" class="isomer-card"><div class="isomer-card-body"><div class="isomer-card-title">Step 1</div><div class="isomer-card-description">Head to the HealthCerts website and click on Traveller to get on Notαrise.</div><div class="isomer-card-link">HealthCerts</div></div></a>
+<div class="isomer-card">
+<div class="isomer-card-body">
+<div class="isomer-card-title">Step 2</div>
+<div class="isomer-card-description">Select the document type you wish to authenticate and login via Singpass.</div>
+</div>
+</div>
+<div class="isomer-card">
+<div class="isomer-card-body">
+<div class="isomer-card-title">Step 3</div>
+<div class="isomer-card-description">Fill up the form, submit the required documents, and await an email notification.</div>
+</div>
+</div>
+</div>
+<p></p>
 <h3>Interested to find out more on HealthCerts?</h3>
 <p>Learn more about HealthCerts <a href="https://www.healthcerts.gov.sg/" rel="noopener noreferrer nofollow" target="_blank">here</a>.</p>
 <p>Stay informed on updates and any new product developments by subscribing
