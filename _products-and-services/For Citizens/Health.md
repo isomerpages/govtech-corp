@@ -73,7 +73,7 @@ Android devices). Upon launching the app, log in via Singpass to start
 enjoying its features.</p>
 <h3><strong>Interested to find out more about Healthy 365?</strong></h3>
 <p></p>
-<div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="https://hpb.gov.sg/healthy-living/healthy-365" class="isomer-card"><div class="isomer-card-body"><div class="isomer-card-title">Visit the Healthy 365 website</div><div class="isomer-card-link">Healthy 365 </div></div></a>
+<div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="https://hpb.gov.sg/healthy-living/healthy-365" class="isomer-card"><div class="isomer-card-body"><div class="isomer-card-title">Visit the Healthy 365 website</div><div class="isomer-card-link">Healthy 365</div></div></a>
 <a rel="noopener noreferrer nofollow" href="http://eepurl.com/cUwIsD" class="isomer-card">
 <div class="isomer-card-body">
 <div class="isomer-card-title">Subscribe to the TechNews newsletter for updates</div>
