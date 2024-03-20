@@ -6,36 +6,64 @@ third_nav_title: For Citizens
 variant: tiptap
 image: /images/Products and Services/healthy365_logo.png
 ---
-<h3><strong>Supporting the health of citizens through digital health tools.</strong></h3>
-<p>As part of GovTech's aim to continuously build Tech for Public Good, we
-are proud to have been a part of the development of products and services
-that promote and support the health of citizens in Singapore.</p>
-<h3><strong>Encouraging healthy lifestyles through gamification with Healthy 365.</strong></h3>
-<p>Developed in collaboration with the Health Promotion Board (HPB), this
-app aims to provide Singaporeans personalised information and tools to
-better take control of their health and healthcare needs, encouraging them
-to lead and embrace a healthier and more active lifestyle as part of the
-Healthier SG initiative. As of 2019, Healthy 365 app had garnered over
-1.8M downloads, becoming one of the more popular health and fitness applications
-among Singaporeans as it gamifies and rewards users for health-related
-actions.</p>
-<h3><strong>Why use Healthy 365?</strong></h3>
+<h3><strong>Gamifying the way to active lifestyles with Healthy 365</strong></h3>
+<p>With a conviction to build Tech for Public Good, we develop products that
+not just impact national policies but also enrich the everyday lives of
+Singaporean citizens. One of our proud inventions is the Healthy 365, developed
+in collaboration with the Health Promotion Board (HPB). Aiming to incentivise
+Singaporeans to adopt active lifestyles, the app makes the pursuit of health
+a fun and exciting one through gamification.</p>
 <p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 30%;" height="auto" width="100%" alt="" src="/images/Products and Services/healthy365_screenshot_1.png">
-</div>
-<p>Connect the app to your fitness-tracking device to count your daily steps
-and time spent on active exercises - Check your daily progress on the app
-to ensure you are on track to achieving your health goals - Get recommendations
-on workout classes, health workshops and other health programmes - Track
-your sleep and use the meal log tool to ensure your body is getting what
-it needs - Collect Healthpoints and redeem rewards when you participate
-in HPB activities and challenges and purchase healthy meals from participating
-partners.</p>
-<h3><strong>How to use Healthy 365?</strong></h3>
+<h3><strong>Rewards for completing health-related actions</strong></h3>
+<p>Personalised information and tools to take control of your health, all
+packed in one app. What's more, with Healthy 365, you can earn Healthpoints
+when you log your meals, clock steps or purchase foodstuff with the Healthier
+Choice Symbol. The points can be redeemed for HPB eVouchers, HPB Credit$
+and SimplyGo eVouchers. They can even be donated to help local communities!</p>
+<h3><strong>Why use Healthy 365?</strong></h3>
 <div class="iframe-wrapper">
-<iframe height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/CEm9Sg-zyPA?si=x5zRfVVgiZEHJW8t"></iframe>
+<iframe style="max-width: 100%;" height="400" width="100%" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/PKTDrhFwU1o?si=EE-EpdVMolx09v-p"></iframe>
 </div>
+<p></p>
+<div class="isomer-card-grid">
+<div class="isomer-card">
+<div class="isomer-card-image">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Placeholder image" src="https://placehold.co/600x400">
+</div>
+</div>
+<div class="isomer-card-body">
+<div class="isomer-card-title">Get an overview of your health progress</div>
+<div class="isomer-card-description">Connect the app to your fitness tracker to start counting your daily steps
+and track your sleep. Use the meal log tool to review your food intake.</div>
+</div>
+</div>
+<div class="isomer-card">
+<div class="isomer-card-image">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Placeholder image" src="https://placehold.co/600x400">
+</div>
+</div>
+<div class="isomer-card-body">
+<div class="isomer-card-title">Get recommendations on active programmes that you can join</div>
+<div class="isomer-card-description">Staying active is more fun with friends and loved ones! Get recommendations
+on workout classes, health workshops and programmes that you can join.</div>
+</div>
+</div>
+<div class="isomer-card">
+<div class="isomer-card-image">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Placeholder image" src="https://placehold.co/600x400">
+</div>
+</div>
+<div class="isomer-card-body">
+<div class="isomer-card-title">Earn rewards easily</div>
+<div class="isomer-card-description">Collect Healthpoints and redeem rewards when you participate in HPB's
+challenges or purchase healthy meals from participating partners.</div>
+</div>
+</div>
+</div>
+<h3><strong>How to use Healthy 365?</strong></h3>
 <p>Download the app via the <a href="https://apps.apple.com/sg/app/healthy-365/id1040202154" class="waffle-rich-text-link" rel="noopener noreferrer nofollow" target="_blank"><u>App Store</u></a> (for
 Apple devices) or <a href="https://play.google.com/store/apps/details?id=sg.gov.hpb.healthy365&amp;hl=en_SG" class="waffle-rich-text-link" rel="noopener noreferrer nofollow" target="_blank"><u>Google Play Store</u></a> (for
 Android devices) - Upon launching the app, login via Singpass to start
