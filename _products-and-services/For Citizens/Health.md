@@ -72,7 +72,13 @@ Apple devices) or<a href="https://play.google.com/store/apps/details?id=sg.gov.h
 Android devices). Upon launching the app, log in via Singpass to start
 enjoying its features.</p>
 <h3><strong>Interested to find out more about Healthy 365?</strong></h3>
-<p>Visit this <a href="https://www.healthhub.sg/programmes/healthyliving?utm_source=google&amp;utm_medium=paid-search&amp;utm_campaign=ip-h365&amp;utm_content=campaign" class="waffle-rich-text-link" rel="noopener noreferrer nofollow" target="_blank"><u>page</u></a> to
-read more about the product. Stay informed on updates and any new product
-developments by subscribing to our TechNews Newsletter! (Subscription form
-link)</p>
+<p></p>
+<div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="https://hpb.gov.sg/healthy-living/healthy-365" class="isomer-card"><div class="isomer-card-body"><div class="isomer-card-title">Visit the Healthy 365 website</div><div class="isomer-card-link">Healthy 365 </div></div></a>
+<a rel="noopener noreferrer nofollow" href="http://eepurl.com/cUwIsD" class="isomer-card">
+<div class="isomer-card-body">
+<div class="isomer-card-title">Subscribe to the TechNews newsletter for updates</div>
+<div class="isomer-card-link">Subscribe to TechNews</div>
+</div>
+</a>
+</div>
+<p></p>
