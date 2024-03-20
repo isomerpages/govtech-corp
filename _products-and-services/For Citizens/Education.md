@@ -89,8 +89,14 @@ assistance.</p>
 </tbody>
 </table>
 <p></p>
-<h3><strong>Interested to find out more about Parents Gateway?</strong></h3>
-<p>Visit the <a href="https://pg.moe.edu.sg/#home" class="waffle-rich-text-link" rel="noopener noreferrer nofollow" target="_blank"><u>Parents Gateway website</u></a> to
-read more about the product.</p>
-<p>Stay informed on updates and any new product developments by subscribing
-to our TechNews Newsletter!</p>
+<h3><strong>Interested to learn more about Parents Gateway?</strong></h3>
+<p></p>
+<div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="https://pg.moe.edu.sg/" class="isomer-card"><div class="isomer-card-body"><div class="isomer-card-title">Visit the Parents Gateway website</div><div class="isomer-card-link">Parents Gateway</div></div></a>
+<a rel="noopener noreferrer nofollow" href="http://eepurl.com/cUwIsD" class="isomer-card">
+<div class="isomer-card-body">
+<div class="isomer-card-title">Subscribe to the TechNews newsletter for updates</div>
+<div class="isomer-card-link">Subscribe to TechNews</div>
+</div>
+</a>
+</div>
+<p></p>
