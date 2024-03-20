@@ -56,7 +56,7 @@ that are in your vicinity.</div>
 </div>
 <p></p>
 <p>The <a href="https://www.gowhere.gov.sg/" rel="noopener noreferrer nofollow" target="_blank">GoWhere Suite</a> offers
-a wide coverage of topics. Here's a look at the featured websites:</p>
+a wide coverage of topics. Here's a look at some popular sites:</p>
 <ul data-tight="true" class="tight">
 <li>
 <p><a href="https://www.gowhere.gov.sg/budgetmeal/" rel="noopener noreferrer nofollow" target="_blank">BudgetMealGoWhere</a> -
