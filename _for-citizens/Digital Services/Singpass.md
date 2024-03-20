@@ -8,11 +8,31 @@ description: Singpass is a trusted digital identity that aims to make
 third_nav_title: Digital Services
 image: /images/Products and Services/For citizens/Singpass_meta_image.png
 ---
-<h3>Digitalising national identity and providing secure access to government e-services with Singpass.</h3>
+<h3>Digitalising the national identity and providing secure access to e-services with Singpass</h3>
 <p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Digital Gov Efforts/singpass_logo_fullcolours_1.png">
 </div>
+<p></p>
+<p>Singpass is a trusted digital identity for every Singaporean citizen to
+use when making everyday transactions. Access over 2,700 services across
+800 connected government agencies and businesses, simply by authenticating
+with your biometrics or SMS 2FA.</p>
+<p>The app is created by GovTech as part of a key enabler of our national
+digital economy. To date, we have managed to digitalise e-residency for
+4.2 million Singaporeans and Permanent Residents (PRs), with our users
+making 41 million transactions monthly.</p>
+<div class="iframe-wrapper">
+<iframe style="max-width: 100%;" height="400" width="100%" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/rUZf1ZcB0NY?si=Fj23EyqsXwV6YaLr"></iframe>
+</div>
+<p> <em>Statistics shown in this video are accurate as of March 2021</em>
+</p>
+<h3>Why use Singpass?</h3>
+<p></p>
+<p></p>
+<p></p>
+<h3>Digitalising national identity and providing secure access to government e-services with Singpass.</h3>
+<p></p>
 <p>Singpass is Singapore residents' trusted digital identity for secure transaction
 needs in everyday life.</p>
 <p>The platform gives you access to over 2700 services across 800 connected
