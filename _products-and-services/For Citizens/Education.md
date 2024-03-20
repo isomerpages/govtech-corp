@@ -5,27 +5,19 @@ description: ""
 third_nav_title: For Citizens
 variant: tiptap
 ---
-<h3><strong>Digitalising processes in the educational sector with Parents Gateway</strong></h3>
-<p>As part of the Digital Government, GovTech aims to harness technology
-to strengthen school-home partnerships in support of children in their
-education journey Launched in 2019 in collaboration with MOE, Parents Gateway
-is a one-stop portal used to disseminate information and seek parents’
-consent on admin matters, in a consolidated digital form. It gives parents
-greater access and control over their child’s participation in school activities
-and for parents to better manage school-related administrative tasks. To
-date, the app has garnered over 100,000 downloads.</p>
+<h3><strong>Helping parents to be more involved in their children's schooling journeys</strong></h3>
+<p>In a bid to strengthen school-home partnerships and help parents become
+more aware of their children's day-to-day schooling activities, GovTech
+collaborated with the Ministry of Education (MOE) to create the Parents
+Gateway. Launched in 2019, this app allows parents to receive general announcements
+from their children's schools, updates on upcoming programmes and provide
+consent for activity participation.</p>
 <h3><strong>Why use Parents Gateway?</strong></h3>
-<p>Get access to all your children’s school announcements and consent forms
-from one single app. Effortlessly give consent for their school activities
-anytime, anywhere. Conveniently book your preferred slots for Parent-Teacher
-meetings. Easily make travel declarations to inform schools of your children’s
-travel plans. Discover curated parenting resources to better support your
-children in their education journey. -</p>
-<p></p>
 <div class="iframe-wrapper">
-<iframe height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/EKpiTM5axNA?si=X08HUA1fdX0UhAzR"></iframe>
+<iframe style="max-width: 100%;" height="400" width="100%" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/EKpiTM5axNA?si=X08HUA1fdX0UhAzR"></iframe>
 </div>
 <p></p>
+<p>There are numerous features that the Parents Gateway app offers:</p>
 <h3><strong>How to use Parents Gateway?</strong></h3>
 <p>Include screenshots of app to show main features</p>
 <p>Download the app via the App Store (for Apple devices) or Google Play
