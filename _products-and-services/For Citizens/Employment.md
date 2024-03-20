@@ -10,9 +10,6 @@ image: /images/Products and Services/mycareersfuture_logo.png
 ---
 <h3><strong>Helping Singaporeans land their dream jobs with MyCareersFuture</strong></h3>
 <p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 60%;" height="auto" width="100%" alt="" src="/images/Products and Services/mycareersfuture.png">
-</div>
 <p></p>
 <p>Every working adult in Singapore is familiar with the arduous journey
 of finding a job. Aiming to make job searching easier and more fruitful
@@ -29,10 +26,13 @@ searched for, but could be of interest.
 280,000 individuals and 50,000 employers. Besides facilitating job matching,
 the portal also benefits job seekers and hirers with its database of insights
 on job searching, career development, talent acquisition and more.</p>
-<p>
-<br>
-</p>
+<p></p>
 <h3><strong>Why use MyCareersFuture?</strong></h3>
+<div class="isomer-image-wrapper">
+<img style="width: 60%;" height="auto" width="100%" alt="MyCareersFuture is an online government career portal that facilitates job matching for Singaporeans" src="/images/Products and Services/mycareersfuture.png">
+</div>
+<p></p>
+<h3></h3>
 <p>Get step-by-step guidance through your job-searching journey, including
 career-related tips and considerations to take before submitting a new
 job application or deciding on a career switch. - Conveniently explore
