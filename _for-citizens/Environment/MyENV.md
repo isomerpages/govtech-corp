@@ -9,7 +9,7 @@ image: /images/Products and Services/myenv_logo.png
 ---
 <h3>Get real-time environmental data via myENV</h3>
 <div class="isomer-image-wrapper">
-<img style="width: 30%;" height="auto" width="100%" alt="" src="/images/About Us/Our Achievements/myENV_app__rounded_.png">
+<img style="width: 30%;" height="auto" width="100%" alt="myENV logo" src="/images/About Us/Our Achievements/myENV_app__rounded_.png">
 </div>
 <p>Environment-related information, from weather forecasts to flood alerts,
 dengue clusters to food recalls, right at your fingertips. Pooling real-time
