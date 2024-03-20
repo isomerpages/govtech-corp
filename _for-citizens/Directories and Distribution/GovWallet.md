@@ -2,15 +2,12 @@
 title: GovWallet
 permalink: /products-and-services/for-citizens/directories-and-distribution/govwallet/
 variant: tiptap
-description: "GovWallet allows Singaporean citizens to use their government
-  payouts to transact with merchants or to withdraw the credits in cash. "
+description: GovWallet allows Singaporean citizens to use their government
+  payouts to transact with merchants or to withdraw the credits in cash.
 third_nav_title: Directories and Distribution
 image: /images/Products and Services/GovWallet_logo.png
 ---
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/About Us/Our Achievements/GovWallet_NewHeaderBanner.jpg">
-</div>
-<h3>Digitalising the disbursement of government payouts and credits with GovWallet.</h3>
+<h3>Making the disbursement of government payouts efficient and secure with GovWallet</h3>
 <p>Government agencies disbursing credits and monies have traditionally turned
 to paper vouchers or cheques disseminated through the mail, which slows
 down the delivery process</p>
