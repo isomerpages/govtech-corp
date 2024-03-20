@@ -45,7 +45,14 @@ transmitted for an easy verification process by government officials.</p>
 </div>
 </div>
 <p></p>
-<h3>Interested to find out more on HealthCerts?</h3>
-<p>Learn more about HealthCerts <a href="https://www.healthcerts.gov.sg/" rel="noopener noreferrer nofollow" target="_blank">here</a>.</p>
-<p>Stay informed on updates and any new product developments by subscribing
-to our <a href="http://eepurl.com/cUwIsD" rel="noopener noreferrer nofollow" target="_blank">TechNews Newsletter</a>!</p>
+<h3>Interested to find out more about HealthCerts?</h3>
+<p></p>
+<div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="https://www.healthcerts.gov.sg/" class="isomer-card"><div class="isomer-card-body"><div class="isomer-card-title">Visit the HealthCerts website</div><div class="isomer-card-link">HealthCerts </div></div></a>
+<a rel="noopener noreferrer nofollow" href="http://eepurl.com/cUwIsD" class="isomer-card">
+<div class="isomer-card-body">
+<div class="isomer-card-title">Subscribe to the TechNews newsletter for updates</div>
+<div class="isomer-card-link">Subscribe to TechNews</div>
+</div>
+</a>
+</div>
+<p></p>
