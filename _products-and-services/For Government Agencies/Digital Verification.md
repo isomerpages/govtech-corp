@@ -54,7 +54,14 @@ such as OpenCerts and HealthCerts.</p>
 <p>For businesses or partners in the private sector, the OpenAttestation
 is publicly listed in the Digital Public Goods Registry. Interested parties
 may access the free-to-use <a href="https://digitalpublicgoods.net/registry/openattestation.html" rel="noopener noreferrer nofollow" target="_blank">OpenAttestation framework</a> here.</p>
-<h3><strong>Interested to find out more about OpenAttestation?</strong></h3>
-<p>Visit the OpenAttestation website to read more about it. Stay informed
-on updates and any new product developments by subscribing to our TechNews
-Newsletter!</p>
+<h3><strong>Interested to learn more about OpenAttestation?</strong></h3>
+<p></p>
+<div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="https://www.openattestation.com/" class="isomer-card"><div class="isomer-card-body"><div class="isomer-card-title">Visit the OpenAttestation website</div><div class="isomer-card-link">OpenAttestation</div></div></a>
+<a rel="noopener noreferrer nofollow" href="http://eepurl.com/cUwIsD" class="isomer-card">
+<div class="isomer-card-body">
+<div class="isomer-card-title">Subscribe to the TechNews newsletter for updates</div>
+<div class="isomer-card-link">Subscribe to TechNews</div>
+</div>
+</a>
+</div>
+<p></p>
