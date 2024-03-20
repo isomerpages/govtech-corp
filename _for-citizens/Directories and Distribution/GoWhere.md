@@ -83,7 +83,7 @@ access the respective websites. Bookmark the page or add the page to your
 home screen to access it quickly.</p>
 <h3>Interested in finding out more about GoWhere?</h3>
 <p></p>
-<div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="https://www.gowhere.gov.sg/" class="isomer-card"><div class="isomer-card-body"><div class="isomer-card-title">Visit the GoWhere website </div><div class="isomer-card-link">GoWhere Suite</div></div></a>
+<div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="https://www.gowhere.gov.sg/" class="isomer-card"><div class="isomer-card-body"><div class="isomer-card-title">Visit the GoWhere website</div><div class="isomer-card-link">GoWhere Suite</div></div></a>
 <a rel="noopener noreferrer nofollow" href="http://eepurl.com/cUwIsD" class="isomer-card">
 <div class="isomer-card-body">
 <div class="isomer-card-title">Subscribe to the TechNews newsletter for updates</div>
