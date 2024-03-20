@@ -64,6 +64,9 @@ challenges or purchase healthy meals from participating partners.</div>
 </div>
 </div>
 <h3><strong>How to use Healthy 365?</strong></h3>
+<div class="iframe-wrapper">
+<iframe style="max-width: 100%;" height="400" width="100%" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/CEm9Sg-zyPA?si=WX_VUCUHE3IRtWPF"></iframe>
+</div>
 <p>Download the app via the <a href="https://apps.apple.com/sg/app/healthy-365/id1040202154" class="waffle-rich-text-link" rel="noopener noreferrer nofollow" target="_blank"><u>App Store</u></a> (for
 Apple devices) or <a href="https://play.google.com/store/apps/details?id=sg.gov.hpb.healthy365&amp;hl=en_SG" class="waffle-rich-text-link" rel="noopener noreferrer nofollow" target="_blank"><u>Google Play Store</u></a> (for
 Android devices) - Upon launching the app, login via Singpass to start
