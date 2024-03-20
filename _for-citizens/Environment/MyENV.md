@@ -7,40 +7,60 @@ description: myENV is a one-stop platform for environment, water, and food
 third_nav_title: Environment
 image: /images/Products and Services/myenv_logo.png
 ---
-<h3>Providing real-time environmental data for citizens through myENV.</h3>
-<p>The myENV app is a one-stop mobile platform for a range of information
-such as weather, air quality, dengue clusters, water service disruptions
-and more. It provides users with real-time data, pooling information from
-the National Environment Agency (NEA), Public Utilities Board (PUB) and
-Singapore Food Agency (SFA).</p>
+<h3>Get real-time environmental data via myENV</h3>
 <div class="isomer-image-wrapper">
 <img style="width: 30%;" height="auto" width="100%" alt="" src="/images/About Us/Our Achievements/myENV_app__rounded_.png">
 </div>
-<p>The latest version of the app, launched in March 2021, has about 200,000
-active users per month. One of its most popular features is the alerts
-function, with 200,000 subscriptions for the air quality 24-hour PSI alert
-alone. (Source: <a href="https://www.smartnation.gov.sg/initiatives/urban-living/myenv-app/" rel="noopener noreferrer nofollow" target="_blank">https://www.smartnation.gov.sg/initiatives/urban-living/myenv-app/</a> )</p>
+<p>Environment-related information, from weather forecasts to flood alerts,
+dengue clusters to food recalls, right at your fingertips. Pooling real-time
+information from the National Environment Agency's, Public Utilities Board's
+and Singapore Food Agency's data streams, the myENV app keeps you aware
+of what's happening in your surroundings as you go about your daily activities.
+One of the most popular features of the app is the alerts function, which
+has garnered over 200,000 subscriptions for the 24-hour PSI readings alone.</p>
+<p></p>
 <h3>Why use myENV?</h3>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Products and Services/new_myenv_app_layout.jpg">
+<p></p>
+<div class="isomer-card-grid">
+<div class="isomer-card">
+<div class="isomer-card-body">
+<div class="isomer-card-title">Key information at a glance</div>
+<div class="isomer-card-description">Peruse important environmental information at one go via the consolidated
+dashboard.</div>
 </div>
-<p>View key environmental information in one go through a consolidated dashboard</p>
-<p>Bookmark locations such as your home, office, or your child's school or
-childcare to stay updated on any environmental issues near you and your
-family</p>
-<p>Receive notifications on updates around incoming heavy rain, flash floods,
-dengue clusters and more</p>
+</div>
+<div class="isomer-card">
+<div class="isomer-card-body">
+<div class="isomer-card-title">Be alerted when issues arise</div>
+<div class="isomer-card-description">Bookmark locations and receive notifications when environmental issues
+occur in your vicinity.</div>
+</div>
+</div>
+<div class="isomer-card">
+<div class="isomer-card-body">
+<div class="isomer-card-title">Take ownership</div>
+<div class="isomer-card-description">Play a part in the upkeep of the environment by reporting and tracking
+any issues you encounter.</div>
+</div>
+</div>
+</div>
 <h3>How to use myENV?</h3>
-<p>Simply download the app via the App Store (for Apple devices) or Google
-Play Store (for Android devices) to start using its services.</p>
+<p>Simply download the app via the<a href="https://apps.apple.com/sg/app/healthy-365/id1040202154" rel="noopener noreferrer nofollow" target="_blank"> <u>App Store</u></a> (for
+Apple devices) or<a href="https://play.google.com/store/apps/details?id=sg.gov.hpb.healthy365&amp;hl=en_SG" rel="noopener noreferrer nofollow" target="_blank"> <u>Google Play Store</u></a> (for
+Android devices) to start using its services.</p>
 <h3>What's the latest on myENV?</h3>
-<p>MyENV is regularly improved on based on user feedback.</p>
-<p>In the latest version, we have included an enhanced lightning map overlay
-containing past lightning occurences in shroter intervals, and other minor
-enhancements has been made to improve the user experience</p>
+<p>We listen to user feedback and regularly make improvements to myENV. The
+latest enhancement includes a lightning map overlay that contains information
+on past lightning occurrences in shorter time frames.</p>
 <h3>Interested to find out more about myENV?</h3>
-<p>Stay informed on updates and any new product developments by subscribing
-to our <a href="http://eepurl.com/cUwIsD" rel="noopener noreferrer nofollow" target="_blank">TechNews Newsletter</a>!</p>
-<p>Sign up as a <a href="http://eepurl.com/hsr131" rel="noopener noreferrer nofollow" target="_blank">Tech Kaki</a> to
-join our feedback community if you're keen to share feedback to improve
-any of our products.</p>
+<p></p>
+<div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="http://eepurl.com/cUwIsD" class="isomer-card"><div class="isomer-card-body"><div class="isomer-card-title">Subscribe to the TechNews newsletter for updates</div><div class="isomer-card-link">Subscribe to TechNews</div></div></a>
+<a rel="noopener noreferrer nofollow" href="http://eepurl.com/hsr131" class="isomer-card">
+<div class="isomer-card-body">
+<div class="isomer-card-title">Join the Tech Kaki community to take part in feedback surveys and user
+testing sessions</div>
+<div class="isomer-card-link">Join Tech Kaki</div>
+</div>
+</a>
+</div>
+<p></p>
