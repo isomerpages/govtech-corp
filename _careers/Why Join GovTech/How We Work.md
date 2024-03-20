@@ -7,6 +7,77 @@ third_nav_title: Why Join GovTech
 variant: tiptap
 image: /images/careers/How_we_work_meta_image.jpg
 ---
+<h3>As agents of change, we're inspired to build Tech for Public Good</h3>
+<p>GovTech is not your ordinary workplace. Here, dreaming big is encouraged,
+and even more importantly, we are given the resources and opportunities
+to realise our dreams. Our positive work culture and environment make it
+possible for constant innovation and open collaboration.</p>
+<h4>We strive to embody the ABC values:</h4>
+<div class="isomer-card-grid">
+<div class="isomer-card">
+<div class="isomer-card-body">
+<div class="isomer-card-title">Agile</div>
+<div class="isomer-card-description">We're unafraid to disrupt our way of working and are always brainstorming
+new possibilities.</div>
+</div>
+</div>
+<div class="isomer-card">
+<div class="isomer-card-body">
+<div class="isomer-card-title">Bold</div>
+<div class="isomer-card-description">We take smart risks and make tough decisions even when there are uncertainties.</div>
+</div>
+</div>
+<div class="isomer-card">
+<div class="isomer-card-body">
+<div class="isomer-card-title">Collaborative</div>
+<div class="isomer-card-description">Rallying our greatest assets — our GovTechies — we embark on new and innovative
+projects.</div>
+</div>
+</div>
+</div>
+<h4>We aim to innovate, learn and grow:</h4>
+<div class="isomer-card-grid">
+<div class="isomer-card">
+<div class="isomer-card-image">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="A GovTech career is filled with opportunities to innovate." src="/images/careers/Innovation_card_600x400.jpg">
+</div>
+</div>
+<div class="isomer-card-body">
+<div class="isomer-card-title">Innovate</div>
+<div class="isomer-card-description">We challenge ourselves to innovate constantly. We deconstruct problems
+and gather user feedback to create useful solutions.</div>
+</div>
+</div>
+<div class="isomer-card">
+<div class="isomer-card-image">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="At GovTech, you'll always be learning" src="/images/careers/Learn_card_600x400.jpg">
+</div>
+</div>
+<div class="isomer-card-body">
+<div class="isomer-card-title">Learn</div>
+<div class="isomer-card-description">We're in good company — every day, we get to see a multidisciplinary team
+of experts in their element. Learning from them is second nature.</div>
+</div>
+</div>
+<div class="isomer-card">
+<div class="isomer-card-image">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="The GovTech culture is all about prioritising your personal and professional growth." src="/images/careers/Grow_card_600x400.jpg">
+</div>
+</div>
+<div class="isomer-card-body">
+<div class="isomer-card-title">Grow</div>
+<div class="isomer-card-description">We seek to better ourselves through the Digital Technology Attachment
+Programme and the Digital Technical Mentorship Programme.</div>
+</div>
+</div>
+</div>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
 <h3>What we strive for in our work</h3>
 <p>Summary of how benefits for the below items, with focus on work culture,
 mentorship, growth and flexibility. Here's how we work:</p>
