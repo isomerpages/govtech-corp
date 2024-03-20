@@ -74,8 +74,38 @@ Programme and the Digital Technical Mentorship Programme.</div>
 </div>
 </div>
 </div>
+<h4>We prioritise work-life balance</h4>
+<div class="iframe-wrapper">
+<iframe style="max-width: 100%;" height="400" width="100%" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/WVLjmSgigbs?si=s8Gq277TIC5RDFD7"></iframe>
+</div>
 <p></p>
-<p></p>
+<div class="isomer-card-grid">
+<div class="isomer-card">
+<div class="isomer-card-image">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Enjoy work-life balance while working at GovTech" src="/images/careers/Flexible_work_arrangement_600x300.jpg">
+</div>
+</div>
+<div class="isomer-card-body">
+<div class="isomer-card-title">Flexible work arrangement</div>
+<div class="isomer-card-description">We provide generous leave benefits to meet your needs for a balanced work
+and family life. Work from home or take a break and exercise if you need
+to.</div>
+</div>
+</div>
+<div class="isomer-card">
+<div class="isomer-card-image">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Working at GovTech is super fun" src="/images/careers/Positive_work_atmosphere_600x300.jpg">
+</div>
+</div>
+<div class="isomer-card-body">
+<div class="isomer-card-title">A positive atmosphere for work</div>
+<div class="isomer-card-description">From collaborative workspaces to a games area, our office environment
+is carefully designed to allow our GovTechies to work hard and play hard.</div>
+</div>
+</div>
+</div>
 <p></p>
 <p></p>
 <h3>What we strive for in our work</h3>
