@@ -9,7 +9,7 @@ variant: tiptap
 image: /images/careers/students_and_graduates_overview_meta_image_compressed.jpg
 ---
 <h3>Have a hand in shaping Singapore's Smart Nation plans</h3>
-<p>Kickstart a lifelong career with GovTech</p>
+<p>Kickstart a lifelong career with GovTech!</p>
 <p>Due to its ever-changing nature, the tech industry offers you a vibrant
 career trajectory, one that is replete with learning and growth opportunities.
 Hoping to become a professional in the tech industry? Get the head start
@@ -57,6 +57,15 @@ annual leave package and flexible work arrangement.</div>
 </div>
 </div>
 <p></p>
+<div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="/careers/why-join-govtech/overview/" class="isomer-card"><div class="isomer-card-body"><div class="isomer-card-title">What working at GovTech is like?</div><div class="isomer-card-description">Discover what makes us an employer of choice for over 3,000 talents in Singapore!</div><div class="isomer-card-link">Why join GovTech?</div></div></a>
+</div>
+<h3>Find the right programme for you</h3>
+<p>GovTech offers numerous opportunities that will help you expand your career
+horizons. Take a look at the current list of programmes we host.</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="GovTech's many opportunities for students and graduates" src="/images/careers/govtech-students-and-graduates-programmes.png">
+</div>
+<p></p>
 <p></p>
 <p></p>
 <p></p>
@@ -65,9 +74,6 @@ annual leave package and flexible work arrangement.</div>
 opportunities, we are here to inspire you to join us in the building of
 the world’s first Smart Nation.</p>
 <h3>Find the right programme for you</h3>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="GovTech Students and Graduates Programmes" src="/images/careers/govtech-students-and-graduates-programmes.png">
-</div>
 <h4>Find out more about our signature programmes:</h4>
 <p></p>
 <div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="/careers/students-and-graduates/geekout/" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Placeholder image" src="https://placehold.co/600x400"></div></div><div class="isomer-card-body"><div class="isomer-card-title">GeekOut</div><div class="isomer-card-link">Find Out More</div></div></a>
