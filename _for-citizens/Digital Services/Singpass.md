@@ -20,9 +20,9 @@ government agencies and businesses, all at your fingertips.</p>
 economy, we have managed to digitalise e-residency for 4.2M Singaporeans
 and PRs, with our users making 41M transactions monthly.</p>
 <div class="iframe-wrapper">
-<iframe style="max-width: 100%;" height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/rUZf1ZcB0NY?si=ZsG3jlHVhn4S1_cC"></iframe>
+<iframe style="max-width: 100%;" height="315" width="100%" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/rUZf1ZcB0NY?si=LYkyxpsfDVsEFRMV"></iframe>
 </div>
-<p><em>Note: Statistics in the video above are accurate as of March 2021.</em>
+<p> <em>Note: Statistics in the video above are accurate as of March 2021.</em>
 </p>
 <h3>Why use Singpass?</h3>
 <p>Endless possibilities are enabled by a single trusted digital identity
