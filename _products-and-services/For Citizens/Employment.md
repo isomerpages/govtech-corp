@@ -32,18 +32,29 @@ on job searching, career development, talent acquisition and more.</p>
 <img style="width: 60%;" height="auto" width="100%" alt="MyCareersFuture is an online government career portal that facilitates job matching for Singaporeans" src="/images/Products and Services/mycareersfuture.png">
 </div>
 <p></p>
-<h3></h3>
-<p>Get step-by-step guidance through your job-searching journey, including
-career-related tips and considerations to take before submitting a new
-job application or deciding on a career switch. - Conveniently explore
-and apply for the right opportunities for you, with features like the ability
-to view openings eligible for subsidies and even salary ranges. - Leverage
-on the CareersFinder module - a personalised recommender on jobs and skills
-for those looking to upskill or make a career switch. - Designed for all,
-with accessibility features to ensure vulnerable communities can navigate
-the platform with ease.</p>
+<ul>
+<li>
+<p>Receive step-by-step guidance on job searching as well as career-related
+tips. Understand the considerations to make before submitting a new job
+application or deciding on a career switch.</p>
+</li>
+<li>
+<p>Explore and apply for the right opportunities with features that allow
+you to view openings eligible for subsidies and salary ranges.</p>
+</li>
+<li>
+<p>Use the CareersFinder module – a personalised recommender on job and course
+recommendations – to address your upskilling and career needs.&nbsp;</p>
+</li>
+<li>
+<p>MyCareersFuture is designed for all, with accessibility features to ensure
+vulnerable communities can navigate the platform with ease.</p>
+</li>
+</ul>
+<p></p>
+<h4>Get a Personalised Job Search on MyCareersFuture</h4>
 <div class="iframe-wrapper">
-<iframe height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/apGASPSxdBE?si=ZT9sUizM8XCdmWpO"></iframe>
+<iframe style="max-width: 100%;" height="400" width="100%" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/apGASPSxdBE?si=ZT9sUizM8XCdmWpO"></iframe>
 </div>
 <p></p>
 <h3><strong>How to use MyCareersFuture?</strong></h3>
