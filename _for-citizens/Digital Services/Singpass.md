@@ -29,6 +29,34 @@ making 41 million transactions monthly.</p>
 </p>
 <h3>Why use Singpass?</h3>
 <p></p>
+<div class="iframe-wrapper">
+<iframe style="max-width: 100%;" height="400" width="100%" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/zacNBxADPH4?si=vsUFvg1wt38IUmWn"></iframe>
+</div>
+<p><strong> (New infographic)</strong>
+</p>
+<p>Endless possibilities enabled by a single trusted digital identity service</p>
+<ul>
+<li>
+<p>Log in through face verification kiosks at public service centres or QR-code
+logins. There are also login shortcuts on the homepage of the Singpass
+app for you to access other government services.</p>
+</li>
+<li>
+<p>Prove identity in-person via digital identification card and share identification
+with trusted businesses.</p>
+</li>
+<li>
+<p>Digitally sign documents and transactions securely.</p>
+</li>
+<li>
+<p>Access personal and important data through the Myinfo Profile, and use
+autofill for one-click form signing.</p>
+</li>
+<li>
+<p>Receive timely notifications on public announcements and renewal of documents.</p>
+</li>
+</ul>
+<p>Alt text: Why you should use Singpass</p>
 <p></p>
 <p></p>
 <h3>Digitalising national identity and providing secure access to government e-services with Singpass.</h3>
