@@ -72,7 +72,7 @@ together,” Ms Nilsdotter concluded.</p>
 <p></p>
 <p></p>
 <p></p>
-<h2>Both Singapore and Sweden are using technology to overcome various challenges such as healthcare and urban mobility. An all-women panel comprising speakers from both countries highlighted how collaboration and diversity are key to fostering a culture of innovation.</h2>
+<h3>Both Singapore and Sweden are using technology to overcome various challenges such as healthcare and urban mobility. An all-women panel comprising speakers from both countries highlighted how collaboration and diversity are key to fostering a culture of innovation.</h3>
 <p>Despite being more than 10,000 kilometres apart, the small city state
 of Singapore and the Scandinavian nation of Sweden share many similarities
 in their push towards becoming smart cities. From a strong focus on innovation
@@ -91,7 +91,7 @@ of brand at SGInnovate.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="Supercharging innovation in Singapore and Sweden" src="/images/technews/supercharging-innovation-in-singapore-and-sweden-part2.png">
 </div>
-<h3><strong>Regional hubs of innovation</strong></h3>
+<h3>Regional hubs of innovation</h3>
 <p>“[Singapore and Sweden] have a long tradition of working together on really
 sensitive issues like defence, and I think therefore we can be a good match
 working together on cybersecurity and other important things,” Ms Isaksson
@@ -101,12 +101,12 @@ before.</p>
 <p>But even as governments collaborate on policy and regulation, businesses
 can also share ideas and innovations across geographical borders. In this
 respect, the speakers emphasised that Singapore can be a springboard for
-businesses to tap into the Asian market, while Sweden can serve as base
+businesses to tap into the Asian market, while Sweden can serve as a base
 for companies seeking to expand into the Nordic region.</p>
 <p>To strengthen the link between these two ‘gateway’ countries, the Nordic
 Innovation House in Singapore was officially opened on 22 February 2019
 with a mandate to help connect businesses in both nations.</p>
-<h3><strong>Adapt and overcome</strong></h3>
+<h3>Adapt and overcome</h3>
 <p>However, when venturing overseas, it is imperative to understand the local
 market, said Ms. Chow. Trying to ‘copy and paste’ solutions wholesale from
 one region to another is foolhardy, she explained.</p>
@@ -120,7 +120,7 @@ without adaptation to Asian populations.</p>
 “complex stuff” like deep tech, is key for businesses and governments to
 remain relevant, and that both the public and private sector ought to partner
 with each other if they want to achieve future success.</p>
-<h3><strong>Seeking novel perspectives</strong></h3>
+<h3>Seeking novel perspectives</h3>
 <p>When forging partnerships, locally or abroad, the speakers also recommended
 keeping diversity in mind. No individual or culture has a monopoly on ideas,
 so being open and inclusive matters.</p>
