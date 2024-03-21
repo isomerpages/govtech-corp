@@ -53,7 +53,107 @@ with 400 agencies.</div>
 </div>
 </div>
 </div>
-<p></p>
+<p><strong>(New infographic)</strong>
+</p>
+<p><strong>Alt Text: LifeSG's top 10 most commonly used services</strong>
+</p>
+<h3>Benefits of using LifeSG</h3>
+<p>(Accordian)</p>
+<p><strong>Families with newborns or kids under 6 years old</strong>
+</p>
+<ul>
+<li>
+<p>Register the birth of your child online.</p>
+</li>
+<li>
+<p>Apply for your Baby Bonuses at home, and get approval quickly.</p>
+</li>
+<li>
+<p>Search for childcare centres and preschools.</p>
+</li>
+<li>
+<p>Learn how to select your first live-in domestic helper or confinement
+nanny.</p>
+</li>
+<li>
+<p>Review government schemes that are available to you and kickstart your
+family's finance planning journey.</p>
+</li>
+</ul>
+<p><strong>Young adults marking their personal milestones</strong>
+</p>
+<ul>
+<li>
+<p>Get the latest updates on your HDB grants and eligibility</p>
+</li>
+<li>
+<p>Receive professional advice on how to resolve employment-related disputes.</p>
+</li>
+<li>
+<p>Understand more about the marriage process.</p>
+</li>
+<li>
+<p>Get advice on taking care of elderly parents.</p>
+</li>
+<li>
+<p>Find support on your financial and retirement journeys.</p>
+</li>
+</ul>
+<p><strong>Senior citizens enjoying their golden years</strong>
+</p>
+<ul>
+<li>
+<p>Get timely updates on government announcements</p>
+</li>
+<li>
+<p>Access tips and tricks to a healthy retirement life</p>
+</li>
+</ul>
+<h3>How to use LifeSG?</h3>
+<p>Simply download the app and login with your Singpass to access the various
+services.</p>
+<h3>What's the latest on LifeSG?</h3>
+<div class="isomer-card-grid">
+<div class="isomer-card">
+<div class="isomer-card-image">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="My Legacy allows you to plan for legal, healthcare and estate matters." src="https://placehold.co/600x400">
+</div>
+</div>
+<div class="isomer-card-body">
+<div class="isomer-card-title">My Legacy</div>
+<div class="isomer-card-description">Plan how you want your palliative, legal and estate matters to be taken
+care of in the event of death. These plans can be shared with those you
+trust.</div>
+</div>
+</div>
+<div class="isomer-card">
+<div class="isomer-card-image">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Find affordable meal options in coffee shops with BudgetMealGoWhere" src="https://placehold.co/600x400">
+</div>
+</div>
+<div class="isomer-card-body">
+<div class="isomer-card-title">BudgetMealGoWhere</div>
+<div class="isomer-card-description">Follow your fellow Singaporeans' recommendations and find coffee shops
+that are offering affordable meal options.</div>
+</div>
+</div>
+</div>
+<div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="https://www.isomer.gov.sg" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Placeholder image" src="https://placehold.co/600x400"></div></div><div class="isomer-card-body"><div class="isomer-card-title">This is a title for your card</div><div class="isomer-card-description">This is body text for your card. Describe your card.</div><div class="isomer-card-link">This is a link for your card</div></div></a>
+<a rel="noopener noreferrer nofollow" href="https://www.isomer.gov.sg" class="isomer-card">
+<div class="isomer-card-image">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Placeholder image" src="https://placehold.co/600x400">
+</div>
+</div>
+<div class="isomer-card-body">
+<div class="isomer-card-title">This is a title for your card</div>
+<div class="isomer-card-description">This is body text for your card. Describe your card.</div>
+<div class="isomer-card-link">This is a link for your card</div>
+</div>
+</a><a rel="noopener noreferrer nofollow" href="https://www.isomer.gov.sg" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Placeholder image" src="https://placehold.co/600x400"></div></div><div class="isomer-card-body"><div class="isomer-card-title">This is a title for your card</div><div class="isomer-card-description">This is body text for your card. Describe your card.</div><div class="isomer-card-link">This is a link for your card</div></div></a>
+</div>
 <p></p>
 <p></p>
 <h3>Providing government e-services tailored to moments of life through LifeSG.</h3>
