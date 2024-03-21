@@ -26,7 +26,7 @@ Here are some e-services available via the portal.</p>
 <div class="isomer-card">
 <div class="isomer-card-image">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Our Marriage Journey digitalises the marriage registration process." src="https://placehold.co/600x400">
+<img style="width: 100%" height="auto" width="100%" alt="Our Marriage Journey digitalises the marriage registration process." src="/images/Products and Services/For citizens/OMJ_info_card_1_600x300.png">
 </div>
 </div>
 <div class="isomer-card-body">
@@ -38,21 +38,7 @@ your solemnisation via video if an in-person ceremony is not feasible.</div>
 <div class="isomer-card">
 <div class="isomer-card-image">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Update your marital status with Our Marriage Journey." src="https://placehold.co/600x400">
-</div>
-</div>
-<div class="isomer-card-body">
-<div class="isomer-card-title">For changes in marital status</div>
-<div class="isomer-card-description">Update your marital status in the event of divorce or spousal death. You
-can also apply for the registration of your overseas civil marriage.</div>
-</div>
-</div>
-</div>
-<div class="isomer-card-grid">
-<div class="isomer-card">
-<div class="isomer-card-image">
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Use Our Marriage Journey for all your marriage documentation needs." src="https://placehold.co/600x400">
+<img style="width: 100%" height="auto" width="100%" alt="Use Our Marriage Journey for all your marriage documentation needs." src="/images/Products and Services/For citizens/OMJ_info_card_2_600x300.png">
 </div>
 </div>
 <div class="isomer-card-body">
@@ -66,7 +52,7 @@ and verify digital documents.</div>
 <div class="isomer-card">
 <div class="isomer-card-image">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Update your marital status with Our Marriage Journey." src="https://placehold.co/600x400">
+<img style="width: 100%" height="auto" width="100%" alt="Update your marital status with Our Marriage Journey." src="/images/Products and Services/For citizens/OMJ_info_card_3_631x200.png">
 </div>
 </div>
 <div class="isomer-card-body">
@@ -89,58 +75,3 @@ Simply log in with your Singpass to begin using the service.</p>
 </a>
 </div>
 <p></p>
-<p></p>
-<p></p>
-<p></p>
-<h3>Digitalising the marriage process with Our Marriage Journey</h3>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Products and Services/Our_marriage_journey__screenshot_.png">
-</div>
-<p>In partnership with the Registry of Marriages and the Registry of Muslim
-Marriages, Our Marriage Journey is an online portal created by GovTech
-to digitalise the process of marriage administration.</p>
-<p>It is forecasted to impact around 28,000 couples annually, digitalising
-their marriage journey.</p>
-<h3>Why use Our Marriage Journey?</h3>
-<p>The digital service allows you to get your marriage documentation done
-digitally. Here are some e-services available through the portal:</p>
-<ol data-tight="true" class="tight">
-<li>
-<p>For your big day: File your marriage application, book your solemnisation
-dates, and do your solemnisation digitally via video if being there in
-person is not feasible.
-<br>
-</p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%;" height="auto" width="100%" alt="" src="/images/Products and Services/Screenshot_2024_02_16_at_4_17_45_PM.png">
-</div>
-<p></p>
-</li>
-<li>
-<p>For documentation: Search marital records, duplicate marriage certificates,
-verify digital documentation
-<br>
-</p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Products and Services/Screenshot_2024_02_16_at_4_16_07_PM.png">
-</div>
-<p></p>
-</li>
-<li>
-<p>For changes in marital status: Update your marital status for overseas
-marriage, divorce, spousal death</p>
-<p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Products and Services/Screenshot_2024_02_16_at_4_18_38_PM.png">
-</div>
-</li>
-</ol>
-<h3>How to use Our Marriage Journey?</h3>
-<p>Our Marriage Journey is available at <a href="https://www.marriage.gov.sg/" rel="noopener noreferrer nofollow" target="_blank">https://www.marriage.gov.sg/</a>.</p>
-<p>Simply login with your Singpass to begin using Our Marriage Journey.</p>
-<h3>Interested to find out more about Our Marriage Journey?</h3>
-<p>Stay informed on updates and any new product developments by subscribing
-to our <a href="http://eepurl.com/cUwIsD" rel="noopener noreferrer nofollow" target="_blank">TechNews Newsletter</a>!</p>
-<p>Sign up as a <a href="http://eepurl.com/hsr131" rel="noopener noreferrer nofollow" target="_blank">Tech Kaki</a> to
-join our feedback community if you're keen to share feedback to improve
-any of our products.</p>
