@@ -14,11 +14,11 @@ to the health of both citizens and environmental spaces.</p>
 while enabling them to stay updated through real-time data or improve their
 knowledge about the environment.</p>
 <h3><strong>Explore Our Environmental Services</strong></h3>
-<div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="https://staging-lite.d2uz1494fahfnj.amplifyapp.com/products-and-services/for-citizens/environment/myenv/" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="box-sizing: inherit; font-family: Lato, sans-serif; max-width: 100%; height: 12.5rem; display: block; margin: auto; width: 408.889px; object-fit: cover;" height="auto" width="100%" alt="Placeholder image" src="https://placehold.co/600x400"></div></div><div class="isomer-card-body"><div class="isomer-card-title">MyENV</div><div class="isomer-card-link">Find Out More</div></div></a>
+<div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="https://staging-lite.d2uz1494fahfnj.amplifyapp.com/products-and-services/for-citizens/environment/myenv/" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Placeholder image" src="https://placehold.co/600x400"></div></div><div class="isomer-card-body"><div class="isomer-card-title">MyENV</div><div class="isomer-card-link">Find Out More</div></div></a>
 <a rel="noopener noreferrer nofollow" href="https://staging-lite.d2uz1494fahfnj.amplifyapp.com/products-and-services/for-citizens/environment/treessg/" class="isomer-card">
 <div class="isomer-card-image">
 <div class="isomer-image-wrapper">
-<img style="box-sizing: inherit; font-family: Lato, sans-serif; max-width: 100%; height: 12.5rem; display: block; margin: auto; width: 408.889px; object-fit: cover;" height="auto" width="100%" alt="Placeholder image" src="https://placehold.co/600x400">
+<img style="width: 100%" height="auto" width="100%" alt="Placeholder image" src="https://placehold.co/600x400">
 </div>
 </div>
 <div class="isomer-card-body">
@@ -27,9 +27,6 @@ knowledge about the environment.</p>
 </div>
 </a>
 </div>
-<p></p>
-<p><a href="https://staging-lite.d2uz1494fahfnj.amplifyapp.com/products-and-services/for-citizens/health/" class="is-half is-left is-full-height" rel="noopener noreferrer nofollow" target="_blank"><br></a>
-</p>
 <h3>Why use myENV?</h3>
 <div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="/products-and-services/for-citizens/environment/myenv/" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Placeholder image" src="https://placehold.co/600x400"></div></div><div class="isomer-card-body"><div class="isomer-card-title">MyENV</div><div class="isomer-card-link">Find Out More</div></div></a>
 <a rel="noopener noreferrer nofollow" href="/products-and-services/for-citizens/environment/treessg/" class="isomer-card">
