@@ -28,7 +28,7 @@ crises, the multifaceted projects you undertake will serve and impact the
 public. Get to Build Tech for Public Good, and make Singapore an even better
 place to live.</p>
 <div class="iframe-wrapper">
-<iframe style="max-width: 100%;" height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/HQ7LhDdcRaQ?si=7wWin82sbgSe8s2y"></iframe>
+<iframe style="max-width: 100%;" height="400" width="100%" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/HQ7LhDdcRaQ?si=jtQTnrKSIzxw_DDL"></iframe>
 </div>
 <h4>Relish the joy of continuous learning</h4>
 <p>We are an agency filled with multidisciplinary teams of experts from different
@@ -78,7 +78,6 @@ your strategic thinking.</div>
 </div>
 </div>
 </div>
-<p></p>
 <div class="isomer-card-grid">
 <div class="isomer-card">
 <div class="isomer-card-body">
@@ -103,7 +102,7 @@ to festive celebrations.</div>
 </div>
 <h3>A peek into our work culture</h3>
 <div class="iframe-wrapper">
-<iframe style="max-width: 100%;" height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/WVLjmSgigbs?si=QuV5SiSpDxAxavoI"></iframe>
+<iframe style="max-width: 100%;" height="400" width="100%" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/WVLjmSgigbs?si=ofnNFIY_GSAajcmK"></iframe>
 </div>
 <h4>Want to learn more about life at GovTech?</h4>
 <p>Check out our <a href="https://linktr.ee/connectwithgovtech" rel="noopener noreferrer nofollow" target="_blank"><u>social media channels</u></a> to
