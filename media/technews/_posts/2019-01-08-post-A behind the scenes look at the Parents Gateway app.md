@@ -11,7 +11,7 @@ variant: tiptap
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="A behind-the-scenes look at the Parents Gateway app" src="/images/technews/behind-the-scenes-look-at-the-parents-gateway-part1.jpg">
 </div>
-<h2>TL:DR: Officially launched on 2 January 2019, the Parents Gateway mobile app serves as a one-stop platform for schools and parents to connect online. The idea of a centralised digital service was conceptualised by Mr Melvyn Song, executive application consultant at GovTech. Learn more about his journey to bring Parents Gateway from dream to reality.</h2>
+<h3>TL:DR: Officially launched on 2 January 2019, the Parents Gateway mobile app serves as a one-stop platform for schools and parents to connect online. The idea of a centralised digital service was conceptualised by Mr Melvyn Song, executive application consultant at GovTech. Learn more about his journey to bring Parents Gateway from dream to reality.</h3>
 <p>Children aren’t the only ones who feel excited about a new school semester;
 their parents arguably experience equal anxiety each time the school bells
 signal the end of the term break.</p>
@@ -32,7 +32,7 @@ at the Government Technology Agency of Singapore (GovTech).</p>
 <p>He gestated the idea of the app and brought it from ambition to reality.
 TechNews spoke to Mr Song about the labour of love that resulted in a platform
 that will eventually serve 600,000 parents and 33,000 teachers across Singapore.</p>
-<h3><strong>Phase 1: From personal pain points to a prototype</strong></h3>
+<h3>Phase 1: From personal pain points to a prototype</h3>
 <p>Being a father of three himself, Mr Song is no stranger to the difficulties
 faced by working adults with school-going children. But what motivated
 him to create Parents Gateway was the numerous paper documents and forms
@@ -53,7 +53,7 @@ activities.</p>
 </div>
 <p><em>The first prototype of the Parents Gateway – known as the Parents Interaction Centre</em>
 </p>
-<h3><strong>Phase 2: Refining the solution</strong></h3>
+<h3>Phase 2: Refining the solution</h3>
 <p>“Towards the end of 2016 there began a push towards digitalisation within
 the government agencies, including MOE,” Mr Song noted, adding that schools
 at the time were also starting to focus on streamlining processes and freeing
@@ -92,7 +92,7 @@ and 600,000 parents, so we need to take a practical and conscious approach.”</
 </div>
 <p><em>Alpha versions of the app rolled out to 66 schools in 2018</em>
 </p>
-<h3><strong>Phase 3: Making incremental advances with feedback</strong></h3>
+<h3>Phase 3: Making incremental advances with feedback</h3>
 <p>By January 2018, Mr Song’s team was ready to field test a viable version
 of Parents Gateway. Ten schools were enrolled during the alpha phase which
 ended in October 2018.</p>
@@ -111,7 +111,7 @@ are choosing schools or preparing for exams.</p>
 </div>
 <p><em>Melvyn Song gestated the idea of the Parents Gateway</em>
 </p>
-<h3><strong>Personal Development</strong></h3>
+<h3>Personal Development</h3>
 <p>Like a proud parent, Mr Song gets emotional whenever he sees parents using
 the app in malls or at hawker centres.</p>
 <p>This project has also benefited Mr Song’s personal development and he
