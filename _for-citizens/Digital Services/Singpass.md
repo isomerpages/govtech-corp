@@ -8,12 +8,10 @@ description: Singpass is a trusted digital identity that aims to make
 third_nav_title: Digital Services
 image: /images/Products and Services/For citizens/Singpass_meta_image.png
 ---
-<h3>Digitalising the national identity and providing secure access to e-services with Singpass</h3>
-<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Digital Gov Efforts/singpass_logo_fullcolours_1.png">
 </div>
-<p></p>
+<h3>Digitalising the national identity and providing secure access to e-services with Singpass</h3>
 <p>Singpass is a trusted digital identity for every Singaporean citizen to
 use when making everyday transactions. Access over 2,700 services across
 800 connected government agencies and businesses, simply by authenticating
@@ -160,11 +158,11 @@ growth of Singpass, please refer to the <a href="https://www.developer.tech.gov.
 the Singapore's Government Developer Portal.</p>
 <h3>Interested in finding out more about Singpass?</h3>
 <div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="https://www.singpass.gov.sg/main/" class="isomer-card"><div class="isomer-card-body"><div class="isomer-card-title">Visit the Singpass website to start registration</div><div class="isomer-card-link">Go to website</div></div></a>
-<a rel="noopener noreferrer nofollow" href="https://www.tech.gov.sg/media/technews/subscribe" class="isomer-card">
+<a rel="noopener noreferrer nofollow" href="http://eepurl.com/cUwIsD" class="isomer-card">
 <div class="isomer-card-body">
 <div class="isomer-card-title">Receive updates on Singpass by subscribing to our TechNews Newsletter</div>
 <div class="isomer-card-link">Join mailing list</div>
 </div>
-</a><a rel="noopener noreferrer nofollow" href="https://www.tech.gov.sg/products-and-services/tech-kaki-community/" class="isomer-card"><div class="isomer-card-body"><div class="isomer-card-title">Have suggestions on how to improve Singpass? Provide feedback as a Tech Kaki!</div><div class="isomer-card-link">Join community</div></div></a>
+</a><a rel="noopener noreferrer nofollow" href="http://eepurl.com/hsr131" class="isomer-card"><div class="isomer-card-body"><div class="isomer-card-title">Have suggestions on how to improve Singpass? Provide feedback as a Tech Kaki!</div><div class="isomer-card-link">Join community</div></div></a>
 </div>
 <p></p>
