@@ -7,10 +7,56 @@ description: LifeSG connects you to the services of over 100 government agencies
 third_nav_title: Digital Services
 image: /images/Products and Services/For citizens/LifeSG_meta_image.jpg
 ---
-<h3>Providing government e-services tailored to moments of life through LifeSG.</h3>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Digital Gov Efforts/lifesg_header_image.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="LifeSG app helping citizens with planning for the future" src="/images/Digital Gov Efforts/lifesg_header_image.jpg">
 </div>
+<h3>LifeSG: Being there for your every milestone</h3>
+<p>From welcoming a new bundle of joy to preparing for your future with legacy
+planning, as you enter new chapters of your life, you will need access
+to different government resources and support. Streamlining your search
+process is LifeSG, an app that consolidates over 100 government services.
+You can do it all with LifeSG, from booking public facilities to referring
+someone in need to social service agencies. What's more, it provides relevant
+tips tailored to your changing needs and preferences.</p>
+<p>Marking a shift from siloed e-government services to offering a convenient,
+user-centric service, LifeSG is one of the Strategic National Projects
+under Singapore’s Smart Nation initiative. To date, the app has accompanied
+over 1.5 million users like you through life’s events both big and small.</p>
+<div class="iframe-wrapper">
+<iframe style="max-width: 100%;" height="400" width="100%" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/cqy9LF2jw7M?si=wvqvD38WoF4xWF4x"></iframe>
+</div>
+<h3>Why use LifeSG?</h3>
+<p>The government services you use the most, all in one nifty app.</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="The LifeSG app offers you quick access to important government services" src="/images/Products and Services/For citizens/lifesg_app_services.png">
+</div>
+<div class="isomer-card-grid">
+<div class="isomer-card">
+<div class="isomer-card-body">
+<div class="isomer-card-title">A variety of user-friendly guides</div>
+<div class="isomer-card-description">From big moments to difficult times, LifeSG offers resources that will
+help you navigate life.</div>
+</div>
+</div>
+<div class="isomer-card">
+<div class="isomer-card-body">
+<div class="isomer-card-title">Check your eligibility for schemes</div>
+<div class="isomer-card-description">Easy-to-use checkers and calculators help curate a list of government
+schemes you're eligible for.</div>
+</div>
+</div>
+<div class="isomer-card">
+<div class="isomer-card-body">
+<div class="isomer-card-title">Never miss important updates</div>
+<div class="isomer-card-description">Get a personalised inbox that stores messages from and tracks appointments
+with 400 agencies.</div>
+</div>
+</div>
+</div>
+<p></p>
+<p></p>
+<p></p>
+<h3>Providing government e-services tailored to moments of life through LifeSG.</h3>
 <p>As we grow older, there are many different government services that we
 will need to access at different moments of life.</p>
 <p>To make life administration easy, LifeSG was created as an app that consolidates
