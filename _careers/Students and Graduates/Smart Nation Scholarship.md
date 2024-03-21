@@ -25,7 +25,7 @@ good.</p>
 </div>
 <p></p>
 <div class="iframe-wrapper">
-<iframe style="max-width: 100%;" height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/tER0COx2WxM?si=ypc7bk8GZ-f9WmBi"></iframe>
+<iframe style="max-width: 100%;" height="400" width="100%" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/tER0COx2WxM?si=BCOPscU6SlNE2v26"></iframe>
 </div>
 <h3>Benefits of being a Smart Nation Scholar</h3>
 <div class="isomer-card-grid">
@@ -135,7 +135,7 @@ Empathy and Develop People</div>
 Glenda, one of our Smart Nation Scholars, who has detailed her own journey.</p>
 <h3>Interested in becoming a Smart Nation Scholar?</h3>
 <div class="iframe-wrapper">
-<iframe style="max-width: 100%;" height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/Y_bk9YFZvSQ?si=1-UwIAr6Jxpws7LS"></iframe>
+<iframe style="max-width: 100%;" height="400" width="100%" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/Y_bk9YFZvSQ?si=ZB11q3uSk7dPo-RZ"></iframe>
 </div>
 <p>Applications are open from 1st September to 1st April (of the following
 year) for each cycle. Shortlisted candidates can expect to undergo a holistic
