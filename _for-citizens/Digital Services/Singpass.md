@@ -32,7 +32,7 @@ making 41 million transactions monthly.</p>
 <div class="iframe-wrapper">
 <iframe style="max-width: 100%;" height="400" width="100%" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/zacNBxADPH4?si=vsUFvg1wt38IUmWn"></iframe>
 </div>
-<p><strong> (New infographic)</strong>
+<p><strong>(New infographic)</strong>
 </p>
 <p>Endless possibilities enabled by a single trusted digital identity service</p>
 <ul>
@@ -57,6 +57,10 @@ autofill for one-click form signing.</p>
 </li>
 </ul>
 <p>Alt text: Why you should use Singpass</p>
+<h3>Benefits of using Singpass</h3>
+<p></p>
+<p></p>
+<p></p>
 <p></p>
 <p></p>
 <h3>Digitalising national identity and providing secure access to government e-services with Singpass.</h3>
