@@ -58,8 +58,42 @@ autofill for one-click form signing.</p>
 </ul>
 <p>Alt text: Why you should use Singpass</p>
 <h3>Benefits of using Singpass</h3>
-<p></p>
-<p></p>
+<div class="isomer-card-grid">
+<div class="isomer-card">
+<div class="isomer-card-image">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="The Singpass app allows you to skip service lines and counters" src="https://placehold.co/600x400">
+</div>
+</div>
+<div class="isomer-card-body">
+<div class="isomer-card-title">Skip service lines and counters</div>
+<div class="isomer-card-description">Get access to government services securely and easily on the go.</div>
+</div>
+</div>
+<div class="isomer-card">
+<div class="isomer-card-image">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Singpass eliminates the need for paperwork" src="https://placehold.co/600x400">
+</div>
+</div>
+<div class="isomer-card-body">
+<div class="isomer-card-title">No more paperwork</div>
+<div class="isomer-card-description">Government agencies can now process transactions faster and more effectively.</div>
+</div>
+</div>
+<div class="isomer-card">
+<div class="isomer-card-image">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Singpass offers you the convenience of automated identity verification." src="https://placehold.co/600x400">
+</div>
+</div>
+<div class="isomer-card-body">
+<div class="isomer-card-title">Automated identity verification</div>
+<div class="isomer-card-description">Thanks to APIs, you can apply and access business services quicker and
+securely, without the need for manual paper filing.</div>
+</div>
+</div>
+</div>
 <p></p>
 <p></p>
 <p></p>
