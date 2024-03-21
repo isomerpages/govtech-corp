@@ -25,7 +25,7 @@ making 41 million transactions monthly.</p>
 <div class="iframe-wrapper">
 <iframe style="max-width: 100%;" height="400" width="100%" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/rUZf1ZcB0NY?si=Fj23EyqsXwV6YaLr"></iframe>
 </div>
-<p> <em>Statistics shown in this video are accurate as of March 2021</em>
+<p><em>Statistics shown in this video are accurate as of March 2021</em>
 </p>
 <h3>Why use Singpass?</h3>
 <p></p>
