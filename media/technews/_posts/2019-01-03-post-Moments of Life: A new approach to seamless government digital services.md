@@ -31,7 +31,7 @@ view MOL as a concierge, where we can help people along and make their
 interactions with the government as seamless as possible.”</p>
 <h3>Switching lanes</h3>
 <p>Before joining GovTech, Mr Chan was senior vice president (operations)
-in engineering services firm PCI Limited, where he was involved in improving
+of engineering services firm PCI Limited, where he was involved in improving
 core business processes, reducing waste, boosting productivity, raising
 quality and ensuring reliability - <a href="https://www.isixsigma.com/new-to-six-sigma/what-six-sigma/" rel="noopener noreferrer nofollow" target="_blank">Lean Six Sigma</a> methodology
 is often used.</p>
