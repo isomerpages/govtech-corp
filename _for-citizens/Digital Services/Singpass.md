@@ -62,7 +62,7 @@ autofill for one-click form signing.</p>
 <div class="isomer-card">
 <div class="isomer-card-image">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="The Singpass app allows you to skip service lines and counters" src="https://placehold.co/600x400">
+<img style="width: 100%" height="auto" width="100%" alt="The Singpass app allows you to skip service lines and counters" src="/images/Products and Services/For citizens/Singpass_info_card_1_600x400.jpg">
 </div>
 </div>
 <div class="isomer-card-body">
@@ -73,7 +73,7 @@ autofill for one-click form signing.</p>
 <div class="isomer-card">
 <div class="isomer-card-image">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Singpass eliminates the need for paperwork" src="https://placehold.co/600x400">
+<img style="width: 100%" height="auto" width="100%" alt="Singpass eliminates the need for paperwork" src="/images/Products and Services/For citizens/Singpass_info_card_2_600x400.jpg">
 </div>
 </div>
 <div class="isomer-card-body">
@@ -84,7 +84,7 @@ autofill for one-click form signing.</p>
 <div class="isomer-card">
 <div class="isomer-card-image">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Singpass offers you the convenience of automated identity verification." src="https://placehold.co/600x400">
+<img style="width: 100%" height="auto" width="100%" alt="Singpass offers you the convenience of automated identity verification." src="/images/Products and Services/For citizens/Singpass_info_card_3_600x400.jpg">
 </div>
 </div>
 <div class="isomer-card-body">
@@ -94,6 +94,29 @@ securely, without the need for manual paper filing.</div>
 </div>
 </div>
 </div>
+<h3>How to use Singpass?</h3>
+<p>All Singaporean citizens, PRs and Foreign Identification Number (FIN)
+holders above the age of 15 years old are eligible to use Singpass. Start
+using the app in three easy steps:&nbsp;&nbsp;&nbsp;</p>
+<ol>
+<li>
+<p>Register on<a href="http://singpass.gov/" rel="noopener noreferrer nofollow" target="_blank"> <u>Singpass.gov</u>.sg</a> via
+face verification or with a One-Time Password Pin mailer.</p>
+</li>
+<li>
+<p>Set up your Singpass password and SMS 2FA once you've registered successfully.</p>
+</li>
+<li>
+<p>Start accessing the Singpass ecosystem by downloading the app through
+the<a href="https://apps.apple.com/sg/app/singpass/id1340660807" rel="noopener noreferrer nofollow" target="_blank"> <u>App Store</u></a> (for
+Apple devices) and<a href="https://play.google.com/store/apps/details?id=sg.ndi.sp&amp;hl=en_SG&amp;gl=US" rel="noopener noreferrer nofollow" target="_blank"> <u>Google Play Store</u></a> (for
+Android devices).</p>
+</li>
+</ol>
+<p>For a more detailed step-by-step walkthrough, please read the <a href="/files/products-and-services/Singpass_Registration_Guide.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>Singpass Registration Guide</u></a>.</p>
+<h3>What's the latest on Singpass?</h3>
+<p></p>
+<p></p>
 <p></p>
 <p></p>
 <p></p>
