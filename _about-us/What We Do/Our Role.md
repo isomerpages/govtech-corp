@@ -39,28 +39,28 @@ to support the Smart Nation initiative.</p>
 <p>GovTech is a key driver in digital transformation. We create impactful
 government digital services which drive Singapore’s Smart Nation vision.</p>
 <p>Our work can be classified into these key <a href="/about-us/what-we-do/our-capabilities/" rel="noopener noreferrer nofollow" target="_blank">capability centres</a>.</p>
-<div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="https://www.tech.gov.sg/capability-centre-gds" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Placeholder image" src="https://placehold.co/600x400"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Application Design, Development &amp; Deployment</div><div class="isomer-card-link">Learn more</div></div></a>
-<a rel="noopener noreferrer nofollow" href="https://www.tech.gov.sg/capability-centre-csg" class="isomer-card">
+<div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="/our-capabilities/application-design-development-and-deployment/" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Application Design, Development &amp; Deployment" src="/images/About Us/Application_Design__Development___Deployment.jpg"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Application Design, Development &amp; Deployment</div><div class="isomer-card-link">Learn more</div></div></a>
+<a rel="noopener noreferrer nofollow" href="/our-capabilities/cybersecurity/" class="isomer-card">
 <div class="isomer-card-image">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Placeholder image" src="https://placehold.co/600x400">
+<img style="width: 100%" height="auto" width="100%" alt="Cybersecurity" src="/images/About Us/Cybersecurity.jpg">
 </div>
 </div>
 <div class="isomer-card-body">
 <div class="isomer-card-title">Cybersecurity</div>
 <div class="isomer-card-link">Learn more</div>
 </div>
-</a><a rel="noopener noreferrer nofollow" href="https://www.tech.gov.sg/capability-centre-dsaid" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Placeholder image" src="https://placehold.co/600x400"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Data Science and Artificial Intelligence</div><div class="isomer-card-link">Learn more</div></div></a>
-<a rel="noopener noreferrer nofollow" href="https://www.tech.gov.sg/capability-centre-gig" class="isomer-card">
+</a><a rel="noopener noreferrer nofollow" href="/our-capabilities/data-science-and-artificial-intelligence/" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Data Science and Artificial Intelligence" src="/images/About Us/Data_Science_and_Artificial_Intelligence.jpg"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Data Science and Artificial Intelligence</div><div class="isomer-card-link">Learn more</div></div></a>
+<a rel="noopener noreferrer nofollow" href="/our-capabilities/government-ict-infrastructure/" class="isomer-card">
 <div class="isomer-card-image">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Placeholder" src="https://placehold.co/600x400">
+<img style="width: 100%" height="auto" width="100%" alt="Government ICT Infrastructure" src="/images/About Us/Government_ICT_Infrastructure.jpg">
 </div>
 </div>
 <div class="isomer-card-body">
 <div class="isomer-card-title">Government ICT Infrastructure</div>
 <div class="isomer-card-link">Learn more</div>
 </div>
-</a><a rel="noopener noreferrer nofollow" href="https://www.tech.gov.sg/capability-centre-sctd" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Placeholder" src="https://placehold.co/600x400"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Smart City Technology</div><div class="isomer-card-link">Learn more</div></div></a>
+</a><a rel="noopener noreferrer nofollow" href="/our-capabilities/smart-city-technology/" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Smart City Technology" src="/images/About Us/Smart_City_Technology.jpg"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Smart City Technology</div><div class="isomer-card-link">Learn more</div></div></a>
 </div>
 <p></p>
