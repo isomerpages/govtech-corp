@@ -54,35 +54,31 @@ that are in your vicinity.</div>
 </div>
 </div>
 </div>
-<p></p>
 <p>The <a href="https://www.gowhere.gov.sg/" rel="noopener noreferrer nofollow" target="_blank">GoWhere Suite</a> offers
 a wide coverage of topics. Here's a look at some popular sites:</p>
 <ul data-tight="true" class="tight">
 <li>
-<p><a href="https://www.gowhere.gov.sg/budgetmeal/" rel="noopener noreferrer nofollow" target="_blank">BudgetMealGoWhere</a> -
+<p><a href="https://www.gowhere.gov.sg/budgetmeal/" rel="noopener noreferrer nofollow" target="_blank">BudgetMealGoWhere</a> —
 Where to get a Budget Meal?</p>
 </li>
 <li>
-<p><a href="https://www.gowhere.gov.sg/cdcvouchers" rel="noopener noreferrer nofollow" target="_blank">CDCVouchersGoWhere</a> -
+<p><a href="https://www.gowhere.gov.sg/cdcvouchers" rel="noopener noreferrer nofollow" target="_blank">CDCVouchersGoWhere</a> —
 Where to spend CDC vouchers?</p>
 </li>
 <li>
-<p><a href="https://gowhere.gov.sg/healthiersg" rel="noopener noreferrer nofollow" target="_blank">HealthierSGGoWhere</a> -
+<p><a href="https://gowhere.gov.sg/healthiersg" rel="noopener noreferrer nofollow" target="_blank">HealthierSGGoWhere</a> —
 Where to get preventive healthcare and support?</p>
 </li>
 <li>
-<p><a href="https://supportgowhere.life.gov.sg/" rel="noopener noreferrer nofollow" target="_blank">SupportGoWhere</a> -
-Where to find support schemes and services?
-<br>
-</p>
+<p><a href="https://supportgowhere.life.gov.sg/" rel="noopener noreferrer nofollow" target="_blank">SupportGoWhere</a> —
+Where to find support schemes and services?</p>
 </li>
 </ul>
 <h3>How to use GoWhere?</h3>
-<p>Simply go to<a href="http://gowhere.gov.sg/" rel="noopener noreferrer nofollow" target="_blank"> <u>GoWhere.gov.sg</u></a> to
+<p>Simply go to <a href="http://gowhere.gov.sg/" rel="noopener noreferrer nofollow" target="_blank"><u>GoWhere.gov.sg</u></a> to
 access the respective websites. Bookmark the page or add the page to your
 home screen to access it quickly.</p>
 <h3>Interested in finding out more about GoWhere?</h3>
-<p></p>
 <div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="https://www.gowhere.gov.sg/" class="isomer-card"><div class="isomer-card-body"><div class="isomer-card-title">Visit the GoWhere website</div><div class="isomer-card-link">GoWhere Suite</div></div></a>
 <a rel="noopener noreferrer nofollow" href="http://eepurl.com/cUwIsD" class="isomer-card">
 <div class="isomer-card-body">
