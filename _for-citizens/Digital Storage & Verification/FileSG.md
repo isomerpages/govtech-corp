@@ -7,6 +7,9 @@ description: A one-stop digital document management platform - FileSG allows you
 third_nav_title: Digital Storage & Verification
 image: /images/Products and Services/FileSG.png
 ---
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="FileSG logo" src="/images/Products and Services/For citizens/FileSG_logo.png">
+</div>
 <h3>Centralising management of government-issued documents with FileSG</h3>
 <p>From time to time, government agencies will send official documents to
 you. In an effort to make file distribution and management fuss-free, GovTech
