@@ -9,7 +9,7 @@ third_nav_title: Digital Services
 image: /images/Products and Services/sgfindex-logo.png
 ---
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Digital Gov Efforts/sgfindex_logo.png">
+<img style="width: 100%" height="auto" width="100%" alt="SGFinDex logo" src="/images/Digital Gov Efforts/sgfindex_logo.png">
 </div>
 <h3>Empowering your financial journey with SGFinDex</h3>
 <p>As you progress in your financial planning journey, you’ll likely sign
@@ -110,7 +110,6 @@ institutions.</p>
 <img style="width: 100%" height="auto" width="100%" alt="SGFinDex is an online financial planning tool that aims to empower you on your journey." src="/images/Products and Services/For citizens/SGFindex.jpg">
 </div>
 <h4>All your finances at a glance</h4>
-<p></p>
 <div class="isomer-card-grid">
 <div class="isomer-card">
 <div class="isomer-card-body">
@@ -133,8 +132,29 @@ an updated report.</div>
 </div>
 </div>
 </div>
-<p></p>
-<p></p>
+<h3>Benefits of using SGFinDex</h3>
+<div class="isomer-card-grid">
+<div class="isomer-card">
+<div class="isomer-card-body">
+<div class="isomer-card-title">Built for data privacy</div>
+<div class="isomer-card-description">SGFinDex will only transmit and not store or read any private information.</div>
+</div>
+</div>
+<div class="isomer-card">
+<div class="isomer-card-body">
+<div class="isomer-card-title">Control who gets to see your data</div>
+<div class="isomer-card-description">Only trusted sources you have authorised will be able to receive and decrypt
+your financial data.</div>
+</div>
+</div>
+<div class="isomer-card">
+<div class="isomer-card-body">
+<div class="isomer-card-title">An expanding list of participants</div>
+<div class="isomer-card-description">More and more banks and insurance institutions see the value of SGFinDex,
+and are coming onboard.</div>
+</div>
+</div>
+</div>
 <p></p>
 <p></p>
 <p></p>
