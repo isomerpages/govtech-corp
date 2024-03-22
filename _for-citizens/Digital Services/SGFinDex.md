@@ -8,10 +8,82 @@ description: SGFinDex gives you a consolidated view of your financial
 third_nav_title: Digital Services
 image: /images/Products and Services/sgfindex-logo.png
 ---
-<h3>Empower citizens with convenient financial planning through SGFinDex</h3>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Digital Gov Efforts/sgfindex_logo.png">
 </div>
+<h3>Empowering your financial journey with SGFinDex</h3>
+<p>As you progress in your financial planning journey, you’ll likely sign
+up for accounts with different financial institutions to achieve your varied
+savings, investment and insurance goals. Before, reviewing your entire
+financial portfolio would have been a cumbersome task, as there was no
+ecosystem to facilitate data sharing among government agencies and financial
+institutions.</p>
+<p>But that has changed today. Working with the Monetary Authority of Singapore,
+the Smart Nation and Digital Government Group, The Association of Banks
+in Singapore as well as 16 financial institutions, we have created Singapore
+Financial Data Exchange (SGFinDex). It is the world's first public digital
+infrastructure that uses a national digital identity to allow individuals
+to manage and access financial information held across different government
+agencies and financial institutions.</p>
+<p>To date, SGFinDex has 150,000 users, connected 290,000 bank accounts and
+facilitated 620,000 data retrievals.</p>
+<div class="iframe-wrapper">
+<iframe style="max-width: 100%;" height="400" width="100%" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/SWYtVIp1cAM?si=6YJuSQVqYcPodz_B"></iframe>
+</div>
+<h3>Why use SGFinDex?</h3>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="SGFinDex is an online financial planning tool that aims to empower you on your journey." src="/images/Products and Services/For citizens/SGFindex.jpg">
+</div>
+<h4>All your finances at a glance!</h4>
+<div class="isomer-card-grid">
+<div class="isomer-card">
+<div class="isomer-card-body">
+<div class="isomer-card-title">Understand your financial health</div>
+<div class="isomer-card-description">Connect your financial accounts and get to review your savings, returns,
+CPF balance and more.</div>
+</div>
+</div>
+<div class="isomer-card">
+<div class="isomer-card-body">
+<div class="isomer-card-title">Refresh your financial data easily</div>
+<div class="isomer-card-description">Simply provide consent and leverage the data-pulling capabilities to get
+an updated report.</div>
+</div>
+</div>
+<div class="isomer-card">
+<div class="isomer-card-body">
+<div class="isomer-card-title">Your account, your discretion</div>
+<div class="isomer-card-description">Remove any connection anytime, wherever you are.</div>
+</div>
+</div>
+</div>
+<h3>Benefits of using SGFinDex</h3>
+<div class="isomer-card-grid">
+<div class="isomer-card">
+<div class="isomer-card-body">
+<div class="isomer-card-title">Built for data privacy</div>
+<div class="isomer-card-description">SGFinDex will only transmit and not store or read any private information.</div>
+</div>
+</div>
+<div class="isomer-card">
+<div class="isomer-card-body">
+<div class="isomer-card-title">Control who gets to see your data</div>
+<div class="isomer-card-description">Only trusted sources you have authorised will be able to receive and decrypt
+your financial data.</div>
+</div>
+</div>
+<div class="isomer-card">
+<div class="isomer-card-body">
+<div class="isomer-card-title">An expanding list of participants</div>
+<div class="isomer-card-description">More and more banks and insurance institutions see the value of SGFinDex,
+and are coming onboard.</div>
+</div>
+</div>
+</div>
+<p></p>
+<p></p>
+<p></p>
+<h3>Empower citizens with convenient financial planning through SGFinDex</h3>
 <p>As an individual progresses in their financial planning journey, the number
 of accounts with multiple financial institutions will increase in tandem.
 This creates a complex challenge for financial planning as open sharing
