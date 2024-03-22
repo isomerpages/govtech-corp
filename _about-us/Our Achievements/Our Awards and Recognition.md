@@ -207,20 +207,3 @@ in Sustainable Growth/Circular Economy Waste Management (2021)</p>
 <p>Interested in collaborating with us on a digital product or service? Let’s
 explore ways to work together.</p>
 <p>Reach out to us <a href="/products-and-services/collaborate-with-us/overview/" rel="noopener noreferrer nofollow" target="_blank">here</a>!</p>
-<p></p>
-<h3></h3>
-<p></p>
-<p></p>
-<div class="iframe-wrapper">
-<iframe style="max-width: 100%;" height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/wZTU7YibAVU?si=KTd34oEFPDAqrMrs"></iframe>
-</div>
-<div class="iframe-wrapper">
-<iframe style="max-width: 100%;" height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/N14GOCD7eWA?si=5MbiGFLbVLBS9sqh"></iframe>
-</div>
-<div class="iframe-wrapper">
-<iframe style="max-width: 100%;" height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/D-xG_UQiTy4?si=i3vf4qYvzkuwXIUe"></iframe>
-</div>
-<div class="iframe-wrapper">
-<iframe style="max-width: 100%;" height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/F0FTP2FveSg?si=dLtAmExNhqD3FtZe"></iframe>
-</div>
-<p></p>
