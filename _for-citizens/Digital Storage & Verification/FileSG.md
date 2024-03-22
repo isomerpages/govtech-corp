@@ -9,7 +9,7 @@ image: /images/Products and Services/FileSG.png
 ---
 <h3>Centralising management of government-issued documents with FileSG</h3>
 <p>From time to time, government agencies will send official documents to
-you. In an effort to make file distribution and management fuss free, GovTech
+you. In an effort to make file distribution and management fuss-free, GovTech
 created FileSG, a one-stop digital document management platform. With it,
 you can easily receive and retrieve the government-issued documents, and
 even verify their authenticity by checking the validity of the OpenAttestation
@@ -56,8 +56,7 @@ different government agencies.</div>
 </div>
 </div>
 <h3>Interested in finding out more about FileSG?</h3>
-<p></p>
-<div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="https://www.file.gov.sg/for-individuals" class="isomer-card"><div class="isomer-card-body"><div class="isomer-card-title">Visit the FileSG website and start using this service</div><div class="isomer-card-link">FileSG  </div></div></a>
+<div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="https://www.file.gov.sg/for-individuals" class="isomer-card"><div class="isomer-card-body"><div class="isomer-card-title">Visit the FileSG website and start using this service</div><div class="isomer-card-link">FileSG</div></div></a>
 <a rel="noopener noreferrer nofollow" href="http://eepurl.com/cUwIsD" class="isomer-card">
 <div class="isomer-card-body">
 <div class="isomer-card-title">Subscribe to the TechNews newsletter for updates</div>
