@@ -98,7 +98,39 @@ only transmits information across different organisations.&nbsp;</p>
 give consent to data pulling.</p>
 <p>You will retain control over what you wish to share and can withdraw consent
 to sharing data anytime.</p>
-<p></p>
+<h3>Organisations participating in SGFinDex</h3>
+<p>(Accordian)</p>
+<p><strong>Banks </strong>
+</p>
+<p>With major banks such as Citibank, DBS/POSB, HSBC, Maybank, OCBC,SGXGroup,
+Standard Chartered and UOB forming a part of the SGFinDex ecosystem, you
+can easily check your personal cash flow statements. This way, you'll know
+if you need to contribute more to your rainy day fund or set aside more
+for your retirement fund.</p>
+<p><strong>Insurance companies</strong>
+</p>
+<p>Great Eastern, HSBCLife, Income Insurance, Manulife Singapore, Prudential
+and Singlife have joined SGFinDex. Keep track of your lifelong insurance
+and investment policies to determine if you need to enhance your coverage.</p>
+<p><strong>MyMoneySense</strong>
+</p>
+<p>SGFinDex is powered by MyMoneySense. With this nifty financial dashboard,
+you can get an overview of your wealth, cash flow and current protection
+plans.</p>
+<div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="https://www.singpass.gov.sg/main/sgfindex/" class="isomer-card"><div class="isomer-card-body"><div class="isomer-card-title">Want to find out more about SGFinDex?</div><div class="isomer-card-link">Visit website</div></div></a>
+<a rel="noopener noreferrer nofollow" href="http://eepurl.com/cUwIsD" class="isomer-card">
+<div class="isomer-card-body">
+<div class="isomer-card-title">Subscribe to TechNews Newsletter to receive updates on SGFinDex!</div>
+<div class="isomer-card-link">Join mailing list</div>
+</div>
+</a>
+<div class="isomer-card">
+<div class="isomer-card-body">
+<div class="isomer-card-title">Interested in becoming a participant?</div>
+<div class="isomer-card-description">Email us at support@sgdex.gov.sg</div>
+</div>
+</div>
+</div>
 <p></p>
 <p></p>
 <p></p>
