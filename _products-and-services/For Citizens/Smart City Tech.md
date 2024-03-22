@@ -24,8 +24,40 @@ citizens.</p>
 <p>This ecosystem is buoyed by three technology and care layers, namely a
 hardware IoT button called the Personal Alert Button (PAB), a Case Management
 System (CMS) as well as a team of telecare operators working 24/7 and
-<a href="https://www.healthhub.sg/a-z/medical-and-care-facilities/senior_activity_centre" rel="noopener noreferrer nofollow" target="_blank"><u>Senior Activity Centre (SAC)</u>
+<a href="https://www.healthhub.sg/a-z/medical-and-care-facilities/senior_activity_centre" rel="noopener noreferrer nofollow" target="_blank"><u>Senior Activity Centre (SAC)</u> 
 </a>staff.</p>
+<h3>What are the initiatives piloted under GALE?</h3>
+<h4>PAB: Giving seniors peace of mind as they live independently</h4>
+<div class="iframe-wrapper">
+<iframe style="max-width: 100%;" height="400" width="100%" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/mhI3eCfekcs?si=esmFZkH50iigjfgQ"></iframe>
+</div>
+<p>The first successful use case under GALE, the PAB is an alert device that
+can be easily installed in the homes of elderly folks. With it, elderly
+folks can call for help in the event of an emergency.</p>
+<p>The PAB connects them to either a SAC or CareLine, which is a 24-hour
+personal telecare service manned by Changi General Hospital. The telecare
+operators will perform triage using the PAB's two-way communicative technology,
+assess the situation and deploy first aiders.</p>
+<h3>Case Management Systems (CMS) put to test during COVID-19</h3>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="GALE enables the provision of caregiving services to seniors in vulnerable situations." src="/images/Products and Services/For citizens/smart_city_tech_stock_photo_resized.jpg">
+</div>
+<p>At the heart of GALE is the CMS, which facilitates outreach to vulnerable
+communities. During the Circuit Breaker period, it was enhanced with a
+sub-system that empowered the Silver Generation Office (SGO) and their
+volunteers to proactively check on 100,000 elderly folks and offer assistance
+while concurrently highlighting cases that needed follow-up.</p>
+<p>Another sub-system was key in supporting SGO's operations to encourage
+the elderly to go for their vaccinations through channels such as house
+visits and video conferences.</p>
+<p>A third sub-system was created to help the Ministry of Social and Family
+Development as well as the People's Association (PA) reach out to rental
+tenants. Recruited volunteers were able to check on the well-being of some
+35,000 rental tenants, offering assistance from food to finance and ensuring
+that they did not slip through the cracks.</p>
+<p>The CMS also further extended support to the Ministry of Finance, PA and
+its partners to handle lower-income families' appeals or reissue requests
+for the Grocery Vouchers.</p>
 <p></p>
 <p></p>
 <p></p>
