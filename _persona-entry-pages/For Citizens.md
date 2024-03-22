@@ -14,18 +14,18 @@ image: /images/About Us/For_citizens.jpg
 curated to give you tech tips, behind-the-scenes stories and more.</p>
 <h3>Our picks for you</h3>
 <h4>What’s trending in TechNews!</h4>
-<div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="https://www.tech.gov.sg/media/technews/top-five-scams-in-singapore-and-how-to-protect-yourself" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Placeholder image" src="https://placehold.co/600x400"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Protect yourself from the top 5 scams in Singapore</div><div class="isomer-card-link">Read more</div></div></a>
+<div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="https://www.tech.gov.sg/media/technews/top-five-scams-in-singapore-and-how-to-protect-yourself" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Protect yourself from the top 5 scams in Singapore" src="/images/About Us/Scams_info_card_1.jpg"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Protect yourself from the top 5 scams in Singapore</div><div class="isomer-card-link">Read more</div></div></a>
 <a rel="noopener noreferrer nofollow" href="https://www.tech.gov.sg/media/technews/generative-ai-where-can-it-go-wrong" class="isomer-card">
 <div class="isomer-card-image">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Placeholder image" src="https://placehold.co/600x400">
+<img style="width: 100%" height="auto" width="100%" alt="Generative AI: Where it can go wrong" src="/images/About Us/GenAI_info_card_2.jpg">
 </div>
 </div>
 <div class="isomer-card-body">
 <div class="isomer-card-title">Generative AI: Where it can go wrong</div>
 <div class="isomer-card-link">Read more</div>
 </div>
-</a><a rel="noopener noreferrer nofollow" href="https://www.tech.gov.sg/media/technews/tips-for-safe-online-shopping" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Placeholder image" src="https://placehold.co/600x400"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Tips for safe online shopping</div><div class="isomer-card-link">Read more</div></div></a>
+</a><a rel="noopener noreferrer nofollow" href="https://www.tech.gov.sg/media/technews/tips-for-safe-online-shopping" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Tips for safe online shopping" src="/images/About Us/Safe_Online_Shopping_info_card_3.jpg"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Tips for safe online shopping</div><div class="isomer-card-link">Read more</div></div></a>
 </div>
 <p>Stay updated on the latest tech tips and GovTech news. Subscribe to our
 <a href="http://eepurl.com/cUwIsD" rel="noopener noreferrer nofollow" target="_blank">Technews newsletter</a>.</p>
