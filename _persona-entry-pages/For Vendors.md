@@ -50,12 +50,6 @@ test bedding in actual deployment environments.</p>
 <p>Smart Cities</p>
 </li>
 </ol>
-<p>- <u>New</u> infographic showing the opportunities under each focus area
-(can take from<a href="https://docs.google.com/document/d/19WUEjzD8zqyZPCoE7zJntH0BCjdHqF5a/edit?usp=sharing&amp;ouid=103683068069231528394&amp;rtpof=true&amp;sd=true." rel="noopener noreferrer nofollow" target="_blank"> </a>
-<a href="https://docs.google.com/document/d/19WUEjzD8zqyZPCoE7zJntH0BCjdHqF5a/edit?usp=sharing&amp;amp;ouid=103683068069231528394&amp;amp;rtpof=true&amp;amp;sd=true." rel="noopener noreferrer nofollow" target="_blank"><u>https://docs.google.com/document/d/19WUEjzD8zqyZPCoE7zJntH0BCjdHqF5a/edit?usp=sharing&amp;ouid=103683068069231528394&amp;rtpof=true&amp;sd=true</u> 
-</a>+ slides 10-15 on<a href="https://www.tech.gov.sg/files/media/corporate-publications/IB2023-Towards-the-Next-Bound-of-Digital-Government-GovTech-CE.pdf" rel="noopener noreferrer nofollow" target="_blank"> </a>
-<a href="https://docs.google.com/document/d/19WUEjzD8zqyZPCoE7zJntH0BCjdHqF5a/edit?usp=sharing&amp;amp;ouid=103683068069231528394&amp;amp;rtpof=true&amp;amp;sd=true." rel="noopener noreferrer nofollow" target="_blank"><u>https://www.tech.gov.sg/files/media/corporate-publications/IB2023-Towards-the-Next-Bound-of-Digital-Government-GovTech-CE.pdf</u> 
-</a>)</p>
 <h3>Become a vendor for GovTech</h3>
 <p>Follow these steps to secure new opportunities.</p>
 <div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="https://www.gebiz.gov.sg/" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Placeholder image" src="https://placehold.co/600x400"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Register as a GeBIZ Trading Partner (GTP)</div><div class="isomer-card-link">Visit GeBIZ portal</div></div></a>
@@ -92,7 +86,7 @@ the products we have developed for <u>citizens</u>, <u>businesses</u> and <u>gov
 <p><a href="/products-and-services/for-government-agencies/software-development/sg-tech-stack/" rel="noopener noreferrer nofollow" target="_blank">Singapore Government Tech Stack</a>
 </p>
 <div class="iframe-wrapper">
-<iframe style="max-width: 100%;" height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/Vt-r2vCqSh8?si=moecMgW-ucdrOWvC"></iframe>
+<iframe style="max-width: 100%;" height="400" width="100%" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/Vt-r2vCqSh8?si=moecMgW-ucdrOWvC"></iframe>
 </div>
 <p></p>
 <ol data-tight="true" class="tight">
