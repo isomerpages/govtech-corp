@@ -7,7 +7,10 @@ description: Powered by blockchain, OpenAttestation is an open-source, backend
 third_nav_title: For Government Agencies
 image: /images/Products and Services/open_attestation_logo.png
 ---
-<h3><strong>Simplifying the verification of digital official documents with blockchain-powered OpenAttestation</strong></h3>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="OpenAttestation logo" src="/images/Products and Services/For Government Agencies/OpenAttestation.png">
+</div>
+<h3>Simplifying the verification of digital official documents with blockchain-powered OpenAttestation</h3>
 <p>Today, official government documents are created, transmitted and stored
 digitally. In an era when scams and forgery are rampant, there is a need
 to ensure the authenticity and integrity of these digital documents.</p>
@@ -19,7 +22,7 @@ cryptographic proof of individual documents.</p>
 which stores digital documents of educational certificates, as well as
 HealthCerts for COVID-19 certifications that are in line with international
 standards.</p>
-<h3><strong>Why use OpenAttestation?</strong></h3>
+<h3>Why use OpenAttestation?</h3>
 <p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="OpenAttestation Features" src="/images/Products and Services/OpenAttestation_Features.png">
@@ -46,7 +49,7 @@ the document's provenance.</div>
 </div>
 </div>
 </div>
-<h3><strong>How to use OpenAttestation?</strong></h3>
+<h3>How to use OpenAttestation?</h3>
 <p>A backend framework, OpenAttestation is not a service that can be used
 like other government services. However, citizens can use governmental
 services that are built on this framework to verify their official documents,
@@ -54,8 +57,7 @@ such as OpenCerts and HealthCerts.</p>
 <p>For businesses or partners in the private sector, the OpenAttestation
 is publicly listed in the Digital Public Goods Registry. Interested parties
 may access the free-to-use <a href="https://digitalpublicgoods.net/registry/openattestation.html" rel="noopener noreferrer nofollow" target="_blank">OpenAttestation framework</a> here.</p>
-<h3><strong>Interested to learn more about OpenAttestation?</strong></h3>
-<p></p>
+<h3>Interested to learn more about OpenAttestation?</h3>
 <div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="https://www.openattestation.com/" class="isomer-card"><div class="isomer-card-body"><div class="isomer-card-title">Visit the OpenAttestation website</div><div class="isomer-card-link">OpenAttestation</div></div></a>
 <a rel="noopener noreferrer nofollow" href="http://eepurl.com/cUwIsD" class="isomer-card">
 <div class="isomer-card-body">
