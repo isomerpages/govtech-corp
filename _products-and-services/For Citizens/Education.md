@@ -24,7 +24,7 @@ consent for activity participation.</p>
 <div class="isomer-card">
 <div class="isomer-card-image">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Placeholder image" src="https://placehold.co/600x400">
+<img style="width: 100%" height="auto" width="100%" alt="Monitor your child's participation via Parents Gateway" src="/images/Products and Services/For citizens/Parents_Gateway_infocard_1.jpg">
 </div>
 </div>
 <div class="isomer-card-body">
@@ -36,7 +36,7 @@ in school activities.</div>
 <div class="isomer-card">
 <div class="isomer-card-image">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Placeholder image" src="https://placehold.co/600x400">
+<img style="width: 100%" height="auto" width="100%" alt="Mother taking her kid to school after scheduling her time with Parents Gateway" src="/images/Products and Services/For citizens/Parents_Gateway_infocard_2.jpg">
 </div>
 </div>
 <div class="isomer-card-body">
@@ -49,7 +49,7 @@ in school activities.</div>
 <div class="isomer-card">
 <div class="isomer-card-image">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Placeholder image" src="https://placehold.co/600x400">
+<img style="width: 100%" height="auto" width="100%" alt="Father packing for overseas trip with daughter, making travel declarations easier with Parents Gateway" src="/images/Products and Services/For citizens/Parents_Gateway_infocard_3.jpg">
 </div>
 </div>
 <div class="isomer-card-body">
@@ -60,7 +60,7 @@ in school activities.</div>
 <div class="isomer-card">
 <div class="isomer-card-image">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Placeholder image" src="https://placehold.co/600x400">
+<img style="width: 100%" height="auto" width="100%" alt="Family doing activity together, parents learn how to support their children via Parents Gateway" src="/images/Products and Services/For citizens/Parents_Gateway_infocard_4.jpg">
 </div>
 </div>
 <div class="isomer-card-body">
