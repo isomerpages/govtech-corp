@@ -8,6 +8,30 @@ third_nav_title: For Citizens
 variant: tiptap
 image: /images/Products and Services/For citizens/GALE_logo_resized.jpg
 ---
+<h3>Improving vulnerable seniors' quality of life through Smart City Technology</h3>
+<p>At GovTech, we envision a Smart Nation where technology acts as an equaliser
+to give every citizen a chance to improve his or her quality of life. Driven
+by our mission to build Tech for Public Good, we have undertaken meaningful
+projects that impact diverse users with varied accessibility needs.</p>
+<p>Our Smart City projects require us to experiment with hardware designs
+and infrastructure developments as well as collaborate with industry partners
+to pilot new technologies. Our efforts have borne fruit.</p>
+<h3>Supporting the assisted living infrastructure</h3>
+<p>One such project is the Government Assisted Living Ecosystem (GALE). We
+designed, built and rolled out an Internet of Things (IoT) infrastructure
+that enables the provision of caregiving services to vulnerable senior
+citizens.</p>
+<p>This ecosystem is buoyed by three technology and care layers, namely a
+hardware IoT button called the Personal Alert Button (PAB), a Case Management
+System (CMS) as well as a team of telecare operators working 24/7 and
+<a href="https://www.healthhub.sg/a-z/medical-and-care-facilities/senior_activity_centre" rel="noopener noreferrer nofollow" target="_blank"><u>Senior Activity Centre (SAC)</u>
+</a>staff.</p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
 <h3><strong>Improving the quality of lives of Singaporeans through Smart City Technology</strong></h3>
 <p></p>
 <p>As part of its mission to harness technologies and improve lives, GovTech
