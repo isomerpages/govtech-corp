@@ -80,6 +80,27 @@ and are coming onboard.</div>
 </div>
 </div>
 </div>
+<h3>How to use SGFinDex?</h3>
+<p><strong>(New infographic)</strong>
+</p>
+<p>Log in to any of the participating organisations’ applications/websites
+or MyMoneySense, and navigate to SGFinDex.</p>
+<p>Authenticate using Singpass.</p>
+<p>Select the financial institution you wish to connect, and provide authorisation
+at its portal.&nbsp;</p>
+<p>Financial information from government agencies are already connected.</p>
+<p>Synchronise the data on a monthly basis to view your latest balance sheet.</p>
+<p>Alt text: How to use SGFinDex</p>
+<h4><u>Public Service Advisory on Data Privacy</u></h4>
+<p>SGFinDex does not read or store any of your financial information. It
+only transmits information across different organisations.&nbsp;</p>
+<p>To protect your data privacy, data refresh will only take place when you
+give consent to data pulling.</p>
+<p>You will retain control over what you wish to share and can withdraw consent
+to sharing data anytime.</p>
+<p></p>
+<p></p>
+<p></p>
 <p></p>
 <p></p>
 <p></p>
