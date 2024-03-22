@@ -125,8 +125,7 @@ how they celebrate all abilities as we raised funds for their cause.</p>
 Programme, we work to attract, develop and retain female talent.</p>
 <p>Click <a href="/our-digital-government-efforts/diversity-and-inclusion/" rel="noopener noreferrer nofollow" target="_blank">here</a> to
 learn more about our diversity and inclusion efforts or how we support
-<a href="https://www.tech.gov.sg/media/technews/supporting-women-in-govtech-beyond-international-womens-day" rel="noopener noreferrer nofollow" target="_blank">Women in (Gov)Tech beyond International Women's Day</a>
-</p>
+<a href="https://www.tech.gov.sg/media/technews/supporting-women-in-govtech-beyond-international-womens-day" rel="noopener noreferrer nofollow" target="_blank">Women in (Gov)Tech beyond International Women's Day</a>.</p>
 <h3>Our efforts in Consumer Social Responsibility</h3>
 <div class="instagram-wrapper">
 <blockquote style="background:#FFF; border:0; border-radius:3px; box-shadow:0 0 1px 0 rgba(0,0,0,0.5),0 1px 10px 0 rgba(0,0,0,0.15); margin: 1px; max-width:540px; min-width:326px; padding:0; width:99.375%; width:-webkit-calc(100% - 2px); width:calc(100% - 2px);" data-instgrm-version="14" data-instgrm-permalink="https://www.instagram.com/p/CeVln1RNbvy/?utm_source=ig_embed&amp;utm_campaign=loading" data-instgrm-captioned="" class="instagram-media">
