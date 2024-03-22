@@ -7,20 +7,18 @@ description: myENV is a one-stop platform for environment, water, and food
 third_nav_title: Environment
 image: /images/Products and Services/myenv_logo.png
 ---
-<h3>Get real-time environmental data via myENV</h3>
 <div class="isomer-image-wrapper">
 <img style="width: 30%;" height="auto" width="100%" alt="myENV logo" src="/images/About Us/Our Achievements/myENV_app__rounded_.png">
 </div>
+<h3>Get real-time environmental data via myENV</h3>
 <p>Environment-related information, from weather forecasts to flood alerts,
 dengue clusters to food recalls, right at your fingertips. Pooling real-time
 information from the National Environment Agency's, Public Utilities Board's
 and Singapore Food Agency's data streams, the myENV app keeps you aware
 of what's happening in your surroundings as you go about your daily activities.
-One of the most popular features of the app is the alerts function, which
+One of the most popular features of the app is the alert function, which
 has garnered over 200,000 subscriptions for the 24-hour PSI readings alone.</p>
-<p></p>
 <h3>Why use myENV?</h3>
-<p></p>
 <div class="isomer-card-grid">
 <div class="isomer-card">
 <div class="isomer-card-body">
@@ -53,7 +51,6 @@ Android devices) to start using its services.</p>
 latest enhancement includes a lightning map overlay that contains information
 on past lightning occurrences in shorter time frames.</p>
 <h3>Interested to find out more about myENV?</h3>
-<p></p>
 <div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="http://eepurl.com/cUwIsD" class="isomer-card"><div class="isomer-card-body"><div class="isomer-card-title">Subscribe to the TechNews newsletter for updates</div><div class="isomer-card-link">Subscribe to TechNews</div></div></a>
 <a rel="noopener noreferrer nofollow" href="http://eepurl.com/hsr131" class="isomer-card">
 <div class="isomer-card-body">
