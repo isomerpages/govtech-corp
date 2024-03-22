@@ -109,8 +109,8 @@ reach our goals.</div>
 <p>What’s it like working at GovTech? Take a closer look at life in GovTech
 and how our teams innovate through articles that feature our very own GovTechies!</p>
 <p>Click on the links to read more:</p>
-<div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="https://www.tech.gov.sg/media/technews/international-womens-day-2023" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="International Women’s day: GovTechies talk about switching to tech careers" src="/images/About Us/Citizen_info_card_1.jpg"></div></div><div class="isomer-card-body"><div class="isomer-card-title">International Women’s day: GovTechies talk about switching to tech careers</div><div class="isomer-card-link">Read more</div></div></a>
-<a rel="noopener noreferrer nofollow" href="https://www.tech.gov.sg/media/technews/a-day-in-the-life-of-a-data-scientist-in-tap" class="isomer-card">
+<div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="/media/technews/international-womens-day-2023/" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="International Women’s Day: GovTechies talk about switching to tech careers" src="/images/About Us/Citizen_info_card_1.jpg"></div></div><div class="isomer-card-body"><div class="isomer-card-title">International Women’s Day: GovTechies talk about switching to tech careers</div><div class="isomer-card-link">Read more</div></div></a>
+<a rel="noopener noreferrer nofollow" href="/media/technews/a-day-in-the-life-of-a-data-scientist-in-tap/" class="isomer-card">
 <div class="isomer-card-image">
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="A day in the life of a data scientist in the Technology Associate Programme" src="/images/About Us/Citizen_info_card_2.jpg">
@@ -120,8 +120,8 @@ and how our teams innovate through articles that feature our very own GovTechies
 <div class="isomer-card-title">A day in the life of a data scientist in the Technology Associate Programme</div>
 <div class="isomer-card-link">Read more</div>
 </div>
-</a><a rel="noopener noreferrer nofollow" href="https://www.tech.gov.sg/media/technews/tracetogether-behind-the-scenes-look-at-its-development-process" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="TraceTogether — behind the scenes look at its development process" src="/images/About Us/Citizen_info_card_3.jpg"></div></div><div class="isomer-card-body"><div class="isomer-card-title">TraceTogether — behind the scenes look at its development process</div><div class="isomer-card-link">Read more</div></div></a>
-<a rel="noopener noreferrer nofollow" href="https://www.tech.gov.sg/media/technews/women-in-cybersecurity" class="isomer-card">
+</a><a rel="noopener noreferrer nofollow" href="/media/technews/tracetogether-behind-the-scenes-look-at-its-development-process" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="TraceTogether — behind the scenes look at its development process" src="/images/About Us/Citizen_info_card_3.jpg"></div></div><div class="isomer-card-body"><div class="isomer-card-title">TraceTogether — behind the scenes look at its development process</div><div class="isomer-card-link">Read more</div></div></a>
+<a rel="noopener noreferrer nofollow" href="/media/technews/women-in-cybersecurity/" class="isomer-card">
 <div class="isomer-card-image">
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="Women in cybersecurity — GovTechies on life as cyber guardians" src="/images/About Us/Citizen_info_card_4.jpg">
@@ -131,15 +131,15 @@ and how our teams innovate through articles that feature our very own GovTechies
 <div class="isomer-card-title">Women in cybersecurity — GovTechies on life as cyber guardians</div>
 <div class="isomer-card-link">Read more</div>
 </div>
-</a><a rel="noopener noreferrer nofollow" href="https://www.tech.gov.sg/media/technews/making-the-leap" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Making the leap: How one GovTechie switched careers to product design" src="/images/About Us/Citizen_info_card_5.jpg"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Making the leap: How one GovTechie switched careers to product design</div><div class="isomer-card-link">Read more</div></div></a>
-<a rel="noopener noreferrer nofollow" href="https://www.tech.gov.sg/images/technews/today-is-world-programmers-day" class="isomer-card">
+</a><a rel="noopener noreferrer nofollow" href="/media/technews/making-the-leap/" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Making the leap: How one GovTechie switched careers to product design" src="/images/About Us/Citizen_info_card_5.jpg"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Making the leap: How one GovTechie switched careers to product design</div><div class="isomer-card-link">Read more</div></div></a>
+<a rel="noopener noreferrer nofollow" href="/media/technews/today-is-world-programmers-day/" class="isomer-card">
 <div class="isomer-card-image">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Today is world programmer day. Meet one of our own!" src="/images/About Us/Citizen_info_card_6.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="Today is World Programmer Day. Meet one of our own!" src="/images/About Us/Citizen_info_card_6.jpg">
 </div>
 </div>
 <div class="isomer-card-body">
-<div class="isomer-card-title">Today is world programmer day. Meet one of our own!</div>
+<div class="isomer-card-title">Today is World Programmer Day. Meet one of our own!</div>
 <div class="isomer-card-link">Read more</div>
 </div>
 </a>
