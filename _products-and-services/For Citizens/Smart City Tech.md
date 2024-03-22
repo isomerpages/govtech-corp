@@ -27,6 +27,9 @@ System (CMS) as well as a team of telecare operators working 24/7 and
 <a href="https://www.healthhub.sg/a-z/medical-and-care-facilities/senior_activity_centre" rel="noopener noreferrer nofollow" target="_blank"><u>Senior Activity Centre (SAC)</u> 
 </a>staff.</p>
 <h3>What are the initiatives piloted under GALE?</h3>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="GALE logo" src="/images/Products and Services/For citizens/GALE_logo_resized.jpg">
+</div>
 <h4>PAB: Giving seniors peace of mind as they live independently</h4>
 <div class="iframe-wrapper">
 <iframe style="max-width: 100%;" height="400" width="100%" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/mhI3eCfekcs?si=esmFZkH50iigjfgQ"></iframe>
@@ -58,10 +61,42 @@ that they did not slip through the cracks.</p>
 <p>The CMS also further extended support to the Ministry of Finance, PA and
 its partners to handle lower-income families' appeals or reissue requests
 for the Grocery Vouchers.</p>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
+<h3>What's the latest on GALE?</h3>
+<p>The optimistic outcome of the PAB trial has led to a large-scale expansion.</p>
+<div class="isomer-card-grid">
+<div class="isomer-card">
+<div class="isomer-card-body">
+<div class="isomer-card-title">A nationwide rollout</div>
+<div class="isomer-card-description">Today, PAB is piloted in 53 rental housing blocks, and installed in more
+than 6,000 units.</div>
+</div>
+</div>
+<div class="isomer-card">
+<div class="isomer-card-body">
+<div class="isomer-card-title">Benefitting citizens directly</div>
+<div class="isomer-card-description">415 medical, social, crime-related and emergency cases have been handled
+successfully.</div>
+</div>
+</div>
+<div class="isomer-card">
+<div class="isomer-card-body">
+<div class="isomer-card-title">Exploring new areas for rollout</div>
+<div class="isomer-card-description">The GALE team is looking to expand the sphere of operations and reach
+more vulnerable communities.</div>
+</div>
+</div>
+</div>
+<div class="iframe-wrapper">
+<iframe style="border:none;overflow:hidden" height="928" width="500" allowfullscreen="true" frameborder="0" src="https://www.facebook.com/plugins/post.php?href=https%3A%2F%2Fwww.facebook.com%2FGovTechSG%2Fposts%2Fpfbid0ebvcSBEAbWZrHa7ivWLs2J2Snrza9mPEAmU7XtrEwwdSWiZopvhaHZZU7U5mGa71l&amp;show_text=true&amp;width=500"></iframe>
+</div>
+<div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="https://medium.com/siot-govtech" class="isomer-card"><div class="isomer-card-body"><div class="isomer-card-title">Follow updates on GALE over at the Smart City Technology Division blog</div><div class="isomer-card-link">Head over to blog</div></div></a>
+<a rel="noopener noreferrer nofollow" href="http://eepurl.com/cUwIsD" class="isomer-card">
+<div class="isomer-card-body">
+<div class="isomer-card-title">Receive updates on GALE by subscribing to our TechNews Newsletter</div>
+<div class="isomer-card-link">Join mailing list</div>
+</div>
+</a>
+</div>
 <p></p>
 <p></p>
 <h3><strong>Improving the quality of lives of Singaporeans through Smart City Technology</strong></h3>
