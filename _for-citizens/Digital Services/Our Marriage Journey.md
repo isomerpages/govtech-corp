@@ -52,7 +52,7 @@ and verify digital documents.</div>
 <div class="isomer-card">
 <div class="isomer-card-image">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Update your marital status with Our Marriage Journey." src="/images/Products and Services/For citizens/OMJ_info_card_3_631x200.png">
+<img style="width: 100%" height="auto" width="100%" alt="Update your marital status with Our Marriage Journey." src="/images/Products and Services/For citizens/OMJ_info_card_3_new.png">
 </div>
 </div>
 <div class="isomer-card-body">
