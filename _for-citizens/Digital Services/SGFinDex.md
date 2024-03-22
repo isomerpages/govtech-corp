@@ -106,6 +106,39 @@ institutions.</p>
 <iframe style="max-width: 100%;" height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/SWYtVIp1cAM?si=BZatHTTW78ay35Id"></iframe>
 </div>
 <h3>Why use SGFinDex?</h3>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="SGFinDex is an online financial planning tool that aims to empower you on your journey." src="/images/Products and Services/For citizens/SGFindex.jpg">
+</div>
+<h4>All your finances at a glance</h4>
+<p></p>
+<div class="isomer-card-grid">
+<div class="isomer-card">
+<div class="isomer-card-body">
+<div class="isomer-card-title">Understand your financial health</div>
+<div class="isomer-card-description">Connect your financial accounts and get to review your savings, returns,
+CPF balance and more.</div>
+</div>
+</div>
+<div class="isomer-card">
+<div class="isomer-card-body">
+<div class="isomer-card-title">Refresh your financial data easily</div>
+<div class="isomer-card-description">Simply provide consent and leverage the data-pulling capabilities to get
+an updated report.</div>
+</div>
+</div>
+<div class="isomer-card">
+<div class="isomer-card-body">
+<div class="isomer-card-title">Your account, your discretion</div>
+<div class="isomer-card-description">Remove any connection anytime, wherever you are.</div>
+</div>
+</div>
+</div>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
 <h4>Financial planning across multiple banking accounts in one view.</h4>
 <ul data-tight="true" class="tight">
 <li>
