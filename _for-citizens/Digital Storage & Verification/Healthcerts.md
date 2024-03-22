@@ -8,24 +8,23 @@ description: A set of digital standards and schema for COVID-19 test results and
 third_nav_title: Digital Storage & Verification
 image: /images/Products and Services/healthcerts_logo.png
 ---
-<h3>Enabling smooth travel with digitally endorsed Pre-Departure Test and vaccination records</h3>
-<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/About Us/Our Achievements/healthcert_logo.jpg">
 </div>
-<p></p>
+<h3>Enabling smooth travel with digitally endorsed Pre-Departure Test and vaccination records</h3>
 <p>Introduced as a COVID-19 measure to facilitate the safe resumption of
 cross-border travel, HealthCerts is a set of open-source digital standards
 and schema used for issuing Pre-Departure Test results and vaccination
-certificates. Being in line with international standards and the Singapore
-government’s requirements, these digitally authenticated and endorsed travel
-health documents are recognised by both local and overseas authorities.
-Hence, for travellers like you, they are an added form of assurance for
-a hiccup-free clearance procedure.</p>
+certificates.</p>
+<p>Being in line with international standards and the Singapore government’s
+requirements, these digitally authenticated and endorsed travel health
+documents are recognised by both local and overseas authorities. Hence,
+for travellers like you, they are an added form of assurance for a hiccup-free
+clearance procedure.</p>
 <h3>Why use HealthCerts?</h3>
 <p>In recent years, forged paper and digital certificates have become more
 prevalent. Powered by Notαrise, a platform that supports authentication
-and endorsement, HealthCerts is tamper-proof. It is also secure, and prevents
+and endorsement, HealthCerts is tamper-proof. It is also secure and prevents
 unauthorised access. Furthermore, HealthCerts can be digitally stored or
 transmitted for an easy verification process by government officials.</p>
 <h3>How to use HealthCerts?</h3>
