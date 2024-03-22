@@ -52,18 +52,13 @@ test bedding in actual deployment environments.</p>
 </ol>
 <h3>Become a vendor for GovTech</h3>
 <p>Follow these steps to secure new opportunities.</p>
-<div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="https://www.gebiz.gov.sg/" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Placeholder image" src="https://placehold.co/600x400"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Register as a GeBIZ Trading Partner (GTP)</div><div class="isomer-card-link">Visit GeBIZ portal</div></div></a>
+<div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="https://www.gebiz.gov.sg/" class="isomer-card"><div class="isomer-card-body"><div class="isomer-card-title">Register as a GeBIZ Trading Partner (GTP)</div><div class="isomer-card-link">Visit GeBIZ portal</div></div></a>
 <a rel="noopener noreferrer nofollow" href="https://www.gebiz.gov.sg/ptn/ppplisting/index.xhtml" class="isomer-card">
-<div class="isomer-card-image">
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Placeholder image" src="https://placehold.co/600x400">
-</div>
-</div>
 <div class="isomer-card-body">
 <div class="isomer-card-title">Browse available opportunities</div>
 <div class="isomer-card-link">Explore available opportunities</div>
 </div>
-</a><a rel="noopener noreferrer nofollow" href="/products-and-services/collaborate-with-us/industry-collaboration/" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Placeholder image" src="https://placehold.co/600x400"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Get to know our partnership requirements</div><div class="isomer-card-link">Collaborate with us</div></div></a>
+</a><a rel="noopener noreferrer nofollow" href="/products-and-services/collaborate-with-us/industry-collaboration/" class="isomer-card"><div class="isomer-card-body"><div class="isomer-card-title">Get to know our partnership requirements</div><div class="isomer-card-link">Collaborate with us</div></div></a>
 </div>
 <p>Check out the additional resources below to guide you and increase your
 chances of winning a project.</p>
