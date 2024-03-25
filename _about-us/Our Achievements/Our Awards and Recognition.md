@@ -60,7 +60,7 @@ GovTechies and their tech contributions, check out our post below:</p>
 </blockquote>
 <script src="//www.instagram.com/embed.js" async="true"></script>
 </div>
-<h4>Our award-winning products</h4>
+<h3>Our award-winning products</h3>
 <p>As we promote innovation and challenge tech possibilities, many of GovTech's
 digital products and services have gained recognition through a myriad
 of awards.</p>
