@@ -83,6 +83,6 @@ with possibilities, realised through the innovation of technology and engineerin
 <h3>Our Values</h3>
 <p>We aim to be agile, bold and collaborative in everything that we do.</p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="GovTech values: Agile, Bold, Collaborative and what they mean" src="/images/About Us/ABC_Values_Info.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="GovTech's values of Agile, Bold, Collaborative and what they mean" src="/images/careers/why-govtech-abc.png">
 </div>
 <p></p>
