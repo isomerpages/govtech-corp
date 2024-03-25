@@ -36,7 +36,7 @@ and SimplyGo eVouchers. They can even be donated to help local communities!</p>
 <div class="isomer-card">
 <div class="isomer-card-image">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Placeholder image" src="https://placehold.co/600x400">
+<img style="width: 100%" height="auto" width="100%" alt="The HPB app can be connected to your fitness trackers so you can log your daily activities." src="/images/Products and Services/For citizens/Healthy365_info_card_1_600x400.jpg">
 </div>
 </div>
 <div class="isomer-card-body">
@@ -48,7 +48,7 @@ and track your sleep. Use the meal log tool to review your food intake.</div>
 <div class="isomer-card">
 <div class="isomer-card-image">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Placeholder image" src="https://placehold.co/600x400">
+<img style="width: 100%" height="auto" width="100%" alt="The Healthy 365 offers recommendations on fun, active programmes that you can join." src="/images/Products and Services/For citizens/Healthy365_info_card_2_600x400.jpg">
 </div>
 </div>
 <div class="isomer-card-body">
@@ -60,7 +60,7 @@ on workout classes, health workshops and programmes that you can join.</div>
 <div class="isomer-card">
 <div class="isomer-card-image">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Placeholder image" src="https://placehold.co/600x400">
+<img style="width: 100%" height="auto" width="100%" alt="The HPB app rewards you for completing challenges and choosing healthier meal options." src="/images/Products and Services/For citizens/Healthy365_info_card_3_600x400.jpg">
 </div>
 </div>
 <div class="isomer-card-body">
@@ -80,7 +80,6 @@ Apple devices) or<a href="https://play.google.com/store/apps/details?id=sg.gov.h
 Android devices). Upon launching the app, log in via Singpass to start
 enjoying its features.</p>
 <h3>Interested to find out more about Healthy 365?</h3>
-<p></p>
 <div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="https://hpb.gov.sg/healthy-living/healthy-365" class="isomer-card"><div class="isomer-card-body"><div class="isomer-card-title">Visit the Healthy 365 website</div><div class="isomer-card-link">Healthy 365</div></div></a>
 <a rel="noopener noreferrer nofollow" href="http://eepurl.com/cUwIsD" class="isomer-card">
 <div class="isomer-card-body">
