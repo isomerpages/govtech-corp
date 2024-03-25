@@ -168,7 +168,7 @@ Suspendisse euismodor</p>
 </tbody>
 </table>
 <div class="isomer-image-wrapper">
-<img style="width: 80%;" height="auto" width="100%" alt="" src="/images/tracetogethertest1.jpg">
+<img style="width: 90%;" height="auto" width="100%" alt="" src="/images/tracetogethertest1.jpg">
 </div>
 <p></p>
 </div>
@@ -204,7 +204,7 @@ Suspendisse euismodor</p>
 </tbody>
 </table>
 <div class="isomer-image-wrapper">
-<img style="width: 80%;" height="auto" width="100%" alt="" src="/images/tracetogethertest1.jpg">
+<img style="width: 90%;" height="auto" width="100%" alt="" src="/images/tracetogethertest1.jpg">
 </div>
 <p></p>
 </div>
@@ -240,7 +240,7 @@ Suspendisse euismodor</p>
 </tbody>
 </table>
 <div class="isomer-image-wrapper">
-<img style="width: 80%;" height="auto" width="100%" alt="" src="/images/tracetogethertest1.jpg">
+<img style="width: 90%;" height="auto" width="100%" alt="" src="/images/tracetogethertest1.jpg">
 </div>
 <p></p>
 </div>
