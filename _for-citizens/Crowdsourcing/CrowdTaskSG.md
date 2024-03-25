@@ -8,72 +8,106 @@ description: CrowdTaskSG offers you a chance to get heard on national issues.
 third_nav_title: Crowdsourcing
 image: /images/Products and Services/For citizens/crowdtask_600x300.png
 ---
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="CrowdTaskSG banner image/logo" src="/images/Products and Services/For citizens/CTSG_banner.jpg">
+</div>
 <h3>Giving citizens a chance to be heard on national issues with CrowdTaskSG</h3>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
-<h3>Allowing citizens to be heard on national issues and earn rewards with CrowdTaskSG.</h3>
-<p>CrowdTaskSG is a crowdsourcing web portal for government agencies to gather
-collective responses from citizens that can be turned into actionable insights
-regarding national issues, through various tasks like surveys. It is important
-for GovTech to gather these valuable insights from citizens as we strive
-to build <a href="/our-digital-government-efforts/tech-for-public-good/" rel="noopener noreferrer nofollow" target="_blank">Tech for Public Good</a>,
-harnessing technology to improve the lives of Singaporeans.</p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Products and Services/CrowdtaskSG_banner.jpg">
-</div>
-<p>It is open to citizens and PRs aged 18 years and above with a Singpass
-account.</p>
-<p>The portal currently supports the creation of surveys and the auto distribution
-of them to a verified and diverse pool of citizens and can also be used
-to test out prototype products like new websites or apps to get feedback.</p>
-<p>Currently, CrowdTaskSG has more than 18,000 active users, More than 70
-government agencies have received more than 20,000 insights from Singapore
-citizens to date.</p>
+<p>Much of what the Singapore government does is driven by the goal of bettering
+your life. Being the beneficiary of government initiatives, you are the
+best person to help identify gaps and areas of improvement across different
+national policies and issues.</p>
+<p>As part of our mission to build <a href="/our-digital-government-efforts/tech-for-public-good/" rel="noopener noreferrer nofollow" target="_blank">Tech for Public Good</a>,
+we want to empower our sister agencies and give them the ability to gather
+valuable on-the-ground insights. Armed with the insights, they can then
+chart roadmaps to take concrete actions. To do this, we came up with CrowdTaskSG,
+a crowdsourcing web portal for them to create and distribute surveys to
+a verified and diverse pool of Singaporean citizens. It can also be tapped
+to consolidate feedback on the effectiveness of prototypes such as websites
+or apps.<strong>&nbsp;</strong>
+</p>
+<p>Open to citizens and Permanent Residents aged 18 years old and above with
+a Singpass account, CrowdTaskSG currently has more than 18,000 active users.
+More than 70 government agencies have received over 20,000 insights from
+users to date.</p>
 <h3>Why use CrowdTaskSG?</h3>
-<p>Current crowdsourcing landscape perceived as fragmented. Singaporeans
-can't get overview of all opportunities out there, agencies have hard time
-finding the right target participants -&gt; CrowdTaskSG aims to solve this
-with all government crowdsourcing tasks on one site</p>
-<p>A way to share your views and let your voice be heard. Collective answers
-will influence product or policy creation by government agencies.</p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Products and Services/crowdtasksg_mobile_interface.jpg">
+<p></p>
+<div class="iframe-wrapper">
+<iframe style="max-width: 100%;" height="400" width="100%" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/2_g8xICttKU?si=ReYgKy0SlePltglq"></iframe>
 </div>
-<p>Earn cash rewards, coins and experience points that can be used to redeem
-vouchers to pay at participating NETS QR merchants. Every 1000 coins converts
-to S$1 worth of cash.</p>
+<p></p>
+<div class="isomer-card-grid">
+<div class="isomer-card">
+<div class="isomer-card-image">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Products and Services/_Compressed__Step_4_crowdtaskSG.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="CrowdTaskSG allows government agencies to create surveys for the purpose of collecting insights from citizens." src="/images/Products and Services/For citizens/Crowdtask_info_card_1_600x400.png">
 </div>
-<p>Gamification and leaderboard system. Every time you reach a new rank,
-you will earn extra coins.</p>
+</div>
+<div class="isomer-card-body">
+<div class="isomer-card-title">Let your voice be heard</div>
+<div class="isomer-card-description">Share your views! Collective answers will go on to influence product or
+policy creation.</div>
+</div>
+</div>
+<div class="isomer-card">
+<div class="isomer-card-image">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Products and Services/0_40_video_screenshot.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="CrowdTaskSG helps facilitate government crowdsourcing." src="/images/Products and Services/For citizens/Crowdtask_info_card_2_600x400.png">
+</div>
+</div>
+<div class="isomer-card-body">
+<div class="isomer-card-title">Earn rewards for sharing your views</div>
+<div class="isomer-card-description">Redeem vouchers to pay participating merchants on the NETS ecosystem.
+1,000 coins convert to S$1.</div>
+</div>
+</div>
+<div class="isomer-card">
+<div class="isomer-card-image">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="CrowdTaskSG offers rewards for users who participate in government surveys." src="/images/Products and Services/For citizens/Crowdtask_info_card_3_600x400.png">
+</div>
+</div>
+<div class="isomer-card-body">
+<div class="isomer-card-title">A fun, rewarding journey</div>
+<div class="isomer-card-description">Participate and climb up the leaderboard! Unlock better reward tiers when
+you reach a new rank.</div>
+</div>
+</div>
 </div>
 <h3>How to use CrowdTaskSG?</h3>
-<p>Visit the <a href="https://www.crowdtask.gov.sg/" rel="noopener noreferrer nofollow" target="_blank">CrowdTaskSG website.</a>
-</p>
-<p>Login/Sign up with Singpass to access CrowdTaskSG</p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Products and Services/Singpass_login_crowdtaskSG.jpg">
-</div>
+<p>Visit the <a href="https://www.crowdtask.gov.sg/" rel="noopener noreferrer nofollow" target="_blank">CrowdTaskSG website</a>.
+Log in with Singpass to access CrowdTaskSG.</p>
 <h3>What's the latest on CrowdTaskSG?</h3>
-<p>In the future, the portal will be looking to expand its range of rewards
-to include cash straight into citizens' GovWallet accounts.</p>
-<p><strong>(To include more variety of tasks, including A/B testing)</strong>
-</p>
-<p>Great Budget Meal Hunt: allow people to submit info about meals priced
-between $3 and $3.50 to help others locate cheap meals</p>
-<p>Starting Nov 17, Scam Public Education Quiz: tests ability to identify
-signs of scams and teaches participants how to keep Singpass account safe</p>
-<h3>Interested to find out more about CrowdTaskSG?</h3>
-<p>Visit the <a href="https://www.crowdtask.gov.sg/" rel="noopener noreferrer nofollow" target="_blank">CrowdTaskSG website</a> to
-read more about the product.</p>
-<p>Sign up as a <a href="http://eepurl.com/hsr131" rel="noopener noreferrer nofollow" target="_blank">Tech Kaki</a> to
-join our feedback community if you're keen to share feedback to improve
-any of our products.</p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Earning points via CrowdTaskSG, which can then be converted into money" src="/images/Products and Services/For citizens/CrowdTaskSG_0_40_video_screenshot.jpg">
+</div>
+<p>We're constantly trying to elevate the usefulness of CrowdTaskSG. Here
+are some new upcoming features.</p>
+<ul>
+<li>
+<p>The portal will expand its range of rewards as well as disburse cash straight
+into your GovWallet account.</p>
+</li>
+<li>
+<p>Expanded functions will include polls as well as A/B testing for government
+agencies to test the effectiveness of their campaigns.&nbsp;</p>
+</li>
+<li>
+<p><strong>Great Budget Meal Hunt: </strong>Submit information on meals priced
+between $3 and $3.50 to help your fellow Singaporeans find cheap meals.</p>
+</li>
+<li>
+<p><strong>Scam Public Education Quiz: </strong>Test your ability to identify
+signs of scams and learn how to keep your Singpass account safe.</p>
+</li>
+</ul>
+<h3>Want to find out more about CrowdTaskSG?</h3>
+<div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="https://www.crowdtask.gov.sg/" class="isomer-card"><div class="isomer-card-body"><div class="isomer-card-title">Visit the website to learn more about CrowdTaskSG</div><div class="isomer-card-link">CrowdTaskSG website</div></div></a>
+<a rel="noopener noreferrer nofollow" href="http://eepurl.com/hsr131" class="isomer-card">
+<div class="isomer-card-body">
+<div class="isomer-card-title">Have feedback on CrowdTaskSG? Become a Tech Kaki to share your ideas</div>
+<div class="isomer-card-link">Join community</div>
+</div>
+</a>
+</div>
+<p></p>
