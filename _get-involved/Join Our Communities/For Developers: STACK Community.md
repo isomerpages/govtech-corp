@@ -8,6 +8,7 @@ variant: tiptap
 image: /images/Get Involved/stack_x_a11y_2.jpg
 ---
 <h3>Experts Driving Tech for Public Good</h3>
+<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="Experts in the STACK community listening to another member present his ideas and knowledge." src="/images/Get Involved/STACK_community__1_.jpg">
 </div>
@@ -21,6 +22,7 @@ Singapore into a Smart Nation using the SG Tech Stack.</p>
 <p>If our purpose resonates with you, read on for a glimpse of life as a
 GovTech STACK community member.</p>
 <h3>Connecting for a bigger purpose</h3>
+<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="Like-minded tech experts sharing with each other their knowledge and expertise." src="/images/Get Involved/STACK_community__2_.jpg">
 </div>
@@ -51,8 +53,9 @@ speakers.</div>
 </div>
 </div>
 <h3>Conference spotlight: STACKx Data &amp; AI 2023</h3>
+<p></p>
 <div class="iframe-wrapper">
-<iframe height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/5DGAIiUwMuU?si=vx4sW43nS01ysCQ6"></iframe>
+<iframe style="max-width: 100%;" height="400" width="100%" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/5DGAIiUwMuU?si=nDKHdyk7z8JqUNLc"></iframe>
 </div>
 <p>Our community explored the possibilities of AI in the public sector at
 our latest flagship conference. Experts covered the latest trends around
