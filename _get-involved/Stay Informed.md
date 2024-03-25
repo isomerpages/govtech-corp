@@ -7,15 +7,15 @@ description: Never miss a GovTech update. Stay connected with us through our
 image: /images/Get Involved/Stay_informed_meta_image_compressed.jpg
 ---
 <h3>Receive GovTech news and updates</h3>
+<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="Subscribe to Technews for the latest developments on tech and read from anywhere." src="/images/Get Involved/Subscribe_to_Technews.jpg">
 </div>
 <h3>Subscribe to TechNews</h3>
 <p>Get tech tips, trend alerts, behind-the-scenes stories, GovTech updates
 and more when you sign up to receive TechNews newsletters.</p>
-<p><a href="http://eepurl.com/cUwIsD" class="button primary" rel="noopener noreferrer nofollow" target="_blank">Subscribe to TechNews</a>
-</p>
-<h4>Fresh insights from GovTech blogs</h4>
+<p><a href="http://eepurl.com/cUwIsD" class="button primary" rel="noopener noreferrer nofollow" target="_blank">Subscribe to TechNews</a>.</p>
+<h3>Fresh insights from GovTech blogs</h3>
 <p>Our very own GovTechies reflect on their experiences, as they share career
 insights, lessons from their time in GovTech and product development journeys.</p>
 <table>
