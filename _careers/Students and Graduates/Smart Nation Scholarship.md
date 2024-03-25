@@ -20,6 +20,7 @@ Development Authority, aims to give promising individuals like you the
 opportunity to jump-start a dynamic career in tech. During your course
 of study, you'll learn how innovation can be harnessed to serve the public
 good.</p>
+<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="GovTech's Smart Nation Scholarship - Advance your career, make an impact and lead others" src="/images/careers/SNS_Infographic.png">
 </div>
@@ -74,6 +75,7 @@ Empathy and Develop People</div>
 </div>
 </div>
 <h3>Hear from our past scholars</h3>
+<p></p>
 <table>
 <tbody>
 <tr>
@@ -134,6 +136,7 @@ Empathy and Develop People</div>
 <p>Curious about the scholarship selection process? Check out this <a href="https://medium.com/ytpo-govtech/finding-my-match-42607d032049" rel="noopener noreferrer nofollow" target="_blank">Medium blog post</a> by
 Glenda, one of our Smart Nation Scholars, who has detailed her own journey.</p>
 <h3>Interested in becoming a Smart Nation Scholar?</h3>
+<p></p>
 <div class="iframe-wrapper">
 <iframe style="max-width: 100%;" height="400" width="100%" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/Y_bk9YFZvSQ?si=ZB11q3uSk7dPo-RZ"></iframe>
 </div>
