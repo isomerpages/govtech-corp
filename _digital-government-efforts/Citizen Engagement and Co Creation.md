@@ -8,6 +8,7 @@ description: Get involved with GovTech by contributing to the Smart Nation
 image: /images/Digital Gov Efforts/02_Citizen_Engagement.jpg
 ---
 <h3>GovTech harnesses the power of collaboration to drive innovation</h3>
+<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="Citizen engagement and co-creation in GovTech" src="/images/Digital Gov Efforts/Citizen_engagement_and_cocreation_header_banner.jpg">
 </div>
