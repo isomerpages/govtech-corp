@@ -403,6 +403,116 @@ sceleris</div>
 <p><strong>[150] Lorem ipsum dolor sit amet, consectetur adipiscing elit. Etiam quis elementum ex. Nunc a massa feugiat, feugiat orci at, eleifend quam. Donec sceleris</strong>
 </p>
 <p></p>
-<h4><strong><em>16. Accordions (TBC)</em></strong></h4>
+<h4><strong><em>16. </em>Accordion</strong></h4>
+<div data-type="detailGroup" class="isomer-accordion isomer-accordion-white">
+<details class="isomer-details">
+<summary>[50] Nunc a massa feugiat, feugiat orci at, eleifend q</summary>
+<div data-type="detailsContent" class="isomer-details-content">
+<p>[800] Lorem ipsum dolor sit amet, consectetur adipiscing elit. Etiam quis
+elementum ex. Nunc a massa feugiat, feugiat orci at, eleifend quam. Donec
+scelerisque semper nisl et sodales. Suspendisse euismod or lorem ipsum
+dolor sit amet, consectetur adipiscing elit. Etiam quis elementum ex. Nunc
+a massa feugiat, feugiat orci at, eleifend quam. Donec scelerisque semper
+nisl et sodales. Suspendisse euismodor</p>
+<p></p>
+<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Etiam quis elementum
+ex. Nunc a massa feugiat, feugiat orci at, eleifend quam. Donec scelerisque
+semper nisl et sodales. Suspendisse euismod or lorem ipsum dolor sit amet,
+consectetur adipiscing elit. Etiam quis elementum ex. Nunc a massa feugiat,
+feugiat orci at, eleifend quam. Donec scelerisque semper nisl et sodales.
+Suspendisse euismodor</p>
+<table>
+<tbody>
+<tr>
+<td rowspan="1" colspan="1">
+<p><a href="www.isomer.com" rel="noopener noreferrer nofollow" target="_blank">[20] Etiam quis elementum</a>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="www.isomer.com" rel="noopener noreferrer nofollow" target="_blank">[20] Etiam quis elementum</a>
+</p>
+</td>
+</tr>
+</tbody>
+</table>
+<div class="isomer-image-wrapper">
+<img style="width: 90%;" height="auto" width="100%" alt="" src="/images/tracetogethertest1.jpg">
+</div>
+<p></p>
+</div>
+</details>
+<details class="isomer-details">
+<summary>[50] Nunc a massa feugiat, feugiat orci at, eleifend q</summary>
+<div data-type="detailsContent" class="isomer-details-content">
+<p>[800] Lorem ipsum dolor sit amet, consectetur adipiscing elit. Etiam quis
+elementum ex. Nunc a massa feugiat, feugiat orci at, eleifend quam. Donec
+scelerisque semper nisl et sodales. Suspendisse euismod or lorem ipsum
+dolor sit amet, consectetur adipiscing elit. Etiam quis elementum ex. Nunc
+a massa feugiat, feugiat orci at, eleifend quam. Donec scelerisque semper
+nisl et sodales. Suspendisse euismodor</p>
+<p></p>
+<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Etiam quis elementum
+ex. Nunc a massa feugiat, feugiat orci at, eleifend quam. Donec scelerisque
+semper nisl et sodales. Suspendisse euismod or lorem ipsum dolor sit amet,
+consectetur adipiscing elit. Etiam quis elementum ex. Nunc a massa feugiat,
+feugiat orci at, eleifend quam. Donec scelerisque semper nisl et sodales.
+Suspendisse euismodor</p>
+<table>
+<tbody>
+<tr>
+<td rowspan="1" colspan="1">
+<p><a href="www.isomer.com" rel="noopener noreferrer nofollow" target="_blank">[20] Etiam quis elementum</a>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="www.isomer.com" rel="noopener noreferrer nofollow" target="_blank">[20] Etiam quis elementum</a>
+</p>
+</td>
+</tr>
+</tbody>
+</table>
+<div class="isomer-image-wrapper">
+<img style="width: 90%;" height="auto" width="100%" alt="" src="/images/tracetogethertest1.jpg">
+</div>
+<p></p>
+</div>
+</details>
+<details class="isomer-details">
+<summary>[50] Nunc a massa feugiat, feugiat orci at, eleifend q</summary>
+<div data-type="detailsContent" class="isomer-details-content">
+<p>[800] Lorem ipsum dolor sit amet, consectetur adipiscing elit. Etiam quis
+elementum ex. Nunc a massa feugiat, feugiat orci at, eleifend quam. Donec
+scelerisque semper nisl et sodales. Suspendisse euismod or lorem ipsum
+dolor sit amet, consectetur adipiscing elit. Etiam quis elementum ex. Nunc
+a massa feugiat, feugiat orci at, eleifend quam. Donec scelerisque semper
+nisl et sodales. Suspendisse euismodor</p>
+<p></p>
+<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Etiam quis elementum
+ex. Nunc a massa feugiat, feugiat orci at, eleifend quam. Donec scelerisque
+semper nisl et sodales. Suspendisse euismod or lorem ipsum dolor sit amet,
+consectetur adipiscing elit. Etiam quis elementum ex. Nunc a massa feugiat,
+feugiat orci at, eleifend quam. Donec scelerisque semper nisl et sodales.
+Suspendisse euismodor</p>
+<table>
+<tbody>
+<tr>
+<td rowspan="1" colspan="1">
+<p><a href="www.isomer.com" rel="noopener noreferrer nofollow" target="_blank">[20] Etiam quis elementum</a>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="www.isomer.com" rel="noopener noreferrer nofollow" target="_blank">[20] Etiam quis elementum</a>
+</p>
+</td>
+</tr>
+</tbody>
+</table>
+<div class="isomer-image-wrapper">
+<img style="width: 90%;" height="auto" width="100%" alt="" src="/images/tracetogethertest1.jpg">
+</div>
+<p></p>
+</div>
+</details>
+</div>
 <p></p>
 <p></p>
