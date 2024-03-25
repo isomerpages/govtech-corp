@@ -7,9 +7,6 @@ description: The Singapore Government Tech Stack and Government on Commercial
 image: /images/Digital Gov Efforts/Engineering_Digital_Government_meta_image.jpg
 ---
 <h3>The digital transformation of Singapore's public sector</h3>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Engineering Digital Government banner image" src="/images/Digital Gov Efforts/Engineering_Digital_Government_banner_image.jpg">
-</div>
 <h4>Realising the Digital Government Blueprint</h4>
 <p>Through our Digital Government Blueprint, we aspire to create a government
 that is “Digital to the Core, and Serves with Heart.” This means that transacting
@@ -17,7 +14,7 @@ with the government will be easy, seamless, and secure.&nbsp;</p>
 <p>It also means that public officers will continually upskill and work collaboratively
 across agencies to drive digitalisation within the government and offer
 better services to citizens and businesses.</p>
-<h4>A shared stack for collective progress</h4>
+<h4><br>A shared stack for collective progress</h4>
 <p>In line with the Digital Government Blueprint, we need to enable a consistent
 service standard across the government comprising user-centric services
 that are secure.</p>
