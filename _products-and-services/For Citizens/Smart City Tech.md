@@ -90,7 +90,7 @@ more vulnerable communities.</div>
 </div>
 </div>
 <div class="iframe-wrapper">
-<iframe style="border:none;overflow:hidden" height="1000" width="650" allowfullscreen="true" frameborder="0" src="https://www.facebook.com/plugins/post.php?href=https%3A%2F%2Fwww.facebook.com%2FGovTechSG%2Fposts%2Fpfbid0ebvcSBEAbWZrHa7ivWLs2J2Snrza9mPEAmU7XtrEwwdSWiZopvhaHZZU7U5mGa71l&amp;show_text=true&amp;width=500"></iframe>
+<iframe style="border:none;overflow:hidden" height="900" width="650" allowfullscreen="true" frameborder="0" src="https://www.facebook.com/plugins/post.php?href=https%3A%2F%2Fwww.facebook.com%2FGovTechSG%2Fposts%2Fpfbid0ebvcSBEAbWZrHa7ivWLs2J2Snrza9mPEAmU7XtrEwwdSWiZopvhaHZZU7U5mGa71l&amp;show_text=true&amp;width=500"></iframe>
 </div>
 <div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="https://medium.com/siot-govtech" class="isomer-card"><div class="isomer-card-body"><div class="isomer-card-title">Follow updates on GALE over at the Smart City Technology Division blog</div><div class="isomer-card-link">Head over to blog</div></div></a>
 <a rel="noopener noreferrer nofollow" href="http://eepurl.com/cUwIsD" class="isomer-card">
