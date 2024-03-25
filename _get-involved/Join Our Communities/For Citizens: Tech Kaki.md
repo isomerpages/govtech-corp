@@ -12,6 +12,7 @@ image: /images/Get Involved/Tech_Kaki_Appreciation_Dinner__1_.jpg
 <img style="width: 100%;" height="auto" width="100%" alt="GovTech community Tech Kaki networking" src="/images/Get Involved/gt7_techkaki.jpg">
 </div>
 <h3>About Tech Kaki</h3>
+<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 50%;" height="auto" width="100%" alt="Tech Kaki logo" src="/images/Get Involved/Tech_Kaki_Facebook_logo_cropped.jpg">
 </div>
