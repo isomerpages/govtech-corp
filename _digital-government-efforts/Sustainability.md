@@ -7,7 +7,8 @@ description: GovTech’s sustainability efforts are on track to realise the
   government here.
 image: /images/Digital Gov Efforts/09_Sustainability.jpg
 ---
-<h3>GovTech’s role in the Singapore Green Plan 2030</h3>
+<h3>GovTech’s Role in the Singapore Green Plan 2030</h3>
+<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="Sustainability banner image" src="/images/Digital Gov Efforts/09_Sustainability.jpg">
 </div>
@@ -72,6 +73,7 @@ Innovation for Sustainability.</p>
 <p><strong>Infographic TBC (new infographic created for About Us - Focus Areas (Sustainability portion) to show the 3 key pillars and what each entails + the 6 key enablers)</strong>
 </p>
 <h4>Our key initiatives</h4>
+<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="GovTechies gathering around for GovTech green week" src="/images/Digital Gov Efforts/GovTech_Green_Week.jpg">
 </div>
