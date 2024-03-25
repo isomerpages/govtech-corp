@@ -8,6 +8,7 @@ description: GovTech develops Tech for Public Good such as TraceTogether,
 image: /images/Digital Gov Efforts/01_Tech_for_Public_Good.jpg
 ---
 <h3>Empowering citizens and businesses through tech</h3>
+<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="Tech for public good, GovTech banner image" src="/images/Digital Gov Efforts/Tech_for_public_good_header_banner.jpg">
 </div>
@@ -30,6 +31,7 @@ a catalyst for public good, community development and change.</p>
 becoming a smart city. This includes the use of sensors and Internet-of-Things
 (IoT) to build a more connected living experience.</p>
 <h4>Our award-winning Open Digital Platform (ODP)</h4>
+<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="Open Digital Platform by GovTech" src="/images/Digital Gov Efforts/ODP_logo.jpg">
 </div>
