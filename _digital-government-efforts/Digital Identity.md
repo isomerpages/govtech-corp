@@ -7,6 +7,7 @@ description: Through GovTech’s National Digital Identity initiative, platforms
 image: /images/Digital Gov Efforts/05_Digital_Identity.jpg
 ---
 <h3>An initiative to secure and streamline digital transactions</h3>
+<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="GovTech national digital identity" src="/images/Digital Gov Efforts/GovTech_digital_identity_banner.jpg">
 </div>
