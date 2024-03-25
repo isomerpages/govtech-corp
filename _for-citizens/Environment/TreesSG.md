@@ -8,6 +8,11 @@ description: An initiative supporting the OneMillionTrees Movement, TreesSG
 third_nav_title: Environment
 image: /images/Products and Services/For citizens/TreesSG_resized.jpg
 ---
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="A collaboration between NParks and GovTech, TreesSG offers information on the 6 million trees in Singapore" src="/images/Products and Services/For citizens/TreesSG_resized.jpg">
+</div>
+<p><em>Screenshot of <a href="https://www.nparks.gov.sg/treessg" rel="noopener noreferrer nofollow" target="_blank">TreesSG website</a></em>
+</p>
 <h3>Helping the OneMillionTrees movement bloom with TreesSG</h3>
 <p>Singapore is proudly a City in a Garden. To further enhance the greenery
 and beautify our living spaces, National Parks Board (NParks) has launched
@@ -66,6 +71,18 @@ they are being cared for.</div>
 </div>
 </div>
 </div>
+<h3>How to use TreesSG?</h3>
+<p>Simply visit the <a href="https://www.nparks.gov.sg/treessg" rel="noopener noreferrer nofollow" target="_blank">TreesSG website</a> and start exploring.</p>
+<h3>Interested in finding out more about TreesSG?</h3>
+<div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="http://eepurl.com/cUwIsD" class="isomer-card"><div class="isomer-card-body"><div class="isomer-card-title">Subscribe to TechNews Newsletter to receive updates on TreesSG!</div><div class="isomer-card-link">Join mailing list</div></div></a>
+<a rel="noopener noreferrer nofollow" href="http://eepurl.com/hsr131" class="isomer-card">
+<div class="isomer-card-body">
+<div class="isomer-card-title">Have feedback on TreesSg? Become a Tech Kaki to share it!</div>
+<div class="isomer-card-link">Join community</div>
+</div>
+</a>
+</div>
+<p></p>
 <p></p>
 <p></p>
 <h3>Driving the OneMillionTrees movement digitally with TreesSG</h3>
