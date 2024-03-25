@@ -15,11 +15,11 @@ harness new technologies, and drive broader efforts to build a digital
 economy and society.&nbsp;</p>
 <p>They support the larger Smart Nation vision and are classified as the
 areas below.</p>
-<div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="/our-digital-government-efforts/engineering-digital-government/" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Singapore’s digital government efforts" src="/images/Digital Gov Efforts/Engineering_Digital_Government_banner_image.jpg"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Engineering a Digital Government</div><div class="isomer-card-description">Transacting with the government will be easy, seamless and secure, and government agencies will upskill and collaborate to drive digitalisation.</div><div class="isomer-card-link">Learn more about Engineering a Digital Government</div></div></a>
+<div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="/our-digital-government-efforts/engineering-digital-government/" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Singapore’s digital government efforts — Engineering a Digital Government" src="/images/Digital Gov Efforts/Engineering_a_Digital_Gov_600x300.png"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Engineering a Digital Government</div><div class="isomer-card-description">Transacting with the government will be easy, seamless and secure, and government agencies will upskill and collaborate to drive digitalisation.</div><div class="isomer-card-link">Learn more about Engineering a Digital Government</div></div></a>
 <a rel="noopener noreferrer nofollow" href="/our-digital-government-efforts/tech-for-public-good/" class="isomer-card">
 <div class="isomer-card-image">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="GovTech Tech for Public Good" src="/images/Digital Gov Efforts/01_Tech_for_Public_Good.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="GovTech Tech for Public Good" src="/images/Digital Gov Efforts/Tech_for_Public_Good_600x300.png">
 </div>
 </div>
 <div class="isomer-card-body">
@@ -30,11 +30,11 @@ and businesses, and empower them to achieve a greater quality of life.</div>
 </div>
 </a>
 </div>
-<div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="/our-digital-government-efforts/ai-and-data-driven-government/" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="GovTech AI and data-driven government" src="/images/Digital Gov Efforts/Data_and_AI.jpg"></div></div><div class="isomer-card-body"><div class="isomer-card-title">AI and Data-driven Government</div><div class="isomer-card-description">GovTech’s Data Science and AI Division facilitates whole-of-government adoption of data science and AI to deliver citizen-centric government services.</div><div class="isomer-card-link">Learn more about AI and Data-driven Government</div></div></a>
+<div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="/our-digital-government-efforts/ai-and-data-driven-government/" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="GovTech AI and data-driven government" src="/images/Digital Gov Efforts/AI_and_Data_driven_600x300.png"></div></div><div class="isomer-card-body"><div class="isomer-card-title">AI and Data-driven Government</div><div class="isomer-card-description">GovTech’s Data Science and AI Division facilitates whole-of-government adoption of data science and AI to deliver citizen-centric government services.</div><div class="isomer-card-link">Learn more about AI and Data-driven Government</div></div></a>
 <a rel="noopener noreferrer nofollow" href="/our-digital-government-efforts/citizen-engagement-and-co-creation/" class="isomer-card">
 <div class="isomer-card-image">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Citizen engagement and co-creation in GovTech" src="/images/Digital Gov Efforts/02_Citizen_Engagement.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="Citizen engagement and co-creation in GovTech" src="/images/Digital Gov Efforts/Citizen_Engagement_and_Co_creation_600x300.png">
 </div>
 </div>
 <div class="isomer-card-body">
@@ -45,11 +45,11 @@ accurately and refine government products and services.</div>
 </div>
 </a>
 </div>
-<div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="/our-digital-government-efforts/user-and-business-journeys/" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="User and business journeys in GovTech" src="/images/Digital Gov Efforts/03_User_Business_Journey.jpg"></div></div><div class="isomer-card-body"><div class="isomer-card-title">User and Business Journeys</div><div class="isomer-card-description">We are committed to providing citizens and businesses with a simplified user journey and a single touchpoint to government services.</div><div class="isomer-card-link">Learn more about User and Business Journeys</div></div></a>
+<div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="/our-digital-government-efforts/user-and-business-journeys/" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="User and business journeys in GovTech" src="/images/Digital Gov Efforts/User_and_Business_Journeys_600x300.png"></div></div><div class="isomer-card-body"><div class="isomer-card-title">User and Business Journeys</div><div class="isomer-card-description">We are committed to providing citizens and businesses with a simplified user journey and a single touchpoint to government services.</div><div class="isomer-card-link">Learn more about User and Business Journeys</div></div></a>
 <a rel="noopener noreferrer nofollow" href="/our-digital-government-efforts/digital-identity/" class="isomer-card">
 <div class="isomer-card-image">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Digital identity initiatives in GovTech" src="/images/Digital Gov Efforts/05_Digital_Identity.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="Digital identity initiatives in GovTech" src="/images/Digital Gov Efforts/Digital_Identity_600x300.png">
 </div>
 </div>
 <div class="isomer-card-body">
@@ -60,11 +60,11 @@ and businesses with more convenient and secure online transactions.</div>
 </div>
 </a>
 </div>
-<div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="/our-digital-government-efforts/diversity-and-inclusion/" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Diversity and inclusion in GovTech" src="/images/Digital Gov Efforts/08_Diversity_Inclusion.jpg"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Diversity and Inclusion</div><div class="isomer-card-description">We are committed to diversity and inclusion in all areas of our work, including designing inclusive products and creating an inclusive tech community.</div><div class="isomer-card-link">Learn more about Diversity and Inclusion</div></div></a>
+<div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="/our-digital-government-efforts/diversity-and-inclusion/" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Diversity and inclusion in GovTech" src="/images/Digital Gov Efforts/Diversity_and_inclusion_600x300.png"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Diversity and Inclusion</div><div class="isomer-card-description">We are committed to diversity and inclusion in all areas of our work, including designing inclusive products and creating an inclusive tech community.</div><div class="isomer-card-link">Learn more about Diversity and Inclusion</div></div></a>
 <a rel="noopener noreferrer nofollow" href="/our-digital-government-efforts/sustainability/" class="isomer-card">
 <div class="isomer-card-image">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Sustainability in GovTech" src="/images/Digital Gov Efforts/09_Sustainability.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="Sustainability in GovTech" src="/images/Digital Gov Efforts/Sustainability_600x300.jpg">
 </div>
 </div>
 <div class="isomer-card-body">
