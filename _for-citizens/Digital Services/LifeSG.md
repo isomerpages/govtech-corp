@@ -65,10 +65,8 @@ with 400 agencies.</div>
 </summary>
 <div data-type="detailsContent" class="isomer-details-content">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Happy asian family using LifeSG to better their lives in the long term." src="/images/Products and Services/asian_family_mother_father_daughter_making_fun_sleep_play_living_room_home_background__1_.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="Happy Asian family with kid under 6 years old" src="/images/Products and Services/For citizens/Happy_asian_family_resized.jpg">
 </div>
-<p><em>Image by <a href="https://www.freepik.com/free-photo/asian-family-mother-father-daughter-making-fun-sleep-play-living-room-home-background_25129586.htm#fromView=search&amp;page=1&amp;position=0&amp;uuid=bc47624b-1385-4cb8-bb38-e385348cdcfe" rel="noopener noreferrer nofollow" target="_blank">Lifestylememory</a> on Freepik</em>
-</p>
 <p></p>
 <ul>
 <li>
@@ -96,10 +94,8 @@ family's finance planning journey.</p>
 </summary>
 <div data-type="detailsContent" class="isomer-details-content">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Young adults marking their personal milestone — marriage as an example" src="/images/Products and Services/For citizens/LifeSG_side_view_bride_groom_posing_street_resized.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="Young adult couple marking their personal milestone with marriage" src="/images/Products and Services/For citizens/Marriage_personal_milestone_resized.jpg">
 </div>
-<p><em>Image by <a href="https://www.freepik.com/free-photo/side-view-bride-groom-posing-street_11031921.htm" rel="noopener noreferrer nofollow" target="_blank">freepik</a></em>
-</p>
 <p></p>
 <ul>
 <li>
@@ -124,6 +120,10 @@ family's finance planning journey.</p>
 <summary><strong>Senior citizens enjoying their golden years</strong>
 </summary>
 <div data-type="detailsContent" class="isomer-details-content">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Happy senior asian couple enjoying their golden years, smiling and laughing" src="/images/Products and Services/For citizens/Happy_Asian_Senior_couple_resized.jpg">
+</div>
+<p></p>
 <ul>
 <li>
 <p>Get timely updates on government announcements</p>
@@ -135,29 +135,6 @@ family's finance planning journey.</p>
 </div>
 </details>
 </div>
-<p>(Accordian)</p>
-<p><strong>Families with newborns or kids under 6 years old</strong>
-</p>
-<ul>
-<li>
-<p>Register the birth of your child online.</p>
-</li>
-<li>
-<p>Apply for your Baby Bonuses at home, and get approval quickly.</p>
-</li>
-<li>
-<p>Search for childcare centres and preschools.</p>
-</li>
-<li>
-<p>Learn how to select your first live-in domestic helper or confinement
-nanny.</p>
-</li>
-<li>
-<p>Review government schemes that are available to you and kickstart your
-family's finance planning journey.</p>
-</li>
-</ul>
-<p></p>
 <h3>How to use LifeSG?</h3>
 <p>Simply download the app and login with your Singpass to access the various
 services.</p>
