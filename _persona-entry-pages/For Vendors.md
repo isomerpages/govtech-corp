@@ -113,44 +113,15 @@ agencies.</p>
 <summary><strong>Guide for Government procurement</strong>
 </summary>
 <div data-type="detailsContent" class="isomer-details-content">
-<p></p>
-</div>
-</details>
-</div>
-<h4>About GovTech</h4>
-<p>(accordian)</p>
-<p>Get to know more about our organisation, starting with <u>our role in the government</u>, <u>our capabilities</u> and <u>our awards and recognition</u>.</p>
-<div data-type="detailGroup" class="isomer-accordion isomer-accordion-white">
-<details class="isomer-details">
-<summary>Our Role in the Government</summary>
-<div data-type="detailsContent" class="isomer-details-content">
-<p>Description of our role</p>
-</div>
-</details>
-<details class="isomer-details">
-<summary>Our Capabilities</summary>
-<div data-type="detailsContent" class="isomer-details-content">
-<p>Description of our capabilities</p>
-</div>
-</details>
-</div>
+<p>Read <a href="https://www.gebiz.gov.sg/singapore-government-procurement-regime.html" rel="noopener noreferrer nofollow" target="_blank">our guide</a> for
+suppliers that are participating in Singapore government procurement opportunities.</p>
 <p></p>
 <p><a href="/files/IB2023_Towards_the_Next_Bound_of_Digital_Government_GovTech_CE.pdf" rel="noopener noreferrer nofollow" target="_blank">Industry Briefing 2023 by GovTech Singapore</a>
 </p>
-<h4>About our products and services</h4>
-<p>Find out more about the <u>Singapore Government Tech Stack</u> and explore
-the products we have developed for <u>citizens</u>, <u>businesses</u> and <u>government agencies</u>.
-<br>
-</p>
-<p><a href="/products-and-services/for-government-agencies/software-development/sg-tech-stack/" rel="noopener noreferrer nofollow" target="_blank">Singapore Government Tech Stack</a>
-</p>
-<div class="iframe-wrapper">
-<iframe style="max-width: 100%;" height="400" width="100%" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/Vt-r2vCqSh8?si=moecMgW-ucdrOWvC"></iframe>
+</div>
+</details>
 </div>
 <p></p>
-<h4>Guide for government procurement</h4>
-<p>Read <a href="https://www.gebiz.gov.sg/singapore-government-procurement-regime.html" rel="noopener noreferrer nofollow" target="_blank">our guide</a> for
-suppliers that are participating in Singapore government procurement opportunities.</p>
 <p>Learn more about <a href="/products-and-services/collaborate-with-us/industry-collaboration/" rel="noopener noreferrer nofollow" target="_blank">industry collaborations</a> with
 GovTech.</p>
 <p>Have an enquiry or a proactive proposal that will drive our Smart Nation
