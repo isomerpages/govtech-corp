@@ -27,6 +27,7 @@ over 1.5 million users like you through life’s events both big and small.</p>
 </div>
 <h3>Why use LifeSG?</h3>
 <p>The government services you use the most, all in one nifty app.</p>
+<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="The LifeSG app offers you quick access to important government services" src="/images/Products and Services/For citizens/lifesg_app_services.png">
 </div>
@@ -58,9 +59,11 @@ with 400 agencies.</div>
 <p><strong>Alt Text: LifeSG's top 10 most commonly used services</strong>
 </p>
 <h3>Benefits of using LifeSG</h3>
-<p>(Accordian)</p>
-<p><strong>Families with newborns or kids under 6 years old</strong>
-</p>
+<div data-type="detailGroup" class="isomer-accordion isomer-accordion-white">
+<details class="isomer-details">
+<summary><strong>Families with newborns or kids under 6 years old</strong>
+</summary>
+<div data-type="detailsContent" class="isomer-details-content">
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="Happy asian family using LifeSG to better their lives in the long term." src="/images/Products and Services/asian_family_mother_father_daughter_making_fun_sleep_play_living_room_home_background__1_.jpg">
 </div>
@@ -83,8 +86,12 @@ nanny.</p>
 family's finance planning journey.</p>
 </li>
 </ul>
-<p><strong>Young adults marking their personal milestones</strong>
-</p>
+</div>
+</details>
+<details class="isomer-details">
+<summary><strong>Young adults marking their personal milestones</strong>
+</summary>
+<div data-type="detailsContent" class="isomer-details-content">
 <ul>
 <li>
 <p>Get the latest updates on your HDB grants and eligibility</p>
@@ -102,8 +109,12 @@ family's finance planning journey.</p>
 <p>Find support on your financial and retirement journeys.</p>
 </li>
 </ul>
-<p><strong>Senior citizens enjoying their golden years</strong>
-</p>
+</div>
+</details>
+<details class="isomer-details">
+<summary><strong>Senior citizens enjoying their golden years</strong>
+</summary>
+<div data-type="detailsContent" class="isomer-details-content">
 <ul>
 <li>
 <p>Get timely updates on government announcements</p>
@@ -112,6 +123,32 @@ family's finance planning journey.</p>
 <p>Access tips and tricks to a healthy retirement life</p>
 </li>
 </ul>
+</div>
+</details>
+</div>
+<p>(Accordian)</p>
+<p><strong>Families with newborns or kids under 6 years old</strong>
+</p>
+<ul>
+<li>
+<p>Register the birth of your child online.</p>
+</li>
+<li>
+<p>Apply for your Baby Bonuses at home, and get approval quickly.</p>
+</li>
+<li>
+<p>Search for childcare centres and preschools.</p>
+</li>
+<li>
+<p>Learn how to select your first live-in domestic helper or confinement
+nanny.</p>
+</li>
+<li>
+<p>Review government schemes that are available to you and kickstart your
+family's finance planning journey.</p>
+</li>
+</ul>
+<p></p>
 <h3>How to use LifeSG?</h3>
 <p>Simply download the app and login with your Singpass to access the various
 services.</p>
