@@ -62,9 +62,11 @@ frameworks and predetermined criteria.&nbsp;</p>
 <p>Alt text: A look at GovTech's hiring process</p>
 <h3>Tips to increase your chance of landing the job</h3>
 <p>Want to stand out from the crowd? Here are some tips to help you along!</p>
-<p>(Accordian)</p>
-<p><strong>Craft a well-formatted and effective CV</strong>
-</p>
+<div data-type="detailGroup" class="isomer-accordion isomer-accordion-white">
+<details class="isomer-details">
+<summary><strong>Craft a well-formatted and effective CV</strong>
+</summary>
+<div data-type="detailsContent" class="isomer-details-content">
 <p>Your CV is your first chance to introduce yourself to us. Make a good
 first impression by doing the following:</p>
 <ul>
@@ -79,8 +81,12 @@ value to your past projects and assignments.</p>
 <p>Highlight any relevant certifications.</p>
 </li>
 </ul>
-<p><strong>Be well-prepared for the interview</strong>
-</p>
+</div>
+</details>
+<details class="isomer-details">
+<summary><strong>Be well-prepared for the interview</strong>
+</summary>
+<div data-type="detailsContent" class="isomer-details-content">
 <p>The interview questions help us to assess your competencies, problem-solving
 ability as well as compatibility with GovTech's <a href="/careers/why-join-govtech/how-we-work/" rel="noopener noreferrer nofollow" target="_blank">ABC values</a>.</p>
 <ul>
@@ -95,8 +101,12 @@ challenges.</p>
 <p>Share how you embody our values of being Agile, Bold and Collaborative.</p>
 </li>
 </ul>
-<p><strong>Spruce up your online presence</strong>
-</p>
+</div>
+</details>
+<details class="isomer-details">
+<summary><strong>Spruce up your online presence</strong>
+</summary>
+<div data-type="detailsContent" class="isomer-details-content">
 <p>Did you know that your digital footprint impacts your chance of clinching
 a job?&nbsp;</p>
 <ul>
@@ -112,6 +122,9 @@ what you want to be public.</p>
 job history.</p>
 </li>
 </ul>
+</div>
+</details>
+</div>
 <h3>Ready to explore a GovTech career?</h3>
 <div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="/careers/opportunities-for-professionals/overview/" class="isomer-card"><div class="isomer-card-body"><div class="isomer-card-title">Are you a working professional? Take your career to new heights today.</div><div class="isomer-card-link">Apply for a job now</div></div></a>
 <a rel="noopener noreferrer nofollow" href="/careers/students-and-graduates/overview/" class="isomer-card">
