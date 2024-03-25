@@ -25,7 +25,8 @@ related engineering technology.</p>
 <p></p>
 <div data-type="detailGroup" class="isomer-accordion isomer-accordion-white">
 <details class="isomer-details">
-<summary>Tech for Public Good</summary>
+<summary><strong>Tech for Public Good</strong>
+</summary>
 <div data-type="detailsContent" class="isomer-details-content">
 <p>We build digital products and services that improve the lives of Singaporeans.
 Some examples include SafeEntry, GatherSG and the <a href="/products-and-services/for-citizens/directories-and-distribution/gowhere/" rel="noopener noreferrer nofollow" target="_blank">GoWhere suite</a>.</p>
