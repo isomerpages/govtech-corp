@@ -15,7 +15,7 @@ with tech possibilities and improve the lives of citizens.</p>
 <h4>1. IDC Future Enterprise Awards 2023</h4>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="IDC Future Enterprise Awards 2023 - Singapore Winners" src="/images/About Us/Our Achievements/IDC_2023__Award_.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="IDC Future Enterprise Awards 2023 - Singapore Winners" src="/images/About Us/Our Achievements/IDC_2023_Award_edited.jpg">
 </div>
 <p><em>Screenshot from <a href="https://www.idc.com/getdoc.jsp?containerId=prAP51332323" rel="noopener noreferrer nofollow" target="_blank">Singapore Winners for IDC’s 2023 Future Enterprise Awards Announced</a></em>
 </p>
