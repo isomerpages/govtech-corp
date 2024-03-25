@@ -29,6 +29,7 @@ making 41 million transactions monthly.</p>
 <img style="width: 100%" height="auto" width="100%" alt="Statistics of the usage of Singpass" src="/images/Digital Gov Efforts/singpass_infographic.jpg">
 </div>
 <h3>Why use Singpass?</h3>
+<p></p>
 <div class="iframe-wrapper">
 <iframe style="max-width: 100%;" height="400" width="100%" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/zacNBxADPH4?si=vsUFvg1wt38IUmWn"></iframe>
 </div>
@@ -117,14 +118,23 @@ Android devices).</p>
 <h3>What's the latest on Singpass?</h3>
 <p>We're constantly working to expand Singpass' services. Here are some upcoming
 features.</p>
-<p>(Accordian)</p>
-<p><strong>Peer-to-peer check</strong>
-</p>
+<div data-type="detailGroup" class="isomer-accordion isomer-accordion-white">
+<details class="isomer-details">
+<summary><strong>Peer-to-peer check</strong>
+</summary>
+<div data-type="detailsContent" class="isomer-details-content">
 <p>Verify details of someone else's identity before granting him or her access
 to your Singpass account.</p>
-<p><strong>Make bill payments</strong>
-</p>
+</div>
+</details>
+<details class="isomer-details">
+<summary><strong>Make bill payments</strong>
+</summary>
+<div data-type="detailsContent" class="isomer-details-content">
 <p>Make payments easily for your transactions via the app.</p>
+</div>
+</details>
+</div>
 <h4>Public Service Advisory on Scams</h4>
 <p>Scams are on the rise, and they are becoming more sophisticated. You can
 prevent yourself and others from becoming victims by remembering the following
