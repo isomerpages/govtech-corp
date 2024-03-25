@@ -9,7 +9,7 @@ third_nav_title: Digital Storage & Verification
 image: /images/Products and Services/healthcerts_logo.png
 ---
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/About Us/Our Achievements/healthcert_logo.jpg">
+<img style="width: 80%;" height="auto" width="100%" alt="HealthCerts logo" src="/images/About Us/Our Achievements/healthcert_logo.jpg">
 </div>
 <h3>Enabling smooth travel with digitally endorsed Pre-Departure Test and vaccination records</h3>
 <p>Introduced as a COVID-19 measure to facilitate the safe resumption of
