@@ -6,6 +6,9 @@ third_nav_title: For Citizens
 variant: tiptap
 image: /images/Products and Services/healthy365_logo.png
 ---
+<div class="isomer-image-wrapper">
+<img style="width: 30%;" height="auto" width="100%" alt="Healthy365 app logo" src="/images/Products and Services/For citizens/Healthy365_logo.png">
+</div>
 <h3>Gamifying the way to active lifestyles with Healthy 365</h3>
 <p>With a conviction to build Tech for Public Good, we develop products that
 not just impact national policies but also enrich the everyday lives of
@@ -13,7 +16,6 @@ Singaporean citizens. One of our proud inventions is the Healthy 365, developed
 in collaboration with the Health Promotion Board (HPB). Aiming to incentivise
 Singaporeans to adopt active lifestyles, the app makes the pursuit of health
 a fun and exciting one through gamification.</p>
-<p></p>
 <h3>Rewards for completing health-related actions</h3>
 <p>Personalised information and tools to take control of your health, all
 packed in one app. What's more, with Healthy 365, you can earn Healthpoints
@@ -21,6 +23,7 @@ when you log your meals, clock steps or purchase foodstuff with the Healthier
 Choice Symbol. The points can be redeemed for HPB eVouchers, HPB Credit$
 and SimplyGo eVouchers. They can even be donated to help local communities!</p>
 <h3>Why use Healthy 365?</h3>
+<p></p>
 <div class="iframe-wrapper">
 <iframe style="max-width: 100%;" height="400" width="100%" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/PKTDrhFwU1o?si=EE-EpdVMolx09v-p"></iframe>
 </div>
@@ -64,6 +67,7 @@ challenges or purchase healthy meals from participating partners.</div>
 </div>
 </div>
 <h3>How to use Healthy 365?</h3>
+<p></p>
 <div class="iframe-wrapper">
 <iframe style="max-width: 100%;" height="400" width="100%" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/CEm9Sg-zyPA?si=WX_VUCUHE3IRtWPF"></iframe>
 </div>
