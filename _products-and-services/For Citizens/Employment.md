@@ -8,27 +8,31 @@ third_nav_title: For Citizens
 variant: tiptap
 image: /images/Products and Services/mycareersfuture_logo.png
 ---
+<div class="isomer-image-wrapper">
+<img style="width: 80%;" height="auto" width="100%" alt="MyCareersFuture logo" src="/images/Products and Services/For citizens/MyCareersFuture_logo.png">
+</div>
 <h3>Helping Singaporeans land their dream jobs with MyCareersFuture</h3>
-<p></p>
 <p>Every working adult in Singapore is familiar with the arduous journey
 of finding a job. Aiming to make job searching easier and more fruitful
-is MyCareersFuture. An initiative by GovTech, this online government career
-portal supports job seekers by matching their skills and competencies with
-available job vacancies. To keep the platform up to date with the latest
-technology, we leveraged <a href="https://medium.com/dsaid-govtech/generating-job-recommendations-for-jobseekers-on-mycareersfuture-699c82cf6463" rel="noopener noreferrer nofollow" target="_blank"><u>artificial intelligence and data science</u></a> to
-enhance the job-matching process. By learning their past searches and mining
-data about their job experiences and qualifications, the platform is capable
-of predicting and suggesting job recommendations that users may not have
-searched for, but could be of interest.
+is MyCareersFuture.</p>
+<p>An initiative by GovTech, this online government career portal supports
+job seekers by matching their skills and competencies with available job
+vacancies. To keep the platform up to date with the latest technology,
+we leveraged <a href="https://medium.com/dsaid-govtech/generating-job-recommendations-for-jobseekers-on-mycareersfuture-699c82cf6463" rel="noopener noreferrer nofollow" target="_blank"><u>artificial intelligence and data science</u></a> to
+enhance the job-matching process.</p>
+<p>By learning their past searches and mining data about their job experiences
+and qualifications, the platform is capable of predicting and suggesting
+job recommendations that users may not have searched for, but could be
+of interest.
 <br>
 <br>On average, the portal holds over 80,000 job postings and serves over
 280,000 individuals and 50,000 employers. Besides facilitating job matching,
 the portal also benefits job seekers and hirers with its database of insights
 on job searching, career development, talent acquisition and more.</p>
-<p></p>
 <h3>Why use MyCareersFuture?</h3>
+<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 60%;" height="auto" width="100%" alt="MyCareersFuture is an online government career portal that facilitates job matching for Singaporeans" src="/images/Products and Services/mycareersfuture.png">
+<img style="width: 100%;" height="auto" width="100%" alt="MyCareersFuture is an online government career portal that facilitates job matching for Singaporeans" src="/images/Products and Services/mycareersfuture.png">
 </div>
 <p></p>
 <ul>
@@ -52,10 +56,10 @@ vulnerable communities can navigate the platform with ease.</p>
 </ul>
 <p></p>
 <h4>Get a Personalised Job Search on MyCareersFuture</h4>
+<p></p>
 <div class="iframe-wrapper">
 <iframe style="max-width: 100%;" height="400" width="100%" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/apGASPSxdBE?si=ZT9sUizM8XCdmWpO"></iframe>
 </div>
-<p></p>
 <h3>How to use MyCareersFuture?</h3>
 <p>Simply visit the <a href="https://www.mycareersfuture.gov.sg/" rel="noopener noreferrer nofollow" target="_blank"><u>MyCareersFuture website </u></a>and
 login via Singpass to get started.</p>
