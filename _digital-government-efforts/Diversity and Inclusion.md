@@ -7,10 +7,11 @@ description: We uphold diversity and inclusivity in GovTech by creating
   tech. Learn more.
 image: /images/Digital Gov Efforts/08_Diversity_Inclusion.jpg
 ---
+<h3>Innovation with purpose</h3>
+<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="Diversity and inclusion GovTech banner" src="/images/Digital Gov Efforts/Diversity_and_inclusion_header_banner.jpg">
 </div>
-<h3>Innovation with purpose</h3>
 <h4>Designing digital services for everyone</h4>
 <p>We believe tech should be for everyone. We are committed to diversity
 and inclusion as one of our <a href="/about-us/our-journey/our-focus-areas/" rel="noopener noreferrer nofollow" target="_blank">key focus areas</a>, in all
