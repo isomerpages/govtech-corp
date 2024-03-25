@@ -69,6 +69,7 @@ for you to tap into.</div>
 </div>
 </div>
 <h3>Testimonials from our past associates</h3>
+<p></p>
 <table>
 <tbody>
 <tr>
