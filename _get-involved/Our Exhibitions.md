@@ -55,10 +55,13 @@ with you in mind.</div>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="Learn about the latest technologies and upcoming developments to transform SG into a smart nation" src="/images/Get Involved/Smart_Nation_CityScape.jpg">
 </div>
-<p><strong>Open from Mondays to Saturdays, 9am to 5pm at:</strong>
-</p>
-<p><strong>45 Maxwell Road <br>The URA Centre <br>Singapore 069118</strong>
-</p>
+<p></p>
+<blockquote>
+<p>Open from Mondays to Saturdays, 9am to 5pm at:</p>
+<p>45 Maxwell Road
+<br>The URA Centre
+<br>Singapore 069118</p>
+</blockquote>
 <p><a href="https://www.eventbrite.com/e/guided-tour-of-smart-nation-cityscape-tickets-316263240867" rel="noopener noreferrer nofollow" target="_blank">Find tours for Smart Nation Cityscape here</a>.</p>
 <p>Smart Nation CityScape: <a href="https://www.smartnation.gov.sg/files/publications/sn_cityscape_visitor's_guide.pdf" rel="noopener noreferrer nofollow" target="_blank">Visitor Guide</a>
 </p>
@@ -67,7 +70,7 @@ with you in mind.</div>
 exhibition, you can deepen your knowledge about the latest tech in fun
 and interactive ways.</p>
 <div class="iframe-wrapper">
-<iframe style="max-width: 100%;" height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/CId3K2e2dmk?si=R5Xk7ZjcQBocO8HJ"></iframe>
+<iframe style="max-width: 100%;" height="400" width="100%" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/CId3K2e2dmk?si=0SNN_NFODWG2M0fD"></iframe>
 </div>
 <p></p>
 <div class="isomer-card-grid">
@@ -100,13 +103,15 @@ both the young and old to learn more about tech and our Smart Nation.</div>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="Smart Nation playscape exhibition at Science Centre" src="/images/Get Involved/Smart_nation_playscape_exhibition.jpg">
 </div>
+<p></p>
+<blockquote>
 <p><strong>Open from Tuesdays to Sundays, 10am to 5pm at:</strong>
 </p>
-<p><strong>Science Centre Singapore <br>15 Science Centre Road <br>Singapore 609081 </strong>
-<br>
+<p><strong>Science Centre Singapore <br>15 Science Centre Road <br>Singapore 609081</strong>
+</p>
+</blockquote>
+<p>
 <br><a href="https://www.smartnation.gov.sg/files/publications/playscape_pamphlet.pdf" rel="noopener noreferrer nofollow" target="_blank">Download</a> guide
 for Smart Nation PlayScape.</p>
 <p><a href="https://www.gevme.com/scsonlinetickets" rel="noopener noreferrer nofollow" target="_blank">Buy tickets</a> for
 Smart Nation PlayScape.</p>
-<p></p>
-<p></p>
