@@ -60,7 +60,7 @@ BBP in November 2019 to cover more government ICT systems and digital services.
 We hope to continue this effective engagement of the cybersecurity community
 and industry to strengthen the security posture of our ICT systems and
 digital services.</p>
-<h4><strong>Launch of Vulnerability Disclosure Programme</strong> </h4>
+<h4><strong>Launch of Vulnerability Disclosure Programme</strong></h4>
 <p>The BBP is time bound and limited to a fixed set of systems and services.
 To complement this, GovTech has also launched a Vulnerability Disclosure
 Programme (VDP) on 1 October 2019. The VDP invites members of the public
