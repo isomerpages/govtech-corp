@@ -8,6 +8,7 @@ description: Discover the importance of data science and AI in GovTech and how
 image: /images/Digital Gov Efforts/Data_and_AI.jpg
 ---
 <h3>Citizen-centric government services powered by data science and AI</h3>
+<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="AI and data-driven government by GovTech, banner image" src="/images/Digital Gov Efforts/AI_and_data_driven_government_banner.jpg">
 </div>
@@ -31,6 +32,7 @@ government digital services.&nbsp;</p>
 more effectively with communities, fostering stronger public-private collaborations
 in the process.</p>
 <h4>Whole-of-Government Application Analytics (WOGAA)</h4>
+<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="Whole-of-Government Application Analytics (WOGAA) logo" src="/images/Digital Gov Efforts/WOGAA_600x300.png">
 </div>
