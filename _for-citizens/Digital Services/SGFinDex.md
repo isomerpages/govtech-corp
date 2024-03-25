@@ -107,10 +107,9 @@ to sharing data anytime.</p>
 <summary><strong>Banks</strong>
 </summary>
 <div data-type="detailsContent" class="isomer-details-content">
-<p>With major banks such as Citibank, DBS/POSB, HSBC, Maybank, OCBC,SGXGroup,
-Standard Chartered and UOB forming a part of the SGFinDex ecosystem, you
+<p>With major banks such as Citibank, DBS/POSB, HSBC, Maybank, OCBC, SGXGroup,
+Standard Chartered, and UOB forming a part of the SGFinDex ecosystem, you
 can easily check your personal cash flow statements.</p>
-<p></p>
 <p>This way, you'll know if you need to contribute more to your rainy day
 fund or set aside more for your retirement fund.</p>
 </div>
@@ -119,9 +118,10 @@ fund or set aside more for your retirement fund.</p>
 <summary><strong>Insurance companies</strong>
 </summary>
 <div data-type="detailsContent" class="isomer-details-content">
-<p>Great Eastern, HSBCLife, Income Insurance, Manulife Singapore, Prudential
-and Singlife have joined SGFinDex. Keep track of your lifelong insurance
-and investment policies to determine if you need to enhance your coverage.</p>
+<p>Great Eastern, HSBCLife, Income Insurance, Manulife Singapore, Prudential,
+and Singlife have joined SGFinDex.</p>
+<p>Keep track of your lifelong insurance and investment policies to determine
+if you need to enhance your coverage.</p>
 </div>
 </details>
 <details class="isomer-details">
