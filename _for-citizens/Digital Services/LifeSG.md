@@ -67,6 +67,9 @@ with 400 agencies.</div>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="Happy asian family using LifeSG to better their lives in the long term." src="/images/Products and Services/asian_family_mother_father_daughter_making_fun_sleep_play_living_room_home_background__1_.jpg">
 </div>
+<p><em>Image by <a href="https://www.freepik.com/free-photo/asian-family-mother-father-daughter-making-fun-sleep-play-living-room-home-background_25129586.htm#fromView=search&amp;page=1&amp;position=0&amp;uuid=bc47624b-1385-4cb8-bb38-e385348cdcfe" rel="noopener noreferrer nofollow" target="_blank">Lifestylememory</a> on Freepik</em>
+</p>
+<p></p>
 <ul>
 <li>
 <p>Register the birth of your child online.</p>
@@ -92,6 +95,12 @@ family's finance planning journey.</p>
 <summary><strong>Young adults marking their personal milestones</strong>
 </summary>
 <div data-type="detailsContent" class="isomer-details-content">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Young adults marking their personal milestone — marriage as an example" src="/images/Products and Services/For citizens/LifeSG_side_view_bride_groom_posing_street_resized.jpg">
+</div>
+<p><em>Image by <a href="https://www.freepik.com/free-photo/side-view-bride-groom-posing-street_11031921.htm" rel="noopener noreferrer nofollow" target="_blank">freepik</a></em>
+</p>
+<p></p>
 <ul>
 <li>
 <p>Get the latest updates on your HDB grants and eligibility</p>
