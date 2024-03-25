@@ -8,6 +8,7 @@ description: GovTech develops government e-services that are seamless and easy
 image: /images/Digital Gov Efforts/03_User_Business_Journey.jpg
 ---
 <h3>Streamlined experiences for citizens and businesses</h3>
+<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="User and business journeys in GovTech, banner image" src="/images/Digital Gov Efforts/User_and_business_journey_header_banner.jpg">
 </div>
@@ -27,6 +28,7 @@ supports the growth of businesses, from start-ups to multinational corporations.
 and a tailored journey to executing business transactions, saving them
 time and costs.</p>
 <h4>GoBusiness: A one-stop portal for business owners</h4>
+<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="Different capabilities of GoBusiness to assist businesses in Singapore" src="/images/Digital Gov Efforts/GoBusiness_banner.jpg">
 </div>
@@ -47,6 +49,7 @@ for business growth through the GeBIZ portal.</p>
 we support citizens by designing digital services that are easy to access
 and navigate.</p>
 <h4>70 life journeys in 1 app with LifeSG</h4>
+<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="LifeSG simplifying access to government services and providing more convenience" src="/images/Digital Gov Efforts/lifesg_infographic.jpg">
 </div>
