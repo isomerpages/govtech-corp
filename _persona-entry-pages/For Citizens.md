@@ -32,7 +32,7 @@ curated to give you tech tips, behind-the-scenes stories and more.</p>
 <h3>Have your voice heard</h3>
 <h4>Be part of our Tech Kaki community</h4>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Tech Kaki GovTech community" src="/images/About Us/TechKaki_Header.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="Tech Kaki logo" src="/images/Get Involved/techkaki_logo__horizontal_.png">
 </div>
 <p>Join over 7,000 members to drive change in Singapore. By contributing
 feedback, you’ll co-create digital products and services for citizens.</p>
