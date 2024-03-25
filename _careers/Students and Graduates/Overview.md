@@ -11,11 +11,11 @@ image: /images/careers/students_and_graduates_overview_meta_image_compressed.jpg
 <h3>Have a hand in shaping Singapore's Smart Nation plans</h3>
 <p>Kickstart a lifelong career with GovTech!</p>
 <p>Due to its ever-changing nature, the tech industry offers you a vibrant
-career trajectory, one that is replete with learning and growth opportunities.
-Hoping to become a professional in the tech industry? Get the head start
-you need by joining one of GovTech's programmes! Ranked among Singapore's
-top 10 leading graduate employers in IT and Technology according to a 2023
-survey by <a href="https://gradsingapore.com/singapore100/sector/it-and-technology" rel="noopener noreferrer nofollow" target="_blank">gradsingapore</a>,
+career trajectory, one that is replete with learning and growth opportunities.</p>
+<p>Hoping to become a professional in the tech industry?</p>
+<p>Get the head start you need by joining one of GovTech's programmes! Ranked
+among Singapore's top 10 leading graduate employers in IT and Technology
+according to a 2023 survey by <a href="https://gradsingapore.com/singapore100/sector/it-and-technology" rel="noopener noreferrer nofollow" target="_blank">gradsingapore</a>,
 GovTech offers an array of programmes — from a technology boot camp to
 internships and scholarships – to help you achieve your unique career aspirations!</p>
 <div class="isomer-card-grid">
