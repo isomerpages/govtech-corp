@@ -8,6 +8,14 @@ description: CrowdTaskSG offers you a chance to get heard on national issues.
 third_nav_title: Crowdsourcing
 image: /images/Products and Services/For citizens/crowdtask_600x300.png
 ---
+<h3>Giving citizens a chance to be heard on national issues with CrowdTaskSG</h3>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
 <h3>Allowing citizens to be heard on national issues and earn rewards with CrowdTaskSG.</h3>
 <p>CrowdTaskSG is a crowdsourcing web portal for government agencies to gather
 collective responses from citizens that can be turned into actionable insights
