@@ -82,3 +82,38 @@ and businesses.</p>
 <p>Interested to learn more about CSG and the work they do? Read about the
 <a href="/our-capabilities/cybersecurity/" rel="noopener noreferrer nofollow" target="_blank">CSG capability centre</a><u>.</u>
 </p>
+<h4>Government IT Security Incident Response (GITSIR) Team</h4>
+<p>The Government IT Security Incident Response (GITSIR) team enables the
+Government to provide a swift response to cybersecurity incidents.</p>
+<p>Here’s a quick look at what the team does:</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Perform incident investigations, digital forensics, malware analysis,
+etc.</p>
+</li>
+<li>
+<p>Act as the primary point of contact for all security incidents co-ordinate
+with relevant internal and external parties.</p>
+</li>
+</ul>
+<p>GITSIR proactively publishes alerts, advisories, and directives on security
+vulnerabilities and threats. GITSIR regularly keeps agencies up-to-date
+on cybersecurity best practices to address the latest and upcoming cyber
+threats.</p>
+<p>However, incidents may still occur from time to time. Agency users or
+IT teams that detect unusual activities or suspected malware must report
+their observations to GITSIR. Each Agency has appointed its own team of
+Security Incident Response Managers and Officers (SIRMs/SIROs). Together
+with the Chief Information Security Officers (CISO) and GITSIR, they work
+together to take the necessary steps when faced with possible cybersecurity
+threats.</p>
+<p>GITSIR uses the Incident Management process to identify the incident’s
+root cause and provide recommendations to agencies, who will then contain,
+recover and strengthen themselves against future attacks. GITSIR helps
+to triage each report to ascertain the severity of each case as well as
+coordinate with the parties involved, and advise affected agencies on appropriate
+actions. It also carries out forensic and malware analysis and helps the
+Government prevent future attacks.</p>
+<p>You may view and download the <a href="/files/products-and-services/GITSIR_RFC_2350_Profile.pdf" rel="noopener noreferrer nofollow" target="_blank">GITSIR RFC 2350 Profile here.</a>
+</p>
+<p></p>
