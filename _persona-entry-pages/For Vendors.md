@@ -62,6 +62,61 @@ test bedding in actual deployment environments.</p>
 </div>
 <p>Check out the additional resources below to guide you and increase your
 chances of winning a project.</p>
+<div data-type="detailGroup" class="isomer-accordion isomer-accordion-white">
+<details class="isomer-details">
+<summary><strong>About GovTech</strong>
+</summary>
+<div data-type="detailsContent" class="isomer-details-content">
+<p>Get to know more about our organisation, starting with the following:</p>
+<p></p>
+<ol data-tight="true" class="tight">
+<li>
+<p><a href="/about-us/what-we-do/our-role/" rel="noopener noreferrer nofollow" target="_blank">Our Role in the Government</a>
+</p>
+</li>
+<li>
+<p><a href="/about-us/what-we-do/our-capabilities/" rel="noopener noreferrer nofollow" target="_blank">Our Capabilities</a>
+</p>
+</li>
+<li>
+<p><a href="/about-us/our-achievements/our-awards-and-recognitions/" rel="noopener noreferrer nofollow" target="_blank">Our Awards &amp; Recognition</a>
+</p>
+</li>
+</ol>
+</div>
+</details>
+<details class="isomer-details">
+<summary><strong>About our products and services</strong>
+</summary>
+<div data-type="detailsContent" class="isomer-details-content">
+<p>Find out more about the <u>Singapore Government Tech Stack</u> and explore
+the products we have developed for citizens, businesses and government
+agencies.</p>
+<p></p>
+<ol data-tight="true" class="tight">
+<li>
+<p>Products for <a href="/products-and-services/for-citizens/overview/" rel="noopener noreferrer nofollow" target="_blank">Citizens</a>
+</p>
+</li>
+<li>
+<p>Products for <a href="/products-and-services/for-businesses/overview/" rel="noopener noreferrer nofollow" target="_blank">Businesses</a>
+</p>
+</li>
+<li>
+<p>Products for <a href="/products-and-services/for-government-agencies/overview/" rel="noopener noreferrer nofollow" target="_blank">Government Agencies</a>
+</p>
+</li>
+</ol>
+</div>
+</details>
+<details class="isomer-details">
+<summary><strong>Guide for Government procurement</strong>
+</summary>
+<div data-type="detailsContent" class="isomer-details-content">
+<p></p>
+</div>
+</details>
+</div>
 <h4>About GovTech</h4>
 <p>(accordian)</p>
 <p>Get to know more about our organisation, starting with <u>our role in the government</u>, <u>our capabilities</u> and <u>our awards and recognition</u>.</p>
@@ -79,12 +134,7 @@ chances of winning a project.</p>
 </div>
 </details>
 </div>
-<p><a href="/about-us/what-we-do/our-role/" rel="noopener noreferrer nofollow" target="_blank">Our Role in the Government</a>
-</p>
-<p><a href="/about-us/what-we-do/our-capabilities/" rel="noopener noreferrer nofollow" target="_blank">Our Capabilities</a>
-</p>
-<p><a href="/about-us/our-achievements/our-awards-and-recognitions/" rel="noopener noreferrer nofollow" target="_blank">Our Awards &amp; Recognition</a>
-</p>
+<p></p>
 <p><a href="/files/IB2023_Towards_the_Next_Bound_of_Digital_Government_GovTech_CE.pdf" rel="noopener noreferrer nofollow" target="_blank">Industry Briefing 2023 by GovTech Singapore</a>
 </p>
 <h4>About our products and services</h4>
@@ -98,20 +148,6 @@ the products we have developed for <u>citizens</u>, <u>businesses</u> and <u>gov
 <iframe style="max-width: 100%;" height="400" width="100%" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/Vt-r2vCqSh8?si=moecMgW-ucdrOWvC"></iframe>
 </div>
 <p></p>
-<ol data-tight="true" class="tight">
-<li>
-<p>Products for <a href="/products-and-services/for-citizens/overview/" rel="noopener noreferrer nofollow" target="_blank">Citizens</a>
-</p>
-</li>
-<li>
-<p>Products for <a href="/products-and-services/for-businesses/overview/" rel="noopener noreferrer nofollow" target="_blank">Businesses</a>
-</p>
-</li>
-<li>
-<p>Products for <a href="/products-and-services/for-government-agencies/overview/" rel="noopener noreferrer nofollow" target="_blank">Government Agencies</a>
-</p>
-</li>
-</ol>
 <h4>Guide for government procurement</h4>
 <p>Read <a href="https://www.gebiz.gov.sg/singapore-government-procurement-regime.html" rel="noopener noreferrer nofollow" target="_blank">our guide</a> for
 suppliers that are participating in Singapore government procurement opportunities.</p>
