@@ -8,6 +8,7 @@ variant: tiptap
 image: /images/Get Involved/Smart_Nation_Cityscape_GovTech_interactive_exhibition.jpg
 ---
 <h3>Deep dive into Smart Nation initiatives</h3>
+<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="Smart Nation Cityscape: An employee showing a visitor the latest developments via an iPad" src="/images/Get Involved/Smart_Nation_CityScape_banner_resized.jpg">
 </div>
@@ -52,6 +53,7 @@ with you in mind.</div>
 </div>
 </div>
 <h3>Visitor Information</h3>
+<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="Learn about the latest technologies and upcoming developments to transform SG into a smart nation" src="/images/Get Involved/Smart_Nation_CityScape.jpg">
 </div>
@@ -100,15 +102,16 @@ both the young and old to learn more about tech and our Smart Nation.</div>
 </div>
 </div>
 <h3>Visitor Information</h3>
+<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="Smart Nation playscape exhibition at Science Centre" src="/images/Get Involved/Smart_nation_playscape_exhibition.jpg">
 </div>
 <p></p>
 <blockquote>
-<p><strong>Open from Tuesdays to Sundays, 10am to 5pm at:</strong>
-</p>
-<p><strong>Science Centre Singapore <br>15 Science Centre Road <br>Singapore 609081</strong>
-</p>
+<p>Open from Tuesdays to Sundays, 10am to 5pm at:</p>
+<p>Science Centre Singapore
+<br>15 Science Centre Road
+<br>Singapore 609081</p>
 </blockquote>
 <p>
 <br><a href="https://www.smartnation.gov.sg/files/publications/playscape_pamphlet.pdf" rel="noopener noreferrer nofollow" target="_blank">Download</a> guide
