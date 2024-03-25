@@ -9,10 +9,8 @@ third_nav_title: Digital Services
 image: /images/Products and Services/For citizens/OurMarriageJourney_meta_image.png
 ---
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Young couple posing side view, marriage photo" src="/images/Products and Services/For citizens/LifeSG_side_view_bride_groom_posing_street_resized.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="Young happy couple posing for wedding photo, registering their marriage via Our Marriage Journey" src="/images/Products and Services/For citizens/Marriage_personal_milestone_resized.jpg">
 </div>
-<p><em>Image by <a href="https://www.freepik.com/free-photo/side-view-bride-groom-posing-street_11031921.htm" rel="noopener noreferrer nofollow" target="_blank">freepik</a></em>
-</p>
 <h3>Digitalising marriage registrations with Our Marriage Journey</h3>
 <p>Getting married is one of the most joyful events in a person’s life. Among
 the long list of wedding preparation matters is marriage registration.
