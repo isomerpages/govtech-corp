@@ -7,7 +7,7 @@ description: A government AI chatbot, Pair Chat helps public officers in
   about it.
 third_nav_title: Productivity and Marketing
 ---
-<h3>Pair Chat: Transforming ways of working for public officers through AI </h3>
+<h3>Pair Chat: Transforming ways of working for public officers through AI</h3>
 <p>For many working adults in Singapore, ChatGPT has become a great productivity
 tool that speeds up daily&nbsp; tasks. Wanting to let public officers enjoy
 the benefits of using an AI chatbot, we set out to create Pair Chat.&nbsp;</p>
@@ -78,8 +78,12 @@ within an intuitive, easy-to-use interface. Give <a href="https://search.pair.go
 </li>
 </ul>
 <h3>Interested to find out more about Pair Chat?</h3>
-<p>Visit the <a href="https://pair.gov.sg/" rel="noopener noreferrer nofollow" target="_blank">Pair Chat website</a> to
-learn more</p>
-<p>Have questions? Contact us at <a href="mailto:digitalgov@tech.gov.sg" rel="noopener noreferrer nofollow" target="_blank">digitalgov@tech.gov.sg</a> (GovTech
-to confirm if we should use this, or if there's a specific team/PIC to
-contact)</p>
+<div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="https://pair.gov.sg/" class="isomer-card"><div class="isomer-card-body"><div class="isomer-card-title">Visit the Pair Chat website to learn more about its features.</div><div class="isomer-card-link">Pair</div></div></a>
+<a rel="noopener noreferrer nofollow" href="mailto:info@tech.gov.sg" class="isomer-card">
+<div class="isomer-card-body">
+<div class="isomer-card-title">Have questions? Email us.</div>
+<div class="isomer-card-link">Contact us</div>
+</div>
+</a>
+</div>
+<p></p>
