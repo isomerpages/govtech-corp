@@ -48,20 +48,6 @@ up and manage user account</div>
 </div>
 </div>
 </div>
-<ul>
-<li>
-<p><strong>Registered Officer:</strong> The personnel who is officially registered
-to the entity with ACRA</p>
-</li>
-<li>
-<p><strong>Admin:</strong> The personnel who is appointed the Corppass Administrator
-and will set up and manage user accounts&nbsp;</p>
-</li>
-<li>
-<p><strong>User:</strong> The personnel who will be performing transactions</p>
-</li>
-</ul>
-<p></p>
 <p>Prepare the following if you are an Admin:&nbsp;</p>
 <ul>
 <li>
