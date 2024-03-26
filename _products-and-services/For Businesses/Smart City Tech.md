@@ -68,11 +68,11 @@ to become the Singapore government's default smart facilities management
 solution.</p>
 <h3>Want to find out more about ODP?</h3>
 <div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="https://www.developer.tech.gov.sg/products/categories/sensor-platforms-and-internet-of-things/open-digital-platform/overview.html" class="isomer-card"><div class="isomer-card-body"><div class="isomer-card-title">Learn more on the Singapore Government Developer Portal</div><div class="isomer-card-link">Learn more about Open Digital Platform (ODP)</div></div></a>
-<div class="isomer-card">
+<a rel="noopener noreferrer nofollow" href="mailto:info@tech.gov.sg" class="isomer-card">
 <div class="isomer-card-body">
 <div class="isomer-card-title">Have questions? Email us</div>
-<div class="isomer-card-description">Email us at info@tech.gov.sg</div>
+<div class="isomer-card-link">Contact us</div>
 </div>
-</div>
+</a>
 </div>
 <p></p>
