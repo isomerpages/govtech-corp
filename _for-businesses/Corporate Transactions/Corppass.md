@@ -7,35 +7,59 @@ description: Corppass is an authorisation system that allows entities to manage
   services. Learn more.
 third_nav_title: Corporate Transactions
 ---
-<h3><strong>Bringing corporate entities easy access to government services with Corppass</strong></h3>
-<p>Corppass is the authorisation system for entities to manage digital service
-access of employees who need to perform corporate transactions (Such as
-grant applications and filing of corporate taxes) with Government agencies
-in a safe and reliable manner. Corppass is meant for local businesses and
-organisations with a Unique Entity Number (UEN) and foreign entities are
-entitled for Corppass - one of GovTech's efforts to streamline government-business
-transaction. The service is currently used by more than 550,000 entities
-to conduct online transactions for over 250 services with agencies and
-to manage digital access of employees.</p>
-<h3><strong>Why use Corppass?</strong></h3>
-<p>Gain access to more than 250 government digital services. Enjoy greater
-convenience by using a single platform to conduct online transactions.
-Enjoy greater flexibility by granting employees separate roles when transacting
-with agencies. For business owners, manage employees via Corppass to transact
-on your behalf.</p>
-<h3><strong>How to use Corppass?</strong></h3>
+<h3>Corppass: Facilitating easy access for corporate entities to make online transactions with government services</h3>
+<p>From applying for grants to filing taxes, there are many administrative
+transactions that corporate entities need to perform. As part of our vision
+to become a Smart Nation, we aim to streamline these government-business
+transactions. This has led to the birth of Corppass, an authorisation system
+for entities to manage their employees' roles and access when transacting
+with the government's digital services.&nbsp;&nbsp;</p>
+<p>Corppass benefits local businesses and organisations that have a Unique
+Entity Number (UEN) as well as foreign entities. Today, the service is
+used by more than 550,000 entities to conduct online transactions with
+over 250 government services.</p>
+<h3>Why use Corppass?</h3>
+<p>Business owners can now delegate their employees to transact with different
+government agencies on their behalf, and also manage their separate roles
+and access. This single platform offers convenience and flexibility.</p>
+<h3>How to use Corppass?</h3>
 <div class="iframe-wrapper">
-<iframe height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/0xcHKX_So2o?si=QD8xZZ1ugo-c7yel"></iframe>
+<iframe style="max-width: 100%;" height="400" width="100%" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/0xcHKX_So2o?si=QD8xZZ1ugo-c7yel"></iframe>
 </div>
-<p>- Determine if you are the Registered Officer (your name is officially
-registered to your entity with ACRA) , Admin (appointed as Corppass Administrator
-and will manage Corppass user accounts within your business), or User.</p>
-<p>Prepare the following info if you are an Admin: Entity's UEN, your personal
-information, registered officer's information. Access Corppass website
-and log in with your Singpass to access Corppass. Create user accounts
-for other users within your entity. Select digital services which your
-entity transacts with. Assign digital services to users within your entity.</p>
-<h3><strong>Interested to find out more about Corppass?</strong></h3>
+<p>There are three roles within Corppass.&nbsp;</p>
+<ul>
+<li>
+<p><strong>Registered Officer:</strong> The personnel who is officially registered
+to the entity with ACRA</p>
+</li>
+<li>
+<p><strong>Admin:</strong> The personnel who is appointed the Corppass Administrator
+and will set up and manage user accounts&nbsp;</p>
+</li>
+<li>
+<p><strong>User:</strong> The personnel who will be performing transactions</p>
+</li>
+</ul>
+<p></p>
+<p>Prepare the following if you are an Admin:&nbsp;</p>
+<ul>
+<li>
+<p>Entity's UEN, your personal information, Registered Officer's information</p>
+</li>
+<li>
+<p>Access Corppass website and log in with your Singpass&nbsp;</p>
+</li>
+<li>
+<p>Create accounts for other users within your entity</p>
+</li>
+<li>
+<p>Select the digital services which your entity needs to access</p>
+</li>
+<li>
+<p>Assign the digital services to users</p>
+</li>
+</ul>
+<h3>Interested to find out more about Corppass?</h3>
 <p>Find out more about this product by visiting the <a href="https://www.corppass.gov.sg/" rel="noopener noreferrer nofollow" target="_blank">Corppass website</a>.</p>
 <p>Have questions? Contact us via email at <a href="https://www.corppass.gov.sg/cpauth/login/homepage?TAM_OP=login&amp;amp;URL=%2F" rel="noopener noreferrer nofollow" target="_blank">info@tech.gov.sg</a>
 </p>
