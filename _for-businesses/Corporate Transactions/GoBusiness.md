@@ -79,10 +79,55 @@ how to obtain them.</div>
 <p>Simply log in via Singpass to get started.</p>
 </li>
 <li>
-<p>Need support while using GoBusiness? Visit the helpdesk <u>here</u>. (link
-to <a href="https://www.gobusiness.gov.sg/contact-us/?src=topnav" rel="noopener noreferrer nofollow" target="_blank">https://www.gobusiness.gov.sg/contact-us/?src=topnav</a>)</p>
+<p>Need support while using GoBusiness? Visit the <a href="https://www.gobusiness.gov.sg/contact-us/?src=topnav" rel="noopener noreferrer nofollow" target="_blank">helpdesk</a>.</p>
 </li>
 </ol>
+<h3>What's the latest on GoBusiness?</h3>
+<p>We're constantly expanding the functions of GoBusiness. Check out the
+new features:</p>
+<div data-type="detailGroup" class="isomer-accordion isomer-accordion-white">
+<details class="isomer-details">
+<summary><strong>e-Adviser for events</strong>
+</summary>
+<div data-type="detailsContent" class="isomer-details-content">
+<p>Get step-by-step guidance on the permits required for an event just by
+answering a few questions with this new and improved feature. Find out
+how to access it via this <a href="https://www.facebook.com/GovTechSG/posts/pfbid0VsAFmLUrC5sdA4NNGQknDjEzQ2CVhT48MfadGtJwePwCAEePe1TtgSmPXA7t5rQWl" rel="noopener noreferrer nofollow" target="_blank">Facebook post</a>.
+<br>
+</p>
+<div class="iframe-wrapper">
+<iframe style="border:none;overflow:hidden" height="683" width="650" allowfullscreen="true" frameborder="0" src="https://www.facebook.com/plugins/post.php?href=https%3A%2F%2Fwww.facebook.com%2FGovTechSG%2Fposts%2Fpfbid02Z9mEMy4pmvohfJfrACqkkY6ANSP91fvUpmV6rVTZ88SZEhKCWBbtcQ5GJS5F9jjRl&amp;show_text=true&amp;width=500"></iframe>
+</div>
+</div>
+</details>
+<details class="isomer-details">
+<summary><strong>e-Adviser for IP Service Provider</strong>
+</summary>
+<div data-type="detailsContent" class="isomer-details-content">
+<p>Use this e-Adviser to get recommendations on the most suitable Intangible
+Assets (IA) and Intellectual Property (IP) service providers that can meet
+your needs. Find out more about this feature on the GoBusiness <a href="https://eadviser.gobusiness.gov.sg/ipserviceprovider" rel="noopener noreferrer nofollow" target="_blank">e-Adviser for IP Service Provider</a>.</p>
+</div>
+</details>
+<details class="isomer-details">
+<summary><strong>IP Grow and e-Adviser for IP Service</strong>
+</summary>
+<div data-type="detailsContent" class="isomer-details-content">
+<p>This new service helps business owners like you with your IA/IP needs.
+Get recommendations through the e-Adviser feature. Find out more about
+this service on the <a href="https://www.gobusiness.gov.sg/intellectual-property/ip-grow/" rel="noopener noreferrer nofollow" target="_blank">GoBusiness IP Grow</a>.</p>
+</div>
+</details>
+</div>
+<h3>Want to discover more about GoBusiness?</h3>
+<div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="https://www.gobusiness.gov.sg/" class="isomer-card"><div class="isomer-card-body"><div class="isomer-card-title">Learn about its features on the official website</div><div class="isomer-card-link">Go to GoBusiness website</div></div></a>
+<a rel="noopener noreferrer nofollow" href="https://www.gobusiness.gov.sg/contact-us/?src=topnav" class="isomer-card">
+<div class="isomer-card-body">
+<div class="isomer-card-title">Have questions? Contact the GoBusiness Helpdesk</div>
+<div class="isomer-card-link">Go to Helpdesk</div>
+</div>
+</a>
+</div>
 <p></p>
 <p></p>
 <h3><strong>Simplifying business registration and administrative processes with GoBusiness</strong></h3>
