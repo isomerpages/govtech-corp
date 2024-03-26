@@ -11,7 +11,7 @@ image: /images/Products and Services/For citizens/TreesSG_resized.jpg
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="A collaboration between NParks and GovTech, TreesSG offers information on the 6 million trees in Singapore" src="/images/Products and Services/For citizens/TreesSG_resized.jpg">
 </div>
-<p><em>Screenshot of <a href="https://www.nparks.gov.sg/treessg" rel="noopener noreferrer nofollow" target="_blank">TreesSG website</a></em>
+<p><em>Screenshot from <a href="https://www.nparks.gov.sg/treessg" rel="noopener noreferrer nofollow" target="_blank">TreesSG website</a></em>
 </p>
 <h3>Helping the OneMillionTrees movement bloom with TreesSG</h3>
 <p>Singapore is proudly a City in a Garden. To further enhance the greenery
