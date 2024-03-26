@@ -7,6 +7,84 @@ description: Explore various government e-services at GoBusiness! From business
 third_nav_title: Corporate Transactions
 image: /images/Products and Services/For businesses/GoBusiness_meta_image.jpg
 ---
+<h3>Simplifying business registration and administrative processes with GoBusiness</h3>
+<p>As any business owner would know, there are many official matters to take
+care of throughout the different stages of their entrepreneurial journeys.
+Wanting to make it easy for business owners to take charge of these matters,
+GovTech created GoBusiness.</p>
+<p>This online platform serves as a single touchpoint for business owners
+to connect to various government e-services and resources. From business
+registration to licence and grant applications, they can do it all.&nbsp;</p>
+<p>Today, GoBusiness has facilitated more than six million government-to-business
+transactions. In addition, GoBusiness provides entities in Singapore with
+personalised and seamless access to key information. Over 56,000 individuals
+and businesses have benefitted from the e-Advisers, which dole out recommendations
+on different operational aspects, from event organisation to skills training.</p>
+<h3>Why use GoBusiness?</h3>
+<p></p>
+<div class="iframe-wrapper">
+<iframe style="max-width: 100%;" height="400" width="100%" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/LNqktCVCsNE?si=RUY9vLcSmOPaxxno"></iframe>
+</div>
+<p></p>
+<div class="isomer-card-grid">
+<div class="isomer-card">
+<div class="isomer-card-image">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="GoBusiness offers businesses easy access to 120-plus government e-services." src="https://placehold.co/600x400">
+</div>
+</div>
+<div class="isomer-card-body">
+<div class="isomer-card-title">Access 120-plus e-services</div>
+<div class="isomer-card-description">Keep the documents of your transactions with different agencies in one
+place for easy retrieval.</div>
+</div>
+</div>
+<div class="isomer-card">
+<div class="isomer-card-image">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="GoBusiness' e-Advisers offer personalised recommendations on different topics." src="https://placehold.co/600x400">
+</div>
+</div>
+<div class="isomer-card-body">
+<div class="isomer-card-title">Get personalised recommendations</div>
+<div class="isomer-card-description">More than 200 e-Advisers are on deck to offer guidance on different operational
+and business needs.</div>
+</div>
+</div>
+<div class="isomer-card">
+<div class="isomer-card-image">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="GoBusiness offers you step-by-step guidance on the permits and licences you need to start a new business." src="https://placehold.co/600x400">
+</div>
+</div>
+<div class="isomer-card-body">
+<div class="isomer-card-title">Start a new business with ease</div>
+<div class="isomer-card-description">Receive step-by-step guidance on the permits and licences you need, and
+how to obtain them.</div>
+</div>
+</div>
+</div>
+<h3>How to use GoBusiness?</h3>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="GoBusiness helps and assists business owners with different problems and licensing issues." src="/images/Products and Services/For businesses/gbtitleimage.jpg">
+</div>
+<p></p>
+<p>Just 3 easy steps:</p>
+<ol data-tight="true" class="tight">
+<li>
+<p>Visit the <a href="https://dashboard.gobusiness.gov.sg/login" rel="noopener noreferrer nofollow" target="_blank">GoBusiness portal</a>.</p>
+</li>
+<li>
+<p>Simply log in via Singpass to get started.</p>
+</li>
+<li>
+<p>Need support while using GoBusiness? Visit the helpdesk <u>here</u>. (link
+to <a href="https://www.gobusiness.gov.sg/contact-us/?src=topnav" rel="noopener noreferrer nofollow" target="_blank">https://www.gobusiness.gov.sg/contact-us/?src=topnav</a>)</p>
+</li>
+</ol>
+<p></p>
+<p></p>
 <h3><strong>Simplifying business registration and administrative processes with GoBusiness</strong></h3>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Products and Services/GoBusiness_header.jpg">
