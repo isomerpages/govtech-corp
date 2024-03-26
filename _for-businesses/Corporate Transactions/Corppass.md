@@ -48,7 +48,7 @@ up and manage user account</div>
 </div>
 </div>
 </div>
-<p>Prepare the following if you are an Admin:&nbsp;</p>
+<p>Prepare the following if you are an <strong>Admin</strong>:&nbsp;</p>
 <ul>
 <li>
 <p>Entity's UEN, your personal information, Registered Officer's information</p>
@@ -67,6 +67,13 @@ up and manage user account</div>
 </li>
 </ul>
 <h3>Interested to find out more about Corppass?</h3>
-<p>Find out more about this product by visiting the <a href="https://www.corppass.gov.sg/" rel="noopener noreferrer nofollow" target="_blank">Corppass website</a>.</p>
-<p>Have questions? Contact us via email at <a href="https://www.corppass.gov.sg/cpauth/login/homepage?TAM_OP=login&amp;amp;URL=%2F" rel="noopener noreferrer nofollow" target="_blank">info@tech.gov.sg</a>
-</p>
+<p></p>
+<div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="https://www.corppass.gov.sg/" class="isomer-card"><div class="isomer-card-body"><div class="isomer-card-title">Visit the Corppass website to learn more</div><div class="isomer-card-link">Corppass</div></div></a>
+<a rel="noopener noreferrer nofollow" href="mailto:info@tech.gov.sg" class="isomer-card">
+<div class="isomer-card-body">
+<div class="isomer-card-title">Have questions? Drop us an email.</div>
+<div class="isomer-card-link">Contact us</div>
+</div>
+</a>
+</div>
+<p></p>
