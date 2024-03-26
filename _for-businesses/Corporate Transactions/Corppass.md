@@ -8,22 +8,30 @@ description: Corppass is an authorisation system that allows entities to manage
 third_nav_title: Corporate Transactions
 image: /images/Products and Services/For businesses/Corppass_meta_image.jpg
 ---
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Corppass logo" src="/images/Products and Services/For businesses/Corppass_meta_image.jpg">
+</div>
 <h3>Corppass: Facilitating easy access for corporate entities to make online transactions with government services</h3>
 <p>From applying for grants to filing taxes, there are many administrative
 transactions that corporate entities need to perform. As part of our vision
 to become a Smart Nation, we aim to streamline these government-business
 transactions. This has led to the birth of Corppass, an authorisation system
 for entities to manage their employees' roles and access when transacting
-with the government's digital services.&nbsp;&nbsp;</p>
+with the government's digital services.</p>
 <p>Corppass benefits local businesses and organisations that have a Unique
 Entity Number (UEN) as well as foreign entities. Today, the service is
 used by more than 550,000 entities to conduct online transactions with
 over 250 government services.</p>
 <h3>Why use Corppass?</h3>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Corppass facilitates easy access for businesses to make online transactions with the Singapore government's digital services" src="/images/Products and Services/For businesses/Corppass.jpg">
+</div>
 <p>Business owners can now delegate their employees to transact with different
 government agencies on their behalf, and also manage their separate roles
 and access. This single platform offers convenience and flexibility.</p>
 <h3>How to use Corppass?</h3>
+<p></p>
 <div class="iframe-wrapper">
 <iframe style="max-width: 100%;" height="400" width="100%" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/0xcHKX_So2o?si=QD8xZZ1ugo-c7yel"></iframe>
 </div>
@@ -71,7 +79,7 @@ up and manage user account</div>
 <div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="https://www.corppass.gov.sg/" class="isomer-card"><div class="isomer-card-body"><div class="isomer-card-title">Visit the Corppass website to learn more</div><div class="isomer-card-link">Corppass</div></div></a>
 <a rel="noopener noreferrer nofollow" href="mailto:info@tech.gov.sg" class="isomer-card">
 <div class="isomer-card-body">
-<div class="isomer-card-title">Have questions? Drop us an email.</div>
+<div class="isomer-card-title">Have questions? Drop us an email</div>
 <div class="isomer-card-link">Contact us</div>
 </div>
 </a>
