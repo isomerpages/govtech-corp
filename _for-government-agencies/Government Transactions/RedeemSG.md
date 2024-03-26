@@ -60,13 +60,12 @@ Portal.</div>
 us more about your needs via this <a href="https://form.gov.sg/621876e1f620bd00130757a6" rel="noopener noreferrer nofollow" target="_blank"><u>form</u></a> and
 the relevant product team will be in touch.</p>
 <h3>Want to find out more about RedeemSG?</h3>
-<p></p>
 <div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="https://redeem.gov.sg/disbursing" class="isomer-card"><div class="isomer-card-body"><div class="isomer-card-title">Visit the official website to learn more</div><div class="isomer-card-link">Go to RedeemSG website</div></div></a>
-<div class="isomer-card">
+<a rel="noopener noreferrer nofollow" href="mailto:info@tech.gov.sg" class="isomer-card">
 <div class="isomer-card-body">
 <div class="isomer-card-title">Have questions? Email us</div>
-<div class="isomer-card-description">Email us at info@tech.gov.sg</div>
+<div class="isomer-card-link">Contact us</div>
 </div>
-</div>
+</a>
 </div>
 <p></p>
