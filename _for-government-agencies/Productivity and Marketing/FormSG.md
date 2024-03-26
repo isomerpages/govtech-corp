@@ -17,12 +17,11 @@ GovTech created FormSG. This form builder tool enables public officers
 to create digital government forms within minutes. It can be used to create
 different types of forms, from visitor health and travel declarations to
 post in-camp training surveys.&nbsp;</p>
-<p></p>
+<p>Today, 160 government agencies have used it to create over 600,000 forms
+and to collect key data from residents and businesses in a secure manner.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Products and Services/FormSG.jpg">
 </div>
-<p>Today, 160 government agencies have used it to create over 600,000 forms
-and to collect key data from residents and businesses in a secure manner.</p>
 <h3>Why use FormSG?</h3>
 <p></p>
 <div class="isomer-image-wrapper">
