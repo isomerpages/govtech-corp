@@ -8,6 +8,9 @@ description: Run a business? Integrate your digital services with Singpass'
 third_nav_title: Corporate Transactions
 image: /images/Products and Services/For businesses/Singpass_API_logo.png
 ---
+<div class="isomer-image-wrapper">
+<img style="width: 80%;" height="auto" width="100%" alt="Singpass API logo" src="/images/Products and Services/For businesses/Singpass_API_logo.png">
+</div>
 <h3>Singpass APIs: Creating a trusted digital ecosystem that boosts business productivity</h3>
 <p>With a base that boasts over 4.2 million users, Singpass currently facilitates
 more than 41,000,000 transactions every month. Many Singaporeans use it
@@ -19,12 +22,11 @@ Verify, Sign, Identiface, and more – can bring about numerous benefits
 such as time and cost savings across processes. Furthermore, a digital
 platform that is a part of the Singpass ecosystem inspires trust.</p>
 <h3>Why use Singpass APIs?</h3>
-<p></p>
 <div class="isomer-card-grid">
 <div class="isomer-card">
 <div class="isomer-card-image">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Seamless online authentication" src="https://placehold.co/600x400">
+<img style="width: 100%" height="auto" width="100%" alt="Businesses can leverage Singpass APIs for easy online authentication" src="/images/Products and Services/For businesses/Singpass_API_card_1.jpg">
 </div>
 </div>
 <div class="isomer-card-body">
@@ -35,7 +37,7 @@ platform that is a part of the Singpass ecosystem inspires trust.</p>
 <div class="isomer-card">
 <div class="isomer-card-image">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Tap on consent-based biometrics ID" src="https://placehold.co/600x400">
+<img style="width: 100%" height="auto" width="100%" alt="Singpass APIs leverage biometrics to enable consent-based biometrics ID." src="/images/Products and Services/For businesses/Singpass_API_card_2.jpg">
 </div>
 </div>
 <div class="isomer-card-body">
@@ -47,7 +49,7 @@ for your use.</div>
 <div class="isomer-card">
 <div class="isomer-card-image">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="One-click registration" src="https://placehold.co/600x400">
+<img style="width: 100%" height="auto" width="100%" alt="Singpass enables one-click registration for the ultimate convenience." src="/images/Products and Services/For businesses/Singpass_API_card_3.jpg">
 </div>
 </div>
 <div class="isomer-card-body">
@@ -61,7 +63,7 @@ of the button.</div>
 <div class="isomer-card">
 <div class="isomer-card-image">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="In-person identity verification" src="https://placehold.co/600x400">
+<img style="width: 100%" height="auto" width="100%" alt="Use Singpass APIs for in-person identity verification." src="/images/Products and Services/For businesses/Singpass_API_card_4.jpg">
 </div>
 </div>
 <div class="isomer-card-body">
@@ -73,7 +75,7 @@ their information.</div>
 <div class="isomer-card">
 <div class="isomer-card-image">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Join SGFinDex's ecosystem" src="https://placehold.co/600x400">
+<img style="width: 100%" height="auto" width="100%" alt="Through SGFinDex, Singpass APIs enable data sharing with government agencies and financial institutions." src="/images/Products and Services/For businesses/Singpass_API_card_5.jpg">
 </div>
 </div>
 <div class="isomer-card-body">
@@ -85,7 +87,7 @@ financial journeys.</div>
 <div class="isomer-card">
 <div class="isomer-card-image">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Convenient digital signing" src="https://placehold.co/600x400">
+<img style="width: 100%" height="auto" width="100%" alt="Singpass APIs enable convenient digital signing on both your end and your customers' end." src="/images/Products and Services/For businesses/Singpass_API_card_6.jpg">
 </div>
 </div>
 <div class="isomer-card-body">
@@ -117,11 +119,9 @@ your application. You can then submit your app configuration.</p>
 <div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="https://api.singpass.gov.sg/" class="isomer-card"><div class="isomer-card-body"><div class="isomer-card-title">Visit the Singpass API website to learn more</div><div class="isomer-card-link">Singpass API</div></div></a>
 <a rel="noopener noreferrer nofollow" href="mailto:info@tech.gov.sg" class="isomer-card">
 <div class="isomer-card-body">
-<div class="isomer-card-title">Have questions? Drop us an email.</div>
+<div class="isomer-card-title">Have questions? Drop us an email</div>
 <div class="isomer-card-link">Contact us</div>
 </div>
 </a>
 </div>
-<p>
-<br>
-</p>
+<p></p>
