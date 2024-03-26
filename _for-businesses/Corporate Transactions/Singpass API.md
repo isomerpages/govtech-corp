@@ -7,32 +7,121 @@ description: Run a business? Integrate your digital services with Singpass'
   authentication.
 third_nav_title: Corporate Transactions
 ---
-<h3>Creating a trusted digital ecosystem that boosts business productivity with Singpass APIs</h3>
-<p>With Singpass being a widely-used platform for National Digital Identity,
-integrating with the suite of Singpass APIs will allow businesses to save
-time and money across processes - from authenticating online users to digital
-signing, and more. A few APIs relevant for businesses include Myinfo, Verify,
-Sign, Identiface, and more.</p>
+<h3>Singpass APIs: Creating a trusted digital ecosystem that boosts business productivity</h3>
+<p>With a base that boasts over 4.2 million users, Singpass currently facilitates
+more than 41,000,000 transactions every month. Many Singaporeans use it
+for authentication purposes when transacting with the 2,700-plus digital
+services of government agencies and participating businesses on the Singpass
+ecosystem, as it is both convenient and highly secure.</p>
+<p>Running a business? Integrating with the suite of Singpass APIs – Myinfo,
+Verify, Sign, Identiface, and more – can bring about numerous benefits
+such as time and cost savings across processes. Furthermore, a digital
+platform that is a part of the Singpass ecosystem inspires trust.</p>
 <h3>Why use Singpass APIs?</h3>
-<p>Easily authenticate users of your business' online services with higher
-assurance. Get digital signing done conveniently from both your end and
-your customers' end. Leverage biometrics to further verify a user's identity
-with consent. Provide your customers with more convenience by allowing
-them to tap on their personal information that is already on Singpass.</p>
-<div class="iframe-wrapper">
-<iframe height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/NGj3XXU-HgE?si=4Gla1PTbEUWcYiob"></iframe>
+<p></p>
+<div class="isomer-card-grid">
+<div class="isomer-card">
+<div class="isomer-card-image">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Seamless online authentication" src="https://placehold.co/600x400">
+</div>
+</div>
+<div class="isomer-card-body">
+<div class="isomer-card-title">Seamless online authentication</div>
+<div class="isomer-card-description">Enjoy the assurance that the transactions are made by legitimate users.</div>
+</div>
+</div>
+<div class="isomer-card">
+<div class="isomer-card-image">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Tap on consent-based biometrics ID" src="https://placehold.co/600x400">
+</div>
+</div>
+<div class="isomer-card-body">
+<div class="isomer-card-title">Tap on consent-based biometrics ID</div>
+<div class="isomer-card-description">Require step-up authentication or face verification? Identiface is ready
+for your use.</div>
+</div>
+</div>
+<div class="isomer-card">
+<div class="isomer-card-image">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="One-click registration" src="https://placehold.co/600x400">
+</div>
+</div>
+<div class="isomer-card-body">
+<div class="isomer-card-title">One-click registration</div>
+<div class="isomer-card-description">Thanks to Myinfo, your users can fill up their particulars with a click
+of the button.</div>
+</div>
+</div>
+</div>
+<div class="isomer-card-grid">
+<div class="isomer-card">
+<div class="isomer-card-image">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="In-person identity verification" src="https://placehold.co/600x400">
+</div>
+</div>
+<div class="isomer-card-body">
+<div class="isomer-card-title">In-person identity verification</div>
+<div class="isomer-card-description">In a physical setting? Verify your customers' identities by obtaining
+their information.</div>
+</div>
+</div>
+<div class="isomer-card">
+<div class="isomer-card-image">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Join SGFinDex's ecosystem" src="https://placehold.co/600x400">
+</div>
+</div>
+<div class="isomer-card-body">
+<div class="isomer-card-title">Join SGFinDex's ecosystem</div>
+<div class="isomer-card-description">Financial institutions can be a part of a collective that empowers citizens'
+financial journeys.</div>
+</div>
+</div>
+<div class="isomer-card">
+<div class="isomer-card-image">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Convenient digital signing" src="https://placehold.co/600x400">
+</div>
+</div>
+<div class="isomer-card-body">
+<div class="isomer-card-title">Convenient digital signing</div>
+<div class="isomer-card-description">Singpass' digital signature is cryptographically linked to the signer,
+thus ensuring integrity.</div>
+</div>
+</div>
 </div>
 <h3>How to use Singpass APIs?</h3>
-<p>Visit the <a href="https://api.singpass.gov.sg/" class="waffle-rich-text-link" rel="noopener noreferrer nofollow" target="_blank"><u>Singpass API website</u></a> and
-browse available APIs. Design the user journey for your application or
-service using the templates provided. You can also use the sample user
-journeys available as reference. On the website, login via Singpass to
-submit a linkup request. Once your linkup request is approved, an App ID
-will be generated for your application. You can then submit your App configuration
-to deploy your application.</p>
+<ul>
+<li>
+<p>Visit the<a href="https://api.singpass.gov.sg/" rel="noopener noreferrer nofollow" target="_blank"> <u>Singpass API website</u></a> and
+browse available APIs.</p>
+</li>
+<li>
+<p>Design the user journey for your app or service using the provided templates.
+You can also use the sample user journeys as reference.</p>
+</li>
+<li>
+<p>On the website, log in via Singpass to submit a linkup request.</p>
+</li>
+<li>
+<p>Once your linkup request is approved, an App ID will be generated for
+your application. You can then submit your app configuration.</p>
+</li>
+</ul>
 <h3>Interested to find out more about Singpass APIs?</h3>
-<p>Visit the <a href="https://api.singpass.gov.sg/" class="waffle-rich-text-link" rel="noopener noreferrer nofollow" target="_blank"><u>Singpass API website</u></a> to learn
-more.</p>
-<p>Have questions? Contact us via email at <a href="https://www.youtube.com/watch?v=NGj3XXU-HgE" rel="noopener noreferrer nofollow" target="_blank">info@tech.gov.sg</a> 
+<p></p>
+<div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="https://api.singpass.gov.sg/" class="isomer-card"><div class="isomer-card-body"><div class="isomer-card-title">Visit the Singpass API website to learn more</div><div class="isomer-card-link">Singpass API</div></div></a>
+<a rel="noopener noreferrer nofollow" href="mailto:info@tech.gov.sg" class="isomer-card">
+<div class="isomer-card-body">
+<div class="isomer-card-title">Have questions? Drop us an email.</div>
+<div class="isomer-card-link">Contact us</div>
+</div>
+</a>
+</div>
+<p>
 <br>
 </p>
