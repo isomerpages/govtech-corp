@@ -59,11 +59,11 @@ you have access within the government network to get started. If not, reach
 out to us via <a href="https://form.gov.sg/64a4d72658aaf80011ac2a64" rel="noopener noreferrer nofollow" target="_blank"><u>this form</u></a>.</p>
 <h3>Want to find out more about LaunchPad?</h3>
 <div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="http://eepurl.com/cUwIsD" class="isomer-card"><div class="isomer-card-body"><div class="isomer-card-title">Subscribe to the TechNews newsletter to stay updated!</div><div class="isomer-card-link">Join mailing list</div></div></a>
-<div class="isomer-card">
+<a rel="noopener noreferrer nofollow" href="mailto:info@tech.gov.sg" class="isomer-card">
 <div class="isomer-card-body">
 <div class="isomer-card-title">Have questions? Email us</div>
-<div class="isomer-card-description">Email us at info@tech.gov.sg.</div>
+<div class="isomer-card-link">Contact us</div>
 </div>
-</div>
+</a>
 </div>
 <p></p>
