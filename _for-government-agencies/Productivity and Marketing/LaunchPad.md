@@ -8,35 +8,57 @@ description: LaunchPad allows Singapore's public officers to experience the
 third_nav_title: Productivity and Marketing
 ---
 <h3>Pitch ideas, experiment, and see AI in action with LaunchPad</h3>
-<p>LaunchPad is an AI innovation and experimentation platform designed to
-kickstart agencies' AI transformation journey. It offers various in-house
-solutions to help public officers experience the latest features in generative
-AI and test the capabilities of different large language models.</p>
-<p>LaunchPad's Playground serves as a hub for users to access a wide range
-of LLMs.</p>
-<p>It also features an Ideathon platform, where individuals or teams across
-the Whole-of-Government can come together to propose ideas, identify problems,
-and brainstorm innovative solutions.</p>
+<p>Artificial intelligence (AI) is set to unlock possibilities like never
+before. To help our sister agencies kickstart their own AI transformation
+journeys, we unveiled LaunchPad, an innovation and experimentation platform.</p>
+<p>It offers various in-house solutions to let public officers experience
+the latest features in generative AI and test the capabilities of different
+large language models (LLMs).</p>
+<p>It also boasts Ideathon, a platform where individuals or teams across
+the entire government sector can come together to identify bottlenecks,
+propose ideas, and then brainstorm innovative solutions. Going beyond the
+ChatGPT-based model that powers <a href="http://tech.gov.sg/products-and-services/pair-chat" rel="noopener noreferrer nofollow" target="_blank"><u>Pair Chat</u></a>,
+this tool is built on a set of multiple models and enables users to ideate
+freely. Users can also enjoy more control over the responses generated
+by each model.</p>
 <h3>Why use LaunchPad?</h3>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Products and Services/Launchpad_screenshot.jpg">
-</div>
-<p>Users can experiment in a safe and supportive space, allowing users to
-unlock the full potential of language models.</p>
-<p>Collaborate across the Whole-of-Government to propose ideas, identify
-problems and brainstorm innovative solutions.</p>
-<p>Rapidly prototype and vote for impactful projects, saving on time.</p>
-<p>Submit your ideas and get the necessary tech support to build a workable
-prototype.</p>
-<h3>How to use LaunchPad?</h3>
-<p>Visit <a href="https://launchpad.data.tech.gov.sg/" rel="noopener noreferrer nofollow" target="_blank">Launchpad website</a> if
-you have access within the government network to get started</p>
-<p>If not, reach out to GovTech via this <a href="https://form.gov.sg/64a4d72658aaf80011ac2a64" rel="noopener noreferrer nofollow" target="_blank">form</a>.</p>
-<h3>What's the latest on LaunchPad?</h3>
 <p></p>
-<h3>Interested to find out more about LaunchPad?</h3>
-<p>Subscribe to the TechNews newsletter to stay updated on latest product
-developments like Launchpad! (Link to TechNews Subscription Form)</p>
-<p>Have questions? Contact us at <a href="mailto:digitalgov@tech.gov.sg" rel="noopener noreferrer nofollow" target="_blank">digitalgov@tech.gov.sg</a> (GovTech
-to confirm if we should use this, or if there's a specific team/PIC to
-contact)</p>
+<div class="isomer-image-wrapper">
+<img style="width: 80%;" height="auto" width="100%" alt="LaunchPad is an AI innovation and experimentation platform that allows public officers to ideate." src="/images/Products and Services/For Government Agencies/LaunchPad_image_resized.jpg">
+</div>
+<p></p>
+<div class="isomer-card-grid">
+<div class="isomer-card">
+<div class="isomer-card-body">
+<div class="isomer-card-title">Experiment in a safe space</div>
+<div class="isomer-card-description">Get to unlock the full potential of LLMs with LaunchPad.</div>
+</div>
+</div>
+<div class="isomer-card">
+<div class="isomer-card-body">
+<div class="isomer-card-title">Interministerial partnerships</div>
+<div class="isomer-card-description">Relish the chance to work with officers outside your ministry and engineer
+innovative solutions.</div>
+</div>
+</div>
+<div class="isomer-card">
+<div class="isomer-card-body">
+<div class="isomer-card-title">Receive tech support while you work</div>
+<div class="isomer-card-description">Submit your ideas, build a workable prototype and vote for impactful projects.</div>
+</div>
+</div>
+</div>
+<h3>How to use LaunchPad?</h3>
+<p>Visit <a href="https://launchpad.data.tech.gov.sg/" rel="noopener noreferrer nofollow" target="_blank"><u>LaunchPad's website</u></a> if
+you have access within the government network to get started. If not, reach
+out to us via <a href="https://form.gov.sg/64a4d72658aaf80011ac2a64" rel="noopener noreferrer nofollow" target="_blank"><u>this form</u></a>.</p>
+<h3>Want to find out more about LaunchPad?</h3>
+<div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="http://eepurl.com/cUwIsD" class="isomer-card"><div class="isomer-card-body"><div class="isomer-card-title">Subscribe to the TechNews newsletter to stay updated!</div><div class="isomer-card-link">Join mailing list</div></div></a>
+<div class="isomer-card">
+<div class="isomer-card-body">
+<div class="isomer-card-title">Have questions? Email us</div>
+<div class="isomer-card-description">Email us at info@tech.gov.sg.</div>
+</div>
+</div>
+</div>
+<p></p>
