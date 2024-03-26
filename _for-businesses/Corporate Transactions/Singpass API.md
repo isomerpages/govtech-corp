@@ -11,7 +11,7 @@ integrating with the suite of Singpass APIs will allow businesses to save
 time and money across processes - from authenticating online users to digital
 signing, and more. A few APIs relevant for businesses include Myinfo, Verify,
 Sign, Identiface, and more.</p>
-<h3><strong>Why use Singpass APIs?</strong></h3>
+<h3>Why use Singpass APIs?</h3>
 <p>Easily authenticate users of your business' online services with higher
 assurance. Get digital signing done conveniently from both your end and
 your customers' end. Leverage biometrics to further verify a user's identity
