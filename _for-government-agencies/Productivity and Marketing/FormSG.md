@@ -70,14 +70,12 @@ It also received a 4.73/5 rating in payer's satisfaction.</p>
 </details>
 </div>
 <h3>How to use FormSG?</h3>
-<p>Simply log in with a .<a href="http://gov.sg" rel="noopener noreferrer nofollow" target="_blank">gov.sg</a>, a whitelisted email address, or via Singpass
-on the <a href="https://form.gov.sg/" rel="noopener noreferrer nofollow" target="_blank">FormSG website</a> to
-get started.</p>
+<p>Simply log in with a .<a href="https://form.gov.sg/login" rel="noopener noreferrer nofollow" target="_blank">gov.sg</a> email, a whitelisted email address,
+or via Singpass on the<a href="https://form.gov.sg/login" rel="noopener noreferrer nofollow" target="_blank"> <u>FormSG website</u></a> to get started.</p>
 <h3>What's the latest on FormSG?</h3>
-<p>Check if there are new updates or further builds on the product.</p>
-<p>The latest development is that FormSG can now collect payments - <a href="https://form.gov.sg/payments" rel="noopener noreferrer nofollow" target="_blank">https://form.gov.sg/payments</a> ,
-Use cases - <a href="https://file.go.gov.sg/formsg-payments-deck.pdf" rel="noopener noreferrer nofollow" target="_blank">https://file.go.gov.sg/formsg-payments-deck.pdf</a>
-</p>
+<p>FormSG can now collect and facilitate payment transactions. Leverage this
+new feature to make transactions more seamless and secure. Learn more about
+<a href="https://form.gov.sg/payments" rel="noopener noreferrer nofollow" target="_blank">FormSG payments</a>.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Products and Services/FormSG_payment_features.jpg">
 </div>
