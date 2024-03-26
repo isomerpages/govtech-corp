@@ -80,8 +80,12 @@ new feature to make transactions more seamless and secure. Learn more about
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Products and Services/FormSG_payment_features.jpg">
 </div>
 <h3>Interested to find out more about FormSG?</h3>
-<p>Visit the <a href="https://form.gov.sg/" rel="noopener noreferrer nofollow" target="_blank">FormSG website</a> to
-learn more about the product.</p>
-<p>Have questions? Contact us at <a href="mailto:digitalgov@tech.gov.sg" rel="noopener noreferrer nofollow" target="_blank">digitalgov@tech.gov.sg</a> (GovTech
-to confirm if we should use this, or if there's a specific team/PIC to
-contact)</p>
+<div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="https://form.gov.sg/" class="isomer-card"><div class="isomer-card-body"><div class="isomer-card-title">Visit the FormSG website to learn more</div><div class="isomer-card-link">FormSG </div></div></a>
+<a rel="noopener noreferrer nofollow" href="mailto:info@tech.gov.sg" class="isomer-card">
+<div class="isomer-card-body">
+<div class="isomer-card-title">Have questions? Drop us an email.</div>
+<div class="isomer-card-link">Contact us</div>
+</div>
+</a>
+</div>
+<p></p>
