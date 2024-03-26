@@ -26,7 +26,28 @@ and access. This single platform offers convenience and flexibility.</p>
 <div class="iframe-wrapper">
 <iframe style="max-width: 100%;" height="400" width="100%" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/0xcHKX_So2o?si=QD8xZZ1ugo-c7yel"></iframe>
 </div>
-<p>There are three roles within Corppass.&nbsp;</p>
+<h4>There are three roles within Corppass:</h4>
+<div class="isomer-card-grid">
+<div class="isomer-card">
+<div class="isomer-card-body">
+<div class="isomer-card-title">Registered Officer</div>
+<div class="isomer-card-description">The personnel who is officially registered to the entity with ACRA</div>
+</div>
+</div>
+<div class="isomer-card">
+<div class="isomer-card-body">
+<div class="isomer-card-title">Admin</div>
+<div class="isomer-card-description">The personnel who is appointed the Corppass Administrator and will set
+up and manage user account</div>
+</div>
+</div>
+<div class="isomer-card">
+<div class="isomer-card-body">
+<div class="isomer-card-title">User</div>
+<div class="isomer-card-description">The personnel who will be performing transactions</div>
+</div>
+</div>
+</div>
 <ul>
 <li>
 <p><strong>Registered Officer:</strong> The personnel who is officially registered
