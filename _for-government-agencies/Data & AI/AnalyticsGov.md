@@ -8,10 +8,11 @@ third_nav_title: Data & AI
 image: /images/Products and Services/For Government
   Agencies/Analytics_gov_meta_image_resized.jpg
 ---
+<h3>Enabling data exploitation through an interactive environment with Analytics.gov (AG)</h3>
+<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 70%;" height="auto" width="100%" alt="Analytics.gov logo" src="/images/Products and Services/For Government Agencies/Analytics_gov_meta_image_resized.jpg">
 </div>
-<h3>Enabling data exploitation through an interactive environment with Analytics.gov (AG)</h3>
 <p><a href="https://analytics.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Analytics.gov</a> (AG)
 is a one-stop central and secure data exploitation platform that provides
 a common workspace for public officers to collaborate on data projects.
