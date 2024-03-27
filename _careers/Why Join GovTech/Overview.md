@@ -7,10 +7,10 @@ third_nav_title: Why Join GovTech
 variant: tiptap
 image: /images/careers/Careers_overview_meta_image_compressed.jpg
 ---
+<h3>Advance our mission. Shape your future.</h3>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="Employees working at GovTech bonding over a game of foosball" src="/images/careers/Why_join_GovTech___Overview.jpg">
 </div>
-<h3>Advance our mission. Shape your future.</h3>
 <p>A GovTech career is one that’s filled with purpose and meaning. Our digital
 transformation projects underpin Singapore’s efforts to build a Smart Nati3on,
 a home where possibilities are powered by infocomm technology and engineering
