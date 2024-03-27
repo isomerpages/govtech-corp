@@ -8,9 +8,6 @@ third_nav_title: Our Journey
 variant: tiptap
 image: /images/About Us/Our_focus_areas___meta_image.jpg
 ---
-<p>Our work at GovTech extends beyond digital transformation to include areas
-like <a href="/our-digital-government-efforts/sustainability/" rel="noopener noreferrer nofollow" target="_blank">Sustainability</a>,
-<a href="/our-digital-government-efforts/diversity-and-inclusion/" rel="noopener noreferrer nofollow" target="_blank">Diversity and Inclusion</a>, and <a href="https://www.linkedin.com/feed/update/urn:li:activity:7105478505164898305/" rel="noopener noreferrer nofollow" target="_blank">Social Responsibility</a>.</p>
 <h3>Our commitment to build a digital government</h3>
 <p>When it comes to building Singapore’s digital government, GovTech’s focus
 areas are outlined by the 5 thrusts as defined by the Digital Government
