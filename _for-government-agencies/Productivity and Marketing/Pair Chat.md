@@ -8,10 +8,13 @@ description: A government AI chatbot, Pair Chat helps public officers in
 third_nav_title: Productivity and Marketing
 image: /images/Products and Services/For Government Agencies/Pair_chat_meta_image.png
 ---
+<div class="isomer-image-wrapper">
+<img style="width: 40%;" height="auto" width="100%" alt="Pair Chat logo" src="/images/Products and Services/For Government Agencies/Pair_chat_meta_image.png">
+</div>
 <h3>Pair Chat: Transforming ways of working for public officers through AI</h3>
 <p>For many working adults in Singapore, ChatGPT has become a great productivity
-tool that speeds up daily&nbsp; tasks. Wanting to let public officers enjoy
-the benefits of using an AI chatbot, we set out to create Pair Chat.&nbsp;</p>
+tool that speeds up daily tasks. Wanting to let public officers enjoy the
+benefits of using an AI chatbot, we set out to create Pair Chat.&nbsp;</p>
 <p>Fast and free to use, this government AI chatbot is your virtual personal
 assistant that helps you with writing emails, conducting research and generating
 ideas. Powered by the same Large Language Models (LLMs) that ChatGPT is
@@ -21,8 +24,9 @@ first two months of its trial launch, it has already garnered over 11,000
 users across more than 100 government agencies. Today, it has 4,500-plus
 weekly active users.</p>
 <h3>Why use Pair Chat?</h3>
+<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Products and Services/pair_banner_ogp.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="Pair Chat is the Singapore government's AI chatbot service." src="/images/Products and Services/pair_banner_ogp.jpg">
 </div>
 <p></p>
 <div class="isomer-card-grid">
@@ -49,35 +53,59 @@ Pair.</div>
 </div>
 </div>
 <h3>How to use Pair Chat?</h3>
-<p>Visit the<a href="https://pair.gov.sg/" rel="noopener noreferrer nofollow" target="_blank"> <u>Pair Chat website</u></a> while
-using your government-issued work device. Log in with your government credentials
-to get started.</p>
+<ol data-tight="true" class="tight">
+<li>
+<p>Visit the <a href="https://pair.gov.sg/" rel="noopener noreferrer nofollow" target="_blank"><u>Pair Chat website</u></a> while
+using your government-issued work device.</p>
+</li>
+<li>
+<p>Log in with your government credentials to get started.</p>
+</li>
+</ol>
 <h3>What's the latest on Pair Chat?</h3>
 <p>We're always trying to improve our product. Here are some new features
 on Pair Chat.</p>
-<ul>
-<li>
-<p>Expanded availability: Enable access to Pair Chat via email on secured
-devices, with or without internet connectivity.</p>
-</li>
-<li>
+<p></p>
+<div data-type="detailGroup" class="isomer-accordion isomer-accordion-white">
+<details class="isomer-details">
+<summary><strong>Expanded availability</strong>
+</summary>
+<div data-type="detailsContent" class="isomer-details-content">
+<p>Enable access to Pair Chat via email on secured devices, with or without
+internet connectivity.</p>
+</div>
+</details>
+<details class="isomer-details">
+<summary><strong>Customise Pair Chat</strong>
+</summary>
+<div data-type="detailsContent" class="isomer-details-content">
 <p>Customise Pair Chat for bespoke use cases easily via Pair Custom Assistants.</p>
-</li>
-<li>
-<p>Create Pair Assistants in Pair Chat – Use Custom Assistants in Pair Chat
-to streamline work for yourself and your team. You can use Custom Assistants
-for simple tasks such as summarising text or transcripts, or even have
-your Assistant respond to questions that officers in your agency may have.
-Eliminate duplicate work, increase productivity, and save time for more
+</div>
+</details>
+<details class="isomer-details">
+<summary><strong>Create Pair Assistants in Pair Chat</strong>
+</summary>
+<div data-type="detailsContent" class="isomer-details-content">
+<p>Use Custom Assistants in Pair Chat to streamline work for yourself and
+your team. You can use Custom Assistants for simple tasks such as summarising
+text or transcripts, or even have your Assistant respond to questions that
+officers in your agency may have.</p>
+<p>Eliminate duplicate work, increase productivity, and save time for more
 valuable tasks with Pair Chat's Custom Assistants.</p>
-</li>
-<li>
-<p>Pair Search: This is a prototyped tool to help you find policy-relevant
-information more easily, starting with Hansard Parliamentary Reports. This
-new feature understands your search intent and supports filtering – all
-within an intuitive, easy-to-use interface. Give <a href="https://search.pair.gov.sg/" rel="noopener noreferrer nofollow" target="_blank">Pair Search</a> a try.</p>
-</li>
-</ul>
+</div>
+</details>
+<details class="isomer-details">
+<summary><strong>Pair Search</strong>
+</summary>
+<div data-type="detailsContent" class="isomer-details-content">
+<p>This is a prototyped tool to help you find policy-relevant information
+more easily, starting with Hansard Parliamentary Reports.</p>
+<p>This new feature understands your search intent and supports filtering
+– all within an intuitive, easy-to-use interface. Give <a href="https://search.pair.gov.sg/" rel="noopener noreferrer nofollow" target="_blank">Pair Search</a> a
+try.</p>
+</div>
+</details>
+</div>
 <h3>Interested to find out more about Pair Chat?</h3>
 <div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="https://pair.gov.sg/" class="isomer-card"><div class="isomer-card-body"><div class="isomer-card-title">Visit the Pair Chat website to learn more about its features.</div><div class="isomer-card-link">Pair</div></div></a>
 <a rel="noopener noreferrer nofollow" href="mailto:info@tech.gov.sg" class="isomer-card">
