@@ -5,7 +5,7 @@ variant: tiptap
 description: ""
 third_nav_title: Students and Graduates
 ---
-<p></p>
+<p>test infographic</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Desktop.png">
 </div>
