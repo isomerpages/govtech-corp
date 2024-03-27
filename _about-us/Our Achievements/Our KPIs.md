@@ -10,9 +10,7 @@ image: /images/About Us/About_Us___Our_Achievements___Our_KPIs.jpg
 <h3>Key goals for the Digital Government Blueprint 2.0</h3>
 <p>As we advance our digital government, GovTech looks to the Digital Government
 Blueprint (DGB) 2.0 to identify the KPIs for our organisation.</p>
-<p><strong>Alt image for infographic:</strong>
-</p>
-<p><strong>GovTech goals for the Digital Government Blueprint 2.0 (infographic to be created)</strong>
+<p><strong>&lt;Infographic: GovTech goals for the Digital Government Blueprint 2.0&gt;</strong>
 </p>
 <h3>Our track record for meeting KPIs</h3>
 <h4>High citizen satisfaction with government digital services</h4>
@@ -42,4 +40,4 @@ telephone interviews.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="Digital Government Perception Survey 2022 Business" src="/images/About Us/Digital_Government_Perception_2022_Business__1_.jpg">
 </div>
-<p></p>
+<p>&lt;Infographic:</p>
