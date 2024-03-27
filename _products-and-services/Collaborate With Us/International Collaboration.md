@@ -5,12 +5,12 @@ description: ""
 third_nav_title: Collaborate With Us
 variant: tiptap
 ---
-<h3><strong>Paving the way forward through knowledge sharing</strong></h3>
+<h3>Paving the way forward through knowledge sharing</h3>
 <p>GovTech believes in mutual growth through knowledge and idea sharing.
 To facilitate this exchange, GovTech is keen on going beyond the borders
 to collaborate with the international community as well collaborations
 such as events and other partnerships.</p>
-<h3><strong>Collaboration opportunities</strong></h3>
+<h3>Collaboration opportunities</h3>
 <p>GovTech is open to various international collaborations, be it events
 like talks and conferences, partnerships, MoU (memorandum of understanding),
 and more.</p>
@@ -71,7 +71,7 @@ Framework, Wireless Alert Alarm System, and more.</div>
 </div>
 </div>
 </div>
-<h3><strong>Interested to collaborate?</strong></h3>
+<h3>Interested to collaborate?</h3>
 <p>Reach out directly to us via email at <a href="https://drive.google.com/drive/folders/1Ds0YkkfTO2muVX6jFjQGFNU0G1zHXrOY" rel="noopener noreferrer nofollow" target="_blank">info@tech.gov.sg</a> for
 collaboration opportunities.
 <br>
