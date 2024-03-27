@@ -29,7 +29,7 @@ deliver services safely and readily.</p>
 </div>
 </a>
 </div>
-<div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="/products-and-services/for-citizens/digital-services/our-marriage-journey/" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Our Marriage Journey logo" src="/images/Products and Services/For citizens/OurMarriageJourney_meta_image.png"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Our Marriage Journey</div><div class="isomer-card-link">Find Out More</div></div></a>
+<div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="/products-and-services/for-citizens/digital-services/our-marriage-journey/" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Our Marriage Journey logo" src="/images/Products and Services/For citizens/Our_Marriage_Journey_600x300.png"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Our Marriage Journey</div><div class="isomer-card-link">Find Out More</div></div></a>
 <a rel="noopener noreferrer nofollow" href="/products-and-services/for-citizens/digital-services/sgfindex/" class="isomer-card">
 <div class="isomer-card-image">
 <div class="isomer-image-wrapper">
