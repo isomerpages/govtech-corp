@@ -8,7 +8,6 @@ variant: tiptap
 image: /images/Get Involved/stack_x_a11y_2.jpg
 ---
 <h3>Experts Driving Tech for Public Good</h3>
-<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="Experts in the STACK community listening to another member present his ideas and knowledge." src="/images/Get Involved/STACK_community__1_.jpg">
 </div>
