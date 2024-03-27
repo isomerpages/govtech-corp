@@ -77,7 +77,7 @@ up and manage user account</div>
 </li>
 </ul>
 <h3>Interested to find out more about Corppass?</h3>
-<div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="https://www.corppass.gov.sg/" class="isomer-card"><div class="isomer-card-body"><div class="isomer-card-title">Visit the Corppass website to learn more</div><div class="isomer-card-link">Corppass</div></div></a>
+<div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="https://www.corppass.gov.sg/" class="isomer-card"><div class="isomer-card-body"><div class="isomer-card-title">Visit the Corppass website to learn more</div><div class="isomer-card-link">Go to Corppass website</div></div></a>
 <a rel="noopener noreferrer nofollow" href="mailto:info@tech.gov.sg" class="isomer-card">
 <div class="isomer-card-body">
 <div class="isomer-card-title">Have questions? Drop us an email</div>
