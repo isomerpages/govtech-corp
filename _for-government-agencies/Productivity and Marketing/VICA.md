@@ -7,22 +7,25 @@ description: VICA, GovTech's next-generation virtual assistant platform, is
 third_nav_title: Productivity and Marketing
 image: /images/Products and Services/For Government Agencies/vica_logo.png
 ---
+<div class="isomer-image-wrapper">
+<img style="width: 70%;" height="auto" width="100%" alt="VICA chatbot logo" src="/images/Products and Services/For Government Agencies/vica_logo.png">
+</div>
 <h3>Activate public-facing chatbots and serve citizens better with VICA</h3>
 <p>VICA, or Virtual Intelligent Chat Assistant, is GovTech's next-generation
 virtual assistant platform. This highly intuitive assistant is built on
-natural language processing (NLP) engines, machine learning and AI. The
-trio of technologies enables it to learn and understand conversations,
+natural language processing (NLP) engines, machine learning and AI.</p>
+<p>The trio of technologies enables it to learn and understand conversations,
 and continuously adapt to improve its interactions with users.</p>
-<p>
-<br>VICA now powers public-facing chatbots such as AskGayle on GovTech's website,
+<p>VICA now powers public-facing chatbots such as AskGayle on GovTech's website,
 Ask Wally on Public Utilities Board's website and more. Government agencies
 can fully customise these personas and include key information resources
 on the chatbot's landing page.</p>
-<div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="https://www.pub.gov.sg/" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Placeholder image" src="/images/Products and Services/askwally___PUB.jpg"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Ask Wally</div><div class="isomer-card-link">PUB</div></div></a>
+<p></p>
+<div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="https://www.pub.gov.sg/" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Ask Wally avatar" src="/images/Products and Services/For Government Agencies/Ask_Wally.png"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Ask Wally</div><div class="isomer-card-link">PUB</div></div></a>
 <a rel="noopener noreferrer nofollow" href="https://www.nea.gov.sg/" class="isomer-card">
 <div class="isomer-card-image">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Placeholder image" src="/images/Products and Services/captaingreen_avatar.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="Captain Green avatar" src="/images/Products and Services/For Government Agencies/Captain_Green.png">
 </div>
 </div>
 <div class="isomer-card-body">
@@ -31,11 +34,11 @@ on the chatbot's landing page.</p>
 </div>
 </a>
 </div>
-<div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="https://www.hdb.gov.sg/cs/infoweb/homepage" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Placeholder image" src="/images/Products and Services/AskHDB_Avatar.jpg"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Ask HDB</div><div class="isomer-card-link">HDB</div></div></a>
+<div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="https://www.hdb.gov.sg/cs/infoweb/homepage" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Ask HDB avatar" src="/images/Products and Services/For Government Agencies/Ask_HDB.png"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Ask HDB</div><div class="isomer-card-link">HDB</div></div></a>
 <a rel="noopener noreferrer nofollow" href="https://www.tech.gov.sg/" class="isomer-card">
 <div class="isomer-card-image">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Placeholder image" src="/images/Products and Services/AskGayle.gif">
+<img style="width: 100%" height="auto" width="100%" alt="Gayle avatar" src="/images/Products and Services/For Government Agencies/Ask_Gayle.png">
 </div>
 </div>
 <div class="isomer-card-body">
@@ -45,7 +48,6 @@ on the chatbot's landing page.</p>
 </a>
 </div>
 <h3>Why use VICA?</h3>
-<p></p>
 <div class="isomer-card-grid">
 <div class="isomer-card">
 <div class="isomer-card-body">
@@ -70,9 +72,11 @@ of the day.</div>
 </div>
 <h3>What's the latest on VICA?</h3>
 <p>GovTech has introduced a number of new features to expand VICA's usefulness:</p>
+<p></p>
 <div data-type="detailGroup" class="isomer-accordion isomer-accordion-white">
 <details class="isomer-details">
-<summary>Gen AI Playground</summary>
+<summary><strong>Gen AI Playground</strong>
+</summary>
 <div data-type="detailsContent" class="isomer-details-content">
 <p>Gen AI Playground: Use the data source management feature in the Playground
 to upload documents that will serve as source materials. VICA will then
@@ -82,14 +86,16 @@ increase VICA's ability to answer public queries.</p>
 </div>
 </details>
 <details class="isomer-details">
-<summary>Auto-Complete</summary>
+<summary><strong>Auto-Complete</strong>
+</summary>
 <div data-type="detailsContent" class="isomer-details-content">
 <p>When users type three characters, VICA will provide a list of suggestions
 to enable faster searching.</p>
 </div>
 </details>
 <details class="isomer-details">
-<summary>Enabling/Disabling Knowledge Base in the Gen AI Playground</summary>
+<summary><strong>Enabling/Disabling Knowledge Base in the Gen AI Playground</strong>
+</summary>
 <div data-type="detailsContent" class="isomer-details-content">
 <p>You can now switch off your Knowledge Base in the gen AI Playground. When
 switched off, VICA's responses will be fully generative. When switched
@@ -98,7 +104,8 @@ Custom Dialogue.</p>
 </div>
 </details>
 <details class="isomer-details">
-<summary>Translation of responses</summary>
+<summary><strong>Translation of responses</strong>
+</summary>
 <div data-type="detailsContent" class="isomer-details-content">
 <p>Users can now select either the Chinese, Malay or Tamil language from
 the drop-down box.Translation services are powered by Google, and are currently
@@ -107,11 +114,10 @@ available for text and HTML response type.</p>
 </details>
 </div>
 <h3>Interested to find out more about VICA?</h3>
-<p></p>
-<div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="https://www.developer.tech.gov.sg/products/categories/platform/virtual-intelligent-chat-assistant/overview.html" class="isomer-card"><div class="isomer-card-body"><div class="isomer-card-title">Visit the Singapore Government Developer Portal to learn more.</div><div class="isomer-card-link">VICA on Singapore Government Developer Portal</div></div></a>
+<div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="https://www.developer.tech.gov.sg/products/categories/platform/virtual-intelligent-chat-assistant/overview.html" class="isomer-card"><div class="isomer-card-body"><div class="isomer-card-title">Visit the Singapore Government Developer Portal to learn more</div><div class="isomer-card-link">Learn more about VICA</div></div></a>
 <a rel="noopener noreferrer nofollow" href="mailto:info@tech.gov.sg" class="isomer-card">
 <div class="isomer-card-body">
-<div class="isomer-card-title">Have questions? Email us.</div>
+<div class="isomer-card-title">Have questions? Email us</div>
 <div class="isomer-card-link">Contact us</div>
 </div>
 </a>
