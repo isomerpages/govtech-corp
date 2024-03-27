@@ -6,6 +6,7 @@ description: ""
 third_nav_title: ICT and Infrastructure
 ---
 <h3>Enhancing competencies in safeguarding data within the government with Data Loss Prevention</h3>
+<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Products and Services/DLP_banner.jpg">
 </div>
