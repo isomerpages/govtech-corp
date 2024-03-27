@@ -7,16 +7,15 @@ third_nav_title: "Opportunities: Professionals"
 variant: tiptap
 image: /images/careers/Professionals_over_meta_image.jpg
 ---
+<h3>A rewarding career awaits you at GovTech</h3>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="GovTechies working together on a project" src="/images/careers/Professionals_over_meta_image.jpg">
 </div>
-<h3>A rewarding career awaits you at GovTech</h3>
-<p>Unleash your potential while working at GovTech!</p>
-<p>As GovTechies, we welcome the fact that we get to face challenges in our
-line of work. If you also love getting out of your comfort zone, then you
-may just be the right fit! At GovTech, you'll work on purposeful projects
-that serve society and get to collaborate with some of the greatest minds
-in different fields.&nbsp;</p>
+<p>Unleash your potential while working at GovTech! As GovTechies, we welcome
+the fact that we get to face challenges in our line of work. If you also
+love getting out of your comfort zone, then you may just be the right fit!
+At GovTech, you'll work on purposeful projects that serve society and get
+to collaborate with some of the greatest minds in different fields.&nbsp;</p>
 <p>Whether you're a tech or non-tech professional, a junior executive or
 a senior-level manager, there are many job opportunities to explore. But
 first, here are the reasons why you should consider a career at GovTech.</p>
