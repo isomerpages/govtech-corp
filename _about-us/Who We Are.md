@@ -8,7 +8,6 @@ variant: tiptap
 image: /images/About Us/Who_we_are_meta_image_compressed.jpg
 ---
 <h3>What is GovTech?</h3>
-<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="The team at GovTech working hard to create technology for the public good" src="/images/About Us/Who_we_are_banner_image.jpg">
 </div>
