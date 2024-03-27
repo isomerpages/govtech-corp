@@ -8,10 +8,11 @@ description: GovTech's Video Analytics System automatically analyses collected
 third_nav_title: Data & AI
 image: /images/Products and Services/For Government Agencies/VAS_meta_image.jpg
 ---
+<h3>Automating analysis processes with Video Analytics System (VAS)</h3>
+<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 70%;" height="auto" width="100%" alt="Videa Analytics System (VAS) logo" src="/images/Products and Services/For Government Agencies/VAS_meta_image.jpg">
 </div>
-<h3>Automating analysis processes with Video Analytics System (VAS)</h3>
 <p>The amount of video data collected on a daily basis has increased exponentially
 over the years. In fact, it has reached a point where it is not humanly
 possible – nor is it productive – to deploy manpower to review the massive
