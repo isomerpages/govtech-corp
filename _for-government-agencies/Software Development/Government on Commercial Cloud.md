@@ -20,6 +20,31 @@ offered by cloud service providers. To date, over 600 government digital
 services are on the GCC. This includes <a href="https://www.mycareersfuture.gov.sg/" rel="noopener noreferrer nofollow" target="_blank">MyCareersFuture</a>, <a href="/products-and-services/for-businesses/corporate-transactions/gobusiness/" rel="noopener noreferrer nofollow" target="_blank">GoBusiness</a>,
 <a href="/products-and-services/for-government-agencies/data-and-ai/wogaa/" rel="noopener noreferrer nofollow" target="_blank">WOGAA</a>and more.</p>
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="The Government on Commercial Cloud Framework." src="/images/Products and Services/For Government Agencies/gcc_fig1_resized.jpg">
+</div>
+<h3>Why use GCC?</h3>
+<div class="isomer-card-grid">
+<div class="isomer-card">
+<div class="isomer-card-body">
+<div class="isomer-card-title">Greater oversight</div>
+<div class="isomer-card-description">Improve observability, auditability and monitoring of your digital services.</div>
+</div>
+</div>
+<div class="isomer-card">
+<div class="isomer-card-body">
+<div class="isomer-card-title">A smooth experience</div>
+<div class="isomer-card-description">Automate your workflows and ensure continuous compliance.</div>
+</div>
+</div>
+<div class="isomer-card">
+<div class="isomer-card-body">
+<div class="isomer-card-title">Budget-friendly yet safe</div>
+<div class="isomer-card-description">Save on costs without compromising security.</div>
+</div>
+</div>
+</div>
+<p></p>
 <p></p>
 <p></p>
 <p></p>
