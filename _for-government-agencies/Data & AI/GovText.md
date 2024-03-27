@@ -7,17 +7,20 @@ description: A Natural Language Processing-based text analytics platform,
   Learn more.
 third_nav_title: Data & AI
 ---
-<h3>Enabling public officers with efficient analysis of textual data with GovText.</h3>
-<p>This is a comprehensive Natural Language Processing (NLP)-based text analytics
-platform that automatically analyses unstructured text data and produces
-results that can help users better understand the contents</p>
-<p>This platform is offered as a web portal tool and as a model-hosting platform,
+<h3>Enabling efficient analyses of textual data with GovText</h3>
+<p>For public officers, receiving and having to process large amounts of
+text data is a norm. Be it reports or survey feedback, perusing them can
+be a time-consuming task. We got to thinking about how we can help our
+fellow public officers to increase the efficiency of this process.</p>
+<p>And the answer is GovText, a comprehensive Natural Language Processing
+(NLP)-based text analytics platform. The platform analyses textual data
+and presents results in a visual manner that facilitates quick and easy
+understanding.&nbsp;</p>
+<p>GovText is offered as a web portal tool and as a model-hosting platform,
 with the latter providing text analytics services via APIs for government
-agencies</p>
-<p>This platform was useful for the development of the Municipal Services
-Office (MSO) Chatbot, or OneService Chatbot, where its capabilities enabled
-the prediction of the case category of the feedback received and the agency
-that should respond.</p>
+agencies. It has been tapped for the development of the OneService Chatbot,
+where its capabilities enabled the prediction of the case category of submitted
+feedback and the relevant agency that should respond.</p>
 <h3>Why use GovText?</h3>
 <p>GovText currently has 2 tools - Topic Modelling and Summarisation.</p>
 <h4><u>Topic Modelling</u></h4>
