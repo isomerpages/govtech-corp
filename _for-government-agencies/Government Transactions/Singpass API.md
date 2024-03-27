@@ -61,37 +61,36 @@ legitimate users.</div>
 <div class="isomer-card">
 <div class="isomer-card-image">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Use Singpass APIs for in-person identity verification." src="https://placehold.co/600x400">
+<img style="width: 100%" height="auto" width="100%" alt="Singpass APIs allow your government agency to conduct face verification without having to build the infrastructure." src="https://placehold.co/600x400">
 </div>
 </div>
 <div class="isomer-card-body">
-<div class="isomer-card-title">In-person identity verification</div>
-<div class="isomer-card-description">In a physical setting? Verify your customers' identities by obtaining
-their information.</div>
+<div class="isomer-card-title">Consent-based biometrics ID</div>
+<div class="isomer-card-description">Enjoy the benefit of using face verification without having to build your
+own infrastructure.</div>
 </div>
 </div>
 <div class="isomer-card">
 <div class="isomer-card-image">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Through SGFinDex, Singpass APIs enable data sharing with government agencies and financial institutions." src="https://placehold.co/600x400">
+<img style="width: 100%" height="auto" width="100%" alt="With Singpass APIs, you can enjoy a secure and contactless way of verifying a citizen's credentials." src="https://placehold.co/600x400">
 </div>
 </div>
 <div class="isomer-card-body">
-<div class="isomer-card-title">Join SGFinDex's ecosystem</div>
-<div class="isomer-card-description">Financial institutions can be a part of a collective that empowers citizens'
-financial journeys.</div>
+<div class="isomer-card-title">Contactless verification</div>
+<div class="isomer-card-description">During in-person events, you can verify users' identities by checking
+their Singpass credentials.</div>
 </div>
 </div>
 <div class="isomer-card">
 <div class="isomer-card-image">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Singpass APIs enable convenient digital signing on both your end and your customers' end." src="https://placehold.co/600x400">
+<img style="width: 100%" height="auto" width="100%" alt="Singpass APIs allow you to send timely notifications to your users." src="https://placehold.co/600x400">
 </div>
 </div>
 <div class="isomer-card-body">
-<div class="isomer-card-title">Convenient digital signing</div>
-<div class="isomer-card-description">Singpass' digital signature is cryptographically linked to the signer,
-thus ensuring integrity.</div>
+<div class="isomer-card-title">Send notifications with Notify</div>
+<div class="isomer-card-description">Easily disseminate important information in a timely manner to your users.</div>
 </div>
 </div>
 </div>
