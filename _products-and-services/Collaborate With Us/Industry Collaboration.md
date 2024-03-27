@@ -61,10 +61,10 @@ Digital Platform and GALE.</p>
 </ol>
 <p>Find out more about the partnership opportunities for FY23 <a href="https://www.tech.gov.sg/files/media/corporate-publications/IB2023-Towards-the-Next-Bound-of-Digital-Government-GovTech-CE.pdf" class="waffle-rich-text-link" rel="noopener noreferrer nofollow" target="_blank"><u>here</u></a>.</p>
 <p>For a full list of current available opportunities and open tenders, visit
-<a href="https://www.gebiz.gov.sg/" class="waffle-rich-text-link" rel="noopener noreferrer nofollow" target="_blank"><u>GeBIZ</u> 
+<a href="https://www.gebiz.gov.sg/" class="waffle-rich-text-link" rel="noopener noreferrer nofollow" target="_blank"><u>GeBIZ</u>
 </a>.</p>
 <p>Have an enquiry or a proactive proposal that will drive our Smart Nation
-efforts? Reach out to us at <a href="https://www.tech.gov.sg/files/media/corporate-publications/IB2023-Towards-the-Next-Bound-of-Digital-Government-GovTech-CE.pdf" rel="noopener noreferrer nofollow" target="_blank">govtech_sipeo@tech.gov.sg</a>.</p>
+efforts? Reach out to us at <a href="mailto:govtech_sipeo@tech.gov.sg" rel="noopener noreferrer nofollow" target="_blank">govtech_sipeo@tech.gov.sg</a>.</p>
 <h3>Event Collaborations</h3>
 <p>At GovTech, we value opportunities to collaborate in the spirit of knowledge-sharing.
 Public-private collaborations like this encourage new ideas and more innovative
