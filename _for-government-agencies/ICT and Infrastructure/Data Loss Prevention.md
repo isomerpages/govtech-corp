@@ -21,6 +21,7 @@ in us.</p>
 <p>DLP has been introduced progressively since May 2022 to enhance the existing
 data security measures in all government laptops</p>
 <p>DLP will be applied when performing any of the following activities:</p>
+<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Products and Services/DLP_icons.jpg">
 </div>
