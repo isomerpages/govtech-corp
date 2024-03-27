@@ -8,10 +8,11 @@ description: A Natural Language Processing-based text analytics platform,
 third_nav_title: Data & AI
 image: /images/Products and Services/For Government Agencies/GovText_meta_image.png
 ---
+<h3>Enabling efficient analyses of textual data with GovText</h3>
+<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 70%;" height="auto" width="100%" alt="GovText logo" src="/images/Products and Services/For Government Agencies/GovText_meta_image.png">
 </div>
-<h3>Enabling efficient analyses of textual data with GovText</h3>
 <p>For public officers, receiving and having to process large amounts of
 text data is a norm. Be it reports or survey feedback, perusing them can
 be a time-consuming task. We got to thinking about how we can help our
@@ -35,7 +36,7 @@ essential information.</p>
 <h4>Topic Modelling</h4>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Products and Services/_compressed__wordcloud_screenshot.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="GovText offers topic modelling." src="/images/Products and Services/_compressed__wordcloud_screenshot.jpg">
 </div>
 <p></p>
 <div class="isomer-card-grid">
@@ -63,7 +64,7 @@ given to them.</div>
 <h4>Summarisation</h4>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Products and Services/summarisation_screenshot.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="GovText can help to generate summaries of documents." src="/images/Products and Services/summarisation_screenshot.jpg">
 </div>
 <p></p>
 <div class="isomer-card-grid">
