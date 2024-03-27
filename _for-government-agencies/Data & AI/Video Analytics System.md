@@ -51,38 +51,32 @@ operational flexibility.</div>
 </div>
 </div>
 </div>
-<p></p>
-<p></p>
-<p></p>
-<h3>Automating analysis processes across WOG with Video Analytics System (VAS)</h3>
-<p>This system makes use of Video Analytics (VA) algorithms to monitor, investigate
-and analyse real-time occurrences, while also extracting insights and trends
-for further analysis.</p>
-<p>It has been implemented in conjunction with other government agencies
-- such as with NEA to keep our environment smoke-free, and with NParks
-to facilitate safe distancing at parks during COVID.</p>
-<p>As a central platform, VAS aims to: Enable agencies to explore the use
-of video analytics, develop and deploy VA solutions, exchange video data
-and analytics expertise across WOG and expand the video sensor network
-and insights derived to aid in operational workflows</p>
-<p>VAS is designed for the needs of government agencies - agencies can kickstart,
-deploy and develop VA projects quickly and effortlessly. They can leverage
-on their own videos as well as videos from other agencies, and make use
-of existing VA algorithms from GovTech and across the Government on Commercial
-Cloud (GCC) ecosystem.</p>
-<h3>Why use VAS?</h3>
-<p>Quickly generate insights and analysis from videos collected during trials,
-proof of concepts, and pre-analysis work, speeding up VA tasks.</p>
-<p>Reduce manual analysis and unlock critical time and cost savings.</p>
-<p>Develop your own VA models for custom use cases and still maintain operational
-flexibility vis-à-vis private commercial vendors.</p>
+<h3>A look at VAS: Case studies</h3>
+<div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="/media/technews/using-ai-to-differentiate-mosquito-larvae/" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="GovTech's Video Analytics System was used in an explorative study by NEA to identify mosquito larval species." src="/images/Products and Services/For Government Agencies/VAS_card_1.png"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Identification of mosquito larvae</div><div class="isomer-card-description">In an NEA-led study, the VAS identified mosquito larval species with an accuracy rate of almost 100%. Read the case study on TechNews.</div><div class="isomer-card-link">Go to Technews article</div></div></a>
+<a rel="noopener noreferrer nofollow" href="/media/technews/clearing-the-air-using-tech-to-keep-our-environment-smoke-free/" class="isomer-card">
+<div class="isomer-card-image">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="GovTech's Video Analytics System was key in enabling efforts to keep our environment smoke-free." src="/images/Products and Services/For Government Agencies/VAS_card_2.jpg">
+</div>
+</div>
+<div class="isomer-card-body">
+<div class="isomer-card-title">Keeping our air smoke-free</div>
+<div class="isomer-card-description">In Project Balefire, the VAS was used to detect smoking that took place
+outside of designated public places. Read the case study on TechNews.</div>
+<div class="isomer-card-link">Go to Technews article</div>
+</div>
+</a>
+</div>
 <h3>How to use VAS?</h3>
-<p>- (where can public officers access/use VAS?) - <a href="https://vas.gov.sg/login" rel="noopener noreferrer nofollow" target="_blank">https://vas.gov.sg/login</a>
-</p>
-<h3>What's the latest on VAS?</h3>
-<p>- (any updates on the product, or upcoming developments?)</p>
-<h3>Interested to find out more about VAS?</h3>
-<p>Find out more about the product here.</p>
-<p>Have questions? Contact us at <a href="mailto:digitalgov@tech.gov.sg" rel="noopener noreferrer nofollow" target="_blank">digitalgov@tech.gov.sg</a> (GovTech
-to confirm if we should use this, or if there's a specific team/PIC to
-contact)</p>
+<p>Simply visit the <a href="https://vas.gov.sg/login" rel="noopener noreferrer nofollow" target="_blank"><u>VAS site</u></a> and log in with your
+Whole-of-Government credentials to get started.</p>
+<h3>Want to find out more about VAS?</h3>
+<div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="https://www.developer.tech.gov.sg/products/categories/analytics/vas/overview.html" class="isomer-card"><div class="isomer-card-body"><div class="isomer-card-title">Discover VAS' features on the Singapore Government Developer Portal</div><div class="isomer-card-link">Learn more about VAS</div></div></a>
+<a rel="noopener noreferrer nofollow" href="mailto:info@tech.gov.sg" class="isomer-card">
+<div class="isomer-card-body">
+<div class="isomer-card-title">Have questions? Email us</div>
+<div class="isomer-card-link">Contact us</div>
+</div>
+</a>
+</div>
+<p></p>
