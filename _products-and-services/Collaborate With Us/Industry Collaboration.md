@@ -61,7 +61,7 @@ Digital Platform and GALE.</p>
 </ol>
 <p>Find out more about the partnership opportunities for FY23 <a href="https://www.tech.gov.sg/files/media/corporate-publications/IB2023-Towards-the-Next-Bound-of-Digital-Government-GovTech-CE.pdf" class="waffle-rich-text-link" rel="noopener noreferrer nofollow" target="_blank"><u>here</u></a>.</p>
 <p>For a full list of current available opportunities and open tenders, visit
-<a href="https://www.gebiz.gov.sg/" class="waffle-rich-text-link" rel="noopener noreferrer nofollow" target="_blank"><u>GeBIZ</u>
+<a href="https://www.gebiz.gov.sg/" class="waffle-rich-text-link" rel="noopener noreferrer nofollow" target="_blank"><u>GeBIZ</u> 
 </a>.</p>
 <p>Have an enquiry or a proactive proposal that will drive our Smart Nation
 efforts? Reach out to us at <a href="mailto:govtech_sipeo@tech.gov.sg" rel="noopener noreferrer nofollow" target="_blank">govtech_sipeo@tech.gov.sg</a>.</p>
@@ -72,7 +72,7 @@ government offerings.</p>
 <p>Below are examples of past event collaborations we have had:</p>
 <h4>Google Cloud Next '23 x GovTech</h4>
 <div class="iframe-wrapper">
-<iframe height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/t6zXXgJLNzI?si=7igKz4EgfxmadPUg"></iframe>
+<iframe style="max-width: 100%;" height="400" width="100%" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/t6zXXgJLNzI?si=7igKz4EgfxmadPUg"></iframe>
 </div>
 <p>In collaboration with Google, GovTech lent its expertise at a knowledge-sharing
 event through our Deputy Chief Executive, Sau Sheong Chang, who was invited
@@ -94,7 +94,7 @@ about on-trend topics like foundations of AI, applications of AI in Government,
 ethics of AI, generative AI, and the future of AI. Click here to learn
 more.</p>
 <p></p>
-<h3><strong>Have an enquiry?</strong></h3>
+<h3>Have an enquiry?</h3>
 <p>Reach out to us directly via email at <a href="https://www.tech.gov.sg/files/media/corporate-publications/IB2023-Towards-the-Next-Bound-of-Digital-Government-GovTech-CE.pdf" rel="noopener noreferrer nofollow" target="_blank">info@tech.gov.sg</a> for
 any enquiries on collaborations.</p>
 <p></p>
