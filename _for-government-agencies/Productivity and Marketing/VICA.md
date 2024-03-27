@@ -106,8 +106,13 @@ available for text and HTML response type.</p>
 </details>
 </div>
 <h3>Interested to find out more about VICA?</h3>
-<p>Visit the <a href="https://www.tech.gov.sg/products-and-services/vica/" rel="noopener noreferrer nofollow" target="_blank">VICA website</a> to
-learn more about the product.</p>
-<p>Have questions? Contact us at <a href="mailto:digitalgov@tech.gov.sg" rel="noopener noreferrer nofollow" target="_blank">digitalgov@tech.gov.sg</a> (GovTech
-to confirm if we should use this, or if there's a specific team/PIC to
-contact)</p>
+<p></p>
+<div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="https://www.developer.tech.gov.sg/products/categories/platform/virtual-intelligent-chat-assistant/overview.html" class="isomer-card"><div class="isomer-card-body"><div class="isomer-card-title">Visit the Singapore Government Developer Portal to learn more.</div><div class="isomer-card-link">VICA on Singapore Government Developer Portal</div></div></a>
+<a rel="noopener noreferrer nofollow" href="mailto:info@tech.gov.sg" class="isomer-card">
+<div class="isomer-card-body">
+<div class="isomer-card-title">Have questions? Email us.</div>
+<div class="isomer-card-link">Contact us</div>
+</div>
+</a>
+</div>
+<p></p>
