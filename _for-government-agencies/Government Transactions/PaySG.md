@@ -8,6 +8,69 @@ description: PaySG is a safe and trusted system for government agencies to
 third_nav_title: Government Transactions
 image: /images/Products and Services/For Government Agencies/PaySG_logo.png
 ---
+<div class="isomer-image-wrapper">
+<img style="width: 70%;" height="auto" width="100%" alt="PaySG white logo" src="/images/Products and Services/For Government Agencies/PaySG_white_logo.png">
+</div>
+<h3>PaySG: A trusted system for the government to accept payments</h3>
+<p>A platform built specially for the government, PaySG makes it easy for
+agencies to accept payments from citizens and businesses. In 2023 alone,
+PaySG collected a total of $23 million dollars and facilitated over 60,000
+transactions for local government agencies. Overall, it has handled some
+$300 million worth of payment transactions since its inception.</p>
+<h3>Why use PaySG?</h3>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="PaySG is a trusted system for government agencies to receive payments from citizens." src="/images/Products and Services/For Government Agencies/paysg_dashboard_resized.jpg">
+</div>
+<p></p>
+<div class="isomer-card-grid">
+<div class="isomer-card">
+<div class="isomer-card-body">
+<div class="isomer-card-title">Self-service, simplified</div>
+<div class="isomer-card-description">Set up your payment service within minutes.</div>
+</div>
+</div>
+<div class="isomer-card">
+<div class="isomer-card-body">
+<div class="isomer-card-title">Effortless payment processes</div>
+<div class="isomer-card-description">With PaySG, you can forget about lengthy procurement processes, setup
+charges or monthly fees.</div>
+</div>
+</div>
+<div class="isomer-card">
+<div class="isomer-card-body">
+<div class="isomer-card-title">Offer your users flexibility</div>
+<div class="isomer-card-description">PaySG supports debit and credit cards, PayNow and digital wallets. New
+options are being integrated!</div>
+</div>
+</div>
+</div>
+<p></p>
+<div class="isomer-card-grid">
+<div class="isomer-card">
+<div class="isomer-card-body">
+<div class="isomer-card-title">Customisable payment pages</div>
+<div class="isomer-card-description">Include your agency's logo to personalise the payment page.</div>
+</div>
+</div>
+<div class="isomer-card">
+<div class="isomer-card-body">
+<div class="isomer-card-title">Powerful APIs</div>
+<div class="isomer-card-description">PaySG's APIs can be easily integrated with your software systems to enhance
+their capabilities.</div>
+</div>
+</div>
+<div class="isomer-card">
+<div class="isomer-card-body">
+<div class="isomer-card-title">Round-the-clock support</div>
+<div class="isomer-card-description">Extensive documentation and our experts are available to guide you through
+the process.</div>
+</div>
+</div>
+</div>
+<p></p>
+<p></p>
+<p></p>
 <h3>Providing a trusted, better way for the government to accept payments through PaySG</h3>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Products and Services/paysg_product_view.jpg">
