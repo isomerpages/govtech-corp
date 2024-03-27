@@ -8,7 +8,7 @@ image: /images/About Us/Digital_Workplace.png
 ---
 <h3>Creating a seamless and collaborative working environment for public officers with Digital Workplace (DWP)</h3>
 <div class="isomer-image-wrapper">
-<img style="width: 10%;" height="auto" width="100%" alt="Digital Workplace logo" src="/images/Products and Services/logo_dwp.png">
+<img style="width: 50%;" height="auto" width="100%" alt="Digital Workplace" src="/images/About Us/Digital_Workplace.png">
 </div>
 <p>The Digital Workplace comprises a suite of productivity tools and digital
 enablers, designed to allow public officers of any division and tech literacy
