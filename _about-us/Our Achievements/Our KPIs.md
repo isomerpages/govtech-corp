@@ -15,7 +15,7 @@ Blueprint (DGB) 2.0 to identify the KPIs for our organisation.</p>
 <p><strong>GovTech goals for the Digital Government Blueprint 2.0 (infographic to be created)</strong>
 </p>
 <h3>Our track record for meeting KPIs</h3>
-<h4><u>High citizen satisfaction with government digital services</u></h4>
+<h4>High citizen satisfaction with government digital services</h4>
 <p>Singaporeans responded positively when asked about their satisfaction
 with key government digital services.</p>
 <p>The Annual Survey on Satisfaction with Government Digital Services (Citizens)
@@ -27,7 +27,7 @@ interviews.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="Digital Government Perception Survey 2022 Citizens" src="/images/About Us/Digital_Government_Perception_2022_Citizens__1_.jpg">
 </div>
-<h4><u>Highly satisfied businesses from across industries</u></h4>
+<h4>Highly satisfied businesses from across industries</h4>
 <p>The business community indicated high levels of satisfaction with key
 government digital services and initiatives when surveyed for the Annual
 Survey on Satisfaction with Government Digital Services (Business) in 2022.&nbsp;</p>
