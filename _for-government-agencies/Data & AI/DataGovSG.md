@@ -23,18 +23,41 @@ for Estate Agencies.&nbsp;</p>
 be it for commercial or personal purposes. Currently, it sees an average
 of 350,000 monthly visitors, with a total of over 30,000 data downloads
 and 13 million API calls made.</p>
-<h3>Why use <a href="http://Data.gov" rel="noopener noreferrer nofollow" target="_blank">Data.gov</a>?</h3>
-<p>Intuitively understand public data through interactive dashboards and
-data visualisations</p>
-<p>Ensure the datasets you are using are verified, validated and accurate</p>
-<p>Get quick access to open data APIs from multiple agencies</p>
+<h3>Why use <a href="http://Data.gov" rel="noopener noreferrer nofollow" target="_blank">Data.gov.sg</a>?</h3>
+<div class="isomer-card-grid">
+<div class="isomer-card">
+<div class="isomer-card-body">
+<div class="isomer-card-title">Facilitate analysis and research</div>
+<div class="isomer-card-description">The data are presented through interactive dashboards and visualisations
+for easy understanding.</div>
+</div>
+</div>
+<div class="isomer-card">
+<div class="isomer-card-body">
+<div class="isomer-card-title">Empower data accessibility</div>
+<div class="isomer-card-description">The data can be used by anyone, with or without a background in data science.</div>
+</div>
+</div>
+<div class="isomer-card">
+<div class="isomer-card-body">
+<div class="isomer-card-title">Explore new possibilities</div>
+<div class="isomer-card-description">You can leverage another agency's data or their data APIs to build digital
+services.</div>
+</div>
+</div>
+</div>
 <h3>How to use <a href="http://Data.gov" rel="noopener noreferrer nofollow" target="_blank">Data.gov</a>?</h3>
-<p>- Simply visit the website to start exploring and accessing government
-data.</p>
-<h3>What's the latest on <a href="http://Data.gov" rel="noopener noreferrer nofollow" target="_blank">Data.gov</a>?</h3>
-<p></p>
+<p>Simply visit the<a href="https://beta.data.gov.sg/" rel="noopener noreferrer nofollow" target="_blank"><u> website </u></a>to start perusing
+data, or sign in as an admin on the <a href="https://beta.data.gov.sg/admin/signin" rel="noopener noreferrer nofollow" target="_blank"><u>login page</u></a> to manage
+or publish data.</p>
 <h3>Interested to find out more about <a href="http://Data.gov" rel="noopener noreferrer nofollow" target="_blank">Data.gov</a>?</h3>
-<p>Find out more about the product here.</p>
-<p>Have questions? Contact us at <a href="mailto:digitalgov@tech.gov.sg" rel="noopener noreferrer nofollow" target="_blank">digitalgov@tech.gov.sg</a> (GovTech
-to confirm if we should use this, or if there's a specific team/PIC to
-contact)</p>
+<p></p>
+<div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="https://www.developer.tech.gov.sg/products/categories/data-and-apis/data-gov-sg/overview.html" class="isomer-card"><div class="isomer-card-body"><div class="isomer-card-title">Learn more about the product on the Singapore Government Developer Portal.</div><div class="isomer-card-link">Singapore Government Developer Portal</div></div></a>
+<a rel="noopener noreferrer nofollow" href="https://form.gov.sg/6449e5c3664c1b001249acf1" class="isomer-card">
+<div class="isomer-card-body">
+<div class="isomer-card-title">Have questions? Contact the Data.gov.sg team via the contact form</div>
+<div class="isomer-card-link">Contact Data.gov.sg</div>
+</div>
+</a>
+</div>
+<p></p>
