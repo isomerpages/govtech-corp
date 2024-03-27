@@ -8,10 +8,11 @@ description: Designed for public officers' use, the Singapore Government Tech
 third_nav_title: Software Development
 image: /images/Products and Services/For Government Agencies/SGTS_meta_image.jpg
 ---
+<h3>Build government digital services quickly and securely with Singapore Government Tech Stack (SGTS)</h3>
+<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="Singapore Government Tech Stack (SGTS) — a smarter and faster platform for building applications" src="/images/Products and Services/For Government Agencies/SGTS_meta_image.jpg">
 </div>
-<h3>Build government digital services quickly and securely with Singapore Government Tech Stack (SGTS)</h3>
 <p>Every digital service that the government launches is aimed at enriching
 a certain aspect of Singaporeans' lives. To help our sister agencies get
 their ideas quickly to launch instead of spending time in development limbo,
