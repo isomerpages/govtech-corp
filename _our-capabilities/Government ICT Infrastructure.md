@@ -12,6 +12,7 @@ image: /images/About Us/Our
 <img style="width: 100%" height="auto" width="100%" alt="GovTech capability centre for government ICT infrastructure" src="/images/About Us/Our capabilities/Government_ICT_Infrastructure_GovTech_banner_image.jpg">
 </div>
 <blockquote>
+<p></p>
 <p>This capability centre develops centralised info-communications technology
 (ICT) infrastructure for the whole-of-government (WOG).</p>
 </blockquote>
