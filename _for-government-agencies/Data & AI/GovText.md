@@ -8,6 +8,9 @@ description: A Natural Language Processing-based text analytics platform,
 third_nav_title: Data & AI
 image: /images/Products and Services/For Government Agencies/GovText_meta_image.png
 ---
+<div class="isomer-image-wrapper">
+<img style="width: 70%;" height="auto" width="100%" alt="GovText logo" src="/images/Products and Services/For Government Agencies/GovText_meta_image.png">
+</div>
 <h3>Enabling efficient analyses of textual data with GovText</h3>
 <p>For public officers, receiving and having to process large amounts of
 text data is a norm. Be it reports or survey feedback, perusing them can
@@ -19,16 +22,18 @@ and presents results in a visual manner that facilitates quick and easy
 understanding.&nbsp;</p>
 <p>GovText is offered as a web portal tool and as a model-hosting platform,
 with the latter providing text analytics services via APIs for government
-agencies. It has been tapped for the development of the OneService Chatbot,
-where its capabilities enabled the prediction of the case category of submitted
+agencies.</p>
+<p>It has been tapped for the development of the OneService Chatbot, where
+its capabilities enabled the prediction of the case category of submitted
 feedback and the relevant agency that should respond.</p>
 <h3>Why use GovText?</h3>
-<p>GovText currently has two tools: Topic Modelling and Summarisation. With
-the former, you can process data from surveys or feedback forms and extract
-key insights and findings. The Summarisation tool takes a document and
-generates an abridged version, with the now concise text still retaining
+<p>GovText currently has two tools: <strong>Topic Modelling</strong> and <strong>Summarisation</strong>.</p>
+<p>With the former, you can process data from surveys or feedback forms and
+extract key insights and findings. The Summarisation tool takes a document
+and generates an abridged version, with the now concise text still retaining
 essential information.</p>
 <h4>Topic Modelling</h4>
+<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Products and Services/_compressed__wordcloud_screenshot.jpg">
 </div>
@@ -56,6 +61,7 @@ given to them.</div>
 </div>
 </div>
 <h4>Summarisation</h4>
+<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Products and Services/summarisation_screenshot.jpg">
 </div>
@@ -83,18 +89,18 @@ a summary.</div>
 </div>
 </div>
 <h3>How to use GovText?</h3>
-<p>Simply visit the<a href="https://www.govtext.gov.sg/" rel="noopener noreferrer nofollow" target="_blank"> <u>GovText website</u></a> and log in
+<p>Simply visit the <a href="https://www.govtext.gov.sg/" rel="noopener noreferrer nofollow" target="_blank"><u>GovText website</u></a> and log in
 with your Whole-of-Government credentials to get started. Need help with
-navigating the platform? Check the<a href="https://www.govtext.gov.sg/docs/intro" rel="noopener noreferrer nofollow" target="_blank"> <u>user guide</u></a><u> </u>for
-guidance and demo videos.</p>
+navigating the platform? Check the <a href="https://www.govtext.gov.sg/docs/intro" rel="noopener noreferrer nofollow" target="_blank"><u>user guide</u></a> for guidance
+and demo videos.</p>
 <h3>What's the latest on GovText?</h3>
 <p>Users can look forward to new transcript editing and speaker diarisation
 functions.</p>
 <h3>Interested to find out more about GovText?</h3>
-<div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="https://www.govtext.gov.sg/" class="isomer-card"><div class="isomer-card-body"><div class="isomer-card-title">Discover its features on the official website.</div><div class="isomer-card-link">GovText</div></div></a>
+<div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="https://www.govtext.gov.sg/" class="isomer-card"><div class="isomer-card-body"><div class="isomer-card-title">Discover its features on the official website</div><div class="isomer-card-link">Go to GovText website</div></div></a>
 <a rel="noopener noreferrer nofollow" href="mailto:govtext@tech.gov.sg" class="isomer-card">
 <div class="isomer-card-body">
-<div class="isomer-card-title">Have questions? Email us.</div>
+<div class="isomer-card-title">Have questions? Email us</div>
 <div class="isomer-card-link">Contact GovText</div>
 </div>
 </a>
