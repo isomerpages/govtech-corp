@@ -11,51 +11,48 @@ image: /images/Products and Services/For Government Agencies/Singpass_API_logo.p
 <div class="isomer-image-wrapper">
 <img style="width: 80%;" height="auto" width="100%" alt="Singpass API logo" src="/images/Products and Services/For businesses/Singpass_API_logo.png">
 </div>
-<h3>Singpass APIs: Creating a trusted digital ecosystem that boosts business productivity</h3>
-<p>With a base that boasts over 4.2 million users, Singpass currently facilitates
-more than 41,000,000 transactions every month. Many Singaporeans use it
-for authentication purposes when transacting with the 2,700-plus digital
-services of government agencies and participating businesses on the Singpass
-ecosystem, as it is both convenient and highly secure.</p>
-<p>Running a business? Integrating with the suite of Singpass APIs — Myinfo,
-Verify, Sign, Identiface, and more — can bring about numerous benefits
-such as time and cost savings across processes.<strong> </strong>Furthermore,
-a digital platform that is a part of the Singpass ecosystem inspires trust.</p>
-<h3>Why use Singpass APIs?</h3>
+<h3>Enabling secure, convenient and seamless government transactions with Singpass APIs</h3>
+<p>Today, Singpass is one of the most widely used government apps, with over
+4,200,000 million users performing some 41 million monthly transactions.</p>
+<p>You can leverage this trusted ecosystem and allow your users to transact
+digitally with your agency's services in a secure manner. There are several
+Singpass APIs, from Myinfo to Identiface and Notify, that bring about great
+convenience for your users.</p>
+<h3>Why integrate with Singpass APIs?</h3>
 <div class="isomer-card-grid">
 <div class="isomer-card">
 <div class="isomer-card-image">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Businesses can leverage Singpass APIs for easy online authentication." src="https://placehold.co/600x400">
+<img style="width: 100%" height="auto" width="100%" alt="Myinfo allows your users to fill in their particulars with a click of a button." src="https://placehold.co/600x400">
 </div>
 </div>
 <div class="isomer-card-body">
-<div class="isomer-card-title">Seamless online authentication</div>
-<div class="isomer-card-description">Enjoy the assurance that the transactions are made by legitimate users.</div>
+<div class="isomer-card-title">One-click registration with Myinfo</div>
+<div class="isomer-card-description">With just a click of a button, your users can fill up their particulars.</div>
 </div>
 </div>
 <div class="isomer-card">
 <div class="isomer-card-image">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Singpass APIs leverage biometrics to enable consent-based biometrics ID." src="https://placehold.co/600x400">
+<img style="width: 100%" height="auto" width="100%" alt="Singpass APIs allow you to perform in-person identity verification." src="https://placehold.co/600x400">
 </div>
 </div>
 <div class="isomer-card-body">
-<div class="isomer-card-title">Tap on consent-based biometrics ID</div>
-<div class="isomer-card-description">Require step-up authentication or face verification? Identiface is ready
-for your use.</div>
+<div class="isomer-card-title">Verify your users' identities</div>
+<div class="isomer-card-description">At in-person events, your users can show proof of identity by sharing
+their information.</div>
 </div>
 </div>
 <div class="isomer-card">
 <div class="isomer-card-image">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Singpass enables one-click registration for the ultimate convenience" src="https://placehold.co/600x400">
+<img style="width: 100%" height="auto" width="100%" alt="Singpass APIs allow your organisation to easily authenticate users of your online services." src="https://placehold.co/600x400">
 </div>
 </div>
 <div class="isomer-card-body">
-<div class="isomer-card-title">One-click registration</div>
-<div class="isomer-card-description">Thanks to Myinfo, your users can fill up their particulars with a click
-of a button.</div>
+<div class="isomer-card-title">Easy online authentication</div>
+<div class="isomer-card-description">Onboard existing Singpass users and enjoy the assurance that they are
+legitimate users.</div>
 </div>
 </div>
 </div>
