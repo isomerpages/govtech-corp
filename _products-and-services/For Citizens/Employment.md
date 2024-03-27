@@ -8,10 +8,11 @@ third_nav_title: For Citizens
 variant: tiptap
 image: /images/Products and Services/mycareersfuture_logo.png
 ---
+<h3>Helping Singaporeans land their dream jobs with MyCareersFuture</h3>
+<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 80%;" height="auto" width="100%" alt="MyCareersFuture logo" src="/images/Products and Services/For citizens/MyCareersFuture_logo.png">
 </div>
-<h3>Helping Singaporeans land their dream jobs with MyCareersFuture</h3>
 <p>Every working adult in Singapore is familiar with the arduous journey
 of finding a job. Aiming to make job searching easier and more fruitful
 is MyCareersFuture.</p>
