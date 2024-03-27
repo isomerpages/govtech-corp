@@ -5,6 +5,11 @@ variant: tiptap
 description: ""
 third_nav_title: Students and Graduates
 ---
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Desktop.png">
+</div>
+<p></p>
 <h3>Banner - 3 col (no photo)</h3>
 <div class="isomer-card-grid">
 <div class="isomer-card">
