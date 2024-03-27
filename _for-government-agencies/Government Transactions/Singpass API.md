@@ -8,10 +8,11 @@ description: Government agencies can leverage Singpass APIs to allow users to
 third_nav_title: Government Transactions
 image: /images/Products and Services/For Government Agencies/Singpass_API_logo.png
 ---
+<h3>Enabling secure, convenient and seamless government transactions with Singpass APIs</h3>
+<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 80%;" height="auto" width="100%" alt="Singpass API logo" src="/images/Products and Services/For businesses/Singpass_API_logo.png">
 </div>
-<h3>Enabling secure, convenient and seamless government transactions with Singpass APIs</h3>
 <p>Today, Singpass is one of the most widely used government apps, with over
 4,200,000 million users performing some 41 million monthly transactions.</p>
 <p>You can leverage this trusted ecosystem and allow your users to transact
