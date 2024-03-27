@@ -6,10 +6,11 @@ third_nav_title: For Citizens
 variant: tiptap
 image: /images/Products and Services/healthy365_logo.png
 ---
+<h3>Gamifying the way to active lifestyles with Healthy 365</h3>
+<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 30%;" height="auto" width="100%" alt="Healthy365 app logo" src="/images/Products and Services/For citizens/Healthy365_logo.png">
 </div>
-<h3>Gamifying the way to active lifestyles with Healthy 365</h3>
 <p>With a conviction to build Tech for Public Good, we develop products that
 not just impact national policies but also enrich the everyday lives of
 Singaporean citizens. One of our proud inventions is the Healthy 365, developed
