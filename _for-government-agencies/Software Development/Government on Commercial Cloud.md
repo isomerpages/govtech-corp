@@ -19,7 +19,6 @@ offer government agencies a consistent way of adopting commercial solutions
 offered by cloud service providers. To date, over 600 government digital
 services are on the GCC. This includes <a href="https://www.mycareersfuture.gov.sg/" rel="noopener noreferrer nofollow" target="_blank">MyCareersFuture</a>, <a href="/products-and-services/for-businesses/corporate-transactions/gobusiness/" rel="noopener noreferrer nofollow" target="_blank">GoBusiness</a>,
 <a href="/products-and-services/for-government-agencies/data-and-ai/wogaa/" rel="noopener noreferrer nofollow" target="_blank">WOGAA</a>and more.</p>
-<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="The Government on Commercial Cloud Framework." src="/images/Products and Services/For Government Agencies/gcc_fig1_resized.jpg">
 </div>
