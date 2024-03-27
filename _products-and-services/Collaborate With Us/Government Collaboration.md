@@ -49,5 +49,5 @@ Leverage on 7,000-strong community, ready to give you insight and inspire
 impactful improvements in your products and services.</p>
 <h3>Ready to collaborate?</h3>
 <p>Get in touch with us today to explore ways we can work together. Reach
-out to us directly via email at <a href="https://www.straitstimes.com/singapore/meet-spot-the-safe-distancing-robot-on-trial-in-bishan-amk-park" rel="noopener noreferrer nofollow" target="_blank">info@tech.gov.sg</a>.</p>
+out to us directly via email at <a href="mailto:info@tech.gov.sg" rel="noopener noreferrer nofollow" target="_blank">info@tech.gov.sg</a>.</p>
 <p></p>
