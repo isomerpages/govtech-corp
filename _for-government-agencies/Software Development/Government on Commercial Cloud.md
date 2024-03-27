@@ -7,10 +7,11 @@ description: The Government on Commercial Cloud provides government agencies
 third_nav_title: Software Development
 image: /images/Products and Services/For Government Agencies/GCC_meta_image.png
 ---
+<h3>Government on Commercial Cloud (GCC): Enhancing the way government agencies onboard services into the cloud</h3>
+<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 50%;" height="auto" width="100%" alt="GCC logo" src="/images/Products and Services/For Government Agencies/GCC_meta_image.png">
 </div>
-<h3>Government on Commercial Cloud (GCC): Enhancing the way government agencies onboard services into the cloud</h3>
 <p>Offering multiple benefits such as cost savings, collaboration and remote
 access, scalability and enhanced data security, cloud solutions have become
 the preferred option for the Singapore government.</p>
