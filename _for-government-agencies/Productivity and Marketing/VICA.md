@@ -44,22 +44,67 @@ on the chatbot's landing page.</p>
 </a>
 </div>
 <h3>Why use VICA?</h3>
-<p>VICA is able to leverage the latest NLP technology like Google's Dialogflow
-to achieve better performance and accuracy</p>
-<p>Quicker and more direct answers to queries as citizens can get help without
-the need to know which government agencies to go to</p>
-<p>Lower effort for government agencies and cost to manage, maintain and
-update</p>
-<p>Automated processed help agencies onboard and 'train' their chatbots more
-easily</p>
-<h3>How to use VICA?</h3>
-<p>For information any support-related queries, simply visit the <a href="https://support.vica.gov.sg/hc/en-us" rel="noopener noreferrer nofollow" target="_blank">VICA support website</a> to
-make a request or search for information</p>
-<p>- (Any instructions for implementation of VICA? How do they get started?)</p>
+<p></p>
+<div class="isomer-card-grid">
+<div class="isomer-card">
+<div class="isomer-card-body">
+<div class="isomer-card-title">Built on the latest NLP technology</div>
+<div class="isomer-card-description">VICA harnesses solutions such as Google's Dialogflow to achieve better
+performance and accuracy.</div>
+</div>
+</div>
+<div class="isomer-card">
+<div class="isomer-card-body">
+<div class="isomer-card-title">Efficient and 24/7 service</div>
+<div class="isomer-card-description">Users can get quicker and more direct answers to their queries, anytime
+of the day.</div>
+</div>
+</div>
+<div class="isomer-card">
+<div class="isomer-card-body">
+<div class="isomer-card-title">Low maintenance and cost</div>
+<div class="isomer-card-description">Onboarding and training of the chatbots are done through automated processes.</div>
+</div>
+</div>
+</div>
 <h3>What's the latest on VICA?</h3>
-<p>- Check if there are new updates or further builds on the product. -
-<a href="https://support.vica.gov.sg/hc/en-us/articles/26438898821017-What-s-New-in-VICA-1-7-3" rel="noopener noreferrer nofollow" target="_blank">https://support.vica.gov.sg/hc/en-us/articles/26438898821017-What-s-New-in-VICA-1-7-3</a>
-</p>
+<p>GovTech has introduced a number of new features to expand VICA's usefulness:</p>
+<div data-type="detailGroup" class="isomer-accordion isomer-accordion-white">
+<details class="isomer-details">
+<summary>Gen AI Playground</summary>
+<div data-type="detailsContent" class="isomer-details-content">
+<p>Gen AI Playground: Use the data source management feature in the Playground
+to upload documents that will serve as source materials. VICA will then
+generate answers by mining the data in your documents. You can also select
+trusted websites from which you want VICA to draw data from. This will
+increase VICA's ability to answer public queries.</p>
+</div>
+</details>
+<details class="isomer-details">
+<summary>Auto-Complete</summary>
+<div data-type="detailsContent" class="isomer-details-content">
+<p>When users type three characters, VICA will provide a list of suggestions
+to enable faster searching.</p>
+</div>
+</details>
+<details class="isomer-details">
+<summary>Enabling/Disabling Knowledge Base in the Gen AI Playground</summary>
+<div data-type="detailsContent" class="isomer-details-content">
+<p>You can now switch off your Knowledge Base in the gen AI Playground. When
+switched off, VICA's responses will be fully generative. When switched
+on, the responses are hybrid in nature, prioritising Q&amp;A pairs and
+Custom Dialogue.</p>
+</div>
+</details>
+<details class="isomer-details">
+<summary>Translation of responses</summary>
+<div data-type="detailsContent" class="isomer-details-content">
+<p>Users can now select either the Chinese, Malay or Tamil language from
+the drop-down box.Translation services are powered by Google, and are currently
+available for text and HTML response type.</p>
+</div>
+</details>
+</div>
 <h3>Interested to find out more about VICA?</h3>
 <p>Visit the <a href="https://www.tech.gov.sg/products-and-services/vica/" rel="noopener noreferrer nofollow" target="_blank">VICA website</a> to
 learn more about the product.</p>
