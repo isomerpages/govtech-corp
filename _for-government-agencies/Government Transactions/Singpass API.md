@@ -23,7 +23,7 @@ convenience for your users.</p>
 <div class="isomer-card">
 <div class="isomer-card-image">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Myinfo allows your users to fill in their particulars with a click of a button." src="https://placehold.co/600x400">
+<img style="width: 100%" height="auto" width="100%" alt="Myinfo allows your users to fill in their particulars with a click of a button." src="/images/Products and Services/For Government Agencies/Singpass_API_card_1.jpg">
 </div>
 </div>
 <div class="isomer-card-body">
@@ -34,7 +34,7 @@ convenience for your users.</p>
 <div class="isomer-card">
 <div class="isomer-card-image">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Singpass APIs allow you to perform in-person identity verification." src="https://placehold.co/600x400">
+<img style="width: 100%" height="auto" width="100%" alt="Singpass APIs allow you to perform in-person identity verification." src="/images/Products and Services/For Government Agencies/Singpass_API_card_2.jpg">
 </div>
 </div>
 <div class="isomer-card-body">
@@ -46,7 +46,7 @@ their information.</div>
 <div class="isomer-card">
 <div class="isomer-card-image">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Singpass APIs allow your organisation to easily authenticate users of your online services." src="https://placehold.co/600x400">
+<img style="width: 100%" height="auto" width="100%" alt="Singpass APIs allow your organisation to easily authenticate users of your online services." src="/images/Products and Services/For Government Agencies/Singpass_API_card_3.jpg">
 </div>
 </div>
 <div class="isomer-card-body">
@@ -61,7 +61,7 @@ legitimate users.</div>
 <div class="isomer-card">
 <div class="isomer-card-image">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Singpass APIs allow your government agency to conduct face verification without having to build the infrastructure." src="https://placehold.co/600x400">
+<img style="width: 100%" height="auto" width="100%" alt="Singpass APIs allow your government agency to conduct face verification without having to build the infrastructure." src="/images/Products and Services/For Government Agencies/Singpass_API_card_4.jpg">
 </div>
 </div>
 <div class="isomer-card-body">
@@ -73,7 +73,7 @@ own infrastructure.</div>
 <div class="isomer-card">
 <div class="isomer-card-image">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="With Singpass APIs, you can enjoy a secure and contactless way of verifying a citizen's credentials." src="https://placehold.co/600x400">
+<img style="width: 100%" height="auto" width="100%" alt="With Singpass APIs, you can enjoy a secure and contactless way of verifying a citizen's credentials." src="/images/Products and Services/For Government Agencies/Singpass_API_card_5.jpg">
 </div>
 </div>
 <div class="isomer-card-body">
@@ -85,7 +85,7 @@ their Singpass credentials.</div>
 <div class="isomer-card">
 <div class="isomer-card-image">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Singpass APIs allow you to send timely notifications to your users." src="https://placehold.co/600x400">
+<img style="width: 100%" height="auto" width="100%" alt="Singpass APIs allow you to send timely notifications to your users." src="/images/Products and Services/For Government Agencies/Singpass_API_card_6.jpg">
 </div>
 </div>
 <div class="isomer-card-body">
