@@ -93,7 +93,6 @@ across 85 government agencies. Through the sessions, public officers learn
 about on-trend topics like foundations of AI, applications of AI in Government,
 ethics of AI, generative AI, and the future of AI. Click here to learn
 more.</p>
-<p></p>
 <h3>Have an enquiry?</h3>
 <p>Reach out to us directly via email at <a href="https://www.tech.gov.sg/files/media/corporate-publications/IB2023-Towards-the-Next-Bound-of-Digital-Government-GovTech-CE.pdf" rel="noopener noreferrer nofollow" target="_blank">info@tech.gov.sg</a> for
 any enquiries on collaborations.</p>
