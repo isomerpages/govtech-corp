@@ -9,10 +9,11 @@ third_nav_title: Productivity and Marketing
 image: /images/Products and Services/For Government
   Agencies/LaunchPad_logo_screenshot.jpg
 ---
+<h3>Pitch ideas, experiment, and see AI in action with LaunchPad</h3>
+<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 70%;" height="auto" width="100%" alt="LaunchPad logo" src="/images/Products and Services/For Government Agencies/LaunchPad_logo_screenshot.jpg">
 </div>
-<h3>Pitch ideas, experiment, and see AI in action with LaunchPad</h3>
 <p>Artificial intelligence (AI) is set to unlock possibilities like never
 before. To help our sister agencies kickstart their own AI transformation
 journeys, we unveiled LaunchPad, an innovation and experimentation platform.</p>
