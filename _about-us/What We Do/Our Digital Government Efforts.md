@@ -19,7 +19,7 @@ areas below.</p>
 <a rel="noopener noreferrer nofollow" href="/our-digital-government-efforts/tech-for-public-good/" class="isomer-card">
 <div class="isomer-card-image">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="GovTech Tech for Public Good" src="/images/Digital Gov Efforts/Tech_for_Public_Good_600x300.png">
+<img style="width: 100%" height="auto" width="100%" alt="GovTech Tech for Public Good" src="/images/Digital Gov Efforts/Tech_for_Public_Good_600x300.jpg">
 </div>
 </div>
 <div class="isomer-card-body">
