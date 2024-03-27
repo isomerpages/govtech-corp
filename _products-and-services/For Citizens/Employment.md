@@ -62,7 +62,7 @@ vulnerable communities can navigate the platform with ease.</p>
 <iframe style="max-width: 100%;" height="400" width="100%" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/apGASPSxdBE?si=ZT9sUizM8XCdmWpO"></iframe>
 </div>
 <h3>How to use MyCareersFuture?</h3>
-<p>Simply visit the <a href="https://www.mycareersfuture.gov.sg/" rel="noopener noreferrer nofollow" target="_blank"><u>MyCareersFuture website </u></a>and
+<p>Simply visit the <a href="https://www.mycareersfuture.gov.sg/" rel="noopener noreferrer nofollow" target="_blank"><u>MyCareersFuture website</u></a> and
 login via Singpass to get started.</p>
 <h3>Interested to find out more about MyCareersFuture?</h3>
 <p></p>
