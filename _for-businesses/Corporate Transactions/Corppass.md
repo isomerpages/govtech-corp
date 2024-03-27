@@ -8,10 +8,11 @@ description: Corppass is an authorisation system that allows entities to manage
 third_nav_title: Corporate Transactions
 image: /images/Products and Services/For businesses/Corppass_meta_image.jpg
 ---
+<h3>Corppass: Facilitating easy access for corporate entities to make online transactions with government services</h3>
+<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="Corppass logo" src="/images/Products and Services/For businesses/Corppass_meta_image.jpg">
 </div>
-<h3>Corppass: Facilitating easy access for corporate entities to make online transactions with government services</h3>
 <p>From applying for grants to filing taxes, there are many administrative
 transactions that corporate entities need to perform. As part of our vision
 to become a Smart Nation, we aim to streamline these government-business
