@@ -8,10 +8,11 @@ description: Run a business? Integrate your digital services with Singpass'
 third_nav_title: Corporate Transactions
 image: /images/Products and Services/For businesses/Singpass_API_logo.png
 ---
+<h3>Singpass APIs: Creating a trusted digital ecosystem that boosts business productivity</h3>
+<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 80%;" height="auto" width="100%" alt="Singpass API logo" src="/images/Products and Services/For businesses/Singpass_API_logo.png">
 </div>
-<h3>Singpass APIs: Creating a trusted digital ecosystem that boosts business productivity</h3>
 <p>With a base that boasts over 4.2 million users, Singpass currently facilitates
 more than 41,000,000 transactions every month. Many Singaporeans use it
 for authentication purposes when transacting with the 2,700-plus digital
