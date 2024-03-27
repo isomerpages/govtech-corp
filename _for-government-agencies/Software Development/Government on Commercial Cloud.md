@@ -17,9 +17,8 @@ the preferred option for the Singapore government.</p>
 <p>GovTech introduced the Government on Commercial Cloud (GCC) platform to
 offer government agencies a consistent way of adopting commercial solutions
 offered by cloud service providers. To date, over 600 government digital
-services are on the GCC. This includes <a href="http://tech.gov.sg/products-and-services/for-citizens/employment/" rel="noopener noreferrer nofollow" target="_blank">MyCareersFuture</a>,
-<a href="http://tech.gov.sg/products-and-services/for-businesses/corporate-transactions/gobusiness" rel="noopener noreferrer nofollow" target="_blank">GoBusiness</a>, <a href="http://tech.gov.sg/products-and-services/for-government-agencies/data-and-ai/wogaa" rel="noopener noreferrer nofollow" target="_blank">WOGAA </a>and
-more.</p>
+services are on the GCC. This includes <a href="https://www.mycareersfuture.gov.sg/" rel="noopener noreferrer nofollow" target="_blank">MyCareersFuture</a>, <a href="/products-and-services/for-businesses/corporate-transactions/gobusiness/" rel="noopener noreferrer nofollow" target="_blank">GoBusiness</a>,
+<a href="/products-and-services/for-government-agencies/data-and-ai/wogaa/" rel="noopener noreferrer nofollow" target="_blank">WOGAA</a>and more.</p>
 <p></p>
 <p></p>
 <p></p>
