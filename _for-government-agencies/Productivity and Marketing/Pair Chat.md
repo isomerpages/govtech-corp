@@ -8,10 +8,11 @@ description: A government AI chatbot, Pair Chat helps public officers in
 third_nav_title: Productivity and Marketing
 image: /images/Products and Services/For Government Agencies/Pair_chat_meta_image.png
 ---
+<h3>Pair Chat: Transforming ways of working for public officers through AI</h3>
+<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 40%;" height="auto" width="100%" alt="Pair Chat logo" src="/images/Products and Services/For Government Agencies/Pair_chat_meta_image.png">
 </div>
-<h3>Pair Chat: Transforming ways of working for public officers through AI</h3>
 <p>For many working adults in Singapore, ChatGPT has become a great productivity
 tool that speeds up daily tasks. Wanting to let public officers enjoy the
 benefits of using an AI chatbot, we set out to create Pair Chat.&nbsp;</p>
