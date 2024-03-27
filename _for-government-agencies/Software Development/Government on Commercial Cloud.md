@@ -2,11 +2,26 @@
 title: Government on Commercial Cloud
 permalink: /products-and-services/for-government-agencies/software-development/government-on-commercial-cloud/
 variant: tiptap
-description: "The Government on Commercial Cloud provides government agencies
-  with a consistent way to adopt commercial cloud solutions. Find out how. "
+description: The Government on Commercial Cloud provides government agencies
+  with a consistent way to adopt commercial cloud solutions. Find out how.
 third_nav_title: Software Development
 image: /images/Products and Services/For Government Agencies/GCC_meta_image.png
 ---
+<h3>Government on Commercial Cloud: Enhancing the way government agencies onboard services into the cloud</h3>
+<p>Offering multiple benefits such as cost savings, collaboration and remote
+access, scalability and enhanced data security, cloud solutions have become
+the preferred option for the Singapore government.</p>
+<p>GovTech introduced the Government on Commercial Cloud (GCC) platform to
+offer government agencies a consistent way of adopting commercial solutions
+offered by cloud service providers. To date, over 600 government digital
+services are on the GCC. This includes <a href="http://tech.gov.sg/products-and-services/for-citizens/employment/" rel="noopener noreferrer nofollow" target="_blank">MyCareersFuture</a>,
+<a href="http://tech.gov.sg/products-and-services/for-businesses/corporate-transactions/gobusiness" rel="noopener noreferrer nofollow" target="_blank">GoBusiness</a>, <a href="http://tech.gov.sg/products-and-services/for-government-agencies/data-and-ai/wogaa" rel="noopener noreferrer nofollow" target="_blank">WOGAA </a>and
+more.</p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
 <h3>Enhancing the way government agencies build digital services with Government on Commercial Cloud (GCC)</h3>
 <p>This is a "wrapper" platform that provides government agencies with a
 consistent means to adopt commercial cloud solutions offered by cloud service
