@@ -8,10 +8,11 @@ description: RedeemSG is a trusted platform that makes the disbursement of
 third_nav_title: Government Transactions
 image: /images/Products and Services/For Government Agencies/RedeemSG_logo.png
 ---
+<h3>RedeemSG: Simplifying the disbursement of government vouchers</h3>
+<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 70%;" height="auto" width="100%" alt="RedeemSG logo" src="/images/Products and Services/For Government Agencies/RedeemSG_logo.png">
 </div>
-<h3>RedeemSG: Simplifying the disbursement of government vouchers</h3>
 <p>From CDC Vouchers to Climate Vouchers, the Singapore government from time
 to time will introduce schemes to help citizens with their costs of living
 or to incentivise them to embrace positive lifestyles.</p>
