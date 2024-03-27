@@ -27,5 +27,4 @@ knowledge about the environment.</p>
 </div>
 </a>
 </div>
-<h3></h3>
 <p></p>
