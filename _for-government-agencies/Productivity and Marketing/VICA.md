@@ -7,19 +7,20 @@ description: VICA, GovTech's next-generation virtual assistant platform, is
 third_nav_title: Productivity and Marketing
 image: /images/Products and Services/For Government Agencies/vica_logo.png
 ---
+<h3>Activate public-facing chatbots and serve citizens better with VICA</h3>
+<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 70%;" height="auto" width="100%" alt="VICA chatbot logo" src="/images/Products and Services/For Government Agencies/vica_logo.png">
 </div>
-<h3>Activate public-facing chatbots and serve citizens better with VICA</h3>
 <p>VICA, or Virtual Intelligent Chat Assistant, is GovTech's next-generation
 virtual assistant platform. This highly intuitive assistant is built on
 natural language processing (NLP) engines, machine learning and AI.</p>
 <p>The trio of technologies enables it to learn and understand conversations,
 and continuously adapt to improve its interactions with users.</p>
 <p>VICA now powers public-facing chatbots such as AskGayle on GovTech's website,
-Ask Wally on Public Utilities Board's website and more. Government agencies
-can fully customise these personas and include key information resources
-on the chatbot's landing page.</p>
+Ask Wally on the Public Utilities Board's website and more. Government
+agencies can fully customise these personas and include key information
+resources on the chatbot's landing page.</p>
 <p></p>
 <div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="https://www.pub.gov.sg/" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Ask Wally avatar" src="/images/Products and Services/For Government Agencies/Ask_Wally.png"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Ask Wally</div><div class="isomer-card-link">PUB</div></div></a>
 <a rel="noopener noreferrer nofollow" href="https://www.nea.gov.sg/" class="isomer-card">
