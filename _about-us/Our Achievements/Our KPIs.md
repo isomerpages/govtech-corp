@@ -25,7 +25,7 @@ period of 2022. The survey also helped to identify areas for improvement.&nbsp;<
 total demographic population. Data collection was done via face-to-face
 interviews.</p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Government satisfaction survey measuring citizen satisfaction with government digital services." src="/images/About Us/Our Achievements/_Compressed__Digital_Government_Perception_2022_Citizens.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="Digital Government Perception Survey 2022 Citizens" src="/images/About Us/Digital_Government_Perception_2022_Citizens__1_.jpg">
 </div>
 <h4><u>Highly satisfied businesses from across industries</u></h4>
 <p>The business community indicated high levels of satisfaction with key
@@ -40,6 +40,6 @@ Transportation, Storage, Information &amp; Communications, etc.), and company
 types and sizes in Singapore were surveyed. Data collection was done through
 telephone interviews.</p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Government satisfaction survey measuring business satisfaction with government digital services." src="/images/About Us/Our Achievements/_Compressed__Digital_Government_Perception_2022_Business.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="Digital Government Perception Survey 2022 Business" src="/images/About Us/Digital_Government_Perception_2022_Business__1_.jpg">
 </div>
 <p></p>
