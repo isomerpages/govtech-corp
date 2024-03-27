@@ -29,11 +29,9 @@ on data, as part of the Digital Government Blueprint (DGB) 2.0.&nbsp;</p>
 <p>Since the launch of the first DGB in 2018, we have successfully digitalised
 government services and achieved high citizen and business satisfaction
 through products like Singpass.&nbsp;</p>
-<p>With DGB 2.0, Govtech will drive even more digital government transformation
+<p>With DGB 2.0, GovTech will drive even more digital government transformation
 to support the Smart Nation initiative.</p>
-<p><strong>Alt text for image (infographic to be developed):</strong>
-</p>
-<p><strong>GovTech in Singapore Digital Government Blueprint 2.0</strong>
+<p><strong>&lt;GovTech / Digital Government Blueprint 2.0 infographic&gt;</strong>
 </p>
 <h3>Our key areas of work</h3>
 <p>GovTech is a key driver in digital transformation. We create impactful
