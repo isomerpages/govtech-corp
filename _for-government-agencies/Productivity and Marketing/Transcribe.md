@@ -5,10 +5,11 @@ variant: tiptap
 description: ""
 third_nav_title: Productivity and Marketing
 ---
+<h3>Increasing the efficiency of transcriptions of interviews, speeches, and meeting minutes with Transcribe</h3>
+<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Products and Services/Transcribe_NewHeaderBanner.jpg">
 </div>
-<h3>Increasing the efficiency of transcriptions of interviews, speeches, and meeting minutes with Transcribe</h3>
 <p><strong>Include a screenshot of the platform (Image TBC, need screenshot)</strong>
 </p>
 <p>Transcribe is a Speech-to-Text (STT) platform with auto-transcription
