@@ -44,44 +44,31 @@ services are on the GCC. This includes <a href="https://www.mycareersfuture.gov.
 </div>
 </div>
 </div>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
-<h3>Enhancing the way government agencies build digital services with Government on Commercial Cloud (GCC)</h3>
-<p>This is a "wrapper" platform that provides government agencies with a
-consistent means to adopt commercial cloud solutions offered by cloud service
-providers.</p>
-<p>To date, over 600 government digital services are on the GCC - this includes
-<a href="https://www.mycareersfuture.gov.sg/" rel="noopener noreferrer nofollow" target="_blank">MyCareersFuture</a>, <a href="https://www.gobusiness.gov.sg/" rel="noopener noreferrer nofollow" target="_blank">GoBusiness</a>, <a href="https://www.developer.tech.gov.sg/products/categories/analytics/wogaa/overview.html" rel="noopener noreferrer nofollow" target="_blank">WOGAA</a> and
-more.</p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Products and Services/gcc_fig1.jpg">
-</div>
-<h3>Why use GCC?</h3>
-<p>Improve observability, auditability and monitoring of your digital services</p>
-<p>Automate your workflows and ensure continuous compliance while building
-or maintaining the digital service</p>
-<p>Save on costs while being assured of the security of your services</p>
 <h3>How to use GCC?</h3>
-<p></p>
+<p>For onboarding of GCC, read the <a href="https://www.developer.tech.gov.sg/products/categories/infrastructure-and-hosting/government-on-commercial-cloud/getting-started" rel="noopener noreferrer nofollow" target="_blank"><u>GCC guide</u></a> on
+the Singapore Government Developer Portal.</p>
 <h3>What's the latest on GCC?</h3>
-<p>GCC 1.0 has been redesigned to give rise to GCC 2.0, leveraging on existing
-cloud-native capabilities and aligning with cloud security practices while
-enabling product teams to onboard easily and deliver on government digital
-services more quickly at reduced costs.</p>
-<p>With GCC 2.0, the GCC will be leveraged as a whole-of-government (WOG)
-platform along with the Singapore Government Tech Stack (SGTS) (Link to
-SGTS product page) for modern app development</p>
+<p>GCC 1.0 has been revamped to GCC 2.0, which harnesses existing cloud-native
+capabilities and is aligned with cloud security practices. It enables product
+teams to get on board quickly and fast-tracks the delivery of digital services
+at reduced costs.</p>
+<p>With GCC 2.0, the GCC will be leveraged as a Whole-of-Government platform
+along with the <a href="/products-and-services/for-government-agencies/software-development/sg-tech-stack/" rel="noopener noreferrer nofollow" target="_blank"><u>Singapore Government Tech Stack</u></a> for
+modern app development.</p>
+<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Products and Services/IM_GCC2Roadmap_V2.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="The Government on Commercial Cloud 2.0 Roadmap." src="/images/Products and Services/For Government Agencies/IM_GCC2Roadmap_V2.jpg">
 </div>
 <p>As of 14 November 2023, the GCC Foundation Training and Certification
-have also been cessated with no substitute programme. Agency users preparing
-to onboard to GCC 2.0 are highly recommended to pursue cloud-native certificates
-instead.</p>
-<h3>Interested to find out more about GCC?</h3>
-<p>Visit this <a href="https://www.developer.tech.gov.sg/products/categories/infrastructure-and-hosting/government-on-commercial-cloud/overview.html" rel="noopener noreferrer nofollow" target="_blank">page</a> to
-learn more.</p>
-<p>Have questions? Contact us at <a href="mailto:digitalgov@tech.gov.sg" rel="noopener noreferrer nofollow" target="_blank">digitalgov@tech.gov.sg</a>.</p>
+has ceased with no substitute programme. Agency users preparing to join
+GCC 2.0 are highly recommended to pursue cloud-native certificates instead.</p>
+<h3>Want to find out more about GCC?</h3>
+<div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="https://www.developer.tech.gov.sg/products/categories/infrastructure-and-hosting/government-on-commercial-cloud/overview.html" class="isomer-card"><div class="isomer-card-body"><div class="isomer-card-title">Learn about its features on the Singapore Government Developer Portal</div><div class="isomer-card-link">Learn more about GCC</div></div></a>
+<a rel="noopener noreferrer nofollow" href="mailto:info@tech.gov.sg" class="isomer-card">
+<div class="isomer-card-body">
+<div class="isomer-card-title">Have questions? Email us</div>
+<div class="isomer-card-link">Contact us</div>
+</div>
+</a>
+</div>
+<p></p>
