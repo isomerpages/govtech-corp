@@ -8,10 +8,11 @@ description: PaySG is a safe and trusted system for government agencies to
 third_nav_title: Government Transactions
 image: /images/Products and Services/For Government Agencies/PaySG_logo.png
 ---
+<h3>PaySG: A trusted system for the government to accept payments</h3>
+<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 70%;" height="auto" width="100%" alt="PaySG white logo" src="/images/Products and Services/For Government Agencies/PaySG_white_logo.png">
 </div>
-<h3>PaySG: A trusted system for the government to accept payments</h3>
 <p>A platform built specially for the government, PaySG makes it easy for
 agencies to accept payments from citizens and businesses. In 2023 alone,
 PaySG collected a total of $23 million dollars and facilitated over 60,000
