@@ -9,11 +9,12 @@ variant: tiptap
 image: /images/About Us/Our
   Achievements/Digital_government_ranking_meta_image_compressed.jpg
 ---
+<h3>Making a mark on the international stage with our Digital Government initiatives</h3>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="GovTechies paving the way to make Singapore a Smart Nation through digital innovation" src="/images/About Us/Our Achievements/Digital_Government_Rankings_banner_compressed.jpg">
 </div>
 <p>Nations all over the world look up to Singapore for its innovative digital
-government, made possible through our Smart Nation initiative.</p>
+government, made possible through our Smart Nation drive.</p>
 <h3>Our ranking in the United Nations e-Government Survey</h3>
 <p>Singapore was ranked 12th in the world in 2022 as part of the <a href="https://publicadministration.un.org/egovkb/en-us/Reports/UN-E-Government-Survey-2022" rel="noopener noreferrer nofollow" target="_blank">United Nations e-Government Survey</a> —
 an assessment that measures the development of all 193 United Nations member
