@@ -68,48 +68,30 @@ the process.</div>
 </div>
 </div>
 </div>
-<p></p>
-<p></p>
-<p></p>
-<h3>Providing a trusted, better way for the government to accept payments through PaySG</h3>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Products and Services/paysg_product_view.jpg">
-</div>
-<p>PaySG is a Whole-of-Government (WOG) trusted platform that makes it easy
-for Singapore government agencies to accept payment from citizens and businesses.</p>
-<p>To date, the platform has handled over 300 million dollars in payments
-for trusted agencies. In 2023 alone, PaySG collected a total of $23 million
-across government agencies and facilitated over 60,000 transactions.</p>
-<h3>Why use PaySG?</h3>
-<p>Self-service, simplified: Set up your payment service in minutes, not
-months. PaySG offers a 100% self-service experience for swift implementation.</p>
-<p>Free and effortless: Avoid lengthy procurement processes. PaySG is free
-to use, enabling government agencies to accept online payments without
-any setup charges or monthly fees.</p>
-<p>Flexibility in payments: PaySG supports debit cards, credit cards, PayNow,
-and digital wallets, with additional options on the way.</p>
-<p>Trusted and personalised: Customise payment pages with your organisation's
-branding. With PaySG, individuals and businesses receive notifications
-from official <a href="http://gov.sg" rel="noopener noreferrer nofollow" target="_blank">gov.sg</a> domains,
-ensuring trust and credibility.</p>
-<p>Powerful, seamless APIs: Seamlessly integrate with PaySG's API for online
-services. Our developer-focused approach ensures the best experience for
-integration, enhancing your online platform's payment capabilities.</p>
-<p>Elevated standards and support: PaySG meets accessibility and usability
-standards for the public sector. Benefit from our round-the-clock support
-and extensive documentation.</p>
 <h3>How to use PaySG?</h3>
-<p>To indicate your interest in transforming your payment processes, simply
-reach out to the product team via this <a href="https://form.gov.sg/64d4a4708627090012fe7804" rel="noopener noreferrer nofollow" target="_blank">form.</a>
-</p>
-<p>For any guidance needed on using PaySG, refer to this <a href="https://guide.pay.gov.sg/overview/introduction" rel="noopener noreferrer nofollow" target="_blank">guide</a>.</p>
+<p>Want to transform your payment processes today? Simply reach out to our
+product team via <a href="https://form.gov.sg/64d4a4708627090012fe7804" rel="noopener noreferrer nofollow" target="_blank"><u>the PaySG Interest Form</u></a>.
+If you need guidance on how to use PaySG, refer to the <a href="https://guide.pay.gov.sg/overview/introduction" rel="noopener noreferrer nofollow" target="_blank"><u>technical guide</u></a>.</p>
 <h3>What's the latest on PaySG?</h3>
-<p>Recurring payments: Launching of recurring payment modes, which will support
-credit card and eGIRO deductions.</p>
-<p>Integration with FormSG: Integrating PaySG payment modes with FormSG to
-create a more seamless payment experience.</p>
-<h3>Interested to find out more about PaySG?</h3>
-<p>Visit this <a href="https://pay.gov.sg/" rel="noopener noreferrer nofollow" target="_blank">page</a> to
-learn more.</p>
-<p>Have questions? Reach out to us directly at <a href="mailto:info@tech.gov.sg" rel="noopener noreferrer nofollow" target="_blank">info@tech.gov.sg</a>
-</p>
+<p>We're always trying to improve our products. Here are some features newly
+added to PaySG.</p>
+<ul>
+<li>
+<p><strong>Recurring payments:</strong> Launch of recurring payment modes,
+which will support credit cards and eGIRO deductions.&nbsp;</p>
+</li>
+<li>
+<p><strong>Integration with FormSG: </strong>Now, government forms can come
+with a payment option for a holistic experience.</p>
+</li>
+</ul>
+<h3>Want to find out more about PaySG?</h3>
+<div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="https://pay.gov.sg/" class="isomer-card"><div class="isomer-card-body"><div class="isomer-card-title">Visit the official PaySG website to discover its features</div><div class="isomer-card-link">Go to PaySG website</div></div></a>
+<a rel="noopener noreferrer nofollow" href="mailto:info@tech.gov.sg" class="isomer-card">
+<div class="isomer-card-body">
+<div class="isomer-card-title">Have questions? Email us</div>
+<div class="isomer-card-link">Contact us</div>
+</div>
+</a>
+</div>
+<p></p>
