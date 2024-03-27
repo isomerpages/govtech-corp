@@ -8,7 +8,6 @@ variant: tiptap
 image: /images/Get Involved/Smart_Nation_Cityscape_GovTech_interactive_exhibition.jpg
 ---
 <h3>Deep dive into Smart Nation initiatives</h3>
-<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="Smart Nation Cityscape: An employee showing a visitor the latest developments via an iPad" src="/images/Get Involved/Smart_Nation_CityScape_banner_resized.jpg">
 </div>
