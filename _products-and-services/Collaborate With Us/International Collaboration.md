@@ -72,7 +72,6 @@ Framework, Wireless Alert Alarm System, and more.</div>
 </div>
 </div>
 <h3>Interested to collaborate?</h3>
-<p>Reach out directly to us via email at <a href="https://drive.google.com/drive/folders/1Ds0YkkfTO2muVX6jFjQGFNU0G1zHXrOY" rel="noopener noreferrer nofollow" target="_blank">info@tech.gov.sg</a> for
-collaboration opportunities.
+<p>Reach out directly to us via email at <a href="mailto:info@tech.gov.sg" rel="noopener noreferrer nofollow" target="_blank">info@tech.gov.sg</a> for collaboration opportunities.
 <br>
 </p>
