@@ -7,7 +7,6 @@ description: Never miss a GovTech update. Stay connected with us through our
 image: /images/Get Involved/Stay_informed_meta_image_compressed.jpg
 ---
 <h3>Receive GovTech news and updates</h3>
-<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="Subscribe to Technews for the latest developments on tech and read from anywhere." src="/images/Get Involved/Subscribe_to_Technews.jpg">
 </div>
