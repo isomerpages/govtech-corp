@@ -2,23 +2,21 @@
 title: VICA
 permalink: /products-and-services/for-government-agencies/productivity-and-marketing/vica/
 variant: tiptap
-description: "VICA, GovTech's next-generation virtual assistant platform, is
-  powering government chatbots. Learn more about its features. "
+description: VICA, GovTech's next-generation virtual assistant platform, is
+  powering government chatbots. Learn more about its features.
 third_nav_title: Productivity and Marketing
 ---
-<h3>Power public-facing chatbots and serve citizens better with VICA</h3>
-<p>VICA, Virtual Intelligent Chat Assistant, is GovTech's next-generation
-virtual assistant platform that powers government chatbots</p>
-<p>It leverages natural language processing (NLP) engines, machine learning
-and AI to learn and understand conversations to improve virtual and phone
-interactions that citizens and businesses have with Singapore government
-agencies.</p>
-<p>Empowering government agencies with the ability to converse and serve
-citizens and business better, VICA manifests in the form of chatbots like
-Ask Gayle on GovTech's website, Ask Wally on PUB's website and more - allowing
-government agencies to customise the public-facing persona of their chatbot.</p>
-<p>Collage image including the icons of different government chatbots powered
-by VICA:</p>
+<h3>Activate public-facing chatbots and serve citizens better with VICA</h3>
+<p>VICA, or Virtual Intelligent Chat Assistant, is GovTech's next-generation
+virtual assistant platform. This highly intuitive assistant is built on
+natural language processing (NLP) engines, machine learning and AI. The
+trio of technologies enables it to learn and understand conversations,
+and continuously adapt to improve its interactions with users.</p>
+<p>
+<br>VICA now powers public-facing chatbots such as AskGayle on GovTech's website,
+Ask Wally on Public Utilities Board's website and more. Government agencies
+can fully customise these personas and include key information resources
+on the chatbot's landing page.</p>
 <div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="https://www.pub.gov.sg/" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Placeholder image" src="/images/Products and Services/askwally___PUB.jpg"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Ask Wally</div><div class="isomer-card-link">PUB</div></div></a>
 <a rel="noopener noreferrer nofollow" href="https://www.nea.gov.sg/" class="isomer-card">
 <div class="isomer-card-image">
