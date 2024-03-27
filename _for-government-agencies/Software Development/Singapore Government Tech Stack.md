@@ -8,6 +8,63 @@ description: Designed for public officers' use, the Singapore Government Tech
 third_nav_title: Software Development
 image: /images/Products and Services/For Government Agencies/SGTS_meta_image.jpg
 ---
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Singapore Government Tech Stack (SGTS) — a smarter and faster platform for building applications" src="/images/Products and Services/For Government Agencies/SGTS_meta_image.jpg">
+</div>
+<h3>Build government digital services quickly and securely with Singapore Government Tech Stack (SGTS)</h3>
+<p>Every digital service that the government launches is aimed at enriching
+a certain aspect of Singaporeans' lives. To help our sister agencies get
+their ideas quickly to launch instead of spending time in development limbo,
+we created the Singapore Government Tech Stack (SGTS).</p>
+<p>The SGTS makes the process of building digital services simpler and more
+streamlined. Personnel can tap on a common suite of tools and products
+to develop high-quality digital services that are consistent with other
+government offerings.&nbsp;</p>
+<p>One of the early uses of SGTS was the creation of Myinfo for a bank pilot
+project. The project was successfully delivered in four months instead
+of the usual timeframe of a year. MyCareersFuture was also built using
+SGTS.</p>
+<p>Today, more than 40 agencies have already reaped the benefits of utilising
+SGTS, implementing over 200 systems on cloud.</p>
+<p></p>
+<div class="iframe-wrapper">
+<iframe style="max-width: 100%;" height="400" width="100%" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/Vt-r2vCqSh8?si=hxg2epzcUOzHr2qq"></iframe>
+</div>
+<h3>Why use SGTS?</h3>
+<p>There are many reasons why you should use SGTS.</p>
+<ul>
+<li>
+<p>Develop a seamless, consistent and connected experience across the government's
+digital services.</p>
+</li>
+<li>
+<p>Enable the easy exchange of data across the government for richer insights
+that will help with policy and solution development as well as monitoring
+of operations.</p>
+</li>
+<li>
+<p>Focus on designing solutions that best meet the needs of your agency's
+customers and accelerate their deployment without the need to develop infrastructure
+from scratch.</p>
+</li>
+</ul>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="A look at the Singapore Government Tech Stack." src="/images/Products and Services/For Government Agencies/sgts_infographic_28_Sep_resized.jpg">
+</div>
+<h3>Want to find out more about SGTS?</h3>
+<div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="https://www.developer.tech.gov.sg/singapore-government-tech-stack/" class="isomer-card"><div class="isomer-card-body"><div class="isomer-card-title">Learn more about its features on the Singapore Government Developer Portal</div><div class="isomer-card-link">Go to SG Government Developer Portal</div></div></a>
+<a rel="noopener noreferrer nofollow" href="mailto:info@tech.gov.sg" class="isomer-card">
+<div class="isomer-card-body">
+<div class="isomer-card-title">Have questions? Email us</div>
+<div class="isomer-card-link">Contact us</div>
+</div>
+</a>
+</div>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
 <h3>Build government digital services quickly and securely with Singapore Government Tech Stack (SGTS)</h3>
 <p>SGTS is a common platform that makes the process of building digital services
 simpler and more streamlined for government agencies.</p>
