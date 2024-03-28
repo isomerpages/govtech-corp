@@ -14,7 +14,7 @@ be able to continually upskill, adapt to new challenges and work more effectivel
 across agencies as well as with citizens and businesses in Singapore. This
 is where our Knowledge and Training products come in.</p>
 <div class="iframe-wrapper">
-<iframe height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/o73wtjdPQi4?si=LCgMaYd9uerXx89Q"></iframe>
+<iframe style="max-width: 100%;" height="400" width="100%" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/o73wtjdPQi4?si=LCgMaYd9uerXx89Q"></iframe>
 </div>
 <p>A “Practitioner for Practitioner” academy that operates at the unique
 intersection of technology and public service, blending best-in-class technical
