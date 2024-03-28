@@ -8,6 +8,7 @@ variant: tiptap
 image: /images/careers/How_we_hire_meta_image_copy.jpg
 ---
 <h3>Hiring right is our recipe for success</h3>
+<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="Asian man in an interview, applying for a job at GovTech with a smile on his face." src="/images/careers/How_we_hire_meta_image_copy.jpg">
 </div>
@@ -62,6 +63,7 @@ frameworks and predetermined criteria.&nbsp;</p>
 <p>Alt text: A look at GovTech's hiring process</p>
 <h3>Tips to increase your chance of landing the job</h3>
 <p>Want to stand out from the crowd? Here are some tips to help you along!</p>
+<p></p>
 <div data-type="detailGroup" class="isomer-accordion isomer-accordion-white">
 <details class="isomer-details">
 <summary><strong>Craft a well-formatted and effective CV</strong>
