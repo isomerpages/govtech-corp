@@ -7,6 +7,7 @@ description: Never miss a GovTech update. Stay connected with us through our
 image: /images/Get Involved/Stay_informed_meta_image_compressed.jpg
 ---
 <h3>Receive GovTech news and updates</h3>
+<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="Subscribe to Technews for the latest developments on tech and read from anywhere." src="/images/Get Involved/Subscribe_to_Technews.jpg">
 </div>
@@ -113,6 +114,7 @@ insights, lessons from their time in GovTech and product development journeys.</
 <h3>Connect with us on social media</h3>
 <p>Be updated on the latest GovTech news and happenings when you connect
 with GovTech on different <a href="https://linktr.ee/connectwithgovtech" rel="noopener noreferrer nofollow" target="_blank">social media platforms</a>.</p>
+<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="Connect with GovTech and stay informed via the different social media platforms on your phone" src="/images/Get Involved/Subscribe_to_technews_social_media.jpg">
 </div>
