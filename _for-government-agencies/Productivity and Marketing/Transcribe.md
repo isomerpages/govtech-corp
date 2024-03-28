@@ -8,8 +8,9 @@ third_nav_title: Productivity and Marketing
 <h3>Increasing the efficiency of transcriptions of interviews, speeches, and meeting minutes with Transcribe</h3>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Products and Services/Transcribe_NewHeaderBanner.jpg">
+<img style="width: 70%;" height="auto" width="100%" alt="Transcribe product logo" src="/images/Products and Services/For Government Agencies/Transcribe_logo.png">
 </div>
+<p></p>
 <p><strong>Include a screenshot of the platform (Image TBC, need screenshot)</strong>
 </p>
 <p>Transcribe is a Speech-to-Text (STT) platform with auto-transcription
