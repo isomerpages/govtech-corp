@@ -9,7 +9,7 @@ description: Discover the latest in AI, cloud, and more at STACK Developer
   CC.
 image: /images/media/events/techhunt_banner.jpg
 ---
-<h3><strong>TechHunt @ GovTech - an exclusive recruitment event</strong></h3>
+<h3>TechHunt @ GovTech — an exclusive recruitment event</h3>
 <p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="TechHunt banner" src="/images/media/events/techhunt-banner.jpg">
