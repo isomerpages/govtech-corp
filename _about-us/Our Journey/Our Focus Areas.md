@@ -122,11 +122,23 @@ how they celebrate all abilities as we raised funds for their cause.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="Women in GovTech group photo" src="/images/About Us/GovTech_women_group_photo.jpg">
 </div>
-<p>Through our Employee Resource Group and Girls in Tech Summer Mentorship
-Programme, we work to attract, develop and retain female talent.</p>
+<p>Through our Employee Resource Group and <a href="/women-in-govtech/" rel="noopener noreferrer nofollow" target="_blank">Girls in Tech Summer Mentorship Programme</a>,
+we work to attract, develop and retain female talent.</p>
 <p>Click <a href="/our-digital-government-efforts/diversity-and-inclusion/" rel="noopener noreferrer nofollow" target="_blank">here</a> to
 learn more about our diversity and inclusion efforts or how we support
 <a href="https://www.tech.gov.sg/media/technews/supporting-women-in-govtech-beyond-international-womens-day" rel="noopener noreferrer nofollow" target="_blank">Women in (Gov)Tech beyond International Women's Day</a>.</p>
+<p></p>
+<div data-type="detailGroup" class="isomer-accordion-group isomer-accordion isomer-accordion-white">
+<details class="isomer-details">
+<summary><strong>Check out this Technews article of a participant sharing her experience in the Girls in Tech Summer Mentorship Programme:</strong>
+</summary>
+<div data-type="detailsContent" class="isomer-details-content">
+<p><a href="/empowering-girls-in-tech-govtech-summer-mentorship/" rel="noopener noreferrer nofollow" target="_blank">Empowering Girls in Tech: GovTech's Summer Mentorship</a>
+</p>
+<p></p><a class="isomer-image-wrapper" href="/empowering-girls-in-tech-govtech-summer-mentorship/"><img style="width: 100%" height="auto" width="100%" alt="Girls in Tech Summer Mentorship Programme participant sharing her experience at GovTech" src="/images/technews/empowering_girls_in_tech_summer_internship_compressed.jpg"></a>
+</div>
+</details>
+</div>
 <h3>Our efforts in Consumer Social Responsibility</h3>
 <p></p>
 <div class="instagram-wrapper">
