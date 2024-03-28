@@ -8,6 +8,7 @@ third_nav_title: Join Our Communities
 image: /images/Get Involved/Tech_Kaki_Appreciation_Dinner__1_.jpg
 ---
 <h3>A tech community from all walks of life</h3>
+<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%;" height="auto" width="100%" alt="GovTech community Tech Kaki networking" src="/images/Get Involved/gt7_techkaki.jpg">
 </div>
@@ -67,7 +68,6 @@ of our Tech Kaki community and share more about their contributions.</div>
 </div>
 </div>
 </div>
-<hr>
 <h3>Connect with us</h3>
 <p></p>
 <div class="isomer-image-wrapper">
