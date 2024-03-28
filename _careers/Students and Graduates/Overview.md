@@ -62,6 +62,7 @@ annual leave package and flexible work arrangement.</div>
 <h3>Find the right programme for you</h3>
 <p>GovTech offers numerous opportunities that will help you expand your career
 horizons. Take a look at the current list of programmes we host.</p>
+<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="GovTech's many opportunities for students and graduates" src="/images/careers/govtech-students-and-graduates-programmes.png">
 </div>
