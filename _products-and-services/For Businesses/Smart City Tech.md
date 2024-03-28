@@ -9,10 +9,11 @@ variant: tiptap
 image: /images/Products and Services/For
   businesses/Smart_City_Tech_meta_image_resized.jpg
 ---
+<h3>Open Digital Platform: A powerful smart city operating system of the future</h3>
+<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="Smart City Tech used for Punggol Digital District" src="/images/Products and Services/For businesses/Smart_City_Tech_meta_image_resized.jpg">
 </div>
-<h3>Open Digital Platform: A powerful smart city operating system of the future</h3>
 <p>In order for us to build a truly Smart Nation, we need to constantly push
 the envelope. In this regard, we're proud to have partnered with JTC and
 developed the Open Digital Platform (ODP), a proprietary and one-of-its-kind
