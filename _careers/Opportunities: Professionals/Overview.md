@@ -8,6 +8,7 @@ variant: tiptap
 image: /images/careers/Professionals_over_meta_image.jpg
 ---
 <h3>A rewarding career awaits you at GovTech</h3>
+<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="GovTechies working together on a project" src="/images/careers/Professionals_over_meta_image.jpg">
 </div>
