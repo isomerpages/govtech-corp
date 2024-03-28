@@ -120,6 +120,7 @@ Android devices).</p>
 <h3>What's the latest on Singpass?</h3>
 <p>We're constantly working to expand Singpass' services. Here are some upcoming
 features.</p>
+<p></p>
 <div data-type="detailGroup" class="isomer-accordion isomer-accordion-white">
 <details class="isomer-details">
 <summary><strong>Peer-to-peer check</strong>
