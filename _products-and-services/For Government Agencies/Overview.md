@@ -5,7 +5,7 @@ description: ""
 third_nav_title: For Government Agencies
 variant: tiptap
 ---
-<h3><strong>Our Government Tools and Resources</strong></h3>
+<h3>Our Government Tools and Resources</h3>
 <p>As part of our DGB efforts to become a Smart Nation, Government Tools
 and resources are core to what we do to drive and enable the adoption of
 digital and smart technologies throughout Singapore. Explore our suite
