@@ -44,7 +44,7 @@ digital services to improve the lives of citizens.</p>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>Opening Address</strong>
+<p><strong>Opening Address</strong> 
 <br>Kok Ping Soon, Chief Executive, GovTech</p>
 </td>
 </tr>
@@ -54,7 +54,7 @@ digital services to improve the lives of citizens.</p>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>Re-engineering the Government Infrastructure –SG Technology Stack</strong>
+<p><strong>Re-engineering the Government Infrastructure –SG Technology Stack</strong> 
 <br>Chan Cheow Hoe, Government CIO/Deputy Chief Executive, GovTech</p>
 </td>
 </tr>
@@ -64,7 +64,7 @@ digital services to improve the lives of citizens.</p>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>In conversation with CE and GCIO, GovTechCo-creating with Industry to Advance Singapore’s Smart Nation Ambition</strong>
+<p><strong>In conversation with CE and GCIO, GovTechCo-creating with Industry to Advance Singapore’s Smart Nation Ambition</strong> 
 <br>Kok Ping Soon, Chief Executive, GovTechChan Cheow Hoe, Government CIO/Deputy
 Chief Executive, GovTechModerator: Howie Lau, President, Singapore Computer
 Society</p>
@@ -85,17 +85,17 @@ Society</p>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>Enabling Smart Nation through National Digital Identity</strong>
+<p><strong>Enabling Smart Nation through National Digital Identity</strong> 
 <br>Kwok Quek Sin, Senior Director, National Digital Identity, GovTech
 <br>
 <br>
-<br><strong>Dialogue: Delivering User-Friendly Digital Services for Businesses &amp; Citizens</strong>
+<br><strong>Dialogue: Delivering User-Friendly Digital Services for Businesses &amp; Citizens</strong> 
 <br>Tan Bee Teck, Chief Information Officer, Ministry of Education
 <br>Daniel Chan, Deputy Director, Product Management, GovTech
 <br>Moderator: P. Ramakrishna, CEO, CIO Academy Asia
 <br>
 <br>
-<br><strong>Panel Discussion: Partnering the Technology Community to Realise Smart Nation Vision</strong>
+<br><strong>Panel Discussion: Partnering the Technology Community to Realise Smart Nation Vision</strong> 
 <br>Tan Ying Kiat, Director, Science &amp; Engineering Research Council (SERC),
 A*STAR
 <br>Howie Lau, President, Singapore Computer Society
@@ -112,7 +112,7 @@ GovTech
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>Closing</strong>
+<p><strong>Closing</strong> 
 <br>Kok Ping Soon, Chief Executive, GovTech</p>
 </td>
 </tr>
