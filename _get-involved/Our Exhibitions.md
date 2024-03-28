@@ -8,6 +8,7 @@ variant: tiptap
 image: /images/Get Involved/Smart_Nation_Cityscape_GovTech_interactive_exhibition.jpg
 ---
 <h3>Deep dive into Smart Nation initiatives</h3>
+<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="Smart Nation Cityscape: An employee showing a visitor the latest developments via an iPad" src="/images/Get Involved/Smart_Nation_CityScape_banner_resized.jpg">
 </div>
@@ -70,6 +71,7 @@ with you in mind.</div>
 <p>New technologies are constantly coming into our lives. With this tech
 exhibition, you can deepen your knowledge about the latest tech in fun
 and interactive ways.</p>
+<p></p>
 <div class="iframe-wrapper">
 <iframe style="max-width: 100%;" height="400" width="100%" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/CId3K2e2dmk?si=0SNN_NFODWG2M0fD"></iframe>
 </div>
