@@ -40,6 +40,7 @@ truly matters - spending quality time together!</p>
 </li>
 </ol>
 <h3>1. Tackle multiple tasks with LifeSG</h3>
+<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="Access multiple e-services via the LifeSG app and make life simpler with LifeSG" src="/images/technews/lifesg_infographic.jpg">
 </div>
@@ -67,6 +68,7 @@ birth, or even end-of-life planning.</p>
 <p>Learn more about&nbsp;<a href="https://www.life.gov.sg/" class="editor-rtfLink" rel="noopener noreferrer nofollow" target="_blank">LifeSG here.</a>
 </p>
 <h3>2. Managing your finances with MyMoneySense</h3>
+<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="Get an overview of your finances and plan your financial goals with MyMoneySense" src="/images/technews/MyMoneySense.jpg">
 </div>
@@ -94,6 +96,7 @@ in the case of a loss of income.</p>
 <p>Try&nbsp;<a href="https://www.mymoneysense.gov.sg/" class="editor-rtfLink" rel="noopener noreferrer nofollow" target="_blank">MyMoneySense out here.</a>
 </p>
 <h3>3. Keep your family safe with MyENV</h3>
+<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="Plan your activities ahead with myENV to check for weather forecasts and updates." src="/images/technews/new_myenv_app_layout.jpg">
 </div>
@@ -113,9 +116,11 @@ nursing home) to stay on top of any hazards that appear there!</p>
 <p>Download MyEnv&nbsp;<a href="https://www.smartnation.gov.sg/initiatives/urban-living/myenv-app/" class="editor-rtfLink" rel="noopener noreferrer nofollow" target="_blank">here.</a>
 </p>
 <h3>4. Learn as a family with NLBMobile</h3>
+<p></p>
 <div class="iframe-wrapper">
-<iframe style="max-width: 100%;" height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/47FBXNAUNUI?si=mb_Rtd3wzvxR5cus"></iframe>
+<iframe style="max-width: 100%;" height="400" width="100%" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/47FBXNAUNUI?si=Uzi2GPF--jzRkxvW"></iframe>
 </div>
+<p></p>
 <p>If you’re looking for a way to bond with your child, reading with them
 should be at the top of the list.</p>
 <p>You see, reading to children is an intimate ritual that weaves bonds of
@@ -133,6 +138,7 @@ has been an independent nation!</p>
 <p>You can download the NLB mobile app&nbsp;<a href="https://mobileapp.nlb.gov.sg/" class="editor-rtfLink" rel="noopener noreferrer nofollow" target="_blank">here.</a>
 </p>
 <h3>5. Keep track of your child’s progress with Parents Gateway</h3>
+<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="Parents Gateway: Parents and teachers can communicate and check on children's academic progress" src="/images/technews/Parents_Gateway.jpg">
 </div>
