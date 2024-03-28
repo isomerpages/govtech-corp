@@ -8,10 +8,11 @@ description: SGFinDex gives you a consolidated view of your financial
 third_nav_title: Digital Services
 image: /images/Products and Services/sgfindex-logo.png
 ---
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="SGFinDex logo" src="/images/Digital Gov Efforts/sgfindex_logo.png">
-</div>
 <h3>Empowering your financial journey with SGFinDex</h3>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 80%;" height="auto" width="100%" alt="SGFinDex logo" src="/images/Digital Gov Efforts/sgfindex_logo.png">
+</div>
 <p>As you progress in your financial planning journey, you’ll likely sign
 up for accounts with different financial institutions to achieve your varied
 savings, investment and insurance goals. Before, reviewing your entire
@@ -27,10 +28,12 @@ to manage and access financial information held across different government
 agencies and financial institutions.</p>
 <p>To date, SGFinDex has 150,000 users, connected 290,000 bank accounts and
 facilitated 620,000 data retrievals.</p>
+<p></p>
 <div class="iframe-wrapper">
 <iframe style="max-width: 100%;" height="400" width="100%" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/SWYtVIp1cAM?si=6YJuSQVqYcPodz_B"></iframe>
 </div>
 <h3>Why use SGFinDex?</h3>
+<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="SGFinDex is an online financial planning tool that aims to empower you on your journey." src="/images/Products and Services/For citizens/SGFindex.jpg">
 </div>
@@ -102,6 +105,7 @@ give consent to data pulling.</p>
 <p>You will retain control over what you wish to share and can withdraw consent
 to sharing data anytime.</p>
 <h3>Organisations participating in SGFinDex</h3>
+<p></p>
 <div data-type="detailGroup" class="isomer-accordion isomer-accordion-white">
 <details class="isomer-details">
 <summary><strong>Banks</strong>
