@@ -14,11 +14,11 @@ to the health of both citizens and environmental spaces.</p>
 while enabling them to stay updated through real-time data or improve their
 knowledge about the environment.</p>
 <h3>Explore Our Environmental Services</h3>
-<div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="https://staging-lite.d2uz1494fahfnj.amplifyapp.com/products-and-services/for-citizens/environment/myenv/" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Placeholder image" src="https://placehold.co/600x400"></div></div><div class="isomer-card-body"><div class="isomer-card-title">MyENV</div><div class="isomer-card-link">Find Out More</div></div></a>
+<div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="https://staging-lite.d2uz1494fahfnj.amplifyapp.com/products-and-services/for-citizens/environment/myenv/" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="MyENV app" src="/images/Products and Services/For citizens/myENV_600x300.png"></div></div><div class="isomer-card-body"><div class="isomer-card-title">MyENV</div><div class="isomer-card-link">Find Out More</div></div></a>
 <a rel="noopener noreferrer nofollow" href="https://staging-lite.d2uz1494fahfnj.amplifyapp.com/products-and-services/for-citizens/environment/treessg/" class="isomer-card">
 <div class="isomer-card-image">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Placeholder image" src="https://placehold.co/600x400">
+<img style="width: 100%" height="auto" width="100%" alt="TreesSG screenshot" src="/images/Products and Services/For citizens/TreesSG_600x300.jpg">
 </div>
 </div>
 <div class="isomer-card-body">
