@@ -5,7 +5,7 @@ description: ""
 third_nav_title: For Government Agencies
 variant: tiptap
 ---
-<h3><a href="https://www.youtube.com/embed/o73wtjdPQi4?si=LCgMaYd9uerXx89Q" rel="noopener noreferrer nofollow" target="_blank">Empowering public officers to continually upskill with Knowledge and Training tools</a></h3>
+<h3>Empowering public officers to continually upskill with Knowledge and Training tools</h3>
 <p>Through our Digital Government Blueprint, we aspire to create a Digital
 Government with a digitally confident public service workforce that is
 “Digital to the Core, and Serves with Heart” to enable a Digital Society
