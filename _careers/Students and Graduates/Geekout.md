@@ -8,6 +8,7 @@ variant: tiptap
 image: /images/careers/Geekout_Participants__1__compressed.jpg
 ---
 <h3>Uniting young tech enthusiasts at GeekOut!</h3>
+<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="GovTech's GeekOut, a tech bootcamp for students in Singapore" src="/images/careers/Geekout_Group_Photo.jpg">
 </div>
@@ -22,6 +23,7 @@ and solve challenges during a hackathon. Use our five capability centres’
 technologies to engineer practical solutions for Singaporeans. You can
 look forward to workshops helmed by experts and plenty of networking opportunities
 too!</p>
+<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 70%;" height="auto" width="100%" alt="Infographic showing you why you should take part in GovTech's GeekOut" src="/images/careers/geekout_infographic_small.png">
 </div>
