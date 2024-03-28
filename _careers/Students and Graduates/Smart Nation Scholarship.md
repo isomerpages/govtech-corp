@@ -9,6 +9,7 @@ variant: tiptap
 image: /images/careers/Smart_Nation_Scholarship_meta_image_compressed.jpg
 ---
 <h3>Propelling Singapore’s digital transformation</h3>
+<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="Advance your potential and shape the future of Singapore with the smart nation scholarship" src="/images/careers/Smart_Nation_Scholarship_banner_image.jpg">
 </div>
