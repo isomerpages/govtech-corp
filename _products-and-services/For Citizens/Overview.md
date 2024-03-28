@@ -5,7 +5,7 @@ description: ""
 third_nav_title: For Citizens
 variant: tiptap
 ---
-<h3><strong>Our Services for Citizens</strong></h3>
+<h3>Our Services for Citizens</h3>
 <p>The future of Singapore is one where technology helps us create endless
 possibilities beyond what we could imagined possible. As part of our DGB
 journey to become a Smart Nation, citizen services is core to what we do
