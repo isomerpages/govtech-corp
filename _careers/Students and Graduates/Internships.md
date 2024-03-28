@@ -9,6 +9,7 @@ variant: tiptap
 image: /images/careers/internships_banner_compressed.jpg
 ---
 <h3>Get the head start you need for a rewarding career</h3>
+<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="Batch of past GovTech interns having fun while posing for a photo at a photo booth" src="/images/careers/interns_photo_compressed.jpg">
 </div>
@@ -23,6 +24,7 @@ internship roles in non-tech capacities such as HR, communications and
 marketing, and more.</p>
 <p>Whichever track you choose, you'll learn from GovTech's senior leaders
 as well as gain access to courses and career workshops.</p>
+<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 80%;" height="auto" width="100%" alt="GovTech's internship programme flowchart and what interns stand to gain from GovTech experience" src="/images/careers/internship_chart_2024.jpg">
 </div>
@@ -124,6 +126,7 @@ more testimonials and sharing from past interns.</p>
 students who are up for a challenge and want to make a difference. If that
 sounds like you, first check out the timelines as well as guidelines for
 our internship applications.</p>
+<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="Application periods for GovTech's internship programmes" src="/images/careers/2024_internship_application_periods_compressed.jpg">
 </div>
