@@ -8,10 +8,11 @@ description: A set of digital standards and schema for COVID-19 test results and
 third_nav_title: Digital Storage & Verification
 image: /images/Products and Services/healthcerts_logo.png
 ---
+<h3>Enabling smooth travel with digitally endorsed Pre-Departure Test and vaccination records</h3>
+<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 80%;" height="auto" width="100%" alt="HealthCerts logo" src="/images/About Us/Our Achievements/healthcert_logo.jpg">
 </div>
-<h3>Enabling smooth travel with digitally endorsed Pre-Departure Test and vaccination records</h3>
 <p>Introduced as a COVID-19 measure to facilitate the safe resumption of
 cross-border travel, HealthCerts is a set of open-source digital standards
 and schema used for issuing Pre-Departure Test results and vaccination
@@ -45,7 +46,7 @@ transmitted for an easy verification process by government officials.</p>
 </div>
 <h3>Interested to find out more about HealthCerts?</h3>
 <p></p>
-<div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="https://www.healthcerts.gov.sg/" class="isomer-card"><div class="isomer-card-body"><div class="isomer-card-title">Visit the HealthCerts website</div><div class="isomer-card-link">HealthCerts</div></div></a>
+<div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="https://www.healthcerts.gov.sg/" class="isomer-card"><div class="isomer-card-body"><div class="isomer-card-title">Visit the HealthCerts website</div><div class="isomer-card-link">HealthCerts website</div></div></a>
 <a rel="noopener noreferrer nofollow" href="http://eepurl.com/cUwIsD" class="isomer-card">
 <div class="isomer-card-body">
 <div class="isomer-card-title">Subscribe to the TechNews newsletter for updates</div>
