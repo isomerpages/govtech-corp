@@ -60,7 +60,7 @@ different government agencies.</div>
 </div>
 </div>
 <h3>Interested in finding out more about FileSG?</h3>
-<div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="https://www.file.gov.sg/for-individuals" class="isomer-card"><div class="isomer-card-body"><div class="isomer-card-title">Visit the FileSG website and start using this service</div><div class="isomer-card-link">FileSG</div></div></a>
+<div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="https://www.file.gov.sg/for-individuals" class="isomer-card"><div class="isomer-card-body"><div class="isomer-card-title">Visit the FileSG website and start using this service</div><div class="isomer-card-link">FileSG website</div></div></a>
 <a rel="noopener noreferrer nofollow" href="http://eepurl.com/cUwIsD" class="isomer-card">
 <div class="isomer-card-body">
 <div class="isomer-card-title">Subscribe to the TechNews newsletter for updates</div>
