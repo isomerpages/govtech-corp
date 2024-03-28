@@ -9,6 +9,7 @@ variant: tiptap
 image: /images/careers/TAP_banner.jpg
 ---
 <h3>Lay the foundation of your leadership development</h3>
+<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="The Technology Associate Programme (TAP) is a 2-year programme designed for future tech leaders" src="/images/careers/TAP_banner.jpg">
 </div>
@@ -19,6 +20,7 @@ Designed with final-year students and fresh university graduates in mind,
 this exclusive and personalised programme turns young minds like you into
 confident tech leaders who will ultimately make a positive impact on the
 lives of Singaporeans.</p>
+<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="GovTech's Technology Associate Programme for final-year students and university graduates" src="/images/careers/TAP_infographic_v3.jpg">
 </div>
