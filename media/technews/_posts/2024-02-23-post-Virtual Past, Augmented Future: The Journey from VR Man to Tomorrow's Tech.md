@@ -121,9 +121,11 @@ AR-guided tour.</p>
 <p>Users get to follow Merli, Singapore’s tourism mascot, on an immersive
 tour of Singapore’s iconic landmarks! Attractions include Merlion Park,
 Victoria Concert Hall, and Maxwell Food Centre.</p>
+<p></p>
 <div class="iframe-wrapper">
-<iframe style="max-width: 100%;" height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/zFxpXiAkT2k?si=PxawMzXHrqtJGHEG"></iframe>
+<iframe style="max-width: 100%;" height="400" width="100%" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/zFxpXiAkT2k?si=-3NFz7VS6IJzi9yR"></iframe>
 </div>
+<p></p>
 <p>Education is another field to which AR can be applied.</p>
 <p>For example, Apple offers suggested lesson&nbsp;<a href="https://www.apple.com/sg/education/docs/ar-in-edu-lesson-ideas.pdf" class="editor-rtfLink" rel="noopener noreferrer nofollow" target="_blank">plans</a>&nbsp;to
 accompany the use of AR with iPads. Having trouble with geometry? Perhaps
