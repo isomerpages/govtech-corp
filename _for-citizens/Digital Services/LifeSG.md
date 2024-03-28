@@ -7,10 +7,10 @@ description: LifeSG connects you to the services of over 100 government agencies
 third_nav_title: Digital Services
 image: /images/Products and Services/For citizens/LifeSG_meta_image.jpg
 ---
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="LifeSG app helping citizens with planning for the future" src="/images/Digital Gov Efforts/lifesg_header_image.jpg">
-</div>
 <h3>LifeSG: Being there for your every milestone</h3>
+<div class="isomer-image-wrapper">
+<img style="width: 60%;" height="auto" width="100%" alt="LifeSG logo" src="/images/Products and Services/For citizens/LifeSG_600x300.png">
+</div>
 <p>From welcoming a new bundle of joy to preparing for your future with legacy
 planning, as you enter new chapters of your life, you will need access
 to different government resources and support. Streamlining your search
@@ -22,6 +22,7 @@ tips tailored to your changing needs and preferences.</p>
 user-centric service, LifeSG is one of the Strategic National Projects
 under Singapore’s Smart Nation initiative. To date, the app has accompanied
 over 1.5 million users like you through life’s events both big and small.</p>
+<p></p>
 <div class="iframe-wrapper">
 <iframe style="max-width: 100%;" height="400" width="100%" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/cqy9LF2jw7M?si=wvqvD38WoF4xWF4x"></iframe>
 </div>
@@ -138,6 +139,10 @@ family's finance planning journey.</p>
 <h3>How to use LifeSG?</h3>
 <p>Simply download the app and login with your Singpass to access the various
 services.</p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="LifeSG app helping citizens with planning for the future" src="/images/Digital Gov Efforts/lifesg_header_image.jpg">
+</div>
 <h3>What's the latest on LifeSG?</h3>
 <div class="isomer-card-grid">
 <div class="isomer-card">
