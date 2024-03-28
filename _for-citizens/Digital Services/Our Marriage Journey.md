@@ -8,10 +8,11 @@ description: Our Marriage Journey makes marriage administration convenient. File
 third_nav_title: Digital Services
 image: /images/Products and Services/For citizens/OurMarriageJourney_meta_image.png
 ---
+<h3>Digitalising marriage registrations with Our Marriage Journey</h3>
+<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="Young happy couple posing for wedding photo, registering their marriage via Our Marriage Journey" src="/images/Products and Services/For citizens/Marriage_personal_milestone_resized.jpg">
 </div>
-<h3>Digitalising marriage registrations with Our Marriage Journey</h3>
 <p>Getting married is one of the most joyful events in a person’s life. Among
 the long list of wedding preparation matters is marriage registration.
 Our Marriage Journey aims to make this process a seamless and efficient
@@ -20,6 +21,7 @@ one.</p>
 Registry of Muslim Marriages, the portal benefits an estimated 28,000 couples
 every year by helping them digitalise their marriage journeys.</p>
 <h3>Why use Our Marriage Journey?</h3>
+<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="Our Marriage Journey is Singapore's online marriage registration portal." src="/images/Products and Services/For citizens/OMJ.jpg">
 </div>
