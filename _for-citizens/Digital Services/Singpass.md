@@ -8,10 +8,11 @@ description: Singpass is a trusted digital identity that aims to make
 third_nav_title: Digital Services
 image: /images/Products and Services/For citizens/Singpass_meta_image.png
 ---
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Digital Gov Efforts/singpass_logo_fullcolours_1.png">
-</div>
 <h3>Digitalising the national identity and providing secure access to e-services with Singpass</h3>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 80%;" height="auto" width="100%" alt="" src="/images/Digital Gov Efforts/singpass_logo_fullcolours_1.png">
+</div>
 <p>Singpass is a trusted digital identity for every Singaporean citizen to
 use when making everyday transactions. Access over 2,700 services across
 800 connected government agencies and businesses, simply by authenticating
@@ -20,6 +21,7 @@ with your biometrics or SMS 2FA.</p>
 digital economy. To date, we have managed to digitalise e-residency for
 4.2 million Singaporeans and Permanent Residents (PRs), with our users
 making 41 million transactions monthly.</p>
+<p></p>
 <div class="iframe-wrapper">
 <iframe style="max-width: 100%;" height="400" width="100%" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/rUZf1ZcB0NY?si=Fj23EyqsXwV6YaLr"></iframe>
 </div>
@@ -101,7 +103,7 @@ holders above the age of 15 years old are eligible to use Singpass. Start
 using the app in three easy steps:&nbsp;&nbsp;&nbsp;</p>
 <ol>
 <li>
-<p>Register on<a href="http://singpass.gov/" rel="noopener noreferrer nofollow" target="_blank"> <u>Singpass.gov</u>.sg</a> via
+<p>Register on <a href="http://singpass.gov/" rel="noopener noreferrer nofollow" target="_blank"><u>Singpass.gov</u>.sg</a> via
 face verification or with a One-Time Password Pin mailer.</p>
 </li>
 <li>
@@ -109,8 +111,8 @@ face verification or with a One-Time Password Pin mailer.</p>
 </li>
 <li>
 <p>Start accessing the Singpass ecosystem by downloading the app through
-the<a href="https://apps.apple.com/sg/app/singpass/id1340660807" rel="noopener noreferrer nofollow" target="_blank"> <u>App Store</u></a> (for
-Apple devices) and<a href="https://play.google.com/store/apps/details?id=sg.ndi.sp&amp;hl=en_SG&amp;gl=US" rel="noopener noreferrer nofollow" target="_blank"> <u>Google Play Store</u></a> (for
+the <a href="https://apps.apple.com/sg/app/singpass/id1340660807" rel="noopener noreferrer nofollow" target="_blank"><u>App Store</u></a> (for
+Apple devices) and <a href="https://play.google.com/store/apps/details?id=sg.ndi.sp&amp;hl=en_SG&amp;gl=US" rel="noopener noreferrer nofollow" target="_blank"><u>Google Play Store</u></a> (for
 Android devices).</p>
 </li>
 </ol>
