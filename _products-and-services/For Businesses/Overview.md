@@ -5,7 +5,7 @@ description: ""
 third_nav_title: For Businesses
 variant: tiptap
 ---
-<h3><strong>What Are Business Platforms?</strong></h3>
+<h3>What Are Business Platforms?</h3>
 <ul data-tight="true" class="tight">
 <li>
 <p>As part of our DGB efforts to become a Smart Nation, citizen services
