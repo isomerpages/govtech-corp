@@ -5,7 +5,7 @@ description: ""
 third_nav_title: For Government Agencies
 variant: tiptap
 ---
-<h3><strong>Empowering public officers to continually upskill with Knowledge and Training tools</strong></h3>
+<h3><a href="https://www.youtube.com/embed/o73wtjdPQi4?si=LCgMaYd9uerXx89Q" rel="noopener noreferrer nofollow" target="_blank">Empowering public officers to continually upskill with Knowledge and Training tools</a></h3>
 <p>Through our Digital Government Blueprint, we aspire to create a Digital
 Government with a digitally confident public service workforce that is
 “Digital to the Core, and Serves with Heart” to enable a Digital Society
@@ -22,7 +22,7 @@ training with the business of Government. - DA grooms future-ready digital
 leaders and officers to accelerate public sector’s digital transformation
 to support the Smart Nation initiative. DA offers a robust suite of ICT
 programmes that are contextualised to the public service.</p>
-<h3><strong>Why use Digital Academy?</strong></h3>
+<h3>Why use Digital Academy?</h3>
 <div class="isomer-image-wrapper">
 <img style="width: 50%;" height="auto" width="100%" alt="" src="/images/Products and Services/da_classroom.jpg">
 </div>
@@ -32,11 +32,11 @@ ICT programmes offered by private training providers are not contextualised
 for the public sector's needs and goals. DA can help. Get up to speed with
 the latest tech trends and developments. Gain deep ICT skills contextualised
 for public service.</p>
-<h3><strong>How to use Digital Academy?</strong></h3>
+<h3>How to use Digital Academy?</h3>
 <p>Visit this <a href="https://www.thedigitalacademy.tech.gov.sg/programmes" class="waffle-rich-text-link" rel="noopener noreferrer nofollow" target="_blank"><u>page</u></a> and
 browse the programmes catalogue. Simply register for the course of your
 choice to get started with your upskilling journey</p>
-<h3><strong>Interested to find out more about Digital Academy?</strong></h3>
+<h3>Interested to find out more about Digital Academy?</h3>
 <p>Visit the <a href="https://www.thedigitalacademy.tech.gov.sg/" class="waffle-rich-text-link" rel="noopener noreferrer nofollow" target="_blank"><u>GovTech Digital Academy website</u></a> to
 learn more about the product.</p>
 <p>Have questions? Get in touch with the team at GovTech Digital Academy
