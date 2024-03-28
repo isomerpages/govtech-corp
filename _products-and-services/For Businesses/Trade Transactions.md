@@ -8,10 +8,10 @@ third_nav_title: For Businesses
 variant: tiptap
 image: /images/Products and Services/For businesses/TradeTrust_logo.png
 ---
+<h3>Providing verification for cross-border trade transactions with TradeTrust</h3>
 <div class="isomer-image-wrapper">
 <img style="width: 80%;" height="auto" width="100%" alt="TradeTrust logo" src="/images/Products and Services/For businesses/TradeTrust_logo.png">
 </div>
-<h3>Providing verification for cross-border trade transactions with TradeTrust</h3>
 <p>Even today, paper-based documentation is still being used for many cross-border
 trade processes. Not only is it costly and unsustainable, but it also leaves
 businesses vulnerable to fraud.&nbsp;</p>
