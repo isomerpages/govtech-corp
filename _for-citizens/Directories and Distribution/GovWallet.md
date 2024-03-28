@@ -7,10 +7,10 @@ description: GovWallet allows Singaporean citizens to use their government
 third_nav_title: Directories and Distribution
 image: /images/Products and Services/GovWallet_logo.png
 ---
+<h3>Making the disbursement of government payouts efficient and secure with GovWallet</h3>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="GovWallet logo" src="/images/Products and Services/For citizens/GovWallet_logo_resized.jpg">
 </div>
-<h3>Making the disbursement of government payouts efficient and secure with GovWallet</h3>
 <p>Gone are the days when the government would use the snail mail method
 to deliver paper vouchers or cheques for the purpose of payout disbursement.
 Not only was the delivery process slow, but the letters would also at times
