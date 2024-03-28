@@ -8,6 +8,7 @@ third_nav_title: Directories and Distribution
 image: /images/Products and Services/gowhere_logo.png
 ---
 <h3>Providing easy access to government directories with GoWhere</h3>
+<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Products and Services/Featured_GoWhere_suites__screenshot_.jpg">
 </div>
