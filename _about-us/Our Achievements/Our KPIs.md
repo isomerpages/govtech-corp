@@ -22,6 +22,7 @@ period of 2022. The survey also helped to identify areas for improvement.&nbsp;<
 <p>About 1500 respondents were surveyed, comprising representatives of the
 total demographic population. Data collection was done via face-to-face
 interviews.</p>
+<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="Digital Government Perception Survey 2022 Citizens" src="/images/About Us/Digital_Government_Perception_2022_Citizens__1_.jpg">
 </div>
@@ -37,6 +38,7 @@ period of 2022. The survey also helped to identify areas for improvement.&nbsp;<
 Transportation, Storage, Information &amp; Communications, etc.), and company
 types and sizes in Singapore were surveyed. Data collection was done through
 telephone interviews.</p>
+<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="Digital Government Perception Survey 2022 Business" src="/images/About Us/Digital_Government_Perception_2022_Business__1_.jpg">
 </div>
