@@ -8,10 +8,11 @@ description: CrowdTaskSG offers you a chance to get heard on national issues.
 third_nav_title: Crowdsourcing
 image: /images/Products and Services/For citizens/crowdtask_600x300.png
 ---
+<h3>Giving citizens a chance to be heard on national issues with CrowdTaskSG</h3>
+<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="CrowdTaskSG banner image/logo" src="/images/Products and Services/For citizens/CTSG_banner.jpg">
 </div>
-<h3>Giving citizens a chance to be heard on national issues with CrowdTaskSG</h3>
 <p>Much of what the Singapore government does is driven by the goal of bettering
 your life. Being the beneficiary of government initiatives, you are the
 best person to help identify gaps and areas of improvement across different
