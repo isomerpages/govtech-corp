@@ -8,12 +8,12 @@ description: An initiative supporting the OneMillionTrees Movement, TreesSG
 third_nav_title: Environment
 image: /images/Products and Services/For citizens/TreesSG_resized.jpg
 ---
+<h3>Helping the OneMillionTrees movement bloom with TreesSG</h3>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="A collaboration between NParks and GovTech, TreesSG offers information on the 6 million trees in Singapore" src="/images/Products and Services/For citizens/TreesSG_resized.jpg">
 </div>
 <p><em>Screenshot from <a href="https://www.nparks.gov.sg/treessg" rel="noopener noreferrer nofollow" target="_blank">TreesSG website</a></em>
 </p>
-<h3>Helping the OneMillionTrees movement bloom with TreesSG</h3>
 <p>Singapore is proudly a City in a Garden. To further enhance the greenery
 and beautify our living spaces, National Parks Board (NParks) has launched
 the <a href="https://www.nparks.gov.sg/treessg/one-million-trees-movement/about-the-movement" rel="noopener noreferrer nofollow" target="_blank">OneMillionTrees movement</a> as
