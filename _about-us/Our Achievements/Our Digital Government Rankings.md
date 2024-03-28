@@ -10,6 +10,7 @@ image: /images/About Us/Our
   Achievements/Digital_government_ranking_meta_image_compressed.jpg
 ---
 <h3>Making a mark on the international stage with our Digital Government initiatives</h3>
+<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="GovTechies paving the way to make Singapore a Smart Nation through digital innovation" src="/images/About Us/Our Achievements/Digital_Government_Rankings_banner_compressed.jpg">
 </div>
@@ -23,6 +24,7 @@ states.</p>
 e-Government initiatives to realise its own national development goals.</p>
 <p>Denmark and Finland were the top two leading countries in e-Government
 development.</p>
+<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/About Us/Our Achievements/Compressed__UN__Global_ranking.jpg">
 </div>
@@ -43,6 +45,7 @@ development.</p>
 and used data to rank 141 cities by how they use technology to address
 the city’s challenges and improve the quality of life for its residents.&nbsp;</p>
 <p>Zurich, Oslo and Canberra were the top three cities respectively.</p>
+<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="Singapore's ranking in the IMD Smart City Index 2023" src="/images/About Us/Our Achievements/IMD_Report_rank_2023.jpg">
 </div>
