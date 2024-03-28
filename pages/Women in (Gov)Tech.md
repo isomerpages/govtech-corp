@@ -40,6 +40,13 @@ junior college</p>
 </li>
 </ul>
 <p></p>
+<div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="/empowering-girls-in-tech-govtech-summer-mentorship/" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Girls in Tech Summer Mentorship Programme participant sharing her experience at GovTech" src="/images/technews/empowering_girls_in_tech_summer_internship_compressed.jpg"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Check out this TechNews article of a participant's experience in the this programme</div><div class="isomer-card-link">Empowering Girls in Tech: GovTech's Summer Mentorship</div></div></a>
+</div>
+<p>Check out this TechNews article of a participant's experience in the this
+programme:</p>
+<p><a href="/empowering-girls-in-tech-govtech-summer-mentorship/" rel="noopener noreferrer nofollow" target="_blank">Empowering Girls in Tech: GovTech's Summer Mentorship</a>
+</p>
+<p></p>
 <p><strong><a href="https://go.gov.sg/git-mentee-signup-24" rel="noopener noreferrer nofollow" target="_blank">APPLY NOW</a></strong>
 </p>
 <p></p>
