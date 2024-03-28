@@ -10,7 +10,6 @@ image: /images/Products and Services/For
   businesses/Smart_City_Tech_meta_image_resized.jpg
 ---
 <h3>Open Digital Platform: A powerful smart city operating system of the future</h3>
-<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="Smart City Tech used for Punggol Digital District" src="/images/Products and Services/For businesses/Smart_City_Tech_meta_image_resized.jpg">
 </div>
