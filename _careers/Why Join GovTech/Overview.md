@@ -8,6 +8,7 @@ variant: tiptap
 image: /images/careers/Careers_overview_meta_image_compressed.jpg
 ---
 <h3>Advance our mission. Shape your future.</h3>
+<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="Employees working at GovTech bonding over a game of foosball" src="/images/careers/Why_join_GovTech___Overview.jpg">
 </div>
@@ -27,6 +28,7 @@ convenience to the masses to critical inventions for navigating unforeseen
 crises, the multifaceted projects you undertake will serve and impact the
 public. Get to Build Tech for Public Good, and make Singapore an even better
 place to live.</p>
+<p></p>
 <div class="iframe-wrapper">
 <iframe style="max-width: 100%;" height="400" width="100%" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/HQ7LhDdcRaQ?si=jtQTnrKSIzxw_DDL"></iframe>
 </div>
@@ -43,6 +45,7 @@ will always stay relevant in an ever-evolving tech landscape.</p>
 mind. As a caring employer, we put the interests of our people — whom we
 call “GovTechies” — at the heart of everything we do. We believe our awards
 speak volumes about our vibrant and employee-friendly workplace!</p>
+<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="GovTech's HR and workplace-related awards" src="/images/careers/Awards_CRMS_compressed.jpg">
 </div>
