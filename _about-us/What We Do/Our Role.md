@@ -20,6 +20,7 @@ as well as with citizens and businesses in Singapore.</p>
 of our strengths as a digital government. We used data and technology to
 offer digital services and tools that kept citizens safe and facilitated
 key activities, such as SafeEntry and TraceTogether.</p>
+<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="Singapore Digital Government infographic: How to become a digital government, serve who, what are the elements" src="/images/About Us/Digital_Gov_Info.jpg">
 </div>
