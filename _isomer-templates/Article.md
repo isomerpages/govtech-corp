@@ -15,6 +15,10 @@ description: ""
 <p>[Paragraph] <strong>Lorem ipsum</strong> dolor sit amet, consectetur adipiscing
 elit. Aliquam vestibulum lectus risus, id maximus nibh consectetur aliquam.
 In sit amet efficitur nisl.</p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Desktop.png">
+</div>
 <h4><strong>RTE Table Module</strong></h4>
 <table>
 <tbody>
