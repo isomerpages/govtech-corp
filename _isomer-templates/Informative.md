@@ -281,7 +281,7 @@ scelerisque semper nisl et sodales. Suspendisse euismod or</p>
 elementum ex</div>
 <div class="isomer-card-link">[20] Etiam quis elementum</div>
 </div>
-</a><a rel="noopener noreferrer nofollow" href="https://www.isomer.gov.sg" class="isomer-card"><div class="isomer-card-body"><div class="isomer-card-title">[80] Lorem ipsum dolor sit amet, consectetur adipiscing elit. Etiam quis elementum ex</div><div class="isomer-card-link">[20] Etiam quis elementum</div></div></a>
+</a><a rel="noopener noreferrer nofollow" href="mailto:AreYouIT@tech.gov.sg" class="isomer-card"><div class="isomer-card-body"><div class="isomer-card-title">[80] Lorem ipsum dolor sit amet, consectetur adipiscing elit. Etiam quis elementum ex</div><div class="isomer-card-link">[20] Etiam quis elementum</div></div></a>
 </div>
 <h4><strong>2 Col Call Out Module</strong></h4>
 <div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="https://www.isomer.gov.sg" class="isomer-card"><div class="isomer-card-body"><div class="isomer-card-title">[80] Lorem ipsum dolor sit amet, consectetur adipiscing elit. Etiam quis elementum ex</div><div class="isomer-card-link">[20] Etiam quis elementum</div></div></a>
