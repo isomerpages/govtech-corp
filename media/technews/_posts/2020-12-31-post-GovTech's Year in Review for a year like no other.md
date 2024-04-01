@@ -9,4 +9,7 @@ description: GovTech 2020 year-in-review — Learn more about GovTech's efforts 
   more!
 variant: tiptap
 ---
-![YIR2020](/images/technews/yir2020.png)
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="GovTech's 2020 summary of activities, app developments and advancements to digitalise Singapore" src="/images/technews/Year_in_review_2020.jpg">
+</div>
+<p></p>
