@@ -7,6 +7,7 @@ variant: tiptap
 image: /images/Products and Services/healthy365_logo.png
 ---
 <h3>Gamifying the way to active lifestyles with Healthy 365</h3>
+<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 30%;" height="auto" width="100%" alt="Healthy365 app logo" src="/images/Products and Services/For citizens/Healthy365_logo.png">
 </div>
@@ -75,8 +76,8 @@ challenges or purchase healthy meals from participating partners.</div>
 <div class="iframe-wrapper">
 <iframe style="max-width: 100%;" height="400" width="100%" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/CEm9Sg-zyPA?si=WX_VUCUHE3IRtWPF"></iframe>
 </div>
-<p>Download the app via the<a href="https://apps.apple.com/sg/app/healthy-365/id1040202154" rel="noopener noreferrer nofollow" target="_blank"> <u>App Store</u></a> (for
-Apple devices) or<a href="https://play.google.com/store/apps/details?id=sg.gov.hpb.healthy365&amp;hl=en_SG" rel="noopener noreferrer nofollow" target="_blank"> <u>Google Play Store</u></a> (for
+<p>Download the app via the <a href="https://apps.apple.com/sg/app/healthy-365/id1040202154" rel="noopener noreferrer nofollow" target="_blank"><u>App Store</u></a> (for
+Apple devices) or <a href="https://play.google.com/store/apps/details?id=sg.gov.hpb.healthy365&amp;hl=en_SG" rel="noopener noreferrer nofollow" target="_blank"><u>Google Play Store</u></a> (for
 Android devices). Upon launching the app, log in via Singpass to start
 enjoying its features.</p>
 <h3>Interested to find out more about Healthy 365?</h3>
