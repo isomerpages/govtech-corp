@@ -8,7 +8,7 @@ description: 🔒 Worried about online security while working from home? Discove
   why VPNs are essential in safeguarding your data from cyber threats!
 variant: tiptap
 ---
-<h3>Here’s why we think VPN(Virtual Private Network) is an “essential service”</h3>
+<h3>Here’s why we think VPN (Virtual Private Network) is an “essential service”</h3>
 <p>Even as Singapore progressively reopens its economy, many of us continue
 to work from home today. Such arrangements are essential to cut down unnecessary
 travel and interaction to keep Covid-19 at bay.</p>
