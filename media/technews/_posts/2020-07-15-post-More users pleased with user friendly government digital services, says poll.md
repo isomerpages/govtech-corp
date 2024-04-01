@@ -14,7 +14,7 @@ variant: tiptap
 <div class="iframe-wrapper">
 <iframe style="max-width: 100%;" height="400" width="100%" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/BfMT-WLQ52E?si=_DtaUBdsO8jYexLK"></iframe>
 </div>
-<p> <em>GovTech’s chief executive, Kok Ping Soon, shares how the Government is making a bigger push this year to improve its digital services for citizens and businesses. VIDEO: GOVTECH</em>
+<p><em>GovTech’s chief executive, Kok Ping Soon, shares how the Government is making a bigger push this year to improve its digital services for citizens and businesses. VIDEO: GOVTECH</em>
 </p>
 <p>More Singaporeans are using government digital services and giving them
 the thumbs-up just two years after the implementation of the Digital Government
