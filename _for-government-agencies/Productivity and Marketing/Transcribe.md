@@ -7,51 +7,104 @@ description: A speech-to-text platform, Transcribe allows public officers to
 third_nav_title: Productivity and Marketing
 image: /images/Products and Services/For Government Agencies/Transcribe_logo.png
 ---
-<h3>Increasing the efficiency of transcriptions of interviews, speeches, and meeting minutes with Transcribe</h3>
+<h3>Increasing the efficiency of transcriptions with Transcribe</h3>
 <p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 70%;" height="auto" width="100%" alt="Transcribe product logo" src="/images/Products and Services/For Government Agencies/Transcribe_logo.png">
 </div>
-<p></p>
-<p><strong>Include a screenshot of the platform (Image TBC, need screenshot)</strong>
-</p>
-<p>Transcribe is a Speech-to-Text (STT) platform with auto-transcription
-technologies</p>
-<p>Users can upload a pre-recorded audio or video file, or attain a live
-transcription instantaneously</p>
-<p>Transcribe was first used in Parliament sittings and users were able to
-reduce the man hours from 2.5hrs to 1.5hrs for each 15 min transcript produced.</p>
-<p>Transcribe achieved more than a 200% year-on-year growth when it comes
-to the number of registered users.</p>
+<p>Transcribing interviews, speeches and meeting minutes is a labour-intensive
+and time-consuming task. While there are many speech-to-text platforms
+in the market, they are not suited for handling confidential and sensitive
+government data.&nbsp;</p>
+<p>Bridging this gap, GovTech created Transcribe, a platform that boasts
+auto-transcription technologies.&nbsp;</p>
+<p>Users can simply upload a pre-recorded audio or video file, and receive
+a live transcription instantaneously.&nbsp;</p>
+<p>Transcribe was first used in Parliament sittings where users were able
+to reduce the man hours needed for processing each 15-minute transcript
+from 2.5 hours to 1.5 hours. As a testament to its usefulness, the platform
+has achieved over a 200 per cent year-on-year growth in user registration
+since its launch.</p>
 <h3>Why use Transcribe?</h3>
-<p>Its Application Programming Interfaces (APIs) enable integration with
-other systems.</p>
-<p>Given the confidential nature of government documents, the platform is
-designed to be secure, yet easily accessible.</p>
-<p>Available on both Internet and the Intranet environment for flexible use.</p>
-<p>Hosts up to RESTRICTED and SENSITIVE (NORMAL) data.</p>
-<p>Auto-onboard all public officers via WOG AAD authentication.</p>
-<p>Coverage includes four languages (English, Chinese, Malay and Tamil),
-multiple audio formats (e.g. mp3, wav, m4a, wma, aac) and video formats
-(e.g. mp4, avi).</p>
-<p>Multiple users can enjoy concurrent viewing or live transcriptions, instead
-of waiting for its completion.</p>
+<div class="isomer-card-grid">
+<div class="isomer-card">
+<div class="isomer-card-body">
+<div class="isomer-card-title">Easy integration</div>
+<div class="isomer-card-description">Transcribe comes with several APIs that allow for integration with other
+government digital systems.</div>
+</div>
+</div>
+<div class="isomer-card">
+<div class="isomer-card-body">
+<div class="isomer-card-title">Cleared for confidential data</div>
+<div class="isomer-card-description">Safe and secure, Transcribe can host data that are classified as RESTRICTED
+and SENSITIVE (NORMAL).</div>
+</div>
+</div>
+<div class="isomer-card">
+<div class="isomer-card-body">
+<div class="isomer-card-title">Great accessibility</div>
+<div class="isomer-card-description">The platform is available on both the internet and intranet for flexible
+use.</div>
+</div>
+</div>
+</div>
+<p></p>
+<div class="isomer-card-grid">
+<div class="isomer-card">
+<div class="isomer-card-body">
+<div class="isomer-card-title">Automatic onboarding</div>
+<div class="isomer-card-description">Simply authenticate via the Whole-of-Government Azure Active Directory
+(WoG AAD) to start using it.</div>
+</div>
+</div>
+<div class="isomer-card">
+<div class="isomer-card-body">
+<div class="isomer-card-title">Multi-language and format support</div>
+<div class="isomer-card-description">Transcribe materials in the four national languages as well as different
+audio and video formats.</div>
+</div>
+</div>
+<div class="isomer-card">
+<div class="isomer-card-body">
+<div class="isomer-card-title">Instantaneous review</div>
+<div class="isomer-card-description">Users can enjoy concurrent viewing or live transcriptions, instead of
+waiting for their completion.</div>
+</div>
+</div>
+</div>
 <h3>How to use Transcribe?</h3>
-<p>Login directly to <a href="https://www.transcribe.gov.sg/" rel="noopener noreferrer nofollow" target="_blank">Transcribe</a> via WOG AAD account
-in either Intranet or Internet. Your account will be auto-created.</p>
+<ol data-tight="true" class="tight">
+<li>
+<p>Log in directly to<a href="https://www.transcribe.gov.sg/" rel="noopener noreferrer nofollow" target="_blank"> <u>Transcribe</u></a> via your WoG
+AAD account. Your account will be automatically created.</p>
+</li>
+<li>
 <p>If your email account has a government domain that is not under AAD (e.g.
-schools,<a href="http://gov.sg" rel="noopener noreferrer nofollow" target="_blank">gov.sg</a>,
-<a href="http://dsaid.gov.sg" rel="noopener noreferrer nofollow" target="_blank">dsaid.gov.sg</a>, etc.), login to Transcribe via OTP. Your account will
-be auto-created.</p>
-<p>For API service users, contact the product team through this <a href="https://form.gov.sg/62280856ba91100012050933" rel="noopener noreferrer nofollow" target="_blank">form</a> to
+schools, <a href="https://www.transcribe.gov.sg/" rel="noopener noreferrer nofollow" target="_blank"><u>gov.sg</u></a>,
+<a href="http://dsaid.gov.sg/" rel="noopener noreferrer nofollow" target="_blank"></a><a href="https://www.transcribe.gov.sg/" rel="noopener noreferrer nofollow" target="_blank"><u>dsaid.gov.sg</u></a>,
+etc.), log in to Transcribe via OTP. Your account will be automatically
+created.</p>
+</li>
+<li>
+<p>For API service users, contact the product team via<a href="https://form.gov.sg/62280856ba91100012050933" rel="noopener noreferrer nofollow" target="_blank"> <u>the Singapore Government Developer Portal Support form</u></a> to
 onboard Transcribe.</p>
-<p>Email <a href="mailto:transcribe@tech.gov.sg" rel="noopener noreferrer nofollow" target="_blank">transcribe@tech.gov.sg</a> if
-you encounter any issue logging in.</p>
+</li>
+<li>
+<p>Email <a href="https://www.transcribe.gov.sg/" rel="noopener noreferrer nofollow" target="_blank">transcribe@tech.gov.sg</a> if
+you encounter any issues logging in.</p>
+</li>
+</ol>
 <h3>What's the latest on Transcribe?</h3>
 <p>Transcribe is free to use for now, but a pricing strategy may be implemented
-in late 2024</p>
-<h3>Interested to find out more about Transcribe?</h3>
-<p>Visit the Transcribe website to learn more about the product.</p>
-<p>Have questions? Reach out to the product team with queries via <a href="mailto:transcribe@tech.gov.sg" rel="noopener noreferrer nofollow" target="_blank">transcribe@tech.gov.sg</a> or
-feedback through this form.</p>
+in late 2024.</p>
+<h3>Want to find out more about Transcribe?</h3>
+<div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="https://www.developer.tech.gov.sg/products/categories/productivity-tools/transcribe/overview.html" class="isomer-card"><div class="isomer-card-body"><div class="isomer-card-title">Visit the Transcribe page to learn more about its features</div><div class="isomer-card-link">Learn more about Transcribe</div></div></a>
+<a rel="noopener noreferrer nofollow" href="mailto:info@tech.gov.sg" class="isomer-card">
+<div class="isomer-card-body">
+<div class="isomer-card-title">Have questions? Reach out to the product team</div>
+<div class="isomer-card-link">Contact us</div>
+</div>
+</a>
+</div>
 <p></p>
