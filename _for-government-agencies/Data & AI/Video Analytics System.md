@@ -9,9 +9,8 @@ third_nav_title: Data & AI
 image: /images/Products and Services/For Government Agencies/VAS_meta_image.jpg
 ---
 <h3>Automating analysis processes with Video Analytics System (VAS)</h3>
-<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 70%;" height="auto" width="100%" alt="Videa Analytics System (VAS) logo" src="/images/Products and Services/For Government Agencies/VAS_meta_image.jpg">
+<img style="width: 50%;" height="auto" width="100%" alt="Videa Analytics System (VAS) logo" src="/images/Products and Services/For Government Agencies/VAS_meta_image.jpg">
 </div>
 <p>The amount of video data collected on a daily basis has increased exponentially
 over the years. In fact, it has reached a point where it is not humanly
