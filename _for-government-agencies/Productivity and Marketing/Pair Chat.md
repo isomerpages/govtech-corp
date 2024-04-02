@@ -108,7 +108,7 @@ try.</p>
 </details>
 </div>
 <h3>Interested to find out more about Pair Chat?</h3>
-<div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="https://pair.gov.sg/" class="isomer-card"><div class="isomer-card-body"><div class="isomer-card-title">Visit the Pair Chat website to learn more about its features</div><div class="isomer-card-link">Pair</div></div></a>
+<div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="https://pair.gov.sg/" class="isomer-card"><div class="isomer-card-body"><div class="isomer-card-title">Visit the Pair Chat website to learn more about its features</div><div class="isomer-card-link">Pair Chat website</div></div></a>
 <a rel="noopener noreferrer nofollow" href="mailto:info@tech.gov.sg" class="isomer-card">
 <div class="isomer-card-body">
 <div class="isomer-card-title">Have questions? Email us</div>
