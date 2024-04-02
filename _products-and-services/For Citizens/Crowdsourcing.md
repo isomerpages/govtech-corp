@@ -7,26 +7,29 @@ description: GovTech's crowdsourcing products allow citizens to provide their
   Learn more.
 third_nav_title: For Citizens
 ---
-<h3>Tapping into the collective intelligence of Singaporeans in a collaborative effort</h3>
-<p>As we build digital government products and services for citizens and
-businesses in Singapore, it is important that we engage them in the development
-process. They are ultimately the end-users of government services, so involving
-their input and insights early or during the process of improving a product
-is invaluable in ensuring we design for the end-user. These also allow
-Singaporeans to become significant contributors and have collective ownership
-of the products developed by the government for them, as they have their
-voices heard.</p>
-<h3>Explore Our Crowdsourcing Services</h3>
-<div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="/products-and-services/for-citizens/crowdsourcing/crowdtasksg/" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="CrowdTaskSG logo" src="/images/Products and Services/For citizens/Crowdtask_600x300.png"></div></div><div class="isomer-card-body"><div class="isomer-card-title">CrowdTaskSG</div><div class="isomer-card-link">Find Out More</div></div></a>
+<h3>Tapping the collective intelligence of Singaporeans to shape policies and augment cybersecurity</h3>
+<p>As the beneficiary of the government's policies, you're the best person
+to provide feedback on gaps and suggest ways to bridge them. Also, as the
+end-user of digital government services, you're the eyes and ears on the
+ground who can spot and report cyber threats lurking in the systems.</p>
+<p>Recognising the immense opportunities you and your fellow citizens can
+bring to the table, GovTech has built a duo of crowdsourcing products to
+tap your collective intelligence. Contribute meaningfully to mould Singapore's
+policies and take ownership of the government digital services you use
+everyday.</p>
+<h3>Explore our crowdsourcing services</h3>
+<div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="/products-and-services/for-citizens/crowdsourcing/crowdtasksg/" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Through surveys, CrowdTaskSG offers you a chance to be heard on national issues" src="/images/Products and Services/For citizens/Crowdtask_600x300.png"></div></div><div class="isomer-card-body"><div class="isomer-card-title">CrowdTaskSG</div><div class="isomer-card-description">This web portal gives you a chance to share your feedback on national issues and be rewarded for your contribution. </div><div class="isomer-card-link">CrowdTaskSG</div></div></a>
 <a rel="noopener noreferrer nofollow" href="/products-and-services/for-citizens/crowdsourcing/vulnerability-discovery-programme/" class="isomer-card">
 <div class="isomer-card-image">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Vulnerability Discovery Programme" src="/images/Products and Services/For citizens/VDP_resized_600x300.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="Vulnerability Discovery Programme encourages the responsible reporting of weaknesses in government digital services" src="/images/Products and Services/For citizens/VDP_resized_600x300.jpg">
 </div>
 </div>
 <div class="isomer-card-body">
 <div class="isomer-card-title">Vulnerability Discovery Programme</div>
-<div class="isomer-card-link">Find Out More</div>
+<div class="isomer-card-description">Help strengthen the government's cybersecurity by reporting suspected
+vulnerabilities in government IT services, systems, and resources.</div>
+<div class="isomer-card-link">Vulnerability Discovery Programme</div>
 </div>
 </a>
 </div>
