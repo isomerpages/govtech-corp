@@ -101,7 +101,7 @@ or via Singpass on the <a href="https://form.gov.sg/login" rel="noopener norefer
 new feature to make transactions more seamless and secure. Read more about
 FormSG <a href="https://form.gov.sg/payments" rel="noopener noreferrer nofollow" target="_blank"><u>here</u></a>.</p>
 <h3>Interested in finding out more about FormSG?</h3>
-<div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="https://form.gov.sg/" class="isomer-card"><div class="isomer-card-body"><div class="isomer-card-title">Visit the FormSG website to learn more about it</div><div class="isomer-card-link">FormSG</div></div></a>
+<div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="https://form.gov.sg/" class="isomer-card"><div class="isomer-card-body"><div class="isomer-card-title">Visit the FormSG website to learn more about it</div><div class="isomer-card-link">FormSG website</div></div></a>
 <a rel="noopener noreferrer nofollow" href="mailto:info@tech.gov.sg" class="isomer-card">
 <div class="isomer-card-body">
 <div class="isomer-card-title">Have questions? Email us</div>
