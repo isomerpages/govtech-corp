@@ -1,22 +1,22 @@
 ---
 title: Overview
 permalink: /products-and-services/for-citizens/overview/
-description: "GovTech has developed and co-created many solutions that benefit
+description: GovTech has developed and co-created many solutions that benefit
   citizens' lives and streamline their transactions with government digital
-  services. "
+  services.
 third_nav_title: For Citizens
 variant: tiptap
 ---
-<h3>Our Services for Citizens</h3>
-<p>The future of Singapore is one where technology helps us create endless
-possibilities beyond what we could imagined possible. As part of our DGB
-journey to become a Smart Nation, citizen services is core to what we do
-to drive and enable adoption of digital and smart technologies throughout
-Singapore. This ranges from Digital Transactions to Smart City Technologies
-- all for the benefit of citizens. Some examples include the Singpass app,
-SGFinDex and the GoWhere directory of government websites. See how our
-products have enhanced everyday lives.</p>
-<p></p>
+<h3>Our services for citizens</h3>
+<p>Singapore's future will be one that's technology enabled. As part of our
+Digital Government Blueprint, GovTech has undertaken numerous ambitious
+efforts to drive digitalisation on a wider scale. One such aspect is expanding
+our suite of citizen services. Enabling the widespread adoption of digital
+technologies among citizens is key to fast-tracking Singapore's plans to
+become a Smart Nation. Our efforts have led to the advent of powerful yet
+easy-to-use services such as Singpass, SGFinDex, and GoWhere, all aimed
+at improving the lives of citizens.</p>
+<h4>Explore our products for citizens</h4>
 <div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="/products-and-services/for-citizens/digital-services/" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Placeholder image" src="https://placehold.co/600x400"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Digital Services</div><div class="isomer-card-description">Creating Digital Services to ensure e-government services are always accessible</div><div class="isomer-card-link">Find Out More</div></div></a>
 <a rel="noopener noreferrer nofollow" href="/products-and-services/for-citizens/smart-city-tech/" class="isomer-card">
 <div class="isomer-card-image">
