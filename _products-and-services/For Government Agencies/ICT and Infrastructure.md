@@ -19,16 +19,18 @@ way, allowing our officers to go about their daily activities without being
 inconvenienced. Providing peace of mind, the products help mitigate the
 risk of data loss as well as malware infections.</p>
 <h3>Explore our products under ICT and Infrastructure</h3>
-<div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="/products-and-services/for-government-agencies/ict-and-infrastructure/data-loss-prevention/" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Placeholder image" src="https://placehold.co/600x400"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Data Loss Prevention</div><div class="isomer-card-link">Find Out More</div></div></a>
+<div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="/products-and-services/for-government-agencies/ict-and-infrastructure/data-loss-prevention/" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="GovTech's Data Loss Prevention alerts users when there is a potential risk of unauthorised and disclosure of data" src="https://placehold.co/600x400"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Data Loss Prevention</div><div class="isomer-card-description">A security enhancement on all government-issued laptops that alerts users when there is a potential risk of unauthorised use or disclosure of data.</div><div class="isomer-card-link">Data Loss Prevention</div></div></a>
 <a rel="noopener noreferrer nofollow" href="/products-and-services/for-government-agencies/ict-and-infrastructure/secure-internet-surfing/" class="isomer-card">
 <div class="isomer-card-image">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Placeholder image" src="https://placehold.co/600x400">
+<img style="width: 100%" height="auto" width="100%" alt="GovTech's Secure Internet Surfing allows public officers to access the internet on government-issued laptops with peace of mind" src="https://placehold.co/600x400">
 </div>
 </div>
 <div class="isomer-card-body">
 <div class="isomer-card-title">Secure Internet Surfing</div>
-<div class="isomer-card-link">Find Out More</div>
+<div class="isomer-card-description">A remote browsing technology that allows public officers to access the
+internet securely while using their work laptops.</div>
+<div class="isomer-card-link">Secure Internet Surfing</div>
 </div>
 </a>
 </div>
