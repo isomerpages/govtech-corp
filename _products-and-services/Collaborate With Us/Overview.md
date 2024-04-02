@@ -8,6 +8,20 @@ variant: tiptap
 image: /images/Products and Services/Collaborate with
   us/Collaborate_with_us_overview_meta_image_resized.jpg
 ---
+<h3>Drive digital transformation with us</h3>
+<p>GovTech is the lead agency tasked with making Singapore's Smart Nation
+ambitions a reality. But we know we cannot go about it alone. It is only
+through collaborations that we can see innovation in a different light
+as well as harness complementary strengths and resources to create truly
+cutting-edge solutions. Thus, we always welcome the chance to work with
+other government agencies to drive digitalisation across the public service
+sector.</p>
+<p>We also want to collaborate with industry stakeholders and international
+partners to host events and encourage the exchange of ideas and knowledge.</p>
+<h3>Collaborate with us today</h3>
+<p></p>
+<p></p>
+<p></p>
 <h3><strong>Drive Digital Transformation with us through collaboration</strong></h3>
 <p>At GovTech, we are dedicated to improve lives through tech. As the lead
 agency driving Singapore's Smart Nation vision, we aim to empower our nation
