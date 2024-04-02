@@ -115,7 +115,7 @@ your app. You can then submit your app configuration to deploy your application.
 </li>
 </ul>
 <h3>Want to find out more about Singpass APIs?</h3>
-<div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="https://api.singpass.gov.sg/" class="isomer-card"><div class="isomer-card-body"><div class="isomer-card-title">Visit the Singpass API website to learn more</div><div class="isomer-card-link">Go to Singpass API website</div></div></a>
+<div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="https://api.singpass.gov.sg/" class="isomer-card"><div class="isomer-card-body"><div class="isomer-card-title">Visit the Singpass API website to learn more</div><div class="isomer-card-link">Singpass API website</div></div></a>
 <a rel="noopener noreferrer nofollow" href="mailto:info@tech.gov.sg" class="isomer-card">
 <div class="isomer-card-body">
 <div class="isomer-card-title">Have questions? Email us</div>
