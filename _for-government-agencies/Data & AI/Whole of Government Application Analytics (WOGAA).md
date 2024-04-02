@@ -9,9 +9,8 @@ third_nav_title: Data & AI
 image: /images/Products and Services/For Government Agencies/WOGAA_meta_image.png
 ---
 <h3>Real-time monitoring of government websites and digital services with Whole-of-Government Application Analytics</h3>
-<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 70%;" height="auto" width="100%" alt="WOGAA logo" src="/images/Products and Services/For Government Agencies/WOGAA_meta_image.png">
+<img style="width: 50%;" height="auto" width="100%" alt="WOGAA logo" src="/images/Products and Services/For Government Agencies/WOGAA_meta_image.png">
 </div>
 <p>Websites and digital services require a tool that can gauge their effectiveness
 and user-friendliness. In this regard, GovTech created the Whole-of-Government
