@@ -9,9 +9,8 @@ third_nav_title: Data & AI
 image: /images/Products and Services/For Government Agencies/GovText_meta_image.png
 ---
 <h3>Enabling efficient analyses of textual data with GovText</h3>
-<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 70%;" height="auto" width="100%" alt="GovText logo" src="/images/Products and Services/For Government Agencies/GovText_meta_image.png">
+<img style="width: 50%;" height="auto" width="100%" alt="GovText logo" src="/images/Products and Services/For Government Agencies/GovText_meta_image.png">
 </div>
 <p>For public officers, receiving and having to process large amounts of
 text data is a norm. Be it reports or survey feedback, perusing them can
