@@ -17,26 +17,20 @@ help facilitate an easy exchange of data across the government as well
 as automate workflows to heighten efficiency. Ultimately, it ensures that
 the end-user experience of a new digital service is consistent with those
 of existing ones.</p>
-<h3>Explore our products in this category</h3>
-<p>1. (To include product logo) Singapore Government Tech Stack - A common
-platform that provides the infrastructure for all government digital services,
-streamlining the development process within the government. (Link to SGTS
-product page)</p>
-<p>2. (To include product logo) Government on Commercial Cloud - A "wrapper"
-platform that enables government agencies to adopt commercial cloud solutions
-in a consistent manner. (Link to GCC product page)
-<br>
-</p>
-<div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="/products-and-services/for-government-agencies/software-development/sg-tech-stack/" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Singapore Government Tech Stack logo" src="/images/Products and Services/For Government Agencies/SGTS_600x300.png"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Singapore Government Tech Stack</div><div class="isomer-card-link">Find Out More</div></div></a>
+<h3>Explore our Software Development products</h3>
+<div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="/products-and-services/for-government-agencies/software-development/sg-tech-stack/" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Singapore Government Tech Stack streamlines and simplifies the process of building digital services" src="/images/Products and Services/For Government Agencies/SGTS_600x300.png"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Singapore Government Tech Stack</div><div class="isomer-card-description">A common platform that provides the infrastructure for all digital government services, and offers a suite of tools and products for software development.</div><div class="isomer-card-link">Singapore Government Tech Stack</div></div></a>
 <a rel="noopener noreferrer nofollow" href="/products-and-services/for-government-agencies/software-development/government-on-commercial-cloud/" class="isomer-card">
 <div class="isomer-card-image">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Government on Commercial Cloud (GCC) logo" src="/images/Products and Services/For Government Agencies/GCC_600x300.png">
+<img style="width: 100%" height="auto" width="100%" alt="Government on Commercial Cloud offers agencies a consistent way to adopt commercial cloud services" src="/images/Products and Services/For Government Agencies/GCC_600x300.png">
 </div>
 </div>
 <div class="isomer-card-body">
 <div class="isomer-card-title">Government on Commercial Cloud</div>
-<div class="isomer-card-link">Find Out More</div>
+<div class="isomer-card-description">Empowering government agencies with a means to onboard their services
+onto a holistic cloud ecosystem for better operational efficiency, cost-effectiveness,
+and security.</div>
+<div class="isomer-card-link">Government on Commercial Cloud</div>
 </div>
 </a>
 </div>
