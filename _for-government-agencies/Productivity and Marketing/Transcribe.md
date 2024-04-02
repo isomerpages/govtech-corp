@@ -82,8 +82,8 @@ AAD account. Your account will be automatically created.</p>
 <li>
 <p>If your email account has a government domain that is not under AAD (e.g.
 schools, <a href="https://www.transcribe.gov.sg/" rel="noopener noreferrer nofollow" target="_blank"><u>gov.sg</u></a>,
-<a href="http://dsaid.gov.sg/" rel="noopener noreferrer nofollow" target="_blank"></a><a href="https://www.transcribe.gov.sg/" rel="noopener noreferrer nofollow" target="_blank"><u>dsaid.gov.sg</u></a>,
-etc.), log in to Transcribe via OTP. Your account will be automatically
+<a href="https://www.transcribe.gov.sg/" rel="noopener noreferrer nofollow" target="_blank"><u>dsaid.gov.sg</u>
+</a>, etc.), log in to Transcribe via OTP. Your account will be automatically
 created.</p>
 </li>
 <li>
