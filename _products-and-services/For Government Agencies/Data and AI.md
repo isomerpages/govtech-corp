@@ -1,23 +1,23 @@
 ---
 title: Data and AI
 permalink: /products-and-services/for-government-agencies/data-and-ai/
-description: "Harnessing data science and AI capabilities, GovTech has developed
+description: Harnessing data science and AI capabilities, GovTech has developed
   a range of tools that help improve operational efficiency and cross-analysis.
-  "
 third_nav_title: For Government Agencies
 variant: tiptap
 ---
-<h3>Leveraging Data Science and Artificial Intelligence to improve policy outcomes and operational efficiency within the government</h3>
-<p>As we Engineer a Digital Government, it is important to ensure we are
-continuously improving internal processes by harnessing the latest technologies.
-This includes tapping into technologies like Artificial Intelligence (AI).</p>
-<p>Leveraging data-driven insights and AI capabilities, these services are
-important to improve policy outcomes, service delivery and operational
-efficiency for government agencies. These ultimately allow for evidence-based
-policymaking, enhanced productivity in public service provision and better-targeted
-services to meet citizens' needs — all while providing time-savings for
-public officers.</p>
-<h3>Our Data and AI tools</h3>
+<h3>Leveraging data science and artificial intelligence to improve cross-analysis and operational efficiency within the government </h3>
+<p>Data has changed the world for the better. Armed with key insights, everyday
+citizens can make informed decisions as they go about their daily lives.
+For government agencies, data have also paved the way for evidence-based
+policy making.</p>
+<p>The volume of data Singapore's public sector collects has increased exponentially
+over the years. In order to be able to analyse and draw meaningful insights
+from the endless streams of data, we need to unlock the power of technologies
+such as artificial intelligence (AI).</p>
+<p>Always one to keep up with the latest trends, GovTech has created several
+AI-enabled services, all aimed at increasing productivity and project success.</p>
+<h3>Explore our Data and AI tools</h3>
 <div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="/products-and-services/for-government-agencies/data-and-ai/analytics-gov/" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Analytics.gov logo" src="/images/Products and Services/For Government Agencies/Analytics_gov_600x400.png"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Analytics.gov</div><div class="isomer-card-link">Find Out More</div></div></a>
 <a rel="noopener noreferrer nofollow" href="/products-and-services/for-government-agencies/data-and-ai/video-analytics-system/" class="isomer-card">
 <div class="isomer-card-image">
