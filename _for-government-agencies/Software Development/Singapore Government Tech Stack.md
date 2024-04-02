@@ -54,7 +54,7 @@ from scratch.</p>
 <img style="width: 100%" height="auto" width="100%" alt="A look at the Singapore Government Tech Stack." src="/images/Products and Services/For Government Agencies/sgts_infographic_28_Sep_resized.jpg">
 </div>
 <h3>Want to find out more about SGTS?</h3>
-<div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="https://www.developer.tech.gov.sg/singapore-government-tech-stack/" class="isomer-card"><div class="isomer-card-body"><div class="isomer-card-title">Learn more about its features on the Singapore Government Developer Portal</div><div class="isomer-card-link">Go to SG Government Developer Portal</div></div></a>
+<div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="https://www.developer.tech.gov.sg/singapore-government-tech-stack/" class="isomer-card"><div class="isomer-card-body"><div class="isomer-card-title">Learn more about its features on the Singapore Government Developer Portal</div><div class="isomer-card-link">SG Government Developer Portal</div></div></a>
 <a rel="noopener noreferrer nofollow" href="mailto:info@tech.gov.sg" class="isomer-card">
 <div class="isomer-card-body">
 <div class="isomer-card-title">Have questions? Email us</div>
