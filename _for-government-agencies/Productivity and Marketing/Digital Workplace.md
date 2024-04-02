@@ -9,7 +9,6 @@ third_nav_title: Productivity and Marketing
 image: /images/About Us/Digital_Workplace.png
 ---
 <h3>Creating a seamless and collaborative working environment for public officers with Digital Workplace</h3>
-<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 60%;" height="auto" width="100%" alt="Digital Workplace logo" src="/images/Products and Services/For Government Agencies/Digital_Workplace_logo.png">
 </div>
