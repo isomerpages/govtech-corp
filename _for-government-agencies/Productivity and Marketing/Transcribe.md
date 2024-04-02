@@ -76,7 +76,7 @@ waiting for their completion.</div>
 <h3>How to use Transcribe?</h3>
 <ol data-tight="true" class="tight">
 <li>
-<p>Log in directly to<a href="https://www.transcribe.gov.sg/" rel="noopener noreferrer nofollow" target="_blank"> <u>Transcribe</u></a> via your WoG
+<p>Log in directly to <a href="https://www.transcribe.gov.sg/" rel="noopener noreferrer nofollow" target="_blank"><u>Transcribe</u></a> via your WoG
 AAD account. Your account will be automatically created.</p>
 </li>
 <li>
@@ -87,7 +87,7 @@ schools, <a href="https://www.transcribe.gov.sg/" rel="noopener noreferrer nofol
 created.</p>
 </li>
 <li>
-<p>For API service users, contact the product team via<a href="https://form.gov.sg/62280856ba91100012050933" rel="noopener noreferrer nofollow" target="_blank"> <u>the Singapore Government Developer Portal Support form</u></a> to
+<p>For API service users, contact the product team via <a href="https://form.gov.sg/62280856ba91100012050933" rel="noopener noreferrer nofollow" target="_blank"><u>the Singapore Government Developer Portal Support form</u></a> to
 onboard Transcribe.</p>
 </li>
 <li>
