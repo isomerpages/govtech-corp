@@ -82,7 +82,7 @@ AAD account. Your account will be automatically created.</p>
 <li>
 <p>If your email account has a government domain that is not under AAD (e.g.
 schools, <a href="https://www.transcribe.gov.sg/" rel="noopener noreferrer nofollow" target="_blank"><u>gov.sg</u></a>,
-<a href="https://www.transcribe.gov.sg/" rel="noopener noreferrer nofollow" target="_blank"><u>dsaid.gov.sg</u>
+<a href="https://www.transcribe.gov.sg/" rel="noopener noreferrer nofollow" target="_blank"><u>dsaid.gov.sg</u> 
 </a>, etc.), log in to Transcribe via OTP. Your account will be automatically
 created.</p>
 </li>
@@ -99,7 +99,7 @@ you encounter any issues logging in.</p>
 <p>Transcribe is free to use for now, but a pricing strategy may be implemented
 in late 2024.</p>
 <h3>Want to find out more about Transcribe?</h3>
-<div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="https://www.developer.tech.gov.sg/products/categories/productivity-tools/transcribe/overview.html" class="isomer-card"><div class="isomer-card-body"><div class="isomer-card-title">Visit the Transcribe page to learn more about its features</div><div class="isomer-card-link">Learn more about Transcribe</div></div></a>
+<div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="https://www.developer.tech.gov.sg/products/categories/productivity-tools/transcribe/overview.html" class="isomer-card"><div class="isomer-card-body"><div class="isomer-card-title">Visit the Transcribe page to learn more about its features</div><div class="isomer-card-link">Transcribe</div></div></a>
 <a rel="noopener noreferrer nofollow" href="mailto:info@tech.gov.sg" class="isomer-card">
 <div class="isomer-card-body">
 <div class="isomer-card-title">Have questions? Reach out to the product team</div>
