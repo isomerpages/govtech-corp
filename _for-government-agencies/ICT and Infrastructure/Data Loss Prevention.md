@@ -73,6 +73,6 @@ you perform any of the following activities:</p>
 <p>DLP comes pre-installed on your device as part of the Digital Workplace.
 Whenever necessary, DLP will prompt you and confirm your intent to transfer
 the data before proceeding with the request.</p>
-<div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="mailto:info@tech.gov.sg" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="placeholder" src="/images/Whole_of_Government_Application_Analytics_Sentiments_Smart_Nation_2.jpg"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Want to find out more about DLP?</div><div class="isomer-card-description">Have questions? Email us.</div><div class="isomer-card-link">Contact us</div></div></a>
+<div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="mailto:info@tech.gov.sg" class="isomer-card"><div class="isomer-card-body"><div class="isomer-card-title">Want to find out more about DLP?</div><div class="isomer-card-description">Have questions? Email us.</div><div class="isomer-card-link">Contact us</div></div></a>
 </div>
 <p></p>
