@@ -6,16 +6,17 @@ description: GovTech has built software stacks to help government agencies
 third_nav_title: For Government Agencies
 variant: tiptap
 ---
-<h3>Developing stacks to enable public officers to build digital government services with ease</h3>
-<p>As we build a Digital Government and digitalise government services, it
-is important to ensure that they are being built in an efficient, secure
-and consistent manner. These software act as common platforms for government
-agencies to build their services within the same infrastructure with easier
-exchange of data across the government and automated workflows to encourage
-efficiency. Not only does this ensure productivity and efficiency within
-the Government as we deploy new digital government services, it also ensures
-a seamless, consistent and positive experience for the end-user and ensures
-the necessary security measures are in place for the digital services.</p>
+<h3>Developing stacks that allow public officers to build digital government services with ease</h3>
+<p>Government agencies are always brimming with ideas on how to utilise digital
+services to better the lives of Singaporeans. While we encourage them to
+take their ideas to launch, it is important to ensure that the new offerings
+are being built in an efficient and secure manner.</p>
+<p>As such, GovTech has introduced software programmes that enable agencies
+to build their prototypes within a common infrastructure. These products
+help facilitate an easy exchange of data across the government as well
+as automate workflows to heighten efficiency. Ultimately, it ensures that
+the end-user experience of a new digital service is consistent with those
+of existing ones.</p>
 <h3>Explore our products in this category</h3>
 <p>1. (To include product logo) Singapore Government Tech Stack - A common
 platform that provides the infrastructure for all government digital services,
