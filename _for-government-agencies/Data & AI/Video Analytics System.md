@@ -72,7 +72,7 @@ outside of designated public places. Read the case study on TechNews.</div>
 <p>Simply visit the <a href="https://vas.gov.sg/login" rel="noopener noreferrer nofollow" target="_blank"><u>VAS site</u></a> and log in with your
 Whole-of-Government credentials to get started.</p>
 <h3>Want to find out more about VAS?</h3>
-<div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="https://www.developer.tech.gov.sg/products/categories/analytics/vas/overview.html" class="isomer-card"><div class="isomer-card-body"><div class="isomer-card-title">Discover VAS' features on the Singapore Government Developer Portal</div><div class="isomer-card-link">Learn more about VAS</div></div></a>
+<div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="https://www.developer.tech.gov.sg/products/categories/analytics/vas/overview.html" class="isomer-card"><div class="isomer-card-body"><div class="isomer-card-title">Discover VAS' features on the Singapore Government Developer Portal</div><div class="isomer-card-link">VAS features</div></div></a>
 <a rel="noopener noreferrer nofollow" href="mailto:info@tech.gov.sg" class="isomer-card">
 <div class="isomer-card-body">
 <div class="isomer-card-title">Have questions? Email us</div>
