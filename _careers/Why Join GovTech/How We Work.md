@@ -110,7 +110,36 @@ is carefully designed to allow our GovTechies to work hard and play hard.</div>
 </div>
 </div>
 <h4>We nurture a culture of excellence</h4>
+<p>...</p>
 <p></p>
+<table>
+<tbody>
+<tr>
+<th rowspan="1" colspan="1">
+<p></p>
+</th>
+<th rowspan="1" colspan="1">
+<p></p>
+</th>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+</tbody>
+</table>
 <h3>Interested in becoming a GovTechie?</h3>
 <div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="/careers/opportunities-for-professionals/overview/" class="isomer-card"><div class="isomer-card-body"><div class="isomer-card-title">Are you a professional? Check out the job opportunities.</div><div class="isomer-card-link">See job vacancies</div></div></a>
 <a rel="noopener noreferrer nofollow" href="/careers/students-and-graduates/overview/" class="isomer-card">
