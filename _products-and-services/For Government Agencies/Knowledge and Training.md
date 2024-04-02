@@ -11,7 +11,7 @@ image: /images/Products and Services/For Government Agencies/GT_DA_logo.png
 <h3>Advancing our public officers' tech expertise through Digital Academy</h3>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 70%;" height="auto" width="100%" alt="GovTech Digital Academy logo" src="/images/Products and Services/For Government Agencies/DA_logo_edited__higher_res_.png">
+<img style="width: 60%;" height="auto" width="100%" alt="GovTech Digital Academy logo" src="/images/Products and Services/For Government Agencies/DA_logo_edited__higher_res_.png">
 </div>
 <p>As part of our <a href="/about-us/what-we-do/our-role/" rel="noopener noreferrer nofollow" target="_blank"><u>Digital Government Blueprint</u></a>,
 we hope to shape a public service workforce where every officer is digitally
