@@ -12,7 +12,7 @@ image: /images/careers/How_we_work_meta_image.jpg
 and even more importantly, we are given the resources and opportunities
 to realise our dreams. Our positive work culture and environment make it
 possible for constant innovation and open collaboration.</p>
-<h4>We strive to embody the ABC values:</h4>
+<h4>We strive to embody the ABC values</h4>
 <div class="isomer-card-grid">
 <div class="isomer-card">
 <div class="isomer-card-body">
@@ -39,7 +39,7 @@ projects.</div>
 <div class="isomer-image-wrapper">
 <img style="width: 100%;" height="auto" width="100%" alt="Why GovTech - Agile, Bold, Collaborative" src="/images/careers/why-govtech-abc.png">
 </div>
-<h4>We aim to innovate, learn and grow:</h4>
+<h4>We aim to innovate, learn, and grow</h4>
 <div class="isomer-card-grid">
 <div class="isomer-card">
 <div class="isomer-card-image">
@@ -79,7 +79,6 @@ Programme and the Digital Technical Mentorship Programme.</div>
 </div>
 </div>
 <h4>We prioritise work-life balance</h4>
-<p></p>
 <div class="iframe-wrapper">
 <iframe style="max-width: 100%;" height="400" width="100%" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/WVLjmSgigbs?si=s8Gq277TIC5RDFD7"></iframe>
 </div>
