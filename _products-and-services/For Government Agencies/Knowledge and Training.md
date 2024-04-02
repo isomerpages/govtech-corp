@@ -82,7 +82,7 @@ the Digital Academy website.</p>
 the Digital Academy website. Then, register for the course of your choice
 to embark on your upskilling journey.</p>
 <h3>Want to find out more about Digital Academy?</h3>
-<div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="https://www.thedigitalacademy.tech.gov.sg/" class="isomer-card"><div class="isomer-card-body"><div class="isomer-card-title">Visit the Digital Academy website and explore</div><div class="isomer-card-link">Go to website</div></div></a>
+<div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="https://www.thedigitalacademy.tech.gov.sg/" class="isomer-card"><div class="isomer-card-body"><div class="isomer-card-title">Visit the Digital Academy website and explore</div><div class="isomer-card-link">Digital Academy</div></div></a>
 <a rel="noopener noreferrer nofollow" href="mailto:info@tech.gov.sg" class="isomer-card">
 <div class="isomer-card-body">
 <div class="isomer-card-title">Have questions? Get in touch with us</div>
