@@ -23,7 +23,7 @@ large language models (LLMs).</p>
 <p>It also boasts Ideathon, a platform where individuals or teams across
 the entire government sector can come together to identify bottlenecks,
 propose ideas, and then brainstorm innovative solutions. Going beyond the
-ChatGPT-based model that powers <a href="http://tech.gov.sg/products-and-services/pair-chat" rel="noopener noreferrer nofollow" target="_blank"><u>Pair Chat</u></a>,
+ChatGPT-based model that powers <a href="/products-and-services/for-government-agencies/productivity-and-marketing/pair/" rel="noopener noreferrer nofollow" target="_blank"><u>Pair Chat</u></a>,
 this tool is built on a set of multiple models and enables users to ideate
 freely. Users can also enjoy more control over the responses generated
 by each model.</p>
