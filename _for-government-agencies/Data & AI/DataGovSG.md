@@ -7,7 +7,7 @@ description: An open data collective, Data.gov.sg allows government agencies to
   about it.
 third_nav_title: Data & AI
 ---
-<h3>Allowing government agencies to make their data accessible to the public with Data.gov.sg</h3>
+<h3>Allowing government agencies to make their data accessible to the public with <a href="http://Data.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Data.gov.sg</a></h3>
 <p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 80%;" height="auto" width="100%" alt="Data.gov.sg logo" src="/images/Products and Services/For Government Agencies/Data_gov_sg_logo.png">
@@ -55,7 +55,7 @@ services.</div>
 or sign in as an admin on the <a href="https://beta.data.gov.sg/admin/signin" rel="noopener noreferrer nofollow" target="_blank"><u>login page</u></a> to manage
 or publish data.</p>
 <h3>Interested to find out more about Data.gov.sg?</h3>
-<div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="https://www.developer.tech.gov.sg/products/categories/data-and-apis/data-gov-sg/overview.html" class="isomer-card"><div class="isomer-card-body"><div class="isomer-card-title">Learn more about the product on the Singapore Government Developer Portal</div><div class="isomer-card-link">Singapore Government Developer Portal — Data.gov.sg</div></div></a>
+<div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="https://www.developer.tech.gov.sg/products/categories/data-and-apis/data-gov-sg/overview.html" class="isomer-card"><div class="isomer-card-body"><div class="isomer-card-title">Learn more about the product on the Singapore Government Developer Portal</div><div class="isomer-card-link">Data.gov.sg overview</div></div></a>
 <a rel="noopener noreferrer nofollow" href="https://form.gov.sg/6449e5c3664c1b001249acf1" class="isomer-card">
 <div class="isomer-card-body">
 <div class="isomer-card-title">Have questions? Contact the Data.gov.sg team via the contact form</div>
