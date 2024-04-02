@@ -82,7 +82,6 @@ Programme and the Digital Technical Mentorship Programme.</div>
 <div class="iframe-wrapper">
 <iframe style="max-width: 100%;" height="400" width="100%" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/WVLjmSgigbs?si=s8Gq277TIC5RDFD7"></iframe>
 </div>
-<p></p>
 <div class="isomer-card-grid">
 <div class="isomer-card">
 <div class="isomer-card-image">
@@ -110,6 +109,8 @@ is carefully designed to allow our GovTechies to work hard and play hard.</div>
 </div>
 </div>
 </div>
+<h4>We nurture a culture of excellence</h4>
+<p></p>
 <h3>Interested in becoming a GovTechie?</h3>
 <div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="/careers/opportunities-for-professionals/overview/" class="isomer-card"><div class="isomer-card-body"><div class="isomer-card-title">Are you a professional? Check out the job opportunities.</div><div class="isomer-card-link">See job vacancies</div></div></a>
 <a rel="noopener noreferrer nofollow" href="/careers/students-and-graduates/overview/" class="isomer-card">
