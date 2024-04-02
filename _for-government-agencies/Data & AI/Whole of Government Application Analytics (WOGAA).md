@@ -62,7 +62,7 @@ effortlessly with this new feature. Powered by AI and <a href="/products-and-ser
 it allows you to gain insights from your website's Sentiments feedback
 within minutes and identify key issues to improve user experience.</p>
 <h3>Interested to find out more about WOGAA?</h3>
-<div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="https://www.developer.tech.gov.sg/products/categories/analytics/wogaa/overview.html" class="isomer-card"><div class="isomer-card-body"><div class="isomer-card-title">Discover WOGAA's features on the Singapore Government Developer Portal</div><div class="isomer-card-link">Singapore Government Developer Portal — WOGAA</div></div></a>
+<div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="https://www.developer.tech.gov.sg/products/categories/analytics/wogaa/overview.html" class="isomer-card"><div class="isomer-card-body"><div class="isomer-card-title">Discover WOGAA's features on the Singapore Government Developer Portal</div><div class="isomer-card-link">WOGAA features</div></div></a>
 <a rel="noopener noreferrer nofollow" href="mailto:info@tech.gov.sg" class="isomer-card">
 <div class="isomer-card-body">
 <div class="isomer-card-title">Have questions? Email us</div>
