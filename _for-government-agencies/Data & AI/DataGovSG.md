@@ -8,9 +8,8 @@ description: An open data collective, Data.gov.sg allows government agencies to
 third_nav_title: Data & AI
 ---
 <h3>Allowing government agencies to make their data accessible to the public with <a href="http://Data.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Data.gov.sg</a></h3>
-<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 80%;" height="auto" width="100%" alt="Data.gov.sg logo" src="/images/Products and Services/For Government Agencies/Data_gov_sg_logo.png">
+<img style="width: 60%;" height="auto" width="100%" alt="Data.gov.sg logo" src="/images/Products and Services/For Government Agencies/Data_gov_sg_logo.png">
 </div>
 <p>Data now play an important role in impacting everyday lives as they can
 enable users to make sound and informed decisions. Recognising this, we
