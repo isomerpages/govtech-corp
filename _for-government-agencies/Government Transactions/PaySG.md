@@ -94,7 +94,7 @@ eGIRO deductions.</p>
 </details>
 </div>
 <h3>Want to find out more about PaySG?</h3>
-<div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="https://pay.gov.sg/" class="isomer-card"><div class="isomer-card-body"><div class="isomer-card-title">Visit the official PaySG website to discover its features</div><div class="isomer-card-link">Go to PaySG website</div></div></a>
+<div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="https://pay.gov.sg/" class="isomer-card"><div class="isomer-card-body"><div class="isomer-card-title">Visit the official PaySG website to discover its features</div><div class="isomer-card-link">PaySG website</div></div></a>
 <a rel="noopener noreferrer nofollow" href="mailto:info@tech.gov.sg" class="isomer-card">
 <div class="isomer-card-body">
 <div class="isomer-card-title">Have questions? Email us</div>
