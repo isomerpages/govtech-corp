@@ -116,8 +116,10 @@ and GALE.</p>
 <p><strong>Alt text: A look at how businesses can start collaborating with GovTech</strong>
 </p>
 <p></p>
-<p>Have an enquiry or a proactive proposal that will drive our Smart Nation
-efforts? Reach out to us at <a href="mailto:govtech_sipeo@tech.gov.sg" rel="noopener noreferrer nofollow" target="_blank">govtech_sipeo@tech.gov.sg</a>.</p>
+<p></p>
+<div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="mailto:govtech_sipeo@tech.gov.sg" class="isomer-card"><div class="isomer-card-body"><div class="isomer-card-title">Have an enquiry or a proactive proposal that will enrich our Smart Nation efforts?</div><div class="isomer-card-link">Drop us an email</div></div></a>
+</div>
+<p></p>
 <h3>Event collaborations</h3>
 <p>At GovTech, we believe that public-private events will help spur the generation
 of new ideas, which are the precursors to truly innovative solutions. Here
