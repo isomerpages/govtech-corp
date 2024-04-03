@@ -19,7 +19,7 @@ then that could ensure the security of government data.</p>
 <p>This, however, impeded productivity. Shaking up the status quo, GovTech
 created Secure Internet Surfing (SIS). This is a remote browsing technology
 solution that loads content into isolated containers so that unsafe malware
-can be blocked and filtered out.&nbsp;</p>
+can be blocked and filtered out.</p>
 <p>Available as part of the <a href="/products-and-services/for-government-agencies/productivity-and-marketing/digital-workplace/" rel="noopener noreferrer nofollow" target="_blank"><u>Digital Workplace</u></a>,
 SIS now allows public offers to access the internet without the need for
 a separate device. With it, they can enjoy peace of mind while performing
