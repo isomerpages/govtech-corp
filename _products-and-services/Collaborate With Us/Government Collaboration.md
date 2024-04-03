@@ -27,11 +27,11 @@ communities to gather feedback on your products.</p>
 and Singapore Food Agency (SFA), GovTech has collaborated with a myriad
 of government agencies to develop innovative solutions.</p>
 <p>Here are a few examples:</p>
-<div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="/products-and-services/for-citizens/education/" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="GovTech collaborated with MOE to create Parents Gateway." src="https://placehold.co/600x400"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Parents Gateway with MOE</div><div class="isomer-card-description">This app is a one-stop portal used to disseminate information and seek parents’ consent on admin matters, all in a consolidated digital form.</div><div class="isomer-card-link">See Parents Gateway</div></div></a>
+<div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="/products-and-services/for-citizens/education/" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="GovTech collaborated with MOE to create Parents Gateway." src="/images/Products and Services/Collaborate with us/Gov_collaborate_card_1_600x400.png"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Parents Gateway with MOE</div><div class="isomer-card-description">This app is a one-stop portal used to disseminate information and seek parents’ consent on admin matters, all in a consolidated digital form.</div><div class="isomer-card-link">See Parents Gateway</div></div></a>
 <a rel="noopener noreferrer nofollow" href="/media/media-releases/spot-robot-trial-for-safe-distancing-operations/" class="isomer-card">
 <div class="isomer-card-image">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="The SPOT Robot is a GovTech's collaboration with NParks." src="https://placehold.co/600x400">
+<img style="width: 100%" height="auto" width="100%" alt="The SPOT Robot is a GovTech's collaboration with NParks." src="/images/Products and Services/Collaborate with us/Gov_collaborate_card_2_600x400.jpg">
 </div>
 </div>
 <div class="isomer-card-body">
@@ -40,7 +40,7 @@ of government agencies to develop innovative solutions.</p>
 of safe-distancing measures. It also collected video data on traffic.</div>
 <div class="isomer-card-link">See SPOT in action</div>
 </div>
-</a><a rel="noopener noreferrer nofollow" href="/media/technews/how-ai-and-a-camera-phone-help-keep-food-on-our-tables/" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="GovTech collaborated with the Singapore Food Agency on an AI fish farming project." src="https://placehold.co/600x400"></div></div><div class="isomer-card-body"><div class="isomer-card-title">AI for Fish Farming with Singapore Food Agency</div><div class="isomer-card-description">This app reduces the 40-minute process of rotifer counting to just one. It also analyses uploaded images and extracts insights for farmers.</div><div class="isomer-card-link">Learn more about the AI tool</div></div></a>
+</a><a rel="noopener noreferrer nofollow" href="/media/technews/how-ai-and-a-camera-phone-help-keep-food-on-our-tables/" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="GovTech collaborated with the Singapore Food Agency on an AI fish farming project." src="/images/Products and Services/Collaborate with us/Gov_collaborate_card_3_600x400.png"></div></div><div class="isomer-card-body"><div class="isomer-card-title">AI for Fish Farming with Singapore Food Agency</div><div class="isomer-card-description">This app reduces the 40-minute process of rotifer counting to just one. It also analyses uploaded images and extracts insights for farmers.</div><div class="isomer-card-link">Learn more about the AI tool</div></div></a>
 </div>
 <h3>Product testing</h3>
 <p>Set up in 2016, our <a href="/get-involved/join-our-communities/tech-kaki/" rel="noopener noreferrer nofollow" target="_blank"><u>Tech Kaki Community</u></a> allows
