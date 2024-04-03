@@ -47,7 +47,7 @@ sections:
       button: FIND OUT MORE
       alt: Tech for Public Good
       url: /our-digital-government-efforts/tech-for-public-good
-      image: /images/tracetogethertest1.jpg
+      image: /images/Homepage/techforpublicgood.png
   - infopic:
       title: Engineering Digital Government
       subtitle: OUR DIGITAL GOVERNMENT EFFORTS
@@ -55,7 +55,7 @@ sections:
         drive public sector digital transformation
       button: Find out more
       url: /our-digital-government-efforts/engineering-digital-government/
-      image: /images/digital_government_aug21.jpeg
+      image: /images/Homepage/engineerdigitalgov.png
       alt: Our Role
   - infopic:
       title: Why Join GovTech
@@ -64,7 +64,7 @@ sections:
         and leadership opportunities
       button: Find out more
       url: /careers/why-join-govtech/overview/
-      image: /images/careers/Why_join_GovTech___Overview.jpg
+      image: /images/Homepage/whyjoingovtechcareer.png
       alt: Our Achievements
   - infopic:
       title: Products and Services
@@ -73,7 +73,7 @@ sections:
         for citizens, businesses, and government agencies
       button: Explore Now
       url: /products-and-services/overview/
-      image: /images/singpass_homepage_2560.jpg
+      image: /images/Homepage/govtechproducts.png
       alt: Image alt text
   - resources:
       title: Media
