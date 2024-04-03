@@ -41,4 +41,7 @@ and businesses to assess the useability and accessibility of the services.</p>
 <h3>How to use the Digital Service Standards?</h3>
 <p>Familiarise yourself with the by downloading a copy of the <strong><a href="/files/products-and-services/Digital_Service_Standards_GovTech.pdf" rel="noopener noreferrer nofollow" target="_blank">Digital Service Standards public release</a></strong>.</p>
 <h3>Interested to find out more about Digital Service Standards?</h3>
-<p>Reach out to as at info@tech.gov.sg if you have any questions on the DSS.:</p>
+<p></p>
+<div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="mailto:info@tech.gov.sg" class="isomer-card"><div class="isomer-card-body"><div class="isomer-card-title">Email your questions to us.</div><div class="isomer-card-link">Contact us</div></div></a>
+</div>
+<p></p>
