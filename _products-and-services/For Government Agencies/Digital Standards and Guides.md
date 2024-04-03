@@ -7,13 +7,18 @@ description: The Digital Service Standards provide guidance to government
   services. Learn more.
 third_nav_title: For Government Agencies
 ---
-<h3>Ensuring a positive, consistent user experience through Digital Standards and Guides</h3>
-<p>As the Singapore government rolls out more digital services, we need to
-provide standards and guides to ensure a complete and consistent user experience
-for users. This is important not only for adoption, but for the convenience
-of citizens and businesses who use our digital services - especially as
-99% of our services are now online end-to-end.</p>
-<h3>Providing guidance for government agencies through the Digital Service Standards (DSS)</h3>
+<h3>Shaping a positive, consistent digital experience through digital standards and guides</h3>
+<p>Singapore's repertoire of digital government services is always expanding,
+as our sister agencies continue to identify areas where they can improve
+citizens' lives. To ensure that the new offerings provide a user experience
+that's consistent with their predecessors' – one that's secure, safe and
+efficient – we have come up with the Digital Service Standards (DSS).</p>
+<p>A requisite for all government agencies to follow when building a new
+digital service, the DSS help to align their design thinking with the collective.
+Doing so will ensure that the new services meet the criteria of being accessible,
+inclusive, usable, and relevant as stipulated in our Digital Government
+Blueprint.</p>
+<h3>Providing guidance through Digital Service Standards (DSS)</h3>
 <p>DSS guide agencies to implement their digital services to meet the Digital
 Government Blueprint (DGB) goal of delivering digital services that are
 easy, seamless and relevant for our citizens and businesses. This is a
