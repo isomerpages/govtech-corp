@@ -10,72 +10,68 @@ image: /images/Products and Services/Collaborate with
   us/international_collab_meta_image.jpg
 ---
 <h3>Paving the way forward through knowledge sharing</h3>
-<p>GovTech believes in mutual growth through knowledge and idea sharing.
-To facilitate this exchange, GovTech is keen on going beyond the borders
-to collaborate with the international community as well collaborations
-such as events and other partnerships.</p>
+<p>GovTech believes in the power of mutual growth. Using our clout as a government
+agency in the tech industry, we are able to invite foreign luminaries to
+our events as well as initiate partnerships with globally renowned companies.</p>
+<p>Furthermore, we regularly send our GovTechies on knowledge-exchange trips
+so that they can collaborate with the international community as well as
+identify opportunities for collaboration.</p>
 <h3>Collaboration opportunities</h3>
-<p>GovTech is open to various international collaborations, be it events
-like talks and conferences, partnerships, MoU (memorandum of understanding),
-and more.</p>
-<p>Our multi-pronged international partnerships approaches include:</p>
-<ul data-tight="true" class="tight">
-<li>
-<p>Bilateral: Hosting foreign delegations keen to learn from our experiences.</p>
-</li>
-<li>
-<p>Multilateral: Engagement of international organisations and governments,
-and participation in global forums for international cooperation on Digital
-Government by the United Nations, the World Bank and the European Union.</p>
-</li>
-<li>
-<p>Non-Profit Organisations and Civil Societies: Sharing Singapore’s digital
-transformation journey of the public sector at platforms such as the World
-Economic Forum.</p>
-</li>
-<li>
-<p>Knowledge sharing via the Singapore Government Developer Portal: The portal
-is a repository of detailed information of the products, solutions and
-guidelines we have developed over the years to support Digital Government
-transformation.</p>
+<p>Our multi-pronged approach to international partnerships includes:</p>
+<div data-type="detailGroup" class="isomer-accordion isomer-accordion-white">
+<details class="isomer-details">
+<summary><strong>Bilateral</strong>
+</summary>
+<div data-type="detailsContent" class="isomer-details-content">
+<p>Hosting foreign delegations keen to learn from GovTech's experiences.</p>
+</div>
+</details>
+<details class="isomer-details">
+<summary><strong>Multilateral</strong>
+</summary>
+<div data-type="detailsContent" class="isomer-details-content">
+<p>Engaging international organisations and governments, and participating
+in global forums for international cooperation on Digital Government by
+the United Nations, the World Bank and the European Union.</p>
+</div>
+</details>
+<details class="isomer-details">
+<summary><strong>Working with non-profit organisations and civil societies</strong>
+</summary>
+<div data-type="detailsContent" class="isomer-details-content">
+<p>Sharing Singapore’s digital transformation journey of the public sector
+at platforms such as the World Economic Forum.</p>
+</div>
+</details>
+<details class="isomer-details">
+<summary><strong>Knowledge sharing via the Singapore Government Developer Portal</strong>
+</summary>
+<div data-type="detailsContent" class="isomer-details-content">
+<p>Offering detailed information on our products, solutions and guidelines.</p>
+</div>
+</details>
+</div>
 <p></p>
-</li>
-</ul>
-<p>Singapore actively participates in platforms by giving keynote talks and
-conducting workshops. We believe such engagements will serve a much larger
-community of countries looking to learn about Singapore’s journey.</p>
-<h3>Take a look at some of our past international collaborations below</h3>
-<div class="isomer-card-grid">
-<div class="isomer-card">
+<p>Singapore actively participates in platforms by giving keynote speeches
+and conducting workshops. We believe such engagements will serve a much
+larger community of countries looking to learn about Singapore’s journey.
+Explore a few of our past international collaborations below.</p>
+<div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="https://blogs.worldbank.org/governance/dgx-bringing-govtech-community-together" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="GovTech collaborates with The World Bank to organise Digital Government Exchange." src="/images/Products and Services/Collaborate with us/Int_collab_card_1_600x300.jpg"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Digital Government Exchange (DGX)</div><div class="isomer-card-description">Held in collaboration with The World Bank, DGX allows CIOs and government leaders to share experiences and explore future collaboration opportunities.</div><div class="isomer-card-link">Read DGX blog entry</div></div></a>
+<a rel="noopener noreferrer nofollow" href="https://www.linkedin.com/feed/update/urn:li:activity:7128668518480318464/" class="isomer-card">
 <div class="isomer-card-image">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Placeholder image" src="/images/Products and Services/DGX_2023.jpeg">
+<img style="width: 100%" height="auto" width="100%" alt="GovTech participated in the Smart City Expo World Congress 2023 in Barcelona" src="/images/Products and Services/Collaborate with us/Int_collab_card_2_600x300.jpg">
 </div>
 </div>
 <div class="isomer-card-body">
-<div class="isomer-card-title">Digital Government Exchange (DGX)</div>
-<div class="isomer-card-description">An annual global gathering of CIOs and public sector leaders from digital
-governments and smart cities from all over the world. DGX brings together
-a community of like-minded leaders for information exchange and mutual
-learning, and helps spark future collaboration.</div>
+<div class="isomer-card-title">Smart City Expo World Congress 2023</div>
+<div class="isomer-card-description">Representing Singapore, we showcased our projects on Open-Robotics Middle
+Framework, wireless Alert Alarm System and remote photoplethysmography.</div>
+<div class="isomer-card-link">Read LinkedIn post</div>
 </div>
+</a>
 </div>
-<div class="isomer-card">
-<div class="isomer-card-image">
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Placeholder image" src="/images/Products and Services/Smart_City_Expo_2023.jpg">
+<p></p>
+<div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="mailto:info@tech.gov.sg" class="isomer-card"><div class="isomer-card-body"><div class="isomer-card-title">Interested in collaborating with us?</div><div class="isomer-card-description">Reach out directly to us via email.</div><div class="isomer-card-link">Contact us</div></div></a>
 </div>
-</div>
-<div class="isomer-card-body">
-<div class="isomer-card-title">Smart City Expo World Congress</div>
-<div class="isomer-card-description">Together with JTC Corporation and ST Engineering, GovTech participated
-in the 2023 Smart City Expo World Congress (SCEWC) in Barcelona where GovTech
-showcased Singapore’s urban innovation projects such as Open-Robotics Middle
-Framework, Wireless Alert Alarm System, and more.</div>
-</div>
-</div>
-</div>
-<h3>Interested to collaborate?</h3>
-<p>Reach out directly to us via email at <a href="mailto:info@tech.gov.sg" rel="noopener noreferrer nofollow" target="_blank">info@tech.gov.sg</a> for collaboration opportunities.
-<br>
-</p>
+<p></p>
