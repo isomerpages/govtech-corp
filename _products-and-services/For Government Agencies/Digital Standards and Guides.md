@@ -18,23 +18,26 @@ digital service, the DSS help to align their design thinking with the collective
 Doing so will ensure that the new services meet the criteria of being accessible,
 inclusive, usable, and relevant as stipulated in our Digital Government
 Blueprint.</p>
-<h3>3 principles of the Digital Service Standards (DSS)</h3>
-<p></p>
+<h3>3 principles of the Digital Service Standards </h3>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="DSS 3 design principles" src="/images/Products and Services/DSS_3_design_principles.jpg">
 </div>
-<h3>hy use DSS?</h3>
-<p>To help public agencies design and deliver digital services that are accessible
-and inclusive, usable, and relevant. User needs are identified in order
-to design and deliver unified and consistent digital services to citizens
-and businesses. Outside-in and co-creation approach with benchmarks against
-international best practices to ensure DSS can help agencies uplift their
-digital services. To ensure compliance with the DSS, usability checks are
-conducted periodically by independent citizens and businesses to 'mystery-shop'
-and check on the usability and accessibility of Government digital services
-when benchmarked against DSS.</p>
-<p>&lt;Insert infographic: <a href="https://www.developer.tech.gov.sg/guidelines/standards-and-best-practices/digital-service-standards" class="waffle-rich-text-link" rel="noopener noreferrer nofollow" target="_blank"><u>Fig. 1&gt;</u></a>
-</p>
+<h3>How do Digital Service Standards work?</h3>
+<p>The Digital Service Standards help you design digital services that will
+deliver greater impact for your users.</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>User needs are first identified.</p>
+</li>
+<li>
+<p>An outside-in and co-creation approach with benchmarks against international
+best practices is taken.</p>
+</li>
+<li>
+<p>"Mystery-shopping" checks are conducted periodically by independent citizens
+and businesses to assess the useability and accessibility of the services.</p>
+</li>
+</ul>
 <h3>How to use DSS?</h3>
 <p>You can access the Standards <a href="https://www.tech.gov.sg/files/digital-transformation/DSS%20for%20Public%202020.pdf" class="waffle-rich-text-link" rel="noopener noreferrer nofollow" target="_blank"><u>here</u></a>.
 Do note that all government digital services must meet the DSS.</p>
