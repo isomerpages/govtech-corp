@@ -43,6 +43,10 @@ of safe-distancing measures. It also collected video data on traffic.</div>
 </a><a rel="noopener noreferrer nofollow" href="/media/technews/how-ai-and-a-camera-phone-help-keep-food-on-our-tables/" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="GovTech collaborated with the Singapore Food Agency on an AI fish farming project." src="/images/Products and Services/Collaborate with us/Gov_collaborate_card_3_600x400.png"></div></div><div class="isomer-card-body"><div class="isomer-card-title">AI for Fish Farming with Singapore Food Agency</div><div class="isomer-card-description">This app reduces the 40-minute process of rotifer counting to just one. It also analyses uploaded images and extracts insights for farmers.</div><div class="isomer-card-link">Learn more about the AI tool</div></div></a>
 </div>
 <h3>Product testing</h3>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 60%;" height="auto" width="100%" alt="Tech Kaki logo" src="/images/Get Involved/techkaki_logo__horizontal_.png">
+</div>
 <p>Set up in 2016, our <a href="/get-involved/join-our-communities/tech-kaki/" rel="noopener noreferrer nofollow" target="_blank"><u>Tech Kaki Community</u></a> allows
 citizens to directly provide feedback on the government's digital products
 and services. Today, it has grown to become a 7,000-strong community.</p>
