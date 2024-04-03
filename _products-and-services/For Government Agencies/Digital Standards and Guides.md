@@ -18,16 +18,12 @@ digital service, the DSS help to align their design thinking with the collective
 Doing so will ensure that the new services meet the criteria of being accessible,
 inclusive, usable, and relevant as stipulated in our Digital Government
 Blueprint.</p>
-<h3>Providing guidance through Digital Service Standards (DSS)</h3>
-<p>DSS guide agencies to implement their digital services to meet the Digital
-Government Blueprint (DGB) goal of delivering digital services that are
-easy, seamless and relevant for our citizens and businesses. This is a
-requirement for all government digital services that are being built, to
-ensure consistency in the user experience.</p>
-<p>&lt;Insert <a href="https://www.tech.gov.sg/files/digital-transformation/GovTech_DSS_Summary_Infographic_2Oct2018.pdf" class="waffle-rich-text-link" rel="noopener noreferrer nofollow" target="_blank"><u>infographic</u></a> showing
-the 3 principles: intuitive design and usability, accessibility and inclusivity,
-relevance and consistency&gt;</p>
-<h3>Why use DSS?</h3>
+<h3>3 principles of the Digital Service Standards (DSS)</h3>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="DSS 3 design principles" src="/images/Products and Services/DSS_3_design_principles.jpg">
+</div>
+<h3>hy use DSS?</h3>
 <p>To help public agencies design and deliver digital services that are accessible
 and inclusive, usable, and relevant. User needs are identified in order
 to design and deliver unified and consistent digital services to citizens
