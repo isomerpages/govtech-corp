@@ -127,3 +127,18 @@ the community. This level of engagement and feedback is designed to motivate
 continued participation in the collective fight against scams.</p>
 <h4>You can do your part to build a safer (and hence more inclusive) Singapore by installing the bot&nbsp;<a href="https://api.whatsapp.com/message/A2G6DGDFYVCHL1?autoload=1&amp;app_absent=0" class="editor-rtfLink" rel="noopener noreferrer nofollow" target="_blank">here</a>.</h4>
 <p></p>
+<div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="http://eepurl.com/cUwIsD" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Subscribe to the TechNews email newsletter" src="/images/technews/TN_banner.jpg"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Subscribe to the TechNews email newsletter</div><div class="isomer-card-link">TechNews</div></div></a>
+<a rel="noopener noreferrer nofollow" href="http://eepurl.com/hsr131" class="isomer-card">
+<div class="isomer-card-image">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Join the Tech Kaki user-testing community" src="/images/technews/TK_banner.jpg">
+</div>
+</div>
+<div class="isomer-card-body">
+<div class="isomer-card-title">Join the Tech Kaki user-testing community</div>
+<div class="isomer-card-link">Tech Kaki</div>
+</div>
+</a>
+</div>
+<p></p>
+<p></p>
