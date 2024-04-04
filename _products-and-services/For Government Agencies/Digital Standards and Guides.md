@@ -14,11 +14,12 @@ citizens' lives. To ensure that the new offerings provide a user experience
 that's consistent with their predecessors' – one that's secure, safe and
 efficient – we have come up with the Digital Service Standards (DSS).</p>
 <p>A requisite for all government agencies to follow when building a new
-digital service, the DSS help to align their design thinking with the collective.
-Doing so will ensure that the new services meet the criteria of being accessible,
-inclusive, usable, and relevant as stipulated in our Digital Government
-Blueprint.</p>
+digital service, the DSS helps to align their design thinking with the
+collective. Doing so will ensure that the new services meet the criteria
+of being accessible, inclusive, usable, and relevant as stipulated in our
+Digital Government Blueprint.</p>
 <h3>3 principles of the Digital Service Standards</h3>
+<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="DSS 3 design principles" src="/images/Products and Services/DSS_3_design_principles.jpg">
 </div>
@@ -39,9 +40,9 @@ and businesses to assess the useability and accessibility of the services.</p>
 </li>
 </ul>
 <h3>How to use the Digital Service Standards?</h3>
-<p>Familiarise yourself with the by downloading a copy of the <strong><a href="/files/products-and-services/Digital_Service_Standards_GovTech.pdf" rel="noopener noreferrer nofollow" target="_blank">Digital Service Standards public release</a></strong>.</p>
+<p>Familiarise yourself with the by downloading a copy of the <a href="/files/products-and-services/Digital_Service_Standards_GovTech.pdf" rel="noopener noreferrer nofollow" target="_blank">Digital Service Standards public release</a>.</p>
 <h3>Interested to find out more about Digital Service Standards?</h3>
 <p></p>
-<div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="mailto:info@tech.gov.sg" class="isomer-card"><div class="isomer-card-body"><div class="isomer-card-title">Email your questions to us.</div><div class="isomer-card-link">Contact us</div></div></a>
+<div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="mailto:info@tech.gov.sg" class="isomer-card"><div class="isomer-card-body"><div class="isomer-card-title">Email your questions to us</div><div class="isomer-card-link">Contact us</div></div></a>
 </div>
 <p></p>
