@@ -135,3 +135,18 @@ So some healthy paranoia is definitely called for as we continue to live
 an increasing part of our lives online.</p>
 <p>The bottom line: you’re doing yourself a favour by staying vigilant and
 protecting yourself from being compromised.</p>
+<p></p>
+<div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="http://eepurl.com/cUwIsD" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Subscribe to the TechNews email newsletter" src="/images/technews/TN_banner.jpg"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Subscribe to the TechNews email newsletter</div><div class="isomer-card-link">TechNews</div></div></a>
+<a rel="noopener noreferrer nofollow" href="http://eepurl.com/hsr131" class="isomer-card">
+<div class="isomer-card-image">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Join the Tech Kaki user-testing community" src="/images/technews/TK_banner.jpg">
+</div>
+</div>
+<div class="isomer-card-body">
+<div class="isomer-card-title">Join the Tech Kaki user-testing community</div>
+<div class="isomer-card-link">Tech Kaki</div>
+</div>
+</a>
+</div>
+<p></p>
