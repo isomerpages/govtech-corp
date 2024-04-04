@@ -64,6 +64,6 @@ Surfing is active.</p>
 </ol>
 <p>For information on CDR, visit<a href="https://docs.developer.tech.gov.sg/docs/cft-user-guide/datasecurity/cdr" rel="noopener noreferrer nofollow" target="_blank"> <u>the documentation on the Singapore Government Developer Portal</u></a>.</p>
 <p></p>
-<div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="mailto:info@tech.gov.sg" class="isomer-card"><div class="isomer-card-body"><div class="isomer-card-title">Want to find out more about SIS?</div><div class="isomer-card-description">Have questions? Email us</div><div class="isomer-card-link">Contact us</div></div></a>
+<div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="mailto:info@tech.gov.sg" class="isomer-card"><div class="isomer-card-body"><div class="isomer-card-title">Want to find out more about SIS?</div><div class="isomer-card-description">Have questions? Email us.</div><div class="isomer-card-link">Contact us</div></div></a>
 </div>
 <p></p>
