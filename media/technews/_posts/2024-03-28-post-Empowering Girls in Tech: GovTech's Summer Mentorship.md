@@ -104,7 +104,6 @@ opportunity to learn and connect with others in the industry.</p>
 <p>If you’re interested in finding out more about how GovTech empowers women
 both in and outside our organisation, check out the <a href="/women-in-govtech/" rel="noopener noreferrer nofollow" target="_blank"><u>Women In GovTech (WiG) Employee Resource Group</u></a>.</p>
 <p></p>
-<p></p>
 <div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="http://eepurl.com/cUwIsD" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Subscribe to the TechNews email newsletter" src="/images/technews/TN_banner.jpg"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Subscribe to the TechNews email newsletter</div><div class="isomer-card-link">TechNews</div></div></a>
 <a rel="noopener noreferrer nofollow" href="http://eepurl.com/hsr131" class="isomer-card">
 <div class="isomer-card-image">
@@ -118,7 +117,4 @@ both in and outside our organisation, check out the <a href="/women-in-govtech/"
 </div>
 </a>
 </div>
-<p></p>
-<p></p>
-<p></p>
 <p></p>
