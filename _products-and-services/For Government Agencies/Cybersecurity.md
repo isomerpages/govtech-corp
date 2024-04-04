@@ -61,10 +61,10 @@ necessary. Learn more about its work in the <a href="/files/products-and-service
 </div>
 <h3>Want to find out more about GCSOC?</h3>
 <div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="https://www.smartnation.gov.sg/media-hub/press-releases/gcsoc-factsheet/" class="isomer-card"><div class="isomer-card-body"><div class="isomer-card-title">Discover the scope of GCSOC in this factsheet</div><div class="isomer-card-link">Go to GCSOC Factsheet</div></div></a>
-<a rel="noopener noreferrer nofollow" href="mailto" class="isomer-card">
+<a rel="noopener noreferrer nofollow" href="mailto:info@tech.gov.sg" class="isomer-card">
 <div class="isomer-card-body">
 <div class="isomer-card-title">Have questions? Email us</div>
-<div class="isomer-card-link">This is a link for your card</div>
+<div class="isomer-card-link">Contact us</div>
 </div>
 </a>
 </div>
