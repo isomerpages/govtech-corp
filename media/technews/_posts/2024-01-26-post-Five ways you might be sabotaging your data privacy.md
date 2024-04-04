@@ -63,6 +63,7 @@ on an inane listicle, but it’ll be a shame to have your data compromised
 because you wanted to read an inane listicle and accept cookies on an unsecured
 site.</p>
 <h3>2. Not checking if the website is secured</h3>
+<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 70%;" height="auto" width="100%" alt="GovTech website with the lock icon, showing that it is secure" src="/images/technews/Five_ways_you_might_be_sabotaging_your_data_privacy__2_.png">
 </div>
