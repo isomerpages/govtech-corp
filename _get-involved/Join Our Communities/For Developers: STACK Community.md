@@ -65,7 +65,7 @@ and practitioners to connect and move the conversation around AI forward.</p>
 <p>Find your way to our next flagship conference by joining our STACK meet-ups
 as a community member.</p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="STACK community meetup banner" src="/images/Get Involved/STACK_meetup_banner.jpg">
+<img style="width: 60%;" height="auto" width="100%" alt="STACK community meetup banner" src="/images/Get Involved/STACK_meetup_banner.jpg">
 </div>
 <h3>Connect with us</h3>
 <div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="https://www.meetup.com/stack-by-govtech-singapore/" class="isomer-card"><div class="isomer-card-body"><div class="isomer-card-title">Join our community</div><div class="isomer-card-description">Be part of our growing tech community and mingle with other like-minded professionals.</div><div class="isomer-card-link">Sign up now</div></div></a>
