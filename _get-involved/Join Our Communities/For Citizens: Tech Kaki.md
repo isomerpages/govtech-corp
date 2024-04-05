@@ -14,7 +14,7 @@ image: /images/Get Involved/Tech_Kaki_Appreciation_Dinner__1_.jpg
 </div>
 <h3>About Tech Kaki</h3>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Tech Kaki logo" src="/images/Get Involved/techkaki_logo__horizontal_.png">
+<img style="width: 70%;" height="auto" width="100%" alt="Tech Kaki logo" src="/images/Get Involved/techkaki_logo__horizontal_.png">
 </div>
 <p>Citizens are at the heart of our work. Since 2016, a community of everyday
 people has played an active role in the development of our digital products
