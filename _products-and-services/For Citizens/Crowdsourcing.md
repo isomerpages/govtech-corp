@@ -16,7 +16,7 @@ ground who can spot and report cyber threats lurking in the systems.</p>
 bring to the table, GovTech has built a duo of crowdsourcing products to
 tap your collective intelligence. Contribute meaningfully to mould Singapore's
 policies and take ownership of the government digital services you use
-every day.</p>
+everyday.</p>
 <h3>Explore our crowdsourcing services</h3>
 <p></p>
 <div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="/products-and-services/for-citizens/crowdsourcing/crowdtasksg/" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Through surveys, CrowdTaskSG offers you a chance to be heard on national issues" src="/images/Products and Services/For citizens/CrowdTaskSG_600x400.png"></div></div><div class="isomer-card-body"><div class="isomer-card-title">CrowdTaskSG</div><div class="isomer-card-description">This web portal gives you a chance to share your feedback on national issues and be rewarded for your contributions.</div><div class="isomer-card-link">CrowdTaskSG</div></div></a>
