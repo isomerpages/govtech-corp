@@ -111,36 +111,115 @@ is carefully designed to allow our GovTechies to work hard and play hard.</div>
 </div>
 </div>
 <h4>We nurture a culture of excellence</h4>
-<p>...</p>
 <p></p>
-<table>
-<tbody>
-<tr>
-<th rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Team leaders — Justin, Janice, Kelvin, Khim Soo (From left to right)" src="/images/careers/Culture_of_excellence_group_shot_1_Edited_resized.jpg">
+</div>
+<p><em>Team leaders — Justin, Janice, Kelvin, Khim Soo (From left to right)</em>
+</p>
 <p></p>
-</th>
-<th rowspan="1" colspan="1">
+<p>For numerous organisations, cultivating an engaging and high-performing
+culture is often regarded as the ultimate achievement. Many aspire to reach
+a harmonious state where their employees are not merely content but truly
+passionate about their work. While this remains an aspiration for others,
+it is a tangible reality for GovTech.</p>
 <p></p>
-</th>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
+<div data-type="detailGroup" class="isomer-accordion isomer-accordion-white">
+<details class="isomer-details">
+<summary><strong>The Power of Purpose</strong>
+</summary>
+<div data-type="detailsContent" class="isomer-details-content">
+<p>At GovTech, one of our core missions is to make a positive impact through
+technology. This belief that technology can improve lives is a major motivation
+for GovTechies.</p>
+<p>Justin How, a Deputy Director, emphasises the importance of purpose. He
+highlights that unlike private companies focused on profit, GovTech's goal
+is maximising the public good.</p>
+<p>But what exactly is public good? It can differ depending on the partner
+agency. For example, it might mean reducing fraud, improving efficiency,
+or shortening wait times for critical services. Justin explains, “When
+we go beyond broad platitudes and are clear on who is benefiting and how
+work becomes much more rewarding”.</p>
 <p></p>
-</td>
-<td rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Justin How, Deputy Director, Quantitative Strategy, Data Science and AI Division" src="/images/careers/Inspire_Series_Justin_Quote_compressed.jpg">
+</div>
+<p><em>Justin How, Deputy Director, Quantitative Strategy, Data Science and AI Division</em>
+</p>
+</div>
+</details>
+<details class="isomer-details">
+<summary><strong>Collaboration as a Catalyst</strong>
+</summary>
+<div data-type="detailsContent" class="isomer-details-content">
+<p>In the pursuit of creating products and services that make life better
+for Singaporeans, collaborative work naturally becomes the lifeblood of
+an organisation.</p>
+<p>Collaboration goes beyond our internal teams and extends to other government
+agencies, private companies, and even the public. Leaders play a crucial
+role in breaking down barriers and promoting a collaborative culture.</p>
+<p>Janice Chua, a Deputy Director, emphasises this teamwork spirit, "When
+working on a project, we don’t just rely on ourselves. We work with a larger
+community, where we will try to multiply our strengths and build rapport
+with one another”. By focusing on collaboration, GovTech fosters a lively
+work environment where diverse ideas are welcomed and valued.</p>
 <p></p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Janice Chua, Deputy Director, Strategy and Planning Division" src="/images/careers/Inspire_Series_Janice_Quote_compressed.jpg">
+</div>
+<p><em>Janice Chua, Deputy Director, Strategy and Planning Division</em>
+</p>
+</div>
+</details>
+<details class="isomer-details">
+<summary><strong>Resource Allocation and Management</strong>
+</summary>
+<div data-type="detailsContent" class="isomer-details-content">
+<p>Another key aspect is the importance of effective resource allocation
+and management. Kelvin Wong, an Assistant Director, understands the time-sensitive
+nature of his team's work.&nbsp;</p>
+<p>To address resource strain, he collaborates with project managers to strategise
+project schedules that ensure both cybersecurity and governance are upheld.
+Kelvin observes, "Over time, familiarity with our work processes makes
+resource allocation for subsequent projects smoother."</p>
 <p></p>
-</td>
-<td rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Kelvin Wong, Assistant Director, National Strategic Projects, Government Cybersecurity Consulting Services" src="/images/careers/Inspire_Series_Kelvin_Quote_compressed.jpg">
+</div>
+<p><em>Kelvin Wong, Assistant Director, National Strategic Projects, Government Cybersecurity Consulting Services</em>
+</p>
+</div>
+</details>
+<details class="isomer-details">
+<summary><strong>Nurturing Bold Ideas and Bright Minds</strong>
+</summary>
+<div data-type="detailsContent" class="isomer-details-content">
+<p>GovTech leaders champion innovation. They foster a culture where learning
+and adaptation go hand-in-hand. Teams are encouraged to propose fresh ideas,
+take calculated risks, and learn from any bumps in the road.&nbsp;</p>
+<p>Most importantly, GovTech is a safe space for creativity. There are no
+bad ideas or silly questions. Everyone is encouraged to share their honest
+thoughts and opinions without fear of repercussions.</p>
+<p>Khim Soo says, “Every creative movement, whether big or small, contributes
+to transforming our businesses. We must be open and willing to listen to
+suggestions and work out any problems together. Ultimately, it’s about
+providing the team with the hands-on experience to ideate, innovate and
+freely share their ideas”.</p>
 <p></p>
-</td>
-</tr>
-</tbody>
-</table>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Soon Khim Soo, Deputy Director, Application Services" src="/images/careers/Inspire_Series_Khim_Soo_Quote_compressed.jpg">
+</div>
+<p><em>Soon Khim Soo, Deputy Director, Application Services</em>
+</p>
+</div>
+</details>
+</div>
+<p></p>
+<h4>Leadership with a Human Touch</h4>
+<p>At GovTech, the notion of good leadership extends far beyond the traditional
+confines of hierarchical structures. As such, qualities such as empathy,
+accessibility and inclusivity are emphasised, and genuine connections are
+formed as a result.</p>
 <h3>Interested in becoming a GovTechie?</h3>
 <div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="/careers/opportunities-for-professionals/overview/" class="isomer-card"><div class="isomer-card-body"><div class="isomer-card-title">Are you a professional? Check out the job opportunities.</div><div class="isomer-card-link">See job vacancies</div></div></a>
 <a rel="noopener noreferrer nofollow" href="/careers/students-and-graduates/overview/" class="isomer-card">
