@@ -33,7 +33,7 @@ becoming a smart city. This includes the use of sensors and Internet-of-Things
 <h4>Our award-winning Open Digital Platform (ODP)</h4>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Open Digital Platform by GovTech" src="/images/Digital Gov Efforts/ODP_logo.jpg">
+<img style="width: 70%;" height="auto" width="100%" alt="Open Digital Platform (ODP) by GovTech" src="/images/Digital Gov Efforts/ODP.png">
 </div>
 <p>One of the key products developed in this area is ODP, a smart city operating
 system that integrates various district management operations onto a single
