@@ -8,8 +8,9 @@ third_nav_title: Directories and Distribution
 image: /images/Products and Services/GovWallet_logo.png
 ---
 <h3>Making the disbursement of government payouts efficient and secure with GovWallet</h3>
+<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="GovWallet logo" src="/images/Products and Services/For citizens/GovWallet_logo_resized.jpg">
+<img style="width: 60%;" height="auto" width="100%" alt="GovWallet logo" src="/images/Products and Services/For citizens/GovWallet_logo_resized_banner.jpg">
 </div>
 <p>Gone are the days when the government would use the snail mail method
 to deliver paper vouchers or cheques for the purpose of payout disbursement.
@@ -50,7 +51,7 @@ easy tracking.</div>
 <h3>How to use GovWallet?</h3>
 <p>Access GovWallet by downloading and signing into one of the following
 apps:</p>
-<div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="/products-and-services/for-citizens/digital-services/lifesg/" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="LifeSG logo" src="/images/Products and Services/For citizens/LifeSG_600x300.png"></div></div><div class="isomer-card-body"><div class="isomer-card-title">LifeSG</div><div class="isomer-card-link">Learn more about LifeSG</div></div></a>
+<div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="/products-and-services/for-citizens/digital-services/lifesg/" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="LifeSG logo" src="/images/Products and Services/For citizens/LifeSG_600x300.png"></div></div><div class="isomer-card-body"><div class="isomer-card-title">LifeSG</div><div class="isomer-card-link">LifeSG</div></div></a>
 <a rel="noopener noreferrer nofollow" href="/products-and-services/for-citizens/digital-services/singpass/" class="isomer-card">
 <div class="isomer-card-image">
 <div class="isomer-image-wrapper">
@@ -59,11 +60,11 @@ apps:</p>
 </div>
 <div class="isomer-card-body">
 <div class="isomer-card-title">Singpass</div>
-<div class="isomer-card-link">Learn more about Singpass</div>
+<div class="isomer-card-link">Singpass</div>
 </div>
 </a>
 </div>
-<div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="/products-and-services/for-citizens/health/" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Healthy365 logo" src="/images/Products and Services/For citizens/Healthy365_600x300.png"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Healthy365</div><div class="isomer-card-link">Learn more about Healthy365</div></div></a>
+<div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="/products-and-services/for-citizens/health/" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Healthy365 logo" src="/images/Products and Services/For citizens/Healthy365_600x300.png"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Healthy365</div><div class="isomer-card-link">Healthy365</div></div></a>
 <a rel="noopener noreferrer nofollow" href="https://docs.developer.tech.gov.sg/docs?product=Workpal" class="isomer-card">
 <div class="isomer-card-image">
 <div class="isomer-image-wrapper">
@@ -73,11 +74,11 @@ apps:</p>
 <div class="isomer-card-body">
 <div class="isomer-card-title">Workpal</div>
 <div class="isomer-card-description">For Public Officers only</div>
-<div class="isomer-card-link">Learn more about Workpal</div>
+<div class="isomer-card-link">Workpal</div>
 </div>
 </a>
 </div>
-<div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="/products-and-services/for-citizens/crowdsourcing/crowdtasksg/" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="CrowdTaskSG logo" src="/images/Products and Services/For citizens/crowdtask_600x300.png"></div></div><div class="isomer-card-body"><div class="isomer-card-title">CrowdTaskSG</div><div class="isomer-card-link">Learn more about CrowdTaskSG</div></div></a>
+<div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="/products-and-services/for-citizens/crowdsourcing/crowdtasksg/" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="CrowdTaskSG logo" src="/images/Products and Services/For citizens/crowdtask_600x300.png"></div></div><div class="isomer-card-body"><div class="isomer-card-title">CrowdTaskSG</div><div class="isomer-card-link">CrowdTaskSG</div></div></a>
 </div>
 <h4>To check your credit balance</h4>
 <ul>
