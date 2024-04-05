@@ -113,7 +113,6 @@ over 600 registrations, 700 problem statements, and the creation of&nbsp;
 <a href="https://www.build.gov.sg/projects/basecamp" class="editor-rtfLink" rel="noopener noreferrer nofollow" target="_blank">13 innovative products</a>&nbsp;aimed at serving the public good. This
 year, Build for Good is back with a focus on&nbsp;<a href="https://www.build.gov.sg/environment/" class="editor-rtfLink" rel="noopener noreferrer nofollow" target="_blank">environmental issues</a>!</p>
 <p></p>
-<p>Build for Good contact:&nbsp;</p>
 <p></p>
 <ol data-tight="true" class="tight">
 <li>
