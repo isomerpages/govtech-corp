@@ -25,40 +25,25 @@ and build for the greater good.</p>
 <p>Citizens can participate by joining the Build for Good hackathon, accelerator
 program (available for winning hackathon teams), or community.</p>
 <p></p>
-<div data-type="detailGroup" class="isomer-accordion isomer-accordion-white">
-<details class="isomer-details">
-<summary><strong>Build for Good hackathon:</strong>
-</summary>
-<div data-type="detailsContent" class="isomer-details-content">
-<p>Build for Good hosts yearly month-long citizen hackathons, during which
+<div class="isomer-card-grid">
+<div class="isomer-card">
+<div class="isomer-card-body">
+<div class="isomer-card-title">Build for Good hackathon</div>
+<div class="isomer-card-description">Build for Good hosts yearly month-long citizen hackathons, during which
 teams select a public issue to tackle, brainstorm solutions, create prototypes,
-and test them with users.</p>
-<p>Throughout this journey, teams receive support in the form of domain expertise,
-mentorship, workshops, and resources.</p>
+and test them with users. Throughout this journey, teams receive support
+in the form of domain expertise, mentorship, workshops, and resources.</div>
 </div>
-</details>
-<details class="isomer-details">
-<summary><strong>Accelerator programme:&nbsp;</strong>
-</summary>
-<div data-type="detailsContent" class="isomer-details-content">
-<p>At the end of the hackathon, teams present their solutions to government
+</div>
+<div class="isomer-card">
+<div class="isomer-card-body">
+<div class="isomer-card-title">Accelerator programme</div>
+<div class="isomer-card-description">At the end of the hackathon, teams present their solutions to government
 leaders and industry experts. Winning teams will receive funding and participate
 in a 2-month accelerator programme to further refine their products and
-potentially launch them for real-world use.</p>
+potentially launch them for real-world use.</div>
 </div>
-</details>
-<details class="isomer-details">
-<summary><strong>Community:&nbsp;</strong>
-</summary>
-<div data-type="detailsContent" class="isomer-details-content">
-<p>The Build for Good community strives to unite individuals who are dedicated
-to improving Singapore. Through engaging talks, interactive workshops,
-and networking opportunities, the aim is to ignite discussions on vital
-Singaporean issues and motivate more citizens to take action.</p>
-<p>Be a part of the <a href="https://go.gov.sg/bfgcommunity" rel="noopener noreferrer nofollow" target="_blank">Build for Good community on Telegram</a> to
-stay updated on their upcoming events!</p>
-</div>
-</details>
+</div><a rel="noopener noreferrer nofollow" href="https://www.isomer.gov.sg" class="isomer-card"><div class="isomer-card-body"><div class="isomer-card-title">BFG Community</div><div class="isomer-card-description">The BFG community unites individuals dedicated to improving Singapore. Through talks, interactive workshops, and networking opportunities, the aim is to find solutions to societal issues and motivate more citizens to take action. Join the community to stay updated on their upcoming events!</div><div class="isomer-card-link">Join Telegram Group</div></div></a>
 </div>
 <h3>Who can participate in BFG?</h3>
 <p></p>
