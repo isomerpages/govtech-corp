@@ -32,54 +32,53 @@ ICT infrastructure applications.</p>
 across the WOG and provide support for public officers, our work ranges
 from reference architectures to standards and consultancy support. Below
 are a few examples.</p>
-<div class="isomer-card-grid">
-<div class="isomer-card">
-<div class="isomer-card-body">
-<div class="isomer-card-title">1. Develop government cloud and cloud-like solutions</div>
-<div class="isomer-card-description">This serves as the key foundation to enable greater agility and security
-for government agencies’ applications and services.</div>
+<p></p>
+<div data-type="detailGroup" class="isomer-accordion isomer-accordion-white">
+<details class="isomer-details">
+<summary><strong>1. Develop government cloud and cloud-like solutions</strong>
+</summary>
+<div data-type="detailsContent" class="isomer-details-content">
+<p>This serves as the key foundation to enable greater agility and security
+for government agencies’ applications and services.</p>
 </div>
-</div>
-</div>
-<div class="isomer-card-grid">
-<div class="isomer-card">
-<div class="isomer-card-body">
-<div class="isomer-card-title">2. Government networks</div>
-<div class="isomer-card-description">To help public officers work seamlessly and securely in our flexible working
+</details>
+<details class="isomer-details">
+<summary><strong>2. Government networks</strong>
+</summary>
+<div data-type="detailsContent" class="isomer-details-content">
+<p>To help public officers work seamlessly and securely in our flexible working
 environment, we rapidly ramped up VPN capacity and are developing the next
 bound of government networks (e.g. SD-WAN (Software-defined Wide Area Network),
-Zero Trust Network).</div>
+Zero Trust Network).</p>
 </div>
+</details>
+<details class="isomer-details">
+<summary><strong>3. Secure internet surfing</strong>
+</summary>
+<div data-type="detailsContent" class="isomer-details-content">
+<p>Delivered secure internet surfing for public officers to access the internet
+for work needs, overcoming the previous internet surfing separation.</p>
 </div>
-</div>
-<div class="isomer-card-grid">
-<div class="isomer-card">
-<div class="isomer-card-body">
-<div class="isomer-card-title">3. Secure internet surfing</div>
-<div class="isomer-card-description">Delivered secure internet surfing for public officers to access the internet
-for work needs, overcoming the previous internet surfing separation.</div>
-</div>
-</div>
-</div>
-<div class="isomer-card-grid">
-<div class="isomer-card">
-<div class="isomer-card-body">
-<div class="isomer-card-title">4. Smarter office tools</div>
-<div class="isomer-card-description">To enable an efficient workforce and a future-ready workplace, we have
+</details>
+<details class="isomer-details">
+<summary><strong>4. Smarter office tools</strong>
+</summary>
+<div data-type="detailsContent" class="isomer-details-content">
+<p>To enable an efficient workforce and a future-ready workplace, we have
 also pushed for better and smarter office productivity and collaborative
-tools.</div>
+tools.</p>
 </div>
+</details>
+<details class="isomer-details">
+<summary><strong>5. Provide consultancy support in ICT</strong>
+</summary>
+<div data-type="detailsContent" class="isomer-details-content">
+<p>Provide consultancy support, with our valued deep expertise, to government
+agencies upgrading their ICT infrastructure.</p>
 </div>
+</details>
 </div>
-<div class="isomer-card-grid">
-<div class="isomer-card">
-<div class="isomer-card-body">
-<div class="isomer-card-title">5. Provide consultancy support in ICT</div>
-<div class="isomer-card-description">Provide consultancy support, with our valued deep expertise, to government
-agencies upgrading their ICT infrastructure.</div>
-</div>
-</div>
-</div>
+<p></p>
 <h3>Join our team</h3>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="Infrastructure Engineer, Daryl Chee, on how GovTech is a collaborative environment for innovation" src="/images/About Us/Our capabilities/capcentre_gig_quote_daryl.jpg">
