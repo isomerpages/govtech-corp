@@ -10,7 +10,6 @@ third_nav_title: Crowdsourcing
 <div class="isomer-image-wrapper">
 <img style="width: 60%;" height="auto" width="100%" alt="Build for Good (BFG) hackathon logo" src="/images/Products and Services/For citizens/Build_for_good_logo.png">
 </div>
-<p></p>
 <h3>What is Build for Good?</h3>
 <p><a href="https://www.build.gov.sg/" class="editor-rtfLink" rel="noopener noreferrer nofollow" target="_blank">Build for Good</a>&nbsp;is an initiative
 led by&nbsp;<a href="https://open.gov.sg/" class="editor-rtfLink" rel="noopener noreferrer nofollow" target="_blank">Open Government Products (OGP)</a>&nbsp;and
@@ -112,19 +111,14 @@ field?</div>
 over 600 registrations, 700 problem statements, and the creation of&nbsp;
 <a href="https://www.build.gov.sg/projects/basecamp" class="editor-rtfLink" rel="noopener noreferrer nofollow" target="_blank">13 innovative products</a>&nbsp;aimed at serving the public good. This
 year, Build for Good is back with a focus on&nbsp;<a href="https://www.build.gov.sg/environment/" class="editor-rtfLink" rel="noopener noreferrer nofollow" target="_blank">environmental issues</a>!</p>
+<h3>Interested to find out more about Build for Good (BFG)?</h3>
 <p></p>
-<p></p>
-<ol data-tight="true" class="tight">
-<li>
-<p>If you have any inquiries about Build for Good or are interested in collaboration,
-please contact them via&nbsp;<a href="https://www.build.gov.sg/" rel="noopener noreferrer nofollow" target="_blank">contact@build.gov.sg</a>.</p>
-</li>
-</ol>
-<p></p>
-<ol data-tight="true" class="tight">
-<li>
-<p>To stay informed about the latest Build for Good initiatives, join the
-BFG community group on Telegram!</p>
-</li>
-</ol>
+<div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="mailto:contact@build.gov.sg" class="isomer-card"><div class="isomer-card-body"><div class="isomer-card-title">For any inquiries or collaboration opportunities</div><div class="isomer-card-link">Contact them</div></div></a>
+<a rel="noopener noreferrer nofollow" href="https://go.gov.sg/bfgcommunity" class="isomer-card">
+<div class="isomer-card-body">
+<div class="isomer-card-title">Stay informed about the latest Build for Good initiatives</div>
+<div class="isomer-card-link">Join BFG Telegram group</div>
+</div>
+</a>
+</div>
 <p></p>
