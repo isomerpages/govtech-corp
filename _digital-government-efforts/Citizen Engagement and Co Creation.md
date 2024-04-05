@@ -47,7 +47,7 @@ and training institutions to issue digital certificates to students upon
 the completion of their course of study.</p>
 <p>Learn more about <a href="https://www.developer.tech.gov.sg/products/categories/open-source/" rel="noopener noreferrer nofollow" target="_blank">Open Source Technologies</a>.</p>
 <h3>Co-creating with our communities</h3>
-<div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="/get-involved/join-our-communities/stack-community/" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="GovTech STACK community logo" src="/images/Digital Gov Efforts/STACK_community_600x400.png"></div></div><div class="isomer-card-body"><div class="isomer-card-title">STACK community</div><div class="isomer-card-description">Our STACK community, comprising STACK and STACKx sub-community groups, has over 5,000 members who drive Tech for Public Good in innovative ways.</div><div class="isomer-card-link">Learn more about STACK community</div></div></a>
+<div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="/get-involved/join-our-communities/stack-community/" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="GovTech STACK community logo" src="/images/Digital Gov Efforts/STACK_community_600x400.png"></div></div><div class="isomer-card-body"><div class="isomer-card-title">STACK community</div><div class="isomer-card-description">Our STACK community, comprising STACK and STACKx sub-community groups, has over 5,000 members who drive Tech for Public Good in innovative ways.</div><div class="isomer-card-link">STACK community</div></div></a>
 <a rel="noopener noreferrer nofollow" href="/get-involved/join-our-communities/tech-kaki/" class="isomer-card">
 <div class="isomer-card-image">
 <div class="isomer-image-wrapper">
@@ -58,9 +58,9 @@ the completion of their course of study.</p>
 <div class="isomer-card-title">Tech Kaki community</div>
 <div class="isomer-card-description">A community of over 7,000 members from all walks of life who co-create
 with GovTech and make an impact on government products and services.</div>
-<div class="isomer-card-link">Learn more about Tech Kaki</div>
+<div class="isomer-card-link">Tech Kaki</div>
 </div>
-</a><a rel="noopener noreferrer nofollow" href="/products-and-services/for-citizens/crowdsourcing/crowdtasksg/" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="CrowdTaskSG logo" src="/images/Digital Gov Efforts/CrowdtaskSG_600x400.png"></div></div><div class="isomer-card-body"><div class="isomer-card-title">CrowdTaskSG</div><div class="isomer-card-description">A crowdsourcing web portal for the government to gather insights that would help to improve the services we provide to citizens and businesses.</div><div class="isomer-card-link">Learn more about CrowdTaskSG</div></div></a>
+</a><a rel="noopener noreferrer nofollow" href="/products-and-services/for-citizens/crowdsourcing/crowdtasksg/" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="CrowdTaskSG logo" src="/images/Digital Gov Efforts/CrowdtaskSG_600x400.png"></div></div><div class="isomer-card-body"><div class="isomer-card-title">CrowdTaskSG</div><div class="isomer-card-description">A crowdsourcing web portal for the government to gather insights that would help to improve the services we provide to citizens and businesses.</div><div class="isomer-card-link">CrowdTaskSG</div></div></a>
 </div>
 <p></p>
 <div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="/get-involved/join-our-communities/overview/" class="isomer-card"><div class="isomer-card-body"><div class="isomer-card-title">Want to co-create with GovTech?</div><div class="isomer-card-description">Explore ways to get involved and collaborate with us.</div><div class="isomer-card-link">Join our communities</div></div></a>
