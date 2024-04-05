@@ -31,7 +31,7 @@ in an open and trusted environment.</p>
 sector services seamlessly, quickly, and conveniently. It also provides
 citizens with ownership over their personal data as their explicit consent
 is required before their data can be used.</p>
-<div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="/products-and-services/for-citizens/digital-services/singpass/" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Singpass logo" src="/images/Digital Gov Efforts/Singpass.png"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Singpass</div><div class="isomer-card-description">A personal authentication system that allows users to access government and business services online through a single login.</div><div class="isomer-card-link">Learn more about Singpass</div></div></a>
+<div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="/products-and-services/for-citizens/digital-services/singpass/" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Singpass logo" src="/images/Digital Gov Efforts/Singpass.png"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Singpass</div><div class="isomer-card-description">A personal authentication system that allows users to access government and business services online through a single login.</div><div class="isomer-card-link">Singpass</div></div></a>
 <a rel="noopener noreferrer nofollow" href="/products-and-services/for-citizens/digital-services/sgfindex/" class="isomer-card">
 <div class="isomer-card-image">
 <div class="isomer-image-wrapper">
@@ -42,7 +42,7 @@ is required before their data can be used.</p>
 <div class="isomer-card-title">SGFinDex</div>
 <div class="isomer-card-description">The first public digital infrastructure globally to utilise NDI. It helps
 users manage their finances and retrieve personal financial information.</div>
-<div class="isomer-card-link">Learn more about SGFinDex</div>
+<div class="isomer-card-link">SGFinDex</div>
 </div>
 </a>
 </div>
@@ -53,6 +53,6 @@ that is used to verify its identity during online transactions.&nbsp;</p>
 <p>For businesses, a corporate digital identity allows for secure and reliable
 transactions with government agencies, customers, and other businesses
 without the need for physical verification and tedious administrative processes.</p>
-<div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="/products-and-services/for-businesses/corporate-transactions/corppass/" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Corppass logo" src="/images/Digital Gov Efforts/corppass_logo_600x300.png"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Corppass</div><div class="isomer-card-description">An authorisation system for businesses to manage the digital service access of employees and conduct digital corporate transactions securely.</div><div class="isomer-card-link">Learn more about Corppass</div></div></a>
+<div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="/products-and-services/for-businesses/corporate-transactions/corppass/" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Corppass logo" src="/images/Digital Gov Efforts/corppass_logo_600x300.png"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Corppass</div><div class="isomer-card-description">An authorisation system for businesses to manage the digital service access of employees and conduct digital corporate transactions securely.</div><div class="isomer-card-link">Corppass</div></div></a>
 </div>
 <p></p>
