@@ -102,5 +102,6 @@ limited to the iOS and Android operating systems. As a home-grown solution
 designed to meet the country’s needs, TraceTogether and the underlying
 BlueTrace protocol are an example of how tech can be harnessed to support
 a very human endeavour—the specialised and professional work of our contact
-tracers. Watch out for the second part of this series, where we’ll be sharing
-ongoing efforts to improve TraceTogether by engaging with the wider community.</p>
+tracers.</p>
+<p>Watch out for the second part of this series, where we’ll be sharing ongoing
+efforts to improve TraceTogether by engaging with the wider community.</p>
