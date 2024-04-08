@@ -80,14 +80,17 @@ agencies upgrading their ICT infrastructure.</p>
 </div>
 <p></p>
 <h3>Join our team</h3>
+<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Infrastructure Engineer, Daryl Chee, on how GovTech is a collaborative environment for innovation" src="/images/About Us/Our capabilities/capcentre_gig_quote_daryl.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="Daryl Chee, Senior Cloud Infrastructure Engineer, giving his testimonial of GovTech" src="/images/About Us/Our capabilities/Daryl_Chee_GIG_resized.jpg">
 </div>
+<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Koh Lay Hian (Senior Infrastructure Architect) sharing about why she chose GovTech" src="/images/About Us/Our capabilities/capcentre_gig_quote_layhian.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="Koh Lay Hian (Senior Infrastructure Architect) sharing about why she chose GovTech" src="/images/About Us/Our capabilities/Ong_Lay_Hian_GIG_resized.jpg">
 </div>
+<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Senior Infrastructure Engineer sharing about why he chose GovTech and how much he is learning here" src="/images/About Us/Our capabilities/capcentre_gig_quote_karthik2.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="Karthik Parameswaran (Senior Infrastructure Engineer) sharing about why he chose GovTech and how much he is learning here" src="/images/About Us/Our capabilities/Karthik_GIG_resized.jpg">
 </div>
 <p></p>
 <p>Explore <a href="/careers/why-join-govtech/overview/" rel="noopener noreferrer nofollow" target="_blank">careers at GovTech</a> as
