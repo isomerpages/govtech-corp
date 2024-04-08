@@ -68,6 +68,10 @@ out to us via <a href="https://form.gov.sg/64a4d72658aaf80011ac2a64" rel="noopen
 </a>
 </div>
 <h3>Upcoming LAUNCH! Hackathon Sprints 2024</h3>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="LAUNCH! Programme kickoff for 2024 - for public officers only" src="/images/Products and Services/For Government Agencies/LAUNCH__banner_compressed.jpg">
+</div>
 <h4>What is the LAUNCH! Hackathon about?</h4>
 <p>LAUNCH! is an innovation programme by GovTech that works with agencies
 in organising ideathons and hackathons for <em>public officers only</em>.
