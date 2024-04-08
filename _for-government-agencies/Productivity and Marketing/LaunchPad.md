@@ -59,6 +59,7 @@ innovative solutions.</div>
 you have access within the government network to get started. If not, reach
 out to us via <a href="https://form.gov.sg/64a4d72658aaf80011ac2a64" rel="noopener noreferrer nofollow" target="_blank"><u>this form</u></a>.</p>
 <h3>Upcoming LAUNCH! Hackathon Sprints 2024</h3>
+<p></p>
 <h4>What is the LAUNCH! Hackathon about?</h4>
 <p>LAUNCH! is an innovation programme by GovTech that works with agencies
 in organising ideathons and hackathons for <em>public officers only</em>.
@@ -117,7 +118,7 @@ we have collected a total of 434 ideas. More than 50% of the ideas can
 be matched to our current central products and you have over 200 remaining
 ideas to pick from to help develop a solution.</p>
 <h4>How to access ideas and register?</h4>
-<p></p><a class="isomer-image-wrapper" href="https://tableau.data.tech.gov.sg/#/views/HackathonRegistration/ProblemSpace?:iid=1"><img style="width: 70%;" height="auto" width="100%" alt="Button: Access WOG 2023 Ideathon ideas and register for LAUNCH! Hackathon" src="/images/Products and Services/For Government Agencies/Register_button.png"></a>
+<p></p><a class="isomer-image-wrapper" href="https://tableau.data.tech.gov.sg/#/views/HackathonRegistration/ProblemSpace?:iid=1"><img style="width: 60%;" height="auto" width="100%" alt="Button: Access WOG 2023 Ideathon ideas and register for LAUNCH! Hackathon" src="/images/Products and Services/For Government Agencies/Register_button.png"></a>
 <p></p>
 <div data-type="detailGroup" class="isomer-accordion isomer-accordion-white">
 <details class="isomer-details">
@@ -141,7 +142,33 @@ of your efforts!</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="Exclusive swag pack for LAUNCH! Hackathon team members" src="/images/Products and Services/For Government Agencies/swag_pack.jpg">
 </div>
+<h3>Other ways of participating in the LAUNCH! Programme</h3>
+<h4>Share your idea(s) on LaunchPad's LAUNCH! Ideathon 2024 for WOG</h4>
 <p></p>
+<div class="isomer-card-grid">
+<div class="isomer-card">
+<div class="isomer-card-body">
+<div class="isomer-card-title">Submit an idea</div>
+<div class="isomer-card-description">Tell us about the problem you are facing, how you think the problem can
+be solved, its impact and more.</div>
+</div>
+</div>
+<div class="isomer-card">
+<div class="isomer-card-body">
+<div class="isomer-card-title">Upvote</div>
+<div class="isomer-card-description">Show your support and indicate demand for the ideas on the Ideathon if
+it is useful for you too.</div>
+</div>
+</div>
+<div class="isomer-card">
+<div class="isomer-card-body">
+<div class="isomer-card-title">Comment</div>
+<div class="isomer-card-description">Share your thoughts and feedback on any additional user features for the
+idea owner's consideration.</div>
+</div>
+</div>
+</div>
+<p></p><a class="isomer-image-wrapper" href="https://launchpad.gov.sg/ideathon/97475f5d-a885-4164-87ba-e6a4a613bdbc/ideas"><img style="width: 60%;" height="auto" width="100%" alt="Button: Access LAUNCH! Ideathon 2024" src="/images/Products and Services/For Government Agencies/Access_event_button.png"></a>
 <h3>Want to find out more about LaunchPad?</h3>
 <div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="http://eepurl.com/cUwIsD" class="isomer-card"><div class="isomer-card-body"><div class="isomer-card-title">Subscribe to the TechNews newsletter to stay updated!</div><div class="isomer-card-link">Join mailing list</div></div></a>
 <a rel="noopener noreferrer nofollow" href="mailto:info@tech.gov.sg" class="isomer-card">
