@@ -149,7 +149,7 @@ the linked form.</summary>
 </div>
 <p></p>
 <p>All confirmed participants will also be given the following swags in appreciation
-of your efforts!</p>
+of their efforts!</p>
 <p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="Exclusive swag pack for LAUNCH! Hackathon team members" src="/images/Products and Services/For Government Agencies/swag_pack.jpg">
