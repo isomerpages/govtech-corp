@@ -24,16 +24,20 @@ your knowledge about Singapore’s greenery.</p>
 </p>
 <ol data-tight="true" class="tight">
 <li>
-<p>Learn about the green giants around you with TreesSG</p>
+<p><a href="https://staging-lite.d2uz1494fahfnj.amplifyapp.com/4-must-have-apps-for-nature-lovers-in-singapore/#:~:text=1.%20Learn%20about%20the%20green%20giants%20around%20you%20with%20TreesSG" rel="noopener noreferrer nofollow" target="_blank">Learn about the green giants around you with TreesSG</a>
+</p>
 </li>
 <li>
-<p>See what lives near you with SGBioAtlas</p>
+<p><a href="https://staging-lite.d2uz1494fahfnj.amplifyapp.com/4-must-have-apps-for-nature-lovers-in-singapore/#:~:text=2.%20See%20what%20lives%20near%20you%20with%20SGBioAtlas" rel="noopener noreferrer nofollow" target="_blank">See what lives near you with SGBioAtlas</a>
+</p>
 </li>
 <li>
-<p>Bring nature nearer with NParks Explore A Route</p>
+<p><a href="https://staging-lite.d2uz1494fahfnj.amplifyapp.com/4-must-have-apps-for-nature-lovers-in-singapore/#:~:text=3.%20Bring%20nature%20nearer%20with%20NParks%20Explore%20A%20Route" rel="noopener noreferrer nofollow" target="_blank">Bring nature nearer with NParks Explore A Route</a>
+</p>
 </li>
 <li>
-<p>Be prepared for the weather with MyENV</p>
+<p><a href="https://staging-lite.d2uz1494fahfnj.amplifyapp.com/4-must-have-apps-for-nature-lovers-in-singapore/#:~:text=4.%20Be%20prepared%20for%20the%20weather%20with%20MyENV" rel="noopener noreferrer nofollow" target="_blank">Be prepared for the weather with MyENV</a>
+</p>
 </li>
 </ol>
 <h3>1. Learn about the green giants around you with TreesSG</h3>
