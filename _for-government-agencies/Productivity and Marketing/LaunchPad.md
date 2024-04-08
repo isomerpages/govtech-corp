@@ -58,8 +58,16 @@ innovative solutions.</div>
 <p>Visit <a href="https://launchpad.data.tech.gov.sg/" rel="noopener noreferrer nofollow" target="_blank"><u>LaunchPad's website</u></a> if
 you have access within the government network to get started. If not, reach
 out to us via <a href="https://form.gov.sg/64a4d72658aaf80011ac2a64" rel="noopener noreferrer nofollow" target="_blank"><u>this form</u></a>.</p>
+<h3>Want to find out more about LaunchPad?</h3>
+<div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="http://eepurl.com/cUwIsD" class="isomer-card"><div class="isomer-card-body"><div class="isomer-card-title">Subscribe to the TechNews newsletter to stay updated!</div><div class="isomer-card-link">Join mailing list</div></div></a>
+<a rel="noopener noreferrer nofollow" href="mailto:info@tech.gov.sg" class="isomer-card">
+<div class="isomer-card-body">
+<div class="isomer-card-title">Have questions? Email us</div>
+<div class="isomer-card-link">Contact us</div>
+</div>
+</a>
+</div>
 <h3>Upcoming LAUNCH! Hackathon Sprints 2024</h3>
-<p></p>
 <h4>What is the LAUNCH! Hackathon about?</h4>
 <p>LAUNCH! is an innovation programme by GovTech that works with agencies
 in organising ideathons and hackathons for <em>public officers only</em>.
@@ -169,13 +177,4 @@ idea owner's consideration.</div>
 </div>
 </div>
 <p></p><a class="isomer-image-wrapper" href="https://launchpad.gov.sg/ideathon/97475f5d-a885-4164-87ba-e6a4a613bdbc/ideas"><img style="width: 60%;" height="auto" width="100%" alt="Button: Access LAUNCH! Ideathon 2024" src="/images/Products and Services/For Government Agencies/Access_event_button.png"></a>
-<h3>Want to find out more about LaunchPad?</h3>
-<div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="http://eepurl.com/cUwIsD" class="isomer-card"><div class="isomer-card-body"><div class="isomer-card-title">Subscribe to the TechNews newsletter to stay updated!</div><div class="isomer-card-link">Join mailing list</div></div></a>
-<a rel="noopener noreferrer nofollow" href="mailto:info@tech.gov.sg" class="isomer-card">
-<div class="isomer-card-body">
-<div class="isomer-card-title">Have questions? Email us</div>
-<div class="isomer-card-link">Contact us</div>
-</div>
-</a>
-</div>
 <p></p>
