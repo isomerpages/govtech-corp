@@ -67,6 +67,7 @@ out to us via <a href="https://form.gov.sg/64a4d72658aaf80011ac2a64" rel="noopen
 </div>
 </a>
 </div>
+<hr>
 <h3>Upcoming LAUNCH! Hackathon Sprints 2024</h3>
 <p></p>
 <div class="isomer-image-wrapper">
