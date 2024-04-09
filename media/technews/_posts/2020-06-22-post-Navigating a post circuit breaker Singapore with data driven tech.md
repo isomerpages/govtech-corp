@@ -143,5 +143,4 @@ against COVID-19,&nbsp;<a href="https://www.developer.gov.sg/covid-volunteering/
 <a href="https://govtech.taleo.net/careersection/govtech_external/jobsearch.ftl" class="editor-rtfLink" rel="noopener noreferrer nofollow" target="_blank">career opportunities</a>&nbsp;are also available. Click on the respective
 links to find out more.</p>
 <p>Missed the webinar? Click&nbsp;<a href="https://www.youtube.com/watch?v=-wtORFpvFCg&amp;feature=youtu.be" class="editor-rtfLink" rel="noopener noreferrer nofollow" target="_blank">here</a>&nbsp;to
-watch the recording and stay updated on future STACK-X: Meetups&nbsp;
-<a href="https://go.gov.sg/meetup" class="editor-rtfLink" rel="noopener noreferrer nofollow" target="_blank">here</a>.</p>
+watch the recording and stay updated on future STACK-X: Meetups <a href="https://go.gov.sg/meetup" class="editor-rtfLink" rel="noopener noreferrer nofollow" target="_blank">here</a>.</p>
