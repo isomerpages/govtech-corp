@@ -67,10 +67,6 @@ out to us via <a href="https://form.gov.sg/64a4d72658aaf80011ac2a64" rel="noopen
 </div>
 </a>
 </div>
-<p></p>
-<div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="/products-and-services/for-government-agencies/productivity-and-marketing/launchpad/hackathon/" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="LAUNCH! Hackathon Sprints 2024 logo" src="/images/Products and Services/For Government Agencies/Launch_hackathon_logo_845x200.png"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Upcoming LAUNCH! Hackathon Sprints 2024</div><div class="isomer-card-description">LAUNCH! is an innovation programme by GovTech that works with agencies in organising ideathons and hackathons for public officers only.</div><div class="isomer-card-link">LAUNCH! Hackathons 2024</div></div></a>
-</div>
-<p></p>
 <h3>Upcoming LAUNCH! Hackathon Sprints 2024</h3>
 <p></p>
 <div class="isomer-image-wrapper">
