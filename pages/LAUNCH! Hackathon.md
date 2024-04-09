@@ -15,8 +15,12 @@ image: /images/Products and Services/For Government
 </div>
 <h3>What is the LAUNCH! Hackathon about?</h3>
 <p>LAUNCH! is an innovation programme by GovTech that works with agencies
-in organising ideathons and hackathons for <em>public officers only</em>.
-There will be a series of 4 hackathon sprints throughout 2024 and a showcase
+in organising ideathons and hackathons for <em>public officers only</em>.</p>
+<p>Spearheaded by GovTech in collaboration with various government agencies
+and industry partners like Microsoft, AWS, and Databricks, LAUNCH! is a
+movement towards fostering a culture of innovation and collaboration across
+the public sector.</p>
+<p>There will be a series of 4 hackathon sprints throughout 2024 and a showcase
 at the end of the year to present the successful prototypes and products.</p>
 <p>These events are opportunities for GovTech to collaborate and work on
 innovative ideas that can potentially enhance the lives of our citizens
