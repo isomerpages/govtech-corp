@@ -11,7 +11,7 @@ image: /images/Products and Services/For Government
 <h3>Upcoming LAUNCH! Hackathon Sprints 2024</h3>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="LAUNCH! Programme kickoff for 2024 - for public officers only" src="/images/Products and Services/For Government Agencies/LAUNCH__banner_compressed.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="Launch! Hackathon logo" src="/images/Products and Services/For Government Agencies/Launch_hackathon_logo_845x200.png">
 </div>
 <h3>What is the LAUNCH! Hackathon about?</h3>
 <p>LAUNCH! is an innovation programme by GovTech that works with agencies
