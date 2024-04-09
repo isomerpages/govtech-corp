@@ -114,8 +114,7 @@ over 600 registrations, 700 problem statements, and the creation of&nbsp;
 <a href="https://www.build.gov.sg/projects/basecamp" class="editor-rtfLink" rel="noopener noreferrer nofollow" target="_blank">13 innovative products</a>&nbsp;aimed at serving the public good. This
 year, Build for Good is back with a focus on&nbsp;<a href="https://www.build.gov.sg/environment/" class="editor-rtfLink" rel="noopener noreferrer nofollow" target="_blank">environmental issues</a>!</p>
 <h3>Interested to find out more about Build for Good (BFG)?</h3>
-<p></p>
-<div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="mailto:contact@build.gov.sg" class="isomer-card"><div class="isomer-card-body"><div class="isomer-card-title">For any inquiries or collaboration opportunities</div><div class="isomer-card-link">Contact them</div></div></a>
+<div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="mailto:contact@build.gov.sg" class="isomer-card"><div class="isomer-card-body"><div class="isomer-card-title">Enquire about the programme or collaboration opportunities</div><div class="isomer-card-link">Contact the team</div></div></a>
 <a rel="noopener noreferrer nofollow" href="https://go.gov.sg/bfgcommunity" class="isomer-card">
 <div class="isomer-card-body">
 <div class="isomer-card-title">Stay informed about the latest Build for Good initiatives</div>
