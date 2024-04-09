@@ -192,8 +192,9 @@ in image).</p>
 <p></p>
 <ol data-tight="true" class="tight">
 <li>
-<p><strong>Submit an idea:</strong> Tell us about the problem you are facing,
-how you think the problem can be solved, its impact and more.</p>
+<p><a href="https://launchpad.gov.sg/ideathon/97475f5d-a885-4164-87ba-e6a4a613bdbc/submit" rel="noopener noreferrer nofollow" target="_blank">Submit an idea</a><strong>:</strong> Tell
+us about the problem you are facing, how you think the problem can be solved,
+its impact and more.</p>
 </li>
 <li>
 <p><strong>Upvote: </strong>Show your support and indicate demand for the
