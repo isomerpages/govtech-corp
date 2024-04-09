@@ -36,11 +36,16 @@ your fresh perspectives are the catalysts for change that we seek.</p>
 <div class="isomer-card">
 <div class="isomer-card-body">
 <div class="isomer-card-title">1. Collaborate with like-minded individuals to develop innovative solutions</div>
+<div class="isomer-card-description">Share your ideas, collaborate with others, and get valuable feedback through
+upvotes.</div>
 </div>
 </div>
 <div class="isomer-card">
 <div class="isomer-card-body">
 <div class="isomer-card-title">2. Work on ideas that have the potential to make a real difference</div>
+<div class="isomer-card-description">Take part in intensive workshops where GovTech engineers and data scientists
+help you turn your ideas into working prototypes. See your vision come
+to life!</div>
 </div>
 </div>
 </div>
@@ -49,11 +54,15 @@ your fresh perspectives are the catalysts for change that we seek.</p>
 <div class="isomer-card">
 <div class="isomer-card-body">
 <div class="isomer-card-title">3. Learn from industry experts and gain valuable experience</div>
+<div class="isomer-card-description">Benefit from the expertise of GovTech and industry partners to refine
+your ideas and get technical guidance.</div>
 </div>
 </div>
 <div class="isomer-card">
 <div class="isomer-card-body">
-<div class="isomer-card-title">4. Be a part of a larger ecosystem dedicated to fostering innovation</div>
+<div class="isomer-card-title">4. Showcase and scale your products for broader impact</div>
+<div class="isomer-card-description">The best projects get showcased at a prestigious event, giving you recognition
+and potential opportunities to bring your solutions to a wider audience.</div>
 </div>
 </div>
 </div>
