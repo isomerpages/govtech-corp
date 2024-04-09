@@ -84,6 +84,10 @@ and abroad.</p>
 <p>Since its launch in 2018, the app has been downloaded by more than 150,000
 users and used to register six in 10 newborns at both government and private
 hospitals.</p>
+<p></p>
+<div class="iframe-wrapper">
+<iframe style="max-width: 100%;" height="400" width="100%" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/YaP5eqAIj7g?si=NGSbZE8KjuZ1CJYR"></iframe>
+</div>
 <h3>Back in business</h3>
 <p>Aside from improving the lives of citizens, the Government’s Smart Nation
 initiative also supports businesses in Singapore.</p>
