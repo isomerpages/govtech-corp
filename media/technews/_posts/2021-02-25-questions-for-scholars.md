@@ -1,7 +1,6 @@
 ---
 layout: post
-title: "‘Tech sector booming – why you work for gahmen?’ and other questions you always wanted to ask a Smart Nation scholar 
-"
+title: "‘Tech sector booming – why you work for gahmen?’ and other questions you always wanted to ask a Smart Nation scholar"
 permalink: "/media/technews/questions-for-scholars"
 image: "/images/technews/SNS01.png"
 ---
