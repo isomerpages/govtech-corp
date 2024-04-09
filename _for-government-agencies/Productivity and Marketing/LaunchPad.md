@@ -68,10 +68,167 @@ out to us via <a href="https://form.gov.sg/64a4d72658aaf80011ac2a64" rel="noopen
 </a>
 </div>
 <p></p>
-<div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="/products-and-services/for-government-agencies/productivity-and-marketing/launchpad/hackathon/" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="LAUNCH! Hackathon Sprints 2024 logo" src="/images/Products and Services/For Government Agencies/Launch_hackathon_logo_845x200.png"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Upcoming LAUNCH! Hackathon Sprints 2024</div><div class="isomer-card-description">LAUNCH! is an innovation programme by GovTech that works with agencies in organising ideathons and hackathons for public officers only.
-
-Make a difference today by working on innovative ideas that can potentially enhance the lives of citizens and public officers.
-
-Find out more!</div><div class="isomer-card-link">LAUNCH! Hackathons 2024</div></div></a>
+<div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="/products-and-services/for-government-agencies/productivity-and-marketing/launchpad/hackathon/" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="LAUNCH! Hackathon Sprints 2024 logo" src="/images/Products and Services/For Government Agencies/Launch_hackathon_logo_845x200.png"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Upcoming LAUNCH! Hackathon Sprints 2024</div><div class="isomer-card-description">LAUNCH! is an innovation programme by GovTech that works with agencies in organising ideathons and hackathons for public officers only.</div><div class="isomer-card-link">LAUNCH! Hackathons 2024</div></div></a>
+</div>
+<p></p>
+<h3>Upcoming LAUNCH! Hackathon Sprints 2024</h3>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Launch! Hackathon logo" src="/images/Products and Services/For Government Agencies/Launch_hackathon_logo_845x200.png">
+</div>
+<p></p>
+<div data-type="detailGroup" class="isomer-accordion isomer-accordion-white">
+<details class="isomer-details">
+<summary>What is the LAUNCH! Hackathon about?</summary>
+<div data-type="detailsContent" class="isomer-details-content">
+<p>LAUNCH! is an innovation programme by GovTech that works with agencies
+in organising ideathons and hackathons for <em>public officers only</em>.</p>
+<p>Spearheaded by GovTech in collaboration with various government agencies
+and industry partners like Microsoft, AWS, and Databricks, LAUNCH! is a
+movement towards fostering a culture of innovation and collaboration across
+the public sector.</p>
+<p>There will be a series of 4 hackathon sprints throughout 2024 and a showcase
+at the end of the year to present the successful prototypes and products.</p>
+<p>These events are opportunities for GovTech to collaborate and work on
+innovative ideas that can potentially enhance the lives of our citizens
+and public officers.</p>
+</div>
+</details>
+<details class="isomer-details">
+<summary>Who is it for?</summary>
+<div data-type="detailsContent" class="isomer-details-content">
+<p>The LAUNCH! Hackathon Sprints are reserved for developers, engineers,
+designers, data scientists, and all-around tech enthusiasts from <strong>government agencies</strong>.</p>
+<p>Whether you're a seasoned hackathon veteran or a bright-eyed newcomer,
+your fresh perspectives are the catalysts for change that we seek.</p>
+</div>
+</details>
+<details class="isomer-details">
+<summary>Why should you join the LAUNCH! Programme?</summary>
+<div data-type="detailsContent" class="isomer-details-content">
+<p></p>
+<div class="isomer-card-grid">
+<div class="isomer-card">
+<div class="isomer-card-body">
+<div class="isomer-card-title">1. Collaborate with like-minded individuals to develop innovative solutions</div>
+<div class="isomer-card-description">Share your ideas, collaborate with others, and get valuable feedback through
+upvotes.</div>
+</div>
+</div>
+<div class="isomer-card">
+<div class="isomer-card-body">
+<div class="isomer-card-title">2. Work on ideas that have the potential to make a real difference</div>
+<div class="isomer-card-description">Take part in intensive workshops where GovTech engineers and data scientists
+help you turn your ideas into working prototypes. See your vision come
+to life!</div>
+</div>
+</div>
+</div>
+<p></p>
+<div class="isomer-card-grid">
+<div class="isomer-card">
+<div class="isomer-card-body">
+<div class="isomer-card-title">3. Learn from industry experts and gain valuable experience</div>
+<div class="isomer-card-description">Benefit from the expertise of GovTech and industry partners to refine
+your ideas and get technical guidance.</div>
+</div>
+</div>
+<div class="isomer-card">
+<div class="isomer-card-body">
+<div class="isomer-card-title">4. Showcase and scale your products for broader impact</div>
+<div class="isomer-card-description">The best projects get showcased at a prestigious event, giving you recognition
+and potential opportunities to bring your solutions to a wider audience.</div>
+</div>
+</div>
+</div>
+</div>
+</details>
+<details class="isomer-details">
+<summary>Forming teams — considerations</summary>
+<div data-type="detailsContent" class="isomer-details-content">
+<ul>
+<li>
+<p>Each hackathon team — maximum 4 members (minimum 1 business user or idea
+owner to validate the POC from the user's POV).&nbsp;</p>
+</li>
+<li>
+<p>If you want to team up with your friends, do encourage them to choose
+the same idea.</p>
+</li>
+</ul>
+</div>
+</details>
+<details class="isomer-details">
+<summary>Exclusive swag packs for participants!</summary>
+<div data-type="detailsContent" class="isomer-details-content">
+<p>All confirmed participants will also be given the following swags in appreciation
+of their efforts!</p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Exclusive swag pack for LAUNCH! Hackathon team members" src="/images/Products and Services/For Government Agencies/swag_pack.jpg">
+</div>
+<p></p>
+</div>
+</details>
+<details class="isomer-details">
+<summary>Ideas from the WOG 2023 Ideathon</summary>
+<div data-type="detailsContent" class="isomer-details-content">
+<p></p><a class="isomer-image-wrapper" href="https://teams.microsoft.com/l/team/19%3aCSzeVJX-B-_Q1821ftN1kKdxhw8vDlhKf9VOztkWLE81%40thread.tacv2/conversations?groupId=f3331322-026c-44c8-a6a8-92cff04b50ba&amp;tenantId=0b11c524-9a1c-4e1b-84cb-6336aefc2243"><img style="width: 80%;" height="auto" width="100%" alt="Number of ideas, participants, agencies for WOG 2023 Ideathon" src="/images/Products and Services/For Government Agencies/WOG_2023_ideathon.jpg"></a>
+<p>From the <a href="https://teams.microsoft.com/l/team/19%3aCSzeVJX-B-_Q1821ftN1kKdxhw8vDlhKf9VOztkWLE81%40thread.tacv2/conversations?groupId=f3331322-026c-44c8-a6a8-92cff04b50ba&amp;tenantId=0b11c524-9a1c-4e1b-84cb-6336aefc2243" rel="noopener noreferrer nofollow" target="_blank">WOG 2023 Ideathon</a>,
+we have collected a total of 434 ideas. More than 50% of the ideas can
+be matched to our current central products and you have <a href="https://tableau.data.tech.gov.sg/#/views/HackathonRegistration/ProblemSpace?:iid=1" rel="noopener noreferrer nofollow" target="_blank">over 200 remaining ideas</a> to
+pick from to help develop a solution.</p>
+</div>
+</details>
+<details class="isomer-details">
+<summary>How to register/sign up?</summary>
+<div data-type="detailsContent" class="isomer-details-content">
+<ol data-tight="true" class="tight">
+<li>
+<p>Click on your desired problem title &amp; register your interest in the
+linked form (link in image).</p>
+</li>
+</ol><a class="isomer-image-wrapper" href="https://tableau.data.tech.gov.sg/#/views/HackathonRegistration/ProblemSpace?:iid=1"><img style="width: 100%" height="auto" width="100%" alt="LAUNCH! Hackathon - selecting desired problem title and registration to participate in this event" src="/images/Products and Services/For Government Agencies/LaunchPad_problem_spaces_resized.jpg"></a>
+<p></p>
+<ol start="2" data-tight="true" class="tight">
+<li>
+<p>Your details should be pre-filled in the <a href="https://form.gov.sg/6603e84b2954793dcdc2b7e8?6603e8711a085fad07e3601d" rel="noopener noreferrer nofollow" target="_blank">registration form</a> (link
+in image).</p>
+</li>
+</ol><a class="isomer-image-wrapper" href="https://form.gov.sg/6603e84b2954793dcdc2b7e8?6603e8711a085fad07e3601d"><img style="width: 100%" height="auto" width="100%" alt="LAUNCH! Hackathon registration form" src="/images/Products and Services/For Government Agencies/LaunchPad_registration_form_resized.jpg"></a>
+<p></p>
+</div>
+</details>
+<details class="isomer-details">
+<summary>Other ways of participating in the LAUNCH! Programme</summary>
+<div data-type="detailsContent" class="isomer-details-content">
+<h4>Share your idea(s) on LaunchPad's LAUNCH! Ideathon 2024 for WOG:</h4>
+<div class="isomer-card-grid">
+<div class="isomer-card">
+<div class="isomer-card-body">
+<div class="isomer-card-title">Submit an idea</div>
+<div class="isomer-card-description">Tell us about the problem you are facing, how you think the problem can
+be solved, its impact and more.</div>
+</div>
+</div>
+<div class="isomer-card">
+<div class="isomer-card-body">
+<div class="isomer-card-title">Upvote</div>
+<div class="isomer-card-description">Show your support and indicate demand for the ideas on the Ideathon if
+it is useful for you too.</div>
+</div>
+</div>
+<div class="isomer-card">
+<div class="isomer-card-body">
+<div class="isomer-card-title">Comment</div>
+<div class="isomer-card-description">Share your thoughts and feedback on any additional user features for the
+idea owner's consideration.</div>
+</div>
+</div>
+</div>
+<p></p><a class="isomer-image-wrapper" href="https://launchpad.gov.sg/ideathon/97475f5d-a885-4164-87ba-e6a4a613bdbc/ideas"><img style="width: 60%;" height="auto" width="100%" alt="Button: Access LAUNCH! Ideathon 2024" src="/images/Products and Services/For Government Agencies/Access_event_button.png"></a>
+<p></p>
+</div>
+</details>
 </div>
 <p></p>
