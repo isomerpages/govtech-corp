@@ -65,7 +65,7 @@ and government agencies.</p>
 such as caps or helmets, that could obstruct temperature screening. (Photo
 credit: GovTech).</p>
 <h3>A way around the crowds</h3>
-<p>Essential services have operated continuously throughout the Covid-19
+<p>Essential services have operated continuously throughout the COVID-19
 period in Singapore to meet people’s needs. These include many retail malls,
 supermarkets, markets, banks, and post offices, among others. Measures
 to ensure safe distancing included guidelines on having physical separation
@@ -92,7 +92,7 @@ had to develop solutions to bring together different data formats from
 various partners. We were able to bring our experience in developing geospatial
 analytics solutions for urban planning in partnership with operators to
 develop convenient solutions that can help everyone in Singapore stay safer
-during the Covid-19 period.” Ms Siew said.</p>
+during the COVID-19 period.” Ms Siew said.</p>
 <p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="A snapshot of crowd levels of participating malls across Singapore. Users can click on each symbol to check recent trends of crowd levels." src="/images/technews/Navigating_a_post_circuit_breaker_Singapore_3.jpg">
