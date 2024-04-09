@@ -107,40 +107,26 @@ your fresh perspectives are the catalysts for change that we seek.</p>
 <summary>Why should you join the LAUNCH! Programme?</summary>
 <div data-type="detailsContent" class="isomer-details-content">
 <p></p>
-<div class="isomer-card-grid">
-<div class="isomer-card">
-<div class="isomer-card-body">
-<div class="isomer-card-title">1. Collaborate with like-minded individuals to develop innovative solutions</div>
-<div class="isomer-card-description">Share your ideas, collaborate with others, and get valuable feedback through
-upvotes.</div>
-</div>
-</div>
-<div class="isomer-card">
-<div class="isomer-card-body">
-<div class="isomer-card-title">2. Work on ideas that have the potential to make a real difference</div>
-<div class="isomer-card-description">Take part in intensive workshops where GovTech engineers and data scientists
-help you turn your ideas into working prototypes. See your vision come
-to life!</div>
-</div>
-</div>
-</div>
-<p></p>
-<div class="isomer-card-grid">
-<div class="isomer-card">
-<div class="isomer-card-body">
-<div class="isomer-card-title">3. Learn from industry experts and gain valuable experience</div>
-<div class="isomer-card-description">Benefit from the expertise of GovTech and industry partners to refine
-your ideas and get technical guidance.</div>
-</div>
-</div>
-<div class="isomer-card">
-<div class="isomer-card-body">
-<div class="isomer-card-title">4. Showcase and scale your products for broader impact</div>
-<div class="isomer-card-description">The best projects get showcased at a prestigious event, giving you recognition
-and potential opportunities to bring your solutions to a wider audience.</div>
-</div>
-</div>
-</div>
+<ol data-tight="true" class="tight">
+<li>
+<p><strong>Connect and collaborate:</strong> Share your ideas, collaborate
+with others, and get valuable feedback through upvotes.</p>
+</li>
+<li>
+<p><strong>Expertise and resources: </strong>Benefit from the expertise of
+GovTech and industry partners to refine your ideas and get technical guidance.</p>
+</li>
+<li>
+<p><strong>From ideas to prototypes: </strong>Take part in intensive workshops
+where GovTech engineers and data scientists help you turn your ideas into
+working prototypes. See your vision come to life!</p>
+</li>
+<li>
+<p><strong>Showcase and scale your products: </strong>The best projects get
+showcased at a prestigious event, giving you recognition and potential
+opportunities to bring your solutions to a wider audience.</p>
+</li>
+</ol>
 </div>
 </details>
 <details class="isomer-details">
@@ -203,29 +189,21 @@ in image).</p>
 <summary>Other ways of participating in the LAUNCH! Programme</summary>
 <div data-type="detailsContent" class="isomer-details-content">
 <h4>Share your idea(s) on LaunchPad's LAUNCH! Ideathon 2024 for WOG:</h4>
-<div class="isomer-card-grid">
-<div class="isomer-card">
-<div class="isomer-card-body">
-<div class="isomer-card-title">Submit an idea</div>
-<div class="isomer-card-description">Tell us about the problem you are facing, how you think the problem can
-be solved, its impact and more.</div>
-</div>
-</div>
-<div class="isomer-card">
-<div class="isomer-card-body">
-<div class="isomer-card-title">Upvote</div>
-<div class="isomer-card-description">Show your support and indicate demand for the ideas on the Ideathon if
-it is useful for you too.</div>
-</div>
-</div>
-<div class="isomer-card">
-<div class="isomer-card-body">
-<div class="isomer-card-title">Comment</div>
-<div class="isomer-card-description">Share your thoughts and feedback on any additional user features for the
-idea owner's consideration.</div>
-</div>
-</div>
-</div>
+<p></p>
+<ol data-tight="true" class="tight">
+<li>
+<p><strong>Submit an idea:</strong> Tell us about the problem you are facing,
+how you think the problem can be solved, its impact and more.</p>
+</li>
+<li>
+<p><strong>Upvote: </strong>Show your support and indicate demand for the
+ideas on the Ideathon if it is useful for you too.</p>
+</li>
+<li>
+<p><strong>Comment:</strong> Share your thoughts and feedback on any additional
+user features for the idea owner's consideration.</p>
+</li>
+</ol>
 <p></p><a class="isomer-image-wrapper" href="https://launchpad.gov.sg/ideathon/97475f5d-a885-4164-87ba-e6a4a613bdbc/ideas"><img style="width: 60%;" height="auto" width="100%" alt="Button: Access LAUNCH! Ideathon 2024" src="/images/Products and Services/For Government Agencies/Access_event_button.png"></a>
 <p></p>
 </div>
