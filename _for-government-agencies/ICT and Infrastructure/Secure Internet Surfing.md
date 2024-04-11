@@ -27,7 +27,7 @@ tasks such as logging into social media platforms to upload posts, as well
 as opening links directly from emails and documents.</p>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Understanding the user journey of remote browsing, and benefits of secure browsing." src="/images/Products and Services/For Government Agencies/SIS_infographic_compressed.jpg">
+<img style="width: 80%;" height="auto" width="100%" alt="Understanding the user journey of remote browsing, and benefits of secure browsing." src="/images/Products and Services/For Government Agencies/SIS_infographic_compressed.jpg">
 </div>
 <p>As an extension of SIS, there is also Content Disarm &amp; Reconstruction
 (CDR), a security feature that aims to reduce security risks associated
