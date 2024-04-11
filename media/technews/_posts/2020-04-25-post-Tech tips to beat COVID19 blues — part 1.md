@@ -30,6 +30,10 @@ Background feature. This feature allows you to display custom images or
 videos in the background. Additionally, Zoom lets you record video calls.
 This can be handy for students who want to revisit course materials and
 lectures.</p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Meet people online through an app on your phone." src="/images/technews/Tech_tips_to_beat_COVID_19_blues___part_1_1.jpg">
+</div>
 <h3>2. Get organised with Airtable</h3>
 <p>Keeping tabs on multiple projects when your colleagues are cocooned at
 home can be cumbersome. Enter Airtable, a free-to-use cloud collaboration
@@ -62,6 +66,10 @@ with the help of data gathered by staff on the ground and aerial photographs
 taken by drones. NParks has advised that people should avoid areas where
 footfall is high and return home as soon as they complete their exercise
 to free up space and allow others to use the park.</p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="NParks map which shows the crowd status of parks in Singapore online, for people who love to hike" src="/images/technews/Tech_tips_to_beat_COVID_19_blues___part_1_2.jpg">
+</div>
 <h3>5. Stay healthy with home workouts</h3>
 <p>Are parks too crowded? Fret not. Plenty of YouTube and Instagram videos
 and apps catering to varying fitness goals provide home workouts you can
@@ -74,6 +82,10 @@ a new platform connecting freelance fitness instructors to users across
 Singapore. With 88 verified instructors in piloxing, Zumba, yoga and more,
 you can choose from free content or classes that cost as little as $10
 to $20 per session.</p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Screenshot from ActiveSG website" src="/images/technews/Tech_tips_to_beat_COVID_19_blues___part_1_3.jpg">
+</div>
 <h3>Protect your mental well-being</h3>
 <p>Much of life, as we know, has changed in a remarkably short time thanks
 to COVID-19. Protecting our mental well-being is as imperative, if not
