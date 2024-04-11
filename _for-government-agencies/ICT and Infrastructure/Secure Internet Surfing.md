@@ -25,6 +25,10 @@ SIS now allows public offers to access the internet without the need for
 a separate device. With it, they can enjoy peace of mind while performing
 tasks such as logging into social media platforms to upload posts, as well
 as opening links directly from emails and documents.</p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Understanding the user journey of remote browsing, and benefits of secure browsing." src="/images/Products and Services/For Government Agencies/SIS_infographic_compressed.jpg">
+</div>
 <p><strong>Include first infographic from Straits Times article (to recreate, different design)</strong>
 </p>
 <p><a href="https://www.straitstimes.com/tech/most-spore-public-servants-will-have-secure-internet-access-without-needing-separate-device" rel="noopener noreferrer nofollow" target="_blank">https://www.straitstimes.com/tech/most-spore-public-servants-will-have-secure-internet-access-without-needing-separate-device</a>
