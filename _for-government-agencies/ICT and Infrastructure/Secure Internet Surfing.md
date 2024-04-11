@@ -29,10 +29,6 @@ as opening links directly from emails and documents.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="Understanding the user journey of remote browsing, and benefits of secure browsing." src="/images/Products and Services/For Government Agencies/SIS_infographic_compressed.jpg">
 </div>
-<p><strong>Include first infographic from Straits Times article (to recreate, different design)</strong>
-</p>
-<p><a href="https://www.straitstimes.com/tech/most-spore-public-servants-will-have-secure-internet-access-without-needing-separate-device" rel="noopener noreferrer nofollow" target="_blank">https://www.straitstimes.com/tech/most-spore-public-servants-will-have-secure-internet-access-without-needing-separate-device</a>
-</p>
 <p>As an extension of SIS, there is also Content Disarm &amp; Reconstruction
 (CDR), a security feature that aims to reduce security risks associated
 with file downloading. CDR isolates potential malware threats and allows
@@ -42,8 +38,6 @@ Image Build (GSIB) devices for file download via SIS.</p>
 <p>SIS improves public officers' productivity while safeguarding sensitive
 government data. With CDR, the number of allowed websites and file types
 for downloads is also increased.</p>
-<p><strong>Include 2nd infographic from Straits Times article (to recreate, different design)</strong>
-</p>
 <h3>How to use SIS?</h3>
 <ol data-tight="true" class="tight">
 <li>
