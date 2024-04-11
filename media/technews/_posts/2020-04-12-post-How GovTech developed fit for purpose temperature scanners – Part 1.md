@@ -123,4 +123,3 @@ virus situation as a unit,” Mr Quek concluded.</p>
 volume of human traffic, what are the options for areas which have to process
 more people? Read&nbsp;<a href="https://www.tech.gov.sg/media/technews/how-gt-developed-fit-for-purpose-temperature-scanners-part-2" class="editor-rtfLink" rel="noopener noreferrer nofollow" target="_blank">part 2</a>&nbsp;and&nbsp;
 <a href="https://www.tech.gov.sg/media/technews/how-gt-developed-fit-for-purpose-temperature-scanners-part-3" class="editor-rtfLink" rel="noopener noreferrer nofollow" target="_blank">part 3</a>&nbsp;to find out!</p>
-<p></p>
