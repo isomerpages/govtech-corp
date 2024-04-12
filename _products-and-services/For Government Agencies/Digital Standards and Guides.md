@@ -8,16 +8,13 @@ description: The Digital Service Standards provide guidance to government
 third_nav_title: For Government Agencies
 ---
 <h3>Shaping a positive, consistent digital experience through digital standards and guides</h3>
-<p>Singapore's repertoire of digital government services is always expanding,
-as our sister agencies continue to identify areas where they can improve
-citizens' lives. To ensure that the new offerings provide a user experience
-that's consistent with their predecessors' – one that's secure, safe and
-efficient – we have come up with the Digital Service Standards (DSS).</p>
-<p>A requisite for all government agencies to follow when building a new
-digital service, the DSS helps to align their design thinking with the
-collective. Doing so will ensure that the new services meet the criteria
-of being accessible, inclusive, usable, and relevant as stipulated in our
-Digital Government Blueprint.</p>
+<p>Singapore's Digital Government vision of “digital to the core, and serves
+with heart” brings digitalisation together with user-centricity and empathy.
+Government agencies continue to identify areas where they can improve citizens'
+lives with digital technologies and services.</p>
+<p>To ensure that these digital services are easy to use, seamless and relevant
+to citizens and businesses, we have come up with the Digital Service Standards
+(DSS).</p>
 <h3>3 principles of the Digital Service Standards</h3>
 <p></p>
 <div class="isomer-image-wrapper">
@@ -41,6 +38,8 @@ and businesses to assess the useability and accessibility of the services.</p>
 </ul>
 <h3>How to use the Digital Service Standards?</h3>
 <p>Familiarise yourself with the by downloading a copy of the <a href="/files/products-and-services/Digital_Service_Standards_GovTech.pdf" rel="noopener noreferrer nofollow" target="_blank">Digital Service Standards public release</a>.</p>
+<p>Public officers should refer to your agency’s intranet resources for the
+full version of the DSS.</p>
 <h3>Interested to find out more about Digital Service Standards?</h3>
 <p></p>
 <div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="mailto:info@tech.gov.sg" class="isomer-card"><div class="isomer-card-body"><div class="isomer-card-title">Email your questions to us</div><div class="isomer-card-link">Contact us</div></div></a>
