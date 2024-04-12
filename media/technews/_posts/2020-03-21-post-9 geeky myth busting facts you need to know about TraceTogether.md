@@ -70,6 +70,10 @@ phone. Given the app’s security and privacy safeguards, the risk of a data
 leak from your phone as a result of TraceTogether is very low. By downloading
 the app, you can tap on technology to enhance contact tracing – a key pillar
 of Singapore’s fight against COVID-19. The choice is yours to make.</p>
+<p></p>
+<div class="iframe-wrapper">
+<iframe style="max-width: 100%;" height="400" width="100%" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/buj8ZTRtJes?si=fCeXrH_4SbgvN43e"></iframe>
+</div>
 <h3>Myth #6 — All information in the TraceTogether app is uploaded onto a server that faces a perpetual threat of being hacked into.</h3>
 <p>Apart from your mobile number, at the point of registration, all data
 collected through the TraceTogether app is stored locally in your phone
