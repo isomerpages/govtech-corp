@@ -9,7 +9,7 @@ description: Flash Moments of Life app to get Classic Soya Milk + Pancake set
   for $1 at participating Mr Bean stores. Limited redemption, T&Cs apply. 📱🥞
 ---
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="MOL" src="/images/technews/mrbean.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="Flash the Moments of Life app to redeem food and drinks at Mr Bean!" src="/images/technews/mrbean_compressed.jpg">
 </div>
 <h3>Flash the Moments of Life app and redeem a Classic Soya Milk + Pancake set at just $1 (UP $2.60).</h3>
 <p><strong>Promotion Period &amp; Status: 25 Jan 2020 to 16 Feb 2020</strong>*</p>
