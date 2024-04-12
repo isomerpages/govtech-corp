@@ -10,10 +10,10 @@ third_nav_title: For Government Agencies
 <h3>Shaping a positive, consistent digital experience through digital standards and guides</h3>
 <p>Singapore's Digital Government vision of “digital to the core, and serves
 with heart” brings digitalisation together with user-centricity and empathy.
-Government agencies continue to identify areas where they can improve citizens'
-lives with digital technologies and services.</p>
+Government agencies are continuously identifying opportunities to improve
+citizens' lives through digital technologies and services.</p>
 <p>To ensure that these digital services are easy to use, seamless and relevant
-to citizens and businesses, we have come up with the Digital Service Standards
+to citizens and businesses, we have developed the Digital Service Standards
 (DSS).</p>
 <h3>3 principles of the Digital Service Standards</h3>
 <p></p>
