@@ -9,7 +9,9 @@ description: Discover 8 new tech terms to impress your relatives and friends
   starters! 🐀📱
 variant: tiptap
 ---
-Last year, we brought you [8 tech terms to spark conversations as you go about visiting your relatives and friends](https://www.tech.gov.sg/media/technews/8-tech-terms-to-impress-your-relatives-with-this-lunar-new-year). As we welcome the year of the rat, check out our latest lineup of 8 tech terms to impress your relatives with. 
----
-
-![CNY greeting](/images/technews/cny-2020.jpg)
+<h3>Last year, we brought you <a href="https://www.tech.gov.sg/media/technews/8-tech-terms-to-impress-your-relatives-with-this-lunar-new-year" rel="noopener noreferrer nofollow" target="_blank">8 tech terms to spark conversations as you go about visiting your relatives and friends</a>. As we welcome the year of the rat, check out our latest lineup of 8 tech terms to impress your relatives with.</h3>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="8 tech terms to impress your relatives" src="/images/technews/8_tech_terms_CNY_2020.jpg">
+</div>
+<p></p>
