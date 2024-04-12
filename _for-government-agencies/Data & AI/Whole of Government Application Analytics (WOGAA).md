@@ -8,7 +8,7 @@ description: The Whole-of-Government Application Analytics helps government
 third_nav_title: Data & AI
 image: /images/Products and Services/For Government Agencies/WOGAA_meta_image.png
 ---
-<h3>Real-time monitoring of government websites and digital services with Whole-of-Government Application Analytics</h3>
+<h3>Near real-time monitoring of government websites and digital services with Whole-of-Government Application Analytics</h3>
 <div class="isomer-image-wrapper">
 <img style="width: 50%;" height="auto" width="100%" alt="WOGAA logo" src="/images/Products and Services/For Government Agencies/WOGAA_meta_image.png">
 </div>
@@ -54,15 +54,19 @@ can easily access insights.</div>
 <p>Simply visit the <a href="https://wogaa.sg/home/index.html#/" rel="noopener noreferrer nofollow" target="_blank"><u>WOGAA website</u></a> and log
 in with TechPass to get started.</p>
 <h3>What's the latest on WOGAA?</h3>
-<p>We're always trying to improve our product. Here's the latest feature
-on WOGAA.</p>
 <p><strong>Smart Sentiments Summary (BETA): </strong>Analyse user feedback
 effortlessly with this new feature. Powered by AI and <a href="/products-and-services/for-government-agencies/data-and-ai/govtext/" rel="noopener noreferrer nofollow" target="_blank"><u>GovText</u></a>,
 it allows you to gain insights from your website's Sentiments feedback
 within minutes and identify key issues to improve user experience.</p>
+<p><strong>Broken Link Checker (BETA):</strong> Detect broken links on your
+website easily with this new feature. Gain crucial insights including the
+exact location of the dead links, associated error codes, and the anchor
+text used. With this information, you can promptly remove or replace the
+broken links, enhancing your website’s usability and ensuring a seamless
+browsing experience for your users.</p>
 <h3>Interested to find out more about WOGAA?</h3>
 <div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="https://www.developer.tech.gov.sg/products/categories/analytics/wogaa/overview.html" class="isomer-card"><div class="isomer-card-body"><div class="isomer-card-title">Discover WOGAA's features on the Singapore Government Developer Portal</div><div class="isomer-card-link">WOGAA features</div></div></a>
-<a rel="noopener noreferrer nofollow" href="mailto:info@tech.gov.sg" class="isomer-card">
+<a rel="noopener noreferrer nofollow" href="mailto:support@wogaa.gov.sg" class="isomer-card">
 <div class="isomer-card-body">
 <div class="isomer-card-title">Have questions? Email us</div>
 <div class="isomer-card-link">Contact us</div>
