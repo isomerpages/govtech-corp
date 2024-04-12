@@ -5,8 +5,8 @@ permalink: /media/technews/bringing-connectivity-to-the-southern-islands/
 image: /images/technews/Bringing_connectivity_to_the_Southern_Islands_over_Television_White_Space_1.jpg
 variant: tiptap
 date: 2020-01-13
-description: "Discover how GovTech and SLA are testing TV white space for drone
-  ops and IoT on Singapore’s Southern Islands. 🏝️🚁 "
+description: Discover how GovTech and SLA are testing TV white space for drone
+  ops and IoT on Singapore’s Southern Islands. 🏝️🚁
 ---
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="GovTech and SLA testing the use of television white space for data transmission over long distances to improve drone operations" src="/images/technews/Bringing_connectivity_to_the_Southern_Islands_over_Television_White_Space_1.jpg">
