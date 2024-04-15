@@ -10,7 +10,7 @@ notification: ""
 sections:
   - hero:
       background: /images/Homepage/Neighbourhood_V3_01.png
-      button: TECH FOR PUBLIC GOOD
+      button: Button test
       url: /our-digital-government-efforts/tech-for-public-good/
       key_highlights:
         - title: For Citizens
