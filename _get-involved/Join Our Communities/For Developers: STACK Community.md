@@ -12,7 +12,7 @@ image: /images/Get Involved/stack_x_a11y_2.jpg
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="Experts in the STACK community listening to another member present his ideas and knowledge." src="/images/Get Involved/STACK_Community_by_GovTech___Casual_after_work_STACK_Meetups_for_Developers_compressed.jpg">
 </div>
-<h3>About STACK Community by GovTech </h3>
+<h3>About STACK Community by GovTech</h3>
 <p>Our members share the same passion as us — they strive to innovate for
 good. Our community was created in 2019 to bring together like-minded tech
 professionals and enthusiasts from the public and private sectors.</p>
@@ -68,29 +68,6 @@ and private sectors.</p>
 with some of the best and brightest tech experts at these sessions.</p>
 </div>
 </details>
-</div>
-<div class="isomer-card-grid">
-<div class="isomer-card">
-<div class="isomer-card-body">
-<div class="isomer-card-title">GovTech STACK conferences</div>
-<div class="isomer-card-description">Attend our flagship conference, packed with keynote speeches, panel discussions
-and workshops.</div>
-</div>
-</div>
-<div class="isomer-card">
-<div class="isomer-card-body">
-<div class="isomer-card-title">STACK-X conferences</div>
-<div class="isomer-card-description">Biannual tech community gatherings where experts deep dive into hot topics
-in tech.</div>
-</div>
-</div>
-<div class="isomer-card">
-<div class="isomer-card-body">
-<div class="isomer-card-title">STACK-X meetups</div>
-<div class="isomer-card-description">Casual community meet-ups with talks by GovTech professionals and industry
-speakers.</div>
-</div>
-</div>
 </div>
 <h3>Conference spotlight: STACKx Smart City 2024</h3>
 <p></p>
