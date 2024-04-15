@@ -9,7 +9,7 @@ permalink: /
 notification: ""
 sections:
   - hero:
-      background: /images/Homepage/Neighbourhood_V3_01.png
+      background: /images/Homepage/homepage_generic.jpg
       button: Button test
       url: /our-digital-government-efforts/tech-for-public-good/
       key_highlights:
