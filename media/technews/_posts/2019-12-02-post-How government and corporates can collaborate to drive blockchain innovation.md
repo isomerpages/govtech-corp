@@ -70,10 +70,10 @@ The more players [there are operating on a blockchain], the more effective
 it is,” he quipped.</p>
 <h3>Unlocking new opportunities</h3>
 <p>If implemented correctly, blockchain-based projects can have a much larger
-impact than initially anticipated, Mr Koh added. He highlighted&nbsp;
-<a href="https://www.tech.gov.sg/media/technews/with-this-blockchain-based-platform-you-may-no-longer-need-physical-certificates" class="editor-rtfLink" rel="noopener noreferrer nofollow" target="_blank">OpenCerts</a>, a blockchain-based platform used to digitise and verify
-educational credentials, which was developed as a collaborative project
-between GovTech and the Ministry of Education of Singapore.</p>
+impact than initially anticipated, Mr Koh added. He highlighted <a href="https://www.tech.gov.sg/media/technews/with-this-blockchain-based-platform-you-may-no-longer-need-physical-certificates" class="editor-rtfLink" rel="noopener noreferrer nofollow" target="_blank">OpenCerts</a>,
+a blockchain-based platform used to digitise and verify educational credentials,
+which was developed as a collaborative project between GovTech and the
+Ministry of Education of Singapore.</p>
 <p>Eighteen institutions in Singapore are already using the platform, but
 what surprised Mr Koh was that foreign institutions also began adopting
 OpenCerts. “You’ll notice that the University of Lithuania already uses
