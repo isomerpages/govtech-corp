@@ -7,7 +7,7 @@ description: Co-create government products and services as part of our Tech Kaki
 third_nav_title: Join Our Communities
 image: /images/Get Involved/Tech_Kaki_Appreciation_Dinner__1_.jpg
 ---
-<h3>A tech community from all walks of life</h3>
+<h3>A citizen community from all walks of life</h3>
 <p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%;" height="auto" width="100%" alt="GovTech community Tech Kaki networking" src="/images/Get Involved/gt7_techkaki.jpg">
@@ -19,12 +19,12 @@ image: /images/Get Involved/Tech_Kaki_Appreciation_Dinner__1_.jpg
 <p>Citizens are at the heart of our work. Since 2016, a community of everyday
 people has played an active role in the development of our digital products
 and services.</p>
-<p>Members from our 7,000-strong Tech Kaki community take part in focus group
-discussions, government user testing and more to make sure that our products
-and services meet the needs of citizens and businesses.&nbsp;</p>
-<p>You’ll get first dibs on these digital products and services as one of
-us. Read on to explore the potential of your contributions as a Tech Kaki
-member.</p>
+<p>Members from our 6,000-strong Tech Kaki community take part in focus group
+discussions, government user testing, surveys and more to ensure that our
+products and services meet the needs of citizens and businesses.&nbsp;</p>
+<p>As a Tech Kaki community member, you’ll get first dibs on various government
+digital products and services before they launch. Read on to explore the
+potential of your contributions as a Tech Kaki member.</p>
 <h3>A small community with a big impact</h3>
 <p>Apps like Singpass and LifeSG would not be what they are without Tech
 Kaki. As part of our community, you’ll be involved in government research
