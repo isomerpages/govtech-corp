@@ -10,25 +10,65 @@ image: /images/Get Involved/stack_x_a11y_2.jpg
 <h3>Experts Driving Tech for Public Good</h3>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Experts in the STACK community listening to another member present his ideas and knowledge." src="/images/Get Involved/STACK_community__1_.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="Experts in the STACK community listening to another member present his ideas and knowledge." src="/images/Get Involved/STACK_Community_by_GovTech___Casual_after_work_STACK_Meetups_for_Developers_compressed.jpg">
 </div>
-<h3>About the GovTech STACK community</h3>
-<p>Our members share the same passion: They live to innovate for good. This
-community was created in 2019 to bring together like-minded tech experts
-from STACK and STACK-X sub-community groups.&nbsp;</p>
-<p>Since then, we’ve used technology to better the lives of Singaporeans
-by creating Tech for Public Good. Our efforts also work towards building
-Singapore into a Smart Nation using the SG Tech Stack.</p>
-<p>If our purpose resonates with you, read on for a glimpse of life as a
-GovTech STACK community member.</p>
+<h3>About STACK Community by GovTech </h3>
+<p>Our members share the same passion as us — they strive to innovate for
+good. Our community was created in 2019 to bring together like-minded tech
+professionals and enthusiasts from the public and private sectors.</p>
+<p>STACK Community is a platform for deeper discussions and learning opportunities
+revolving around tech. We aim to encourage the adoption of centrally developed
+digital solutions within the public service, while promoting knowledge
+exchanges between the Government and industry.</p>
+<p>Read on for what you can expect to learn as a STACK Community member.</p>
 <h3>Connecting for a bigger purpose</h3>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Like-minded tech experts sharing with each other their knowledge and expertise." src="/images/Get Involved/STACK_community__2_.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="A GovTech employee sharing about her expertise and knowledge with other members of the STACK community." src="/images/Get Involved/STACK_Community_by_GovTech___Community_sharings_on_trending_tech_related_topics.jpg">
 </div>
 <p>Meet like-minded experts at GovTech STACK community events. As a member,
 you’ll enjoy access to exclusive tech conferences and developer events
 in Singapore.</p>
+<div data-type="detailGroup" class="isomer-accordion isomer-accordion-white">
+<details class="isomer-details">
+<summary><strong>STACK Conference</strong>
+</summary>
+<div data-type="detailsContent" class="isomer-details-content">
+<p>STACK Conference is the largest technology event in Singapore dedicated
+to connecting government, industry, and the tech community for cross-sector
+collaboration.</p>
+<p>Attend our flagship conference, packed with keynote speeches, panel discussions,
+and workshops, covering tech areas of interest such as App Innovation and
+Developer Experience, Cybersecurity and Digital Trust, Data and AI, and
+many more.</p>
+</div>
+</details>
+<details class="isomer-details">
+<summary><strong>STACKx Conference</strong>
+</summary>
+<div data-type="detailsContent" class="isomer-details-content">
+<p>STACKx Conference is an excellent opportunity for government leaders,
+tech professionals, and industry practitioners to come together and learn
+more about the latest technology trends.</p>
+<p>This event will feature insightful tech sharing sessions and meaningful
+conversations about a featured area of tech. Attend our STACKx Conference
+to also network with like-minded techies and gain insights from key tech
+experts.</p>
+</div>
+</details>
+<details class="isomer-details">
+<summary><strong>STACK Meetups</strong>
+</summary>
+<div data-type="detailsContent" class="isomer-details-content">
+<p>STACK Meetups are monthly, casual after-work sessions, where techies connect,
+learn, and exchange ideas. Our Meetups allow techies to stay updated on
+various development approaches and best practices adopted by both public
+and private sectors.</p>
+<p>Experts in their fields are invited to speak, and attendees get to mingle
+with some of the best and brightest tech experts at these sessions.</p>
+</div>
+</details>
+</div>
 <div class="isomer-card-grid">
 <div class="isomer-card">
 <div class="isomer-card-body">
@@ -52,27 +92,32 @@ speakers.</div>
 </div>
 </div>
 </div>
-<h3>Conference spotlight: STACKx Data &amp; AI 2023</h3>
+<h3>Conference spotlight: STACKx Smart City 2024</h3>
 <p></p>
 <div class="iframe-wrapper">
 <iframe style="max-width: 100%;" height="400" width="100%" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/5DGAIiUwMuU?si=nDKHdyk7z8JqUNLc"></iframe>
 </div>
-<p>Our community explored the possibilities of AI in the public sector at
-our latest flagship conference. Experts covered the latest trends around
-AI, while industry folks held discussions on Large Language Models (LLMs).</p>
-<p>The event was a stellar opportunity for government leaders, tech professionals
-and practitioners to connect and move the conversation around AI forward.</p>
-<p>Find your way to our next flagship conference by joining our STACK meet-ups
-as a community member.</p>
+<p>We explored the possibilities of urban technology for smart cities at
+our latest STACKx Conference. Experts covered the latest trends in smart
+living, operations, and planning.</p>
+<p>The event was a stellar opportunity for government leaders, tech professionals,
+and practitioners to connect and drive conversations about building the
+Smart Cities of tomorrow.</p>
+<p>Find your way to our next community event by joining us at <a href="https://meetup.com/stack-by-govtech-singapore" class="waffle-rich-text-link" rel="noopener noreferrer nofollow" target="_blank"><u>STACK Community</u></a>.
+The upcoming, highly-anticipated event is STACK Conference 2024, which
+is happening in November 2024. Get the latest information on how to register
+for this conference by becoming our community member today!</p>
+<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 60%;" height="auto" width="100%" alt="STACK community meetup banner" src="/images/Get Involved/STACK_meetup_banner.jpg">
+<img style="width: 70%;" height="auto" width="100%" alt="STACK Community logo" src="/images/Get Involved/STACK_Community_by_GovTech_Logo.png">
 </div>
 <h3>Connect with us</h3>
-<div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="https://www.meetup.com/stack-by-govtech-singapore/" class="isomer-card"><div class="isomer-card-body"><div class="isomer-card-title">Join our community</div><div class="isomer-card-description">Be part of our growing tech community and mingle with other like-minded professionals.</div><div class="isomer-card-link">Sign up now</div></div></a>
+<div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="https://www.meetup.com/stack-by-govtech-singapore/" class="isomer-card"><div class="isomer-card-body"><div class="isomer-card-title">Join STACK community</div><div class="isomer-card-description">Be part of our growing tech community and engage with other like-minded techies.</div><div class="isomer-card-link">Sign up now</div></div></a>
 <a rel="noopener noreferrer nofollow" href="https://go.gov.sg/stacktelegram" class="isomer-card">
 <div class="isomer-card-body">
 <div class="isomer-card-title">Stay updated via our Telegram channel</div>
-<div class="isomer-card-description">Be notified of upcoming events when you join our Telegram group.</div>
+<div class="isomer-card-description">Stay in touch with us and get the latest news on upcoming STACK Community
+events.</div>
 <div class="isomer-card-link">Join group</div>
 </div>
 </a>
