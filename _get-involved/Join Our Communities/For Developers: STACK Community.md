@@ -14,13 +14,13 @@ image: /images/Get
 <img style="width: 100%" height="auto" width="100%" alt="Experts in the STACK community listening to another member present his ideas and knowledge." src="/images/Get Involved/STACK_Community_by_GovTech___Casual_after_work_STACK_Meetups_for_Developers_compressed.jpg">
 </div>
 <h3>About STACK Community by GovTech</h3>
-<p>Our members share the same passion as us — they strive to innovate for
-good. Our community was created in 2019 to bring together like-minded tech
-professionals and enthusiasts from the public and private sectors.</p>
+<p>Our members share our passion — they strive to innovate for good. Our
+community was created in 2019 to bring together like-minded tech professionals
+and enthusiasts from the public and private sectors.</p>
 <p>STACK Community is a platform for deeper discussions and learning opportunities
 revolving around tech. We aim to encourage the adoption of centrally developed
-digital solutions within the public service, while promoting knowledge
-exchanges between the Government and industry.</p>
+digital solutions within the public service while promoting knowledge exchanges
+between the Government and industry.</p>
 <p>Read on for what you can expect to learn as a STACK Community member.</p>
 <h3>Connecting for a bigger purpose</h3>
 <p></p>
