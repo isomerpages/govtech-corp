@@ -11,7 +11,7 @@ variant: tiptap
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="Public officers who took part in the Data Arcade Tournament 2019" src="/images/technews/Using_data_science_for_social_good_1.jpg">
 </div>
-<h3>Hundreds of public officers took part in the Data Arcade Tournament 2019, the second year running of the visual analytics competition within the Singapore Public Service. </h3>
+<h3>Hundreds of public officers took part in the Data Arcade Tournament 2019, the second year running of the visual analytics competition within the Singapore Public Service.</h3>
 <h4>The competition concluded with a 5-hour live hackathon with finalist teams presenting their insights that could promote volunteerism and philanthropy in Singapore.</h4>
 <p>A picture says a thousand words. This is indeed true with visual analytics.
 Rather than overwhelm our audience with paragraphs of text and tables with
@@ -112,6 +112,4 @@ Grand prizes for the winners include overseas conference tickets for the
 Qlik and Tableau conferences to broaden their horizons on the potential
 of visual analytics.</p>
 <p>Planning for the Data Arcade Tournament 2020 has started. If you are keen
-to come in as a dataset sponsor, please email <a href="mailto:mindy_lim@tech.gov.sg" rel="noopener noreferrer nofollow" target="_blank">mindy_lim@tech.gov.sg</a>
-</p>
-<p></p>
+to come in as a dataset sponsor, please email <a href="mailto:mindy_lim@tech.gov.sg" rel="noopener noreferrer nofollow" target="_blank">mindy_lim@tech.gov.sg</a>.</p>
