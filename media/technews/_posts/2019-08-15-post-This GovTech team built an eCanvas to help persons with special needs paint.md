@@ -23,7 +23,7 @@ moment, Elaine receives assistance from volunteers at the Cerebral Palsy
 Alliance Singapore (CPAS), who help her move the canvas and dispense paint.</p>
 <p>In August 2018, a team led by Dr Ong Lay Teen, a Senior System Engineer
 at the Government Technology Agency of Singapore (GovTech), visited CPAS
-to discuss how they could apply new technologies to help those with physical
+to discuss how they could apply new technologies to help those with a physical
 disability. “We were introduced to Elaine and were told that she is a mouth
 painter,” recalled Dr Ong. “It all began from there when we saw her passion
 to paint.”</p>
@@ -39,15 +39,14 @@ artistic endeavours.</p>
 drawing canvas and moves the canvas to within the reach of the painter.
 A microphone connects to the eCanvas receives voice commands of the painter,
 either to move the canvas or dispense paint on a palette. A mini-computer
-installed with a pre-trained nueral network engine processes the voice
+installed with a pre-trained neural network engine processes the voice
 commands. “At the beginning, the idea was to have a canvas that moved up
 and down,” said Mr Quek Yang Boon, Director of Smart Nation Systems and
 Solutions, Sensors and Internet of Things at GovTech.</p>
 <p>But the project soon evolved into something bigger, with the paint dispenser
 as an example of the team’s ingenuity. Improvised from simple, off-the-shelf
-items, the paint dispenser consists of a number of soap dispensers that
-had been repurposed to release paint onto a turntable, which acts as the
-palette.</p>
+items, the paint dispenser consists of several soap dispensers that had
+been repurposed to release paint onto a turntable, which acts as the palette.</p>
 <p>“Each person involved [in the e-canvas project] had a different skillset
 that blended very well together,” said Mr Quek. The team specifically designed
 or sourced for parts of the eCanvas, such as the paintbrush holder and
@@ -57,7 +56,7 @@ by us. I believe that is what true engineering is about,” he added.</p>
 <p>Even originally planned features, such as the voice command system, had
 to be revised several times before they could perform well enough. “We
 imagined that the solution would be this or that,” Dr Ong shared, “but
-when we tested the eCanvas on site, we realised that we had to change the
+when we tested the eCanvas on-site, we realised that we had to change the
 design for it to be more applicable to Elaine.”</p>
 <p>Instead of a generic system that could recognise many words, the team
 built a custom system—powered by a convolutional neural network—to recognise
