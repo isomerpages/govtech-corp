@@ -9,6 +9,9 @@ description: Discover how electromagnetic radiation from electronic devices can
   eavesdropping. 🔒💻
 variant: tiptap
 ---
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="GovTech’s Mr Tan Peng Chong shares how organisations can better protect their digital assets from external eavesdropping and influence." src="/images/technews/GovTech_expert_shows_you_how_to_prevent_cyber_eavesdropping_1.jpg">
+</div>
 <h3>Electromagnetic radiation emitted from electronic devices could compromise privacy and security. GovTech’s Mr Tan Peng Chong shares how organisations can better protect their digital assets from external eavesdropping and influence.</h3>
 <p>An antenna, a radio device and a laptop; innocuous as these objects may
 seem, in the right (or wrong) hands, they can be assembled into a formidable
@@ -25,7 +28,11 @@ antenna, a radio device and a laptop.</p>
 <p>Configuring those contraptions, Peng Chong was able to mirror the screen
 of another computer in the room on his laptop. Any action performed on
 the would-be victim’s computer was now visible to him in real-time.</p>
-<h3><strong>Tuning in to the right channel</strong></h3>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Peng Chong demonstrated precisely how a malicious actor could remotely view what a victim is doing on a computer screen." src="/images/technews/GovTech_expert_shows_you_how_to_prevent_cyber_eavesdropping_2.jpg">
+</div>
+<h3>Tuning in to the right channel</h3>
 <p>So, how did Peng Chong do it? Put simply, electronic devices emit electromagnetic
 (EM) radiation when they process information. This radiation propagates
 like radio waves that are used for television or radio broadcasting.</p>
