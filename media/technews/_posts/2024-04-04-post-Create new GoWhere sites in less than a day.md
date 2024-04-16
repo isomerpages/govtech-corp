@@ -103,4 +103,17 @@ campaign sites anytime.</p>
 aspects of life for Singaporeans. With the implementation of DIYGoWhere,
 we’re excited to give this tool to agencies to use.</p>
 <h4>Contact the DIYGoWhere team&nbsp;<a href="https://form.gov.sg/#!/62e37ff33074e40012f51a8c" class="editor-rtfLink" rel="noopener noreferrer nofollow" target="_blank">here</a>.</h4>
+<div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="http://eepurl.com/cUwIsD" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Subscribe to the TechNews email newsletter" src="/images/technews/TN_banner.jpg"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Subscribe to the TechNews email newsletter</div><div class="isomer-card-link">TechNews</div></div></a>
+<a rel="noopener noreferrer nofollow" href="http://eepurl.com/hsr131" class="isomer-card">
+<div class="isomer-card-image">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Join the Tech Kaki user-testing community" src="/images/technews/TK_banner.jpg">
+</div>
+</div>
+<div class="isomer-card-body">
+<div class="isomer-card-title">Join the Tech Kaki user-testing community</div>
+<div class="isomer-card-link">Tech Kaki</div>
+</div>
+</a>
+</div>
 <p></p>
