@@ -44,7 +44,7 @@ devices today run on much lower voltages, which means that their EM emissions
 are generally much less obvious. A spy or hacker would, therefore, need
 more sensitive antennas and related equipment or be within closer range
 of their victims to siphon off private information.</p>
-<h3><strong>Plugging the emission leak</strong></h3>
+<h3>Plugging the emission leak</h3>
 <p>Peng Chong indicated three possible countermeasures for those concerned
 about becoming victims of such attacks: shielding, filtering and masking.
 While all three approaches may sound similar, they differ in their implementation.
@@ -52,7 +52,7 @@ Like most cyber defence strategies, there is no one-size-fits-all solution,
 and each person or organisation will have to decide for themselves which
 strategy—or combination of strategies—is most suitable for their applications,
 after factoring in the risks, cost and usability.</p>
-<h3><strong>Evolving emission security threats</strong></h3>
+<h3>Evolving emission security threats</h3>
 <p>Besides remote surveillance at a system level, Peng Chong said that an
 emerging cybersecurity concern is the exploitation of EM radiation at a
 microscopic level onto small security components such as the Trusted Platform
