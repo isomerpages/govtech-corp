@@ -111,7 +111,15 @@ For example, if you see ‘Government support for individuals between jobs’
 next to the job posting, it means that the government will provide wage
 subsidies to companies for hiring experienced individuals under the Career
 Support Programme.</p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Browse through the different job postings on MyCareersFuture.sg portal" src="/images/technews/6_hacks_to_land_a_great_job_via_MyCareersFuture_sg_6.png">
+</div>
 <h3>For employers</h3>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="MyCareersFuture.sg is also useful for employers to find potential employees" src="/images/technews/6_hacks_to_land_a_great_job_via_MyCareersFuture_sg_7.jpg">
+</div>
 <h4>1. Use the ‘Top Matches’ checkbox</h4>
 <p>Let’s face it—hiring managers are flooded with job applications every
 day, not all of which are relevant to the position being advertised.
@@ -122,6 +130,10 @@ and JobKred. For even better results, employers should include the skills
 they expect their prospective hires to have in their job postings. This
 helps close the loop with the skills information volunteered by jobseekers
 while raising the visibility of the job posting.</p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Finding potential employees made easy with the 'Top Matches' function" src="/images/technews/6_hacks_to_land_a_great_job_via_MyCareersFuture_sg_8.jpg">
+</div>
 <h4>2. Rank applicants by suitability</h4>
 <p>Instead of sorting candidates based on the date they submitted their applications,
 employers can now categorise candidates according to their suitability
