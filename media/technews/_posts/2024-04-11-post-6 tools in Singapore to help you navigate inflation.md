@@ -31,7 +31,7 @@ variant: tiptap
 in October 2023, the cost of living is Singaporeans’ top concern. Indeed,
 the government has been watching the issue closely and introducing <a href="https://www.channelnewsasia.com/singapore/cash-payouts-cdc-vouchers-singaporeans-cost-living-water-prices-3804691" rel="noopener noreferrer nofollow" target="_blank"><u>support measures</u></a> to
 ease the impact of rising prices for a wide variety of necessities, from
-<a href="https://www.channelnewsasia.com/singapore/water-prices-singapore-increase-two-phases-vouchers-3796726" rel="noopener noreferrer nofollow" target="_blank"><u>water</u>
+<a href="https://www.channelnewsasia.com/singapore/water-prices-singapore-increase-two-phases-vouchers-3796726" rel="noopener noreferrer nofollow" target="_blank"><u>water</u> 
 </a>to <a href="https://www.channelnewsasia.com/singapore/minimart-cost-living-supermarket-shoplifters-challenges-3926956" rel="noopener noreferrer nofollow" target="_blank"><u>groceries at the neighbourhood minimart</u></a>.</p>
 <p>On our part, it’s prudent to find ways to stretch our budgets and save
 while we can.</p>
@@ -53,7 +53,7 @@ in Singapore, as well as the SGX Central Depository.</p>
 financial health, freeing up more time to plan your finances.</p>
 <h3>Cheap coffee shop meals – BudgetMealGoWhere</h3>
 <p>If you love to eat out, but lament that meals are getting pricier, then
-<a href="https://www.tech.gov.sg/media/media-releases/2023-05-19-new-portal-to-help-residents-find-budget-meals-in-the-heartlands" rel="noopener noreferrer nofollow" target="_blank"><u>BudgetMealGoWhere</u>
+<a href="https://www.tech.gov.sg/media/media-releases/2023-05-19-new-portal-to-help-residents-find-budget-meals-in-the-heartlands" rel="noopener noreferrer nofollow" target="_blank"><u>BudgetMealGoWhere</u> 
 </a>is just the site for you.</p>
 <p>Developed jointly by GovTech and HDB, the portal helps residents locate
 coffee shops offering affordable meals easily. Simply visit the site, enter
@@ -88,7 +88,7 @@ the added benefit of offering rewards in the form of vouchers for hitting
 health goals, such as a targeted number of steps a day or keeping a sleep
 journal for better rest.</p>
 <p>Both <a href="https://www.healthhub.sg/programmes/healthyliving" rel="noopener noreferrer nofollow" target="_blank"><u>Healthy365</u></a> and
-<a href="https://www.lumihealth.sg/" rel="noopener noreferrer nofollow" target="_blank"><u>LumiHealth</u>
+<a href="https://www.lumihealth.sg/" rel="noopener noreferrer nofollow" target="_blank"><u>LumiHealth</u> 
 </a>(which is for Apple Watch users) enable users to get vouchers from participating
 supermarkets such as FairPrice and Giant. You can even give yourself a
 treat at other participating merchants like Koi and Mr Bean.</p>
