@@ -11,7 +11,7 @@ variant: tiptap
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="Application programming interfaces (APIs) are essential for the interoperability of digital services" src="/images/technews/3_important_considerations_in_API_development_1.jpg">
 </div>
-<h3>Application programming interfaces (APIs) are essential for the interoperability of digital services. </h3>
+<h3>Application programming interfaces (APIs) are essential for the interoperability of digital services.</h3>
 <h4>The MyInfo team at GovTech encourages the tech community to keep standards, security and documentation in mind when developing APIs.</h4>
 <p>You’re thinking about taking a holiday, but before you purchase your air
 tickets, you decide to use the fare aggregator website Skyscanner to get
