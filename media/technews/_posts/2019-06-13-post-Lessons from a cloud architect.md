@@ -11,7 +11,7 @@ variant: tiptap
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="Lessons from a cloud architect - Mr Gregor Hohpe, former technical director in Google Cloud’s office of the CTO" src="/images/technews/Lessons_from_a_cloud_architect_1.jpg">
 </div>
-<h3>Cloud computing has revolutionised the way digital applications are being developed. </h3>
+<h3>Cloud computing has revolutionised the way digital applications are being developed.</h3>
 <h4>Mr Gregor Hohpe, former technical director in Google Cloud’s office of the CTO, highlighted the importance of replaceability, resilience and requirements in cloud deployments, as well as the changing roles and responsibilities of cloud architects.</h4>
 <p>In the past, being an architect meant planning and designing buildings
 for people to live, work, and play in. Fast-forward to our modern, digitalised
