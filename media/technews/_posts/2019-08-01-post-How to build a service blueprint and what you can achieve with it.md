@@ -11,7 +11,7 @@ variant: tiptap
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="Mr Lim Eyung, director at GovTech, shared his insights on service blueprinting at the Public Service Transformation Conference 2019." src="/images/technews/how_to_build_service_blueprint_and_what_you_can_achieve_with_it_1.jpg">
 </div>
-<h3>A service blueprint is a systematic methodology to improve the way services are built and delivered. </h3>
+<h3>A service blueprint is a systematic methodology to improve the way services are built and delivered.</h3>
 <h4>Mr Lim Eyung, director at GovTech, shared his insights on service blueprinting at the Public Service Transformation Conference 2019.</h4>
 <p>A service blueprint is a systematic methodology for improving service
 building and delivery. Mr Lim Eyung, director at GovTech, shared his insights
