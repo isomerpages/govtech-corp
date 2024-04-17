@@ -38,7 +38,7 @@ and Mr Irving Tan, Senior Vice President and Chief of Operations at Cisco.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="At the Smart Nation Summit 2019, a panel of experts discussed how engaging with industry players through public-private partnerships could accelerate progress in digital transformation." src="/images/technews/Accelerating_digital_transformation_with_public_private_partnerships_2.jpg">
 </div>
-<h3>Transform, not just digitise</h3>
+<h4>Transform, not just digitise</h4>
 <p>At least in theory, applying for government services should be a hassle-free
 experience. After all, government agencies already have records of most
 of their citizens’ personal data.</p>
@@ -56,7 +56,7 @@ shared Mr Kok.</p>
 and front-end processes,” said Mr Kok, who explained that the Singapore
 Government seeks to tap into synergies between the public and private sectors
 and engage industry partners to develop digital platforms together.</p>
-<h3>Building excitement over a well-articulated problem</h3>
+<h4>Building excitement over a well-articulated problem</h4>
 <p>For such a partnership to take off, there must first be members from the
 private sector who are willing to participate in solving these problems.
 Therefore, articulating a specific, clearly defined problem that the government
@@ -72,7 +72,7 @@ the number of people that you are attracting, but whether you are able
 to combine big companies and small companies, invite representatives from
 all segments of the chain, and attract companies at different stages from
 start-ups to unicorns to established corporations,” he explained.</p>
-<h3>Mind the incentive gap</h3>
+<h4>Mind the incentive gap</h4>
 <p>Once all of the relevant parties are on board, the next challenge would
 be to get the private companies and public agencies on the same page. Both
 are fundamentally different types of organisations—they respond to different
