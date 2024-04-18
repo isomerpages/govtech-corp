@@ -7,7 +7,7 @@ variant: tiptap
 image: /images/About Us/Government_Agencies_copy.jpg
 ---
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Service staff from GovTech ready to engage external public officers for collaboration with GovTech" src="/images/About Us/For_Government_Agencies_banner_image_compressed.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="Service staff from GovTech ready to engage external public officers for collaboration with GovTech" src="/images/About Us/For_Government_agencies_1690x800.jpg">
 </div>
 <p>Whether you are looking to collaborate or improve team productivity, this
 page has been curated to provide you with all the information you need.</p>
