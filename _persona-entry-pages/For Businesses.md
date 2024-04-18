@@ -7,13 +7,13 @@ variant: tiptap
 image: /images/About Us/For_Businesses_persona_copy.jpg
 ---
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Asian businessman with a smile on his face as he walks to a destination" src="/images/About Us/Business___header___persona_copy.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="Asian businessman with a smile on his face as he walks to a destination" src="/images/About Us/For_Businesses_1690x800px.jpg">
 </div>
 <p>Welcome to the GovTech hub for businesses, where you’ll find tools, resources
 and opportunities to upgrade your business.</p>
 <h3>Digitalise your business with GovTech</h3>
 <p>Go digital with ease using our tools and portals.</p>
-<div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="https://www.gobusiness.gov.sg/" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="GoBusiness logo" src="/images/About Us/GoBusiness.png"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Access guides, licenses and government schemes</div><div class="isomer-card-link">GoBusiness</div></div></a>
+<div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="https://www.gobusiness.gov.sg/" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="GoBusiness logo" src="/images/About Us/GoBusiness.png"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Access guides, licenses and schemes</div><div class="isomer-card-link">Visit GoBusiness</div></div></a>
 <a rel="noopener noreferrer nofollow" href="https://www.corppass.gov.sg/cpauth/login/homepage?TAM_OP=login&amp;URL=%2F" class="isomer-card">
 <div class="isomer-card-image">
 <div class="isomer-image-wrapper">
@@ -21,10 +21,10 @@ and opportunities to upgrade your business.</p>
 </div>
 </div>
 <div class="isomer-card-body">
-<div class="isomer-card-title">Use Corppass to manage employees’ service access</div>
-<div class="isomer-card-link">Corppass</div>
+<div class="isomer-card-title">Manage employees’ service access</div>
+<div class="isomer-card-link">Register on Corppass</div>
 </div>
-</a><a rel="noopener noreferrer nofollow" href="https://www.businessgrants.gov.sg/" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Business Grants Portal logo" src="/images/About Us/Business_Grants_Portal.png"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Apply for grants using the Business Grants Portal</div><div class="isomer-card-link">Business Grants Portal (BGP)</div></div></a>
+</a><a rel="noopener noreferrer nofollow" href="https://www.businessgrants.gov.sg/" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Business Grants Portal logo" src="/images/About Us/Business_Grants_Portal.png"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Apply for business grants</div><div class="isomer-card-link">Explore the Business Grants Portal (BGP)</div></div></a>
 </div>
 <h3>Digital solutions to transform SMEs</h3>
 <p>Technology is transforming every sector of Singapore’s economy. It’s time
@@ -60,5 +60,5 @@ helps SMEs adopt advanced digital solutions, find grants and get a consultation.
 </div>
 </a><a rel="noopener noreferrer nofollow" href="https://www.tech.gov.sg/media/technews/simplifying-tax-experience-for-small-and-medium-enterprises" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Team discussion on how to simplify tax experiences for SMEs" src="/images/About Us/Simplifying_Business.jpg"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Simplifying tax experience for SMEs</div><div class="isomer-card-link">Read more about this initiative</div></div></a>
 </div>
-<p>Don't want to miss out on anything? Subscribe to our <a href="http://eepurl.com/cUwIsD" rel="noopener noreferrer nofollow" target="_blank">Technews newsletter</a> to
+<p>Don't want to miss out on anything? Subscribe to our <a href="http://eepurl.com/cUwIsD" rel="noopener noreferrer nofollow" target="_blank">TechNews newsletter</a> to
 stay updated.</p>
