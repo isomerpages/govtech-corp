@@ -38,7 +38,7 @@ to support the Smart Nation initiative.</p>
 <p>GovTech is a key driver in digital transformation. We create impactful
 government digital services which drive Singapore’s Smart Nation vision.</p>
 <p>Our work can be classified into these key <a href="/about-us/what-we-do/our-capabilities/" rel="noopener noreferrer nofollow" target="_blank">capability centres</a>.</p>
-<div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="/our-capabilities/application-design-development-and-deployment/" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Application Design, Development &amp; Deployment" src="/images/About Us/Application_Design__Development___Deployment.jpg"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Application Design, Development &amp; Deployment</div><div class="isomer-card-link">Learn more</div></div></a>
+<div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="/our-capabilities/application-design-development-and-deployment/" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Application Design, Development and Deployment" src="/images/About Us/Application_Design__Development___Deployment.jpg"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Application Design, Development and Deployment</div><div class="isomer-card-link">Learn more</div></div></a>
 <a rel="noopener noreferrer nofollow" href="/our-capabilities/cybersecurity/" class="isomer-card">
 <div class="isomer-card-image">
 <div class="isomer-image-wrapper">
