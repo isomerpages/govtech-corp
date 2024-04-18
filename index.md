@@ -16,7 +16,7 @@ sections:
         - title: For Citizens
           description: Tips, events and stories
           url: /for-citizens
-        - title: For Businessess
+        - title: For Businesses
           description: Tools and resources
           url: /for-businesses
         - title: For Vendors
