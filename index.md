@@ -57,19 +57,19 @@ sections:
       image: /images/Homepage/engineerdigitalgov.png
       alt: Our Role
   - infopic:
-      title: Why Join GovTech
+      title: Why join GovTech
       subtitle: Our culture
       description: Join us in improving lives through technology and pursuing learning
         and leadership opportunities at the same time.
       button: Learn more
       url: /careers/why-join-govtech/overview/
       image: /images/Homepage/whyjoingovtechcareer.png
-      alt: Our Achievements
+      alt: GovTech culture
   - infopic:
-      title: Products and Services
+      title: Products and services
       subtitle: OUR PORTFOLIO OF WORK
       description: View our portfolio of apps, websites, and digital tools available
-        for citizens, businesses, and government agencies
+        for citizens, businesses, and government agencies.
       button: Explore Now
       url: /products-and-services/overview/
       image: /images/Homepage/govtechproducts.png
