@@ -17,31 +17,31 @@ products and services across the government.</p>
 <h3>Our capability centres</h3>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Government app development in GovTech" src="/images/About Us/Our capabilities/Application_Design_Development_and_Deployment_compressed.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="Government app development in GovTech" src="/images/About Us/Our capabilities/Application_Design__Development_and_Deployment.jpg">
 </div>
 <div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="/our-capabilities/application-design-development-and-deployment/" class="isomer-card"><div class="isomer-card-body"><div class="isomer-card-title">Application Design, Development and Deployment</div><div class="isomer-card-description">This centre develops citizen-centric services that support public sector digital transformation, such as TraceTogether and GoBusiness Portal.</div><div class="isomer-card-link">Learn more about Application Design, Development and Deployment</div></div></a>
 </div>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Singapore Cybersecurity Centre in GovTech" src="/images/About Us/Our capabilities/Our_capabilities_cybersecurity_compressed.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="Singapore Cybersecurity Centre in GovTech" src="/images/About Us/Our capabilities/Cybersecurity.jpg">
 </div>
 <div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="/our-capabilities/cybersecurity/" class="isomer-card"><div class="isomer-card-body"><div class="isomer-card-title">Cybersecurity</div><div class="isomer-card-description">This centre has launched a comprehensive suite of cybersecurity capabilities and works with various agencies to ensure a safer Smart Nation.</div><div class="isomer-card-link">Learn more about Cybersecurity</div></div></a>
 </div>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Government data science and AI in government" src="/images/About Us/Our capabilities/Our_capabilities_data_science_and_ai_compressed.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="Government data science and AI in government" src="/images/About Us/Our capabilities/Data_Science_and_AI.jpg">
 </div>
 <div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="/our-capabilities/data-science-and-artificial-intelligence/" class="isomer-card"><div class="isomer-card-body"><div class="isomer-card-title">Data Science and Artificial Intelligence</div><div class="isomer-card-description">This centre improves citizen-centric services and transforms public agencies with insights extracted using data science and artificial intelligence.</div><div class="isomer-card-link">Learn more about Data Science and AI</div></div></a>
 </div>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Government ICT infrastructure in GovTech" src="/images/About Us/Our capabilities/our_capabilities_government_ict_infrastructure_compressed.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="Government ICT infrastructure in GovTech" src="/images/About Us/Our capabilities/Gov_ICT_infrastructure.jpg">
 </div>
 <div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="/our-capabilities/government-ict-infrastructure/" class="isomer-card"><div class="isomer-card-body"><div class="isomer-card-title">Government ICT Infrastructure</div><div class="isomer-card-description">The centre specialises in creating an agile, secure, resilient and cost-effective infrastructure that is optimised for government operations.</div><div class="isomer-card-link">Learn more about ICT Infrastructure</div></div></a>
 </div>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Smart city technology in GovTech" src="/images/About Us/Our capabilities/ulf_petterson_01__1_.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="Smart city technology in GovTech" src="/images/About Us/Our capabilities/Smart_City_Technology.jpg">
 </div>
 <p><em>Image source: <a href="https://estates.jtc.gov.sg/pdd/stories/modelling-the-smart-district-for-the-future" rel="noopener noreferrer nofollow" target="_blank">JTC.gov.sg</a></em>
 </p>
