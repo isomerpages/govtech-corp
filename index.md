@@ -14,16 +14,16 @@ sections:
       url: /our-digital-government-efforts/tech-for-public-good/
       key_highlights:
         - title: For Citizens
-          description: Events, Stories, and Updates
+          description: Tips, events and stories
           url: /for-citizens
         - title: For Businessess
-          description: Key Highlight description
+          description: Tools and resources
           url: /for-businesses
         - title: For Vendors
-          description: Resources and Opportunities
+          description: Partnership opportunities
           url: /for-vendors
         - title: For Government Agencies
-          description: Productivity and Collaboration
+          description: Productivity and collaboration
           url: /for-government-agencies
       variant: image
       size: md
