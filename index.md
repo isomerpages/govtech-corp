@@ -40,29 +40,28 @@ sections:
       url: /about-us/who-we-are/
   - infopic:
       title: Tech for Public Good
-      subtitle: OUR DIGITAL GOVERNMENT EFFORTS
+      subtitle: Our innovations
       id: infopic
-      description: To build a Smart Nation, GovTech leverages innovative technology to
-        shape the way citizens use and interact with government digital services
-      button: FIND OUT MORE
+      description: Explore technologies that empower citizens and improve quality of life.
+      button: learn more
       alt: Tech for Public Good
       url: /our-digital-government-efforts/tech-for-public-good
       image: /images/Homepage/techforpublicgood.png
   - infopic:
       title: Engineering Digital Government
-      subtitle: OUR DIGITAL GOVERNMENT EFFORTS
-      description: Find out how GovTech takes the lead in harnessing technology to
-        drive public sector digital transformation
-      button: Find out more
+      subtitle: OUR FOCUS
+      description: See how we drive digitalisation in the Singapore Government and the
+        public service sector.
+      button: Learn more
       url: /our-digital-government-efforts/engineering-digital-government/
       image: /images/Homepage/engineerdigitalgov.png
       alt: Our Role
   - infopic:
       title: Why Join GovTech
-      subtitle: CAREER OPPORTUNITIES
-      description: Be an agent of change at GovTech while gaining access to learning
-        and leadership opportunities
-      button: Find out more
+      subtitle: Our culture
+      description: Join us in improving lives through technology and pursuing learning
+        and leadership opportunities at the same time.
+      button: Learn more
       url: /careers/why-join-govtech/overview/
       image: /images/Homepage/whyjoingovtechcareer.png
       alt: Our Achievements
