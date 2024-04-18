@@ -53,7 +53,7 @@ test bedding in actual deployment environments.</p>
 <h3>Become a vendor for GovTech</h3>
 <p>Follow these steps to secure new opportunities.</p>
 <div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="https://www.gebiz.gov.sg/" class="isomer-card"><div class="isomer-card-body"><div class="isomer-card-title">Register as a GeBIZ Trading Partner (GTP)</div><div class="isomer-card-link">Visit GeBIZ portal</div></div></a>
-<a rel="noopener noreferrer nofollow" href="https://www.gebiz.gov.sg/ptn/ppplisting/index.xhtml" class="isomer-card">
+<a rel="noopener noreferrer nofollow" href="https://www.gebiz.gov.sg/ptn/opportunity/BOListing.xhtml?origin=menu" class="isomer-card">
 <div class="isomer-card-body">
 <div class="isomer-card-title">Browse available opportunities</div>
 <div class="isomer-card-link">Explore available opportunities</div>
