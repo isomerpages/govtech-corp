@@ -74,6 +74,23 @@ sections:
       url: /products-and-services/overview/
       image: /images/Homepage/govtechproducts.png
       alt: Image alt text
+  - textcards:
+      title: The latest at GovTech
+      subtitle: Announcements
+      id: textcards
+      cards:
+        - title: GovTech STACK Developer Conference 2024
+          description: ""
+          linktext: Learn more
+          url: /media/events/govtech-stack-developer-conference-2024/
+        - title: GovTech STACKx Smart City 2024
+          description: ""
+          linktext: Learn more
+          url: /media/events/stackx-smart-city-2024/
+        - title: GovTech STACKx Data and AI 2023
+          description: ""
+          linktext: Learn more
+          url: /media/events/stackx-data-and-ai-2023/
   - resources:
       title: Media
       subtitle: STAY UPDATED ON GOVTECH NEWS
