@@ -7,7 +7,7 @@ description: GovTech's crowdsourcing products allow citizens to provide their
   Learn more.
 third_nav_title: For Citizens
 ---
-<h3>Tapping the collective intelligence of Singaporeans to shape policies and augment cybersecurity</h3>
+<h2>Tapping the collective intelligence of Singaporeans to shape policies and augment cybersecurity</h2>
 <p>As the beneficiary of the government's policies, you're the best person
 to provide feedback on gaps and suggest ways to bridge them. Also, as the
 end-user of digital government services, you're the eyes and ears on the
