@@ -7,7 +7,7 @@ description: Explore various government e-services at GoBusiness! From business
 third_nav_title: Corporate Transactions
 image: /images/Products and Services/For businesses/GoBusiness_meta_image.jpg
 ---
-<h3>Simplifying business registration and administrative processes with GoBusiness</h3>
+<h2>Simplifying business registration and administrative processes with GoBusiness</h2>
 <p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="GoBusiness logo banner" src="/images/Products and Services/For businesses/GoBusiness_meta_image.jpg">
