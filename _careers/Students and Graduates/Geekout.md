@@ -7,7 +7,7 @@ third_nav_title: Students and Graduates
 variant: tiptap
 image: /images/careers/Geekout_Participants__1__compressed.jpg
 ---
-<h3>Uniting young tech enthusiasts at GeekOut!</h3>
+<h2>Uniting young tech enthusiasts at GeekOut!</h2>
 <p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="GovTech's GeekOut, a tech bootcamp for students in Singapore" src="/images/careers/Geekout_Group_Photo.jpg">
