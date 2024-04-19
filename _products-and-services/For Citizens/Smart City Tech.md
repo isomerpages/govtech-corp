@@ -8,7 +8,7 @@ third_nav_title: For Citizens
 variant: tiptap
 image: /images/Products and Services/For citizens/GALE_logo_resized.jpg
 ---
-<h3>Improving vulnerable seniors' quality of life through Smart City Technology</h3>
+<h2>Improving vulnerable seniors' quality of life through Smart City Technology</h2>
 <p>At GovTech, we envision a Smart Nation where technology acts as an equaliser
 to give every citizen a chance to improve his or her quality of life. Driven
 by our mission to build Tech for Public Good, we have undertaken meaningful
@@ -31,7 +31,7 @@ System (CMS) as well as a team of telecare operators working 24/7 and
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="GALE logo" src="/images/Products and Services/For citizens/GALE_logo_resized.jpg">
 </div>
-<h4>PAB: Giving seniors peace of mind as they live independently</h4>
+<h3>PAB: Giving seniors peace of mind as they live independently</h3>
 <p></p>
 <div class="iframe-wrapper">
 <iframe style="max-width: 100%;" height="400" width="100%" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/mhI3eCfekcs?si=esmFZkH50iigjfgQ"></iframe>
