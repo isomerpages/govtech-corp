@@ -7,7 +7,7 @@ description: GovWallet allows Singaporean citizens to use their government
 third_nav_title: Directories and Distribution
 image: /images/Products and Services/GovWallet_logo.png
 ---
-<h3>Making the disbursement of government payouts efficient and secure with GovWallet</h3>
+<h2>Making the disbursement of government payouts efficient and secure with GovWallet</h2>
 <p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 60%;" height="auto" width="100%" alt="GovWallet logo" src="/images/Products and Services/For citizens/GovWallet_logo_resized_banner.jpg">
