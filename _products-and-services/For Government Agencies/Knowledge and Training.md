@@ -8,7 +8,7 @@ third_nav_title: For Government Agencies
 variant: tiptap
 image: /images/Products and Services/For Government Agencies/GT_DA_logo.png
 ---
-<h3>Advancing our public officers' tech expertise through Digital Academy</h3>
+<h2>Advancing our public officers' tech expertise through Digital Academy</h2>
 <p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 60%;" height="auto" width="100%" alt="GovTech Digital Academy logo" src="/images/Products and Services/For Government Agencies/DA_logo_edited__higher_res_.png">
@@ -81,7 +81,7 @@ the Digital Academy website.</p>
 <p>Browse the <a href="https://www.thedigitalacademy.tech.gov.sg/programmes" rel="noopener noreferrer nofollow" target="_blank"><u>Programmes catalogue</u></a> on
 the Digital Academy website. Then, register for the course of your choice
 to embark on your upskilling journey.</p>
-<h3>Want to find out more about Digital Academy?</h3>
+<h3>Interested to find out more about Digital Academy?</h3>
 <div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="https://www.thedigitalacademy.tech.gov.sg/" class="isomer-card"><div class="isomer-card-body"><div class="isomer-card-title">Visit the Digital Academy website and explore</div><div class="isomer-card-link">Digital Academy</div></div></a>
 <a rel="noopener noreferrer nofollow" href="mailto:info@tech.gov.sg" class="isomer-card">
 <div class="isomer-card-body">
