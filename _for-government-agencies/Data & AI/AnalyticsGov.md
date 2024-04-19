@@ -9,6 +9,7 @@ image: /images/Products and Services/For Government
   Agencies/Analytics_gov_meta_image_resized.jpg
 ---
 <h2>Enabling data exploitation through an interactive environment with Analytics.gov (AG)</h2>
+<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 50%;" height="auto" width="100%" alt="Analytics.gov logo" src="/images/Products and Services/For Government Agencies/Analytics_gov_meta_image_resized.jpg">
 </div>
