@@ -8,7 +8,7 @@ description: Designed for public officers, the Digital Workplace comes with a
 third_nav_title: Productivity and Marketing
 image: /images/About Us/Digital_Workplace.png
 ---
-<h3>Creating a seamless and collaborative working environment for public officers with Digital Workplace</h3>
+<h2>Creating a seamless and collaborative working environment for public officers with Digital Workplace</h2>
 <div class="isomer-image-wrapper">
 <img style="width: 60%;" height="auto" width="100%" alt="Digital Workplace logo" src="/images/Products and Services/For Government Agencies/Digital_Workplace_logo.png">
 </div>
@@ -63,5 +63,5 @@ them and reap the benefits!</p>
 <h3>How to use DWP?</h3>
 <p>All DWP products are available on the Smart Nation DigiGov Portal, which
 is accessible via the Government Intranet.</p>
-<h3>Want to find out more about DWP?</h3>
+<h3>Interested to find out more about DWP?</h3>
 <p>Have questions about DWP? Contact us at <a href="mailto:info@tech.gov.sg" rel="noopener noreferrer nofollow" target="_blank">info@tech.gov.sg</a>.</p>
