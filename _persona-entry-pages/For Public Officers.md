@@ -6,6 +6,8 @@ description: Collaborate with us and explore ways to improve productivity for
 variant: tiptap
 image: /images/About Us/Government_Agencies_copy.jpg
 ---
+<h2>Uncover opportunities to improve your productivity and collaborate with GovTech</h2>
+<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="Service staff from GovTech ready to engage external public officers for collaboration with GovTech" src="/images/About Us/For_Government_agencies_1690x800.jpg">
 </div>
