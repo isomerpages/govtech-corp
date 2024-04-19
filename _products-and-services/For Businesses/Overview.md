@@ -6,9 +6,9 @@ description: GovTech offers many products that benefit businesses operating in
 third_nav_title: For Businesses
 variant: tiptap
 ---
-<h3>Our products and services for businesses</h3>
+<h2>Our products and services for businesses</h2>
 <p>Here at GovTech, we strive to give businesses operating in Singapore a
-competitive edge. From allowing the integration of an authourisation system
+competitive edge. From allowing the integration of an authorisation system
 that inspires consumer trust to a framework that enables interoperability
 of electronic trade documents across digital platforms, we've made it our
 business to empower yours.</p>
