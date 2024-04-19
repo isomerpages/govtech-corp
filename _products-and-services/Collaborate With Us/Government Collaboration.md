@@ -9,7 +9,7 @@ variant: tiptap
 image: /images/Products and Services/Collaborate with
   us/Government_collaboration_meta_image_resized.jpg
 ---
-<h3>Let's engineer a digital government together</h3>
+<h2>Let's engineer a digital government together</h2>
 <p>Digital government transformation is all about harnessing cutting-edge
 technologies to drive significant improvements as well as empower citizens
 and businesses in Singapore. At GovTech, we aim to lend our expertise not
