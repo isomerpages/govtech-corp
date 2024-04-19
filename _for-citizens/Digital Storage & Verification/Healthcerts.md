@@ -8,7 +8,7 @@ description: A set of digital standards and schema for COVID-19 test results and
 third_nav_title: Digital Storage & Verification
 image: /images/Products and Services/healthcerts_logo.png
 ---
-<h3>Enabling smooth travel with digitally endorsed Pre-Departure Test and vaccination records</h3>
+<h2>Enabling smooth travel with digitally endorsed Pre-Departure Test and vaccination records</h2>
 <p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 80%;" height="auto" width="100%" alt="HealthCerts logo" src="/images/About Us/Our Achievements/healthcert_logo.jpg">
