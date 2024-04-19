@@ -55,10 +55,6 @@ with 400 agencies.</div>
 </div>
 </div>
 </div>
-<p><strong>(New infographic)</strong>
-</p>
-<p><strong>Alt Text: LifeSG's top 10 most commonly used services</strong>
-</p>
 <h3>Benefits of using LifeSG</h3>
 <div data-type="detailGroup" class="isomer-accordion isomer-accordion-white">
 <details class="isomer-details">
