@@ -76,23 +76,16 @@ If you need guidance on how to use PaySG, refer to the <a href="https://guide.pa
 <h3>What's the latest on PaySG?</h3>
 <p>We're always trying to improve our products. Here are some features newly
 added to PaySG.</p>
-<div data-type="detailGroup" class="isomer-accordion isomer-accordion-white">
-<details class="isomer-details">
-<summary><strong>Recurring payments</strong>
-</summary>
-<div data-type="detailsContent" class="isomer-details-content">
-<p>Launch of recurring payment modes, which will support credit cards and
-eGIRO deductions.</p>
-</div>
-</details>
-<details class="isomer-details">
-<summary><strong>Integration with FormSG</strong>
-</summary>
-<div data-type="detailsContent" class="isomer-details-content">
-<p>Now, government forms can come with a payment option for a holistic experience.</p>
-</div>
-</details>
-</div>
+<ol data-tight="true" class="tight">
+<li>
+<p><strong>Recurring payments:</strong> Launch of recurring payment modes,
+which will support credit cards and eGIRO deductions.</p>
+</li>
+<li>
+<p><strong>Integration with FormSG:</strong> Now, government forms can come
+with a payment option for a holistic experience.</p>
+</li>
+</ol>
 <h3>Interested to find out more about PaySG?</h3>
 <div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="https://pay.gov.sg/" class="isomer-card"><div class="isomer-card-body"><div class="isomer-card-title">Visit the official PaySG website to discover its features</div><div class="isomer-card-link">PaySG website</div></div></a>
 <a rel="noopener noreferrer nofollow" href="mailto:info@tech.gov.sg" class="isomer-card">
