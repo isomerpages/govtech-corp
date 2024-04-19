@@ -11,7 +11,7 @@ image: /images/Products and Services/For citizens/OurMarriageJourney_meta_image.
 <h3>Digitalising marriage registrations with Our Marriage Journey</h3>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Young happy couple posing for wedding photo, registering their marriage via Our Marriage Journey" src="/images/Products and Services/For citizens/Marriage_personal_milestone_resized.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="Young happy couple on their wedding day, registering their marriage via Our Marriage Journey" src="/images/Products and Services/For citizens/OMJ_1690x800.jpg">
 </div>
 <p>Getting married is one of the most joyful events in a person’s life. Among
 the long list of wedding preparation matters is marriage registration.
