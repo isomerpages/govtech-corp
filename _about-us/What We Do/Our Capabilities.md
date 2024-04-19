@@ -8,7 +8,7 @@ third_nav_title: What We Do
 variant: tiptap
 image: /images/About Us/Our capabilities/Our_capabilities_meta_image_resized.jpg
 ---
-<h3>Five centres to lead digital transformation</h3>
+<h2>Five centres to lead digital transformation</h2>
 <p>Our five capability centres were established to strengthen the public
 sector's engineering expertise and build the government’s capabilities
 in emerging technologies.</p>
