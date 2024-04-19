@@ -25,7 +25,7 @@ making 41 million transactions monthly.</p>
 <div class="iframe-wrapper">
 <iframe style="max-width: 100%;" height="400" width="100%" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/rUZf1ZcB0NY?si=Fj23EyqsXwV6YaLr"></iframe>
 </div>
-<p><em>Statistics shown in this video are accurate as of March 2021</em>
+<p><em>Statistics shown in this video are accurate as of March 2021.</em>
 </p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="Statistics of the usage of Singpass" src="/images/Digital Gov Efforts/singpass_infographic.jpg">
@@ -35,8 +35,6 @@ making 41 million transactions monthly.</p>
 <div class="iframe-wrapper">
 <iframe style="max-width: 100%;" height="400" width="100%" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/zacNBxADPH4?si=vsUFvg1wt38IUmWn"></iframe>
 </div>
-<p><strong>(New infographic)</strong>
-</p>
 <p>Endless possibilities enabled by a single trusted digital identity service</p>
 <ul>
 <li>
@@ -59,7 +57,6 @@ autofill for one-click form signing.</p>
 <p>Receive timely notifications on public announcements and renewal of documents.</p>
 </li>
 </ul>
-<p>Alt text: Why you should use Singpass</p>
 <h3>Benefits of using Singpass</h3>
 <div class="isomer-card-grid">
 <div class="isomer-card">
