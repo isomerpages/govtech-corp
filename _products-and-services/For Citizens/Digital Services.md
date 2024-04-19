@@ -9,9 +9,9 @@ variant: tiptap
 ---
 <h3>Ensuring our digital services are always accessible</h3>
 <p>Our Digital Government Blueprint details our bold vision to create a government
-that is "Digital to the Core, and Serves with Heart". How we can achieve
-this is by designing products and services that directly address citizens'
-needs. By simplifying transactions and e-payments, we make sure every citizen,
+that is "Digital to the Core, and Serves with Heart". We can achieve this
+by designing products and services that directly address citizens' needs.
+By simplifying transactions and e-payments, we make sure every citizen,
 regardless of digital literacy level, can use our solutions with ease.</p>
 <p>To date, 99% of our government services are digital from end to end. Beyond
 fulfilling e-government needs, these digital solutions create an open and
