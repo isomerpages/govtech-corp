@@ -34,7 +34,7 @@ on different operational aspects, from event organisation to skills training.</p
 <div class="isomer-card">
 <div class="isomer-card-image">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="GoBusiness offers businesses easy access to 120-plus government e-services." src="/images/Products and Services/For businesses/GoBusiness_card_1.png">
+<img style="width: 100%" height="auto" width="100%" alt="GoBusiness offers businesses easy access to 120-plus government e-services." src="/images/Products and Services/For businesses/GoBusiness_1.png">
 </div>
 </div>
 <div class="isomer-card-body">
@@ -46,7 +46,7 @@ place for easy retrieval.</div>
 <div class="isomer-card">
 <div class="isomer-card-image">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="GoBusiness' e-Advisers offer personalised recommendations on different topics." src="/images/Products and Services/For businesses/GoBusiness_card_2.png">
+<img style="width: 100%" height="auto" width="100%" alt="GoBusiness' e-Advisers offer personalised recommendations on different topics." src="/images/Products and Services/For businesses/GoBusiness_2.png">
 </div>
 </div>
 <div class="isomer-card-body">
@@ -58,7 +58,7 @@ and business needs.</div>
 <div class="isomer-card">
 <div class="isomer-card-image">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="GoBusiness offers you step-by-step guidance on the permits and licences you need to start a new business." src="/images/Products and Services/For businesses/GoBusiness_card_3.png">
+<img style="width: 100%" height="auto" width="100%" alt="GoBusiness offers you step-by-step guidance on the permits and licences you need to start a new business." src="/images/Products and Services/For businesses/GoBusiness_3.png">
 </div>
 </div>
 <div class="isomer-card-body">
