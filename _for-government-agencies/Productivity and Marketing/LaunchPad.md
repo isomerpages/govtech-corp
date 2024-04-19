@@ -9,7 +9,7 @@ third_nav_title: Productivity and Marketing
 image: /images/Products and Services/For Government
   Agencies/LaunchPad_logo_screenshot.jpg
 ---
-<h3>Pitch ideas, experiment, and see AI in action with LaunchPad</h3>
+<h2>Pitch ideas, experiment, and see AI in action with LaunchPad</h2>
 <p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 70%;" height="auto" width="100%" alt="LaunchPad logo" src="/images/Products and Services/For Government Agencies/LaunchPad_logo_screenshot.jpg">
@@ -58,7 +58,7 @@ innovative solutions.</div>
 <p>Visit <a href="https://launchpad.data.tech.gov.sg/" rel="noopener noreferrer nofollow" target="_blank"><u>LaunchPad's website</u></a> if
 you have access within the government network to get started. If not, reach
 out to us via <a href="https://form.gov.sg/64a4d72658aaf80011ac2a64" rel="noopener noreferrer nofollow" target="_blank"><u>this form</u></a>.</p>
-<h3>Want to find out more about LaunchPad?</h3>
+<h3>Interested to find out more about LaunchPad?</h3>
 <div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="http://eepurl.com/cUwIsD" class="isomer-card"><div class="isomer-card-body"><div class="isomer-card-title">Subscribe to the TechNews newsletter to stay updated!</div><div class="isomer-card-link">Join mailing list</div></div></a>
 <a rel="noopener noreferrer nofollow" href="mailto:info@tech.gov.sg" class="isomer-card">
 <div class="isomer-card-body">
