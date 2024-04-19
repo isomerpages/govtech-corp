@@ -7,7 +7,7 @@ description: GovTech has developed and co-created many solutions that benefit
 third_nav_title: For Citizens
 variant: tiptap
 ---
-<h3>Our services for citizens</h3>
+<h2>Our services for citizens</h2>
 <p>Singapore's future will be one that's technology enabled. As part of our
 Digital Government Blueprint, GovTech has undertaken numerous ambitious
 efforts to drive digitalisation on a wider scale. One such aspect is expanding
@@ -16,7 +16,7 @@ technologies among citizens is key to fast-tracking Singapore's plans to
 become a Smart Nation. Our efforts have led to the advent of powerful yet
 easy-to-use services such as Singpass, SGFinDex, and GoWhere, all aimed
 at improving the lives of citizens.</p>
-<h4>Explore our range of citizen services </h4>
+<h4>Explore our range of citizen services</h4>
 <div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="/products-and-services/for-citizens/digital-services/" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="GovTech's digital services for citizens are convenient to use" src="https://placehold.co/600x400"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Digital Services</div><div class="isomer-card-description">Our array of digital services provides coverage across different stages of life to ensure our citizens are fully supported every step of the way.</div><div class="isomer-card-link">Digital Services</div></div></a>
 <a rel="noopener noreferrer nofollow" href="/products-and-services/for-citizens/smart-city-tech/" class="isomer-card">
 <div class="isomer-card-image">
@@ -63,6 +63,6 @@ weather forecasts to PSI readings and food recalls, to citizens in real
 time.</div>
 <div class="isomer-card-link">Environment</div>
 </div>
-</a><a rel="noopener noreferrer nofollow" href="/products-and-services/for-citizens/crowdsourcing/" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Crowdsourcing and harnessing the collective intelligence of Singaporeans in a collaborative effort" src="https://placehold.co/600x400"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Crowdsourcing</div><div class="isomer-card-description">Harnessing the collective intelligence of Singaporeans in a collaborative effort through crowdsourcing platforms. </div><div class="isomer-card-link">Crowdsourcing</div></div></a>
+</a><a rel="noopener noreferrer nofollow" href="/products-and-services/for-citizens/crowdsourcing/" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Crowdsourcing and harnessing the collective intelligence of Singaporeans in a collaborative effort" src="https://placehold.co/600x400"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Crowdsourcing</div><div class="isomer-card-description">Harnessing the collective intelligence of Singaporeans in a collaborative effort through crowdsourcing platforms.</div><div class="isomer-card-link">Crowdsourcing</div></div></a>
 </div>
 <p></p>
