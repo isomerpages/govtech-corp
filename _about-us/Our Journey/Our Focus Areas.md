@@ -119,20 +119,17 @@ how they celebrate all abilities as we raised funds for their cause.</p>
 </div>
 <p>Through our Employee Resource Group and <a href="/women-in-govtech/" rel="noopener noreferrer nofollow" target="_blank">Girls in Tech Summer Mentorship Programme</a>,
 we work to attract, develop and retain female talent.</p>
+<ul data-tight="true" class="tight">
+<li>
 <p>Click <a href="/our-digital-government-efforts/diversity-and-inclusion/" rel="noopener noreferrer nofollow" target="_blank">here</a> to
 learn more about our diversity and inclusion efforts or how we support
 <a href="https://www.tech.gov.sg/media/technews/supporting-women-in-govtech-beyond-international-womens-day" rel="noopener noreferrer nofollow" target="_blank">Women in (Gov)Tech beyond International Women's Day</a>.</p>
-<p></p>
-<div data-type="detailGroup" class="isomer-accordion-group isomer-accordion isomer-accordion-white">
-<details class="isomer-details">
-<summary>Check out this Technews article of a participant sharing her experience
-in the Girls in Tech Summer Mentorship Programme:</summary>
-<div data-type="detailsContent" class="isomer-details-content">
-<p><a href="/empowering-girls-in-tech-govtech-summer-mentorship/" rel="noopener noreferrer nofollow" target="_blank">Empowering Girls in Tech: GovTech's Summer Mentorship</a>
-</p><a class="isomer-image-wrapper" href="/empowering-girls-in-tech-govtech-summer-mentorship/"><img style="width: 100%" height="auto" width="100%" alt="Girls in Tech Summer Mentorship Programme participant sharing her experience at GovTech" src="/images/technews/empowering_girls_in_tech_summer_internship_compressed.jpg"></a>
-</div>
-</details>
-</div>
+</li>
+<li>
+<p>Check out this TechNews article of a participant sharing her experience
+in the <a href="/media/technews/empowering-girls-in-tech-govtech-summer-mentorship/" rel="noopener noreferrer nofollow" target="_blank">Girls in Tech Summer Mentorship programme</a>.</p>
+</li>
+</ul>
 <h3>Our efforts in Consumer Social Responsibility</h3>
 <p></p>
 <div class="instagram-wrapper">
