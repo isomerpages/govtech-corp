@@ -6,7 +6,7 @@ description: GovTech has built software stacks to help government agencies
 third_nav_title: For Government Agencies
 variant: tiptap
 ---
-<h3>Developing stacks that allow public officers to build digital government services with ease</h3>
+<h2>Developing stacks that allow public officers to build digital government services with ease</h2>
 <p>Government agencies are always brimming with ideas on how to utilise digital
 services to better the lives of Singaporeans. While we encourage them to
 take their ideas to launch, it is important to ensure that the new offerings
