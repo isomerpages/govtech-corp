@@ -8,10 +8,10 @@ third_nav_title: Students and Graduates
 variant: tiptap
 image: /images/careers/internships_banner_compressed.jpg
 ---
-<h3>Get the head start you need for a rewarding career</h3>
+<h2>Get the head start you need for a rewarding career</h2>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Batch of past GovTech interns having fun while posing for a photo at a photo booth" src="/images/careers/interns_photo_compressed.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="Batch of past GovTech interns having fun while posing for a photo at a photo booth" src="/images/careers/Internships_1690x800.jpg">
 </div>
 <p>We know an internship is a crucial building block of a lifelong career.
 That's why our internship programmes, which span three to six months, are
