@@ -70,7 +70,7 @@ integrate the software into their systems.</p>
 up the <a href="https://form.gov.sg/635f32c5001b2d0011fff09b" rel="noopener noreferrer nofollow" target="_blank"><u>contact us form</u></a>.</p>
 </li>
 </ul>
-<h3>Want to find out more about TradeTrust?</h3>
+<h3>Interested to find out more about TradeTrust?</h3>
 <div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="https://www.tradetrust.io/" class="isomer-card"><div class="isomer-card-body"><div class="isomer-card-title">Visit the TradeTrust website to learn more about its features</div><div class="isomer-card-link">Go to TradeTrust website</div></div></a>
 <a rel="noopener noreferrer nofollow" href="mailto:info@tech.gov.sg" class="isomer-card">
 <div class="isomer-card-body">
