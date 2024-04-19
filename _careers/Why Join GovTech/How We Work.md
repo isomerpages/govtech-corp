@@ -7,7 +7,7 @@ third_nav_title: Why Join GovTech
 variant: tiptap
 image: /images/careers/How_we_work_meta_image.jpg
 ---
-<h3>As agents of change, we're inspired to build Tech for Public Good</h3>
+<h2>As agents of change, we're inspired to build Tech for Public Good</h2>
 <p>GovTech is not your ordinary workplace. Here, dreaming big is encouraged,
 and even more importantly, we are given the resources and opportunities
 to realise our dreams. Our positive work culture and environment make it
