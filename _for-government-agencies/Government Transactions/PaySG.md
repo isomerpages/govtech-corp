@@ -8,7 +8,7 @@ description: PaySG is a safe and trusted system for government agencies to
 third_nav_title: Government Transactions
 image: /images/Products and Services/For Government Agencies/PaySG_logo.png
 ---
-<h3>PaySG: A trusted system for the government to accept payments</h3>
+<h2>PaySG: A trusted system for the government to accept payments</h2>
 <p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 70%;" height="auto" width="100%" alt="PaySG white logo" src="/images/Products and Services/For Government Agencies/PaySG_white_logo.png">
@@ -93,7 +93,7 @@ eGIRO deductions.</p>
 </div>
 </details>
 </div>
-<h3>Want to find out more about PaySG?</h3>
+<h3>Interested to find out more about PaySG?</h3>
 <div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="https://pay.gov.sg/" class="isomer-card"><div class="isomer-card-body"><div class="isomer-card-title">Visit the official PaySG website to discover its features</div><div class="isomer-card-link">PaySG website</div></div></a>
 <a rel="noopener noreferrer nofollow" href="mailto:info@tech.gov.sg" class="isomer-card">
 <div class="isomer-card-body">
