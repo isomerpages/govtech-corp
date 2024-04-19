@@ -76,8 +76,8 @@ you will get to achieve a healthy work-life balance.</div>
 <p>"Everyone on my team is always eager to learn and grow in solving challenges;
 the diverse skills and expertise they bring to the table impress me and
 I feel grateful to create meaningful impact with them together as a team!"</p>
-<p>~ Ryen Tang, Lead App Infra Engineer</p>
 </blockquote>
+<p>~ Ryen Tang, Lead App Infra Engineer</p>
 <h3>A day in the life of a GovTechie</h3>
 <div class="iframe-wrapper">
 <iframe style="border:none;overflow:hidden" height="700" width="60%" allowfullscreen="true" frameborder="0" src="https://www.facebook.com/plugins/video.php?height=476&amp;href=https%3A%2F%2Fwww.facebook.com%2FInsideGovTech%2Fvideos%2F384410876943479%2F&amp;show_text=false&amp;width=267&amp;t=0"></iframe>
