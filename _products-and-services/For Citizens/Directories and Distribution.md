@@ -7,7 +7,7 @@ description: GovTech's directories and distribution services make it easy for
 third_nav_title: For Citizens
 variant: tiptap
 ---
-<h3>Making government information available at your fingertips</h3>
+<h2>Making government information available at your fingertips</h2>
 <p>The government organises many distribution and awareness campaigns to
 help Singaporeans navigate hard times. Periodically, it also introduces
 new schemes to alleviate the rising cost of living. To make it easy for
