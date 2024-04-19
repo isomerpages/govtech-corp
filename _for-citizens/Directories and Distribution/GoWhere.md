@@ -7,10 +7,9 @@ description: GoWhere is a suite of websites that consolidates distribution and
 third_nav_title: Directories and Distribution
 image: /images/Products and Services/gowhere_logo.png
 ---
-<h3>Providing easy access to government directories with GoWhere</h3>
-<p></p>
+<h2>Providing easy access to government directories with GoWhere</h2>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Products and Services/Featured_GoWhere_suites__screenshot_.jpg">
+<img style="width: 70%;" height="auto" width="100%" alt="GoWhere logo" src="/images/Products and Services/For citizens/GoWhere_600x300.png">
 </div>
 <p>One thing the COVID-19 pandemic has taught us is that during times of
 emergency, the efficient dissemination of information is pivotal to providing
@@ -21,6 +20,10 @@ Capable of answering location-based queries, its suite of platforms, from
 ARTGoWhere to MaskGoWhere, supported nationwide distribution efforts by
 directing a user to a list of centres within the radius of the postal code
 he had entered.&nbsp;&nbsp;</p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Different GoWhere websites and campaigns" src="/images/Products and Services/Featured_GoWhere_suites__screenshot_.jpg">
+</div>
 <p>Today, the free-to-use GoWhere Suite exists as a mini-stack, and has become
 a repository of distribution and awareness campaigns in Singapore. SupportGoWhere,
 for example, directs Singaporeans in need to over 23 government agencies
