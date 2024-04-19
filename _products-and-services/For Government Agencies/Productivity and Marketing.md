@@ -7,7 +7,7 @@ description: GovTech has unveiled a suite of productivity and marketing
 third_nav_title: For Government Agencies
 variant: tiptap
 ---
-<h3>Improving government agencies' operational efficiency and effectiveness with cutting-edge tools</h3>
+<h2>Improving government agencies' operational efficiency and effectiveness with cutting-edge tools</h2>
 <p>Here at GovTech, we want our Digital Government to run like a well-oiled
 machine. To improve productivity internally throughout the public service
 sector, we've taken a bottom-up approach, designing tools for every officer,
