@@ -7,6 +7,8 @@ description: Looking to do business with GovTech? Discover opportunities to
   together.
 image: /images/About Us/For_vendors_copy.jpg
 ---
+<h2>Explore partnership opportunities with GovTech</h2>
+<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="Image collage depicting the 27 industry partners of GovTech, which include various industries." src="/images/Homepage/For_vendors__banner__1690x800.jpg">
 </div>
