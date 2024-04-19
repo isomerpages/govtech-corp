@@ -84,16 +84,26 @@ and are coming onboard.</div>
 </div>
 </div>
 <h3>How to use SGFinDex?</h3>
-<p><strong>(New infographic)</strong>
-</p>
+<ol data-tight="true" class="tight">
+<li>
 <p>Log in to any of the participating organisations’ applications/websites
 or MyMoneySense, and navigate to SGFinDex.</p>
+</li>
+<li>
 <p>Authenticate using Singpass.</p>
+</li>
+<li>
 <p>Select the financial institution you wish to connect, and provide authorisation
 at its portal.&nbsp;</p>
+</li>
+<li>
 <p>Financial information from government agencies are already connected.</p>
+</li>
+<li>
 <p>Synchronise the data on a monthly basis to view your latest balance sheet.</p>
-<p>Alt text: How to use SGFinDex</p>
+<p></p>
+</li>
+</ol>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="Statistics over the usage and sign ups for SGFinDex" src="/images/Digital Gov Efforts/SGFindex_infographic.jpg">
 </div>
