@@ -103,11 +103,11 @@ signs of scams and learn how to keep your Singpass account safe.</p>
 </li>
 </ul>
 <h3>Interested to find out more about CrowdTaskSG?</h3>
-<div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="https://www.crowdtask.gov.sg/" class="isomer-card"><div class="isomer-card-body"><div class="isomer-card-title">Visit the website to learn more about CrowdTaskSG</div><div class="isomer-card-link">CrowdTaskSG website</div></div></a>
+<div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="https://www.crowdtask.gov.sg/" class="isomer-card"><div class="isomer-card-body"><div class="isomer-card-title">Visit the CrowdTaskSG website to learn more</div><div class="isomer-card-link">CrowdTaskSG website</div></div></a>
 <a rel="noopener noreferrer nofollow" href="http://eepurl.com/hsr131" class="isomer-card">
 <div class="isomer-card-body">
 <div class="isomer-card-title">Have feedback on CrowdTaskSG? Become a Tech Kaki to share your ideas</div>
-<div class="isomer-card-link">Join community</div>
+<div class="isomer-card-link">Join Tech Kaki community</div>
 </div>
 </a>
 </div>
