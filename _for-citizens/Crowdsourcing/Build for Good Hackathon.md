@@ -7,7 +7,7 @@ description: The Build for Good hackathon empowers citizens to innovate,
 third_nav_title: Crowdsourcing
 image: /images/Products and Services/For citizens/Build_for_good_logo.png
 ---
-<h3>Empowering citizens to make Singapore better with the Build for Good (BFG) initiative</h3>
+<h2>Empowering citizens to make Singapore better with the Build for Good (BFG) initiative</h2>
 <p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 60%;" height="auto" width="100%" alt="Build for Good (BFG) hackathon logo" src="/images/Products and Services/For citizens/Build_for_good_logo.png">
