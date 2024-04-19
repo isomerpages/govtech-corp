@@ -9,7 +9,7 @@ variant: tiptap
 image: /images/Products and Services/Collaborate with
   us/international_collab_meta_image.jpg
 ---
-<h3>Paving the way forward through knowledge sharing</h3>
+<h2>Paving the way forward through knowledge sharing</h2>
 <p>GovTech believes in the power of mutual growth. Using our clout as a government
 agency in the tech industry, we are able to invite foreign luminaries to
 our events as well as initiate partnerships with globally renowned companies.</p>
