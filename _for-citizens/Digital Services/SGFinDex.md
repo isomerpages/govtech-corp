@@ -8,7 +8,7 @@ description: SGFinDex gives you a consolidated view of your financial
 third_nav_title: Digital Services
 image: /images/Products and Services/sgfindex-logo.png
 ---
-<h3>Empowering your financial journey with SGFinDex</h3>
+<h2>Empowering your financial journey with SGFinDex</h2>
 <p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 80%;" height="auto" width="100%" alt="SGFinDex logo" src="/images/Digital Gov Efforts/sgfindex_logo.png">
