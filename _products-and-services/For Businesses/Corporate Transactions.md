@@ -7,7 +7,7 @@ description: GovTech provides a host of products that makes it easier and more
 third_nav_title: For Businesses
 variant: tiptap
 ---
-<h3>Making business transactions and operations convenient and secure</h3>
+<h2>Making business transactions and operations convenient and secure</h2>
 <p>In support of the Smart Nation objectives, we aim to create secure and
 reliable digital services not just for citizens, but also businesses in
 Singapore.</p>
