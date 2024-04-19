@@ -24,7 +24,6 @@ and Healthy 365. It currently serves around 1.3 million citizens, who use
 the credits to make purchases and transact with 164,000 merchants on the
 PayNow platform as well as NETS’ ecosystem of 43,000 merchants.</p>
 <h3>Why use GovWallet?</h3>
-<h4>Quick and secure delivery of payouts</h4>
 <div class="isomer-card-grid">
 <div class="isomer-card">
 <div class="isomer-card-body">
