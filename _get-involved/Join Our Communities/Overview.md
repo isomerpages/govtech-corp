@@ -7,10 +7,10 @@ third_nav_title: Join Our Communities
 variant: tiptap
 image: /images/Get Involved/Join_our_communities_meta_image_compressed.jpg
 ---
-<h3>Join our communities</h3>
+<h2>Join our communities</h2>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Join our different communities at GovTech: Tech Kaki and STACK Community" src="/images/Get Involved/Join_our_communities_banner_image.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="Join our different communities at GovTech: Tech Kaki and STACK Community" src="/images/Get Involved/Join_our_communities_1690x800.jpg">
 </div>
 <h3>Make an impact with GovTech</h3>
 <p>Your ideas could advance a nation. Contribute your talents as part of
@@ -24,7 +24,7 @@ their lives through technology.</p>
 <p>There’s a place for every change maker. Whether you’re skilled in tech
 or not, learn more about our communities below as you look for the right
 fit.</p>
-<div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="/get-involved/join-our-communities/tech-kaki/" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Tech Kaki tech community Singapore logo" src="/images/Get Involved/Tech_Kaki_600x300.png"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Tech Kaki</div><div class="isomer-card-description">Co-create digital products and services for citizens' everyday use by attending user testing sessions, interviews and more.</div><div class="isomer-card-link">Tech Kaki</div></div></a>
+<div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="/get-involved/join-our-communities/tech-kaki/" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Tech Kaki tech community Singapore logo" src="/images/Get Involved/Tech_Kaki_600x300.png"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Tech Kaki</div><div class="isomer-card-description">Co-create digital products and services for citizens' everyday use by attending user testing sessions, interviews and more.</div><div class="isomer-card-link">Find out more</div></div></a>
 <a rel="noopener noreferrer nofollow" href="/get-involved/join-our-communities/stack-community/" class="isomer-card">
 <div class="isomer-card-image">
 <div class="isomer-image-wrapper">
@@ -35,7 +35,7 @@ fit.</p>
 <div class="isomer-card-title">GovTech STACK community</div>
 <div class="isomer-card-description">Design, build and deploy Tech for Public Good. You’ll also get opportunities
 for networking through tech conferences and meet-ups.</div>
-<div class="isomer-card-link">STACK community</div>
+<div class="isomer-card-link">Find out more</div>
 </div>
 </a>
 </div>
