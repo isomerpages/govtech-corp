@@ -7,7 +7,7 @@ description: The Government on Commercial Cloud provides government agencies
 third_nav_title: Software Development
 image: /images/Products and Services/For Government Agencies/GCC_meta_image.png
 ---
-<h3>Government on Commercial Cloud (GCC): Enhancing the way government agencies onboard services into the cloud</h3>
+<h2>Government on Commercial Cloud (GCC): Enhancing the way government agencies onboard services into the cloud</h2>
 <p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 50%;" height="auto" width="100%" alt="GCC logo" src="/images/Products and Services/For Government Agencies/GCC_meta_image.png">
@@ -63,7 +63,7 @@ modern app development.</p>
 <p>As of 14 November 2023, the GCC Foundation Training and Certification
 has ceased with no substitute programme. Agency users preparing to join
 GCC 2.0 are highly recommended to pursue cloud-native certificates instead.</p>
-<h3>Want to find out more about GCC?</h3>
+<h3>Interested to find out more about GCC?</h3>
 <div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="https://www.developer.tech.gov.sg/products/categories/infrastructure-and-hosting/government-on-commercial-cloud/overview.html" class="isomer-card"><div class="isomer-card-body"><div class="isomer-card-title">Learn about its features on the Singapore Government Developer Portal</div><div class="isomer-card-link">GCC features</div></div></a>
 <a rel="noopener noreferrer nofollow" href="mailto:info@tech.gov.sg" class="isomer-card">
 <div class="isomer-card-body">
