@@ -39,7 +39,7 @@ visits.</p>
 <div class="isomer-card-grid">
 <div class="isomer-card">
 <div class="isomer-card-body">
-<div class="isomer-card-title">Quick access to many initiatives</div>
+<div class="isomer-card-title">1 website for over 20 initiatives</div>
 <div class="isomer-card-description">Need government support? Or recommendations for activities? Get all the
 answers on one portal.</div>
 </div>
@@ -53,7 +53,7 @@ that are in your vicinity.</div>
 </div>
 <div class="isomer-card">
 <div class="isomer-card-body">
-<div class="isomer-card-title">Multi-language accessibility</div>
+<div class="isomer-card-title">Increased accessibility</div>
 <div class="isomer-card-description">The content is available in multiple languages so everyone can use it.</div>
 </div>
 </div>
