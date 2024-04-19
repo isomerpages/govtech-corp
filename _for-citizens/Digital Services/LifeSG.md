@@ -62,7 +62,7 @@ with 400 agencies.</div>
 </summary>
 <div data-type="detailsContent" class="isomer-details-content">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Happy Asian family with kid under 6 years old" src="/images/Products and Services/For citizens/Families_1690x800.jpg">
+<img style="width: 90%;" height="auto" width="100%" alt="Happy Asian family with kid under 6 years old" src="/images/Products and Services/For citizens/Families_1690x800.jpg">
 </div>
 <ul>
 <li>
@@ -90,7 +90,7 @@ family's finance planning journey.</p>
 </summary>
 <div data-type="detailsContent" class="isomer-details-content">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Young adult couple marking their personal milestone with marriage" src="/images/Products and Services/For citizens/young_adults_1690x800.jpg">
+<img style="width: 90%;" height="auto" width="100%" alt="Young adult couple marking their personal milestone with marriage" src="/images/Products and Services/For citizens/young_adults_1690x800.jpg">
 </div>
 <ul>
 <li>
@@ -116,7 +116,7 @@ family's finance planning journey.</p>
 </summary>
 <div data-type="detailsContent" class="isomer-details-content">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Happy senior asian couple enjoying their golden years, smiling and laughing" src="/images/Products and Services/For citizens/senior_citizens_1690x800.jpg">
+<img style="width: 90%;" height="auto" width="100%" alt="Happy senior asian couple enjoying their golden years, smiling and laughing" src="/images/Products and Services/For citizens/senior_citizens_1690x800.jpg">
 </div>
 <ul>
 <li>
