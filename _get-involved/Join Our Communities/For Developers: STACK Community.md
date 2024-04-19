@@ -8,10 +8,10 @@ variant: tiptap
 image: /images/Get
   Involved/STACK_Community_by_GovTech___Casual_after_work_STACK_Meetups_for_Developers_compressed.jpg
 ---
-<h3>Experts Driving Tech for Public Good</h3>
+<h2>Experts driving tech for public good</h2>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Experts in the STACK community listening to another member present his ideas and knowledge." src="/images/Get Involved/STACK_Community_by_GovTech___Casual_after_work_STACK_Meetups_for_Developers_compressed.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="Experts in the STACK community listening to another member present his ideas and knowledge." src="/images/Get Involved/STACK_Community_1690x800.jpg">
 </div>
 <h3>About STACK Community by GovTech</h3>
 <p>Our members share our passion — they strive to innovate for good. Our
@@ -32,7 +32,7 @@ you’ll enjoy access to exclusive tech conferences and developer events
 in Singapore.</p>
 <div data-type="detailGroup" class="isomer-accordion isomer-accordion-white">
 <details class="isomer-details">
-<summary><strong>STACK Conference</strong>
+<summary><strong>STACK conference</strong>
 </summary>
 <div data-type="detailsContent" class="isomer-details-content">
 <p>STACK Conference is the largest technology event in Singapore dedicated
@@ -45,7 +45,7 @@ many more.</p>
 </div>
 </details>
 <details class="isomer-details">
-<summary><strong>STACKx Conference</strong>
+<summary><strong>STACKx conference</strong>
 </summary>
 <div data-type="detailsContent" class="isomer-details-content">
 <p>STACKx Conference is an excellent opportunity for government leaders,
@@ -58,7 +58,7 @@ experts.</p>
 </div>
 </details>
 <details class="isomer-details">
-<summary><strong>STACK Meetups</strong>
+<summary><strong>STACK meetups</strong>
 </summary>
 <div data-type="detailsContent" class="isomer-details-content">
 <p>STACK Meetups are monthly, casual after-work sessions, where techies connect,
@@ -71,10 +71,6 @@ with some of the best and brightest tech experts at these sessions.</p>
 </details>
 </div>
 <h3>Conference spotlight: STACKx Smart City 2024</h3>
-<p></p>
-<div class="iframe-wrapper">
-<iframe style="max-width: 100%;" height="400" width="100%" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/5DGAIiUwMuU?si=nDKHdyk7z8JqUNLc"></iframe>
-</div>
 <p>We explored the possibilities of urban technology for smart cities at
 our latest STACKx Conference. Experts covered the latest trends in smart
 living, operations, and planning.</p>
