@@ -6,7 +6,7 @@ description: Harnessing data science and AI capabilities, GovTech has developed
 third_nav_title: For Government Agencies
 variant: tiptap
 ---
-<h3>Leveraging data science and artificial intelligence to improve cross-analysis and operational efficiency within the government</h3>
+<h2>Leveraging data science and artificial intelligence to improve cross-analysis and operational efficiency within the government</h2>
 <p>Data has changed the world for the better. Armed with key insights, everyday
 citizens can make informed decisions as they go about their daily lives.
 For government agencies, data have also paved the way for evidence-based
