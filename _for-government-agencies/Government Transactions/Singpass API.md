@@ -8,7 +8,7 @@ description: Government agencies can leverage Singpass APIs to allow users to
 third_nav_title: Government Transactions
 image: /images/Products and Services/For Government Agencies/Singpass_API_logo.png
 ---
-<h3>Enabling secure, convenient and seamless government transactions with Singpass APIs</h3>
+<h2>Enabling secure, convenient and seamless government transactions with Singpass APIs</h2>
 <p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 80%;" height="auto" width="100%" alt="Singpass API logo" src="/images/Products and Services/For businesses/Singpass_API_logo.png">
