@@ -47,14 +47,14 @@ documents with FileSG.</div>
 </div>
 <div class="isomer-card">
 <div class="isomer-card-body">
-<div class="isomer-card-title">Document Submission</div>
+<div class="isomer-card-title">Document submission</div>
 <div class="isomer-card-description">Soon, you will be able to use FileSG to submit important documents to
 different government agencies.</div>
 </div>
 </div>
 <div class="isomer-card">
 <div class="isomer-card-body">
-<div class="isomer-card-title">Improved Notifications</div>
+<div class="isomer-card-title">Improved notifications</div>
 <div class="isomer-card-description">Be notified whenever new documents are uploaded for your review.</div>
 </div>
 </div>
