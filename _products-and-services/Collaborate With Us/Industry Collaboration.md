@@ -9,7 +9,7 @@ variant: tiptap
 image: /images/Products and Services/Collaborate with
   us/industry_collab_meta_image.jpg
 ---
-<h3>Co-create with us to build our Smart Nation</h3>
+<h2>Co-create with us to build our Smart Nation</h2>
 <p>GovTech is committed to exploring new ways to deliver digital services
 for citizens, businesses and government agencies. To do this, we're always
 open to collaborating with industry stakeholders and researchers who share
@@ -102,21 +102,10 @@ and GALE.</p>
 </details>
 </div>
 <p></p>
-<p><strong>(New infographic)</strong>
-</p>
-<p><strong>Alt text: Collaborate with GovTech</strong>
-</p>
-<p></p>
 <p>Find out more about the partnership opportunities for FY2023 in the
 <a href="/files/IB2023_Towards_the_Next_Bound_of_Digital_Government_GovTech_CE.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>Towards the Next Bound of Digital Government report</u> 
 </a>. For a full list of current opportunities and open tenders, visit <a href="https://www.gebiz.gov.sg/" rel="noopener noreferrer nofollow" target="_blank"><u>GeBIZ</u></a>.</p>
 <h3>How to start collaborating with GovTech?</h3>
-<p><strong>(New infographic, to be created by ML)</strong>
-</p>
-<p><strong>Alt text: A look at how businesses can start collaborating with GovTech</strong>
-</p>
-<p></p>
-<p></p>
 <div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="mailto:govtech_sipeo@tech.gov.sg" class="isomer-card"><div class="isomer-card-body"><div class="isomer-card-title">Have an enquiry or a proactive proposal that will enrich our Smart Nation efforts?</div><div class="isomer-card-link">Drop us an email</div></div></a>
 </div>
 <p></p>
