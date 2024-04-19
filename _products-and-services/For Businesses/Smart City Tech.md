@@ -10,8 +10,9 @@ image: /images/Products and Services/For
   businesses/Smart_City_Tech_meta_image_resized.jpg
 ---
 <h2>Open Digital Platform: A powerful smart city operating system of the future</h2>
+<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Smart City Tech used for Punggol Digital District" src="/images/Products and Services/For businesses/Smart_City_Tech_meta_image_resized.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="Smart City Tech used for Punggol Digital District" src="/images/Products and Services/For businesses/Smart_city_tech_1690x800.jpg">
 </div>
 <p>In order for us to build a truly Smart Nation, we need to constantly push
 the envelope. In this regard, we're proud to have partnered with JTC and
@@ -66,7 +67,7 @@ The JTC Summit and Woodlands North Coast since 2022 and 2023 respectively.
 We are also looking to enhance the platform so that it can be scaled up
 to become the Singapore government's default smart facilities management
 solution.</p>
-<h3>Want to find out more about ODP?</h3>
+<h3>Interested to find out more about ODP?</h3>
 <div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="https://www.developer.tech.gov.sg/products/categories/sensor-platforms-and-internet-of-things/open-digital-platform/overview.html" class="isomer-card"><div class="isomer-card-body"><div class="isomer-card-title">Learn more on the Singapore Government Developer Portal</div><div class="isomer-card-link">Learn more about Open Digital Platform (ODP)</div></div></a>
 <a rel="noopener noreferrer nofollow" href="mailto:info@tech.gov.sg" class="isomer-card">
 <div class="isomer-card-body">
