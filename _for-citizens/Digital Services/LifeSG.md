@@ -62,9 +62,8 @@ with 400 agencies.</div>
 </summary>
 <div data-type="detailsContent" class="isomer-details-content">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Happy Asian family with kid under 6 years old" src="/images/Products and Services/For citizens/Happy_asian_family_resized.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="Happy Asian family with kid under 6 years old" src="/images/Products and Services/For citizens/Families_1690x800.jpg">
 </div>
-<p></p>
 <ul>
 <li>
 <p>Register the birth of your child online.</p>
@@ -91,9 +90,8 @@ family's finance planning journey.</p>
 </summary>
 <div data-type="detailsContent" class="isomer-details-content">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Young adult couple marking their personal milestone with marriage" src="/images/Products and Services/For citizens/Marriage_personal_milestone_resized.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="Young adult couple marking their personal milestone with marriage" src="/images/Products and Services/For citizens/young_adults_1690x800.jpg">
 </div>
-<p></p>
 <ul>
 <li>
 <p>Get the latest updates on your HDB grants and eligibility</p>
@@ -118,9 +116,8 @@ family's finance planning journey.</p>
 </summary>
 <div data-type="detailsContent" class="isomer-details-content">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Happy senior asian couple enjoying their golden years, smiling and laughing" src="/images/Products and Services/For citizens/Happy_Asian_Senior_couple_resized.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="Happy senior asian couple enjoying their golden years, smiling and laughing" src="/images/Products and Services/For citizens/senior_citizens_1690x800.jpg">
 </div>
-<p></p>
 <ul>
 <li>
 <p>Get timely updates on government announcements</p>
