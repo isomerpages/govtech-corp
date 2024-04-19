@@ -8,7 +8,7 @@ description: Run a business? Integrate your digital services with Singpass'
 third_nav_title: Corporate Transactions
 image: /images/Products and Services/For businesses/Singpass_API_logo.png
 ---
-<h3>Singpass APIs: Creating a trusted digital ecosystem that boosts business productivity</h3>
+<h2>Singpass APIs: Creating a trusted digital ecosystem that boosts business productivity</h2>
 <p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 80%;" height="auto" width="100%" alt="Singpass API logo" src="/images/Products and Services/For businesses/Singpass_API_logo.png">
