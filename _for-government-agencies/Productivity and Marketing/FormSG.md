@@ -8,7 +8,7 @@ description: FormSG is a tool that public officers in Singapore can use to
 third_nav_title: Productivity and Marketing
 image: /images/Products and Services/For Government Agencies/FormSG_logo.png
 ---
-<h3>Draft secure government forms in minutes with FormSG</h3>
+<h2>Draft secure government forms in minutes with FormSG</h2>
 <p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 50%;" height="auto" width="100%" alt="FormSG logo" src="/images/Products and Services/For Government Agencies/FormSG_logo.png">
