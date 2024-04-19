@@ -8,6 +8,10 @@ variant: tiptap
 image: /images/careers/How_we_work_meta_image.jpg
 ---
 <h2>As agents of change, we're inspired to build Tech for Public Good</h2>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="As agents of change, we're inspired to build Tech for Public Good" src="/images/careers/How_we_work_banner_1690x800.jpg">
+</div>
 <p>GovTech is not your ordinary workplace. Here, dreaming big is encouraged,
 and even more importantly, we are given the resources and opportunities
 to realise our dreams. Our positive work culture and environment make it
@@ -34,10 +38,6 @@ new possibilities.</div>
 projects.</div>
 </div>
 </div>
-</div>
-<p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%;" height="auto" width="100%" alt="Why GovTech - Agile, Bold, Collaborative" src="/images/careers/why-govtech-abc.png">
 </div>
 <h4>We aim to innovate, learn, and grow</h4>
 <div class="isomer-card-grid">
@@ -215,7 +215,7 @@ freely share their ideas”.</p>
 </details>
 </div>
 <p></p>
-<h4>Leadership with a Human Touch</h4>
+<h4>Leadership with a human touch</h4>
 <p>At GovTech, the notion of good leadership extends far beyond the traditional
 confines of hierarchical structures. As such, qualities such as empathy,
 accessibility and inclusivity are emphasised, and genuine connections are
