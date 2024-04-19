@@ -7,13 +7,13 @@ third_nav_title: Why Join GovTech
 variant: tiptap
 image: /images/careers/Careers_overview_meta_image_compressed.jpg
 ---
-<h3>Advance our mission. Shape your future.</h3>
+<h2>Advance our mission. Shape your future.</h2>
 <p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="Employees working at GovTech bonding over a game of foosball" src="/images/careers/Why_join_GovTech___Overview.jpg">
 </div>
 <p>A GovTech career is one that’s filled with purpose and meaning. Our digital
-transformation projects underpin Singapore’s efforts to build a Smart Nati3on,
+transformation projects underpin Singapore’s efforts to build a Smart Nation,
 a home where possibilities are powered by infocomm technology and engineering
 solutions. The work you do here will hence better the lives of all Singaporean
 citizens and residents. As you climb the corporate ladder to join the ranks
@@ -102,11 +102,6 @@ life for yourself.</div>
 to festive celebrations.</div>
 </div>
 </div>
-</div>
-<h3>A peek into our work culture</h3>
-<p></p>
-<div class="iframe-wrapper">
-<iframe style="max-width: 100%;" height="400" width="100%" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/WVLjmSgigbs?si=ofnNFIY_GSAajcmK"></iframe>
 </div>
 <h4>Want to learn more about life at GovTech?</h4>
 <p>Check out our <a href="https://linktr.ee/connectwithgovtech" rel="noopener noreferrer nofollow" target="_blank"><u>social media channels</u></a> to
