@@ -9,8 +9,9 @@ variant: tiptap
 image: /images/Products and Services/parents_gateway.jpg
 ---
 <h2>Helping parents to be more involved in their children's schooling journeys with Parents Gateway</h2>
+<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Parents Gateway" src="/images/Products and Services/parents_gateway.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="Parents Gateway: Strengthening school-parents partnership" src="/images/Products and Services/For citizens/Parents_Gateway_1690x800.jpg">
 </div>
 <p>In a bid to strengthen school-home partnerships and help parents become
 more aware of their children's day-to-day schooling activities, GovTech
