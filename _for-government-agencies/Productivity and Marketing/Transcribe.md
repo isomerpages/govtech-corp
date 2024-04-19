@@ -7,7 +7,7 @@ description: A speech-to-text platform, Transcribe allows public officers to
 third_nav_title: Productivity and Marketing
 image: /images/Products and Services/For Government Agencies/Transcribe_logo.png
 ---
-<h3>Increasing the efficiency of transcriptions with Transcribe</h3>
+<h2>Increasing the efficiency of transcriptions with Transcribe</h2>
 <p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 70%;" height="auto" width="100%" alt="Transcribe product logo" src="/images/Products and Services/For Government Agencies/Transcribe_logo.png">
@@ -98,7 +98,7 @@ you encounter any issues logging in.</p>
 <h3>What's the latest on Transcribe?</h3>
 <p>Transcribe is free to use for now, but a pricing strategy may be implemented
 in late 2024.</p>
-<h3>Want to find out more about Transcribe?</h3>
+<h3>Interested to find out more about Transcribe?</h3>
 <div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="https://www.developer.tech.gov.sg/products/categories/productivity-tools/transcribe/overview.html" class="isomer-card"><div class="isomer-card-body"><div class="isomer-card-title">Visit the Transcribe page to learn more about its features</div><div class="isomer-card-link">Transcribe</div></div></a>
 <a rel="noopener noreferrer nofollow" href="mailto:transcribe@tech.gov.sg" class="isomer-card">
 <div class="isomer-card-body">
