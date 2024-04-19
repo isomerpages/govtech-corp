@@ -8,7 +8,7 @@ variant: tiptap
 image: /images/About Us/For_citizens.jpg
 ---
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Happy couple sitting on the couch and spending time together while checking out GovTech events" src="/images/About Us/For_citizens_banner_image__1_.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="GovTech offers a wide array of solutions for citizens" src="/images/About Us/For_citizens_banner_image__1_.jpg">
 </div>
 <p>Welcome to your one-stop shop for citizens! This page has been specially
 curated to give you tech tips, behind-the-scenes stories and more.</p>
