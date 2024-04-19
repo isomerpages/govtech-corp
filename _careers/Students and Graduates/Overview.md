@@ -8,7 +8,7 @@ third_nav_title: Students and Graduates
 variant: tiptap
 image: /images/careers/students_and_graduates_overview_meta_image_compressed.jpg
 ---
-<h3>Have a hand in shaping Singapore's Smart Nation plans</h3>
+<h2>Have a hand in shaping Singapore's Smart Nation plans</h2>
 <p>Kickstart a lifelong career with GovTech!</p>
 <p>Due to its ever-changing nature, the tech industry offers you a vibrant
 career trajectory, one that is replete with learning and growth opportunities.</p>
