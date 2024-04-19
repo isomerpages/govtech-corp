@@ -8,7 +8,7 @@ third_nav_title: What We Do
 variant: tiptap
 image: /images/About Us/Our_role_meta_image_compressed.jpg
 ---
-<h3>Advancing how we live, work and play through tech</h3>
+<h2>Advancing how we live, work and play through tech</h2>
 <p>Our vision is to create a government that is "Digital to the Core, and
 Serves with Heart". We achieve this by using technology to create services
 that are easy, seamless and secure for people to use, and placing the needs
