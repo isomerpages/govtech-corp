@@ -11,9 +11,9 @@ third_nav_title: For Government Agencies
 the end goal we have whenever we set out to build Tech for Public Good.
 For our sister agencies, we aim to make managing transactions via these
 solutions simple. Our products and services are designed not only to serve
-the needs of citizens and businesses, but also to improve Whole-of-Government
+the needs of citizens and businesses but also to improve Whole-of-Government
 internal processes and efficiencies.</p>
-<h3>Explore solutions under Government Transactions</h3>
+<h3>Explore solutions under government transactions</h3>
 <div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="/products-and-services/for-government-agencies/government-transactions/singpass-api/" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Government agencies can leverage Singpass APIs to allow users to transact digitally with their services" src="/images/Products and Services/For Government Agencies/Singpass_API_600x400.png"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Singpass API</div><div class="isomer-card-description">Providing integration opportunities, the APIs help shape a digital ecosystem for both citizens and businesses to transact with the government.</div><div class="isomer-card-link">Singpass API</div></div></a>
 <a rel="noopener noreferrer nofollow" href="/products-and-services/for-government-agencies/government-transactions/redeemsg/" class="isomer-card">
 <div class="isomer-card-image">
