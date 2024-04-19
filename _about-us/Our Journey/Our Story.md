@@ -8,11 +8,11 @@ third_nav_title: Our Journey
 variant: tiptap
 image: /images/About Us/Our_story_meta_image_compressed.jpg
 ---
-<h3>GovTech's Story at a Glance</h3>
+<h2>GovTech's Story at a Glance</h2>
 <p>The founding of GovTech in 2016 was an important milestone in Singapore’s
 digital government transformation. Discover our journey and the important
 achievements we’ve reached to further the Smart Nation initiative.</p>
-<h4>A new chapter in our digital government journey</h4>
+<p>A new chapter in our digital government journey</p>
 <p><strong>EP 1: In the Beginning</strong>
 </p>
 <div class="iframe-wrapper">
@@ -26,7 +26,7 @@ for citizens, businesses and public officers.&nbsp;</p>
 Infocomm and Media Development Authority (IMDA).&nbsp;</p>
 <p>The Government Technology Agency (GovTech) was then created to take on
 the Smart Nation engineering efforts from the former IDA.</p>
-<h4>The growth of GovTech</h4>
+<h3>The growth of GovTech</h3>
 <p><strong>EP 2: Building Capabilities with Engineering Talent</strong>
 </p>
 <div class="iframe-wrapper">
@@ -40,7 +40,7 @@ in emerging technologies.&nbsp;</p>
 Services (for Application Design, Development and Deployment), Cybersecurity,
 Sensors &amp; IoT, and Government ICT Infrastructure. Many of our products
 and services tap on the expertise of more than 1 capability centre.</p>
-<h4>Building the Foundations of a Smart Nation</h4>
+<h3>Building the Foundations of a Smart Nation</h3>
 <p><strong>EP 3: The Singapore Government Tech Stack</strong>
 </p>
 <div class="iframe-wrapper">
@@ -54,7 +54,7 @@ and faster way of building and implementing digital government services.</p>
 <p>This includes a more seamless and connected experience, easier exchange
 of data, and faster deployment of solutions without the need to build infrastructures
 from scratch.</p>
-<h4>Driving progress through global knowledge sharing</h4>
+<h3>Driving progress through global knowledge sharing</h3>
 <p><strong>EP 4: Engaging the World</strong>
 </p>
 <div class="iframe-wrapper">
