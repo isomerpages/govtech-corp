@@ -7,7 +7,7 @@ description: VICA, GovTech's next-generation virtual assistant platform, is
 third_nav_title: Productivity and Marketing
 image: /images/Products and Services/For Government Agencies/vica_logo.png
 ---
-<h3>Activate public-facing chatbots and serve citizens better with VICA</h3>
+<h2>Activate public-facing chatbots and serve citizens better with VICA</h2>
 <p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 70%;" height="auto" width="100%" alt="VICA chatbot logo" src="/images/Products and Services/For Government Agencies/vica_logo.png">
