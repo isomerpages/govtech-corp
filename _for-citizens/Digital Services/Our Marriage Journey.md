@@ -8,7 +8,7 @@ description: Our Marriage Journey makes marriage administration convenient. File
 third_nav_title: Digital Services
 image: /images/Products and Services/For citizens/OurMarriageJourney_meta_image.png
 ---
-<h3>Digitalising marriage registrations with Our Marriage Journey</h3>
+<h2>Digitalising marriage registrations with Our Marriage Journey</h2>
 <p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="Young happy couple on their wedding day, registering their marriage via Our Marriage Journey" src="/images/Products and Services/For citizens/OMJ_1690x800.jpg">
