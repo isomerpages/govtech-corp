@@ -8,7 +8,7 @@ description: Available on all government-issued laptops, GovTech's Data Loss
 third_nav_title: ICT and Infrastructure
 image: /images/Products and Services/For Government Agencies/DLP_banner.jpg
 ---
-<h3>Enhancing competencies in safeguarding data within the government with Data Loss Prevention</h3>
+<h2>Enhancing competencies in safeguarding data within the government with Data Loss Prevention</h2>
 <p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="Data Loss Prevention (DLP) for government data" src="/images/Products and Services/For Government Agencies/DLP_banner.jpg">
@@ -73,6 +73,7 @@ you perform any of the following activities:</p>
 <p>DLP comes pre-installed on your device as part of the Digital Workplace.
 Whenever necessary, DLP will prompt you and confirm your intent to transfer
 the data before proceeding with the request.</p>
-<div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="mailto:info@tech.gov.sg" class="isomer-card"><div class="isomer-card-body"><div class="isomer-card-title">Want to find out more about DLP?</div><div class="isomer-card-description">Have questions? Email us.</div><div class="isomer-card-link">Contact us</div></div></a>
+<h3>Interested to find out more about DLP?</h3>
+<div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="mailto:info@tech.gov.sg" class="isomer-card"><div class="isomer-card-body"><div class="isomer-card-title">Have questions? Email us</div><div class="isomer-card-link">Contact us</div></div></a>
 </div>
 <p></p>
