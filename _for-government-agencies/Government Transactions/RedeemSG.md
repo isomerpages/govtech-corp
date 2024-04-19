@@ -8,7 +8,7 @@ description: RedeemSG is a trusted platform that makes the disbursement of
 third_nav_title: Government Transactions
 image: /images/Products and Services/For Government Agencies/RedeemSG_logo.png
 ---
-<h3>RedeemSG: Simplifying the disbursement of government vouchers</h3>
+<h2>RedeemSG: Simplifying the disbursement of government vouchers</h2>
 <p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 70%;" height="auto" width="100%" alt="RedeemSG logo" src="/images/Products and Services/For Government Agencies/RedeemSG_logo.png">
@@ -60,7 +60,7 @@ Portal.</div>
 <p>Is your ministry or agency interested in utilising RedeemSG? Please tell
 us more about your needs via this <a href="https://form.gov.sg/621876e1f620bd00130757a6" rel="noopener noreferrer nofollow" target="_blank"><u>form</u></a> and
 the relevant product team will be in touch.</p>
-<h3>Want to find out more about RedeemSG?</h3>
+<h3>Interested to find out more about RedeemSG?</h3>
 <div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="https://redeem.gov.sg/disbursing" class="isomer-card"><div class="isomer-card-body"><div class="isomer-card-title">Visit the official website to learn more</div><div class="isomer-card-link">RedeemSG website</div></div></a>
 <a rel="noopener noreferrer nofollow" href="mailto:info@tech.gov.sg" class="isomer-card">
 <div class="isomer-card-body">
