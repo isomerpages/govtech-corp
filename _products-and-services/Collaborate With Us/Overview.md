@@ -8,7 +8,7 @@ variant: tiptap
 image: /images/Products and Services/Collaborate with
   us/Collaborate_with_us_overview_meta_image_resized.jpg
 ---
-<h3>Drive digital transformation with us</h3>
+<h2>Drive digital transformation with us</h2>
 <p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="Hand shake - collaboration with GovTech" src="/images/Products and Services/Collaborate with us/Collaborate_with_us_overview_meta_image_resized.jpg">
