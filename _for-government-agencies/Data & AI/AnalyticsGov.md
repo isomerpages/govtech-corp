@@ -8,7 +8,7 @@ third_nav_title: Data & AI
 image: /images/Products and Services/For Government
   Agencies/Analytics_gov_meta_image_resized.jpg
 ---
-<h3>Enabling data exploitation through an interactive environment with Analytics.gov (AG)</h3>
+<h2>Enabling data exploitation through an interactive environment with Analytics.gov (AG)</h2>
 <div class="isomer-image-wrapper">
 <img style="width: 50%;" height="auto" width="100%" alt="Analytics.gov logo" src="/images/Products and Services/For Government Agencies/Analytics_gov_meta_image_resized.jpg">
 </div>
@@ -58,7 +58,7 @@ at scale.</p>
 like Stable Diffusion and large language models from repositories such
 as HuggingFace, as well as a no-code ML tool for generating predictions<strong>.</strong>
 </p>
-<h3>Want to find out more about AG?</h3>
+<h3>Interested to find out more about AG?</h3>
 <div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="https://www.developer.tech.gov.sg/products/categories/analytics/analytics-gov/overview.html" class="isomer-card"><div class="isomer-card-body"><div class="isomer-card-title">Learn about its features on the Singapore Government Developer Portal</div><div class="isomer-card-link">Analytics.gov features</div></div></a>
 <a rel="noopener noreferrer nofollow" href="mailto:info@tech.gov.sg" class="isomer-card">
 <div class="isomer-card-body">
