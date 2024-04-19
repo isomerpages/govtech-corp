@@ -8,7 +8,7 @@ third_nav_title: For Citizens
 variant: tiptap
 image: /images/Products and Services/myenv_logo.png
 ---
-<h3>Bringing citizens closer to nature through digital means</h3>
+<h2>Bringing citizens closer to nature through digital means</h2>
 <p>In support of the Singapore Green Plan 2030, GovTech has developed products
 that underpin the nation's efforts on the environmental front. Our products
 are meant to inspire you to connect with nature as well as offer you real-time
