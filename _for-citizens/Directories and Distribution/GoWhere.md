@@ -63,7 +63,7 @@ a wide coverage of topics. Here's a look at some popular sites:</p>
 <ul data-tight="true" class="tight">
 <li>
 <p><a href="https://www.gowhere.gov.sg/budgetmeal/" rel="noopener noreferrer nofollow" target="_blank">BudgetMealGoWhere</a> —
-Where to get a Budget Meal?</p>
+Where to get a budget meal?</p>
 </li>
 <li>
 <p><a href="https://www.gowhere.gov.sg/cdcvouchers" rel="noopener noreferrer nofollow" target="_blank">CDCVouchersGoWhere</a> —
