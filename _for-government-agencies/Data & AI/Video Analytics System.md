@@ -8,7 +8,8 @@ description: GovTech's Video Analytics System automatically analyses collected
 third_nav_title: Data & AI
 image: /images/Products and Services/For Government Agencies/VAS_meta_image.jpg
 ---
-<h3>Automating analysis processes with Video Analytics System (VAS)</h3>
+<h2>Automating analysis processes with Video Analytics System (VAS)</h2>
+<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 50%;" height="auto" width="100%" alt="Videa Analytics System (VAS) logo" src="/images/Products and Services/For Government Agencies/VAS_meta_image.jpg">
 </div>
@@ -70,7 +71,7 @@ outside of designated public places. Read the case study on TechNews.</div>
 <h3>How to use VAS?</h3>
 <p>Simply visit the <a href="https://vas.gov.sg/login" rel="noopener noreferrer nofollow" target="_blank"><u>VAS site</u></a> and log in with your
 Whole-of-Government credentials to get started.</p>
-<h3>Want to find out more about VAS?</h3>
+<h3>Interested to find out more about VAS?</h3>
 <div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="https://www.developer.tech.gov.sg/products/categories/analytics/vas/overview.html" class="isomer-card"><div class="isomer-card-body"><div class="isomer-card-title">Discover VAS' features on the Singapore Government Developer Portal</div><div class="isomer-card-link">VAS features</div></div></a>
 <a rel="noopener noreferrer nofollow" href="mailto:info@tech.gov.sg" class="isomer-card">
 <div class="isomer-card-body">
