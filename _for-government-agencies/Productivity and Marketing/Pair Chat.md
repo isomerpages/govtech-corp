@@ -8,7 +8,7 @@ description: A government AI chatbot, Pair Chat helps public officers in
 third_nav_title: Productivity and Marketing
 image: /images/Products and Services/For Government Agencies/Pair_chat_meta_image.png
 ---
-<h3>Pair Chat: Transforming ways of working for public officers through AI</h3>
+<h2>Pair Chat: Transforming ways of working for public officers through AI</h2>
 <p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 40%;" height="auto" width="100%" alt="Pair Chat logo" src="/images/Products and Services/For Government Agencies/Pair_chat_meta_image.png">
