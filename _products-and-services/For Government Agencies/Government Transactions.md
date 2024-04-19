@@ -6,7 +6,7 @@ description: Built with seamlessness and security in mind, GovTech's products
   for Government Transactions help improve internal processes and efficiencies.
 third_nav_title: For Government Agencies
 ---
-<h3>Enabling agencies to facilitate government transactions with ease</h3>
+<h2>Enabling agencies to facilitate government transactions with ease</h2>
 <p>Seamless and secure digital products and services for citizens. That's
 the end goal we have whenever we set out to build Tech for Public Good.
 For our sister agencies, we aim to make managing transactions via these
