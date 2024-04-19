@@ -7,7 +7,7 @@ third_nav_title: "Opportunities: Professionals"
 variant: tiptap
 image: /images/careers/Smart_Nation_fellowship_meta_image_resized.jpg
 ---
-<h3>Help make Singapore's Smart Nation plans a blueprint for the world to follow</h3>
+<h2>Help make Singapore's Smart Nation plans a blueprint for the world to follow</h2>
 <p></p>
 <div class="iframe-wrapper">
 <iframe style="max-width: 100%;" height="400" width="100%" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/ThfGBUqwzyA?si=SLLUKXGBqZsqIAUG"></iframe>
