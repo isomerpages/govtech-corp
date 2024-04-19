@@ -8,7 +8,7 @@ third_nav_title: For Citizens
 variant: tiptap
 image: /images/Products and Services/parents_gateway.jpg
 ---
-<h3>Helping parents to be more involved in their children's schooling journeys</h3>
+<h2>Helping parents to be more involved in their children's schooling journeys with Parents Gateway</h2>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="Parents Gateway" src="/images/Products and Services/parents_gateway.jpg">
 </div>
