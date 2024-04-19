@@ -8,7 +8,7 @@ description: Singpass is a trusted digital identity that aims to make
 third_nav_title: Digital Services
 image: /images/Products and Services/For citizens/Singpass_meta_image.png
 ---
-<h3>Digitalising the national identity and providing secure access to e-services with Singpass</h3>
+<h2>Digitalising the national identity and providing secure access to e-services with Singpass</h2>
 <p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 80%;" height="auto" width="100%" alt="" src="/images/Digital Gov Efforts/singpass_logo_fullcolours_1.png">
