@@ -9,7 +9,7 @@ variant: tiptap
 image: /images/About Us/Our
   capabilities/Compressed_GovTech_Singapore_Digital_Government_Journey.jpg
 ---
-<h3>Turning the Digital Government Blueprint (DGB) 2.0 into a reality</h3>
+<h2>Turning the Digital Government Blueprint (DGB) 2.0 into a reality</h2>
 <p>These efforts capture the government’s ambition to better leverage data,
 harness new technologies, and drive broader efforts to build a digital
 economy and society.&nbsp;</p>
