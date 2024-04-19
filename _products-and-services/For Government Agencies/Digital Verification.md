@@ -7,7 +7,7 @@ description: Powered by blockchain, OpenAttestation is an open-source, backend
 third_nav_title: For Government Agencies
 image: /images/Products and Services/open_attestation_logo.png
 ---
-<h3>Simplifying the verification of digital official documents with blockchain-powered OpenAttestation</h3>
+<h2>Simplifying the verification of digital official documents with blockchain-powered OpenAttestation</h2>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="OpenAttestation logo" src="/images/Products and Services/For Government Agencies/OpenAttestation.png">
 </div>
