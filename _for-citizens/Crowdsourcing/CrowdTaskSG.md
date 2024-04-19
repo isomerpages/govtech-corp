@@ -8,7 +8,7 @@ description: CrowdTaskSG offers you a chance to get heard on national issues.
 third_nav_title: Crowdsourcing
 image: /images/Products and Services/For citizens/crowdtask_600x300.png
 ---
-<h3>Giving citizens a chance to be heard on national issues with CrowdTaskSG</h3>
+<h2>Giving citizens a chance to be heard on national issues with CrowdTaskSG</h2>
 <p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="CrowdTaskSG banner image/logo" src="/images/Products and Services/For citizens/CTSG_banner.jpg">
