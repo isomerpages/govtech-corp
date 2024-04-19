@@ -7,10 +7,10 @@ third_nav_title: "Opportunities: Professionals"
 variant: tiptap
 image: /images/careers/Professionals_over_meta_image.jpg
 ---
-<h3>A rewarding career awaits you at GovTech</h3>
+<h2>A rewarding career awaits you at GovTech</h2>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="GovTechies working together on a project" src="/images/careers/Professionals_over_meta_image.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="GovTechies working together on a project" src="/images/careers/Professionals_overview_1690x800.jpg">
 </div>
 <p>Unleash your potential while working at GovTech! As GovTechies, we welcome
 the fact that we get to face challenges in our line of work. If you also
