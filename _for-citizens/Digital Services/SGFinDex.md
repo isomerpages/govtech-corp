@@ -107,7 +107,7 @@ at its portal.&nbsp;</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="Statistics over the usage and sign ups for SGFinDex" src="/images/Digital Gov Efforts/SGFindex_infographic.jpg">
 </div>
-<h4><u>Public Service Advisory on Data Privacy</u></h4>
+<h4>Public Service Advisory on Data Privacy</h4>
 <p>SGFinDex does not read or store any of your financial information. It
 only transmits information across different organisations.&nbsp;</p>
 <p>To protect your data privacy, data refresh will only take place when you
