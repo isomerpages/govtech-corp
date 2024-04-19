@@ -6,7 +6,7 @@ description: GovTech's digital storage and verification services facilitate the
   safe storage and sharing of verified official documents. Find out more.
 third_nav_title: For Citizens
 ---
-<h3>Creating services to facilitates secure storage and sharing of verified official documents</h3>
+<h2>Creating services to facilitates secure storage and sharing of verified official documents</h2>
 <p>Digitalisation is a big part of our transition into a Smart Nation. As
 communications go digital, protocols are necessary in order to facilitate
 the endorsement and transmission of sensitive documents between the government
