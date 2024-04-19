@@ -106,7 +106,7 @@ approach to drive positive changes for the benefit of citizens!”</p>
 </tr>
 </tbody>
 </table>
-<h3>A Day in the Life of a GovTechie</h3>
+<h3>A day in the life of a GovTechie</h3>
 <p></p>
 <div class="iframe-wrapper">
 <iframe style="max-width: 100%;" height="1200" width="70%" allowfullscreen="true" frameborder="0" src="https://www.facebook.com/plugins/video.php?height=476&amp;href=https%3A%2F%2Fwww.facebook.com%2FInsideGovTech%2Fvideos%2F384410876943479%2F&amp;show_text=true&amp;width=267&amp;t=0"></iframe>
