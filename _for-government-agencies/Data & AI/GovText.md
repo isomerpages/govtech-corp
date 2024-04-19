@@ -8,7 +8,8 @@ description: A Natural Language Processing-based text analytics platform,
 third_nav_title: Data & AI
 image: /images/Products and Services/For Government Agencies/GovText_meta_image.png
 ---
-<h3>Enabling efficient analyses of textual data with GovText</h3>
+<h2>Enabling efficient analyses of textual data with GovText</h2>
+<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 50%;" height="auto" width="100%" alt="GovText logo" src="/images/Products and Services/For Government Agencies/GovText_meta_image.png">
 </div>
