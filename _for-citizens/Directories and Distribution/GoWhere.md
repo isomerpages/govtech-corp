@@ -83,10 +83,10 @@ Where to find support schemes and services?</p>
 access the respective websites. Bookmark the page or add the page to your
 home screen to access it quickly.</p>
 <h3>Interested in finding out more about GoWhere?</h3>
-<div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="https://www.gowhere.gov.sg/" class="isomer-card"><div class="isomer-card-body"><div class="isomer-card-title">Visit the GoWhere website</div><div class="isomer-card-link">GoWhere Suite</div></div></a>
+<div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="https://www.gowhere.gov.sg/" class="isomer-card"><div class="isomer-card-body"><div class="isomer-card-title">Visit the official website today</div><div class="isomer-card-link">Go to website</div></div></a>
 <a rel="noopener noreferrer nofollow" href="http://eepurl.com/cUwIsD" class="isomer-card">
 <div class="isomer-card-body">
-<div class="isomer-card-title">Subscribe to the TechNews newsletter for updates</div>
+<div class="isomer-card-title">TechNews readers will be the first to receive updates on GoWhere!</div>
 <div class="isomer-card-link">Subscribe to TechNews</div>
 </div>
 </a>
