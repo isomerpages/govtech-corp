@@ -9,7 +9,7 @@ third_nav_title: ICT and Infrastructure
 image: /images/Products and Services/For Government
   Agencies/Secure_internet_surfing_meta_image_resized.jpg
 ---
-<h3>Enabling public officers to browse the web safely on work devices with Secure Internet Surfing (SIS)</h3>
+<h2>Enabling public officers to browse the web safely on work devices with Secure Internet Surfing (SIS)</h2>
 <p>Circa 2016, in response to the rising surge of cyber threats, the government
 introduced a security measure to have public officers delink their work
 computers from the internet. When surfing the web for work purposes, they
@@ -61,7 +61,8 @@ Surfing is active.</p>
 </li>
 </ol>
 <p>For information on CDR, visit<a href="https://docs.developer.tech.gov.sg/docs/cft-user-guide/datasecurity/cdr" rel="noopener noreferrer nofollow" target="_blank"> <u>the documentation on the Singapore Government Developer Portal</u></a>.</p>
+<h3>Interested to find out more about SIS?</h3>
 <p></p>
-<div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="mailto:info@tech.gov.sg" class="isomer-card"><div class="isomer-card-body"><div class="isomer-card-title">Want to find out more about SIS?</div><div class="isomer-card-description">Have questions? Email us.</div><div class="isomer-card-link">Contact us</div></div></a>
+<div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="mailto:info@tech.gov.sg" class="isomer-card"><div class="isomer-card-body"><div class="isomer-card-title">Have questions? Email us</div><div class="isomer-card-link">Contact us</div></div></a>
 </div>
 <p></p>
