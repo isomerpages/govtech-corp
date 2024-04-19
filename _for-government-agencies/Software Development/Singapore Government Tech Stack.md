@@ -27,10 +27,6 @@ of the usual timeframe of a year. MyCareersFuture was also built using
 SGTS.</p>
 <p>Today, more than 40 agencies have already reaped the benefits of utilising
 SGTS, implementing over 200 systems on cloud.</p>
-<p></p>
-<div class="iframe-wrapper">
-<iframe style="max-width: 100%;" height="400" width="100%" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/Vt-r2vCqSh8?si=hxg2epzcUOzHr2qq"></iframe>
-</div>
 <h3>Why use SGTS?</h3>
 <p>There are many reasons why you should use SGTS.</p>
 <ul>
@@ -47,11 +43,11 @@ of operations.</p>
 <p>Focus on designing solutions that best meet the needs of your agency's
 customers and accelerate their deployment without the need to develop infrastructure
 from scratch.</p>
+<p></p>
 </li>
 </ul>
-<p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="A look at the Singapore Government Tech Stack." src="/images/Products and Services/For Government Agencies/sgts_infographic_28_Sep_resized.jpg">
+<div class="iframe-wrapper">
+<iframe style="max-width: 100%;" height="400" width="100%" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/Vt-r2vCqSh8?si=hxg2epzcUOzHr2qq"></iframe>
 </div>
 <h3>Interested to find out more about SGTS?</h3>
 <div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="https://www.developer.tech.gov.sg/singapore-government-tech-stack/" class="isomer-card"><div class="isomer-card-body"><div class="isomer-card-title">Discover its features on the Singapore Government Developer Portal (SGDP)</div><div class="isomer-card-link">Learn more on SGDP</div></div></a>
