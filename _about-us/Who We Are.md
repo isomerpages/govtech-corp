@@ -16,10 +16,10 @@ image: /images/About Us/Who_we_are_meta_image_compressed.jpg
 and public sector digital transformation. We harness the power of technology
 to make lives better for citizens, businesses, international audiences
 and the public service sector.</p>
-<h4>Our Vision:</h4>
+<h4>Our vision:</h4>
 <p>Empowering our nation with possibilities through infocomm technology and
 related engineering technology.</p>
-<h4>Our Mission:</h4>
+<h4>Our mission:</h4>
 <p>Engineering Digital Government, Making Lives Better.</p>
 <h3>What does GovTech do?</h3>
 <p></p>
@@ -71,7 +71,7 @@ transformation.</p>
 </div>
 </details>
 </div>
-<h3>Our Identity</h3>
+<h3>Our identity</h3>
 <p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 80%;" height="auto" width="100%" alt="GovTech logo" src="/images/About Us/logo_govtech_hort.gif">
@@ -82,7 +82,7 @@ starlings as they shift synchronously to adapt and respond to the evolving
 environment.&nbsp;</p>
 <p>This mirrors our agency's positioning, which is to empower the nation
 with possibilities, realised through the innovation of technology and engineering.</p>
-<h3>Our Values</h3>
+<h3>Our values</h3>
 <p>We aim to be agile, bold and collaborative in everything that we do.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="GovTech's values of Agile, Bold, Collaborative and what they mean" src="/images/careers/why-govtech-abc.png">
