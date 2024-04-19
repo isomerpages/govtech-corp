@@ -27,12 +27,12 @@ he had entered.&nbsp;&nbsp;</p>
 <p>Today, the free-to-use GoWhere Suite exists as a mini-stack, and has become
 a repository of distribution and awareness campaigns in Singapore. SupportGoWhere,
 for example, directs Singaporeans in need to over 23 government agencies
-that distribute social services, grants and resources.&nbsp;</p>
+that distribute social services, grants and resources.</p>
 <p>There are also useful features for daily activities such as BudgetGoWhere,
 which crowdsources public recommendations on budget meals in coffee shops.
 The latest site in the GoWhere Suite is<a href="https://www.gowhere.gov.sg/sgready/" rel="noopener noreferrer nofollow" target="_blank"> <u>SGReadyGoWhere</u></a>,
 a directory where users can search for the locations of Civil Defence Shelters
-that are participating in Exercise SG Ready.&nbsp;</p>
+that are participating in Exercise SG Ready.</p>
 <p>As of June 2023, the entire GoWhere Suite has seen more than 49 million
 visits.</p>
 <h3>Why use GoWhere?</h3>
