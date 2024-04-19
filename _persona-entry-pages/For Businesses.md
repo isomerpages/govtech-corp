@@ -6,6 +6,8 @@ description: A hub for businesses who want to level up through tech. Find
 variant: tiptap
 image: /images/About Us/For_Businesses_persona_copy.jpg
 ---
+<h2>Discover tools and resources for your business</h2>
+<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="Asian businessman with a smile on his face as he walks to a destination" src="/images/About Us/For_Businesses_1690x800px.jpg">
 </div>
