@@ -31,7 +31,7 @@ Here are some e-services available via the portal.</p>
 <div class="isomer-card">
 <div class="isomer-card-image">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Our Marriage Journey digitalises the marriage registration process." src="/images/Products and Services/For citizens/OMJ_info_card_1_600x300.png">
+<img style="width: 100%" height="auto" width="100%" alt="Our Marriage Journey digitalises the marriage registration process." src="/images/Products and Services/For citizens/OMJ_card_1_600x400.jpg">
 </div>
 </div>
 <div class="isomer-card-body">
@@ -43,7 +43,7 @@ your solemnisation via video if an in-person ceremony is not feasible.</div>
 <div class="isomer-card">
 <div class="isomer-card-image">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Use Our Marriage Journey for all your marriage documentation needs." src="/images/Products and Services/For citizens/OMJ_info_card_2_600x300.png">
+<img style="width: 100%" height="auto" width="100%" alt="Use Our Marriage Journey for all your marriage documentation needs." src="/images/Products and Services/For citizens/OMJ_card_2_600x400.jpg">
 </div>
 </div>
 <div class="isomer-card-body">
@@ -52,12 +52,10 @@ your solemnisation via video if an in-person ceremony is not feasible.</div>
 and verify digital documents.</div>
 </div>
 </div>
-</div>
-<div class="isomer-card-grid">
 <div class="isomer-card">
 <div class="isomer-card-image">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Update your marital status with Our Marriage Journey." src="/images/Products and Services/For citizens/OMJ_info_card_3_new.png">
+<img style="width: 100%" height="auto" width="100%" alt="Update your marital status with Our Marriage Journey." src="/images/Products and Services/For citizens/OMJ_card_3_600x400.jpg">
 </div>
 </div>
 <div class="isomer-card-body">
