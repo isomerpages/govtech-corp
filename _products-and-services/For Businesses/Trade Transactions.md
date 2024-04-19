@@ -8,7 +8,7 @@ third_nav_title: For Businesses
 variant: tiptap
 image: /images/Products and Services/For businesses/TradeTrust_logo.png
 ---
-<h3>Providing verification for cross-border trade transactions with TradeTrust</h3>
+<h2>Providing verification for cross-border trade transactions with TradeTrust</h2>
 <div class="isomer-image-wrapper">
 <img style="width: 80%;" height="auto" width="100%" alt="TradeTrust logo" src="/images/Products and Services/For businesses/TradeTrust_logo.png">
 </div>
