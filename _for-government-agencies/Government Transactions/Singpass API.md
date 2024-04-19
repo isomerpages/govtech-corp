@@ -114,7 +114,7 @@ You can also use the sample user journeys as a reference.</p>
 your app. You can then submit your app configuration to deploy your application.</p>
 </li>
 </ul>
-<h3>Want to find out more about Singpass APIs?</h3>
+<h3>Interested to find out more about Singpass APIs?</h3>
 <div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="https://api.singpass.gov.sg/" class="isomer-card"><div class="isomer-card-body"><div class="isomer-card-title">Visit the Singpass API website to learn more</div><div class="isomer-card-link">Singpass API website</div></div></a>
 <a rel="noopener noreferrer nofollow" href="mailto:info@tech.gov.sg" class="isomer-card">
 <div class="isomer-card-body">
