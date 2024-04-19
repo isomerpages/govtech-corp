@@ -7,6 +7,8 @@ description: Whether you're a tech enthusiast or hoping to be a future
 variant: tiptap
 image: /images/About Us/For_citizens.jpg
 ---
+<h2>Explore GovTech's latest stories, events and tech tips</h2>
+<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="GovTech offers a wide array of solutions for citizens" src="/images/About Us/For_citizens_banner_image__1_.jpg">
 </div>
