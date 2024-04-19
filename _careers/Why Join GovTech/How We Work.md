@@ -126,7 +126,7 @@ it is a tangible reality for GovTech.</p>
 <p></p>
 <div data-type="detailGroup" class="isomer-accordion isomer-accordion-white">
 <details class="isomer-details">
-<summary><strong>The Power of Purpose</strong>
+<summary><strong>The power of purpose</strong>
 </summary>
 <div data-type="detailsContent" class="isomer-details-content">
 <p>At GovTech, one of our core missions is to make a positive impact through
@@ -149,7 +149,7 @@ work becomes much more rewarding”.</p>
 </div>
 </details>
 <details class="isomer-details">
-<summary><strong>Collaboration as a Catalyst</strong>
+<summary><strong>Collaboration as a catalyst</strong>
 </summary>
 <div data-type="detailsContent" class="isomer-details-content">
 <p>In the pursuit of creating products and services that make life better
@@ -172,7 +172,7 @@ work environment where diverse ideas are welcomed and valued.</p>
 </div>
 </details>
 <details class="isomer-details">
-<summary><strong>Resource Allocation and Management</strong>
+<summary><strong>Resource allocation and management</strong>
 </summary>
 <div data-type="detailsContent" class="isomer-details-content">
 <p>Another key aspect is the importance of effective resource allocation
@@ -191,7 +191,7 @@ resource allocation for subsequent projects smoother."</p>
 </div>
 </details>
 <details class="isomer-details">
-<summary><strong>Nurturing Bold Ideas and Bright Minds</strong>
+<summary><strong>Nurturing bold ideas and bright minds</strong>
 </summary>
 <div data-type="detailsContent" class="isomer-details-content">
 <p>GovTech leaders champion innovation. They foster a culture where learning
