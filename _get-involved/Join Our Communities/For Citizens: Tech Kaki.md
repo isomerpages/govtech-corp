@@ -7,10 +7,10 @@ description: Co-create government products and services as part of our Tech Kaki
 third_nav_title: Join Our Communities
 image: /images/Get Involved/Tech_Kaki_Appreciation_Dinner__1_.jpg
 ---
-<h3>A citizen community from all walks of life</h3>
+<h2>A citizen community from all walks of life</h2>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%;" height="auto" width="100%" alt="GovTech community Tech Kaki networking" src="/images/Get Involved/gt7_techkaki.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="GovTech community Tech Kaki networking" src="/images/Get Involved/Tech_kaki_1690x800.jpg">
 </div>
 <h3>About Tech Kaki</h3>
 <div class="isomer-image-wrapper">
@@ -73,7 +73,7 @@ of our Tech Kaki community and share more about their contributions.</div>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="Tech Kaki appreciation dinner with members of the community" src="/images/Get Involved/Tech_Kaki_Appreciation_Dinner_resized.jpg">
 </div>
-<div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="http://eepurl.com/hsr131" class="isomer-card"><div class="isomer-card-body"><div class="isomer-card-title">Join our community</div><div class="isomer-card-description">Connect with us and receive opportunities for co-creation, right in your email inbox.</div><div class="isomer-card-link">Sign up here</div></div></a>
+<div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="http://eepurl.com/hsr131" class="isomer-card"><div class="isomer-card-body"><div class="isomer-card-title">Join our community</div><div class="isomer-card-description">Connect with us and receive opportunities for co-creation, right in your email inbox.</div><div class="isomer-card-link">Become a Tech Kaki</div></div></a>
 <a rel="noopener noreferrer nofollow" href="https://www.facebook.com/TechKaki/" class="isomer-card">
 <div class="isomer-card-body">
 <div class="isomer-card-title">Stay updated on social media</div>
