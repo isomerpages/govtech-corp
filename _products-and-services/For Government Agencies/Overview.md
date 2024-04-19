@@ -8,7 +8,7 @@ variant: tiptap
 image: /images/Products and Services/For Government
   Agencies/For_gov_agencies_meta_image.jpg
 ---
-<h2>Our products and services for Government Agencies</h2>
+<h2>Our products and services for government agencies</h2>
 <p>GovTech's vision of a Digital Government is one that is not only secure
 and always functioning but also boasts the capability to provide public
 officers the chance to spearhead meaningful digital transformation initiatives.&nbsp;</p>
@@ -18,7 +18,7 @@ as knowledge and training. Collectively, they heighten officers' productivity
 and also make it easy for them to upskill.</p>
 <p>Learn how our products can benefit public servants in both their everyday
 tasks as well as special projects.</p>
-<h3>Explore our Government products</h3>
+<h3>Explore our government products</h3>
 <div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="/products-and-services/for-government-agencies/government-transactions/" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="GovTech's products under the Government Transactions umbrella help improve internal processes and efficiencies." src="/images/Products and Services/For Government Agencies/Gov_Agencies_card_1.jpg"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Government Transactions</div><div class="isomer-card-description">Enabling government agencies to facilitate seamless government transactions with ease.</div><div class="isomer-card-link">Discover products</div></div></a>
 <a rel="noopener noreferrer nofollow" href="/products-and-services/for-government-agencies/software-development/" class="isomer-card">
 <div class="isomer-card-image">
