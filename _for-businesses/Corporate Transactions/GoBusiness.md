@@ -131,7 +131,7 @@ this service on the <a href="https://www.gobusiness.gov.sg/intellectual-property
 </div>
 </details>
 </div>
-<h3>Want to discover more about GoBusiness?</h3>
+<h3>Interested to find out more about GoBusiness?</h3>
 <div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="https://www.gobusiness.gov.sg/" class="isomer-card"><div class="isomer-card-body"><div class="isomer-card-title">Learn about its features on the official website</div><div class="isomer-card-link">Go to GoBusiness website</div></div></a>
 <a rel="noopener noreferrer nofollow" href="https://www.gobusiness.gov.sg/contact-us/?src=topnav" class="isomer-card">
 <div class="isomer-card-body">
