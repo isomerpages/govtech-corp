@@ -7,7 +7,7 @@ description: The Digital Service Standards provide guidance to government
   services. Learn more.
 third_nav_title: For Government Agencies
 ---
-<h3>Shaping a positive, consistent digital experience through digital standards and guides</h3>
+<h2>Shaping a positive, consistent digital experience through digital standards and guides</h2>
 <p>Singapore's Digital Government vision of “digital to the core, and serves
 with heart” brings digitalisation together with user-centricity and empathy.
 Government agencies are continuously identifying opportunities to improve
@@ -41,7 +41,6 @@ and businesses to assess the useability and accessibility of the services.</p>
 <p>Public officers should refer to your agency’s intranet resources for the
 full version of the DSS.</p>
 <h3>Interested to find out more about Digital Service Standards?</h3>
-<p></p>
 <div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="mailto:info@tech.gov.sg" class="isomer-card"><div class="isomer-card-body"><div class="isomer-card-title">Email your questions to us</div><div class="isomer-card-link">Contact us</div></div></a>
 </div>
 <p></p>
