@@ -7,7 +7,7 @@ description: LifeSG connects you to the services of over 100 government agencies
 third_nav_title: Digital Services
 image: /images/Products and Services/For citizens/LifeSG_meta_image.jpg
 ---
-<h3>LifeSG: Being there for your every milestone</h3>
+<h2>LifeSG: Being there for your every milestone</h2>
 <div class="isomer-image-wrapper">
 <img style="width: 60%;" height="auto" width="100%" alt="LifeSG logo" src="/images/Products and Services/For citizens/LifeSG_600x300.png">
 </div>
