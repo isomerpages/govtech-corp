@@ -8,7 +8,7 @@ third_nav_title: For Citizens
 variant: tiptap
 ---
 <h2>Our services for citizens</h2>
-<p>Singapore's future will be one that's technology enabled. As part of our
+<p>Singapore's future will be one that's technology-enabled. As part of our
 Digital Government Blueprint, GovTech has undertaken numerous ambitious
 efforts to drive digitalisation on a wider scale. One such aspect is expanding
 our suite of citizen services. Enabling the widespread adoption of digital
