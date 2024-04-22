@@ -70,7 +70,6 @@ chances of winning a project.</p>
 </summary>
 <div data-type="detailsContent" class="isomer-details-content">
 <p>Get to know more about our organisation, starting with the following:</p>
-<p></p>
 <ol data-tight="true" class="tight">
 <li>
 <p><a href="/about-us/what-we-do/our-role/" rel="noopener noreferrer nofollow" target="_blank">Our Role in the Government</a>
@@ -94,7 +93,6 @@ chances of winning a project.</p>
 <p>Find out more about the <a href="/products-and-services/for-government-agencies/software-development/sg-tech-stack/" rel="noopener noreferrer nofollow" target="_blank">Singapore Government Tech Stack</a> and
 explore the products we have developed for citizens, businesses and government
 agencies.</p>
-<p></p>
 <ol data-tight="true" class="tight">
 <li>
 <p>Products for <a href="/products-and-services/for-citizens/overview/" rel="noopener noreferrer nofollow" target="_blank">Citizens</a>
@@ -117,7 +115,6 @@ agencies.</p>
 <div data-type="detailsContent" class="isomer-details-content">
 <p>Read <a href="https://www.gebiz.gov.sg/singapore-government-procurement-regime.html" rel="noopener noreferrer nofollow" target="_blank">our GeBIZ guide</a> for
 suppliers that are participating in Singapore government procurement opportunities.</p>
-<p></p>
 <p><a href="/files/IB2023_Towards_the_Next_Bound_of_Digital_Government_GovTech_CE.pdf" rel="noopener noreferrer nofollow" target="_blank">Industry Briefing 2023 by GovTech Singapore</a>.</p>
 </div>
 </details>
