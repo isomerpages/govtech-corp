@@ -55,11 +55,11 @@ services.</div>
 or sign in as an admin on the <a href="https://beta.data.gov.sg/admin/signin" rel="noopener noreferrer nofollow" target="_blank"><u>login page</u></a> to manage
 or publish data.</p>
 <h3>Interested to find out more about Data.gov.sg?</h3>
-<div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="https://www.developer.tech.gov.sg/products/categories/data-and-apis/data-gov-sg/overview.html" class="isomer-card"><div class="isomer-card-body"><div class="isomer-card-title">Learn more about the product on the Singapore Government Developer Portal</div><div class="isomer-card-link">Data.gov.sg overview</div></div></a>
+<div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="https://www.developer.tech.gov.sg/products/categories/data-and-apis/data-gov-sg/overview.html" class="isomer-card"><div class="isomer-card-body"><div class="isomer-card-title">Discover its features on the Singapore Government Developer Portal (SGDP)</div><div class="isomer-card-link">Learn more on SGDP</div></div></a>
 <a rel="noopener noreferrer nofollow" href="https://form.gov.sg/6449e5c3664c1b001249acf1" class="isomer-card">
 <div class="isomer-card-body">
 <div class="isomer-card-title">Have questions? Contact the Data.gov.sg team via the contact form</div>
-<div class="isomer-card-link">Contact Data.gov.sg</div>
+<div class="isomer-card-link">Go to contact form</div>
 </div>
 </a>
 </div>
