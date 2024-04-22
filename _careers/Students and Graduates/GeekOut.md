@@ -62,7 +62,7 @@ be having my personal Arduino kit to tinker with."</p>
 <p>~ Vania Lim</p>
 <p></p>
 <p>Want to know more? Past GeekOut participants have reflected on their unforgettable
-experiences. Read their entries at our <a href="https://medium.com/ytpo-govtech/tagged/geek-out" rel="noopener noreferrer nofollow" target="_blank">GeekOut Medium blog</a>.</p>
+experiences. Read their entries on our <a href="https://medium.com/ytpo-govtech/tagged/geek-out" rel="noopener noreferrer nofollow" target="_blank">Medium blog</a>.</p>
 <div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="https://go.gov.sg/GovTechTalentCommunity" class="isomer-card"><div class="isomer-card-body"><div class="isomer-card-title">Interested in joining GeekOut?</div><div class="isomer-card-description">Keep an eye out for the 2024 applications! Meanwhile, be a part of our GovTech Talent Community and stay updated on upcoming opportunities and events.</div><div class="isomer-card-link">Join our community</div></div></a>
 </div>
 <p></p>
