@@ -7,7 +7,7 @@ third_nav_title: Our Achievements
 variant: tiptap
 image: /images/About Us/About_Us___Our_Achievements___Our_KPIs.jpg
 ---
-<h3>Key goals for the Digital Government Blueprint 2.0</h3>
+<h2>Key goals for the Digital Government Blueprint 2.0</h2>
 <p>As we advance our digital government, GovTech looks to the Digital Government
 Blueprint (DGB) 2.0 to identify the KPIs for our organisation.</p>
 <h3>Our track record for meeting KPIs</h3>
