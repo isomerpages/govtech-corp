@@ -7,12 +7,12 @@ description: We uphold diversity and inclusivity in GovTech by creating
   tech. Learn more.
 image: /images/Digital Gov Efforts/08_Diversity_Inclusion.jpg
 ---
-<h3>Innovation with purpose</h3>
+<h2>Innovation with purpose</h2>
 <p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="Diversity and inclusion GovTech banner" src="/images/Digital Gov Efforts/Diversity_and_inclusion_header_banner.jpg">
 </div>
-<h4>Designing digital services for everyone</h4>
+<h3>Designing digital services for everyone</h3>
 <p>We believe tech should be for everyone. We are committed to diversity
 and inclusion as one of our <a href="/about-us/our-journey/our-focus-areas/" rel="noopener noreferrer nofollow" target="_blank">key focus areas</a>, in all
 areas of our work with external and internal stakeholders.&nbsp;</p>
@@ -27,7 +27,7 @@ which includes accessibility requirements.&nbsp;</p>
 spurring agencies to uplift the standard of their digital services.</p>
 <p>Below are a few ways we ensure the digital services developed across the
 government are inclusive and accessible for everyone.</p>
-<h4>Digital Service Standards (DSS)</h4>
+<h3>Digital Service Standards (DSS)</h3>
 <p>This helps government agencies implement digital services that meet the
 Digital Government Blueprint’s (DGB) goal of delivering digital services
 that are easy, seamless, and relevant for our citizens and businesses.</p>
