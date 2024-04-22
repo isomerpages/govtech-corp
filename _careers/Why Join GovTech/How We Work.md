@@ -16,7 +16,7 @@ image: /images/careers/How_we_work_meta_image.jpg
 and even more importantly, we are given the resources and opportunities
 to realise our dreams. Our positive work culture and environment make it
 possible for constant innovation and open collaboration.</p>
-<h4>We strive to embody the ABC values</h4>
+<h3>We strive to embody the ABC values</h3>
 <div class="isomer-card-grid">
 <div class="isomer-card">
 <div class="isomer-card-body">
@@ -39,7 +39,7 @@ projects.</div>
 </div>
 </div>
 </div>
-<h4>We aim to innovate, learn, and grow</h4>
+<h3>We aim to innovate, learn, and grow</h3>
 <div class="isomer-card-grid">
 <div class="isomer-card">
 <div class="isomer-card-image">
@@ -78,7 +78,7 @@ Programme and the Digital Technical Mentorship Programme.</div>
 </div>
 </div>
 </div>
-<h4>We prioritise work-life balance</h4>
+<h3>We prioritise work-life balance</h3>
 <p></p>
 <div class="iframe-wrapper">
 <iframe style="max-width: 100%;" height="400" width="100%" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/WVLjmSgigbs?si=s8Gq277TIC5RDFD7"></iframe>
@@ -110,7 +110,7 @@ is carefully designed to allow our GovTechies to work hard and play hard.</div>
 </div>
 </div>
 </div>
-<h4>We nurture a culture of excellence</h4>
+<h3>We nurture a culture of excellence</h3>
 <p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="Team leaders — Justin, Janice, Kelvin, Khim Soo (From left to right)" src="/images/careers/Culture_of_excellence_group_shot_1_Edited_resized.jpg">
