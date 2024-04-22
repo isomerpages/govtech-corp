@@ -8,15 +8,14 @@ third_nav_title: Students and Graduates
 variant: tiptap
 image: /images/careers/students_and_graduates_overview_meta_image_compressed.jpg
 ---
-<h2>Have a hand in shaping Singapore's Smart Nation plans</h2>
-<p>Kickstart a lifelong career with GovTech!</p>
+<h2>Have a hand in shaping Singapore's Smart Nation plans with our programmes</h2>
 <p>Due to its ever-changing nature, the tech industry offers you a vibrant
 career trajectory, one that is replete with learning and growth opportunities.</p>
-<h4>Hoping to become a professional in the tech industry?</h4>
-<p>Get the head start you need by joining one of GovTech's programmes!</p>
+<p>Hoping to become a professional in the tech industry? Get the head start
+you need by joining one of GovTech's programmes!</p>
 <p>Ranked among Singapore's top 10 leading graduate employers in IT and Technology
 according to a 2023 survey by <a href="https://gradsingapore.com/singapore100/sector/it-and-technology" rel="noopener noreferrer nofollow" target="_blank">gradsingapore</a>,
-GovTech offers an array of programmes — from a technology boot camp to
+GovTech offers an array of programmes – from a technology boot camp to
 internships and scholarships – to help you achieve your unique career aspirations!</p>
 <div class="isomer-card-grid">
 <div class="isomer-card">
@@ -66,21 +65,21 @@ horizons. Take a look at the current list of programmes we host.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="GovTech's many opportunities for students and graduates" src="/images/careers/govtech-students-and-graduates-programmes.png">
 </div>
-<div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="/careers/students-and-graduates/geekout/" class="isomer-card"><div class="isomer-card-body"><div class="isomer-card-title">GeekOut is a fun-filled 5-day boot camp for young tech enthusiasts</div><div class="isomer-card-link">Discover GeekOut</div></div></a>
+<div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="/careers/students-and-graduates/geekout/" class="isomer-card"><div class="isomer-card-body"><div class="isomer-card-title">GeekOut is a fun-filled 5-day boot camp for young tech enthusiasts</div><div class="isomer-card-link">Explore GeekOut</div></div></a>
 <a rel="noopener noreferrer nofollow" href="/careers/students-and-graduates/internships/" class="isomer-card">
 <div class="isomer-card-body">
 <div class="isomer-card-title">Hone your skill sets through internships designed to bring the best out
 of you</div>
-<div class="isomer-card-link">View internships</div>
+<div class="isomer-card-link">Explore internships</div>
 </div>
 </a>
 </div>
 <p></p>
-<div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="/careers/students-and-graduates/smart-nation-scholarship/" class="isomer-card"><div class="isomer-card-body"><div class="isomer-card-title">Passionate about digitalisation? The Smart Nation Scholarship is for you!</div><div class="isomer-card-link">Discover scholarship</div></div></a>
+<div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="/careers/students-and-graduates/smart-nation-scholarship/" class="isomer-card"><div class="isomer-card-body"><div class="isomer-card-title">Passionate about digitalisation? The Smart Nation Scholarship is for you!</div><div class="isomer-card-link">Explore scholarship</div></div></a>
 <a rel="noopener noreferrer nofollow" href="/careers/students-and-graduates/technology-associate-programme/" class="isomer-card">
 <div class="isomer-card-body">
 <div class="isomer-card-title">Become a tech leader with the Tech Associate Programme (TAP)</div>
-<div class="isomer-card-link">Learn about TAP</div>
+<div class="isomer-card-link">Explore TAP</div>
 </div>
 </a>
 </div>
