@@ -23,7 +23,7 @@ sector.</p>
 <p>We also want to collaborate with industry stakeholders and international
 partners to host events and encourage the exchange of ideas and knowledge.</p>
 <h3>Collaborate with us today</h3>
-<div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="/products-and-services/collaborate-with-us/government-collaboration/" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="GovTech collaborates with many government agencies in Singapore on groundbreaking projects." src="/images/Products and Services/Collaborate with us/Collaborate_card_1.jpg"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Government collaboration</div><div class="isomer-card-description">Explore opportunities for product development, user testing and event organisation.</div><div class="isomer-card-link">See our partnerships</div></div></a>
+<div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="/products-and-services/collaborate-with-us/government-collaboration/" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="GovTech collaborates with many government agencies in Singapore on groundbreaking projects." src="/images/Products and Services/Collaborate with us/Collaborate_card_1.jpg"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Government collaboration</div><div class="isomer-card-description">Explore opportunities for product development, user testing and event organisation.</div><div class="isomer-card-link">Learn more</div></div></a>
 <a rel="noopener noreferrer nofollow" href="/products-and-services/collaborate-with-us/industry-collaboration/" class="isomer-card">
 <div class="isomer-card-image">
 <div class="isomer-image-wrapper">
@@ -34,8 +34,8 @@ partners to host events and encourage the exchange of ideas and knowledge.</p>
 <div class="isomer-card-title">Industry collaboration</div>
 <div class="isomer-card-description">Strike up government-vendor partnerships with us or host public-private
 events such as talks, boot camps and conferences.</div>
-<div class="isomer-card-link">See opportunities</div>
+<div class="isomer-card-link">Learn more</div>
 </div>
-</a><a rel="noopener noreferrer nofollow" href="/products-and-services/collaborate-with-us/international-collaboration/" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Collaborate with GovTech to organise international events." src="/images/Products and Services/Collaborate with us/Collaborate_card_3.jpg"></div></div><div class="isomer-card-body"><div class="isomer-card-title">International collaboration</div><div class="isomer-card-description">Working with global communities, nonprofits and overseas governments, we aim to facilitate knowledge exchange through illuminating events.</div><div class="isomer-card-link">See our events</div></div></a>
+</a><a rel="noopener noreferrer nofollow" href="/products-and-services/collaborate-with-us/international-collaboration/" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Collaborate with GovTech to organise international events." src="/images/Products and Services/Collaborate with us/Collaborate_card_3.jpg"></div></div><div class="isomer-card-body"><div class="isomer-card-title">International collaboration</div><div class="isomer-card-description">Working with global communities, nonprofits and overseas governments, we aim to facilitate knowledge exchange through illuminating events.</div><div class="isomer-card-link">Learn more</div></div></a>
 </div>
 <p></p>
