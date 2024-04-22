@@ -56,7 +56,7 @@ annual leave package and flexible work arrangement.</div>
 </div>
 </div>
 <p></p>
-<div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="/careers/why-join-govtech/overview/" class="isomer-card"><div class="isomer-card-body"><div class="isomer-card-title">What working at GovTech is like?</div><div class="isomer-card-description">Discover what makes us an employer of choice for over 3,000 talents in Singapore!</div><div class="isomer-card-link">Why join GovTech?</div></div></a>
+<div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="/careers/why-join-govtech/overview/" class="isomer-card"><div class="isomer-card-body"><div class="isomer-card-title">What working at GovTech is like</div><div class="isomer-card-description">Discover what makes us an employer of choice for over 3,000 talents in Singapore!</div><div class="isomer-card-link">Why join GovTech?</div></div></a>
 </div>
 <h3>Find the right programme for you</h3>
 <p>GovTech offers numerous opportunities that will help you expand your career
