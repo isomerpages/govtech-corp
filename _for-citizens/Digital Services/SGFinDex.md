@@ -155,7 +155,7 @@ and current protection plans.</p>
 <div class="isomer-card-title">Subscribe to TechNews Newsletter to receive updates on SGFinDex!</div>
 <div class="isomer-card-link">Subscribe to TechNews</div>
 </div>
-</a><a rel="noopener noreferrer nofollow" href="mailto:support@sgdex.gov.sg" class="isomer-card"><div class="isomer-card-body"><div class="isomer-card-title">Interested in becoming a participant? Email us</div><div class="isomer-card-link">support@sgdex.gov.sg</div></div></a>
+</a>
 </div>
 <h3>Interested in becoming a participant?</h3>
 <p>Email us at <a href="mailto:support@sgdex.gov.sg" rel="noopener noreferrer nofollow" target="_blank">support@sgdex.gov.sg</a>.</p>
