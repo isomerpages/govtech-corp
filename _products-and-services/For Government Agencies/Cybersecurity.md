@@ -9,7 +9,8 @@ variant: tiptap
 image: /images/Products and Services/For Government
   Agencies/Cybersecurity_meta_image_compressed.jpg
 ---
-<h3>Strengthening our cyber defences with proactive cybersecurity services</h3>
+<h2>Strengthening our cyber defences with proactive cybersecurity services</h2>
+<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="Strengthening cybersecurity across all Government bodies" src="/images/Products and Services/For Government Agencies/Cybersecurity_meta_image_compressed.jpg">
 </div>
@@ -24,7 +25,7 @@ guidance to shape an even safer, more secure Smart Nation.</p>
 <p></p>
 <div data-type="detailGroup" class="isomer-accordion isomer-accordion-white">
 <details class="isomer-details">
-<summary><strong><u>Government Cybersecurity Operations Centre</u></strong>
+<summary><strong>Government Cybersecurity Operations Centre</strong>
 </summary>
 <div data-type="detailsContent" class="isomer-details-content">
 <div class="isomer-image-wrapper">
@@ -38,7 +39,7 @@ capabilities to proactively hunt for sophisticated threats.</p>
 </div>
 </details>
 <details class="isomer-details">
-<summary><strong><u>Government IT Security Incident Response</u></strong>
+<summary><strong>Government IT Security Incident Response</strong>
 </summary>
 <div data-type="detailsContent" class="isomer-details-content">
 <p>When a cyber threat arises, action must be taken in a timely manner to
@@ -59,12 +60,12 @@ necessary. Learn more about its work in the <a href="/files/products-and-service
 </div>
 </details>
 </div>
-<h3>Want to find out more about GCSOC?</h3>
-<div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="https://www.smartnation.gov.sg/media-hub/press-releases/gcsoc-factsheet/" class="isomer-card"><div class="isomer-card-body"><div class="isomer-card-title">Discover the scope of GCSOC in this factsheet</div><div class="isomer-card-link">Go to GCSOC Factsheet</div></div></a>
+<h3>Interested to find out more about GCSOC?</h3>
+<div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="/our-capabilities/cybersecurity/" class="isomer-card"><div class="isomer-card-body"><div class="isomer-card-title">Discover our cybersecurity capabilities</div><div class="isomer-card-link">Learn more</div></div></a>
 <a rel="noopener noreferrer nofollow" href="mailto:info@tech.gov.sg" class="isomer-card">
 <div class="isomer-card-body">
 <div class="isomer-card-title">Have questions? Email us</div>
-<div class="isomer-card-link">Contact us</div>
+<div class="isomer-card-link">info@tech.gov.sg</div>
 </div>
 </a>
 </div>
