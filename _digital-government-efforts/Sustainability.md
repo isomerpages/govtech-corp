@@ -7,12 +7,12 @@ description: GovTech’s sustainability efforts are on track to realise the
   government here.
 image: /images/Digital Gov Efforts/09_Sustainability.jpg
 ---
-<h3>GovTech’s Role in the Singapore Green Plan 2030</h3>
+<h2>GovTech’s Role in the Singapore Green Plan 2030</h2>
 <p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="Sustainability banner image" src="/images/Digital Gov Efforts/09_Sustainability.jpg">
 </div>
-<h4>Our journey to net zero</h4>
+<h3>Our journey to net zero</h3>
 <p>In 2021, the Singapore Government unveiled the Singapore Green Plan 2030,
 an ambitious and rigorous strategy that outlines the country’s long-term
 plan to achieve net zero emissions by 2050 with the public sector leading
@@ -29,8 +29,8 @@ in Singapore.</p>
 <blockquote>
 <p>"We drive the sustainability agenda as a convenor and orchestrator of
 all internal and external stakeholders and touchpoints of GovTech."</p>
-<p>~ Liew Hui Ming, Digitalisation Strategy</p>
 </blockquote>
+<p>~ Liew Hui Ming, Digitalisation Strategy</p>
 <h3>What are we committed to?</h3>
 <div class="isomer-card-grid">
 <div class="isomer-card">
@@ -70,8 +70,9 @@ our data centres are Green Mark Platinum certified.</div>
 <p>As part of our Sustainability Framework, GovTech is focusing on 3 key
 pillars — Sustainable Organisation, Sustainable ICT&amp;SS and Digital
 Innovation for Sustainability.</p>
-<p><strong>Infographic TBC (new infographic created for About Us - Focus Areas (Sustainability portion) to show the 3 key pillars and what each entails + the 6 key enablers)</strong>
-</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/About Us/our_focus_areas_infographic.jpg">
+</div>
 <h4>Our key initiatives</h4>
 <p></p>
 <div class="isomer-image-wrapper">
