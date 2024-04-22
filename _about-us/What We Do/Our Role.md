@@ -32,6 +32,10 @@ government services and achieved high citizen and business satisfaction
 through products like Singpass.&nbsp;</p>
 <p>With DGB 2.0, GovTech will drive even more digital government transformation
 to support the Smart Nation initiative.</p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="GovTech in Singapore Digital Government Blueprint 2.0" src="/images/About Us/our_role_infographic.jpg">
+</div>
 <h3>Our key areas of work</h3>
 <p>GovTech is a key driver in digital transformation. We create impactful
 government digital services which drive Singapore’s Smart Nation vision.</p>
