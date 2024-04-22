@@ -18,7 +18,7 @@ tap your collective intelligence. Contribute meaningfully to mould Singapore's
 policies and take ownership of the government digital services you use
 everyday.</p>
 <h3>Explore our crowdsourcing services</h3>
-<div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="/products-and-services/for-citizens/crowdsourcing/crowdtasksg/" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Through surveys, CrowdTaskSG offers you a chance to be heard on national issues" src="/images/Products and Services/For citizens/CrowdTaskSG_600x400.png"></div></div><div class="isomer-card-body"><div class="isomer-card-title">CrowdTaskSG</div><div class="isomer-card-description">This web portal gives you a chance to share your feedback on national issues and be rewarded for your contributions.</div><div class="isomer-card-link">CrowdTaskSG</div></div></a>
+<div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="/products-and-services/for-citizens/crowdsourcing/crowdtasksg/" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Through surveys, CrowdTaskSG offers you a chance to be heard on national issues" src="/images/Products and Services/For citizens/CrowdTaskSG_600x400.png"></div></div><div class="isomer-card-body"><div class="isomer-card-title">CrowdTaskSG</div><div class="isomer-card-description">This web portal gives you a chance to share your feedback on national issues and be rewarded for your contributions.</div><div class="isomer-card-link">Explore CrowdTaskSG</div></div></a>
 <a rel="noopener noreferrer nofollow" href="/products-and-services/for-citizens/crowdsourcing/vulnerability-discovery-programme/" class="isomer-card">
 <div class="isomer-card-image">
 <div class="isomer-image-wrapper">
@@ -29,8 +29,8 @@ everyday.</p>
 <div class="isomer-card-title">Vulnerability Disclosure Programme (VDP)</div>
 <div class="isomer-card-description">Help strengthen the government's cybersecurity by reporting suspected
 vulnerabilities in IT services, systems and resources.</div>
-<div class="isomer-card-link">Vulnerability Disclosure Programme (VDP)</div>
+<div class="isomer-card-link">Explore VDP</div>
 </div>
-</a><a rel="noopener noreferrer nofollow" href="/products-and-services/for-citizens/crowdsourcing/build-for-good-hackathon/" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Build for Good (BFG) logo" src="/images/Products and Services/For citizens/BFG_600x400.png"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Build for Good (BFG)</div><div class="isomer-card-description">Join Build for Good hackathon in Singapore to collaborate, innovate, and create digital solutions for positive changes.</div><div class="isomer-card-link">Build for Good (BFG)</div></div></a>
+</a><a rel="noopener noreferrer nofollow" href="/products-and-services/for-citizens/crowdsourcing/build-for-good-hackathon/" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Build for Good (BFG) logo" src="/images/Products and Services/For citizens/BFG_600x400.png"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Build for Good (BFG)</div><div class="isomer-card-description">Join Build for Good hackathon in Singapore to collaborate, innovate, and create digital solutions for positive changes.</div><div class="isomer-card-link">Explore BFG</div></div></a>
 </div>
 <p></p>
