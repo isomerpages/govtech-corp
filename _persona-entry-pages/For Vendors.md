@@ -115,7 +115,7 @@ agencies.</p>
 <summary><strong>Guide for government procurement</strong>
 </summary>
 <div data-type="detailsContent" class="isomer-details-content">
-<p>Read <a href="https://www.gebiz.gov.sg/singapore-government-procurement-regime.html" rel="noopener noreferrer nofollow" target="_blank">our guide</a> for
+<p>Read <a href="https://www.gebiz.gov.sg/singapore-government-procurement-regime.html" rel="noopener noreferrer nofollow" target="_blank">our GeBIZ guide</a> for
 suppliers that are participating in Singapore government procurement opportunities.</p>
 <p></p>
 <p><a href="/files/IB2023_Towards_the_Next_Bound_of_Digital_Government_GovTech_CE.pdf" rel="noopener noreferrer nofollow" target="_blank">Industry Briefing 2023 by GovTech Singapore</a>.</p>
