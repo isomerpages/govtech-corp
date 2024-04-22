@@ -7,7 +7,7 @@ description: GovTech develops government e-services that are seamless and easy
   LifeSG.
 image: /images/Digital Gov Efforts/03_User_Business_Journey.jpg
 ---
-<h3>Streamlined experiences for citizens and businesses</h3>
+<h2>Streamlined experiences for citizens and businesses</h2>
 <p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="User and business journeys in GovTech, banner image" src="/images/Digital Gov Efforts/User_and_business_journey_header_banner.jpg">
@@ -43,7 +43,7 @@ for business growth through the GeBIZ portal.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="Different capabilities of GoBusiness and how it helps businesses in Singapore" src="/images/Digital Gov Efforts/GoBusiness_infographic.jpg">
 </div>
-<p><a href="/products-and-services/for-businesses/corporate-transactions/gobusiness/" rel="noopener noreferrer nofollow" target="_blank">Learn more about GoBusiness</a>.</p>
+<p><a href="/products-and-services/for-businesses/corporate-transactions/gobusiness/" rel="noopener noreferrer nofollow" target="_blank">Explore GoBusiness</a>.</p>
 <h3>Turning simpler user journeys into seamless digital experiences</h3>
 <p>As online transactions become increasingly common, it is crucial that
 we support citizens by designing digital services that are easy to access
@@ -65,4 +65,4 @@ healthcare costs in Singapore.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="LifeSG providing convenience for all Singaporeans with quick and easy access to govt services" src="/images/Digital Gov Efforts/lifesg_header_image.jpg">
 </div>
-<p><a href="/products-and-services/for-citizens/digital-services/lifesg/" rel="noopener noreferrer nofollow" target="_blank">Learn more about LifeSG</a>.</p>
+<p><a href="/products-and-services/for-citizens/digital-services/lifesg/" rel="noopener noreferrer nofollow" target="_blank">Explore LifeSG</a>.</p>
