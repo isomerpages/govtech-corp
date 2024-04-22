@@ -114,8 +114,7 @@ both the young and old to learn more about tech and our Smart Nation.</div>
 <br>15 Science Centre Road
 <br>Singapore 609081</p>
 </blockquote>
-<p>
-<br><a href="https://www.smartnation.gov.sg/files/publications/playscape_pamphlet.pdf" rel="noopener noreferrer nofollow" target="_blank">Download</a> guide
+<p><a href="https://www.smartnation.gov.sg/files/publications/playscape_pamphlet.pdf" rel="noopener noreferrer nofollow" target="_blank">Download</a> guide
 for Smart Nation PlayScape.</p>
 <p><a href="https://www.gevme.com/scsonlinetickets" rel="noopener noreferrer nofollow" target="_blank">Buy tickets</a> for
 Smart Nation PlayScape.</p>
