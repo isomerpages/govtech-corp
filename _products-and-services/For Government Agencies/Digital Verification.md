@@ -57,12 +57,12 @@ such as OpenCerts and HealthCerts.</p>
 <p>For businesses or partners in the private sector, the OpenAttestation
 is publicly listed in the Digital Public Goods Registry. Interested parties
 may access the free-to-use <a href="https://digitalpublicgoods.net/registry/openattestation.html" rel="noopener noreferrer nofollow" target="_blank">OpenAttestation framework</a> here.</p>
-<h3>Interested to learn more about OpenAttestation?</h3>
-<div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="https://www.openattestation.com/" class="isomer-card"><div class="isomer-card-body"><div class="isomer-card-title">Visit the OpenAttestation website</div><div class="isomer-card-link">OpenAttestation</div></div></a>
-<a rel="noopener noreferrer nofollow" href="http://eepurl.com/cUwIsD" class="isomer-card">
+<h3>Interested to learn more about OpenAttestation (OA)?</h3>
+<div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="https://www.openattestation.com/" class="isomer-card"><div class="isomer-card-body"><div class="isomer-card-title">Visit the OA website to discover the framework</div><div class="isomer-card-link">Go to website</div></div></a>
+<a rel="noopener noreferrer nofollow" href="mailto:info@tech.gov.sg" class="isomer-card">
 <div class="isomer-card-body">
-<div class="isomer-card-title">Subscribe to the TechNews newsletter for updates</div>
-<div class="isomer-card-link">Subscribe to TechNews</div>
+<div class="isomer-card-title">Have questions? Email us</div>
+<div class="isomer-card-link">info@tech.gov.sg</div>
 </div>
 </a>
 </div>
