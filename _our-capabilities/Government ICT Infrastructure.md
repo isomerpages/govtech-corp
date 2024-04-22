@@ -88,5 +88,5 @@ agencies upgrading their ICT infrastructure.</p>
 <img style="width: 100%" height="auto" width="100%" alt="Karthik Parameswaran (Senior Infrastructure Engineer) sharing about why he chose GovTech and how much he is learning here" src="/images/About Us/Our capabilities/Karthik_GIG_resized.jpg">
 </div>
 <p></p>
-<p>Explore <a href="/careers/why-join-govtech/overview/" rel="noopener noreferrer nofollow" target="_blank">careers at GovTech</a> as
+<p><a href="/careers/why-join-govtech/overview/" rel="noopener noreferrer nofollow" target="_blank">Explore GovTech careers</a> as
 an Infrastructure Architect, Infrastructure Engineer and more.</p>
