@@ -69,7 +69,7 @@ can also apply for the registration of your overseas civil marriage.</div>
 <p>Our Marriage Journey is accessible via <a href="https://www.marriage.gov.sg/" rel="noopener noreferrer nofollow" target="_blank"><u>https://www.marriage.gov.sg/</u></a>.
 Simply log in with your Singpass to begin using the service.</p>
 <h3>Interested in finding out more about Our Marriage Journey?</h3>
-<div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="http://eepurl.com/cUwIsD" class="isomer-card"><div class="isomer-card-body"><div class="isomer-card-title">Get updates on Our Marriage Journey by subscribing to our TechNews Newsletter!</div><div class="isomer-card-link">Join mailing list</div></div></a>
+<div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="http://eepurl.com/cUwIsD" class="isomer-card"><div class="isomer-card-body"><div class="isomer-card-title">Get updates on Our Marriage Journey by subscribing to our TechNews Newsletter!</div><div class="isomer-card-link">Subscribe to TechNews</div></div></a>
 <a rel="noopener noreferrer nofollow" href="http://eepurl.com/hsr131" class="isomer-card">
 <div class="isomer-card-body">
 <div class="isomer-card-title">Sign up as a Tech Kaki to provide feedback on improving Our Marriage Journey</div>
