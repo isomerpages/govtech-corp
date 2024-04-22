@@ -75,11 +75,11 @@ they are being cared for.</div>
 <h3>How to use TreesSG?</h3>
 <p>Simply visit the <a href="https://www.nparks.gov.sg/treessg" rel="noopener noreferrer nofollow" target="_blank">TreesSG website</a> and start exploring.</p>
 <h3>Interested in finding out more about TreesSG?</h3>
-<div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="http://eepurl.com/cUwIsD" class="isomer-card"><div class="isomer-card-body"><div class="isomer-card-title">Subscribe to TechNews Newsletter to receive updates on TreesSG!</div><div class="isomer-card-link">Join mailing list</div></div></a>
+<div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="http://eepurl.com/cUwIsD" class="isomer-card"><div class="isomer-card-body"><div class="isomer-card-title">TechNews readers will be the first to receive updates on TreesSG!</div><div class="isomer-card-link">Subscribe to TechNews</div></div></a>
 <a rel="noopener noreferrer nofollow" href="http://eepurl.com/hsr131" class="isomer-card">
 <div class="isomer-card-body">
 <div class="isomer-card-title">Have feedback on TreesSg? Become a Tech Kaki to share it!</div>
-<div class="isomer-card-link">Join community</div>
+<div class="isomer-card-link">Join Tech Kaki community</div>
 </div>
 </a>
 </div>
