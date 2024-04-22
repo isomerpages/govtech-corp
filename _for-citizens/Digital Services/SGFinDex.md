@@ -149,11 +149,11 @@ and current protection plans.</p>
 </details>
 </div>
 <p></p>
-<div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="https://www.singpass.gov.sg/main/sgfindex/" class="isomer-card"><div class="isomer-card-body"><div class="isomer-card-title">Want to find out more about SGFinDex?</div><div class="isomer-card-link">Visit website</div></div></a>
+<div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="https://www.singpass.gov.sg/main/sgfindex/" class="isomer-card"><div class="isomer-card-body"><div class="isomer-card-title">Want to find out more about SGFinDex?</div><div class="isomer-card-link">Go to SGFinDex website</div></div></a>
 <a rel="noopener noreferrer nofollow" href="http://eepurl.com/cUwIsD" class="isomer-card">
 <div class="isomer-card-body">
 <div class="isomer-card-title">Subscribe to TechNews Newsletter to receive updates on SGFinDex!</div>
-<div class="isomer-card-link">Join mailing list</div>
+<div class="isomer-card-link">Subscribe to TechNews</div>
 </div>
 </a>
 </div>
