@@ -65,11 +65,11 @@ text used. With this information, you can promptly remove or replace the
 broken links, enhancing your website’s usability and ensuring a seamless
 browsing experience for your users.</p>
 <h3>Interested to find out more about WOGAA?</h3>
-<div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="https://www.developer.tech.gov.sg/products/categories/analytics/wogaa/overview.html" class="isomer-card"><div class="isomer-card-body"><div class="isomer-card-title">Discover WOGAA's features on the Singapore Government Developer Portal</div><div class="isomer-card-link">WOGAA features</div></div></a>
+<div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="https://www.developer.tech.gov.sg/products/categories/analytics/wogaa/overview.html" class="isomer-card"><div class="isomer-card-body"><div class="isomer-card-title">Discover its features on the Singapore Government Developer Portal (SGDP)</div><div class="isomer-card-link">Learn more on SGDP</div></div></a>
 <a rel="noopener noreferrer nofollow" href="mailto:support@wogaa.gov.sg" class="isomer-card">
 <div class="isomer-card-body">
 <div class="isomer-card-title">Have questions? Email us</div>
-<div class="isomer-card-link">Contact us</div>
+<div class="isomer-card-link">info@tech.gov.sg</div>
 </div>
 </a>
 </div>
