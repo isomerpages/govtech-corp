@@ -9,7 +9,7 @@ variant: tiptap
 image: /images/About Us/Our
   Achievements/Digital_government_ranking_meta_image_compressed.jpg
 ---
-<h3>Making a mark on the international stage with our Digital Government initiatives</h3>
+<h2>Making a mark on the international stage with our Digital Government initiatives</h2>
 <p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="GovTechies paving the way to make Singapore a Smart Nation through digital innovation" src="/images/About Us/Our Achievements/Digital_Government_Rankings_banner_compressed.jpg">
@@ -36,8 +36,7 @@ development.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/About Us/Our Achievements/Compressed_UN_infographic__1_.jpg">
 </div>
-<p><em>Screenshots from <a href="https://publicadministration.un.org/egovkb/en-us/Reports/UN-E-Government-Survey-2022#0" rel="noopener noreferrer nofollow" target="_blank">UN E-Government Survey 2022 Infographics</a></em>
-</p>
+<p><em>Screenshots from <a href="https://publicadministration.un.org/egovkb/en-us/Reports/UN-E-Government-Survey-2022#0" rel="noopener noreferrer nofollow" target="_blank">UN E-Government Survey 2022 Infographics</a></em>.</p>
 <h3>Singapore’s Smart City ranking</h3>
 <p>Singapore came 7th in the world as part of the <a href="https://www.imd.org/wp-content/uploads/2023/04/smartcityindex-2023-v7.pdf" rel="noopener noreferrer nofollow" target="_blank">IMD Smart Cities Index</a> in
 2023.&nbsp;</p>
@@ -49,5 +48,5 @@ the city’s challenges and improve the quality of life for its residents.&nbsp;
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="Singapore's ranking in the IMD Smart City Index 2023" src="/images/About Us/Our Achievements/IMD_Report_rank_2023.jpg">
 </div>
-<p><em>Screenshot from <a href="https://www.imd.org/wp-content/uploads/2023/04/smartcityindex-2023-v7.pdf" rel="noopener noreferrer nofollow" target="_blank">IMD Smart Cities Index report</a></em>
+<p><em>Screenshot from <a href="https://www.imd.org/wp-content/uploads/2023/04/smartcityindex-2023-v7.pdf" rel="noopener noreferrer nofollow" target="_blank">IMD Smart Cities Index report</a>.</em>
 </p>
