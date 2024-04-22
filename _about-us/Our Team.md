@@ -6,7 +6,7 @@ description: Get to know the leaders and heads of GovTech, who are at the
 variant: tiptap
 image: /images/About Us/GovTechSg_True_Inline_Logo_2_Cyan.jpg
 ---
-<h3>BOARD OF DIRECTORS</h3>
+<h2>BOARD OF DIRECTORS</h2>
 <div class="isomer-card-grid">
 <div class="isomer-card">
 <div class="isomer-card-image">
