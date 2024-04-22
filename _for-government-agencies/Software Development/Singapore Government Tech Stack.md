@@ -54,7 +54,7 @@ from scratch.</p>
 <a rel="noopener noreferrer nofollow" href="mailto:info@tech.gov.sg" class="isomer-card">
 <div class="isomer-card-body">
 <div class="isomer-card-title">Have questions? Email us</div>
-<div class="isomer-card-link">Contact us</div>
+<div class="isomer-card-link">info@tech.gov.sg</div>
 </div>
 </a>
 </div>
