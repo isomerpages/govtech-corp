@@ -31,7 +31,7 @@ System (CMS) as well as a team of telecare operators working 24/7 and
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="GALE logo" src="/images/Products and Services/For citizens/GALE_logo_resized.jpg">
 </div>
-<h3>PAB: Giving seniors peace of mind as they live independently</h3>
+<h4>PAB: Giving seniors peace of mind as they live independently</h4>
 <p></p>
 <div class="iframe-wrapper">
 <iframe style="max-width: 100%;" height="400" width="100%" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/mhI3eCfekcs?si=esmFZkH50iigjfgQ"></iframe>
@@ -43,7 +43,7 @@ folks can call for help in the event of an emergency.</p>
 personal telecare service manned by Changi General Hospital. The telecare
 operators will perform triage using the PAB's two-way communicative technology,
 assess the situation and deploy first aiders.</p>
-<h3>Case Management Systems (CMS) put to test during COVID-19</h3>
+<h4>Case Management Systems (CMS) put to test during COVID-19</h4>
 <p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="GALE enables the provision of caregiving services to seniors in vulnerable situations." src="/images/Products and Services/For citizens/smart_city_tech_stock_photo_resized.jpg">
@@ -93,11 +93,11 @@ more vulnerable communities.</div>
 <iframe style="border:none;overflow:hidden" height="900" width="650" allowfullscreen="true" frameborder="0" src="https://www.facebook.com/plugins/post.php?href=https%3A%2F%2Fwww.facebook.com%2FGovTechSG%2Fposts%2Fpfbid0ebvcSBEAbWZrHa7ivWLs2J2Snrza9mPEAmU7XtrEwwdSWiZopvhaHZZU7U5mGa71l&amp;show_text=true&amp;width=500"></iframe>
 </div>
 <h3>Interested to find out more about GALE?</h3>
-<div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="https://medium.com/siot-govtech" class="isomer-card"><div class="isomer-card-body"><div class="isomer-card-title">Follow updates on GALE over at the Smart City Technology Division blog</div><div class="isomer-card-link">Head over to blog</div></div></a>
+<div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="https://medium.com/siot-govtech" class="isomer-card"><div class="isomer-card-body"><div class="isomer-card-title">Follow updates on GALE over at the Smart City Technology Division blog</div><div class="isomer-card-link">Read more on Medium blog</div></div></a>
 <a rel="noopener noreferrer nofollow" href="http://eepurl.com/cUwIsD" class="isomer-card">
 <div class="isomer-card-body">
 <div class="isomer-card-title">Receive updates on GALE by subscribing to our TechNews Newsletter</div>
-<div class="isomer-card-link">Join mailing list</div>
+<div class="isomer-card-link">Subscribe to TechNews</div>
 </div>
 </a>
 </div>
