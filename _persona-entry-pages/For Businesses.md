@@ -15,7 +15,7 @@ image: /images/About Us/For_Businesses_persona_copy.jpg
 and opportunities to upgrade your business.</p>
 <h3>Digitalise your business with GovTech</h3>
 <p>Go digital with ease using our tools and portals.</p>
-<div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="https://www.gobusiness.gov.sg/" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="GoBusiness logo" src="/images/About Us/GoBusiness.png"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Access guides, licenses and schemes</div><div class="isomer-card-link">Visit GoBusiness</div></div></a>
+<div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="https://www.gobusiness.gov.sg/" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="GoBusiness logo" src="/images/About Us/GoBusiness.png"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Access guides, licenses and schemes</div><div class="isomer-card-link">Explore GoBusiness</div></div></a>
 <a rel="noopener noreferrer nofollow" href="https://www.corppass.gov.sg/cpauth/login/homepage?TAM_OP=login&amp;URL=%2F" class="isomer-card">
 <div class="isomer-card-image">
 <div class="isomer-image-wrapper">
@@ -24,9 +24,9 @@ and opportunities to upgrade your business.</p>
 </div>
 <div class="isomer-card-body">
 <div class="isomer-card-title">Manage employees’ service access</div>
-<div class="isomer-card-link">Register on Corppass</div>
+<div class="isomer-card-link">Explore Corppass</div>
 </div>
-</a><a rel="noopener noreferrer nofollow" href="https://www.businessgrants.gov.sg/" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Business Grants Portal logo" src="/images/About Us/Business_Grants_Portal.png"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Apply for business grants</div><div class="isomer-card-link">Explore the Business Grants Portal (BGP)</div></div></a>
+</a><a rel="noopener noreferrer nofollow" href="https://www.businessgrants.gov.sg/" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Business Grants Portal logo" src="/images/About Us/Business_Grants_Portal.png"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Apply for business grants</div><div class="isomer-card-link">Explore BGP</div></div></a>
 </div>
 <h3>Digital solutions to transform SMEs</h3>
 <p>Technology is transforming every sector of Singapore’s economy. It’s time
