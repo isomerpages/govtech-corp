@@ -11,7 +11,7 @@ image: /images/Products and Services/Collaborate with
 <h2>Drive digital transformation with us</h2>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Hand shake - collaboration with GovTech" src="/images/Products and Services/Collaborate with us/Collaborate_with_us_overview_meta_image_resized.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="Hand shake - collaboration with GovTech" src="/images/Products and Services/Collaborate with us/Collaborate_with_us_1690x800.jpg">
 </div>
 <p>GovTech is the lead agency tasked with making Singapore's Smart Nation
 ambitions a reality. But we know we cannot go about it alone. It is only
