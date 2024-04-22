@@ -7,7 +7,7 @@ description: An open data collective, Data.gov.sg allows government agencies to
   about it.
 third_nav_title: Data & AI
 ---
-<h2>Allowing government agencies to make their data accessible to the public with <a href="https://beta.data.gov.sg/" rel="noopener noreferrer nofollow" target="_blank">Data.gov.sg</a></h2>
+<h2>Allowing government agencies to make their data accessible to the public with Data.gov.sg</h2>
 <p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 60%;" height="auto" width="100%" alt="Data.gov.sg logo" src="/images/Products and Services/For Government Agencies/Data_gov_sg_logo.png">
@@ -16,10 +16,6 @@ third_nav_title: Data & AI
 enable users to make sound and informed decisions. Recognising this, we
 set up Data.gov.sg, a one-stop open data collective where 90-plus government
 agencies can upload their data in real-time for public consumption.</p>
-<p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Products and Services/_Compressed__data_gov_sg_screenshot.jpg">
-</div>
 <p>The datasets range from environment-related types such as the Pollutant
 Standards Index (PSI) and dengue clusters to the registration information
 of salespersons under the Council for Estate Agencies.&nbsp;</p>
@@ -28,6 +24,10 @@ be it for commercial or personal purposes. Currently, it sees an average
 of 350,000 monthly visitors, with a total of over 30,000 data downloads
 and 13 million API calls made.</p>
 <h3>Why use Data.gov.sg?</h3>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Products and Services/_Compressed__data_gov_sg_screenshot.jpg">
+</div>
 <div class="isomer-card-grid">
 <div class="isomer-card">
 <div class="isomer-card-body">
