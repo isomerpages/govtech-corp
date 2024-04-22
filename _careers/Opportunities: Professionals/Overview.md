@@ -87,7 +87,7 @@ I feel grateful to create meaningful impact with them together as a team!"</p>
 <a rel="noopener noreferrer nofollow" href="https://careers.tech.gov.sg/careers/SearchJobs" class="isomer-card">
 <div class="isomer-card-body">
 <div class="isomer-card-title">Ready to take a big leap in your career?</div>
-<div class="isomer-card-link">See job vacancies</div>
+<div class="isomer-card-link">Apply for a GovTech job</div>
 </div>
 </a>
 </div>
