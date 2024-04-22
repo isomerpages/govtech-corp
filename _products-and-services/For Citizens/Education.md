@@ -85,10 +85,10 @@ your child is currently eligible for P1 registration but not yet registered
 in a school, email the Parents Gateway Helpdesk at <a href="https://apps.apple.com/sg/app/parents-gateway/id1267198708" rel="noopener noreferrer nofollow" target="_blank">moe_parents_gateway@moe.gov.sg</a> for
 assistance.</p>
 <h3>Interested to learn more about Parents Gateway?</h3>
-<div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="https://pg.moe.edu.sg/" class="isomer-card"><div class="isomer-card-body"><div class="isomer-card-title">Visit the Parents Gateway website</div><div class="isomer-card-link">Parents Gateway</div></div></a>
+<div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="https://pg.moe.edu.sg/" class="isomer-card"><div class="isomer-card-body"><div class="isomer-card-title">Visit the Parents Gateway website to learn more about this service</div><div class="isomer-card-link">Go to website</div></div></a>
 <a rel="noopener noreferrer nofollow" href="http://eepurl.com/cUwIsD" class="isomer-card">
 <div class="isomer-card-body">
-<div class="isomer-card-title">Subscribe to the TechNews newsletter for updates</div>
+<div class="isomer-card-title">TechNews readers will be the first to receive updates on Parents Gateway!</div>
 <div class="isomer-card-link">Subscribe to TechNews</div>
 </div>
 </a>
