@@ -7,10 +7,10 @@ third_nav_title: Why Join GovTech
 variant: tiptap
 image: /images/careers/How_we_hire_meta_image_copy.jpg
 ---
-<h3>Hiring right is our recipe for success</h3>
+<h2>Hiring right is our recipe for success</h2>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Asian man in an interview, applying for a job at GovTech with a smile on his face." src="/images/careers/How_we_hire_meta_image_copy.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="Asian man in an interview, applying for a job at GovTech with a smile on his face." src="/images/careers/How_we_hire_1690x800.jpg">
 </div>
 <p>The GovTech community is filled with over 3,000 talents and experts who
 live and breathe technology. As we continue to advance our mission to build
@@ -23,8 +23,7 @@ intelligence, cybersecurity, digital infrastructure and smart city technology.</
 <p>Does the thought of being at the forefront of shaping Singapore's tech
 future fill you with excitement? If so, consider embarking on a fulfilling
 career with us! Here's a look at our hiring process.</p>
-<p>(New infographic)</p>
-<ul>
+<ol data-tight="true" class="tight">
 <li>
 <p>Apply</p>
 <ul>
@@ -59,8 +58,7 @@ frameworks and predetermined criteria.&nbsp;</p>
 </li>
 </ul>
 </li>
-</ul>
-<p>Alt text: A look at GovTech's hiring process</p>
+</ol>
 <h3>Tips to increase your chance of landing the job</h3>
 <p>Want to stand out from the crowd? Here are some tips to help you along!</p>
 <p></p>
@@ -128,11 +126,11 @@ job history.</p>
 </details>
 </div>
 <h3>Ready to explore a GovTech career?</h3>
-<div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="/careers/opportunities-for-professionals/overview/" class="isomer-card"><div class="isomer-card-body"><div class="isomer-card-title">Are you a working professional? Take your career to new heights today.</div><div class="isomer-card-link">Apply for a job now</div></div></a>
+<div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="/careers/opportunities-for-professionals/overview/" class="isomer-card"><div class="isomer-card-body"><div class="isomer-card-title">Are you a working professional? Take your career to new heights today</div><div class="isomer-card-link">Apply for a GovTech job</div></div></a>
 <a rel="noopener noreferrer nofollow" href="/careers/students-and-graduates/overview/" class="isomer-card">
 <div class="isomer-card-body">
-<div class="isomer-card-title">Are you a student or a graduate? Here's your stepping stone for success.</div>
-<div class="isomer-card-link">See opportunities</div>
+<div class="isomer-card-title">Are you a student or a graduate? Here's your stepping stone for success</div>
+<div class="isomer-card-link">See GovTech's programmes</div>
 </div>
 </a>
 </div>
