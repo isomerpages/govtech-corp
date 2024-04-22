@@ -208,7 +208,3 @@ user features for the idea owner's consideration.</p>
 </details>
 </div>
 <p></p>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
