@@ -54,21 +54,21 @@ can be arranged according to your schedule.</p>
 <blockquote>
 <p>“I was able to collaborate with like-minded individuals and directly drive
 Singapore’s efforts to become a truly Smart Nation.”</p>
-<p>~ Paul Piong, Telsa</p>
 </blockquote>
+<p>~ Paul Piong, Telsa</p>
 <p></p>
 <blockquote>
 <p>"This was a unique opportunity for me to apply my data analysis skills
 and help the government make decisions that impact millions of Singaporeans.”</p>
-<p>~ Arun Kishore, YouTube</p>
 </blockquote>
+<p>~ Arun Kishore, YouTube</p>
 <p></p>
 <blockquote>
 <p>“With this programme, there’s actually a greater sense of satisfaction
 knowing that my research project has the potential to benefit society.”</p>
-<p>~ Goh Siew Hong, GovTech</p>
 </blockquote>
-<h3>Interested in becoming a Smart Nation Fellow?</h3>
-<p>Reach out to <a href="mailto:smartnationtechcareers@pmo.gov.sg" rel="noopener noreferrer nofollow" target="_blank">smartnationtechcareers@pmo.gov.sg</a> to
-find out more about joining the programme. If you are interested in exploring
-other career opportunities with GovTech, <a href="/careers/opportunities-for-professionals/overview/" rel="noopener noreferrer nofollow" target="_blank">learn more here</a>.</p>
+<p>~ Goh Siew Hong, GovTech</p>
+<p></p>
+<div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="mailto:smartnationtechcareers@pmo.gov.sg" class="isomer-card"><div class="isomer-card-body"><div class="isomer-card-title">Interested in becoming a Smart Nation Fellow?</div><div class="isomer-card-description">Reach out to us directly at smartnationtechcareers@pmo.gov.sg to find out more about the programme.</div><div class="isomer-card-link">smartnationtechcareers@pmo.gov.sg</div></div></a>
+</div>
+<p></p>
