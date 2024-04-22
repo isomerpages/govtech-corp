@@ -43,7 +43,7 @@ partnerships with Parents Gateway.</div>
 <a rel="noopener noreferrer nofollow" href="/products-and-services/for-citizens/environment/" class="isomer-card">
 <div class="isomer-card-body">
 <div class="isomer-card-title">Environment</div>
-<div class="isomer-card-description">The MyENV app provides essential environment-related information, from
+<div class="isomer-card-description">The myENV app provides essential environment-related information, from
 weather forecasts to PSI readings and food recalls, to citizens in real
 time.</div>
 <div class="isomer-card-link">Find out more</div>
