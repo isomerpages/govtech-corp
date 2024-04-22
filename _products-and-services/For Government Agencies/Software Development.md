@@ -18,7 +18,7 @@ as automate workflows to heighten efficiency. Ultimately, it ensures that
 the end-user experience of a new digital service is consistent with that
 of existing ones.</p>
 <h3>Explore our software development products</h3>
-<div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="/products-and-services/for-government-agencies/software-development/sg-tech-stack/" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Singapore Government Tech Stack streamlines and simplifies the process of building digital services" src="/images/Products and Services/For Government Agencies/SGTS_placeholder_600x300px.png"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Singapore Government Tech Stack</div><div class="isomer-card-description">A common platform that provides the infrastructure for all digital government services, and offers a suite of tools and products for software development.</div><div class="isomer-card-link">Singapore Government Tech Stack</div></div></a>
+<div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="/products-and-services/for-government-agencies/software-development/sg-tech-stack/" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Singapore Government Tech Stack streamlines and simplifies the process of building digital services" src="/images/Products and Services/For Government Agencies/SGTS_placeholder_600x300px.png"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Singapore Government Tech Stack</div><div class="isomer-card-description">A common platform that provides the infrastructure for all digital government services, and offers a suite of tools and products for software development.</div><div class="isomer-card-link">Explore SGTS</div></div></a>
 <a rel="noopener noreferrer nofollow" href="/products-and-services/for-government-agencies/software-development/government-on-commercial-cloud/" class="isomer-card">
 <div class="isomer-card-image">
 <div class="isomer-image-wrapper">
@@ -30,7 +30,7 @@ of existing ones.</p>
 <div class="isomer-card-description">Empowering government agencies with a means to onboard their services
 onto a holistic cloud ecosystem for better operational efficiency, cost-effectiveness,
 and security.</div>
-<div class="isomer-card-link">Government on Commercial Cloud</div>
+<div class="isomer-card-link">Explore GCC</div>
 </div>
 </a>
 </div>
