@@ -72,6 +72,6 @@ Framework, wireless Alert Alarm System and remote photoplethysmography.</div>
 </a>
 </div>
 <p></p>
-<div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="mailto:info@tech.gov.sg" class="isomer-card"><div class="isomer-card-body"><div class="isomer-card-title">Interested in collaborating with us?</div><div class="isomer-card-description">Reach out directly to us via email.</div><div class="isomer-card-link">Contact us</div></div></a>
+<div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="mailto:info@tech.gov.sg" class="isomer-card"><div class="isomer-card-body"><div class="isomer-card-title">Interested in collaborating with us?</div><div class="isomer-card-description">Reach out directly to us via email.</div><div class="isomer-card-link">info@tech.gov.sg</div></div></a>
 </div>
 <p></p>
