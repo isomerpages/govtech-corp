@@ -22,7 +22,7 @@ Ask Wally on the Public Utilities Board's website and more. Government
 agencies can fully customise these personas and include key information
 resources on the chatbot's landing page.</p>
 <p></p>
-<div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="https://www.pub.gov.sg/" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Ask Wally avatar" src="/images/Products and Services/For Government Agencies/Ask_Wally.png"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Ask Wally</div><div class="isomer-card-link">PUB</div></div></a>
+<div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="https://www.pub.gov.sg/" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Ask Wally avatar" src="/images/Products and Services/For Government Agencies/Ask_Wally.png"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Ask Wally</div><div class="isomer-card-link">Ask on PUB website</div></div></a>
 <a rel="noopener noreferrer nofollow" href="https://www.nea.gov.sg/" class="isomer-card">
 <div class="isomer-card-image">
 <div class="isomer-image-wrapper">
@@ -31,11 +31,11 @@ resources on the chatbot's landing page.</p>
 </div>
 <div class="isomer-card-body">
 <div class="isomer-card-title">Ask Captain Green</div>
-<div class="isomer-card-link">NEA</div>
+<div class="isomer-card-link">Ask on NEA website</div>
 </div>
 </a>
 </div>
-<div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="https://www.hdb.gov.sg/cs/infoweb/homepage" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Ask HDB avatar" src="/images/Products and Services/For Government Agencies/Ask_HDB.png"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Ask HDB</div><div class="isomer-card-link">HDB</div></div></a>
+<div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="https://www.hdb.gov.sg/cs/infoweb/homepage" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Ask HDB avatar" src="/images/Products and Services/For Government Agencies/Ask_HDB.png"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Ask HDB</div><div class="isomer-card-link">Ask on HDB website</div></div></a>
 <a rel="noopener noreferrer nofollow" href="https://www.tech.gov.sg/" class="isomer-card">
 <div class="isomer-card-image">
 <div class="isomer-image-wrapper">
@@ -44,7 +44,7 @@ resources on the chatbot's landing page.</p>
 </div>
 <div class="isomer-card-body">
 <div class="isomer-card-title">Ask Gayle</div>
-<div class="isomer-card-link">GovTech</div>
+<div class="isomer-card-link">Ask on GovTech website</div>
 </div>
 </a>
 </div>
@@ -76,18 +76,18 @@ of the day.</div>
 <p></p>
 <div data-type="detailGroup" class="isomer-accordion isomer-accordion-white">
 <details class="isomer-details">
-<summary><strong>Gen AI Playground</strong>
+<summary><strong>Gen AI playground</strong>
 </summary>
 <div data-type="detailsContent" class="isomer-details-content">
-<p>Gen AI Playground: Use the data source management feature in the Playground
-to upload documents that will serve as source materials. VICA will then
-generate answers by mining the data in your documents. You can also select
-trusted websites from which you want VICA to draw data from. This will
-increase VICA's ability to answer public queries.</p>
+<p>Use the data source management feature in the Playground to upload documents
+that will serve as source materials. VICA will then generate answers by
+mining the data in your documents. You can also select trusted websites
+from which you want VICA to draw data from. This will increase VICA's ability
+to answer public queries.</p>
 </div>
 </details>
 <details class="isomer-details">
-<summary><strong>Auto-Complete</strong>
+<summary><strong>Auto-complete</strong>
 </summary>
 <div data-type="detailsContent" class="isomer-details-content">
 <p>When users type three characters, VICA will provide a list of suggestions
@@ -95,7 +95,7 @@ to enable faster searching.</p>
 </div>
 </details>
 <details class="isomer-details">
-<summary><strong>Enabling/Disabling Knowledge Base in the Gen AI Playground</strong>
+<summary><strong>Enabling/disabling knowledge base in the Gen AI playground</strong>
 </summary>
 <div data-type="detailsContent" class="isomer-details-content">
 <p>You can now switch off your Knowledge Base in the gen AI Playground. When
@@ -115,11 +115,11 @@ available for text and HTML response type.</p>
 </details>
 </div>
 <h3>Interested to find out more about VICA?</h3>
-<div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="https://www.developer.tech.gov.sg/products/categories/platform/virtual-intelligent-chat-assistant/overview.html" class="isomer-card"><div class="isomer-card-body"><div class="isomer-card-title">Visit the Singapore Government Developer Portal to learn more</div><div class="isomer-card-link">VICA features</div></div></a>
+<div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="https://www.developer.tech.gov.sg/products/categories/platform/virtual-intelligent-chat-assistant/overview.html" class="isomer-card"><div class="isomer-card-body"><div class="isomer-card-title">Discover its features on the Singapore Government Developer Portal (SGDP)</div><div class="isomer-card-link">Learn more on SGDP</div></div></a>
 <a rel="noopener noreferrer nofollow" href="mailto:info@tech.gov.sg" class="isomer-card">
 <div class="isomer-card-body">
 <div class="isomer-card-title">Have questions? Email us</div>
-<div class="isomer-card-link">Contact us</div>
+<div class="isomer-card-link">info@tech.gov.sg</div>
 </div>
 </a>
 </div>
