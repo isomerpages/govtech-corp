@@ -72,13 +72,14 @@ exploitation platform.</div>
 </div>
 </div>
 </div>
-<h3>Want to learn more about our work?</h3>
-<p>Visit our <a href="https://medium.com/dsaid-govtech" rel="noopener noreferrer nofollow" target="_blank">DSAID Medium blog</a> to
-see our latest projects and learn about their development.</p>
+<p></p>
+<div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="https://medium.com/dsaid-govtech" class="isomer-card"><div class="isomer-card-body"><div class="isomer-card-title">Want to learn more about our work?</div><div class="isomer-card-description">Visit our Medium blog to see our latest projects and learn about their development.</div><div class="isomer-card-link">Read more on our Medium blog</div></div></a>
+</div>
 <h3>Join our team</h3>
+<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="Testimonials for careers in GovTech capability centre for data science and artificial intelligence" src="/images/About Us/Our capabilities/capcentre_dsaid_quotes2.jpg">
 </div>
-<p>Find opportunities as a Data Engineer, Data Scientist, Quantitative Analyst,
-AI Engineer and more.</p>
-<p><a href="/careers/why-join-govtech/overview/" rel="noopener noreferrer nofollow" target="_blank">Explore career opportunities at GovTech</a>.</p>
+<p><a href="/careers/why-join-govtech/overview/" rel="noopener noreferrer nofollow" target="_blank">Explore GovTech careers</a> as
+a Data Engineer, Data Scientist, Quantitative Analyst, AI Engineer and
+more.</p>
