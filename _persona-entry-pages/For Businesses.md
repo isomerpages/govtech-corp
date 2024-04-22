@@ -32,7 +32,7 @@ and opportunities to upgrade your business.</p>
 <p>Technology is transforming every sector of Singapore’s economy. It’s time
 for SMEs to leverage digital solutions to improve operations and generate
 new revenue.</p>
-<div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="https://api.singpass.gov.sg/case/dbs" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Upgraded DBS service with the help of GovTech" src="/images/About Us/dbs_x_singpass_600x300.png"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Integration of GovTech services</div><div class="isomer-card-description">Partner with us to level up your business. DBS Bank did just that by adopting our Singpass API to smoothen processes for their customers.</div><div class="isomer-card-link">Read more about GovTech integration</div></div></a>
+<div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="https://api.singpass.gov.sg/case/dbs" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Upgraded DBS service with the help of GovTech" src="/images/About Us/dbs_x_singpass_600x300.png"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Integration of GovTech services</div><div class="isomer-card-description">Partner with us to level up your business. DBS Bank did just that by adopting our Singpass API to smoothen processes for their customers.</div><div class="isomer-card-link">Read case study</div></div></a>
 <a rel="noopener noreferrer nofollow" href="https://www.imda.gov.sg/how-we-can-help/smes-go-digital" class="isomer-card">
 <div class="isomer-card-image">
 <div class="isomer-image-wrapper">
@@ -43,7 +43,7 @@ new revenue.</p>
 <div class="isomer-card-title">Go Digital Programme by IMDA</div>
 <div class="isomer-card-description">Take your first steps to digitalise your business with a programme that
 helps SMEs adopt advanced digital solutions, find grants and get a consultation.</div>
-<div class="isomer-card-link">Read more about the programme</div>
+<div class="isomer-card-link">Go to website</div>
 </div>
 </a>
 </div>
