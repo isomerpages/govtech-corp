@@ -11,11 +11,7 @@ image: /images/About Us/Our
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="GovTech capability centre for Data Science and Artificial Intelligence (AI)" src="/images/About Us/Our capabilities/capcentre_dsaid_banner__compressed_.jpg">
 </div>
-<p></p>
-<blockquote>
-<p>A capability centre that uses data-driven insights and decision-making
-to formulate effective policies and deliver citizen-centric services.</p>
-</blockquote>
+<h2>A capability centre that uses data-driven insights and decision-making to formulate effective policies and deliver citizen-centric services.</h2>
 <h3>What we do</h3>
 <p>The Data Science and Artificial Intelligence Division (DSAID) enables
 GovTech and the whole-of-government (WOG) to engage in evidence-based policymaking,
