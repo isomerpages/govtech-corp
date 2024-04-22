@@ -91,8 +91,8 @@ chances of winning a project.</p>
 <summary><strong>About our products and services</strong>
 </summary>
 <div data-type="detailsContent" class="isomer-details-content">
-<p>Find out more about the <u>Singapore Government Tech Stack</u> and explore
-the products we have developed for citizens, businesses and government
+<p>Find out more about the <a href="/products-and-services/for-government-agencies/software-development/sg-tech-stack/" rel="noopener noreferrer nofollow" target="_blank">Singapore Government Tech Stack</a> and
+explore the products we have developed for citizens, businesses and government
 agencies.</p>
 <p></p>
 <ol data-tight="true" class="tight">
