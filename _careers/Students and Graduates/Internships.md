@@ -93,14 +93,13 @@ our internship applications.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="Post-application process for a role or project at GovTech" src="/images/careers/post_application_process.png">
 </div>
-<h4>Begin your GovTech journey today!</h4>
-<div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="https://careers.tech.gov.sg/careers/talentcommunity" class="isomer-card"><div class="isomer-card-body"><div class="isomer-card-title">Join our GovTech Talent Community and receive the latest news!</div><div class="isomer-card-link">Join community</div></div></a>
+<h3>Begin your GovTech journey today!</h3>
+<div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="https://careers.tech.gov.sg/careers/talentcommunity" class="isomer-card"><div class="isomer-card-body"><div class="isomer-card-title">Join our GovTech Talent Community and receive the latest news!</div><div class="isomer-card-link">Join our community</div></div></a>
 <a rel="noopener noreferrer nofollow" href="https://careers.tech.gov.sg/careers/Home" class="isomer-card">
 <div class="isomer-card-body">
 <div class="isomer-card-title">Ready to apply? Check out our opportunities</div>
-<div class="isomer-card-link">Apply for GovTech careers</div>
+<div class="isomer-card-link">See GovTech's internships</div>
 </div>
-</a>
+</a><a rel="noopener noreferrer nofollow" href="mailto:AreYouIT@tech.gov.sg" class="isomer-card"><div class="isomer-card-body"><div class="isomer-card-title">Have an enquiry? Reach out to us directly</div><div class="isomer-card-link">AreYouIT@tech.gov.sg</div></div></a>
 </div>
-<p>Have an enquiry? Reach out to us directly at <a href="mailto:AreYouIT@tech.gov.sg" rel="noopener noreferrer nofollow" target="_blank">AreYouIT@tech.gov.sg</a>
-</p>
+<p></p>
