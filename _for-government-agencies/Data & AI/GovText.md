@@ -98,11 +98,11 @@ and demo videos.</p>
 <p>Users can look forward to new transcript editing and speaker diarisation
 functions.</p>
 <h3>Interested to find out more about GovText?</h3>
-<div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="https://www.govtext.gov.sg/" class="isomer-card"><div class="isomer-card-body"><div class="isomer-card-title">Discover its features on the official website</div><div class="isomer-card-link">GovText website</div></div></a>
+<div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="https://www.govtext.gov.sg/" class="isomer-card"><div class="isomer-card-body"><div class="isomer-card-title">Visit the GovText website to learn more</div><div class="isomer-card-link">Go to website</div></div></a>
 <a rel="noopener noreferrer nofollow" href="mailto:govtext@tech.gov.sg" class="isomer-card">
 <div class="isomer-card-body">
 <div class="isomer-card-title">Have questions? Email us</div>
-<div class="isomer-card-link">Contact GovText</div>
+<div class="isomer-card-link">govtext@tech.gov.sg</div>
 </div>
 </a>
 </div>
