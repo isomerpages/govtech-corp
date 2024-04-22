@@ -41,6 +41,6 @@ and businesses to assess the useability and accessibility of the services.</p>
 <p>Public officers should refer to your agency’s intranet resources for the
 full version of the DSS.</p>
 <h3>Interested to find out more about Digital Service Standards?</h3>
-<div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="mailto:info@tech.gov.sg" class="isomer-card"><div class="isomer-card-body"><div class="isomer-card-title">Email your questions to us</div><div class="isomer-card-link">Contact us</div></div></a>
+<div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="mailto:info@tech.gov.sg" class="isomer-card"><div class="isomer-card-body"><div class="isomer-card-title">Email your questions to us</div><div class="isomer-card-link">info@tech.gov.sg</div></div></a>
 </div>
 <p></p>
