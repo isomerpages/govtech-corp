@@ -71,6 +71,10 @@ with some of the best and brightest tech experts at these sessions.</p>
 </details>
 </div>
 <h3>Conference spotlight: STACKx Smart City 2024</h3>
+<p></p>
+<div class="iframe-wrapper">
+<iframe style="max-width: 100%;" height="400" width="100%" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/Sau0TIxQgNg?si=BZx4mybKPZUKM4UJ"></iframe>
+</div>
 <p>We explored the possibilities of urban technology for smart cities at
 our latest STACKx Conference. Experts covered the latest trends in smart
 living, operations, and planning.</p>
