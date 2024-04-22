@@ -27,7 +27,7 @@ communities to gather feedback on your products.</p>
 and Singapore Food Agency (SFA), GovTech has collaborated with a myriad
 of government agencies to develop innovative solutions.</p>
 <p>Here are a few examples:</p>
-<div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="/products-and-services/for-citizens/education/" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="GovTech collaborated with MOE to create Parents Gateway." src="/images/Products and Services/Collaborate with us/Gov_collaborate_card_1_600x400.png"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Parents Gateway with MOE</div><div class="isomer-card-description">This app is a one-stop portal used to disseminate information and seek parents’ consent on admin matters, all in a consolidated digital form.</div><div class="isomer-card-link">See Parents Gateway</div></div></a>
+<div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="/products-and-services/for-citizens/education/" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="GovTech collaborated with MOE to create Parents Gateway." src="/images/Products and Services/Collaborate with us/Gov_collaborate_card_1_600x400.png"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Parents Gateway with MOE</div><div class="isomer-card-description">This app is a one-stop portal used to disseminate information and seek parents’ consent on admin matters, all in a consolidated digital form.</div><div class="isomer-card-link">Explore Parents Gateway</div></div></a>
 <a rel="noopener noreferrer nofollow" href="/media/media-releases/spot-robot-trial-for-safe-distancing-operations/" class="isomer-card">
 <div class="isomer-card-image">
 <div class="isomer-image-wrapper">
@@ -38,9 +38,9 @@ of government agencies to develop innovative solutions.</p>
 <div class="isomer-card-title">SPOT Robot with NParks</div>
 <div class="isomer-card-description">During the pandemic, SPOT made its way around parks to remind patrons
 of safe-distancing measures. It also collected video data on traffic.</div>
-<div class="isomer-card-link">See SPOT in action</div>
+<div class="isomer-card-link">Read the media release</div>
 </div>
-</a><a rel="noopener noreferrer nofollow" href="/media/technews/how-ai-and-a-camera-phone-help-keep-food-on-our-tables/" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="GovTech collaborated with the Singapore Food Agency on an AI fish farming project." src="/images/Products and Services/Collaborate with us/Gov_collaborate_card_3_600x400.png"></div></div><div class="isomer-card-body"><div class="isomer-card-title">AI for Fish Farming with Singapore Food Agency</div><div class="isomer-card-description">This app reduces the 40-minute process of rotifer counting to just one. It also analyses uploaded images and extracts insights for farmers.</div><div class="isomer-card-link">Learn more about the AI tool</div></div></a>
+</a><a rel="noopener noreferrer nofollow" href="/media/technews/how-ai-and-a-camera-phone-help-keep-food-on-our-tables/" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="GovTech collaborated with the Singapore Food Agency on an AI fish farming project." src="/images/Products and Services/Collaborate with us/Gov_collaborate_card_3_600x400.png"></div></div><div class="isomer-card-body"><div class="isomer-card-title">AI for Fish Farming with Singapore Food Agency</div><div class="isomer-card-description">This app reduces the 40-minute process of rotifer counting to just one. It also analyses uploaded images and extracts insights for farmers.</div><div class="isomer-card-link">Read more on TechNews</div></div></a>
 </div>
 <h3>Product testing</h3>
 <p></p>
@@ -66,6 +66,6 @@ of society.</p>
 <div class="iframe-wrapper">
 <iframe style="max-width: 100%;" height="400" width="100%" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/xH9ymuCrp04?si=Yqda2OtK4bsasVIH"></iframe>
 </div>
-<div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="mailto:info@tech.gov.sg" class="isomer-card"><div class="isomer-card-body"><div class="isomer-card-title">Ready to collaborate?</div><div class="isomer-card-description">Get in touch with us today to explore ways we can work together. Email us.</div><div class="isomer-card-link">Contact us</div></div></a>
+<div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="mailto:info@tech.gov.sg" class="isomer-card"><div class="isomer-card-body"><div class="isomer-card-title">Ready to collaborate?</div><div class="isomer-card-description">Get in touch with us today to explore ways we can work together. Email us.</div><div class="isomer-card-link">info@tech.gov.sg</div></div></a>
 </div>
 <p></p>
