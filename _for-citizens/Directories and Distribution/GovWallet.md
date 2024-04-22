@@ -87,10 +87,10 @@ via a letter and Singpass</p>
 </li>
 </ul>
 <h3>Interested in finding out more about GovWallet?</h3>
-<div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="https://www.wallet.gov.sg/where-to-spend" class="isomer-card"><div class="isomer-card-body"><div class="isomer-card-title">Visit the GovWallet website to find out where to spend your credits</div><div class="isomer-card-link">Access GovWallet</div></div></a>
+<div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="https://www.wallet.gov.sg/where-to-spend" class="isomer-card"><div class="isomer-card-body"><div class="isomer-card-title">Visit the GovWallet website to find out where to spend your credits</div><div class="isomer-card-link">Go to GovWallet website</div></div></a>
 <a rel="noopener noreferrer nofollow" href="http://eepurl.com/cUwIsD" class="isomer-card">
 <div class="isomer-card-body">
-<div class="isomer-card-title">Subscribe to the TechNews newsletter for updates</div>
+<div class="isomer-card-title">TechNews readers will be the first to receive updates on GovWallet!</div>
 <div class="isomer-card-link">Subscribe to TechNews</div>
 </div>
 </a>
