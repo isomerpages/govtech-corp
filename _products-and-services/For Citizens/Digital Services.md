@@ -7,7 +7,7 @@ description: Used by Singaporean citizens every day, GovTech's digital services
 third_nav_title: For Citizens
 variant: tiptap
 ---
-<h3>Ensuring our digital services are always accessible</h3>
+<h2>Ensuring our digital services are always accessible</h2>
 <p>Our Digital Government Blueprint details our bold vision to create a government
 that is "Digital to the Core, and Serves with Heart". We can achieve this
 by designing products and services that directly address citizens' needs.
@@ -18,7 +18,7 @@ fulfilling e-government needs, these digital solutions create an open and
 connected system that our partners in the private sector can leverage and
 in turn optimise their own businesses.</p>
 <h3>Explore our Digital Services for citizens</h3>
-<div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="/products-and-services/for-citizens/digital-services/singpass/" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Singpass is Singapore's national digital identity" src="/images/Products and Services/For citizens/Singpass.png"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Singpass</div><div class="isomer-card-description">Singapore’s national digital identity, Singpass is used by over 4.5 million residents as an authentication platform for digital transactions.</div><div class="isomer-card-link">Access Singpass</div></div></a>
+<div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="/products-and-services/for-citizens/digital-services/singpass/" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Singpass is Singapore's national digital identity" src="/images/Products and Services/For citizens/Singpass.png"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Singpass</div><div class="isomer-card-description">Singapore’s national digital identity, Singpass is used by over 4.5 million residents as an authentication platform for digital transactions.</div><div class="isomer-card-link">Explore Singpass</div></div></a>
 <a rel="noopener noreferrer nofollow" href="/products-and-services/for-citizens/digital-services/lifesg/" class="isomer-card">
 <div class="isomer-card-image">
 <div class="isomer-image-wrapper">
@@ -33,7 +33,7 @@ over 100 government agencies.</div>
 </div>
 </a>
 </div>
-<div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="/products-and-services/for-citizens/digital-services/our-marriage-journey/" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Our Marriage Journey makes the process of marriage administration convenient" src="/images/Products and Services/For citizens/Our_Marriage_Journey_600x300.png"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Our Marriage Journey</div><div class="isomer-card-description">This digital marriage registry service assists couples with the process of marriage administration.</div><div class="isomer-card-link">Explore Our Marriage Journey</div></div></a>
+<div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="/products-and-services/for-citizens/digital-services/our-marriage-journey/" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Our Marriage Journey makes the process of marriage administration convenient" src="/images/Products and Services/For citizens/Our_Marriage_Journey_600x300.png"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Our Marriage Journey</div><div class="isomer-card-description">This digital marriage registry service assists couples with the process of marriage administration.</div><div class="isomer-card-link">Explore service</div></div></a>
 <a rel="noopener noreferrer nofollow" href="/products-and-services/for-citizens/digital-services/sgfindex/" class="isomer-card">
 <div class="isomer-card-image">
 <div class="isomer-image-wrapper">
@@ -44,7 +44,7 @@ over 100 government agencies.</div>
 <div class="isomer-card-title">SGFinDex</div>
 <div class="isomer-card-description">The world's first digital infrastructure that enables users to access
 financial information held across various government agencies and institutions.</div>
-<div class="isomer-card-link">Access SGFinDex</div>
+<div class="isomer-card-link">Explore SGFinDex</div>
 </div>
 </a>
 </div>
