@@ -45,8 +45,8 @@ and application endpoints in production.</p>
 <blockquote>
 <p>“A cutting-edge data exploitation platform, AG ensures compliance with
 government architecture and security requirements."</p>
-<p>~ James Teo, Data Engineer, DSAID</p>
 </blockquote>
+<p>~ James Teo, Data Engineer, DSAID</p>
 <h3>How to use AG?</h3>
 <p>Public officers can visit the <a href="https://www.developer.tech.gov.sg/products/categories/analytics/analytics-gov/getting-started" rel="noopener noreferrer nofollow" target="_blank">Singapore Government Developer Portal</a> to
 get started with AnalyticsGov or head over to <a href="https://analytics.gov.sg" rel="noopener noreferrer nofollow" target="_blank">https://analytics.gov.sg</a> (accessible
