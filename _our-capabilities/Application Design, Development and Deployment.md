@@ -89,15 +89,17 @@ interface EXchange), a secure catalogue of all APIs across the government.</div>
 <div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="/get-involved/stay-informed/" class="isomer-card"><div class="isomer-card-body"><div class="isomer-card-title">See our latest projects and learn about their development on our Medium blog</div><div class="isomer-card-link">Read more on our Medium blogs</div></div></a>
 <a rel="noopener noreferrer nofollow" href="https://www.developer.tech.gov.sg/products/all-products/" class="isomer-card">
 <div class="isomer-card-body">
-<div class="isomer-card-title">Learn more about the products and services developed by our team</div>
-<div class="isomer-card-link">Learn more on SGDP</div>
+<div class="isomer-card-title">Discover our solutions on the Singapore Government Development Portal
+(SGDP)</div>
+<div class="isomer-card-link">Go to SGDP</div>
 </div>
 </a>
 </div>
 <h3>Join our team</h3>
+<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="Testimonials for careers in GovTech capability centre for Application Design, Development and Deployment" src="/images/About Us/Our capabilities/capcentre_gds_quotes.jpg">
 </div>
-<p>Find opportunities as a UX Designer, Software Engineer, Quality Engineer,
-DevOps Engineer, Delivery Manager and more.</p>
-<p><a href="/careers/why-join-govtech/overview/" rel="noopener noreferrer nofollow" target="_blank">Explore careers at GovTech</a>.</p>
+<p><a href="/careers/why-join-govtech/overview/" rel="noopener noreferrer nofollow" target="_blank">Explore GovTech careers</a> as
+a UX Designer, Software Engineer, Quality Engineer, DevOps Engineer, Delivery
+Manager and more.</p>
