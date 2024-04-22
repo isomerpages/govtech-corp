@@ -202,9 +202,13 @@ ideas on the Ideathon if it is useful for you too.</p>
 user features for the idea owner's consideration.</p>
 </li>
 </ol>
-<p></p><a class="isomer-image-wrapper" href="https://launchpad.gov.sg/ideathon/97475f5d-a885-4164-87ba-e6a4a613bdbc/ideas"><img style="width: 60%;" height="auto" width="100%" alt="Button: Access LAUNCH! Ideathon 2024" src="/images/Products and Services/For Government Agencies/Access_event_button.png"></a>
+<p></p><a class="isomer-image-wrapper" href="https://launchpad.gov.sg/ideathon/97475f5d-a885-4164-87ba-e6a4a613bdbc/ideas"><img style="width: 90%;" height="auto" width="100%" alt="Button: Access LAUNCH! Ideathon 2024" src="/images/Products and Services/For Government Agencies/Access_event_button.png"></a>
 <p></p>
 </div>
 </details>
 </div>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
 <p></p>
