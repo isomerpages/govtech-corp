@@ -103,10 +103,10 @@ to festive celebrations.</div>
 </div>
 </div>
 </div>
-<h4>Want to learn more about life at GovTech?</h4>
+<h3>Want to learn more about life at GovTech?</h3>
 <p>Check out our <a href="https://linktr.ee/connectwithgovtech" rel="noopener noreferrer nofollow" target="_blank"><u>social media channels</u></a> to
 explore #InsideGovTech!</p>
-<h4>Start your GovTech journey today</h4>
+<h3>Start your GovTech journey today</h3>
 <p>Whether you're a student, graduate or working professional, many opportunities
 await you at GovTech. Find out more about joining GovTech by clicking below.</p>
 <div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="/careers/students-and-graduates/overview/" class="isomer-card"><div class="isomer-card-body"><div class="isomer-card-title">I am a student or graduate</div><div class="isomer-card-link">Explore internship/career opportunities</div></div></a>
