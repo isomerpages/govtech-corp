@@ -30,18 +30,6 @@ products and services across the government.</p>
 <p></p>
 <div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="/our-capabilities/smart-city-technology/" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Government ICT infrastructure in GovTech" src="/images/About Us/Our capabilities/Smart_City_Tech_631x200.jpg"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Smart City Technology</div><div class="isomer-card-description">This centre works on the design and implementation of a government-wide Internet of Things (IoT) infrastructure to support Smart City applications.</div><div class="isomer-card-link">Learn more</div></div></a>
 </div>
-<p><strong>Check out these articles too!</strong>
-</p>
-<ul data-tight="true" class="tight">
-<li>
-<p><a href="https://estates.jtc.gov.sg/pdd/stories/open-digital-platform-an-insiders-look-at-the-development-of-a-disruptive-technology" rel="noopener noreferrer nofollow" target="_blank">Open Digital Platform: An insider's look at the development of disruptive technology</a>
-</p>
-</li>
-<li>
-<p><a href="https://estates.jtc.gov.sg/pdd/stories/open-digital-platform-the-digital-backbone-of-pdd" rel="noopener noreferrer nofollow" target="_blank">Open Digital Platform: the digital backbone of Punggol Digital District</a>
-</p>
-</li>
-</ul>
 <h3>Career opportunities at our capability centres</h3>
 <p>We are always searching for like-minded tech talents. If any of our digital
 transformation goals resonate with you, check out <a href="/careers/why-join-govtech/overview/" rel="noopener noreferrer nofollow" target="_blank">careers at GovTech</a> now.</p>
