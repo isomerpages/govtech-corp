@@ -106,14 +106,13 @@ and GALE.</p>
 <a href="/files/IB2023_Towards_the_Next_Bound_of_Digital_Government_GovTech_CE.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>Towards the Next Bound of Digital Government report</u> 
 </a>. For a full list of current opportunities and open tenders, visit <a href="https://www.gebiz.gov.sg/" rel="noopener noreferrer nofollow" target="_blank"><u>GeBIZ</u></a>.</p>
 <h3>How to start collaborating with GovTech?</h3>
-<div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="mailto:govtech_sipeo@tech.gov.sg" class="isomer-card"><div class="isomer-card-body"><div class="isomer-card-title">Have an enquiry or a proactive proposal that will enrich our Smart Nation efforts?</div><div class="isomer-card-link">Drop us an email</div></div></a>
+<div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="mailto:govtech_sipeo@tech.gov.sg" class="isomer-card"><div class="isomer-card-body"><div class="isomer-card-title">Have an enquiry or a proactive proposal that will enrich our Smart Nation efforts? Reach out to us</div><div class="isomer-card-link">govtech_sipeo@tech.gov.sg</div></div></a>
 </div>
-<p></p>
 <h3>Event collaborations</h3>
 <p>At GovTech, we believe that public-private events will help spur the generation
 of new ideas, which are the precursors to truly innovative solutions. Here
 are a few examples of successful events we have helped organise.</p>
-<div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="https://youtu.be/t6zXXgJLNzI?si=u9tCMdKxSvd9L15j" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="GovTech collaborated with Google to organise the Google Cloud Next '23 event." src="/images/Products and Services/Collaborate with us/Industry_collab_card_1_600x300.jpg"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Google Cloud Next '23</div><div class="isomer-card-description">Mr Sau Sheong Chang shared about AI Trailblazer, how Singapore is collaborating with Google to spur AI adoption, and the use cases of AI in GovTech.</div><div class="isomer-card-link">Watch the session</div></div></a>
+<div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="https://youtu.be/t6zXXgJLNzI?si=u9tCMdKxSvd9L15j" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="GovTech collaborated with Google to organise the Google Cloud Next '23 event." src="/images/Products and Services/Collaborate with us/Industry_collab_card_1_600x300.jpg"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Google Cloud Next '23</div><div class="isomer-card-description">Mr Sau Sheong Chang shared about AI Trailblazer, how Singapore is collaborating with Google to spur AI adoption, and the use cases of AI in GovTech.</div><div class="isomer-card-link">Watch on YouTube</div></div></a>
 <a rel="noopener noreferrer nofollow" href="https://www.linkedin.com/feed/update/urn:li:activity:7122099364247834624/" class="isomer-card">
 <div class="isomer-card-image">
 <div class="isomer-image-wrapper">
@@ -124,11 +123,11 @@ are a few examples of successful events we have helped organise.</p>
 <div class="isomer-card-title">Google AI Bootcamp</div>
 <div class="isomer-card-description">Together with Google Cloud, GovTech's Digital Academy conducted the Google
 AI Bootcamp for the upskilling of over 1,400 public officers.</div>
-<div class="isomer-card-link">Read LinkedIn post</div>
+<div class="isomer-card-link">Read more on LinkedIn</div>
 </div>
 </a>
 </div>
 <p></p>
-<div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="mailto:info@tech.gov.sg" class="isomer-card"><div class="isomer-card-body"><div class="isomer-card-title">Have an enquiry on collaborations?</div><div class="isomer-card-description">Reach out to us directly via email.</div><div class="isomer-card-link">Contact us</div></div></a>
+<div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="mailto:info@tech.gov.sg" class="isomer-card"><div class="isomer-card-body"><div class="isomer-card-title">Ready to collaborate?</div><div class="isomer-card-description">Get in touch with us today to explore ways we can work together. Email us.</div><div class="isomer-card-link">info@tech.gov.sg</div></div></a>
 </div>
 <p></p>
