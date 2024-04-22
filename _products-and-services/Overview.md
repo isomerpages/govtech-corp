@@ -67,20 +67,15 @@ effectiveness.</div>
 </div>
 </a><a rel="noopener noreferrer nofollow" href="/products-and-services/for-government-agencies/knowledge-and-training/" class="isomer-card"><div class="isomer-card-body"><div class="isomer-card-title">Knowledge and Training</div><div class="isomer-card-description">Empowering public officers to continually upskill with Knowledge and Training tools</div><div class="isomer-card-link">Find out more</div></div></a>
 </div>
-<h4></h4>
-<div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="/products-and-services/for-government-agencies/digital-standards-and-guides/" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Placeholder image" src="https://placehold.co/600x400"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Digital Standards and Guides</div><div class="isomer-card-description">Ensuring a positive, consistent user experience through Digital Standards and Guides.</div><div class="isomer-card-link">Find Out More</div></div></a>
+<p></p>
+<div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="/products-and-services/for-government-agencies/digital-standards-and-guides/" class="isomer-card"><div class="isomer-card-body"><div class="isomer-card-title">Digital Standards and Guides</div><div class="isomer-card-description">Ensuring a positive, consistent user experience through Digital Standards and Guides.</div><div class="isomer-card-link">Find out more</div></div></a>
 <a rel="noopener noreferrer nofollow" href="/products-and-services/for-government-agencies/ict-and-infrastructure/" class="isomer-card">
-<div class="isomer-card-image">
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Placeholder image" src="https://placehold.co/600x400">
-</div>
-</div>
 <div class="isomer-card-body">
 <div class="isomer-card-title">ICT and Infrastructure</div>
 <div class="isomer-card-description">Building a solid digital infrastructure as the foundation to a Digital
 Government.</div>
-<div class="isomer-card-link">Find Out More</div>
+<div class="isomer-card-link">Find out more</div>
 </div>
-</a><a rel="noopener noreferrer nofollow" href="/products-and-services/for-government-agencies/digital-verification" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Placeholder image" src="https://placehold.co/600x400"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Digital Verification</div><div class="isomer-card-description">Simplifying the verification of digital documents using blockchain</div><div class="isomer-card-link">Find Out More</div></div></a>
+</a><a rel="noopener noreferrer nofollow" href="/products-and-services/for-government-agencies/digital-verification" class="isomer-card"><div class="isomer-card-body"><div class="isomer-card-title">Digital Verification</div><div class="isomer-card-description">Simplifying the verification of digital documents using blockchain</div><div class="isomer-card-link">Find out more</div></div></a>
 </div>
 <p></p>
