@@ -17,7 +17,7 @@ regardless of digital literacy level, can use our solutions with ease.</p>
 fulfilling e-government needs, these digital solutions create an open and
 connected system that our partners in the private sector can leverage and
 in turn optimise their own businesses.</p>
-<h3>Explore our Digital Services for citizens</h3>
+<h3>Explore our digital services for citizens</h3>
 <div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="/products-and-services/for-citizens/digital-services/singpass/" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Singpass is Singapore's national digital identity" src="/images/Products and Services/For citizens/Singpass.png"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Singpass</div><div class="isomer-card-description">Singapore’s national digital identity, Singpass is used by over 4.5 million residents as an authentication platform for digital transactions.</div><div class="isomer-card-link">Explore Singpass</div></div></a>
 <a rel="noopener noreferrer nofollow" href="/products-and-services/for-citizens/digital-services/lifesg/" class="isomer-card">
 <div class="isomer-card-image">
