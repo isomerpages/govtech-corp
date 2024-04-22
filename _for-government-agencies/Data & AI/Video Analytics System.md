@@ -53,7 +53,7 @@ operational flexibility.</div>
 </div>
 </div>
 <h3>A look at VAS: Case studies</h3>
-<div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="/media/technews/using-ai-to-differentiate-mosquito-larvae/" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="GovTech's Video Analytics System was used in an explorative study by NEA to identify mosquito larval species." src="/images/Products and Services/For Government Agencies/VAS_card_1.png"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Identification of mosquito larvae</div><div class="isomer-card-description">In an NEA-led study, the VAS identified mosquito larval species with an accuracy rate of almost 100%. Read the case study on TechNews.</div><div class="isomer-card-link">Go to Technews article</div></div></a>
+<div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="/media/technews/using-ai-to-differentiate-mosquito-larvae/" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="GovTech's Video Analytics System was used in an explorative study by NEA to identify mosquito larval species." src="/images/Products and Services/For Government Agencies/VAS_card_1.png"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Identification of mosquito larvae</div><div class="isomer-card-description">In an NEA-led study, the VAS identified mosquito larval species with an accuracy rate of almost 100%. Read the case study on TechNews.</div><div class="isomer-card-link">Read more on TechNews</div></div></a>
 <a rel="noopener noreferrer nofollow" href="/media/technews/clearing-the-air-using-tech-to-keep-our-environment-smoke-free/" class="isomer-card">
 <div class="isomer-card-image">
 <div class="isomer-image-wrapper">
@@ -64,7 +64,7 @@ operational flexibility.</div>
 <div class="isomer-card-title">Keeping our air smoke-free</div>
 <div class="isomer-card-description">In Project Balefire, the VAS was used to detect smoking that took place
 outside of designated public places. Read the case study on TechNews.</div>
-<div class="isomer-card-link">Go to Technews article</div>
+<div class="isomer-card-link">Read more on TechNews</div>
 </div>
 </a>
 </div>
@@ -72,11 +72,11 @@ outside of designated public places. Read the case study on TechNews.</div>
 <p>Simply visit the <a href="https://vas.gov.sg/login" rel="noopener noreferrer nofollow" target="_blank"><u>VAS site</u></a> and log in with your
 Whole-of-Government credentials to get started.</p>
 <h3>Interested to find out more about VAS?</h3>
-<div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="https://www.developer.tech.gov.sg/products/categories/analytics/vas/overview.html" class="isomer-card"><div class="isomer-card-body"><div class="isomer-card-title">Discover VAS' features on the Singapore Government Developer Portal</div><div class="isomer-card-link">VAS features</div></div></a>
+<div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="https://www.developer.tech.gov.sg/products/categories/analytics/vas/overview.html" class="isomer-card"><div class="isomer-card-body"><div class="isomer-card-title">Discover its features on the Singapore Government Developer Portal (SGDP)</div><div class="isomer-card-link">Learn more on SGDP</div></div></a>
 <a rel="noopener noreferrer nofollow" href="mailto:info@tech.gov.sg" class="isomer-card">
 <div class="isomer-card-body">
 <div class="isomer-card-title">Have questions? Email us</div>
-<div class="isomer-card-link">Contact us</div>
+<div class="isomer-card-link">info@tech.gov.sg</div>
 </div>
 </a>
 </div>
