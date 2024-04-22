@@ -94,8 +94,9 @@ It also received a 4.73/5 rating in the payer's satisfaction.</div>
 </div>
 </div>
 <h3>How to use FormSG?</h3>
-<p>Simply log in with a .<a href="https://form.gov.sg/login" rel="noopener noreferrer nofollow" target="_blank">gov.sg</a> email, a whitelisted email address,
-or via Singpass on the <a href="https://form.gov.sg/login" rel="noopener noreferrer nofollow" target="_blank"><u>FormSG website</u></a> to get started.</p>
+<p>Simply log in with a .gov.sg. email, a whitelisted email address, or via
+Singpass on the <a href="https://form.gov.sg/login" rel="noopener noreferrer nofollow" target="_blank"><u>FormSG website</u></a> to
+get started.</p>
 <h3>What's the latest on FormSG?</h3>
 <p>FormSG can now collect and facilitate payment transactions. Leverage this
 new feature to make transactions more seamless and secure. Read more about
