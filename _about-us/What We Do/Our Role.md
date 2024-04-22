@@ -32,34 +32,30 @@ government services and achieved high citizen and business satisfaction
 through products like Singpass.&nbsp;</p>
 <p>With DGB 2.0, GovTech will drive even more digital government transformation
 to support the Smart Nation initiative.</p>
-<p><strong>&lt;GovTech / Digital Government Blueprint 2.0 infographic&gt;</strong>
-</p>
 <h3>Our key areas of work</h3>
 <p>GovTech is a key driver in digital transformation. We create impactful
 government digital services which drive Singapore’s Smart Nation vision.</p>
 <p>Our work can be classified into these key <a href="/about-us/what-we-do/our-capabilities/" rel="noopener noreferrer nofollow" target="_blank">capability centres</a>.</p>
-<div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="/our-capabilities/application-design-development-and-deployment/" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Application Design, Development and Deployment" src="/images/About Us/Application_Design__Development___Deployment.jpg"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Application Design, Development and Deployment</div><div class="isomer-card-link">Learn more</div></div></a>
-<a rel="noopener noreferrer nofollow" href="/our-capabilities/cybersecurity/" class="isomer-card">
-<div class="isomer-card-image">
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Cybersecurity" src="/images/About Us/Cybersecurity.jpg">
-</div>
-</div>
-<div class="isomer-card-body">
-<div class="isomer-card-title">Cybersecurity</div>
-<div class="isomer-card-link">Learn more</div>
-</div>
-</a><a rel="noopener noreferrer nofollow" href="/our-capabilities/data-science-and-artificial-intelligence/" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Data Science and Artificial Intelligence" src="/images/About Us/Data_Science_and_Artificial_Intelligence.jpg"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Data Science and Artificial Intelligence</div><div class="isomer-card-link">Learn more</div></div></a>
-<a rel="noopener noreferrer nofollow" href="/our-capabilities/government-ict-infrastructure/" class="isomer-card">
-<div class="isomer-card-image">
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Government ICT Infrastructure" src="/images/About Us/Government_ICT_Infrastructure.jpg">
-</div>
-</div>
-<div class="isomer-card-body">
-<div class="isomer-card-title">Government ICT Infrastructure</div>
-<div class="isomer-card-link">Learn more</div>
-</div>
-</a><a rel="noopener noreferrer nofollow" href="/our-capabilities/smart-city-technology/" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Smart City Technology" src="/images/About Us/Smart_City_Technology.jpg"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Smart City Technology</div><div class="isomer-card-link">Learn more</div></div></a>
-</div>
+<ol data-tight="true" class="tight">
+<li>
+<p><a href="/our-capabilities/application-design-development-and-deployment/" rel="noopener noreferrer nofollow" target="_blank">Application Design, Development and Deployment</a>
+</p>
+</li>
+<li>
+<p><a href="/our-capabilities/cybersecurity/" rel="noopener noreferrer nofollow" target="_blank">Cybersecurity</a>
+</p>
+</li>
+<li>
+<p><a href="/our-capabilities/data-science-and-artificial-intelligence/" rel="noopener noreferrer nofollow" target="_blank">Data Science and Artificial Intelligence</a>
+</p>
+</li>
+<li>
+<p><a href="/our-capabilities/government-ict-infrastructure/" rel="noopener noreferrer nofollow" target="_blank">Government ICT Infrastructure</a>
+</p>
+</li>
+<li>
+<p><a href="/our-capabilities/smart-city-technology/" rel="noopener noreferrer nofollow" target="_blank">Smart City Technology</a>
+</p>
+</li>
+</ol>
 <p></p>
