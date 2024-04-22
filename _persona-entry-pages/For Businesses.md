@@ -49,7 +49,7 @@ helps SMEs adopt advanced digital solutions, find grants and get a consultation.
 </div>
 <h3>Stay updated with TechNews</h3>
 <h4>Check out these articles curated for you!</h4>
-<div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="https://www.tech.gov.sg/media/technews/getting-started-with-upskilling" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Employee writing notes and learning new skills" src="/images/About Us/Upskilling.jpg"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Getting started with upskilling your employees</div><div class="isomer-card-link">Read more about upskilling</div></div></a>
+<div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="https://www.tech.gov.sg/media/technews/getting-started-with-upskilling" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Employee writing notes and learning new skills" src="/images/About Us/Upskilling.jpg"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Getting started with upskilling your employees</div><div class="isomer-card-link">Read more on TechNews</div></div></a>
 <a rel="noopener noreferrer nofollow" href="https://www.tech.gov.sg/media/technews/businesses-to-get-one-stop-portal" class="isomer-card">
 <div class="isomer-card-image">
 <div class="isomer-image-wrapper">
@@ -58,9 +58,9 @@ helps SMEs adopt advanced digital solutions, find grants and get a consultation.
 </div>
 <div class="isomer-card-body">
 <div class="isomer-card-title">Businesses to get a one-stop portal</div>
-<div class="isomer-card-link">Read more about GoBusiness</div>
+<div class="isomer-card-link">Read more on TechNews</div>
 </div>
-</a><a rel="noopener noreferrer nofollow" href="https://www.tech.gov.sg/media/technews/simplifying-tax-experience-for-small-and-medium-enterprises" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Team discussion on how to simplify tax experiences for SMEs" src="/images/About Us/Simplifying_Business.jpg"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Simplifying tax experience for SMEs</div><div class="isomer-card-link">Read more about this initiative</div></div></a>
+</a><a rel="noopener noreferrer nofollow" href="https://www.tech.gov.sg/media/technews/simplifying-tax-experience-for-small-and-medium-enterprises" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Team discussion on how to simplify tax experiences for SMEs" src="/images/About Us/Simplifying_Business.jpg"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Simplifying tax experience for SMEs</div><div class="isomer-card-link">Read more on TechNews</div></div></a>
 </div>
 <p>Don't want to miss out on anything? Subscribe to our <a href="http://eepurl.com/cUwIsD" rel="noopener noreferrer nofollow" target="_blank">TechNews newsletter</a> to
 stay updated.</p>
