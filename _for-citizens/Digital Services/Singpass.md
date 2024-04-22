@@ -167,12 +167,12 @@ developer, engineer, or a technical enthusiast simply interested in the
 growth of Singpass, please refer to the <a href="https://www.developer.tech.gov.sg/products/categories/digital-identity/" rel="noopener noreferrer nofollow" target="_blank"><u>documentation on our digital identity</u></a> on
 the Singapore's Government Developer Portal.</p>
 <h3>Interested in finding out more about Singpass?</h3>
-<div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="https://www.singpass.gov.sg/main/" class="isomer-card"><div class="isomer-card-body"><div class="isomer-card-title">Visit the Singpass website to start registration</div><div class="isomer-card-link">Go to website</div></div></a>
+<div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="https://www.singpass.gov.sg/main/" class="isomer-card"><div class="isomer-card-body"><div class="isomer-card-title">Visit the Singpass website to start registration</div><div class="isomer-card-link">Go to Singpass website</div></div></a>
 <a rel="noopener noreferrer nofollow" href="http://eepurl.com/cUwIsD" class="isomer-card">
 <div class="isomer-card-body">
 <div class="isomer-card-title">Receive updates on Singpass by subscribing to our TechNews Newsletter</div>
-<div class="isomer-card-link">Join mailing list</div>
+<div class="isomer-card-link">Subscribe to TechNews</div>
 </div>
-</a><a rel="noopener noreferrer nofollow" href="http://eepurl.com/hsr131" class="isomer-card"><div class="isomer-card-body"><div class="isomer-card-title">Have suggestions on how to improve Singpass? Provide feedback as a Tech Kaki!</div><div class="isomer-card-link">Join community</div></div></a>
+</a><a rel="noopener noreferrer nofollow" href="http://eepurl.com/hsr131" class="isomer-card"><div class="isomer-card-body"><div class="isomer-card-title">Have suggestions on how to improve Singpass? Provide feedback as a Tech Kaki!</div><div class="isomer-card-link">Join Tech Kaki community</div></div></a>
 </div>
 <p></p>
