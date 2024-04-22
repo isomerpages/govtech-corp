@@ -7,7 +7,7 @@ description: Discover the importance of data science and AI in GovTech and how
   personalise.
 image: /images/Digital Gov Efforts/Data_and_AI.jpg
 ---
-<h3>Citizen-centric government services powered by data science and AI</h3>
+<h2>Citizen-centric government services powered by data science and AI</h2>
 <p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="AI and data-driven government by GovTech, banner image" src="/images/Digital Gov Efforts/AI_and_data_driven_government_banner.jpg">
@@ -49,8 +49,7 @@ and have a holistic overview of government digital services.</p>
 <img style="width: 100%" height="auto" width="100%" alt="WOGAA Product family and the different capabilities" src="/images/Digital Gov Efforts/WOGAA_infographic.jpg">
 </div>
 <p></p>
-<p><a href="/products-and-services/for-government-agencies/data-and-ai/wogaa/" rel="noopener noreferrer nofollow" target="_blank">Learn more about WOGAA</a>
-</p>
+<p><a href="/products-and-services/for-government-agencies/data-and-ai/wogaa/" rel="noopener noreferrer nofollow" target="_blank">Explore WOGAA</a>.</p>
 <h4>Personalise</h4>
 <div class="isomer-image-wrapper">
 <img style="width: 70%;" height="auto" width="100%" alt="Personalise logo" src="/images/Digital Gov Efforts/Personalise_logo_600x300.png">
@@ -67,6 +66,6 @@ outcomes.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="Personalise email campaign report page screenshot" src="/images/Digital Gov Efforts/Personalise_email_campaign_report_page.jpg">
 </div>
-<p><em>The Personalise email campaign report page</em>
+<p><em>The Personalise email campaign report page.</em>
 </p>
 <p><a href="https://www.developer.tech.gov.sg/products/categories/analytics/personalise/overview.html" rel="noopener noreferrer nofollow" target="_blank">Learn more about Personalise</a>.</p>
