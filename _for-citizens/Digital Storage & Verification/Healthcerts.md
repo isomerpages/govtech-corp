@@ -46,10 +46,10 @@ transmitted for an easy verification process by government officials.</p>
 </div>
 <h3>Interested to find out more about HealthCerts?</h3>
 <p></p>
-<div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="https://www.healthcerts.gov.sg/" class="isomer-card"><div class="isomer-card-body"><div class="isomer-card-title">Visit the HealthCerts website</div><div class="isomer-card-link">HealthCerts website</div></div></a>
+<div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="https://www.healthcerts.gov.sg/" class="isomer-card"><div class="isomer-card-body"><div class="isomer-card-title">Visit the HealthCerts website to learn how you can endorse your documents</div><div class="isomer-card-link">Go to HealthCerts website</div></div></a>
 <a rel="noopener noreferrer nofollow" href="http://eepurl.com/cUwIsD" class="isomer-card">
 <div class="isomer-card-body">
-<div class="isomer-card-title">Subscribe to the TechNews newsletter for updates</div>
+<div class="isomer-card-title">TechNews readers will be the first to receive updates on HealthCerts!</div>
 <div class="isomer-card-link">Subscribe to TechNews</div>
 </div>
 </a>
