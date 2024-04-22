@@ -66,12 +66,12 @@ vulnerable communities can navigate the platform with ease.</p>
 login via Singpass to get started.</p>
 <h3>Interested to find out more about MyCareersFuture?</h3>
 <p></p>
-<div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="http://eepurl.com/cUwIsD" class="isomer-card"><div class="isomer-card-body"><div class="isomer-card-title">Subscribe to the TechNews newsletter for updates</div><div class="isomer-card-link">Subscribe to TechNews</div></div></a>
+<div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="http://eepurl.com/cUwIsD" class="isomer-card"><div class="isomer-card-body"><div class="isomer-card-title">TechNews readers will be the first to receive updates on MyCareersFuture!</div><div class="isomer-card-link">Subscribe to TechNews</div></div></a>
 <a rel="noopener noreferrer nofollow" href="http://eepurl.com/hsr131" class="isomer-card">
 <div class="isomer-card-body">
-<div class="isomer-card-title">Join the Tech Kaki community to take part in feedback surveys and user
-testing sessions</div>
-<div class="isomer-card-link">Join Tech Kaki</div>
+<div class="isomer-card-title">Know how MyCareersFuture can improve? Become a Tech Kaki to share your
+ideas</div>
+<div class="isomer-card-link">Join Tech Kaki community</div>
 </div>
 </a>
 </div>
