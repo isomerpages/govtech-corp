@@ -6,10 +6,11 @@ description: How does GovTech’s cybersecurity capabilities centre safeguard ou
   nation? Read more about Singapore’s cybersecurity strategy here.
 image: /images/About Us/Our capabilities/Our_capabilities_cybersecurity_compressed.jpg
 ---
+<h2>The Cyber Security Group (CSG) is a capability centre that safeguards the government’s Information and Communications Technology &amp; Smart Systems.</h2>
+<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="GovTech capability centre for cybersecurity" src="/images/About Us/Our capabilities/capcentre_cybersecurity_banner.jpg">
 </div>
-<h2>The Cyber Security Group (CSG) is a capability centre that safeguards the government’s Information and Communications Technology &amp; Smart Systems.</h2>
 <h3>What we do</h3>
 <p>Our goal is to enable Singapore to be a safe and secure Smart Nation.
 We do this by driving a holistic and sustainable whole-of-government (WOG)
@@ -34,7 +35,6 @@ policy implementation for government projects.</div>
 </div>
 </div>
 </div>
-<p></p>
 <div class="isomer-card-grid">
 <div class="isomer-card">
 <div class="isomer-card-body">
