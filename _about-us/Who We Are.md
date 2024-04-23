@@ -25,7 +25,7 @@ related engineering technology.</p>
 <p></p>
 <div data-type="detailGroup" class="isomer-accordion isomer-accordion-white">
 <details class="isomer-details">
-<summary><strong>Tech for public good</strong>
+<summary><strong>Tech for Public Good</strong>
 </summary>
 <div data-type="detailsContent" class="isomer-details-content">
 <p>We build digital products and services that improve the lives of Singaporeans.
@@ -33,7 +33,7 @@ Some examples include SafeEntry, GatherSG and the <a href="/products-and-service
 </div>
 </details>
 <details class="isomer-details">
-<summary><strong>Smart nation initiative</strong>
+<summary><strong>Smart Nation Initiative</strong>
 </summary>
 <div data-type="detailsContent" class="isomer-details-content">
 <p>We serve with heart and play a key role in Singapore's smart nation initiative,
@@ -43,7 +43,7 @@ Group (SNDGG).</p>
 </div>
 </details>
 <details class="isomer-details">
-<summary><strong>Build smart cities</strong>
+<summary><strong>Build Smart Cities</strong>
 </summary>
 <div data-type="detailsContent" class="isomer-details-content">
 <p>We harness the latest smart city technologies to create better living
@@ -53,7 +53,7 @@ technologies such as the eCanvas for persons with disabilities.</p>
 </div>
 </details>
 <details class="isomer-details">
-<summary><strong>Sustainability and digital transformation</strong>
+<summary><strong>Sustainability and Digital Transformation</strong>
 </summary>
 <div data-type="detailsContent" class="isomer-details-content">
 <p>We drive innovation and digitalisation in the public sector to support
@@ -62,7 +62,7 @@ Singapore’s sustainability goals, like achieving net zero emissions by
 </div>
 </details>
 <details class="isomer-details">
-<summary><strong>Talent attraction</strong>
+<summary><strong>Talent Attraction</strong>
 </summary>
 <div data-type="detailsContent" class="isomer-details-content">
 <p>We are a tech powerhouse that supports the growth of tech and non-tech
