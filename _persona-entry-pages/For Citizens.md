@@ -31,16 +31,17 @@ curated to give you tech tips, behind-the-scenes stories and more.</p>
 </a><a rel="noopener noreferrer nofollow" href="/media/technews/tips-for-safe-online-shopping/" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Tips for safe online shopping" src="/images/About Us/Safe_Online_Shopping_info_card_3.jpg"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Tips for safe online shopping</div><div class="isomer-card-link">Read more on TechNews</div></div></a>
 </div>
 <p>Stay updated on the latest tech tips and GovTech news. Subscribe to our
-<a href="http://eepurl.com/cUwIsD" rel="noopener noreferrer nofollow" target="_blank">Technews newsletter</a>.</p>
+<a href="http://eepurl.com/cUwIsD" rel="noopener noreferrer nofollow" target="_blank">TechNews newsletter</a>.</p>
 <h3>Have your voice heard</h3>
-<h4>Be part of our Tech Kaki community</h4>
+<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 70%;" height="auto" width="100%" alt="Tech Kaki logo" src="/images/Get Involved/techkaki_logo__horizontal_.png">
+<img style="width: 100%" height="auto" width="100%" alt="Tech Kaki GovTech community" src="/images/Get Involved/Tech_kaki_1690x800.jpg">
 </div>
-<p>Join over 7,000 members to drive change in Singapore. By contributing
+<h4>Be part of our Tech Kaki community</h4>
+<p>Join over 6,000 members to drive change in Singapore. By contributing
 feedback, you’ll co-create digital products and services for citizens.</p>
-<p>Sign up via our <a href="http://eepurl.com/hsr131" rel="noopener noreferrer nofollow" target="_blank">Tech Kaki newsletter form</a>.</p>
-<p><a href="/get-involved/join-our-communities/tech-kaki/" rel="noopener noreferrer nofollow" target="_blank">Learn more about Tech Kaki</a>.</p>
+<p><a href="http://eepurl.com/hsr131" rel="noopener noreferrer nofollow" target="_blank">Become a Tech Kaki</a>.</p>
+<p>Want to know what else our community gets up to? <a href="/get-involved/join-our-communities/tech-kaki/" rel="noopener noreferrer nofollow" target="_blank">Read more about Tech Kaki</a>.</p>
 <h3>Behind the scenes at GovTech</h3>
 <h4>Our culture and values</h4>
 <p>Balance is the key to a positive culture at GovTech. We encourage this
@@ -95,12 +96,13 @@ reach our goals.</div>
 </div>
 </div>
 </div>
-<p><a href="/about-us/who-we-are/" rel="noopener noreferrer nofollow" target="_blank">Find out more about GovTech here</a>.</p>
+<p>Want to find out more about GovTech? Go to our <a href="/about-us/who-we-are/" rel="noopener noreferrer nofollow" target="_blank"><u>Who We Are</u></a> page and read more about
+our mission and what we do.</p>
 <h3>Hear from our GovTechies</h3>
 <p>What’s it like working at GovTech? Take a closer look at life in GovTech
 and how our teams innovate through articles that feature our very own GovTechies!</p>
-<p>Click on the links to read more:</p>
-<div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="/media/technews/international-womens-day-2023/" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="International Women’s Day: GovTechies talk about switching to tech careers" src="/images/About Us/Citizen_info_card_1.jpg"></div></div><div class="isomer-card-body"><div class="isomer-card-title">International Women’s Day: GovTechies talk about switching to tech careers</div><div class="isomer-card-link">Read more on TechNews</div></div></a>
+<p>Check out our specially curated TechNews stories below.</p>
+<div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="/media/technews/international-womens-day-2023/" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="International Women’s Day: GovTechies talk about switching to tech careers" src="/images/About Us/Citizen_info_card_1.jpg"></div></div><div class="isomer-card-body"><div class="isomer-card-title">GovTechies talk about switching to tech</div><div class="isomer-card-link">Read more on TechNews</div></div></a>
 <a rel="noopener noreferrer nofollow" href="/media/technews/a-day-in-the-life-of-a-data-scientist-in-tap/" class="isomer-card">
 <div class="isomer-card-image">
 <div class="isomer-image-wrapper">
@@ -108,10 +110,10 @@ and how our teams innovate through articles that feature our very own GovTechies
 </div>
 </div>
 <div class="isomer-card-body">
-<div class="isomer-card-title">A day in the life of a data scientist in the Technology Associate Programme</div>
+<div class="isomer-card-title">Life as a data scientist in TAP</div>
 <div class="isomer-card-link">Read more on TechNews</div>
 </div>
-</a><a rel="noopener noreferrer nofollow" href="/media/technews/tracetogether-behind-the-scenes-look-at-its-development-process" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="TraceTogether — behind the scenes look at its development process" src="/images/About Us/Citizen_info_card_3.jpg"></div></div><div class="isomer-card-body"><div class="isomer-card-title">TraceTogether — behind the scenes look at its development process</div><div class="isomer-card-link">Read more on TechNews</div></div></a>
+</a><a rel="noopener noreferrer nofollow" href="/media/technews/tracetogether-behind-the-scenes-look-at-its-development-process" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="TraceTogether — behind the scenes look at its development process" src="/images/About Us/Citizen_info_card_3.jpg"></div></div><div class="isomer-card-body"><div class="isomer-card-title">The development process of TraceTogether</div><div class="isomer-card-link">Read more on TechNews</div></div></a>
 <a rel="noopener noreferrer nofollow" href="/media/technews/women-in-cybersecurity/" class="isomer-card">
 <div class="isomer-card-image">
 <div class="isomer-image-wrapper">
@@ -119,10 +121,10 @@ and how our teams innovate through articles that feature our very own GovTechies
 </div>
 </div>
 <div class="isomer-card-body">
-<div class="isomer-card-title">Women in cybersecurity — GovTechies on life as cyber guardians</div>
+<div class="isomer-card-title">GovTechies on life as cyber guardians</div>
 <div class="isomer-card-link">Read more on TechNews</div>
 </div>
-</a><a rel="noopener noreferrer nofollow" href="/media/technews/making-the-leap/" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Making the leap: How one GovTechie switched careers to product design" src="/images/About Us/Citizen_info_card_5.jpg"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Making the leap: How one GovTechie switched careers to product design</div><div class="isomer-card-link">Read more on TechNews</div></div></a>
+</a><a rel="noopener noreferrer nofollow" href="/media/technews/making-the-leap/" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Making the leap: How one GovTechie switched careers to product design" src="/images/About Us/Citizen_info_card_5.jpg"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Switching careers to product design</div><div class="isomer-card-link">Read more on TechNews</div></div></a>
 <a rel="noopener noreferrer nofollow" href="/media/technews/today-is-world-programmers-day/" class="isomer-card">
 <div class="isomer-card-image">
 <div class="isomer-image-wrapper">
@@ -130,7 +132,7 @@ and how our teams innovate through articles that feature our very own GovTechies
 </div>
 </div>
 <div class="isomer-card-body">
-<div class="isomer-card-title">Today is World Programmer Day. Meet one of our own!</div>
+<div class="isomer-card-title">Meet one of our programmers at GovTech</div>
 <div class="isomer-card-link">Read more on TechNews</div>
 </div>
 </a>
