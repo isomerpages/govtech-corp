@@ -8,7 +8,7 @@ third_nav_title: Our Journey
 variant: tiptap
 image: /images/About Us/Our_story_meta_image_compressed.jpg
 ---
-<h2>GovTech's Story at a Glance</h2>
+<h2>GovTech's story at a glance</h2>
 <p>The founding of GovTech in 2016 was an important milestone in Singapore’s
 digital government transformation. Discover our journey and the important
 achievements we’ve reached to further the Smart Nation initiative.</p>
@@ -40,7 +40,7 @@ in emerging technologies.&nbsp;</p>
 Services (for Application Design, Development and Deployment), Cybersecurity,
 Sensors &amp; IoT, and Government ICT Infrastructure. Many of our products
 and services tap on the expertise of more than 1 capability centre.</p>
-<h3>Building the Foundations of a Smart Nation</h3>
+<h3>Building the foundations of a smart nation</h3>
 <p><strong>EP 3: The Singapore Government Tech Stack</strong>
 </p>
 <div class="iframe-wrapper">
