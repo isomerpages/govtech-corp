@@ -6,7 +6,7 @@ description: Get to know the leaders and heads of GovTech, who are at the
 variant: tiptap
 image: /images/About Us/GovTechSg_True_Inline_Logo_2_Cyan.jpg
 ---
-<h2>BOARD OF DIRECTORS</h2>
+<h2>Board of Directors</h2>
 <div class="isomer-card-grid">
 <div class="isomer-card">
 <div class="isomer-card-image">
@@ -209,7 +209,7 @@ EY</div>
 </div>
 </div>
 </div>
-<h3>SENIOR LEADERSHIP</h3>
+<h3>Senior leadership</h3>
 <div class="isomer-card-grid">
 <div class="isomer-card">
 <div class="isomer-card-image">
