@@ -117,7 +117,7 @@ and how our teams innovate through articles that feature our very own GovTechies
 <a rel="noopener noreferrer nofollow" href="/media/technews/women-in-cybersecurity/" class="isomer-card">
 <div class="isomer-card-image">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Women in cybersecurity — GovTechies on life as cyber guardians" src="/images/About Us/Citizen_info_card_4.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="Women in cybersecurity — GovTechies on life as cyber guardians" src="/images/About Us/Women_in_cybersecurity_600x400.png">
 </div>
 </div>
 <div class="isomer-card-body">
@@ -128,7 +128,7 @@ and how our teams innovate through articles that feature our very own GovTechies
 <a rel="noopener noreferrer nofollow" href="/media/technews/today-is-world-programmers-day/" class="isomer-card">
 <div class="isomer-card-image">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Today is World Programmer Day. Meet one of our own!" src="/images/About Us/Citizen_info_card_6.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="Today is World Programmer Day. Meet one of our own!" src="/images/About Us/World_programmer_day_card.png">
 </div>
 </div>
 <div class="isomer-card-body">
