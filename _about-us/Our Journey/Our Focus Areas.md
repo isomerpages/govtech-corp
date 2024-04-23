@@ -77,7 +77,7 @@ the unique experiences of persons with disabilities (PwDs) and seniors.</p>
 </div>
 <p><em>An A11y Week participant learning about screen reader accessibility at the A11y Tic Tac Toe booth. The game is modified to be playable only through keyboard navigation and listening to screen reader cues.</em>
 </p>
-<p><strong>Want to learn more about our A11y Team? </strong>
+<p><strong>Want to learn more about our A11y Team?</strong>
 </p>
 <p>Check out what our GovTechies got up to during <a href="/media/technews/this-national-day-lets-work-towards-a-more-digitally-inclusive-singapore/" class="waffle-rich-text-link" rel="noopener noreferrer nofollow" target="_blank"><u>A11y Week 2023</u></a> —
 a learning festival for all public officers in Singapore that aims to foster
