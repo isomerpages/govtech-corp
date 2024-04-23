@@ -77,8 +77,12 @@ the unique experiences of persons with disabilities (PwDs) and seniors.</p>
 </div>
 <p><em>An A11y Week participant learning about screen reader accessibility at the A11y Tic Tac Toe booth. The game is modified to be playable only through keyboard navigation and listening to screen reader cues.</em>
 </p>
-<p>To learn more about the work of the A11y team, read this: <a href="https://www.tech.gov.sg/media/technews/this-national-day-lets-work-towards-a-more-digitally-inclusive-singapore" rel="noopener noreferrer nofollow" target="_blank">This National Day, let’s work towards a more digitally inclusive Singapore</a>
+<p><strong>Want to learn more about our A11y Team? </strong>
 </p>
+<p>Check out what our GovTechies got up to during <a href="/media/technews/this-national-day-lets-work-towards-a-more-digitally-inclusive-singapore/" class="waffle-rich-text-link" rel="noopener noreferrer nofollow" target="_blank"><u>A11y Week 2023</u></a> —
+a learning festival for all public officers in Singapore that aims to foster
+an understanding and appreciation of accessible and inclusive design in
+digital services.</p>
 <h4>GovTech x The Purple Parade</h4>
 <p></p>
 <div class="instagram-wrapper">
@@ -97,19 +101,13 @@ how they celebrate all abilities as we raised funds for their cause.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="Women in GovTech group photo" src="/images/About Us/GovTech_women_group_photo.jpg">
 </div>
-<p>Through our Employee Resource Group and <a href="/women-in-govtech/" rel="noopener noreferrer nofollow" target="_blank">Girls in Tech Summer Mentorship Programme</a>,
-we work to attract, develop and retain female talent.</p>
-<ul data-tight="true" class="tight">
-<li>
-<p>Click <a href="/our-digital-government-efforts/diversity-and-inclusion/" rel="noopener noreferrer nofollow" target="_blank">here</a> to
-learn more about our diversity and inclusion efforts or how we support
-<a href="https://www.tech.gov.sg/media/technews/supporting-women-in-govtech-beyond-international-womens-day" rel="noopener noreferrer nofollow" target="_blank">Women in (Gov)Tech beyond International Women's Day</a>.</p>
-</li>
-<li>
-<p>Check out this TechNews article of a participant sharing her experience
-in the <a href="/media/technews/empowering-girls-in-tech-govtech-summer-mentorship/" rel="noopener noreferrer nofollow" target="_blank">Girls in Tech Summer Mentorship programme</a>.</p>
-</li>
-</ul>
+<p>As the lead technology agency in the public service, GovTech strives to
+foster an inclusive workplace by also supporting women in tech through
+a myriad of <a href="/media/technews/supporting-women-in-govtech-beyond-international-womens-day/" class="waffle-rich-text-link" rel="noopener noreferrer nofollow" target="_blank"><u>women-focused initiatives</u></a>.</p>
+<p>One of these initiatives include our <a href="/women-in-govtech/" class="waffle-rich-text-link" rel="noopener noreferrer nofollow" target="_blank"><u>Employee Resource Group for Women</u></a><u> </u>to
+help us attract, develop and retain female talent. Beyond that, our <a href="/media/technews/empowering-girls-in-tech-govtech-summer-mentorship/" class="waffle-rich-text-link" rel="noopener noreferrer nofollow" target="_blank"><u>Girls in Tech Summer Mentorship Programme</u></a> is
+a three-month mentorship programme that aims to inspire and encourage young
+female talents to explore and pursue careers in technology.</p>
 <h3>Our efforts in Consumer Social Responsibility</h3>
 <p></p>
 <div class="instagram-wrapper">
