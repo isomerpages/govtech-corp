@@ -71,7 +71,8 @@ safe distancing work to curb the spread of COVID-19 during the pandemic.</div>
 </div>
 </a><a rel="noopener noreferrer nofollow" href="https://www.tech.gov.sg/media/technews/how-ai-and-a-camera-phone-help-keep-food-on-our-tables" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Rotifer-Counting AI developed by GovTech in collaboration with SFA" src="/images/About Us/Rotifer_counting_ai_600x400.png"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Rotifer-Counting AI</div><div class="isomer-card-description">To boost our local food production, the Singapore Food Agency collaborated with GovTech to create more efficient fish farming processes through AI.</div><div class="isomer-card-link">Read more on TechNews</div></div></a>
 </div>
-<p>Learn more about <a href="/products-and-services/collaborate-with-us/industry-collaboration/" rel="noopener noreferrer nofollow" target="_blank">industry collaborations with GovTech</a>.</p>
+<p>Learn more about our <a href="/products-and-services/collaborate-with-us/government-collaboration/" rel="noopener noreferrer nofollow" target="_blank"><u>government collaborations</u></a> with
+various agencies.</p>
 <p>Interested to collaborate with GovTech on a project? You can reach out
 to the respective product teams within GovTech or send an email to our
 general contact <a href="mailto:info@tech.gov.sg" rel="noopener noreferrer nofollow" target="_blank">info@tech.gov.sg</a>
