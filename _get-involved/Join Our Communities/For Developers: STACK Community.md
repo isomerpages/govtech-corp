@@ -90,13 +90,12 @@ for this conference by becoming our community member today!</p>
 <img style="width: 70%;" height="auto" width="100%" alt="STACK Community logo" src="/images/Get Involved/STACK_Community_by_GovTech_Logo.png">
 </div>
 <h3>Connect with us</h3>
-<div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="https://www.meetup.com/stack-by-govtech-singapore/" class="isomer-card"><div class="isomer-card-body"><div class="isomer-card-title">Join STACK community</div><div class="isomer-card-description">Be part of our growing tech community and engage with other like-minded techies.</div><div class="isomer-card-link">Sign up now</div></div></a>
+<div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="https://www.meetup.com/stack-by-govtech-singapore/" class="isomer-card"><div class="isomer-card-body"><div class="isomer-card-title">Want to grow your professional network?</div><div class="isomer-card-description">Be part of our growing tech community and mingle with other like-minded professionals.</div><div class="isomer-card-link">Join STACK community</div></div></a>
 <a rel="noopener noreferrer nofollow" href="https://go.gov.sg/stacktelegram" class="isomer-card">
 <div class="isomer-card-body">
-<div class="isomer-card-title">Stay updated via our Telegram channel</div>
-<div class="isomer-card-description">Stay in touch with us and get the latest news on upcoming STACK Community
-events.</div>
-<div class="isomer-card-link">Join group</div>
+<div class="isomer-card-title">Stay updated on Telegram</div>
+<div class="isomer-card-description">Be notified of upcoming events when you join our Telegram group.</div>
+<div class="isomer-card-link">Join STACK Telegram</div>
 </div>
 </a>
 </div>
