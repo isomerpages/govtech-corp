@@ -102,7 +102,7 @@ insights, lessons from their time in GovTech and product development journeys.</
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Young Talents @ GovTech</p>
+<p>Young Talents @GovTech</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="https://medium.com/ytpo-govtech" rel="noopener noreferrer nofollow" target="_blank">https://medium.com/ytpo-govtech</a>
