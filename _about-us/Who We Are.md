@@ -36,7 +36,7 @@ Some examples include SafeEntry, GatherSG and the <a href="/products-and-service
 <summary><strong>Smart nation initiative</strong>
 </summary>
 <div data-type="detailsContent" class="isomer-details-content">
-<p>We serve with heart and play a key role in Singapore's Smart Nation initiative,
+<p>We serve with heart and play a key role in Singapore's smart nation initiative,
 as the implementing arm of PMO's Smart Nation and Digital Government Office
 (SNDGO) — collectively known as the Smart Nation and Digital Government
 Group (SNDGG).</p>
