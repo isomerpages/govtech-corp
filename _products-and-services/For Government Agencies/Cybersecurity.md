@@ -60,7 +60,7 @@ necessary. Learn more about its work in the <a href="/files/products-and-service
 </div>
 </details>
 </div>
-<h3>Interested to find out more about GCSOC?</h3>
+<h3>Interested to find out more about our cybersecurity efforts?</h3>
 <div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="/our-capabilities/cybersecurity/" class="isomer-card"><div class="isomer-card-body"><div class="isomer-card-title">Discover our cybersecurity capabilities</div><div class="isomer-card-link">Learn more</div></div></a>
 <a rel="noopener noreferrer nofollow" href="mailto:info@tech.gov.sg" class="isomer-card">
 <div class="isomer-card-body">
