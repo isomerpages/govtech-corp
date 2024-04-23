@@ -22,11 +22,11 @@ Ask Wally on the Public Utilities Board's website and more. Government
 agencies can fully customise these personas and include key information
 resources on the chatbot's landing page.</p>
 <p></p>
-<div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="https://www.pub.gov.sg/" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Ask Wally avatar" src="/images/Products and Services/For Government Agencies/Ask_Wally.png"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Ask Wally</div><div class="isomer-card-link">Ask on PUB website</div></div></a>
+<div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="https://www.pub.gov.sg/" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Ask Wally avatar" src="/images/Products and Services/For Government Agencies/Ask_Wally_colour.png"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Ask Wally</div><div class="isomer-card-link">Ask on PUB website</div></div></a>
 <a rel="noopener noreferrer nofollow" href="https://www.nea.gov.sg/" class="isomer-card">
 <div class="isomer-card-image">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Captain Green avatar" src="/images/Products and Services/For Government Agencies/Captain_Green.png">
+<img style="width: 100%" height="auto" width="100%" alt="Captain Green avatar" src="/images/Products and Services/For Government Agencies/Captain_Green_colour.png">
 </div>
 </div>
 <div class="isomer-card-body">
@@ -35,11 +35,11 @@ resources on the chatbot's landing page.</p>
 </div>
 </a>
 </div>
-<div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="https://www.hdb.gov.sg/cs/infoweb/homepage" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Ask HDB avatar" src="/images/Products and Services/For Government Agencies/Ask_HDB.png"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Ask HDB</div><div class="isomer-card-link">Ask on HDB website</div></div></a>
+<div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="https://www.hdb.gov.sg/cs/infoweb/homepage" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Ask HDB avatar" src="/images/Products and Services/For Government Agencies/Ask_HDB_colour.png"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Ask HDB</div><div class="isomer-card-link">Ask on HDB website</div></div></a>
 <a rel="noopener noreferrer nofollow" href="https://www.tech.gov.sg/" class="isomer-card">
 <div class="isomer-card-image">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Gayle avatar" src="/images/Products and Services/For Government Agencies/Ask_Gayle.png">
+<img style="width: 100%" height="auto" width="100%" alt="Gayle avatar" src="/images/Products and Services/For Government Agencies/Ask_Gayle_colour.png">
 </div>
 </div>
 <div class="isomer-card-body">
