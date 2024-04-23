@@ -33,7 +33,7 @@ them and reap the benefits!</p>
 <div class="isomer-card-description">Wherever you are, you can check your work schedule with CalSync.</div>
 </div>
 </div><a rel="noopener noreferrer nofollow" href="https://postman.gov.sg/" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Send personalised messages through Digital Workplace's Postman." src="/images/Products and Services/For Government Agencies/Postman.png"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Send messages with ease</div><div class="isomer-card-description">With Postman, you can send multi-channel, personalised messages in bulk with minimal setup.</div><div class="isomer-card-link">Go to Postman website</div></div></a>
-<a rel="noopener noreferrer nofollow" href="https://form.gov.sg/" class="isomer-card">
+<a rel="noopener noreferrer nofollow" href="/products-and-services/for-government-agencies/productivity-and-marketing/formsg/" class="isomer-card">
 <div class="isomer-card-image">
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="Through Digital Workplace, you can create government forms with FormSG." src="/images/Products and Services/For Government Agencies/FormSG.png">
@@ -42,7 +42,7 @@ them and reap the benefits!</p>
 <div class="isomer-card-body">
 <div class="isomer-card-title">Collect data quickly and securely</div>
 <div class="isomer-card-description">Easily create government forms with FormSG, and gather on-the-ground insights.</div>
-<div class="isomer-card-link">Go to FormSG website</div>
+<div class="isomer-card-link">Explore FormSG</div>
 </div>
 </a>
 </div>
