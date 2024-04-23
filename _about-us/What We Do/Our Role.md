@@ -34,7 +34,7 @@ through products like Singpass.&nbsp;</p>
 to support the Smart Nation initiative.</p>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="GovTech in Singapore Digital Government Blueprint 2.0" src="/images/About Us/our_role_infographic.jpg">
+<img style="width: 80%;" height="auto" width="100%" alt="GovTech in Singapore Digital Government Blueprint 2.0" src="/images/About Us/our_role_infographic.jpg">
 </div>
 <h3>Our key areas of work</h3>
 <p>GovTech is a key driver in digital transformation. We create impactful
