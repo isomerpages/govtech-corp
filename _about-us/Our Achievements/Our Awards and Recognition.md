@@ -207,7 +207,8 @@ in Sustainable Growth/Circular Economy Waste Management (2021)</p>
 </tr>
 </tbody>
 </table>
-<h3>Explore collaboration opportunities with us</h3>
-<p>Interested in collaborating with us on a digital product or service? Let’s
-explore ways to work together.</p>
-<p>Reach out to us <a href="/products-and-services/collaborate-with-us/overview/" rel="noopener noreferrer nofollow" target="_blank">here</a>!</p>
+<h3>Explore collaboration opportunities</h3>
+<p></p>
+<div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="/products-and-services/collaborate-with-us/overview/" class="isomer-card"><div class="isomer-card-body"><div class="isomer-card-title">Interested in collaborating with us?</div><div class="isomer-card-description">Let’s explore ways to work together on a digital product or service.</div><div class="isomer-card-link">Learn more</div></div></a>
+</div>
+<p></p>
