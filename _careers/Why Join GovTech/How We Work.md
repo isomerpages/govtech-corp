@@ -224,7 +224,7 @@ formed as a result.</p>
 <div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="/careers/opportunities-for-professionals/overview/" class="isomer-card"><div class="isomer-card-body"><div class="isomer-card-title">Are you a professional? Check out the job opportunities</div><div class="isomer-card-link">Apply for a GovTech job</div></div></a>
 <a rel="noopener noreferrer nofollow" href="/careers/students-and-graduates/overview/" class="isomer-card">
 <div class="isomer-card-body">
-<div class="isomer-card-title">Are you a student or graduate? Jumpstart your career today with an internship</div>
+<div class="isomer-card-title">Are you a student or graduate? Jumpstart your career today with GovTech</div>
 <div class="isomer-card-link">See GovTech's programmes</div>
 </div>
 </a>
