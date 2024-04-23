@@ -7,10 +7,11 @@ description: Singapore’s Smart City vision is realised by the Smart City
   Platform. Learn more!
 image: /images/About Us/Our capabilities/Smart_city_technologies_meta_image.jpg
 ---
+<h2>A capability centre that designs, builds and implements a government-wide Internet of Things (IoT) infrastructure for Smart City applications.</h2>
+<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="GovTech Capability Centre for Smart City Technology" src="/images/About Us/Our capabilities/Smart_City_Tech_1690x800.jpg">
 </div>
-<h2>A capability centre that designs, builds and implements a government-wide Internet of Things (IoT) infrastructure for Smart City applications.</h2>
 <h3>What we do</h3>
 <p>The Smart City Technology (SCTD) division brings together the technologies,
 capabilities and products to enable Singapore’s Smart City vision. Formerly
