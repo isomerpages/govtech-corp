@@ -61,7 +61,6 @@ digital transformation!"</p>
 we had developed was simple and straightforward to use.</p>
 </blockquote>
 <p>~ Varshini, DSAID Intern</p>
-<p></p>
 <p>Check out the <a href="https://medium.com/ytpo-govtech" rel="noopener noreferrer nofollow" target="_blank">Young Talents @GovTech Medium blog</a> for
 more testimonials and sharing from past interns.</p>
 <h3>How can you apply?</h3>
@@ -94,12 +93,12 @@ our internship applications.</p>
 <img style="width: 100%" height="auto" width="100%" alt="Post-application process for a role or project at GovTech" src="/images/careers/post_application_process.png">
 </div>
 <h3>Begin your GovTech journey today!</h3>
-<div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="https://careers.tech.gov.sg/careers/talentcommunity" class="isomer-card"><div class="isomer-card-body"><div class="isomer-card-title">Join our GovTech Talent Community and receive the latest news</div><div class="isomer-card-link">Join our community</div></div></a>
-<a rel="noopener noreferrer nofollow" href="https://careers.tech.gov.sg/careers/Home" class="isomer-card">
+<div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="https://go.gov.sg/GovTechInternshipProjects2024" class="isomer-card"><div class="isomer-card-body"><div class="isomer-card-title">Check out the available roles at GovTech</div><div class="isomer-card-link">See GovTech's internships</div></div></a>
+<a rel="noopener noreferrer nofollow" href="https://www.careers.gov.sg/" class="isomer-card">
 <div class="isomer-card-body">
-<div class="isomer-card-title">Ready to apply? Check out our opportunities</div>
-<div class="isomer-card-link">See GovTech's internships</div>
+<div class="isomer-card-title">Ready to apply? Submit your application</div>
+<div class="isomer-card-link">Go to Careers@Gov website</div>
 </div>
-</a><a rel="noopener noreferrer nofollow" href="mailto:AreYouIT@tech.gov.sg" class="isomer-card"><div class="isomer-card-body"><div class="isomer-card-title">Have an enquiry? Reach out to us directly</div><div class="isomer-card-link">AreYouIT@tech.gov.sg</div></div></a>
+</a><a rel="noopener noreferrer nofollow" href="https://go.gov.sg/GovTech2024Internships" class="isomer-card"><div class="isomer-card-body"><div class="isomer-card-title">Already applied? Tell us your preferred roles and projects</div><div class="isomer-card-link">Go to form</div></div></a>
 </div>
 <p></p>
