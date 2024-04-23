@@ -106,8 +106,9 @@ and GALE.</p>
 <a href="/files/IB2023_Towards_the_Next_Bound_of_Digital_Government_GovTech_CE.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>Towards the Next Bound of Digital Government report</u> 
 </a>. For a full list of current opportunities and open tenders, visit <a href="https://www.gebiz.gov.sg/" rel="noopener noreferrer nofollow" target="_blank"><u>GeBIZ</u></a>.</p>
 <h3>How to start collaborating with GovTech?</h3>
-<div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="mailto:govtech_sipeo@tech.gov.sg" class="isomer-card"><div class="isomer-card-body"><div class="isomer-card-title">Have an enquiry or a proactive proposal that will enrich our Smart Nation efforts? Reach out to us</div><div class="isomer-card-link">govtech_sipeo@tech.gov.sg</div></div></a>
-</div>
+<p>Have an enquiry or a proactive proposal that will drive our Smart Nation
+efforts? Reach out to us at <a href="mailto:govtech_sipeo@tech.gov.sg" rel="noopener noreferrer nofollow" target="_blank"><u>govtech_sipeo@tech.gov.sg</u></a><u>.</u>
+</p>
 <h3>Event collaborations</h3>
 <p>At GovTech, we believe that public-private events will help spur the generation
 of new ideas, which are the precursors to truly innovative solutions. Here
