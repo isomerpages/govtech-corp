@@ -137,7 +137,8 @@ and how our teams innovate through articles that feature our very own GovTechies
 </div>
 </a>
 </div>
-<p>Curious about a GovTech career? <a href="/careers/why-join-govtech/overview/" rel="noopener noreferrer nofollow" target="_blank">Explore career opportunities and join GovTech</a>.</p>
+<p>Curious about a GovTech career? <a href="/careers/why-join-govtech/overview/" rel="noopener noreferrer nofollow" target="_blank"><u>Explore career opportunities</u></a> and
+become a GovTechie!</p>
 <h3>Find the right tools for you</h3>
 <p>We aim to make life better for citizens through tech. Explore our products
 and services, and find the right tools for your needs.</p>
