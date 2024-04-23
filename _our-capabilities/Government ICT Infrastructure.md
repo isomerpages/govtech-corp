@@ -8,7 +8,7 @@ description: Discover the capability centre that leads the Singapore
 image: /images/About Us/Our
   capabilities/our_capabilities_government_ict_infrastructure_compressed.jpg
 ---
-<h2>This capability centre develops centralised info-communications technology (ICT) infrastructure for the whole-of-government (WOG).</h2>
+<h2>Developing centralised info-communications technology (ICT) infrastructure for the whole-of-government (WOG)</h2>
 <p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="GovTech capability centre for government ICT infrastructure" src="/images/About Us/Our capabilities/Government_ICT_Infrastructure_GovTech_banner_image.jpg">
