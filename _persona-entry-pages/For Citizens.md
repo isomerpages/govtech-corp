@@ -16,7 +16,8 @@ image: /images/About Us/For_citizens.jpg
 curated to give you tech tips, behind-the-scenes stories and more.</p>
 <h3>Our picks for you</h3>
 <h4>What’s trending in TechNews!</h4>
-<div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="/media/technews/top-five-scams-in-singapore-and-how-to-protect-yourself/" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Protect yourself from the top 5 scams in Singapore" src="/images/About Us/Scams_info_card_1.jpg"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Protect yourself from the top 5 scams in Singapore</div><div class="isomer-card-link">Read more on TechNews</div></div></a>
+<p>Stay on top of all things tech with the latest news and tips by GovTech.</p>
+<div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="/media/technews/top-five-scams-in-singapore-and-how-to-protect-yourself/" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Protect yourself from the top 5 scams in Singapore" src="/images/About Us/Scams_info_card_1.jpg"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Protect yourself from the top 5 scams</div><div class="isomer-card-link">Read more on TechNews</div></div></a>
 <a rel="noopener noreferrer nofollow" href="/media/technews/generative-ai-where-can-it-go-wrong/" class="isomer-card">
 <div class="isomer-card-image">
 <div class="isomer-image-wrapper">
