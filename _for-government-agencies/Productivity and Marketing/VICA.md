@@ -109,8 +109,8 @@ Custom Dialogue.</p>
 </summary>
 <div data-type="detailsContent" class="isomer-details-content">
 <p>Users can now select either the Chinese, Malay or Tamil language from
-the drop-down box.Translation services are powered by Google, and are currently
-available for text and HTML response type.</p>
+the drop-down box. Translation services are powered by Google, and are
+currently available for text and HTML response type.</p>
 </div>
 </details>
 </div>
