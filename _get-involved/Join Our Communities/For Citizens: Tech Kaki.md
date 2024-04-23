@@ -79,7 +79,7 @@ of our Tech Kaki community and share more about their contributions.</div>
 <div class="isomer-card-title">Stay updated on social media</div>
 <div class="isomer-card-description">Keep up to date with Tech Kaki happenings when you join our community
 on Facebook.</div>
-<div class="isomer-card-link">Follow us on Facebook</div>
+<div class="isomer-card-link">Join Tech Kaki community</div>
 </div>
 </a>
 </div>
