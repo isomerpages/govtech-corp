@@ -8,7 +8,7 @@ description: Learn about application development for government digital services
 image: /images/About Us/Our
   capabilities/Application_Design_Development_and_Deployment_compressed.jpg
 ---
-<h2>One of five capabilities centres, Application Design, Development and Deployment focuses on delivering citizen-centric solutions.</h2>
+<h2>Focusing on delivering citizen-centric solutions that improve lives</h2>
 <p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="GovTech capability centre for Application Design, Development and Deployment" src="/images/About Us/Our capabilities/capcentre_gds_banner__compressed_.jpg">
