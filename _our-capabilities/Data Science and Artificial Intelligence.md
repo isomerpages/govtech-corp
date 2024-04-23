@@ -70,6 +70,7 @@ control system.</div>
 <div class="isomer-card-title">Development of data-driven products</div>
 <div class="isomer-card-description">We develop and deploy products for WOG, such as a central and secure data
 exploitation platform.</div>
+<div class="isomer-card-description"></div>
 </div>
 </div>
 </div>
