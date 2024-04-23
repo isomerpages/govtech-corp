@@ -8,7 +8,7 @@ description: GovTech uses data science and AI to create Tech for Public Good and
 image: /images/About Us/Our
   capabilities/Our_capabilities_data_science_and_ai_compressed.jpg
 ---
-<h2>A capability centre that uses data-driven insights and decision-making to formulate effective policies and deliver citizen-centric services.</h2>
+<h2>Using data-driven insights to formulate effective policies and deliver citizen-centric services</h2>
 <p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="GovTech capability centre for Data Science and Artificial Intelligence (AI)" src="/images/About Us/Our capabilities/capcentre_dsaid_banner__compressed_.jpg">
@@ -70,7 +70,6 @@ control system.</div>
 <div class="isomer-card-title">Development of data-driven products</div>
 <div class="isomer-card-description">We develop and deploy products for WOG, such as a central and secure data
 exploitation platform.</div>
-<div class="isomer-card-description"></div>
 </div>
 </div>
 </div>
