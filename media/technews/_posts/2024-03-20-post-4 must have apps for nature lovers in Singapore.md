@@ -33,7 +33,7 @@ your knowledge about Singapore’s greenery.</p>
 <p>Bring nature nearer with NParks Explore A Route</p>
 </li>
 <li>
-<p>Be prepared for the weather with MyENV</p>
+<p>Be prepared for the weather with myENV</p>
 </li>
 </ol>
 <h3>1. Learn about the green giants around you with TreesSG</h3>
@@ -94,16 +94,16 @@ that you spot along the way.</p>
 <p>If you can’t access the app, you can still access information on the park
 connector networks and trails on NParks’&nbsp;<a href="https://pcn.nparks.gov.sg/aboutrecreationalconnectivity/" class="editor-rtfLink" rel="noopener noreferrer nofollow" target="_blank">website.</a>
 </p>
-<h3>4. Be prepared for the weather with MyENV</h3>
+<h3>4. Be prepared for the weather with myENV</h3>
 <p>Going out to experience nature means leaving the comfort of the indoors
 – and facing the elements. Whether you’re walking along the Rail Corridor,
-hiking up Bukit Timah Hill, or just picnicking at Coney Island, MyEnv will
+hiking up Bukit Timah Hill, or just picnicking at Coney Island, myEnv will
 be a useful companion to download on your phone!</p>
-<p>Most people know MyENV for providing accurate and up-to-date data on the
+<p>Most people know myENV for providing accurate and up-to-date data on the
 weather, but of course, it’s more than that. The app also gives you information
 about dengue hot spots, air quality, water levels, floods, food hygiene,
 and where to recycle your waste.</p>
-<p>Download MyEnv&nbsp;<a href="https://www.smartnation.gov.sg/initiatives/urban-living/myenv-app/" class="editor-rtfLink" rel="noopener noreferrer nofollow" target="_blank">here.</a>
+<p>Download myEnv&nbsp;<a href="https://www.smartnation.gov.sg/initiatives/urban-living/myenv-app/" class="editor-rtfLink" rel="noopener noreferrer nofollow" target="_blank">here.</a>
 </p>
 <h3>Embrace the great outdoors</h3>
 <p>Yes, there is a certain irony in using tech to encourage us to embrace
