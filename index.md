@@ -22,7 +22,7 @@ sections:
         - title: For Vendors
           description: Partnership opportunities
           url: /for-vendors
-        - title: For Public Officers
+        - title: For Government Agencies
           description: Productivity and collaboration
           url: /for-government-agencies
       variant: image
