@@ -101,7 +101,7 @@ thus ensuring integrity.</div>
 <h3>How to use Singpass APIs?</h3>
 <ul>
 <li>
-<p>Visit the<a href="https://api.singpass.gov.sg/" rel="noopener noreferrer nofollow" target="_blank"> <u>Singpass API website</u></a> and
+<p>Visit the <a href="https://api.singpass.gov.sg/" rel="noopener noreferrer nofollow" target="_blank"><u>Singpass API website</u></a> and
 browse available APIs.</p>
 </li>
 <li>
