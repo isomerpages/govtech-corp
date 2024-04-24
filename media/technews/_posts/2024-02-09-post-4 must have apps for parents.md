@@ -30,7 +30,7 @@ truly matters - spending quality time together!</p>
 <p>MyMoneySense</p>
 </li>
 <li>
-<p>MyENV</p>
+<p>myENV</p>
 </li>
 <li>
 <p>NLBMobile</p>
@@ -95,7 +95,7 @@ crunch out an ‘emergency fund ratio’ to see whether you have enough cash
 in the case of a loss of income.</p>
 <p>Try&nbsp;<a href="https://www.mymoneysense.gov.sg/" class="editor-rtfLink" rel="noopener noreferrer nofollow" target="_blank">MyMoneySense out here.</a>
 </p>
-<h3>3. Keep your family safe with MyENV</h3>
+<h3>3. Keep your family safe with myENV</h3>
 <p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="Plan your activities ahead with myENV to check for weather forecasts and updates." src="/images/technews/new_myenv_app_layout.jpg">
@@ -103,24 +103,23 @@ in the case of a loss of income.</p>
 <p>With the haze making its rounds in Singapore again these days, it might
 be a good idea to be updated on air quality often. Particularly if the
 family is heading out for a hike or a picnic.</p>
-<p>That’s where the MyENV comes in. One of its most popular features is the
+<p>That’s where the myENV comes in. One of its most popular features is the
 alerts function, with 200,000 subscriptions for the air quality 24-hour
 PSI alert.</p>
-<p>Of course, it’s more than just a glorified weather app. MyEnv can also
-give you updates about dengue hot spots (still a major issue in Singapore),
-water levels, floods, water disruptions, hawker centres, food hygiene,
-and recycling.</p>
+<p>Of course, it’s more than just a glorified weather app. The app, myENV,
+can also give you updates about dengue hot spots (still a major issue in
+Singapore), water levels, floods, water disruptions, hawker centres, food
+hygiene, and recycling.</p>
 <p>If you want something more customised, you can even bookmark locations
 such as your home, office or your child’s child care centre (or your parent’s
 nursing home) to stay on top of any hazards that appear there!</p>
-<p>Download MyEnv&nbsp;<a href="https://www.smartnation.gov.sg/initiatives/urban-living/myenv-app/" class="editor-rtfLink" rel="noopener noreferrer nofollow" target="_blank">here.</a>
+<p>Download myENV&nbsp;<a href="https://www.smartnation.gov.sg/initiatives/urban-living/myenv-app/" class="editor-rtfLink" rel="noopener noreferrer nofollow" target="_blank">here.</a>
 </p>
 <h3>4. Learn as a family with NLBMobile</h3>
 <p></p>
 <div class="iframe-wrapper">
 <iframe style="max-width: 100%;" height="400" width="100%" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/47FBXNAUNUI?si=Uzi2GPF--jzRkxvW"></iframe>
 </div>
-<p></p>
 <p>If you’re looking for a way to bond with your child, reading with them
 should be at the top of the list.</p>
 <p>You see, reading to children is an intimate ritual that weaves bonds of
@@ -158,7 +157,7 @@ view, making tracking easier. Additionally, as kids transition between
 academic stages, Parents Gateway provides resources to support parents
 during these times. It also houses a collection of parenting tips, from
 cyber wellness pointers to activity suggestions.</p>
-<p>ParentsGateway is downloadable&nbsp;<a href="https://pg.moe.edu.sg/" class="editor-rtfLink" rel="noopener noreferrer nofollow" target="_blank">here.</a>
+<p>Parents Gateway is downloadable&nbsp;<a href="https://pg.moe.edu.sg/" class="editor-rtfLink" rel="noopener noreferrer nofollow" target="_blank">here.</a>
 </p>
 <p></p>
 <div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="http://eepurl.com/cUwIsD" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Subscribe to the TechNews email newsletter" src="/images/technews/TN_banner.jpg"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Subscribe to the TechNews email newsletter</div><div class="isomer-card-link">TechNews</div></div></a>
