@@ -46,8 +46,7 @@ junior college</p>
 </summary>
 <div data-type="detailsContent" class="isomer-details-content">
 <p><a href="/empowering-girls-in-tech-govtech-summer-mentorship/" rel="noopener noreferrer nofollow" target="_blank">Empowering Girls in Tech: GovTech's Summer Mentorship</a>
-</p>
-<p></p><a class="isomer-image-wrapper" href="/empowering-girls-in-tech-govtech-summer-mentorship/"><img style="width: 100%" height="auto" width="100%" alt="Girls in Tech Summer Mentorship Programme participant sharing her experience at GovTech" src="/images/technews/empowering_girls_in_tech_summer_internship_compressed.jpg"></a>
+</p><a class="isomer-image-wrapper" href="/empowering-girls-in-tech-govtech-summer-mentorship/"><img style="width: 100%" height="auto" width="100%" alt="Girls in Tech Summer Mentorship Programme participant sharing her experience at GovTech" src="/images/technews/empowering_girls_in_tech_summer_internship_compressed.jpg"></a>
 </div>
 </details>
 </div>
