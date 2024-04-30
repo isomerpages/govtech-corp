@@ -176,27 +176,4 @@ of the roles mentioned above, please do! Here are the links:</p>
 </li>
 </ul>
 <p>(Sorry, no drone operators)</p>
-<h4><strong>Related Content</strong></h4>
-<ul data-tight="true" class="tight">
-<li>
-<p><a href="https://www.tech.gov.sg/media/technews/working-drones?utm_medium=recommender_0&amp;utm_source=aHR0cHM6Ly93d3cudGVjaC5nb3Yuc2cvbWVkaWEvdGVjaG5ld3MvaGVyZS1hcmUtNS1qb2JzLXRoYXQtZGlkbnQtZXhpc3QtMTAteWVhcnMtYWdv&amp;utm_content=aHR0cHM6Ly93d3cudGVjaC5nb3Yuc2cvbWVkaWEvdGVjaG5ld3Mvd29ya2luZy1kcm9uZXM=" rel="noopener noreferrer nofollow" target="_blank"><u>Working Drones</u></a>
-</p>
-</li>
-<li>
-<p><a href="https://www.tech.gov.sg/media/technews/drones-that-keep-singapore-going?utm_medium=recommender_1&amp;utm_source=aHR0cHM6Ly93d3cudGVjaC5nb3Yuc2cvbWVkaWEvdGVjaG5ld3MvaGVyZS1hcmUtNS1qb2JzLXRoYXQtZGlkbnQtZXhpc3QtMTAteWVhcnMtYWdv&amp;utm_content=aHR0cHM6Ly93d3cudGVjaC5nb3Yuc2cvbWVkaWEvdGVjaG5ld3MvZHJvbmVzLXRoYXQta2VlcC1zaW5nYXBvcmUtZ29pbmc=" rel="noopener noreferrer nofollow" target="_blank"><u>Drones that keep Singapore going</u></a>
-</p>
-</li>
-<li>
-<p><a href="https://www.tech.gov.sg/media/technews/want-to-get-into-tech?utm_medium=recommender_2&amp;utm_source=aHR0cHM6Ly93d3cudGVjaC5nb3Yuc2cvbWVkaWEvdGVjaG5ld3MvaGVyZS1hcmUtNS1qb2JzLXRoYXQtZGlkbnQtZXhpc3QtMTAteWVhcnMtYWdv&amp;utm_content=aHR0cHM6Ly93d3cudGVjaC5nb3Yuc2cvbWVkaWEvdGVjaG5ld3Mvd2FudC10by1nZXQtaW50by10ZWNo" rel="noopener noreferrer nofollow" target="_blank"><u>Want to get into tech? Here's what our new graduates say</u></a>
-</p>
-</li>
-<li>
-<p><a href="https://www.tech.gov.sg/media/technews/hope-technik's-mission-ready-drones?utm_medium=recommender_3&amp;utm_source=aHR0cHM6Ly93d3cudGVjaC5nb3Yuc2cvbWVkaWEvdGVjaG5ld3MvaGVyZS1hcmUtNS1qb2JzLXRoYXQtZGlkbnQtZXhpc3QtMTAteWVhcnMtYWdv&amp;utm_content=aHR0cHM6Ly93d3cudGVjaC5nb3Yuc2cvbWVkaWEvdGVjaG5ld3MvaG9wZS10ZWNobmlrJ3MtbWlzc2lvbi1yZWFkeS1kcm9uZXM=" rel="noopener noreferrer nofollow" target="_blank"><u>Hope Technik's Mission-ready Drones</u></a>
-</p>
-</li>
-<li>
-<p><a href="https://www.tech.gov.sg/media/technews/the-crUX-of-the-matter-a-pleasant-user-experience?utm_medium=recommender_4&amp;utm_source=aHR0cHM6Ly93d3cudGVjaC5nb3Yuc2cvbWVkaWEvdGVjaG5ld3MvaGVyZS1hcmUtNS1qb2JzLXRoYXQtZGlkbnQtZXhpc3QtMTAteWVhcnMtYWdv&amp;utm_content=aHR0cHM6Ly93d3cudGVjaC5nb3Yuc2cvbWVkaWEvdGVjaG5ld3MvdGhlLWNyVVgtb2YtdGhlLW1hdHRlci1hLXBsZWFzYW50LXVzZXItZXhwZXJpZW5jZQ==" rel="noopener noreferrer nofollow" target="_blank"><u>The crUX of the matter—a pleasant user experience</u></a>
-</p>
-</li>
-</ul>
 <p></p>
