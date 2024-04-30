@@ -104,27 +104,4 @@ factors like rainfall and humidity.</p>
 only continue to gain importance in our lives. We hope this trip down memory
 lane has been a nice, nostalgic, and informative one that lets you appreciate
 how far we have come and how far we can go!</p>
-<h4><strong>Related Content</strong></h4>
-<ul data-tight="true" class="tight">
-<li>
-<p><a href="https://www.tech.gov.sg/who-we-are/our-journey/?utm_medium=recommender_0&amp;utm_source=aHR0cHM6Ly93d3cudGVjaC5nb3Yuc2cvbWVkaWEvdGVjaG5ld3MvaGlzdG9yeS1vZi10aGUtaW50ZXJuZXQ=&amp;utm_content=aHR0cHM6Ly93d3cudGVjaC5nb3Yuc2cvd2hvLXdlLWFyZS9vdXItam91cm5leS8=" rel="noopener noreferrer nofollow" target="_blank"><u>Our Journey</u></a>
-</p>
-</li>
-<li>
-<p><a href="https://www.tech.gov.sg/media/technews/infographics/fast-track-to-5g-in-sg?utm_medium=recommender_1&amp;utm_source=aHR0cHM6Ly93d3cudGVjaC5nb3Yuc2cvbWVkaWEvdGVjaG5ld3MvaGlzdG9yeS1vZi10aGUtaW50ZXJuZXQ=&amp;utm_content=aHR0cHM6Ly93d3cudGVjaC5nb3Yuc2cvbWVkaWEvdGVjaG5ld3MvaW5mb2dyYXBoaWNzL2Zhc3QtdHJhY2stdG8tNWctaW4tc2c=" rel="noopener noreferrer nofollow" target="_blank"><u>Fast track to 5G in SG</u></a>
-</p>
-</li>
-<li>
-<p><a href="https://www.tech.gov.sg/media/technews/tricks-to-make-sure-your-wifi-never-misses-a-spot?utm_medium=recommender_2&amp;utm_source=aHR0cHM6Ly93d3cudGVjaC5nb3Yuc2cvbWVkaWEvdGVjaG5ld3MvaGlzdG9yeS1vZi10aGUtaW50ZXJuZXQ=&amp;utm_content=aHR0cHM6Ly93d3cudGVjaC5nb3Yuc2cvbWVkaWEvdGVjaG5ld3MvdHJpY2tzLXRvLW1ha2Utc3VyZS15b3VyLXdpZmktbmV2ZXItbWlzc2VzLWEtc3BvdA==" rel="noopener noreferrer nofollow" target="_blank"><u>5 tricks to make sure your Wi-Fi never misses a spot</u></a>
-</p>
-</li>
-<li>
-<p><a href="https://www.tech.gov.sg/media/technews/what-the-next-billion-internet-users-want?utm_medium=recommender_3&amp;utm_source=aHR0cHM6Ly93d3cudGVjaC5nb3Yuc2cvbWVkaWEvdGVjaG5ld3MvaGlzdG9yeS1vZi10aGUtaW50ZXJuZXQ=&amp;utm_content=aHR0cHM6Ly93d3cudGVjaC5nb3Yuc2cvbWVkaWEvdGVjaG5ld3Mvd2hhdC10aGUtbmV4dC1iaWxsaW9uLWludGVybmV0LXVzZXJzLXdhbnQ=" rel="noopener noreferrer nofollow" target="_blank"><u>What the next billion internet users want</u></a>
-</p>
-</li>
-<li>
-<p><a href="https://www.tech.gov.sg/media/speeches/opening-keynote-address-by-minister-josephine-teo-at-gsma-mobile-360?utm_medium=recommender_4&amp;utm_source=aHR0cHM6Ly93d3cudGVjaC5nb3Yuc2cvbWVkaWEvdGVjaG5ld3MvaGlzdG9yeS1vZi10aGUtaW50ZXJuZXQ=&amp;utm_content=aHR0cHM6Ly93d3cudGVjaC5nb3Yuc2cvbWVkaWEvc3BlZWNoZXMvb3BlbmluZy1rZXlub3RlLWFkZHJlc3MtYnktbWluaXN0ZXItam9zZXBoaW5lLXRlby1hdC1nc21hLW1vYmlsZS0zNjA=" rel="noopener noreferrer nofollow" target="_blank"><u>Opening Keynote Address by Minister Josephine Teo at Global System for Mobile Communications Association (GSMA) Mobile 360 (M360) Asia Pacific</u></a>
-</p>
-</li>
-</ul>
 <p></p>
