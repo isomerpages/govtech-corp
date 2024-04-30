@@ -101,27 +101,4 @@ Ultimately, this is done so that e-services can better serve citizens as
 their requirements change.</p>
 <p><em>This article was contributed by Alfred Siew. Alfred Siew is the editor of <a href="http://Techgoondu.com" rel="noopener noreferrer nofollow" target="_blank">Techgoondu.com</a>, a technology news website based in Singapore that was founded in 2008.</em>
 </p>
-<h4><strong>Related Content</strong></h4>
-<ul data-tight="true" class="tight">
-<li>
-<p><a href="https://www.tech.gov.sg/media/technews/digital-government-smart-nation-pursuing%20singapore-tech-imperative?utm_medium=recommender_0&amp;utm_source=aHR0cHM6Ly93d3cudGVjaC5nb3Yuc2cvbWVkaWEvdGVjaG5ld3MvaG93LW1lYXN1cmluZy1kaWdpdGFsLW1hdHVyaXR5LWNhbi1pbXByb3ZlLWUtc2VydmljZXM=&amp;utm_content=aHR0cHM6Ly93d3cudGVjaC5nb3Yuc2cvbWVkaWEvdGVjaG5ld3MvZGlnaXRhbC1nb3Zlcm5tZW50LXNtYXJ0LW5hdGlvbi1wdXJzdWluZyBzaW5nYXBvcmUtdGVjaC1pbXBlcmF0aXZl" rel="noopener noreferrer nofollow" target="_blank"><u>Digital Government, Smart Nation: Pursuing Singapore’s Tech Imperative</u></a>
-</p>
-</li>
-<li>
-<p><a href="https://www.tech.gov.sg/media/speeches/speech-by-mr-peter-ong-head-civil-service-at-the-inaugural-egov-excellence-awards-2013?utm_medium=recommender_1&amp;utm_source=aHR0cHM6Ly93d3cudGVjaC5nb3Yuc2cvbWVkaWEvdGVjaG5ld3MvaG93LW1lYXN1cmluZy1kaWdpdGFsLW1hdHVyaXR5LWNhbi1pbXByb3ZlLWUtc2VydmljZXM=&amp;utm_content=aHR0cHM6Ly93d3cudGVjaC5nb3Yuc2cvbWVkaWEvc3BlZWNoZXMvc3BlZWNoLWJ5LW1yLXBldGVyLW9uZy1oZWFkLWNpdmlsLXNlcnZpY2UtYXQtdGhlLWluYXVndXJhbC1lZ292LWV4Y2VsbGVuY2UtYXdhcmRzLTIwMTM=" rel="noopener noreferrer nofollow" target="_blank"><u>Speech by Mr Peter Ong, Head Civil Service, at the Inaugural eGov Excellence Awards 2013 (eGEA)</u></a>
-</p>
-</li>
-<li>
-<p><a href="https://www.tech.gov.sg/media/technews/more-users-pleased-with_user-friendly-govt-digital-services?utm_medium=recommender_2&amp;utm_source=aHR0cHM6Ly93d3cudGVjaC5nb3Yuc2cvbWVkaWEvdGVjaG5ld3MvaG93LW1lYXN1cmluZy1kaWdpdGFsLW1hdHVyaXR5LWNhbi1pbXByb3ZlLWUtc2VydmljZXM=&amp;utm_content=aHR0cHM6Ly93d3cudGVjaC5nb3Yuc2cvbWVkaWEvdGVjaG5ld3MvbW9yZS11c2Vycy1wbGVhc2VkLXdpdGhfdXNlci1mcmllbmRseS1nb3Z0LWRpZ2l0YWwtc2VydmljZXM=" rel="noopener noreferrer nofollow" target="_blank"><u>More users pleased with user-friendly govt digital services, says poll</u></a>
-</p>
-</li>
-<li>
-<p><a href="https://www.tech.gov.sg/media/technews/locking-in-covid19-digitalisaion-gains?utm_medium=recommender_3&amp;utm_source=aHR0cHM6Ly93d3cudGVjaC5nb3Yuc2cvbWVkaWEvdGVjaG5ld3MvaG93LW1lYXN1cmluZy1kaWdpdGFsLW1hdHVyaXR5LWNhbi1pbXByb3ZlLWUtc2VydmljZXM=&amp;utm_content=aHR0cHM6Ly93d3cudGVjaC5nb3Yuc2cvbWVkaWEvdGVjaG5ld3MvbG9ja2luZy1pbi1jb3ZpZDE5LWRpZ2l0YWxpc2Fpb24tZ2FpbnM=" rel="noopener noreferrer nofollow" target="_blank"><u>Locking in COVID-19 digitalisation gains</u></a>
-</p>
-</li>
-<li>
-<p><a href="https://www.tech.gov.sg/media/speeches/opening-speech-by-head-of-civil-service-at-inaugural-digital-government-exchange?utm_medium=recommender_4&amp;utm_source=aHR0cHM6Ly93d3cudGVjaC5nb3Yuc2cvbWVkaWEvdGVjaG5ld3MvaG93LW1lYXN1cmluZy1kaWdpdGFsLW1hdHVyaXR5LWNhbi1pbXByb3ZlLWUtc2VydmljZXM=&amp;utm_content=aHR0cHM6Ly93d3cudGVjaC5nb3Yuc2cvbWVkaWEvc3BlZWNoZXMvb3BlbmluZy1zcGVlY2gtYnktaGVhZC1vZi1jaXZpbC1zZXJ2aWNlLWF0LWluYXVndXJhbC1kaWdpdGFsLWdvdmVybm1lbnQtZXhjaGFuZ2U=" rel="noopener noreferrer nofollow" target="_blank"><u>Opening Speech by Head of Civil Service at Inaugural Digital Government Exchange</u></a>
-</p>
-</li>
-</ul>
 <p></p>
