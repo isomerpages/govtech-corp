@@ -12,8 +12,9 @@ variant: tiptap
 ---
 <p>Singapore is already known as one of the world's most business-friendly
 countries, but we’re not resting on our laurels.</p>
+<p></p>
 <div class="iframe-wrapper">
-<iframe style="max-width: 100%;" height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/xJ5D8FuUjaw?si=uacaOs_z6RCA99pJ"></iframe>
+<iframe style="max-width: 100%;" height="400" width="100%" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/xJ5D8FuUjaw?si=0RsITgAjAREph8va"></iframe>
 </div>
 <p><em>Got 43 seconds to spare? Find out how GoBusiness can help your business go simpler and go further!</em>
 </p>
