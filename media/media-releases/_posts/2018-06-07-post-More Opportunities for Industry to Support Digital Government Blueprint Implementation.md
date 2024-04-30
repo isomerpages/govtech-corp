@@ -81,9 +81,7 @@ connected user experience.</p>
 Digital Government Industry Briefing,&nbsp;which&nbsp;was&nbsp;attended&nbsp;by
 about 1,000 attendees from industry, academia and public agencies.</p>
 <hr>
-<p><strong>ISSUED BY COMMUNICATIONS AND MARKETING GROUP</strong>
-</p>
-<p><strong>GOVERNMENT TECHNOLOGY AGENCY OF SINGAPORE</strong>
+<p><strong>ISSUED BY COMMUNICATIONS AND MARKETING GROUP GOVERNMENT TECHNOLOGY AGENCY OF SINGAPORE</strong>
 </p>
 <hr>
 <h4>About Smart Nation and Digital Government Office (SNDGO)</h4>
