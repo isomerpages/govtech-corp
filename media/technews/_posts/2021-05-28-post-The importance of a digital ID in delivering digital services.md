@@ -86,28 +86,4 @@ digital IDs will play a crucial role by being an enabler of business and
 trade, as well as a return to normalcy.</p>
 <p><em>This article was contributed by Alfred Siew. Alfred Siew is the editor of <a href="https://www.straitstimes.com/business/economy/singapore-new-zealand-and-chile-conclude-talks-on-digital-trade-pact" rel="noopener noreferrer nofollow" target="_blank">Techgoondu.com</a>, a technology news website based in Singapore that was founded in 2008.</em>
 </p>
-<hr>
-<h4><strong>Related Content</strong></h4>
-<ul data-tight="true" class="tight">
-<li>
-<p><a href="https://www.tech.gov.sg/media/technews/giving-every-citizen-a-unique-digital-identity?utm_medium=recommender_0&amp;utm_source=aHR0cHM6Ly93d3cudGVjaC5nb3Yuc2cvbWVkaWEvdGVjaG5ld3MvdGhlLWltcG9ydGFuY2Utb2YtYS1kaWdpdGFsLWlkLWluLWRlbGl2ZXJpbmctZGlnaXRhbC1zZXJ2aWNlcw==&amp;utm_content=aHR0cHM6Ly93d3cudGVjaC5nb3Yuc2cvbWVkaWEvdGVjaG5ld3MvZ2l2aW5nLWV2ZXJ5LWNpdGl6ZW4tYS11bmlxdWUtZGlnaXRhbC1pZGVudGl0eQ==" rel="noopener noreferrer nofollow" target="_blank"><u>Giving every citizen a unique digital identity</u></a>
-</p>
-</li>
-<li>
-<p><a href="https://www.tech.gov.sg/media/speeches/opening-goh-address-by-dr-janil-puthucheary?utm_medium=recommender_1&amp;utm_source=aHR0cHM6Ly93d3cudGVjaC5nb3Yuc2cvbWVkaWEvdGVjaG5ld3MvdGhlLWltcG9ydGFuY2Utb2YtYS1kaWdpdGFsLWlkLWluLWRlbGl2ZXJpbmctZGlnaXRhbC1zZXJ2aWNlcw==&amp;utm_content=aHR0cHM6Ly93d3cudGVjaC5nb3Yuc2cvbWVkaWEvc3BlZWNoZXMvb3BlbmluZy1nb2gtYWRkcmVzcy1ieS1kci1qYW5pbC1wdXRodWNoZWFyeQ==" rel="noopener noreferrer nofollow" target="_blank"><u>Opening GOH Address by Dr Janil Puthucheary for GovInsider Innovation Labs World Conference 2017</u></a>
-</p>
-</li>
-<li>
-<p><a href="https://www.tech.gov.sg/media/media-releases/2021-03-04-refreshed-singpass?utm_medium=recommender_2&amp;utm_source=aHR0cHM6Ly93d3cudGVjaC5nb3Yuc2cvbWVkaWEvdGVjaG5ld3MvdGhlLWltcG9ydGFuY2Utb2YtYS1kaWdpdGFsLWlkLWluLWRlbGl2ZXJpbmctZGlnaXRhbC1zZXJ2aWNlcw==&amp;utm_content=aHR0cHM6Ly93d3cudGVjaC5nb3Yuc2cvbWVkaWEvbWVkaWEtcmVsZWFzZXMvMjAyMS0wMy0wNC1yZWZyZXNoZWQtc2luZ3Bhc3M=" rel="noopener noreferrer nofollow" target="_blank"><u>Refreshed Singpass reflects improved services and drives digital innovations with private sector</u></a>
-</p>
-</li>
-<li>
-<p><a href="https://www.tech.gov.sg/media/speeches/opening-speech-by-head-of-civil-service?utm_medium=recommender_3&amp;utm_source=aHR0cHM6Ly93d3cudGVjaC5nb3Yuc2cvbWVkaWEvdGVjaG5ld3MvdGhlLWltcG9ydGFuY2Utb2YtYS1kaWdpdGFsLWlkLWluLWRlbGl2ZXJpbmctZGlnaXRhbC1zZXJ2aWNlcw==&amp;utm_content=aHR0cHM6Ly93d3cudGVjaC5nb3Yuc2cvbWVkaWEvc3BlZWNoZXMvb3BlbmluZy1zcGVlY2gtYnktaGVhZC1vZi1jaXZpbC1zZXJ2aWNl" rel="noopener noreferrer nofollow" target="_blank"><u>Opening Speech by Head of Civil Service at Digital Government Exchange 2017</u></a>
-</p>
-</li>
-<li>
-<p><a href="https://www.tech.gov.sg/media/technews/every-body-loves-biometrics?utm_medium=recommender_4&amp;utm_source=aHR0cHM6Ly93d3cudGVjaC5nb3Yuc2cvbWVkaWEvdGVjaG5ld3MvdGhlLWltcG9ydGFuY2Utb2YtYS1kaWdpdGFsLWlkLWluLWRlbGl2ZXJpbmctZGlnaXRhbC1zZXJ2aWNlcw==&amp;utm_content=aHR0cHM6Ly93d3cudGVjaC5nb3Yuc2cvbWVkaWEvdGVjaG5ld3MvZXZlcnktYm9keS1sb3Zlcy1iaW9tZXRyaWNz" rel="noopener noreferrer nofollow" target="_blank"><u>Every body loves biometrics</u></a>
-</p>
-</li>
-</ul>
 <p></p>
