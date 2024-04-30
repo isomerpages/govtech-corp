@@ -82,27 +82,4 @@ at GovTech? Check out this&nbsp;<a href="https://www.tech.gov.sg/media/technews/
 Ever wondered how Bluetooth came along and how it got it’s name? Level
 up your tech knowledge via this&nbsp;<a href="https://www.tech.gov.sg/media/technews/history-of-bluetooth" class="editor-rtfLink" rel="noopener noreferrer nofollow" target="_blank">article!</a>
 </p>
-<h4><strong>Related Content</strong></h4>
-<ul data-tight="true" class="tight">
-<li>
-<p><a href="https://www.tech.gov.sg/media/technews/day-in-the-life-of-a-govtech-software-engineer?utm_medium=recommender_0&amp;utm_source=aHR0cHM6Ly93d3cudGVjaC5nb3Yuc2cvbWVkaWEvdGVjaG5ld3MvbG9va2luZy1iYWNrLW9uLWdvdnRlY2hzLWZpZnRoLWJpcnRoZGF5&amp;utm_content=aHR0cHM6Ly93d3cudGVjaC5nb3Yuc2cvbWVkaWEvdGVjaG5ld3MvZGF5LWluLXRoZS1saWZlLW9mLWEtZ292dGVjaC1zb2Z0d2FyZS1lbmdpbmVlcg==" class="editor-rtfLink" rel="noopener noreferrer nofollow" target="_blank">A day in the life of a GovTech Software Engineer</a>
-</p>
-</li>
-<li>
-<p><a href="https://www.tech.gov.sg/media/technews/how-one-govtech-employee-worked-in-two-places-in-2020?utm_medium=recommender_1&amp;utm_source=aHR0cHM6Ly93d3cudGVjaC5nb3Yuc2cvbWVkaWEvdGVjaG5ld3MvbG9va2luZy1iYWNrLW9uLWdvdnRlY2hzLWZpZnRoLWJpcnRoZGF5&amp;utm_content=aHR0cHM6Ly93d3cudGVjaC5nb3Yuc2cvbWVkaWEvdGVjaG5ld3MvaG93LW9uZS1nb3Z0ZWNoLWVtcGxveWVlLXdvcmtlZC1pbi10d28tcGxhY2VzLWluLTIwMjA=" class="editor-rtfLink" rel="noopener noreferrer nofollow" target="_blank">How one GovTech employee worked in two places in 2020</a>
-</p>
-</li>
-<li>
-<p><a href="https://www.tech.gov.sg/media/technews/how-tech-has-connected-and-uplifted-singapore-in-a-difficult-year?utm_medium=recommender_2&amp;utm_source=aHR0cHM6Ly93d3cudGVjaC5nb3Yuc2cvbWVkaWEvdGVjaG5ld3MvbG9va2luZy1iYWNrLW9uLWdvdnRlY2hzLWZpZnRoLWJpcnRoZGF5&amp;utm_content=aHR0cHM6Ly93d3cudGVjaC5nb3Yuc2cvbWVkaWEvdGVjaG5ld3MvaG93LXRlY2gtaGFzLWNvbm5lY3RlZC1hbmQtdXBsaWZ0ZWQtc2luZ2Fwb3JlLWluLWEtZGlmZmljdWx0LXllYXI=" class="editor-rtfLink" rel="noopener noreferrer nofollow" target="_blank">How tech has connected and uplifted Singapore in a difficult year</a>
-</p>
-</li>
-<li>
-<p><a href="https://www.tech.gov.sg/media/speeches/transcript-of-speech-by-prime-minister-lee-hsien-loong-at-founders-forum-smart-nation-singapore-reception?utm_medium=recommender_3&amp;utm_source=aHR0cHM6Ly93d3cudGVjaC5nb3Yuc2cvbWVkaWEvdGVjaG5ld3MvbG9va2luZy1iYWNrLW9uLWdvdnRlY2hzLWZpZnRoLWJpcnRoZGF5&amp;utm_content=aHR0cHM6Ly93d3cudGVjaC5nb3Yuc2cvbWVkaWEvc3BlZWNoZXMvdHJhbnNjcmlwdC1vZi1zcGVlY2gtYnktcHJpbWUtbWluaXN0ZXItbGVlLWhzaWVuLWxvb25nLWF0LWZvdW5kZXJzLWZvcnVtLXNtYXJ0LW5hdGlvbi1zaW5nYXBvcmUtcmVjZXB0aW9u" class="editor-rtfLink" rel="noopener noreferrer nofollow" target="_blank">Transcript of Speech by Prime Minister Lee Hsien Loong at Founders Forum Smart Nation Singapore Reception</a>
-</p>
-</li>
-<li>
-<p><a href="https://www.tech.gov.sg/who-we-are/our-culture-and-values/?utm_medium=recommender_4&amp;utm_source=aHR0cHM6Ly93d3cudGVjaC5nb3Yuc2cvbWVkaWEvdGVjaG5ld3MvbG9va2luZy1iYWNrLW9uLWdvdnRlY2hzLWZpZnRoLWJpcnRoZGF5&amp;utm_content=aHR0cHM6Ly93d3cudGVjaC5nb3Yuc2cvd2hvLXdlLWFyZS9vdXItY3VsdHVyZS1hbmQtdmFsdWVzLw==" class="editor-rtfLink" rel="noopener noreferrer nofollow" target="_blank">Our Culture and Values</a>
-</p>
-</li>
-</ul>
 <p></p>
