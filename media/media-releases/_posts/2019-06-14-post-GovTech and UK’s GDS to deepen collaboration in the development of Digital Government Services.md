@@ -99,7 +99,7 @@ areas that the Partnership for the Future focuses on:</p>
 <br>Communications &amp; Marketing Group
 <br>Government Technology Agency of Singapore
 <br>Tel: +65 6211 1151
-<br>Email: <a href="mailto:joycelyn_chan@tech.gov.sg" rel="noopener noreferrer nofollow" target="_blank">joycelyn_chan@tech.gov.sg</a>
+<br>Email: <a href="mailto:joycelyn_chan@tech.gov.sg" rel="noopener noreferrer nofollow" target="_blank">joycelyn_chan@tech.gov.sg</a> 
 <br>
 <br>Amelia AUSTIN (Ms)
 <br>British High Commission Singapore
