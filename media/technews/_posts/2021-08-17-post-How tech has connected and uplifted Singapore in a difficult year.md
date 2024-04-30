@@ -112,27 +112,4 @@ have always pulled together to get through the tough times. It’s no different
 now, albeit with tech as a new ally.</p>
 <p>We at GovTech certainly hope that our fellow Singaporeans continue to
 step up and make a difference.</p>
-<h4><strong>Related Content</strong></h4>
-<ul data-tight="true" class="tight">
-<li>
-<p><a href="https://www.tech.gov.sg/media/technews/bridging-the-digital-divide?utm_medium=recommender_0&amp;utm_source=aHR0cHM6Ly93d3cudGVjaC5nb3Yuc2cvbWVkaWEvdGVjaG5ld3MvaG93LXRlY2gtaGFzLWNvbm5lY3RlZC1hbmQtdXBsaWZ0ZWQtc2luZ2Fwb3JlLWluLWEtZGlmZmljdWx0LXllYXI=&amp;utm_content=aHR0cHM6Ly93d3cudGVjaC5nb3Yuc2cvbWVkaWEvdGVjaG5ld3MvYnJpZGdpbmctdGhlLWRpZ2l0YWwtZGl2aWRl" class="editor-rtfLink" rel="noopener noreferrer nofollow" target="_blank">Bridging the digital divide? It can start with you.</a>
-</p>
-</li>
-<li>
-<p><a href="https://www.tech.gov.sg/media/technews/tech-tips-to-beat-covid-blues-part2?utm_medium=recommender_1&amp;utm_source=aHR0cHM6Ly93d3cudGVjaC5nb3Yuc2cvbWVkaWEvdGVjaG5ld3MvaG93LXRlY2gtaGFzLWNvbm5lY3RlZC1hbmQtdXBsaWZ0ZWQtc2luZ2Fwb3JlLWluLWEtZGlmZmljdWx0LXllYXI=&amp;utm_content=aHR0cHM6Ly93d3cudGVjaC5nb3Yuc2cvbWVkaWEvdGVjaG5ld3MvdGVjaC10aXBzLXRvLWJlYXQtY292aWQtYmx1ZXMtcGFydDI=" class="editor-rtfLink" rel="noopener noreferrer nofollow" target="_blank">Tech tips to beat COVID-19 blues - part 2</a>
-</p>
-</li>
-<li>
-<p><a href="https://www.tech.gov.sg/media/technews/cny2021-digital-hacks?utm_medium=recommender_2&amp;utm_source=aHR0cHM6Ly93d3cudGVjaC5nb3Yuc2cvbWVkaWEvdGVjaG5ld3MvaG93LXRlY2gtaGFzLWNvbm5lY3RlZC1hbmQtdXBsaWZ0ZWQtc2luZ2Fwb3JlLWluLWEtZGlmZmljdWx0LXllYXI=&amp;utm_content=aHR0cHM6Ly93d3cudGVjaC5nb3Yuc2cvbWVkaWEvdGVjaG5ld3MvY255MjAyMS1kaWdpdGFsLWhhY2tz" class="editor-rtfLink" rel="noopener noreferrer nofollow" target="_blank">CNY2021 Digital Hacks</a>
-</p>
-</li>
-<li>
-<p><a href="https://www.tech.gov.sg/media/technews/silver-tech-and-golden-seniors?utm_medium=recommender_3&amp;utm_source=aHR0cHM6Ly93d3cudGVjaC5nb3Yuc2cvbWVkaWEvdGVjaG5ld3MvaG93LXRlY2gtaGFzLWNvbm5lY3RlZC1hbmQtdXBsaWZ0ZWQtc2luZ2Fwb3JlLWluLWEtZGlmZmljdWx0LXllYXI=&amp;utm_content=aHR0cHM6Ly93d3cudGVjaC5nb3Yuc2cvbWVkaWEvdGVjaG5ld3Mvc2lsdmVyLXRlY2gtYW5kLWdvbGRlbi1zZW5pb3Jz" class="editor-rtfLink" rel="noopener noreferrer nofollow" target="_blank">Silver Tech and Golden Seniors</a>
-</p>
-</li>
-<li>
-<p><a href="https://www.tech.gov.sg/media/technews/looking-back-on-govtechs-fifth-birthday?utm_medium=recommender_4&amp;utm_source=aHR0cHM6Ly93d3cudGVjaC5nb3Yuc2cvbWVkaWEvdGVjaG5ld3MvaG93LXRlY2gtaGFzLWNvbm5lY3RlZC1hbmQtdXBsaWZ0ZWQtc2luZ2Fwb3JlLWluLWEtZGlmZmljdWx0LXllYXI=&amp;utm_content=aHR0cHM6Ly93d3cudGVjaC5nb3Yuc2cvbWVkaWEvdGVjaG5ld3MvbG9va2luZy1iYWNrLW9uLWdvdnRlY2hzLWZpZnRoLWJpcnRoZGF5" class="editor-rtfLink" rel="noopener noreferrer nofollow" target="_blank">Looking back on GovTech's 5th Birthday</a>
-</p>
-</li>
-</ul>
 <p></p>
