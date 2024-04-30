@@ -112,27 +112,4 @@ Seniors Go Digital programme to support users who may need help picking
 up digital tools. If your parents or friends need help, they may visit
 any SG Digital Community Hub for a 1-on-1 consultation with a Digital Ambassador
 or contact us at <a href="https://www.ifaq.gov.sg/singpass/apps/Fcd_faqmain.aspx#FAQ_1112653" rel="noopener noreferrer nofollow" target="_blank">support@singpass.gov.sg</a>.</p>
-<h4><strong>Related Content</strong></h4>
-<ul data-tight="true" class="tight">
-<li>
-<p><a href="https://www.tech.gov.sg/media/media-releases/2021-10-28-all-government-agencies-to-accept-singpass-digital-ic-from-1-november-2021?utm_medium=recommender_0&amp;utm_source=aHR0cHM6Ly93d3cudGVjaC5nb3Yuc2cvbWVkaWEvdGVjaG5ld3Mvc2luZ3Bhc3MtZGlnaXRhbC1pYw==&amp;utm_content=aHR0cHM6Ly93d3cudGVjaC5nb3Yuc2cvbWVkaWEvbWVkaWEtcmVsZWFzZXMvMjAyMS0xMC0yOC1hbGwtZ292ZXJubWVudC1hZ2VuY2llcy10by1hY2NlcHQtc2luZ3Bhc3MtZGlnaXRhbC1pYy1mcm9tLTEtbm92ZW1iZXItMjAyMQ==" class="editor-rtfLink" rel="noopener noreferrer nofollow" target="_blank">All Government Agencies to Accept Singpass Digital IC from 1 November 2021</a>
-</p>
-</li>
-<li>
-<p><a href="https://www.tech.gov.sg/media/technews/singpass-refresh?utm_medium=recommender_1&amp;utm_source=aHR0cHM6Ly93d3cudGVjaC5nb3Yuc2cvbWVkaWEvdGVjaG5ld3Mvc2luZ3Bhc3MtZGlnaXRhbC1pYw==&amp;utm_content=aHR0cHM6Ly93d3cudGVjaC5nb3Yuc2cvbWVkaWEvdGVjaG5ld3Mvc2luZ3Bhc3MtcmVmcmVzaA==" class="editor-rtfLink" rel="noopener noreferrer nofollow" target="_blank">Refreshed Singpass brings with it 5 awesome features</a>
-</p>
-</li>
-<li>
-<p><a href="https://www.tech.gov.sg/media/media-releases/2021-03-04-refreshed-singpass?utm_medium=recommender_2&amp;utm_source=aHR0cHM6Ly93d3cudGVjaC5nb3Yuc2cvbWVkaWEvdGVjaG5ld3Mvc2luZ3Bhc3MtZGlnaXRhbC1pYw==&amp;utm_content=aHR0cHM6Ly93d3cudGVjaC5nb3Yuc2cvbWVkaWEvbWVkaWEtcmVsZWFzZXMvMjAyMS0wMy0wNC1yZWZyZXNoZWQtc2luZ3Bhc3M=" class="editor-rtfLink" rel="noopener noreferrer nofollow" target="_blank">Refreshed Singpass reflects improved services and drives digital innovations with private sector</a>
-</p>
-</li>
-<li>
-<p><a href="https://www.tech.gov.sg/products-and-services/singpass/?utm_medium=recommender_3&amp;utm_source=aHR0cHM6Ly93d3cudGVjaC5nb3Yuc2cvbWVkaWEvdGVjaG5ld3Mvc2luZ3Bhc3MtZGlnaXRhbC1pYw==&amp;utm_content=aHR0cHM6Ly93d3cudGVjaC5nb3Yuc2cvcHJvZHVjdHMtYW5kLXNlcnZpY2VzL3NpbmdwYXNzLw==" class="editor-rtfLink" rel="noopener noreferrer nofollow" target="_blank">Singpass</a>
-</p>
-</li>
-<li>
-<p><a href="https://www.tech.gov.sg/media/media-releases/2020-11-04-Sign-With-SingPass?utm_medium=recommender_4&amp;utm_source=aHR0cHM6Ly93d3cudGVjaC5nb3Yuc2cvbWVkaWEvdGVjaG5ld3Mvc2luZ3Bhc3MtZGlnaXRhbC1pYw==&amp;utm_content=aHR0cHM6Ly93d3cudGVjaC5nb3Yuc2cvbWVkaWEvbWVkaWEtcmVsZWFzZXMvMjAyMC0xMS0wNC1TaWduLVdpdGgtU2luZ1Bhc3M=" class="editor-rtfLink" rel="noopener noreferrer nofollow" target="_blank">New “Sign with SingPass” service provides greater convenience in documentation signing</a>
-</p>
-</li>
-</ul>
 <p></p>
