@@ -72,28 +72,3 @@ arise. Ultimately, this is the best way to serve citizens as we transform
 how we deliver services through digital technologies.</p>
 <p><em>This article was contributed by Alfred Siew. Alfred Siew is the editor of <a href="https://unsplash.com/@kowalikus?utm_source=unsplash&amp;amp;utm_medium=referral&amp;amp;utm_content=creditCopyText" rel="noopener noreferrer nofollow" target="_blank">Techgoondu.com</a>, a technology news website based in Singapore that was founded in 2008.</em>
 </p>
-<hr>
-<h4><strong>Related Content</strong></h4>
-<ul data-tight="true" class="tight">
-<li>
-<p><a href="https://www.tech.gov.sg/media/technews/lessons-from-a-cloud-architect?utm_medium=recommender_0&amp;utm_source=aHR0cHM6Ly93d3cudGVjaC5nb3Yuc2cvbWVkaWEvdGVjaG5ld3Mvd2h5LXJ1bm5pbmctY2xvdWQtc2VydmljZXMtbWF0dGVyLWZvci10aGUtZ292ZXJubWVudA==&amp;utm_content=aHR0cHM6Ly93d3cudGVjaC5nb3Yuc2cvbWVkaWEvdGVjaG5ld3MvbGVzc29ucy1mcm9tLWEtY2xvdWQtYXJjaGl0ZWN0" rel="noopener noreferrer nofollow" target="_blank"><u>Lessons from a cloud architect</u></a>
-</p>
-</li>
-<li>
-<p><a href="https://www.tech.gov.sg/media/technews/soaring-high-with-commercial-cloud?utm_medium=recommender_1&amp;utm_source=aHR0cHM6Ly93d3cudGVjaC5nb3Yuc2cvbWVkaWEvdGVjaG5ld3Mvd2h5LXJ1bm5pbmctY2xvdWQtc2VydmljZXMtbWF0dGVyLWZvci10aGUtZ292ZXJubWVudA==&amp;utm_content=aHR0cHM6Ly93d3cudGVjaC5nb3Yuc2cvbWVkaWEvdGVjaG5ld3Mvc29hcmluZy1oaWdoLXdpdGgtY29tbWVyY2lhbC1jbG91ZA==" rel="noopener noreferrer nofollow" target="_blank"><u>Soaring high with commercial cloud</u></a>
-</p>
-</li>
-<li>
-<p><a href="https://www.tech.gov.sg/products-and-services/government-commercial-cloud/?utm_medium=recommender_2&amp;utm_source=aHR0cHM6Ly93d3cudGVjaC5nb3Yuc2cvbWVkaWEvdGVjaG5ld3Mvd2h5LXJ1bm5pbmctY2xvdWQtc2VydmljZXMtbWF0dGVyLWZvci10aGUtZ292ZXJubWVudA==&amp;utm_content=aHR0cHM6Ly93d3cudGVjaC5nb3Yuc2cvcHJvZHVjdHMtYW5kLXNlcnZpY2VzL2dvdmVybm1lbnQtY29tbWVyY2lhbC1jbG91ZC8=" rel="noopener noreferrer nofollow" target="_blank"><u>Government Commercial Cloud</u></a>
-</p>
-</li>
-<li>
-<p><a href="https://www.tech.gov.sg/media/technews/how-you-can-ride-the-wave-of-cloud-mediated-disruption?utm_medium=recommender_3&amp;utm_source=aHR0cHM6Ly93d3cudGVjaC5nb3Yuc2cvbWVkaWEvdGVjaG5ld3Mvd2h5LXJ1bm5pbmctY2xvdWQtc2VydmljZXMtbWF0dGVyLWZvci10aGUtZ292ZXJubWVudA==&amp;utm_content=aHR0cHM6Ly93d3cudGVjaC5nb3Yuc2cvbWVkaWEvdGVjaG5ld3MvaG93LXlvdS1jYW4tcmlkZS10aGUtd2F2ZS1vZi1jbG91ZC1tZWRpYXRlZC1kaXNydXB0aW9u" rel="noopener noreferrer nofollow" target="_blank"><u>How you can ride the wave of cloud-mediated disruption</u></a>
-</p>
-</li>
-<li>
-<p><a href="https://www.tech.gov.sg/media/technews/four-key-insights-from-govtech-cloud-architect?utm_medium=recommender_4&amp;utm_source=aHR0cHM6Ly93d3cudGVjaC5nb3Yuc2cvbWVkaWEvdGVjaG5ld3Mvd2h5LXJ1bm5pbmctY2xvdWQtc2VydmljZXMtbWF0dGVyLWZvci10aGUtZ292ZXJubWVudA==&amp;utm_content=aHR0cHM6Ly93d3cudGVjaC5nb3Yuc2cvbWVkaWEvdGVjaG5ld3MvZm91ci1rZXktaW5zaWdodHMtZnJvbS1nb3Z0ZWNoLWNsb3VkLWFyY2hpdGVjdA==" rel="noopener noreferrer nofollow" target="_blank"><u>Four key insights from GovTech’s cloud architect</u></a>
-</p>
-</li>
-</ul>
-<p></p>
