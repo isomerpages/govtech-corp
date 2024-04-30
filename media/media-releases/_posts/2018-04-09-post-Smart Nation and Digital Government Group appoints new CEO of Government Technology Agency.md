@@ -10,7 +10,7 @@ description: Mr. Kok Ping Soon will be appointed as CEO of GovTech, succeeding
 image: ""
 variant: tiptap
 ---
-<h3>Mr Kok Ping Soon, Deputy Secretary (Development) in the Ministry of Manpower (MOM), will be appointed as Chief Executive (CE) of the Government Technology Agency (GovTech) with effect from 1 May 2018. </h3>
+<h3>Mr Kok Ping Soon, Deputy Secretary (Development) in the Ministry of Manpower (MOM), will be appointed as Chief Executive (CE) of the Government Technology Agency (GovTech) with effect from 1 May 2018.</h3>
 <p>He succeeds Ms Jacqueline Poh. Ms Poh’s next appointment will be announced
 in due course.</p>
 <p>As Deputy Secretary (Development), MOM, Mr Kok oversees national policies
@@ -90,7 +90,7 @@ and Twitter @GovTechSG.</p>
 <br>Adoption and Engagement Directorate
 <br>Smart Nation and Digital Government Office, Prime Minister's Office
 <br>DID: (65) 8363 1762
-<br>Email: <a href="mailto:Tiffany_SANDRASAGERAN@pmo.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Tiffany_SANDRASAGERAN@pmo.gov.sg</a> 
+<br>Email: <a href="mailto:Tiffany_SANDRASAGERAN@pmo.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Tiffany_SANDRASAGERAN@pmo.gov.sg</a>
 </p>
 <p>TAN Boon Leng (Mr)
 <br>Manager
