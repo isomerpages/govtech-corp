@@ -77,27 +77,4 @@ just the characteristics needed by a tool like TraceTogether – a contact
 tracing app that runs unobtrusively in the background for extended periods
 of time, logging data on individuals that come into close proximity to
 aid the long battle against the Covid-19 pandemic.</p>
-<h5><strong>Related Content</strong></h5>
-<ul data-tight="true" class="tight">
-<li>
-<p><a href="https://www.tech.gov.sg/media/technews/tracetogether-behind-the-scenes-look-at-its-development-process?utm_medium=recommender_0&amp;utm_source=aHR0cHM6Ly93d3cudGVjaC5nb3Yuc2cvbWVkaWEvdGVjaG5ld3MvaGlzdG9yeS1vZi1ibHVldG9vdGg=&amp;utm_content=aHR0cHM6Ly93d3cudGVjaC5nb3Yuc2cvbWVkaWEvdGVjaG5ld3MvdHJhY2V0b2dldGhlci1iZWhpbmQtdGhlLXNjZW5lcy1sb29rLWF0LWl0cy1kZXZlbG9wbWVudC1wcm9jZXNz" class="editor-rtfLink" rel="noopener noreferrer nofollow" target="_blank">TraceTogether - behind the scenes look at its development process</a>
-</p>
-</li>
-<li>
-<p><a href="https://www.tech.gov.sg/media/technews/six-things-about-opentrace?utm_medium=recommender_1&amp;utm_source=aHR0cHM6Ly93d3cudGVjaC5nb3Yuc2cvbWVkaWEvdGVjaG5ld3MvaGlzdG9yeS1vZi1ibHVldG9vdGg=&amp;utm_content=aHR0cHM6Ly93d3cudGVjaC5nb3Yuc2cvbWVkaWEvdGVjaG5ld3Mvc2l4LXRoaW5ncy1hYm91dC1vcGVudHJhY2U=" class="editor-rtfLink" rel="noopener noreferrer nofollow" target="_blank">6 things about OpenTrace, the open-source code published by the TraceTogether team</a>
-</p>
-</li>
-<li>
-<p><a href="https://www.tech.gov.sg/media/technews/geeky-myth-busting-facts-you-need-to-know-about-tracetogether?utm_medium=recommender_2&amp;utm_source=aHR0cHM6Ly93d3cudGVjaC5nb3Yuc2cvbWVkaWEvdGVjaG5ld3MvaGlzdG9yeS1vZi1ibHVldG9vdGg=&amp;utm_content=aHR0cHM6Ly93d3cudGVjaC5nb3Yuc2cvbWVkaWEvdGVjaG5ld3MvZ2Vla3ktbXl0aC1idXN0aW5nLWZhY3RzLXlvdS1uZWVkLXRvLWtub3ctYWJvdXQtdHJhY2V0b2dldGhlcg==" class="editor-rtfLink" rel="noopener noreferrer nofollow" target="_blank">9 geeky myth-busting facts you need to know about TraceTogether</a>
-</p>
-</li>
-<li>
-<p><a href="https://www.tech.gov.sg/media/technews/20201015-before-tracetogether-you-have-to-testtogether?utm_medium=recommender_3&amp;utm_source=aHR0cHM6Ly93d3cudGVjaC5nb3Yuc2cvbWVkaWEvdGVjaG5ld3MvaGlzdG9yeS1vZi1ibHVldG9vdGg=&amp;utm_content=aHR0cHM6Ly93d3cudGVjaC5nb3Yuc2cvbWVkaWEvdGVjaG5ld3MvMjAyMDEwMTUtYmVmb3JlLXRyYWNldG9nZXRoZXIteW91LWhhdmUtdG8tdGVzdHRvZ2V0aGVy" class="editor-rtfLink" rel="noopener noreferrer nofollow" target="_blank">Before you #TraceTogether, the team first #TestsTogether</a>
-</p>
-</li>
-<li>
-<p><a href="https://www.tech.gov.sg/media/technews/two-reasons-why-singapore-sticking-with-tracetogether-protocol?utm_medium=recommender_4&amp;utm_source=aHR0cHM6Ly93d3cudGVjaC5nb3Yuc2cvbWVkaWEvdGVjaG5ld3MvaGlzdG9yeS1vZi1ibHVldG9vdGg=&amp;utm_content=aHR0cHM6Ly93d3cudGVjaC5nb3Yuc2cvbWVkaWEvdGVjaG5ld3MvdHdvLXJlYXNvbnMtd2h5LXNpbmdhcG9yZS1zdGlja2luZy13aXRoLXRyYWNldG9nZXRoZXItcHJvdG9jb2w=" class="editor-rtfLink" rel="noopener noreferrer nofollow" target="_blank">Two reasons why Singapore is sticking with TraceTogether’s protocol</a>
-</p>
-</li>
-</ul>
 <p></p>
