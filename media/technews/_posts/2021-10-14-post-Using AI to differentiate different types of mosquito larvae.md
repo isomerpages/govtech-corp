@@ -140,27 +140,4 @@ have to be retrained for every new mosquito larva we introduce.</p>
 <p>Nonetheless, this project has set the stage for developing complex AI
 models to handle challenging object classification problems and we are
 excited about enhancing it further to apply to other cases!</p>
-<h4><strong>Related Content</strong></h4>
-<ul data-tight="true" class="tight">
-<li>
-<p><a href="https://www.tech.gov.sg/media/technews/subscribe?utm_medium=recommender_0&amp;utm_source=aHR0cHM6Ly93d3cudGVjaC5nb3Yuc2cvbWVkaWEvdGVjaG5ld3MvdXNpbmctYWktdG8tZGlmZmVyZW50aWF0ZS1tb3NxdWl0by1sYXJ2YWU=&amp;utm_content=aHR0cHM6Ly93d3cudGVjaC5nb3Yuc2cvbWVkaWEvdGVjaG5ld3Mvc3Vic2NyaWJl" class="editor-rtfLink" rel="noopener noreferrer nofollow" target="_blank">TechNews Newsletter</a>
-</p>
-</li>
-<li>
-<p><a href="https://www.tech.gov.sg/get-involved/tech-kaki-newsletter?utm_medium=recommender_1&amp;utm_source=aHR0cHM6Ly93d3cudGVjaC5nb3Yuc2cvbWVkaWEvdGVjaG5ld3MvdXNpbmctYWktdG8tZGlmZmVyZW50aWF0ZS1tb3NxdWl0by1sYXJ2YWU=&amp;utm_content=aHR0cHM6Ly93d3cudGVjaC5nb3Yuc2cvZ2V0LWludm9sdmVkL3RlY2gta2FraS1uZXdzbGV0dGVy" class="editor-rtfLink" rel="noopener noreferrer nofollow" target="_blank">Tech Kaki Newsletter</a>
-</p>
-</li>
-<li>
-<p><a href="https://www.tech.gov.sg/media/technews/is-your-smartphone-slowing-down-get-it-back-up-to-speed-with-these-hacks?utm_medium=recommender_2&amp;utm_source=aHR0cHM6Ly93d3cudGVjaC5nb3Yuc2cvbWVkaWEvdGVjaG5ld3MvdXNpbmctYWktdG8tZGlmZmVyZW50aWF0ZS1tb3NxdWl0by1sYXJ2YWU=&amp;utm_content=aHR0cHM6Ly93d3cudGVjaC5nb3Yuc2cvbWVkaWEvdGVjaG5ld3MvaXMteW91ci1zbWFydHBob25lLXNsb3dpbmctZG93bi1nZXQtaXQtYmFjay11cC10by1zcGVlZC13aXRoLXRoZXNlLWhhY2tz" class="editor-rtfLink" rel="noopener noreferrer nofollow" target="_blank">Is your smartphone slowing down? Get it back up to speed with these hacks</a>
-</p>
-</li>
-<li>
-<p><a href="https://www.tech.gov.sg/media/technews/five-movies-and-shows-that-can-teach-you-about-tech?utm_medium=recommender_3&amp;utm_source=aHR0cHM6Ly93d3cudGVjaC5nb3Yuc2cvbWVkaWEvdGVjaG5ld3MvdXNpbmctYWktdG8tZGlmZmVyZW50aWF0ZS1tb3NxdWl0by1sYXJ2YWU=&amp;utm_content=aHR0cHM6Ly93d3cudGVjaC5nb3Yuc2cvbWVkaWEvdGVjaG5ld3MvZml2ZS1tb3ZpZXMtYW5kLXNob3dzLXRoYXQtY2FuLXRlYWNoLXlvdS1hYm91dC10ZWNo" class="editor-rtfLink" rel="noopener noreferrer nofollow" target="_blank">5 Movies and TV Shows that can teach you about tech!</a>
-</p>
-</li>
-<li>
-<p><a href="https://www.tech.gov.sg/media/technews/mosquitoes-and-data-fall-into-place-with-nea-gravitrap-project?utm_medium=recommender_4&amp;utm_source=aHR0cHM6Ly93d3cudGVjaC5nb3Yuc2cvbWVkaWEvdGVjaG5ld3MvdXNpbmctYWktdG8tZGlmZmVyZW50aWF0ZS1tb3NxdWl0by1sYXJ2YWU=&amp;utm_content=aHR0cHM6Ly93d3cudGVjaC5nb3Yuc2cvbWVkaWEvdGVjaG5ld3MvbW9zcXVpdG9lcy1hbmQtZGF0YS1mYWxsLWludG8tcGxhY2Utd2l0aC1uZWEtZ3Jhdml0cmFwLXByb2plY3Q=" class="editor-rtfLink" rel="noopener noreferrer nofollow" target="_blank">Mosquitoes and data fall into place with NEA’s Gravitrap project</a>
-</p>
-</li>
-</ul>
 <p></p>
