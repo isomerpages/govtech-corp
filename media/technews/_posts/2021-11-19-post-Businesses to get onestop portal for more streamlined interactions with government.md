@@ -94,27 +94,4 @@ owner, you’re going to get some help in 2022 to take your enterprise to
 the next level!</p>
 <p><em>Enjoyed this article? Check out this article to find out about&nbsp;<a href="https://www.tech.gov.sg/media/technews/here-are-5-jobs-that-didnt-exist-10-years-ago" class="editor-rtfLink" rel="noopener noreferrer nofollow" target="_blank">new jobs that didn’t exist a decade ago</a>, or this article where we show how&nbsp;<a href="https://www.tech.gov.sg/media/technews/singpass-digital-ic" class="editor-rtfLink" rel="noopener noreferrer nofollow" target="_blank">losing your IC is now a thing of the past!</a></em>
 </p>
-<h4><strong>Related Content:</strong></h4>
-<ul data-tight="true" class="tight">
-<li>
-<p><a href="https://www.tech.gov.sg/media/technews/inside-look-at-gobusiness?utm_medium=recommender_0&amp;utm_source=aHR0cHM6Ly93d3cudGVjaC5nb3Yuc2cvbWVkaWEvdGVjaG5ld3MvYnVzaW5lc3Nlcy10by1nZXQtb25lLXN0b3AtcG9ydGFs&amp;utm_content=aHR0cHM6Ly93d3cudGVjaC5nb3Yuc2cvbWVkaWEvdGVjaG5ld3MvaW5zaWRlLWxvb2stYXQtZ29idXNpbmVzcw==" class="editor-rtfLink" rel="noopener noreferrer nofollow" target="_blank">An inside look at how GovTech reduced 845 form fields to just 90 on the GoBusiness Licensing portal</a>
-</p>
-</li>
-<li>
-<p><a href="https://www.tech.gov.sg/products-and-services/gobusiness/?utm_medium=recommender_1&amp;utm_source=aHR0cHM6Ly93d3cudGVjaC5nb3Yuc2cvbWVkaWEvdGVjaG5ld3MvYnVzaW5lc3Nlcy10by1nZXQtb25lLXN0b3AtcG9ydGFs&amp;utm_content=aHR0cHM6Ly93d3cudGVjaC5nb3Yuc2cvcHJvZHVjdHMtYW5kLXNlcnZpY2VzL2dvYnVzaW5lc3Mv" class="editor-rtfLink" rel="noopener noreferrer nofollow" target="_blank">GoBusiness Portal</a>
-</p>
-</li>
-<li>
-<p><a href="https://www.tech.gov.sg/media/technews/early-tech-push-eases-covid-19-impact?utm_medium=recommender_2&amp;utm_source=aHR0cHM6Ly93d3cudGVjaC5nb3Yuc2cvbWVkaWEvdGVjaG5ld3MvYnVzaW5lc3Nlcy10by1nZXQtb25lLXN0b3AtcG9ydGFs&amp;utm_content=aHR0cHM6Ly93d3cudGVjaC5nb3Yuc2cvbWVkaWEvdGVjaG5ld3MvZWFybHktdGVjaC1wdXNoLWVhc2VzLWNvdmlkLTE5LWltcGFjdA==" class="editor-rtfLink" rel="noopener noreferrer nofollow" target="_blank">Early tech push eases Covid-19 impact</a>
-</p>
-</li>
-<li>
-<p><a href="https://www.tech.gov.sg/products-and-services/business-grants-portal/?utm_medium=recommender_3&amp;utm_source=aHR0cHM6Ly93d3cudGVjaC5nb3Yuc2cvbWVkaWEvdGVjaG5ld3MvYnVzaW5lc3Nlcy10by1nZXQtb25lLXN0b3AtcG9ydGFs&amp;utm_content=aHR0cHM6Ly93d3cudGVjaC5nb3Yuc2cvcHJvZHVjdHMtYW5kLXNlcnZpY2VzL2J1c2luZXNzLWdyYW50cy1wb3J0YWwv" class="editor-rtfLink" rel="noopener noreferrer nofollow" target="_blank">Business Grants Portal</a>
-</p>
-</li>
-<li>
-<p><a href="https://www.tech.gov.sg/products-and-services/lifesg/?utm_medium=recommender_4&amp;utm_source=aHR0cHM6Ly93d3cudGVjaC5nb3Yuc2cvbWVkaWEvdGVjaG5ld3MvYnVzaW5lc3Nlcy10by1nZXQtb25lLXN0b3AtcG9ydGFs&amp;utm_content=aHR0cHM6Ly93d3cudGVjaC5nb3Yuc2cvcHJvZHVjdHMtYW5kLXNlcnZpY2VzL2xpZmVzZy8=" class="editor-rtfLink" rel="noopener noreferrer nofollow" target="_blank">LifeSG</a>
-</p>
-</li>
-</ul>
 <p></p>
