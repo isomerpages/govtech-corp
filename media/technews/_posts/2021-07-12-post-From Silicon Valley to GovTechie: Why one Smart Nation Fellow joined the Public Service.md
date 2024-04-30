@@ -99,27 +99,4 @@ Skynet system but the simplest model with a trace of self-consciousness.
 What could possibly go wrong?</p>
 <p><em>The Smart Nation Fellowship Programme has attracted 14 Smart Nation Fellows to date, including Wang Zhen. Find out more about the programme&nbsp;<a href="https://www.tech.gov.sg/careers/smart-nation-fellowship-programme/" class="editor-rtfLink" rel="noopener noreferrer nofollow" target="_blank">here</a>.</em>
 </p>
-<h4><strong>Related Content</strong></h4>
-<ul data-tight="true" class="tight">
-<li>
-<p><a href="https://www.tech.gov.sg/media/technews/tech-talent-for-the-people?utm_medium=recommender_0&amp;utm_source=aHR0cHM6Ly93d3cudGVjaC5nb3Yuc2cvbWVkaWEvdGVjaG5ld3MvZnJvbS1zaWxpY29uLXZhbGxleS10by1nb3Z0ZWNoaWU=&amp;utm_content=aHR0cHM6Ly93d3cudGVjaC5nb3Yuc2cvbWVkaWEvdGVjaG5ld3MvdGVjaC10YWxlbnQtZm9yLXRoZS1wZW9wbGU=" rel="noopener noreferrer nofollow" target="_blank"><u>Tech talent for the people</u></a>
-</p>
-</li>
-<li>
-<p><a href="https://www.tech.gov.sg/careers/smart-nation-fellowship-programme/?utm_medium=recommender_1&amp;utm_source=aHR0cHM6Ly93d3cudGVjaC5nb3Yuc2cvbWVkaWEvdGVjaG5ld3MvZnJvbS1zaWxpY29uLXZhbGxleS10by1nb3Z0ZWNoaWU=&amp;utm_content=aHR0cHM6Ly93d3cudGVjaC5nb3Yuc2cvY2FyZWVycy9zbWFydC1uYXRpb24tZmVsbG93c2hpcC1wcm9ncmFtbWUv" rel="noopener noreferrer nofollow" target="_blank"><u>Smart Nation Fellowship Programme</u></a>
-</p>
-</li>
-<li>
-<p><a href="https://www.tech.gov.sg/media/technews/questions-for-scholars?utm_medium=recommender_2&amp;utm_source=aHR0cHM6Ly93d3cudGVjaC5nb3Yuc2cvbWVkaWEvdGVjaG5ld3MvZnJvbS1zaWxpY29uLXZhbGxleS10by1nb3Z0ZWNoaWU=&amp;utm_content=aHR0cHM6Ly93d3cudGVjaC5nb3Yuc2cvbWVkaWEvdGVjaG5ld3MvcXVlc3Rpb25zLWZvci1zY2hvbGFycw==" rel="noopener noreferrer nofollow" target="_blank"><u>‘Tech sector booming – why you work for gahmen?’ and other questions you always wanted to ask a Smart Nation scholar</u></a>
-</p>
-</li>
-<li>
-<p><a href="https://www.tech.gov.sg/media/technews/digital-government-smart-nation-pursuing%20singapore-tech-imperative?utm_medium=recommender_3&amp;utm_source=aHR0cHM6Ly93d3cudGVjaC5nb3Yuc2cvbWVkaWEvdGVjaG5ld3MvZnJvbS1zaWxpY29uLXZhbGxleS10by1nb3Z0ZWNoaWU=&amp;utm_content=aHR0cHM6Ly93d3cudGVjaC5nb3Yuc2cvbWVkaWEvdGVjaG5ld3MvZGlnaXRhbC1nb3Zlcm5tZW50LXNtYXJ0LW5hdGlvbi1wdXJzdWluZyBzaW5nYXBvcmUtdGVjaC1pbXBlcmF0aXZl" rel="noopener noreferrer nofollow" target="_blank"><u>Digital Government, Smart Nation: Pursuing Singapore’s Tech Imperative</u></a>
-</p>
-</li>
-<li>
-<p><a href="https://www.tech.gov.sg/media/technews/a-day-in-the-life-of-a-data-scientist-in-tap?utm_medium=recommender_4&amp;utm_source=aHR0cHM6Ly93d3cudGVjaC5nb3Yuc2cvbWVkaWEvdGVjaG5ld3MvZnJvbS1zaWxpY29uLXZhbGxleS10by1nb3Z0ZWNoaWU=&amp;utm_content=aHR0cHM6Ly93d3cudGVjaC5nb3Yuc2cvbWVkaWEvdGVjaG5ld3MvYS1kYXktaW4tdGhlLWxpZmUtb2YtYS1kYXRhLXNjaWVudGlzdC1pbi10YXA=" rel="noopener noreferrer nofollow" target="_blank"><u>A day in the life of a Data Scientist in the Technology Associate Programme</u></a>
-</p>
-</li>
-</ul>
 <p></p>
