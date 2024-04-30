@@ -126,27 +126,4 @@ website: <a href="https://medium.com/dsaid-govtech/training-the-oneservice-chatb
 </p>
 <p><em>For a fuller technical explanation of how the OneService chatbot was developed, check out the&nbsp;<a href="https://medium.com/dsaid-govtech/training-the-oneservice-chatbot-to-analyse-feedback-on-municipal-issues-using-natural-language-4302aa5a3946" class="editor-rtfLink" rel="noopener noreferrer nofollow" target="_blank">blog post</a>&nbsp;by our Data Science and Artificial Intelligence Division!</em>
 </p>
-<h4><strong>Related Content</strong></h4>
-<ul data-tight="true" class="tight">
-<li>
-<p><a href="https://www.tech.gov.sg/media/technews/a-conversation-with-bertrand-lee?utm_medium=recommender_0&amp;utm_source=aHR0cHM6Ly93d3cudGVjaC5nb3Yuc2cvbWVkaWEvdGVjaG5ld3MvZGV2ZWxvcGluZy10aGUtb25lLXNlcnZpY2UtY2hhdGJvdA==&amp;utm_content=aHR0cHM6Ly93d3cudGVjaC5nb3Yuc2cvbWVkaWEvdGVjaG5ld3MvYS1jb252ZXJzYXRpb24td2l0aC1iZXJ0cmFuZC1sZWU=" rel="noopener noreferrer nofollow" target="_blank"><u>A conversation with Bertrand Lee, GovTech's Smart Nation Fellow</u></a>
-</p>
-</li>
-<li>
-<p><a href="https://www.tech.gov.sg/media/technews/what-is-the-big-deal-about-chatbots?utm_medium=recommender_1&amp;utm_source=aHR0cHM6Ly93d3cudGVjaC5nb3Yuc2cvbWVkaWEvdGVjaG5ld3MvZGV2ZWxvcGluZy10aGUtb25lLXNlcnZpY2UtY2hhdGJvdA==&amp;utm_content=aHR0cHM6Ly93d3cudGVjaC5nb3Yuc2cvbWVkaWEvdGVjaG5ld3Mvd2hhdC1pcy10aGUtYmlnLWRlYWwtYWJvdXQtY2hhdGJvdHM=" rel="noopener noreferrer nofollow" target="_blank"><u>What's the big deal about (chat)bots?</u></a>
-</p>
-</li>
-<li>
-<p><a href="https://www.tech.gov.sg/media/technews/board-taxi-got-discount-ask-taxibot?utm_medium=recommender_2&amp;utm_source=aHR0cHM6Ly93d3cudGVjaC5nb3Yuc2cvbWVkaWEvdGVjaG5ld3MvZGV2ZWxvcGluZy10aGUtb25lLXNlcnZpY2UtY2hhdGJvdA==&amp;utm_content=aHR0cHM6Ly93d3cudGVjaC5nb3Yuc2cvbWVkaWEvdGVjaG5ld3MvYm9hcmQtdGF4aS1nb3QtZGlzY291bnQtYXNrLXRheGlib3Q=" rel="noopener noreferrer nofollow" target="_blank"><u>Board taxi got discount? Ask TaxiBot!</u></a>
-</p>
-</li>
-<li>
-<p><a href="https://www.tech.gov.sg/media/technews/chatty-champions?utm_medium=recommender_3&amp;utm_source=aHR0cHM6Ly93d3cudGVjaC5nb3Yuc2cvbWVkaWEvdGVjaG5ld3MvZGV2ZWxvcGluZy10aGUtb25lLXNlcnZpY2UtY2hhdGJvdA==&amp;utm_content=aHR0cHM6Ly93d3cudGVjaC5nb3Yuc2cvbWVkaWEvdGVjaG5ld3MvY2hhdHR5LWNoYW1waW9ucw==" rel="noopener noreferrer nofollow" target="_blank"><u>Chatty champions</u></a>
-</p>
-</li>
-<li>
-<p><a href="https://www.tech.gov.sg/products-and-services/vica/?utm_medium=recommender_4&amp;utm_source=aHR0cHM6Ly93d3cudGVjaC5nb3Yuc2cvbWVkaWEvdGVjaG5ld3MvZGV2ZWxvcGluZy10aGUtb25lLXNlcnZpY2UtY2hhdGJvdA==&amp;utm_content=aHR0cHM6Ly93d3cudGVjaC5nb3Yuc2cvcHJvZHVjdHMtYW5kLXNlcnZpY2VzL3ZpY2Ev" rel="noopener noreferrer nofollow" target="_blank"><u>VICA – Virtual Intelligent Chat Assistant</u></a>
-</p>
-</li>
-</ul>
 <p></p>
