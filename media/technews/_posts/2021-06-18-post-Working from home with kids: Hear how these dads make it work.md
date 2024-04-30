@@ -141,28 +141,4 @@ The smiles on their faces can really make me forget about any stress or
 troubles that I am facing.</p>
 <p><em>Kudos to all fathers who wear many hats in their daily lives and for keeping a strong front before their families and colleagues. A good support system is important, and we hope that you have found time for yourself and enjoy the special moment you currently share with your children. Happy Father’s Day!</em>
 </p>
-<hr>
-<h4><strong>Related Content</strong></h4>
-<ul data-tight="true" class="tight">
-<li>
-<p><a href="https://www.tech.gov.sg/media/technews/balancing-work-and-family-life?utm_medium=recommender_0&amp;utm_source=aHR0cHM6Ly93d3cudGVjaC5nb3Yuc2cvbWVkaWEvdGVjaG5ld3Mvd29ya2luZy1mcm9tLWhvbWUtd2l0aC1raWRz&amp;utm_content=aHR0cHM6Ly93d3cudGVjaC5nb3Yuc2cvbWVkaWEvdGVjaG5ld3MvYmFsYW5jaW5nLXdvcmstYW5kLWZhbWlseS1saWZl" rel="noopener noreferrer nofollow" target="_blank"><u>Balancing Work &amp; Life - GovTech mums reveal how they do it.</u></a>
-</p>
-</li>
-<li>
-<p><a href="https://www.tech.gov.sg/media/technews/questions-for-scholars?utm_medium=recommender_1&amp;utm_source=aHR0cHM6Ly93d3cudGVjaC5nb3Yuc2cvbWVkaWEvdGVjaG5ld3Mvd29ya2luZy1mcm9tLWhvbWUtd2l0aC1raWRz&amp;utm_content=aHR0cHM6Ly93d3cudGVjaC5nb3Yuc2cvbWVkaWEvdGVjaG5ld3MvcXVlc3Rpb25zLWZvci1zY2hvbGFycw==" rel="noopener noreferrer nofollow" target="_blank"><u>‘Tech sector booming – why you work for gahmen?’ and other questions you always wanted to ask a Smart Nation scholar</u></a>
-</p>
-</li>
-<li>
-<p><a href="https://www.tech.gov.sg/media/technews/cny2021-digital-hacks?utm_medium=recommender_2&amp;utm_source=aHR0cHM6Ly93d3cudGVjaC5nb3Yuc2cvbWVkaWEvdGVjaG5ld3Mvd29ya2luZy1mcm9tLWhvbWUtd2l0aC1raWRz&amp;utm_content=aHR0cHM6Ly93d3cudGVjaC5nb3Yuc2cvbWVkaWEvdGVjaG5ld3MvY255MjAyMS1kaWdpdGFsLWhhY2tz" rel="noopener noreferrer nofollow" target="_blank"><u>CNY2021 Digital Hacks</u></a>
-</p>
-</li>
-<li>
-<p><a href="https://www.tech.gov.sg/media/technews/sparking-a-love-for-coding-in-kids?utm_medium=recommender_3&amp;utm_source=aHR0cHM6Ly93d3cudGVjaC5nb3Yuc2cvbWVkaWEvdGVjaG5ld3Mvd29ya2luZy1mcm9tLWhvbWUtd2l0aC1raWRz&amp;utm_content=aHR0cHM6Ly93d3cudGVjaC5nb3Yuc2cvbWVkaWEvdGVjaG5ld3Mvc3BhcmtpbmctYS1sb3ZlLWZvci1jb2RpbmctaW4ta2lkcw==" rel="noopener noreferrer nofollow" target="_blank"><u>Sparking a love for coding in kids</u></a>
-</p>
-</li>
-<li>
-<p><a href="https://www.tech.gov.sg/media/technews/how-one-govtech-employee-worked-in-two-places-in-2020?utm_medium=recommender_4&amp;utm_source=aHR0cHM6Ly93d3cudGVjaC5nb3Yuc2cvbWVkaWEvdGVjaG5ld3Mvd29ya2luZy1mcm9tLWhvbWUtd2l0aC1raWRz&amp;utm_content=aHR0cHM6Ly93d3cudGVjaC5nb3Yuc2cvbWVkaWEvdGVjaG5ld3MvaG93LW9uZS1nb3Z0ZWNoLWVtcGxveWVlLXdvcmtlZC1pbi10d28tcGxhY2VzLWluLTIwMjA=" rel="noopener noreferrer nofollow" target="_blank"><u>How one GovTech employee worked in two places in 2020</u></a>
-</p>
-</li>
-</ul>
 <p></p>
