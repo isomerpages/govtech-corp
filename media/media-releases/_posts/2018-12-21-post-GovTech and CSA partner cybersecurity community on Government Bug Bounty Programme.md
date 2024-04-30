@@ -22,10 +22,9 @@ hackers.&nbsp;Discovered ‘bugs’ will be reported to the organisation for
 remediation.</p>
 <p>The GBBP will run over&nbsp;a period of three weeks and involves&nbsp;five
 selected internet-facing government systems and websites with high user
-touchpoints: <a href="https://www.tech.gov.sg/" rel="noopener noreferrer nofollow" target="_blank">gov.sg</a> website;&nbsp;REACH
-website;&nbsp;Ministry of Communications &amp; Information’s Press Accreditation
-Card (PAC) Online;&nbsp;Ministry of Foreign Affairs (MFA) website;&nbsp;and
-MFA eRegister.</p>
+touchpoints: gov.sg website;&nbsp;REACH website;&nbsp;Ministry of Communications
+&amp; Information’s Press Accreditation Card (PAC) Online;&nbsp;Ministry
+of Foreign Affairs (MFA) website;&nbsp;and MFA eRegister.</p>
 <p>GovTech and CSA will&nbsp;be partnering&nbsp;HackerOne&nbsp;–&nbsp;the
 world’s largest community of cybersecurity researchers and white hat hackers&nbsp;-&nbsp;for&nbsp;the
 GBBP. HackerOne successfully&nbsp;organised&nbsp;the Ministry of Defence’s
