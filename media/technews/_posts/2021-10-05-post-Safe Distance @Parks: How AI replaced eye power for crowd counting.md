@@ -30,7 +30,7 @@ to make the project a reality.</p>
 </div>
 <p><em>Abhishek Tandon led the team which developed Safe Distance @ Parks. Photo: GovTech</em>
 </p>
-<h3>Qns: Let’s start with an overview of Safe Distance @ Parks. What problem was it meant to tackle and how did it do so?</h3>
+<h3>Qn: Let’s start with an overview of Safe Distance @ Parks. What problem was it meant to tackle and how did it do so?</h3>
 <p>As you observed, the pandemic led to a spike in visitors to our parks
 and with the Covid-19 situation still ongoing, NParks is still seeing heightened
 public interest in Singapore’s green spaces.</p>
@@ -54,7 +54,7 @@ can identify the different types of key information with 85 per cent accuracy.</
 <p>At this stage, we are able to automatically identify the nature of the
 complaint, extract the relevant details, fill out the feedback template,
 and prompt the user to add missing information.</p>
-<h3>Qns: The Safe Distance @ parks website was developed in 3.5 days, and the automated update was developed in two weeks. Prior to the automated counting enabled by computer vision, how were crowd sizes determined and updated on the site? What did the team change or improve on?</h3>
+<h3>Qn: The Safe Distance @ parks website was developed in 3.5 days, and the automated update was developed in two weeks. Prior to the automated counting enabled by computer vision, how were crowd sizes determined and updated on the site? What did the team change or improve on?</h3>
 <p>As GovTechies, we are ABC (Agile, Bold, and Collaborative). With support
 from GovTech and NParks management, we got the portal up and running in
 3.5 days. Initially, the crowd sizes were determined by observations from
@@ -80,7 +80,7 @@ staff, employing central video analytics systems and integrating with Electronic
 Parking Systems. Given that the COVID-19 situation is still ongoing, this
 has helped to free up staff time to perform essential greenery and park
 maintenance tasks.</p>
-<h3>Qns: What were the main challenges involved in this project?</h3>
+<h3>Qn: What were the main challenges involved in this project?</h3>
 <p>One of the challenges was establishing the networks of cameras for automated
 updating.</p>
 <p>There were already existing cameras in place at various gardens and parks,
@@ -89,7 +89,7 @@ updating system. Also, not all cameras had the ability to live-stream the
 feeds to a central location or share images. NParks rapidly deployed additional
 CCTV cameras to our parks, gardens and nature reserves, prioritising sites
 that were more popular with visitors and required closer monitoring.</p>
-<h3>Qns: What was it like working across agencies and partnering with the data science team from GovTech? What processes did you use to enable rapid development and deployment of the solution?</h3>
+<h3>Qn: What was it like working across agencies and partnering with the data science team from GovTech? What processes did you use to enable rapid development and deployment of the solution?</h3>
 <p>Actually, Safe Distance @ Parks is not the only project we have collaborated
 with GovTech on. Another example is the “Spot the Robot dog”, which was
 programmed to monitor social distancing.</p>
@@ -108,7 +108,7 @@ as well as suggested placement of camera location.</p>
 measures in parks by two-thirds. This allowed Singaporeans to continue
 to seek respite at our parks safely, reaping the benefits of greenery and
 nature for their health and wellbeing during this period.</p>
-<h3>Qns: How essential were cloud services to this project?</h3>
+<h3>Qn: How essential were cloud services to this project?</h3>
 <p>A major part of Safe Distance @ Parks is hosted on the cloud. The various
 teams’ familiarity with cloud systems gave us a significant head start
 in rapidly deploying our CCTV analytics prototype.</p>
@@ -117,7 +117,7 @@ down different aspects of the project as and when necessary, such as during
 a sudden surge in website traffic. The website received 620,000 monthly
 visits at its peak.</p>
 <p>To sum up, the end-to-end architecture is scalable, resilient, and secure.</p>
-<h3>Qns: What other tech projects can we look forward to from NParks?</h3>
+<h3>Qn: What other tech projects can we look forward to from NParks?</h3>
 <p>We’re always looking to collaborate with partners from both the public
 and private sectors, as well as institutes of higher learning. The “Spot
 the Robot dog” example earlier is one. We’re also working with Garuda Robotics
@@ -127,27 +127,4 @@ measures.</p>
 <p>And, of course, we’re always working to enhance the capabilities of our
 existing systems. We hope to have exciting new updates in the future! Stay
 safe and healthy!</p>
-<h4><strong>Related Content</strong></h4>
-<ul data-tight="true" class="tight">
-<li>
-<p><a href="https://www.tech.gov.sg/media/media-releases/spot-robot-trial-for-safe-distancing-operations?utm_medium=recommender_0&amp;utm_source=aHR0cHM6Ly93d3cudGVjaC5nb3Yuc2cvbWVkaWEvdGVjaG5ld3Mvc2FmZS1kaXN0YW5jZS1hdC1ucGFya3M=&amp;utm_content=aHR0cHM6Ly93d3cudGVjaC5nb3Yuc2cvbWVkaWEvbWVkaWEtcmVsZWFzZXMvc3BvdC1yb2JvdC10cmlhbC1mb3Itc2FmZS1kaXN0YW5jaW5nLW9wZXJhdGlvbnM=" class="editor-rtfLink" rel="noopener noreferrer nofollow" target="_blank">NParks and SNDGG trial SPOT robot for safe distancing operations at Bishan-Ang Mo Kio Park</a>
-</p>
-</li>
-<li>
-<p><a href="https://www.tech.gov.sg/media/technews/smart-cities-around-the-world-estonia?utm_medium=recommender_1&amp;utm_source=aHR0cHM6Ly93d3cudGVjaC5nb3Yuc2cvbWVkaWEvdGVjaG5ld3Mvc2FmZS1kaXN0YW5jZS1hdC1ucGFya3M=&amp;utm_content=aHR0cHM6Ly93d3cudGVjaC5nb3Yuc2cvbWVkaWEvdGVjaG5ld3Mvc21hcnQtY2l0aWVzLWFyb3VuZC10aGUtd29ybGQtZXN0b25pYQ==" class="editor-rtfLink" rel="noopener noreferrer nofollow" target="_blank">Smart Cities around the world. The Estonia Edition</a>
-</p>
-</li>
-<li>
-<p><a href="https://www.tech.gov.sg/media/technews/smart-cities-around-the-world-amsterdam?utm_medium=recommender_2&amp;utm_source=aHR0cHM6Ly93d3cudGVjaC5nb3Yuc2cvbWVkaWEvdGVjaG5ld3Mvc2FmZS1kaXN0YW5jZS1hdC1ucGFya3M=&amp;utm_content=aHR0cHM6Ly93d3cudGVjaC5nb3Yuc2cvbWVkaWEvdGVjaG5ld3Mvc21hcnQtY2l0aWVzLWFyb3VuZC10aGUtd29ybGQtYW1zdGVyZGFt" class="editor-rtfLink" rel="noopener noreferrer nofollow" target="_blank">Smart Cities around the world. Amsterdam Edition</a>
-</p>
-</li>
-<li>
-<p><a href="https://www.tech.gov.sg/media/technews/five-movies-and-shows-that-can-teach-you-about-tech?utm_medium=recommender_3&amp;utm_source=aHR0cHM6Ly93d3cudGVjaC5nb3Yuc2cvbWVkaWEvdGVjaG5ld3Mvc2FmZS1kaXN0YW5jZS1hdC1ucGFya3M=&amp;utm_content=aHR0cHM6Ly93d3cudGVjaC5nb3Yuc2cvbWVkaWEvdGVjaG5ld3MvZml2ZS1tb3ZpZXMtYW5kLXNob3dzLXRoYXQtY2FuLXRlYWNoLXlvdS1hYm91dC10ZWNo" class="editor-rtfLink" rel="noopener noreferrer nofollow" target="_blank">5 Movies and TV Shows that can teach you about tech!</a>
-</p>
-</li>
-<li>
-<p><a href="https://www.tech.gov.sg/media/technews/subscribe?utm_medium=recommender_4&amp;utm_source=aHR0cHM6Ly93d3cudGVjaC5nb3Yuc2cvbWVkaWEvdGVjaG5ld3Mvc2FmZS1kaXN0YW5jZS1hdC1ucGFya3M=&amp;utm_content=aHR0cHM6Ly93d3cudGVjaC5nb3Yuc2cvbWVkaWEvdGVjaG5ld3Mvc3Vic2NyaWJl" class="editor-rtfLink" rel="noopener noreferrer nofollow" target="_blank">TechNews Newsletter</a>
-</p>
-</li>
-</ul>
 <p></p>
