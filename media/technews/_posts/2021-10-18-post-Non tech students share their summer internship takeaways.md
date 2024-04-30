@@ -106,27 +106,4 @@ for.</p>
 maximise the opportunity to learn as much as possible!</p>
 <p><strong>Looking for your next internship? We invite you to apply with us at&nbsp;<a href="https://www.tech.gov.sg/careers/students-and-graduates/" rel="noopener noreferrer nofollow" target="_blank">https://go.gov.sg/internship</a>.</strong>
 </p>
-<h4><strong>Related Content</strong></h4>
-<ul data-tight="true" class="tight">
-<li>
-<p><a href="https://www.tech.gov.sg/careers/students-and-graduates/?utm_medium=recommender_0&amp;utm_source=aHR0cHM6Ly93d3cudGVjaC5nb3Yuc2cvbWVkaWEvdGVjaG5ld3Mvbm9uLXRlY2gtc3R1ZGVudHMtc2hhcmUtaW50ZXJuc2hpcC10YWtlYXdheXM=&amp;utm_content=aHR0cHM6Ly93d3cudGVjaC5nb3Yuc2cvY2FyZWVycy9zdHVkZW50cy1hbmQtZ3JhZHVhdGVzLw==" class="editor-rtfLink" rel="noopener noreferrer nofollow" target="_blank">Students and Graduates</a>
-</p>
-</li>
-<li>
-<p><a href="https://www.tech.gov.sg/media/technews/a-day-in-the-life-of-a-data-scientist-in-tap?utm_medium=recommender_1&amp;utm_source=aHR0cHM6Ly93d3cudGVjaC5nb3Yuc2cvbWVkaWEvdGVjaG5ld3Mvbm9uLXRlY2gtc3R1ZGVudHMtc2hhcmUtaW50ZXJuc2hpcC10YWtlYXdheXM=&amp;utm_content=aHR0cHM6Ly93d3cudGVjaC5nb3Yuc2cvbWVkaWEvdGVjaG5ld3MvYS1kYXktaW4tdGhlLWxpZmUtb2YtYS1kYXRhLXNjaWVudGlzdC1pbi10YXA=" class="editor-rtfLink" rel="noopener noreferrer nofollow" target="_blank">A day in the life of a Data Scientist in the Technology Associate Programme</a>
-</p>
-</li>
-<li>
-<p><a href="https://www.tech.gov.sg/media/technews/questions-for-scholars?utm_medium=recommender_2&amp;utm_source=aHR0cHM6Ly93d3cudGVjaC5nb3Yuc2cvbWVkaWEvdGVjaG5ld3Mvbm9uLXRlY2gtc3R1ZGVudHMtc2hhcmUtaW50ZXJuc2hpcC10YWtlYXdheXM=&amp;utm_content=aHR0cHM6Ly93d3cudGVjaC5nb3Yuc2cvbWVkaWEvdGVjaG5ld3MvcXVlc3Rpb25zLWZvci1zY2hvbGFycw==" class="editor-rtfLink" rel="noopener noreferrer nofollow" target="_blank">‘Tech sector booming – why you work for gahmen?’ and other questions you always wanted to ask a Smart Nation scholar</a>
-</p>
-</li>
-<li>
-<p><a href="https://www.tech.gov.sg/media/technews/resume-tips-from-govtech-recruiters?utm_medium=recommender_3&amp;utm_source=aHR0cHM6Ly93d3cudGVjaC5nb3Yuc2cvbWVkaWEvdGVjaG5ld3Mvbm9uLXRlY2gtc3R1ZGVudHMtc2hhcmUtaW50ZXJuc2hpcC10YWtlYXdheXM=&amp;utm_content=aHR0cHM6Ly93d3cudGVjaC5nb3Yuc2cvbWVkaWEvdGVjaG5ld3MvcmVzdW1lLXRpcHMtZnJvbS1nb3Z0ZWNoLXJlY3J1aXRlcnM=" class="editor-rtfLink" rel="noopener noreferrer nofollow" target="_blank">Resume tips from GovTech Recruiters</a>
-</p>
-</li>
-<li>
-<p><a href="https://www.tech.gov.sg/careers/how-we-hire/?utm_medium=recommender_4&amp;utm_source=aHR0cHM6Ly93d3cudGVjaC5nb3Yuc2cvbWVkaWEvdGVjaG5ld3Mvbm9uLXRlY2gtc3R1ZGVudHMtc2hhcmUtaW50ZXJuc2hpcC10YWtlYXdheXM=&amp;utm_content=aHR0cHM6Ly93d3cudGVjaC5nb3Yuc2cvY2FyZWVycy9ob3ctd2UtaGlyZS8=" class="editor-rtfLink" rel="noopener noreferrer nofollow" target="_blank">How We Hire</a>
-</p>
-</li>
-</ul>
 <p></p>
