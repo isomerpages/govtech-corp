@@ -125,14 +125,12 @@ learning needs.</p>
 <h3>How to find out more</h3>
 <p>The increase in ICT procurement spending will create more opportunities
 for SMEs to support Singapore’s digitalisation.</p>
-<blockquote>
 <p>One of the SMEs that has been part of this journey is Simple Solution
 Systems, an IT solutions provider that won the agile application development
-and user experience design bulk tender for the whole-of-government. Mr
-Anurax Lian, Managing Director, Simple Solution Systems, said: “Being an
-SME, we face very stiff competition in attracting top tech talent. The
+and user experience design bulk tender for the whole-of-government.</p>
+<p>Mr Anurax Lian, Managing Director, Simple Solution Systems, said: “Being
+an SME, we face very stiff competition in attracting top tech talent. The
 bulk tender has enabled us to better attract, nurture and retain local
 IT talent and provide a platform for career growth, widened exposure in
 the public sector, and levelled the playing field for SMEs.”</p>
-</blockquote>
 <p></p>
