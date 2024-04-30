@@ -106,27 +106,4 @@ contracts, businesses can position themselves to stay nimble and innovative
 and to realise the full value and importance of being Agile.</p>
 <p><em>This opinion piece was contributed by the General Counsel of the Government Technology Agency, Vincent Kor, where he advises and works on technology law matters.</em>
 </p>
-<h4><strong>Related Content</strong></h4>
-<ul data-tight="true" class="tight">
-<li>
-<p><a href="https://www.tech.gov.sg/media/technews/tech-talk-to-sound-like-a-tech-veteran?utm_medium=recommender_0&amp;utm_source=aHR0cHM6Ly93d3cudGVjaC5nb3Yuc2cvbWVkaWEvdGVjaG5ld3MvdGhlLWltcG9ydGFuY2Utb2YtYmVpbmctYWdpbGU=&amp;utm_content=aHR0cHM6Ly93d3cudGVjaC5nb3Yuc2cvbWVkaWEvdGVjaG5ld3MvdGVjaC10YWxrLXRvLXNvdW5kLWxpa2UtYS10ZWNoLXZldGVyYW4=" rel="noopener noreferrer nofollow" target="_blank"><u>Tech Talk to sound like a Tech Vet</u></a>
-</p>
-</li>
-<li>
-<p><a href="https://www.tech.gov.sg/media/technews/how-to-get-the-most-out-of-agile-development?utm_medium=recommender_1&amp;utm_source=aHR0cHM6Ly93d3cudGVjaC5nb3Yuc2cvbWVkaWEvdGVjaG5ld3MvdGhlLWltcG9ydGFuY2Utb2YtYmVpbmctYWdpbGU=&amp;utm_content=aHR0cHM6Ly93d3cudGVjaC5nb3Yuc2cvbWVkaWEvdGVjaG5ld3MvaG93LXRvLWdldC10aGUtbW9zdC1vdXQtb2YtYWdpbGUtZGV2ZWxvcG1lbnQ=" rel="noopener noreferrer nofollow" target="_blank"><u>How to get the most out of agile development</u></a>
-</p>
-</li>
-<li>
-<p><a href="https://www.tech.gov.sg/media/technews/the-4-principles-of-modern-agility?utm_medium=recommender_2&amp;utm_source=aHR0cHM6Ly93d3cudGVjaC5nb3Yuc2cvbWVkaWEvdGVjaG5ld3MvdGhlLWltcG9ydGFuY2Utb2YtYmVpbmctYWdpbGU=&amp;utm_content=aHR0cHM6Ly93d3cudGVjaC5nb3Yuc2cvbWVkaWEvdGVjaG5ld3MvdGhlLTQtcHJpbmNpcGxlcy1vZi1tb2Rlcm4tYWdpbGl0eQ==" rel="noopener noreferrer nofollow" target="_blank"><u>Leading with the Team</u></a>
-</p>
-</li>
-<li>
-<p><a href="https://www.tech.gov.sg/media/technews/accounting-for-agility-in-the-workplace?utm_medium=recommender_3&amp;utm_source=aHR0cHM6Ly93d3cudGVjaC5nb3Yuc2cvbWVkaWEvdGVjaG5ld3MvdGhlLWltcG9ydGFuY2Utb2YtYmVpbmctYWdpbGU=&amp;utm_content=aHR0cHM6Ly93d3cudGVjaC5nb3Yuc2cvbWVkaWEvdGVjaG5ld3MvYWNjb3VudGluZy1mb3ItYWdpbGl0eS1pbi10aGUtd29ya3BsYWNl" rel="noopener noreferrer nofollow" target="_blank"><u>Accounting for agility in the workplace</u></a>
-</p>
-</li>
-<li>
-<p><a href="https://www.tech.gov.sg/media/technews/running-fast-running-slow?utm_medium=recommender_4&amp;utm_source=aHR0cHM6Ly93d3cudGVjaC5nb3Yuc2cvbWVkaWEvdGVjaG5ld3MvdGhlLWltcG9ydGFuY2Utb2YtYmVpbmctYWdpbGU=&amp;utm_content=aHR0cHM6Ly93d3cudGVjaC5nb3Yuc2cvbWVkaWEvdGVjaG5ld3MvcnVubmluZy1mYXN0LXJ1bm5pbmctc2xvdw==" rel="noopener noreferrer nofollow" target="_blank"><u>Running fast, running slow</u></a>
-</p>
-</li>
-</ul>
 <p></p>
