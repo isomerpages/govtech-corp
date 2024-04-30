@@ -10,7 +10,6 @@ description: GovTech Singapore and UK's Government Digital Service to boost
 image: ""
 variant: tiptap
 ---
-<h3><strong>GovTech Singapore and the UK’s Government Digital Service (GDS) sign MoU to deepen collaboration and exchange in the development of Digital Government Services</strong></h3>
 <p>Singapore’s Government Technology Agency (GovTech) and the UK’s Government
 Digital Service (GDS) signed a Memorandum of Understanding (MoU) yesterday
 (Jun 13) to strengthen collaboration in the design and delivery of digital
@@ -46,13 +45,13 @@ bilateral partnership between the two nations.</p>
 <p><strong>JOINTLY ISSUED BY BRITISH HIGH COMMISSION SINGAPORE AND GOVTECH</strong>
 </p>
 <hr>
-<h4><strong>About UK Government Digital Service</strong></h4>
+<h4>About UK Government Digital Service</h4>
 <p>The Government Digital Service (GDS) is part of the Cabinet Office. It
 helps government work better for everyone by leading digital transformation.
 GDS helps people interact with government more easily and support government
 to operate more effectively and efficiently.</p>
 <p>You can read more about GDS’ work in the <a href="https://www.gov.uk/government/publications/government-transformation-strategy-2017-to-2020" rel="noopener noreferrer nofollow" target="_blank">Government Transformation Strategy 2017 to 2020</a>.</p>
-<h4><strong>About Government Technology Agency</strong></h4>
+<h4>About Government Technology Agency</h4>
 <p>The Government Technology Agency (GovTech) is the lead agency driving
 Singapore’s Smart Nation initiative and public sector digital transformation.
 As the Centre of Excellence for Infocomm Technology and Smart Systems (ICT
@@ -67,7 +66,7 @@ public sector. GovTech is a Statutory Board under the Smart Nation and
 Digital Government Group (SNDGG) in the Prime Minister’s Office.</p>
 <p>For more information, please visit . Follow GovTech on Facebook/Twitter/Instagram
 @GovTechSG.</p>
-<h4><strong>About the SG-UK Partnership for the Future</strong></h4>
+<h4>About the SG-UK Partnership for the Future</h4>
 <p>In January 2019, the UK’s Foreign Secretary the Rt. Hon. Jeremy Hunt and
 Singapore’s Dr Vivian Balakrishnan launched the SG-UK Partnership for the
 Future. 2019 is a significant year for both Singapore and the United Kingdom.
@@ -94,7 +93,7 @@ areas that the Partnership for the Future focuses on:</p>
 <p>Education, culture and youth</p>
 </li>
 </ul>
-<h4><strong>For media enquiries, please contact:</strong></h4>
+<h4>For media enquiries, please contact:</h4>
 <p>Joycelyn CHAN (Ms)
 <br>Communications &amp; Marketing Group
 <br>Government Technology Agency of Singapore
