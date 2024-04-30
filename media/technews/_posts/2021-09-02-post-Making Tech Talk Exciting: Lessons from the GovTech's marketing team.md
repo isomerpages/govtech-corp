@@ -133,27 +133,4 @@ is more likely to relate better to the product and understand the benefits!</p>
 <p>It’s a win-win!</p>
 <p><em>Enjoyed this article? Check out this article to find out how&nbsp;<a href="https://www.tech.gov.sg/media/technews/history-of-the-internet" class="editor-rtfLink" rel="noopener noreferrer nofollow" target="_blank">the internet in Singapore</a>&nbsp;came about or this article where we chronicle the way&nbsp;<a href="https://www.tech.gov.sg/media/technews/history-of-parking" class="editor-rtfLink" rel="noopener noreferrer nofollow" target="_blank">parking evolved</a>&nbsp;here in Singapore.</em>
 </p>
-<h5><strong>Related Content</strong></h5>
-<ul data-tight="true" class="tight">
-<li>
-<p><a href="https://www.tech.gov.sg/media/technews/tech-talk-to-sound-like-a-tech-veteran?utm_medium=recommender_0&amp;utm_source=aHR0cHM6Ly93d3cudGVjaC5nb3Yuc2cvbWVkaWEvdGVjaG5ld3MvbWFraW5nLXRlY2gtdGFsay1leGNpdGluZw==&amp;utm_content=aHR0cHM6Ly93d3cudGVjaC5nb3Yuc2cvbWVkaWEvdGVjaG5ld3MvdGVjaC10YWxrLXRvLXNvdW5kLWxpa2UtYS10ZWNoLXZldGVyYW4=" class="editor-rtfLink" rel="noopener noreferrer nofollow" target="_blank">Tech Talk to sound like a Tech Vet</a>
-</p>
-</li>
-<li>
-<p><a href="https://www.tech.gov.sg/media/technews/be-our-tech-kaki?utm_medium=recommender_1&amp;utm_source=aHR0cHM6Ly93d3cudGVjaC5nb3Yuc2cvbWVkaWEvdGVjaG5ld3MvbWFraW5nLXRlY2gtdGFsay1leGNpdGluZw==&amp;utm_content=aHR0cHM6Ly93d3cudGVjaC5nb3Yuc2cvbWVkaWEvdGVjaG5ld3MvYmUtb3VyLXRlY2gta2FraQ==" class="editor-rtfLink" rel="noopener noreferrer nofollow" target="_blank">Be Our Tech Kaki!</a>
-</p>
-</li>
-<li>
-<p><a href="https://www.tech.gov.sg/media/technews/tech-productivity-tools-to-work-like-a-tech-pro?utm_medium=recommender_2&amp;utm_source=aHR0cHM6Ly93d3cudGVjaC5nb3Yuc2cvbWVkaWEvdGVjaG5ld3MvbWFraW5nLXRlY2gtdGFsay1leGNpdGluZw==&amp;utm_content=aHR0cHM6Ly93d3cudGVjaC5nb3Yuc2cvbWVkaWEvdGVjaG5ld3MvdGVjaC1wcm9kdWN0aXZpdHktdG9vbHMtdG8td29yay1saWtlLWEtdGVjaC1wcm8=" class="editor-rtfLink" rel="noopener noreferrer nofollow" target="_blank">Tech Productivity Tools To Help You Work Like a Tech Professional</a>
-</p>
-</li>
-<li>
-<p><a href="https://www.tech.gov.sg/media/technews/getting-to-know-you?utm_medium=recommender_3&amp;utm_source=aHR0cHM6Ly93d3cudGVjaC5nb3Yuc2cvbWVkaWEvdGVjaG5ld3MvbWFraW5nLXRlY2gtdGFsay1leGNpdGluZw==&amp;utm_content=aHR0cHM6Ly93d3cudGVjaC5nb3Yuc2cvbWVkaWEvdGVjaG5ld3MvZ2V0dGluZy10by1rbm93LXlvdQ==" class="editor-rtfLink" rel="noopener noreferrer nofollow" target="_blank">Getting to know you</a>
-</p>
-</li>
-<li>
-<p><a href="https://www.tech.gov.sg/products-and-services/developer-portal/?utm_medium=recommender_4&amp;utm_source=aHR0cHM6Ly93d3cudGVjaC5nb3Yuc2cvbWVkaWEvdGVjaG5ld3MvbWFraW5nLXRlY2gtdGFsay1leGNpdGluZw==&amp;utm_content=aHR0cHM6Ly93d3cudGVjaC5nb3Yuc2cvcHJvZHVjdHMtYW5kLXNlcnZpY2VzL2RldmVsb3Blci1wb3J0YWwv" class="editor-rtfLink" rel="noopener noreferrer nofollow" target="_blank">Developer Portal</a>
-</p>
-</li>
-</ul>
 <p></p>
