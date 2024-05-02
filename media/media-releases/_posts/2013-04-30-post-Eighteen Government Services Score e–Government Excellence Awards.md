@@ -10,11 +10,11 @@ image: ""
 variant: tiptap
 ---
 <p>Eighteen government services received awards today at the inaugural e-Government
-Excellence Awards ceremony (GEA) for excelling in e-Government services.
-Jointly organised by the Ministry of Finance and Infocomm Development Authority
-of Singapore, the event is a whole-of-government effort to recognise agencies
-for excellence in e-Government and encourage improvements across all public
-sector agencies.</p>
+Excellence Awards ceremony (GEA) for excelling in e-Government services.</p>
+<p>Jointly organised by the Ministry of Finance and Infocomm Development
+Authority of Singapore, the event is a whole-of-government effort to recognise
+agencies for excellence in e-Government and encourage improvements across
+all public sector agencies.</p>
 <p>Held at the Mapletree Business City, the event was graced by guest-of-honour,
 Mr Peter Ong, Head Civil Service, who gave out six distinguished winner
 awards and 12 merit awards in six award categories: <strong>Websites, e-Services, m-Services, Data Sharing, People Engagement and Shared System &amp; Services.</strong>
