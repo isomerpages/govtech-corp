@@ -216,7 +216,7 @@ Shared System &amp; Services. More info on the Awards can be found at</p>
 <br>DID : +65 6211 0660
 <br>Email: <a href="mailto:malini_nathan@ida.gov.sg" rel="noopener noreferrer nofollow" target="_blank">malini_nathan@ida.gov.sg</a>
 </p>
-<p><strong>Ministry of Finance (MOF)</strong> 
+<p><strong>Ministry of Finance (MOF)</strong>
 </p>
 <p>Bhavani N (Ms)
 <br>Senior Associate
