@@ -38,7 +38,7 @@ of school they are from. When a student moves from one level to another
 or from one school to another, his or her particulars will be updated automatically
 on the app, reducing hassle on the part of parents.</p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Parents Gateway app" src="/images/technews/5-things-about-parents-gateway-part2.png">
+<img style="width: 50%;" height="auto" width="100%" alt="Parents Gateway app" src="/images/technews/5-things-about-parents-gateway-part2.png">
 </div>
 <h3>2. Always be in the know</h3>
 <p>Given the flurry of activities planned for students during every school
@@ -49,8 +49,9 @@ Simply by tapping on a link on the notification page of the app, parents
 can add the date, time and venue details of an activity to their phone
 calendars. The app also allows rapid dissemination of information to parents
 in the event of early dismissals or emergencies such as school closures.</p>
+<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Parents Gateway app" src="/images/technews/5-things-about-parents-gateway-part3.png">
+<img style="width: 50%;" height="auto" width="100%" alt="Parents Gateway app" src="/images/technews/5-things-about-parents-gateway-part3.png">
 </div>
 <h3>3. Watch them learn</h3>
 <p>Being a digital platform, Parents Gateway allows communication between
@@ -68,7 +69,7 @@ distributing forms, the app also results in cost savings for schools.</p>
 their children on camping trips and excursions. A travel declaration function
 is also expected to be rolled out on Parents Gateway this year.</p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Parents Gateway app" src="/images/technews/5-things-about-parents-gateway-part4.png">
+<img style="width: 50%;" height="auto" width="100%" alt="Parents Gateway app" src="/images/technews/5-things-about-parents-gateway-part4.png">
 </div>
 <h3>5. More functions on the horizon</h3>
 <p>Sometimes, school activities may require payment through a child’s Edusave
@@ -81,5 +82,5 @@ paper-based forms, the aim is to have an online reservation system for
 a more convenient allocation of meeting slots.</p>
 <p>These functions and more will be added gradually to Parents Gateway to
 serve the needs of teachers, parents and children better, so stay tuned!</p>
-<h3><a href="https://www.tech.gov.sg/media/technews/behind-the-scenes-look-at-the-parents-gateway-app" rel="noopener noreferrer nofollow" target="_blank">Learn more about the app's development journey too. Read on here: Behind-the-scenes look at the Parents Gateway app</a></h3>
+<p>Learn more about the app's development journey too. Read on here: <a href="https://www.tech.gov.sg/media/technews/behind-the-scenes-look-at-the-parents-gateway-app" rel="noopener noreferrer nofollow" target="_blank">Behind-the-scenes look at the Parents Gateway app</a>.</p>
 <p></p>
