@@ -137,7 +137,7 @@ a competitive telecoms market as well as a conducive business environment
 with programmes and schemes for both local and international companies.
 For more news and information, visit www.ida.gov.sg</p>
 <h4>For media clarification</h4>
-<p><strong>Infocomm Development Authority of Singapore</strong> 
+<p><strong>Infocomm Development Authority of Singapore</strong>
 </p>
 <p>Christopher Koh (Mr)
 <br>Manager
@@ -145,9 +145,9 @@ For more news and information, visit www.ida.gov.sg</p>
 <br>DID: +65 6211 1709
 <br>HP: +65 9144 1995
 <br>Fax: +65 6211 2427
-<br>E-mail: <a href="mailto:christopher_koh@ida.gov.sg" rel="noopener noreferrer nofollow" target="_blank">christopher_koh@ida.gov.sg</a> 
+<br>E-mail: <a href="mailto:christopher_koh@ida.gov.sg" rel="noopener noreferrer nofollow" target="_blank">christopher_koh@ida.gov.sg</a>
 </p>
-<p><strong>Ministry of Finance</strong> 
+<p><strong>Ministry of Finance</strong>
 </p>
 <p>Stellina Seng (Ms)
 <br>Associate
@@ -156,16 +156,16 @@ For more news and information, visit www.ida.gov.sg</p>
 <br>Fax: +65 6337 6731
 <br>E-mail: <a href="mailto:stellina_seng@mof.gov.sg" rel="noopener noreferrer nofollow" target="_blank">stellina_seng@mof.gov.sg</a>
 </p>
-<p><strong>Ministry of Manpower</strong>  <strong>(MOM’s statistical information website)</strong> 
+<p><strong>Ministry of Manpower</strong>  <strong>(MOM’s statistical information website)</strong>
 </p>
 <p>Candice Lau (Ms)
 <br>Manager
 <br>Corporate Communications
 <br>DID: +65 6317 1248
 <br>Fax: +65 6317 1652
-<br>E-mail: <a href="mailto:Candice_LAU@mom.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Candice_LAU@mom.gov.sg</a> 
+<br>E-mail: <a href="mailto:Candice_LAU@mom.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Candice_LAU@mom.gov.sg</a>
 </p>
-<p><strong>Singapore Land Authority (OneMap)</strong> 
+<p><strong>Singapore Land Authority (OneMap)</strong>
 </p>
 <p>Kuan Qian Ying (Ms)
 <br>Assistant Manager
