@@ -42,7 +42,7 @@ users facing IT services (such as email and collaboration services, remote
 access services) to leverage on.</p>
 <ol start="2" data-tight="true" class="tight">
 <li>
-<p><strong>Messaging and collaboration services</strong> 
+<p><strong>Messaging and collaboration services</strong>
 </p>
 </li>
 </ol>
@@ -51,7 +51,7 @@ and statutory boards. Services such as email, instant messaging and conferencing
 services will be offered based on a monthly subscription model.</p>
 <ol start="3" data-tight="true" class="tight">
 <li>
-<p><strong>Desktops, notebooks and printers</strong> 
+<p><strong>Desktops, notebooks and printers</strong>
 </p>
 </li>
 </ol>
@@ -59,7 +59,7 @@ services will be offered based on a monthly subscription model.</p>
 the Government and statutory boards.</p>
 <ol start="4" data-tight="true" class="tight">
 <li>
-<p><strong>Agency Facilities Management (AFM)</strong> 
+<p><strong>Agency Facilities Management (AFM)</strong>
 </p>
 </li>
 </ol>
