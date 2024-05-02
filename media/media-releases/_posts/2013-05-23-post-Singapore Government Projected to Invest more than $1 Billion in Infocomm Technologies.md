@@ -10,13 +10,11 @@ description: Singapore plans S$1.2B in infocomm tenders for FY2013 to boost
   Security, and more.
 image: ""
 ---
-<p>The Singapore Government plans to call S$1.2 billion worth of new infocomm
-tenders in the Financial Year (FY) 2013 leveraging on industry expertise
-to improve service delivery to citizens and businesses, through the innovative
-use of technology. This was announced at the annual Industry Briefing on
-Business Opportunities for Infocomm in the Public Sector held today, where
-IDA together with the Ministry of Defence (MINDEF) and Singapore Customs
-share their infocomm procurement plans for FY13.</p>
+<h3>The Singapore Government plans to call S$1.2 billion worth of new infocomm tenders in the Financial Year (FY) 2013 leveraging on industry expertise to improve service delivery to citizens and businesses, through the innovative use of technology. </h3>
+<p>This was announced at the annual Industry Briefing on Business Opportunities
+for Infocomm in the Public Sector held today, where IDA together with the
+Ministry of Defence (MINDEF) and Singapore Customs shared their infocomm
+procurement plans for FY13.</p>
 <p>Mr James Kang, Assistant Chief Executive Officer, Government Chief Information
 Office of the Infocomm Development Authority of Singapore, said that the
 Government will focus on key areas of technology development to drive improvements
@@ -25,8 +23,7 @@ Cloud Solutions, Data and Analytics, and Infocomm Security.</p>
 <p>Mr Kang also revealed that the S$1.2 billion worth of new infocomm tenders
 in the Financial Year (FY) 2013 is comparable to investments in FY 2012,
 where the Government awarded 577 infocomm contracts worth up to $1.2 billion.</p>
-<p><strong>Key Focus Areas in FY13</strong>
-</p>
+<h3>Key Focus Areas in FY13</h3>
 <p>The Government will call for a bulk tender on agile software development
 which will provide government agencies with access to a range of suppliers
 with agile expertise, resources and tools enabling a shorter turnaround
@@ -68,8 +65,7 @@ services will be called in FY2013, while another bulk tender to enhance
 the Cyber-Watch Centre is currently available for participation. This will
 tap into the industry's expertise to strengthen infocomm security by mitigating
 risks and detecting threats early.</p>
-<p><strong>More Infocomm Projects in FY2013</strong>
-</p>
+<h3>More Infocomm Projects in FY2013</h3>
 <p>Among the projects shared at the Briefing were those from MINDEF and Singapore
 Customs.</p>
 <p>MINDEF's key projects are aimed at enhancing its organisational and operational
@@ -97,7 +93,7 @@ will enhance the general public interaction experience with Singapore Customs.</
 <p><strong>ISSUED BY CORPORATE AND MARKETING COMMUNICATIONS DIVISIONINFOCOMM DEVELOPMENT AUTHORITY OF SINGAPORE</strong>
 </p>
 <hr>
-<h3><strong>Related Resources:</strong></h3>
+<h4>Related Resources:</h4>
 <ul data-tight="true" class="tight">
 <li>
 <p><a href="/files/media/media-releases/2013/06/AnnexApdf.pdf" rel="noopener noreferrer nofollow" target="_blank">Annex A - Singapore Government Cloud Computing Fact Sheet</a>
@@ -120,38 +116,39 @@ will enhance the general public interaction experience with Singapore Customs.</
 </p>
 </li>
 </ul>
-<h3><strong>About Infocomm Development Authority of Singapore</strong></h3>
+<h4>About Infocomm Development Authority of Singapore</h4>
 <p>The Infocomm Development Authority of Singapore (IDA) is committed to
 growing Singapore into a dynamic global infocomm hub. IDA uses an integrated
 approach to developing infocommunications in Singapore. This involves nurturing
 a competitive telecoms market as well as a conducive business environment
 with programmes and schemes for both local and international companies.
 For more news and information, visit www.ida.gov.sg.</p>
-<h3><strong>For media clarification</strong></h3>
+<h4>For media clarification</h4>
 <p><strong>Infocomm Development Authority of Singapore</strong> 
-<br>
-<br>Christopher Koh (Mr)
+</p>
+<p>Christopher Koh (Mr)
 <br>Manager
 <br>Corporate and Marketing Communication
 <br>DID: +65 6211 1709
 <br>HP: +65 9144 1995
-<br>
 <br>Fax: +65 6211 2427
-<br>E-mail: christopher_koh@ida.gov.sg
-<br>
-<br><strong>Ministry of Defence</strong> 
-<br>
-<br>Goh Kai Shi (Ms)
+<br>E-mail: <a href="mailto:christopher_koh@ida.gov.sg" rel="noopener noreferrer nofollow" target="_blank">christopher_koh@ida.gov.sg</a>
+</p>
+<p><strong>Ministry of Defence</strong> 
+</p>
+<p>Goh Kai Shi (Ms)
 <br>Media Relations Officer
 <br>MINDEF Public Affairs
 <br>DID: +65 6307 5548
 <br>HP: +65 9784 2348
-<br>Email: Goh_Kai_Shi@starnet.gov.sg
-<br>
-<br><strong>Singapore Customs</strong> 
-<br>
-<br>Patricia Bay (Ms)
+<br>Email: <a href="mailto:Goh_Kai_Shi@starnet.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Goh_Kai_Shi@starnet.gov.sg</a>
+</p>
+<p><strong>Singapore Customs</strong> 
+</p>
+<p>Patricia Bay (Ms)
 <br>Assistant Head,
 <br>Corporate Communications
 <br>DID: +65 6355 2127
-<br>Email: Patricia_Bay@customs.gov.sg</p>
+<br>Email: <a href="mailto:Patricia_Bay@customs.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Patricia_Bay@customs.gov.sg</a>
+</p>
+<p></p>
