@@ -10,7 +10,7 @@ description: Singapore plans S$1.2B in infocomm tenders for FY2013 to boost
   Security, and more.
 image: ""
 ---
-<h3>The Singapore Government plans to call S$1.2 billion worth of new infocomm tenders in the Financial Year (FY) 2013 leveraging on industry expertise to improve service delivery to citizens and businesses, through the innovative use of technology. </h3>
+<h3>The Singapore Government plans to call S$1.2 billion worth of new infocomm tenders in the Financial Year (FY) 2013 leveraging on industry expertise to improve service delivery to citizens and businesses, through the innovative use of technology.</h3>
 <p>This was announced at the annual Industry Briefing on Business Opportunities
 for Infocomm in the Public Sector held today, where IDA together with the
 Ministry of Defence (MINDEF) and Singapore Customs shared their infocomm
@@ -124,7 +124,7 @@ a competitive telecoms market as well as a conducive business environment
 with programmes and schemes for both local and international companies.
 For more news and information, visit www.ida.gov.sg.</p>
 <h4>For media clarification</h4>
-<p><strong>Infocomm Development Authority of Singapore</strong> 
+<p><strong>Infocomm Development Authority of Singapore</strong>
 </p>
 <p>Christopher Koh (Mr)
 <br>Manager
@@ -134,7 +134,7 @@ For more news and information, visit www.ida.gov.sg.</p>
 <br>Fax: +65 6211 2427
 <br>E-mail: <a href="mailto:christopher_koh@ida.gov.sg" rel="noopener noreferrer nofollow" target="_blank">christopher_koh@ida.gov.sg</a>
 </p>
-<p><strong>Ministry of Defence</strong> 
+<p><strong>Ministry of Defence</strong>
 </p>
 <p>Goh Kai Shi (Ms)
 <br>Media Relations Officer
@@ -143,7 +143,7 @@ For more news and information, visit www.ida.gov.sg.</p>
 <br>HP: +65 9784 2348
 <br>Email: <a href="mailto:Goh_Kai_Shi@starnet.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Goh_Kai_Shi@starnet.gov.sg</a>
 </p>
-<p><strong>Singapore Customs</strong> 
+<p><strong>Singapore Customs</strong>
 </p>
 <p>Patricia Bay (Ms)
 <br>Assistant Head,
