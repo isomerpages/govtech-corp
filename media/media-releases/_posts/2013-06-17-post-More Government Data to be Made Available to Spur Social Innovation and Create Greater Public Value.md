@@ -18,8 +18,8 @@ at the eGov Global Exchange today.</p>
 <p>With the theme "Engaging Citizens, Co-creating the Future", this year's
 eGov Global Exchange discussed how the Government can work with businesses
 and the public to develop public services, use technologies to promote
-closer collaboration with businesses, and achieve new efficiencies for
-the public sector.</p>
+closer collaboration with businesses and achieve new efficiencies for the
+public sector.</p>
 <p>The event saw a turnout of more than 500 delegates, comprising top industry
 leaders, academics and representatives from international organizations.
 Amongst the participants are 70 ministers and senior government officials
