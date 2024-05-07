@@ -12,7 +12,7 @@ image: /images/Products and Services/For Government
 <h2>Strengthening our cyber defences with proactive cybersecurity services</h2>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Strengthening cybersecurity across all Government bodies" src="/images/Products and Services/For Government Agencies/Cybersecurity_meta_image_compressed.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="Strengthening cybersecurity across all Government bodies" src="/images/Products and Services/For Government Agencies/Cybersecurity_1690x800.jpg">
 </div>
 <p>All our efforts to build an advanced digital government will be for nought
 if our cyberspace and systems are vulnerable to attacks. That is why GovTech
