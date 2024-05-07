@@ -75,8 +75,7 @@ S$2.2 billion worth of Infocomm tenders will&nbsp;be called&nbsp;in the
 financial year of 2015, with&nbsp;key&nbsp;areas of procurement focused
 on digital and data services, web services, and Infocomm infrastructure,
 as well as the development of the Smart Nation Platform.</p>
-<p><strong>More Infocomm Projects in FY2015</strong>
-</p>
+<h4>More Infocomm Projects in FY2015</h4>
 <ul data-tight="true" class="tight">
 <li>
 <p><strong>Ministry of Education (MOE):</strong>&nbsp;MOE shared on upcoming
@@ -123,48 +122,47 @@ Government.&nbsp;For more details, please refer to the Annexes.</p>
 <h4>Related Resources:</h4>
 <ul data-tight="true" class="tight">
 <li>
-<p><a href="https://www.tech.gov.sg/files/media/media-releases/2015/05/Annex1pdf.pdf" class="editor-rtfLink" rel="noopener noreferrer nofollow" target="_blank">Annex 1: CloudStore Factsheet</a>
+<p><a href="/files/media/media-releases/Annex_1__CloudStore_Factsheet.pdf" rel="noopener noreferrer nofollow" target="_blank">Annex 1: CloudStore Factsheet</a>
 </p>
 </li>
 <li>
-<p><a href="https://www.tech.gov.sg/files/media/media-releases/2015/05/Annex2pdf.pdf" class="editor-rtfLink" rel="noopener noreferrer nofollow" target="_blank">Annex 2: MyResponder Factsheet</a>
+<p><a href="/files/media/media-releases/Annex_2___MyResponder_Factsheet.pdf" rel="noopener noreferrer nofollow" target="_blank">Annex 2: MyResponder Factsheet</a>
 </p>
 </li>
 <li>
-<p><a href="https://www.tech.gov.sg/files/media/media-releases/2015/05/Annex3pdf.pdf" class="editor-rtfLink" rel="noopener noreferrer nofollow" target="_blank">Annex 3: SingPass Factsheet</a>
+<p><a href="/files/media/media-releases/Annex_3___SingPass_Factsheet.pdf" rel="noopener noreferrer nofollow" target="_blank">Annex 3: SingPass Factsheet</a>
 </p>
 </li>
 <li>
-<p><a href="https://www.tech.gov.sg/files/media/media-releases/2015/05/Annex4pdf.pdf" class="editor-rtfLink" rel="noopener noreferrer nofollow" target="_blank">Annex 4: CorpPass Factsheet</a>
+<p><a href="/files/media/media-releases/Annex_4___CorpPass_Factsheet.pdf" rel="noopener noreferrer nofollow" target="_blank">Annex 4: CorpPass Factsheet</a>
 </p>
 </li>
 <li>
-<p><a href="https://www.tech.gov.sg/files/media/media-releases/2015/05/Annex5pdf.pdf" class="editor-rtfLink" rel="noopener noreferrer nofollow" target="_blank">Annex 5: Accreditation Factsheet</a>
+<p><a href="/files/media/media-releases/Annex_5___Accreditation_Factsheet.pdf" rel="noopener noreferrer nofollow" target="_blank">Annex 5: Accreditation Factsheet</a>
 </p>
 </li>
 <li>
-<p><a href="https://www.tech.gov.sg/files/media/media-releases/2015/05/Annex6pdf.pdf" class="editor-rtfLink" rel="noopener noreferrer nofollow" target="_blank">Annex 6: </a>
-<a href="https://www.tech.gov.sg/files/media/media-releases/2015/05/Annex1pdf.pdf" rel="noopener noreferrer nofollow" target="_blank">Data.gov.sg</a><a href="https://www.tech.gov.sg/files/media/media-releases/2015/05/Annex6pdf.pdf" class="editor-rtfLink" rel="noopener noreferrer nofollow" target="_blank"> Factsheet</a>
+<p><a href="/files/media/media-releases/Annex_6___Data_gov_sg_Factsheet.pdf" rel="noopener noreferrer nofollow" target="_blank">Annex 6: Data.gov.sg Factsheet</a>
 </p>
 </li>
 <li>
-<p><a href="https://www.tech.gov.sg/files/media/media-releases/2015/05/Annex7pdf.pdf" class="editor-rtfLink" rel="noopener noreferrer nofollow" target="_blank">Annex 7: Hackathon@SG Factsheet</a>
+<p><a href="/files/media/media-releases/Annex_7___Hackathon_SG_Factsheet.pdf" rel="noopener noreferrer nofollow" target="_blank">Annex 7: Hackathon@SG Factsheet</a>
 </p>
 </li>
 <li>
-<p><a href="https://www.tech.gov.sg/files/media/media-releases/2015/05/Annex8pdf.pdf" class="editor-rtfLink" rel="noopener noreferrer nofollow" target="_blank">Annex 8: Centre of Excellence Factsheet</a>
+<p><a href="/files/media/media-releases/Annex_8___Centre_of_Excellence_Factsheet.pdf" rel="noopener noreferrer nofollow" target="_blank">Annex 8: Centre of Excellence Factsheet</a>
 </p>
 </li>
 <li>
-<p><a href="https://www.tech.gov.sg/files/media/media-releases/2015/05/Annex9pdf.pdf" class="editor-rtfLink" rel="noopener noreferrer nofollow" target="_blank">Annex&nbsp;9: MOM’s IT Strategies and FY15 Procurement Plans Infosheet</a>
+<p><a href="/files/media/media-releases/Annex_9___MOM_s_IT_Strategies_and_FY15_Procurement_Plans_Infosheet.pdf" rel="noopener noreferrer nofollow" target="_blank">Annex 9: MOM’s IT Strategies and FY15 Procurement Plans Infosheet</a>
 </p>
 </li>
 <li>
-<p><a href="https://www.tech.gov.sg/files/media/media-releases/2015/05/Annex10pdf.pdf" class="editor-rtfLink" rel="noopener noreferrer nofollow" target="_blank">Annex&nbsp;10: Digital Strategies for Libraries of the Future Factsheet</a>
+<p><a href="/files/media/media-releases/Annex_10___Digital_Strategies_for_Libraries_of_the_Future_Factsheet.pdf" rel="noopener noreferrer nofollow" target="_blank">Annex 10: Digital Strategies for Libraries of the Future Factsheet</a>
 </p>
 </li>
 <li>
-<p><a href="https://www.tech.gov.sg/files/media/media-releases/2015/05/Annex11pdf.pdf" class="editor-rtfLink" rel="noopener noreferrer nofollow" target="_blank">Annex&nbsp;11: National Trade Infrastructure &amp; Singapore Customs Call Centre Service Factsheet</a>
+<p><a href="/files/media/media-releases/Annex_11___National_Trade_Infrastructure___Singapore_Customs_Call_Centre_Service_Factsheet.pdf" rel="noopener noreferrer nofollow" target="_blank">Annex 11: National Trade Infrastructure &amp; Singapore Customs Call Centre Service Factsheet</a>
 </p>
 </li>
 </ul>
