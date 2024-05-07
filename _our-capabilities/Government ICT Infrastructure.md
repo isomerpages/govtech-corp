@@ -80,11 +80,9 @@ agencies upgrading their ICT infrastructure.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="Daryl Chee, Senior Cloud Infrastructure Engineer, giving his testimonial of GovTech" src="/images/About Us/Our capabilities/Daryl_Chee_GIG_resized.jpg">
 </div>
-<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Koh Lay Hian (Senior Infrastructure Architect) sharing about why she chose GovTech" src="/images/About Us/Our capabilities/Ong_Lay_Hian_GIG_resized.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="GIG capabilities quote 2" src="/images/About Us/Our capabilities/lay_hian_1.png">
 </div>
-<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="Karthik Parameswaran (Senior Infrastructure Engineer) sharing about why he chose GovTech and how much he is learning here" src="/images/About Us/Our capabilities/Karthik_GIG_resized.jpg">
 </div>
