@@ -87,7 +87,7 @@ and Twitter @IDAsg.</p>
 <br>Manager, Corporate and Marketing Communications Division
 <br>Infocomm Development Authority of Singapore
 <br>DID: (65) 6211 1622
-<br>Email: <a href="mailto:Medha_LIM@ida.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Medha_LIM@ida.gov.sg</a> 
+<br>Email: <a href="mailto:Medha_LIM@ida.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Medha_LIM@ida.gov.sg</a>
 </p>
 <p>Jacklyn Chew (Ms)
 <br>Assistant Manager, Corporate and Marketing Communications Division
