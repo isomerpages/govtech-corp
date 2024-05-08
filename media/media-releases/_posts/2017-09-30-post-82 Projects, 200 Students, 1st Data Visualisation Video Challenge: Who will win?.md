@@ -71,9 +71,7 @@ have also increased to 1,200 since inception. These datasets are available
 to citizens, developers, researchers and students to develop new ideas
 and make better use of open government data.</p>
 <hr>
-<p><strong>ISSUED BY COMMUNICATIONS AND MARKETING GROUP</strong>
-</p>
-<p><strong>GOVERNMENT TECHNOLOGY AGENCY OF SINGAPORE</strong>
+<p><strong>ISSUED BY COMMUNICATIONS AND MARKETING GROUP GOVERNMENT TECHNOLOGY AGENCY OF SINGAPORE</strong>
 </p>
 <hr>
 <h4>Related Resources:</h4>
