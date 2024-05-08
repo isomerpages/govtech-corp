@@ -104,7 +104,7 @@ agencies as we build a Smart Nation together.</p>
 <br>Executive, Communications and Marketing Group
 <br>Government Technology Agency
 <br>Tel: (65) 6211 1684
-<br>Email: <a href="mailto:Fatin_Diana_Sumanan@tech.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Fatin_Diana_Sumanan@tech.gov.sg</a> 
+<br>Email: <a href="mailto:Fatin_Diana_Sumanan@tech.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Fatin_Diana_Sumanan@tech.gov.sg</a>
 </p>
 <p>Kenneth TAN (Mr)
 <br>Manager, Communications and Marketing Group
