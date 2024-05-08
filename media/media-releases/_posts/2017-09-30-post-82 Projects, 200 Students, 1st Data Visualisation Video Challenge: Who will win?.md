@@ -40,8 +40,8 @@ acceptance to prevent ex-offenders from re-offending.</p>
 Carousell, Cloudera, Microsoft, Google and The Straits Times, also displayed
 ability of students to cross-analyse data and come up with tools such as
 automating the income growth and key expenses of users until their selected
-retirement age. Please see <a href="/files/media/media-releases/Annex_1_Finalists_Project_Writeups.pdf" rel="noopener noreferrer nofollow" target="_blank">Annex 1</a> for
-more details on the projects.</p>
+retirement age. Please see <strong>Annex 1</strong> for more details on the
+projects.</p>
 <blockquote>
 <p>“It was a chance for us to showcase our creativity through data analysis
 and we learnt a lot from the Challenge.”</p>
@@ -111,7 +111,7 @@ and Twitter @GovTechSG.</p>
 <br>Assistant Manager, Communications &amp; Marketing Group
 <br>Government Technology Agency
 <br>DID: (65) 6211 1557
-<br>Email: <a href="mailto:mehul_shah@tech.gov.sg" rel="noopener noreferrer nofollow" target="_blank">mehul_shah@tech.gov.sg</a> 
+<br>Email: <a href="mailto:mehul_shah@tech.gov.sg" rel="noopener noreferrer nofollow" target="_blank">mehul_shah@tech.gov.sg</a>
 </p>
 <p>Joycelyn CHAN (Ms)
 <br>Assistant Director, Communications &amp; Marketing Group
