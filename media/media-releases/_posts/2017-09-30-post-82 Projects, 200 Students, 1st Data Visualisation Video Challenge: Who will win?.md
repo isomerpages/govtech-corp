@@ -5,8 +5,8 @@ title: "82 Projects, 200 Students, 1st Data Visualisation Video Challenge: Who
 date: 2017-09-30
 permalink: /media/media-releases/1st-data-visualisation-video-challenge/
 variant: tiptap
-description: "GovTech's National Data Visualisation Video Challenge saw over 200
-  students exploring how open data can improve lives. "
+description: GovTech's National Data Visualisation Video Challenge saw over 200
+  students exploring how open data can improve lives.
 image: ""
 ---
 <p>Is ownership of public housing a sure win for financial gain? Will chances
@@ -27,10 +27,11 @@ to the top three winning teams.</p>
 number of seniors and locations of eldercare services, data on water consumption
 and water supply sources as well as recidivism rates to draw out interesting
 insights and present them through a video story.</p>
-<p>&gt; “The Challenge allowed us to freely explore data and find meaningful
-use of data to improve our daily lives.”
-<br><code>MS WANG ZEJIA</code>
-</p>
+<blockquote>
+<p>“The Challenge allowed us to freely explore data and find meaningful use
+of data to improve our daily lives.”</p>
+</blockquote>
+<p>Ms Wang Zejia</p>
 <p>From the datasets, the teams unearthed new insights such as the towns
 in Singapore that would require more eldercare facilities, the pressing
 need for water conservation in Singapore, and the importance of social
@@ -41,9 +42,11 @@ ability of students to cross-analyse data and come up with tools such as
 automating the income growth and key expenses of users until their selected
 retirement age. Please see <a href="/files/media/media-releases/Annex_1_Finalists_Project_Writeups.pdf" rel="noopener noreferrer nofollow" target="_blank">Annex 1</a> for
 more details on the projects.</p>
-<p>&gt; “It was a chance for us to showcase our creativity through data analysis
-and we learnt a lot from the Challenge.” <code>TEAM N.I.C.E.</code>
-</p>
+<blockquote>
+<p>“It was a chance for us to showcase our creativity through data analysis
+and we learnt a lot from the Challenge.”</p>
+</blockquote>
+<p>TEAM N.I.C.E.</p>
 <p>Ms Jacqueline Poh, Chief Executive, GovTech, and one of the judges in
 the Finals, said, “I am impressed with the videos and encouraged by the
 strong support from industry partners. Aimed at driving Singapore’s open
@@ -73,22 +76,22 @@ and make better use of open government data.</p>
 <p><strong>GOVERNMENT TECHNOLOGY AGENCY OF SINGAPORE</strong>
 </p>
 <hr>
-<h3><strong>Related Resources:</strong></h3>
+<h4>Related Resources:</h4>
 <ul data-tight="true" class="tight">
 <li>
-<p>[Annex 1: Project Team Write-ups](/files/media/media-releases/2017/09/2
-12 Finalists Project Writeups Annex 1.pdf)</p>
+<p><a href="/files/media/media-releases/Annex_1__Project_Team_Write_ups.pdf" rel="noopener noreferrer nofollow" target="_blank">Annex 1: Project Team Write-ups</a>
+</p>
 </li>
 <li>
-<p>[Annex 2: Factsheet for National Data Viz Video Challenge](/files/media/media-releases/2017/09/3
-Factsheet National Data Viz Video Challenge Annex 2.pdf)</p>
+<p><a href="/files/media/media-releases/Annex_2__Factsheet_for_National_Data_Viz_Video_Challenge.pdf" rel="noopener noreferrer nofollow" target="_blank">Annex 2: Factsheet for National Data Viz Video Challenge</a>
+</p>
 </li>
 <li>
-<p>[Annex 3: Factsheet for Data.gov.sg](/files/media/media-releases/2017/09/4
-Factsheet Datagovsg Annex 3.pdf)</p>
+<p><a href="/files/media/media-releases/Annex_3__Factsheet_for_Data_gov_sg.pdf" rel="noopener noreferrer nofollow" target="_blank">Annex 3: Factsheet for Data.gov.sg</a>
+</p>
 </li>
 </ul>
-<h3><strong>About Government Technology Agency of Singapore</strong></h3>
+<h4>About Government Technology Agency of Singapore</h4>
 <p>The Government Technology Agency of Singapore (GovTech) is a statutory
 board formed in October 2016 after the restructuring of the Infocomm Development
 Authority. Following the formation of the Smart Nation and Digital Government
@@ -103,15 +106,17 @@ Application Development, GovTech also enhances the capabilities of the
 Singapore Government in these domains.</p>
 <p>For more information, please visit tech.gov.sg or follow us on Facebook.com/GovTechSG
 and Twitter @GovTechSG.</p>
-<h3><strong>For media clarification</strong></h3>
+<h4>For media clarification</h4>
 <p>Mehul SHAH (Mr)
 <br>Assistant Manager, Communications &amp; Marketing Group
 <br>Government Technology Agency
 <br>DID: (65) 6211 1557
-<br>Email: mehul_shah@tech.gov.sg
-<br>
-<br>Joycelyn CHAN (Ms)
+<br>Email: <a href="mailto:mehul_shah@tech.gov.sg" rel="noopener noreferrer nofollow" target="_blank">mehul_shah@tech.gov.sg</a> 
+</p>
+<p>Joycelyn CHAN (Ms)
 <br>Assistant Director, Communications &amp; Marketing Group
 <br>Government Technology Agency
 <br>DID: (65) 6211 1151
-<br>Email: joycelyn_chan@tech.gov.sg</p>
+<br>Email: <a href="mailto:joycelyn_chan@tech.gov.sg" rel="noopener noreferrer nofollow" target="_blank">joycelyn_chan@tech.gov.sg</a>
+</p>
+<p></p>
