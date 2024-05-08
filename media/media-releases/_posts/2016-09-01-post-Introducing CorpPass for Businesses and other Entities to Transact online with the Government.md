@@ -102,7 +102,7 @@ and Twitter @IDAsg.</p>
 <br>Manager, Corporate &amp; Marketing Communication
 <br>Infocomm Development Authority of Singapore
 <br>Tel: (65) 6211 1702
-<br>Email: <a href="mailto:lynda_lim@ida.gov.sg" rel="noopener noreferrer nofollow" target="_blank">lynda_lim@ida.gov.sg</a> 
+<br>Email: <a href="mailto:lynda_lim@ida.gov.sg" rel="noopener noreferrer nofollow" target="_blank">lynda_lim@ida.gov.sg</a>
 </p>
 <p>Kenneth TAN (Mr)
 <br>Manager, Corporate &amp; Marketing Communication
