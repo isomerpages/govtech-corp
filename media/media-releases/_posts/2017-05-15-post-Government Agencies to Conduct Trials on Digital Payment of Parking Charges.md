@@ -81,19 +81,19 @@ and Twitter @GovTechSG.</p>
 <br>Executive Manager, Media Relations
 <br>Urban Redevelopment Authority
 <br>DID: (65) 6329 3251
-<br>Email: <a href="mailto:Jolene_Hoon@ura.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Jolene_Hoon@ura.gov.sg</a> 
+<br>Email: <a href="mailto:Jolene_Hoon@ura.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Jolene_Hoon@ura.gov.sg</a>
 </p>
 <p>Jeanne TAN (Ms)
 <br>Senior Manager, Media Relations
 <br>Housing and Development Board
 <br>DID: (65) 6490 1250
-<br>Email: <a href="mailto:Jeanne_PG_Tan@hdb.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Jeanne_PG_Tan@hdb.gov.sg</a> 
+<br>Email: <a href="mailto:Jeanne_PG_Tan@hdb.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Jeanne_PG_Tan@hdb.gov.sg</a>
 </p>
 <p>Teresa TAN (Ms)
 <br>Senior Manager, Communications and Marketing Group
 <br>GovTech
 <br>DID: (65) 6211 1745
-<br>Email: <a href="mailto:Teresa_Tan@tech.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Teresa_Tan@tech.gov.sg</a> 
+<br>Email: <a href="mailto:Teresa_Tan@tech.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Teresa_Tan@tech.gov.sg</a>
 </p>
 <p>Elizabeth LEE (Ms)
 <br>Assistant Manager, Communications and Marketing Group
