@@ -93,7 +93,7 @@ please visit www.customs.gov.sg</p>
 <br>Manager, Communications and Marketing Group
 <br>Government Technology Agency
 <br>DID: (65) 6211 0375
-<br>Email: <a href="mailto:TAN_Boon_Leng@tech.gov.sg" rel="noopener noreferrer nofollow" target="_blank">TAN_Boon_Leng@tech.gov.sg</a> 
+<br>Email: <a href="mailto:TAN_Boon_Leng@tech.gov.sg" rel="noopener noreferrer nofollow" target="_blank">TAN_Boon_Leng@tech.gov.sg</a>
 </p>
 <p>TOH Shi Ting (Ms)
 <br>Senior Corporate Communications Officer
