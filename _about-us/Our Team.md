@@ -481,5 +481,17 @@ Services HQ</div>
 <div class="isomer-card-description">General Counsel, Legal</div>
 </div>
 </div>
+<div class="isomer-card">
+<div class="isomer-card-image">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Mr Justiin ANG" src="/images/About Us/Mr_Justiin_ANG_compressed.jpg">
+</div>
+</div>
+<div class="isomer-card-body">
+<div class="isomer-card-title">Mr Justiin ANG</div>
+<div class="isomer-card-description">Assistant Chief Executive / Government Cybersecurity Information Security
+Officer, Cybersecurity Group</div>
+</div>
+</div>
 </div>
 <p></p>
