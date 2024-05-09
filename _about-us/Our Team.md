@@ -244,17 +244,27 @@ EY</div>
 <div class="isomer-card-description">Deputy Chief Executive, Services, Governance and Cybersecurity</div>
 </div>
 </div>
-</div>
-<div class="isomer-card-grid">
 <div class="isomer-card">
 <div class="isomer-card-image">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="GovTech leader Dominic Chan" src="/images/About Us/Dominic_CHAN.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="GovTech leader Dominic CHAN" src="/images/About Us/Dominic_CHAN.jpg">
 </div>
 </div>
 <div class="isomer-card-body">
 <div class="isomer-card-title">Mr Dominic CHAN</div>
 <div class="isomer-card-description">Chief Information Officer / Assistant Chief Executive, Product Management</div>
+</div>
+</div>
+<div class="isomer-card">
+<div class="isomer-card-image">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="GovTech leader Justiin ANG" src="/images/About Us/Mr_Justiin_ANG_compressed.jpg">
+</div>
+</div>
+<div class="isomer-card-body">
+<div class="isomer-card-title">Mr Justiin ANG</div>
+<div class="isomer-card-description">Assistant Chief Executive /Government Cybersecurity Information Security
+Officer, Cybersecurity Group</div>
 </div>
 </div>
 <div class="isomer-card">
@@ -281,8 +291,6 @@ Education Cluster (Senior Director)</div>
 Services HQ</div>
 </div>
 </div>
-</div>
-<div class="isomer-card-grid">
 <div class="isomer-card">
 <div class="isomer-card-image">
 <div class="isomer-image-wrapper">
@@ -297,7 +305,7 @@ Services HQ</div>
 <div class="isomer-card">
 <div class="isomer-card-image">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="GovTech leader Chai Chin Loon" src="/images/About Us/CHAI_Chin_Loon.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="GovTech leader Chin Loon" src="/images/About Us/CHAI_Chin_Loon.jpg">
 </div>
 </div>
 <div class="isomer-card-body">
@@ -316,8 +324,6 @@ Services HQ</div>
 <div class="isomer-card-description">Senior Director, Governance Group</div>
 </div>
 </div>
-</div>
-<div class="isomer-card-grid">
 <div class="isomer-card">
 <div class="isomer-card-image">
 <div class="isomer-image-wrapper">
@@ -332,7 +338,7 @@ Services HQ</div>
 <div class="isomer-card">
 <div class="isomer-card-image">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="GovTech leader D. N. Prasad" src="/images/About Us/D__N__PRASAD.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="D.N. Prasad" src="/images/About Us/D__N__PRASAD.jpg">
 </div>
 </div>
 <div class="isomer-card-body">
@@ -352,8 +358,6 @@ Services HQ</div>
 (Senior Director-Designate)</div>
 </div>
 </div>
-</div>
-<div class="isomer-card-grid">
 <div class="isomer-card">
 <div class="isomer-card-image">
 <div class="isomer-image-wrapper">
@@ -387,8 +391,6 @@ Services HQ</div>
 <div class="isomer-card-description">Senior Director, Product Innovation Centre</div>
 </div>
 </div>
-</div>
-<div class="isomer-card-grid">
 <div class="isomer-card">
 <div class="isomer-card-image">
 <div class="isomer-image-wrapper">
@@ -412,6 +414,8 @@ Services HQ</div>
 (ACE)</div>
 </div>
 </div>
+</div>
+<div class="isomer-card-grid">
 <div class="isomer-card">
 <div class="isomer-card-image">
 <div class="isomer-image-wrapper">
@@ -424,8 +428,6 @@ Services HQ</div>
 (DCube)</div>
 </div>
 </div>
-</div>
-<div class="isomer-card-grid">
 <div class="isomer-card">
 <div class="isomer-card-image">
 <div class="isomer-image-wrapper">
@@ -479,18 +481,6 @@ Services HQ</div>
 <div class="isomer-card-body">
 <div class="isomer-card-title">Mr Vincent KOR</div>
 <div class="isomer-card-description">General Counsel, Legal</div>
-</div>
-</div>
-<div class="isomer-card">
-<div class="isomer-card-image">
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Mr Justiin ANG" src="/images/About Us/Mr_Justiin_ANG_compressed.jpg">
-</div>
-</div>
-<div class="isomer-card-body">
-<div class="isomer-card-title">Mr Justiin ANG</div>
-<div class="isomer-card-description">Assistant Chief Executive / Government Cybersecurity Information Security
-Officer, Cybersecurity Group</div>
 </div>
 </div>
 </div>
