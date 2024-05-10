@@ -20,7 +20,7 @@ and enthusiasts from the public and private sectors.</p>
 <p>STACK Community is a platform for deeper discussions and learning opportunities
 revolving around tech. We aim to encourage the adoption of centrally developed
 digital solutions within the public service while promoting knowledge exchanges
-between the Government and industry.</p>
+between the government and industry.</p>
 <p>Read on for what you can expect to learn as a STACK Community member.</p>
 <h3>Connecting for a bigger purpose</h3>
 <p></p>
@@ -51,7 +51,7 @@ many more.</p>
 <p>STACKx Conference is an excellent opportunity for government leaders,
 tech professionals, and industry practitioners to come together and learn
 more about the latest technology trends.</p>
-<p>This event will feature insightful tech sharing sessions and meaningful
+<p>This event will feature insightful tech-sharing sessions and meaningful
 conversations about a featured area of tech. Attend our STACKx Conference
 to also network with like-minded techies and gain insights from key tech
 experts.</p>
@@ -63,7 +63,7 @@ experts.</p>
 <div data-type="detailsContent" class="isomer-details-content">
 <p>STACK Meetups are monthly, casual after-work sessions, where techies connect,
 learn, and exchange ideas. Our Meetups allow techies to stay updated on
-various development approaches and best practices adopted by both public
+various development approaches and best practices adopted by both the public
 and private sectors.</p>
 <p>Experts in their fields are invited to speak, and attendees get to mingle
 with some of the best and brightest tech experts at these sessions.</p>
@@ -90,7 +90,7 @@ for this conference by becoming our community member today!</p>
 <img style="width: 70%;" height="auto" width="100%" alt="STACK Community logo" src="/images/Get Involved/STACK_Community_by_GovTech_Logo.png">
 </div>
 <h3>Connect with us</h3>
-<div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="https://www.meetup.com/stack-by-govtech-singapore/" class="isomer-card"><div class="isomer-card-body"><div class="isomer-card-title">Want to grow your professional network?</div><div class="isomer-card-description">Be part of our growing tech community and mingle with other like-minded professionals.</div><div class="isomer-card-link">Join STACK community</div></div></a>
+<div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="go.gov.sg/stackmeetup" class="isomer-card"><div class="isomer-card-body"><div class="isomer-card-title">Want to grow your professional network?</div><div class="isomer-card-description">Be part of our growing tech community and mingle with other like-minded professionals.</div><div class="isomer-card-link">Join STACK community</div></div></a>
 <a rel="noopener noreferrer nofollow" href="https://go.gov.sg/stacktelegram" class="isomer-card">
 <div class="isomer-card-body">
 <div class="isomer-card-title">Stay updated on Telegram</div>
