@@ -6,7 +6,7 @@ description: Never miss a GovTech update. Stay connected with us through our
   TechNews newsletter, GovTech blogs, and GovTech social media.
 image: /images/Get Involved/Stay_informed_meta_image_compressed.jpg
 ---
-<h2>Receive GovTech news and updates</h2>
+<h2>Stay connected with the latest GovTech news and updates!</h2>
 <p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="Subscribe to Technews for the latest developments on tech and read from anywhere." src="/images/Get Involved/Stay_Informed_1690x800.jpg">
@@ -15,10 +15,22 @@ image: /images/Get Involved/Stay_informed_meta_image_compressed.jpg
 <p>Get tech tips, trend alerts, behind-the-scenes stories, GovTech updates
 and more when you sign up to receive TechNews newsletters.</p>
 <p><a href="http://eepurl.com/cUwIsD" class="button primary" rel="noopener noreferrer nofollow" target="_blank">Subscribe to TechNews</a>.</p>
+<h3>Connect with us on social media</h3>
+<p>Follow us on social media for updates on new products and features, scholarship
+and job opportunities, life Inside GovTech, and much more!</p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Connect with GovTech and stay informed via the different social media platforms on your phone" src="/images/Get Involved/Subscribe_to_technews_social_media.jpg">
+</div>
+<p>Follow us on <a href="https://linktr.ee/connectwithgovtech" rel="noopener noreferrer nofollow" target="_blank">social media</a>!</p>
 <h3>Fresh insights from GovTech blogs</h3>
 <p>Our very own GovTechies reflect on their experiences, as they share career
 insights, lessons from their time in GovTech and product development journeys.</p>
-<table>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
@@ -111,11 +123,4 @@ insights, lessons from their time in GovTech and product development journeys.</
 </tr>
 </tbody>
 </table>
-<h3>Connect with us on social media</h3>
-<p>Be updated on the latest GovTech news and happenings when you connect
-with GovTech on different social media platforms.</p>
 <p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Connect with GovTech and stay informed via the different social media platforms on your phone" src="/images/Get Involved/Subscribe_to_technews_social_media.jpg">
-</div>
-<p>Follow us on <a href="https://linktr.ee/connectwithgovtech" rel="noopener noreferrer nofollow" target="_blank">social media</a>!</p>
