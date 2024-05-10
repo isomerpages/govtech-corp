@@ -1,5 +1,5 @@
 ---
-title: "Analytics.Gov"
+title: Analytics.Gov
 permalink: /products-and-services/for-government-agencies/data-and-ai/analytics-gov/
 variant: tiptap
 description: Analytics.gov is an innovative data exploitation platform where
