@@ -13,14 +13,15 @@ image: /images/Get Involved/Smart_Nation_Cityscape_GovTech_interactive_exhibitio
 <img style="width: 100%" height="auto" width="100%" alt="Smart Nation Cityscape: An employee showing a visitor the latest developments via an iPad" src="/images/Get Involved/Our_exhibitions_1690x800.jpg">
 </div>
 <h3>Smart Nation CityScape</h3>
-<p>Our work at GovTech impacts every part of your daily life. Learn more
-about the initiatives that improve the way you live, work and play at this
-immersive exhibition.</p>
+<p>An informational exhibition about Singapore's digital transformation journey
+and how Smart Nation initiatives are embedded in our city.</p>
+<p>Learn more about the initiatives that improve the way you live, work and
+play at this immersive exhibition.</p>
 <div class="isomer-card-grid">
 <div class="isomer-card">
 <div class="isomer-card-image">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Smart Nation CityScape GovTech exhibition display" src="/images/Get Involved/Smart_Nation_Cityscape_GovTech_exhibition_display.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="Smart Nation CityScape GovTech exhibition display" src="/images/Get Involved/Smart_nation_exhibition_card_1_600x400.jpg">
 </div>
 </div>
 <div class="isomer-card-body">
