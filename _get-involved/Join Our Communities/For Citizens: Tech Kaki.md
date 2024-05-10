@@ -20,8 +20,8 @@ image: /images/Get Involved/Tech_Kaki_Appreciation_Dinner__1_.jpg
 people has played an active role in the development of our digital products
 and services.</p>
 <p>Members from our 6,000-strong Tech Kaki community take part in focus group
-discussions, government user testing, surveys and more to ensure that our
-products and services meet the needs of citizens and businesses.&nbsp;</p>
+discussions, user testing, surveys and more to ensure that our products
+and services meet the needs of citizens and businesses.&nbsp;</p>
 <p>As a Tech Kaki community member, you’ll get first dibs on various government
 digital products and services before they launch. Read on to explore the
 potential of your contributions as a Tech Kaki member.</p>
