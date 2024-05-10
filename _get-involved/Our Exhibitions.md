@@ -48,7 +48,7 @@ with you in mind.</div>
 </div>
 <div class="isomer-card-body">
 <div class="isomer-card-title">An interactive experience for all</div>
-<div class="isomer-card-description">Touch, watch and listen your way through this immersive Smart Nation showcase.</div>
+<div class="isomer-card-description">See, hear, and feel your way through this immersive Smart Nation showcase.</div>
 </div>
 </div>
 </div>
