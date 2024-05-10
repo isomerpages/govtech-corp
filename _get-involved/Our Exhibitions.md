@@ -97,8 +97,8 @@ and cool activities, such as programming a robot to dance.</div>
 </div>
 <div class="isomer-card-body">
 <div class="isomer-card-title">Fun for the whole family</div>
-<div class="isomer-card-description">Suitable for visitors aged 10 and up, it’s the perfect opportunity for
-both the young and old to learn more about tech and our Smart Nation.</div>
+<div class="isomer-card-description">Suitable for children, Smart Nation PlayScape is the perfect opportunity
+for both the young and old to learn more about tech and our Smart Nation.</div>
 </div>
 </div>
 </div>
