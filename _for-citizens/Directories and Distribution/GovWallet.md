@@ -14,14 +14,15 @@ image: /images/Products and Services/GovWallet_logo.png
 <p>Gone are the days when the government would use the snail mail method
 to deliver paper vouchers or cheques for the purpose of payout disbursement.
 Not only was the delivery process slow, but the letters would also at times
-get lost. Thanks to Singaporeans' widespread adoption of the government's
-digital apps, it has become possible for us to introduce GovWallet, a feature
-allowing payouts and vouchers to be credited directly to your account for
-a quicker and more secure delivery.</p>
-<p>This digital wallet has been integrated with apps such as Singpass, LifeSG
-and Healthy 365. It currently serves around 1.3 million citizens, who use
-the credits to make purchases and transact with 164,000 merchants on the
-PayNow platform as well as NETS’ ecosystem of 43,000 merchants.</p>
+get lost.</p>
+<p>Thanks to Singaporeans' widespread adoption of the government's digital
+apps, it has become possible for us to introduce GovWallet, a feature replacing
+physical vouchers by allowing payouts and vouchers to be credited directly
+to your account for a quicker and more secure delivery</p>
+<p>This digital wallet has been integrated with apps such as Singpass, LifeSG,
+Workpal and Healthy 365. It currently serves around 1.3 million citizens,
+who use the credits to make purchases and transact with 164,000 merchants
+on the PayNow platform as well as NETS’ ecosystem of 43,000 merchants.</p>
 <h3>Why use GovWallet?</h3>
 <div class="isomer-card-grid">
 <div class="isomer-card">
