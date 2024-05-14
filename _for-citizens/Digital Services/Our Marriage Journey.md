@@ -11,7 +11,7 @@ image: /images/Products and Services/For citizens/OurMarriageJourney_meta_image.
 <h2>Digitalising marriage registrations with Our Marriage Journey</h2>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Young happy couple on their wedding day, registering their marriage via Our Marriage Journey" src="/images/Products and Services/For citizens/OMJ_1690x800.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="Our Marriage Journey is Singapore's online marriage registration portal." src="/images/Products and Services/For citizens/OMJ_screenshot_1690x800.jpg">
 </div>
 <p>Getting married is one of the most joyful events in a person’s life. Among
 the long list of wedding preparation matters is marriage registration.
@@ -23,7 +23,7 @@ every year by helping them digitalise their marriage journeys.</p>
 <h3>Why use Our Marriage Journey?</h3>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Our Marriage Journey is Singapore's online marriage registration portal." src="/images/Products and Services/For citizens/OMJ.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="Young happy couple on their wedding day, registering their marriage via Our Marriage Journey" src="/images/Products and Services/For citizens/OMJ_1690x800.jpg">
 </div>
 <p>All your marriage documentation can be completed online, anywhere, anytime.
 Here are some e-services available via the portal.</p>
