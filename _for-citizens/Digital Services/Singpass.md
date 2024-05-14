@@ -8,28 +8,33 @@ description: Singpass is a trusted digital identity that aims to make
 third_nav_title: Digital Services
 image: /images/Products and Services/For citizens/Singpass_meta_image.png
 ---
-<h2>Digitalising the national identity and providing secure access to e-services with Singpass</h2>
-<p></p>
+<h2>Singpass: Our trusted digital identity for secure and convenient access to services</h2>
 <div class="isomer-image-wrapper">
-<img style="width: 80%;" height="auto" width="100%" alt="" src="/images/Digital Gov Efforts/singpass_logo_fullcolours_1.png">
+<img style="width: 100%" height="auto" width="100%" alt="Singpass logo" src="/images/Products and Services/For citizens/Singpass_1690x800.png">
 </div>
-<p>Singpass is a trusted digital identity for every Singaporean citizen to
-use when making everyday transactions. Access over 2,700 services across
-800 connected government agencies and businesses, simply by authenticating
-with your biometrics or SMS 2FA.</p>
-<p>The app is created by GovTech as part of a key enabler of our national
-digital economy. To date, we have managed to digitalise e-residency for
-4.2 million Singaporeans and Permanent Residents (PRs), with our users
-making 41 million transactions monthly.</p>
+<p>Singpass is every Singapore resident's trusted digital identity to prove
+who we are when performing everyday transactions like checking our CPF
+balance, booking medical appointments, renewing insurance and more. Access
+over 2,700 services across 800 government agencies and businesses, simply
+by authenticating with your biometrics or SMS Two-Factor Authentication
+(2FA).</p>
+<p>Created by GovTech as a key enabler of Singapore's digital economy, Singpass
+facilitates over 41 million transactions every month. Out of 5 million
+Singpass users, more than 4.2 million people use the Singpass app to easily
+log in to services, prove their identity over counters, digitally sign
+documents and do more on the go.</p>
+<p>Find out how Singpass empowers our users every day:</p>
 <p></p>
 <div class="iframe-wrapper">
 <iframe style="max-width: 100%;" height="400" width="100%" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/rUZf1ZcB0NY?si=Fj23EyqsXwV6YaLr"></iframe>
 </div>
 <p><em>Statistics shown in this video are accurate as of March 2021.</em>
 </p>
+<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="Statistics of the usage of Singpass" src="/images/Digital Gov Efforts/singpass_infographic.jpg">
 </div>
+<p></p>
 <h3>Why use Singpass?</h3>
 <p></p>
 <div class="iframe-wrapper">
@@ -66,19 +71,8 @@ autofill for one-click form signing.</p>
 </div>
 </div>
 <div class="isomer-card-body">
-<div class="isomer-card-title">Skip service lines and counters</div>
-<div class="isomer-card-description">Get access to government services securely and easily on the go.</div>
-</div>
-</div>
-<div class="isomer-card">
-<div class="isomer-card-image">
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Singpass eliminates the need for paperwork" src="/images/Products and Services/For citizens/Singpass_info_card_2_600x400.jpg">
-</div>
-</div>
-<div class="isomer-card-body">
-<div class="isomer-card-title">No more paperwork</div>
-<div class="isomer-card-description">Government agencies can now process transactions faster and more effectively.</div>
+<div class="isomer-card-title">Skip counters and queues</div>
+<div class="isomer-card-description">Access digital services easily and safely wherever you are.</div>
 </div>
 </div>
 <div class="isomer-card">
@@ -88,13 +82,42 @@ autofill for one-click form signing.</p>
 </div>
 </div>
 <div class="isomer-card-body">
-<div class="isomer-card-title">Automated identity verification</div>
-<div class="isomer-card-description">Thanks to APIs, you can apply and access business services quicker and
-securely, without the need for manual paper filing.</div>
+<div class="isomer-card-title">Secure authentication</div>
+<div class="isomer-card-description">Log in using any Singpass 2FA method: Singpass app face verification or
+SMS OTP. Fewer passwords to remember!</div>
+</div>
+</div>
+<div class="isomer-card">
+<div class="isomer-card-image">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Singpass eliminates the need for paperwork." src="/images/Products and Services/For citizens/Singpass_info_card_2_600x400.jpg">
+</div>
+</div>
+<div class="isomer-card-body">
+<div class="isomer-card-title">Less manual form filling</div>
+<div class="isomer-card-description">Pre-fill forms with your Myinfo data for participating services when you
+log in with Singpass.</div>
 </div>
 </div>
 </div>
 <h3>How to use Singpass?</h3>
+<p>Singpass employs Two-Factor Authentication (2FA) methods such as the Singpass
+app. Face verification and SMS One-Time Passwords (OTP) to provide an additional
+layer of security and better protect users' data.</p>
+<p>Users can log in to digital services easily and securely in a few ways:</p>
+<ol data-tight="true" class="tight">
+<li>
+<p>Use the <strong>Singpass app</strong> with one's fingerprint, face or a
+six-digit passcode, without typing long passwords.</p>
+</li>
+<li>
+<p>Enter one's <strong>Singpass ID and password</strong> on a desktop or mobile
+web browser followed by <strong>face verification</strong>, or keying in
+an <strong>SMS OTP</strong>.</p>
+</li>
+</ol>
+<p></p>
+<p></p>
 <p>All Singaporean citizens, PRs and Foreign Identification Number (FIN)
 holders above the age of 15 years old are eligible to use Singpass. Start
 using the app in three easy steps:&nbsp;&nbsp;&nbsp;</p>
