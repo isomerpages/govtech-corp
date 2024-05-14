@@ -61,10 +61,10 @@ annual leave package and flexible work arrangement.</div>
 <h3>Find the right programme for you</h3>
 <p>GovTech offers numerous opportunities that will help you expand your career
 horizons. Take a look at the current list of programmes we host.</p>
-<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="GovTech's many opportunities for students and graduates" src="/images/careers/govtech-students-and-graduates-programmes.png">
+<img style="width: 100%" height="auto" width="100%" alt="GovTech's many opportunities for students and graduates." src="/images/careers/students_and_graduates_overview_infographic.jpg">
 </div>
+<p></p>
 <div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="/careers/students-and-graduates/geekout/" class="isomer-card"><div class="isomer-card-body"><div class="isomer-card-title">GeekOut is a fun-filled 5-day boot camp for young tech enthusiasts</div><div class="isomer-card-link">Explore GeekOut</div></div></a>
 <a rel="noopener noreferrer nofollow" href="/careers/students-and-graduates/internships/" class="isomer-card">
 <div class="isomer-card-body">
@@ -74,7 +74,6 @@ of you</div>
 </div>
 </a>
 </div>
-<p></p>
 <div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="/careers/students-and-graduates/smart-nation-scholarship/" class="isomer-card"><div class="isomer-card-body"><div class="isomer-card-title">Passionate about digitalisation? The Smart Nation Scholarship is for you!</div><div class="isomer-card-link">Explore scholarship</div></div></a>
 <a rel="noopener noreferrer nofollow" href="/careers/students-and-graduates/technology-associate-programme/" class="isomer-card">
 <div class="isomer-card-body">
