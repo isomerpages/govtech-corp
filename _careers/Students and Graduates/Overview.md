@@ -62,7 +62,7 @@ annual leave package and flexible work arrangement.</div>
 <p>GovTech offers numerous opportunities that will help you expand your career
 horizons. Take a look at the current list of programmes we host.</p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="GovTech's many opportunities for students and graduates." src="/images/careers/students_and_graduates_overview_infographic.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="GovTech's many opportunities for students and graduates." src="/images/careers/Students_and_graduates_overview_infographic.jpg">
 </div>
 <p></p>
 <div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="/careers/students-and-graduates/geekout/" class="isomer-card"><div class="isomer-card-body"><div class="isomer-card-title">GeekOut is a fun-filled 5-day boot camp for young tech enthusiasts</div><div class="isomer-card-link">Explore GeekOut</div></div></a>
