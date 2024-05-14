@@ -103,7 +103,7 @@ to festive celebrations.</div>
 </div>
 <h3>Want to learn more about life at GovTech?</h3>
 <p>Check out our <a href="https://linktr.ee/connectwithgovtech" rel="noopener noreferrer nofollow" target="_blank"><u>social media channels</u></a> to
-explore life #InsideGovTech!</p>
+explore life #InsideGovTech and our <a href="https://careers.tech.gov.sg/careers/Inside" rel="noopener noreferrer nofollow" target="_blank">career portal</a>!</p>
 <h3>Start your GovTech journey today</h3>
 <p>Whether you're a student, graduate or working professional, many opportunities
 await you at GovTech. Find out more about joining GovTech by clicking below.</p>
