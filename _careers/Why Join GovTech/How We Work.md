@@ -39,45 +39,6 @@ projects.</div>
 </div>
 </div>
 </div>
-<h3>We aim to innovate, learn, and grow</h3>
-<div class="isomer-card-grid">
-<div class="isomer-card">
-<div class="isomer-card-image">
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="A GovTech career is filled with opportunities to innovate." src="/images/careers/Innovation_card_600x400.jpg">
-</div>
-</div>
-<div class="isomer-card-body">
-<div class="isomer-card-title">Innovate</div>
-<div class="isomer-card-description">We challenge ourselves to innovate constantly. We deconstruct problems
-and gather user feedback to create useful solutions.</div>
-</div>
-</div>
-<div class="isomer-card">
-<div class="isomer-card-image">
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="At GovTech, you'll always be learning" src="/images/careers/Learn_card_600x400.jpg">
-</div>
-</div>
-<div class="isomer-card-body">
-<div class="isomer-card-title">Learn</div>
-<div class="isomer-card-description">We're in good company — every day, we get to see a multidisciplinary team
-of experts in their element. Learning from them is second nature.</div>
-</div>
-</div>
-<div class="isomer-card">
-<div class="isomer-card-image">
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="The GovTech culture is all about prioritising your personal and professional growth." src="/images/careers/Grow_card_600x400.jpg">
-</div>
-</div>
-<div class="isomer-card-body">
-<div class="isomer-card-title">Grow</div>
-<div class="isomer-card-description">We seek to better ourselves through the Digital Technology Attachment
-Programme and the Digital Technical Mentorship Programme.</div>
-</div>
-</div>
-</div>
 <h3>We prioritise work-life balance</h3>
 <p></p>
 <div class="iframe-wrapper">
