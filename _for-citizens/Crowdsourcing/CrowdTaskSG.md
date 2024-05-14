@@ -44,8 +44,8 @@ users to date.</p>
 </div>
 <div class="isomer-card-body">
 <div class="isomer-card-title">Let your voice be heard</div>
-<div class="isomer-card-description">Share your views! Collective answers will go on to influence product or
-policy creation.</div>
+<div class="isomer-card-description">Share your views! Collective answers will go on to influence products
+or improve service delivery!</div>
 </div>
 </div>
 <div class="isomer-card">
@@ -56,8 +56,8 @@ policy creation.</div>
 </div>
 <div class="isomer-card-body">
 <div class="isomer-card-title">Earn rewards for sharing your views</div>
-<div class="isomer-card-description">Redeem vouchers to pay participating merchants on the NETS ecosystem.
-1,000 coins convert to S$1.</div>
+<div class="isomer-card-description">Earn coins that you can redeem at merchants who accept NETS QR mode of
+payment.</div>
 </div>
 </div>
 <div class="isomer-card">
