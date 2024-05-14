@@ -33,10 +33,6 @@ facilitated 620,000 data retrievals.</p>
 <iframe style="max-width: 100%;" height="400" width="100%" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/SWYtVIp1cAM?si=6YJuSQVqYcPodz_B"></iframe>
 </div>
 <h3>Why use SGFinDex?</h3>
-<p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="SGFinDex is an online financial planning tool that aims to empower you on your journey." src="/images/Products and Services/For citizens/SGFindex.jpg">
-</div>
 <h4>All your finances at a glance!</h4>
 <div class="isomer-card-grid">
 <div class="isomer-card">
