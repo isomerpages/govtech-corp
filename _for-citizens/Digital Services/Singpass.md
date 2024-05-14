@@ -171,7 +171,6 @@ step-by-step instructions.</p>
 are in place, we must be alert when transacting online and stay informed
 to protect ourselves from scams.</p>
 <p>Follow these security tips to safeguard your digital identity:</p>
-<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="The ACT security tips to protect your Singpass account from scams." src="/images/Products and Services/For citizens/SGGov_002_Singpass_fb_post_2_v4_compressed.jpg">
 </div>
