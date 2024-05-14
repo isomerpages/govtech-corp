@@ -89,7 +89,7 @@ will ensure a smooth journey together on the next bound of Smart Nation.”</p>
 <hr>
 <p><strong>For media queries, please contact:</strong>
 </p>
-<p><strong>Adrian CHAN (Mr)</strong>
+<p><strong>Adrian CHAN (Mr)</strong> 
 <br>Communications &amp; Marketing Group
 <br>Government Technology Agency
 <br>Tel: 9100 4477
