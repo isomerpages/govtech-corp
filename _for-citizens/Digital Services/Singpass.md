@@ -30,38 +30,21 @@ documents and do more on the go.</p>
 </div>
 <p><em>Statistics shown in this video are accurate as of March 2021.</em>
 </p>
-<p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Statistics of the usage of Singpass" src="/images/Digital Gov Efforts/singpass_infographic.jpg">
-</div>
-<p></p>
-<h3>Why use Singpass?</h3>
-<p></p>
-<div class="iframe-wrapper">
-<iframe style="max-width: 100%;" height="400" width="100%" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/zacNBxADPH4?si=vsUFvg1wt38IUmWn"></iframe>
-</div>
-<p>Endless possibilities enabled by a single trusted digital identity service</p>
-<ul>
+<p>Singpass employs Two-Factor Authentication (2FA) methods such as the Singpass
+app. Face Verification and SMS One-Time Passwords (OTP) to provide an additional
+layer of security and better protect users' data.</p>
+<p>Users can log in to digital services easily and securely in a few ways:</p>
+<ol data-tight="true" class="tight">
 <li>
-<p>Log in through face verification kiosks at public service centres or QR-code
-logins. There are also login shortcuts on the homepage of the Singpass
-app for you to access other government services.</p>
+<p>Use the <strong>Singpass app</strong> with one's fingerprint, face or a
+six-digit passcode, without typing long passwords.</p>
 </li>
 <li>
-<p>Prove identity in-person via digital identification card and share identification
-with trusted businesses.</p>
+<p>Enter one's <strong>Singpass ID and password</strong> on a desktop or mobile
+web browser followed by <strong>Face Verification</strong>, or keying in
+an <strong>SMS OTP</strong>.</p>
 </li>
-<li>
-<p>Digitally sign documents and transactions securely.</p>
-</li>
-<li>
-<p>Access personal and important data through the Myinfo Profile, and use
-autofill for one-click form signing.</p>
-</li>
-<li>
-<p>Receive timely notifications on public announcements and renewal of documents.</p>
-</li>
-</ul>
+</ol>
 <h3>Benefits of using Singpass</h3>
 <div class="isomer-card-grid">
 <div class="isomer-card">
@@ -100,68 +83,72 @@ log in with Singpass.</div>
 </div>
 </div>
 </div>
+<h3>Why use the Singpass app?</h3>
+<p></p>
+<div class="iframe-wrapper">
+<iframe style="max-width: 100%;" height="400" width="100%" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/zacNBxADPH4?si=vsUFvg1wt38IUmWn"></iframe>
+</div>
+<p>Since the mobile app's launch in 2018, we have been progressively adding
+useful features to enable simpler transactions. Current app features include:</p>
+<ul data-tight="true" class="tight">
+<li>
+<p><strong>Show your Digital IC to prove your identity over government counters</strong>.
+You can also scan the Digital IC barcode at kiosks such as those in libraries
+and polyclinics.</p>
+</li>
+<li>
+<p><strong>One-tap access</strong> to commonly used government digital services
+like CPF, HDB, and IRAS. Last used services are also displayed for easy
+access. You can also personalise your list of favourite services.</p>
+</li>
+<li>
+<p><strong>View your profile</strong> where you always have your important
+information such as CPF balance, passport number and HDB details on hand.</p>
+</li>
+<li>
+<p><strong>Receive timely notifications from government agencies</strong> in
+the Singpass app inbox. For instance, users who are due for NRIC re-registration
+and passport renewal will receive notifications in their app inbox.</p>
+</li>
+<li>
+<p><strong>Authorised individuals of corporate entities can switch to their corporate profile </strong>to
+access and view selected corporate data (users must have a valid Corppass
+account).</p>
+</li>
+<li>
+<p><strong>Digitally sign documents</strong> by scanning a QR code. This removes
+the need for users to be physically present to sign documents and agreements
+with organisations that offer the <strong>Sign with Singpass</strong> service.</p>
+</li>
+</ul>
 <h3>How to use Singpass?</h3>
-<p>Singpass employs Two-Factor Authentication (2FA) methods such as the Singpass
-app. Face verification and SMS One-Time Passwords (OTP) to provide an additional
-layer of security and better protect users' data.</p>
-<p>Users can log in to digital services easily and securely in a few ways:</p>
-<ol data-tight="true" class="tight">
-<li>
-<p>Use the <strong>Singpass app</strong> with one's fingerprint, face or a
-six-digit passcode, without typing long passwords.</p>
-</li>
-<li>
-<p>Enter one's <strong>Singpass ID and password</strong> on a desktop or mobile
-web browser followed by <strong>face verification</strong>, or keying in
-an <strong>SMS OTP</strong>.</p>
-</li>
-</ol>
-<p></p>
-<p></p>
-<p>All Singaporean citizens, PRs and Foreign Identification Number (FIN)
-holders above the age of 15 years old are eligible to use Singpass. Start
-using the app in three easy steps:&nbsp;&nbsp;&nbsp;</p>
+<p>All Singaporean Citizens, Permanent Residents (PRs) and Foreign Identification
+Number (FIN) holders aged 15 years old and above are eligible for Singpass.
+Set up your account in three easy steps:&nbsp;&nbsp;&nbsp;</p>
 <ol>
 <li>
-<p>Register on <a href="http://singpass.gov/" rel="noopener noreferrer nofollow" target="_blank"><u>Singpass.gov</u>.sg</a> via
-face verification or with a One-Time Password Pin mailer.</p>
+<p>Register at <a href="http://www.singpass.gov.sg" rel="noopener noreferrer nofollow" target="_blank">www.singpass.gov.sg</a> instantly
+via Face Verification, or request a One-Time Password PIN mailer to be
+sent to your registered address.</p>
 </li>
 <li>
-<p>Set up your Singpass password and SMS 2FA once you've registered successfully.</p>
+<p>Create your Singpass password, activate SMS 2FA and update your contact
+information.</p>
 </li>
 <li>
-<p>Start accessing the Singpass ecosystem by downloading the app through
-the <a href="https://apps.apple.com/sg/app/singpass/id1340660807" rel="noopener noreferrer nofollow" target="_blank"><u>App Store</u></a> (for
-Apple devices) and <a href="https://play.google.com/store/apps/details?id=sg.ndi.sp&amp;hl=en_SG&amp;gl=US" rel="noopener noreferrer nofollow" target="_blank"><u>Google Play Store</u></a> (for
-Android devices).</p>
+<p>If you have a smartphone or tablet and internet connectivity, install
+the Singpass app on your device via the official app stores (<a href="https://apps.apple.com/sg/app/singpass/id1340660807" rel="noopener noreferrer nofollow" target="_blank">Apple App Store</a>,
+<a href="https://play.google.com/store/apps/details?id=sg.ndi.sp&amp;hl=en_SG&amp;gl=US" rel="noopener noreferrer nofollow" target="_blank">Google Play Store</a>and <a href="https://appgallery.huawei.com/#/app/C104129719" rel="noopener noreferrer nofollow" target="_blank">Huawei AppGallery</a>).</p>
 </li>
 </ol>
-<p>For a more detailed step-by-step walkthrough, please read the <a href="/files/products-and-services/Singpass_Registration_Guide.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>Singpass Registration Guide</u></a>.</p>
-<h3>What's the latest on Singpass?</h3>
-<p>We're constantly working to expand Singpass' services. Here are some upcoming
-features.</p>
-<p></p>
-<div data-type="detailGroup" class="isomer-accordion isomer-accordion-white">
-<details class="isomer-details">
-<summary><strong>Peer-to-peer check</strong>
-</summary>
-<div data-type="detailsContent" class="isomer-details-content">
-<p>Verify details of someone else's identity before granting him or her access
-to your Singpass account.</p>
-</div>
-</details>
-<details class="isomer-details">
-<summary><strong>Make bill payments</strong>
-</summary>
-<div data-type="detailsContent" class="isomer-details-content">
-<p>Make payments easily for your transactions via the app.</p>
-</div>
-</details>
-</div>
-<h4>Public Service Advisory on Scams</h4>
-<p>Scams are on the rise, and they are becoming more sophisticated. You can
-prevent yourself and others from becoming victims by remembering the following
-tips:</p>
+<p>Please refer to the <a href="/files/products-and-services/Singpass_Registration_Guide.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>instructional guides</u></a> for
+step-by-step instructions.</p>
+<h4>Keeping your Singpass safe</h4>
+<p>Scams are on the rise, and constantly changing. While security measures
+are in place, we must be alert when transacting online and stay informed
+to protect ourselves from scams.</p>
+<p>Follow these security tips to safeguard your digital identity:</p>
+<p>(to continue)</p>
 <ul>
 <li>
 <p>Check the message for spelling errors, which are an indicator that it
