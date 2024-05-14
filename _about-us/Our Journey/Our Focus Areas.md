@@ -36,7 +36,7 @@ to support the Singapore Green Plan 2030 goals and achieve net zero emissions
 by 2045.</p>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 80%;" height="auto" width="100%" alt="GovTech sustainability framework to support Singapore Green Plan 2030" src="/images/About Us/our_focus_areas_infographic.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="GovTech sustainability framework to support Singapore Green Plan 2030" src="/images/About Us/our_focus_areas_infographic.jpg">
 </div>
 <h4>GovTech Green Week</h4>
 <p></p>
