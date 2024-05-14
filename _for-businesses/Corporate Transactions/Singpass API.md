@@ -38,7 +38,7 @@ platform that is a part of the Singpass ecosystem inspires trust.</p>
 <div class="isomer-card">
 <div class="isomer-card-image">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Singpass APIs leverage biometrics to enable consent-based biometrics ID." src="/images/Products and Services/For businesses/Singpass_API_card_2.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="Singpass APIs leverage biometrics to enable consent-based biometrics ID." src="/images/Products and Services/For businesses/Singpass_API_card_3.jpg">
 </div>
 </div>
 <div class="isomer-card-body">
@@ -50,7 +50,7 @@ for your use.</div>
 <div class="isomer-card">
 <div class="isomer-card-image">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Singpass enables one-click registration for the ultimate convenience." src="/images/Products and Services/For businesses/Singpass_API_card_3.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="Singpass enables one-click registration for the ultimate convenience." src="/images/Products and Services/For businesses/singpass_api__new__600x400.jpg">
 </div>
 </div>
 <div class="isomer-card-body">
