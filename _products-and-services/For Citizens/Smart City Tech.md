@@ -70,8 +70,9 @@ for the Grocery Vouchers.</p>
 <div class="isomer-card">
 <div class="isomer-card-body">
 <div class="isomer-card-title">A nationwide rollout</div>
-<div class="isomer-card-description">Today, PAB is piloted in 53 rental housing blocks, and installed in more
-than 6,000 units.</div>
+<div class="isomer-card-description">The PAB will be deployed in the homes of 26,800 more seniors starting
+from January 2025. Installation works are expected to take about 5 years
+to complete.</div>
 </div>
 </div>
 <div class="isomer-card">
