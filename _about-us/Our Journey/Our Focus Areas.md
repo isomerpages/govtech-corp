@@ -35,7 +35,7 @@ Sustainability.</p>
 to support the Singapore Green Plan 2030 goals and achieve net zero emissions
 by 2045.</p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="GovTech sustainability framework to support Singapore Green Plan 2030" src="/images/About Us/our_focus_areas_infographic.jpg">
+<img style="width: 80%;" height="auto" width="100%" alt="GovTech sustainability framework to support Singapore Green Plan 2030" src="/images/About Us/our_focus_areas_infographic.jpg">
 </div>
 <h4>GovTech Green Week</h4>
 <p></p>
@@ -65,9 +65,9 @@ communities.</p>
 <p>Since 2019, Digital4Good has empowered underprivileged children/youth
 and seniors by increasing their digital literacy through programming and
 more.</p>
-<p>Learn more about how GovTech’s UX designers worked with Hatch to host
-an industry sharing and career advisory session to share what it means
-to be in the UX space <a href="https://www.tech.gov.sg/media/technews/digital-4-good-hatch-ux-hatch" rel="noopener noreferrer nofollow" target="_blank">here</a>.</p>
+<p>One of its efforts involve GovTech's UX designers working with the social
+enterprise Hatch to host a <a href="/media/technews/digital-4-good-hatch-ux-hatch/" class="waffle-rich-text-link" rel="noopener noreferrer nofollow" target="_blank"><u>career advisory session</u></a>,
+sharing what it means to be in the UX space.</p>
 <h4>A11y Team (accessibility enabling team)</h4>
 <p>This team was formed to design inclusive government services based on
 the unique experiences of persons with disabilities (PwDs) and seniors.</p>
@@ -76,8 +76,7 @@ the unique experiences of persons with disabilities (PwDs) and seniors.</p>
 </div>
 <p><em>An A11y Week participant learning about screen reader accessibility at the A11y Tic Tac Toe booth. The game is modified to be playable only through keyboard navigation and listening to screen reader cues.</em>
 </p>
-<p><strong>Want to learn more about our A11y Team?</strong>
-</p>
+<h4>Want to learn more about our A11y Team?</h4>
 <p>Check out what our GovTechies got up to during <a href="/media/technews/this-national-day-lets-work-towards-a-more-digitally-inclusive-singapore/" class="waffle-rich-text-link" rel="noopener noreferrer nofollow" target="_blank"><u>A11y Week 2023</u></a> —
 a learning festival for all public officers in Singapore that aims to foster
 an understanding and appreciation of accessible and inclusive design in
