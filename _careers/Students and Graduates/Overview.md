@@ -77,7 +77,8 @@ of you</div>
 <div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="/careers/students-and-graduates/smart-nation-scholarship/" class="isomer-card"><div class="isomer-card-body"><div class="isomer-card-title">Passionate about digitalisation? The Smart Nation Scholarship is for you!</div><div class="isomer-card-link">Explore scholarship</div></div></a>
 <a rel="noopener noreferrer nofollow" href="/careers/students-and-graduates/technology-associate-programme/" class="isomer-card">
 <div class="isomer-card-body">
-<div class="isomer-card-title">Become a tech leader with the Tech Associate Programme (TAP)</div>
+<div class="isomer-card-title">Fast track to become a Tech Leader with the Technology Associalte Programme
+(TAP)</div>
 <div class="isomer-card-link">Explore TAP</div>
 </div>
 </a>
