@@ -12,11 +12,10 @@ image: /images/careers/How_we_hire_meta_image_copy.jpg
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="GovTech employee and employer speaking to one another." src="/images/careers/How_we_hire__new__1690x800.jpg">
 </div>
-<p>The GovTech community is filled with over 3,000 talents and experts who
-live and breathe technology. As we continue to advance our mission to build
+<p>Together with more than 3,000 GovTechies who advance our mission to build
 Tech for Public Good, we need people who match our level of passion for
-developing tech-enabled products, services and solutions for Singapore.
-We are always seeking talented and dedicated individuals to strengthen
+developing tech-enabled products, services and solutions for Singapore.</p>
+<p>We are always seeking talented and dedicated individuals to strengthen
 our capabilities in application development, data science and artificial
 intelligence, cybersecurity, digital infrastructure and smart city technology.</p>
 <h3>GovTech's hiring process</h3>
@@ -64,7 +63,7 @@ frameworks and predetermined criteria.&nbsp;</p>
 <p></p>
 <div data-type="detailGroup" class="isomer-accordion isomer-accordion-white">
 <details class="isomer-details">
-<summary><strong>Craft a well-formatted and effective CV</strong>
+<summary><strong>1. Craft a well-formatted and effective CV</strong>
 </summary>
 <div data-type="detailsContent" class="isomer-details-content">
 <p>Your CV is your first chance to introduce yourself to us. Make a good
@@ -84,7 +83,7 @@ value to your past projects and assignments.</p>
 </div>
 </details>
 <details class="isomer-details">
-<summary><strong>Be well-prepared for the interview</strong>
+<summary><strong>2. Be well-prepared for the interview</strong>
 </summary>
 <div data-type="detailsContent" class="isomer-details-content">
 <p>The interview questions help us to assess your competencies, problem-solving
@@ -104,7 +103,7 @@ challenges.</p>
 </div>
 </details>
 <details class="isomer-details">
-<summary><strong>Spruce up your online presence</strong>
+<summary><strong>3. Spruce up your online presence</strong>
 </summary>
 <div data-type="detailsContent" class="isomer-details-content">
 <p>Did you know that your digital footprint impacts your chance of clinching
