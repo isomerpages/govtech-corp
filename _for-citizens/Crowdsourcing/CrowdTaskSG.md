@@ -8,7 +8,7 @@ description: CrowdTaskSG offers you a chance to get heard on national issues.
 third_nav_title: Crowdsourcing
 image: /images/Products and Services/For citizens/crowdtask_600x300.png
 ---
-<h2>Giving citizens a chance to be heard on national issues with CrowdTaskSG</h2>
+<h2>Giving citizens opportunities to be heard on national issues with CrowdTaskSG</h2>
 <p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="CrowdTaskSG banner image/logo" src="/images/Products and Services/For citizens/CTSG_banner.jpg">
@@ -18,17 +18,16 @@ your life. Being the beneficiary of government initiatives, you are the
 best person to help identify gaps and areas of improvement across different
 national policies and issues.</p>
 <p>As part of our mission to build <a href="/our-digital-government-efforts/tech-for-public-good/" rel="noopener noreferrer nofollow" target="_blank">Tech for Public Good</a>,
-we want to empower our sister agencies and give them the ability to gather
+we want to empower government agencies and give them the ability to gather
 valuable on-the-ground insights. Armed with the insights, they can then
 chart roadmaps to take concrete actions. To do this, we came up with CrowdTaskSG,
-a crowdsourcing web portal for them to create and distribute surveys to
-a verified and diverse pool of Singaporean citizens. It can also be tapped
-to consolidate feedback on the effectiveness of prototypes such as websites
-or apps.<strong>&nbsp;</strong>
-</p>
+a crowdsourcing web portal for agencies to co-create and co-deliver a verified
+and diverse pool of Singaporean citizens. Citizens can share their insights
+and feedback through surveys, and play their part in improving service
+delivery.</p>
 <p>Open to citizens and Permanent Residents aged 18 years old and above with
-a Singpass account, CrowdTaskSG currently has more than 18,000 active users.
-More than 70 government agencies have received over 20,000 insights from
+a Singpass account, CrowdTaskSG currently has more than 30,000 active users.
+More than 80 government agencies have received over 290,000 insights from
 users to date.</p>
 <h3>Why use CrowdTaskSG?</h3>
 <p></p>
