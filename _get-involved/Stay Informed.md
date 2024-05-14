@@ -9,7 +9,7 @@ image: /images/Get Involved/Stay_informed_meta_image_compressed.jpg
 <h2>Stay connected with the latest GovTech news and updates!</h2>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Subscribe to Technews for the latest developments on tech and read from anywhere." src="/images/Get Involved/Stay_Informed_1690x800.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="Subscribe to Technews for the latest developments on tech and read from anywhere." src="/images/Get Involved/Stay_Informed__new__compressed_1690x800.jpg">
 </div>
 <h3>Subscribe to TechNews</h3>
 <p>Get tech tips, trend alerts, behind-the-scenes stories, GovTech updates
