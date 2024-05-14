@@ -93,12 +93,9 @@ into your GovWallet account.</p>
 agencies to test the effectiveness of their campaigns.&nbsp;</p>
 </li>
 <li>
-<p><strong>Great Budget Meal Hunt: </strong>Submit information on meals priced
-between $3 and $3.50 to help your fellow Singaporeans find cheap meals.</p>
-</li>
-<li>
-<p><strong>Scam Public Education Quiz: </strong>Test your ability to identify
-signs of scams and learn how to keep your Singpass account safe.</p>
+<p><a href="https://www.crowdtask.gov.sg/quest/budget-meal/infobites" rel="noopener noreferrer nofollow" target="_blank">Great Budget Meal Hunt</a>:<strong> </strong>Submit
+information on meals priced between $3 and $3.50 to expand the <a href="https://www.gowhere.gov.sg/budgetmeal/" rel="noopener noreferrer nofollow" target="_blank">BudgetMeal database</a> and
+help Singaporeans find cheaper meals.</p>
 </li>
 </ul>
 <h3>Interested to find out more about CrowdTaskSG?</h3>
