@@ -17,14 +17,13 @@ with tech possibilities and improve the lives of citizens.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="IDC Future Enterprise Awards 2023 - Singapore Winners" src="/images/About Us/Our Achievements/IDC_2023_Award_edited.jpg">
 </div>
-<p><em>Screenshot from <a href="https://www.idc.com/getdoc.jsp?containerId=prAP51332323" rel="noopener noreferrer nofollow" target="_blank">Singapore Winners for IDC’s 2023 Future Enterprise Awards Announced</a></em>.</p>
+<p><em>Screenshot from Singapore Winners for <a href="https://www.idc.com/getdoc.jsp?containerId=prAP51332323" rel="noopener noreferrer nofollow" target="_blank">IDC's 2023 Future Enterprise Awards</a></em>.</p>
 <p>The awards spotlight the leading businesses as our world transitions to
 the dawn of the Digital Business age.&nbsp;</p>
 <p>GovTech was proudly given the Special Award for Sustainability, recognising
 our efforts in advancing the adoption of greener hosting options through
 data centre consolidation, cloud migration, and workload optimisation to
 cut government data centres' electrical consumption by at least 20%.</p>
-<p><a href="https://www.idc.com/getdoc.jsp?containerId=prAP51332323" rel="noopener noreferrer nofollow" target="_blank">Singapore Winners for IDC's 2023 Future Enterprise Awards</a>.</p>
 <h3>2. Employer Awards</h3>
 <p>GovTech is proud to be a Great Place to Work-Certified™ organisation,
 a validation of our collaborative spirit.</p>
@@ -62,7 +61,11 @@ GovTechies and their tech contributions, check out our post below:</p>
 <p>As we promote innovation and challenge tech possibilities, many of GovTech's
 digital products and services have gained recognition through a myriad
 of awards.</p>
-<table>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
