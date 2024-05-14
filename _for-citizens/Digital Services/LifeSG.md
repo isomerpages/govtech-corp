@@ -9,7 +9,7 @@ image: /images/Products and Services/For citizens/LifeSG_meta_image.jpg
 ---
 <h2>LifeSG: Being there for your every milestone</h2>
 <div class="isomer-image-wrapper">
-<img style="width: 60%;" height="auto" width="100%" alt="LifeSG logo" src="/images/Products and Services/For citizens/LifeSG_600x300.png">
+<img style="width: 100%" height="auto" width="100%" alt="LifeSG logo" src="/images/Products and Services/For citizens/LifeSG__high_res__page_0001.jpg">
 </div>
 <p>From welcoming a new bundle of joy to preparing for your future with legacy
 planning, as you enter new chapters of your life, you will need access
@@ -30,8 +30,9 @@ over 1.5 million users like you through life’s events both big and small.</p>
 <p>The government services you use the most, all in one nifty app.</p>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="The LifeSG app offers you quick access to important government services" src="/images/Products and Services/For citizens/lifesg_app_services.png">
+<img style="width: 70%;" height="auto" width="100%" alt="The LifeSG app offers you quick access to important government services" src="/images/Products and Services/For citizens/Screenshot_LifeSG_app__services_.jpg">
 </div>
+<p></p>
 <div class="isomer-card-grid">
 <div class="isomer-card">
 <div class="isomer-card-body">
