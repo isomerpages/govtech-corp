@@ -1,5 +1,5 @@
 ---
-title: DataGovSG
+title: Data.gov.sg
 permalink: /products-and-services/for-government-agencies/data-and-ai/data-gov-sg/
 variant: tiptap
 description: An open data collective, Data.gov.sg allows government agencies to
