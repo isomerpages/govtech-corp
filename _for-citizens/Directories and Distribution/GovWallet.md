@@ -35,8 +35,9 @@ start using your payouts.</div>
 <div class="isomer-card">
 <div class="isomer-card-body">
 <div class="isomer-card-title">Your credits, your choice</div>
-<div class="isomer-card-description">Make payments conveniently to approved merchants or withdraw the payouts
-in cash via an ATM.</div>
+<div class="isomer-card-description">GovWallet has also integrated with OCBC ATMs to avail unbanked beneficiaries
+of some schemes (Workfare Income Supplement, Silver Support, GST Voucher,
+Assurance Package) to be withdrawn as cash.</div>
 </div>
 </div>
 <div class="isomer-card">
@@ -55,7 +56,7 @@ apps: <a href="/products-and-services/for-citizens/digital-services/lifesg/" rel
 <h4>To check your credit balance</h4>
 <ul>
 <li>
-<p>Scroll to the Benefits and Support module</p>
+<p>Navigate to your benefit card</p>
 </li>
 <li>
 <p>All your unused vouchers and cash payouts will be reflected</p>
@@ -86,6 +87,7 @@ apps: <a href="/products-and-services/for-citizens/digital-services/lifesg/" rel
 via a letter and Singpass</p>
 </li>
 </ul>
+<p>For more information, check out <a href="https://www.wallet.gov.sg/how-to-use" rel="noopener noreferrer nofollow" target="_blank">https://www.wallet.gov.sg/how-to-use</a>.</p>
 <h3>Interested in finding out more about GovWallet?</h3>
 <div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="https://www.wallet.gov.sg/where-to-spend" class="isomer-card"><div class="isomer-card-body"><div class="isomer-card-title">Visit the GovWallet website to find out where to spend your credits</div><div class="isomer-card-link">Go to GovWallet website</div></div></a>
 <a rel="noopener noreferrer nofollow" href="http://eepurl.com/cUwIsD" class="isomer-card">
