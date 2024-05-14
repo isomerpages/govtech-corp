@@ -10,7 +10,7 @@ image: /images/careers/How_we_hire_meta_image_copy.jpg
 <h2>Hiring right is our recipe for success</h2>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Asian man in an interview, applying for a job at GovTech with a smile on his face." src="/images/careers/How_we_hire_1690x800.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="GovTech employee and employer speaking to one another." src="/images/careers/How_we_hire__new__1690x800.jpg">
 </div>
 <p>The GovTech community is filled with over 3,000 talents and experts who
 live and breathe technology. As we continue to advance our mission to build
