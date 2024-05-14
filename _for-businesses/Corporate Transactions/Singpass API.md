@@ -22,6 +22,14 @@ ecosystem, as it is both convenient and highly secure.</p>
 Verify, Sign, Identiface, and more – can bring about numerous benefits
 such as time and cost savings across processes. Furthermore, a digital
 platform that is a part of the Singpass ecosystem inspires trust.</p>
+<p></p>
+<div class="iframe-wrapper">
+<iframe style="max-width: 100%;" height="400" width="100%" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/NGj3XXU-HgE?si=AA_92QsjEOu0kCxe"></iframe>
+</div>
+<p></p>
+<div class="iframe-wrapper">
+<iframe style="max-width: 100%;" height="400" width="100%" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/IostdtfKMhU?si=N28zdDooYQynL1LC"></iframe>
+</div>
 <h3>Why use Singpass APIs?</h3>
 <div class="isomer-card-grid">
 <div class="isomer-card">
