@@ -27,9 +27,9 @@ files.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="FileSG is a digital service that allows government agencies to send documents to you" src="/images/Products and Services/FileSG.png">
 </div>
-<p>FileSG is convenient to use as Singpass unlocks access to the storage
-portal. With a single login, you can retrieve all your official documents
-from different government agencies without having to visit different websites.</p>
+<p>FileSG is convenient to use as Singpass unlocks access to the portal.
+With a single login, you can retrieve all your official documents from
+different government agencies without having to visit different websites.</p>
 <h3>How to use FileSG?</h3>
 <p>Are you a Singpass user? Simply login with your Singpass credentials.</p>
 <p>Not a Singpass user? Enter the Transaction ID of the document you wish
@@ -42,20 +42,7 @@ planned to expand its functions, such as:</p>
 <div class="isomer-card-body">
 <div class="isomer-card-title">Incorporating Corppass</div>
 <div class="isomer-card-description">With the integration of Corppass, businesses can access their commercial
-documents with FileSG.</div>
-</div>
-</div>
-<div class="isomer-card">
-<div class="isomer-card-body">
-<div class="isomer-card-title">Document submission</div>
-<div class="isomer-card-description">Soon, you will be able to use FileSG to submit important documents to
-different government agencies.</div>
-</div>
-</div>
-<div class="isomer-card">
-<div class="isomer-card-body">
-<div class="isomer-card-title">Improved notifications</div>
-<div class="isomer-card-description">Be notified whenever new documents are uploaded for your review.</div>
+documents on FileSG if agencies send them to you via FileSG.</div>
 </div>
 </div>
 </div>
