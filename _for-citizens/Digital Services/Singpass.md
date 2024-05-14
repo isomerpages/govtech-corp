@@ -90,37 +90,60 @@ log in with Singpass.</div>
 </div>
 <p>Since the mobile app's launch in 2018, we have been progressively adding
 useful features to enable simpler transactions. Current app features include:</p>
-<ul data-tight="true" class="tight">
-<li>
-<p><strong>Show your Digital IC to prove your identity over government counters</strong>.
-You can also scan the Digital IC barcode at kiosks such as those in libraries
+<div data-type="detailGroup" class="isomer-accordion isomer-accordion-white">
+<details class="isomer-details">
+<summary><strong>Show your Digital IC to prove your identity over government counters</strong>.</summary>
+<div data-type="detailsContent" class="isomer-details-content">
+<p>You can also scan the Digital IC barcode at kiosks such as those in libraries
 and polyclinics.</p>
-</li>
-<li>
-<p><strong>One-tap access</strong> to commonly used government digital services
-like CPF, HDB, and IRAS. Last used services are also displayed for easy
-access. You can also personalise your list of favourite services.</p>
-</li>
-<li>
-<p><strong>View your profile</strong> where you always have your important
-information such as CPF balance, passport number and HDB details on hand.</p>
-</li>
-<li>
-<p><strong>Receive timely notifications from government agencies</strong> in
-the Singpass app inbox. For instance, users who are due for NRIC re-registration
-and passport renewal will receive notifications in their app inbox.</p>
-</li>
-<li>
-<p><strong>Authorised individuals of corporate entities can switch to their corporate profile </strong>to
-access and view selected corporate data (users must have a valid Corppass
-account).</p>
-</li>
-<li>
-<p><strong>Digitally sign documents</strong> by scanning a QR code. This removes
-the need for users to be physically present to sign documents and agreements
-with organisations that offer the <strong>Sign with Singpass</strong> service.</p>
-</li>
-</ul>
+</div>
+</details>
+<details class="isomer-details">
+<summary><strong>One-tap access to government digital services</strong>
+</summary>
+<div data-type="detailsContent" class="isomer-details-content">
+<p>One-tap access to commonly used government digital services like CPF,
+HDB, and IRAS. Last used services are also displayed for easy access. You
+can also personalise your list of favourite services.</p>
+</div>
+</details>
+<details class="isomer-details">
+<summary><strong>View your profile for important information</strong>
+</summary>
+<div data-type="detailsContent" class="isomer-details-content">
+<p>View your profile where you always have your important information such
+as CPF balance, passport number and HDB details on hand.</p>
+</div>
+</details>
+<details class="isomer-details">
+<summary><strong>Receive timely notifications from government agencies</strong>
+</summary>
+<div data-type="detailsContent" class="isomer-details-content">
+<p>Receive timely notifications from government agencies in the Singpass
+app inbox. For instance, users who are due for NRIC re-registration and
+passport renewal will receive notifications in their app inbox.</p>
+</div>
+</details>
+<details class="isomer-details">
+<summary><strong>Corporate profiles</strong>
+</summary>
+<div data-type="detailsContent" class="isomer-details-content">
+<p>Authorised individuals of corporate entities can switch to their corporate
+profile<strong> </strong>to access and view selected corporate data (users
+must have a valid Corppass account).</p>
+</div>
+</details>
+<details class="isomer-details">
+<summary><strong>Digitally sign documents</strong>
+</summary>
+<div data-type="detailsContent" class="isomer-details-content">
+<p>Digitally sign documents by scanning a QR code. This removes the need
+for users to be physically present to sign documents and agreements with
+organisations that offer the <strong>Sign with Singpass</strong> service.</p>
+</div>
+</details>
+</div>
+<p></p>
 <h3>How to use Singpass?</h3>
 <p>All Singaporean Citizens, Permanent Residents (PRs) and Foreign Identification
 Number (FIN) holders aged 15 years old and above are eligible for Singpass.
@@ -148,39 +171,16 @@ step-by-step instructions.</p>
 are in place, we must be alert when transacting online and stay informed
 to protect ourselves from scams.</p>
 <p>Follow these security tips to safeguard your digital identity:</p>
-<p>(to continue)</p>
-<ul>
-<li>
-<p>Check the message for spelling errors, which are an indicator that it
-is sent from a spoof account.</p>
-</li>
-<li>
-<p>Singpass will never send out SMSes with any weblinks, and will not ask
-for your login action. If you receive any SMS with a weblink, do not click
-on it and delete immediately.</p>
-</li>
-<li>
-<p>Call the 24-hour scam hotline at 6335 3533 to verify the authenticity
-of the message.</p>
-</li>
-<li>
-<p>Reset your Singpass password if you suspect your account has been compromised.</p>
-</li>
-</ul>
-<p>For more information, refer to the latest Singapore Police Force's advisory
-on <a href="https://www.police.gov.sg/media-room/news/20221002_advisory_on_phishing_scams_involving_singpass" rel="noopener noreferrer nofollow" target="_blank">Singpass-related phishing scams<u>.</u></a>
-</p>
-<h4>Updates to the Singpass infrastructure</h4>
-<p>The Singpass infrastructure is constantly evolving with ongoing work on
-new APIs and features to make Singpass accessible to all. If you are a
-developer, engineer, or a technical enthusiast simply interested in the
-growth of Singpass, please refer to the <a href="https://www.developer.tech.gov.sg/products/categories/digital-identity/" rel="noopener noreferrer nofollow" target="_blank"><u>documentation on our digital identity</u></a> on
-the Singapore's Government Developer Portal.</p>
+<p>(pending infographic)</p>
+<p>Our Singpass account is for our own use only. Avoid sharing your Singpass
+account or credentials with others. You may be held criminally liable if
+others use your Singpass account to facilitate criminal activities.</p>
+<p>For more information on securing your Singpass account, visit <a href="https://go.gov.sg/even-safer-singpass" rel="noopener noreferrer nofollow" target="_blank">https://go.gov.sg/even-safer-singpass</a>.</p>
 <h3>Interested in finding out more about Singpass?</h3>
-<div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="https://www.singpass.gov.sg/main/" class="isomer-card"><div class="isomer-card-body"><div class="isomer-card-title">Visit the Singpass website to start registration</div><div class="isomer-card-link">Go to Singpass website</div></div></a>
+<div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="https://www.singpass.gov.sg/main/" class="isomer-card"><div class="isomer-card-body"><div class="isomer-card-title">Register online for Singpass account</div><div class="isomer-card-link">Go to the Singpass website</div></div></a>
 <a rel="noopener noreferrer nofollow" href="http://eepurl.com/cUwIsD" class="isomer-card">
 <div class="isomer-card-body">
-<div class="isomer-card-title">Receive updates on Singpass by subscribing to our TechNews Newsletter</div>
+<div class="isomer-card-title">Receive updates on Singpass by subscribing to our TechNews e-newsletter</div>
 <div class="isomer-card-link">Subscribe to TechNews</div>
 </div>
 </a><a rel="noopener noreferrer nofollow" href="http://eepurl.com/hsr131" class="isomer-card"><div class="isomer-card-body"><div class="isomer-card-title">Have suggestions on how to improve Singpass? Provide feedback as a Tech Kaki!</div><div class="isomer-card-link">Join Tech Kaki community</div></div></a>
