@@ -120,7 +120,7 @@ female talents to explore and pursue careers in technology.</p>
 <p>At GovTech, we believe that it’s important to give back and contribute
 whenever we can. Our GovTechies regularly take part in consumer social
 responsibility (CSR) efforts like the annual Hair for Hope.&nbsp;</p>
-<p>We recently broke our record in 2023 with a total of $171,307.70 raised
-- the second-highest amount by a Hair for Hope Satellite Partner in 2023.&nbsp;</p>
-<p>See how our GovTechies showed their support and solidarity through Hair
-for Hope 2023 <a href="https://www.linkedin.com/feed/update/urn:li:activity:7105478505164898305/" rel="noopener noreferrer nofollow" target="_blank">here</a>.</p>
+<p>We recently <a href="https://www.linkedin.com/feed/update/urn:li:activity:7105478505164898305/" class="waffle-rich-text-link" rel="noopener noreferrer nofollow" target="_blank"><u>broke our record in 2023</u></a> with
+a total of $171,307.70 raised - the second-highest amount by a Hair for
+Hope Satellite Partner in 2023.</p>
+<p></p>
