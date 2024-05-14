@@ -20,7 +20,7 @@ umbrella.</p>
 <a rel="noopener noreferrer nofollow" href="/products-and-services/for-citizens/directories-and-distribution/govwallet/" class="isomer-card">
 <div class="isomer-card-image">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="GovWallet is a digital wallet that allows citizens to manage their government payouts" src="/images/Products and Services/For citizens/GovWallet_600x300.png">
+<img style="width: 100%" height="auto" width="100%" alt="GovWallet is a digital wallet that allows citizens to manage their government payouts" src="/images/Products and Services/For citizens/GovWallet_logo_600x300.jpg">
 </div>
 </div>
 <div class="isomer-card-body">
