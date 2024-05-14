@@ -16,9 +16,7 @@ image: /images/careers/Careers_overview_meta_image_compressed.jpg
 transformation projects underpin Singapore’s efforts to build a Smart Nation,
 a home where possibilities are powered by infocomm technology and engineering
 solutions. The work you do here will hence better the lives of all Singaporean
-citizens and residents. As you climb the corporate ladder to join the ranks
-of Singapore’s tech leaders, you too will undergo a journey of transformation,
-both professionally and personally.</p>
+citizens and residents.</p>
 <h3>Why join GovTech?</h3>
 <p>From a rewarding career to HR policies that value your welfare, here are
 the reasons why you should consider working at GovTech.</p>
@@ -105,7 +103,7 @@ to festive celebrations.</div>
 </div>
 <h3>Want to learn more about life at GovTech?</h3>
 <p>Check out our <a href="https://linktr.ee/connectwithgovtech" rel="noopener noreferrer nofollow" target="_blank"><u>social media channels</u></a> to
-explore #InsideGovTech!</p>
+explore life #InsideGovTech!</p>
 <h3>Start your GovTech journey today</h3>
 <p>Whether you're a student, graduate or working professional, many opportunities
 await you at GovTech. Find out more about joining GovTech by clicking below.</p>
@@ -113,7 +111,7 @@ await you at GovTech. Find out more about joining GovTech by clicking below.</p>
 <a rel="noopener noreferrer nofollow" href="/careers/opportunities-for-professionals/overview/" class="isomer-card">
 <div class="isomer-card-body">
 <div class="isomer-card-title">I am a professional</div>
-<div class="isomer-card-link">See our job openings</div>
+<div class="isomer-card-link">Explore our job openings</div>
 </div>
 </a>
 </div>
