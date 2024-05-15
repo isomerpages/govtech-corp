@@ -15,13 +15,13 @@ image: /images/Products and Services/open_attestation_logo.png
 digitally. In an era when scams and forgery are rampant, there is a need
 to ensure the authenticity and integrity of these digital documents.</p>
 <p>Enter OpenAttestation, an open-source framework that simplifies the endorsement
-and verification of official government documents. Created by GovTech's
-Government Digital Services, it harnesses blockchain protocols to store
-cryptographic proof of individual documents.</p>
-<p>Today, the OpenAttestation framework has helped create the <a href="https://www.developer.tech.gov.sg/products/categories/blockchain/opencerts/overview.html" rel="noopener noreferrer nofollow" target="_blank"><u>OpenCerts</u></a> project,
-which stores digital documents of educational certificates, as well as
-HealthCerts for COVID-19 certifications that are in line with international
-standards.</p>
+and verification of documents. Created by GovTech's Government Digital
+Services, it harnesses blockchain protocols to store cryptographic proof
+of individual documents.</p>
+<p>Today, the OpenAttestation framework has helped create the <a href="https://www.developer.tech.gov.sg/products/categories/blockchain/opencerts/overview.html" rel="noopener noreferrer nofollow" target="_blank">OpenCerts</a> project,
+which supports digitisation of educational certificates into verifiable
+documents, as well as helped create HealthCerts for COVID-19 certifications
+that are in line with international standards.</p>
 <h3>Why use OpenAttestation?</h3>
 <p></p>
 <div class="isomer-image-wrapper">
@@ -39,7 +39,9 @@ the document's provenance.</div>
 <div class="isomer-card">
 <div class="isomer-card-body">
 <div class="isomer-card-title">Verify issuance identity</div>
-<div class="isomer-card-description">OpenAttestation checks the identity of the document's issuer through DNS.</div>
+<div class="isomer-card-description">OpenAttestation checks the identity of the document's issuer through DNS.
+Revoke documents easily when documents are revoked, their status will update
+even for circulated copies.</div>
 </div>
 </div>
 <div class="isomer-card">
@@ -55,8 +57,8 @@ like other government services. However, citizens can use governmental
 services that are built on this framework to verify their official documents,
 such as OpenCerts and HealthCerts.</p>
 <p>For businesses or partners in the private sector, the OpenAttestation
-is publicly listed in the Digital Public Goods Registry. Interested parties
-may access the free-to-use <a href="https://digitalpublicgoods.net/registry/openattestation.html" rel="noopener noreferrer nofollow" target="_blank">OpenAttestation framework</a> here.</p>
+is publicly listed in the <a href="https://digitalpublicgoods.net/registry/openattestation.html" rel="noopener noreferrer nofollow" target="_blank">Digital Public Goods Registry</a>.
+Interested parties may access the free-to-use <a href="https://digitalpublicgoods.net/registry/openattestation.html" rel="noopener noreferrer nofollow" target="_blank">OpenAttestation framework</a> here.</p>
 <h3>Interested to learn more about OpenAttestation (OA)?</h3>
 <div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="https://www.openattestation.com/" class="isomer-card"><div class="isomer-card-body"><div class="isomer-card-title">Visit the OA website to discover the framework</div><div class="isomer-card-link">Go to OA website</div></div></a>
 <a rel="noopener noreferrer nofollow" href="mailto:info@tech.gov.sg" class="isomer-card">
