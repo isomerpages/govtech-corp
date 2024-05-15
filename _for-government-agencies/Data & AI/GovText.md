@@ -116,13 +116,13 @@ a summary.</div>
 </div>
 </div>
 <h3>How to use GovText?</h3>
-<p>Simply visit the <a href="https://www.govtext.gov.sg/" rel="noopener noreferrer nofollow" target="_blank"><u>GovText website</u></a> and log in
-with your Whole-of-Government credentials to get started. Need help with
-navigating the platform? Check the <a href="https://www.govtext.gov.sg/docs/intro" rel="noopener noreferrer nofollow" target="_blank"><u>user guide</u></a> for guidance
-and demo videos.</p>
+<p>Visit the<a href="https://www.govtext.gov.sg/" rel="noopener noreferrer nofollow" target="_blank"> <u>GovText website</u></a> and
+log in with your Whole-of-Government credentials to get started. Refer
+to the<a href="https://www.govtext.gov.sg/docs/intro" rel="noopener noreferrer nofollow" target="_blank"> <u>user guide</u></a> and
+demo videos for help on how to use the platform.</p>
 <h3>What's the latest on GovText?</h3>
-<p>Users can look forward to new transcript editing and speaker diarisation
-functions.</p>
+<p>Users can look forward to new document drafters, Q&amp;A tools, and more
+LLM platform services to come.</p>
 <h3>Interested to find out more about GovText?</h3>
 <div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="https://www.govtext.gov.sg/" class="isomer-card"><div class="isomer-card-body"><div class="isomer-card-title">Visit the GovText website to learn more</div><div class="isomer-card-link">Go to GovText website</div></div></a>
 <a rel="noopener noreferrer nofollow" href="mailto:govtext@tech.gov.sg" class="isomer-card">
