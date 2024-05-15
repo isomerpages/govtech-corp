@@ -27,7 +27,7 @@ partners to host events and encourage the exchange of ideas and knowledge.</p>
 <a rel="noopener noreferrer nofollow" href="/products-and-services/collaborate-with-us/industry-collaboration/" class="isomer-card">
 <div class="isomer-card-image">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Collaborate with GovTech to host public-private events." src="/images/Products and Services/Collaborate with us/Collaborate_card_2.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="Collaborate with GovTech to host public-private events." src="/images/Products and Services/Collaborate with us/industry_collab_card_600x400.jpg">
 </div>
 </div>
 <div class="isomer-card-body">
