@@ -17,13 +17,14 @@ and time-consuming task. While there are many speech-to-text platforms
 in the market, they are not suited for handling confidential and sensitive
 government data.&nbsp;</p>
 <p>Bridging this gap, GovTech created Transcribe, a platform that boasts
-auto-transcription technologies.&nbsp;</p>
-<p>Users can simply upload a pre-recorded audio or video file, and receive
-a live transcription instantaneously.&nbsp;</p>
+auto-transcription technologies.&nbsp;Transcribe has a web application
+for public officers’ usage and an API platform to support system integration.</p>
+<p>Users can simply record a live meeting or upload a pre-recorded file and
+receive a transcription instantaneously.</p>
 <p>Transcribe was first used in Parliament sittings where users were able
 to reduce the man hours needed for processing each 15-minute transcript
-from 2.5 hours to 1.5 hours. As a testament to its usefulness, the platform
-has achieved over a 200 per cent year-on-year growth in user registration
+from 2.5 hours to 1.5 hours. As a testament to its usefulness, the web
+app has achieved over a 200 per cent year-on-year growth in user registration
 since its launch.</p>
 <h3>Why use Transcribe?</h3>
 <div class="isomer-card-grid">
