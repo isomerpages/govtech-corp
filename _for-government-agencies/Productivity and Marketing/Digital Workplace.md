@@ -13,10 +13,10 @@ image: /images/About Us/Digital_Workplace.png
 <div class="isomer-image-wrapper">
 <img style="width: 60%;" height="auto" width="100%" alt="Digital Workplace logo" src="/images/Products and Services/For Government Agencies/Digital_Workplace_logo.png">
 </div>
-<p>Housing a suite of productivity tools and digital enablers, the Digital
-Workplace is designed to allow public officers of any division and tech
-literacy to move through the workday with ease. The suite comprises synced
-calendars, biometric logins, visitor management systems and more.</p>
+<p>Housing a suite of productivity tools and digital enablers, Digital Workplace
+(DWP) products are designed to allow public officers to move through the
+workday with ease. The suite comprises synced calendars, biometric login<s>s</s>,
+visitor management systems and much more.</p>
 <h3>Why use DWP?</h3>
 <p>Below are some of the apps and tools available on the DWP. Start using
 them and reap the benefits!</p>
@@ -63,7 +63,8 @@ carefreely.</div>
 </a><a rel="noopener noreferrer nofollow" href="/products-and-services/for-government-agencies/ict-and-infrastructure/secure-internet-surfing/" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="The Secure Internet Surfing tool on Digital Workplace allows you to enjoy peace of mind when downloading files." src="/images/Products and Services/For Government Agencies/Secure_Internet.jpg"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Safe and efficient surfing</div><div class="isomer-card-description">With Secure Internet Surfing (SIS), enjoy peace of mind when downloading files onto your work device.</div><div class="isomer-card-link">Explore SIS</div></div></a>
 </div>
 <h3>How to use DWP?</h3>
-<p>All DWP products are available on the Smart Nation DigiGov Portal, which
-is accessible via the Government Intranet.</p>
+<p>All DWP products are available for public officers' use. More details
+can be found on the <a href="https://gccprod.sharepoint.com/sites/GOVTECH-digitalgov/" rel="noopener noreferrer nofollow" target="_blank">Smart Nation DigiGov Portal</a> accessible
+via the Government Intranet.</p>
 <h3>Interested to find out more about DWP?</h3>
 <p>Have questions about DWP? Contact us at <a href="mailto:info@tech.gov.sg" rel="noopener noreferrer nofollow" target="_blank">info@tech.gov.sg</a>.</p>
