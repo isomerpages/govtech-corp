@@ -11,7 +11,7 @@ image: /images/Products and Services/For Government Agencies/SGTS_meta_image.jpg
 <h2>Build government digital services quickly and securely with Singapore Government Tech Stack (SGTS)</h2>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Singapore Government Tech Stack (SGTS) — a smarter and faster platform for building applications" src="/images/Products and Services/For Government Agencies/SGTS_1690x800.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="Singapore Government Tech Stack (SGTS) — a smarter and faster platform for building applications. Presentation at IE2024." src="/images/Products and Services/For Government Agencies/IE_SGTS_1690x800.jpg">
 </div>
 <p>Every digital service that the government launches is aimed at enriching
 a certain aspect of Singaporeans' lives. To help our sister agencies get
