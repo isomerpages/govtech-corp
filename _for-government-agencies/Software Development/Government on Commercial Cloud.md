@@ -12,14 +12,20 @@ image: /images/Products and Services/For Government Agencies/GCC_meta_image.png
 <div class="isomer-image-wrapper">
 <img style="width: 50%;" height="auto" width="100%" alt="GCC logo" src="/images/Products and Services/For Government Agencies/GCC_meta_image.png">
 </div>
-<p>Offering multiple benefits such as cost savings, collaboration and remote
-access, scalability and enhanced data security, cloud solutions have become
-the preferred option for the Singapore government.</p>
 <p>GovTech introduced the Government on Commercial Cloud (GCC) platform to
-offer government agencies a consistent way of adopting commercial solutions
-offered by cloud service providers. To date, over 600 government digital
-services are on the GCC. This includes <a href="https://www.mycareersfuture.gov.sg/" rel="noopener noreferrer nofollow" target="_blank">MyCareersFuture</a>, <a href="/products-and-services/for-businesses/corporate-transactions/gobusiness/" rel="noopener noreferrer nofollow" target="_blank">GoBusiness</a>,
-<a href="/products-and-services/for-government-agencies/data-and-ai/wogaa/" rel="noopener noreferrer nofollow" target="_blank">WOGAA</a>and more.</p>
+provide government agencies with a standardised approach to adopting commercial
+solutions offered by cloud service providers.</p>
+<p>Initially designed to facilitate and expedite the adoption of Commercial
+Cloud by agencies within the Whole-of-Government (WOG), GCC empowers WOG
+to efficiently deliver Government Digital Services with enhanced speed,
+security, and cost-effectiveness, leveraging modern application development
+practices.</p>
+<p>As a unified platform, GCC enhances observability, auditability, and monitoring
+capabilities for both agencies and the WOG. Notably, over 70% of eligible
+government systems are already on the commercial cloud, with key government
+services such as <a href="https://www.mycareersfuture.gov.sg/" rel="noopener noreferrer nofollow" target="_blank">MyCareersFuture</a>,
+<a href="/products-and-services/for-businesses/corporate-transactions/gobusiness/" rel="noopener noreferrer nofollow" target="_blank">GoBusiness</a>, <a href="/products-and-services/for-government-agencies/data-and-ai/wogaa/" rel="noopener noreferrer nofollow" target="_blank">WOGAA</a> being
+developed and implemented on GCC.</p>
 <p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="The Government on Commercial Cloud Framework." src="/images/Products and Services/For Government Agencies/gcc_fig1_resized.jpg">
@@ -28,20 +34,22 @@ services are on the GCC. This includes <a href="https://www.mycareersfuture.gov.
 <div class="isomer-card-grid">
 <div class="isomer-card">
 <div class="isomer-card-body">
-<div class="isomer-card-title">Greater oversight</div>
-<div class="isomer-card-description">Improve observability, auditability and monitoring of your digital services.</div>
+<div class="isomer-card-title">Agility</div>
+<div class="isomer-card-description">Simplified onboarding process with automated workflows and continuous
+compliance.</div>
 </div>
 </div>
 <div class="isomer-card">
 <div class="isomer-card-body">
-<div class="isomer-card-title">A smooth experience</div>
-<div class="isomer-card-description">Automate your workflows and ensure continuous compliance.</div>
+<div class="isomer-card-title">Reliability</div>
+<div class="isomer-card-description">Enhanced cybersecurity with improved observability, auditability, and
+monitoring.</div>
 </div>
 </div>
 <div class="isomer-card">
 <div class="isomer-card-body">
-<div class="isomer-card-title">Budget-friendly yet safe</div>
-<div class="isomer-card-description">Save on costs without compromising security.</div>
+<div class="isomer-card-title">Scalability</div>
+<div class="isomer-card-description">Remote administration with continuous log export and retention capability.</div>
 </div>
 </div>
 </div>
