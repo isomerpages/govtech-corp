@@ -75,30 +75,24 @@ waiting for their completion.</div>
 </div>
 </div>
 <h3>How to use Transcribe?</h3>
-<ol data-tight="true" class="tight">
+<ol>
 <li>
 <p>Log in directly to <a href="https://www.transcribe.gov.sg/" rel="noopener noreferrer nofollow" target="_blank"><u>Transcribe</u></a> via your WoG
 AAD account. Your account will be automatically created.</p>
 </li>
 <li>
 <p>If your email account has a government domain that is not under AAD (e.g.
-schools, <a href="https://www.transcribe.gov.sg/" rel="noopener noreferrer nofollow" target="_blank"><u>gov.sg</u></a>,
-<a href="https://www.transcribe.gov.sg/" rel="noopener noreferrer nofollow" target="_blank"><u>dsaid.gov.sg</u> 
-</a>, etc.), log in to Transcribe via OTP. Your account will be automatically
+schools), log in to Transcribe via OTP. Your account will be automatically
 created.</p>
 </li>
 <li>
-<p>For API service users, contact the product team via <a href="https://form.gov.sg/62280856ba91100012050933" rel="noopener noreferrer nofollow" target="_blank"><u>the Singapore Government Developer Portal Support form</u></a> to
-onboard Transcribe.</p>
-</li>
-<li>
-<p>Email <a href="https://www.transcribe.gov.sg/" rel="noopener noreferrer nofollow" target="_blank">transcribe@tech.gov.sg</a> if
-you encounter any issues logging in.</p>
+<p>For any queries on API or Web App, contact the product team via <a href="https://www.transcribe.gov.sg/" rel="noopener noreferrer nofollow" target="_blank">transcribe@tech.gov.sg</a>.</p>
 </li>
 </ol>
+<p>For more information, refer to the <a href="https://www.transcribe.gov.sg/user_guide/" rel="noopener noreferrer nofollow" target="_blank">Transcribe user guide</a>.</p>
 <h3>What's the latest on Transcribe?</h3>
-<p>Transcribe is free to use for now, but a pricing strategy may be implemented
-in late 2024.</p>
+<p>Transcribe has released a meeting minutes generator. We are continuously
+rolling out new features aimed at enhancing user experience.</p>
 <h3>Interested to find out more about Transcribe?</h3>
 <div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="https://www.developer.tech.gov.sg/products/categories/productivity-tools/transcribe/overview.html" class="isomer-card"><div class="isomer-card-body"><div class="isomer-card-title">Discover its features on the Singapore Government Developer Portal (SGDP)</div><div class="isomer-card-link">Learn more on SGDP</div></div></a>
 <a rel="noopener noreferrer nofollow" href="mailto:transcribe@tech.gov.sg" class="isomer-card">
