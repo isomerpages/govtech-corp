@@ -66,38 +66,83 @@ innovation.</div>
 </div>
 </div>
 </div>
-<h3>Opportunities for FY2023</h3>
-<p>For the current financial year, GovTech has identified three focus areas
-where opportunities abound: Application Development, Sustainability and
-Smart Cities.</p>
+<h3>Opportunities for FY2024</h3>
+<p>(To include opening video from IE2024 slide deck)</p>
+<p>The government will spend an estimated $3.36 billion on government info-communication
+technology (ICT) procurement opportunities in FY24 to modernise ICT infrastructure
+and develop digital services.&nbsp;</p>
+<p>This amount will be spent on 89 projects where 35% of the budget is catered
+towards Application projects while 65% of the budget is allocated to Infrastructure
+projects.</p>
 <p></p>
 <div data-type="detailGroup" class="isomer-accordion isomer-accordion-white">
 <details class="isomer-details">
-<summary><strong>Application Development</strong>
+<summary><strong>1. Investment in digital infrastructure modernisation</strong>
 </summary>
 <div data-type="detailsContent" class="isomer-details-content">
-<p>Going cloud-first by expanding on the systems of Government on Commercial
-Cloud, building on the Singapore Government Tech Stack through toolchain,
-runtime, monitoring and service management, and using more Software-as-a-Service
-for future applications portfolio and modernising legacy systems.</p>
+<ul>
+<li>
+<p>Over 60% ($2.1 billion) of the government's FY24 ICT procurement budget
+will target enhancing digital infrastructure.</p>
+</li>
+<li>
+<p>Strengthening digital infrastructure is critical for minimising disruptions
+and maintaining public trust as reliance on digital services grows.</p>
+</li>
+<li>
+<p>Investment in infrastructure has been steadily rising since FY21 to pave
+the way for comprehensive digital transformation in public service.</p>
+</li>
+</ul>
 </div>
 </details>
 <details class="isomer-details">
-<summary><strong>Sustainability</strong>
+<summary><strong>2. Simplifying governance for industry collaboration</strong>
 </summary>
 <div data-type="detailsContent" class="isomer-details-content">
-<p>Greening the information and communication technology sector across all
-aspects, including supply chain, hardware and equipment, hosting as well
-as software engineering and data.</p>
+<ul>
+<li>
+<p>The government is implementing streamlined compliance and procurement
+frameworks based on industry feedback to enhance delivery quality.</p>
+</li>
+<li>
+<p>Reviewing security requirements for low-risk government systems to enable
+more agile and cost-effective collaboration with vendors, while ensuring
+robustness for critical systems.</p>
+</li>
+<li>
+<p>Introducing perpetual and dynamic contracting for selected bulk tenders
+in FY24 to foster competitiveness and reduce administrative burdens for
+vendors.</p>
+</li>
+<li>
+<p>Introducing Tender Lite, a tender category that removes certain contract
+clauses to facilitate smoother transactions with the government, with plans
+to expand it to ICT contracts.</p>
+</li>
+</ul>
 </div>
 </details>
 <details class="isomer-details">
-<summary><strong>Smart Cities</strong>
+<summary><strong>3. New industry engagement initiatives</strong>
 </summary>
 <div data-type="detailsContent" class="isomer-details-content">
-<p>Achieving better-lived experiences, greater sustainability and higher
-productivity through the implementation of services like Open Digital Platform
-and GALE.</p>
+<ul>
+<li>
+<p>GovTech's annual industry event is renamed to 'Industry Engagement' —
+previously known as 'Industry Briefing' — to prioritise closer collaboration
+with the industry.</p>
+</li>
+<li>
+<p>The event now includes five closed-door discussions with industry stakeholders,
+focusing on topics like compliance, procurement regulations, and the government's
+digital strategy.</p>
+</li>
+<li>
+<p>Emphasising agile engagement with industry partners to leverage both public
+and private sector strengths for advancing Smart Nation initiatives.</p>
+</li>
+</ul>
 </div>
 </details>
 </div>
@@ -105,9 +150,9 @@ and GALE.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="Collaborate with GovTech" src="/images/Products and Services/Collaborate with us/industry_collaboration_infographic.jpg">
 </div>
-<p>Find out more about the partnership opportunities for FY2023 in the
-<a href="/files/IB2023_Towards_the_Next_Bound_of_Digital_Government_GovTech_CE.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>Towards the Next Bound of Digital Government report</u> 
-</a>. For a full list of current opportunities and open tenders, visit <a href="https://www.gebiz.gov.sg/" rel="noopener noreferrer nofollow" target="_blank"><u>GeBIZ</u></a>.</p>
+<p>Find out more about the partnership opportunities for FY2024 in the (IE2024
+slide deck). For a full list of current opportunities and open tenders,
+visit <a href="https://www.gebiz.gov.sg/" rel="noopener noreferrer nofollow" target="_blank"><u>GeBIZ</u></a>.</p>
 <h3>How to start collaborating with GovTech?</h3>
 <p>Have an enquiry or a proactive proposal that will drive our Smart Nation
 efforts? Reach out to us at <a href="mailto:govtech_sipeo@tech.gov.sg" rel="noopener noreferrer nofollow" target="_blank"><u>govtech_sipeo@tech.gov.sg</u></a><u>.</u>
