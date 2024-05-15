@@ -163,8 +163,7 @@ and private sector strengths for advancing Smart Nation initiatives.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="Collaborate with GovTech" src="/images/Products and Services/Collaborate with us/industry_collaboration_infographic.jpg">
 </div>
-<p>Find out more about GovTech's focus areas for FY2024 in the <a href="/files/products-and-services/IE_2024_CE_slide_deck.pdf" rel="noopener noreferrer nofollow" target="_blank">IE2024 slide deck</a>.
-For the full list of current partnership opportunities and open tenders,
+<p>For the full list of current partnership opportunities and open tenders,
 visit <a href="https://www.gebiz.gov.sg/" rel="noopener noreferrer nofollow" target="_blank"><u>GeBIZ</u></a>.</p>
 <h3>How to start collaborating with GovTech?</h3>
 <p>Have an enquiry or a proactive proposal that will drive our Smart Nation
