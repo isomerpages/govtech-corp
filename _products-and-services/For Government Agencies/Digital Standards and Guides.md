@@ -10,11 +10,14 @@ third_nav_title: For Government Agencies
 <h2>Shaping a positive, consistent digital experience through digital standards and guides</h2>
 <p>Singapore's Digital Government vision of “digital to the core, and serves
 with heart” brings digitalisation together with user-centricity and empathy.
-Government agencies are continuously identifying opportunities to improve
-citizens' lives through digital technologies and services.</p>
-<p>To ensure that these digital services are easy to use, seamless and relevant
-to citizens and businesses, we have developed the Digital Service Standards
-(DSS).</p>
+Singapore's repertoire of digital government services is always expanding,
+as our sister Government agencies are continuously identifying opportunities
+to improve citizens' lives through digital technologies and services.</p>
+<p>To ensure that the new offerings provide a user experience that's consistent
+with their predecessors' – one that's secure, safe and efficient. To ensure
+that these digital services are easy to use, seamless and relevant to citizens
+and businesses, we have developed – we have come up with the Digital Service
+Standards (DSS).</p>
 <h3>3 principles of the Digital Service Standards</h3>
 <p></p>
 <div class="isomer-image-wrapper">
@@ -37,7 +40,7 @@ and businesses to assess the useability and accessibility of the services.</p>
 </li>
 </ul>
 <h3>How to use the Digital Service Standards?</h3>
-<p>Familiarise yourself with the by downloading a copy of the <a href="/files/products-and-services/Digital_Service_Standards_GovTech.pdf" rel="noopener noreferrer nofollow" target="_blank">Digital Service Standards public release</a>.</p>
+<p>Familiarise yourself with them by downloading a copy of the <a href="/files/products-and-services/Digital_Service_Standards_GovTech.pdf" rel="noopener noreferrer nofollow" target="_blank">Digital Service Standards public release</a>.</p>
 <p>Public officers should refer to your agency’s intranet resources for the
 full version of the DSS.</p>
 <h3>Interested to find out more about Digital Service Standards?</h3>
