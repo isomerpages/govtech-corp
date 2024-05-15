@@ -13,26 +13,52 @@ image: /images/Products and Services/For Government Agencies/GovText_meta_image.
 <div class="isomer-image-wrapper">
 <img style="width: 50%;" height="auto" width="100%" alt="GovText logo" src="/images/Products and Services/For Government Agencies/GovText_meta_image.png">
 </div>
-<p>For public officers, receiving and having to process large amounts of
-text data is a norm. Be it reports or survey feedback, perusing them can
-be a time-consuming task. We got to thinking about how we can help our
-fellow public officers to increase the efficiency of this process.</p>
-<p>And the answer is GovText, a comprehensive Natural Language Processing
-(NLP)-based text analytics platform. The platform analyses textual data
-and presents results in a visual manner that facilitates quick and easy
-understanding.&nbsp;</p>
-<p>GovText is offered as a web portal tool and as a model-hosting platform,
-with the latter providing text analytics services via APIs for government
-agencies.</p>
-<p>It has been tapped for the development of the OneService Chatbot, where
-its capabilities enabled the prediction of the case category of submitted
-feedback and the relevant agency that should respond.</p>
+<p>Public officers often handle and process large amounts of textual data.
+Analysing and using this information for their daily tasks can be time-consuming.</p>
+<p>GovText, a text Natural Language Processing (NLP) platform, was introduced
+to help officers work more effectively and efficiently. It helps them analyse
+text by finding important information using methods like topic modelling
+and Large Language Models (LLMs) for drafting and finding information.</p>
+<p>The platform provides text analysis services through web portal tools
+and a model hosting platform, which can be accessed by government agencies.
+These services support platforms like the OneService Chatbot.</p>
 <h3>Why use GovText?</h3>
-<p>GovText currently has two tools: <strong>Topic Modelling</strong> and <strong>Summarisation</strong>.</p>
-<p>With the former, you can process data from surveys or feedback forms and
-extract key insights and findings. The Summarisation tool takes a document
-and generates an abridged version, with the now concise text still retaining
-essential information.</p>
+<p>The current version of GovText supports these services:</p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="GovText tools and services" src="/images/Products and Services/For Government Agencies/GovText_image.png">
+</div>
+<p></p>
+<div data-type="detailGroup" class="isomer-accordion isomer-accordion-white">
+<details class="isomer-details">
+<summary><strong>1. Productivity tools</strong>
+</summary>
+<div data-type="detailsContent" class="isomer-details-content">
+<p>These tools are designed for government business processes. They include
+the <strong>Hansard Analysis Tool</strong>, which helps officers get information
+from the Official Reports of the Parliament of Singapore to draft replies
+to parliamentary questions and speeches. The <strong>IM8 Q&amp;A</strong> tool
+helps officers understand IM8 policies by searching relevant IM8 clauses
+and documents, and generating a summarised answer to the user's question.</p>
+</div>
+</details>
+<details class="isomer-details">
+<summary><strong>2. General text analysis</strong>
+</summary>
+<div data-type="detailsContent" class="isomer-details-content">
+<p>These are common NLP tools that help extract important information from
+your data — topic modelling and summarisation</p>
+</div>
+</details>
+<details class="isomer-details">
+<summary><strong>3. Alpha tools</strong>
+</summary>
+<div data-type="detailsContent" class="isomer-details-content">
+<p>These are ongoing experimental tools that officers can try out on the
+platform.</p>
+</div>
+</details>
+</div>
 <h4>Topic Modelling</h4>
 <p></p>
 <div class="isomer-image-wrapper">
