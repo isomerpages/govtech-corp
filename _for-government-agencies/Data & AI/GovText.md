@@ -11,7 +11,7 @@ image: /images/Products and Services/For Government Agencies/GovText_meta_image.
 <h2>Enabling efficient analyses of textual data with GovText</h2>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 50%;" height="auto" width="100%" alt="GovText logo" src="/images/Products and Services/For Government Agencies/GovText_meta_image.png">
+<img style="width: 80%;" height="auto" width="100%" alt="GovText logo" src="/images/Products and Services/For Government Agencies/GovText_meta_image.png">
 </div>
 <p>Public officers often handle and process large amounts of textual data.
 Analysing and using this information for their daily tasks can be time-consuming.</p>
