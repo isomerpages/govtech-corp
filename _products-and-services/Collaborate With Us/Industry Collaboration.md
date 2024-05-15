@@ -17,6 +17,15 @@ a common goal of realising Singapore's Smart Nation ambitions.</p>
 <p>Whether it is through technology partnerships or hosting events, we aim
 to share our knowledge with as well as learn from our collaborators, so
 that together we can raise the nation's collective digital capability.</p>
+<p></p>
+<blockquote>
+<p>The dynamic nature of today’s technological and social landscape requires
+the government to be more agile. Engaging our industry partners allows
+us to tap the complementary strengths of the public and private sectors,
+and I hope this close partnership will ensure a smooth journey together
+on the next bound of Smart Nation.</p>
+</blockquote>
+<p>~ Mr Goh Wei Boon, Chief Executive, GovTech</p>
 <h3>Vendor partnerships and collaborations</h3>
 <h4>Why partner with us?</h4>
 <div class="isomer-card-grid">
@@ -67,6 +76,10 @@ innovation.</div>
 </div>
 </div>
 <h3>Opportunities for FY2024</h3>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="GovTech CEO presenting at the Industry Engagement 2024" src="/images/Products and Services/Collaborate with us/IE_191_compressed.jpg">
+</div>
 <p>(To include opening video from IE2024 slide deck)</p>
 <p>The government will spend an estimated $3.36 billion on government info-communication
 technology (ICT) procurement opportunities in FY24 to modernise ICT infrastructure
@@ -150,8 +163,8 @@ and private sector strengths for advancing Smart Nation initiatives.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="Collaborate with GovTech" src="/images/Products and Services/Collaborate with us/industry_collaboration_infographic.jpg">
 </div>
-<p>Find out more about the partnership opportunities for FY2024 in the (IE2024
-slide deck). For a full list of current opportunities and open tenders,
+<p>Find out more about GovTech's focus areas for FY2024 in the <a href="/files/products-and-services/IE_2024_CE_slide_deck.pdf" rel="noopener noreferrer nofollow" target="_blank">IE2024 slide deck</a>.
+For the full list of current partnership opportunities and open tenders,
 visit <a href="https://www.gebiz.gov.sg/" rel="noopener noreferrer nofollow" target="_blank"><u>GeBIZ</u></a>.</p>
 <h3>How to start collaborating with GovTech?</h3>
 <p>Have an enquiry or a proactive proposal that will drive our Smart Nation
