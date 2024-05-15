@@ -53,7 +53,7 @@ operational flexibility.</div>
 </div>
 </div>
 <h3>A look at VAS: Case studies</h3>
-<div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="/media/technews/using-ai-to-differentiate-mosquito-larvae/" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="GovTech's Video Analytics System was used in an explorative study by NEA to identify mosquito larval species." src="/images/Products and Services/For Government Agencies/VAS_card_1.png"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Identification of mosquito larvae</div><div class="isomer-card-description">In an NEA-led study, the VAS identified mosquito larval species with an accuracy rate of almost 100%. Read the case study on TechNews.</div><div class="isomer-card-link">Read more on TechNews</div></div></a>
+<div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="/media/technews/how-ai-and-a-camera-phone-help-keep-food-on-our-tables/" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="GovTech and SFA collaborated in using VAS technology to assess and analyse rotifers - crucial for fish farms." src="/images/Products and Services/For Government Agencies/VAS_new_card_image_600x300.png"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Analysing the health of rotifers</div><div class="isomer-card-description">Incorporating AI in phone cameras to accurately count and identify different rotifer classes. Read the case study on TechNews.</div><div class="isomer-card-link">Read more on TechNews</div></div></a>
 <a rel="noopener noreferrer nofollow" href="/media/technews/clearing-the-air-using-tech-to-keep-our-environment-smoke-free/" class="isomer-card">
 <div class="isomer-card-image">
 <div class="isomer-image-wrapper">
@@ -69,8 +69,23 @@ outside of designated public places. Read the case study on TechNews.</div>
 </a>
 </div>
 <h3>How to use VAS?</h3>
+<ul data-tight="true" class="tight">
+<li>
 <p>Simply visit the <a href="https://vas.gov.sg/login" rel="noopener noreferrer nofollow" target="_blank"><u>VAS site</u></a> and log in with your
 Whole-of-Government credentials to get started.</p>
+</li>
+<li>
+<p>Have a use case that you would like to test on VAS? Please submit your
+interest via the <a href="go.gov.sg/vas-interest" rel="noopener noreferrer nofollow" target="_blank">form</a>.</p>
+</li>
+</ul>
+<p><em>Note: VAS is available to WOG agencies on a subscription basis. An active subscription is required for VAS access.</em>
+</p>
+<h3>What's the latest on VAS?</h3>
+<h4>Deepfake Detection</h4>
+<p>Have doubts about the legitimacy of videos or images that have been circulating?
+With this feature, public officers can analyse videos and images for signs
+of manipulation.</p>
 <h3>Interested to find out more about VAS?</h3>
 <div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="https://www.developer.tech.gov.sg/products/categories/analytics/vas/overview.html" class="isomer-card"><div class="isomer-card-body"><div class="isomer-card-title">Discover its features on the Singapore Government Developer Portal (SGDP)</div><div class="isomer-card-link">Learn more on SGDP</div></div></a>
 <a rel="noopener noreferrer nofollow" href="mailto:info@tech.gov.sg" class="isomer-card">
