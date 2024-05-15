@@ -18,6 +18,10 @@ developing tech-enabled products, services and solutions for Singapore.</p>
 <p>We are always seeking talented and dedicated individuals to strengthen
 our capabilities in application development, data science and artificial
 intelligence, cybersecurity, digital infrastructure and smart city technology.</p>
+<p></p>
+<div class="iframe-wrapper">
+<iframe style="max-width: 100%;" height="400" width="100%" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/Zh3B_KAMRaw?si=IO85-A5tXNx0tR5W"></iframe>
+</div>
 <h3>GovTech's hiring process</h3>
 <p>Does the thought of being at the forefront of shaping Singapore's tech
 future fill you with excitement? If so, consider embarking on a fulfilling
