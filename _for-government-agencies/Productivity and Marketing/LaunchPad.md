@@ -27,6 +27,41 @@ ChatGPT-based model that powers <a href="/products-and-services/for-government-a
 this tool is built on a set of multiple models and enables users to ideate
 freely. Users can also enjoy more control over the responses generated
 by each model.</p>
+<h3>How can LaunchPad help your agency?</h3>
+<p></p>
+<div data-type="detailGroup" class="isomer-accordion isomer-accordion-white">
+<details class="isomer-details">
+<summary><strong>Spark innovation together</strong>
+</summary>
+<div data-type="detailsContent" class="isomer-details-content">
+<p>At the heart of LaunchPad is the Ideathon feature, a dynamic space that
+encourages public officers to think creatively and propose innovative solutions.
+Whether you're looking to host a private ideathon or participate in existing
+ones, this platform connects you with peers to collaborate on common challenges
+and leverage digital solutions for public service improvement.</p>
+</div>
+</details>
+<details class="isomer-details">
+<summary><strong>Uncover digital potential</strong>
+</summary>
+<div data-type="detailsContent" class="isomer-details-content">
+<p>The Discover tab highlights use cases, products, and digital solutions
+across the government. It showcases the potential applications of GDS and
+DSAI products and offers insights and inspiration for implementing digital
+strategies effectively to solve real-world problems within the Public Service.</p>
+</div>
+</details>
+<details class="isomer-details">
+<summary><strong>Elevate your officers’ capabilities</strong>
+</summary>
+<div data-type="detailsContent" class="isomer-details-content">
+<p>Access best practices, playbooks, and resources to support your team's
+development initiatives. Connect with stakeholders and access materials
+to drive your agency's transformation journey.</p>
+</div>
+</details>
+</div>
+<p></p>
 <h3>Why use LaunchPad?</h3>
 <p></p>
 <div class="isomer-image-wrapper">
