@@ -33,9 +33,97 @@ government agencies on their behalf, and also manage their separate roles
 and access. This single platform offers convenience and flexibility.</p>
 <h3>How to use Corppass?</h3>
 <p></p>
-<div class="iframe-wrapper">
-<iframe style="max-width: 100%;" height="400" width="100%" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/0xcHKX_So2o?si=QD8xZZ1ugo-c7yel"></iframe>
+<div data-type="detailGroup" class="isomer-accordion isomer-accordion-white">
+<details class="isomer-details">
+<summary><strong>1. Identity verification</strong>
+</summary>
+<div data-type="detailsContent" class="isomer-details-content">
+<ul data-tight="true" class="tight">
+<li>
+<p>To log into Corppass or transact with the government using Corppass, users
+must verify their identity using Singpass credentials.</p>
+</li>
+</ul>
 </div>
+</details>
+<details class="isomer-details">
+<summary><strong>2. Assign roles for Corppass registration</strong>
+</summary>
+<div data-type="detailsContent" class="isomer-details-content">
+<ul data-tight="true" class="tight">
+<li>
+<p>Nominate a Registered Officer (RO) for the company.</p>
+</li>
+<li>
+<p>The RO appoints a Corppass Administrator to set up and manage the Corppass
+account.</p>
+</li>
+</ul>
+</div>
+</details>
+<details class="isomer-details">
+<summary><strong>3. Corppass account setup</strong>
+</summary>
+<div data-type="detailsContent" class="isomer-details-content">
+<p>The Corppass Administrator collects the following information:</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Unique Entity Number (UEN) of the company.</p>
+</li>
+<li>
+<p>Personal details of the Corppass Administrator and Registered Officer
+(NRIC number, name, email address, Singpass login details).</p>
+</li>
+<li>
+<p>With this information, the Corppass Administrator registers for a Corppass
+admin account and can create user accounts for others within the entity.</p>
+</li>
+</ul>
+</div>
+</details>
+<details class="isomer-details">
+<summary><strong>4. Assign digital services and permissions</strong>
+</summary>
+<div data-type="detailsContent" class="isomer-details-content">
+<ul data-tight="true" class="tight">
+<li>
+<p>The Corppass Administrator can assign specific digital services and permissions
+to users, enabling them to conduct transactions on behalf of the company.</p>
+</li>
+</ul>
+</div>
+</details>
+<details class="isomer-details">
+<summary><strong>5. Additional support and resources</strong>
+</summary>
+<div data-type="detailsContent" class="isomer-details-content">
+<ul data-tight="true" class="tight">
+<li>
+<p>For further assistance, visit the online self-help guides at <a href="https://www.corppass.gov.sg/cpauth/login/homepage?TAM_OP=login&amp;URL=%2Fcorppass%2Flogin%2Fhomepage" rel="noopener noreferrer nofollow" target="_blank">corppass.gov.sg</a>.</p>
+</li>
+<li>
+<p>Alternatively, contact the Corppass help desk or send an email to the
+support team.</p>
+</li>
+</ul>
+</div>
+</details>
+<details class="isomer-details">
+<summary><strong>6. Future expansion of digital services</strong>
+</summary>
+<div data-type="detailsContent" class="isomer-details-content">
+<ul data-tight="true" class="tight">
+<li>
+<p>More digital services will be added to Corppass over time.</p>
+</li>
+<li>
+<p>Companies are encouraged to register for Corppass to access these services.</p>
+</li>
+</ul>
+</div>
+</details>
+</div>
+<p></p>
 <h4>There are three roles within Corppass:</h4>
 <div class="isomer-card-grid">
 <div class="isomer-card">
