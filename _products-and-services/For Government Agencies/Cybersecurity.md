@@ -33,9 +33,9 @@ guidance to shape an even safer, more secure Smart Nation.</p>
 </div>
 <p></p>
 <p>The Government Cybersecurity Operations Centre (GCSOC) is an integrated
-initiative that aims to upgrade the nation's monitoring and detection technologies,
-automate and augment cyber threat detection and response as well as develop
-capabilities to proactively hunt for sophisticated threats.</p>
+initiative that aims to upgrade the government's monitoring and detection
+technologies, automate and augment cyber threat detection and response
+as well as develop capabilities to proactively hunt for sophisticated threats.</p>
 </div>
 </details>
 <details class="isomer-details">
