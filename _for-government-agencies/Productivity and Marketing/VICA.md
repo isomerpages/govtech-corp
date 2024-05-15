@@ -76,7 +76,7 @@ of the day.</div>
 <p></p>
 <div data-type="detailGroup" class="isomer-accordion isomer-accordion-white">
 <details class="isomer-details">
-<summary><strong>Gen AI playground</strong>
+<summary><strong>Gen AI Playground</strong>
 </summary>
 <div data-type="detailsContent" class="isomer-details-content">
 <p>Use the data source management feature in the Playground to upload documents
@@ -95,10 +95,10 @@ to enable faster searching.</p>
 </div>
 </details>
 <details class="isomer-details">
-<summary><strong>Enabling/disabling knowledge base in the Gen AI playground</strong>
+<summary><strong>Enabling/disabling knowledge base in the Gen AI Playground</strong>
 </summary>
 <div data-type="detailsContent" class="isomer-details-content">
-<p>You can now switch off your Knowledge Base in the gen AI Playground. When
+<p>You can now switch off your Knowledge Base in the Gen AI Playground. When
 switched off, VICA's responses will be fully generative. When switched
 on, the responses are hybrid in nature, prioritising Q&amp;A pairs and
 Custom Dialogue.</p>
