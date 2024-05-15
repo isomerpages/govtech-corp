@@ -71,27 +71,30 @@ to drive your agency's transformation journey.</p>
 <div class="isomer-card-grid">
 <div class="isomer-card">
 <div class="isomer-card-body">
-<div class="isomer-card-title">Experiment in a safe space</div>
-<div class="isomer-card-description">Get to unlock the full potential of LLMs with LaunchPad.</div>
+<div class="isomer-card-title">Foster innovation and collaboration</div>
+<div class="isomer-card-description">Ideate encourages public officers to share ideas and collaborate on solutions,
+fostering a culture of innovation and teamwork across government agencies.</div>
 </div>
 </div>
 <div class="isomer-card">
 <div class="isomer-card-body">
-<div class="isomer-card-title">Interministerial partnerships</div>
-<div class="isomer-card-description">Relish the chance to work with officers outside your ministry and engineer
-innovative solutions.</div>
+<div class="isomer-card-title">Access to tailored solutions</div>
+<div class="isomer-card-description">Discover provides insights into relevant products and use cases, ensuring
+that digital solutions are effectively matched to specific needs.</div>
 </div>
 </div>
 <div class="isomer-card">
 <div class="isomer-card-body">
-<div class="isomer-card-title">Receive tech support while you work</div>
-<div class="isomer-card-description">Submit your ideas, build a workable prototype and vote for impactful projects.</div>
+<div class="isomer-card-title">Capability development</div>
+<div class="isomer-card-description">Learn offers resources and best practices to support ongoing learning
+and capability enhancement, ensuring that agencies are well-equipped to
+navigate their transformation journeys.</div>
 </div>
 </div>
 </div>
 <h3>How to use LaunchPad?</h3>
-<p>Visit <a href="https://launchpad.data.tech.gov.sg/" rel="noopener noreferrer nofollow" target="_blank"><u>LaunchPad's website</u></a> if
-you have access within the government network to get started. If not, reach
+<p>Visit <a href="https://launchpad.gov.sg/" rel="noopener noreferrer nofollow" target="_blank"><u>LaunchPad's website</u></a> if
+you have access to the government network to get started. If not, reach
 out to us via <a href="https://form.gov.sg/64a4d72658aaf80011ac2a64" rel="noopener noreferrer nofollow" target="_blank"><u>this form</u></a>.</p>
 <h3>Interested to find out more about LaunchPad?</h3>
 <div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="http://eepurl.com/cUwIsD" class="isomer-card"><div class="isomer-card-body"><div class="isomer-card-title">TechNews readers will be the first to receive updates on LaunchPad!</div><div class="isomer-card-link">Subscribe to TechNews</div></div></a>
