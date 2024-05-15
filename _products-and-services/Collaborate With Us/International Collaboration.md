@@ -47,7 +47,8 @@ at platforms such as the World Economic Forum.</p>
 <summary><strong>Knowledge sharing via the Singapore Government Developer Portal</strong>
 </summary>
 <div data-type="detailsContent" class="isomer-details-content">
-<p>Offering detailed information on our products, solutions and guidelines.</p>
+<p>Offering detailed information on our products, solutions and guidelines.
+Check out</p>
 </div>
 </details>
 </div>
