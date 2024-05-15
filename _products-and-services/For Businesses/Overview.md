@@ -13,7 +13,7 @@ that inspires consumer trust to a framework that enables interoperability
 of electronic trade documents across digital platforms, we've made it our
 business to empower yours.</p>
 <h3>Explore our range of business services</h3>
-<div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="/products-and-services/for-businesses/corporate-transactions/" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="GovTech's products under the Corporate Transactions umbrella include Singpass APIs, Corppass and GoBusiness." src="/images/Products and Services/Product overview card images/Corporate_Transaction_19.png"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Corporate transactions</div><div class="isomer-card-description">The trio of Singpass APIs, Corppass and GoBusiness makes transactions with both the government and consumers easy, secure and seamless.</div><div class="isomer-card-link">Find out more</div></div></a>
+<div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="/products-and-services/for-businesses/corporate-transactions/" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="GovTech's products under the Corporate Transactions umbrella include Singpass APIs, Corppass and GoBusiness." src="/images/Products and Services/Product overview card images/Corporate_Transaction_19.png"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Corporate Transactions</div><div class="isomer-card-description">The trio of Singpass APIs, Corppass and GoBusiness makes transactions with both the government and consumers easy, secure and seamless.</div><div class="isomer-card-link">Find out more</div></div></a>
 <a rel="noopener noreferrer nofollow" href="/products-and-services/for-businesses/trade-transactions/" class="isomer-card">
 <div class="isomer-card-image">
 <div class="isomer-image-wrapper">
@@ -21,11 +21,11 @@ business to empower yours.</p>
 </div>
 </div>
 <div class="isomer-card-body">
-<div class="isomer-card-title">Trade transactions</div>
+<div class="isomer-card-title">Trade Transactions</div>
 <div class="isomer-card-description">Used for verifying cross-border transactions, this open-source framework
 allows businesses to endorse, exchange and verify electronic documents.</div>
 <div class="isomer-card-link">Find out more</div>
 </div>
-</a><a rel="noopener noreferrer nofollow" href="/products-and-services/for-businesses/smart-city-tech/" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="The Open Digital Platform is a smart city operating system that integrates various district management operations." src="/images/Products and Services/Product overview card images/Smart_City_Tech_1.png"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Smart city tech</div><div class="isomer-card-description">The Open Digital Platform is a one-of-a-kind smart city operating system that integrates various district management operations and boasts digital twin capabilities.</div><div class="isomer-card-link">Find out more</div></div></a>
+</a><a rel="noopener noreferrer nofollow" href="/products-and-services/for-businesses/smart-city-tech/" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="The Open Digital Platform is a smart city operating system that integrates various district management operations." src="/images/Products and Services/Product overview card images/Smart_City_Tech_1.png"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Smart City Tech</div><div class="isomer-card-description">The Open Digital Platform is a one-of-a-kind smart city operating system that integrates various district management operations and boasts digital twin capabilities.</div><div class="isomer-card-link">Find out more</div></div></a>
 </div>
 <p></p>
