@@ -17,9 +17,9 @@ image: /images/About Us/Our
 <p>Nations all over the world look up to Singapore for its innovative digital
 government, made possible through our Smart Nation drive.</p>
 <h3>Our ranking in the United Nations e-Government Survey</h3>
-<p>Singapore was ranked 12th in the world in 2022 as part of the <a href="https://publicadministration.un.org/egovkb/en-us/Reports/UN-E-Government-Survey-2022" rel="noopener noreferrer nofollow" target="_blank">United Nations e-Government Survey</a> —
-an assessment that measures the development of all 193 United Nations member
-states.</p>
+<p>Singapore was ranked 12<sup>th</sup> in the world in 2022 as part of the
+<a href="https://publicadministration.un.org/egovkb/en-us/Reports/UN-E-Government-Survey-2022" rel="noopener noreferrer nofollow" target="_blank">United Nations e-Government Survey</a>— an assessment that measures the
+development of all 193 United Nations member states.</p>
 <p>The survey is published biennially and recognises that each country pursues
 e-Government initiatives to realise its own national development goals.</p>
 <p>Denmark and Finland were the top two leading countries in e-Government
@@ -34,8 +34,8 @@ development.</p>
 </div>
 <p><em>Screenshots taken from <a href="https://publicadministration.un.org/egovkb/en-us/Reports/UN-E-Government-Survey-2022#0" rel="noopener noreferrer nofollow" target="_blank">UN E-Government Survey 2022 Infographics</a></em>.</p>
 <h3>Singapore’s Smart City ranking</h3>
-<p>Singapore came 5th in the world and 1st in Asia as part of the <a href="https://www.imd.org/smart-city-observatory/home/" rel="noopener noreferrer nofollow" target="_blank">IMD Smart Cities Index</a> in
-2024.&nbsp;</p>
+<p>Singapore came 5<sup>th</sup> in the world and 1st in Asia as part of the
+<a href="https://www.imd.org/smart-city-observatory/home/" rel="noopener noreferrer nofollow" target="_blank">IMD Smart Cities Index</a>in 2024.&nbsp;</p>
 <p>It’s published by Switzerland’s Institute for Management Development (IMD)
 and used data to rank 141 cities by how they use technology to address
 the city’s challenges and improve the quality of life for its residents.&nbsp;</p>
@@ -55,7 +55,7 @@ and society.</p>
 government leaders, these rankings offer valuable insights to help governments
 and companies focus their resources and identify best practices for digital
 transformation.</p>
-<p>In 2023, Singapore was ranked 3rd out of 64 economies.</p>
+<p>In 2023, Singapore was ranked 3<sup>rd</sup> out of 64 economies.</p>
 <p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="Singapore's ranking performance over the years." src="/images/About Us/Our Achievements/World_Digital_Competitiveness_Ranking__2_.png">
@@ -72,8 +72,8 @@ covering aspects like the political environment, education, infrastructure,
 and knowledge creation. This tool helps monitor performance and benchmark
 developments within regions or income groups, highlighting the multi-dimensional
 nature of innovation.</p>
-<p>In the 2023 edition of GII, Singapore ranked 5th among the 132 economies
-featured.</p>
+<p>In the 2023 edition of GII, Singapore ranked 5<sup>th</sup> among the 132
+economies featured.</p>
 <p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="Singapore's ranking in the Global Innovation Index 2023" src="/images/About Us/Our Achievements/Global_Innovation_Index_2023.jpg">
