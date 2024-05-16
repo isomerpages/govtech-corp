@@ -87,12 +87,24 @@ a summary.</div>
 </div>
 </div>
 <h4>2. Productivity tools</h4>
-<p>These tools are designed for government business processes. They include
-the <strong>Hansard Analysis Tool</strong>, which helps officers get information
-from the Official Reports of the Parliament of Singapore to draft replies
-to parliamentary questions and speeches. The <strong>IM8 Q&amp;A</strong> tool
-helps officers understand IM8 policies by searching relevant IM8 clauses
-and documents, and generating a summarised answer to the user's question.</p>
+<p></p>
+<div class="isomer-card-grid">
+<div class="isomer-card">
+<div class="isomer-card-body">
+<div class="isomer-card-title">Hansard Analysis Tool</div>
+<div class="isomer-card-description">Public officers can get information from the Official Reports of the Parliament
+of Singapore to draft replies to parliamentary questions and speeches.</div>
+</div>
+</div>
+<div class="isomer-card">
+<div class="isomer-card-body">
+<div class="isomer-card-title">IM8 Q&amp;A Tool</div>
+<div class="isomer-card-description">Public officers can understand IM8 policies by searching relevant IM8
+clauses and documents, and generating a summarised answer to their questions.</div>
+</div>
+</div>
+</div>
+<p></p>
 <h4>3. Alpha tools</h4>
 <p>These are ongoing experimental tools that officers can try out on the
 platform.</p>
