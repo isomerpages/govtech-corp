@@ -62,5 +62,7 @@ helps SMEs adopt advanced digital solutions, find grants and get a consultation.
 </div>
 </a><a rel="noopener noreferrer nofollow" href="https://www.tech.gov.sg/media/technews/simplifying-tax-experience-for-small-and-medium-enterprises" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Team discussion on how to simplify tax experiences for SMEs" src="/images/About Us/Simplifying_Business.jpg"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Simplifying tax experience for SMEs</div><div class="isomer-card-link">Read more on TechNews</div></div></a>
 </div>
-<p>Don't want to miss out on anything? Subscribe to our <a href="http://eepurl.com/cUwIsD" rel="noopener noreferrer nofollow" target="_blank">TechNews newsletter</a> to
-stay updated.</p>
+<p></p>
+<div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="http://eepurl.com/cUwIsD" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Don't want to miss out on anything? Subscribe to TechNews to stay updated" src="/images/CTA card images/Ready_to_Collaborate.png"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Don't want to miss out on anything? Subscribe to TechNews to stay updated</div><div class="isomer-card-link">Subscribe to TechNews</div></div></a>
+</div>
+<p></p>
