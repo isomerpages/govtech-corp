@@ -26,7 +26,7 @@ intelligence, cybersecurity, digital infrastructure and smart city technology.</
 <p>Does the thought of being at the forefront of shaping Singapore's tech
 future fill you with excitement? If so, consider embarking on a fulfilling
 career with us! Here's a look at our hiring process.</p>
-<div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="https://careers.tech.gov.sg/careers/SearchJobs" class="isomer-card"><div class="isomer-card-body"><div class="isomer-card-title">1. Apply</div><div class="isomer-card-description">Spot an available role that is right up your alley? Apply for it online via our Careers Portal. </div><div class="isomer-card-link">Apply for a GovTech job</div></div></a>
+<div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="https://careers.tech.gov.sg/careers/SearchJobs" class="isomer-card"><div class="isomer-card-body"><div class="isomer-card-title">1. Apply</div><div class="isomer-card-description">Spot an available role that is right up your alley? Apply for it online via our Careers Portal.</div><div class="isomer-card-link">Apply for a GovTech job</div></div></a>
 <div class="isomer-card">
 <div class="isomer-card-body">
 <div class="isomer-card-title">2. Interviews</div>
