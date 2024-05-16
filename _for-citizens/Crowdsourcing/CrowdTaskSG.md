@@ -94,8 +94,7 @@ agencies to test the effectiveness of their campaigns.&nbsp;</p>
 </li>
 <li>
 <p><a href="https://www.crowdtask.gov.sg/quest/budget-meal/infobites" rel="noopener noreferrer nofollow" target="_blank">Great Budget Meal Hunt</a>:<strong> </strong>Submit
-information on meals priced between $3 and $3.50 to expand the <a href="https://www.gowhere.gov.sg/budgetmeal/" rel="noopener noreferrer nofollow" target="_blank">BudgetMeal database</a> and
-help Singaporeans find cheaper meals.</p>
+information on meals priced between $3 and $3.50 to expand the <a href="https://www.gowhere.gov.sg/budgetmeal/" rel="noopener noreferrer nofollow" target="_blank">BudgetMeal database</a>.</p>
 </li>
 </ul>
 <h3>Interested to find out more about CrowdTaskSG?</h3>
