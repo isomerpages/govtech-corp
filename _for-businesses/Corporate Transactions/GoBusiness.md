@@ -132,8 +132,13 @@ this service on the <a href="https://www.gobusiness.gov.sg/intellectual-property
 </details>
 </div>
 <h3>Interested to find out more about GoBusiness?</h3>
-<div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="https://www.gobusiness.gov.sg/" class="isomer-card"><div class="isomer-card-body"><div class="isomer-card-title">Visit the GoBusiness website to learn about its features</div><div class="isomer-card-link">Go to website</div></div></a>
+<div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="https://www.gobusiness.gov.sg/" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Visit the GoBusiness website to learn about its features" src="/images/CTA card images/Visit_the_product_website.png"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Visit the GoBusiness website to learn about its features</div><div class="isomer-card-link">Go to website</div></div></a>
 <a rel="noopener noreferrer nofollow" href="https://www.gobusiness.gov.sg/contact-us/?src=topnav" class="isomer-card">
+<div class="isomer-card-image">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Have questions? Contact the GoBusiness Helpdesk" src="/images/CTA card images/Have_question__Drops_us_an_email.png">
+</div>
+</div>
 <div class="isomer-card-body">
 <div class="isomer-card-title">Have questions? Contact the GoBusiness Helpdesk</div>
 <div class="isomer-card-link">Go to Helpdesk</div>
