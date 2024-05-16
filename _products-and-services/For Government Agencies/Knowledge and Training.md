@@ -82,8 +82,13 @@ the Digital Academy website.</p>
 the Digital Academy website. Then, register for the course of your choice
 to embark on your upskilling journey.</p>
 <h3>Interested to find out more about Digital Academy?</h3>
-<div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="https://www.thedigitalacademy.tech.gov.sg/" class="isomer-card"><div class="isomer-card-body"><div class="isomer-card-title">Visit the Digital Academy website and explore</div><div class="isomer-card-link">Go to website</div></div></a>
+<div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="https://www.thedigitalacademy.tech.gov.sg/" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Visit the Digital Academy website and explore" src="/images/CTA card images/Visit_the_product_website.png"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Visit the Digital Academy website and explore</div><div class="isomer-card-link">Go to website</div></div></a>
 <a rel="noopener noreferrer nofollow" href="mailto:info@tech.gov.sg" class="isomer-card">
+<div class="isomer-card-image">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Have questions? Get in touch with us" src="/images/CTA card images/Have_question__Drops_us_an_email.png">
+</div>
+</div>
 <div class="isomer-card-body">
 <div class="isomer-card-title">Have questions? Get in touch with us</div>
 <div class="isomer-card-link">info@tech.gov.sg</div>
