@@ -73,8 +73,13 @@ can also apply for the registration of your overseas civil marriage.</div>
 <p>Our Marriage Journey is accessible via <a href="https://www.marriage.gov.sg/" rel="noopener noreferrer nofollow" target="_blank"><u>https://www.marriage.gov.sg/</u></a>.
 Simply log in with your Singpass to begin using the service.</p>
 <h3>Interested in finding out more about Our Marriage Journey?</h3>
-<div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="http://eepurl.com/cUwIsD" class="isomer-card"><div class="isomer-card-body"><div class="isomer-card-title">Get updates on Our Marriage Journey by subscribing to our TechNews Newsletter!</div><div class="isomer-card-link">Subscribe to TechNews</div></div></a>
+<div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="http://eepurl.com/cUwIsD" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Get updates on Our Marriage Journey by subscribing to our TechNews Newsletter!" src="/images/CTA card images/Subscribe_to_the_TN_newsletter.png"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Get updates on Our Marriage Journey by subscribing to our TechNews Newsletter!</div><div class="isomer-card-link">Subscribe to TechNews</div></div></a>
 <a rel="noopener noreferrer nofollow" href="http://eepurl.com/hsr131" class="isomer-card">
+<div class="isomer-card-image">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Sign up as a Tech Kaki to provide feedback on improving Our Marriage Journey" src="/images/CTA card images/Join_our_user_testing_community__TK_.png">
+</div>
+</div>
 <div class="isomer-card-body">
 <div class="isomer-card-title">Sign up as a Tech Kaki to provide feedback on improving Our Marriage Journey</div>
 <div class="isomer-card-link">Become a Tech Kaki</div>
