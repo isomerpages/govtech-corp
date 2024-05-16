@@ -67,4 +67,6 @@ carefreely.</div>
 can be found on the <a href="https://gccprod.sharepoint.com/sites/GOVTECH-digitalgov/" rel="noopener noreferrer nofollow" target="_blank">Smart Nation DigiGov Portal</a> accessible
 via the Government Intranet.</p>
 <h3>Interested to find out more about DWP?</h3>
-<p>Have questions about DWP? Contact us at <a href="mailto:info@tech.gov.sg" rel="noopener noreferrer nofollow" target="_blank">info@tech.gov.sg</a>.</p>
+<div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="mailto:info@tech.gov.sg" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Have question? Email us" src="/images/CTA card images/Ready_to_Collaborate.png"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Have question? Email us</div><div class="isomer-card-link">info@tech.gov.sg</div></div></a>
+</div>
+<p></p>
