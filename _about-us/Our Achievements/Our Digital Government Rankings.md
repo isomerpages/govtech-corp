@@ -46,13 +46,9 @@ the city’s challenges and improve the quality of life for its residents.&nbsp;
 <p>Zurich, Oslo and Canberra were the top three cities respectively.</p>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Top 20 in the IMD Smart City Index 2024" src="/images/About Us/Our Achievements/IMD2024_ranking__1_.jpg">
-</div>
-<p></p>
-<div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="Singapore ranked as 5th in the IMD Smart Cities index 2024" src="/images/About Us/Our Achievements/IMD2024_top_10_copy.jpg">
 </div>
-<p><em>Screenshots taken from <a href="https://www.imd.org/smart-city-observatory/home/" rel="noopener noreferrer nofollow" target="_blank">IMD Smart Cities Index report</a>.</em>
+<p><em>Screenshot taken from <a href="https://www.imd.org/smart-city-observatory/home/" rel="noopener noreferrer nofollow" target="_blank">IMD Smart Cities Index report</a>.</em>
 </p>
 <h3>Singapore's World Digital Competitiveness Ranking</h3>
 <p>Developed by the IMD World Competitiveness Center, the <a href="https://www.imd.org/centers/wcc/world-competitiveness-center/rankings/world-digital-competitiveness-ranking/" rel="noopener noreferrer nofollow" target="_blank">IMD World Digital Competitiveness Ranking</a> assesses
