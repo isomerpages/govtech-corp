@@ -127,9 +127,7 @@ LAUNCH!, public officers can submit an idea, upvote ideas that resonate
 with them, and comment and give suggestions on ideas that they are interested
 in. We are continuing to match ideas to our current central products, and
 inviting impactful ideas to be prototyped during our Hackathon sprints.</p>
-<p>&nbsp;</p>
 <h4>How LAUNCH! Supports Agencies:</h4>
-<p>&nbsp;</p>
 <div class="isomer-card-grid">
 <div class="isomer-card">
 <div class="isomer-card-body">
