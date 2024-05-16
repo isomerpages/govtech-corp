@@ -58,7 +58,7 @@ transformation.</p>
 <p>In 2023, Singapore was ranked 3rd out of 64 economies.</p>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Singapore ranking 3rd in the World Digital Competitiveness Ranking 2023" src="/images/About Us/Our Achievements/World_Digital_Competitiveness_Ranking.png">
+<img style="width: 100%" height="auto" width="100%" alt="Singapore's ranking performance over the years." src="/images/About Us/Our Achievements/World_Digital_Competitiveness_Ranking__2_.png">
 </div>
 <p><em>Screenshot taken from <a href="https://worldcompetitiveness.imd.org/countryprofile/SG/digital?internal=true" rel="noopener noreferrer nofollow" target="_blank">IMD World Competitiveness Center</a>.</em>
 </p>
