@@ -26,9 +26,9 @@ Transformation, visit our <a href="/products-and-services/for-citizens/overview/
 <p>We also believe in the power of collaboration and strive to work with
 the industry and research ecosystem through various initiatives that drive
 our Smart Nation ambition.</p>
-<p>Through the annual Industry Briefing for vendors, we invite you to bid
-for upcoming projects, whether large- or small-scale, regardless of the
-size of your business.</p>
+<p>Through the annual Industry Engagement session for vendors, we invite
+you to bid for upcoming projects, whether large- or small-scale, regardless
+of the size of your business.</p>
 <h3>Why partner with us?</h3>
 <p>As a partner, you’ll leave a lasting impact on citizens and businesses
 by co-creating and co-developing technologies for public good. Through
@@ -62,8 +62,8 @@ test bedding in actual deployment environments.</p>
 </div>
 </a><a rel="noopener noreferrer nofollow" href="/products-and-services/collaborate-with-us/industry-collaboration/" class="isomer-card"><div class="isomer-card-body"><div class="isomer-card-title">Get to know our partnership requirements</div><div class="isomer-card-link">Read more</div></div></a>
 </div>
-<p>Check out the additional resources below to guide you and increase your
-chances of winning a project.</p>
+<p>Check out the additional resources below to guide you on your journey
+towards becoming a GovTech partner.</p>
 <div data-type="detailGroup" class="isomer-accordion isomer-accordion-white">
 <details class="isomer-details">
 <summary><strong>About GovTech</strong>
