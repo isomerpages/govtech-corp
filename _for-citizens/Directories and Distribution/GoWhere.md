@@ -79,8 +79,13 @@ Where to find support schemes and services?</p>
 view the list of active GoWhere campaigns. Bookmark the page or add the
 page to your home screen to access it quickly.</p>
 <h3>Interested in finding out more about GoWhere?</h3>
-<div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="https://www.gowhere.gov.sg/" class="isomer-card"><div class="isomer-card-body"><div class="isomer-card-title">Visit the GoWhere website to learn more</div><div class="isomer-card-link">Go to website</div></div></a>
+<div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="https://www.gowhere.gov.sg/" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Visit the GoWhere website to learn more" src="/images/CTA card images/Visit_the_product_website.png"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Visit the GoWhere website to learn more</div><div class="isomer-card-link">Go to website</div></div></a>
 <a rel="noopener noreferrer nofollow" href="http://eepurl.com/cUwIsD" class="isomer-card">
+<div class="isomer-card-image">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="TechNews readers will be the first to receive updates on GoWhere!" src="/images/CTA card images/Subscribe_to_the_TN_newsletter.png">
+</div>
+</div>
 <div class="isomer-card-body">
 <div class="isomer-card-title">TechNews readers will be the first to receive updates on GoWhere!</div>
 <div class="isomer-card-link">Subscribe to TechNews</div>
