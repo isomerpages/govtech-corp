@@ -83,7 +83,7 @@ innovation.</div>
 <p>(To include opening video from IE2024 slide deck)</p>
 <p>The government will spend an estimated $3.36 billion on government info-communication
 technology (ICT) procurement opportunities in FY24 to modernise ICT infrastructure
-and develop digital services.&nbsp;</p>
+and develop digital services.</p>
 <p>This amount will be spent on 89 projects where 35% of the budget is catered
 towards Application projects while 65% of the budget is allocated to Infrastructure
 projects.</p>
@@ -167,8 +167,7 @@ and private sector strengths for advancing Smart Nation initiatives.</p>
 visit <a href="https://www.gebiz.gov.sg/" rel="noopener noreferrer nofollow" target="_blank"><u>GeBIZ</u></a>.</p>
 <h3>How to start collaborating with GovTech?</h3>
 <p>Have an enquiry or a proactive proposal that will drive our Smart Nation
-efforts? Reach out to us at <a href="mailto:govtech_sipeo@tech.gov.sg" rel="noopener noreferrer nofollow" target="_blank"><u>govtech_sipeo@tech.gov.sg</u></a><u>.</u>
-</p>
+efforts? Reach out to us at <a href="mailto:govtech_sipeo@tech.gov.sg" rel="noopener noreferrer nofollow" target="_blank"><u>govtech_sipeo@tech.gov.sg</u></a>.</p>
 <h3>Event collaborations</h3>
 <p>At GovTech, we believe that public-private events will help spur the generation
 of new ideas, which are the precursors to truly innovative solutions. Here
