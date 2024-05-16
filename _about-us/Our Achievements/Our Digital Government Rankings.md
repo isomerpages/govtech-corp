@@ -38,15 +38,20 @@ development.</p>
 </div>
 <p><em>Screenshots from <a href="https://publicadministration.un.org/egovkb/en-us/Reports/UN-E-Government-Survey-2022#0" rel="noopener noreferrer nofollow" target="_blank">UN E-Government Survey 2022 Infographics</a></em>.</p>
 <h3>Singapore’s Smart City ranking</h3>
-<p>Singapore came 7th in the world as part of the <a href="https://www.imd.org/wp-content/uploads/2023/04/smartcityindex-2023-v7.pdf" rel="noopener noreferrer nofollow" target="_blank">IMD Smart Cities Index</a> in
-2023.&nbsp;</p>
+<p>Singapore came 5th in the world as part of the <a href="https://www.imd.org/smart-city-observatory/home/" rel="noopener noreferrer nofollow" target="_blank">IMD Smart Cities Index</a> in
+2024.&nbsp;</p>
 <p>It’s published by Switzerland’s Institute for Management Development (IMD)
 and used data to rank 141 cities by how they use technology to address
 the city’s challenges and improve the quality of life for its residents.&nbsp;</p>
 <p>Zurich, Oslo and Canberra were the top three cities respectively.</p>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Singapore's ranking in the IMD Smart City Index 2023" src="/images/About Us/Our Achievements/IMD_Report_rank_2023.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="Top 20 in the IMD Smart City Index 2024" src="/images/About Us/Our Achievements/IMD2024_ranking__1_.jpg">
 </div>
-<p><em>Screenshot from <a href="https://www.imd.org/wp-content/uploads/2023/04/smartcityindex-2023-v7.pdf" rel="noopener noreferrer nofollow" target="_blank">IMD Smart Cities Index report</a>.</em>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Singapore ranked as 5th in the IMD Smart Cities index 2024" src="/images/About Us/Our Achievements/IMD2024_top_10_copy.jpg">
+</div>
+<p></p>
+<p><em>Screenshots taken from <a href="https://www.imd.org/smart-city-observatory/home/" rel="noopener noreferrer nofollow" target="_blank">IMD Smart Cities Index report</a>.</em>
 </p>
