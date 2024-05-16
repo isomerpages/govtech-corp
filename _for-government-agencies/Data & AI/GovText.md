@@ -117,8 +117,13 @@ demo videos for help on how to use the platform.</p>
 <p>Users can look forward to new document drafters, Q&amp;A tools, and more
 LLM platform services to come.</p>
 <h3>Interested to find out more about GovText?</h3>
-<div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="https://www.govtext.gov.sg/" class="isomer-card"><div class="isomer-card-body"><div class="isomer-card-title">Visit the GovText website to learn more</div><div class="isomer-card-link">Go to GovText website</div></div></a>
+<div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="https://www.govtext.gov.sg/" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Visit the GovText website to learn more" src="/images/CTA card images/Visit_the_product_website.png"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Visit the GovText website to learn more</div><div class="isomer-card-link">Go to GovText website</div></div></a>
 <a rel="noopener noreferrer nofollow" href="mailto:govtext@tech.gov.sg" class="isomer-card">
+<div class="isomer-card-image">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Have questions? Email us" src="/images/CTA card images/Have_question__Drops_us_an_email.png">
+</div>
+</div>
 <div class="isomer-card-body">
 <div class="isomer-card-title">Have questions? Email us</div>
 <div class="isomer-card-link">govtext@tech.gov.sg</div>
