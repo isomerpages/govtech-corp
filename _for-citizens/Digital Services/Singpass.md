@@ -92,7 +92,7 @@ log in with Singpass.</div>
 useful features to enable simpler transactions. Current app features include:</p>
 <div data-type="detailGroup" class="isomer-accordion isomer-accordion-white">
 <details class="isomer-details">
-<summary><strong>Show your Digital IC to prove your identity over government counters</strong>.</summary>
+<summary><strong>Digital IC to prove your identity over government counters</strong>.</summary>
 <div data-type="detailsContent" class="isomer-details-content">
 <p>You can also scan the Digital IC barcode at kiosks such as those in libraries
 and polyclinics.</p>
