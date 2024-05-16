@@ -50,8 +50,13 @@ from scratch.</p>
 <iframe style="max-width: 100%;" height="400" width="100%" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/Vt-r2vCqSh8?si=hxg2epzcUOzHr2qq"></iframe>
 </div>
 <h3>Interested to find out more about SGTS?</h3>
-<div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="https://www.developer.tech.gov.sg/singapore-government-tech-stack/" class="isomer-card"><div class="isomer-card-body"><div class="isomer-card-title">Discover its features on the Singapore Government Developer Portal (SGDP)</div><div class="isomer-card-link">Learn more on SGDP</div></div></a>
+<div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="https://www.developer.tech.gov.sg/singapore-government-tech-stack/" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Discover its features on the Singapore Government Developer Portal (SGDP)" src="/images/CTA card images/Visit_the_SGDP_Portal.png"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Discover its features on the Singapore Government Developer Portal (SGDP)</div><div class="isomer-card-link">Learn more on SGDP</div></div></a>
 <a rel="noopener noreferrer nofollow" href="mailto:info@tech.gov.sg" class="isomer-card">
+<div class="isomer-card-image">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Have questions? Email us" src="/images/CTA card images/Have_question__Drops_us_an_email.png">
+</div>
+</div>
 <div class="isomer-card-body">
 <div class="isomer-card-title">Have questions? Email us</div>
 <div class="isomer-card-link">info@tech.gov.sg</div>
