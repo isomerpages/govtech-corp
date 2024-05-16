@@ -188,6 +188,6 @@ AI Bootcamp for the upskilling of over 1,400 public officers.</div>
 </a>
 </div>
 <p></p>
-<div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="mailto:info@tech.gov.sg" class="isomer-card"><div class="isomer-card-body"><div class="isomer-card-title">Ready to collaborate?</div><div class="isomer-card-description">Get in touch with us today to explore ways we can work together. Email us.</div><div class="isomer-card-link">info@tech.gov.sg</div></div></a>
+<div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="mailto:info@tech.gov.sg" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Collaborate with GovTech" src="/images/CTA card images/Ready_to_Collaborate.png"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Ready to collaborate?</div><div class="isomer-card-description">Get in touch with us today to explore ways we can work together. Email us.</div><div class="isomer-card-link">info@tech.gov.sg</div></div></a>
 </div>
 <p></p>
