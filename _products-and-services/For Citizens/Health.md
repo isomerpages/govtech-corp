@@ -81,8 +81,13 @@ Apple devices) or <a href="https://play.google.com/store/apps/details?id=sg.gov.
 Android devices). Upon launching the app, log in via Singpass to start
 enjoying its features.</p>
 <h3>Interested to find out more about Healthy 365?</h3>
-<div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="https://hpb.gov.sg/healthy-living/healthy-365" class="isomer-card"><div class="isomer-card-body"><div class="isomer-card-title">Visit the Healthy 365 website to learn about the features and rewards</div><div class="isomer-card-link">Go to Healthy 365 website</div></div></a>
+<div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="https://hpb.gov.sg/healthy-living/healthy-365" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Visit the Healthy 365 website to learn about the features and rewards" src="/images/CTA card images/Visit_the_product_website.png"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Visit the Healthy 365 website to learn about the features and rewards</div><div class="isomer-card-link">Go to Healthy 365 website</div></div></a>
 <a rel="noopener noreferrer nofollow" href="http://eepurl.com/cUwIsD" class="isomer-card">
+<div class="isomer-card-image">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="TechNews readers will be the first to receive updates on Healthy 365!" src="/images/CTA card images/Subscribe_to_the_TN_newsletter.png">
+</div>
+</div>
 <div class="isomer-card-body">
 <div class="isomer-card-title">TechNews readers will be the first to receive updates on Healthy 365!</div>
 <div class="isomer-card-link">Subscribe to TechNews</div>
