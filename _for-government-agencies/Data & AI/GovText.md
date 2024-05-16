@@ -19,47 +19,17 @@ Analysing and using this information for their daily tasks can be time-consuming
 to help officers work more effectively and efficiently. It helps them analyse
 text by finding important information using methods like topic modelling
 and Large Language Models (LLMs) for drafting and finding information.</p>
-<p>The platform provides text analysis services through web portal tools
-and a model hosting platform, which can be accessed by government agencies.
-These services support platforms like the OneService Chatbot.</p>
 <h3>Why use GovText?</h3>
-<p>The current version of GovText supports these services:</p>
+<p>GovText provides a variety of text analysis services through web portal
+tools and a model hosting platform, which can be accessed by government
+agencies.</p>
 <p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="GovText tools and services" src="/images/Products and Services/For Government Agencies/GovText_image.png">
 </div>
-<p></p>
-<div data-type="detailGroup" class="isomer-accordion isomer-accordion-white">
-<details class="isomer-details">
-<summary><strong>1. Productivity tools</strong>
-</summary>
-<div data-type="detailsContent" class="isomer-details-content">
-<p>These tools are designed for government business processes. They include
-the <strong>Hansard Analysis Tool</strong>, which helps officers get information
-from the Official Reports of the Parliament of Singapore to draft replies
-to parliamentary questions and speeches. The <strong>IM8 Q&amp;A</strong> tool
-helps officers understand IM8 policies by searching relevant IM8 clauses
-and documents, and generating a summarised answer to the user's question.</p>
-</div>
-</details>
-<details class="isomer-details">
-<summary><strong>2. General text analysis</strong>
-</summary>
-<div data-type="detailsContent" class="isomer-details-content">
-<p>These are common NLP tools that help extract important information from
-your data — topic modelling and summarisation</p>
-</div>
-</details>
-<details class="isomer-details">
-<summary><strong>3. Alpha tools</strong>
-</summary>
-<div data-type="detailsContent" class="isomer-details-content">
-<p>These are ongoing experimental tools that officers can try out on the
-platform.</p>
-</div>
-</details>
-</div>
-<h4>Topic Modelling</h4>
+<h4>1. General text analysis</h4>
+<p><strong>Topic Modelling</strong>
+</p>
 <p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="GovText offers topic modelling." src="/images/Products and Services/_compressed__wordcloud_screenshot.jpg">
@@ -87,7 +57,8 @@ given to them.</div>
 </div>
 </div>
 </div>
-<h4>Summarisation</h4>
+<p><strong>Summarisation</strong>
+</p>
 <p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="GovText can help to generate summaries of documents." src="/images/Products and Services/summarisation_screenshot.jpg">
@@ -115,6 +86,16 @@ a summary.</div>
 </div>
 </div>
 </div>
+<h4>2. Productivity tools</h4>
+<p>These tools are designed for government business processes. They include
+the <strong>Hansard Analysis Tool</strong>, which helps officers get information
+from the Official Reports of the Parliament of Singapore to draft replies
+to parliamentary questions and speeches. The <strong>IM8 Q&amp;A</strong> tool
+helps officers understand IM8 policies by searching relevant IM8 clauses
+and documents, and generating a summarised answer to the user's question.</p>
+<h4>3. Alpha tools</h4>
+<p>These are ongoing experimental tools that officers can try out on the
+platform.</p>
 <h3>How to use GovText?</h3>
 <p>Visit the<a href="https://www.govtext.gov.sg/" rel="noopener noreferrer nofollow" target="_blank"> <u>GovText website</u></a> and
 log in with your Whole-of-Government credentials to get started. Refer
