@@ -107,7 +107,7 @@ clauses and documents, and generating a summarised answer to their questions.</d
 <p></p>
 <h4>3. Alpha tools</h4>
 <p>These are ongoing experimental tools that officers can try out on the
-platform.</p>
+platform, such as feedback clustering and sentiment analysis.</p>
 <h3>How to use GovText?</h3>
 <p>Visit the<a href="https://www.govtext.gov.sg/" rel="noopener noreferrer nofollow" target="_blank"> <u>GovText website</u></a> and
 log in with your Whole-of-Government credentials to get started. Refer
