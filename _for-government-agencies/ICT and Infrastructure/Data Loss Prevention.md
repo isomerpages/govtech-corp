@@ -74,6 +74,6 @@ you perform any of the following activities:</p>
 Whenever necessary, DLP will prompt you and confirm your intent to transfer
 the data before proceeding with the request.</p>
 <h3>Interested to find out more about DLP?</h3>
-<div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="mailto:info@tech.gov.sg" class="isomer-card"><div class="isomer-card-body"><div class="isomer-card-title">Have questions? Email us</div><div class="isomer-card-link">info@tech.gov.sg</div></div></a>
+<div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="mailto:info@tech.gov.sg" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Have questions? Email us" src="/images/CTA card images/Ready_to_Collaborate.png"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Have questions? Email us</div><div class="isomer-card-link">info@tech.gov.sg</div></div></a>
 </div>
 <p></p>
