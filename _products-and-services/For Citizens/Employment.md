@@ -66,8 +66,13 @@ vulnerable communities can navigate the platform with ease.</p>
 login via Singpass to get started.</p>
 <h3>Interested to find out more about MyCareersFuture?</h3>
 <p></p>
-<div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="http://eepurl.com/cUwIsD" class="isomer-card"><div class="isomer-card-body"><div class="isomer-card-title">TechNews readers will be the first to receive updates on MyCareersFuture!</div><div class="isomer-card-link">Subscribe to TechNews</div></div></a>
+<div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="http://eepurl.com/cUwIsD" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="TechNews readers will be the first to receive updates on MyCareersFuture!" src="/images/CTA card images/Subscribe_to_the_TN_newsletter.png"></div></div><div class="isomer-card-body"><div class="isomer-card-title">TechNews readers will be the first to receive updates on MyCareersFuture!</div><div class="isomer-card-link">Subscribe to TechNews</div></div></a>
 <a rel="noopener noreferrer nofollow" href="http://eepurl.com/hsr131" class="isomer-card">
+<div class="isomer-card-image">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Know how MyCareersFuture can improve? Become a Tech Kaki to share your ideas" src="/images/CTA card images/Join_our_user_testing_community__TK_.png">
+</div>
+</div>
 <div class="isomer-card-body">
 <div class="isomer-card-title">Know how MyCareersFuture can improve? Become a Tech Kaki to share your
 ideas</div>
