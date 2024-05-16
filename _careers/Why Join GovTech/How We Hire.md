@@ -26,42 +26,24 @@ intelligence, cybersecurity, digital infrastructure and smart city technology.</
 <p>Does the thought of being at the forefront of shaping Singapore's tech
 future fill you with excitement? If so, consider embarking on a fulfilling
 career with us! Here's a look at our hiring process.</p>
-<ol data-tight="true" class="tight">
-<li>
-<p>Apply</p>
-<ul>
-<li>
-<p>Spot an available role that is right up your alley? Apply electronically
-for it!</p>
-</li>
-</ul>
-</li>
-<li>
-<p>Interviews</p>
-<ul>
-<li>
-<p>Phone: A recruiter will get in touch with you to discuss your experience
-and aspirations as well as share more information about the job.&nbsp;</p>
-</li>
-<li>
-<p>Face-to-face: If you're shortlisted, you'll attend a one-hour interview
-with the recruiter, hiring manager and potential teammates.&nbsp;</p>
-</li>
-</ul>
-</li>
-<li>
-<p>Decision</p>
-<ul>
-<li>
-<p>We'll review your application before making our decision based on trusted
-frameworks and predetermined criteria.&nbsp;</p>
-</li>
-<li>
-<p>If you're selected, we'll contact you to extend a verbal offer!</p>
-</li>
-</ul>
-</li>
-</ol>
+<div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="https://careers.tech.gov.sg/careers/SearchJobs" class="isomer-card"><div class="isomer-card-body"><div class="isomer-card-title">1. Apply</div><div class="isomer-card-description">Spot an available role that is right up your alley? Apply for it online via our Careers Portal. </div><div class="isomer-card-link">Apply for a GovTech job</div></div></a>
+<div class="isomer-card">
+<div class="isomer-card-body">
+<div class="isomer-card-title">2. Interviews</div>
+<div class="isomer-card-description">A recruiter will get in touch with you if you're shortlisted and arrange
+an interview with your hiring manager and possibly your potential teammates
+too.</div>
+</div>
+</div>
+<div class="isomer-card">
+<div class="isomer-card-body">
+<div class="isomer-card-title">3. Decision</div>
+<div class="isomer-card-description">The hiring team will base their decision on trusted frameworks and pre-determined
+criteria for the role. If you're selected, we'll contact you to extend
+an offer!</div>
+</div>
+</div>
+</div>
 <h3>Tips to increase your chance of landing the job</h3>
 <p>Want to stand out from the crowd? Here are some tips to help you along!</p>
 <p></p>
