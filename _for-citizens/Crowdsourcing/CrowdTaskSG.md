@@ -99,8 +99,13 @@ help Singaporeans find cheaper meals.</p>
 </li>
 </ul>
 <h3>Interested to find out more about CrowdTaskSG?</h3>
-<div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="https://www.crowdtask.gov.sg/" class="isomer-card"><div class="isomer-card-body"><div class="isomer-card-title">Visit the CrowdTaskSG website to learn more</div><div class="isomer-card-link">Go to CrowdTaskSG website</div></div></a>
+<div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="https://www.crowdtask.gov.sg/" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Visit the CrowdTaskSG website to learn more" src="/images/CTA card images/Visit_the_product_website.png"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Visit the CrowdTaskSG website to learn more</div><div class="isomer-card-link">Go to CrowdTaskSG website</div></div></a>
 <a rel="noopener noreferrer nofollow" href="http://eepurl.com/hsr131" class="isomer-card">
+<div class="isomer-card-image">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Have feedback on CrowdTaskSG? Become a Tech Kaki to share your ideas" src="/images/CTA card images/Join_our_user_testing_community__TK_.png">
+</div>
+</div>
 <div class="isomer-card-body">
 <div class="isomer-card-title">Have feedback on CrowdTaskSG? Become a Tech Kaki to share your ideas</div>
 <div class="isomer-card-link">Join Tech Kaki community</div>
