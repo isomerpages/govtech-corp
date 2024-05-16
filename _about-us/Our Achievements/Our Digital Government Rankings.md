@@ -38,7 +38,7 @@ development.</p>
 </div>
 <p><em>Screenshots from <a href="https://publicadministration.un.org/egovkb/en-us/Reports/UN-E-Government-Survey-2022#0" rel="noopener noreferrer nofollow" target="_blank">UN E-Government Survey 2022 Infographics</a></em>.</p>
 <h3>Singapore’s Smart City ranking</h3>
-<p>Singapore came 5th in the world as part of the <a href="https://www.imd.org/smart-city-observatory/home/" rel="noopener noreferrer nofollow" target="_blank">IMD Smart Cities Index</a> in
+<p>Singapore came 5th in the world and 1st in Asia as part of the <a href="https://www.imd.org/smart-city-observatory/home/" rel="noopener noreferrer nofollow" target="_blank">IMD Smart Cities Index</a> in
 2024.&nbsp;</p>
 <p>It’s published by Switzerland’s Institute for Management Development (IMD)
 and used data to rank 141 cities by how they use technology to address
