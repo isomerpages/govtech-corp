@@ -92,14 +92,14 @@ log in with Singpass.</div>
 useful features to enable simpler transactions. Current app features include:</p>
 <div data-type="detailGroup" class="isomer-accordion isomer-accordion-white">
 <details class="isomer-details">
-<summary><strong>Digital IC to prove your identity over government counters</strong>.</summary>
+<summary><strong>1. Digital IC to prove your identity over government counters</strong>.</summary>
 <div data-type="detailsContent" class="isomer-details-content">
 <p>You can also scan the Digital IC barcode at kiosks such as those in libraries
 and polyclinics.</p>
 </div>
 </details>
 <details class="isomer-details">
-<summary><strong>One-tap access to government digital services</strong>
+<summary><strong>2. One-tap access to government digital services</strong>
 </summary>
 <div data-type="detailsContent" class="isomer-details-content">
 <p>One-tap access to commonly used government digital services like CPF,
@@ -108,7 +108,7 @@ can also personalise your list of favourite services.</p>
 </div>
 </details>
 <details class="isomer-details">
-<summary><strong>View your profile for important information</strong>
+<summary><strong>3. View your profile for important information</strong>
 </summary>
 <div data-type="detailsContent" class="isomer-details-content">
 <p>View your profile where you always have your important information such
@@ -116,7 +116,7 @@ as CPF balance, passport number and HDB details on hand.</p>
 </div>
 </details>
 <details class="isomer-details">
-<summary><strong>Receive timely notifications from government agencies</strong>
+<summary><strong>4. Receive timely notifications from government agencies</strong>
 </summary>
 <div data-type="detailsContent" class="isomer-details-content">
 <p>Receive timely notifications from government agencies in the Singpass
@@ -125,7 +125,7 @@ passport renewal will receive notifications in their app inbox.</p>
 </div>
 </details>
 <details class="isomer-details">
-<summary><strong>Corporate profiles</strong>
+<summary><strong>5. Corporate profiles</strong>
 </summary>
 <div data-type="detailsContent" class="isomer-details-content">
 <p>Authorised individuals of corporate entities can switch to their corporate
@@ -134,7 +134,7 @@ must have a valid Corppass account).</p>
 </div>
 </details>
 <details class="isomer-details">
-<summary><strong>Digitally sign documents</strong>
+<summary><strong>6. Digitally sign documents</strong>
 </summary>
 <div data-type="detailsContent" class="isomer-details-content">
 <p>Digitally sign documents by scanning a QR code. This removes the need
