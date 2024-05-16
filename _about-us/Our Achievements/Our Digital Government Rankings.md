@@ -26,15 +26,11 @@ e-Government initiatives to realise its own national development goals.</p>
 development.</p>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/About Us/Our Achievements/Compressed__UN__Global_ranking.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="Global ranking Singapore 12th place for UN e-government survey" src="/images/About Us/Our Achievements/Compressed__UN__Global_ranking.jpg">
 </div>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/About Us/Our Achievements/Compressed_UN_Asia_Region_ranking.jpg">
-</div>
-<p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/About Us/Our Achievements/Compressed_UN_infographic__1_.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="Singapore Asia region ranking UN e-government survey" src="/images/About Us/Our Achievements/Compressed_UN_Asia_Region_ranking.jpg">
 </div>
 <p><em>Screenshots taken from <a href="https://publicadministration.un.org/egovkb/en-us/Reports/UN-E-Government-Survey-2022#0" rel="noopener noreferrer nofollow" target="_blank">UN E-Government Survey 2022 Infographics</a></em>.</p>
 <h3>Singapore’s Smart City ranking</h3>
