@@ -39,19 +39,8 @@ and know-how in the public sector domain. The fruits of your efforts can
 be applied in other areas and markets, bringing more growth to your organisation.</p>
 <p>In addition, your business can achieve validation opportunities through
 test bedding in actual deployment environments.</p>
-<h3>Partnership opportunities</h3>
-<p>We are currently focusing on ICT opportunities in 3 areas:</p>
-<ol data-tight="true" class="tight">
-<li>
-<p>Application Development</p>
-</li>
-<li>
-<p>Sustainability</p>
-</li>
-<li>
-<p>Smart Cities</p>
-</li>
-</ol>
+<p>Learn more about <a href="/products-and-services/collaborate-with-us/industry-collaboration/" rel="noopener noreferrer nofollow" target="_blank">industry collaborations</a> with
+GovTech.</p>
 <h3>Become a vendor for GovTech</h3>
 <p>Follow these steps to secure new opportunities.</p>
 <div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="https://www.gebiz.gov.sg/" class="isomer-card"><div class="isomer-card-body"><div class="isomer-card-title">Register as a GeBIZ Trading Partner (GTP)</div><div class="isomer-card-link">Go to portal</div></div></a>
@@ -120,7 +109,6 @@ suppliers that are participating in Singapore government procurement opportuniti
 </details>
 </div>
 <p></p>
-<p>Learn more about <a href="/products-and-services/collaborate-with-us/industry-collaboration/" rel="noopener noreferrer nofollow" target="_blank">industry collaborations</a> with
-GovTech.</p>
+<p></p>
 <p>Have an enquiry or a proactive proposal that will drive our Smart Nation
 efforts? Reach out to us at <a href="mailto:govtech_sipeo@tech.gov.sg" rel="noopener noreferrer nofollow" target="_blank"><u>govtech_sipeo@tech.gov.sg</u></a>.</p>
