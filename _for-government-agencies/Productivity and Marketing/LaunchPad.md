@@ -9,6 +9,15 @@ third_nav_title: Productivity and Marketing
 image: /images/Products and Services/For Government
   Agencies/LaunchPad_logo_screenshot.jpg
 ---
+<div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="https://www.isomer.gov.sg" class="isomer-card"><div class="isomer-card-body"><div class="isomer-card-title">This is a title for your card</div><div class="isomer-card-description">This is body text for your card. Describe your card.</div><div class="isomer-card-link">This is a link for your card</div></div></a>
+<a rel="noopener noreferrer nofollow" href="https://www.isomer.gov.sg" class="isomer-card">
+<div class="isomer-card-body">
+<div class="isomer-card-title">This is a title for your card</div>
+<div class="isomer-card-description">This is body text for your card. Describe your card.</div>
+<div class="isomer-card-link">This is a link for your card</div>
+</div>
+</a>
+</div>
 <h2>Pitch ideas, experiment, and see AI in action with LaunchPad</h2>
 <p></p>
 <div class="isomer-image-wrapper">
@@ -106,12 +115,62 @@ out to us via <a href="https://form.gov.sg/64a4d72658aaf80011ac2a64" rel="noopen
 </a>
 </div>
 <hr>
-<h3>Upcoming LAUNCH! Hackathon Sprints 2024</h3>
-<p></p>
+<h3>What is the LAUNCH! Hackathon?</h3>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="Launch! Hackathon logo" src="/images/Products and Services/For Government Agencies/Launch_hackathon_logo_845x200.png">
 </div>
 <p></p>
+<p>Spearheaded by GovTech in collaboration with various government agencies
+and esteemed industry partners, LAUNCH! is a movement towards fostering
+a culture of innovation and collaboration across the public sector. Through
+LAUNCH!, public officers can submit an idea, upvote ideas that resonate
+with them, and comment and give suggestions on ideas that they are interested
+in. We are continuing to match ideas to our current central products, and
+inviting impactful ideas to be prototyped during our Hackathon sprints.</p>
+<p>&nbsp;</p>
+<h4>How LAUNCH! Supports Agencies:</h4>
+<p>&nbsp;</p>
+<div class="isomer-card-grid">
+<div class="isomer-card">
+<div class="isomer-card-body">
+<div class="isomer-card-title">Idea enhancement</div>
+<div class="isomer-card-description">Agencies can utilise the LaunchPad platform to refine ideas, engage with
+participants, and track the most popular concepts.</div>
+</div>
+</div>
+<div class="isomer-card">
+<div class="isomer-card-body">
+<div class="isomer-card-title">Idea triage and matchmaking</div>
+<div class="isomer-card-description">GovTech will evaluate ideas and align them with existing solutions, spotlighting
+central products that address agency-specific challenges. Agencies are
+encouraged to explore these products and learn how they can be tailored
+to their needs.</div>
+</div>
+</div>
+</div>
+<div class="isomer-card-grid">
+<div class="isomer-card">
+<div class="isomer-card-body">
+<div class="isomer-card-title">Prototyping and development</div>
+<div class="isomer-card-description">Selected ideas will progress to the LAUNCH! hackathon sprints, where GovTech’s
+engineers and data scientists collaborate with business teams to bring
+prototypes to life. Regular hackathons every two months ensure these ideas
+receive continuous development.</div>
+</div>
+</div>
+<div class="isomer-card">
+<div class="isomer-card-body">
+<div class="isomer-card-title">Showcasing and scaling</div>
+<div class="isomer-card-description">Successful proofs of concept (POCs) will be highlighted at the year-end
+event. Agencies will receive support to scale their solutions, either through
+expanding central product features or partnering with industry experts
+for deployment.</div>
+</div>
+</div>
+</div>
+<p></p>
+<p><strong>See below for more details:</strong>
+</p>
 <div data-type="detailGroup" class="isomer-accordion isomer-accordion-white">
 <details class="isomer-details">
 <summary>What is the LAUNCH! Hackathon about?</summary>
