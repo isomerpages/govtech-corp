@@ -109,6 +109,6 @@ suppliers that are participating in Singapore government procurement opportuniti
 </details>
 </div>
 <p></p>
+<div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="mailto:govtech_sipeo@tech.gov.sg" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Collaborate with GovTech" src="/images/CTA card images/Ready_to_Collaborate.png"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Have an enquiry or a proactive proposal that will drive our Smart Nation efforts?</div><div class="isomer-card-link">govtech_sipeo@tech.gov.sg</div></div></a>
+</div>
 <p></p>
-<p>Have an enquiry or a proactive proposal that will drive our Smart Nation
-efforts? Reach out to us at <a href="mailto:govtech_sipeo@tech.gov.sg" rel="noopener noreferrer nofollow" target="_blank"><u>govtech_sipeo@tech.gov.sg</u></a>.</p>
