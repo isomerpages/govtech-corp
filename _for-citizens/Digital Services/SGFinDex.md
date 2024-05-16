@@ -145,13 +145,21 @@ and current protection plans.</p>
 </details>
 </div>
 <p></p>
-<div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="https://www.singpass.gov.sg/main/sgfindex/" class="isomer-card"><div class="isomer-card-body"><div class="isomer-card-title">Want to find out more about SGFinDex?</div><div class="isomer-card-link">Go to SGFinDex website</div></div></a>
+<div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="https://www.singpass.gov.sg/main/sgfindex/" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Want to find out more about SGFinDex? Visit Product website" src="/images/CTA card images/Visit_the_product_website.png"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Want to find out more about SGFinDex?</div><div class="isomer-card-link">Go to SGFinDex website</div></div></a>
 <a rel="noopener noreferrer nofollow" href="http://eepurl.com/cUwIsD" class="isomer-card">
+<div class="isomer-card-image">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Subscribe to TechNews Newsletter to receive updates on SGFinDex!" src="/images/CTA card images/Subscribe_to_the_TN_newsletter.png">
+</div>
+</div>
 <div class="isomer-card-body">
 <div class="isomer-card-title">Subscribe to TechNews Newsletter to receive updates on SGFinDex!</div>
 <div class="isomer-card-link">Subscribe to TechNews</div>
 </div>
 </a>
 </div>
-<h3>Interested in becoming a participant?</h3>
-<p>Email us at <a href="mailto:support@sgdex.gov.sg" rel="noopener noreferrer nofollow" target="_blank">support@sgdex.gov.sg</a>.</p>
+<h3>Interested in participating in SGFinDex?</h3>
+<p></p>
+<div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="mailto:support@sgdex.gov.sg" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Have questions? Email us" src="/images/CTA card images/Ready_to_Collaborate.png"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Have questions? Email us</div><div class="isomer-card-link">support@sgdex.gov.sg</div></div></a>
+</div>
+<p></p>
