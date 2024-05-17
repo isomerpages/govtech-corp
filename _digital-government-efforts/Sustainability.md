@@ -71,7 +71,7 @@ our data centres are Green Mark Platinum certified.</div>
 pillars — Sustainable Organisation, Sustainable ICT&amp;SS and Digital
 Innovation for Sustainability.</p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/About Us/our_focus_areas_infographic.jpg">
+<img style="width: 75%;" height="auto" width="100%" alt="GovTech sustainability framework to support Singapore Green Plan 2030" src="/images/About Us/our_focus_areas_infographic.jpg">
 </div>
 <h4>Our key initiatives</h4>
 <p></p>
