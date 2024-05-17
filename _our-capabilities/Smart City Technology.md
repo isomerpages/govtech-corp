@@ -49,7 +49,7 @@ as it enables the optimisation of building management and resources.</div>
 </div>
 </a>
 </div>
-<div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="https://medium.com/siot-govtech" class="isomer-card"><div class="isomer-card-body"><div class="isomer-card-title">Want to learn more about our work?</div><div class="isomer-card-description">Visit our Medium blog to see our latest projects and learn about their development.</div><div class="isomer-card-link">Read more on our Medium blog</div></div></a>
+<div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="https://medium.com/siot-govtech" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Want to learn more about our work?" src="/images/CTA card images/Visit_the_product_website.png"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Want to learn more about our work?</div><div class="isomer-card-description">Visit our Medium blog to see our latest projects and learn about their development.</div><div class="isomer-card-link">Read more on our Medium blog</div></div></a>
 </div>
 <h3>Join our team</h3>
 <p></p>
