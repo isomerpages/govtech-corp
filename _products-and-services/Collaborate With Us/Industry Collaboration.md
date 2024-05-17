@@ -76,7 +76,6 @@ innovation.</div>
 </div>
 </div>
 <h3>Opportunities for FY2024</h3>
-<p></p>
 <div class="iframe-wrapper">
 <iframe style="max-width: 100%;" height="400" width="100%" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/aEgsYHFy1CQ?si=TfUuB9QYK6DrW71K"></iframe>
 </div>
@@ -86,6 +85,8 @@ and develop digital services.</p>
 <p>This amount will be spent on 89 projects where 35% of the budget is catered
 towards Application projects while 65% of the budget is allocated to Infrastructure
 projects.</p>
+<p><a href="/files/media/Events/industry_engagement_2024_opening_address.pdf" rel="noopener noreferrer nofollow" target="_blank">GovTech Industry Engagement 2024 Opening Address</a>
+</p>
 <p>For the full list of current partnership opportunities and open tenders,
 visit <a href="https://www.gebiz.gov.sg/" rel="noopener noreferrer nofollow" target="_blank"><u>GeBIZ</u></a>.</p>
 <p></p>
