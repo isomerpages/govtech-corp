@@ -57,7 +57,7 @@ Check out the <a href="https://www.developer.tech.gov.sg/" rel="noopener norefer
 and conducting workshops. We believe such engagements will serve a much
 larger community of countries looking to learn about Singapore’s journey.
 Explore a few of our past international collaborations below.</p>
-<h4>Digital Government Exchange (DGX)</h4>
+<h3>Digital Government Exchange (DGX)</h3>
 <p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="GovTech collaborates with The World Bank to organise Digital Government Exchange." src="/images/Products and Services/Collaborate with us/card_1__resized_.jpg">
@@ -84,7 +84,7 @@ This event offers a platform for participating governments to exchange
 insights and experiences related to their digital government initiatives
 in their respective countries.</p>
 <p>For more information, check out how <a href="https://blogs.worldbank.org/en/governance/dgx-bringing-govtech-community-together?trk=public_post_main-feed-card_feed-article-content" rel="noopener noreferrer nofollow" target="_blank">DGX is bringing the GovTech Community together</a>.</p>
-<h4>Smart City Expo World Congress 2023</h4>
+<h3>Smart City Expo World Congress 2023</h3>
 <p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="GovTech participated in the Smart City Expo World Congress 2023 in Barcelona." src="/images/Products and Services/Collaborate with us/card_2__resized_.jpg">
@@ -99,8 +99,7 @@ and organisations to drive the future of urban living.</p>
 </p>
 <p>At the expo, the team showcased several groundbreaking projects that underline
 Singapore's commitment to digital advancement:</p>
-<p>1. <strong>Transforming urban living with Open-Robotics Middle Framework (Open-RMF):</strong>
-</p>
+<h4>1. Transforming urban living with Open-Robotics Middle Framework (Open-RMF):</h4>
 <p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="Transforming urban living with Open-Robotics Middle Framework (Open-RMF). GovTech leader giving a presentation" src="/images/Products and Services/Collaborate with us/f3_copy_resized.jpg">
@@ -110,8 +109,11 @@ systems. By ensuring that robots can effectively coordinate with elements
 like lifts, turnstiles, and doors, this technology prevents conflicts between
 different robot fleets and enhances the integration of robotics in daily
 urban life.</p>
-<p>2. <strong>Tech-Enabled Assisted Living:</strong>
-</p>
+<h4>2. Tech-Enabled Assisted Living:</h4>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="GovTech leader presenting on the Wireless Alert Alarm System (AAS)" src="/images/Products and Services/Collaborate with us/f4b_copy_resized.jpg">
+</div>
 <ul data-tight="true" class="tight">
 <li>
 <p><strong><a href="/products-and-services/for-citizens/smart-city-tech/" rel="noopener noreferrer nofollow" target="_blank">Government Assisted Living Ecosystem (GALE)</a>: </strong>GALE
@@ -128,13 +130,19 @@ emergencies. This initiative addresses the challenges of an ageing population
 by optimizing tech solutions for elderly care.</p>
 </li>
 </ul>
-<p>3. <strong>Tech-Enabled Assisted Living with the Sensei Care Kit:</strong>
-</p>
+<h4>3. Tech-Enabled Assisted Living with the Sensei Care Kit:</h4>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="GovTechie explaining how the Sensei Care Kit works" src="/images/Products and Services/Collaborate with us/f5b_copy_resized.jpg">
+</div>
 <p>This innovative care kit integrates various health monitoring devices,
 such as blood pressure monitors and weight scales, allowing seniors to
 comprehensively track their health from the comfort of their homes.</p>
-<p>4. <strong>Tech-Enhanced Healthcare with Remote Photoplethysmography (rPPG):</strong>
-</p>
+<h4>4. Tech-Enhanced Healthcare with Remote Photoplethysmography (rPPG):</h4>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="User exploring the potential of rPPG technology to monitor vital signs like heart rate and respiratory rate remotely." src="/images/Products and Services/Collaborate with us/f6_copy_resized.jpg">
+</div>
 <p>GovTech is exploring the potential of rPPG technology to monitor vital
 signs like heart rate and respiratory rate remotely. This cutting-edge
 technology could significantly improve the early detection and treatment
