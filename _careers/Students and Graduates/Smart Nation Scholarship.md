@@ -71,7 +71,7 @@ with your seniors.</div>
 <div class="isomer-card-body">
 <div class="isomer-card-title">Demonstrate your leadership</div>
 <div class="isomer-card-description">Become a leader who operates in the GovTech way: Act with Purpose, Model
-Empathy and Develop People</div>
+Empathy and Develop People.</div>
 </div>
 </div>
 </div>
