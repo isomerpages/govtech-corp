@@ -57,21 +57,90 @@ Check out</p>
 and conducting workshops. We believe such engagements will serve a much
 larger community of countries looking to learn about Singapore’s journey.
 Explore a few of our past international collaborations below.</p>
-<div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="https://blogs.worldbank.org/governance/dgx-bringing-govtech-community-together" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="GovTech collaborates with The World Bank to organise Digital Government Exchange." src="/images/Products and Services/Collaborate with us/Int_collab_card_1_600x300.jpg"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Digital Government Exchange (DGX)</div><div class="isomer-card-description">Held in collaboration with The World Bank, DGX allows CIOs and government leaders to share experiences and explore future collaboration opportunities.</div><div class="isomer-card-link">Read DGX blog entry</div></div></a>
-<a rel="noopener noreferrer nofollow" href="https://www.linkedin.com/feed/update/urn:li:activity:7128668518480318464/" class="isomer-card">
-<div class="isomer-card-image">
+<h4>Digital Government Exchange (DGX)</h4>
+<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="GovTech participated in the Smart City Expo World Congress 2023 in Barcelona" src="/images/Products and Services/Collaborate with us/Int_collab_card_2_600x300.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="GovTech collaborates with The World Bank to organise Digital Government Exchange." src="/images/Products and Services/Collaborate with us/card_1__resized_.jpg">
 </div>
+<p>The Digital Government Exchange (DGX) is an annual global gathering of
+Government Chief Information Officers (CIOs) and public sector leaders
+from jurisdictions that have made significant progress in digital government.
+Organised by Singapore’s Smart Nation and Digital Government Group since
+2016, DGX is a one-of-its-kind international platform that has developed
+a community of like-minded leaders who can engage in information exchange,
+sharing of experiences, and mutual learning, while exploring future collaboration
+opportunities.</p>
+<p>Past participants involved representatives from government bodies as well
+as multilateral institutions. They include Australia, Canada, China (Shanghai),
+Denmark, Estonia, Finland, France, Israel, Japan, New Zealand, the Netherlands
+(Amsterdam), Sweden, the United Kingdom (UK), the United States (USA),
+the United Nations (UN), the World Economic Forum (WEF) and the World Bank.</p>
+<p>The ninth edition of DGX serves as a significant annual international
+gathering of Government Chief Information Officers (CIOs) and public sector
+leaders from advanced economies, including Australia, the Netherlands (Amsterdam),
+Canada, China (Shanghai), Denmark, Estonia, Finland, France, Israel, Japan,
+New Zealand, Sweden, the United Kingdom (UK), and the U.S. (New York).
+This event offers a platform for participating governments to exchange
+insights and experiences related to their digital government initiatives
+in their respective countries.</p>
+<p>For more information, check out how <a href="https://blogs.worldbank.org/en/governance/dgx-bringing-govtech-community-together?trk=public_post_main-feed-card_feed-article-content" rel="noopener noreferrer nofollow" target="_blank">DGX is bringing the GovTech Community together</a>.</p>
+<h4>Smart City Expo World Congress 2023</h4>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="GovTech participated in the Smart City Expo World Congress 2023 in Barcelona." src="/images/Products and Services/Collaborate with us/card_2__resized_.jpg">
 </div>
-<div class="isomer-card-body">
-<div class="isomer-card-title">Smart City Expo World Congress 2023</div>
-<div class="isomer-card-description">Representing Singapore, we showcased our projects on Open-Robotics Middle
-Framework, wireless Alert Alarm System and remote photoplethysmography.</div>
-<div class="isomer-card-link">Read LinkedIn post</div>
-</div>
-</a>
-</div>
+<p>Our team from the <a href="/our-capabilities/smart-city-technology/" rel="noopener noreferrer nofollow" target="_blank">Smart City Technology Division</a>,
+in collaboration with JTC Corporation and ST Engineering, represented Singapore
+at the prestigious Smart City Expo World Congress (SCEWC). This event,
+recognised as the largest and most influential gathering on urban innovation,
+connects leaders from the most forward-thinking companies, governments,
+and organisations to drive the future of urban living.</p>
+<p><strong>Highlighting Singapore’s digital ambitions</strong>
+</p>
+<p>At the expo, the team showcased several groundbreaking projects that underline
+Singapore's commitment to digital advancement:</p>
+<p>1. <strong>Transforming urban living with Open-Robotics Middle Framework (Open-RMF):</strong>
+</p>
+<p>Open-RMF facilitates seamless interactions between robots and building
+systems. By ensuring that robots can effectively coordinate with elements
+like lifts, turnstiles, and doors, this technology prevents conflicts between
+different robot fleets and enhances the integration of robotics in daily
+urban life.</p>
+<p>2. <strong>Tech-Enabled Assisted Living:</strong>
+</p>
+<ul data-tight="true" class="tight">
+<li>
+<p><strong>Government Assisted Living Ecosystem (GALE): </strong>GALE offers
+a comprehensive health monitoring solution for seniors, allowing them to
+enjoy peace of mind while living independently at home. This system is
+designed to support the elderly by providing convenient health tracking.</p>
+</li>
+<li>
+<p><strong>Wireless Alert Alarm System (AAS): </strong>The AAS provides a
+critical support system for seniors living alone in public rental flats.
+With Personal Alert Buttons (PABs), elderly residents can easily signal
+for help from Senior Activity Centres (SAC) and tele-care operators during
+emergencies. This initiative addresses the challenges of an ageing population
+by optimizing tech solutions for elderly care.</p>
+</li>
+</ul>
+<p>3. <strong>Tech-Enabled Assisted Living with the Sensei Care Kit:</strong>
+</p>
+<p>This innovative care kit integrates various health monitoring devices,
+such as blood pressure monitors and weight scales, allowing seniors to
+comprehensively track their health from the comfort of their homes.</p>
+<p>4. <strong>Tech-Enhanced Healthcare with Remote Photoplethysmography (rPPG):</strong>
+</p>
+<p>GovTech is exploring the potential of rPPG technology to monitor vital
+signs like heart rate and respiratory rate remotely. This cutting-edge
+technology could significantly improve the early detection and treatment
+of health issues, contributing to better healthcare outcomes in the future.</p>
+<p>These initiatives not only demonstrate Singapore’s advancements in smart
+city technologies but also reflect a commitment to enhancing the quality
+of life for its citizens through innovative solutions. The participation
+at SCEWC underscores Singapore's role as a leader in urban innovation,
+striving to create a smarter and more connected urban environment.</p>
+<p>For more information, check out GovTech's <a href="https://www.linkedin.com/feed/update/urn:li:activity:7128668518480318464/" rel="noopener noreferrer nofollow" target="_blank">LinkedIn post</a>.</p>
 <p></p>
 <div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="mailto:info@tech.gov.sg" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Collaborate with GovTech" src="/images/CTA card images/Ready_to_Collaborate.png"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Interested in collaborating with us?</div><div class="isomer-card-description">Reach out directly to us via email</div><div class="isomer-card-link">info@tech.gov.sg</div></div></a>
 </div>
