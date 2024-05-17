@@ -76,17 +76,20 @@ innovation.</div>
 </div>
 </div>
 <h3>Opportunities for FY2024</h3>
+<p></p>
 <div class="iframe-wrapper">
 <iframe style="max-width: 100%;" height="400" width="100%" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/aEgsYHFy1CQ?si=TfUuB9QYK6DrW71K"></iframe>
 </div>
+<p><a href="/files/media/Events/industry_engagement_2024_opening_address.pdf" rel="noopener noreferrer nofollow" target="_blank">GovTech Industry Engagement 2024 Opening Address</a>
+</p>
+<p></p>
 <p>The government will spend an estimated $3.36 billion on government info-communication
 technology (ICT) procurement opportunities in FY24 to modernise ICT infrastructure
 and develop digital services.</p>
 <p>This amount will be spent on 89 projects where 35% of the budget is catered
 towards Application projects while 65% of the budget is allocated to Infrastructure
 projects.</p>
-<p><a href="/files/media/Events/industry_engagement_2024_opening_address.pdf" rel="noopener noreferrer nofollow" target="_blank">GovTech Industry Engagement 2024 Opening Address</a>
-</p>
+<p></p>
 <p>For the full list of current partnership opportunities and open tenders,
 visit <a href="https://www.gebiz.gov.sg/" rel="noopener noreferrer nofollow" target="_blank"><u>GeBIZ</u></a>.</p>
 <p></p>
@@ -163,12 +166,10 @@ and private sector strengths for advancing Smart Nation initiatives.</p>
 </div>
 <p></p>
 <p>For more details, refer to the <a href="/media/media-releases/fy24-government-to-spend-more-than-3b-to-modernise-ict-infrastructure-and-develop-digital-services/" rel="noopener noreferrer nofollow" target="_blank">FY24 Industry Engagement media release</a>.</p>
+<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="Collaborate with GovTech" src="/images/Products and Services/Collaborate with us/industry_collaboration_infographic.jpg">
 </div>
-<h3>How to start collaborating with GovTech?</h3>
-<p>Have an enquiry or a proactive proposal that will drive our Smart Nation
-efforts? Reach out to us at <a href="mailto:govtech_sipeo@tech.gov.sg" rel="noopener noreferrer nofollow" target="_blank"><u>govtech_sipeo@tech.gov.sg</u></a>.</p>
 <h3>Event collaborations</h3>
 <p>At GovTech, we believe that public-private events will help spur the generation
 of new ideas, which are the precursors to truly innovative solutions. Here
@@ -188,7 +189,7 @@ AI Bootcamp for the upskilling of over 1,400 public officers.</div>
 </div>
 </a>
 </div>
-<p></p>
-<div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="mailto:info@tech.gov.sg" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Collaborate with GovTech" src="/images/CTA card images/Ready_to_Collaborate.png"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Ready to collaborate?</div><div class="isomer-card-description">Get in touch with us today to explore ways we can work together</div><div class="isomer-card-link">info@tech.gov.sg</div></div></a>
+<h3>How to start collaborating with GovTech?</h3>
+<div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="mailto:govtech_sipeo@tech.gov.sg" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Collaborate with GovTech" src="/images/CTA card images/Ready_to_Collaborate.png"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Ready to collaborate?</div><div class="isomer-card-description">Get in touch with us today to explore ways we can work together</div><div class="isomer-card-link">govtech_sipeo@tech.gov.sg</div></div></a>
 </div>
 <p></p>
