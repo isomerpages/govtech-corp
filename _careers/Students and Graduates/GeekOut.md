@@ -10,7 +10,7 @@ image: /images/careers/Geekout_Participants__1__compressed.jpg
 <h2>Uniting young tech enthusiasts at GeekOut!</h2>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="GovTech's GeekOut, a tech bootcamp for students in Singapore" src="/images/careers/Geekout_Group_Photo.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="GovTech's GeekOut, a tech bootcamp for students in Singapore" src="/images/careers/Geekout_1690x800.jpg">
 </div>
 <p>Imagine a tech boot camp in Singapore that allows you to get hands-on
 with the government's key technology offerings. That's GeekOut! Held every
