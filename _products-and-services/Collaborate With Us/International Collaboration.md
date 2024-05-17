@@ -48,7 +48,7 @@ at platforms such as the World Economic Forum.</p>
 </summary>
 <div data-type="detailsContent" class="isomer-details-content">
 <p>Offering detailed information on our products, solutions and guidelines.
-Check out</p>
+Check out the <a href="https://www.developer.tech.gov.sg/" rel="noopener noreferrer nofollow" target="_blank">Singapore Government Developer Portal</a>.</p>
 </div>
 </details>
 </div>
