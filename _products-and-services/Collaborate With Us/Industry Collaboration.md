@@ -86,6 +86,8 @@ and develop digital services.</p>
 <p>This amount will be spent on 89 projects where 35% of the budget is catered
 towards Application projects while 65% of the budget is allocated to Infrastructure
 projects.</p>
+<p>For the full list of current partnership opportunities and open tenders,
+visit <a href="https://www.gebiz.gov.sg/" rel="noopener noreferrer nofollow" target="_blank"><u>GeBIZ</u></a>.</p>
 <p></p>
 <div data-type="detailGroup" class="isomer-accordion isomer-accordion-white">
 <details class="isomer-details">
@@ -162,8 +164,6 @@ and private sector strengths for advancing Smart Nation initiatives.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="Collaborate with GovTech" src="/images/Products and Services/Collaborate with us/industry_collaboration_infographic.jpg">
 </div>
-<p>For the full list of current partnership opportunities and open tenders,
-visit <a href="https://www.gebiz.gov.sg/" rel="noopener noreferrer nofollow" target="_blank"><u>GeBIZ</u></a>.</p>
 <h3>How to start collaborating with GovTech?</h3>
 <p>Have an enquiry or a proactive proposal that will drive our Smart Nation
 efforts? Reach out to us at <a href="mailto:govtech_sipeo@tech.gov.sg" rel="noopener noreferrer nofollow" target="_blank"><u>govtech_sipeo@tech.gov.sg</u></a>.</p>
