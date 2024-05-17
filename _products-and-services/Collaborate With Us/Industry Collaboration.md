@@ -77,10 +77,9 @@ innovation.</div>
 </div>
 <h3>Opportunities for FY2024</h3>
 <p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="GovTech CEO presenting at the Industry Engagement 2024" src="/images/Products and Services/Collaborate with us/IE_191_compressed.jpg">
+<div class="iframe-wrapper">
+<iframe style="max-width: 100%;" height="400" width="100%" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/aEgsYHFy1CQ?si=TfUuB9QYK6DrW71K"></iframe>
 </div>
-<p>(To include opening video from IE2024 slide deck)</p>
 <p>The government will spend an estimated $3.36 billion on government info-communication
 technology (ICT) procurement opportunities in FY24 to modernise ICT infrastructure
 and develop digital services.</p>
