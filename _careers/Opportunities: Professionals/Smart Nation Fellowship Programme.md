@@ -69,6 +69,6 @@ knowing that my research project has the potential to benefit society.”</p>
 </blockquote>
 <p>~ Goh Siew Hong, GovTech</p>
 <p></p>
-<div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="mailto:smartnationtechcareers@pmo.gov.sg" class="isomer-card"><div class="isomer-card-body"><div class="isomer-card-title">Interested in becoming a Smart Nation Fellow?</div><div class="isomer-card-description">Reach out to us directly at smartnationtechcareers@pmo.gov.sg to find out more about the programme.</div><div class="isomer-card-link">smartnationtechcareers@pmo.gov.sg</div></div></a>
+<div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="mailto:smartnationtechcareers@pmo.gov.sg" class="isomer-card"><div class="isomer-card-body"><div class="isomer-card-title">Interested in becoming a Smart Nation Fellow?</div><div class="isomer-card-description">Reach out to us directly via email to find out more about the programme.</div><div class="isomer-card-link">smartnationtechcareers@pmo.gov.sg</div></div></a>
 </div>
 <p></p>
