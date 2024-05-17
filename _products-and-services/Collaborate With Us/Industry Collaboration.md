@@ -14,9 +14,26 @@ image: /images/Products and Services/Collaborate with
 for citizens, businesses and government agencies. To do this, we're always
 open to collaborating with industry stakeholders and researchers who share
 a common goal of realising Singapore's Smart Nation ambitions.</p>
-<p>Whether it is through technology partnerships or hosting events, we aim
-to share our knowledge with as well as learn from our collaborators, so
-that together we can raise the nation's collective digital capability.</p>
+<p>Whether it is through technology partnerships or hosting events, we invite
+industry partners to <em>#TechWithUs </em>by:</p>
+<ul data-tight="true" class="tight">
+<li>
+<p><strong>Deepening engagements</strong> - Develop mutual understanding of
+industry solutions and Government-specific domains, while leveraging reusable
+Government platforms such as the <a href="/products-and-services/for-government-agencies/software-development/sg-tech-stack/" rel="noopener noreferrer nofollow" target="_blank">SG Tech Stack</a>
+</p>
+</li>
+<li>
+<p><strong>Refining processes</strong> - Experiment, iterate, and welcome
+feedback on initiatives such as IM8 and procurement processes</p>
+</li>
+<li>
+<p><strong>Sharing best practices</strong> - Share best practices on project
+management and problem solving through collaborations such as hackathons
+(e.g. <a href="/products-and-services/for-government-agencies/productivity-and-marketing/launchpad/" rel="noopener noreferrer nofollow" target="_blank">LAUNCH! hackathon</a>),
+workshops, and meet-ups (e.g. <a href="/get-involved/join-our-communities/stack-community/" rel="noopener noreferrer nofollow" target="_blank">STACK community events</a>)</p>
+</li>
+</ul>
 <p></p>
 <blockquote>
 <p>The dynamic nature of today’s technological and social landscape requires
@@ -75,6 +92,7 @@ innovation.</div>
 </div>
 </div>
 </div>
+<p></p>
 <h3>Opportunities for FY2024</h3>
 <p></p>
 <div class="iframe-wrapper">
@@ -89,7 +107,6 @@ and develop digital services.</p>
 <p>This amount will be spent on 89 projects where 35% of the budget is catered
 towards Application projects while 65% of the budget is allocated to Infrastructure
 projects.</p>
-<p></p>
 <p>For the full list of current partnership opportunities and open tenders,
 visit <a href="https://www.gebiz.gov.sg/" rel="noopener noreferrer nofollow" target="_blank"><u>GeBIZ</u></a>.</p>
 <p></p>
