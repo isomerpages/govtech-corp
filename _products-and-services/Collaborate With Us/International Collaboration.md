@@ -114,6 +114,7 @@ urban life.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="GovTech leader presenting on the Wireless Alert Alarm System (AAS)" src="/images/Products and Services/Collaborate with us/f4b_copy_resized.jpg">
 </div>
+<p></p>
 <ul data-tight="true" class="tight">
 <li>
 <p><strong><a href="/products-and-services/for-citizens/smart-city-tech/" rel="noopener noreferrer nofollow" target="_blank">Government Assisted Living Ecosystem (GALE)</a>: </strong>GALE
