@@ -161,7 +161,7 @@ and private sector strengths for advancing Smart Nation initiatives.</p>
 </details>
 </div>
 <p></p>
-<p>For more details, refer to the FY24 Industry Engagement media release.</p>
+<p>For more details, refer to the <a href="/media/media-releases/fy24-government-to-spend-more-than-3b-to-modernise-ict-infrastructure-and-develop-digital-services/" rel="noopener noreferrer nofollow" target="_blank">FY24 Industry Engagement media release</a>.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="Collaborate with GovTech" src="/images/Products and Services/Collaborate with us/industry_collaboration_infographic.jpg">
 </div>
