@@ -206,6 +206,24 @@ AI Bootcamp for the upskilling of over 1,400 public officers.</div>
 </div>
 </a>
 </div>
+<p></p>
+<div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="https://www.smartnation.gov.sg/media-hub/press-releases/24072023/" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="GovTech collaborated with Google Cloud for AI Trailblazers" src="/images/Products and Services/Collaborate with us/AI_Trailblazers.jpg"></div></div><div class="isomer-card-body"><div class="isomer-card-title">AI Trailblazers</div><div class="isomer-card-description">The AI Trailblazers initiative is another example of successful private-public partnerships, where public officers can leverage Google Cloud's AI tools and resources to gain certifications for their AI skills and create minimum viable products for their agencies' use cases. </div><div class="isomer-card-link">Read more on AI Trailblazers</div></div></a>
+<a rel="noopener noreferrer nofollow" href="/products-and-services/for-government-agencies/productivity-and-marketing/launchpad/" class="isomer-card">
+<div class="isomer-card-image">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="LAUNCH! Innovation Programme - Ideathons and Hackathons" src="/images/Products and Services/For Government Agencies/Launch_hackathon_logo_845x200.png">
+</div>
+</div>
+<div class="isomer-card-body">
+<div class="isomer-card-title">LAUNCH! Innovation Programme</div>
+<div class="isomer-card-description">In partnership with Microsoft, AWS, and Databricks, LAUNCH! offers public
+officers a platform to use hackathons as a means to collaborate and bring
+ideas to life. Successful proofs of concept (POCs) will be given support
+to scale and partner with industry experts for deployment.</div>
+<div class="isomer-card-link">Find out more about LAUNCH!</div>
+</div>
+</a>
+</div>
 <h3>How to start collaborating with GovTech?</h3>
 <div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="mailto:govtech_sipeo@tech.gov.sg" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Collaborate with GovTech" src="/images/CTA card images/Ready_to_Collaborate.png"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Ready to collaborate?</div><div class="isomer-card-description">Get in touch with us today to explore ways we can work together</div><div class="isomer-card-link">govtech_sipeo@tech.gov.sg</div></div></a>
 </div>
