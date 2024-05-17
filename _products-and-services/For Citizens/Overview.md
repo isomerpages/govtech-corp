@@ -17,11 +17,11 @@ Singapore's plans to become a Smart Nation. Our efforts have led to the
 advent of powerful yet easy-to-use services such as Singpass, SGFinDex,
 and GoWhere, all aimed at improving the lives of citizens.</p>
 <h3>Explore our range of citizen services</h3>
-<div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="/products-and-services/for-citizens/digital-services/" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Digital Services" src="/images/Products and Services/Product overview card images/Digital_Services.png"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Digital Services</div><div class="isomer-card-description">Our array of digital services provides coverage across different stages of life to ensure our citizens are fully supported every step of the way.</div><div class="isomer-card-link">Find out more</div></div></a>
+<div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="/products-and-services/for-citizens/digital-services/" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="GovTech's digital services for citizens are convenient to use" src="/images/Products and Services/Product overview card images/Digital_Services.png"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Digital Services</div><div class="isomer-card-description">Our array of digital services provides coverage across different stages of life to ensure our citizens are fully supported every step of the way.</div><div class="isomer-card-link">Find out more</div></div></a>
 <a rel="noopener noreferrer nofollow" href="/products-and-services/for-citizens/smart-city-tech/" class="isomer-card">
 <div class="isomer-card-image">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Smart City Tech" src="/images/Products and Services/Product overview card images/Smart_City_Tech.png">
+<img style="width: 100%" height="auto" width="100%" alt="Improving Singaporeans' quality of life through smart city technology." src="/images/Products and Services/Product overview card images/Smart_City_Tech.png">
 </div>
 </div>
 <div class="isomer-card-body">
@@ -30,14 +30,14 @@ and GoWhere, all aimed at improving the lives of citizens.</p>
 senior citizens live independent lives through assistive solutions.</div>
 <div class="isomer-card-link">Find out more</div>
 </div>
-</a><a rel="noopener noreferrer nofollow" href="/products-and-services/for-citizens/directories-and-distribution/" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Directories and Distribution" src="/images/Products and Services/Product overview card images/Directories_and_Distribution.png"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Directories and Distribution</div><div class="isomer-card-description">These services make checking resource distribution campaigns and receiving government payouts easy.</div><div class="isomer-card-link">Find out more</div></div></a>
+</a><a rel="noopener noreferrer nofollow" href="/products-and-services/for-citizens/directories-and-distribution/" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="GovTech's directories and distribution services include GovWallet and GoWhere." src="/images/Products and Services/Product overview card images/Directories_and_Distribution.png"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Directories and Distribution</div><div class="isomer-card-description">These services make checking resource distribution campaigns and receiving government payouts easy.</div><div class="isomer-card-link">Find out more</div></div></a>
 </div>
 <p></p>
-<div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="/products-and-services/for-citizens/digital-storage-and-verification/" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Digital Storage and Verification" src="/images/Products and Services/Product overview card images/Digital_Storage_and_Verification.png"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Digital Storage and Verification</div><div class="isomer-card-description">Centralising the management of government-issued documents with FileSG.</div><div class="isomer-card-link">Find out more</div></div></a>
+<div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="/products-and-services/for-citizens/digital-storage-and-verification/" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="GovTech's digital storage and verification services —  FileSG" src="/images/Products and Services/Product overview card images/Digital_Storage_and_Verification.png"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Digital Storage and Verification</div><div class="isomer-card-description">Centralising the management of government-issued documents with FileSG.</div><div class="isomer-card-link">Find out more</div></div></a>
 <a rel="noopener noreferrer nofollow" href="/products-and-services/for-citizens/education/" class="isomer-card">
 <div class="isomer-card-image">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Education" src="/images/Products and Services/Product overview card images/Education.png">
+<img style="width: 100%" height="auto" width="100%" alt="Parents Gateway digitalises processes in the educational sector and strengthens school-home partnerships" src="/images/Products and Services/Product overview card images/Education.png">
 </div>
 </div>
 <div class="isomer-card-body">
@@ -46,14 +46,14 @@ senior citizens live independent lives through assistive solutions.</div>
 partnerships with Parents Gateway.</div>
 <div class="isomer-card-link">Find out more</div>
 </div>
-</a><a rel="noopener noreferrer nofollow" href="/products-and-services/for-citizens/employment/" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Employment" src="/images/Products and Services/Product overview card images/Employment.png"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Employment</div><div class="isomer-card-description">Powered by artificial intelligence and data science, MyCareersFuture is a one-stop job portal that seeks to empower job seekers.</div><div class="isomer-card-link">Find out more</div></div></a>
+</a><a rel="noopener noreferrer nofollow" href="/products-and-services/for-citizens/employment/" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="MyCareersFuture is an online government career portal that enhances the job search process." src="/images/Products and Services/Product overview card images/Employment.png"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Employment</div><div class="isomer-card-description">Powered by artificial intelligence and data science, MyCareersFuture is a one-stop job portal that seeks to empower job seekers.</div><div class="isomer-card-link">Find out more</div></div></a>
 </div>
 <p></p>
-<div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="/products-and-services/for-citizens/health/" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Health" src="/images/Products and Services/Product overview card images/Health.png"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Health</div><div class="isomer-card-description">Healthy 365 makes the pursuit of health fun and rewarding through gamification.</div><div class="isomer-card-link">Find out more</div></div></a>
+<div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="/products-and-services/for-citizens/health/" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Healthy 365 makes leading an active lifestyle fun and rewarding." src="/images/Products and Services/Product overview card images/Health.png"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Health</div><div class="isomer-card-description">Healthy 365 makes the pursuit of health fun and rewarding through gamification.</div><div class="isomer-card-link">Find out more</div></div></a>
 <a rel="noopener noreferrer nofollow" href="/products-and-services/for-citizens/environment/" class="isomer-card">
 <div class="isomer-card-image">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Environment" src="/images/Products and Services/Product overview card images/Environment.png">
+<img style="width: 100%" height="auto" width="100%" alt="GovTech's Environment solutions provide environment-related data and information on Singapore's trees." src="/images/Products and Services/Product overview card images/Environment.png">
 </div>
 </div>
 <div class="isomer-card-body">
@@ -63,6 +63,6 @@ weather forecasts to PSI readings and food recalls, to citizens in real
 time.</div>
 <div class="isomer-card-link">Find out more</div>
 </div>
-</a><a rel="noopener noreferrer nofollow" href="/products-and-services/for-citizens/crowdsourcing/" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Crowdsourcing" src="/images/Products and Services/Product overview card images/Crowdsourcing.png"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Crowdsourcing</div><div class="isomer-card-description">Harnessing the collective intelligence of Singaporeans in a collaborative effort through crowdsourcing platforms.</div><div class="isomer-card-link">Find out more</div></div></a>
+</a><a rel="noopener noreferrer nofollow" href="/products-and-services/for-citizens/crowdsourcing/" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="GovTech's Crowdsourcing solutions include CrowdTaskSG and the Vulnerability Disclosure Programme." src="/images/Products and Services/Product overview card images/Crowdsourcing.png"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Crowdsourcing</div><div class="isomer-card-description">Harnessing the collective intelligence of Singaporeans in a collaborative effort through crowdsourcing platforms.</div><div class="isomer-card-link">Find out more</div></div></a>
 </div>
 <p></p>
