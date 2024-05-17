@@ -87,8 +87,13 @@ interface EXchange), a secure catalogue of all APIs across the government.</div>
 <img style="width: 100%" height="auto" width="100%" alt="Official GovTech blogs from the different divisions." src="/images/About Us/Our capabilities/GovTech_blogs.png">
 </div>
 <p></p>
-<div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="/get-involved/stay-informed/" class="isomer-card"><div class="isomer-card-body"><div class="isomer-card-title">See our latest projects and learn about their development on our Medium blog</div><div class="isomer-card-link">Read more on our Medium blogs</div></div></a>
+<div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="/get-involved/stay-informed/" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="See our latest projects and learn about their development on our Medium blog" src="/images/CTA card images/Visit_the_product_website.png"></div></div><div class="isomer-card-body"><div class="isomer-card-title">See our latest projects and learn about their development on our Medium blog</div><div class="isomer-card-link">Read more on our Medium blogs</div></div></a>
 <a rel="noopener noreferrer nofollow" href="https://www.developer.tech.gov.sg/products/all-products/" class="isomer-card">
+<div class="isomer-card-image">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Discover our solutions on the Singapore Government Development Portal (SGDP)" src="/images/CTA card images/Visit_the_SGDP_Portal.png">
+</div>
+</div>
 <div class="isomer-card-body">
 <div class="isomer-card-title">Discover our solutions on the Singapore Government Development Portal
 (SGDP)</div>
