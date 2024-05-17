@@ -11,7 +11,7 @@ image: /images/careers/Smart_Nation_Scholarship_meta_image_compressed.jpg
 <h2>Propelling Singapore’s digital transformation</h2>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Advance your potential and shape the future of Singapore with the smart nation scholarship" src="/images/careers/Smart_Nation_Scholarship_banner_image.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="Advance your potential and shape the future of Singapore with the smart nation scholarship" src="/images/careers/Smart_Nation_Scholarship_1690x800.jpg">
 </div>
 <p>Singapore has set its sights on becoming a Smart Nation. This has engendered
 a need for skilled talents who dare to dream big and desire to co-create
