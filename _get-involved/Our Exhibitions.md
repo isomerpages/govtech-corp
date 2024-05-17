@@ -53,18 +53,15 @@ with you in mind.</div>
 </div>
 </div>
 </div>
-<h3>Visitor Information</h3>
+<h4>Visitor Information</h4>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Learn about the latest technologies and upcoming developments to transform SG into a smart nation" src="/images/Get Involved/Smart_Nation_CityScape.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="Learn about the latest technologies and upcoming developments to transform SG into a smart nation" src="/images/Get Involved/Visitor_info_1_1690x800.jpg">
 </div>
-<p></p>
-<blockquote>
 <p>Open from Mondays to Saturdays, 9am to 5pm at:</p>
 <p>45 Maxwell Road
 <br>The URA Centre
 <br>Singapore 069118</p>
-</blockquote>
 <p><a href="https://www.eventbrite.com/e/guided-tour-of-smart-nation-cityscape-tickets-316263240867" rel="noopener noreferrer nofollow" target="_blank">Find tours for Smart Nation Cityscape here</a>.</p>
 <p>Smart Nation CityScape: <a href="https://www.smartnation.gov.sg/files/publications/sn_cityscape_visitor's_guide.pdf" rel="noopener noreferrer nofollow" target="_blank">Visitor Guide</a>
 </p>
@@ -103,18 +100,15 @@ for both the young and old to learn more about tech and our Smart Nation.</div>
 </div>
 </div>
 </div>
-<h3>Visitor Information</h3>
+<h4>Visitor Information</h4>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Smart Nation playscape exhibition at Science Centre" src="/images/Get Involved/Smart_nation_playscape_exhibition.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="Smart Nation playscape exhibition at Science Centre" src="/images/Get Involved/Visitor_info_2_1690x800.jpg">
 </div>
-<p></p>
-<blockquote>
 <p>Open from Tuesdays to Sundays, 10am to 5pm at:</p>
 <p>Science Centre Singapore
 <br>15 Science Centre Road
 <br>Singapore 609081</p>
-</blockquote>
 <p><a href="https://www.smartnation.gov.sg/files/publications/playscape_pamphlet.pdf" rel="noopener noreferrer nofollow" target="_blank">Download</a> guide
 for Smart Nation PlayScape.</p>
 <p><a href="https://www.gevme.com/scsonlinetickets" rel="noopener noreferrer nofollow" target="_blank">Buy tickets</a> for
