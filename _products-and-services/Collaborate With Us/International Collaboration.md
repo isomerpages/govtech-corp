@@ -101,6 +101,10 @@ and organisations to drive the future of urban living.</p>
 Singapore's commitment to digital advancement:</p>
 <p>1. <strong>Transforming urban living with Open-Robotics Middle Framework (Open-RMF):</strong>
 </p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Transforming urban living with Open-Robotics Middle Framework (Open-RMF). GovTech leader giving a presentation" src="/images/Products and Services/Collaborate with us/f3_copy_resized.jpg">
+</div>
 <p>Open-RMF facilitates seamless interactions between robots and building
 systems. By ensuring that robots can effectively coordinate with elements
 like lifts, turnstiles, and doors, this technology prevents conflicts between
