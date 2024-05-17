@@ -110,10 +110,10 @@ urban life.</p>
 </p>
 <ul data-tight="true" class="tight">
 <li>
-<p><strong>Government Assisted Living Ecosystem (GALE): </strong>GALE offers
-a comprehensive health monitoring solution for seniors, allowing them to
-enjoy peace of mind while living independently at home. This system is
-designed to support the elderly by providing convenient health tracking.</p>
+<p><strong><a href="/products-and-services/for-citizens/smart-city-tech/" rel="noopener noreferrer nofollow" target="_blank">Government Assisted Living Ecosystem (GALE)</a>: </strong>GALE
+offers a comprehensive health monitoring solution for seniors, allowing
+them to enjoy peace of mind while living independently at home. This system
+is designed to support the elderly by providing convenient health tracking.</p>
 </li>
 <li>
 <p><strong>Wireless Alert Alarm System (AAS): </strong>The AAS provides a
