@@ -13,7 +13,9 @@ variant: tiptap
 <p>Keynote Address By Deputy Prime Minister / Minister for Finance Tharman
 Shanmugaratnam, at The eGov Global Exchange 2013 on 17 June 2013, at the
 Marina Bay Sands Expo and Convention Centre</p>
-<p>&gt; "Open Data: Co-Creating a Better Future"</p>
+<blockquote>
+<p>"Open Data: Co-Creating a Better Future"</p>
+</blockquote>
 <p>Excellencies, Distinguished Guests, Colleagues, Ladies and Gentlemen,</p>
 <p>Welcome</p>
 <ul data-tight="true" class="tight">
