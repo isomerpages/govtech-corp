@@ -9,16 +9,15 @@ description: Past IDA brochures of the Infocomm Development Authority (IDA), a
 image: ""
 variant: tiptap
 ---
-### **2012 - Corporate Brochure**
-
-[Towards an Exciting Infocomm Future]({{"/files/media/corporate-publications/2018/01/IDA_CorpBrochure_2012.pdf" | absolute_url}}){:target="_blank"}
-
-### **2010 - Collaborating Towards An Exciting Infocomm Future**
-
-[English Version]({{"/files/media/corporate-publications/2018/01/IDA_CorpBro2010.pdf" | absolute_url}}){:target="_blank"}
-
-### **2007 - Your Partner For The Infocomm Future**
-
-[English Version]({{"/files/media/corporate-publications/2018/01/IDABrochureEN.pdf" | absolute_url}}){:target="_blank"}
-
-[Chinese Version]({{"/files/media/corporate-publications/2018/01/IDABrochureCN.pdf" | absolute_url}}){:target="_blank"}
+<h3>2012 - Corporate Brochure</h3>
+<p><a href="/files/media/Reports/IDA_CorpBrochure_2012.pdf" rel="noopener noreferrer nofollow" target="_blank">Towards an Exciting Infocomm Future</a>
+</p>
+<h3>2010 - Collaborating Towards An Exciting Infocomm Future</h3>
+<p><a href="/files/media/Reports/IDA_CorpBro2010.pdf" rel="noopener noreferrer nofollow" target="_blank">Collaborating Towards An Exciting Infocomm Future</a>
+</p>
+<h3>2007 - Your Partner For The Infocomm Future</h3>
+<p><a href="/files/media/Reports/IDABrochureEN_2007.pdf" rel="noopener noreferrer nofollow" target="_blank">Your Partner For The Infocomm Future - English version</a>
+</p>
+<p><a href="/files/media/Reports/IDABrochureCN_2007.pdf" rel="noopener noreferrer nofollow" target="_blank">Your Partner For The Infocomm Future - Chinese version</a>
+</p>
+<p></p>
