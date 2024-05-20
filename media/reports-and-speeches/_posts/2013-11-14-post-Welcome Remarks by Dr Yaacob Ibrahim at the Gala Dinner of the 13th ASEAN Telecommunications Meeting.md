@@ -13,12 +13,12 @@ variant: tiptap
 Information (Singapore), at the Gala Dinner of the 13th Asean Telecommunications
 and IT Ministers Meeting and the 2nd ASEAN ICT Awards, 14 November 2013,
 7.40pm, Gardens by the Bay</p>
-<p>Honourable Ministers</p>
-<p>ASEAN Secretary General, Le Luong Minh</p>
-<p>ITU Secretary-General Dr Hamadoun Touré</p>
-<p>Excellencies</p>
-<p>Distinguished Guests</p>
-<p>Ladies and Gentlemen</p>
+<p>Honourable Ministers
+<br>ASEAN Secretary General, Le Luong Minh
+<br>ITU Secretary-General Dr Hamadoun Touré
+<br>Excellencies
+<br>Distinguished Guests
+<br>Ladies and Gentlemen</p>
 <p>Good Evening.</p>
 <ul data-tight="true" class="tight">
 <li>
