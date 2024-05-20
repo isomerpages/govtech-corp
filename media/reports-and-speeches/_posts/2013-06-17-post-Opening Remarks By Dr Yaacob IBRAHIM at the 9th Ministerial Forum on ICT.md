@@ -11,7 +11,7 @@ variant: tiptap
 ---
 <p>Opening Remarks By Dr Yaacob IBRAHIM, Minister for Communications and
 Information, at the 9th Ministerial Forum on ICT, 17 June 2013, 10.30am
-at Jasmine Room, Level 3, Marina Bay Sands Expo and Convention Centre</p>
+at Jasmine Room, Level 3, Marina Bay Sands Expo and Convention Centre.</p>
 <p>&gt; Shaping the Future through ICT</p>
 <p>Honourable Ministers, Excellencies, Distinguished Guests, Ladies and Gentlemen,
 Good Morning.</p>
