@@ -228,12 +228,16 @@ here at the exchange.</p>
 <h4>Notes to Editor:</h4>
 <p><sup>[1]</sup>  <a href="/files/media/Reports/Waseda_University_International_e_Government_Ranking_2013_.pdf" rel="noopener noreferrer nofollow" target="_blank">Waseda University International e-Government Ranking 2013</a>
 </p>
-<p><sup>[2]</sup> ,</p>
-<p><sup>[2]</sup> ,</p>
-<p><sup>[2]</sup> ,</p>
-<p><sup>[2]</sup>
+<p><sup>[2]</sup>  <a href="http://www3.weforum.org/docs/WEF_GITR_Report_2010.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>http://www3.weforum.org/docs/WEF_GITR_Report_2010.pdf</u></a>
+</p>
+<p><sup>[2]</sup>  <a href="http://www3.weforum.org/docs/WEF_GITR_Report_2011.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>http://www3.weforum.org/docs/WEF_GITR_Report_2011.pdf</u></a>
+</p>
+<p><sup>[2]</sup>  <a href="http://www3.weforum.org/docs/Global_IT_Report_2012.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>http://www3.weforum.org/docs/Global_IT_Report_2012.pdf</u></a>
+</p>
+<p><sup>[2] </sup><a href="http://www3.weforum.org/docs/GITR/2013/GITR_OverallRankings_2013.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>http://www3.weforum.org/docs/GITR/2013/GITR_OverallRankings_2013.pdf</u></a>
 </p>
 <p><sup>[3]</sup> Annual Survey on Infocomm Industry 2012</p>
 <p><sup>[4]</sup> Annual Survey on Infocomm Manpower 2012</p>
-<p><sup>[5]</sup>
+<p><sup>[5] </sup><a href="http://www.ida.gov.sg/Infocomm-Landscape/Facts-and-Figures/Telecommunications/Statistics-on-Telecom-Services/Statistics-on-Telecom-Services-for-2013-Jan-Jun" rel="noopener noreferrer nofollow" target="_blank"><u>http://www.ida.gov.sg/Infocomm-Landscape/Facts-and-Figures/Telecommunications/Statistics-on-Telecom-Services/Statistics-on-Telecom-Services-for-2013-Jan-Jun</u></a>
 </p>
+<p></p>
