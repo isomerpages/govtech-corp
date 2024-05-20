@@ -98,7 +98,8 @@ and organisations to drive the future of urban living.</p>
 <p>At the expo, the team showcased several groundbreaking projects that underline
 Singapore's commitment to digital advancements. Learn more about these
 projects below.</p>
-<h4>1. Transforming urban living with Open-Robotics Middle Framework (Open-RMF):</h4>
+<p><strong>1. Transforming urban living with Open-Robotics Middle Framework (Open-RMF)</strong>
+</p>
 <p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="Transforming urban living with Open-Robotics Middle Framework (Open-RMF). GovTech leader giving a presentation" src="/images/Products and Services/Collaborate with us/f3_copy_resized.jpg">
@@ -108,7 +109,8 @@ systems. By ensuring that robots can effectively coordinate with elements
 like lifts, turnstiles, and doors, this technology prevents conflicts between
 different robot fleets and enhances the integration of robotics in daily
 urban life.</p>
-<h4>2. Tech-Enabled Assisted Living:</h4>
+<p><strong>2. Tech-Enabled Assisted Living</strong>
+</p>
 <p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="GovTech leader presenting on the Wireless Alert Alarm System (AAS)" src="/images/Products and Services/Collaborate with us/f4b_copy_resized.jpg">
@@ -130,7 +132,8 @@ emergencies. This initiative addresses the challenges of an ageing population
 by optimizing tech solutions for elderly care.</p>
 </li>
 </ul>
-<h4>3. Tech-Enabled Assisted Living with the Sensei Care Kit:</h4>
+<p><strong>3. Tech-Enabled Assisted Living with the Sensei Care Kit</strong>
+</p>
 <p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="GovTechie explaining how the Sensei Care Kit works" src="/images/Products and Services/Collaborate with us/f5b_copy_resized.jpg">
@@ -138,7 +141,8 @@ by optimizing tech solutions for elderly care.</p>
 <p>This innovative care kit integrates various health monitoring devices,
 such as blood pressure monitors and weight scales, allowing seniors to
 comprehensively track their health from the comfort of their homes.</p>
-<h4>4. Tech-Enhanced Healthcare with Remote Photoplethysmography (rPPG):</h4>
+<p><strong>4. Tech-Enhanced Healthcare with Remote Photoplethysmography (rPPG)</strong>
+</p>
 <p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="User exploring the potential of rPPG technology to monitor vital signs like heart rate and respiratory rate remotely." src="/images/Products and Services/Collaborate with us/f6_copy_resized.jpg">
