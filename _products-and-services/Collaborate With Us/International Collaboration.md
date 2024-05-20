@@ -159,6 +159,6 @@ striving to create a smarter and more connected urban environment.</p>
 <p>Interested to learn more? Check out the <a href="https://www.linkedin.com/feed/update/urn:li:activity:7128668518480318464/" rel="noopener noreferrer nofollow" target="_blank">showcases</a> by
 our GovTechies at the Expo.</p>
 <p></p>
-<div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="mailto:info@tech.gov.sg" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Collaborate with GovTech" src="/images/CTA card images/Ready_to_Collaborate.png"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Interested in collaborating with us?</div><div class="isomer-card-description">Reach out directly to us via email</div><div class="isomer-card-link">info@tech.gov.sg</div></div></a>
+<div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="mailto:info@tech.gov.sg" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Collaborate with GovTech" src="/images/CTA card images/Ready_to_Collaborate.png"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Ready to collaborate?</div><div class="isomer-card-description">Get in touch with us today to explore ways we can work together.</div><div class="isomer-card-link">info@tech.gov.sg</div></div></a>
 </div>
 <p></p>
