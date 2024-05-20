@@ -30,17 +30,15 @@ career with us! Here's a look at our hiring process.</p>
 <div class="isomer-card">
 <div class="isomer-card-body">
 <div class="isomer-card-title">2. Interviews</div>
-<div class="isomer-card-description">A recruiter will get in touch with you if you're shortlisted and arrange
-an interview with your hiring manager and possibly your potential teammates
-too.</div>
+<div class="isomer-card-description">If shortlisted, our recruiter will reach out for an interview with your
+hiring manager and possibly your potential teammates.</div>
 </div>
 </div>
 <div class="isomer-card">
 <div class="isomer-card-body">
 <div class="isomer-card-title">3. Decision</div>
-<div class="isomer-card-description">The hiring team will base their decision on trusted frameworks and pre-determined
-criteria for the role. If you're selected, we'll contact you to extend
-an offer!</div>
+<div class="isomer-card-description">Our hiring team will review based on our trusted frameworks and pre-determined
+criteria for the role. If selected, you will receive an offer from us!</div>
 </div>
 </div>
 </div>
