@@ -269,7 +269,7 @@ well, but there is clearly room for us to strive to do better.</p>
 the good work. Thank you.</p>
 </li>
 </ul>
-<h3>Notes to Editor</h3>
+<h4>Notes to Editor</h4>
 <p><sup>[1]</sup> Household access to Internet is over 85% (IDA's Annual Survey
 on Infocomm Usage, 2011), mobile penetration rate is about 152% (IDA's
 statistics on telecom services for 2012).</p>
