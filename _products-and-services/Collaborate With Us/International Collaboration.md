@@ -95,10 +95,9 @@ at the prestigious Smart City Expo World Congress (SCEWC). This event,
 recognised as the largest and most influential gathering on urban innovation,
 connects leaders from the most forward-thinking companies, governments,
 and organisations to drive the future of urban living.</p>
-<p><strong>Highlighting Singapore’s digital ambitions</strong>
-</p>
 <p>At the expo, the team showcased several groundbreaking projects that underline
-Singapore's commitment to digital advancement:</p>
+Singapore's commitment to digital advancements. Learn more about these
+projects below.</p>
 <h4>1. Transforming urban living with Open-Robotics Middle Framework (Open-RMF):</h4>
 <p></p>
 <div class="isomer-image-wrapper">
