@@ -9,6 +9,8 @@ description: STACK Developer Conference 2024, GovTech’s biennial flagship
 image: /images/media/events/stack2024_cfp.jpg
 variant: tiptap
 ---
+<a class="isomer-image-wrapper" href="https://www.developer.tech.gov.sg/communities/events/conferences/stack-conference-2024/overview.html"><img style="width: 100%" height="auto" width="100%" alt="STACK Conference 2024 call for proposals" src="/images/media/events/stack2024_cfp.jpg"></a>
+<p></p>
 <p><strong>STACK Developer Conference 2024</strong>, GovTech’s biennial flagship
 conference connecting Government, industry, and the tech community is happening
 from 6th to 7th November 2024, with pre-conference workshops on 5th November.</p>
@@ -23,5 +25,5 @@ from 6th to 7th November 2024, with pre-conference workshops on 5th November.</p
 </li>
 </ul>
 <p>For more details, visit the <a href="https://www.developer.tech.gov.sg/communities/events/conferences/stack-conference-2024/overview.html" rel="noopener noreferrer nofollow" target="_blank"><u>Singapore Government Developer Portal</u></a> today!</p>
-<p><em>Closing date for proposals submission: 17 May 2024</em>
+<p><em>Closing date for proposals submission: 12 July 2024</em>
 </p>
