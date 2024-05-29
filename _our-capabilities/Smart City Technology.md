@@ -54,7 +54,10 @@ as it enables the optimisation of building management and resources.</div>
 <h3>Join our team</h3>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Testimonials for careers in GovTech’s capability centre for Smart City Technology" src="/images/About Us/Our capabilities/smart_city_technology_quotes__1_.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="Testimonial for careers in GovTech’s capability centre for Smart City Technology - Embedded Engineer" src="/images/About Us/Our capabilities/Smart_City_Technology_quote_1.jpg">
+</div>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Testimonial for careers in GovTech’s capability centre for Smart City Technology - Associate Product manager" src="/images/About Us/Our capabilities/Smart_City_Technology_quote_2.jpg">
 </div>
 <p><a href="/careers/why-join-govtech/overview/" rel="noopener noreferrer nofollow" target="_blank">Explore GovTech careers</a> as
 a Systems Engineer, Robotics Engineer, Research and Development Engineer
