@@ -11,7 +11,7 @@ image: /images/About Us/Our
 <h2>Using data-driven insights to formulate effective policies and deliver citizen-centric services</h2>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="GovTech capability centre for Data Science and Artificial Intelligence (AI)" src="/images/About Us/Our capabilities/Data_Science_and_Artificial_Intelligence_banner.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="GovTech capability centre for Data Science and Artificial Intelligence (AI)" src="/images/About Us/Our capabilities/data_science_ai_updated_banner.jpg">
 </div>
 <h3>What we do</h3>
 <p>The Data Science and Artificial Intelligence Division (DSAID) enables
