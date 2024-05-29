@@ -11,7 +11,7 @@ image: /images/About Us/Our
 <h2>Focusing on delivering citizen-centric solutions that improve lives</h2>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="GovTech capability centre for Application Design, Development and Deployment" src="/images/About Us/Our capabilities/capcentre_gds_banner__compressed_.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="GovTech capability centre for Application Design, Development and Deployment" src="/images/About Us/Our capabilities/Application_Design__Development_and_Deployment_banner.jpg">
 </div>
 <h3>What we do</h3>
 <p>This capability centre prioritises the needs of citizens to develop products
@@ -104,7 +104,10 @@ interface EXchange), a secure catalogue of all APIs across the government.</div>
 <h3>Join our team</h3>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Testimonials for careers in GovTech capability centre for Application Design, Development and Deployment" src="/images/About Us/Our capabilities/capcentre_gds_quotes.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="Testimonial for careers in GovTech capability centre for Application Design, Development and Deployment - software engineer" src="/images/About Us/Our capabilities/Application_Design__Development_and_Deployment_quote_1.jpg">
+</div>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Testimonial for careers in GovTech capability centre for Application Design, Development and Deployment - UX designer" src="/images/About Us/Our capabilities/Application_Design__Development_and_Deployment_quote_2.jpg">
 </div>
 <p><a href="/careers/why-join-govtech/overview/" rel="noopener noreferrer nofollow" target="_blank">Explore GovTech careers</a> as
 a UX Designer, Software Engineer, Quality Engineer, DevOps Engineer, Delivery
