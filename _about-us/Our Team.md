@@ -219,7 +219,8 @@ EY</div>
 </div>
 <div class="isomer-card-body">
 <div class="isomer-card-title">Mr GOH Wei Boon</div>
-<div class="isomer-card-description">Chief Executive, Government Technology Agency of Singapore</div>
+<div class="isomer-card-description">Chief Executive / Government Chief Digital Technology Officer, Government
+Technology Agency of Singapore</div>
 </div>
 </div>
 <div class="isomer-card">
@@ -389,17 +390,6 @@ Services HQ</div>
 <div class="isomer-card-body">
 <div class="isomer-card-title">Mr Vlastimil CHVOJKA</div>
 <div class="isomer-card-description">Senior Director, Product Innovation Centre</div>
-</div>
-</div>
-<div class="isomer-card">
-<div class="isomer-card-image">
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="GovTech leader Chong Wan Yieng" src="/images/About Us/CHONG_Wan_Yieng.jpg">
-</div>
-</div>
-<div class="isomer-card-body">
-<div class="isomer-card-title">Ms CHONG Wan Yieng</div>
-<div class="isomer-card-description">Director, Communications and Marketing (CMG)</div>
 </div>
 </div>
 <div class="isomer-card">
