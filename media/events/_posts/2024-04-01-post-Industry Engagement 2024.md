@@ -82,7 +82,7 @@ and how this might address changing citizens’ and businesses’ needs.</p>
 <iframe style="max-width: 100%;" height="400" width="100%" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/aEgsYHFy1CQ?si=1yeQi6XYLVc3YbRD"></iframe>
 </div>
 <p>If you have enquiries, please contact our event management partner at
-<a href="mailto:tm_events@adventurers.com.sg" rel="noopener noreferrer nofollow" target="_blank"><u>tm_events@adventurers.com.sg</u>
+<a href="mailto:tm_events@adventurers.com.sg" rel="noopener noreferrer nofollow" target="_blank"><u>tm_events@adventurers.com.sg</u> 
 </a>.</p>
 <p>Thank you for making this event a success!</p>
 <p></p>
