@@ -11,7 +11,7 @@ image: /images/About Us/Our
 <h2>Developing centralised info-communications technology (ICT) infrastructure for the whole-of-government (WOG)</h2>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="GovTech capability centre for government ICT infrastructure" src="/images/About Us/Our capabilities/Government_ICT_Infrastructure_GovTech_banner_image.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="GovTech capability centre for government ICT infrastructure" src="/images/About Us/Our capabilities/Government_ICT_Infrastructure_banner.jpg">
 </div>
 <h3>What we do</h3>
 <p>We develop ICT infrastructure at scale and the foundational ICT layer
@@ -78,14 +78,10 @@ agencies upgrading their ICT infrastructure.</p>
 <h3>Join our team</h3>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Daryl Chee, Senior Cloud Infrastructure Engineer, giving his testimonial of GovTech" src="/images/About Us/Our capabilities/Daryl_Chee_GIG_resized.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="Foo Zi Hui, Infrastructure Engineer, giving testimonial of Government ICT Infrastructure at GovTech" src="/images/About Us/Our capabilities/Government_ICT_Infrastructure_quote_1.jpg">
 </div>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="GIG capabilities quote 2" src="/images/About Us/Our capabilities/lay_hian_1.png">
+<img style="width: 100%" height="auto" width="100%" alt="Daryl Chee, Infrastructure Engineer, giving testimonial of Government ICT Infrastructure at GovTech" src="/images/About Us/Our capabilities/Government_ICT_Infrastructure_quote_2.jpg">
 </div>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Karthik Parameswaran (Senior Infrastructure Engineer) sharing about why he chose GovTech and how much he is learning here" src="/images/About Us/Our capabilities/Karthik_GIG_resized.jpg">
-</div>
-<p></p>
 <p><a href="/careers/why-join-govtech/overview/" rel="noopener noreferrer nofollow" target="_blank">Explore GovTech careers</a> as
 an Infrastructure Architect, Infrastructure Engineer and more.</p>
