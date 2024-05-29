@@ -71,7 +71,7 @@ some understanding of what’s going on under the hood.</p>
 <p>Yes, AI researchers are typically PhD holders, but there are many good
 articles such as this one that explain AI using plain English. You’ll not
 only gain an overall understanding of AI but also other terms such as
-<a href="https://www.youtube.com/watch?v=Gv9_4yMHFhI&amp;list=PLblh5JKOoLUICTaGLRoHQDuF_7q2GfuJF" rel="noopener noreferrer nofollow" target="_blank"><u>machine learning</u>
+<a href="https://www.youtube.com/watch?v=Gv9_4yMHFhI&amp;list=PLblh5JKOoLUICTaGLRoHQDuF_7q2GfuJF" rel="noopener noreferrer nofollow" target="_blank"><u>machine learning</u> 
 </a>and <a href="https://www.ibm.com/topics/natural-language-processing" rel="noopener noreferrer nofollow" target="_blank"><u>natural language processing</u></a>,
 concepts that are critical to the inner workings of chatbots.</p>
 <p>Be sure to sign up for updates from the links above so that you regularly
@@ -132,5 +132,17 @@ tools might very well do so.</p>
 <p>One thing is for sure: it’s time to get smarter about AI and take steps
 towards boosting your own intelligence.</p>
 <p></p>
-<p></p>
+<div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="http://eepurl.com/cUwIsD" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Subscribe to the TechNews email newsletter" src="/images/CTA card images/TechNews_CTA_image.jpg"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Subscribe to the TechNews email newsletter</div><div class="isomer-card-link">TechNews</div></div></a>
+<a rel="noopener noreferrer nofollow" href="http://eepurl.com/hsr131" class="isomer-card">
+<div class="isomer-card-image">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Join the Tech Kaki user-testing community" src="/images/CTA card images/Tech_Kaki_CTA_image.jpg">
+</div>
+</div>
+<div class="isomer-card-body">
+<div class="isomer-card-title">Join the Tech Kaki user-testing community</div>
+<div class="isomer-card-link">Tech Kaki</div>
+</div>
+</a>
+</div>
 <p></p>
