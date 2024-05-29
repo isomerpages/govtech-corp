@@ -187,6 +187,23 @@ and private sector strengths for advancing Smart Nation initiatives.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="Collaborate with GovTech" src="/images/Products and Services/Collaborate with us/industry_collaboration_infographic.jpg">
 </div>
+<h3>ICT&amp;SS Policy Reform</h3>
+<p>To support Singapore's Smart Nation initiative, GovTech is enhancing digital
+transformation by improving service delivery, operations, and policy management
+to protect ICT systems. The <a href="https://info.standards.tech.gov.sg/" rel="noopener noreferrer nofollow" target="_blank">ICT&amp;SS Policy Reform</a> focuses
+on lean, relevant, and effective policy controls, starting with low-risk
+systems. This initiative encourages collaboration between government agencies
+and industry partners to develop rapid, cost-effective, and innovative
+ICT systems, while ensuring that appropriate risk controls are in place.</p>
+<p>The <a href="https://info.standards.tech.gov.sg/control-catalog/" rel="noopener noreferrer nofollow" target="_blank">catalog of controls</a> provides
+a comprehensive list of guidelines and standards designed to ensure the
+secure and effective use of ICT assets in government operations. These
+controls address various aspects of technology management, including security,
+privacy, data integrity, and system reliability. These controls help government
+agencies manage risks and implement innovative solutions efficiently, while
+maintaining compliance with regulatory and policy requirements.</p>
+<p>For more details, visit the <a href="https://info.standards.tech.gov.sg/" rel="noopener noreferrer nofollow" target="_blank">ICT&amp;SS Policy Reform website.</a>
+</p>
 <h3>Event collaborations</h3>
 <p>At GovTech, we believe that public-private events will help spur the generation
 of new ideas, which are the precursors to truly innovative solutions. Here
