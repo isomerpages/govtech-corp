@@ -9,7 +9,7 @@ image: /images/About Us/Our capabilities/Our_capabilities_cybersecurity_compress
 <h2>Safeguarding the government’s Information and Communications Technology &amp; Smart Systems</h2>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="GovTech capability centre for cybersecurity" src="/images/About Us/Our capabilities/capcentre_cybersecurity_banner.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="GovTech capability centre for cybersecurity" src="/images/About Us/Our capabilities/Cybersecurity_banner.jpg">
 </div>
 <h3>What we do</h3>
 <p>Our goal is to enable Singapore to be a safe and secure Smart Nation.
@@ -109,7 +109,10 @@ so fixes can be made quickly.</div>
 <h3>Join our team</h3>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Testimonials for careers in GovTech capability centre for cybersecurity" src="/images/About Us/Our capabilities/capcentre_cybersecurity_quotes.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="Testimonial for careers in GovTech capability centre for cybersecurity - cybersecurity specialist" src="/images/About Us/Our capabilities/cybersecurity_quote_1.jpg">
+</div>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Testimonial for careers in GovTech capability centre for cybersecurity - Associate cybersecurity specialist" src="/images/About Us/Our capabilities/cybersecurity_quote_2.jpg">
 </div>
 <p><a href="/careers/why-join-govtech/overview/" rel="noopener noreferrer nofollow" target="_blank">Explore GovTech careers</a> as
 a Chief Information Security Officer, Cybersecurity Engineer, Cybersecurity
