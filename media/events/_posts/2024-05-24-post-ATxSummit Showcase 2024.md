@@ -46,7 +46,7 @@ government and delivering tech for the public good.</p>
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong><a href="https://www.developer.tech.gov.sg/products/categories/cybersecurity/rmse/overview.html" rel="noopener noreferrer nofollow" target="_blank">recursive Machine Learning Site Evaluation (rMSE):</a></strong>
+<p><strong><a href="https://www.developer.tech.gov.sg/products/categories/cybersecurity/rmse/overview.html" rel="noopener noreferrer nofollow" target="_blank">recursive Machine Learning Site Evaluation (rMSE):</a></strong> 
 <br>With increasing digitalisation, citizens are also increasingly vulnerable
 to malicious actors online. With the rise in scam cases in recent times,
 GovTech seeks to keep citizens safe from possible scams through the development
