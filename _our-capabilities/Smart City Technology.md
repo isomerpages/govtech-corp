@@ -10,7 +10,7 @@ image: /images/About Us/Our capabilities/Smart_city_technologies_meta_image.jpg
 <h2>Designing, building and implementing government-wide Internet of Things (IoT) infrastructures for Smart City applications</h2>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="GovTech Capability Centre for Smart City Technology" src="/images/About Us/Our capabilities/Smart_City_Tech_1690x800.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="GovTech Capability Centre for Smart City Technology" src="/images/About Us/Our capabilities/smart_city_tech.jpg">
 </div>
 <h3>What we do</h3>
 <p>The Smart City Technology (SCTD) division brings together the technologies,
