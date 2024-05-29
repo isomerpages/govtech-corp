@@ -11,7 +11,7 @@ image: /images/About Us/Our
 <h2>Using data-driven insights to formulate effective policies and deliver citizen-centric services</h2>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="GovTech capability centre for Data Science and Artificial Intelligence (AI)" src="/images/About Us/Our capabilities/capcentre_dsaid_banner__compressed_.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="GovTech capability centre for Data Science and Artificial Intelligence (AI)" src="/images/About Us/Our capabilities/Data_Science_and_Artificial_Intelligence_banner.jpg">
 </div>
 <h3>What we do</h3>
 <p>The Data Science and Artificial Intelligence Division (DSAID) enables
@@ -79,7 +79,10 @@ exploitation platform.</div>
 <h3>Join our team</h3>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Testimonials for careers in GovTech capability centre for data science and artificial intelligence" src="/images/About Us/Our capabilities/capcentre_dsaid_quotes2.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="Testimonial for careers in GovTech capability centre for data science and artificial intelligence - Data Scientist" src="/images/About Us/Our capabilities/Data_Science_and_Artificial_Intelligence_quote_1.jpg">
+</div>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Testimonial for careers in GovTech capability centre for data science and artificial intelligence - AI engineer" src="/images/About Us/Our capabilities/Data_Science_and_Artificial_Intelligence_quote_2.jpg">
 </div>
 <p><a href="/careers/why-join-govtech/overview/" rel="noopener noreferrer nofollow" target="_blank">Explore GovTech careers</a> as
 a Data Engineer, Data Scientist, Quantitative Analyst, AI Engineer and
