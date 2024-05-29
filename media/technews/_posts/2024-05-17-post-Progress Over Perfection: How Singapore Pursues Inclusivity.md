@@ -42,7 +42,7 @@ were added to make app navigation seamless for visually impaired users.</p>
 <p>For an inclusive Singapore, we need to empower every citizen with digital
 skills. That’s what we believe anyway.</p>
 <p>Through programs like <a href="https://www.imda.gov.sg/digitalforlife/digital-skills-for-life" rel="noopener noreferrer nofollow" target="_blank"><u>Digital Skills for Life</u></a> and
-<a href="https://www.imda.gov.sg/how-we-can-help/seniors-go-digital" rel="noopener noreferrer nofollow" target="_blank"><u>Seniors Go Digital</u>
+<a href="https://www.imda.gov.sg/how-we-can-help/seniors-go-digital" rel="noopener noreferrer nofollow" target="_blank"><u>Seniors Go Digital</u> 
 </a>, we aim to equip individuals of all ages and backgrounds with technology
 usage confidence and knowledge.</p>
 <p>These programmes may seem basic, but they are an important foundation
@@ -72,7 +72,7 @@ services, providing valuable feedback to us.</p>
 <p>United we stand, divided we fall. Or so the saying goes.</p>
 <p>We believe that collaboration with industry and community partners is
 essential for creating an ecosystem of accessible services. Our annual
-<a href="https://www.tech.gov.sg/media/events/a11y-week-2024" rel="noopener noreferrer nofollow" target="_blank"><u>A11y Week</u>
+<a href="https://www.tech.gov.sg/media/events/a11y-week-2024" rel="noopener noreferrer nofollow" target="_blank"><u>A11y Week</u> 
 </a>, a digital inclusion learning festival for public officers, showcases
 the importance of partnerships in driving progress.</p>
 <p>This year’s event features sharings by leading industry players like Apple,
