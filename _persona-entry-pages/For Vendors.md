@@ -41,6 +41,23 @@ be applied in other areas and markets, bringing more growth to your organisation
 test bedding in actual deployment environments.</p>
 <p>Learn more about <a href="/products-and-services/collaborate-with-us/industry-collaboration/" rel="noopener noreferrer nofollow" target="_blank">industry collaborations</a> with
 GovTech.</p>
+<h3>ICT&amp;SS Policy Reform</h3>
+<p>To support Singapore's Smart Nation initiative, GovTech is enhancing digital
+transformation by improving service delivery, operations, and policy management
+to protect ICT systems. The <a href="https://info.standards.tech.gov.sg/" rel="noopener noreferrer nofollow" target="_blank">ICT&amp;SS Policy Reform</a> focuses
+on lean, relevant, and effective policy controls, starting with low-risk
+systems. This initiative encourages collaboration between government agencies
+and industry partners to develop rapid, cost-effective, and innovative
+ICT systems, while ensuring that appropriate risk controls are in place.</p>
+<p>The <a href="https://info.standards.tech.gov.sg/control-catalog/" rel="noopener noreferrer nofollow" target="_blank">catalog of controls</a> provides
+a comprehensive list of guidelines and standards designed to ensure the
+secure and effective use of ICT assets in government operations. These
+controls address various aspects of technology management, including security,
+privacy, data integrity, and system reliability. These controls help government
+agencies manage risks and implement innovative solutions efficiently, while
+maintaining compliance with regulatory and policy requirements.</p>
+<p>For more details, visit the <a href="https://info.standards.tech.gov.sg/" rel="noopener noreferrer nofollow" target="_blank">ICT&amp;SS Policy Reform website.</a>
+</p>
 <h3>Become a vendor for GovTech</h3>
 <p>Follow these steps to secure new opportunities.</p>
 <div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="https://www.gebiz.gov.sg/" class="isomer-card"><div class="isomer-card-body"><div class="isomer-card-title">Register as a GeBIZ Trading Partner (GTP)</div><div class="isomer-card-link">Go to portal</div></div></a>
