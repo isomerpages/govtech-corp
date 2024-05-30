@@ -6,7 +6,7 @@ description: A hub for businesses who want to level up through tech. Find
 variant: tiptap
 image: /images/About Us/For_Businesses_persona_copy.jpg
 ---
-<h2>Discover tools and resources for your business</h2>
+<h2>Discover tools and resources to digitalise your business</h2>
 <p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="Asian businessman with a smile on his face as he walks to a destination" src="/images/About Us/For_Businesses_1690x800px.jpg">
@@ -30,8 +30,8 @@ and opportunities to upgrade your business.</p>
 </div>
 <h3>Digital solutions to transform SMEs</h3>
 <p>Technology is transforming every sector of Singapore’s economy. It’s time
-for SMEs to leverage digital solutions to improve operations and generate
-new revenue.</p>
+for SMEs to leverage digital solutions to digitise data, digitalise operations,
+and generate new revenue.</p>
 <div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="https://api.singpass.gov.sg/case/dbs" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Upgraded DBS service with the help of GovTech" src="/images/About Us/dbs_x_singpass_600x300.png"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Integration of GovTech services</div><div class="isomer-card-description">Partner with us to level up your business. DBS Bank did just that by adopting our Singpass API to smoothen processes for their customers.</div><div class="isomer-card-link">Read case study</div></div></a>
 <a rel="noopener noreferrer nofollow" href="https://www.imda.gov.sg/how-we-can-help/smes-go-digital" class="isomer-card">
 <div class="isomer-card-image">
