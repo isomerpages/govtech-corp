@@ -125,7 +125,7 @@ fit.</p>
 </div>
 </div>
 <div class="isomer-card-body">
-<div class="isomer-card-title">GovTech STACK community</div>
+<div class="isomer-card-title">STACK community</div>
 <div class="isomer-card-description">Design, build and deploy Tech for Public Good. You’ll also get opportunities
 for networking through tech conferences and meet-ups.</div>
 <div class="isomer-card-link">Join STACK community</div>
@@ -133,7 +133,7 @@ for networking through tech conferences and meet-ups.</div>
 </a>
 </div>
 <p></p>
-<div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="http://eepurl.com/cUwIsD" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Subscribe to the TechNews email newsletter" src="/images/About Us/Subscribe_to_TechNews_600x300.jpg"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Subscribe to TechNews</div><div class="isomer-card-description">Get tech tips, trend alerts, behind-the-scenes stories, GovTech updates and more when you sign up to receive TechNews newsletters.</div><div class="isomer-card-link">Subscribe to TechNews</div></div></a>
+<div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="http://eepurl.com/cUwIsD" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Subscribe to the TechNews email newsletter" src="/images/About Us/Subscribe_to_TechNews_600x300.jpg"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Subscribe to TechNews</div><div class="isomer-card-description">Get tech tips, trend alerts, behind-the-scenes stories, GovTech updates and more when you sign up to receive TechNews newsletters.</div><div class="isomer-card-link">TechNews</div></div></a>
 <a rel="noopener noreferrer nofollow" href="https://linktr.ee/connectwithgovtech" class="isomer-card">
 <div class="isomer-card-image">
 <div class="isomer-image-wrapper">
@@ -144,7 +144,7 @@ for networking through tech conferences and meet-ups.</div>
 <div class="isomer-card-title">Connect on social media</div>
 <div class="isomer-card-description">Follow us on social media for updates on new products and features, scholarship
 and job opportunities, life Inside GovTech, and much more!</div>
-<div class="isomer-card-link">Connect with us</div>
+<div class="isomer-card-link">Social media</div>
 </div>
 </a>
 </div>
