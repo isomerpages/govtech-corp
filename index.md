@@ -43,8 +43,10 @@ sections:
       title: Tech for Public Good
       subtitle: Our innovations
       id: infopic
-      description: Explore technologies that empower citizens and improve quality of life.
-      button: learn more
+      description: At GovTech, we see tech as an enabler of possibilities. Our
+        projects empower Singaporean citizens and residents, and improve their
+        quality of life.
+      button: Explore our work
       alt: Tech for Public Good
       url: /our-digital-government-efforts/tech-for-public-good
       image: /images/Homepage/techforpublicgood.png
