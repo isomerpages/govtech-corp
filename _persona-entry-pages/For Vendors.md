@@ -13,7 +13,7 @@ image: /images/About Us/For_vendors_copy.jpg
 <img style="width: 100%" height="auto" width="100%" alt="Image collage depicting the 27 industry partners of GovTech, which include various industries." src="/images/Homepage/For_vendors__banner__1690x800.jpg">
 </div>
 <p>As an industry partner and vendor, you’re invited to discover the type
-of work we do, partnership opportunities and how you can secure them.</p>
+of work we do, partnership opportunities, and how you can secure them.</p>
 <h3>What is GovTech and who are our partners?</h3>
 <p>GovTech is the lead agency driving Singapore's Smart Nation vision. We
 aim to empower our nation with possibilities through infocomm technology
@@ -25,7 +25,10 @@ To learn more about what GovTech has developed as part of the Digital Government
 Transformation, visit our <a href="/products-and-services/for-citizens/overview/" rel="noopener noreferrer nofollow" target="_blank">Products and Services</a> page.</p>
 <p>We also believe in the power of collaboration and strive to work with
 the industry and research ecosystem through various initiatives that drive
-our Smart Nation ambition.</p>
+our Smart Nation ambition. For example, the Government on Commercial Cloud
+(GCC), a comprehensive platform for onboarding of Government services into
+the cloud, is offered by cloud service providers such as Amazon Web Services
+(AWS), Microsoft Azure, and Google Cloud Platform (GCP)</p>
 <p>Through the annual Industry Engagement session for vendors, we invite
 you to bid for upcoming projects, whether large- or small-scale, regardless
 of the size of your business.</p>
