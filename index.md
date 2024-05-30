@@ -39,6 +39,11 @@ sections:
         transformation.
       button: About GovTech
       url: /about-us/who-we-are/
+  - resources:
+      title: Media
+      subtitle: STAY UPDATED ON GOVTECH NEWS
+      id: resources
+      button: READ MORE
   - infopic:
       title: Tech for Public Good
       subtitle: Our innovations
@@ -92,9 +97,4 @@ sections:
           description: ""
           linktext: Read more
           url: /media/events/stackx-data-and-ai-2023/
-  - resources:
-      title: Media
-      subtitle: STAY UPDATED ON GOVTECH NEWS
-      id: resources
-      button: READ MORE
 ---
