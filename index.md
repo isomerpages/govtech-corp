@@ -81,20 +81,16 @@ sections:
       image: /images/Homepage/govtechproducts.png
       alt: Image alt text
   - textcards:
-      title: The latest at GovTech
+      title: GovTech Events
       subtitle: Announcements
       id: textcards
       cards:
-        - title: GovTech STACK Developer Conference 2024
+        - title: GovTech STACK Developer Conference (6-7 Nov 2024)
           description: ""
-          linktext: Read more
+          linktext: Submit Proposals
           url: /media/events/govtech-stack-developer-conference-2024/
-        - title: GovTech STACKx Smart City 2024
+        - title: Industry Engagement (14 May 2024)
           description: ""
-          linktext: Read more
+          linktext: Event Recap
           url: /media/events/stackx-smart-city-2024/
-        - title: GovTech STACKx Data and AI 2023
-          description: ""
-          linktext: Read more
-          url: /media/events/stackx-data-and-ai-2023/
 ---
