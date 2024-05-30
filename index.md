@@ -55,7 +55,7 @@ sections:
       subtitle: OUR FOCUS
       description: See how we drive digitalisation in the Singapore Government and the
         public service sector.
-      button: Learn more
+      button: Explore our initiatives
       url: /our-digital-government-efforts/engineering-digital-government/
       image: /images/Homepage/engineerdigitalgov.png
       alt: Our Role
@@ -64,24 +64,25 @@ sections:
       subtitle: Our culture
       description: Join us in improving lives through technology and pursuing learning
         and leadership opportunities at the same time.
-      button: Learn more
+      button: Explore GovTech's culture
       url: /careers/why-join-govtech/overview/
       image: /images/Homepage/whyjoingovtechcareer.png
       alt: GovTech culture
   - infopic:
       title: Products and services
       subtitle: OUR PORTFOLIO OF WORK
-      description: View our portfolio of apps, websites, and digital tools available
-        for citizens, businesses, and government agencies.
-      button: Explore Now
+      description: From apps to digital services and software development tools, our
+        tech solutions collectively benefit citizens, businesses and public
+        officers.
+      button: Explore our portfolio
       url: /products-and-services/overview/
       image: /images/Homepage/govtechproducts.png
       alt: Image alt text
   - resources:
       title: Media
-      subtitle: STAY UPDATED ON GOVTECH NEWS
+      subtitle: GovTech news and stories
       id: resources
-      button: READ MORE
+      button: Explore the latest news
   - textcards:
       title: CONNECT WITH US
       subtitle: QUICK LINKS
