@@ -9,9 +9,9 @@ permalink: /
 notification: ""
 sections:
   - hero:
-      background: /images/Homepage/Neighbourhood_AE_8.gif
-      button: tech for public good
-      url: /our-digital-government-efforts/tech-for-public-good/
+      background: /images/Homepage/DSA2024_GTBanner2.jpg
+      button: SUBMIT NOMINATIONS
+      url: https://go.gov.sg/digitalservicesawards-2024
       key_highlights:
         - title: For Citizens
           description: Tips, events and stories
@@ -25,10 +25,11 @@ sections:
         - title: For Government Agencies
           description: Productivity and collaboration
           url: /for-government-agencies
-      variant: image
+      variant: center
       size: md
       alignment: left
       backgroundColor: white
+      title: Digital Services Awards 2024
   - infobar:
       title: Government Technology Agency (GovTech)
       subtitle: WHO WE ARE
