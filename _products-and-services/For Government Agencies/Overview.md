@@ -72,33 +72,3 @@ OpenAttestation (OA).</div>
 </a><a rel="noopener noreferrer nofollow" href="/products-and-services/for-government-agencies/software-development/" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="GovTech has developed software stacks to help public officers build digital government services with ease." src="/images/Products and Services/Product overview card images/Software_Development.png"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Software Development</div><div class="isomer-card-description">Introducing software stacks to help public officers build digital government services that are efficient and consistent.</div><div class="isomer-card-link">Find out more</div></div></a>
 </div>
 <p></p>
-<div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="/products-and-services/for-government-agencies/data-and-ai/" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="GovTech leverages data science and AI to improve policy outcomes and cross-analysis." src="/images/Products and Services/Product overview card images/Data_and_AI.png"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Data and AI</div><div class="isomer-card-description">Leveraging data science and AI to improve policy outcomes and operational efficiency within the government.</div><div class="isomer-card-link">Find out more</div></div></a>
-<a rel="noopener noreferrer nofollow" href="/products-and-services/for-government-agencies/productivity-and-marketing/" class="isomer-card">
-<div class="isomer-card-image">
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="GovTech has developed a suite of productivity and marketing tools for public officers." src="/images/Products and Services/Product overview card images/Producitivity_and_Marketing.png">
-</div>
-</div>
-<div class="isomer-card-body">
-<div class="isomer-card-title">Productivity and Marketing</div>
-<div class="isomer-card-description">Giving public officers access to tools that improve efficiency and effectiveness.</div>
-<div class="isomer-card-link">Find out more</div>
-</div>
-</a><a rel="noopener noreferrer nofollow" href="/products-and-services/for-government-agencies/knowledge-and-training/" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="GovTech's Digital Academy offers ICT programmes that are contextualised for the public sector." src="/images/Products and Services/Product overview card images/Knowledge_and_Trainin.png"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Knowledge and Training</div><div class="isomer-card-description">Enabling public officers to continuously upskill through Digital Academy.</div><div class="isomer-card-link">Find out more</div></div></a>
-</div>
-<p></p>
-<div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="/products-and-services/for-government-agencies/digital-standards-and-guides/" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="The Digital Service Standards provide guidance to government agencies on how to build accessible, relevant and user-centric digital services." src="/images/Products and Services/Product overview card images/Digital_Standards_and_Guides.png"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Digital Standards and Guides</div><div class="isomer-card-description">Shaping a positive, consistent web experience through Digital Service Standards (DSS).</div><div class="isomer-card-link">Find out more</div></div></a>
-<a rel="noopener noreferrer nofollow" href="/products-and-services/for-government-agencies/ict-and-infrastructure/" class="isomer-card">
-<div class="isomer-card-image">
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="GovTech's ICT and Infrastructure boast several security measures." src="/images/Products and Services/Product overview card images/ICT_and_infrastructure.png">
-</div>
-</div>
-<div class="isomer-card-body">
-<div class="isomer-card-title">ICT and Infrastructure</div>
-<div class="isomer-card-description">Building a secure infrastructure as the foundation of a Digital Government.</div>
-<div class="isomer-card-link">Find out more</div>
-</div>
-</a><a rel="noopener noreferrer nofollow" href="/products-and-services/for-government-agencies/digital-verification/" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Simplifying the verification of digital documents using the blockchain-powered OpenAttestation." src="/images/Products and Services/Product overview card images/Digital_Verification.png"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Digital Verification</div><div class="isomer-card-description">Simplifying the verification of digital documents using the blockchain-powered OpenAttestation (OA).</div><div class="isomer-card-link">Find out more</div></div></a>
-</div>
-<p></p>
