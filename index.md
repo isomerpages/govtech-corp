@@ -92,5 +92,5 @@ sections:
         - title: Industry Engagement (14 May 2024)
           description: ""
           linktext: Event Recap
-          url: /media/events/stackx-smart-city-2024/
+          url: /media/events/industry-engagement-2024
 ---
