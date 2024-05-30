@@ -76,10 +76,9 @@ Innovation for Sustainability.</p>
 <h4>Our key initiatives</h4>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="GovTechies gathering around for GovTech green week" src="/images/Digital Gov Efforts/GovTech_Green_Week.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="GovTechies practicing sustainability and eco-friendly policies and actions" src="/images/Digital Gov Efforts/Sustainability_Green_GovTechies_1690x800.jpg">
 </div>
-<p><em>GovTechies got together during the Green GovTech Week (3 – 7 July 2023) to take the Green Pledge and participate in various green activities.</em>
-</p>
+<p></p>
 <div class="isomer-card-grid">
 <div class="isomer-card">
 <div class="isomer-card-body">
