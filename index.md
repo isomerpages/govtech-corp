@@ -94,10 +94,23 @@ sections:
           linktext: Event Recap
           url: /media/events/industry-engagement-2024
   - announcements:
-      title: Announcements
+      title: GovTech Events
       id: announcements
-      subtitle: Add a list of announcements with dates
+      subtitle: ANNOUNCEMENTS
       announcement_items:
+        - title: "STACK Developer Conference "
+          date: 06 November 2024
+          announcement: STACK Developer Conference 2024, GovTech’s biennial flagship
+            conference connecting Government, industry, and the tech community
+            is happening from 6-7 November 2024, with pre-conference workshops
+            on 5th November.
+          link_text: Submit Proposals
+          link_url: /media/events/govtech-stack-developer-conference-2024/
+        - title: Industry Engagement
+          date: 14 May 2024
+          announcement: Announcement content
+          link_text: ""
+          link_url: ""
         - title: New Announcement
           date: 30 May 2024
           announcement: Announcement content
