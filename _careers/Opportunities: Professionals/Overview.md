@@ -19,8 +19,9 @@ may just be the right fit! At GovTech, you'll work on purposeful projects
 that serve society and get to collaborate with some of the greatest minds
 in different fields.&nbsp;</p>
 <p>Whether you're a tech or non-tech professional, a junior executive or
-a senior-level manager, there are many job opportunities to explore. But
-first, here are the reasons why you should consider a career at GovTech.</p>
+a senior-level manager, there are many <a href="https://careers.tech.gov.sg/careers/SearchJobs" rel="noopener noreferrer nofollow" target="_blank">job opportunities</a> to
+explore. But first, here are the reasons why you should consider a career
+at GovTech.</p>
 <div class="isomer-card-grid">
 <div class="isomer-card">
 <div class="isomer-card-image">
