@@ -110,15 +110,15 @@ sections:
         - title: Subscribe to TechNews
           description: Get the latest tech tips, behind-the-scenes stories, GovTech
             updates and more.
-          linktext: SUBSCRIBE NOW
+          linktext: SUBSCRIBE TO TECHNEWS
           url: http://eepurl.com/cUwIsD
         - title: Join the Tech Kaki community
           description: Co-create and help us deliver better digital services through
             citizen feedback.
-          linktext: JOIN NOW
+          linktext: JOIN TECH KAKI
           url: http://eepurl.com/hsr131
         - title: Apply for GovTech Jobs
-          description: "Browse for available job opportunities on GovTech's career portal. "
-          linktext: APPLY NOW
+          description: Browse for available job opportunities on GovTech's career portal.
+          linktext: APPLY FOR JOBS
           url: https://careers.tech.gov.sg/careers/SearchJobs
 ---
