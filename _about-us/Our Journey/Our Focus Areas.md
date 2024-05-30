@@ -39,7 +39,7 @@ learn more about our green efforts.</p>
 <div class="isomer-card">
 <div class="isomer-card-image">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="GovTech’s Green ‘Bounce’ Station encourages the use of reusable bags, lunch boxes, and cutlery." src="/images/About Us/Our_focus_areas_sustainability_600x300_1.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="GovTech Green Bounce station where GovTechies can reuse paper bags and containers to recycle them." src="/images/About Us/Our_focus_areas_sustainability_600x300_1.jpg">
 </div>
 </div>
 <div class="isomer-card-body">
@@ -47,28 +47,25 @@ learn more about our green efforts.</p>
 <div class="isomer-card-description">GovTech’s Green ‘Bounce’ Station encourages the use of reusable bags,
 lunch boxes, and cutlery.</div>
 </div>
-</div><a rel="noopener noreferrer nofollow" href="https://www.isomer.gov.sg" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Placeholder image" src="/images/About Us/Our_focus_areas_sustainability_600x300_2.jpg"></div></div><div class="isomer-card-body"><div class="isomer-card-title">This is a title for your card</div><div class="isomer-card-description">This is body text for your card. Describe your card.</div><div class="isomer-card-link">This is a link for your card</div></div></a>
 </div>
+<div class="isomer-card">
+<div class="isomer-card-image">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="GovTech Green Bounce station where GovTechies can reuse paper bags and containers to recycle them." src="/images/About Us/GovTech_Green_Bounce_Station.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="Green Week 2023: GovTechies take the Green Pledge and participate in green activities." src="/images/About Us/Our_focus_areas_sustainability_600x300_2.jpg">
 </div>
-<p><em>GovTech’s Green ‘Bounce’ Station encourages the use of reusable bags, lunch boxes, and cutlery.</em>
-</p>
+</div>
+<div class="isomer-card-body">
+<div class="isomer-card-title">Green GovTech Week</div>
+<div class="isomer-card-description">During the Green GovTech Week, GovTechies took the Green Pledge and participated
+in various green activities, learning how to drive sustainability in the
+public sector and Singapore.</div>
+</div>
+</div>
+</div>
 <p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 80%;" height="auto" width="100%" alt="GovTech sustainability framework to support Singapore Green Plan 2030" src="/images/About Us/our_focus_areas_infographic.jpg">
 </div>
-<h4>GovTech Green Week</h4>
-<p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Green Week 2023: GovTechies take the Green Pledge and participate in green activities." src="/images/About Us/Green_GovTech_Week_2023.jpg">
-</div>
-<p><em>GovTechies got together during the Green GovTech Week (3 – 7 July 2023) to take the Green Pledge and participate in various green activities.</em>
-</p>
-<p>GovTechies learnt how to drive sustainability in the public sector and
-contribute to a more sustainable future for Singapore at GovTech Green
-Week.</p>
-<p></p>
 <h3>Diversity and Inclusion in GovTech</h3>
 <p>GovTech creates products and services for every citizen — that includes
 vulnerable communities such as the elderly and persons with disabilities.</p>
