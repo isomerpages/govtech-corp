@@ -33,6 +33,20 @@ and GoWhere, all aimed at improving the lives of citizens.</p>
 </a><a rel="noopener noreferrer nofollow" href="https://www.isomer.gov.sg" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="GovTech's digital storage and verification services —  FileSG" src="/images/Products and Services/Product overview card images/Digital_Storage_and_Verification.png"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Digital Storage and Verification</div><div class="isomer-card-description">Centralising the management of government-issued documents with FileSG.</div><div class="isomer-card-link">Find out more</div></div></a>
 </div>
 <p></p>
+<div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="/products-and-services/for-citizens/directories-and-distribution/" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="GovTech's directories and distribution services include GovWallet and GoWhere." src="/images/Products and Services/Product overview card images/Directories_and_Distribution.png"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Directories and Distribution</div><div class="isomer-card-description">These services make checking resource distribution campaigns and receiving government payouts easy.</div><div class="isomer-card-link">Find out more</div></div></a>
+<a rel="noopener noreferrer nofollow" href="https://www.isomer.gov.sg" class="isomer-card">
+<div class="isomer-card-image">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Placeholder image" src="https://placehold.co/600x400">
+</div>
+</div>
+<div class="isomer-card-body">
+<div class="isomer-card-title">This is a title for your card</div>
+<div class="isomer-card-description">This is body text for your card. Describe your card.</div>
+<div class="isomer-card-link">This is a link for your card</div>
+</div>
+</a><a rel="noopener noreferrer nofollow" href="https://www.isomer.gov.sg" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Placeholder image" src="https://placehold.co/600x400"></div></div><div class="isomer-card-body"><div class="isomer-card-title">This is a title for your card</div><div class="isomer-card-description">This is body text for your card. Describe your card.</div><div class="isomer-card-link">This is a link for your card</div></div></a>
+</div>
 <div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="/products-and-services/for-citizens/digital-services/" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="GovTech's digital services for citizens are convenient to use" src="/images/Products and Services/Product overview card images/Digital_Services.png"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Digital Services</div><div class="isomer-card-description">Our array of digital services provides coverage across different stages of life to ensure our citizens are fully supported every step of the way.</div><div class="isomer-card-link">Find out more</div></div></a>
 <a rel="noopener noreferrer nofollow" href="/products-and-services/for-citizens/smart-city-tech/" class="isomer-card">
 <div class="isomer-card-image">
