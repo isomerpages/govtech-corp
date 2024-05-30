@@ -84,6 +84,34 @@ environment.&nbsp;</p>
 with possibilities, realised through the innovation of technology and engineering.</p>
 <h3>Our values</h3>
 <p>We aim to be agile, bold and collaborative in everything that we do.</p>
+<p></p>
+<div class="isomer-card-grid">
+<div class="isomer-card">
+<div class="isomer-card-body">
+<div class="isomer-card-title">Agile</div>
+<div class="isomer-card-description">We are nimble and always open to new ideas and possibilities. We learn,
+adapt and respond effectively to changes. We are flexible, proactive and
+resilient when working towards our outcomes.</div>
+</div>
+</div>
+<div class="isomer-card">
+<div class="isomer-card-body">
+<div class="isomer-card-title">Bold</div>
+<div class="isomer-card-description">We constructively challenge the status quo and prevailing assumptions
+with reason. We take smart risks and learn from success and failures. We
+do what is right and make tough decisions despite uncertainties and risks
+involved.</div>
+</div>
+</div>
+<div class="isomer-card">
+<div class="isomer-card-body">
+<div class="isomer-card-title">Collaborative</div>
+<div class="isomer-card-description">We build relationships based on trust and respect. We do what is best
+for GovTech, working together as one team to achieve our common goals for
+Singapore. We leverage each other's strengths to get the best results.</div>
+</div>
+</div>
+</div>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="GovTech's values of Agile, Bold, Collaborative and what they mean" src="/images/careers/why-govtech-abc.png">
 </div>
