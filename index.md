@@ -80,6 +80,25 @@ sections:
       subtitle: STAY UPDATED ON GOVTECH NEWS
       id: resources
       button: READ MORE
+  - textcards:
+      title: CONNECT WITH US
+      subtitle: QUICK LINKS
+      id: textcards
+      cards:
+        - title: Subscribe to TechNews
+          description: Get the latest tech tips, behind-the-scenes stories, GovTech
+            updates and more.
+          linktext: SUBSCRIBE TO TECHNEWS
+          url: http://eepurl.com/cUwIsD
+        - title: Join the Tech Kaki community
+          description: Co-create and help us deliver better digital services through
+            citizen feedback.
+          linktext: JOIN TECH KAKI
+          url: http://eepurl.com/hsr131
+        - title: Apply for GovTech Jobs
+          description: Browse for available job opportunities on GovTech's career portal.
+          linktext: APPLY FOR JOBS
+          url: https://careers.tech.gov.sg/careers/SearchJobs
   - announcements:
       title: GovTech Events
       id: announcements
@@ -102,23 +121,4 @@ sections:
             government agencies.
           link_text: Event Recap
           link_url: /media/events/industry-engagement-2024
-  - textcards:
-      title: CONNECT WITH US
-      subtitle: QUICK LINKS
-      id: textcards
-      cards:
-        - title: Subscribe to TechNews
-          description: Get the latest tech tips, behind-the-scenes stories, GovTech
-            updates and more.
-          linktext: SUBSCRIBE TO TECHNEWS
-          url: http://eepurl.com/cUwIsD
-        - title: Join the Tech Kaki community
-          description: Co-create and help us deliver better digital services through
-            citizen feedback.
-          linktext: JOIN TECH KAKI
-          url: http://eepurl.com/hsr131
-        - title: Apply for GovTech Jobs
-          description: Browse for available job opportunities on GovTech's career portal.
-          linktext: APPLY FOR JOBS
-          url: https://careers.tech.gov.sg/careers/SearchJobs
 ---
