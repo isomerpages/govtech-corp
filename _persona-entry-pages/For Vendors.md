@@ -25,9 +25,9 @@ To learn more about what GovTech has developed as part of the Digital Government
 Transformation, visit our <a href="/products-and-services/for-citizens/overview/" rel="noopener noreferrer nofollow" target="_blank">Products and Services</a> page.</p>
 <p>We also believe in the power of collaboration and strive to work with
 the industry and research ecosystem through various initiatives that drive
-our Smart Nation ambition. For example, the Government on Commercial Cloud
-(GCC), a comprehensive platform for onboarding of Government services into
-the cloud, is offered by cloud service providers such as Amazon Web Services
+our Smart Nation ambition. For example, the <a href="/products-and-services/for-government-agencies/software-development/government-on-commercial-cloud/" rel="noopener noreferrer nofollow" target="_blank">Government on Commercial Cloud (GCC)</a>,
+a comprehensive platform for onboarding of Government services into the
+cloud, is offered by cloud service providers such as Amazon Web Services
 (AWS), Microsoft Azure, and Google Cloud Platform (GCP)</p>
 <p>Through the annual Industry Engagement session for vendors, we invite
 you to bid for upcoming projects, whether large- or small-scale, regardless
