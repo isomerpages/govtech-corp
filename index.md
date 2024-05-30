@@ -39,11 +39,6 @@ sections:
         transformation.
       button: About GovTech
       url: /about-us/who-we-are/
-  - resources:
-      title: Media
-      subtitle: STAY UPDATED ON GOVTECH NEWS
-      id: resources
-      button: READ MORE
   - infopic:
       title: Tech for Public Good
       subtitle: Our innovations
@@ -80,19 +75,11 @@ sections:
       url: /products-and-services/overview/
       image: /images/Homepage/govtechproducts.png
       alt: Image alt text
-  - textcards:
-      title: GovTech Events
-      subtitle: Announcements
-      id: textcards
-      cards:
-        - title: STACK Developer Conference (6-7 Nov 2024)
-          description: ""
-          linktext: Submit Proposals
-          url: /media/events/govtech-stack-developer-conference-2024/
-        - title: Industry Engagement (14 May 2024)
-          description: ""
-          linktext: Event Recap
-          url: /media/events/industry-engagement-2024
+  - resources:
+      title: Media
+      subtitle: STAY UPDATED ON GOVTECH NEWS
+      id: resources
+      button: READ MORE
   - announcements:
       title: GovTech Events
       id: announcements
@@ -115,4 +102,23 @@ sections:
             government agencies.
           link_text: Event Recap
           link_url: /media/events/industry-engagement-2024
+  - textcards:
+      title: CONNECT WITH US
+      subtitle: QUICK LINKS
+      id: textcards
+      cards:
+        - title: Subscribe to TechNews
+          description: Get the latest tech tips, behind-the-scenes stories, GovTech
+            updates and more.
+          linktext: SUBSCRIBE NOW
+          url: http://eepurl.com/cUwIsD
+        - title: Join the Tech Kaki community
+          description: Co-create and help us deliver better digital services through
+            citizen feedback.
+          linktext: JOIN NOW
+          url: http://eepurl.com/hsr131
+        - title: Apply for GovTech Jobs
+          description: "Browse for available job opportunities on GovTech's career portal. "
+          linktext: APPLY NOW
+          url: https://careers.tech.gov.sg/careers/SearchJobs
 ---
