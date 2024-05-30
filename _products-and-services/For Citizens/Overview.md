@@ -7,21 +7,6 @@ description: GovTech has developed and co-created many solutions that benefit
 third_nav_title: For Citizens
 variant: tiptap
 ---
-<div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="/products-and-services/for-citizens/directories-and-distribution/" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="GovTech's directories and distribution services include GovWallet and GoWhere." src="/images/Products and Services/Product overview card images/Directories_and_Distribution.png"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Directories and Distribution</div><div class="isomer-card-description">These services make checking resource distribution campaigns and receiving government payouts easy.</div><div class="isomer-card-link">Find out more</div></div></a>
-<a rel="noopener noreferrer nofollow" href="/products-and-services/for-citizens/education/" class="isomer-card">
-<div class="isomer-card-image">
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Placeholder image" src="https://placehold.co/600x400">
-</div>
-</div>
-<div class="isomer-card-body">
-<div class="isomer-card-title">Education</div>
-<div class="isomer-card-description">Digitalising processes in the educational sector and strengthening school-home
-partnerships with Parents Gateway.</div>
-<div class="isomer-card-link">Find out more</div>
-</div>
-</a><a rel="noopener noreferrer nofollow" href="https://www.isomer.gov.sg" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Placeholder image" src="https://placehold.co/600x400"></div></div><div class="isomer-card-body"><div class="isomer-card-title">This is a title for your card</div><div class="isomer-card-description">This is body text for your card. Describe your card.</div><div class="isomer-card-link">This is a link for your card</div></div></a>
-</div>
 <h2>Our services for citizens</h2>
 <p>Singapore's future will be one that's technology-enabled. As part of our
 Digital Government Blueprint, GovTech has undertaken numerous ambitious
@@ -61,7 +46,7 @@ and GoWhere, all aimed at improving the lives of citizens.</p>
 partnerships with Parents Gateway.</div>
 <div class="isomer-card-link">Find out more</div>
 </div>
-</a><a rel="noopener noreferrer nofollow" href="https://www.isomer.gov.sg" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Placeholder image" src="https://placehold.co/600x400"></div></div><div class="isomer-card-body"><div class="isomer-card-title">This is a title for your card</div><div class="isomer-card-description">This is body text for your card. Describe your card.</div><div class="isomer-card-link">This is a link for your card</div></div></a>
+</a><a rel="noopener noreferrer nofollow" href="/products-and-services/for-citizens/employment/" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="MyCareersFuture is an online government career portal that enhances the job search process." src="/images/Products and Services/Product overview card images/Employment.png"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Employment</div><div class="isomer-card-description">Powered by artificial intelligence and data science, MyCareersFuture is a one-stop job portal that seeks to empower job seekers.</div><div class="isomer-card-link">Find out more</div></div></a>
 </div>
 <div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="/products-and-services/for-citizens/digital-services/" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="GovTech's digital services for citizens are convenient to use" src="/images/Products and Services/Product overview card images/Digital_Services.png"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Digital Services</div><div class="isomer-card-description">Our array of digital services provides coverage across different stages of life to ensure our citizens are fully supported every step of the way.</div><div class="isomer-card-link">Find out more</div></div></a>
 <a rel="noopener noreferrer nofollow" href="/products-and-services/for-citizens/smart-city-tech/" class="isomer-card">
