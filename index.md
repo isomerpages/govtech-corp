@@ -85,7 +85,7 @@ sections:
       subtitle: Announcements
       id: textcards
       cards:
-        - title: GovTech STACK Developer Conference (6-7 Nov 2024)
+        - title: STACK Developer Conference (6-7 Nov 2024)
           description: ""
           linktext: Submit Proposals
           url: /media/events/govtech-stack-developer-conference-2024/
