@@ -93,4 +93,14 @@ sections:
           description: ""
           linktext: Event Recap
           url: /media/events/industry-engagement-2024
+  - announcements:
+      title: Announcements
+      id: announcements
+      subtitle: Add a list of announcements with dates
+      announcement_items:
+        - title: New Announcement
+          date: 30 May 2024
+          announcement: Announcement content
+          link_text: ""
+          link_url: ""
 ---
