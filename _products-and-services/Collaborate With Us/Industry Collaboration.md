@@ -34,6 +34,9 @@ management and problem solving through collaborations such as hackathons
 workshops, and meet-ups (e.g. <a href="/get-involved/join-our-communities/stack-community/" rel="noopener noreferrer nofollow" target="_blank">STACK community events</a>)</p>
 </li>
 </ul>
+<p>Start exploring partnership opportunities for products, projects, and
+tenders on <a href="https://www.gebiz.gov.sg/" rel="noopener noreferrer nofollow" target="_blank"><u>GeBIZ.</u></a>
+</p>
 <p></p>
 <blockquote>
 <p>The dynamic nature of today’s technological and social landscape requires
