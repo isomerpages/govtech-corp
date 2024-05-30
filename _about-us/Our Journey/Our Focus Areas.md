@@ -22,10 +22,8 @@ government entails.</p>
 <h3>Sustainability at the core of GovTech</h3>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="GovTech Green Bounce station where GovTechies can reuse paper bags and containers to recycle them." src="/images/About Us/GovTech_Green_Bounce_Station.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="Sustainability at the core of GovTech" src="/images/About Us/Sustainability_Green_GovTechies_1690x800.jpg">
 </div>
-<p><em>GovTech’s Green ‘Bounce’ Station encourages the use of reusable bags, lunch boxes, and cutlery.</em>
-</p>
 <p>We believe that sustainability should influence everything that we do.&nbsp;</p>
 <p>This is why we have adopted a Sustainability Framework with 3 key pillars
 — Sustainable Organisation, Sustainable Information and Communications
@@ -34,6 +32,29 @@ Sustainability.</p>
 <p>With these pillars, GovTech can drive sustainable digitalisation practices
 to support the Singapore Green Plan 2030 goals and achieve net zero emissions
 by 2045.</p>
+<p>Visit our page on <a href="/our-digital-government-efforts/sustainability/" rel="noopener noreferrer nofollow" target="_blank">Sustainability</a> to
+learn more about our green efforts.</p>
+<p></p>
+<div class="isomer-card-grid">
+<div class="isomer-card">
+<div class="isomer-card-image">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="GovTech’s Green ‘Bounce’ Station encourages the use of reusable bags, lunch boxes, and cutlery." src="/images/About Us/Our_focus_areas_sustainability_600x300_1.jpg">
+</div>
+</div>
+<div class="isomer-card-body">
+<div class="isomer-card-title">Green ‘Bounce’ Station</div>
+<div class="isomer-card-description">GovTech’s Green ‘Bounce’ Station encourages the use of reusable bags,
+lunch boxes, and cutlery.</div>
+</div>
+</div><a rel="noopener noreferrer nofollow" href="https://www.isomer.gov.sg" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Placeholder image" src="/images/About Us/Our_focus_areas_sustainability_600x300_2.jpg"></div></div><div class="isomer-card-body"><div class="isomer-card-title">This is a title for your card</div><div class="isomer-card-description">This is body text for your card. Describe your card.</div><div class="isomer-card-link">This is a link for your card</div></div></a>
+</div>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="GovTech Green Bounce station where GovTechies can reuse paper bags and containers to recycle them." src="/images/About Us/GovTech_Green_Bounce_Station.jpg">
+</div>
+<p><em>GovTech’s Green ‘Bounce’ Station encourages the use of reusable bags, lunch boxes, and cutlery.</em>
+</p>
+<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 80%;" height="auto" width="100%" alt="GovTech sustainability framework to support Singapore Green Plan 2030" src="/images/About Us/our_focus_areas_infographic.jpg">
 </div>
@@ -47,8 +68,7 @@ by 2045.</p>
 <p>GovTechies learnt how to drive sustainability in the public sector and
 contribute to a more sustainable future for Singapore at GovTech Green
 Week.</p>
-<p>Visit our page on <a href="/our-digital-government-efforts/sustainability/" rel="noopener noreferrer nofollow" target="_blank">Sustainability</a> to
-learn more about our green efforts.</p>
+<p></p>
 <h3>Diversity and Inclusion in GovTech</h3>
 <p>GovTech creates products and services for every citizen — that includes
 vulnerable communities such as the elderly and persons with disabilities.</p>
