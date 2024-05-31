@@ -182,7 +182,7 @@ confines of hierarchical structures. As such, qualities such as empathy,
 accessibility and inclusivity are emphasised, and genuine connections are
 formed as a result.</p>
 <h3>Interested in becoming a GovTechie?</h3>
-<div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="/careers/opportunities-for-professionals/overview/" class="isomer-card"><div class="isomer-card-body"><div class="isomer-card-title">Are you a professional? Check out the job opportunities</div><div class="isomer-card-link">Apply for a GovTech job</div></div></a>
+<div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="https://careers.tech.gov.sg/careers/SearchJobs" class="isomer-card"><div class="isomer-card-body"><div class="isomer-card-title">Are you a professional? Check out the job opportunities</div><div class="isomer-card-link">Apply for a GovTech job</div></div></a>
 <a rel="noopener noreferrer nofollow" href="/careers/students-and-graduates/overview/" class="isomer-card">
 <div class="isomer-card-body">
 <div class="isomer-card-title">Are you a student or graduate? Jumpstart your career today with GovTech</div>
