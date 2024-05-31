@@ -102,7 +102,7 @@ our internship applications.</p>
 <a rel="noopener noreferrer nofollow" href="https://careers.tech.gov.sg/careers/SearchJobs" class="isomer-card">
 <div class="isomer-card-body">
 <div class="isomer-card-title">Ready to apply? Submit your application</div>
-<div class="isomer-card-link">Apply for a GovTech job</div>
+<div class="isomer-card-link">Apply for an internship</div>
 </div>
 </a><a rel="noopener noreferrer nofollow" href="https://go.gov.sg/GovTech2024Internships" class="isomer-card"><div class="isomer-card-body"><div class="isomer-card-title">Already applied? Tell us your preferred roles and projects</div><div class="isomer-card-link">Go to form</div></div></a>
 </div>
