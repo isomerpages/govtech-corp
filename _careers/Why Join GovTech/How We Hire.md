@@ -108,7 +108,7 @@ job history.</p>
 </div>
 </details>
 </div>
-<h4>Should you use AI to craft your resume? </h4>
+<h4>Should you use AI to craft your resume?</h4>
 <p>Our technical recruiter, Nat Ho, will be taking you through the pros and
 cons of using generative AI to craft your resume.⁣</p>
 <div class="instagram-wrapper">
