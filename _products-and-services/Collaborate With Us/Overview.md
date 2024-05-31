@@ -20,7 +20,7 @@ as well as harness complementary strengths and resources to create truly
 cutting-edge solutions. Thus, we always welcome the chance to work with
 other government agencies to drive digitalisation across the public service
 sector.</p>
-<p>We also want to collaborate with industry stakeholders and international
+<p>We also want to collaborate with industry stakeholders, vendors and international
 partners to host events and encourage the exchange of ideas and knowledge.</p>
 <h3>Collaborate with us today</h3>
 <div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="/products-and-services/collaborate-with-us/government-collaboration/" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="GovTech collaborates with many government agencies in Singapore on groundbreaking projects." src="/images/Products and Services/Collaborate with us/Collaborate_card_1.jpg"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Government collaboration</div><div class="isomer-card-description">Explore opportunities for product development, user testing and event organisation.</div><div class="isomer-card-link">Learn more</div></div></a>
