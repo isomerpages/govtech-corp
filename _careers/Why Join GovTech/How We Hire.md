@@ -16,8 +16,8 @@ image: /images/careers/How_we_hire_meta_image_copy.jpg
 <a href="/our-digital-government-efforts/tech-for-public-good/" rel="noopener noreferrer nofollow" target="_blank">Tech for Public Good</a>, we need people who match our level of passion
 for developing tech-enabled products, services and solutions for Singapore.</p>
 <p>We are always seeking talented and dedicated individuals to strengthen
-our capabilities in application development, data science and artificial
-intelligence, cybersecurity, digital infrastructure and smart city technology.</p>
+our capabilities in application development, cybersecurity, data science
+and artificial intelligence, digital infrastructure and smart city technology.</p>
 <p></p>
 <div class="iframe-wrapper">
 <iframe style="max-width: 100%;" height="400" width="100%" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/Zh3B_KAMRaw?si=IO85-A5tXNx0tR5W"></iframe>
