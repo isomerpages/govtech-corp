@@ -41,7 +41,7 @@ sections:
       url: /about-us/who-we-are/
   - infopic:
       title: Tech for Public Good
-      subtitle: Our innovations
+      subtitle: Our Digital Government Efforts
       id: infopic
       description: At GovTech, we see tech as an enabler of possibilities. Our
         projects empower Singaporean citizens and residents, and improve their
