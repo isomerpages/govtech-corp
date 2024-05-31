@@ -109,7 +109,7 @@ job history.</p>
 </details>
 </div>
 <h3>Ready to explore a GovTech career?</h3>
-<div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="/careers/opportunities-for-professionals/overview/" class="isomer-card"><div class="isomer-card-body"><div class="isomer-card-title">Are you a working professional? Take your career to new heights today</div><div class="isomer-card-link">Apply for a GovTech job</div></div></a>
+<div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="https://careers.tech.gov.sg/careers/SearchJobs" class="isomer-card"><div class="isomer-card-body"><div class="isomer-card-title">Are you a working professional? Take your career to new heights today</div><div class="isomer-card-link">Apply for a GovTech job</div></div></a>
 <a rel="noopener noreferrer nofollow" href="/careers/students-and-graduates/overview/" class="isomer-card">
 <div class="isomer-card-body">
 <div class="isomer-card-title">Are you a student or a graduate? Here's your stepping stone for success</div>
