@@ -109,7 +109,7 @@ explore life #InsideGovTech and our <a href="https://careers.tech.gov.sg/careers
 <p>Whether you're a student, graduate or working professional, many opportunities
 await you at GovTech. Find out more about joining GovTech by clicking below.</p>
 <div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="/careers/students-and-graduates/overview/" class="isomer-card"><div class="isomer-card-body"><div class="isomer-card-title">I am a student or graduate</div><div class="isomer-card-link">Explore internship/career opportunities</div></div></a>
-<a rel="noopener noreferrer nofollow" href="/careers/opportunities-for-professionals/overview/" class="isomer-card">
+<a rel="noopener noreferrer nofollow" href="https://careers.tech.gov.sg/careers/SearchJobs" class="isomer-card">
 <div class="isomer-card-body">
 <div class="isomer-card-title">I am a professional</div>
 <div class="isomer-card-link">Explore our job openings</div>
