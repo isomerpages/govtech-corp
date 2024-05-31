@@ -13,8 +13,8 @@ image: /images/careers/How_we_hire_meta_image_copy.jpg
 <img style="width: 100%" height="auto" width="100%" alt="GovTech employee and employer speaking to one another." src="/images/careers/How_we_hire__new__1690x800.jpg">
 </div>
 <p>Together with more than 3,000 GovTechies who advance our mission to build
-Tech for Public Good, we need people who match our level of passion for
-developing tech-enabled products, services and solutions for Singapore.</p>
+<a href="/our-digital-government-efforts/tech-for-public-good/" rel="noopener noreferrer nofollow" target="_blank">Tech for Public Good</a>, we need people who match our level of passion
+for developing tech-enabled products, services and solutions for Singapore.</p>
 <p>We are always seeking talented and dedicated individuals to strengthen
 our capabilities in application development, data science and artificial
 intelligence, cybersecurity, digital infrastructure and smart city technology.</p>
