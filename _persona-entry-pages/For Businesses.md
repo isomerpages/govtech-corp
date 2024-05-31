@@ -15,8 +15,8 @@ image: /images/About Us/For_Businesses_persona_copy.jpg
 and opportunities to upgrade your business.</p>
 <h3>Digitalise your business with GovTech</h3>
 <p>Go digital with ease using our tools and portals.</p>
-<div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="https://www.gobusiness.gov.sg/" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="GoBusiness logo" src="/images/About Us/GoBusiness.png"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Access guides, licenses and schemes</div><div class="isomer-card-link">Explore GoBusiness</div></div></a>
-<a rel="noopener noreferrer nofollow" href="https://www.corppass.gov.sg/cpauth/login/homepage?TAM_OP=login&amp;URL=%2F" class="isomer-card">
+<div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="/products-and-services/for-businesses/corporate-transactions/gobusiness/" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="GoBusiness logo" src="/images/About Us/GoBusiness.png"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Access guides, licenses and schemes</div><div class="isomer-card-link">Explore GoBusiness</div></div></a>
+<a rel="noopener noreferrer nofollow" href="/products-and-services/for-businesses/corporate-transactions/corppass/" class="isomer-card">
 <div class="isomer-card-image">
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="Corppass logo" src="/images/About Us/corppass.png">
