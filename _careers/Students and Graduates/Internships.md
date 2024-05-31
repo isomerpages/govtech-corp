@@ -10,8 +10,8 @@ image: /images/careers/internships_banner_compressed.jpg
 ---
 <h2>Get the head start you need for a rewarding career</h2>
 <p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Batch of past GovTech interns having fun while posing for a photo at a photo booth" src="/images/careers/Internships_1690x800.jpg">
+<div class="iframe-wrapper">
+<iframe style="max-width: 100%;" height="400" width="100%" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/6pdLaEg1BnE?si=_amYLjes0a-Tift4"></iframe>
 </div>
 <p>We know an internship is a crucial building block of a lifelong career.
 That's why our internship programmes, which span three to six months, are
@@ -98,6 +98,10 @@ our internship applications.</p>
 <img style="width: 100%" height="auto" width="100%" alt="Post-application process for a role or project at GovTech" src="/images/careers/post_application_process.png">
 </div>
 <h3>Begin your GovTech journey today!</h3>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Batch of past GovTech interns having fun while posing for a photo at a photo booth" src="/images/careers/Internships_1690x800.jpg">
+</div>
 <div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="https://go.gov.sg/GovTechInternshipProjects2024" class="isomer-card"><div class="isomer-card-body"><div class="isomer-card-title">Check out the available roles at GovTech</div><div class="isomer-card-link">See GovTech's internships</div></div></a>
 <a rel="noopener noreferrer nofollow" href="https://careers.tech.gov.sg/careers/SearchJobs" class="isomer-card">
 <div class="isomer-card-body">
