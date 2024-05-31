@@ -30,21 +30,21 @@ curated to give you tech tips, behind-the-scenes stories and more.</p>
 </a><a rel="noopener noreferrer nofollow" href="/media/technews/tips-for-safe-online-shopping/" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Tips for safe online shopping" src="/images/About Us/Safe_Online_Shopping_info_card_3.jpg"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Tips for safe online shopping</div><div class="isomer-card-link">Read more on TechNews</div></div></a>
 </div>
 <p></p>
-<div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="https://www.isomer.gov.sg" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Placeholder image" src="/images/CTA card images/TechNews_CTA_image.jpg"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Subscribe to TechNews</div><div class="isomer-card-description">This is body text for your card. Describe your card.</div><div class="isomer-card-link">This is a link for your card</div></div></a>
-<a rel="noopener noreferrer nofollow" href="https://www.isomer.gov.sg" class="isomer-card">
+<div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="http://eepurl.com/cUwIsD" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Subscribe to the TechNews email newsletter" src="/images/CTA card images/TechNews_CTA_image.jpg"></div></div><div class="isomer-card-body"><div class="isomer-card-title">TechNews newsletter subscription</div><div class="isomer-card-description">Get tech tips, trend alerts, behind-the-scenes stories, GovTech updates and more when you sign up to receive TechNews newsletters.</div><div class="isomer-card-link">Subscribe to TechNews</div></div></a>
+<a rel="noopener noreferrer nofollow" href="/media/technews/" class="isomer-card">
 <div class="isomer-card-image">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Placeholder image" src="/images/CTA card images/Subscribe_to_the_TN_newsletter.png">
+<img style="width: 100%" height="auto" width="100%" alt="TechNews article repository" src="/images/CTA card images/Subscribe_to_the_TN_newsletter.png">
 </div>
 </div>
 <div class="isomer-card-body">
-<div class="isomer-card-title">TechNews</div>
-<div class="isomer-card-link">This is a link for your card</div>
+<div class="isomer-card-title">TechNews articles</div>
+<div class="isomer-card-description">Check out the latest stories at GovTech and the full list of TechNews
+articles here.</div>
+<div class="isomer-card-link">Check out TechNews database</div>
 </div>
 </a>
 </div>
-<p>Stay updated on the latest tech tips and GovTech news. Subscribe to our
-<a href="http://eepurl.com/cUwIsD" rel="noopener noreferrer nofollow" target="_blank">TechNews newsletter</a>.</p>
 <h3>Have your voice heard</h3>
 <p></p>
 <div class="isomer-image-wrapper">
