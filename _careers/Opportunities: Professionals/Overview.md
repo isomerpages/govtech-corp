@@ -61,6 +61,9 @@ you will get to achieve a healthy work-life balance.</div>
 </div>
 </div>
 <p>Need more reasons to join GovTech? Learn more about our <a href="/careers/why-join-govtech/overview/" rel="noopener noreferrer nofollow" target="_blank">work culture, award-winning HR policies as well as talent programmes</a>.</p>
+<p></p>
+<div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="https://careers.tech.gov.sg/careers/SearchJobs" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Apply for a job at GovTech" src="/images/careers/Professionals_overview_card_631x200.jpg"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Interested to work at GovTech?</div><div class="isomer-card-link">Apply for a GovTech job</div></div></a>
+</div>
 <h3>Hear from our GovTechies</h3>
 <p></p>
 <div class="instagram-wrapper">
