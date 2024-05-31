@@ -32,8 +32,8 @@ partners to host events and encourage the exchange of ideas and knowledge.</p>
 </div>
 <div class="isomer-card-body">
 <div class="isomer-card-title">Industry collaboration</div>
-<div class="isomer-card-description">Strike up government-vendor partnerships with us or host public-private
-events such as talks, boot camps and conferences.</div>
+<div class="isomer-card-description">We invite industry partners and vendors to co-create digital products
+with us or host public-private events such as talks, boot camps and conferences.</div>
 <div class="isomer-card-link">Learn more</div>
 </div>
 </a><a rel="noopener noreferrer nofollow" href="/products-and-services/collaborate-with-us/international-collaboration/" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Collaborate with GovTech to organise international events." src="/images/Products and Services/Collaborate with us/Collaborate_card_3.jpg"></div></div><div class="isomer-card-body"><div class="isomer-card-title">International collaboration</div><div class="isomer-card-description">Working with global communities, non-profits and overseas governments, we aim to facilitate knowledge exchange through illuminating events.</div><div class="isomer-card-link">Learn more</div></div></a>
