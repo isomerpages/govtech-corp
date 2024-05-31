@@ -209,5 +209,5 @@ and services, and find the right tools for your needs.</p>
 </table>
 <p>Learn more about our <a href="/products-and-services/overview/" rel="noopener noreferrer nofollow" target="_blank">Products and Services</a>.</p>
 <p>For more information on how the government utilises new technology and
-data to create a digital society in Singapore, check out our <a href="/about-us/what-we-do/our-digital-government-efforts/" rel="noopener noreferrer nofollow" target="_blank">Digital Government Efforts</a>.</p>
+data to digitalise Singapore, check out our <a href="/about-us/what-we-do/our-digital-government-efforts/" rel="noopener noreferrer nofollow" target="_blank">Digital Government Efforts</a>.</p>
 <p></p>
