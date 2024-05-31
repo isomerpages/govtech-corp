@@ -39,7 +39,6 @@ curated to give you tech tips, behind-the-scenes stories and more.</p>
 </div>
 <div class="isomer-card-body">
 <div class="isomer-card-title">TechNews</div>
-<div class="isomer-card-description">This is body text for your card. Describe your card.</div>
 <div class="isomer-card-link">This is a link for your card</div>
 </div>
 </a>
