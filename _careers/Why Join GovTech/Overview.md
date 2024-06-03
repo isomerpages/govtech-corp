@@ -96,7 +96,7 @@ or environmental cause that is close to their heart.</div>
 </div>
 <div class="isomer-card">
 <div class="isomer-card-body">
-<div class="isomer-card-title">Special interest groups</div>
+<div class="isomer-card-title">Special Interest Groups (SIG)</div>
 <div class="isomer-card-description">Connect with fellow hobbyists in the organisation and build a great social
 life for yourself.</div>
 </div>
