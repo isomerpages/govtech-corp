@@ -25,8 +25,9 @@ the reasons why you should consider working at GovTech.</p>
 <p>Embrace your new role as a changemaker. From digital services that bring
 convenience to the masses to critical inventions for navigating unforeseen
 crises, the multifaceted projects you undertake will serve and impact the
-public. Get to build <a href="/our-digital-government-efforts/tech-for-public-good/" rel="noopener noreferrer nofollow" target="_blank">Tech for Public Good</a>,
-and make Singapore an even better place to live.</p>
+public. Find your purpose in building <a href="/our-digital-government-efforts/tech-for-public-good/" rel="noopener noreferrer nofollow" target="_blank">Tech for Public Good</a>,
+empower others through technology, and make Singapore an even better place
+to live.</p>
 <p></p>
 <div class="iframe-wrapper">
 <iframe style="max-width: 100%;" height="400" width="100%" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/HQ7LhDdcRaQ?si=jtQTnrKSIzxw_DDL"></iframe>
