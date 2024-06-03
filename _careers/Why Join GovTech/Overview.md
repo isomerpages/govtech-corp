@@ -102,7 +102,7 @@ life for yourself.</div>
 </div>
 <div class="isomer-card">
 <div class="isomer-card-body">
-<div class="isomer-card-title">Events at GovTech</div>
+<div class="isomer-card-title">Events at Play@GovTech</div>
 <div class="isomer-card-description">Work hard, play harder! Our events range from dinner-and-dance nights
 to festive celebrations.</div>
 </div>
