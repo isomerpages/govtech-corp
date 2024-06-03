@@ -45,13 +45,13 @@ senior leaders and mentorships with our qualified experts.</div>
 <div class="isomer-card">
 <div class="isomer-card-image">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Strike a work-life balance easily with GovTech jobs" src="/images/careers/students_and_graduates_card_3_600x400.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="Receive mentorship from GovTech experts and enhance your skills" src="/images/careers/Students_graduates_overview_card_3_600x400.jpg">
 </div>
 </div>
 <div class="isomer-card-body">
-<div class="isomer-card-title">Holistic benefits and work arrangement</div>
-<div class="isomer-card-description">Based on a reward approach, your employee benefits include a competitive
-annual leave package and flexible work arrangement.</div>
+<div class="isomer-card-title">Bootcamps and mentorship programmes</div>
+<div class="isomer-card-description">From technology bootcamps, internships, scholarships and leadership programmes,
+take part in various exciting projects and learning opportunities.</div>
 </div>
 </div>
 </div>
