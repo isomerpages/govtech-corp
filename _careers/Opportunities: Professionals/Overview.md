@@ -50,13 +50,14 @@ at every turn, you will quickly bloom into a tech leader.</div>
 <div class="isomer-card">
 <div class="isomer-card-image">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Strike a healthy work-life balance while working at GovTech" src="/images/careers/Professionals_card_image_3_600x400.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="Building tech for public good at GovTech and finding purpose in work." src="/images/careers/Professionals_card_image_3_600x400.jpg">
 </div>
 </div>
 <div class="isomer-card-body">
-<div class="isomer-card-title">Relish amazing employee benefits</div>
-<div class="isomer-card-description">Thanks to an attractive annual leave package and flexible work arrangement,
-you will get to achieve a healthy work-life balance.</div>
+<div class="isomer-card-title">Find your purpose</div>
+<div class="isomer-card-description">Shape a meaningful tech career with us, create an impact, and transform
+lives in unimaginable ways. Join us as an agent of change, working with
+passionate individuals to design real-life solutions.</div>
 </div>
 </div>
 </div>
