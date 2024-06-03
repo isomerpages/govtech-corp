@@ -54,6 +54,10 @@ key principles under our Leadership Competency Framework — Act with Purpose,
 Model Empathy, and Develop People — you will take on numerous opportunities
 and be moulded into a confident leader.</p>
 <h4>Become a well-rounded individual</h4>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Become a well-rounded individual at GovTech - GovTechies discussing about their strategy" src="/images/careers/why_join_GovTech_well_rounded_individual_resized.jpg">
+</div>
 <p>Ensuring our employees are able to maintain a healthy work-life balance
 is a priority for us. We have numerous policies in place that help create
 and sustain our signature employee-centric culture.</p>
