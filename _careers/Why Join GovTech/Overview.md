@@ -89,8 +89,9 @@ your strategic thinking.</div>
 <div class="isomer-card-grid">
 <div class="isomer-card">
 <div class="isomer-card-body">
-<div class="isomer-card-title">Young talent programmes</div>
-<div class="isomer-card-description">Receive the necessary guidance you need to excel in your chosen field.</div>
+<div class="isomer-card-title">Corporate volunteer programme</div>
+<div class="isomer-card-description">Our volunteer time-off programme enables GovTechies to pursue a social
+or environmental cause that is close to their heart.</div>
 </div>
 </div>
 <div class="isomer-card">
