@@ -26,13 +26,14 @@ at GovTech.</p>
 <div class="isomer-card">
 <div class="isomer-card-image">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Working at GovTech will deepen your knowledge of emerging technologies" src="/images/careers/Professionals_card_image_1_600x400.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="Building tech for public good at GovTech and finding purpose in work." src="/images/careers/Professionals_card_image_3_600x400.jpg">
 </div>
 </div>
 <div class="isomer-card-body">
-<div class="isomer-card-title">Become a specialist in a tech domain</div>
-<div class="isomer-card-description">You will get to join one of GovTech's five Capability Centres, which focus
-on leveraging emerging technologies to deliver citizen-centric solutions.</div>
+<div class="isomer-card-title">Find your purpose</div>
+<div class="isomer-card-description">Start a meaningful tech career with us and transform lives in unimaginable
+ways. Join us as an agent of change, working with passionate individuals
+to design real-life solutions.</div>
 </div>
 </div>
 <div class="isomer-card">
@@ -50,14 +51,13 @@ at every turn, you will quickly bloom into a tech leader.</div>
 <div class="isomer-card">
 <div class="isomer-card-image">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Building tech for public good at GovTech and finding purpose in work." src="/images/careers/Professionals_card_image_3_600x400.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="Working at GovTech will deepen your knowledge of emerging technologies" src="/images/careers/Professionals_card_image_1_600x400.jpg">
 </div>
 </div>
 <div class="isomer-card-body">
-<div class="isomer-card-title">Find your purpose</div>
-<div class="isomer-card-description">Shape a meaningful tech career with us, create an impact, and transform
-lives in unimaginable ways. Join us as an agent of change, working with
-passionate individuals to design real-life solutions.</div>
+<div class="isomer-card-title">Become a specialist in a tech domain</div>
+<div class="isomer-card-description">You will get to join one of GovTech's five Capability Centres, which focus
+on leveraging emerging technologies to deliver citizen-centric solutions.</div>
 </div>
 </div>
 </div>
