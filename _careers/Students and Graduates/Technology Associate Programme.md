@@ -24,6 +24,9 @@ lives of Singaporeans.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="GovTech's Technology Associate Programme for final-year students and university graduates" src="/images/careers/TAP_infographic_v3.jpg">
 </div>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Technology Associate Programme (TAP) application process" src="/images/careers/TAP_application_process_compressed.jpg">
+</div>
 <h3>Benefits of becoming a Tech Associate</h3>
 <div class="isomer-card-grid">
 <div class="isomer-card">
