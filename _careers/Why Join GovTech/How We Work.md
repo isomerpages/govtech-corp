@@ -71,6 +71,7 @@ is carefully designed to allow our GovTechies to work hard and play hard.</div>
 </div>
 </div>
 </div>
+<p>For more details head to <a href="/careers/why-join-govtech/overview/" rel="noopener noreferrer nofollow" target="_blank">Why Join GovTech | Overview</a>.</p>
 <h3>We nurture a culture of excellence</h3>
 <p></p>
 <div class="isomer-image-wrapper">
@@ -190,4 +191,4 @@ formed as a result.</p>
 </div>
 </a>
 </div>
-<p></p>
+<p>e</p>
