@@ -64,8 +64,13 @@ horizons. Take a look at the current list of programmes we host.</p>
 <img style="width: 75%;" height="auto" width="100%" alt="GovTech's many opportunities for students and graduates." src="/images/careers/Students_and_graduates_overview_infographic.jpg">
 </div>
 <p></p>
-<div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="/careers/students-and-graduates/geekout/" class="isomer-card"><div class="isomer-card-body"><div class="isomer-card-title">GeekOut is a fun-filled boot camp for young tech enthusiasts</div><div class="isomer-card-link">Explore GeekOut</div></div></a>
+<div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="/careers/students-and-graduates/geekout/" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="GeekOut is a fun-filled boot camp for young tech enthusiasts" src="/images/careers/Students_graduates_600x300_1.jpg"></div></div><div class="isomer-card-body"><div class="isomer-card-title">GeekOut is a fun-filled boot camp for young tech enthusiasts</div><div class="isomer-card-link">Explore GeekOut</div></div></a>
 <a rel="noopener noreferrer nofollow" href="/careers/students-and-graduates/internships/" class="isomer-card">
+<div class="isomer-card-image">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Interns volunteering at an event and networking with each other" src="/images/careers/Students_graduates_600x300_2.jpg">
+</div>
+</div>
 <div class="isomer-card-body">
 <div class="isomer-card-title">Hone your skill sets through internships designed to bring the best out
 of you</div>
@@ -73,8 +78,13 @@ of you</div>
 </div>
 </a>
 </div>
-<div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="/careers/students-and-graduates/smart-nation-scholarship/" class="isomer-card"><div class="isomer-card-body"><div class="isomer-card-title">Passionate about digitalisation? The Smart Nation Scholarship is for you!</div><div class="isomer-card-link">Explore scholarship</div></div></a>
+<div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="/careers/students-and-graduates/smart-nation-scholarship/" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Smart Nation Scholarship recipients posing for a photo" src="/images/careers/Students_graduates_600x300_3__1_.jpg"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Passionate about digitalisation? The Smart Nation Scholarship is for you!</div><div class="isomer-card-link">Explore scholarship</div></div></a>
 <a rel="noopener noreferrer nofollow" href="/careers/students-and-graduates/technology-associate-programme/" class="isomer-card">
+<div class="isomer-card-image">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Tech Associate Programme graduate Jovi Loo" src="/images/careers/Students_graduates_600x300_4.jpg">
+</div>
+</div>
 <div class="isomer-card-body">
 <div class="isomer-card-title">Develop expertise in tech domains and hone leadership skills with Technology
 Associate Programme (TAP)</div>
