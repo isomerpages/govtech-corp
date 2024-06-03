@@ -32,7 +32,7 @@ to live.</p>
 <div class="iframe-wrapper">
 <iframe style="max-width: 100%;" height="400" width="100%" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/HQ7LhDdcRaQ?si=jtQTnrKSIzxw_DDL"></iframe>
 </div>
-<h4>Relish the joy of continuous learning</h4>
+<h4>Enhance your skills and relish the joy of continuous learning</h4>
 <p>We are an agency filled with multidisciplinary teams of experts from different
 backgrounds. Every day, you’ll work with innovators and explore how new
 and emerging technologies can streamline business workflows in the public
