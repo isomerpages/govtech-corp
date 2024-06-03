@@ -236,6 +236,47 @@ major overhauls.</p>
 </tr>
 </tbody>
 </table>
+<h4>Engagement sessions and networking</h4>
+<p>Engagement sessions were organised to discuss various topics, including
+GovTech products, soliciting feedback on compliance and procurement regulations,
+and the government's broader digital strategy.</p>
+<h4>Closed-door discussions</h4>
+<p>Industry partners were invited for open discussions and exchanges on the
+following topics:</p>
+<ol data-tight="true" class="tight">
+<li>
+<p><strong>CEO Rountable</strong> — The government's focus and strategy, and
+how we can collaborate more effectively with the industry.</p>
+</li>
+<li>
+<p><strong>Tech for Tech</strong> — How can we partner industry to work more
+efficiently?</p>
+</li>
+<li>
+<p><strong>Delivering Better Together</strong> — How can we improve delivery
+quality, and what are the capability gaps to address?</p>
+</li>
+<li>
+<p><strong>Building a more Secure Tomorrow</strong> — Working together to
+safeguard our systems against cyber threats.</p>
+</li>
+<li>
+<p><strong>Simplifying Governance</strong> — Reducing friction for the industry
+to work with the government.</p>
+</li>
+</ol>
+<p></p>
+<blockquote>
+<p>I truly appreciate the effort to listen to industry leaders and keep us
+updated on GovTech's digital plans</p>
+</blockquote>
+<p>~ Jessie Jie Xia, Thoughtworks Chief Information Officer</p>
+<blockquote>
+<p>The breakout sessions (engagement booths) were indeed both "refreshing"
+and "engaging" for the audiences! Needless to say, nothing beats f2f to
+mingle (lots of networking) with industry peers and business acquaintances!"</p>
+</blockquote>
+<p>~ Paul Lee, Cyber Senior Business Director</p>
 <p>For more details, refer to the <a href="/media/media-releases/fy24-government-to-spend-more-than-3b-to-modernise-ict-infrastructure-and-develop-digital-services/" rel="noopener noreferrer nofollow" target="_blank">FY24 Industry Engagement media release</a>.</p>
 <p></p>
 <div class="isomer-image-wrapper">
