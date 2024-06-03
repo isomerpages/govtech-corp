@@ -66,9 +66,9 @@ and sustain our signature employee-centric culture.</p>
 <div class="isomer-card-grid">
 <div class="isomer-card">
 <div class="isomer-card-body">
-<div class="isomer-card-title">A diverse and inclusive environment</div>
-<div class="isomer-card-description">We value the diverse ideas and contributions of our GovTechies as they
-drive our innovation and success in building a Smart Nation.</div>
+<div class="isomer-card-title">Events at Play@GovTech</div>
+<div class="isomer-card-description">Work hard, play harder! Our events range from dinner-and-dance nights
+to festive celebrations.</div>
 </div>
 </div>
 <div class="isomer-card">
@@ -80,13 +80,18 @@ to manage your own time!</div>
 </div>
 <div class="isomer-card">
 <div class="isomer-card-body">
+<div class="isomer-card-title">Special Interest Groups (SIG)</div>
+<div class="isomer-card-description">Connect with fellow hobbyists in the organisation and build a great social
+life for yourself.</div>
+</div>
+</div>
+<div class="isomer-card">
+<div class="isomer-card-body">
 <div class="isomer-card-title">Employee Resource Groups (ERG)</div>
 <div class="isomer-card-description">Our Women in (Gov)Tech ERG consists of GovTechies that champion for gender
 diversity and inclusion within our organisation.</div>
 </div>
 </div>
-</div>
-<div class="isomer-card-grid">
 <div class="isomer-card">
 <div class="isomer-card-body">
 <div class="isomer-card-title">Corporate volunteer programme</div>
@@ -96,16 +101,9 @@ or environmental cause that is close to their heart.</div>
 </div>
 <div class="isomer-card">
 <div class="isomer-card-body">
-<div class="isomer-card-title">Special Interest Groups (SIG)</div>
-<div class="isomer-card-description">Connect with fellow hobbyists in the organisation and build a great social
-life for yourself.</div>
-</div>
-</div>
-<div class="isomer-card">
-<div class="isomer-card-body">
-<div class="isomer-card-title">Events at Play@GovTech</div>
-<div class="isomer-card-description">Work hard, play harder! Our events range from dinner-and-dance nights
-to festive celebrations.</div>
+<div class="isomer-card-title">Diverse and inclusive environment</div>
+<div class="isomer-card-description">We value the diverse ideas and contributions of our GovTechies as they
+drive our innovation and success in building a Smart Nation.</div>
 </div>
 </div>
 </div>
