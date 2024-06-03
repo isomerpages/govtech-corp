@@ -65,6 +65,11 @@ is a priority for us. We have numerous policies in place that help create
 and sustain our signature employee-centric culture.</p>
 <div class="isomer-card-grid">
 <div class="isomer-card">
+<div class="isomer-card-image">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="GovTechies having fun whilst drinking some beverages" src="/images/careers/Careers_overview_card_1_600x400.jpg">
+</div>
+</div>
 <div class="isomer-card-body">
 <div class="isomer-card-title">Events at Play@GovTech</div>
 <div class="isomer-card-description">Work hard, play harder! Our events range from dinner-and-dance nights
@@ -72,6 +77,11 @@ to festive celebrations.</div>
 </div>
 </div>
 <div class="isomer-card">
+<div class="isomer-card-image">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="GovTechie working from a cafe - anywhere at his convenience" src="/images/careers/Careers_overview_card_2_600x400.jpg">
+</div>
+</div>
 <div class="isomer-card-body">
 <div class="isomer-card-title">Hybrid work arrangements</div>
 <div class="isomer-card-description">Enjoy flexibility as to how and where you want to work. Have the autonomy
@@ -79,6 +89,11 @@ to manage your own time!</div>
 </div>
 </div>
 <div class="isomer-card">
+<div class="isomer-card-image">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="GovTechies doing a yoga session - part of a yoga interest group" src="/images/careers/Careers_overview_card_3_600x400.jpg">
+</div>
+</div>
 <div class="isomer-card-body">
 <div class="isomer-card-title">Special Interest Groups (SIG)</div>
 <div class="isomer-card-description">Connect with fellow hobbyists in the organisation and build a great social
@@ -86,6 +101,11 @@ life for yourself.</div>
 </div>
 </div>
 <div class="isomer-card">
+<div class="isomer-card-image">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Women in (Gov)Tech finding ways to champion inclusivity and gender equality" src="/images/careers/Careers_overview_card_4_600x400.jpg">
+</div>
+</div>
 <div class="isomer-card-body">
 <div class="isomer-card-title">Employee Resource Groups (ERG)</div>
 <div class="isomer-card-description">Our Women in (Gov)Tech ERG consists of GovTechies that champion for gender
@@ -93,6 +113,11 @@ diversity and inclusion within our organisation.</div>
 </div>
 </div>
 <div class="isomer-card">
+<div class="isomer-card-image">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="GovTechies participating in Hair for Hope by shaving their heads" src="/images/careers/Careers_overview_card_5_600x400.jpg">
+</div>
+</div>
 <div class="isomer-card-body">
 <div class="isomer-card-title">Corporate volunteer programme</div>
 <div class="isomer-card-description">Our volunteer time-off programme enables GovTechies to pursue a social
@@ -100,6 +125,11 @@ or environmental cause that is close to their heart.</div>
 </div>
 </div>
 <div class="isomer-card">
+<div class="isomer-card-image">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="GovTechies of all ethnicities and age working together" src="/images/careers/Careers_overview_card_6_600x400.jpg">
+</div>
+</div>
 <div class="isomer-card-body">
 <div class="isomer-card-title">Diverse and inclusive environment</div>
 <div class="isomer-card-description">We value the diverse ideas and contributions of our GovTechies as they
