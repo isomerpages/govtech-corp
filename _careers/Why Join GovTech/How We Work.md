@@ -39,7 +39,7 @@ projects.</div>
 </div>
 </div>
 </div>
-<h3>We prioritise work-life balance</h3>
+<h3>We cultivate well-rounded employees</h3>
 <p></p>
 <div class="iframe-wrapper">
 <iframe style="max-width: 100%;" height="400" width="100%" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/WVLjmSgigbs?si=s8Gq277TIC5RDFD7"></iframe>
