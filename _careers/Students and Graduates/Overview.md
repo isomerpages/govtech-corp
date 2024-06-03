@@ -55,7 +55,10 @@ annual leave package and flexible work arrangement.</div>
 </div>
 </div>
 </div>
-<p></p>
+<p>From technology bootcamps, internships and scholarships to</p>
+<p>leadership programmes, seize the opportunity to take part in</p>
+<p>various exciting projects and learning opportunities. Advance</p>
+<p>our mission and shape your future with us!</p>
 <div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="/careers/why-join-govtech/overview/" class="isomer-card"><div class="isomer-card-body"><div class="isomer-card-title">What working at GovTech is like</div><div class="isomer-card-description">Discover what makes us an employer of choice for over 3,000 talents in Singapore!</div><div class="isomer-card-link">Why join GovTech?</div></div></a>
 </div>
 <h3>Find the right programme for you</h3>
