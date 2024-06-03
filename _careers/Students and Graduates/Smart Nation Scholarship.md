@@ -27,7 +27,7 @@ good.</p>
 </div>
 <p></p>
 <div class="iframe-wrapper">
-<iframe style="max-width: 100%;" height="400" width="100%" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/tER0COx2WxM?si=BCOPscU6SlNE2v26"></iframe>
+<iframe style="max-width: 100%;" height="400" width="100%" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/dsIchs4b7H0?si=tEMH8cvO_eG7jj0X"></iframe>
 </div>
 <h3>Benefits of being a Smart Nation Scholar</h3>
 <div class="isomer-card-grid">
