@@ -36,10 +36,19 @@ to live.</p>
 <p>We are an agency filled with multidisciplinary teams of experts from different
 backgrounds. Every day, you’ll work with innovators and explore how new
 and emerging technologies can streamline business workflows in the public
-sector as well as enhance our existing solutions.&nbsp;</p>
+sector as well as enhance our existing solutions.</p>
 <p>What’s more, you’ll gain access to intensive technical training sessions
 as well as enriching courses and workshops, so your skills and knowledge
 will always stay relevant in an ever-evolving tech landscape.</p>
+<h4>Exciting opportunities await you</h4>
+<p>Every day brings fresh challenges and thrilling opportunities, giving
+you a chance to tackle them head-on.</p>
+<p>Our agency, brimming with multidisciplinary experts from diverse fields,
+presents you with exciting projects. You’ll have the chance to use cutting-edge
+technologies to revolutionise government operations and enhance the digital
+services citizens rely on.</p>
+<p>Prepare to embrace these exciting opportunities and lead the digital transformation,
+helping to develop Singapore into a Smart Nation!</p>
 <h4>Work for a reputable employer</h4>
 <p>“Is GovTech a good employer?” That’s a question on every interested jobseeker’s
 mind. As a caring employer, we put the interests of our people — whom we
