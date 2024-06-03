@@ -96,14 +96,13 @@ innovation.</div>
 </div>
 </div>
 <p></p>
-<h3>Opportunities for FY2024</h3>
+<h3>Opportunities for FY2024 — Industry Engagement 2024</h3>
 <p></p>
 <div class="iframe-wrapper">
 <iframe style="max-width: 100%;" height="400" width="100%" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/aEgsYHFy1CQ?si=TfUuB9QYK6DrW71K"></iframe>
 </div>
 <p><a href="/files/media/Events/industry_engagement_2024_opening_address.pdf" rel="noopener noreferrer nofollow" target="_blank">GovTech Industry Engagement 2024 Opening Address</a>
 </p>
-<p></p>
 <p>The government will spend an estimated $3.36 billion on government info-communication
 technology (ICT) procurement opportunities in FY24 to modernise ICT infrastructure
 and develop digital services.</p>
@@ -185,6 +184,58 @@ and private sector strengths for advancing Smart Nation initiatives.</p>
 </details>
 </div>
 <p></p>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<th rowspan="1" colspan="1">
+<p>Challenge</p>
+</th>
+<th rowspan="1" colspan="1">
+<p>Mitigation</p>
+</th>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Keeping costs sustainable with increasing demands.</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Building reusable tools to achieve our outcomes (e.g. SG Tech Stack, GCC).</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Ensuring our systems are secure with rising cybersecurity risks.</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Enhance security monitoring (e.g. GCSOC) and adopt security by design
+practices (e.g. SHIP-HATS, CloudSCAPE, CodeSCAPE).</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Ensuring system resilience as reliance on digital services for critical
+functions grows</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Review policies and simplify procurement to reduce the friction with industry
+collaborators.</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Modernising systems to keep up with the fast-changing environment.</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Large systems should be modular to allow incremental changes and avoid
+major overhauls.</p>
+</td>
+</tr>
+</tbody>
+</table>
 <p>For more details, refer to the <a href="/media/media-releases/fy24-government-to-spend-more-than-3b-to-modernise-ict-infrastructure-and-develop-digital-services/" rel="noopener noreferrer nofollow" target="_blank">FY24 Industry Engagement media release</a>.</p>
 <p></p>
 <div class="isomer-image-wrapper">
