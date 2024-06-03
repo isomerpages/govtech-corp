@@ -26,8 +26,7 @@ the reasons why you should consider working at GovTech.</p>
 convenience to the masses to critical inventions for navigating unforeseen
 crises, the multifaceted projects you undertake will serve and impact the
 public. Find your purpose in building <a href="/our-digital-government-efforts/tech-for-public-good/" rel="noopener noreferrer nofollow" target="_blank">Tech for Public Good</a>,
-empower others through technology, and make Singapore an even better place
-to live.</p>
+and make Singapore an even better place to live.</p>
 <p></p>
 <div class="iframe-wrapper">
 <iframe style="max-width: 100%;" height="400" width="100%" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/HQ7LhDdcRaQ?si=jtQTnrKSIzxw_DDL"></iframe>
@@ -40,13 +39,6 @@ sector as well as enhance our existing solutions.</p>
 <p>What’s more, you’ll gain access to intensive technical training sessions
 as well as enriching courses and workshops, so your skills and knowledge
 will always stay relevant in an ever-evolving tech landscape.</p>
-<h4>Exciting opportunities await you</h4>
-<p>Every day brings fresh challenges and thrilling opportunities, giving
-you a chance to tackle them head-on.</p>
-<p>Our agency, brimming with multidisciplinary experts from diverse fields,
-presents you with exciting projects. You’ll have the chance to use cutting-edge
-technologies to revolutionise government operations and enhance the digital
-services citizens rely on.</p>
 <p>Prepare to embrace these exciting opportunities and lead the digital transformation,
 helping to develop Singapore into a Smart Nation!</p>
 <h4>Work for a reputable employer</h4>
@@ -121,7 +113,9 @@ to festive celebrations.</div>
 explore life #InsideGovTech and our <a href="https://careers.tech.gov.sg/careers/Inside" rel="noopener noreferrer nofollow" target="_blank">career portal</a>!</p>
 <h3>Start your GovTech journey today</h3>
 <p>Whether you're a student, graduate or working professional, many opportunities
-await you at GovTech. Find out more about joining GovTech by clicking below.</p>
+await you at GovTech. Help us to advance our mission and shape your future
+at GovTech!</p>
+<p>Find out more about joining GovTech by clicking below.</p>
 <div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="/careers/students-and-graduates/overview/" class="isomer-card"><div class="isomer-card-body"><div class="isomer-card-title">I am a student or graduate</div><div class="isomer-card-link">Explore internship/career opportunities</div></div></a>
 <a rel="noopener noreferrer nofollow" href="https://careers.tech.gov.sg/careers/SearchJobs" class="isomer-card">
 <div class="isomer-card-body">
