@@ -55,13 +55,6 @@ take part in various exciting projects and learning opportunities.</div>
 </div>
 </div>
 </div>
-<p>At GovTech, we offer you a friendly, inclusive, and flexible environment
-where the holistic work-life needs of our people are a priority. Build
-a purposeful career and grow to be a leader, tech or non-tech, to architect
-our digital transformation. From technology bootcamps, internships and
-scholarships to leadership programmes, seize the opportunity to take part
-in various exciting projects and learning opportunities. Advance our mission
-and shape your future with us!</p>
 <div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="/careers/why-join-govtech/overview/" class="isomer-card"><div class="isomer-card-body"><div class="isomer-card-title">What working at GovTech is like</div><div class="isomer-card-description">Discover what makes us an employer of choice for over 3,000 talents in Singapore!</div><div class="isomer-card-link">Why join GovTech?</div></div></a>
 </div>
 <h3>Find the right programme for you</h3>
