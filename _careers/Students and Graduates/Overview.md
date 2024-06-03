@@ -74,11 +74,15 @@ horizons. Take a look at the current list of programmes we host.</p>
 <div class="isomer-card-body">
 <div class="isomer-card-title">Hone your skill sets through internships designed to bring the best out
 of you</div>
+<div class="isomer-card-description">Join a fulfilling Internship Programme and experience our friendly and
+flexible work culture that gives you plenty of room to grow and learn through
+meaningful nationwide projects and first-hand experiences.</div>
 <div class="isomer-card-link">Explore internships</div>
 </div>
 </a>
 </div>
-<div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="/careers/students-and-graduates/smart-nation-scholarship/" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Smart Nation Scholarship recipients posing for a photo" src="/images/careers/Students_graduates_600x300_3__1_.jpg"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Passionate about digitalisation? The Smart Nation Scholarship is for you!</div><div class="isomer-card-link">Explore scholarship</div></div></a>
+<div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="/careers/students-and-graduates/smart-nation-scholarship/" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Smart Nation Scholarship recipients posing for a photo" src="/images/careers/Students_graduates_600x300_3__1_.jpg"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Passionate about digitalisation? The Smart Nation Scholarship is for you!</div><div class="isomer-card-description">Jointly offered by the CSA, GovTech, and IMDA, the
+scholarship provides opportunities to carve out a career pathway in applied technology for the public good.</div><div class="isomer-card-link">Explore scholarship</div></div></a>
 <a rel="noopener noreferrer nofollow" href="/careers/students-and-graduates/technology-associate-programme/" class="isomer-card">
 <div class="isomer-card-image">
 <div class="isomer-image-wrapper">
@@ -88,6 +92,8 @@ of you</div>
 <div class="isomer-card-body">
 <div class="isomer-card-title">Develop expertise in tech domains and hone leadership skills with Technology
 Associate Programme (TAP)</div>
+<div class="isomer-card-description">TAP is an exclusive two-year personalised programme designed for you to
+build a strong foundation towards becoming a technology leader.</div>
 <div class="isomer-card-link">Explore TAP</div>
 </div>
 </a>
