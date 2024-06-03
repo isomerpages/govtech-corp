@@ -66,9 +66,9 @@ and sustain our signature employee-centric culture.</p>
 <div class="isomer-card-grid">
 <div class="isomer-card">
 <div class="isomer-card-body">
-<div class="isomer-card-title">A supportive environment</div>
-<div class="isomer-card-description">Face challenges and step out of your comfort zone with the backing of
-nurturing colleagues.</div>
+<div class="isomer-card-title">A diverse and inclusive environment</div>
+<div class="isomer-card-description">We value the diverse ideas and contributions of our GovTechies as they
+drive our innovation and success in building a Smart Nation.</div>
 </div>
 </div>
 <div class="isomer-card">
@@ -80,9 +80,9 @@ to manage your own time!</div>
 </div>
 <div class="isomer-card">
 <div class="isomer-card-body">
-<div class="isomer-card-title">Work in a diverse environment</div>
-<div class="isomer-card-description">Being able to listen to and consider different viewpoints will sharpen
-your strategic thinking.</div>
+<div class="isomer-card-title">Employee Resource Groups (ERG)</div>
+<div class="isomer-card-description">Our Women in (Gov)Tech ERG consists of GovTechies that champion for gender
+diversity and inclusion within our organisation.</div>
 </div>
 </div>
 </div>
