@@ -55,6 +55,10 @@ annual leave package and flexible work arrangement.</div>
 </div>
 </div>
 </div>
+<p>At GovTech, we offer you a friendly, inclusive, and flexible</p>
+<p>environment where the holistic work-life needs of our people</p>
+<p>are a priority. Build a purposeful career and grow to be a leader,</p>
+<p>tech or non-tech, to architect our digital transformation.</p>
 <p>From technology bootcamps, internships and scholarships to</p>
 <p>leadership programmes, seize the opportunity to take part in</p>
 <p>various exciting projects and learning opportunities. Advance</p>
