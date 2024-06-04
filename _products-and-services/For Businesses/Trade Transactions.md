@@ -12,6 +12,22 @@ image: /images/Products and Services/For businesses/TradeTrust_logo.png
 <div class="isomer-image-wrapper">
 <img style="width: 80%;" height="auto" width="100%" alt="TradeTrust logo" src="/images/Products and Services/For businesses/TradeTrust_logo.png">
 </div>
+<p></p>
+<ul data-tight="true" class="tight">
+<li>
+<p>TradeTrust is a government initiative that uses blockchain technology
+to streamline and secure cross-border trade documentation.</p>
+</li>
+<li>
+<p>Eliminates paper-based processes, saving costs and increasing sustainability,
+secure document verification, improved efficiency and more.</p>
+</li>
+<li>
+<p>Open-source code allows developers to integrate TradeTrust into their
+systems.</p>
+</li>
+</ul>
+<hr>
 <p>Even today, paper-based documentation is still being used for many cross-border
 trade processes. Not only is it costly and unsustainable, but it also leaves
 businesses vulnerable to fraud.&nbsp;</p>
