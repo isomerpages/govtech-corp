@@ -40,7 +40,7 @@ the lives of everyday Singaporeans.</div>
 <div class="isomer-card-link">Join now</div>
 </div>
 </a><a rel="noopener noreferrer nofollow" href="https://go.gov.sg/gt7-careers" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="GovTech Talent Community" src="/images/gt7-talent.jpg"></div></div><div class="isomer-card-body"><div class="isomer-card-title">GovTech Talent Community</div><div class="isomer-card-description">GovTech is a great place to work and we are hiring! Join the team that builds tech for public good, sign up with our talent community to receive updates on the latest job opportunities, news and recruitment events.</div><div class="isomer-card-link">Sign up now</div></div></a>
-<a rel="noopener noreferrer nofollow" href="https://go.gov.sg/gt7-techkaki" class="isomer-card">
+<a rel="noopener noreferrer nofollow" href="/our-communities/join-our-communities/tech-kaki/" class="isomer-card">
 <div class="isomer-card-image">
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="Tech Kaki Community" src="/images/gt7-techkaki.jpg">
@@ -54,7 +54,7 @@ they go live! Sign up to be our Kaki today to work closely with our development
 teams to build citizen-centric products and services.</div>
 <div class="isomer-card-link">Join Tech Kaki</div>
 </div>
-</a><a rel="noopener noreferrer nofollow" href="https://www.tech.gov.sg/media/technews/subscribe" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="TechNews Community" src="/images/gt7-technews.jpeg"></div></div><div class="isomer-card-body"><div class="isomer-card-title">TechNews Community</div><div class="isomer-card-description">Subscribe to TechNews for the latest GovTech updates, behind-the-scenes stories of our products and teams, and useful tech tips to power up your digital life.</div><div class="isomer-card-link">Subscribe now</div></div></a>
+</a><a rel="noopener noreferrer nofollow" href="http://eepurl.com/cUwIsD" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="TechNews Community" src="/images/gt7-technews.jpeg"></div></div><div class="isomer-card-body"><div class="isomer-card-title">TechNews Community</div><div class="isomer-card-description">Subscribe to TechNews for the latest GovTech updates, behind-the-scenes stories of our products and teams, and useful tech tips to power up your digital life.</div><div class="isomer-card-link">Subscribe now</div></div></a>
 <a rel="noopener noreferrer nofollow" href="https://go.gov.sg/gt7-buildforgood" class="isomer-card">
 <div class="isomer-card-image">
 <div class="isomer-image-wrapper">
