@@ -32,6 +32,7 @@ adults, seniors).</p>
 SupportGoWhere assistance search, and reporting neighborhood issues.</p>
 </li>
 </ul>
+<hr>
 <p>From welcoming a new bundle of joy to preparing for your future with legacy
 planning, as you enter new chapters of your life, you will need access
 to different government resources and support. Streamlining your search
