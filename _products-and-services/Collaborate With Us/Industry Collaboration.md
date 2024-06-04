@@ -184,6 +184,8 @@ and private sector strengths for advancing Smart Nation initiatives.</p>
 </details>
 </div>
 <p></p>
+<p>Looking ahead, we expect to face more challenges in the ever-evolving
+tech landscape. Here are some ways GovTech is addressing these challenges:</p>
 <table style="minWidth: 50px">
 <colgroup>
 <col>
