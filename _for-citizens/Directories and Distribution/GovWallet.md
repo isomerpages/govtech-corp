@@ -28,10 +28,6 @@ on PayNow and 43,000 merchants on NETS.</p>
 <p>Integrated with Singpass, LifeSG, Workpal, and Healthy 365 apps for easy
 access.</p>
 </li>
-<li>
-<p>Offers cash withdrawal option for unbanked beneficiaries through OCBC
-ATMs.</p>
-</li>
 </ul>
 <p>Gone are the days when the government would use the snail mail method
 to deliver paper vouchers or cheques for the purpose of payout disbursement.
