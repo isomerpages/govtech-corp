@@ -192,10 +192,10 @@ and private sector strengths for advancing Smart Nation initiatives.</p>
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
-<p>Challenge</p>
+<p>Challenges</p>
 </th>
 <th rowspan="1" colspan="1">
-<p>Mitigation</p>
+<p>Mitigations</p>
 </th>
 </tr>
 <tr>
