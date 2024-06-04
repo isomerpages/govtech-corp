@@ -37,7 +37,7 @@ get lost.</p>
 <p>Thanks to Singaporeans' widespread adoption of the government's digital
 apps, it has become possible for us to introduce GovWallet, a feature replacing
 physical vouchers by allowing payouts and vouchers to be credited directly
-to your account for a quicker and more secure delivery</p>
+to your account for a quicker and more secure delivery.</p>
 <p>This digital wallet has been integrated with apps such as Singpass, LifeSG,
 Workpal and Healthy 365. It currently serves around 1.3 million citizens,
 who use the credits to make purchases and transact with 164,000 merchants
