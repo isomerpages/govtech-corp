@@ -40,6 +40,7 @@ Association (PA) reach out to 35,000 rental tenants.</p>
 successfully.</p>
 </li>
 </ul>
+<hr>
 <p>At GovTech, we envision a Smart Nation where technology acts as an equaliser
 to give every citizen a chance to improve his or her quality of life. Driven
 by our mission to build Tech for Public Good, we have undertaken meaningful
