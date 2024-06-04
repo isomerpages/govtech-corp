@@ -33,6 +33,7 @@ solemnisations, searching marriage records, requesting document duplicates,
 updating marital status and more.</p>
 </li>
 </ul>
+<hr>
 <p>Getting married is one of the most joyful events in a person’s life. Among
 the long list of wedding preparation matters is marriage registration.
 Our Marriage Journey aims to make this process a seamless and efficient
