@@ -11,6 +11,28 @@ image: /images/Products and Services/GovWallet_logo.png
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="GovWallet logo" src="/images/Products and Services/For citizens/GovWallet_logo_1690x800.jpg">
 </div>
+<ul data-tight="true" class="tight">
+<li>
+<p>GovWallet is a Singaporean digital wallet that allows citizens to receive
+and use government payouts electronically.</p>
+</li>
+<li>
+<p>Replaces physical vouchers and cheques with secure and faster digital
+payouts.</p>
+</li>
+<li>
+<p>Serves over 1.3 million users who make transactions with 164,000 merchants
+on PayNow and 43,000 merchants on NETS.</p>
+</li>
+<li>
+<p>Integrated with Singpass, LifeSG, Workpal, and Healthy 365 apps for easy
+access.</p>
+</li>
+<li>
+<p>Offers cash withdrawal option for unbanked beneficiaries through OCBC
+ATMs.</p>
+</li>
+</ul>
 <p>Gone are the days when the government would use the snail mail method
 to deliver paper vouchers or cheques for the purpose of payout disbursement.
 Not only was the delivery process slow, but the letters would also at times
