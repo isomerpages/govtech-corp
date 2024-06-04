@@ -13,6 +13,24 @@ image: /images/Products and Services/For businesses/Singpass_API_logo.png
 <div class="isomer-image-wrapper">
 <img style="width: 80%;" height="auto" width="100%" alt="Singpass API logo" src="/images/Products and Services/For businesses/Singpass_API_logo.png">
 </div>
+<p></p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Singpass API is a suite of APIs that allows businesses to integrate Singpass
+functionalities into their digital services.</p>
+</li>
+<li>
+<p>Seamless user verification, enhanced security with biometrics, faster
+user onboarding, in-person identity verification, access to financial data
+(SGFinDex),<strong> </strong>tamper-proof digital signatures for secure
+transactions.</p>
+</li>
+<li>
+<p>More than 4.2 million Singpass users and over 41 million transactions
+every month.</p>
+</li>
+</ul>
+<hr>
 <p>With a base that boasts over 4.2 million users, Singpass currently facilitates
 more than 41,000,000 transactions every month. Many Singaporeans use it
 for authentication purposes when transacting with the 2,700-plus digital
