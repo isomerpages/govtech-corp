@@ -11,6 +11,23 @@ image: /images/Products and Services/healthy365_logo.png
 <div class="isomer-image-wrapper">
 <img style="width: 30%;" height="auto" width="100%" alt="Healthy365 app logo" src="/images/Products and Services/For citizens/Healthy365_logo.png">
 </div>
+<p></p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Healthy 365 is an app that uses gamification to motivate Singaporeans
+to adopt healthy habits and lifestyles.</p>
+</li>
+<li>
+<p>Makes healthy living fun by rewarding users with points for healthy activities
+(logging meals, steps, purchasing healthier food alternatives).</p>
+</li>
+<li>
+<p>Recommendation of health programs and activities.</p>
+</li>
+<li>
+<p>Offers rewards (e.g. HPB eVouchers, HPB Credit$, SimplyGo eVouchers).</p>
+</li>
+</ul>
 <p>With a conviction to build Tech for Public Good, we develop products that
 not just impact national policies but also enrich the everyday lives of
 Singaporean citizens. One of our proud inventions is the Healthy 365, developed
