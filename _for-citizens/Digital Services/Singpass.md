@@ -35,6 +35,7 @@ agencies and businesses.</p>
 <p>Pre-fills forms with user data for faster transactions.</p>
 </li>
 </ul>
+<hr>
 <p>Singpass is every Singapore resident's trusted digital identity to prove
 who we are when performing everyday transactions like checking our CPF
 balance, booking medical appointments, renewing insurance and more. Access
