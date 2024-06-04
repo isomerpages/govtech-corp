@@ -28,6 +28,7 @@ activity consent forms, and appointment booking.</p>
 meetings, make travel declarations, and access curated parenting resources.</p>
 </li>
 </ul>
+<hr>
 <p>In a bid to strengthen school-home partnerships and help parents become
 more aware of their children's day-to-day schooling activities, GovTech
 collaborated with the Ministry of Education (MOE) to create the Parents
