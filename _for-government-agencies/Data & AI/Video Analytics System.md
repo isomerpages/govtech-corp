@@ -20,15 +20,11 @@ image: /images/Products and Services/For Government Agencies/VAS_meta_image.jpg
 video data, extract insights, and automate tasks.</p>
 </li>
 <li>
-<p>Analyze vast amounts of video data efficiently, overcoming human limitations.</p>
+<p>Analyze vast amounts of video data efficiently, saving time and costs
+by reducing manual analysis needs.</p>
 </li>
 <li>
-<p>Save time and costs by reducing manual analysis needs.</p>
 <p>Used by the National Parks Board to enforce safe distancing during COVID-19.</p>
-</li>
-<li>
-<p>Case studies showcase applications in rotifer health analysis and smoke
-detection.</p>
 </li>
 </ul>
 <hr>
