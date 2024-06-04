@@ -13,6 +13,26 @@ image: /images/Products and Services/For citizens/OurMarriageJourney_meta_image.
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="Our Marriage Journey is Singapore's online marriage registration portal." src="/images/Products and Services/For citizens/OMJ_screenshot_1690x800.jpg">
 </div>
+<p></p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Our Marriage Journey is a Singapore government portal that simplifies
+marriage registration.</p>
+</li>
+<li>
+<p>Provides online services for marriage applications, solemnisation bookings,
+and document management.</p>
+</li>
+<li>
+<p>Benefits about 28,000 couples annually by digitising the marriage registration
+process.</p>
+</li>
+<li>
+<p>Allows filing applications, booking solemnisation dates, conducting video
+solemnisations, searching marriage records, requesting document duplicates,
+updating marital status and more.</p>
+</li>
+</ul>
 <p>Getting married is one of the most joyful events in a person’s life. Among
 the long list of wedding preparation matters is marriage registration.
 Our Marriage Journey aims to make this process a seamless and efficient
