@@ -13,6 +13,20 @@ image: /images/Products and Services/sgfindex-logo.png
 <div class="isomer-image-wrapper">
 <img style="width: 80%;" height="auto" width="100%" alt="SGFinDex logo" src="/images/Digital Gov Efforts/sgfindex_logo.png">
 </div>
+<ul data-tight="true" class="tight">
+<li>
+<p>SGFinDex is a platform that lets you see your financial information (bank
+accounts, CPF balance, etc.) from different institutions in one place.</p>
+</li>
+<li>
+<p>Provides a single view of your finances across government agencies and
+financial institutions.</p>
+</li>
+<li>
+<p>To date, SGFinDex has 150,000 users, connected 290,000 bank accounts and
+facilitated 620,000 data retrievals.</p>
+</li>
+</ul>
 <p>As you progress in your financial planning journey, you’ll likely sign
 up for accounts with different financial institutions to achieve your varied
 savings, investment and insurance goals. Before, reviewing your entire
