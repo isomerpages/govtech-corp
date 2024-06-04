@@ -13,6 +13,25 @@ image: /images/Products and Services/For Government Agencies/VAS_meta_image.jpg
 <div class="isomer-image-wrapper">
 <img style="width: 50%;" height="auto" width="100%" alt="Videa Analytics System (VAS) logo" src="/images/Products and Services/For Government Agencies/VAS_meta_image.jpg">
 </div>
+<p></p>
+<ul data-tight="true" class="tight">
+<li>
+<p>VAS is a government platform that uses video analytics (VA) to analyze
+video data, extract insights, and automate tasks.</p>
+</li>
+<li>
+<p>Analyze vast amounts of video data efficiently, overcoming human limitations.</p>
+</li>
+<li>
+<p>Save time and costs by reducing manual analysis needs.</p>
+<p>Used by the National Parks Board to enforce safe distancing during COVID-19.</p>
+</li>
+<li>
+<p>Case studies showcase applications in rotifer health analysis and smoke
+detection.</p>
+</li>
+</ul>
+<hr>
 <p>The amount of video data collected on a daily basis has increased exponentially
 over the years. In fact, it has reached a point where it is not humanly
 possible – nor is it productive – to deploy manpower to review the massive
