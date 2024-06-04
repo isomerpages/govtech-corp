@@ -65,7 +65,7 @@ think agencies like MOE, IRAS, and NEA! In addition, government agencies
 are also guided by the <a href="/products-and-services/for-government-agencies/digital-standards-and-guides/" rel="noopener noreferrer nofollow" target="_blank"><u>Digital Service Standards (DSS)</u></a> when
 designing digital services. The idea is to make products that are accessible,
 inclusive, usable, and relevant.</p>
-<p>Last but not least, our <a href="/get-involved/join-our-communities/tech-kaki/" rel="noopener noreferrer nofollow" target="_blank"><u>Tech Kaki community</u></a> allows
+<p>Last but not least, our <a href="/our-communities/join-our-communities/tech-kaki/" rel="noopener noreferrer nofollow" target="_blank"><u>Tech Kaki community</u></a> allows
 citizens to actively participate in evaluating the accessibility of digital
 services, providing valuable feedback to us.</p>
 <h3>It’s all about the ecosystem</h3>
