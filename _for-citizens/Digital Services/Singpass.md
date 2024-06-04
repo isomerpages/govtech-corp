@@ -12,6 +12,29 @@ image: /images/Products and Services/For citizens/Singpass_meta_image.png
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="Singpass logo" src="/images/Products and Services/For citizens/Singpass_1690x800.png">
 </div>
+<ul data-tight="true" class="tight">
+<li>
+<p>Singpass is a trusted digital identity for Singapore residents to access
+government and business services online.</p>
+</li>
+<li>
+<p>Secure and convenient access to over 2,700 services across 800 government
+agencies and businesses.</p>
+</li>
+<li>
+<p>Over 41 million transactions every month by 5 million users.</p>
+</li>
+<li>
+<p>Uses biometrics (fingerprint, face verification) or SMS Two-Factor Authentication
+(2FA) for login.</p>
+</li>
+<li>
+<p>Singpass app allows easy login, document signing, and more on the go.</p>
+</li>
+<li>
+<p>Pre-fills forms with user data for faster transactions.</p>
+</li>
+</ul>
 <p>Singpass is every Singapore resident's trusted digital identity to prove
 who we are when performing everyday transactions like checking our CPF
 balance, booking medical appointments, renewing insurance and more. Access
