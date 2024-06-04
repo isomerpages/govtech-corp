@@ -11,6 +11,20 @@ third_nav_title: For Citizens
 <div class="isomer-image-wrapper">
 <img style="width: 70%;" height="auto" width="100%" alt="FileSG logo" src="/images/Products and Services/For citizens/FileSG_logo.png">
 </div>
+<p></p>
+<ul data-tight="true" class="tight">
+<li>
+<p>FileSG is a government platform for receiving, storing, and managing official
+documents issued by different agencies.</p>
+</li>
+<li>
+<p>Provides a central location to access and verify government-issued documents.</p>
+</li>
+<li>
+<p>Allows document retrieval by transaction ID and two-factor authentication
+for non-Singpass users.</p>
+</li>
+</ul>
 <p>From time to time, government agencies will send official documents to
 you. In an effort to make file distribution and management fuss-free, GovTech
 created FileSG, a one-stop digital document management platform. With it,
