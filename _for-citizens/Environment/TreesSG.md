@@ -30,13 +30,14 @@ image: /images/Products and Services/For citizens/TreesSG_resized.jpg
 about trees.</p>
 </li>
 </ul>
+<hr>
 <p>Singapore is proudly a City in a Garden. To further enhance the greenery
 and beautify our living spaces, National Parks Board (NParks) has launched
 the <a href="https://www.nparks.gov.sg/treessg/one-million-trees-movement/about-the-movement" rel="noopener noreferrer nofollow" target="_blank">OneMillionTrees movement</a> as
 part of the Singapore Green Plan 2030, which pledges to add 1 million trees
 to the population by the end of the decade. The movement has gained much
 traction, with over 670,000 trees across 109 families and more than 1,680
-species planted.&nbsp;&nbsp;</p>
+species planted.</p>
 <p>To help you get acquainted with the multitude of trees in Singapore, we
 collaborated with NParks to launch TreesSG. The website is a repository
 of information on trees in Singapore. You can even plant a tree in your
