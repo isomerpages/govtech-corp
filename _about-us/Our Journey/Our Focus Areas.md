@@ -128,7 +128,7 @@ female talents to explore and pursue careers in technology.</p>
 <p>At GovTech, we believe that it’s important to give back and contribute
 whenever we can. Our GovTechies regularly take part in consumer social
 responsibility (CSR) efforts like the annual Hair for Hope (HfH).&nbsp;</p>
-<p>We recently collaborated with Children’s Cancer Foundation to organise
-a HfH event at GovTech's main office, where 46 brave GovTechies made a <em>bald</em> statement
-by shaving their heads for <a href="https://www.instagram.com/p/C7eBYIsJuA-/?utm_source=ig_web_copy_link&amp;igsh=MzRlODBiNWFlZA==" rel="noopener noreferrer nofollow" target="_blank">Hair for Hope 2024</a>.</p>
+<p>We recently collaborated with Children’s Cancer Foundation (to add link)
+to organise a HfH event at GovTech's main office, where 46 brave GovTechies
+made a <em>bald</em> statement by shaving their heads for <a href="https://www.instagram.com/p/C7eBYIsJuA-/?utm_source=ig_web_copy_link&amp;igsh=MzRlODBiNWFlZA==" rel="noopener noreferrer nofollow" target="_blank">Hair for Hope 2024</a>.</p>
 <p></p>
