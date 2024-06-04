@@ -96,7 +96,7 @@ innovation.</div>
 </div>
 </div>
 <p></p>
-<h3>Opportunities for FY2024 — Industry Engagement 2024</h3>
+<h3>Industry Engagement 2024</h3>
 <p></p>
 <div class="iframe-wrapper">
 <iframe style="max-width: 100%;" height="400" width="100%" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/aEgsYHFy1CQ?si=TfUuB9QYK6DrW71K"></iframe>
