@@ -13,6 +13,25 @@ image: /images/Products and Services/mycareersfuture_logo.png
 <div class="isomer-image-wrapper">
 <img style="width: 80%;" height="auto" width="100%" alt="MyCareersFuture logo" src="/images/Products and Services/For citizens/MyCareersFuture_logo.png">
 </div>
+<p></p>
+<ul data-tight="true" class="tight">
+<li>
+<p>MyCareersFuture is a government online career portal that helps job seekers
+find jobs.</p>
+</li>
+<li>
+<p>Connects job seekers with vacancies using AI and data science for personalised
+job recommendations.</p>
+</li>
+<li>
+<p>Over 280,000 job seekers and 50,000 employers use the platform with over
+80,000 job postings.</p>
+</li>
+<li>
+<p>Offers job search guidance, career development tips, and salary range
+information.</p>
+</li>
+</ul>
 <p>Every working adult in Singapore is familiar with the arduous journey
 of finding a job. Aiming to make job searching easier and more fruitful
 is MyCareersFuture.</p>
