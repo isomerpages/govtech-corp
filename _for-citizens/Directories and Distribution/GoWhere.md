@@ -11,6 +11,20 @@ image: /images/Products and Services/gowhere_logo.png
 <div class="isomer-image-wrapper">
 <img style="width: 70%;" height="auto" width="100%" alt="GoWhere logo" src="/images/Products and Services/For citizens/GoWhere_600x300.png">
 </div>
+<ul data-tight="true" class="tight">
+<li>
+<p>GoWhere is a government platform that provides information and resources
+for various government initiatives (e.g. BudgetMealGoWhere, CDCVoucherGoWhere,
+HealthierSGGoWhere, and SupportGoWhere).</p>
+</li>
+<li>
+<p>Centralises information and resources for over 20 government campaigns,
+allowing easy access to various government services and support.</p>
+</li>
+<li>
+<p>Over 61 million visits across 28 government initiatives.</p>
+</li>
+</ul>
 <p>The COVID-19 pandemic taught us that sharing information quickly and effectively
 during emergencies is vital to reassure the public and keep things stable.
 GoWhere was designed as a ground-up initiative to provide the public and
