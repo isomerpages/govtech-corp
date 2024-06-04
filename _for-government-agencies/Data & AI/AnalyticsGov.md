@@ -13,6 +13,27 @@ image: /images/Products and Services/For Government
 <div class="isomer-image-wrapper">
 <img style="width: 50%;" height="auto" width="100%" alt="Analytics.gov logo" src="/images/Products and Services/For Government Agencies/Analytics_gov_meta_image_resized.jpg">
 </div>
+<ul data-tight="true" class="tight">
+<li>
+<p>AG is a secure government platform for developing, deploying, and monitoring
+AI/ML models.</p>
+</li>
+<li>
+<p>Faster AI/ML project development with pre-built templates (Python &amp;
+R compatible).</p>
+</li>
+<li>
+<p>Ensures governance and compliance with data security standards.</p>
+</li>
+<li>
+<p>Enables collaboration and reuse of AI/ML components across government
+projects.</p>
+</li>
+<li>
+<p>Used by over 350 users across 20+ public agencies (e.g., HDB, MOM, SkillsFuture).</p>
+</li>
+</ul>
+<hr>
 <p>Analytics.gov (AG) is a secure platform for government agencies to develop,
 deploy, and monitor their AI/ML models at scale. It is hosted on GCC 2.0
 and provides tools and services for more than 350 users across 20 public
