@@ -14,6 +14,29 @@ image: /images/Products and Services/For
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="Smart City Tech used for Punggol Digital District" src="/images/Products and Services/For businesses/Smart_city_tech_1690x800.jpg">
 </div>
+<p></p>
+<ul data-tight="true" class="tight">
+<li>
+<p>ODP is a government-developed smart city operating system for managing
+various urban functions.</p>
+</li>
+<li>
+<p>Testing through virtual simulations, real-time data collection for optimised
+operations, remote monitoring and control of systems and more.</p>
+</li>
+<li>
+<p>Integrates and manages district cooling, security, car parking systems,
+and facilitates robotic automation.</p>
+</li>
+<li>
+<p>Currently deployed at The JTC Summit (2022) and Woodlands North Coast
+(2023).</p>
+</li>
+<li>
+<p>Planned for wider rollout in Punggol Digital District (PDD) in 2024.</p>
+</li>
+</ul>
+<hr>
 <p>In order for us to build a truly Smart Nation, we need to constantly push
 the envelope. In this regard, we're proud to have partnered with JTC and
 developed the Open Digital Platform (ODP), a proprietary and one-of-its-kind
