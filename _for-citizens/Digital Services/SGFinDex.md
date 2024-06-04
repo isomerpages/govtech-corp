@@ -28,6 +28,7 @@ financial institutions.</p>
 facilitated 620,000 data retrievals.</p>
 </li>
 </ul>
+<hr>
 <p>As you progress in your financial planning journey, you’ll likely sign
 up for accounts with different financial institutions to achieve your varied
 savings, investment and insurance goals. Before, reviewing your entire
