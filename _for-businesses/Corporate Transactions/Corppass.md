@@ -13,6 +13,28 @@ image: /images/Products and Services/For businesses/Corppass_meta_image.jpg
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="Corppass logo" src="/images/Products and Services/For businesses/Corppass_meta_image.jpg">
 </div>
+<p></p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Corppass is a government authorisation system for businesses to manage
+employee access to online government services.</p>
+</li>
+<li>
+<p>One platform for managing employee access to various government services.</p>
+</li>
+<li>
+<p>Grants businesses control over employee permissions for online government
+transactions.</p>
+</li>
+<li>
+<p>Over 550,000 entities in Singapore use Corppass to access over 250 government
+services.</p>
+</li>
+<li>
+<p>Usable by local and foreign entities with a Unique Entity Number (UEN).</p>
+</li>
+</ul>
+<hr>
 <p>From applying for grants to filing taxes, there are many administrative
 transactions that corporate entities need to perform. As part of our vision
 to become a Smart Nation, we aim to streamline these government-business
