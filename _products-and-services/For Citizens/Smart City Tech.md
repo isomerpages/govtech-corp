@@ -9,6 +9,37 @@ variant: tiptap
 image: /images/Products and Services/For citizens/GALE_logo_resized.jpg
 ---
 <h2>Improving vulnerable seniors' quality of life through Smart City Technology</h2>
+<p></p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Government Assisted Living Ecosystem (GALE) improves the quality of life
+for vulnerable seniors through technology.</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Hardware: Personal Alert Button (PAB) for emergencies.</p>
+</li>
+<li>
+<p>Software: Case Management System (CMS) for outreach and care coordination.</p>
+</li>
+<li>
+<p>Manpower: 24/7 telecare operators and Senior Activity Centre (SAC) staff.</p>
+</li>
+</ul>
+</li>
+</ul>
+<ul data-tight="true" class="tight">
+<li>
+<p>Helped the Ministry of Social and Family Development (MSF) and People's
+Association (PA) reach out to 35,000 rental tenants.</p>
+</li>
+<li>
+<p>PAB to be deployed in 26,800 more seniors' homes by 2030.</p>
+</li>
+<li>
+<p>More than 400 medical, social, crime-related, and emergency cases handled
+successfully.</p>
+</li>
+</ul>
 <p>At GovTech, we envision a Smart Nation where technology acts as an equaliser
 to give every citizen a chance to improve his or her quality of life. Driven
 by our mission to build Tech for Public Good, we have undertaken meaningful
