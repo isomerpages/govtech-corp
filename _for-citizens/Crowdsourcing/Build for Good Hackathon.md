@@ -12,6 +12,20 @@ image: /images/Products and Services/For citizens/Build_for_good_logo.png
 <div class="isomer-image-wrapper">
 <img style="width: 60%;" height="auto" width="100%" alt="Build for Good (BFG) hackathon logo" src="/images/Products and Services/For citizens/Build_for_good_logo.png">
 </div>
+<p></p>
+<ul data-tight="true" class="tight">
+<li>
+<p>BFG is an initiative that empowers citizens to contribute to positive
+change through hackathons, an accelerator program, and a community.</p>
+</li>
+<li>
+<p>Connects citizens with resources and opportunities to address public good
+challenges in Singapore.</p>
+</li>
+<li>
+<p>Over 600 participants in 2023 created 13 innovative solutions.</p>
+</li>
+</ul>
 <h3>What is Build for Good?</h3>
 <p><a href="https://www.build.gov.sg/" class="editor-rtfLink" rel="noopener noreferrer nofollow" target="_blank">Build for Good</a>&nbsp;is an initiative
 led by&nbsp;<a href="https://open.gov.sg/" class="editor-rtfLink" rel="noopener noreferrer nofollow" target="_blank">Open Government Products (OGP)</a>&nbsp;and
