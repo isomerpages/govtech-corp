@@ -13,6 +13,21 @@ image: /images/Products and Services/parents_gateway.jpg
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="Parents Gateway: Strengthening school-parents partnership" src="/images/Products and Services/For citizens/Parents_Gateway_1690x800.jpg">
 </div>
+<p></p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Parents Gateway is a government app for parents of MOE school children
+to be involved in their education.</p>
+</li>
+<li>
+<p>Strengthens communication between parents and schools by providing updates,
+activity consent forms, and appointment booking.</p>
+</li>
+<li>
+<p>Parents can monitor child participation in activities, book parent-teacher
+meetings, make travel declarations, and access curated parenting resources.</p>
+</li>
+</ul>
 <p>In a bid to strengthen school-home partnerships and help parents become
 more aware of their children's day-to-day schooling activities, GovTech
 collaborated with the Ministry of Education (MOE) to create the Parents
