@@ -33,6 +33,7 @@ and leaderboard recognition. The platform is also expanding its functionalities
 and reward options.</p>
 </li>
 </ul>
+<hr>
 <p>Much of what the Singapore government does is driven by the goal of bettering
 your life. Being the beneficiary of government initiatives, you are the
 best person to help identify gaps and areas of improvement across different
