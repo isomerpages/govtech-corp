@@ -14,7 +14,7 @@ image: /images/Products and Services/For citizens/Singpass_meta_image.png
 </div>
 <ul data-tight="true" class="tight">
 <li>
-<p>Singpass is a trusted digital identity for Singapore residents to access
+<p>Singpass is a trusted digital identity that allows residents to access
 government and business services online.</p>
 </li>
 <li>
