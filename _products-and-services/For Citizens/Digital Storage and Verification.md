@@ -25,6 +25,7 @@ documents issued by different agencies.</p>
 for non-Singpass users.</p>
 </li>
 </ul>
+<hr>
 <p>From time to time, government agencies will send official documents to
 you. In an effort to make file distribution and management fuss-free, GovTech
 created FileSG, a one-stop digital document management platform. With it,
