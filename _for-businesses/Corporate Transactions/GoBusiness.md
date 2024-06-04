@@ -12,6 +12,29 @@ image: /images/Products and Services/For businesses/GoBusiness_meta_image.jpg
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="GoBusiness logo banner" src="/images/Products and Services/For businesses/GoBusiness_meta_image.jpg">
 </div>
+<p></p>
+<ul data-tight="true" class="tight">
+<li>
+<p>GoBusiness is an online government platform for businesses to access e-services
+and resources.</p>
+</li>
+<li>
+<p>One-stop shop for over 120 government e-services (registration, licenses,
+grants).</p>
+</li>
+<li>
+<p>Access to personalised recommendations from over 200 e-Advisors on various
+business needs.</p>
+</li>
+<li>
+<p>Connects businesses to relevant government services and personalised advice.</p>
+</li>
+<li>
+<p>Facilitated over 6 million government-to-business transactions and helped
+over 56,000 users with e-Adviser recommendations.</p>
+</li>
+</ul>
+<hr>
 <p>As any business owner would know, there are many official matters to take
 care of throughout the different stages of their entrepreneurial journeys.
 Wanting to make it easy for business owners to take charge of these matters,
