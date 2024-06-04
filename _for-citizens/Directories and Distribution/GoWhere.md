@@ -25,6 +25,7 @@ allowing easy access to various government services and support.</p>
 <p>Over 61 million visits across 28 government initiatives.</p>
 </li>
 </ul>
+<hr>
 <p>The COVID-19 pandemic taught us that sharing information quickly and effectively
 during emergencies is vital to reassure the public and keep things stable.
 GoWhere was designed as a ground-up initiative to provide the public and
