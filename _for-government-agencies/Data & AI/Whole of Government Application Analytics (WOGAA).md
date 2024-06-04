@@ -13,6 +13,23 @@ image: /images/Products and Services/For Government Agencies/WOGAA_meta_image.pn
 <div class="isomer-image-wrapper">
 <img style="width: 50%;" height="auto" width="100%" alt="WOGAA logo" src="/images/Products and Services/For Government Agencies/WOGAA_meta_image.png">
 </div>
+<p></p>
+<ul data-tight="true" class="tight">
+<li>
+<p>WOGAA is a government tool for monitoring the performance of government
+websites and digital services.</p>
+</li>
+<li>
+<p>Provides a central dashboard for monitoring and analysing government website
+performance (e.g. tracks website traffic, automated reports with key metrics,
+benchmark performance compared to other government websites).</p>
+</li>
+<li>
+<p>Over 100 million visits made to government websites monthly (indirect
+impact).</p>
+</li>
+</ul>
+<hr>
 <p>Websites and digital services require a tool that can gauge their effectiveness
 and user-friendliness. In this regard, GovTech created the Whole-of-Government
 Application Analytics (WOGAA) to help agencies monitor the performances
