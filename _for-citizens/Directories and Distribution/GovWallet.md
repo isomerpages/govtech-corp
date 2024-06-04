@@ -29,6 +29,7 @@ on PayNow and 43,000 merchants on NETS.</p>
 access.</p>
 </li>
 </ul>
+<hr>
 <p>Gone are the days when the government would use the snail mail method
 to deliver paper vouchers or cheques for the purpose of payout disbursement.
 Not only was the delivery process slow, but the letters would also at times
