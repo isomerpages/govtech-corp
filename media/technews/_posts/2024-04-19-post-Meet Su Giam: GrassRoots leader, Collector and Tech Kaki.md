@@ -13,7 +13,7 @@ variant: tiptap
 <img style="width: 100%" height="auto" width="100%" alt="Su Giam: GrassRoots leader, Collector and Tech Kaki" src="/images/technews/su_giam_technews.jpg">
 </div>
 <p></p>
-<p>In late 2016, GovTech set up <a href="/get-involved/join-our-communities/tech-kaki/" rel="noopener noreferrer nofollow" target="_blank"><u>Tech Kaki</u></a>,
+<p>In late 2016, GovTech set up <a href="/our-communities/join-our-communities/tech-kaki/" rel="noopener noreferrer nofollow" target="_blank"><u>Tech Kaki</u></a>,
 a citizen community,​​ ​to encourage participation and collect user feedback
 in the development of government digital products and services (think LifeSG,
 Singpass, MyLegacy, etc). &nbsp; Since its inception, Tech Kaki members
