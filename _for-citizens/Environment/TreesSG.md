@@ -15,6 +15,21 @@ image: /images/Products and Services/For citizens/TreesSG_resized.jpg
 </div>
 <p><em>Screenshot from <a href="https://www.nparks.gov.sg/treessg" rel="noopener noreferrer nofollow" target="_blank">TreesSG website</a></em>
 </p>
+<ul data-tight="true" class="tight">
+<li>
+<p>TreesSG is a government website supporting the OneMillionTrees movement.</p>
+</li>
+<li>
+<p>Provides information about trees in Singapore and allows virtual tree-planting.</p>
+</li>
+<li>
+<p>Contributes to the OneMillionTrees movement with over 670,000 trees planted.</p>
+</li>
+<li>
+<p>Offers an interactive map, DIY trails, and educational resources to learn
+about trees.</p>
+</li>
+</ul>
 <p>Singapore is proudly a City in a Garden. To further enhance the greenery
 and beautify our living spaces, National Parks Board (NParks) has launched
 the <a href="https://www.nparks.gov.sg/treessg/one-million-trees-movement/about-the-movement" rel="noopener noreferrer nofollow" target="_blank">OneMillionTrees movement</a> as
