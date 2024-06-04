@@ -67,7 +67,7 @@ and sustain our signature employee-centric culture.</p>
 <div class="isomer-card">
 <div class="isomer-card-image">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="GovTechies having fun whilst drinking some beverages" src="/images/careers/Careers_overview_card_1_600x400.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="GovTechies having fun at Dinner and dance recreational event 2023" src="/images/careers/Careers_overview_card_1_600x400.jpg">
 </div>
 </div>
 <div class="isomer-card-body">
