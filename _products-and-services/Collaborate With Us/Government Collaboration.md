@@ -47,7 +47,7 @@ of safe-distancing measures. It also collected video data on traffic.</div>
 <div class="isomer-image-wrapper">
 <img style="width: 60%;" height="auto" width="100%" alt="Tech Kaki logo" src="/images/Get Involved/techkaki_logo__horizontal_.png">
 </div>
-<p>Set up in 2016, our <a href="/get-involved/join-our-communities/tech-kaki/" rel="noopener noreferrer nofollow" target="_blank"><u>Tech Kaki Community</u></a> allows
+<p>Set up in 2016, our <a href="/our-communities/join-our-communities/tech-kaki/" rel="noopener noreferrer nofollow" target="_blank"><u>Tech Kaki Community</u></a> allows
 citizens to directly provide feedback on the government's digital products
 and services. Today, it has grown to become a 7,000-strong community.</p>
 <p>Tap on this community to conduct user testing for your products. Gain
