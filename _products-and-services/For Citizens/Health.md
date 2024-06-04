@@ -28,6 +28,7 @@ to adopt healthy habits and lifestyles.</p>
 <p>Offers rewards (e.g. HPB eVouchers, HPB Credit$, SimplyGo eVouchers).</p>
 </li>
 </ul>
+<hr>
 <p>With a conviction to build Tech for Public Good, we develop products that
 not just impact national policies but also enrich the everyday lives of
 Singaporean citizens. One of our proud inventions is the Healthy 365, developed
