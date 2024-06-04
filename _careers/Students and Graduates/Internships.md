@@ -73,9 +73,8 @@ our internship applications.</p>
 <img style="width: 100%" height="auto" width="100%" alt="Application periods for GovTech's internship programmes" src="/images/careers/2024_internship_application_periods_compressed.jpg">
 </div>
 <p></p>
-<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="GovTech's internship application processes" src="/images/careers/internships_infographic.jpg">
+<img style="width: 80%;" height="auto" width="100%" alt="GovTech's internship application processes" src="/images/careers/internships_infographic.jpg">
 </div>
 <p></p>
 <div class="isomer-image-wrapper">
