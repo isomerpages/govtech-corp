@@ -12,6 +12,25 @@ image: /images/Products and Services/myenv_logo.png
 <div class="isomer-image-wrapper">
 <img style="width: 30%;" height="auto" width="100%" alt="myENV logo" src="/images/About Us/Our Achievements/myENV_app__rounded_.png">
 </div>
+<ul data-tight="true" class="tight">
+<li>
+<p>myENV is an app that provides real-time environmental data.</p>
+</li>
+<li>
+<p>One-stop platform for weather, air quality, water disruptions, dengue
+clusters, food recalls, and more.</p>
+</li>
+<li>
+<p>Over 200,000 users subscribed to 24-hour air quality alerts.</p>
+</li>
+<li>
+<p>Offers consolidated environmental information, location-specific alerts,
+and issue reporting.</p>
+</li>
+<li>
+<p>Includes a lightning map overlay for recent lightning strikes.</p>
+</li>
+</ul>
 <p>Environment-related information, from weather forecasts to flood alerts,
 dengue clusters to food recalls, is right at your fingertips. Pooling real-time
 information from the National Environment Agency's, Public Utilities Board's
