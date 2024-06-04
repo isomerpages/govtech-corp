@@ -32,6 +32,7 @@ and issue reporting.</p>
 <p>Includes a lightning map overlay for recent lightning strikes.</p>
 </li>
 </ul>
+<hr>
 <p>Environment-related information, from weather forecasts to flood alerts,
 dengue clusters to food recalls, is right at your fingertips. Pooling real-time
 information from the National Environment Agency's, Public Utilities Board's
