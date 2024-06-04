@@ -81,12 +81,11 @@ meaningful nationwide projects and first-hand experiences.</div>
 </div>
 </a>
 </div>
-<div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="/careers/students-and-graduates/smart-nation-scholarship/" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Smart Nation Scholarship recipients posing for a photo" src="/images/careers/Students_graduates_600x300_3__1_.jpg"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Passionate about digitalisation? The Smart Nation Scholarship is for you!</div><div class="isomer-card-description">Jointly offered by the CSA, GovTech, and IMDA, the
-scholarship provides opportunities to carve out a career pathway in applied technology for the public good.</div><div class="isomer-card-link">Explore scholarship</div></div></a>
+<div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="/careers/students-and-graduates/smart-nation-scholarship/" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Smart Nation Scholarship recipients posing for a photo" src="/images/careers/Students_graduates_600x300_3__1_.jpg"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Passionate about digitalisation? The Smart Nation Scholarship is for you!</div><div class="isomer-card-description">Jointly offered by the CSA, GovTech, and IMDA, the scholarship provides opportunities to carve out a career pathway in applied technology for the public good.</div><div class="isomer-card-link">Explore scholarship</div></div></a>
 <a rel="noopener noreferrer nofollow" href="/careers/students-and-graduates/technology-associate-programme/" class="isomer-card">
 <div class="isomer-card-image">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Tech Associate Programme graduate Jovi Loo" src="/images/careers/Students_graduates_600x300_4.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="Tech Associate Programme graduate working at GovTech" src="/images/careers/Students_graduates_600x300_4.jpg">
 </div>
 </div>
 <div class="isomer-card-body">
