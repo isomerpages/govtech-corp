@@ -54,7 +54,7 @@ articles here.</div>
 <p>Join over 6,000 members to drive change in Singapore. By contributing
 feedback, you’ll co-create digital products and services for citizens.</p>
 <p><a href="http://eepurl.com/hsr131" rel="noopener noreferrer nofollow" target="_blank">Become a Tech Kaki</a>.</p>
-<p>Want to know what else our community gets up to? <a href="/get-involved/join-our-communities/tech-kaki/" rel="noopener noreferrer nofollow" target="_blank">Read more about Tech Kaki</a>.</p>
+<p>Want to know what else our community gets up to? <a href="/our-communities/join-our-communities/tech-kaki/" rel="noopener noreferrer nofollow" target="_blank">Read more about Tech Kaki</a>.</p>
 <h3>Behind the scenes at GovTech</h3>
 <h4>Our culture and values</h4>
 <p>Balance is the key to a positive culture at GovTech. We encourage this
