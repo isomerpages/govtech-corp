@@ -32,6 +32,7 @@ job recommendations.</p>
 information.</p>
 </li>
 </ul>
+<hr>
 <p>Every working adult in Singapore is familiar with the arduous journey
 of finding a job. Aiming to make job searching easier and more fruitful
 is MyCareersFuture.</p>
