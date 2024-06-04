@@ -124,11 +124,14 @@ help us attract, develop and retain female talent. Beyond that, our <a href="/me
 a three-month mentorship programme that aims to inspire and encourage young
 female talents to explore and pursue careers in technology.</p>
 <h3>Our efforts in Consumer Social Responsibility</h3>
-<p>&lt;image&gt;</p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="GovTechies volunteering for the Hair for Hope 2024 event at GovTech office" src="/images/About Us/Hair_for_Hope_2024_resized.jpg">
+</div>
 <p>At GovTech, we believe that it’s important to give back and contribute
 whenever we can. Our GovTechies regularly take part in consumer social
-responsibility (CSR) efforts like the annual Hair for Hope (HfH).&nbsp;</p>
-<p>We recently collaborated with Children’s Cancer Foundation (to add link)
-to organise a HfH event at GovTech's main office, where 46 brave GovTechies
+responsibility (CSR) efforts like the annual Hair for Hope (HfH).</p>
+<p>We recently collaborated with <a href="https://www.ccf.org.sg/get-involved/hair-for-hope/" rel="noopener noreferrer nofollow" target="_blank">Children's Cancer Foundation</a> to
+organise a HfH event at GovTech's main office, where 46 brave GovTechies
 made a <em>bald</em> statement by shaving their heads for <a href="https://www.instagram.com/p/C7eBYIsJuA-/?utm_source=ig_web_copy_link&amp;igsh=MzRlODBiNWFlZA==" rel="noopener noreferrer nofollow" target="_blank">Hair for Hope 2024</a>.</p>
 <p></p>
