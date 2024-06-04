@@ -13,6 +13,26 @@ image: /images/Products and Services/For citizens/crowdtask_600x300.png
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="CrowdTaskSG banner image/logo" src="/images/Products and Services/For citizens/CTSG_banner.jpg">
 </div>
+<p></p>
+<ul data-tight="true" class="tight">
+<li>
+<p>CrowdTaskSG is a government platform that lets citizens share feedback
+and ideas with government agencies.</p>
+</li>
+<li>
+<p>Citizens can participate in surveys, polls, and A/B testing to influence
+government services and policy.</p>
+</li>
+<li>
+<p>Over 80 government agencies have received over 290,000 insights from more
+than 30,000 active users.</p>
+</li>
+<li>
+<p>Users earn rewards for participating, including redeemable points, cash,
+and leaderboard recognition. The platform is also expanding its functionalities
+and reward options.</p>
+</li>
+</ul>
 <p>Much of what the Singapore government does is driven by the goal of bettering
 your life. Being the beneficiary of government initiatives, you are the
 best person to help identify gaps and areas of improvement across different
