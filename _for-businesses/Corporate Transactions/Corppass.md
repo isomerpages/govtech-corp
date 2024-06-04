@@ -30,9 +30,6 @@ transactions.</p>
 <p>Over 550,000 entities in Singapore use Corppass to access over 250 government
 services.</p>
 </li>
-<li>
-<p>Usable by local and foreign entities with a Unique Entity Number (UEN).</p>
-</li>
 </ul>
 <hr>
 <p>From applying for grants to filing taxes, there are many administrative
