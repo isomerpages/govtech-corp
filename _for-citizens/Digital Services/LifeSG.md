@@ -11,6 +11,27 @@ image: /images/Products and Services/For citizens/LifeSG_meta_image.jpg
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="LifeSG logo" src="/images/Products and Services/For citizens/LifeSG__high_res__page_0001.jpg">
 </div>
+<ul data-tight="true" class="tight">
+<li>
+<p>LifeSG provides easy access to over 100 government services in one place,
+from booking facilities to finding social support.</p>
+</li>
+<li>
+<p>Over 1.5 million users access government services conveniently.</p>
+</li>
+<li>
+<p>Offers personalised recommendations and eligibility checks for government
+schemes.</p>
+</li>
+<li>
+<p>Provides resources and guides for various life stages (families, young
+adults, seniors).</p>
+</li>
+<li>
+<p>Includes new features like: My Legacy planning, BudgetMealGoWhere recommendations,
+SupportGoWhere assistance search, and reporting neighborhood issues.</p>
+</li>
+</ul>
 <p>From welcoming a new bundle of joy to preparing for your future with legacy
 planning, as you enter new chapters of your life, you will need access
 to different government resources and support. Streamlining your search
