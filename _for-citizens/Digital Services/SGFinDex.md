@@ -13,6 +13,7 @@ image: /images/Products and Services/sgfindex-logo.png
 <div class="isomer-image-wrapper">
 <img style="width: 80%;" height="auto" width="100%" alt="SGFinDex logo" src="/images/Digital Gov Efforts/sgfindex_logo.png">
 </div>
+<p></p>
 <ul data-tight="true" class="tight">
 <li>
 <p>SGFinDex is a platform that lets you see your financial information (bank
