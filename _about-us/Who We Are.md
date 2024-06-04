@@ -117,8 +117,8 @@ Singapore. We leverage each other's strengths to get the best results.</div>
 or not, learn more about our communities below as you look for the right
 fit.</p>
 <p></p>
-<div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="/get-involved/join-our-communities/tech-kaki/" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Tech Kaki tech community Singapore logo" src="/images/Get Involved/Tech_Kaki_600x300.png"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Tech Kaki</div><div class="isomer-card-description">Co-create digital products and services for citizens' everyday use by attending user testing sessions, interviews and more.</div><div class="isomer-card-link">Join Tech Kaki community</div></div></a>
-<a rel="noopener noreferrer nofollow" href="/get-involved/join-our-communities/stack-community/" class="isomer-card">
+<div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="/our-communities/join-our-communities/tech-kaki/" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Tech Kaki tech community Singapore logo" src="/images/Get Involved/Tech_Kaki_600x300.png"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Tech Kaki</div><div class="isomer-card-description">Co-create digital products and services for citizens' everyday use by attending user testing sessions, interviews and more.</div><div class="isomer-card-link">Join Tech Kaki community</div></div></a>
+<a rel="noopener noreferrer nofollow" href="/our-communities/join-our-communities/stack-community/" class="isomer-card">
 <div class="isomer-card-image">
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="GovTech STACK community tech conference" src="/images/Get Involved/Stack_community_new__600x300.png">
