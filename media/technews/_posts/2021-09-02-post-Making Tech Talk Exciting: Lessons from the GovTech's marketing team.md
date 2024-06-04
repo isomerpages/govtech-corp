@@ -68,7 +68,7 @@ e-service experience with services from big tech companies like Google
 and Netflix.</p>
 <p>Hence, GovTech’s products must appeal to as wide an audience as possible
 and be comparable to the best tech products.</p>
-<p>To meet these high standards, platforms such as the&nbsp;<a href="https://www.tech.gov.sg/products-and-services/tech-kaki-community/" class="editor-rtfLink" rel="noopener noreferrer nofollow" target="_blank">Tech Kaki Community</a>&nbsp;and&nbsp;
+<p>To meet these high standards, platforms such as the&nbsp;<a href="/our-communities/join-our-communities/tech-kaki/" class="editor-rtfLink" rel="noopener noreferrer nofollow" target="_blank">Tech Kaki Community</a>&nbsp;and&nbsp;
 <a href="https://t.me/s/govtechbytes" class="editor-rtfLink" rel="noopener noreferrer nofollow" target="_blank">GovTech’s Telegram</a>&nbsp;channel are invaluable in getting feedback
 and soliciting for user testing right from the start. Feedback is then
 rapidly incorporated as we develop our products using agile principles
