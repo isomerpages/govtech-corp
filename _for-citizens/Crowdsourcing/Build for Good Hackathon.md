@@ -26,6 +26,7 @@ challenges in Singapore.</p>
 <p>Over 600 participants in 2023 created 13 innovative solutions.</p>
 </li>
 </ul>
+<hr>
 <h3>What is Build for Good?</h3>
 <p><a href="https://www.build.gov.sg/" class="editor-rtfLink" rel="noopener noreferrer nofollow" target="_blank">Build for Good</a>&nbsp;is an initiative
 led by&nbsp;<a href="https://open.gov.sg/" class="editor-rtfLink" rel="noopener noreferrer nofollow" target="_blank">Open Government Products (OGP)</a>&nbsp;and
