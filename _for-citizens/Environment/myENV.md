@@ -12,6 +12,7 @@ image: /images/Products and Services/myenv_logo.png
 <div class="isomer-image-wrapper">
 <img style="width: 30%;" height="auto" width="100%" alt="myENV logo" src="/images/About Us/Our Achievements/myENV_app__rounded_.png">
 </div>
+<p></p>
 <ul data-tight="true" class="tight">
 <li>
 <p>myENV is an app that provides real-time environmental data.</p>
