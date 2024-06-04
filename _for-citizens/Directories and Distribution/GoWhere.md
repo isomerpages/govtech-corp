@@ -15,7 +15,7 @@ image: /images/Products and Services/gowhere_logo.png
 <li>
 <p>GoWhere is a government platform that provides information and resources
 for various government initiatives (e.g. BudgetMealGoWhere, CDCVoucherGoWhere,
-HealthierSGGoWhere, and SupportGoWhere).</p>
+and SupportGoWhere).</p>
 </li>
 <li>
 <p>Centralises information and resources for over 20 government campaigns,
