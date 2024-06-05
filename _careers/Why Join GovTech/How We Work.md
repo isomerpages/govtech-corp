@@ -48,30 +48,32 @@ projects.</div>
 <div class="isomer-card">
 <div class="isomer-card-image">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Enjoy work-life balance while working at GovTech" src="/images/careers/Flexible_work_arrangement_600x300.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="Working at GovTech is diverse, inclusive, and inspiring" src="/images/careers/Positive_work_atmosphere_600x300.jpg">
 </div>
 </div>
 <div class="isomer-card-body">
-<div class="isomer-card-title">Flexible work arrangement</div>
-<div class="isomer-card-description">We provide generous leave benefits to meet your needs for a balanced work
-and family life. Work from home or take a break and exercise if you need
-to.</div>
+<div class="isomer-card-title">A positive atmosphere for work</div>
+<div class="isomer-card-description">Be part of an inspiring work environment. Champion inclusivity and diversity
+through Employee Resource Groups such as the Women in (Gov)Tech community
+or give back to the community with our volunteer time-off programme.</div>
 </div>
 </div>
 <div class="isomer-card">
 <div class="isomer-card-image">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Working at GovTech is super fun" src="/images/careers/Positive_work_atmosphere_600x300.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="Enjoy work-life balance while working at GovTech" src="/images/careers/Flexible_work_arrangement_600x300.jpg">
 </div>
 </div>
 <div class="isomer-card-body">
-<div class="isomer-card-title">A positive atmosphere for work</div>
-<div class="isomer-card-description">From collaborative workspaces to a games area, our office environment
-is carefully designed to allow our GovTechies to work hard and play hard.</div>
+<div class="isomer-card-title">Work hard, play hard!</div>
+<div class="isomer-card-description">Hybrid work arrangements give you the flexibility to manage your time
+better. In your spare time, unleash your fun side with Play@GovTech events
+or connect with fellow hobbyists in our Special Interest Groups.</div>
 </div>
 </div>
 </div>
-<p>For more details head to <a href="/careers/why-join-govtech/overview/" rel="noopener noreferrer nofollow" target="_blank">Why Join GovTech | Overview</a>.</p>
+<p>For more details, head to <a href="/careers/why-join-govtech/overview/" rel="noopener noreferrer nofollow" target="_blank">Why Join GovTech | Overview</a> to
+explore how GovTech offers a well-rounded employee experience.</p>
 <h3>We nurture a culture of excellence</h3>
 <p></p>
 <div class="isomer-image-wrapper">
