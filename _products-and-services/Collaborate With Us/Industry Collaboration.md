@@ -279,7 +279,7 @@ and "engaging" for the audiences! Needless to say, nothing beats f2f to
 mingle (lots of networking) with industry peers and business acquaintances!"</p>
 </blockquote>
 <p>~ Paul Lee, Cyber Senior Business Director</p>
-<p>For more details, refer to the <a href="/media/media-releases/fy24-government-to-spend-more-than-3b-to-modernise-ict-infrastructure-and-develop-digital-services/" rel="noopener noreferrer nofollow" target="_blank">FY24 Industry Engagement media release</a>.</p>
+<p>For more details, refer to the <a href="/media/media-releases/fy24-government-to-spend-more-than-3b-on-infrastructure-and-digital-services/" rel="noopener noreferrer nofollow" target="_blank">FY24 Industry Engagement media release</a>.</p>
 <p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="Collaborate with GovTech" src="/images/Products and Services/Collaborate with us/industry_collaboration_infographic.jpg">
