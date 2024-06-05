@@ -91,7 +91,7 @@ Whole-of-Government credentials to get started.</p>
 </li>
 <li>
 <p>Have a use case that you would like to test on VAS? Please submit your
-interest via the <a href="go.gov.sg/vas-interest" rel="noopener noreferrer nofollow" target="_blank">form</a>.</p>
+interest via the <a href="https://go.gov.sg/vas-interest" rel="noopener noreferrer nofollow" target="_blank">form</a>.</p>
 </li>
 </ul>
 <p><em>Note: VAS is available to WOG agencies on a subscription basis. An active subscription is required for VAS access.</em>
