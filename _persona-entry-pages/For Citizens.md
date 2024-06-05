@@ -41,7 +41,7 @@ curated to give you tech tips, behind-the-scenes stories and more.</p>
 <div class="isomer-card-title">TechNews articles</div>
 <div class="isomer-card-description">Check out the latest stories at GovTech and the full list of TechNews
 articles here.</div>
-<div class="isomer-card-link">Check out TechNews database</div>
+<div class="isomer-card-link">Discover more TechNews stories</div>
 </div>
 </a>
 </div>
