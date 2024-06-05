@@ -31,7 +31,7 @@ feedback on initiatives such as IM8 and procurement processes</p>
 <p><strong>Sharing best practices</strong> - Share best practices on project
 management and problem solving through collaborations such as hackathons
 (e.g. <a href="/products-and-services/for-government-agencies/productivity-and-marketing/launchpad/" rel="noopener noreferrer nofollow" target="_blank">LAUNCH! hackathon</a>),
-workshops, and meet-ups (e.g. <a href="/get-involved/join-our-communities/stack-community/" rel="noopener noreferrer nofollow" target="_blank">STACK community events</a>)</p>
+workshops, and meet-ups (e.g. <a href="/our-communities/join-our-communities/stack-community/" rel="noopener noreferrer nofollow" target="_blank">STACK community events</a>)</p>
 </li>
 </ul>
 <p>Start exploring partnership opportunities for products, projects, and
