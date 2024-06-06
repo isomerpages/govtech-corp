@@ -13,6 +13,31 @@ image: /images/Products and Services/For Government Agencies/SGTS_meta_image.jpg
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="Singapore Government Tech Stack (SGTS) — a smarter and faster platform for building applications. Presentation at IE2024." src="/images/Products and Services/For Government Agencies/IE_SGTS_1690x800.jpg">
 </div>
+<p></p>
+<ul data-tight="true" class="tight">
+<li>
+<p>SGTS is a government initiative that provides a development platform and
+best practices to streamline digital service creation.</p>
+</li>
+<li>
+<p>Faster development and launch of digital services and easier data exchange
+between government agencies for better policy making.</p>
+</li>
+<li>
+<p>Access to pre-built, secure, and consistent development tools.</p>
+</li>
+<li>
+<p>Reduced focus on infrastructure development, allowing for a user-centric
+approach.</p>
+</li>
+<li>
+<p>Over 40 agencies using SGTS, with more than 200 cloud-based systems implemented.</p>
+</li>
+<li>
+<p>Reduced development time for projects like Myinfo (4 months vs. 1 year).</p>
+</li>
+</ul>
+<hr>
 <p>Every digital service that the government launches is aimed at enriching
 a certain aspect of Singaporeans' lives. To help our sister agencies get
 their ideas quickly to launch instead of spending time in development limbo,
