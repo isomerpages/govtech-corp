@@ -98,11 +98,11 @@ effectiveness.</div>
 </a><a rel="noopener noreferrer nofollow" href="/products-and-services/for-government-agencies/knowledge-and-training/" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Knowledge and Training" src="/images/Products and Services/Product overview card images/Knowledge_and_Trainin.png"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Knowledge and Training</div><div class="isomer-card-description">Empowering public officers to continually upskill with Knowledge and Training tools.</div><div class="isomer-card-link">Find out more</div></div></a>
 </div>
 <p></p>
-<div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="/products-and-services/for-government-agencies/digital-standards-and-guides/" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Digital Standards and Guides" src="/images/Products and Services/Product overview card images/Digital_Standards_and_Guides.png"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Digital Standards and Guides</div><div class="isomer-card-description">Ensuring a positive, consistent user experience through Digital Standards and Guides.</div><div class="isomer-card-link">Find out more</div></div></a>
+<div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="/products-and-services/for-government-agencies/digital-standards-and-guides/" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Digital Standards and Guides" src="/images/Products and Services/Product overview card images/Digital_Standards_and_Guides_compressed.jpg"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Digital Standards and Guides</div><div class="isomer-card-description">Ensuring a positive, consistent user experience through Digital Standards and Guides.</div><div class="isomer-card-link">Find out more</div></div></a>
 <a rel="noopener noreferrer nofollow" href="/products-and-services/for-government-agencies/ict-and-infrastructure/" class="isomer-card">
 <div class="isomer-card-image">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="ICT and Infrastructure" src="/images/Products and Services/Product overview card images/ICT_and_infrastructure.png">
+<img style="width: 100%" height="auto" width="100%" alt="ICT and Infrastructure" src="/images/Products and Services/Product overview card images/ICT_and_Infrastructure_compressed.jpg">
 </div>
 </div>
 <div class="isomer-card-body">
@@ -111,6 +111,6 @@ effectiveness.</div>
 Government.</div>
 <div class="isomer-card-link">Find out more</div>
 </div>
-</a><a rel="noopener noreferrer nofollow" href="/products-and-services/for-government-agencies/digital-verification" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Digital Verification" src="/images/Products and Services/Product overview card images/Digital_Verification.png"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Digital Verification</div><div class="isomer-card-description">Simplifying the verification of digital documents using blockchain.</div><div class="isomer-card-link">Find out more</div></div></a>
+</a><a rel="noopener noreferrer nofollow" href="/products-and-services/for-government-agencies/digital-verification" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Digital Verification" src="/images/Products and Services/Product overview card images/Digital_Verfication.jpg"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Digital Verification</div><div class="isomer-card-description">Simplifying the verification of digital documents using blockchain.</div><div class="isomer-card-link">Find out more</div></div></a>
 </div>
 <p></p>
