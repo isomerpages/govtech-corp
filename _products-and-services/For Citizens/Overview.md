@@ -61,15 +61,16 @@ partnerships with Parents Gateway.</div>
 <div class="isomer-card-link">Find out more</div>
 </div>
 </a><a rel="noopener noreferrer nofollow" href="/products-and-services/for-citizens/smart-city-tech/" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Improving Singaporeans' quality of life through smart city technology." src="/images/Products and Services/Product overview card images/Smart_City_Tech.png"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Smart City Tech</div><div class="isomer-card-description">The Government Assisted Living Ecosystem (GALE) aims to help vulnerable senior citizens live independent lives through assistive solutions.</div><div class="isomer-card-link">Find out more</div></div></a>
-<a rel="noopener noreferrer nofollow" href="https://www.isomer.gov.sg" class="isomer-card">
+<a rel="noopener noreferrer nofollow" href="/products-and-services/for-citizens/scam-prevention/" class="isomer-card">
 <div class="isomer-card-image">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Scam Prevention" src="/images/Products and Services/Product overview card images/Cybersecurity.png">
+<img style="width: 100%" height="auto" width="100%" alt="Scam prevention against scam websites." src="/images/Products and Services/Product overview card images/Cybersecurity.png">
 </div>
 </div>
 <div class="isomer-card-body">
 <div class="isomer-card-title">Scam Prevention</div>
-<div class="isomer-card-description">This is body text for your card. Describe your card.</div>
+<div class="isomer-card-description">Learn how the Scam Analytics and Tactical Intervention System (SATIS)
+hunts, analyses and disrupts scam websites online.</div>
 <div class="isomer-card-link">Find out more</div>
 </div>
 </a>
