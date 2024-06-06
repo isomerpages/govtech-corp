@@ -40,8 +40,8 @@ sector as well as enhance our existing solutions.</p>
 as well as enriching courses and workshops from in-house and external learning
 partners, so you can stay ahead of the curve in the constantly-evolving
 tech landscape.</p>
-<p>Prepare to embrace these exciting opportunities and lead the digital transformation,
-helping to develop Singapore into a Smart Nation!</p>
+<p>Embrace internal mobility opportunities and job rotations to upskill continuously,
+master your craft, and realise your full potential.</p>
 <h4>Work for a reputable employer</h4>
 <p>“Is GovTech a good employer?” That’s a question on every interested jobseeker’s
 mind. As a caring employer, we put the interests of our people — whom we
