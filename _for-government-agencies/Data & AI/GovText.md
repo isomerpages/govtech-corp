@@ -13,6 +13,26 @@ image: /images/Products and Services/For Government Agencies/GovText_meta_image.
 <div class="isomer-image-wrapper">
 <img style="width: 80%;" height="auto" width="100%" alt="GovText logo" src="/images/Products and Services/For Government Agencies/GovText_meta_image.png">
 </div>
+<p></p>
+<ul data-tight="true" class="tight">
+<li>
+<p>GovText is a government platform that uses Natural Language Processing
+(NLP) to analyse textual data for public officers.</p>
+</li>
+<li>
+<p>Analyse large amounts of textual data efficiently, uncover hidden topics
+in text using topic modelling and generate summaries of text documents.</p>
+</li>
+<li>
+<p>Access specific tools like Hansard Analysis and IM8 Q&amp;A for drafting
+replies and policy understanding, and experiment with alpha tools like
+feedback clustering and sentiment analysis.</p>
+</li>
+<li>
+<p>Accessible via Whole-of-Government credentials.</p>
+</li>
+</ul>
+<hr>
 <p>Public officers often handle and process large amounts of textual data.
 Analysing and using this information for their daily tasks can be time-consuming.</p>
 <p>GovText, a text Natural Language Processing (NLP) platform, was introduced
