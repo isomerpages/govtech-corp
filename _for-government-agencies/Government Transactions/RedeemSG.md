@@ -13,6 +13,29 @@ image: /images/Products and Services/For Government Agencies/RedeemSG_logo.png
 <div class="isomer-image-wrapper">
 <img style="width: 70%;" height="auto" width="100%" alt="RedeemSG logo" src="/images/Products and Services/For Government Agencies/RedeemSG_logo.png">
 </div>
+<p></p>
+<ul data-tight="true" class="tight">
+<li>
+<p>RedeemSG is a central government platform for managing the issuance and
+redemption of government vouchers.</p>
+</li>
+<li>
+<p>Simplified creation, issuance, and tracking of voucher schemes and easy
+onboarding of merchants to accept government vouchers.</p>
+</li>
+<li>
+<p>Facilitated over $204 million worth of transactions involving more than
+19,000 merchants.</p>
+</li>
+<li>
+<p>98% of Singaporean households have claimed at least one voucher using
+RedeemSG.</p>
+</li>
+<li>
+<p>Used for both government and non-government voucher schemes.</p>
+</li>
+</ul>
+<hr>
 <p>From CDC Vouchers to Climate Vouchers, the Singapore government from time
 to time will introduce schemes to help citizens with their costs of living
 or to incentivise them to embrace positive lifestyles.</p>
