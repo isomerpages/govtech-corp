@@ -24,7 +24,7 @@ best practices to streamline digital service creation.</p>
 between government agencies for better policy making.</p>
 </li>
 <li>
-<p>Access to pre-built, secure, and consistent development tools.</p>
+<p>Access to pre-built and secure development tools.</p>
 </li>
 <li>
 <p>Reduced focus on infrastructure development, allowing for a user-centric
