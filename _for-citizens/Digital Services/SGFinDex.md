@@ -96,6 +96,11 @@ and are coming onboard.</div>
 </div>
 </div>
 </div>
+<p>SGFinDex won the Most Innovative Use of Data for Digital Transformation
+award at the <a href="https://cioacademyasia.org/inspire-tech-awards-2021/" rel="noopener noreferrer nofollow" target="_blank"><u>INSPIRE Tech Awards 2021</u></a>.
+By winning this award, Singapore illustrates the importance, possibilities,
+and impact of public-private sector collaborations, consent-based data-driven
+innovations, and trusted online systems.</p>
 <h3>How to use SGFinDex?</h3>
 <ol data-tight="true" class="tight">
 <li>
