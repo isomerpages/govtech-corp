@@ -20,7 +20,7 @@ image: /images/Products and Services/For Government Agencies/GovText_meta_image.
 (NLP) to analyse textual data for public officers.</p>
 </li>
 <li>
-<p>Analyse large amounts of textual data efficiently, uncover hidden topics
+<p>Analyse large amounts of textual data efficiently, identify key topics
 in text using topic modelling and generate summaries of text documents.</p>
 </li>
 <li>
