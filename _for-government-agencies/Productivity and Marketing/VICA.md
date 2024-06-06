@@ -12,6 +12,25 @@ image: /images/Products and Services/For Government Agencies/vica_logo.png
 <div class="isomer-image-wrapper">
 <img style="width: 70%;" height="auto" width="100%" alt="VICA chatbot logo" src="/images/Products and Services/For Government Agencies/vica_logo.png">
 </div>
+<p></p>
+<ul data-tight="true" class="tight">
+<li>
+<p>VICA is a government platform that uses artificial intelligence and Natural
+Language Processing (NLP) to power public-facing chatbots.</p>
+</li>
+<li>
+<p>Powers chatbots like AskGayle (GovTech), Ask Wally (PUB), and Ask Captain
+Green (NEA).</p>
+</li>
+<li>
+<p>Built on technologies like Google's Dialogflow.</p>
+</li>
+<li>
+<p>Offers new features like Gen AI Playground for data source management,
+auto-complete suggestions, knowledge base control, and response translation.</p>
+</li>
+</ul>
+<hr>
 <p>VICA, or Virtual Intelligent Chat Assistant, is GovTech's next-generation
 virtual assistant platform. This highly intuitive assistant is built on
 natural language processing (NLP) engines, machine learning and AI.</p>
