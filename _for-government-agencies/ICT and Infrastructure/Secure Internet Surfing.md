@@ -19,7 +19,7 @@ image: /images/Products and Services/For Government
 <p>Improves productivity by allowing internet access on work devices.</p>
 </li>
 <li>
-<p>Protects government data with malware filtering and Content Disarm &amp;
+<p>Protects government data with malware filtering and Content Disarm and
 Reconstruction (CDR).</p>
 </li>
 <li>
