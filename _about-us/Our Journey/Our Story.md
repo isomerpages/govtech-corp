@@ -12,8 +12,9 @@ image: /images/About Us/Our_story_meta_image_compressed.jpg
 <p>The founding of GovTech in 2016 was an important milestone in Singapore’s
 digital government transformation. Discover our journey and the important
 achievements we’ve reached to further the Smart Nation initiative.</p>
+<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="GovTech history and Singapore digital government journey" src="/images/About Us/our_story_infographic.jpg">
+<img style="width: 80%;" height="auto" width="100%" alt="GovTech history and Singapore digital government journey" src="/images/About Us/govtech_infographics_Page_2.jpg">
 </div>
 <h3>A new chapter in our digital government journey</h3>
 <p></p>
