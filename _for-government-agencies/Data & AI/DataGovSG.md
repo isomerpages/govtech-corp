@@ -12,6 +12,27 @@ third_nav_title: Data & AI
 <div class="isomer-image-wrapper">
 <img style="width: 60%;" height="auto" width="100%" alt="Data.gov.sg logo" src="/images/Products and Services/For Government Agencies/Data_gov_sg_logo.png">
 </div>
+<p></p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Data.gov.sg is an open government data platform where public agencies
+share their data for public use.</p>
+</li>
+<li>
+<p>Easy data exploration through interactive dashboards and visualisations.</p>
+</li>
+<li>
+<p>Ability to leverage data and APIs for building new digital services.</p>
+</li>
+<li>
+<p>Over 350,000 monthly visitors, more than 30,000 data downloads and 13
+million API calls made monthly.</p>
+</li>
+<li>
+<p>Offers over 4,000 datasets from 69+ government agencies.</p>
+</li>
+</ul>
+<hr>
 <p>Data now play an important role in impacting everyday lives as they can
 enable users to make sound and informed decisions. Recognising this, we
 set up Data.gov.sg, a one-stop open data collective where 90-plus government
