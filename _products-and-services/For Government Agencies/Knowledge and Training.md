@@ -13,6 +13,20 @@ image: /images/Products and Services/For Government Agencies/GT_DA_logo.png
 <div class="isomer-image-wrapper">
 <img style="width: 60%;" height="auto" width="100%" alt="GovTech Digital Academy logo" src="/images/Products and Services/For Government Agencies/DA_logo_edited__higher_res_.png">
 </div>
+<p></p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Digital Academy is a government platform for public officers to access
+and enrol in ICT training programs.</p>
+</li>
+<li>
+<p>Developed through partnerships with public and private entities.</p>
+</li>
+<li>
+<p>Offers a curriculum designed for future-ready skills.</p>
+</li>
+</ul>
+<hr>
 <p>As part of our <a href="/about-us/what-we-do/our-role/" rel="noopener noreferrer nofollow" target="_blank"><u>Digital Government Blueprint</u></a>,
 we hope to shape a public service workforce where every officer is digitally
 confident. That is why we have launched the Digital Academy, which is aimed
