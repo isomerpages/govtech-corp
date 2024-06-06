@@ -9,8 +9,6 @@ variant: tiptap
 image: /images/Products and Services/healthy365_logo.png
 ---
 <h2>Supporting citizens' health journeys through digital tools</h2>
-<p></p>
-<hr>
 <p>As part of our mission to build Tech for Public Good, we continuously
 launch digital tools that allow users to take charge of their own health
 journeys.</p>
