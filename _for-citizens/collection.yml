@@ -2,6 +2,7 @@ collections:
   for-citizens:
     output: true
     order:
+      - Health/.keep
       - Digital Services/.keep
       - Digital Services/Singpass.md
       - Digital Services/LifeSG.md
