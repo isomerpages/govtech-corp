@@ -24,8 +24,8 @@ journeys.</p>
 </div>
 <div class="isomer-card-body">
 <div class="isomer-card-title">Health Appointment System</div>
-<div class="isomer-card-description">The Health Appointment System (HAS) connects users to over 800-plus clinics
-in Singapore as well as allows them to book medical services.</div>
+<div class="isomer-card-description">The Health Appointment System (HAS) connects users to over 800 clinics
+in Singapore and allows them to book medical services.</div>
 <div class="isomer-card-link">Explore HAS</div>
 </div>
 </a>
