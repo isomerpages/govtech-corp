@@ -10,6 +10,26 @@ image: /images/Products and Services/For Government
   Agencies/Secure_internet_surfing_meta_image_resized.jpg
 ---
 <h2>Enabling public officers to browse the web safely on work devices with Secure Internet Surfing (SIS)</h2>
+<p></p>
+<ul data-tight="true" class="tight">
+<li>
+<p>SIS is a government solution for secure web browsing on work devices.</p>
+</li>
+<li>
+<p>Improves productivity by allowing internet access on work devices.</p>
+</li>
+<li>
+<p>Protects government data with malware filtering and Content Disarm &amp;
+Reconstruction (CDR).</p>
+</li>
+<li>
+<p>Uses CDR to reduce download risks by isolating potential threats.</p>
+</li>
+<li>
+<p>Accessible via government intranet with login and whitelist request process.</p>
+</li>
+</ul>
+<hr>
 <p>Circa 2016, in response to the rising surge of cyber threats, the government
 introduced a security measure to have public officers delink their work
 computers from the internet. When surfing the web for work purposes, they
