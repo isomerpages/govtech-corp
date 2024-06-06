@@ -68,6 +68,10 @@ any issues you encounter.</div>
 </div>
 </div>
 </div>
+<p>For their efforts in innovative use of data for citizens' environmental
+awareness, the myENV team was awarded the Special Award for Smart Cities
+- Best in Citizen Wellbeing at the <a href="https://www.idc.com/events/future-enterprise-awards/winners" rel="noopener noreferrer nofollow" target="_blank">IDC Future Enterprise Awards</a> in
+2023.</p>
 <h3>How to use myENV?</h3>
 <p>Simply download the app via the <a href="https://apps.apple.com/sg/app/healthy-365/id1040202154" rel="noopener noreferrer nofollow" target="_blank"><u>App Store</u></a> (for
 Apple devices) or <a href="https://play.google.com/store/apps/details?id=sg.gov.hpb.healthy365&amp;hl=en_SG" rel="noopener noreferrer nofollow" target="_blank"><u>Google Play Store</u></a> (for
