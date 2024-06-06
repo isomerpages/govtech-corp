@@ -56,7 +56,7 @@ you can do to maximise its usefulness.&nbsp;</p>
 </div>
 <p>Heighten its efficiency by reporting any suspicious web activities via
 the <a href="https://www.scamshield.org.sg/about-bot/" rel="noopener noreferrer nofollow" target="_blank"><u>Scam Shield WhatsApp bot</u></a>,
-or the<a href="https://form.gov.sg/63982e109841390011a59121" rel="noopener noreferrer nofollow" target="_blank"> <u>Report a Scam Form</u></a>.</p>
+or the <a href="https://form.gov.sg/63982e109841390011a59121" rel="noopener noreferrer nofollow" target="_blank"><u>Report a Scam Form</u></a>.</p>
 <h4>2. Look out for sites disrupted by SATIS</h4>
 <p></p>
 <div class="isomer-image-wrapper">
