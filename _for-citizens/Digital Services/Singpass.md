@@ -168,6 +168,23 @@ organisations that offer the <strong>Sign with Singpass</strong> service.</p>
 </details>
 </div>
 <p></p>
+<p>For their efforts in innovation and incorporating inclusivity in the Singpass
+product design, the team has been received national and international awards
+such as:</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Public Sector Transformation Awards (One Public Sector Award) — Digital
+Identity for a Nation (2022)</p>
+</li>
+<li>
+<p>IDC Smart City Asia Pacific Awards (SCAPA) for digital equity and accessibility
+(2021)</p>
+</li>
+<li>
+<p>Inspire Tech Awards for the most innovative use of data for digital transformation
+(Southeast Asia) (2021)</p>
+</li>
+</ul>
 <h3>How to use Singpass?</h3>
 <p>All Singaporean Citizens, Permanent Residents (PRs) and Foreign Identification
 Number (FIN) holders aged 15 years old and above are eligible for Singpass.
