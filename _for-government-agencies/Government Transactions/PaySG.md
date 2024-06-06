@@ -13,6 +13,34 @@ image: /images/Products and Services/For Government Agencies/PaySG_logo.png
 <div class="isomer-image-wrapper">
 <img style="width: 70%;" height="auto" width="100%" alt="PaySG white logo" src="/images/Products and Services/For Government Agencies/PaySG_white_logo.png">
 </div>
+<p></p>
+<ul data-tight="true" class="tight">
+<li>
+<p>PaySG is a secure government platform for collecting payments from citizens
+and businesses.</p>
+</li>
+<li>
+<p>No procurement processes, setup charges, or monthly fees.</p>
+</li>
+<li>
+<p>Supports multiple payment methods (debit/credit cards, PayNow, digital
+wallets) and powerful APIs for integration with existing systems.</p>
+</li>
+<li>
+<p>24/7 support with documentation and expert guidance.</p>
+</li>
+<li>
+<p>Collected a total of $23 million and facilitated over 60,000 transactions
+in 2023 alone.</p>
+</li>
+<li>
+<p>Handled over $300 million worth of payments since its inception.</p>
+</li>
+<li>
+<p>Offers new features like recurring payments and integration with FormSG.</p>
+</li>
+</ul>
+<hr>
 <p>A platform built specially for the government, PaySG makes it easy for
 agencies to accept payments from citizens and businesses. In 2023 alone,
 PaySG collected a total of $23 million dollars and facilitated over 60,000
