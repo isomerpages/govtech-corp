@@ -12,6 +12,27 @@ image: /images/Products and Services/For Government Agencies/GCC_meta_image.png
 <div class="isomer-image-wrapper">
 <img style="width: 50%;" height="auto" width="100%" alt="GCC logo" src="/images/Products and Services/For Government Agencies/GCC_meta_image.png">
 </div>
+<p></p>
+<ul data-tight="true" class="tight">
+<li>
+<p>GCC is a government platform that facilitates secure and efficient adoption
+of commercial cloud services.</p>
+</li>
+<li>
+<p>Enhanced cybersecurity with improved monitoring and auditability.</p>
+</li>
+<li>
+<p>Scalable cloud solutions with remote management capabilities.</p>
+</li>
+<li>
+<p>Over 70% of eligible government systems are already on GCC.</p>
+</li>
+<li>
+<p>Examples of key government services on GCC include MyCareersFuture, GoBusiness,
+and WOGAA.</p>
+</li>
+</ul>
+<hr>
 <p>GovTech introduced the Government on Commercial Cloud (GCC) platform to
 provide government agencies with a standardised approach to adopting commercial
 solutions offered by cloud service providers.</p>
