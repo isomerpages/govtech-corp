@@ -13,6 +13,50 @@ image: /images/Products and Services/For Government Agencies/Singpass_API_logo.p
 <div class="isomer-image-wrapper">
 <img style="width: 80%;" height="auto" width="100%" alt="Singpass API logo" src="/images/Products and Services/For businesses/Singpass_API_logo.png">
 </div>
+<p></p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Singpass APIs allow government agencies to integrate Singpass functionalities
+into their digital services.</p>
+</li>
+<li>
+<p>Secure and convenient user authentication for online transactions.</p>
+</li>
+<li>
+<p>Streamlined user registration with pre-filled data from Singpass Myinfo.</p>
+</li>
+<li>
+<p>In-person identity verification using Singpass Identiface and easy consent-based
+biometric verification.</p>
+<ul data-tight="true" class="tight">
+<li>
+<p></p>
+</li>
+<li>
+<p>Timely notification delivery to users through Singpass Notify.</p>
+</li>
+</ul>
+</li>
+<li>
+<p><strong>Key function:</strong>
+</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Provide secure access and identity verification functionalities for government
+digital services.</p>
+</li>
+</ul>
+</li>
+<li>
+<p></p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Singpass has over 4.2 million users with 41 million monthly transactions
+(indirect impact).</p>
+</li>
+</ul>
+</li>
+</ul>
 <p>Today, Singpass is one of the most widely used government apps, with over
 4,200,000 million users performing some 41 million monthly transactions.</p>
 <p>You can leverage this trusted ecosystem and allow your users to transact
