@@ -48,7 +48,7 @@ projects.</div>
 <div class="isomer-card">
 <div class="isomer-card-image">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Working at GovTech is diverse, inclusive, and inspiring" src="/images/careers/Positive_work_atmosphere_600x300.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="Working at GovTech is diverse, inclusive, and inspiring" src="/images/careers/How_we_work_card_1_600x300.jpg">
 </div>
 </div>
 <div class="isomer-card-body">
@@ -61,7 +61,7 @@ or give back to the community with our volunteer time-off programme.</div>
 <div class="isomer-card">
 <div class="isomer-card-image">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Enjoy work-life balance while working at GovTech" src="/images/careers/Flexible_work_arrangement_600x300.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="Enjoy work-life balance while working at GovTech, work hard and play hard" src="/images/careers/How_we_work_card_2_600x300.jpg">
 </div>
 </div>
 <div class="isomer-card-body">
