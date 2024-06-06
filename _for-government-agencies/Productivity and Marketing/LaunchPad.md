@@ -14,6 +14,24 @@ image: /images/Products and Services/For Government
 <div class="isomer-image-wrapper">
 <img style="width: 70%;" height="auto" width="100%" alt="LaunchPad logo" src="/images/Products and Services/For Government Agencies/LaunchPad_logo_screenshot.jpg">
 </div>
+<p></p>
+<ul data-tight="true" class="tight">
+<li>
+<p>LaunchPad is a government platform for public officers to brainstorm ideas,
+experiment with AI tools, and learn about AI applications.</p>
+</li>
+<li>
+<p>Foster innovation and collaboration among public officers.</p>
+</li>
+<li>
+<p>Access to tailored AI solutions is available through LaunchPad's Discover
+feature.</p>
+</li>
+<li>
+<p>Offers Ideathon for collaborative idea generation on specific challenges.</p>
+</li>
+</ul>
+<hr>
 <p>Artificial intelligence (AI) is set to unlock possibilities like never
 before. To help our sister agencies kickstart their own AI transformation
 journeys, we unveiled LaunchPad, an innovation and experimentation platform.</p>
