@@ -11,6 +11,7 @@ image: /images/Products and Services/open_attestation_logo.png
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="OpenAttestation logo" src="/images/Products and Services/For Government Agencies/OpenAttestation.png">
 </div>
+<p></p>
 <ul data-tight="true" class="tight">
 <li>
 <p>OpenAttestation is a government framework for verifying the authenticity
