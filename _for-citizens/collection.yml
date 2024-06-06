@@ -2,9 +2,9 @@ collections:
   for-citizens:
     output: true
     order:
-      - Health/Health Appointment System.md
-      - Health/Healthy 365.md
       - Health/.keep
+      - Health/Healthy 365.md
+      - Health/Health Appointment System.md
       - Digital Services/.keep
       - Digital Services/Singpass.md
       - Digital Services/LifeSG.md
