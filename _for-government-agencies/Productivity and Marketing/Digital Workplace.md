@@ -13,6 +13,23 @@ image: /images/About Us/Digital_Workplace.png
 <div class="isomer-image-wrapper">
 <img style="width: 60%;" height="auto" width="100%" alt="Digital Workplace logo" src="/images/Products and Services/For Government Agencies/Digital_Workplace_logo.png">
 </div>
+<p></p>
+<ul data-tight="true" class="tight">
+<li>
+<p>DWP is a suite of productivity tools designed to create a seamless work
+environment for public officers.</p>
+</li>
+<li>
+<p><strong>Examples:</strong> Access work calendars remotely with CalSync,
+send personalised bulk messages with Postman, create and collect data through
+forms using FormSG and speech-to-text transcription using Transcribe.</p>
+</li>
+<li>
+<p>Accessible via the Government Intranet through the Smart Nation DigiGov
+Portal.</p>
+</li>
+</ul>
+<hr>
 <p>Housing a suite of productivity tools and digital enablers, Digital Workplace
 (DWP) products are designed to allow public officers to move through the
 workday with ease. The suite comprises synced calendars, biometric login<s>s</s>,
