@@ -11,6 +11,25 @@ image: /images/Products and Services/open_attestation_logo.png
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="OpenAttestation logo" src="/images/Products and Services/For Government Agencies/OpenAttestation.png">
 </div>
+<ul data-tight="true" class="tight">
+<li>
+<p>OpenAttestation is a government framework for verifying the authenticity
+of digital documents using blockchain technology.</p>
+</li>
+<li>
+<p>Ensures document integrity with tamper-evident credentials.</p>
+</li>
+<li>
+<p>Verifies the identity of the document issuer.</p>
+</li>
+<li>
+<p>Protects data privacy through selective information disclosure.</p>
+</li>
+<li>
+<p>Open-source framework available for public use.</p>
+</li>
+</ul>
+<hr>
 <p>Today, official government documents are created, transmitted and stored
 digitally. In an era when scams and forgery are rampant, there is a need
 to ensure the authenticity and integrity of these digital documents.</p>
