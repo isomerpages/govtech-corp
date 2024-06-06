@@ -13,6 +13,24 @@ image: /images/Products and Services/For Government Agencies/DLP_banner.jpg
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="Data Loss Prevention (DLP) for government data" src="/images/Products and Services/For Government Agencies/DLP_banner.jpg">
 </div>
+<p></p>
+<ul data-tight="true" class="tight">
+<li>
+<p>DLP is a government data security solution that monitors and controls
+data transfers on government-issued devices to prevent leaks.</p>
+</li>
+<li>
+<p>Protects sensitive government data from accidental or malicious leaks.</p>
+</li>
+<li>
+<p>Activated for email, document printing, web uploads, and data transfers
+to external devices.</p>
+</li>
+<li>
+<p>Prompts users for confirmation before potentially risky data transfers.</p>
+</li>
+</ul>
+<hr>
 <p>When transacting with the government's digital services, the public trusts
 us with their personal information and expects that we will use their data
 responsibly. Any unauthorised use or disclosure of data can cause them
