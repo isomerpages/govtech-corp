@@ -30,7 +30,7 @@ R compatible).</p>
 projects.</p>
 </li>
 <li>
-<p>Used by over 350 users across 20+ public agencies (e.g., HDB, MOM, SkillsFuture).</p>
+<p>Used by over 350 users across 20+ public agencies (e.g. HDB, MOM, SkillsFuture).</p>
 </li>
 </ul>
 <hr>
