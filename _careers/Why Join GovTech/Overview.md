@@ -34,11 +34,12 @@ and make Singapore an even better place to live.</p>
 <h4>Enhance your skills and relish the joy of continuous learning</h4>
 <p>We are an agency filled with multidisciplinary teams of experts from different
 backgrounds. Every day, you’ll work with innovators and explore how new
-and emerging technologies can streamline business workflows in the public
+and emerging technologies can streamline operational workflows in the public
 sector as well as enhance our existing solutions.</p>
 <p>What’s more, you’ll gain access to intensive technical training sessions
-as well as enriching courses and workshops, so your skills and knowledge
-will always stay relevant in an ever-evolving tech landscape.</p>
+as well as enriching courses and workshops from in-house and external learning
+partners, so you can stay ahead of the curve in the constantly-evolving
+tech landscape.</p>
 <p>Prepare to embrace these exciting opportunities and lead the digital transformation,
 helping to develop Singapore into a Smart Nation!</p>
 <h4>Work for a reputable employer</h4>
