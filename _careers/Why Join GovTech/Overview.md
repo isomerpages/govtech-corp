@@ -15,8 +15,8 @@ image: /images/careers/Careers_overview_meta_image_compressed.jpg
 <p>A <a href="https://careers.tech.gov.sg/careers/Home" rel="noopener noreferrer nofollow" target="_blank">GovTech career</a> is
 one that’s filled with purpose and meaning. Our digital transformation
 projects underpin Singapore’s efforts to build a Smart Nation, a home where
-possibilities are powered by infocomm technology and engineering solutions.
-The work you do here will hence better the lives of all Singaporean citizens
+possibilities are powered by technology and engineering solutions. The
+work you do here will hence better the lives of all Singaporean citizens
 and residents.</p>
 <h3>Why join GovTech?</h3>
 <p>From a rewarding career to HR policies that value your welfare, here are
