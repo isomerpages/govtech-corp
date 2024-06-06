@@ -35,13 +35,14 @@ savings, investment and insurance goals. Before, reviewing your entire
 financial portfolio would have been a cumbersome task, as there was no
 ecosystem to facilitate data sharing among government agencies and financial
 institutions.</p>
-<p>But that has changed today. Working with the Monetary Authority of Singapore,
-the Smart Nation and Digital Government Group, The Association of Banks
-in Singapore as well as 16 financial institutions, we have created Singapore
-Financial Data Exchange (SGFinDex). It is the world's first public digital
-infrastructure that uses a national digital identity to allow individuals
-to manage and access financial information held across different government
-agencies and financial institutions.</p>
+<p>But that has changed today. <a href="https://www.sgfindex.gov.sg/" rel="noopener noreferrer nofollow" target="_blank"><u>SGFinDex</u></a> is a joint initiative
+by the <a href="https://www.mas.gov.sg/development/fintech/sgfindex" rel="noopener noreferrer nofollow" target="_blank"><u>Monetary Authority of Singapore (MAS)</u></a> and
+the Smart Nation and Digital Government Group (SNDGG) in collaboration
+with <a href="https://abs.org.sg/consumer-banking/sgfindex" rel="noopener noreferrer nofollow" target="_blank"><u>The Association of Banks in Singapore</u></a> and
+seven participating banks. It is the world’s first public digital infrastructure
+that uses a national digital identity to allow individuals to manage and
+access financial information held across different government agencies
+and financial institutions.</p>
 <p>To date, SGFinDex has 150,000 users, connected 290,000 bank accounts and
 facilitated 620,000 data retrievals.</p>
 <p></p>
