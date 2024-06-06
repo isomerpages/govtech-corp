@@ -17,9 +17,6 @@ image: /images/Products and Services/open_attestation_logo.png
 of digital documents using blockchain technology.</p>
 </li>
 <li>
-<p>Ensures document integrity with tamper-evident credentials.</p>
-</li>
-<li>
 <p>Verifies the identity of the document issuer.</p>
 </li>
 <li>
