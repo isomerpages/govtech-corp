@@ -115,7 +115,8 @@ of awards.</p>
 <p>myENV app (in collaboration with NEA)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Special Award for Smart Cities at the IDC Future Enterprise Awards (2023)</p>
+<p>Special Award for Smart Cities - Best in Citizen Wellbeing at the IDC
+Future Enterprise Awards (2023)</p>
 </td>
 </tr>
 <tr>
