@@ -13,6 +13,29 @@ image: /images/Products and Services/For Government Agencies/Pair_chat_meta_imag
 <div class="isomer-image-wrapper">
 <img style="width: 40%;" height="auto" width="100%" alt="Pair Chat logo" src="/images/Products and Services/For Government Agencies/Pair_chat_meta_image.png">
 </div>
+<p></p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Pair Chat is a government AI chatbot assistant for public officers.</p>
+</li>
+<li>
+<p>Speeds up tasks like writing emails, research, and idea generation.</p>
+</li>
+<li>
+<p>Over 11,000 users across 100+ agencies within the first two months and
+4,500+ weekly active users currently.</p>
+</li>
+<li>
+<p>Powered by Large Language Models (LLMs) similar to ChatGPT.</p>
+</li>
+<li>
+<p>Contextualized for Singapore government use cases.</p>
+</li>
+<li>
+<p>Accessible via Pair Chat website on government-issued devices.</p>
+</li>
+</ul>
+<hr>
 <p>For many working adults in Singapore, ChatGPT has become a great productivity
 tool that speeds up daily tasks. Wanting to let public officers enjoy the
 benefits of using an AI chatbot, we set out to create Pair Chat.&nbsp;</p>
