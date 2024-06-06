@@ -28,35 +28,16 @@ into their digital services.</p>
 <li>
 <p>In-person identity verification using Singpass Identiface and easy consent-based
 biometric verification.</p>
-<ul data-tight="true" class="tight">
-<li>
-<p></p>
 </li>
 <li>
 <p>Timely notification delivery to users through Singpass Notify.</p>
 </li>
-</ul>
-</li>
-<li>
-<p><strong>Key function:</strong>
-</p>
-<ul data-tight="true" class="tight">
-<li>
-<p>Provide secure access and identity verification functionalities for government
-digital services.</p>
-</li>
-</ul>
-</li>
-<li>
-<p></p>
-<ul data-tight="true" class="tight">
 <li>
 <p>Singpass has over 4.2 million users with 41 million monthly transactions
 (indirect impact).</p>
 </li>
 </ul>
-</li>
-</ul>
+<hr>
 <p>Today, Singpass is one of the most widely used government apps, with over
 4,200,000 million users performing some 41 million monthly transactions.</p>
 <p>You can leverage this trusted ecosystem and allow your users to transact
