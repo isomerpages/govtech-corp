@@ -33,8 +33,8 @@ biometric verification.</p>
 <p>Timely notification delivery to users through Singpass Notify.</p>
 </li>
 <li>
-<p>Singpass has over 4.2 million users with 41 million monthly transactions
-(indirect impact).</p>
+<p>Singpass has over 4.2 million users performing around 41 million monthly
+transactions.</p>
 </li>
 </ul>
 <hr>
