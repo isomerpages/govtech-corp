@@ -12,6 +12,29 @@ image: /images/Products and Services/For Government Agencies/Transcribe_logo.png
 <div class="isomer-image-wrapper">
 <img style="width: 70%;" height="auto" width="100%" alt="Transcribe product logo" src="/images/Products and Services/For Government Agencies/Transcribe_logo.png">
 </div>
+<p></p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Transcribe is a speech-to-text transcription tool with features for secure
+data handling, various integrations, and accessibility.</p>
+</li>
+<li>
+<p>Accessible on both the internet and intranet for flexible use.</p>
+</li>
+<li>
+<p>Supports multi-language and various audio or video formats.</p>
+</li>
+<li>
+<p>Reduced processing time for parliamentary transcripts by 40%.</p>
+</li>
+<li>
+<p>Over 200% year-on-year growth in user registration.</p>
+</li>
+<li>
+<p>Offers meeting minutes generation as a new feature.</p>
+</li>
+</ul>
+<hr>
 <p>Transcribing interviews, speeches and meeting minutes is a labour-intensive
 and time-consuming task. While there are many speech-to-text platforms
 in the market, they are not suited for handling confidential and sensitive
