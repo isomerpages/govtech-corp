@@ -13,6 +13,26 @@ image: /images/Products and Services/For Government Agencies/FormSG_logo.png
 <div class="isomer-image-wrapper">
 <img style="width: 50%;" height="auto" width="100%" alt="FormSG logo" src="/images/Products and Services/For Government Agencies/FormSG_logo.png">
 </div>
+<p></p>
+<ul data-tight="true" class="tight">
+<li>
+<p>FormSG is a government tool that allows public officers to create secure
+digital forms for data collection.</p>
+</li>
+<li>
+<p>Easy and quick form creation with drag-and-drop builder and pre-built
+fields.</p>
+</li>
+<li>
+<p>Used by 160 government agencies to create over 600,000 forms. Examples
+of successful use cases include COVID-19 declarations, event registrations,
+and charity drives.</p>
+</li>
+<li>
+<p>Offers new features like payment collection for a seamless user experience.</p>
+</li>
+</ul>
+<hr>
 <p>In a bid to replace the use of paper forms in the public service sector,
 GovTech created FormSG. This form builder tool enables public officers
 to create digital government forms within minutes. It can be used to create
