@@ -143,27 +143,26 @@ as CPF balance, passport number and HDB details on hand.</p>
 <summary><strong>4. Receive timely notifications from government agencies</strong>
 </summary>
 <div data-type="detailsContent" class="isomer-details-content">
-<p>Receive timely notifications from government agencies in the Singpass
-app inbox. For instance, users who are due for NRIC re-registration and
-passport renewal will receive notifications in their app inbox.</p>
+<p>For instance, users who are due for NRIC re-registration and passport
+renewal will receive notifications in their Singpass app inbox.</p>
 </div>
 </details>
 <details class="isomer-details">
-<summary><strong>5. Corporate profiles</strong>
+<summary><strong>5. Digitally sign documents</strong>
+</summary>
+<div data-type="detailsContent" class="isomer-details-content">
+<p>Scan the QR code on the document and authenticate with Singpass. This
+removes the need for users to be physically present to sign documents and
+agreements with organisations that offer the Sign with Singpass service.</p>
+</div>
+</details>
+<details class="isomer-details">
+<summary><strong>6. Corporate profiles</strong>
 </summary>
 <div data-type="detailsContent" class="isomer-details-content">
 <p>Authorised individuals of corporate entities can switch to their corporate
 profile<strong> </strong>to access and view selected corporate data (users
 must have a valid Corppass account).</p>
-</div>
-</details>
-<details class="isomer-details">
-<summary><strong>6. Digitally sign documents</strong>
-</summary>
-<div data-type="detailsContent" class="isomer-details-content">
-<p>Digitally sign documents by scanning a QR code. This removes the need
-for users to be physically present to sign documents and agreements with
-organisations that offer the <strong>Sign with Singpass</strong> service.</p>
 </div>
 </details>
 </div>
