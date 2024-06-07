@@ -49,6 +49,10 @@ projects that impact diverse users with varied accessibility needs.</p>
 and infrastructure developments as well as collaborate with industry partners
 to pilot new technologies. Our efforts have borne fruit.</p>
 <h3>Supporting the assisted living infrastructure</h3>
+<p></p>
+<div class="iframe-wrapper">
+<iframe style="max-width: 100%;" height="400" width="100%" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/RlS7LeI6UvY?si=eoDWFHFU4H3H5x4-"></iframe>
+</div>
 <p>One such project is the Government Assisted Living Ecosystem (GALE). We
 designed, built and rolled out an Internet of Things (IoT) infrastructure
 that enables the provision of caregiving services to vulnerable senior
@@ -64,6 +68,10 @@ System (CMS) as well as a team of telecare operators working 24/7 and
 <img style="width: 100%" height="auto" width="100%" alt="GALE logo" src="/images/Products and Services/For citizens/GALE_logo_resized.jpg">
 </div>
 <h4>PAB: Giving seniors peace of mind as they live independently</h4>
+<p></p>
+<div class="iframe-wrapper">
+<iframe style="max-width: 100%;" height="400" width="100%" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/PVAGSCA3Qa8?si=yTASkYcWexNsyikf"></iframe>
+</div>
 <p></p>
 <div class="iframe-wrapper">
 <iframe style="max-width: 100%;" height="400" width="100%" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/mhI3eCfekcs?si=esmFZkH50iigjfgQ"></iframe>
