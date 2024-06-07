@@ -28,8 +28,8 @@ for potential scams.</p>
 through ScamShield.</p>
 </li>
 <li>
-<p>Disrupted scam websites may display warnings from Google and Singapore
-Police Force or error messages.</p>
+<p>Disrupted scam websites may display warnings from Google and/or SPF, protecting
+citizens from accessing malicious websites.</p>
 </li>
 </ul>
 <hr>
@@ -63,13 +63,13 @@ allowing for swift action.</div>
 <div class="isomer-card">
 <div class="isomer-card-body">
 <div class="isomer-card-title">Disruption of scam websites</div>
-<div class="isomer-card-description">SATIS can take down or block verified scams, thereby eliminating the chance
-of user interaction.</div>
+<div class="isomer-card-description">SATIS can take down or block verified scams, thereby limiting citizens'
+interactions with malicious websites.</div>
 </div>
 </div>
 </div>
 <h3>How to use SATIS?</h3>
-<p>Like all good cybersecurity measures, SATIS runs in the background and
+<p>Like all good cybersecurity measures, SATIS works in the background and
 does not require any additional action on your part. Here are two things
 you can do to maximise its usefulness.&nbsp;</p>
 <h4>1. Contribute by reporting</h4>
@@ -85,8 +85,8 @@ or the <a href="https://form.gov.sg/63982e109841390011a59121" rel="noopener nore
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="The Scam Analytics and Tactical Intervention System will disrupt scam websites." src="/images/Products and Services/For citizens/rMSE_resized.jpg">
 </div>
-<p>Your browser will display a red screen by Google and a message from SPF,
-or an error page, when you land on a scam site. Alert others of it.</p>
+<p>Your browser will display a red-warning screen by Google and/or a message
+from SPF if you land on a SATIS-disrupted scam website.</p>
 <h3>Want to stay updated?</h3>
 <div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="http://eepurl.com/cUwIsD" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Subscribe to TechNews" src="/images/CTA card images/Subscribe_to_the_TN_newsletter.png"></div></div><div class="isomer-card-body"><div class="isomer-card-title">TechNews readers will be the first to receive updates on SATIS!</div><div class="isomer-card-link">Subscribe to TechNews</div></div></a>
 <a rel="noopener noreferrer nofollow" href="http://eepurl.com/hsr131" class="isomer-card">
