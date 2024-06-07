@@ -8,8 +8,9 @@ image: /images/Products and Services/For citizens/HAS_logo.png
 third_nav_title: Health
 ---
 <h2>Enabling easy booking of healthcare services with Health Appointment System</h2>
+<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Health Appointment System" src="/images/Products and Services/For citizens/HAS_600x300.png">
+<img style="width: 100%" height="auto" width="100%" alt="GovTech's Health Appointment System enables the easy booking of healthcare services for citizens." src="/images/Products and Services/For citizens/HAS_1690x800.png">
 </div>
 <p>Convenient access to quality healthcare access is a key determinant of
 a high standard of living. That's why GovTech created the Health Appointment
@@ -24,7 +25,7 @@ of using the system.</p>
 <div class="isomer-card">
 <div class="isomer-card-image">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Placeholder image" src="https://placehold.co/600x400">
+<img style="width: 100%" height="auto" width="100%" alt="GovTech's Health Appointment System allows you to book same-day appointments for services, from vaccinations to health screenings and GP consultations." src="/images/Products and Services/For citizens/HAS_card_1_compressed_600x400.jpg">
 </div>
 </div>
 <div class="isomer-card-body">
@@ -36,7 +37,7 @@ and GP consultations.</div>
 <div class="isomer-card">
 <div class="isomer-card-image">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Placeholder image" src="https://placehold.co/600x400">
+<img style="width: 100%" height="auto" width="100%" alt="The Health Appointment System shows you a full cost breakdown as well as subsidies that you are eligible for." src="/images/Products and Services/For citizens/HAS_card_2_compressed_600x400.jpg">
 </div>
 </div>
 <div class="isomer-card-body">
@@ -48,7 +49,7 @@ prior to the visit.</div>
 <div class="isomer-card">
 <div class="isomer-card-image">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Placeholder image" src="https://placehold.co/600x400">
+<img style="width: 100%" height="auto" width="100%" alt="Get quick access to over 800 clinics in Singapore when you use Health Appointment System." src="/images/Products and Services/For citizens/HAS_card_3_compressed_600x400.jpg">
 </div>
 </div>
 <div class="isomer-card-body">
