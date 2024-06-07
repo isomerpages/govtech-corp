@@ -13,6 +13,27 @@ image: /images/Products and Services/Product overview card
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="GatherSG is a lightweight case management and coordination system." src="/images/Products and Services/For Government Agencies/GatherSG_1690x800.png">
 </div>
+<ul data-tight="true" class="tight">
+<li>
+<p>GatherSG is a government platform for digitalising social service and
+public service operations. It offers a case management and coordination
+system for various workflows (outreach, referral, etc).</p>
+</li>
+<li>
+<p>Enables efficient resource allocation and inter-agency collaboration.</p>
+</li>
+<li>
+<p>Provides clear progress tracking and task management functionalities.</p>
+</li>
+<li>
+<p>Helped manage cases for over 100,000 vulnerable elderly and 35,000 tenants.</p>
+</li>
+<li>
+<p>Assisted in nearly 400 life-threatening situations (when used with Personal
+Alert Button).</p>
+</li>
+</ul>
+<hr>
 <p>A lightweight case management and coordination system, GatherSG aims to
 help social service and public service agencies digitalise their operations
 in a fuss-free manner. It supports nine different tracks, including outreach,
