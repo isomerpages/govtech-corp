@@ -17,9 +17,10 @@ savvy. That is why we have invented the Scam Analytics and Tactical Intervention
 System (SATIS). Powered by artificial intelligence (AI), this platform
 hunts, analyses and disrupts malicious websites such as bank phishing sites
 and job scam sites.&nbsp;</p>
-<p>SATIS is powered by a technology developed by GovTech: the recursive Machine-Learning
-Site Evaluator (rMSE). This technology flags scam sites that are sent to
-the Singapore Police Force (SPF) and/or Google for further action.</p>
+<p>SATIS is powered by a technology developed by GovTech — the recursive
+Machine-Learning Site Evaluator (rMSE). This technology flags scam sites
+that are sent to the Singapore Police Force (SPF) and/or Google for further
+action.</p>
 <h3>What are the benefits of SATIS?</h3>
 <p>SATIS provides three key benefits, as follows.</p>
 <div class="isomer-card-grid">
