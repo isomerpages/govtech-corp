@@ -13,6 +13,27 @@ image: /images/Products and Services/Product overview card
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="Purple A11y logo" src="/images/Products and Services/For Government Agencies/Purple_A11y_1690x800.png">
 </div>
+<p></p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Purple A11y is a government tool that scans and analyses webpages to identify
+and fix accessibility issues</p>
+</li>
+<li>
+<p>Improves accessibility of websites for people with disabilities (PWD).</p>
+</li>
+<li>
+<p>Scanned over 500,000 pages and identified over 7.5 million accessibility
+bugs.</p>
+</li>
+<li>
+<p>Open-source and customisable.</p>
+</li>
+<li>
+<p>Integrates with development workflows.</p>
+</li>
+</ul>
+<hr>
 <p>At GovTech, we champion the need to increase digital inclusion. A huge
 part of that begins with helping our fellow agencies ensure that their
 websites meet accessibility standards, and thus can be used easily by persons
