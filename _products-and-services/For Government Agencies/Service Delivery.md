@@ -35,8 +35,8 @@ Alert Button).</p>
 </li>
 </ul>
 <hr>
-<p>A lightweight case management and coordination system, GatherSG aims to
-help social service and public service agencies digitalise their operations
+<p>A lightweight case management and coordination system, <a href="https://gather.gov.sg/" rel="noopener noreferrer nofollow" target="_blank">GatherSG</a> aims
+to help social service and public service agencies digitalise their operations
 in a fuss-free manner. It supports nine different tracks, including outreach,
 referral, coordination, case management, feedback and appeal. Today, it
 supports numerous initiatives such as increasing vaccination engagement
