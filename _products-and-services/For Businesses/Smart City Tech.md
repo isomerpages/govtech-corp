@@ -18,22 +18,22 @@ image: /images/Products and Services/Product overview card
 <ul data-tight="true" class="tight">
 <li>
 <p>ODP is a government-developed smart city operating system for managing
-various urban functions.</p>
+various urban functions through real-time data integration.</p>
 </li>
 <li>
-<p>Testing through virtual simulations, real-time data collection for optimised
-operations, remote monitoring and control of systems and more.</p>
+<p>Drives Singapore's Smart Nation ambitions by enabling seamless integration
+of sensors and systems.</p>
 </li>
 <li>
-<p>Integrates and manages district cooling, security, car parking systems,
-and facilitates robotic automation.</p>
+<p>Aims to achieve 50% less manpower and 30% lower energy consumption.</p>
 </li>
 <li>
 <p>Currently deployed at The JTC Summit (2022) and Woodlands North Coast
 (2023).</p>
 </li>
 <li>
-<p>Planned for wider rollout in Punggol Digital District (PDD) in 2024.</p>
+<p>Serves as the digital backbone for the Punggol Digital District (PDD),
+Singapore's first smart and sustainable district.</p>
 </li>
 </ul>
 <hr>
