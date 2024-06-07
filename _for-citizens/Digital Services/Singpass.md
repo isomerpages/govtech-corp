@@ -25,7 +25,7 @@ agencies and businesses.</p>
 <p>Over 41 million transactions every month by 5 million users.</p>
 </li>
 <li>
-<p>Uses biometrics (fingerprint, face verification) or SMS Two-Factor Authentication
+<p>Uses biometrics (fingerprint, Face Verification) or SMS Two-Factor Authentication
 (2FA) for login.</p>
 </li>
 <li>
