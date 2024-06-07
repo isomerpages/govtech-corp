@@ -28,10 +28,6 @@ of sensors and systems.</p>
 <p>Aims to achieve 50% less manpower and 30% lower energy consumption.</p>
 </li>
 <li>
-<p>Currently deployed at The JTC Summit (2022) and Woodlands North Coast
-(2023).</p>
-</li>
-<li>
 <p>Serves as the digital backbone for the Punggol Digital District (PDD),
 Singapore's first smart and sustainable district.</p>
 </li>
