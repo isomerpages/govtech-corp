@@ -214,12 +214,13 @@ to protect ourselves from scams.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="The ACT security tips to protect your Singpass account from scams." src="/images/Products and Services/For citizens/SGGov_002_Singpass_fb_post_2_v4_compressed.jpg">
 </div>
-<p>Our Singpass account is for our own use only. Avoid sharing your Singpass
-account or credentials with others. You may be held criminally liable if
-others use your Singpass account to facilitate criminal activities.</p>
+<p>Your Singpass is only for you. You may be held criminally liable if your
+Singpass account is used by others for criminal activities. Avoid giving
+your Singpass credentials (e.g. Singpass ID, password and 2FA details)
+to others.</p>
 <p>For more information on securing your Singpass account, visit <a href="https://go.gov.sg/even-safer-singpass" rel="noopener noreferrer nofollow" target="_blank">https://go.gov.sg/even-safer-singpass</a>.</p>
 <h3>Interested in finding out more about Singpass?</h3>
-<div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="https://www.singpass.gov.sg/main/" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Register online for Singpass account" src="/images/CTA card images/Visit_the_product_website.png"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Register online for Singpass account</div><div class="isomer-card-link">Go to the Singpass website</div></div></a>
+<div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="https://www.singpass.gov.sg/main/" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Register online for a Singpass account" src="/images/CTA card images/Visit_the_product_website.png"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Register online for a Singpass account</div><div class="isomer-card-link">Go to the Singpass website</div></div></a>
 <a rel="noopener noreferrer nofollow" href="http://eepurl.com/hsr131" class="isomer-card">
 <div class="isomer-card-image">
 <div class="isomer-image-wrapper">
