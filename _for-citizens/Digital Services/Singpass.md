@@ -176,12 +176,12 @@ such as:</p>
 Identity for a Nation (2022)</p>
 </li>
 <li>
-<p>IDC Smart City Asia Pacific Awards (SCAPA) for digital equity and accessibility
-(2021)</p>
+<p>IDC Smart City Asia Pacific Awards (SCAPA) - Outstanding Smart City Project
+for Digital Equity and Accessibility for Singpass (2021)</p>
 </li>
 <li>
-<p>Inspire Tech Awards for the most innovative use of data for digital transformation
-(Southeast Asia) (2021)</p>
+<p>Inspire Tech Awards - Most Innovative Use of Data for Digital Transformation
+(Southeast Asia)(2021)</p>
 </li>
 </ul>
 <h3>How to use Singpass?</h3>
