@@ -8,7 +8,6 @@ image: /images/Products and Services/For citizens/HAS_logo.png
 third_nav_title: Health
 ---
 <h2>Enabling easy booking of healthcare services with Health Appointment System</h2>
-<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="Health Appointment System" src="/images/Products and Services/For citizens/HAS_600x300.png">
 </div>
@@ -21,7 +20,6 @@ Since 2022, HAS has facilitated over 300,000 appointments.</p>
 <h3>Why use HAS?</h3>
 <p>HAS is designed to bring you convenience. Here are three key benefits
 of using the system.</p>
-<p></p>
 <div class="isomer-card-grid">
 <div class="isomer-card">
 <div class="isomer-card-image">
@@ -59,5 +57,44 @@ prior to the visit.</div>
 in less than 3 minutes!</div>
 </div>
 </div>
+</div>
+<h3>How to use HAS?</h3>
+<p>Start using HAS in three easy steps!</p>
+<div class="isomer-card-grid">
+<div class="isomer-card">
+<div class="isomer-card-body">
+<div class="isomer-card-title">Find a clinic</div>
+<div class="isomer-card-description">Type in your postal code to see clinics located near you. A qualified
+doctor is never too far away!</div>
+</div>
+</div>
+<div class="isomer-card">
+<div class="isomer-card-body">
+<div class="isomer-card-title">Pick a time slot</div>
+<div class="isomer-card-description">See all available slots for each day, and pick one that’s most convenient
+for you.</div>
+</div>
+</div>
+<div class="isomer-card">
+<div class="isomer-card-body">
+<div class="isomer-card-title">Review and confirm</div>
+<div class="isomer-card-description">See the bill for the service, which is offset by the government subsidy
+you are eligible for.</div>
+</div>
+</div>
+</div>
+<h3>Interested to find out more about HAS?</h3>
+<div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="https://book.health.gov.sg/" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Visit the product website" src="/images/CTA card images/Visit_the_product_website.png"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Visit the HAS website to learn about its features and benefits</div><div class="isomer-card-link">Go to HAS website</div></div></a>
+<a rel="noopener noreferrer nofollow" href="/our-communities/join-our-communities/tech-kaki/" class="isomer-card">
+<div class="isomer-card-image">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Join the Tech Kaki community" src="/images/CTA card images/Join_our_user_testing_community__TK_.png">
+</div>
+</div>
+<div class="isomer-card-body">
+<div class="isomer-card-title">Have suggestions on how to improve HAS? Provide feedback as a Tech Kaki!</div>
+<div class="isomer-card-link">Join Tech Kaki community</div>
+</div>
+</a>
 </div>
 <p></p>
