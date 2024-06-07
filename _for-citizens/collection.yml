@@ -2,9 +2,10 @@ collections:
   for-citizens:
     output: true
     order:
-      - Health/.keep
-      - Health/Healthy 365.md
-      - Health/Health Appointment System.md
+      - Crowdsourcing/.keep
+      - Crowdsourcing/CrowdTaskSG.md
+      - Crowdsourcing/Vulnerability Discovery Programme.md
+      - Crowdsourcing/Build for Good Hackathon.md
       - Digital Services/.keep
       - Digital Services/Singpass.md
       - Digital Services/LifeSG.md
@@ -16,7 +17,6 @@ collections:
       - Environment/.keep
       - Environment/myENV.md
       - Environment/TreesSG.md
-      - Crowdsourcing/.keep
-      - Crowdsourcing/CrowdTaskSG.md
-      - Crowdsourcing/Vulnerability Discovery Programme.md
-      - Crowdsourcing/Build for Good Hackathon.md
+      - Health/.keep
+      - Health/Healthy 365.md
+      - Health/Health Appointment System.md
