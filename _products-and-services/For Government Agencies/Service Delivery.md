@@ -11,7 +11,7 @@ image: /images/Products and Services/Product overview card
 ---
 <h2>GatherSG: Digitalise public and social service operations with minimal effort</h2>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="GatherSG is a lightweight case management and coordination system" src="/images/Products and Services/For Government Agencies/GatherSG_1690x800.png">
+<img style="width: 100%" height="auto" width="100%" alt="GatherSG is a lightweight case management and coordination system." src="/images/Products and Services/For Government Agencies/GatherSG_1690x800.png">
 </div>
 <p>A lightweight case management and coordination system, GatherSG aims to
 help social service and public service agencies digitalise their operations
@@ -57,7 +57,6 @@ on Case Connect.</div>
 </div>
 </div>
 </div>
-<p></p>
 <div class="isomer-card-grid">
 <div class="isomer-card">
 <div class="isomer-card-image">
@@ -84,5 +83,23 @@ as control access.</div>
 </div>
 </div>
 </div>
+<h4>Personal Alert Button (PAB)</h4>
 <p></p>
+<p>By 2030, the number of seniors living alone is projected to reach 83,000.
+In a bid to help elderly persons live safely and independently, GovTech
+invented the PAB, a hardware Internet of Things (IoT) device. Installed
+in the homes of seniors currently living alone, this alert device allows
+them to call for help in the event of an emergency.</p>
+<p>GatherSG is deployed in tandem with the PAB as the back-end case management
+system, which is supported by telecare operators and staff from Senior
+Activity Centres. With GatherSG, the personnel are alerted to new cases
+that have arisen and can keep an eye on those that require follow-up.</p>
+<p>To date, the combined system has provided assistance to over 100,000 vulnerable
+elderly, 35,000 government rental flat tenants, and handled almost 400
+life-threatening cases.</p>
+<h3>How to use GatherSG?</h3>
+<p>GatherSG is designed to wrap around the operational needs of the business
+team. Interested agencies can approach the GatherSG team to discuss suitable
+customisation and application. <a href="https://gather.gov.sg/" rel="noopener noreferrer nofollow" target="_blank"><u>Request for a demo</u></a> and try the
+service for yourself.</p>
 <p></p>
