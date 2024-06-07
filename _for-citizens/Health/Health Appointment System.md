@@ -15,19 +15,17 @@ third_nav_title: Health
 <p></p>
 <ul data-tight="true" class="tight">
 <li>
-<p>HAS is a government platform for booking healthcare appointments.</p>
+<p>HAS facilitates the booking of healthcare appointments at over 800 active
+clinics.</p>
 </li>
 <li>
 <p>Book same-day appointments for various medical services.</p>
 </li>
 <li>
-<p>See available government subsidies and total costs upfront.</p>
-</li>
-<li>
-<p>Access a wide network of over 800 clinics.</p>
-</li>
-<li>
 <p>Book appointments in under 3 minutes.</p>
+</li>
+<li>
+<p>See available government subsidies and total costs upfront.</p>
 </li>
 <li>
 <p>Over 300,000 appointments facilitated since 2022.</p>
