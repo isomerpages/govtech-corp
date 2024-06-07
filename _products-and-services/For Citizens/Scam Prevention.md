@@ -27,8 +27,8 @@ action.</p>
 <div class="isomer-card">
 <div class="isomer-card-body">
 <div class="isomer-card-title">Always-on scanning of websites</div>
-<div class="isomer-card-description">Tapping AI, SATIS has the ability to crawl hundreds of thousands of sites
-and flag potential scams.</div>
+<div class="isomer-card-description">Leveraging AI, SATIS has the ability to crawl hundreds of thousands of
+sites and flag potential scams.</div>
 </div>
 </div>
 <div class="isomer-card">
