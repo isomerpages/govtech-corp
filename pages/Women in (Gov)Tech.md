@@ -51,12 +51,8 @@ junior college</p>
 </details>
 </div>
 <p></p>
-<p><strong><a href="https://go.gov.sg/git-mentee-signup-24" rel="noopener noreferrer nofollow" target="_blank">APPLY NOW</a></strong>
+<p><em>Applications for 2024 run are closed. </em>
 </p>
-<p></p>
-<p>Spaces are filling up fast! Applications close <strong>22 March 2024</strong>.
-Further details regarding mentor opportunities will be made available soon.</p>
-<p></p>
 <h4>Contact Us</h4>
 <p>Reach out to us if you would like to learn more about Women in (Gov)Tech
 and our initiatives.</p>
