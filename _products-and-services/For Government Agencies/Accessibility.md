@@ -49,6 +49,10 @@ on the next steps.</p>
 <p>To date, it has scanned over 500,000 pages and identified over 7.5 million
 accessibility bugs to date.</p>
 <h3>Why use Purple A11y?</h3>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Public service officer using the Purple A11y website scanning tool to check for accessibility." src="/images/Products and Services/For Government Agencies/purple_a11y_resized.jpg">
+</div>
 <p>The tool allows public service officers to improve the accessibility of
 their websites as well as streamline web management. Here's how.</p>
 <div class="isomer-card-grid">
