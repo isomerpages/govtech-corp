@@ -132,7 +132,7 @@ access. You can also personalise your list of favourite services.</p>
 </div>
 </details>
 <details class="isomer-details">
-<summary><strong>3. View your profile for important information</strong>
+<summary><strong>3. Have your key information on hand</strong>
 </summary>
 <div data-type="detailsContent" class="isomer-details-content">
 <p>View your profile where you always have your important information such
