@@ -13,21 +13,23 @@ image: /images/Products and Services/Product overview card images/Cybersecurity.
 </div>
 <ul data-tight="true" class="tight">
 <li>
-<p>SATIS is a government AI-powered platform that combats scam websites.</p>
+<p>SATIS is an AI-powered platform that combats scam websites and protects
+citizens from scammers.</p>
 </li>
 <li>
-<p>Continuously scans websites for potential scams.</p>
+<p>Continuously scans websites at scale (over 100,000 websites scanned daily)
+for potential scams.</p>
 </li>
 <li>
-<p>Achieves high accuracy (90%) in scam site identification.</p>
+<p>Achieves high accuracy of over 90% in scam site identification.</p>
 </li>
 <li>
 <p>Users can contribute to data collection by reporting suspicious sites
-through Scam Shield WhatsApp bot or Report a Scam Form.</p>
+through ScamShield.</p>
 </li>
 <li>
-<p>Disrupted scam sites may display warnings from Google and Singapore Police
-Force or error messages.</p>
+<p>Disrupted scam websites may display warnings from Google and Singapore
+Police Force or error messages.</p>
 </li>
 </ul>
 <hr>
