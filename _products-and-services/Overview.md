@@ -6,6 +6,7 @@ description: ""
 ---
 <h2>Discover all the products and services powered by GovTech</h2>
 <p></p>
+<p>Explore our range of citizen services</p>
 <div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="/products-and-services/for-citizens/crowdsourcing/" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Crowdsourcing" src="/images/Products and Services/Product overview card images/Crowdsourcing.png"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Crowdsourcing</div><div class="isomer-card-description">Tapping into the collective intelligence of Singaporeans in a collaborative effort.</div><div class="isomer-card-link">Find out more</div></div></a>
 <a rel="noopener noreferrer nofollow" href="/products-and-services/for-citizens/digital-services/" class="isomer-card">
 <div class="isomer-card-image">
@@ -64,9 +65,8 @@ senior citizens live independent lives through assistive solutions.</div>
 </div>
 </a>
 </div>
-<p></p>
 <hr>
-<p></p>
+<p>Explore our range of business services</p>
 <div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="/products-and-services/for-businesses/corporate-transactions/" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="GovTech's products under the Corporate Transactions umbrella include Singpass APIs, Corppass and GoBusiness." src="/images/Products and Services/Product overview card images/Corporate_Transaction_19.png"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Corporate Transactions</div><div class="isomer-card-description">The trio of Singpass APIs, Corppass and GoBusiness makes transactions with both the government and consumers easy, secure and seamless.</div><div class="isomer-card-link">Find out more</div></div></a>
 <a rel="noopener noreferrer nofollow" href="/products-and-services/for-businesses/smart-city-tech/" class="isomer-card">
 <div class="isomer-card-image">
@@ -83,120 +83,58 @@ twin capabilities.</div>
 </div>
 </a><a rel="noopener noreferrer nofollow" href="/products-and-services/for-businesses/trade-transactions/" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="TradeTrust is an open-source framework that allows businesses to verify cross-border transactions." src="/images/Products and Services/Product overview card images/Trade_Transactions.png"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Trade Transactions</div><div class="isomer-card-description">Used for verifying cross-border transactions, this open-source framework allows businesses to endorse, exchange and verify electronic documents.</div><div class="isomer-card-link">Find out more</div></div></a>
 </div>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
-<div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="/products-and-services/for-citizens/digital-services/" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Digital Services" src="/images/Products and Services/Product overview card images/Digital_Services.png"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Digital Services</div><div class="isomer-card-description">Creating Digital Services to ensure e-government services are always accessible.</div><div class="isomer-card-link">Find out more</div></div></a>
-<a rel="noopener noreferrer nofollow" href="/products-and-services/for-citizens/smart-city-tech/" class="isomer-card">
+<hr>
+<p>Explore our range of services for government agencies</p>
+<div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="/products-and-services/for-government-agencies/cybersecurity/" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="The Government Cybersecurity Operations Centre is tasked with strengthening defence against cyber threats to Singapore's government systems." src="/images/Products and Services/Product overview card images/Cybersecurity.png"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Cybersecurity</div><div class="isomer-card-description">Making Singapore's cyberspace secure and resilient through powerful services.</div><div class="isomer-card-link">Find out more</div></div></a>
+<a rel="noopener noreferrer nofollow" href="/products-and-services/for-government-agencies/data-and-ai/" class="isomer-card">
 <div class="isomer-card-image">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Smart City Tech" src="/images/Products and Services/Product overview card images/Smart_City_Tech.png">
+<img style="width: 100%" height="auto" width="100%" alt="GovTech leverages data science and AI to improve policy outcomes and cross-analysis." src="/images/Products and Services/Product overview card images/Data_and_AI.png">
 </div>
 </div>
 <div class="isomer-card-body">
-<div class="isomer-card-title">Smart City Tech</div>
-<div class="isomer-card-description">Improving the quality of lives of Singaporeans through Smart City Technology.</div>
+<div class="isomer-card-title">Data and AI</div>
+<div class="isomer-card-description">Leveraging data science and AI to improve policy outcomes and operational
+efficiency within the government.</div>
 <div class="isomer-card-link">Find out more</div>
 </div>
-</a><a rel="noopener noreferrer nofollow" href="/products-and-services/for-citizens/directories-and-distribution/" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Directories and Distribution" src="/images/Products and Services/Product overview card images/Directories_and_Distribution.png"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Directories and Distribution</div><div class="isomer-card-description">Digitalising Directories to make public service information available at your finger tips.</div><div class="isomer-card-link">Find out more</div></div></a>
-</div>
-<p></p>
-<div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="/products-and-services/for-citizens/digital-storage-and-verification/" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Digital Storage and Verification" src="/images/Products and Services/Product overview card images/Digital_Storage_and_Verification.png"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Digital Storage and Verification</div><div class="isomer-card-description">Centralising the management of government-issued documents with FileSG.</div><div class="isomer-card-link">Find out more</div></div></a>
-<a rel="noopener noreferrer nofollow" href="/products-and-services/for-citizens/education/" class="isomer-card">
+</a><a rel="noopener noreferrer nofollow" href="/products-and-services/for-government-agencies/digital-standards-and-guides/" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="The Digital Service Standards provide guidance to government agencies on how to build accessible, relevant and user-centric digital services." src="/images/Products and Services/Product overview card images/Digital_Standards_and_Guides_compressed.jpg"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Digital Standards and Guides</div><div class="isomer-card-description">Shaping a positive, consistent web experience through Digital Service Standards (DSS).</div><div class="isomer-card-link">Find out more</div></div></a>
+<a rel="noopener noreferrer nofollow" href="/products-and-services/for-government-agencies/digital-verification/" class="isomer-card">
 <div class="isomer-card-image">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Education" src="/images/Products and Services/Product overview card images/Education.png">
+<img style="width: 100%" height="auto" width="100%" alt="Simplifying the verification of digital documents using the blockchain-powered OpenAttestation." src="/images/Products and Services/Product overview card images/Digital_Verfication.jpg">
 </div>
 </div>
 <div class="isomer-card-body">
-<div class="isomer-card-title">Education</div>
-<div class="isomer-card-description">Digitalising processes in the educational sector.</div>
+<div class="isomer-card-title">Digital Verification</div>
+<div class="isomer-card-description">Simplifying the verification of digital documents using the blockchain-powered
+OpenAttestation (OA).</div>
 <div class="isomer-card-link">Find out more</div>
 </div>
-</a><a rel="noopener noreferrer nofollow" href="/products-and-services/for-citizens/employment/" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Employment" src="/images/Products and Services/Product overview card images/Employment.png"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Employment</div><div class="isomer-card-description">Improving the digital employment journey for Singaporeans.</div><div class="isomer-card-link">Find out more</div></div></a>
-</div>
-<p></p>
-<div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="/products-and-services/for-citizens/health/" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Health" src="/images/Products and Services/Product overview card images/Health.png"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Health</div><div class="isomer-card-description">Supporting the health of citizens through digital health tools.</div><div class="isomer-card-link">Find out more</div></div></a>
-<a rel="noopener noreferrer nofollow" href="/products-and-services/for-citizens/environment/" class="isomer-card">
-<div class="isomer-card-image">
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Environment" src="/images/Products and Services/Product overview card images/Environment.png">
-</div>
-</div>
-<div class="isomer-card-body">
-<div class="isomer-card-title">Environment</div>
-<div class="isomer-card-description">Bringing citizens closer to nature by digital means.</div>
-<div class="isomer-card-link">Find out more</div>
-</div>
-</a><a rel="noopener noreferrer nofollow" href="/products-and-services/for-citizens/crowdsourcing/" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Crowdsourcing" src="/images/Products and Services/Product overview card images/Crowdsourcing.png"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Crowdsourcing</div><div class="isomer-card-description">Tapping into the collective intelligence of Singaporeans in a collaborative effort.</div><div class="isomer-card-link">Find out more</div></div></a>
-</div>
-<p></p>
-<div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="/products-and-services/for-businesses/corporate-transactions/" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Corporate Transactions" src="/images/Products and Services/Product overview card images/Corporate_Transaction_19.png"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Corporate Transactions</div><div class="isomer-card-description">Empowering businesses with convenience, ease and security during business transactions and operations.</div><div class="isomer-card-link">Find out more</div></div></a>
-<a rel="noopener noreferrer nofollow" href="/products-and-services/for-businesses/trade-transactions/" class="isomer-card">
-<div class="isomer-card-image">
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Trade Transactions" src="/images/Products and Services/Product overview card images/Trade_Transactions.png">
-</div>
-</div>
-<div class="isomer-card-body">
-<div class="isomer-card-title">Trade Transactions</div>
-<div class="isomer-card-description">Providing verification for trade transactions.</div>
-<div class="isomer-card-link">Find out more</div>
-</div>
-</a><a rel="noopener noreferrer nofollow" href="/products-and-services/for-businesses/smart-city-tech/" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Smart City Tech" src="/images/Products and Services/Product overview card images/Smart_City_Tech_1.png"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Smart City Tech</div><div class="isomer-card-description">Powering smart city solutions for a smarter future.</div><div class="isomer-card-link">Find out more</div></div></a>
-</div>
-<p></p>
-<div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="/products-and-services/for-government-agencies/government-transactions/" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Government Transactions" src="/images/Products and Services/Product overview card images/Government_Transactions.png"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Government Transactions</div><div class="isomer-card-description">Enabling government agencies to facilitate seamless government transactions with ease.</div><div class="isomer-card-link">Find out more</div></div></a>
-<a rel="noopener noreferrer nofollow" href="/products-and-services/for-government-agencies/software-development/" class="isomer-card">
-<div class="isomer-card-image">
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Software Development" src="/images/Products and Services/Product overview card images/Software_Development.png">
-</div>
-</div>
-<div class="isomer-card-body">
-<div class="isomer-card-title">Software Development</div>
-<div class="isomer-card-description">Developing stacks to enable public officers to build digital government
-services with ease.</div>
-<div class="isomer-card-link">Find out more</div>
-</div>
-</a><a rel="noopener noreferrer nofollow" href="/products-and-services/for-government-agencies/cybersecurity/" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Cybersecurity" src="/images/Products and Services/Product overview card images/Cybersecurity.png"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Cybersecurity</div><div class="isomer-card-description">Putting up our best cyber defences with proactive cybersecurity services.</div><div class="isomer-card-link">Find out more</div></div></a>
-</div>
-<p></p>
-<div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="/products-and-services/for-government-agencies/data-and-ai/" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Data and AI" src="/images/Products and Services/Product overview card images/Data_and_AI.png"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Data and AI</div><div class="isomer-card-description">Leveraging Data Science and Artificial Intelligence to improve policy outcomes and operational efficiency within the government.</div><div class="isomer-card-link">Find out more</div></div></a>
-<a rel="noopener noreferrer nofollow" href="/products-and-services/for-government-agencies/productivity-and-marketing/" class="isomer-card">
-<div class="isomer-card-image">
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Productivity and Marketing" src="/images/Products and Services/Product overview card images/Producitivity_and_Marketing.png">
-</div>
-</div>
-<div class="isomer-card-body">
-<div class="isomer-card-title">Productivity and Marketing</div>
-<div class="isomer-card-description">Empowering government agencies with tools that improve efficiency and
-effectiveness.</div>
-<div class="isomer-card-link">Find out more</div>
-</div>
-</a><a rel="noopener noreferrer nofollow" href="/products-and-services/for-government-agencies/knowledge-and-training/" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Knowledge and Training" src="/images/Products and Services/Product overview card images/Knowledge_and_Trainin.png"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Knowledge and Training</div><div class="isomer-card-description">Empowering public officers to continually upskill with Knowledge and Training tools.</div><div class="isomer-card-link">Find out more</div></div></a>
-</div>
-<p></p>
-<div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="/products-and-services/for-government-agencies/digital-standards-and-guides/" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Digital Standards and Guides" src="/images/Products and Services/Product overview card images/Digital_Standards_and_Guides_compressed.jpg"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Digital Standards and Guides</div><div class="isomer-card-description">Ensuring a positive, consistent user experience through Digital Standards and Guides.</div><div class="isomer-card-link">Find out more</div></div></a>
+</a><a rel="noopener noreferrer nofollow" href="/products-and-services/for-government-agencies/government-transactions/" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="GovTech's products under the Government Transactions umbrella help improve internal processes and efficiencies." src="/images/Products and Services/Product overview card images/Government_Transactions.png"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Government Transactions</div><div class="isomer-card-description">Enabling government agencies to facilitate seamless government transactions with ease.</div><div class="isomer-card-link">Find out more</div></div></a>
 <a rel="noopener noreferrer nofollow" href="/products-and-services/for-government-agencies/ict-and-infrastructure/" class="isomer-card">
 <div class="isomer-card-image">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="ICT and Infrastructure" src="/images/Products and Services/Product overview card images/ICT_and_Infrastructure_compressed.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="GovTech's ICT and Infrastructure boast several security measures." src="/images/Products and Services/Product overview card images/ICT_and_Infrastructure_compressed.jpg">
 </div>
 </div>
 <div class="isomer-card-body">
 <div class="isomer-card-title">ICT and Infrastructure</div>
-<div class="isomer-card-description">Building a solid digital infrastructure as the foundation to a Digital
-Government.</div>
+<div class="isomer-card-description">Building a secure infrastructure as the foundation of a Digital Government.</div>
 <div class="isomer-card-link">Find out more</div>
 </div>
-</a><a rel="noopener noreferrer nofollow" href="/products-and-services/for-government-agencies/digital-verification" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Digital Verification" src="/images/Products and Services/Product overview card images/Digital_Verfication.jpg"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Digital Verification</div><div class="isomer-card-description">Simplifying the verification of digital documents using blockchain.</div><div class="isomer-card-link">Find out more</div></div></a>
+</a><a rel="noopener noreferrer nofollow" href="/products-and-services/for-government-agencies/knowledge-and-training/" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="GovTech's Digital Academy offers ICT programmes that are contextualised for the public sector." src="/images/Products and Services/Product overview card images/Knowledge_and_Trainin.png"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Knowledge and Training</div><div class="isomer-card-description">Enabling public officers to continuously upskill through Digital Academy.</div><div class="isomer-card-link">Find out more</div></div></a>
+<a rel="noopener noreferrer nofollow" href="https://staging-lite.d2uz1494fahfnj.amplifyapp.com/products-and-services/for-government-agencies/productivity-and-marketing/" class="isomer-card">
+<div class="isomer-card-image">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="GovTech has developed a suite of productivity and marketing tools for public officers." src="/images/Products and Services/Product overview card images/Producitivity_and_Marketing.png">
+</div>
+</div>
+<div class="isomer-card-body">
+<div class="isomer-card-title">Productivity and Marketing</div>
+<div class="isomer-card-description">Giving public officers access to tools that improve efficiency and effectiveness.</div>
+<div class="isomer-card-link">Find out more</div>
+</div>
+</a><a rel="noopener noreferrer nofollow" href="/products-and-services/for-government-agencies/software-development/" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="GovTech has developed software stacks to help public officers build digital government services with ease." src="/images/Products and Services/Product overview card images/Software_Development.png"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Software Development</div><div class="isomer-card-description">Introducing software stacks to help public officers build digital government services that are efficient and consistent.</div><div class="isomer-card-link">Find out more</div></div></a>
 </div>
 <p></p>
