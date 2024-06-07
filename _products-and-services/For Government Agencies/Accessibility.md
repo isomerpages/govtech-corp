@@ -17,7 +17,7 @@ image: /images/Products and Services/Product overview card
 <ul data-tight="true" class="tight">
 <li>
 <p>Purple A11y is a government tool that scans and analyses webpages to identify
-and fix accessibility issues</p>
+and fix accessibility issues.</p>
 </li>
 <li>
 <p>Improves accessibility of websites for people with disabilities (PWD).</p>
