@@ -39,6 +39,10 @@ Boasting a network of over 800 active clinics, HAS connects users to a
 vast range of medical services, including vaccinations and general consultations.
 Since 2022, HAS has facilitated over 300,000 appointments.</p>
 <h3>Why use HAS?</h3>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Booking appointments easily and quickly with HAS." src="/images/Products and Services/For citizens/HAS__1_.jpg">
+</div>
 <p>HAS is designed to bring you convenience. Here are three key benefits
 of using the system.</p>
 <div class="isomer-card-grid">
