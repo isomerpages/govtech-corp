@@ -5,7 +5,6 @@ variant: tiptap
 description: ""
 ---
 <h2>Discover all the products and services powered by GovTech</h2>
-<p></p>
 <p>Explore our range of citizen services</p>
 <div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="/products-and-services/for-citizens/crowdsourcing/" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Crowdsourcing" src="/images/Products and Services/Product overview card images/Crowdsourcing.png"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Crowdsourcing</div><div class="isomer-card-description">Tapping into the collective intelligence of Singaporeans in a collaborative effort.</div><div class="isomer-card-link">Find out more</div></div></a>
 <a rel="noopener noreferrer nofollow" href="/products-and-services/for-citizens/digital-services/" class="isomer-card">
