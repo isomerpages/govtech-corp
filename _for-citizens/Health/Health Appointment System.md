@@ -86,7 +86,7 @@ you are eligible for.</div>
 </div>
 <h3>Interested to find out more about HAS?</h3>
 <div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="https://book.health.gov.sg/" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Visit the product website" src="/images/CTA card images/Visit_the_product_website.png"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Visit the HAS website to learn about its features and benefits</div><div class="isomer-card-link">Go to HAS website</div></div></a>
-<a rel="noopener noreferrer nofollow" href="/our-communities/join-our-communities/tech-kaki/" class="isomer-card">
+<a rel="noopener noreferrer nofollow" href="http://eepurl.com/hsr131" class="isomer-card">
 <div class="isomer-card-image">
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="Join the Tech Kaki community" src="/images/CTA card images/Join_our_user_testing_community__TK_.png">
