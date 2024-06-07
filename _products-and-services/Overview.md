@@ -139,7 +139,7 @@ with ease.</div>
 <a rel="noopener noreferrer nofollow" href="/products-and-services/for-government-agencies/service-delivery/" class="isomer-card">
 <div class="isomer-card-image">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Enabling public and social service agencies to co-ordinate and digitalise their operations for enhanced service delivery." src="https://placehold.co/600x400">
+<img style="width: 100%" height="auto" width="100%" alt="Enabling public and social service agencies to co-ordinate and digitalise their operations for enhanced service delivery." src="/images/Products and Services/Product overview card images/Service_Delivery_compressed.jpg">
 </div>
 </div>
 <div class="isomer-card-body">
