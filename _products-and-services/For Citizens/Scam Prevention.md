@@ -11,6 +11,26 @@ image: /images/Products and Services/Product overview card images/Cybersecurity.
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="Scam Analytics and Tactical Intervention System (SATIS) protects web users from scam websites." src="/images/Products and Services/For citizens/SATIS_1690x800.png">
 </div>
+<ul data-tight="true" class="tight">
+<li>
+<p>SATIS is a government AI-powered platform that combats scam websites.</p>
+</li>
+<li>
+<p>Continuously scans websites for potential scams.</p>
+</li>
+<li>
+<p>Achieves high accuracy (90%) in scam site identification.</p>
+</li>
+<li>
+<p>Users can contribute to data collection by reporting suspicious sites
+through Scam Shield WhatsApp bot or Report a Scam Form.</p>
+</li>
+<li>
+<p>Disrupted scam sites may display warnings from Google and Singapore Police
+Force or error messages.</p>
+</li>
+</ul>
+<hr>
 <p>With the proliferation of scam websites, there is a need to step up our
 cybersecurity measures and protect users, especially the ones who are less
 savvy. That is why we have invented the Scam Analytics and Tactical Intervention
