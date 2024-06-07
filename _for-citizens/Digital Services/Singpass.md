@@ -55,7 +55,7 @@ documents and do more on the go.</p>
 <p><em>Statistics shown in this video are accurate as of March 2021.</em>
 </p>
 <p>Singpass employs Two-Factor Authentication (2FA) methods such as the Singpass
-app. Face Verification and SMS One-Time Passwords (OTP) to provide an additional
+app Face Verification and SMS One-Time Passwords (OTP) to provide an additional
 layer of security and better protect users' data.</p>
 <p>Users can log in to digital services easily and securely in a few ways:</p>
 <ol data-tight="true" class="tight">
