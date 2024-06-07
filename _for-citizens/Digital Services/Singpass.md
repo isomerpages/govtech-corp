@@ -90,8 +90,8 @@ an <strong>SMS OTP</strong>.</p>
 </div>
 <div class="isomer-card-body">
 <div class="isomer-card-title">Secure authentication</div>
-<div class="isomer-card-description">Log in using any Singpass 2FA method: Singpass app face verification or
-SMS OTP. Fewer passwords to remember!</div>
+<div class="isomer-card-description">Log in using any Singpass 2FA method: Singpass app, Face Verification
+or SMS OTP. Fewer passwords to remember!</div>
 </div>
 </div>
 <div class="isomer-card">
