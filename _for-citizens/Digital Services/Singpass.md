@@ -168,7 +168,7 @@ must have a valid Corppass account).</p>
 </div>
 <p></p>
 <p>For their efforts in innovation and incorporating inclusivity in the Singpass
-product design, the team has been received national and international awards
+product design, the team has received national and international awards
 such as:</p>
 <ul data-tight="true" class="tight">
 <li>
@@ -199,7 +199,7 @@ sent to your registered address.</p>
 information.</p>
 </li>
 <li>
-<p>If you have a smartphone or tablet and internet connectivity, install
+<p>If you have a smartphone or tablet and Internet connectivity, install
 the Singpass app on your device via the official app stores (<a href="https://apps.apple.com/sg/app/singpass/id1340660807" rel="noopener noreferrer nofollow" target="_blank">Apple App Store</a>,
 <a href="https://play.google.com/store/apps/details?id=sg.ndi.sp&amp;hl=en_SG&amp;gl=US" rel="noopener noreferrer nofollow" target="_blank">Google Play Store</a>and <a href="https://appgallery.huawei.com/#/app/C104129719" rel="noopener noreferrer nofollow" target="_blank">Huawei AppGallery</a>).</p>
 </li>
