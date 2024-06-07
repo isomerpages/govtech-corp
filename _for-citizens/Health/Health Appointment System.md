@@ -12,6 +12,28 @@ third_nav_title: Health
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="GovTech's Health Appointment System enables the easy booking of healthcare services for citizens." src="/images/Products and Services/For citizens/HAS_1690x800.png">
 </div>
+<p></p>
+<ul data-tight="true" class="tight">
+<li>
+<p>HAS is a government platform for booking healthcare appointments.</p>
+</li>
+<li>
+<p>Book same-day appointments for various medical services.</p>
+</li>
+<li>
+<p>See available government subsidies and total costs upfront.</p>
+</li>
+<li>
+<p>Access a wide network of over 800 clinics.</p>
+</li>
+<li>
+<p>Book appointments in under 3 minutes.</p>
+</li>
+<li>
+<p>Over 300,000 appointments facilitated since 2022.</p>
+</li>
+</ul>
+<hr>
 <p>Convenient access to quality healthcare access is a key determinant of
 a high standard of living. That's why GovTech created the Health Appointment
 System (HAS), which aims to streamline the process of medical service bookings.
