@@ -126,9 +126,9 @@ and polyclinics.</p>
 <summary><strong>2. One-tap access to government digital services</strong>
 </summary>
 <div data-type="detailsContent" class="isomer-details-content">
-<p>One-tap access to commonly used government digital services like CPF,
-HDB, and IRAS. Last used services are also displayed for easy access. You
-can also personalise your list of favourite services.</p>
+<p>Log in to commonly used government digital services like CPF, HDB, and
+IRAS via the shortcuts. Last used services are also displayed for easy
+access. You can also personalise your list of favourite services.</p>
 </div>
 </details>
 <details class="isomer-details">
