@@ -41,6 +41,8 @@ development courses.</div>
 Associate Programme (TAP).</div>
 </div>
 </div>
+</div>
+<div class="isomer-card-grid">
 <div class="isomer-card">
 <div class="isomer-card-body">
 <div class="isomer-card-title">Get access to mentors</div>
@@ -48,25 +50,14 @@ Associate Programme (TAP).</div>
 with your seniors.</div>
 </div>
 </div>
-</div>
-<p></p>
-<div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="https://www.isomer.gov.sg" class="isomer-card"><div class="isomer-card-body"><div class="isomer-card-title">This is a title for your card</div><div class="isomer-card-description">This is body text for your card. Describe your card.</div><div class="isomer-card-link">This is a link for your card</div></div></a>
-<a rel="noopener noreferrer nofollow" href="https://www.isomer.gov.sg" class="isomer-card">
-<div class="isomer-card-body">
-<div class="isomer-card-title">This is a title for your card</div>
-<div class="isomer-card-description">This is body text for your card. Describe your card.</div>
-<div class="isomer-card-link">This is a link for your card</div>
-</div>
-</a>
-</div>
-<p></p>
-<div class="isomer-card-grid">
 <div class="isomer-card">
 <div class="isomer-card-body">
 <div class="isomer-card-title">Expand your network</div>
 <div class="isomer-card-description">Make meaningful connections with our engineers, leaders and alumni.</div>
 </div>
 </div>
+</div>
+<div class="isomer-card-grid">
 <div class="isomer-card">
 <div class="isomer-card-body">
 <div class="isomer-card-title">Exposure to different sectors</div>
