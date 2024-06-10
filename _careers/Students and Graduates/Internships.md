@@ -28,6 +28,19 @@ and gain access to courses and career workshops.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 80%;" height="auto" width="100%" alt="GovTech's internship programme flowchart and what interns stand to gain from GovTech experience" src="/images/careers/internship_chart_2024.jpg">
 </div>
+<h3>How can you apply?</h3>
+<p>We're looking for ambitious pre-tertiary, polytechnic students and university
+students who are up for a challenge and want to make a difference. If that
+sounds like you, first check out the timelines as well as guidelines for
+our internship applications.</p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Application periods for GovTech's internship programmes" src="/images/careers/application_periods_resized.jpg">
+</div>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 80%;" height="auto" width="100%" alt="GovTech's internship application processes" src="/images/careers/internships_infographic.jpg">
+</div>
 <h3>Hear from our past interns</h3>
 <p></p>
 <div class="instagram-wrapper">
@@ -63,50 +76,9 @@ we had developed was simple and straightforward to use.</p>
 <p>~ Varshini, DSAID Intern</p>
 <p>Check out the <a href="https://medium.com/ytpo-govtech" rel="noopener noreferrer nofollow" target="_blank">Young Talents @GovTech Medium blog</a> for
 more testimonials and sharing from past interns.</p>
-<h3>How can you apply?</h3>
-<p>We're looking for ambitious pre-tertiary, polytechnic students and university
-students who are up for a challenge and want to make a difference. If that
-sounds like you, first check out the timelines as well as guidelines for
-our internship applications.</p>
-<p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Application periods for GovTech's internship programmes" src="/images/careers/2024_internship_application_periods_compressed.jpg">
-</div>
-<p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 80%;" height="auto" width="100%" alt="GovTech's internship application processes" src="/images/careers/internships_infographic.jpg">
-</div>
-<p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Step 1: Explore available roles and projects at GovTech" src="/images/careers/feb2024_internship_application_timeline_applications_open_1.png">
-</div>
-<p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Step 2: Submit application via Careers@Gov" src="/images/careers/Feb_2024_internship_application_step2.png">
-</div>
-<p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Step 3: Tell GovTech about yourself and your top 3 preferred roles" src="/images/careers/internship_application_timeline_applications_open_3b.png">
-</div>
-<p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Step 4: Wait for GovTech to contact applicants, only shortlisted candidates will be contacted" src="/images/careers/Feb_2024_internship_application_step4.png">
-</div>
-<p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Post-application process for a role or project at GovTech" src="/images/careers/post_application_process.png">
-</div>
 <h3>Begin your GovTech journey today!</h3>
 <p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="Batch of past GovTech interns having fun while posing for a photo at a photo booth" src="/images/careers/Internships_1690x800.jpg">
-</div>
-<div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="https://go.gov.sg/GovTechInternshipProjects2024" class="isomer-card"><div class="isomer-card-body"><div class="isomer-card-title">Check out the available roles at GovTech</div><div class="isomer-card-link">See GovTech's internships</div></div></a>
-<a rel="noopener noreferrer nofollow" href="https://careers.tech.gov.sg/careers/SearchJobs" class="isomer-card">
-<div class="isomer-card-body">
-<div class="isomer-card-title">Ready to apply? Submit your application</div>
-<div class="isomer-card-link">Apply for an internship</div>
-</div>
-</a><a rel="noopener noreferrer nofollow" href="https://go.gov.sg/GovTech2024Internships" class="isomer-card"><div class="isomer-card-body"><div class="isomer-card-title">Already applied? Tell us your preferred roles and projects</div><div class="isomer-card-link">Go to form</div></div></a>
 </div>
 <p></p>
