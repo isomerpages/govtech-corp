@@ -23,9 +23,8 @@ your course of study, you'll learn how innovation can be harnessed to serve
 the public good.</p>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="GovTech's Smart Nation Scholarship - Advance your career, make an impact and lead others" src="/images/careers/SNS_Infographic.png">
+<img style="width: 100%" height="auto" width="100%" alt="GovTech's Smart Nation Scholarship - Advance your career, make an impact and lead others" src="/images/careers/SNS_USP.jpg">
 </div>
-<p></p>
 <h3>Benefits of being a Smart Nation Scholar</h3>
 <div class="isomer-card-grid">
 <div class="isomer-card">
