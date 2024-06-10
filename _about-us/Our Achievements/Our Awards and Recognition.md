@@ -37,9 +37,9 @@ employers in IT &amp; technology by <a href="https://gradsingapore.com/singapore
 <p><em>Image from <a href="https://rankings.universumglobal.com/en/most-attractive-employers-ranking-government-technology-agency-singapore-it-2023/" rel="noopener noreferrer nofollow" target="_blank">Universum Talent Survey 2023</a></em>.</p>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="GovTech ranked 9th as Singapore's leading graduate employers in IT &amp; technology by GradSingapore in 2023" src="/images/About Us/Our Achievements/GradSingapore.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="GovTech ranked 5th as Singapore's leading graduate employers in IT &amp; technology by GradSingapore in 2024" src="/images/About Us/Our Achievements/gradsingapore_ranking.png">
 </div>
-<p><em>Image from <a href="https://gradsingapore.com/singapore100/sector/it-and-technology" rel="noopener noreferrer nofollow" target="_blank">GradSingapore 2023</a>.</em>
+<p><em>Image from <a href="https://gradsingapore.com/singapore100/sector/it-and-technology" rel="noopener noreferrer nofollow" target="_blank">GradSingapore 2024</a>.</em>
 </p>
 <h3>3. SG 100 Women in Tech</h3>
 <p>Introduced by the IMDA and the SG Computer Society, the list has recognised
