@@ -60,7 +60,8 @@ and we'll share just a sampling.</p>
 <a href="http://m.todayonline.com/singapore/new-smart-nation-group-formed-pmo" rel="noopener noreferrer nofollow" target="_blank">Today Online</a>and <a href="https://www.computerworld.com.sg/tech/security/singapores-new-government-unit-will-speed-up-smart-nation-initiatives/" rel="noopener noreferrer nofollow" target="_blank">Computer World</a>,
 and others.</p>
 <p>An interesting angle was provided by the GovInsider portal, which highlighted
-the appointment of Dr Janil Puthucheary as the <a href="https://govinsider.asia/digital-gov/singapore-appoints-puthucheary-as-first-govtech-minister/" rel="noopener noreferrer nofollow" target="_blank">Minister in charge of GovTech.</a>{:target="_blank"}</p>
+the appointment of Dr Janil Puthucheary as the <a href="https://govinsider.asia/digital-gov/singapore-appoints-puthucheary-as-first-govtech-minister/" rel="noopener noreferrer nofollow" target="_blank">Minister in charge of GovTech.</a>
+</p>
 <p>An <a href="https://www.businesstimes.com.sg/opinion/new-agency-for-digital-projects-will-speed-up-defend-smart-nation" rel="noopener noreferrer nofollow" target="_blank">editorial in The Business Times</a> analysed
 the need for the move (Note: it’s behind a paywall).</p>
 <p>The formation of the SNDGG and GovTech's role also popped up in an Insight
