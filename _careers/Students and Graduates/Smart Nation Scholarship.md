@@ -10,25 +10,22 @@ image: /images/careers/Smart_Nation_Scholarship_meta_image_compressed.jpg
 ---
 <h2>Propelling Singapore’s digital transformation</h2>
 <p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Advance your potential and shape the future of Singapore with the smart nation scholarship" src="/images/careers/Smart_Nation_Scholarship_1690x800.jpg">
+<div class="iframe-wrapper">
+<iframe style="max-width: 100%;" height="400" width="100%" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/dsIchs4b7H0?si=tEMH8cvO_eG7jj0X"></iframe>
 </div>
 <p>Singapore has set its sights on becoming a Smart Nation. This has engendered
 a need for skilled talents who dare to dream big and desire to co-create
 a world of digital possibilities. The Smart Nation Scholarship, jointly
-offered by GovTech, Cyber Security Agency of Singapore and Infocomm Media
-Development Authority, aims to give promising individuals like you the
-opportunity to jump-start a dynamic career in tech. During your course
-of study, you'll learn how innovation can be harnessed to serve the public
-good.</p>
+offered by GovTech, the Cyber Security Agency of Singapore (CSA) and the
+Infocomm Media Development Authority (IMDA), aims to give promising individuals
+like you the opportunity to jump-start a dynamic career in tech. During
+your course of study, you'll learn how innovation can be harnessed to serve
+the public good.</p>
 <p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="GovTech's Smart Nation Scholarship - Advance your career, make an impact and lead others" src="/images/careers/SNS_Infographic.png">
 </div>
 <p></p>
-<div class="iframe-wrapper">
-<iframe style="max-width: 100%;" height="400" width="100%" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/dsIchs4b7H0?si=tEMH8cvO_eG7jj0X"></iframe>
-</div>
 <h3>Benefits of being a Smart Nation Scholar</h3>
 <div class="isomer-card-grid">
 <div class="isomer-card">
