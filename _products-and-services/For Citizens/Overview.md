@@ -52,15 +52,16 @@ partnerships with Parents Gateway.</div>
 <a rel="noopener noreferrer nofollow" href="/products-and-services/for-citizens/health/" class="isomer-card">
 <div class="isomer-card-image">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Healthy 365 makes leading an active lifestyle fun and rewarding." src="/images/Products and Services/Product overview card images/Health.png">
+<img style="width: 100%" height="auto" width="100%" alt="GovTech's digital health tools include Healthy 365 and Health Appointment System." src="/images/Products and Services/Product overview card images/Health.png">
 </div>
 </div>
 <div class="isomer-card-body">
 <div class="isomer-card-title">Health</div>
-<div class="isomer-card-description">Healthy 365 makes the pursuit of health fun and rewarding through gamification.</div>
+<div class="isomer-card-description">From gamifying the journey to streamlining the process of service bookings,
+our digital tools allow users to take charge of their own health.</div>
 <div class="isomer-card-link">Find out more</div>
 </div>
-</a><a rel="noopener noreferrer nofollow" href="/products-and-services/for-citizens/scam-prevention/" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Scam prevention against scam websites." src="/images/Products and Services/Product overview card images/Cybersecurity.png"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Scam Prevention</div><div class="isomer-card-description">Learn how the Scam Analytics and Tactical Intervention System (SATIS) hunts, analyses and disrupts scam websites online.</div><div class="isomer-card-link">Find out more</div></div></a>
+</a><a rel="noopener noreferrer nofollow" href="/products-and-services/for-citizens/scam-prevention/" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="GovTech's Scam Analytics and Tactical Intervention System protects users from scam website" src="/images/Products and Services/Product overview card images/Cybersecurity.png"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Scam Prevention</div><div class="isomer-card-description">Our AI-powered Scam Analytics and Tactical Intervention System (SATIS) hunts and disrupts malicious websites such as bank phishing and job scam websites.</div><div class="isomer-card-link">Find out more</div></div></a>
 <a rel="noopener noreferrer nofollow" href="/products-and-services/for-citizens/smart-city-tech/" class="isomer-card">
 <div class="isomer-card-image">
 <div class="isomer-image-wrapper">
