@@ -10,8 +10,8 @@ image: /images/careers/TAP_banner.jpg
 ---
 <h2>Lay the foundation of your leadership development</h2>
 <p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="The Technology Associate Programme (TAP) is a 2-year programme designed for future tech leaders" src="/images/careers/TAP_1690x800.jpg">
+<div class="iframe-wrapper">
+<iframe style="max-width: 100%;" height="400" width="100%" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/IuF66QVuhLs?si=Cjv8USWhJI_RrkxW"></iframe>
 </div>
 <p>Looking for a graduate programme that will allow you to work with tech
 and unlock your leadership potential at the same time? GovTech’s two-year
@@ -20,10 +20,6 @@ Designed with final-year students and fresh university graduates in mind,
 this exclusive and personalised programme turns young minds like you into
 confident tech leaders who will ultimately make a positive impact on the
 lives of Singaporeans.</p>
-<div class="iframe-wrapper">
-<iframe style="max-width: 100%;" height="400" width="100%" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/IuF66QVuhLs?si=Cjv8USWhJI_RrkxW"></iframe>
-</div>
-<p></p>
 <p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="GovTech's Technology Associate Programme for final-year students and university graduates" src="/images/careers/TAP_infographic_v3.jpg">
