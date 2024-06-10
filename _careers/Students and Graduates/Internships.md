@@ -23,7 +23,7 @@ drive Singapore's digital transformation. Have other fortes? We also offer
 internship roles in non-tech capacities such as HR, communications and
 marketing, and more.</p>
 <p>Whichever track you choose, you'll learn from GovTech's senior leaders
-as well as gain access to courses and career workshops.</p>
+and gain access to courses and career workshops.</p>
 <p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 80%;" height="auto" width="100%" alt="GovTech's internship programme flowchart and what interns stand to gain from GovTech experience" src="/images/careers/internship_chart_2024.jpg">
