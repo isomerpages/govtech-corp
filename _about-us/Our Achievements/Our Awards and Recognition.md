@@ -28,8 +28,8 @@ cut government data centres' electrical consumption by at least 20%.</p>
 <p>GovTech is proud to be a Great Place to Work-Certified™ organisation,
 a validation of our collaborative spirit.</p>
 <p>GovTech was also named Singapore's top 10 most attractive employers in
-IT by Universum in 2023, and ranked 9th as Singapore's leading graduate
-employers in IT &amp; technology by <a href="https://gradsingapore.com/singapore100/sector/it-and-technology" rel="noopener noreferrer nofollow" target="_blank">GradSingapore in 2023</a>.</p>
+IT by Universum in 2023, and ranked 5th as Singapore's leading graduate
+employers in IT &amp; technology by <a href="https://gradsingapore.com/singapore100/sector/it-and-technology" rel="noopener noreferrer nofollow" target="_blank">GradSingapore in 2024</a>.</p>
 <p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="GovTech named in Singapore's top 10 most attractive employers in IT by Universum in 2023." src="/images/About Us/Our Achievements/Universum_award.png">
