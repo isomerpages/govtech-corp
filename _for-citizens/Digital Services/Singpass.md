@@ -172,16 +172,26 @@ product design, the team has received national and international awards
 such as:</p>
 <ul data-tight="true" class="tight">
 <li>
+<p>IMDA ASEAN Digital Awards (Digital Innovation, Bronze) — SGFinDex (2024)</p>
+</li>
+<li>
 <p>Public Sector Transformation Awards (One Public Sector Award) — Digital
 Identity for a Nation (2022)</p>
 </li>
 <li>
-<p>IDC Smart City Asia Pacific Awards (SCAPA) - Outstanding Smart City Project
+<p>IDC Smart City Asia Pacific Awards (SCAPA) — Outstanding Smart City Project
 for Digital Equity and Accessibility for Singpass (2021)</p>
 </li>
 <li>
-<p>Inspire Tech Awards - Most Innovative Use of Data for Digital Transformation
+<p>Inspire Tech Awards — Most Innovative Use of Data for Digital Transformation
 (Southeast Asia)(2021)</p>
+</li>
+<li>
+<p>Public Sector Transformation Awards (One Public Sector Award) — SGFinDex
+(2021)</p>
+</li>
+<li>
+<p>SG:D TechBlazer Awards — Best Adoption: Public Sector — SafeEntry (2021)</p>
 </li>
 </ul>
 <h3>How to use Singpass?</h3>
