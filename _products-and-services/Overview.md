@@ -83,7 +83,7 @@ twin capabilities.</div>
 </div>
 <hr>
 <p>Explore our range of services for government agencies</p>
-<div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="/products-and-services/for-government-agencies/accessibility/" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="GovTech prioritises accessibility best practices to develop inclusive products for all" src="/images/Products and Services/Product overview card images/Accessibility_compressed.jpg"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Accessibility</div><div class="isomer-card-description">Developing accessibility platforms and best practices to develop inclusive products for all.</div><div class="isomer-card-link">Find out more</div></div></a>
+<div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="/products-and-services/for-government-agencies/accessibility/" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Purple A11y is an open-source, customisable and automated web accessibility testing tool that allows software development teams to find and fix accessibility problems." src="/images/Products and Services/Product overview card images/Accessibility_compressed.jpg"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Accessibility</div><div class="isomer-card-description">Purple A11y is a testing tool that webmasters can use to identify bugs and improve web accessibility for persons with disabilities.</div><div class="isomer-card-link">Find out more</div></div></a>
 <a rel="noopener noreferrer nofollow" href="/products-and-services/for-government-agencies/cybersecurity/" class="isomer-card">
 <div class="isomer-card-image">
 <div class="isomer-image-wrapper">
@@ -137,13 +137,13 @@ with ease.</div>
 <a rel="noopener noreferrer nofollow" href="/products-and-services/for-government-agencies/service-delivery/" class="isomer-card">
 <div class="isomer-card-image">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Enabling public and social service agencies to co-ordinate and digitalise their operations for enhanced service delivery." src="/images/Products and Services/Product overview card images/Service_Delivery_compressed.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="A lightweight case management and coordination system, GatherSG aims to help social service and public service agencies digitalise their operations in a fuss-free manner." src="/images/Products and Services/Product overview card images/Service_Delivery_compressed.jpg">
 </div>
 </div>
 <div class="isomer-card-body">
 <div class="isomer-card-title">Service Delivery</div>
-<div class="isomer-card-description">Enabling public and social service agencies to co-ordinate and digitalise
-their operations for enhanced service delivery.</div>
+<div class="isomer-card-description">A case management and coordination system, GatherSG enables social service
+and public service agencies to digitalise their operations.</div>
 <div class="isomer-card-link">Find out more</div>
 </div>
 </a><a rel="noopener noreferrer nofollow" href="/products-and-services/for-government-agencies/software-development/" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="GovTech has developed software stacks to help public officers build digital government services with ease." src="/images/Products and Services/Product overview card images/Software_Development.png"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Software Development</div><div class="isomer-card-description">Introducing software stacks to help public officers build digital government services that are efficient and consistent.</div><div class="isomer-card-link">Find out more</div></div></a>
