@@ -58,7 +58,7 @@ platform that is part of the Singpass ecosystem inspires trust.</p>
 </div>
 <div class="isomer-card-body">
 <div class="isomer-card-title">Seamless online authentication</div>
-<div class="isomer-card-description">Enjoy the assurance that the transactions are made by legitimate users.</div>
+<div class="isomer-card-description">Enjoy the assurance that the transactions are made by verified users.</div>
 </div>
 </div>
 <div class="isomer-card">
@@ -68,7 +68,7 @@ platform that is part of the Singpass ecosystem inspires trust.</p>
 </div>
 </div>
 <div class="isomer-card-body">
-<div class="isomer-card-title">Tap on consent-based biometrics ID</div>
+<div class="isomer-card-title">Leverage consent-based biometrics ID</div>
 <div class="isomer-card-description">Require step-up authentication or face verification? Identiface is ready
 for your use.</div>
 </div>
@@ -81,8 +81,8 @@ for your use.</div>
 </div>
 <div class="isomer-card-body">
 <div class="isomer-card-title">One-click registration</div>
-<div class="isomer-card-description">Thanks to Myinfo, your users can fill up their particulars with a click
-of the button.</div>
+<div class="isomer-card-description">Thanks to Myinfo, your users can fill up digital forms with their personal
+particulars instantly.</div>
 </div>
 </div>
 </div>
@@ -95,8 +95,8 @@ of the button.</div>
 </div>
 <div class="isomer-card-body">
 <div class="isomer-card-title">In-person identity verification</div>
-<div class="isomer-card-description">In a physical setting? Verify your customers' identities by obtaining
-their information.</div>
+<div class="isomer-card-description">Acquiring customers at a roadshow? Visitor registration for buildings?
+Verify their identities by scanning QR codes.</div>
 </div>
 </div>
 <div class="isomer-card">
@@ -120,7 +120,7 @@ financial journeys.</div>
 <div class="isomer-card-body">
 <div class="isomer-card-title">Convenient digital signing</div>
 <div class="isomer-card-description">Singpass' digital signature is cryptographically linked to the signer,
-thus ensuring integrity.</div>
+ensuring higher assurance of the authenticity and integrity of signed documents.</div>
 </div>
 </div>
 </div>
