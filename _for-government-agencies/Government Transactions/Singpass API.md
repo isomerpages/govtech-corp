@@ -30,16 +30,16 @@ into their digital services.</p>
 biometric verification.</p>
 </li>
 <li>
-<p>Timely notification delivery to users through Singpass Notify.</p>
+<p>Timely delivery of notifications to users through Singpass Notify.</p>
 </li>
 <li>
-<p>Singpass has over 4.2 million users performing around 41 million monthly
+<p>Singpass has over 5 million users performing around 41 million monthly
 transactions.</p>
 </li>
 </ul>
 <hr>
-<p>Today, Singpass is one of the most widely used government apps, with over
-4,200,000 million users performing some 41 million monthly transactions.</p>
+<p>Today, Singpass is one of the most widely used government digital services,
+with over 5 million users performing some 41 million monthly transactions.</p>
 <p>You can leverage this trusted ecosystem and allow your users to transact
 digitally with your agency's services in a secure manner. There are several
 Singpass APIs, from Myinfo to Identiface and Notify, that bring about great
@@ -54,7 +54,7 @@ convenience for your users.</p>
 </div>
 <div class="isomer-card-body">
 <div class="isomer-card-title">One-click registration with Myinfo</div>
-<div class="isomer-card-description">With just a click of a button, your users can fill up their particulars.</div>
+<div class="isomer-card-description">Fuss-free and instant digital form-filling for your users.</div>
 </div>
 </div>
 <div class="isomer-card">
@@ -65,8 +65,8 @@ convenience for your users.</p>
 </div>
 <div class="isomer-card-body">
 <div class="isomer-card-title">Verify your users' identities</div>
-<div class="isomer-card-description">At in-person events, your users can show proof of identity by sharing
-their information.</div>
+<div class="isomer-card-description">At in-person events, your users can prove their identity by scanning QR
+codes.</div>
 </div>
 </div>
 <div class="isomer-card">
@@ -77,12 +77,11 @@ their information.</div>
 </div>
 <div class="isomer-card-body">
 <div class="isomer-card-title">Easy online authentication</div>
-<div class="isomer-card-description">Onboard existing Singpass users and enjoy the assurance that they are
-legitimate users.</div>
+<div class="isomer-card-description">Tap on an established and secure authentication gateway for all your digital
+services.</div>
 </div>
 </div>
 </div>
-<p></p>
 <div class="isomer-card-grid">
 <div class="isomer-card">
 <div class="isomer-card-image">
