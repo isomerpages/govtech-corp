@@ -16,26 +16,26 @@ image: /images/Products and Services/For businesses/Singpass_API_logo.png
 <p></p>
 <ul data-tight="true" class="tight">
 <li>
-<p>Singpass API is a suite of APIs that allows businesses to integrate Singpass
-functionalities into their digital services.</p>
+<p>Singpass API is a suite of Application Programming Interface that allows
+businesses to integrate Singpass functionalities into their digital services.</p>
 </li>
 <li>
-<p>Seamless user verification, enhanced security with biometrics, faster
-user onboarding, in-person identity verification, access to financial data
-(SGFinDex),<strong> </strong>tamper-proof digital signatures for secure
-transactions.</p>
+<p>This includes but is not limited to seamless user verification, enhanced
+security with biometrics, faster user onboarding, in-person identity verification,
+access to financial data (SGFinDex), and<strong> </strong>tamper-proof
+digital signatures for secure transactions.</p>
 </li>
 <li>
-<p>More than 4.2 million Singpass users and over 41 million transactions
-every month.</p>
+<p>More than 5 million Singpass users and over 41 million transactions every
+month.</p>
 </li>
 </ul>
 <hr>
-<p>With a base that boasts over 4.2 million users, Singpass currently facilitates
-more than 41,000,000 transactions every month. Many Singaporeans use it
-for authentication purposes when transacting with the 2,700-plus digital
-services of government agencies and participating businesses on the Singpass
-ecosystem, as it is both convenient and highly secure.</p>
+<p>With a base that boasts over 5 million users, Singpass currently facilitates
+more than 41 million transactions every month. Many Singaporeans use it
+for authentication purposes when transacting with over 2,700 digital services
+belonging to government agencies and participating private-sector organisations
+as it is both convenient and highly secure.</p>
 <p>Running a business? Integrating with the suite of Singpass APIs – Myinfo,
 Verify, Sign, Identiface, and more – can bring about numerous benefits
 such as time and cost savings across processes. Furthermore, a digital
