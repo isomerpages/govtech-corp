@@ -36,7 +36,7 @@ more than 41 million transactions every month. Many Singaporeans use it
 for authentication purposes when transacting with over 2,700 digital services
 belonging to government agencies and participating private-sector organisations
 as it is both convenient and highly secure.</p>
-<p>Running a business? Integrating with a suite of Singpass APIs – Myinfo,
+<p>Running a business? Integrating with a suite of Singpass APIs — Myinfo,
 Verify, Sign, Identiface, and more – can bring about numerous benefits
 such as time and cost savings across processes. Furthermore, a digital
 platform that is part of the Singpass ecosystem inspires trust.</p>
