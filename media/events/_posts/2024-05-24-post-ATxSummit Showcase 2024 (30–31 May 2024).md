@@ -8,9 +8,7 @@ description: "GovTech & Open Gov Products at Asia Tech x Singapore: showcasing
 image: /images/media/events/atx_summit_kv_new_compressed.jpg
 variant: tiptap
 ---
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Asia Tech x Singapore (ATxSG) is Asia’s flagship tech event organised by the Infocomm Media Development Authority (IMDA)." src="/images/media/events/atx_summit_kv_new_compressed.jpg">
-</div>
+<a class="isomer-image-wrapper" href="https://asiatechxsg.com/"><img style="width: 100%" height="auto" width="100%" alt="Asia Tech x Singapore (ATxSG) is Asia’s flagship tech event organised by the Infocomm Media Development Authority (IMDA)." src="/images/media/events/atx_summit_kv_new_compressed.jpg"></a>
 <p></p>
 <p><a href="https://asiatechxsg.com/" rel="noopener noreferrer nofollow" target="_blank"><u>Asia Tech x Singapore (ATxSG)</u></a> is
 Asia’s flagship tech event organised by the Infocomm Media Development
@@ -104,3 +102,10 @@ of life through technology and data-driven decision-making.</p>
 </tbody>
 </table>
 <p></p>
+<div class="iframe-wrapper">
+<iframe style="max-width: 100%;" height="400" width="100%" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/tGJnX5pqHHY?si=qnj42xYJ_Dxvzq5N"></iframe>
+</div>
+<p>Watch to find out what foreign delegates shared about how these innovative
+solutions are not just inspiring, but also serve as potential solutions
+to pressing issues in their countries, such as combating scams and building
+Smart Cities.</p>
