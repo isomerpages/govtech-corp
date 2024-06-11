@@ -19,6 +19,58 @@ of work we do, partnership opportunities, and how you can secure them.</p>
 aim to empower our nation with possibilities through infocomm technology
 and related engineering technology, with our mission being "Engineering
 Digital Government, Making Lives Better".</p>
+<table style="minWidth: 75px">
+<colgroup>
+<col>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<td rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Singpass product designed to digitalise citizen's identities" src="/images/About Us/Singpass.png">
+</div>
+</td>
+<td rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="GoBusiness designed for businesses" src="/images/About Us/GoBusiness.png">
+</div>
+</td>
+<td rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Corppass designed for businesses" src="/images/About Us/corppass.png">
+</div>
+</td>
+</tr>
+</tbody>
+</table>
+<table style="minWidth: 75px">
+<colgroup>
+<col>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<td rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="WOGAA designed to improve government websites and digital services" src="/images/About Us/WOGAA_600x400.png">
+</div>
+</td>
+<td rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="PurpleA11y designed for accessibility" src="/images/About Us/PurpleA11y_600x400.png">
+</div>
+</td>
+<td rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="LifeSG used for registration and reporting of incidents" src="/images/About Us/LifeSG.png">
+</div>
+</td>
+</tr>
+</tbody>
+</table>
 <p>We develop an array of products for citizens, businesses and the Whole
 of Government (WOG), which include Singpass, GoBusiness, LifeSG and more.
 To learn more about what GovTech has developed as part of the Digital Government
@@ -33,6 +85,10 @@ cloud, is offered by cloud service providers such as Amazon Web Services
 you to bid for upcoming projects, whether large- or small-scale, regardless
 of the size of your business.</p>
 <h3>Why partner with us?</h3>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="GovTech CEO Goh Wei Boon giving his opening address at Industry Engagement 2024" src="/images/About Us/IE_191_compressed.jpg">
+</div>
 <p>As a partner, you’ll leave a lasting impact on citizens and businesses
 by co-creating and co-developing technologies for public good. Through
 our work together, you’ll get to familiarise yourself with the Singapore
@@ -124,7 +180,7 @@ agencies.</p>
 <div data-type="detailsContent" class="isomer-details-content">
 <p>Read <a href="https://www.gebiz.gov.sg/singapore-government-procurement-regime.html" rel="noopener noreferrer nofollow" target="_blank">our GeBIZ guide</a> for
 suppliers that are participating in Singapore government procurement opportunities.</p>
-<p><a href="/files/IB2023_Towards_the_Next_Bound_of_Digital_Government_GovTech_CE.pdf" rel="noopener noreferrer nofollow" target="_blank">Industry Briefing 2023 by GovTech Singapore</a>.</p>
+<p><a href="/files/products-and-services/IE_2024_CE_slide_deck.pdf" rel="noopener noreferrer nofollow" target="_blank">Industry Engagement 2024 deck by GovTech Singapore</a>.</p>
 </div>
 </details>
 </div>
