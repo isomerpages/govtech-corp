@@ -98,13 +98,13 @@ own infrastructure.</div>
 <div class="isomer-card">
 <div class="isomer-card-image">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="With Singpass APIs, you can enjoy a secure and contactless way of verifying a citizen's credentials." src="/images/Products and Services/For Government Agencies/Singpass_API_card_5.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="With Singpass APIs, you can enjoy a secure and contactless way of verifying a citizen's credentials." src="/images/Products and Services/For businesses/Singpass_API_card_6.jpg">
 </div>
 </div>
 <div class="isomer-card-body">
-<div class="isomer-card-title">Contactless verification</div>
-<div class="isomer-card-description">During in-person events, you can verify users' identities by checking
-their Singpass credentials.</div>
+<div class="isomer-card-title">Convenient digital signing</div>
+<div class="isomer-card-description">Singpass' digital signature is cryptographically linked to the signer,
+ensuring higher assurance of the authenticity and integrity of signed documents.</div>
 </div>
 </div>
 <div class="isomer-card">
