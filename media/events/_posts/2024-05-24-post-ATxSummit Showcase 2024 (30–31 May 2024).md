@@ -102,6 +102,8 @@ of life through technology and data-driven decision-making.</p>
 </tbody>
 </table>
 <p></p>
+<p><strong>ATxSummit 2024 Highlights</strong>
+</p>
 <div class="iframe-wrapper">
 <iframe style="max-width: 100%;" height="400" width="100%" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/tGJnX5pqHHY?si=qnj42xYJ_Dxvzq5N"></iframe>
 </div>
