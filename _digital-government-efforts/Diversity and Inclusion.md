@@ -65,7 +65,7 @@ issues or gaps in their product/service.</p>
 a DigitalPublicGood by the <a href="https://www.undp.org/blog/why-singapore-building-digital-public-goods" rel="noopener noreferrer nofollow" target="_blank">United Nations Development Programme (UNDP)</a> and
 published as an Organisation for Economic Co-operation and Development
 (OECD) case study for its impact as a Tech for Public Good.</p>
-<p>Learn more about <a href="https://www.developer.tech.gov.sg/products/categories/design/purple-a11y/overview.html" rel="noopener noreferrer nofollow" target="_blank">Purple A11y</a>.</p>
+<p>Learn more about <a href="/products-and-services/for-government-agencies/accessibility/" rel="noopener noreferrer nofollow" target="_blank">Purple A11y</a>.</p>
 <h3>Driving diversity and inclusion within GovTech</h3>
 <p>As we commit ourselves to developing inclusive and accessible products,
 it is just as important to ensure we apply the same principles within the
