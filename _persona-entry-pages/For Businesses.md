@@ -30,8 +30,8 @@ and opportunities to upgrade your business.</p>
 </div>
 <h3>Other digital resources for SMEs</h3>
 <p>Technology is transforming every sector of Singapore’s economy. It’s time
-for SMEs to leverage digital solutions to digitise data, digitalise operations,
-and generate new revenue.</p>
+for SMEs to leverage digital solutions to digitalise operations, enhance
+productivity, and generate new revenue.</p>
 <div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="https://api.singpass.gov.sg/case/dbs" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Upgraded DBS service with the help of GovTech" src="/images/About Us/dbs_x_singpass_600x300.png"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Integration of GovTech services</div><div class="isomer-card-description">Partner with us to level up your business. DBS Bank did just that by adopting our Singpass API to smoothen processes for their customers.</div><div class="isomer-card-link">Read case study</div></div></a>
 <a rel="noopener noreferrer nofollow" href="https://www.imda.gov.sg/how-we-can-help/smes-go-digital" class="isomer-card">
 <div class="isomer-card-image">
@@ -43,7 +43,24 @@ and generate new revenue.</p>
 <div class="isomer-card-title">Go Digital Programme by IMDA</div>
 <div class="isomer-card-description">Take your first steps to digitalise your business with a programme that
 helps SMEs adopt advanced digital solutions, find grants and get a consultation.</div>
-<div class="isomer-card-link">Go to website</div>
+<div class="isomer-card-link">SMEs Go Digital</div>
+</div>
+</a>
+</div>
+<p></p>
+<div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="https://services2.imda.gov.sg/CTOaaS/Highlight/42/generative-artificial-intelligence-sandbox-for-smes?utm_source=PR&amp;utm_medium=PR&amp;utm_campaign=GenAISandbox" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Gen AI Sandbox" src="https://placehold.co/600x400"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Gen AI Sandbox</div><div class="isomer-card-description">Explore the Gen AI Sandbox, launched by IMDA and EnterpriseSG, to try out a range of GenA enterprise solutions for marketing, sales, and customer engagement. </div><div class="isomer-card-link">GenAI Sandbox for SMEs</div></div></a>
+<a rel="noopener noreferrer nofollow" href="https://www.enterprisesg.gov.sg/grow-your-business/boost-capabilities/productivity-and-digitalisation/microsoft-copilot-for-smes-programme" class="isomer-card">
+<div class="isomer-card-image">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Microsoft Copilot for SMEs" src="https://placehold.co/600x400">
+</div>
+</div>
+<div class="isomer-card-body">
+<div class="isomer-card-title">Microsoft Copilot for SMEs</div>
+<div class="isomer-card-description">Enhance productivity and creativity by adopting Copilot for Microsoft
+365 to kickstart your AI journey, through this joint initiative by Microsoft,
+EnterpriseSG, and AI Singapore.</div>
+<div class="isomer-card-link">Copilot for Microsoft 365</div>
 </div>
 </a>
 </div>
