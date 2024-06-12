@@ -26,6 +26,11 @@ and job opportunities, life Inside GovTech, and much more!</p>
 <h3>Fresh insights from GovTech blogs</h3>
 <p>Our very own GovTechies reflect on their experiences, as they share career
 insights, lessons from their time in GovTech and product development journeys.</p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Different Medium blogs under GovTech" src="/images/Get Involved/GovTech_blogs.png">
+</div>
+<p></p>
 <table style="minWidth: 50px">
 <colgroup>
 <col>
