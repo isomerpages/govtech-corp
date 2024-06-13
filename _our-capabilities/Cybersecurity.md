@@ -77,35 +77,57 @@ Digital Academy.</div>
 </div>
 </div>
 </div>
-<p>We also augment government capabilities by engaging the larger cybersecurity
-ecosystem and forging industry partnerships. Some of these initiatives
-include:</p>
 <div class="isomer-card-grid">
 <div class="isomer-card">
 <div class="isomer-card-body">
-<div class="isomer-card-title">Collaborations with partners</div>
-<div class="isomer-card-description">An engaging way for us to train our cybersecurity specialists, and conduct
-research and development.</div>
+<div class="isomer-card-title">Did you know?</div>
+<div class="isomer-card-description">CSG is the first Common Vulnerabilities and Exposures (CVE) Numbering
+Authority (CNA) in Singapore. As a CNA, CSG promptly assigns CVE numbers
+to identified vulnerabilities to allow quick remediation across different
+organisations and platforms.</div>
+</div>
+</div>
+</div>
+<p>&lt;image&gt;</p>
+<p><em>The Government Cybersecurity Operations Centre (GCSOC) plays a key role in detecting and mitigating cyber threats against the Whole-of-Government.</em>
+</p>
+<h4>Who we work with</h4>
+<p>We work with the wider cybersecurity community and industry partners.</p>
+<p></p>
+<div class="isomer-card-grid">
+<div class="isomer-card">
+<div class="isomer-card-body">
+<div class="isomer-card-title">Collaborating with partners</div>
+<div class="isomer-card-description">We collaborate with industry partners and institutes of higher learning
+(IHLs) to leverage their expertise and best-of-breed solutions, which can
+effectively meet the needs of Whole-of-Government.</div>
 </div>
 </div>
 <div class="isomer-card">
 <div class="isomer-card-body">
-<div class="isomer-card-title">Engaging the white hat community</div>
-<div class="isomer-card-description">To encourage responsible reporting of suspected vulnerabilities and weaknesses
-in our systems.</div>
+<div class="isomer-card-title">Engaging with the white hat community</div>
+<div class="isomer-card-description">We engage the wider white hat community through the Crowdsourced Vulnerability
+Disclosure Programme to secure our systems and encourage responsible reporting
+of suspected vulnerabilities found within government systems.</div>
 </div>
 </div>
 <div class="isomer-card">
 <div class="isomer-card-body">
-<div class="isomer-card-title">Efficient vulnerability disclosure</div>
-<div class="isomer-card-description">Prompt assignment of Common Vulnerabilities and Exposures (CVE) number
-so fixes can be made quickly.</div>
+<div class="isomer-card-title">Cultivating talents in cybersecurity</div>
+<div class="isomer-card-description">We conduct regular Capture the Flag competitions to attract and challenge
+cybersecurity enthusiasts on various aspects of cybersecurity, to hone
+their skills, and learn from one another.</div>
 </div>
 </div>
 </div>
 <p></p>
+<p></p>
 <div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="https://medium.com/csg-govtech" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Want to learn more about our work?" src="/images/CTA card images/Medium_blog_CTA_631x200.png"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Want to learn more about our work?</div><div class="isomer-card-description">Visit our Medium blog to see our latest projects and learn about their development.</div><div class="isomer-card-link">Read more on our Medium blog</div></div></a>
 </div>
+<p>Who should join us</p>
+<p>If you are passionate about public service and securing our digital way
+of life, join our team and discover a world of development opportunities
+in cybersecurity.</p>
 <h3>Join our team</h3>
 <p></p>
 <div class="isomer-image-wrapper">
