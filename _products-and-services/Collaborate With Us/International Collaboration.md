@@ -158,19 +158,39 @@ at SCEWC underscores Singapore's role as a leader in urban innovation,
 striving to create a smarter and more connected urban environment.</p>
 <p>Interested to learn more? Check out the <a href="https://www.linkedin.com/feed/update/urn:li:activity:7128668518480318464/" rel="noopener noreferrer nofollow" target="_blank">showcases by our GovTechies</a> at
 the Expo.</p>
-<p></p>
-<p>&lt;Title&gt;</p>
+<h3>Cybersecurity Group's delegations and forums</h3>
 <p>GovTech Cybersecurity Group (CSG) actively engages in international collaboration
 to strengthen our collective cyber defence. Our international engagements
 with foreign government agencies and partners not only allow us to benchmark
 our Government’s cybersecurity capabilities against international standards,
 but they also help promote a unified and coordinated approach towards addressing
 cyber threats among like-minded Governments.</p>
-<p></p>
-<p><em>GovTech CSG hosted a delegation from the German Federal Ministry of the Interior and Community to GovTech HQ in July 2023.</em>
-</p>
-<p><em>GovTech CSG participated in the ASEAN Secure Smart Cities Exchange, <br>held in conjunction with the RSA Conference in April 2023 (San Francisco, USA).</em>
-</p>
+<div class="isomer-card-grid">
+<div class="isomer-card">
+<div class="isomer-card-image">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="GovTech CSG hosted a delegation from the German Federal Ministry of the Interior and Community to GovTech HQ in July 2023." src="/images/Products and Services/Collaborate with us/International_collab_card_1_600x300.jpg">
+</div>
+</div>
+<div class="isomer-card-body">
+<div class="isomer-card-title">Hosted delegation from German Ministry</div>
+<div class="isomer-card-description">GovTech CSG hosted a delegation from the German Federal Ministry of the
+Interior and Community to GovTech HQ in July 2023.</div>
+</div>
+</div>
+<div class="isomer-card">
+<div class="isomer-card-image">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="GovTech CSG participated in the ASEAN Secure Smart Cities Exchange." src="/images/Products and Services/Collaborate with us/International_collab_card_2_600x300.jpg">
+</div>
+</div>
+<div class="isomer-card-body">
+<div class="isomer-card-title">ASEAN Secure Smart Cities Exchange</div>
+<div class="isomer-card-description">GovTech CSG participated in the ASEAN Secure Smart Cities Exchange, held
+in conjunction with the RSA Conference in April 2023 (San Francisco, USA).</div>
+</div>
+</div>
+</div>
 <p></p>
 <div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="mailto:info@tech.gov.sg" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Collaborate with GovTech" src="/images/CTA card images/Ready_to_Collaborate.png"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Ready to collaborate?</div><div class="isomer-card-description">Get in touch with us today to explore ways we can work together.</div><div class="isomer-card-link">info@tech.gov.sg</div></div></a>
 </div>
