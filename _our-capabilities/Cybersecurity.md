@@ -88,12 +88,14 @@ organisations and platforms.</div>
 </div>
 </div>
 </div>
-<p>&lt;image&gt;</p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="The Government Cybersecurity Operations Centre (GCSOC) plays a key role in detecting and mitigating cyber threats against the Whole-of-Government" src="/images/About Us/Our capabilities/CSG_image.jpg">
+</div>
 <p><em>The Government Cybersecurity Operations Centre (GCSOC) plays a key role in detecting and mitigating cyber threats against the Whole-of-Government.</em>
 </p>
 <h4>Who we work with</h4>
 <p>We work with the wider cybersecurity community and industry partners.</p>
-<p></p>
 <div class="isomer-card-grid">
 <div class="isomer-card">
 <div class="isomer-card-body">
@@ -120,11 +122,9 @@ their skills, and learn from one another.</div>
 </div>
 </div>
 </div>
-<p></p>
-<p></p>
 <div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="https://medium.com/csg-govtech" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Want to learn more about our work?" src="/images/CTA card images/Medium_blog_CTA_631x200.png"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Want to learn more about our work?</div><div class="isomer-card-description">Visit our Medium blog to see our latest projects and learn about their development.</div><div class="isomer-card-link">Read more on our Medium blog</div></div></a>
 </div>
-<p>Who should join us</p>
+<h4>Who should join us</h4>
 <p>If you are passionate about public service and securing our digital way
 of life, join our team and discover a world of development opportunities
 in cybersecurity.</p>
