@@ -12,6 +12,13 @@ image: /images/About Us/Our capabilities/Our_capabilities_cybersecurity_compress
 <img style="width: 100%" height="auto" width="100%" alt="GovTech capability centre for cybersecurity" src="/images/About Us/Our capabilities/Cybersecurity_banner.jpg">
 </div>
 <h3>What we do</h3>
+<p>The Cybersecurity Group (CSG), within the Government Technology Agency,
+is a team of cybersecurity professionals, led by the Government Chief Information
+Security Officer, responsible for cybersecurity planning to operations,
+in delivering a trusted digital government for Singapore.</p>
+<p></p>
+<p></p>
+<p></p>
 <p>Our goal is to enable Singapore to be a safe and secure Smart Nation.
 We do this by driving a holistic and sustainable whole-of-government (WOG)
 approach that delivers innovative and forward-thinking cybersecurity capabilities.&nbsp;</p>
