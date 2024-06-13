@@ -58,7 +58,7 @@ sections:
       button: Explore our initiatives
       url: /our-digital-government-efforts/engineering-digital-government/
       image: /images/Homepage/engineerdigitalgov.png
-      alt: Our Role
+      alt: Engineering Digital Government
   - infopic:
       title: Why join GovTech
       subtitle: Our culture
@@ -77,7 +77,7 @@ sections:
       button: Explore our portfolio
       url: /products-and-services/overview/
       image: /images/Homepage/govtechproducts.png
-      alt: Image alt text
+      alt: GovTech product Singpass
   - resources:
       title: Media
       subtitle: GovTech news and stories
