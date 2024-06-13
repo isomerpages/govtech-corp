@@ -46,72 +46,34 @@ and business in Singapore.</div>
 </div>
 </div>
 </div>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
-<p>Our goal is to enable Singapore to be a safe and secure Smart Nation.
-We do this by driving a holistic and sustainable whole-of-government (WOG)
-approach that delivers innovative and forward-thinking cybersecurity capabilities.&nbsp;</p>
-<p>We work with the owners of WOG and Smart Nation Programmes to implement
-secure architectures, and the Chief Information Security Officers (CISOs)
-in agencies to provide cybersecurity governance and technical guidance.</p>
-<p>Our responsibilities/practices include:</p>
-<div class="isomer-card-grid">
-<div class="isomer-card">
-<div class="isomer-card-body">
-<div class="isomer-card-title">1. Government cybersecurity strategy and policy</div>
-<div class="isomer-card-description">Developing strategies and establishing cybersecurity governance policies,
-standards and guidelines for WOG.</div>
-</div>
-</div>
-<div class="isomer-card">
-<div class="isomer-card-body">
-<div class="isomer-card-title">2. Government cybersecurity consulting</div>
-<div class="isomer-card-description">Providing cybersecurity advisories like risk assessments and ensuring
-policy implementation for government projects.</div>
-</div>
-</div>
-</div>
-<div class="isomer-card-grid">
-<div class="isomer-card">
-<div class="isomer-card-body">
-<div class="isomer-card-title">3. Government cybersecurity defence</div>
-<div class="isomer-card-description">Strengthening blue-teaming capabilities through threat detection and incident
-response to protect government digital systems.</div>
-</div>
-</div>
-<div class="isomer-card">
-<div class="isomer-card-body">
-<div class="isomer-card-title">4. Advanced cybersecurity capabilities</div>
-<div class="isomer-card-description">Strengthening the government's cybersecurity capabilities through red-teaming,
-product development and cybersecurity competency training.</div>
-</div>
-</div>
-</div>
 <h3>Our work and initiatives</h3>
-<p>We safeguard our country from heightened cyber threats made against government
-agencies.</p>
+<p>We deliver our mission through a range of activities and functions.</p>
 <div class="isomer-card-grid">
 <div class="isomer-card">
 <div class="isomer-card-body">
-<div class="isomer-card-title">Enhancing the government’s defences</div>
-<div class="isomer-card-description">This includes managing security incidents and developing a tool to identify
-fake government sites.</div>
+<div class="isomer-card-title">Strengthening the government’s defences in cyberspace</div>
+<div class="isomer-card-description">The Government Cybersecurity Operations Centre (GCSOC), with a comprehensive
+suite of cybersecurity capabilities to monitor, detect and respond to incidents,
+is our key capability to defend against threats to the Government networks
+and systems.</div>
 </div>
 </div>
 <div class="isomer-card">
 <div class="isomer-card-body">
-<div class="isomer-card-title">Building cybersecurity capacity</div>
-<div class="isomer-card-description">We built a government trust-based architecture framework and security
-testing for COVID-19 projects.</div>
+<div class="isomer-card-title">Enhancing the government’s cybersecurity capabilities</div>
+<div class="isomer-card-description">We ensure the secure design of government systems and apps through trust-based
+architecture framework, and conduct security testing on these systems,
+through red-teaming, penetration-testing, and the Crowdsourced Vulnerability
+Disclosure Programme to quickly identify and remediate vulnerabilities.</div>
 </div>
 </div>
 <div class="isomer-card">
 <div class="isomer-card-body">
-<div class="isomer-card-title">Developing and engaging talent</div>
-<div class="isomer-card-description">We take part in international competitions, conduct exchange programmes
-and organise hackathons.</div>
+<div class="isomer-card-title">Elevating the cybersecurity posture of our workforce</div>
+<div class="isomer-card-description">We elevate public service officers’ cyber competencies through cybersecurity
+training, quizzes, and phishing exercises. We also provide upskilling courses
+to our public service officers and cybersecurity specialists through GovTech’s
+Digital Academy.</div>
 </div>
 </div>
 </div>
