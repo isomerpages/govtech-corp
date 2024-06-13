@@ -16,6 +16,37 @@ image: /images/About Us/Our capabilities/Our_capabilities_cybersecurity_compress
 is a team of cybersecurity professionals, led by the Government Chief Information
 Security Officer, responsible for cybersecurity planning to operations,
 in delivering a trusted digital government for Singapore.</p>
+<p>Our mission is to secure government info communications technology and
+smart systems, and to respond swiftly to any cyberattack. We achieve this
+through the timely detection of cyber threats, developing cyber capabilities,
+and&nbsp;enhancing the public sector’s cybersecurity posture.</p>
+<ol data-tight="true" class="tight">
+<li>
+<p>We ensure<strong> timely detection and mitigation of cyber threats</strong> by
+monitoring, detecting and responding to cyber incidents across the Whole-of-Government.</p>
+</li>
+<li>
+<p>We <strong>develop cyber capabilities</strong> by designing and implementing
+secure architectures, conducting security testing on our systems and networks,
+and developing advanced cybersecurity products to protect our digital assets.</p>
+</li>
+<li>
+<p>We <strong>enhance and elevate the public sector’s cybersecurity posture</strong> through
+governance policies and through various outreach programmes and exercises.</p>
+</li>
+</ol>
+<div class="isomer-card-grid">
+<div class="isomer-card">
+<div class="isomer-card-body">
+<div class="isomer-card-title">Did you know?</div>
+<div class="isomer-card-description">CSG played a key role in the secure development and deployment of key
+government digital services during COVID-19, such as GoWhere sites and
+TraceTogether, which were critical in the continuation of day-to-day life
+and business in Singapore.</div>
+</div>
+</div>
+</div>
+<p></p>
 <p></p>
 <p></p>
 <p></p>
