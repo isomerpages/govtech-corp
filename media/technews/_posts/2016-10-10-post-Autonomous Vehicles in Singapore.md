@@ -85,7 +85,7 @@ are to become a mainstream mode of land transportation in Singapore.</p>
 <h4>3. SCOT at the National University of Singapore</h4>
 <p></p>
 <div class="iframe-wrapper">
-<iframe style="border:none;overflow:hidden" height="500" width="100%" allowfullscreen="true" frameborder="0" src="https://www.facebook.com/plugins/video.php?height=314&amp;href=https%3A%2F%2Fwww.facebook.com%2Fnus.singapore%2Fvideos%2F10153682459873540%2F&amp;show_text=false&amp;width=560&amp;t=0"></iframe>
+<iframe style="border:none;overflow:hidden" height="450" width="100%" allowfullscreen="true" frameborder="0" src="https://www.facebook.com/plugins/video.php?height=314&amp;href=https%3A%2F%2Fwww.facebook.com%2Fnus.singapore%2Fvideos%2F10153682459873540%2F&amp;show_text=false&amp;width=560&amp;t=0"></iframe>
 </div>
 <p>The Shared Computer Operator Transport, or SCOT, is the brainchild of
 the National University of Singapore (NUS) and the Singapore-MIT Alliance
