@@ -97,5 +97,4 @@ our parks, gardens and nature reserves, but also in all our buildings and
 structures.</p>
 <p>Technology will continue to be a key enabler in this quest to realise
 our vision!</p>
-<p>(Editor: Do check out our <a href="https://www.tech.gov.sg/TechNews/DigitalGov/2016/03/Tech-blooms-in-Parks" rel="noopener noreferrer nofollow" target="_blank">previous TechNews story</a> on
-the technologies that NParks deploys in the field.)</p>
+<p></p>
