@@ -131,7 +131,7 @@ in cybersecurity.</p>
 <h3>Join our team</h3>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Testimonial for careers in GovTech capability centre for cybersecurity - cybersecurity specialist" src="/images/About Us/Our capabilities/cybersecurity_quote_1.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="Testimonial for careers in GovTech capability centre for cybersecurity - cybersecurity specialist" src="/images/About Us/Our capabilities/EB_Campaign_banner___quotes_Tan_Kee_Hock__updated___1_.jpg">
 </div>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="Testimonial for careers in GovTech capability centre for cybersecurity - Associate cybersecurity specialist" src="/images/About Us/Our capabilities/cybersecurity_quote_2.jpg">
