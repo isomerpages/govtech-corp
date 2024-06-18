@@ -337,7 +337,7 @@ Officer, Cybersecurity Group</div>
 <div class="isomer-card">
 <div class="isomer-card-image">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Ong Hong Joo" src="https://placehold.co/600x400">
+<img style="width: 100%" height="auto" width="100%" alt="GovTech leader Ong Hong Joo" src="/images/our-team/Mr_ONG_Hong_Joo.png">
 </div>
 </div>
 <div class="isomer-card-body">
