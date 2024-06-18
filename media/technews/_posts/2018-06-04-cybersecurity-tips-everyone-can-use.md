@@ -1,10 +1,14 @@
 ---
 layout: post
-title:  "Cybersecurity tips everyone can use"
-permalink: "/media/technews/cybersecurity-tips-everyone-can-use"
-image: "/images/technews/cybersecurity-tips-everyone-can-use-part-1.png"
+title: Cybersecurity tips everyone can use
+permalink: /media/technews/cybersecurity-tips-everyone-can-use/
+image: /images/technews/cybersecurity-tips-everyone-can-use-part-1.png
+variant: tiptap
 ---
-
-![cybersecurity tips everyone can use](/images/technews/cybersecurity-tips-everyone-can-use-part-1.png)
-
-![cybersecurity tips everyone can use](/images/technews/cybersecurity-tips-everyone-can-use-part-2.png)
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="cybersecurity tips everyone can use" src="/images/technews/cybersecurity-tips-everyone-can-use-part-1.png">
+</div>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="cybersecurity tips everyone can use" src="/images/technews/cybersecurity-tips-everyone-can-use-part-2.png">
+</div>
+<p></p>
