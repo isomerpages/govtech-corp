@@ -276,8 +276,7 @@ Officer, Cybersecurity Group</div>
 </div>
 <div class="isomer-card-body">
 <div class="isomer-card-title">Mr TAN Bee Teck</div>
-<div class="isomer-card-description">Assistant Chief Executive Central Administration and Social Clusters,
-Education Cluster (Senior Director)</div>
+<div class="isomer-card-description">Assistant Chief Executive Central Administration and Social Clusters</div>
 </div>
 </div>
 <div class="isomer-card">
@@ -288,8 +287,7 @@ Education Cluster (Senior Director)</div>
 </div>
 <div class="isomer-card-body">
 <div class="isomer-card-title">Mr TAN Eng Pheng</div>
-<div class="isomer-card-description">Assistant Chief Executive, Economic and National Development Clusters,
-Services HQ</div>
+<div class="isomer-card-description">Assistant Chief Executive, Economic and National Development Clusters</div>
 </div>
 </div>
 <div class="isomer-card">
@@ -322,7 +320,7 @@ Services HQ</div>
 </div>
 <div class="isomer-card-body">
 <div class="isomer-card-title">Mr LIM Thian Chin</div>
-<div class="isomer-card-description">Senior Director, Governance Group</div>
+<div class="isomer-card-description">Senior Director, Governance</div>
 </div>
 </div>
 <div class="isomer-card">
@@ -333,7 +331,18 @@ Services HQ</div>
 </div>
 <div class="isomer-card-body">
 <div class="isomer-card-title">Mr Kevin NG</div>
-<div class="isomer-card-description">Senior Director, Government Digital Services - Central</div>
+<div class="isomer-card-description">Senior Director, Government Digital Services</div>
+</div>
+</div>
+<div class="isomer-card">
+<div class="isomer-card-image">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Ong Hong Joo" src="https://placehold.co/600x400">
+</div>
+</div>
+<div class="isomer-card-body">
+<div class="isomer-card-title">Mr ONG Hong Joo</div>
+<div class="isomer-card-description">Senior Director, Cybersecurity Group</div>
 </div>
 </div>
 <div class="isomer-card">
@@ -344,7 +353,7 @@ Services HQ</div>
 </div>
 <div class="isomer-card-body">
 <div class="isomer-card-title">Mr D. N. PRASAD</div>
-<div class="isomer-card-description">Senior Director, People and Organisation Division (POD)</div>
+<div class="isomer-card-description">Senior Director, People and Organisation Division</div>
 </div>
 </div>
 <div class="isomer-card">
@@ -355,8 +364,7 @@ Services HQ</div>
 </div>
 <div class="isomer-card-body">
 <div class="isomer-card-title">Mr Jason SEE</div>
-<div class="isomer-card-description">Senior Director, Data Science and Artificial Intelligence, Education Cluster
-(Senior Director-Designate)</div>
+<div class="isomer-card-description">Senior Director, Education Cluster</div>
 </div>
 </div>
 <div class="isomer-card">
@@ -378,7 +386,7 @@ Services HQ</div>
 </div>
 <div class="isomer-card-body">
 <div class="isomer-card-title">Mr Richard TAY</div>
-<div class="isomer-card-description">Senior Director, Government Infrastructure Group</div>
+<div class="isomer-card-description">Senior Director, Government Infrastructure</div>
 </div>
 </div>
 <div class="isomer-card">
@@ -390,87 +398,6 @@ Services HQ</div>
 <div class="isomer-card-body">
 <div class="isomer-card-title">Mr Vlastimil CHVOJKA</div>
 <div class="isomer-card-description">Senior Director, Product Innovation Centre</div>
-</div>
-</div>
-<div class="isomer-card">
-<div class="isomer-card-image">
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="GovTech leader Steven Koh" src="/images/About Us/Steven_KOH.jpg">
-</div>
-</div>
-<div class="isomer-card-body">
-<div class="isomer-card-title">Mr Steven KOH</div>
-<div class="isomer-card-description">Director, Government Digital Services - Agile Consulting &amp; Engineering
-(ACE)</div>
-</div>
-</div>
-</div>
-<div class="isomer-card-grid">
-<div class="isomer-card">
-<div class="isomer-card-image">
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="GovTech leader Eyung Lim" src="/images/About Us/Eyung_LIM.jpg">
-</div>
-</div>
-<div class="isomer-card-body">
-<div class="isomer-card-title">Mr Eyung LIM</div>
-<div class="isomer-card-description">Director, Government Digital Services - Digital Design &amp; Development
-(DCube)</div>
-</div>
-</div>
-<div class="isomer-card">
-<div class="isomer-card-image">
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="GovTech leader Loh Xiang Hui" src="/images/About Us/LOH_Xiang_Hui.jpg">
-</div>
-</div>
-<div class="isomer-card-body">
-<div class="isomer-card-title">Mr LOH Xiang Hui</div>
-<div class="isomer-card-description">Director, Finance and Procurement</div>
-</div>
-</div>
-<div class="isomer-card">
-<div class="isomer-card-image">
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="GovTech leader James Tan" src="/images/About Us/James_TAN.jpg">
-</div>
-</div>
-<div class="isomer-card-body">
-<div class="isomer-card-title">Mr James TAN</div>
-<div class="isomer-card-description">Director, Smart City Technology Division (SCTD)</div>
-</div>
-</div>
-<div class="isomer-card">
-<div class="isomer-card-image">
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="GovTech leader Jordan Tan" src="/images/About Us/Jordan_TAN.jpg">
-</div>
-</div>
-<div class="isomer-card-body">
-<div class="isomer-card-title">Mr Jordan TAN</div>
-<div class="isomer-card-description">Director, Digital Workplace</div>
-</div>
-</div>
-<div class="isomer-card">
-<div class="isomer-card-image">
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="GovTech leader Gabriyel Wong" src="/images/About Us/Gabriyel_WONG.jpg">
-</div>
-</div>
-<div class="isomer-card-body">
-<div class="isomer-card-title">Mr Gabriyel WONG</div>
-<div class="isomer-card-description">Director, Moments of Life</div>
-</div>
-</div>
-<div class="isomer-card">
-<div class="isomer-card-image">
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="GovTech leader Vincent Kor" src="/images/About Us/Vincent_KOR.jpg">
-</div>
-</div>
-<div class="isomer-card-body">
-<div class="isomer-card-title">Mr Vincent KOR</div>
-<div class="isomer-card-description">General Counsel, Legal</div>
 </div>
 </div>
 </div>
