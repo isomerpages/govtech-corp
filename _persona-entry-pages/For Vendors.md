@@ -141,7 +141,7 @@ towards becoming a GovTech partner.</p>
 </p>
 </li>
 <li>
-<p><a href="/about-us/what-we-do/our-capabilities/" rel="noopener noreferrer nofollow" target="_blank">Our Capabilities</a>
+<p><a href="/our-capabilities/" rel="noopener noreferrer nofollow" target="_blank">Our Capabilities</a>
 </p>
 </li>
 <li>
