@@ -264,7 +264,7 @@ Technology Agency of Singapore</div>
 </div>
 <div class="isomer-card-body">
 <div class="isomer-card-title">Mr Justiin ANG</div>
-<div class="isomer-card-description">Assistant Chief Executive /Government Cybersecurity Information Security
+<div class="isomer-card-description">Assistant Chief Executive / Government Cybersecurity Information Security
 Officer, Cybersecurity Group</div>
 </div>
 </div>
