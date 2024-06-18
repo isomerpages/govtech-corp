@@ -39,7 +39,7 @@ to support the Smart Nation initiative.</p>
 <h3>Our key areas of work</h3>
 <p>GovTech is a key driver in digital transformation. We create impactful
 government digital services which drive Singapore’s Smart Nation vision.</p>
-<p>Our work can be classified into these key <a href="/about-us/what-we-do/our-capabilities/" rel="noopener noreferrer nofollow" target="_blank">capability centres</a>.</p>
+<p>Our work can be classified into these key <a href="/our-capabilities/" rel="noopener noreferrer nofollow" target="_blank">capability centres</a>.</p>
 <ol data-tight="true" class="tight">
 <li>
 <p><a href="/our-capabilities/application-design-development-and-deployment/" rel="noopener noreferrer nofollow" target="_blank">Application Design, Development and Deployment</a>
