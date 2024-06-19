@@ -11,7 +11,9 @@ variant: tiptap
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="At the Public Sector Transformation Conference, a panel of experts shared the benefits that organisations can reap from taking a life-moment approach in the design of services." src="/images/technews/life_moment_approach_for_citizen_centric_services_1.jpg">
 </div>
-<h3>At the Public Sector Transformation Conference, a panel of experts shared the benefits that organisations can reap from taking a life-moment approach in the design of services.</h3>
+<p>At the Public Sector Transformation Conference, a panel of experts shared
+the benefits that organisations can reap from taking a life-moment approach
+in the design of services.</p>
 <p>By now, you’ve probably heard about Industry 4.0, where digitalisation,
 data and automation are shaking up the way organisations operate. Less
 talked about is the concept of Services 4.0, which challenges leaders to
@@ -27,7 +29,6 @@ by Mr Dominic Chan, director of the Moments of Life platform, Government
 Technology Agency of Singapore (GovTech); Mr Eugene Toh, director of the
 Pro-Enterprise Division at the Ministry of Trade and Industry; and Mr Tan
 Chia Han, assistant commissioner of police, Singapore Police Force.</p>
-<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="The sharing session at the Public Sector Transformation Conference held at Our Tampines Hub on 18 July 2019" src="/images/technews/life_moment_approach_for_citizen_centric_services_2.jpg">
 </div>
