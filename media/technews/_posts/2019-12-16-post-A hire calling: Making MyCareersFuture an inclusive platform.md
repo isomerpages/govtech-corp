@@ -12,7 +12,9 @@ variant: tiptap
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="MyCareersFuture screenshot from website - helping people find jobs within the government" src="/images/technews/Making_MyCareersFuture_an_inclusive_platform_1.png">
 </div>
-<h3>Persons with disabilities may have difficulty navigating the <a href="https://www.mycareersfuture.sg/" rel="noopener noreferrer nofollow" target="_blank">MyCareersFuture.sg</a> portal to find employment. Mr Dickson Tan, software engineer at GovTech, is helping to change that.</h3>
+<p>Persons with disabilities may have difficulty navigating the MyCareersFuture.sg
+portal to find employment. Mr Dickson Tan, software engineer at GovTech,
+is helping to change that.</p>
 <p>Gone are the days when job hunting involved flipping through the classified
 ads in the newspapers. In the internet age, employers have moved their
 talent search online to gain access to a bigger, global pool of candidates,
@@ -53,7 +55,6 @@ to help people with visual impairement.</p>
 <p>“For example, we’ve fixed the skills input function. Before we patched
 it, screen readers did not read the skills correctly and were difficult
 to select or deselect,” Mr Tan explained.</p>
-<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="Mr Dickson Tan, a software engineer at GovTech on how the MyCareersFuture team makes the job portal inclusive and accessible" src="/images/technews/Making_MyCareersFuture_an_inclusive_platform_2.jpg">
 </div>
@@ -89,6 +90,5 @@ verbalise code changes to him.</p>
 <p>Hence, with better accessibility on job portals, the right hiring practices,
 appropriate workplace accommodations and inclusive organisational culture,
 employers can attract diverse talents to fill their ranks, Mr Tan concluded.</p>
-<p><strong>Read more web accessibility from Mr Dickson Tan’s post&nbsp;<a href="https://blog.gds-gov.tech/an-introduction-to-web-accessibility-part-1-e1a160a75163" class="editor-rtfLink" rel="noopener noreferrer nofollow" target="_blank">here.</a></strong>
-</p>
+<p></p>
 <p></p>
