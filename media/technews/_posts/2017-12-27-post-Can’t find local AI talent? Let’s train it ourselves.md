@@ -20,14 +20,8 @@ description: ""
 </p>
 </li>
 <li>
-<p><em>Ultimately, AI is likely to create more jobs than it displaces, as well as free up time for humans to engage in more meaningful work</em>In
-Singapore, projects quite literally driven by artificial intelligence (AI)
-are already mushrooming all over the country. In October 2017, Singapore’s
-first <a href="https://www.channelnewsasia.com/news/business/singapore-s-first-driverless-truck-makes-debut-at-jurong-island-9338308" rel="noopener noreferrer nofollow" target="_blank">driverless truck</a> rolled
-onto the streets of Jurong Island to help transport cargo between packaging
-and storage facilities; earlier in the year, the PSA Corporation announced
-that it will begin testing an <a href="https://www.channelnewsasia.com/news/singapore/singapore-to-start-trials-of-driverless-trucks-for-port-transpor-7558490" rel="noopener noreferrer nofollow" target="_blank">autonomous truck platooning system</a>,
-in which a convoy of driverless trucks is led by a human-driven lead truck.</p>
+<p><em>Ultimately, AI is likely to create more jobs than it displaces, as well as free up time for humans to engage in more meaningful workIn Singapore, projects quite literally driven by artificial intelligence (AI) are already mushrooming all over the country. In October 2017, Singapore’s first driverless truck rolled onto the streets of Jurong Island to help transport cargo between packaging and storage facilities; earlier in the year, the PSA Corporation announced that it will begin testing an autonomous truck platooning system, in which a convoy of driverless trucks is led by a human-driven lead truck.</em>
+</p>
 </li>
 </ul>
 <p>In addition to autonomous transport, AI has also found its way into the
@@ -48,7 +42,7 @@ Hub Singapore and SGInnovate.</p>
 <p>“AI Singapore is not here to dictate what projects Singapore should undertake.
 Instead, we are here to facilitate AI projects, match companies with AI
 talents and accelerate the adoption of AI,” he emphasised.</p>
-<h3><strong>Wanted: professionals and products</strong></h3>
+<h3>Wanted: professionals and products</h3>
 <p>AI Singapore’s programmes are targeted across the entire R&amp;D continuum,
 from funding basic research in AI to developing AI talent for industry
 needs and nurturing AI startups, said Mr Liew, who focuses on the industry
@@ -70,7 +64,7 @@ end of the collaboration. Because 100E will focus on problem statements
 that are also viable business cases, the company will also get a product.
 “The deliverable is a minimum viable product (MVP)—this is very different
 from a traditional university or research project,” said Mr Liew.</p>
-<h3><strong>Programming for the real world</strong></h3>
+<h3>Programming for the real world</h3>
 <p>Although Singapore has AI expertise in its universities and research institutes,
 it lacks professional engineers who can write production quality software,
 said Mr Liew. To fill this gap, AI Singapore developed the <a href="https://www.aisingapore.org/aiap/" rel="noopener noreferrer nofollow" target="_blank">AI Apprenticeship Programme</a> (AIAP),
@@ -88,7 +82,7 @@ Liew.</p>
 <p>While the first iteration of this programme is targeted at Singaporean
 fresh graduates, AI Singapore is also looking into what it can do for non-Singaporeans,
 as well as for PMETs looking to reskill themselves, he added.</p>
-<h3><strong>The pursuit of meaning</strong></h3>
+<h3>The pursuit of meaning</h3>
 <p>Although AI Singapore’s mission is to increase the adoption of AI, it
 wants to accomplish this mission with as little job displacement as possible,
 said Mr Liew. “There must be a plan to upskill or reskill the existing
