@@ -10,11 +10,8 @@ description: ""
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="An inclusive Smart Nation: 5 ways tech can empower persons with special needs" src="/images/technews/an-inclusive-smart-nation-5-ways-tech-can-empower-persons-with-special-needs-part-1.png">
 </div>
-<p>TL:DR: The benefits of Smart Nation should extend to all segments of society,
-even those with disabilities. Technologies that assist in communication
-and mobility are highly valued by persons with disabilities. Digital applications
-and the Internet of Things developed for a Smart Nation can be adapted
-to improve the lives of those with disabilities.</p>
+<p><em>TL:DR: The benefits of Smart Nation should extend to all segments of society, even those with disabilities. Technologies that assist in communication and mobility are highly valued by persons with disabilities. Digital applications and the Internet of Things developed for a Smart Nation can be adapted to improve the lives of those with disabilities.</em>
+</p>
 <hr>
 <p>When the touch screen replaced the physical number pad on the mobile phone,
 imagine how it must have affected those with visual impairments, who rely
@@ -36,9 +33,9 @@ citizens, finding ways to integrate AT into society is especially important.
 Read on to learn about five ways in which AT can help improve the lives
 of persons with disabilities.</p>
 <div class="iframe-wrapper">
-<iframe height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/YIt9FRBlBtk"></iframe>
+<iframe style="max-width: 100%;" height="400" width="100%" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/YIt9FRBlBtk"></iframe>
 </div>
-<h3><strong>Finding a voice</strong></h3>
+<h3>Finding a voice</h3>
 <p>Communication lies at the heart of learning, and helps young people integrate
 into their social environment. Thus, children with speech impairments resulting
 from conditions such as cerebral palsy often feel lonely and frustrated
@@ -54,7 +51,7 @@ It helps persons with speech impairments spell out and construct sentences
 by combining different symbols. A voice then reads out the message once
 it has been composed. Think of this as a translator or a spokesperson,
 helping to relay messages and broker conversations in an intuitive manner.</p>
-<h3><strong>An eye for detail</strong></h3>
+<h3>An eye for detail</h3>
 <p>Sometimes, diseases can strip a person of mobility as well as speech.
 For example, stroke survivors or patients who have motor neuron disease
 could be mentally aware but unable to communicate in any manner, apart
@@ -68,9 +65,9 @@ staring at their intended target for milliseconds longer. The sentences
 are then read aloud by an inbuilt voice assistant.</p>
 <p>Tan Tock Seng Hospital’s Help Me Speak initiative employs this technology
 to allow its patients to express discomfort, call for help in an emergency,
-hold conversations and even surf the internet. TheSpecialised ATC also
+hold conversations and even surf the internet. The Specialised ATC also
 loans eye tracking devices to patients who need them.</p>
-<h3><strong>A sound solution</strong></h3>
+<h3>A sound solution</h3>
 <p>Reading a newspaper is a simple task for people with normal vision. But
 for those with eye conditions such as cataracts or macular degeneration
 that result in low vision, making out words and sentences on a page or
@@ -86,7 +83,7 @@ the speaking rate and pitch to suit their preferences.</p>
 Visually Handicapped also offers a comprehensive range of devices for those
 with low vision, including lifestyle talking devices, refreshable braille
 displays and desktop or portable electronic magnifiers.</p>
-<h3><strong>Getting around</strong></h3>
+<h3>Getting around</h3>
 <p>Personal mobility devices such as bicycles and electronic scooters may
 generate buzz in terms of urban mobility in a Smart Nation, but for those
 who are unable to walk, the wheelchair is the most important personal mobility
@@ -102,7 +99,7 @@ people with disabilities navigate the airport terminals. Airport staff
 need only press a button on the smart wheelchair to have it ‘recognise’
 him or her. The semi-autonomous wheelchair will then follow behind the
 staff, who will bring the passenger on the wheelchair to the flight gate.</p>
-<h3><strong>A smarter home sweet home</strong></h3>
+<h3>A smarter home sweet home</h3>
 <p>Living independently is something many able-bodied people take for granted.
 Tasks as simple as switching off all the lights in the house before going
 to sleep can be difficult for a person with physical disability. This is
@@ -119,5 +116,4 @@ motion detectors can ensure that family members and caregivers are informed
 of any urgent situations in real-time. Some of the ageing-in-place systems
 implemented in households with elderly may therefore be useful for those
 with disabilities as well.</p>
-<p>Image Source: <a href="http://www.spd.org.sg/" rel="noopener noreferrer nofollow" target="_blank">http://www.spd.org.sg</a>
-</p>
+<p></p>
