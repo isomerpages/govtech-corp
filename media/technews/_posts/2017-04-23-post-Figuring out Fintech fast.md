@@ -29,12 +29,12 @@ Kong, Sydney and Singapore, among others — attracted US$22.3 billion from
 investors around the world, and this figure is <a href="https://www.pwc.com/gx/en/industries/financial-services/fintech-survey/report.html" rel="noopener noreferrer nofollow" target="_blank">expected to exceed US$150 billion</a> in
 the next three to five years.</p>
 <p>Here are five things you need to know about the booming fintech industry.</p>
-<h3><strong>1. Goodbye, middleman?</strong></h3>
+<h3>Goodbye, middleman?</h3>
 <p>Fintech’s most powerful weapon, according to professional services firm
 PricewaterhouseCoopers, is disintermediation. “While financial service
 organisations have acted as intermediaries in the financial system by providing
 an invaluable service to clients, their functions are being usurped by
-new technology-driven business models,” <a href="https://www.pwc.com/gx/en/industries/financial-services/fintech-survey/report.html" rel="noopener noreferrer nofollow" target="_blank">PwC reported last year</a>.</p>
+new technology-driven business models,” PwC reported last year.</p>
 <p>Fintech is making the middleman obsolete.</p>
 <p>For example, individuals seeking investment advice no longer need to make
 an appointment with a bank’s financial advisor; automated robo-advisors
@@ -47,7 +47,7 @@ that facilitates multi-currency trading across borders, told TechNews.</p>
 <p>“Things you previously had to go to the bank or a broker for, you can
 now potentially bypass. Fintech is literally replacing an incumbent in
 the value chain.”</p>
-<h3><strong>2. Shake it up, banks</strong></h3>
+<h3>Shake it up, banks</h3>
 <p>“Fintech” may seem like a buzzword that appeared in the past two to three
 years, but the industry’s beginnings can actually be traced back to 2008.
 The credit crisis that year resulted in financial services facing heavy
@@ -67,7 +67,7 @@ shed their traditional stuffy image and appear more innovative.</p>
 <p>“Every bank these days has decided they need to embrace the culture,”
 said M-DAQ’s Koh. “Every bank has an in-house fintech unit — laboratory,
 incubator, or simply events halls with beer and pizza.”</p>
-<h3><strong>3. It’s not all disruptive</strong></h3>
+<h3>It’s not all disruptive</h3>
 <p>But fintech firms don’t just exist to wreak havoc on traditional banks,
 insurers and large financial institutions. It’s true that some companies
 are ‘disruptors’ that use technology to take away business from established
@@ -78,7 +78,7 @@ added. These firms partner with established companies to help acquire new
 customers (Australia’s Avoka), reduce fraud (Swiss-based NetGuardians),
 provide multi-currency payment solutions (Bankable in the UK), among other
 services.</p>
-<h3><strong>4. Democratising finance</strong></h3>
+<h3>Democratising finance</h3>
 <p>Fintech is said to bring about many benefits, and one of the most commonly
 cited is that it’s helping to tackle financial exclusion. Fintech firms
 have levelled the financial playing field, bringing banking services—once
@@ -91,7 +91,7 @@ ones that fintech could help,” said M-DAQ’s Koh.</p>
 in rural areas — seven in every ten people in the South Asian region —
 enabling them to send and receive money, make payments and top up their
 phone credits through their mobile phones.</p>
-<h3><strong>5. Power to the people</strong></h3>
+<h3>Power to the people</h3>
 <p>Although fintech signals increased competition, the good news is that
 this often translates into more efficient products and services.</p>
 <p>“Just like how Uber and Grab lowered taxi fares, and a fourth telco in
