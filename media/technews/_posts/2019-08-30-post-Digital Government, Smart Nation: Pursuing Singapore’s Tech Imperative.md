@@ -11,7 +11,7 @@ variant: tiptap
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="Digital Government, Smart Nation: Pursuing Singapore’s Tech Imperative" src="/images/technews/smart_nation_starts_with_disrupting_ourselves_part_1.jpg">
 </div>
-<p><strong>Contributed by Ng Chee Khern</strong>
+<p><em>This article was contributed by Mr Ng Chee Khern.</em>
 </p>
 <p>The Smart Nation initiative, first announced by Prime Minister Lee Hsien
 Loong in 2014, aims to make Singapore “an outstanding city in the world…
@@ -143,7 +143,7 @@ under development. We believe that this increases citizens’ ownership towards
 these products, and makes them more inclined to use the products once they
 launch.</p>
 <hr>
-<p><strong>Ng Chee Khern is Permanent Secretary for Smart Nation and Digital Government in the Prime Minister’s Office.</strong>
+<p><em>Ng Chee Khern is Permanent Secretary for Smart Nation and Digital Government in the Prime Minister’s Office.</em>
 </p>
-<p><strong>This article is adapted from a longer essay in the July 2019 issue of Ethos, a publication of the Civil Service College.</strong>
+<p><em>This article is adapted from a longer essay in the July 2019 issue of Ethos, a publication of the Civil Service College.</em>
 </p>
