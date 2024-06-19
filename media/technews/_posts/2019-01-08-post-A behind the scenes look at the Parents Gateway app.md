@@ -11,7 +11,12 @@ variant: tiptap
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="A behind-the-scenes look at the Parents Gateway app" src="/images/technews/behind-the-scenes-look-at-the-parents-gateway-part1.jpg">
 </div>
-<h3>TL:DR: Officially launched on 2 January 2019, the Parents Gateway mobile app serves as a one-stop platform for schools and parents to connect online. The idea of a centralised digital service was conceptualised by Mr Melvyn Song, executive application consultant at GovTech. Learn more about his journey to bring Parents Gateway from dream to reality.</h3>
+<p>TL:DR: Officially launched on 2 January 2019, the Parents Gateway mobile
+app serves as a one-stop platform for schools and parents to connect online.
+The idea of a centralised digital service was conceptualised by Mr Melvyn
+Song, executive application consultant at GovTech. Learn more about his
+journey to bring Parents Gateway from dream to reality.</p>
+<hr>
 <p>Children aren’t the only ones who feel excited about a new school semester;
 their parents arguably experience equal anxiety each time the school bells
 signal the end of the term break.</p>
@@ -26,9 +31,8 @@ down on administrative gridlock on teachers.</p>
 Gateway, which serves as a one-stop platform for schools to connect with
 parents on key administrative matters.</p>
 <p>Co-developed with the Ministry of Education (MOE), the Parents Gateway
-(download it via the <a href="https://play.google.com/store/apps/details?id=com.moe.pgp&amp;hl=en_SG" rel="noopener noreferrer nofollow" target="_blank">Google Play Store</a> or
-<a href="https://itunes.apple.com/sg/app/parents-gateway/id1267198708?mt=8" rel="noopener noreferrer nofollow" target="_blank">iOS AppStore</a>) is driven by Mr Melvyn Song, executive application consultant
-at the Government Technology Agency of Singapore (GovTech).</p>
+app is driven by Mr Melvyn Song, executive application consultant at the
+Government Technology Agency of Singapore (GovTech).</p>
 <p>He gestated the idea of the app and brought it from ambition to reality.
 TechNews spoke to Mr Song about the labour of love that resulted in a platform
 that will eventually serve 600,000 parents and 33,000 teachers across Singapore.</p>
