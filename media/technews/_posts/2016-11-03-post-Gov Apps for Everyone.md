@@ -24,7 +24,7 @@ transportation choices in an urban city like Singapore.</p>
 <p>"Bus routes never really change. Some have been there for a very long
 time," said Mr Liu. "So, how can we think about our bus routes in a more
 evolutionary, data-driven way, to run more optimised, integrated transportations?"</p>
-<h3><strong>Home to Work</strong></h3>
+<h3>Home to Work</h3>
 <p>To first understand the travel woes of citizens, Mr Liu's team of data
 scientists used algorithms to analyse anonymised EZ-Link data taken from
 over a couple months. They generated a heat map of Singapore, showing which
@@ -59,7 +59,7 @@ bus routes of schools on the same street. Why not merge both bus services?"</p>
 is not an alternative service, but rather, it is Mobility-as-a-Service.</p>
 <p>"The strategy is not to compete with service providers, but become more
 of an open platform for all of them to use," he said.</p>
-<h3><strong>Code with Heart</strong></h3>
+<h3>Code with Heart</h3>
 <p>This focus on data-driven design was also the subject of a talk delivered
 by Mr Mark Lim, Director of GDS, at the summit.</p>
 <p>He noted how this concept has been used extensively in e-commerce and
