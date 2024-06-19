@@ -81,4 +81,4 @@ of the product, one that is less prone to error.</p>
 autonomous. This Moments of Life (Families) project has made me realise
 how wrong I was. Software systems are a direct reflection of the team that
 built it.”</p>
-<p><em>The article was adapted from <a href="https://www.psd.gov.sg/challenge/ideas/feature/the-tech-behind-the-moments-of-life-(families)-app" rel="noopener noreferrer nofollow" target="_blank">Challenge Magazine</a></em>.</p>
+<p></p>
