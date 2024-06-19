@@ -12,9 +12,6 @@ variant: tiptap
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="The process of designing a micro-chip" src="/images/technews/Steps_to_Successful_Technology_Acquisition.jpg">
 </div>
-<p></p>
-<p><strong>Contributed by Vincent Kor</strong>
-</p>
 <p>Amidst the oftentimes sombre news about the COVID-19 pandemic are encouraging
 reports on how companies are using technology to overcome the unprecedented
 disruptions they face. Cloud computing, data analytics and voice-over-IP
@@ -106,6 +103,7 @@ be implemented quickly and effectively.</p>
 <p>A successful technology procurement will buttress the company’s ability
 to ride out the storm and ensure its business is well-positioned to stay
 ahead digitally when the crisis is over.</p>
-<p><strong>Vincent Kor is the General Counsel of the Government Technology Agency where he advises and works on various technology law matters.</strong>
+<hr>
+<p><em>This article was contributed by Vincent Kor. Vincent Kor is the General Counsel of the Government Technology Agency where he advises and works on various technology law matters.</em>
 </p>
 <p></p>
