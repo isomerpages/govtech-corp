@@ -11,7 +11,12 @@ variant: tiptap
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="meet the man using myResponder to save lives" src="/images/technews/man-using-myresponder1.JPG">
 </div>
-<h3>TL;DR: In the event of a medical emergency, community first responders can provide crucial assistance to patients and their families before paramedics arrive. TechNews spoke to nursing student Mr Rex Ang Jia Jie to find out how he uses the SCDF’s myResponder app to put his lifesaving skills to good use.</h3>
+<p>TL;DR: In the event of a medical emergency, community first responders
+can provide crucial assistance to patients and their families before paramedics
+arrive. TechNews spoke to nursing student Mr Rex Ang Jia Jie to find out
+how he uses the SCDF’s myResponder app to put his lifesaving skills to
+good use.</p>
+<hr>
 <p>Like a nail to a magnet, Mr Rex Ang Jia Jie rushes to the scene of a medical
 emergency with his trauma bag each time a siren sounds on his mobile phone.
 He usually makes it to the patient before an ambulance does, and drawing
@@ -32,7 +37,7 @@ that it was “well worth it”—his knowledge and skills have come in handy
 more than 20 times now since he downloaded the myResponder mobile app on
 his smartphone in January 2017.</p>
 <div class="iframe-wrapper">
-<iframe height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/vwOetdgO6UU"></iframe>
+<iframe style="max-width: 100%;" height="400" width="100%" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/vwOetdgO6UU"></iframe>
 </div>
 <h3>Building a community of good Samaritans</h3>
 <p>Developed by the SCDF in collaboration with the Government Technology
