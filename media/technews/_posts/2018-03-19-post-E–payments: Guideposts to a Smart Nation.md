@@ -134,5 +134,6 @@ is timely and would be much welcomed.</p>
 Asia in the coming decade, Singapore’s continued efforts to develop an
 accessible, efficient and interoperable payments ecosystem serve as shining
 guideposts in the journey towards building a Smart Nation.</p>
-<p><em>Vincent Kor is the General Counsel of the Government Technology Agency where he heads its Legal Division.</em>
+<hr>
+<p><em>This article has been contributed by Mr Vincent Kor, who is the General Counsel of GovTech and head of GovTech's Legal Division.</em>
 </p>
