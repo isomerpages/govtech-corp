@@ -12,7 +12,8 @@ variant: tiptap
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="Learning about what machine learning can achieve" src="/images/technews/machine_learning_part1_resized.jpg">
 </div>
-<h3>At the 4th GovTech STACK-X Meetup, two experts showcased some of the practical uses and latest advances in machine learning.</h3>
+<p>At the 4th GovTech STACK-X Meetup, two experts showcased some of the practical
+uses and latest advances in machine learning.</p>
 <p>In simpler times, the word ‘training’ applied exclusively to living things—for
 instance, you could train a dog to perform a trick or a person to excel
 at a sport. But nowadays, even machines can be trained to carry out specific
@@ -26,7 +27,6 @@ Chong Jia Yi, a distinguished engineer at the Government Technology Agency
 of Singapore (GovTech), gave audiences a flavour of the practical uses
 of machine learning. They were speaking at the 4th GovTech STACK-X Meetup,
 a regular series of talks to engage the tech community.</p>
-<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="A GovTechie sharing on AI trends during an event" src="/images/technews/machine_learning_part2_resized.jpg">
 </div>
@@ -43,9 +43,9 @@ Dr Tok and his team of data scientists used deep learning-based object
 detection techniques to automate the monitoring and counting of marine
 lifeforms and deeply understand the impact of deploying subsea data centres.</p>
 <p>Dr Tok’s team also look at how they can solve some of the world’s toughest
-challenges as part of the&nbsp;<a href="https://www.microsoft.com/en-us/ai/ai-for-earth" class="editor-rtfLink" rel="noopener noreferrer nofollow" target="_blank">AI for Earth</a>&nbsp;program.
-For example, the team worked on training segmentation models to perform
-land cover mapping for the whole of the United States.</p>
+challenges as part of the&nbsp;AI for Earth&nbsp;programme. For example,
+the team worked on training segmentation models to perform land cover mapping
+for the whole of the United States.</p>
 <p>Today, a large segment of the world’s population lacks access to trained
 radiologists, even when imaging equipment is readily available. His team
 investigated various approaches to&nbsp;<a href="https://blogs.technet.microsoft.com/machinelearning/2018/03/07/using-microsoft-ai-to-build-a-lung-disease-prediction-model-using-chest-x-ray-images/" class="editor-rtfLink" rel="noopener noreferrer nofollow" target="_blank">using deep learning to predict diseases from chest X-ray images</a>,
@@ -64,7 +64,6 @@ of machine learning in graphics. Having worked with Pixar for close to
 ten years prior to joining GovTech, he was responsible for developing physics
 simulation and animation tools used in popular films such as WALL-E, Brave,
 Toy Story 3 and Up.</p>
-<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="Mr Chong, engineer at GovTech, explaining the potential of machine learning in graphics." src="/images/technews/machine_learning_part3_resized.jpg">
 </div>
