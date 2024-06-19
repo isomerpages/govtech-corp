@@ -8,8 +8,8 @@ description: GovTech engineers innovate an e-canvas, aiding persons with special
   needs like mouth painters 🎨 Tech for inclusivity!
 variant: tiptap
 ---
-<h3>By developing a mobile canvas that automatically dispenses paint, engineers at GovTech hope to lend a helping hand to persons with special needs.</h3>
-<p></p>
+<p>By developing a mobile canvas that automatically dispenses paint, engineers
+at GovTech hope to lend a helping hand to persons with special needs.</p>
 <div class="iframe-wrapper">
 <iframe style="max-width: 100%;" height="400" width="100%" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/tTio3SsVMvc?si=hw3gHMntgzMesJPk"></iframe>
 </div>
@@ -27,7 +27,6 @@ to discuss how they could apply new technologies to help those with a physical
 disability. “We were introduced to Elaine and were told that she is a mouth
 painter,” recalled Dr Ong. “It all began from there when we saw her passion
 to paint.”</p>
-<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="Dr Ong Lay Teen, a Senior System Engineer at the Government Technology Agency of Singapore (GovTech)" src="/images/technews/GovTech_team_built_an_eCanvas_to_help_persons_with_special_needs_paint.jpg">
 </div>
