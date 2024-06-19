@@ -10,7 +10,6 @@ description: 🎓 Tired of hunting for lost certificates? Discover how
 variant: tiptap
 ---
 <h3>Have you ever searched high and low for your certificate, Diploma, or University degree, only to find out that your mom ‘Marie Kondo-ed’ your room and misplaced that precious scroll? We get you! For us, 80s and 90s kids, the case of missing certifications is a real thing.</h3>
-<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="OpenCerts: An easy way to check and verify your certificates" src="/images/technews/Losing_your_educational_certificates_is_now_a_thing_of_the_past_.png">
 </div>
@@ -18,12 +17,10 @@ variant: tiptap
 </p>
 <p>Well, you can now say ‘sayonara’ to that activity.</p>
 <p>If you haven’t heard, you can now access your GCE O, N and A level results
-via the&nbsp;<a href="https://mothership.sg/2020/09/singpass-grades/" class="editor-rtfLink" rel="noopener noreferrer nofollow" target="_blank">SingPass Mobile app.</a>
-</p>
-<p><a href="https://www.channelnewsasia.com/news/singapore/students-graduating-tamper-resistant-digital-certificates-11499166" class="editor-rtfLink" rel="noopener noreferrer nofollow" target="_blank">A project</a>&nbsp;between
-SkillsFuture Singapore, the Ministry of Education, and GovTech called OpenCerts
-uses blockchain (yes, blockchain is not just limited to cryptocurrency)
-to issue verifiable certifications.</p>
+via the&nbsp;SingPass Mobile app.</p>
+<p>A project&nbsp;between SkillsFuture Singapore, the Ministry of Education,
+and GovTech called OpenCerts uses blockchain (yes, blockchain is not just
+limited to cryptocurrency) to issue verifiable certifications.</p>
 <p>Okay, but apart from not arguing with your mom about a lost cert, what
 are the advantages?</p>
 <p>Well, plenty! But let’s not get ahead of ourselves.</p>
@@ -32,11 +29,11 @@ Which brings us to…</p>
 <h3>How does it work now?</h3>
 <p>At present, schools rely on scattered databases to verify diplomas and
 other certifications. This process is messy and time-consuming! Case in
-point:&nbsp;<a href="https://finance.yahoo.com/news/singapore-gov-t-leads-project-131700783.html" class="editor-rtfLink" rel="noopener noreferrer nofollow" target="_blank">Ngee Ann Polytechnic issues 10,000 physical certificates every year</a>&nbsp;—
-each of these certificates is printed and manually stamped! In addition,
-the school also receives 2,000 requests annually for verification from
-employers and universities. Put the two together, and you get tedious manual
-labour that takes up precious time and resources.</p>
+point:&nbsp;Ngee Ann Polytechnic issues 10,000 physical certificates every
+year&nbsp;— each of these certificates is printed and manually stamped!
+In addition, the school also receives 2,000 requests annually for verification
+from employers and universities. Put the two together, and you get tedious
+manual labour that takes up precious time and resources.</p>
 <h3>Okay, but how will blockchain make things better?</h3>
 <p>To understand this, you must first understand what blockchain is.</p>
 <p>Perhaps this is best explained as an open-source, decentralised database
@@ -47,9 +44,6 @@ that happen in the database. In theory, this makes blockchain a very open
 and transparent system.</p>
 <p>This is opposed to, say, a traditional centralised database that only
 one organisation (for example, a government agency) has access to.</p>
-<p>This is an extremely simplistic explanation; for something more meaty,&nbsp;
-<a href="https://www.weforum.org/agenda/2016/06/blockchain-explained-simply/" class="editor-rtfLink" rel="noopener noreferrer nofollow" target="_blank">read here!</a>
-</p>
 <h3>Okay, for real this time, how will blockchain make things better?</h3>
 <p>OpenCerts will include a wide range of digital certificates, including
 stuff like your N, O, and A Levels, ITE qualifications, Diploma and degree
