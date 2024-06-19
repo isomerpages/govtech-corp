@@ -12,7 +12,7 @@ description: ""
 </div>
 <p>Like a chrysalis, soon to emerge as a butterfly, Singapore’s infocomm
 media sector is undergoing its own transformation in a bid to support the
-drive to become a <a href="https://www.smartnation.sg/" rel="noopener noreferrer nofollow" target="_blank">Smart Nation.</a>
+drive to become a <a href="https://www.smartnation.gov.sg/" rel="noopener noreferrer nofollow" target="_blank">Smart Nation.</a>
 </p>
 <p>“Given the quickening pace of digital innovation worldwide, we need to
 accelerate our own digital transformation to prepare our people and our
@@ -26,7 +26,7 @@ Centre.</p>
 <p>This year’s event was hosted by the Government Technology Agency of Singapore
 (GovTech) and the Infocomm Media Development Authority (IMDA), and comprised
 the BroadcastAsia, CommunicAsia and EnterpriseIT events.</p>
-<h3><strong>Digital building blocks</strong></h3>
+<h3>Digital building blocks</h3>
 <p>Dr Yaacob added that Singapore was now in the “building phase” of creating
 this digital economy, and has already rolled out enhanced nationwide wireless
 internet, digital skills training programmes for individuals, as well as
@@ -42,62 +42,57 @@ lives,” he added.</p>
 some of the booths and exhibits at CommunicAsia.</p>
 <p>GovTech was invited by IMDA to showcase at its booth on the CommunicAsia
 show floor, and GovTechies manned several exhibits to promote government
-digital services such as MyInfo, CorpPass and Hive Agile Testing Solutions
+digital services such as MyInfo, Corppass and Hive Agile Testing Solutions
 (hats).</p>
-<h3><strong>Fast form-filling featuring MyInfo</strong></h3>
-<p>Thanks to <a href="https://www.singpass.gov.sg/myinfo/intro" rel="noopener noreferrer nofollow" target="_blank">MyInfo</a>,
-manually filling out lengthy government e-forms is now a thing of the past.
-Once your MyInfo profile is created with your personal details, a click
-of the ‘Retrieve MyInfo’ button found on the forms will fill in your particulars
-and details in an instant.</p>
+<h3>Fast form-filling featuring MyInfo</h3>
+<p>Thanks to MyInfo, manually filling out lengthy government e-forms is now
+a thing of the past. Once your MyInfo profile is created with your personal
+details, a click of the ‘Retrieve MyInfo’ button found on the forms will
+fill in your particulars and details in an instant.</p>
 <p>“It’s a good initiative, because you don’t have to fill in the same details
 over and over again,” said Mr Anbarasu, an engineer who signed up for his
 MyInfo profile at the booth.</p>
-<p>The public can register for a MyInfo profile using their SingPass accounts.
-The goal is to have most SingPass-authenticated e-services linked to the
+<p>The public can register for a MyInfo profile using their Singpass accounts.
+The goal is to have most Singpass-authenticated e-services linked to the
 MyInfo platform by 2018.</p>
 <p>Additionally, GovTech and the Ministry of Finance have partnered with
 the Monetary Authority of Singapore (MAS) to extend the service to the
 banking industry, so that the public can access more banking services online.</p>
-<h3><strong>CorpPass in good company</strong></h3>
-<p>While SingPass is used for personal transactions with government agencies,
+<h3>Corppass in good company</h3>
+<p>While Singpass is used for personal transactions with government agencies,
 companies and business owners don’t necessarily want to use it for corporate
 transactions.</p>
-<p>This is where <a href="https://www.corppass.gov.sg/" rel="noopener noreferrer nofollow" target="_blank">CorpPass</a> comes
+<p>This is where <a href="https://www.corppass.gov.sg/" rel="noopener noreferrer nofollow" target="_blank">Corppass</a> comes
 in.</p>
-<p>CorpPass provides people with a corporate digital identity for businesses
+<p>Corppass provides people with a corporate digital identity for businesses
 and other entities to transact with government agencies online.</p>
-<p>As businesses move over to CorpPass to carry out corporate transactions,
-SingPass will be reserved for personal transactions such as applying for
+<p>As businesses move over to Corppass to carry out corporate transactions,
+Singpass will be reserved for personal transactions such as applying for
 flats, checking Central Provident Fund (CPF) balances and filing personal
 taxes.</p>
-<p>As a result, CorpPass ensures greater data privacy protection for individuals
-as SingPass is used only for personal transactions. At present, more than
-100 government digital services can be accessed via CorpPass.</p>
+<p>As a result, Corppass ensures greater data privacy protection for individuals
+as Singpass is used only for personal transactions. At present, more than
+100 government digital services can be accessed via Corppass.</p>
 <p>Mr Jess Sibel, a visitor from the Philippines, found the booths to be
-very informative and relevant. Authentication systems like CorpPass will
+very informative and relevant. Authentication systems like Corppass will
 ensure higher levels of security within the government and corporations,
 he said.</p>
-<h3><strong>Hats off to automated testing</strong></h3>
+<h3>Hats off to automated testing</h3>
 <p>As more government services go online, there is a need to ensure that
 these digital services run smoothly for their users.</p>
 <p>This means that software developers have to perform tests of quality assurance
 for the applications they write—a task that some do manually. But why do
 things by hand when they can be automated?</p>
-<p>GovTech’s Government Digital Services (GDS) team has come up with a functional
-test automation tool called Hive Agile Testing Solutions (hats), which
-lets developers define test scenarios and implement test steps automatically.</p>
+<p>GovTech has come up with a functional test automation tool called Hive
+Agile Testing Solutions (hats), which lets developers define test scenarios
+and implement test steps automatically.</p>
 <p>The hats tests can be run simultaneously in different browsers and on
 different mobile device platforms. This saves time for the development
 team, and provides them with early feedback so that quick fixes can be
 made. Once a test is finished, hats will give you a HTML report, showing
 you all the test cases and where failures occur.</p>
-<p>The GDS team is now working on incorporating more features into hats to
-make the tool easier to use.</p>
+<p>The team is now working on incorporating more features into hats to make
+the tool easier to use.</p>
 <p>In addition, given the importance of guarding against cybersecurity threats,
 the team is also looking to include a security assessment feature.</p>
-<p><strong>Fun fact:</strong> CommunicAsia 2017 saw more than 1000 exhibitors
-from the public and private sectors showcasing the latest digital technologies
-in business, communications, multimedia and entertainment.</p>
-<p><strong>Fun fact 2:</strong> Event organiser UBM SES has announced that
-CommunicAsia will return under the rebranded <a href="https://www.communicasia.com/" rel="noopener noreferrer nofollow" target="_blank">ConnecTechAsia</a> umbrella next year.</p>
+<p></p>
