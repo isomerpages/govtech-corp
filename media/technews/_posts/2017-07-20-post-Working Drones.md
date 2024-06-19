@@ -21,14 +21,15 @@ functions.</p>
 Westeros, the ‘Game of Drones’ looks set to revolutionise work and play.</p>
 <p>(Editor: Please forgive the pun that is colder than the Winds of Winter.)</p>
 <p>Here are five of the coolest real-life uses for drones we've found.</p>
-<h3><strong>1. Eye in the sky</strong></h3>
+<h3>Eye in the sky</h3>
 <p>Humankind has always coveted a bird's eye view of the world.</p>
 <p>It’s no surprise, then, that one of the most popular uses for drones is
 capturing images from above.</p>
-<p>Mr Joel Chia, a photographer also known online as <a href="https://www.instagram.com/idroneman/" rel="noopener noreferrer nofollow" target="_blank">Idroneman</a>, uses drones
-to take breathtaking aerial pictures of landscapes in Singapore and abroad.</p>
+<p>Mr Joel Chia, a photographer also known online as <em>Idroneman</em>, uses
+drones to take breathtaking aerial pictures of landscapes in Singapore
+and abroad.</p>
 <p>His work received a shoutout from none other than Singapore’s Prime Minister
-Mr Lee Hsien Loong, who shared it in a <a href="https://www.straitstimes.com/singapore/pm-lee-lauds-singapore-photographer-for-his-stunning-drone-aerial-images" rel="noopener noreferrer nofollow" target="_blank">2016 Facebook post</a>.</p>
+Mr Lee Hsien Loong, who shared it in a 2016 Facebook post.</p>
 <p>"Photography has taught me to take a step back, or with drones, to fly
 up high and consider the bigger picture,” says Mr Chia.</p>
 <p>“Sometimes, we get too caught up in the here and now, and fail to consider
@@ -36,7 +37,7 @@ what goes on behind the scenes, or how pieces fit into the bigger puzzle."</p>
 <p>His wish list: Weatherproof drones in future.</p>
 <p>"It’s quite a bummer when you have take a pass on a drone shot because
 it’s pouring rain or snow."</p>
-<h3><strong>2. Mapping our planet</strong></h3>
+<h3>Mapping our planet</h3>
 <p>To better understand Earth’s geological history, some scientists have
 taken to the skies. Dr Wang Yu, a research fellow at the Nanyang Technological
 University’s Earth Observatory of Singapore (EOS), uses drones to carry
@@ -52,7 +53,7 @@ affordable, versatile and easily accessible, Dr Wang says.</p>
 <p>They do, however, have limitations for now — they cannot carry heavy survey
 instruments, and their short flight times limit the survey area on each
 mission, he adds.</p>
-<h3><strong>3. Saving lives</strong></h3>
+<h3>Saving lives</h3>
 <p>In the aftermath of natural disasters, speed is critical for saving lives.</p>
 <p>However, getting to the victims of earthquakes and forest fires can be
 difficult if access routes are cut off, and if rescue services face manpower
@@ -68,10 +69,10 @@ into their disaster management operations.</p>
 <p>In October 2016, Japan's National Fire and Disaster Management Agency
 invested 2.5 million yen in a drone that can be equipped with either a
 camera or a gas sensor for disaster reconnaissance.</p>
-<p>There is a precedent: After the Nepal earthquake in April 2015, the
-<a href="https://www.gov.uk/government/topical-events/nepal-earthquake-april-2015" rel="noopener noreferrer nofollow" target="_blank">UK sent search and rescue teams</a>that were equipped with drones to help
-search for survivors.</p>
-<h3><strong>4. Detecting defects</strong></h3>
+<p>There is a precedent: After the Nepal earthquake in April 2015, the UK
+sent search and rescue teams that were equipped with drones to help search
+for survivors.</p>
+<h3>Detecting defects</h3>
 <p>Lofty towers, massive bridges and expansive transport networks are the
 hallmarks of modern cities, and their physical stability is of paramount
 importance.</p>
@@ -90,7 +91,7 @@ with regulations, no one is standing under the drone during the inspection,
 says Mr Yu.</p>
 <p>He offers a simple solution: cordon off the worksite and let the drone
 do its job.</p>
-<h3><strong>5. Delivering items</strong></h3>
+<h3>Delivering items</h3>
 <p>Drones can help to overcome the reliance of traditional postal services
 on land routes and manpower.</p>
 <p>But their airworthiness must be proved before they can be used for delivery.</p>
@@ -99,8 +100,8 @@ the security of their navigation system. Authentication protocols are also
 needed to ensure that the payload is released only to the intended recipient.</p>
 <p>In October 2015, Singapore Post (SingPost) completed a first-in-the-world
 trial that fulfilled all the above conditions.</p>
-<p>SingPost also recently announced that it is <a href="https://www.channelnewsasia.com/news/singapore/airbus-helicopters-partners-singpost-for-drone-delivery-trials-8735504" rel="noopener noreferrer nofollow" target="_blank">partnering Airbus Helicopters</a> to
-further explore the feasibility of drone delivery in urban contexts.</p>
+<p>SingPost also recently announced that it is partnering Airbus Helicopters
+to further explore the feasibility of drone delivery in urban contexts.</p>
 <p>And with companies like Amazon pushing the envelope, we can't wait to
 see what else will be delivered.</p>
 <p>So when it comes to applications for drone technology, the sky is clearly
