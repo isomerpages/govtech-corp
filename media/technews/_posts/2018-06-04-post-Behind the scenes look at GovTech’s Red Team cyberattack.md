@@ -34,15 +34,15 @@ attacks for government systems through proactive discovery of cybersecurity
 gaps in people, processes and technology,” Mr Chong tells TechNews.</p>
 <p>Curious about their work? Read on for a blow-by-blow account of a Red
 Team attack and a behind-the-scenes look at how it was planned.</p>
-<p><strong>D-Day minus 45 days: the plotting begins</strong>Once engaged
-to conduct an unannounced adversary simulation exercise against a government
-agency ‘Blue Team’, GovTech’s Red Team starts preparations right away.
-As early as a month and a half before D-Day, the Red Team starts gathering
-information and setting up the custom infrastructure and tools it needs
-to launch the attack.</p>
-<p><strong>D-Day minus two days: setting the trap</strong>0800: The game
-is afoot! Two days ahead of D-Day, Red Team sets the attack on Blue Team’s
-assets in motion.</p>
+<h3>D-Day minus 45 days: The plotting begins</h3>
+<p>Once engaged to conduct an unannounced adversary simulation exercise against
+a government agency ‘Blue Team’, GovTech’s Red Team starts preparations
+right away. As early as a month and a half before D-Day, the Red Team starts
+gathering information and setting up the custom infrastructure and tools
+it needs to launch the attack.</p>
+<h3>D-Day minus two days: Setting the trap</h3>
+<p>0800: The game is afoot! Two days ahead of D-Day, Red Team sets the attack
+on Blue Team’s assets in motion.</p>
 <p>0815: Blue Team’s perimeter defence blacklists Red Team’s IP address.</p>
 <p>0830: Red Team uses IP address hopping to bypass the blacklist attempt.</p>
 <p>1000: Red Team delivers a simulated phishing campaign to Blue Team employees.</p>
@@ -57,10 +57,10 @@ Team identifies insufficiently secured Blue Team web applications hosted
 by third-party vendors.</p>
 <p>1730: Red Team exploits a vulnerability in one of these web applications;
 Blue Team is notified for immediate follow-up.</p>
-<p><strong>D-Day: the trap springs shut</strong>0800: Game on: Red Team splits
-into a social engineering team, whose members will pose as IT auditors,
-and a HQ team, which will conduct the attack once the social engineers
-gain a foothold.</p>
+<h3>D-Day: The trap springs shut</h3>
+<p>0800: Game on: Red Team splits into a social engineering team, whose members
+will pose as IT auditors, and a HQ team, which will conduct the attack
+once the social engineers gain a foothold.</p>
 <p>0900: Red Team social engineers arrive at Blue Team HQ and are led into
 secure premises by Blue Team auditees; Red Team HQ is updated and placed
 on standby.</p>
@@ -78,8 +78,7 @@ and cybersecurity vulnerabilities.</p>
 <p>1600: Job done! Red Team cleans up after itself, making sure that Blue
 Team’s system is put back in its original state. Red Team consolidates
 its findings.</p>
-<p><strong>Behind the scenes</strong>
-</p>
+<h3>Behind the scenes</h3>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="behind-the-scenes look at govtech’s red team cyberattack" src="/images/technews/behind-the-scenes-look-at-govtech%E2%80%99s-red-team-cyberattack-part-2.png">
 </div>
