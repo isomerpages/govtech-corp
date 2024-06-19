@@ -11,7 +11,7 @@ variant: tiptap
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="Resolving Fintech Disputes through ADR" src="/images/technews/Resolving_Fintech_Disputes_through_ADR.jpg">
 </div>
-<p><strong>Contributed by Vincent Kor &amp; Chiara Accornero</strong>
+<p><em>Contributed by Vincent Kor &amp; Chiara Accornero</em>
 </p>
 <p>The accelerating adoption and deployment of technologies like cloud computing,
 data analytics and machine learning are rapidly transforming the finance
@@ -152,7 +152,11 @@ strategies in place to manage and resolve disputes that may readily arise
 from their complex activities effectively. With its distinctive features,
 ADR provides the means for the effective resolution of fintech disputes.</p>
 <p></p>
-<table>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
