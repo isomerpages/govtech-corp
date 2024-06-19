@@ -10,8 +10,6 @@ description: ""
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="e payment" src="/images/technews/e-payments-guideposts-to-a-smart-nation-part-1.jpg">
 </div>
-<p><strong>Contributed by Vincent Kor</strong>
-</p>
 <p>“You’ve got an Angbao” the app notification flashed on my nephew’s mobile.</p>
 <p>“Thanks uncle, Gong Xi Fa Cai!“ he beamed excitedly and raced to his parents
 to show off his first digital red packet. As I watched my young nephew’s
@@ -74,7 +72,7 @@ card number. With PayNow, users no longer need to remember or share bank
 account details in order to send or receive funds thereby removing a major
 user bugbear hindering electronic fund transfers.</p>
 <p>In the months following PayNow’s launch, more than a million users have
-registered for PayNow and used it mostly for P2P transfers totalling in
+registered for PayNow and used it mostly for P2P transfers totaling in
 excess of SGD370 million. During the recent 2018 Budget debates, it was
 announced that PayNow Corporate will be launched to enable businesses to
 link their corporate bank accounts to their unique entity numbers (UENs)
