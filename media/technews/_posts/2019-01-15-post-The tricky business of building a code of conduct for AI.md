@@ -12,7 +12,11 @@ variant: tiptap
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="The tricky business of building a code of conduct for AI" src="/images/technews/the-tricky-business-of-building-a-code-of-conduct-for-ai-part1.png">
 </div>
-<h3>The fact that artificial intelligence (AI) is capable of learning puts it at risk of internalising society’s prejudices. Left unchecked, AI could encroach on privacy and undermine social values. Ethics and transparency are therefore crucial in the development of AI, said lawyer Mr Rajesh Sreenivasan at the Big Data &amp; AI 2018 conference.</h3>
+<p>The fact that artificial intelligence (AI) is capable of learning puts
+it at risk of internalising society’s prejudices. Left unchecked, AI could
+encroach on privacy and undermine social values. Ethics and transparency
+are therefore crucial in the development of AI, said lawyer Mr Rajesh Sreenivasan
+at the Big Data &amp; AI 2018 conference.</p>
 <p>A certain degree of irony exists in the fact that not one, but two anti-communist
 chatbots were spawned in China. Innocuously named ‘Baby Q’ and ‘Little
 Bing’, the two chatbots were released in 2017 on Tencent QQ, a popular
