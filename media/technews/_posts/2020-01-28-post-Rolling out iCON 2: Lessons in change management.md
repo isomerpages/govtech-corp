@@ -12,7 +12,10 @@ variant: tiptap
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="iCON team from MOE discussing how they can create a more user-friendly interface." src="/images/technews/Rolling_out_iCON_2_0__Lessons_in_change_management_1.jpg">
 </div>
-<h3>iCON 2.0—a messaging and collaboration system for teachers—was launched in February 2019. Find out how GovTechies and officers from the Ministry of Education ensured a pleasant user experience and a seamless transition to the new system.</h3>
+<p>iCON 2.0—a messaging and collaboration system for teachers—was launched
+in February 2019. Find out how GovTechies and officers from the Ministry
+of Education ensured a pleasant user experience and a seamless transition
+to the new system.</p>
 <p>A decade ago, the mobile phone was primarily used for calling and texting;
 access to the internet was limited to browsers on a desktop computer. With
 the advent of smartphones, however, the interface between people and the
