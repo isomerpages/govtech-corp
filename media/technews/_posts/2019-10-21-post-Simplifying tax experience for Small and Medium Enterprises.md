@@ -16,7 +16,9 @@ variant: tiptap
 but often find themselves getting caught up in the running of their businesses
 and therefore face challenges in understanding their tax obligations and
 in preparing their tax submissions.</p>
-<h3>Find out how IRAS adopted a human-centric approach to understand the needs of SMEs, identify pain points, and design solutions to make the tax experience a more positive one.</h3>
+<p>Find out how IRAS adopted a human-centric approach to understand the needs
+of SMEs, identify pain points, and design solutions to make the tax experience
+a more positive one.</p>
 <p>All businesses that operate in Singapore have to pay taxes. The process
 of preparing and filing their taxes will require some time and effort.
 Business owners often have to balance the running of their businesses with
