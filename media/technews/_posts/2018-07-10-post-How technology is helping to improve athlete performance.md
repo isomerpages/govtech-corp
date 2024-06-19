@@ -31,7 +31,7 @@ and sports scientists] come in as a group with the technologies to help
 them achieve their goals,” said Mr Aziz. “The most important thing that
 technology has done is help us make objective, evidence-based decisions
 for our athletes.”</p>
-<h3><strong>Making sense of movement</strong></h3>
+<h3>Making sense of movement</h3>
 <p>Motion is the defining trait of virtually any sport. Being able to capture,
 measure and analyse the movement of the human body is the first step towards
 refining it. Portable and high-resolution video cameras are thus becoming
@@ -60,7 +60,7 @@ video recordings to track sprinters’ running speeds at 20-metre intervals,
 building their velocity profiles during 100-metre races. This data helps
 coaches and athletes identify weaknesses, as well as gauge how effective
 training programmes are.</p>
-<h3><strong>Progress in another dimension</strong></h3>
+<h3>Progress in another dimension</h3>
 <p>While video recordings in two dimensions are useful, three-dimensional
 (3D) motion capture technology can yield even more accurate information
 about an athlete’s movements. Such fine-grained insights are especially
@@ -87,7 +87,7 @@ but they also can rely on auditory cues to improve their performance. Some
 athletes are visual learners, while others are kinaesthetic or auditory
 learners, so we customise the system to suit their preferences,” said Mr
 Aziz.</p>
-<h3><strong>No ‘I’ in team</strong></h3>
+<h3>No ‘I’ in team</h3>
 <p>For the most part, the response from coaches and athletes to these new
 technologies has been positive, said Mr Aziz. Importantly, coaches are
 convinced that the evidence gathered through video-based analytics and
