@@ -12,7 +12,8 @@ description: This Grandparents' Day, empower grandpa and grandma with digital
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="Three apps that will help the elderly in Singapore to embrace digitalisation to keep them connected, engaged and healthy." src="/images/technews/Three_Apps_That_Millennials_Must_Share_with_Their_Grandparents_1.jpg">
 </div>
-<h3>This Grandparents’ Day, help grandpa and grandma embrace digitalisation to keep them connected, engaged and healthy.</h3>
+<p>This Grandparents’ Day, help grandpa and grandma embrace digitalisation
+to keep them connected, engaged and healthy.</p>
 <p>The use of mobile apps and social media may be second nature to millennials,
 but the same can’t always be said for the elderly. Having been brought
 up in a world where the news was delivered on physical pages and mobile
@@ -22,8 +23,8 @@ great advances in the digital realm.</p>
 for the elderly. For a start, why not share with your grandparents some
 mobile apps that could help them keep in touch with friends and family,
 make their lives more convenient, and keep them healthy?</p>
-<p>This Grandparents’ Day, tell grandpa and grandma about the&nbsp;<a href="https://www.tech.gov.sg/media/technews/www.go.gov.sg/mol" class="editor-rtfLink" rel="noopener noreferrer nofollow" target="_blank">Moments of Life app</a>,
-the SingPass app and the ActiveSG app.</p>
+<p>This Grandparents’ Day, tell grandpa and grandma about the&nbsp;Moments
+of Life app, the SingPass app and the ActiveSG app.</p>
 <h3>1. Cherishing Moments of Life better</h3>
 <p></p>
 <div class="isomer-image-wrapper">
@@ -39,7 +40,6 @@ maybe grandma wants to have a karaoke session with friends. There’s lots
 to choose from! Then, if grandpa and grandma want to sit down for some
 kopi or have a hearty meal after a good mental or physical workout, they
 can use the app to access certain discounts on food and drinks.</p>
-<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="Key features of the app for parents and seniors respectively" src="/images/technews/Three_Apps_That_Millennials_Must_Share_with_Their_Grandparents_3.png">
 </div>
@@ -48,7 +48,6 @@ Generation e-card. With this e-card, eligible senior citizens can receive
 subsidies at Community Health Assist Scheme (CHAS) GP and dental clinics,
 as well as discounts at participating merchant outlets.</p>
 <h3>2. A first pass at SingPass Mobile</h3>
-<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="SingPass mobile interface and how it can help the elderly in Singapore" src="/images/technews/Three_Apps_That_Millennials_Must_Share_with_Their_Grandparents_4.jpg">
 </div>
@@ -84,5 +83,6 @@ social lives and keep them in the pink of health.</p>
 Child ActiveSG Merdeka Generation Programme’ is meant to encourage family
 bonding, allowing members from different generations to double up on the
 exercise fun together!</p>
-<h4>So be sure to install the ActiveSG app on your grandparents’ phones and inform them to sign up to receive S$100 to spend on fitness activities and access to exercise facilities at community centres islandwide (only applicable for first-time users of the app)!</h4>
+<p><em>So be sure to install the ActiveSG app on your grandparents’ phones and inform them to sign up to receive S$100 to spend on fitness activities and access to exercise facilities at community centres islandwide (only applicable for first-time users of the app)!</em>
+</p>
 <p></p>
