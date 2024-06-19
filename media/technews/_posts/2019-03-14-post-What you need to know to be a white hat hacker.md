@@ -8,7 +8,11 @@ description: Discover what it takes to be a white hat hacker from Singapore's
   bug bounty champion, Mr. Samuel Eng. 🛡️
 variant: tiptap
 ---
-<h3>TL;DR: Singapore has concluded its second Government Bug Bounty Programme (GBBP) and TechNews spoke to the Singaporean champion of the second GBBP, Mr Samuel Eng about common weaknesses and best practices in the white hat hacker space.</h3>
+<p>TL;DR: Singapore has concluded its second Government Bug Bounty Programme
+(GBBP) and TechNews spoke to the Singaporean champion of the second GBBP,
+Mr Samuel Eng about common weaknesses and best practices in the white hat
+hacker space.</p>
+<hr>
 <p>Mention the word ‘hacker’ and the first image that comes to mind is likely
 that of a hooded person, perhaps with a Guy Fawkes mask on, hovering over
 a computer in a dark room. It’s a stereotype perpetuated by the movies
