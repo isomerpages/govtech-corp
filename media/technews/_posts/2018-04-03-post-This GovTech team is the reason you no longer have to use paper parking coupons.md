@@ -46,7 +46,7 @@ look at how Parking.sg went from prototype to production.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="this govtech team is the reason you no longer have to use paper parking coupons" src="/images/technews/this-govtech-team-is-the-reason-you-no-longer-have-to-use-paper-parking-coupons-part-2.png">
 </div>
-<h3><strong>Phase 1: The prototype - helping stakeholders say “I want that thing”</strong></h3>
+<h3>Phase 1: The prototype - helping stakeholders say “I want that thing”</h3>
 <p>“Our team’s job is to actively identify, design and evangelise ideas that
 improve the public good,” said Mr Li. This means that when the team has
 an idea, it often dives straight into building a prototype rather than
@@ -65,12 +65,12 @@ imagination and that of stakeholders. You’re trying to figure out how to
 sell your idea to someone who doesn't see it yet… You need to make your
 understanding of the topic more visceral for [non-techies] to be able to
 consume. They should be able to just point to it and say ‘I want that thing’.”</p>
-<h3><strong>[TL;DR] Phase 1: The prototype</strong></h3>
+<h3>[TL;DR] Phase 1: The prototype</h3>
 <p><strong>Goal</strong>: To bridge the gap between the developers’ imagination
 and that of stakeholders</p>
 <p><strong>Lessons learned</strong>: Prototype first, pitch later; being
 unpolished is OK</p>
-<h3><strong>Phase 2: The proposal</strong></h3>
+<h3>Phase 2: The proposal</h3>
 <p>To develop a concrete proposal for building the app, developers must get
 to a version that can be tested on actual users, who can then provide early
 feedback on what works and what doesn’t, said Mr Li.</p>
@@ -92,13 +92,13 @@ simply walk down a road and pick out which vehicles were not on the list.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="this govtech team is the reason you no longer have to use paper parking coupons" src="/images/technews/this-govtech-team-is-the-reason-you-no-longer-have-to-use-paper-parking-coupons-part-3.png">
 </div>
-<h3><strong>[TL;DR] Phase 2: The proposal</strong></h3>
+<h3>[TL;DR] Phase 2: The proposal</h3>
 <p><strong>Goal</strong>: To get your project in the hands of actual users
 Lessons learned: Fail fast; talk to experienced users on the ground; sometimes,
 dumb tech is the best tech</p>
 <p><strong>Lessons learned</strong>: Fail fast; talk to experienced users
 on the ground; sometimes, dumb tech is the best tech</p>
-<h3><strong>Before phase 3: Getting the green light</strong></h3>
+<h3>Before Phase 3: Getting the green light</h3>
 <p>What finally got Parking.sg off the ground had little to do with the app’s
 design or utility; instead, the trigger was the government’s December 2016
 decision to increase public parking charges, said Mr Li. Drivers were unhappy
