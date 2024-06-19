@@ -11,7 +11,9 @@ variant: tiptap
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="GovTech’s Mr Ng Yong Kiat shares why smart glasses technology deserves a second shot." src="/images/technews/How_GovTech_is_reinventing_the_smart_glasses_1.jpg">
 </div>
-<h3>Google’s smart glasses never really took off despite strong initial interest from the public. GovTech’s Mr Ng Yong Kiat shares why smart glasses technology deserves a second shot.</h3>
+<p>Google’s smart glasses never really took off despite strong initial interest
+from the public. GovTech’s Mr Ng Yong Kiat shares why smart glasses technology
+deserves a second shot.</p>
 <p>When Google first announced its head-mounted display—the Google Glass—in
 2012, it clearly caught the eye of the mass consumer market. The promotional
 video for the device, featuring icons and content flitting in and out of
@@ -26,7 +28,6 @@ justifying a high price tag for the gadget.</p>
 from it. At GovTech’s Video Analytics (VA) team, Mr Ng and his colleagues
 have evaluated numerous ways to use smart glasses, essentially finding
 specific niches for the futuristic eyewear.</p>
-<p></p>
 <div class="iframe-wrapper">
 <iframe style="max-width: 100%;" height="400" width="100%" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/8M7Qrr6yLqk?si=f19yv_rX-tyo7U2c"></iframe>
 </div>
