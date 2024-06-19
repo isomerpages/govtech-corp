@@ -12,7 +12,9 @@ variant: tiptap
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="The GovTech team that built SPF's JARVIS - screening platform" src="/images/technews/Singapore_Police_Force_s_JARVIS_1.jpg">
 </div>
-<h3>The Singapore Police Force unveiled a new screening platform called&nbsp;<a href="https://www.police.gov.sg/news-and-publications/features/Police%20Workplan%20Seminar%202019%20-%20A%20Smart%20Force%20for%20the%20Nation" class="editor-rtfLink" rel="noopener noreferrer nofollow" target="_blank">JARVIS</a>&nbsp;at the 2019 Police Workplan Seminar. We tell the story of how a team at GovTech conceptualised and developed JARVIS.</h3>
+<p>The Singapore Police Force unveiled a new screening platform called&nbsp;JARVIS&nbsp;at
+the 2019 Police Workplan Seminar. We tell the story of how a team at GovTech
+conceptualised and developed JARVIS.</p>
 <p>Remember the popular television series Criminal Minds and CSI? Regardless
 of which team of investigators you were enamoured with and rooting for,
 there was always this intelligence officer character sitting in front of
