@@ -27,7 +27,7 @@ centres between 1-9 February 2020.</p>
 <p>Recognising the importance of getting timely and accurate information
 about the distribution centres to citizens, a team of developers at the
 Government Technology Agency of Singapore (GovTech) mobilised to develop&nbsp;
-<a href="https://www.maskgowhere.gov.sg/" class="editor-rtfLink" rel="noopener noreferrer nofollow" target="_blank">MaskGoWhere</a>. The website allows citizens to key in their postal code
+<a href="https://mask.gowhere.gov.sg/" class="editor-rtfLink" rel="noopener noreferrer nofollow" target="_blank">MaskGoWhere</a>. The website allows citizens to key in their postal code
 to learn about their respective mask collection points. Led by Mr Lim Eyung,
 director of Government Digital Services at GovTech, the team built and
 designed the first version of the site in less than 12 hours.</p>
