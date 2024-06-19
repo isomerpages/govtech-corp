@@ -10,11 +10,11 @@ description: ""
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="How EdTech is disrupting classroom learning" src="/images/technews/how-edtech-is-disrupting-classroom-learning-part-1.png">
 </div>
-<p><strong>TL: DR:</strong> Technology can be used to engage students, visualise
-abstract concepts and promote collaborative learning. Web-based platforms
-such as WiRead, have been shown to improve critical reading and thinking
-in students. Teachers must be trained to use EdTech effectively, and students
-should be encouraged to leverage technology for self-directed learning</p>
+<p>TL: DR: Technology can be used to engage students, visualise abstract
+concepts and promote collaborative learning. Web-based platforms such as
+WiRead, have been shown to improve critical reading and thinking in students.
+Teachers must be trained to use EdTech effectively, and students should
+be encouraged to leverage technology for self-directed learning</p>
 <hr>
 <p>Digital disruption is seeping into virtually every aspect of society,
 and the education system is long overdue for a technological overhaul.
@@ -29,7 +29,7 @@ being deployed in schools to improve learning processes and overcome obstacles
 in pedagogy.</p>
 <p>Using software and data analytics, teachers are being empowered to engage
 with their students in more creative and meaningful ways.</p>
-<h3><strong>Instilling deep learning in students</strong></h3>
+<h3>Instilling deep learning in students</h3>
 <p>Learning takes place best when students are challenged to think critically
 about the subjects they study. When analysing text, for example, students
 should be encouraged to go beyond reading passively.</p>
@@ -39,11 +39,10 @@ appreciation of literary text,” Dr Seow explained. “This is related to
 the students’ lack of opportunity to practice critical reading, articulate
 their thoughts, and be given timely feedback on the dimensions of their
 understanding of a piece of text.”</p>
-<p>Against this backdrop, Dr Seow highlighted <a href="https://www.nie.edu.sg/news-detail/collaboration-with-NIE-researchers-to-Sharpen-Critical-Reading-Skills" rel="noopener noreferrer nofollow" target="_blank">WiRead</a>,
-a web-based platform being tested at Ngee Ann Secondary school. On WiRead,
-students are tasked to read selected passages and are led through thought-development
-exercises. They also participate in online collaborative discussions with
-their peers.</p>
+<p>Against this backdrop, Dr Seow highlighted WiRead, a web-based platform
+being tested at Ngee Ann Secondary school. On WiRead, students are tasked
+to read selected passages and are led through thought-development exercises.
+They also participate in online collaborative discussions with their peers.</p>
 <p>Additionally, the platform accumulates data from the students’ participation,
 giving teachers insight into the type of comments students make and their
 depth of perspective. This helps teachers make more accurate assessments
@@ -51,7 +50,7 @@ of students’ performance so that better feedback may be given.</p>
 <p>“With the use of WiRead as a convenient medium, teachers have reported
 an improvement in the quality of students’ critical discussions of the
 texts,” he added.</p>
-<h3><strong>Blending the physical and digital world</strong></h3>
+<h3>Blending the physical and digital world</h3>
 <p>In other cases, the core impediment to learning is a lack of “epistemic
 curiosity”—simply put, if the student is not interested, then they do not
 absorb new information as effectively. Dr Seow thinks that one way to overcome
@@ -69,7 +68,7 @@ biology and ecology via online platforms. Teachers can view, contribute
 to and stimulate these discussions, thereby helping students consolidate
 their thought processes and learning. The successful integration of information
 communication technology and the physical environment is key, said Dr Seow.</p>
-<h3><strong>Bringing people up to speed</strong></h3>
+<h3>Bringing people up to speed</h3>
 <p>While EdTech can increase student participation, make abstract concepts
 concrete, and foster collaborative skills in students, Dr Seow emphasised
 that technological innovations are but tools that must be wielded properly
