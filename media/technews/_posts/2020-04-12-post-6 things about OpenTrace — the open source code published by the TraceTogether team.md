@@ -21,14 +21,14 @@ received many requests to replicate TraceTogether internationally. While
 the team does not know how useful an app like TraceTogether will be in
 other countries due to the different operating contexts, GovTech has decided
 to make the source code for Singapore’s Bluetooth contact tracing app&nbsp;
-<a href="https://www.tech.gov.sg/media/technews/geeky-myth-busting-facts-you-need-to-know-about-tracetogether" class="editor-rtfLink" rel="noopener noreferrer nofollow" target="_blank">TraceTogether</a>&nbsp;freely available online so that others can improve
-and adapt for deployment elsewhere.</p>
+TraceTogether&nbsp;freely available online so that others can improve and
+adapt for deployment elsewhere.</p>
 <p>This generic codebase is called OpenTrace and comprises the reference
 implementation source code for an iOS app, an Android app, as well as a
 central server that is built around Google Firebase (although implementations
 built on other cloud service providers are also possible). It also includes
 basic calibration data for a range of popular mobile phones.</p>
-<p>At the same time, GovTech has also published the&nbsp;<a href="https://bluetrace.io/" class="editor-rtfLink" rel="noopener noreferrer nofollow" target="_blank">BlueTrace</a>&nbsp;protocol,
+<p>At the same time, GovTech has also published the&nbsp;BlueTrace&nbsp;protocol,
 on which both OpenTrace and TraceTogether are built. Apps that implement
 the BlueTrace protocol are assured of interoperability across jurisdictions.
 The team hopes to work with other countries and national public health
@@ -56,14 +56,14 @@ and Leadership at Red Hat in APAC.</p>
 tracing capability. It has been established out of the experiences from
 previous outbreaks, like SARS, and supports the Singapore Ministry of Health’s
 contact tracing processes, systems and personnel.</p>
-<p>Instead of having to go through the&nbsp;<a href="https://www.tech.gov.sg/media/technews/tracetogether-behind-the-scenes-look-at-its-development-process" class="editor-rtfLink" rel="noopener noreferrer nofollow" target="_blank">painstaking process</a>&nbsp;of
-developing a new Bluetooth-based contact tracing app from scratch, other
-public health authorities can consider adapting the OpenTrace source code
-and make modifications to suit their own needs. For example, whereas Singapore
-has a central public health agency receiving and processing TraceTogether
-data in parallel with existing contact tracing procedures, this may not
-be true in different jurisdictions. A decentralised model with human-out-of-the-loop
-recommendations could be developed.</p>
+<p>Instead of having to go through the&nbsp;painstaking process&nbsp;of developing
+a new Bluetooth-based contact tracing app from scratch, other public health
+authorities can consider adapting the OpenTrace source code and make modifications
+to suit their own needs. For example, whereas Singapore has a central public
+health agency receiving and processing TraceTogether data in parallel with
+existing contact tracing procedures, this may not be true in different
+jurisdictions. A decentralised model with human-out-of-the-loop recommendations
+could be developed.</p>
 <h3>3. BlueTrace protocol can be the basis for privacy-preserving contact tracing standards globally</h3>
 <p>“The BlueTrace protocol, which OpenTrace is built around, envisages a
 federated means of tracing contacts within countries and across jurisdictions,”
@@ -141,5 +141,5 @@ in the codebase. If you are an iPhone user, all you have to do is keep
 TraceTogether open but place the phone upside down in your pocket or face
 down on the table. That will trigger the power saver mode, allowing the
 app to scan the environment regularly for other TraceTogether users.</p>
-<h4><em>Download the app from&nbsp;<a href="https://play.google.com/store/apps/details?id=sg.gov.tech.bluetrace&amp;hl=en" class="editor-rtfLink" rel="noopener noreferrer nofollow" target="_blank">Google Play</a>&nbsp;or the&nbsp;<a href="https://apps.apple.com/us/app/tracetogether/id1498276074" class="editor-rtfLink" rel="noopener noreferrer nofollow" target="_blank">App Store</a>&nbsp;and help everyone at home to download it too.</em></h4>
+<h4></h4>
 <p></p>
