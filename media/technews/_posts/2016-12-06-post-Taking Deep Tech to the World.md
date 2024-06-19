@@ -10,6 +10,8 @@ description: ""
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="taking deep tech to the world" src="/images/technews/taking-deep-tech-to-the-world-part-1.png">
 </div>
+<p><em>Photo: (From left) Dr Beh Swan Gin, Chairman, Economic Development Board, Ms Yong Ying-I, Permanent Secretary (National Research and Development) and Permanent Secretary (Public Service Division), Deputy Prime Minister &amp; Coordinating Minister for Economic and Social Policies, Mr Tharman Shanmugaratnam, Mr Steve Leonard, Founding CEO, SGInnovate, Mr Gabriel Lim, 2nd Permanent Secretary ( Ministry of Communications and Information), Chief Executive (Info-comm Media Development Authority of Singapore).</em>
+</p>
 <p>Singapore’s technology sector glitterati turned up in full force on 22
 November 2016 for the official launch of SGInnovate at 32 Carpenter Street,
 a refurbished six-storey building that will be its official headquarters.</p>
@@ -24,7 +26,7 @@ and transportation.</p>
 higher learning and research organisations, and provide aspiring entrepreneurs
 with support for business plan development, sources of funding, and go-to-market
 efforts.</p>
-<h3><strong>Technology with Global Impact</strong></h3>
+<h3>Technology with Global Impact</h3>
 <p>“Our basic premise at SGInnovate is simple: We believe that Singapore
 has all of the resources that it needs to build globally relevant products
 and globally relevant companies,” said Mr Steve Leonard, Founding Chief
@@ -50,7 +52,7 @@ names such as Spotify, Skype and Minecraft.</p>
 noted that Singapore has gained traction internationally, but more work
 was needed to translate the research into commercial outputs, such as patents
 and value creation for a global audience.</p>
-<h3><strong>A Deep Tech-Focused Community</strong></h3>
+<h3>A Deep Tech-Focused Community</h3>
 <p>Announced earlier this year as part of the Budget 2016, SGInnovate falls
 under the purview of the National Research Foundation. In its previous
 iteration, SGInnovate was Infocomm Investments Pte Ltd, the venture investment
@@ -69,7 +71,7 @@ Tharman.</p>
 technology lab. It is a curator, selecting and bringing together deep tech-focused
 players in the same space with the aim of bringing about productive interaction,”
 he said.</p>
-<h3><strong>Helping Entrepreneurs</strong></h3>
+<h3>Helping Entrepreneurs</h3>
 <p>Going one step further from being a co-working space, SGInnovate will
 also develop a local pool of experts to provide mentorship to startup founders.
 These individuals could be venture capitalists, angel investors, regulatory
@@ -103,11 +105,4 @@ space.</p>
 itself, will learnt to fail fast, learn fast and pivot fast, and in so
 doing, achieve your ultimate goal—to solve the world’s most difficult problems
 and improve the lives of people around the world,” he said.</p>
-<hr>
-<p>Main photo: (From left) Dr Beh Swan Gin, Chairman, Economic Development
-Board, Ms Yong Ying-I, Permanent Secretary (National Research and Development)
-and Permanent Secretary (Public Service Division), Deputy Prime Minister
-&amp; Coordinating Minister for Economic and Social Policies, Mr Tharman
-Shanmugaratnam, Mr Steve Leonard, Founding CEO, SGInnovate, Mr Gabriel
-Lim, 2nd Permanent Secretary ( Ministry of Communications and Information),
-Chief Executive (Info-comm Media Development Authority of Singapore).</p>
+<p></p>
