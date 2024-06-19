@@ -10,7 +10,6 @@ description: 📞 MOE Call Centre stepped up during COVID-19, handling surges in
 variant: tiptap
 ---
 <h3>As you already know, Singaporean parents are very involved in their children’s development.</h3>
-<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="MOE call centre staff working to manage COVID-19 related challenges" src="/images/technews/moe_call_centre.jpg">
 </div>
@@ -60,7 +59,6 @@ with daily conference calls (due to the COVID-19 situation) to meticulously
 resolve and track project progress which included end-to-end testing, validating
 results and fixing issues expeditiously and effectively through close collaboration.</p>
 <h3>Some useful learning points:</h3>
-<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="MOE call centre staff working from home" src="/images/technews/moe_call_centre_2.jpg">
 </div>
@@ -91,5 +89,5 @@ informed and reassured during such turbulent times.</p>
 <p>As for us? We’re just glad to have made WFH possible for our MOE CC colleagues
 so they could balance their children/families’ needs and continue to serve
 the parents and public well throughout this crisis. ☺</p>
-<h4>Written by:&nbsp;<em>Somebody who was in charge of the WFH transformation</em></h4>
+<h4></h4>
 <p></p>
