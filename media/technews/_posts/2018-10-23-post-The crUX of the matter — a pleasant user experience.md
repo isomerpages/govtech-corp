@@ -65,12 +65,10 @@ online form, and you want to know whether people know how to read and use
 the form, whether or not the buttons are visible enough. If people can
 complete those tasks easily, then you have something successful. I’m never
 sure that something is going to work until I see it being used.</p>
-<hr>
 <div class="iframe-wrapper">
 <iframe style="max-width: 100%;" height="400" width="100%" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/yhkg0Zv4HGQ"></iframe>
 </div>
-<p>---</p>
-<h4><strong>3. What is one misconception about UX design that you would like to set right?</strong></h4>
+<h3>Q: What is one misconception about UX design that you would like to set right?</h3>
 <p><strong>Phil</strong>: People tend to think that UX design is a compartmentalised
 process. In reality, it can be rather messy. You might start with research,
 but just because you’ve talked to a lot of people doesn’t necessarily mean
@@ -82,7 +80,7 @@ note is that UX design is a continuous process. We are continuously testing
 small ideas, so we want to have constant feedback on how people might interact
 with our solution, even after it has been released, and we adapt the solution
 accordingly.</p>
-<h4><strong>4. What are some of the biggest challenges you face as a UX designer?</strong></h4>
+<h3>Q: What are some of the biggest challenges you face as a UX designer?</h3>
 <p><strong>Ed</strong>: For me, the most difficult thing is personal biases.
 Sometimes, these biases are transparent to you—you don’t even know you
 have them until someone else points it out to you. When you have some pre-conceived
@@ -95,7 +93,7 @@ or your organisation in terms of their reputation. But the crucial thing
 is that you’re not failing in totality because you’re killing the bad ideas
 and you’re learning cheaply, and that helps you improve on future iterations
 of a product.</p>
-<h4><strong>5. What kind of people are you looking for to join your team?</strong></h4>
+<h3>Q: What kind of people are you looking for to join your team?</h3>
 <p><strong>Phil</strong>: There’s this concept of T-shaped people—those with
 a depth of technical expertise in one particular area but have broad interests
 in other areas. So a person who has a strong skillset in research, interaction
@@ -108,7 +106,7 @@ the best ideas or innovations happen.</p>
 on life, because I think design can be very personal. You kind of bring
 yourself into the work—the way you see the world and the things you care
 about are important in terms of creating great design.</p>
-<h4><strong>6. Going forward, what are your team’s aspirations?</strong></h4>
+<h3>Q: Going forward, what are your team’s aspirations?</h3>
 <p><strong>Phil</strong>: When you look at tech around the world today, you
 think of certain centres like Silicon Valley in the US. The main narrative
 for the tech industry is that it’s about companies that are very commercial,
@@ -120,5 +118,5 @@ is more inclusive, equal and caring.</p>
 <p><strong>Ed</strong>: We’re starting to see how technology is breaking
 down the fabric of society, such as with the case of Facebook and data
 privacy. So I think we at government digital services can help shape the
-trajectory of technology by remaining focussed on what’s good for people
+trajectory of technology by remaining focused on what’s good for people
 and society.</p>
