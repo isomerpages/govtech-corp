@@ -30,8 +30,9 @@ granted a temporary license plate to its first driverless car, a Hyundai
 Genesis.</p>
 <p>To stay ahead of the curve in urban mobility, Singapore has started testing
 AVs on its roads since 2011.</p>
-<p>Recently, MIT technology startup <a href="https://news.mit.edu/2016/startup-nutonomy-driverless-taxi-service-singapore-0324" rel="noopener noreferrer nofollow" target="_blank"><u>nuTonomy launched its first-in-the-world public robo-taxi trial</u></a> within
-the one-north research district.</p>
+<p>Recently, MIT technology startup <a href="https://news.mit.edu/2016/startup-nutonomy-driverless-taxi-service-singapore-0324" rel="noopener noreferrer nofollow" target="_blank">nuTonomy</a> launched
+its first-in-the-world public robo-taxi trial within the one-north research
+district.</p>
 <p>This is one example of Singapore’s ongoing efforts to test-drive AVs in
 regular traffic.</p>
 <p>As Singapore gears up towards a driverless future, we can look forward
@@ -44,13 +45,12 @@ to seeing more of these self-driving cars in our neighbourhoods.</p>
 </div>
 <p><em>Image taken from <a href="https://www.gardensbythebay.com.sg/content/dam/gbb-2021/documents/media-room/2019/auto-rider-annex-A.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>Gardens by the Bay</u></a>.</em>
 </p>
-<p>Singapore’s <a href="https://www.gardensbythebay.com.sg/" rel="noopener noreferrer nofollow" target="_blank"><u>Gardens by the Bay</u></a>,
-world-renowned for its iconic Supertrees and giant climate-controlled domes,
-also houses <a href="https://www.stengg.com/en/newsroom/news-releases/st-engineering-unveils-new-on-demand-autonomous-shuttle-service-at-gardens-by-the-bay/" rel="noopener noreferrer nofollow" target="_blank"><u>Asia’s first fully operational self-driving vehicle</u></a>.
+<p>Singapore’s Gardens by the Bay, world-renowned for its iconic Super Trees
+and giant climate-controlled domes, also houses <a href="https://www.stengg.com/en/newsroom/news-releases/st-engineering-unveils-new-on-demand-autonomous-shuttle-service-at-gardens-by-the-bay/" rel="noopener noreferrer nofollow" target="_blank"><u>Asia’s first fully operational self-driving vehicle</u></a>.
 Deployed as part of the Gardens’ outdoor tours, the driverless Auto Riders
 ply a fixed route and allow visitors to cover more ground of the sprawling
 101-hectare attraction for a small fee of S$5.</p>
-<p>Manufactured in Europe and modified by Singapore-based <a href="https://www.stengg.com/" rel="noopener noreferrer nofollow" target="_blank"><u>ST Engineering</u></a>,
+<p>Manufactured in Europe and modified by Singapore-based ST Engineering,
 the auto riders are customised for optimal performance under local weather
 conditions and the mixed traffic environment of the gardens.</p>
 <p>Acting as the vehicle’s ‘eyes’, cameras at its front and back work together
@@ -63,7 +63,6 @@ an on-board processing technique known as navigation technology sensor
 fusion acts as the Auto Rider’s ‘brain’, deciding which sensor input is
 more reliable under changing circumstances.</p>
 <h4>2. NAVIAs at Nanyang Technological University</h4>
-<p></p>
 <div class="iframe-wrapper">
 <iframe style="max-width: 100%;" height="400" width="100%" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/7U68IlSucxU?si=y-M5ymYlWShHyh4F"></iframe>
 </div>
@@ -83,10 +82,6 @@ for Testing and Research of AVs-NTU (CETRAN).</p>
 and fast-charging ports, which are essential if electric Autonomous Vehicles
 are to become a mainstream mode of land transportation in Singapore.</p>
 <h4>3. SCOT at the National University of Singapore</h4>
-<p></p>
-<div class="iframe-wrapper">
-<iframe style="border:none;overflow:hidden" height="450" width="100%" allowfullscreen="true" frameborder="0" src="https://www.facebook.com/plugins/video.php?height=314&amp;href=https%3A%2F%2Fwww.facebook.com%2Fnus.singapore%2Fvideos%2F10153682459873540%2F&amp;show_text=false&amp;width=560&amp;t=0"></iframe>
-</div>
 <p>The Shared Computer Operator Transport, or SCOT, is the brainchild of
 the National University of Singapore (NUS) and the Singapore-MIT Alliance
 for Research and Technology (SMART).</p>
