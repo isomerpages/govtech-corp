@@ -11,8 +11,10 @@ variant: tiptap
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="Mr Lim Eyung, director at GovTech, shared his insights on service blueprinting at the Public Service Transformation Conference 2019." src="/images/technews/how_to_build_service_blueprint_and_what_you_can_achieve_with_it_1.jpg">
 </div>
-<h3>A service blueprint is a systematic methodology to improve the way services are built and delivered.</h3>
-<h4>Mr Lim Eyung, director at GovTech, shared his insights on service blueprinting at the Public Service Transformation Conference 2019.</h4>
+<p>A service blueprint is a systematic methodology to improve the way services
+are built and delivered.</p>
+<p>Mr Lim Eyung, director at GovTech, shared his insights on service blueprinting
+at the Public Service Transformation Conference 2019.</p>
 <p>A service blueprint is a systematic methodology for improving service
 building and delivery. Mr Lim Eyung, director at GovTech, shared his insights
 on service blueprinting at the Public Service Transformation Conference
@@ -75,7 +77,6 @@ arrive at the cinema, they need only display a QR code to pick up their
 food items and proceed into the theatre, validating their QR code as they
 go. This also would eliminate the printing of physical tickets, saving
 business costs on paper and helping the company “go green”, Mr Lim explained.</p>
-<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="Service Blueprint process and how it drives transformation" src="/images/technews/how_to_build_service_blueprint_and_what_you_can_achieve_with_it_3.jpg">
 </div>
@@ -98,7 +99,6 @@ important step towards improving customer satisfaction, Mr Lim advised.</p>
 <p>From a service provider’s standpoint, one mistake to avoid is having employees
 go through an entire service journey model without testing a minimum viable
 product, said Mr Lim.</p>
-<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="Process of testing product prototypes" src="/images/technews/how_to_build_service_blueprint_and_what_you_can_achieve_with_it_4.jpg">
 </div>
