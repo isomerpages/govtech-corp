@@ -11,7 +11,9 @@ description: Discover how GovTech and SLA are testing TV white space for drone
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="GovTech and SLA testing the use of television white space for data transmission over long distances to improve drone operations" src="/images/technews/Bringing_connectivity_to_the_Southern_Islands_over_Television_White_Space_1.jpg">
 </div>
-<h3>GovTech and SLA are testing the use of television white space for data transmission over long distances. This would pave the way for remote aerial drone operations and IoT deployments on Singapore’s Southern Islands.</h3>
+<p>GovTech and SLA are testing the use of television white space for data
+transmission over long distances. This would pave the way for remote aerial
+drone operations and IoT deployments on Singapore’s Southern Islands.</p>
 <p>Boasting pristine beaches and tranquillity that contrasts starkly with
 the hustle and bustle of city life, Singapore’s Southern Islands are a
 nature lover’s escape from reality and a throwback to simpler times. Waves
