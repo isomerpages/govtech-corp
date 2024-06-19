@@ -43,15 +43,15 @@ of citizen information which will allow seamless interactions between the
 government, businesses and Singaporeans. Prime Minister Lee Hsien Loong
 has called the NDI the “cornerstone of Singapore’s Smart Nation vision”.</p>
 <p>Singpass and MyInfo are two critical elements of the NDI framework. Most
-Singaporeans are already familiar with SingPass—the secure online portal
+Singaporeans are already familiar with Singpass—the secure online portal
 through which they can transact with government agencies. This year, the
-SingPass Mobile app will be launched with a two-factor authentication protocol
+Singpass Mobile app will be launched with a two-factor authentication protocol
 to allow citizens to transact on-the-go via their mobile phones.</p>
 <p>To further enhance the convenience of transactions, MyInfo—a consent-based
 digital platform for citizen data management—has been developed so that
 users need only provide their personal information to the government once.
-Thereafter, with their authorisation, they will be able to extend the use
-of that information to other approved public and private sector agencies.
+Thereafter, with their authourisation, they will be able to extend the
+use of that information to other approved public and private sector agencies.
 With MyInfo, e-transaction forms can be filled in with a click, thus reducing
 hassle and the likelihood of errors.</p>
 <div class="isomer-image-wrapper">
@@ -109,7 +109,7 @@ bus arrival times, allowing passengers to better plan their commute. The
 system also allows the optimisation of bus routes and schedules according
 to commuter volume.</p>
 <p>In addition to fixed and scheduled bus routes, on-demand bus services
-are also being trialled to make the public transport system more dynamic
+are also being trialed to make the public transport system more dynamic
 and responsive to commuter needs. One example of this model is the crowdsourcing
 mobile app Beeline, developed by GovTech, which allows public bus operators
 to ply new routes according to passenger demand. Meanwhile, autonomous
