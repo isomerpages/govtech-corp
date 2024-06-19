@@ -12,7 +12,8 @@ variant: tiptap
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="Get your smartphone back up to speed with these hacks to clear RAM" src="/images/technews/smartphone_slowing_down_1.jpg">
 </div>
-<h3>Whether you’re an Android or iPhone user, no one likes a laggard device. We have some quick tips on how to keep your handset snappy and responsive.</h3>
+<p>Whether you’re an Android or iPhone user, no one likes a laggard device.
+We have some quick tips on how to keep your handset snappy and responsive.</p>
 <p>Right out of the box, new Android and Apple handsets are blazingly fast,
 executing each swipe and tap command almost instantaneously. Use them for
 long enough, however, and appreciable lag seeps in—terrible if you’re trying
