@@ -59,7 +59,7 @@ Mountbatten area. Sally vastly simplified the process of tracking and recording
 items distributed, ensuring equitable distribution of essentials for individuals
 and households.</p>
 <h3>Technology, the driving force behind Sally</h3>
-<p>By utilising cloud technologies on our&nbsp;<a href="https://www.developer.tech.gov.sg/technologies/infrastructure-and-hosting/government-commercial-cloud" class="editor-rtfLink" rel="noopener noreferrer nofollow" target="_blank">Government Commercial Cloud</a>&nbsp;framework,
+<p>By utilising cloud technologies on our&nbsp;Government Commercial Cloud&nbsp;framework,
 Sally is able to run different distribution campaigns simultaneously with
 the use of unique QR codes at an effective cost model. In addition, by
 staying true to our DNA, we are able to significantly lower the lead time
@@ -93,5 +93,5 @@ QR codes to log in</p>
 <p>Multi-Language support</p>
 </li>
 </ul>
-<h4>To learn more about supplyally, click&nbsp;<a href="https://www.supplyally.gov.sg/" class="editor-rtfLink" rel="noopener noreferrer nofollow" target="_blank">here!</a></h4>
+<h4></h4>
 <p></p>
