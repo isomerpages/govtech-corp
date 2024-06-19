@@ -10,7 +10,6 @@ description: 🤖 Bertrand Lee, a Smart Nation Fellow, discusses the
 variant: tiptap
 ---
 <h3>An expert in Natural Language Processing, Bertrand Lee shares his journey to becoming a Smart Nation Fellow at GovTech and how chatbots can change the way government services are delivered.</h3>
-<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="Bertrand Lee, a GovTech Smart Nation Fellow" src="/images/technews/Bertrand_Lee_resized.jpg">
 </div>
@@ -31,10 +30,9 @@ Lee said. “I believe that chatbots will make a significant impact in the
 lives of many Singaporeans, by improving the way we engage with government
 services.”</p>
 <p>This motivation to harness technology to make a difference is what ultimately
-drove Lee to join the&nbsp;<a href="https://www.tech.gov.sg/careers/smart-nation-fellowship-programme/" class="editor-rtfLink" rel="noopener noreferrer nofollow" target="_blank">Government Technology Agency of Singapore (GovTech)’s Smart Nation Fellowship Programme</a>.
-In this interview, Lee shares his experience as a Smart Nation Fellow,
-as well as his views on the future of chatbots for the delivery of government
-services.</p>
+drove Lee to join the&nbsp;Smart Nation Fellowship Programme. In this interview,
+Lee shares his experience as a Smart Nation Fellow, as well as his views
+on the future of chatbots for the delivery of government services.</p>
 <h3>Getting into talks with GovTech</h3>
 <p>Before Lee moved to Hong Kong, he spent 13 years in the United States
 working for technology giant Microsoft and a series of startups. One of
@@ -56,9 +54,8 @@ as a part-time consultant working three days a week. Industry professionals
 can even join as Technical Mentors to guide GovTech’s project teams.</p>
 <h3>Speaking of chatbots</h3>
 <p>After joining GovTech, Lee became a member of the team that developed
-the government chatbot&nbsp;<a href="https://www.tech.gov.sg/products-and-services/ask-jamie/" class="editor-rtfLink" rel="noopener noreferrer nofollow" target="_blank">AskJamie</a>,
-which is programmed to respond to questions that range from tax queries
-to licence renewals.</p>
+the government chatbot&nbsp;AskJamie, which is programmed to respond to
+questions that range from tax queries to licence renewals.</p>
 <p>“Chatbots could potentially be the most scalable and effective way to
 improve how Singaporeans transact with the government,” said Lee. Not only
 are chatbots able to process and retrieve information faster than any customer
