@@ -25,7 +25,6 @@ for a selfie (facial recognition for selected smartphones), or enter a
 as all you need is your mobile phone and internet connection to transact
 online.</p>
 <h3>2. View your information at a glance</h3>
-<p></p>
 <div class="iframe-wrapper">
 <iframe style="max-width: 100%;" height="400" width="100%" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/dVdRW_DOpag?si=Mn0KCAGFVqV0oEnH"></iframe>
 </div>
@@ -40,7 +39,6 @@ six-digit passcode. Thereafter, your profile information will load automatically
 The list of information available will grow over time, so keep an eye out
 for it.</p>
 <h3>3. Access digital services with a tap</h3>
-<p></p>
 <div class="iframe-wrapper">
 <iframe style="max-width: 100%;" height="400" width="100%" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/dxEbVxIYsKQ?si=CjnSdt98iMUNC4oU"></iframe>
 </div>
@@ -55,12 +53,7 @@ without having to search for them. More shortcuts will be added progressively
 to make your experience even better.</p>
 <p>So what are you waiting for? Download or update your SingPass Mobile app
 now!</p>
-<p>Find out more about SingPass Mobile&nbsp;<a href="https://go.gov.sg/spm-technews-may2019" class="editor-rtfLink" rel="noopener noreferrer nofollow" target="_blank">here</a>.</p>
-<p>Apple App Store:&nbsp;<a href="https://itunes.apple.com/us/app/singpass-mobile/id1340660807" class="editor-rtfLink" rel="noopener noreferrer nofollow" target="_blank">Download here</a>
-</p>
-<p>Google Play Store:&nbsp;<a href="https://play.google.com/store/apps/details?id=sg.ndi.sp&amp;hl=en-GB" class="editor-rtfLink" rel="noopener noreferrer nofollow" target="_blank">Download here</a>
-</p>
-<p><em>Have security concerns? Not to worry, SingPass Mobile has stringent security measures in place to detect and prevent unauthorised access to your personal data. For example, when the app identifies a potential security breach or the presence of malicious software on a mobile device, it will prompt the user to exit the app.</em>
+<p><em>Have security concerns? Not to worry, SingPass Mobile has stringent security measures in place to detect and prevent unauthourised access to your personal data. For example, when the app identifies a potential security breach or the presence of malicious software on a mobile device, it will prompt the user to exit the app.</em>
 </p>
 <p><em>SingPass Mobile is part of the Singapore Government’s National Digital Identity initiative, which aims to provide more convenience and security for citizens when transacting online.</em>
 </p>
