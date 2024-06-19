@@ -22,8 +22,8 @@ bay? Technology could very well be part of the answer.</p>
 <p>“The last thing we want is to have another circuit breaker implemented,”
 said Mr Chan Cheow Hoe, Government Chief Digital Technology Officer. He
 was speaking at a STACK-X webinar titled “Hack the Crisis”, a session promoting
-the&nbsp;<a href="https://www.developer.gov.sg/covid-volunteering/" class="editor-rtfLink" rel="noopener noreferrer nofollow" target="_blank">COVID-19 Idea Sprint</a>,
-a hackathon organised to crowdsource solutions for COVID-19-related challenges.</p>
+the&nbsp;COVID-19 Idea Sprint, a hackathon organised to crowdsource solutions
+for COVID-19-related challenges.</p>
 <p>Speaking alongside him on the webinar was Mr Tan Kok Yam, Deputy Secretary
 for Smart Nation and Digital Government, and Mr David Chua, Cluster Director
 (Health) at the Ministry of Health. Together, they discussed the challenges
@@ -47,7 +47,6 @@ seniors access healthcare or students with their educational needs.</p>
 “How do I decide between opening up one sector versus another?” In times
 like these, Mr Tan said that such questions will require fresh ideas and
 solutions, which they hope the public can contribute to.</p>
-<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="Mr Tan Kok Yam, Deputy Secretary, Smart Nation and Digital Government, on the challenges of reopening the economy after the circuit breaker period." src="/images/technews/How_techies_can_facilitate_the_post_circuit_breaker_economy_2.jpg">
 </div>
@@ -60,15 +59,15 @@ workplaces to continue operations and people to interact with one another
 even in a time of isolation. It is therefore unsurprising that the government
 is looking to crowdsource digital solutions that will help smoothen the
 journey forward.</p>
-<p>Take, for example,&nbsp;<a href="https://www.tracetogether.gov.sg/" class="editor-rtfLink" rel="noopener noreferrer nofollow" target="_blank">TraceTogether</a>,
-the contact tracing application developed by GovTech in March. The app
-logs users who have been in close proximity with one another, allowing
-authorities to track down potential cases if any user has tested positive
-for COVID-19. This would enable authorities to act swiftly and contain
-the virus to prevent another wave of outbreak while the economy is recovering.
-“Currently, contact tracing is a very manual, laborious and inefficient
-process. TraceTogether is one of those technologies that we are depending
-on to make contact tracing more efficient,” said Mr Chua.</p>
+<p>Take, for example,&nbsp;TraceTogether, the contact tracing application
+developed by GovTech in March. The app logs users who have been in close
+proximity with one another, allowing authorities to track down potential
+cases if any user has tested positive for COVID-19. This would enable authorities
+to act swiftly and contain the virus to prevent another wave of outbreak
+while the economy is recovering. “Currently, contact tracing is a very
+manual, laborious and inefficient process. TraceTogether is one of those
+technologies that we are depending on to make contact tracing more efficient,”
+said Mr Chua.</p>
 <p>Even so, a solution like this has challenges, like getting it to work
 on different mobile devices or achieving a wide enough user base. As such,
 Mr Chan said that they are looking at alternative solutions for contact
@@ -97,10 +96,5 @@ and we are stretched,” said Mr Chan. “So, we are reaching out to the communi
 now; those of you who have been displaced by COVID-19 or want to do your
 bit for the country: join us; we are hiring. This is an open call: Help
 us battle the crisis; help us get back to normal.”</p>
-<p>For readers looking to contribute to Singapore’s digital efforts against
-COVID-19,&nbsp;<a href="https://www.developer.gov.sg/covid-volunteering/" class="editor-rtfLink" rel="noopener noreferrer nofollow" target="_blank">volunteering</a>&nbsp;and&nbsp;
-<a href="https://go.gov.sg/techhunt" class="editor-rtfLink" rel="noopener noreferrer nofollow" target="_blank">new career opportunities</a>&nbsp;are available at GovTech. Click on the
-respective links to find out more.</p>
-<p>Missed the webinar? Click&nbsp;<a href="https://www.youtube.com/watch?v=hRYGpTEVlIs" class="editor-rtfLink" rel="noopener noreferrer nofollow" target="_blank">here</a>&nbsp;to
-watch the recording and stay updated on future STACK-X: Meetups&nbsp;
-<a href="https://go.gov.sg/meetup" class="editor-rtfLink" rel="noopener noreferrer nofollow" target="_blank">here</a>.</p>
+<p></p>
+<p></p>
