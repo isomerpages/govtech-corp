@@ -93,5 +93,4 @@ QR codes to log in</p>
 <p>Multi-Language support</p>
 </li>
 </ul>
-<h4></h4>
 <p></p>
