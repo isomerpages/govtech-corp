@@ -27,13 +27,13 @@ Information Officers (CIOs) and public sector leaders around the world.</p>
 2017 was organized by the Smart Nation and Digital Government Office (SNDGO)
 and the Government Technology Agency of Singapore (GovTech).</p>
 <p>Head of Singapore's Civil Service, Mr Peter Ong, delivered the opening
-address at DGX 2017. He also announced the launch of the <a href="https://www.mci.gov.sg/cos2017/modules/articles/leveraging%20data%20for%20the%20digital%20economy/api%20exchange%20-%20apex%20-%20for%20data%20sharing%20in%20the%20public%20sector/a-centralised-data-sharing-platform-for-facilitate-data-driven-decision-making" rel="noopener noreferrer nofollow" target="_blank">API exchange (APEX)</a>,
+address at DGX 2017. He also announced the launch of the API exchange (APEX),
 a centralised data sharing platform for government agencies developed by
 GovTech and the Ministry of Finance (MOF).</p>
 <p>Mr Ong said: "A network of data “pipes and gates”, APEX lets agencies
 share data through secure application programming interfaces or APIs, while
 centrally monitoring and managing the security of these exchanges."</p>
-<h3><strong>Buy, rent or grow</strong></h3>
+<h3>Buy, rent, or grow</h3>
 <p>Speakers on the first day of DGX shared their thoughts on getting the
 right talent to create and deliver digital government services.</p>
 <p>Drawing from his experience as the Chief Technology Officer of the United
@@ -53,7 +53,7 @@ courses at places like Silicon Valley to give them an understanding of
 the possibilities that technology enables, Mr Maxwell said.</p>
 <p>Frontline staff, in the meantime, train to improve their service capabilities
 at academies run by the UK’s Government Digital Services.</p>
-<h3><strong>Not for forever</strong></h3>
+<h3>Not for forever</h3>
 <p>More importantly, Mr Maxwell noted, the government needed to change its
 mindset that a civil service job was for life. While the strategy in the
 past may have been for every staff to stay on in the government with the
@@ -77,7 +77,7 @@ to join, he said.</p>
 because that’s where the biggest toys are. What we do is try to sell the
 larger projects like our digital signature project, which is the biggest
 IT project in Denmark at the moment,” said Mr Frelle-Petersen.</p>
-<h3><strong>Multiple paths to success</strong></h3>
+<h3>Multiple paths to success</h3>
 <p>Unlike the UK, however, Denmark has opted to tap into the capabilities
 of the private sector rather than focus on developing tech talent in-house.</p>
 <p>“We felt that we should not be building tech competencies ourselves but
