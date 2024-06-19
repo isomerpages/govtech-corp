@@ -10,9 +10,6 @@ description: ""
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="Geospatial-Powered Smart Nation" src="/images/technews/geospatial-powered-smart-nation-part-1.png">
 </div>
-<p><strong>A team of geospatial specialists in GovTech is changing the geospatial technology landscape of Singapore</strong>
-</p>
-<hr>
 <p>You might not know this, but a team of geospatial specialists in GovTech
 is changing the geospatial technology landscape of Singapore – one impactful
 project at a time.</p>
@@ -25,8 +22,12 @@ they see the benefits which their work brings.</p>
 <p>Geospatial analytics helps give deeper evidence-based insights at both
 macro and micro levels, and that in turn helps in better policy decisions
 and efficient operations, explains Anupam.</p>
-<p><strong>"When you look at Excel worksheets, tabular data or charts for example, you can't make sense of the raw data. But the moment you geotag it and see it on a map, it's a totally different picture. The possibilities are endless – you can see patterns, trends, concentrations, and much more."</strong>
-</p>
+<blockquote>
+<p>"When you look at Excel worksheets, tabular data or charts for example,
+you can't make sense of the raw data. But the moment you geotag it and
+see it on a map, it's a totally different picture. The possibilities are
+endless – you can see patterns, trends, concentrations, and much more."</p>
+</blockquote>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="Geospatial-Powered Smart Nation" src="/images/technews/geospatial-powered-smart-nation-part-2.png">
 </div>
@@ -58,7 +59,7 @@ today, up from some 200 data sets previously.</p>
 work, cutting down the time taken to raise requests for data, improving
 productivity and raising data analytic capability within the government.</p>
 <p>Many of these useful map data is also shared on OneMap and Data.gov.sg.</p>
-<h3><strong>Hacking Geospatial Tech with Excel</strong></h3>
+<h3>Hacking Geospatial Tech with Excel</h3>
 <p>Besides working on Ministries' and statutory boards' projects, the team
 also comes up with innovative ideas and takes them to fruition on their
 own accord.</p>
@@ -83,11 +84,11 @@ says with a laugh.</p>
 requests. To date, there are 35 agencies using the tool with "a few thousand"
 downloads so far, says Anupam. Quite a feat, considering the plugin was
 not initially on the cards.</p>
-<h3><strong>The Future of Geospatial</strong></h3>
+<h3>The Future of Geospatial</h3>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="Geospatial-Powered Smart Nation" src="/images/technews/geospatial-powered-smart-nation-part-4.png">
 </div>
-<p><em>The small but agile geospatial team sees an increase in demand for geospatial technology. Back row from L to R: Sia Jin Jun, Andy Tan and Chew Xunmao. Front row from L to R: Abhishek Tandon, Anupam Mukherjee and Elvia Willyono</em>
+<p><em>The small but agile geospatial team sees an increase in demand for geospatial technology. Back row from left to right: Sia Jin Jun, Andy Tan and Chew Xunmao. Front row from left to right: Abhishek Tandon, Anupam Mukherjee and Elvia Willyono</em>
 </p>
 <p>Moving ahead, Anupam and his team feel their role will only get increasingly
 important. "Today, over 70 per cent of whatever data we generate has a
