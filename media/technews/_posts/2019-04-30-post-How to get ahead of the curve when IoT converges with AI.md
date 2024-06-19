@@ -12,7 +12,9 @@ variant: tiptap
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="Three key elements needed in IoT deployments" src="/images/technews/three-key-elements-you-need-in-iot-deployments-part1.png">
 </div>
-<h3>IoT devices collect vast amounts of data, making AI essential for sifting through the noise to produce actionable insights. Here are four points you should think about when developing or deploying an AI-IoT solution.</h3>
+<p>IoT devices collect vast amounts of data, making AI essential for sifting
+through the noise to produce actionable insights. Here are four points
+you should think about when developing or deploying an AI-IoT solution.</p>
 <p>Like unrefined gold ore, the raw data accumulated by millions of Internet
 of Things (IoT) devices means nothing without some form of analysis—also
 known as ‘data mining’. Rather than perform data mining manually, many
