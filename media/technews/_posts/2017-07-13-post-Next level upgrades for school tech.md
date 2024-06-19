@@ -7,14 +7,16 @@ variant: tiptap
 date: 2017-07-13
 description: ""
 ---
+<blockquote>
 <p>"The GovTech@MOE team challenged ourselves to not be satisfied with the
 status quo and to re-think and architect the next phase of the Schools
 Standard ICT Operating Environment (SSOE). In doing so and through the
 innovative use of technologies, we hope to bring schools' ICT infrastructure
 capabilities to the next level to better support current needs, and also
 enable future Teaching and Learning needs of our Teachers and Students."</p>
-<p><strong>Mr Tan Bee Teck, Chief Information Officer, Ministry of Education</strong>
-</p>
+<p></p>
+<p>Mr Tan Bee Teck, Chief Information Officer, Ministry of Education</p>
+</blockquote>
 <hr>
 <p>Here's exciting news if you're an education and technology buff.</p>
 <p>The Ministry of Education (MOE) is progressively transitioning all 360
@@ -25,11 +27,8 @@ enable MOE to enhance teaching and learning in an increasingly digitalised
 age.</p>
 <p>TechNews spoke to Mr Tan Bee Teck, GovTech’s appointed CIO of MOE, to
 understand how SSOE 2 will be a game-changer for our schools.</p>
-<p>(Editor: You can spot Bee Teck easily in the main team photo above — he's
-the guy holding the word, 'Awesome!'.)</p>
 <p>Here are some quick takeaways:</p>
-<p><strong>1. Scalable and robust ICT infrastructure for the future</strong>
-</p>
+<h3>Scalable and robust ICT infrastructure for the future</h3>
 <p>With the proliferation of smart connected devices such as mobile phones
 and sensors, the scaled-up SSOE 2 can provide connectivity in our public
 schools for up to 500,000 devices — from desktops, laptops to a hodge-podge
@@ -40,13 +39,12 @@ be limited to the computer labs.</p>
 <p>Remember the time when you had to sit inside your school’s computer lab
 and type away on your desktop? Schools still have computer labs circa 2017,
 but SSOE 2 will enable pervasive wireless coverage and network connectivity
-to enableICT lessons to be conducted beyond the staid confines of the computer
-labs or even classrooms.</p>
+to enable ICT lessons to be conducted beyond the staid confines of the
+computer labs or even classrooms.</p>
 <p>Imagine logging on to YouTube to learn science in the school eco-garden
 using your own personal tablet or mobile device?</p>
 <p>All these will be possible really soon!</p>
-<p><strong>2. Connectivity is king</strong>
-</p>
+<h3>Connectivity is king</h3>
 <p>Wireless access points will be installed ubiquitously in schools to enable
 teaching and learning outside the classroom, anytime and anywhere.</p>
 <p>This “school-wide wireless” network will provide support for the national
@@ -55,8 +53,7 @@ as those recording attendances.</p>
 <p>The wireless network could also be scaled up to support smart campus solutions
 such as wireless sensors and Internet of Things (IoT) to further enhance
 teaching and learning in a data-driven Smart Nation.</p>
-<p><strong>3. Greater cybersecurity</strong>
-</p>
+<h3>Greater cybersecurity</h3>
 <p>Cybersecurity is the biggest bugbear facing organisations in this digital
 age, and schools are sadly not exempted from cyber threats.</p>
 <p>In May 2017, the Singapore Government implemented the Internet Surfing
@@ -67,8 +64,7 @@ quality teaching and enable effective learning.</p>
 <p>Multi-tiered firewalls and a network monitoring and management system
 for cyber threats have been built into the new SSOE 2 to enhance ICT security
 for our future-ready schools.</p>
-<p><strong>4. Creative solutions to manage ICT manpower demands</strong>
-</p>
+<h3>Creative solutions to manage ICT manpower demands</h3>
 <p>With the increasing digitisation of schools, there is a corresponding
 increase in the need for greater manpower support in schools.</p>
 <p>Bee Teck and team have to creatively balance this increased demand within
