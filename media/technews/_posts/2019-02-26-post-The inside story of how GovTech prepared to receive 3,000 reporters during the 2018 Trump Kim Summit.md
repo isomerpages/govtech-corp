@@ -13,7 +13,10 @@ variant: tiptap
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="Inside story of how govtech officers prepared for the kim trump summit" src="/images/technews/inside-story-of-how-govtech-officers-prepared-for-the-kim-trump-summit-part1.png">
 </div>
-<h3>TL:DR: Vietnam is gearing up for the second Trump-Kim Summit, scheduled for 27-28 February 2019. Find out how GovTech officers played a crucial role in the first Trump-Kim Summit in Singapore on 12 June 2018.</h3>
+<p>TL:DR: Vietnam is gearing up for the second Trump-Kim Summit, scheduled
+for 27-28 February 2019. Find out how GovTech officers played a crucial
+role in the first Trump-Kim Summit in Singapore on 12 June 2018.</p>
+<hr>
 <p>When American singer Katy Perry sang ‘Hot N Cold’, she could not have
 imagined that the lyrics of her song would be an apt description for the
 lead-up to a historic meeting between US president Mr Donald Trump and
