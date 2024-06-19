@@ -12,7 +12,9 @@ variant: tiptap
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="Software engineer working hard to solve technical issues" src="/images/technews/5_tips_to_help_you_get_started_with_coding.jpg">
 </div>
-<h3>Interested in building your own website or digital application but don’t know where to start? Here are some practical steps and useful resources to help you along.</h3>
+<p>Interested in building your own website or digital application but don’t
+know where to start? Here are some practical steps and useful resources
+to help you along.</p>
 <p>Let’s face it—in this digital age, some of the most useful languages you
 can learn aren’t meant for human-to-human communication. Rather, a ‘mother
 tongue’ that allows one to speak to computers, fluency in a programming
@@ -42,13 +44,13 @@ be: Where do I type in the code? To do this, you’ll need to download a
 code editor or integrated development environment (IDE) software. The difference
 between the two is that IDEs provide much greater functionality to compile
 and debug code in addition to just writing it.</p>
-<p>Code editors include&nbsp;<a href="https://atom.io/" class="editor-rtfLink" rel="noopener noreferrer nofollow" target="_blank">Atom</a>&nbsp;and&nbsp;
-<a href="http://brackets.io/" class="editor-rtfLink" rel="noopener noreferrer nofollow" target="_blank">Brackets</a>, many of which are free and open-source—excellent if you
-just want to try your hand at programming. IDEs, on the other hand, usually
-come with a price tag attached. Once again, knowing ‘what’ you want to
-develop will help you select the right tool for the job. Click here for
-a list of some popular&nbsp;<a href="https://www.keycdn.com/blog/best-ide" class="editor-rtfLink" rel="noopener noreferrer nofollow" target="_blank">IDEs</a>&nbsp;and
-what they’re suitable for.</p>
+<p>Code editors include&nbsp;<a href="https://atom.io/" class="editor-rtfLink" rel="noopener noreferrer nofollow" target="_blank">Atom</a>&nbsp;and <a href="http://brackets.io/" class="editor-rtfLink" rel="noopener noreferrer nofollow" target="_blank">Brackets</a>,
+many of which are free and open-source—excellent if you just want to try
+your hand at programming. IDEs, on the other hand, usually come with a
+price tag attached. Once again, knowing ‘what’ you want to develop will
+help you select the right tool for the job. Click here for a list of some
+popular&nbsp;<a href="https://www.keycdn.com/blog/best-ide" class="editor-rtfLink" rel="noopener noreferrer nofollow" target="_blank">IDEs</a>&nbsp;and what they’re
+suitable for.</p>
 <h4>3. Structure your learning</h4>
 <p>While it’s possible to learn to code just by watching YouTube videos,
 a proper course that takes you through fundamental concepts such as how
