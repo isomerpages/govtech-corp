@@ -38,8 +38,7 @@ to adopt MR technology to assist clinicians in their work and improve healthcare
 the computing experience and healthcare,” said Dr Simon Kos, Chief Medical
 Officer and Senior Director of Worldwide Health at Microsoft, who was speaking
 at the Asia Pacific MedTech Forum in Singapore on 7 November 2017.</p>
-<p><strong>Gazing into the future</strong>
-</p>
+<h3>Gazing into the future</h3>
 <p>Microsoft’s flagship MR device—the HoloLens—is already being deployed
 in hospitals around the world, said Dr Kos. Unlike a VR headset that completely
 immerses the user in a different world, the HoloLens allows the user to
@@ -62,8 +61,7 @@ clicking in the air.</p>
 <p>“When we think about what the future of computing look like… this is where
 we’re headed towards—more natural interactions with intelligent devices,”
 he said.</p>
-<p><strong>A mixed bag of applications</strong>
-</p>
+<h3>A mixed bag of applications</h3>
 <p>MR devices like the HoloLens have myriad uses in clinics and hospitals,
 starting with the education of medical students, said Dr Kos. Whereas in
 the past, human anatomy was taught using textbooks and plastic mannequins,
@@ -82,8 +80,7 @@ help them plan and even rehearse the entire procedure beforehand.</p>
 real time, CT and MRI images onto the patient, while they’re doing neurosurgery,
 to triangulate exactly where the pathology is,” said Dr Kos, emphasising
 how radically MR technology is changing healthcare.</p>
-<p><strong>Getting a grip on reality</strong>
-</p>
+<h3>Getting a grip on reality</h3>
 <p>As with most new technologies, MR devices in the medical arena are still
 rather pricey. This might raise concerns that only hospitals in more affluent,
 developed countries will have access to this technology.</p>
