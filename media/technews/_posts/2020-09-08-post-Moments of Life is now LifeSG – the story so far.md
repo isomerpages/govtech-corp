@@ -13,7 +13,6 @@ and enhanced version of the app formerly known as Moments of Life. At GovTech,
 we’re big believers in journaling, so instead of just sharing with you
 all the new features (there are plenty!), we thought we would also write
 about the process and the lessons we learned along the way.</p>
-<p></p>
 <div class="iframe-wrapper">
 <iframe style="max-width: 100%;" height="400" width="100%" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/optdiAV0Ukg?si=9cxW9HwPUnbiND2B"></iframe>
 </div>
@@ -63,7 +62,6 @@ easier.</p>
 <p>Of course, being simple to use is not enough reason for someone to use
 an app. To that end, we’ve focused on two things.</p>
 <h4>1. Relevance through Curation</h4>
-<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="Based on their selection and profile, the app will push out relevant information on LifeSG to citizens." src="/images/technews/Moments_of_Life_is_now_LifeSG_1.jpg">
 </div>
@@ -76,7 +74,6 @@ the app around their individual needs so they’ll find it relevant and useful
 to them.</p>
 <p>To make this happen, we’ve created a recommendation engine that pushes
 relevant information based on their profile and selected interests.</p>
-<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="LifeSG personalisation services like meeting a career coach" src="/images/technews/Moments_of_Life_is_now_LifeSG_2.jpg">
 </div>
@@ -87,7 +84,6 @@ a young child, they will also get info about the annual MOE Primary 1 registrati
 exercise when it is available.</p>
 <p>You get the idea.</p>
 <h4>2. One app, over 40 services</h4>
-<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="40+ services on the LifeSG app" src="/images/technews/Moments_of_Life_is_now_LifeSG_3.jpg">
 </div>
@@ -105,7 +101,6 @@ icons, citizens can now easily navigate to where they need to be.</p>
 for people of different life stages, whether it’s newly-weds, fresh grads
 or retirees.</p>
 <p>All in a matter of time!</p>
-<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="LifeSG providing citizens with the help they need during COVID-19" src="/images/technews/Moments_of_Life_is_now_LifeSG_4.jpg">
 </div>
@@ -116,8 +111,8 @@ changing. As tech folks, we’re used to constantly fixing, rewiring, experiment
 – and then repeating that all over again.</p>
 <p>So here’s how you can help us make the app even better for you:</p>
 <p>Try our new app, play with the features and give it a spin. Then let us
-know what could be better –&nbsp;<a href="https://go.gov.sg/lifesg-eservice-feedback" class="editor-rtfLink" rel="noopener noreferrer nofollow" target="_blank">you can send us your suggestions here</a>.</p>
+know what could be better.</p>
 <p>Because if there’s one thing we’ve learnt, it’s that user feedback is
 important. And in Singapore – everyone is a user of LifeSG.</p>
-<p>Sincerely, The LifeSG Development Team.</p>
+<p></p>
 <p></p>
