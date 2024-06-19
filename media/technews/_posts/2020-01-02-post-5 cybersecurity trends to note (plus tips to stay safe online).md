@@ -8,11 +8,12 @@ description: Learn about emerging cybersecurity threats and protective actions
   with insights from a GovTech cybersecurity analyst. Stay safe online! 🔒
 variant: tiptap
 ---
-<h3>At the rapidly evolving frontier of cybersecurity, it pays to have an understanding of the emerging threats and the protective actions that can be taken to mitigate them.</h3>
-<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="5 cybersecurity trends to note" src="/images/5_cybersecurity_trends_1.jpg">
 </div>
+<p>At the rapidly evolving frontier of cybersecurity, it pays to have an
+understanding of the emerging threats and the protective actions that can
+be taken to mitigate them.</p>
 <p>When Singapore rolled out its Digital Government Blueprint in June 2018,
 building reliable, secure and resilient systems was earmarked as a key
 priority. Aware of the risks from digitalising government systems—especially
