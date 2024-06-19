@@ -38,7 +38,7 @@ the Singapore government experienced its first hack—a web defacement—via
 a PHP vulnerability. The hackers were never caught,” Professor Yu said.
 This was just one of the many cyberattacks that Singapore experienced in
 the early days of the internet.</p>
-<h3><strong>On the shoulders of giants</strong></h3>
+<h3>On the shoulders of giants</h3>
 <p>The Singapore government was quick to understand these implications and
 moved swiftly to counter the security issues, Professor Yu noted.</p>
 <p>“In the late 1990s, it was the dotcom boom and we saw the start of commercial
@@ -65,7 +65,7 @@ key smart card for national identity, ten years ahead of time,” he explained.<
 security firm Gemplus R&amp;D (now Gemalto), for introducing him to elliptic
 curve cryptography, which requires smaller cryptographic keys compared
 to other existing methods at the time to ensure the same level of security.</p>
-<h3><strong>No looking back</strong></h3>
+<h3>No looking back</h3>
 <p>Asked about the limitations he faced in the development of IT infrastructure
 in general, Professor Yu said that “the biggest difference [between now
 and in the past] is ‘open source’ software and hardware, which are game
