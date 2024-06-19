@@ -11,7 +11,11 @@ variant: tiptap
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="Three key elements needed in IoT deployments" src="/images/technews/three-key-elements-you-need-in-iot-deployments-part1.png">
 </div>
-<h3>TL:DR: Sensors, connectivity and analytics are three key elements of IoT deployments. Mr Eric Yeo of SP Telecom shares how organisations can leverage shared connectivity infrastructure, security and edge computing to implement IoT solutions.</h3>
+<p>TL:DR: Sensors, connectivity and analytics are three key elements of IoT
+deployments. Mr Eric Yeo of SP Telecom shares how organisations can leverage
+shared connectivity infrastructure, security and edge computing to implement
+IoT solutions.</p>
+<hr>
 <p>Believe it or not, there are now more connected devices chatting on the
 internet than there are humans on Earth. The Internet of Things (IoT),
 first described in 1999, has seen a steady rollout in the past two decades
