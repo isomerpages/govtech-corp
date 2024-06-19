@@ -33,10 +33,7 @@ Cardon, chief executive officer, Katoen Natie; Ms Jacqueline Poh, chief
 executive, Government Technology Agency of Singapore (GovTech); and Dr
 Hee Limin, director of research, Centre for Liveable Cities. Veteran journalist
 and broadcaster Mr Teymoor Nabili moderated the session.</p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="In a truly smart city, the ‘smart’ part is invisible" src="/images/technews/in-a-truly-smart-city-the-smart-part-is-invisible-part-1.png">
-</div>
-<h3><strong>Riding the smart city wave</strong></h3>
+<h3>Riding the smart city wave</h3>
 <p>Novel as the idea of a smart city may be, there have already been several
 iterations of it, Professor Misra noted. The first wave of the smart city
 movement involved e-governance, where citizens could file their taxes digitally
@@ -58,7 +55,7 @@ levels.</p>
 because of the cost savings and operational efficiencies, but they also
 improve the liveability [of a city] because [citizens] actually derive
 benefits from it,” said Professor Misra.</p>
-<h3><strong>Invisible but incredible</strong></h3>
+<h3>Invisible but incredible</h3>
 <p>In its ideal form, a smart city delivers value to its citizens in subtle
 and intuitive ways. Like electricity that runs unnoticed through cables
 to power virtually every modern device, the best smart city technologies
@@ -81,7 +78,7 @@ save on costs.</p>
 <p>“The need for maintenance would also be conveyed through sensors, so you
 don’t even need to inform town councils about any problems arising,” Dr
 Hee quipped.</p>
-<h3><strong>Building public trust</strong></h3>
+<h3>Building public trust</h3>
 <p>While the upsides of a smart city are alluring, they come at a cost. Citizens
 are asked to volunteer something intimate, intangible and immensely valuable—their
 data. Concerns over data protection and privacy have thus surfaced.</p>
