@@ -12,7 +12,9 @@ variant: tiptap
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="GovTech UX designer explaining how user experience design can make or break digital products or services." src="/images/technews/How_user_experience_design_can_make_or_break_digital_products.jpg">
 </div>
-<h3>Beyond features and functions, user experience design can make or break digital products or services. Here’s what the experts had to say about the topic at GovTech’s STACK X: Experience Reimagined conference.</h3>
+<p>Beyond features and functions, user experience design can make or break
+digital products or services. Here’s what the experts had to say about
+the topic at GovTech’s STACK X: Experience Reimagined conference.</p>
 <p>On the surface, the world of software engineering and digital service
 development may seem like one ruled by cold logic and hard code. But simply
 creating something functional—say, an app that works the way it’s supposed
@@ -34,9 +36,8 @@ touchpoint of an experience”.</p>
 <p>This framework resonated with Mr Lim Eyung, director at GovTech and a
 speaker at the event. He noted that when GovTech begins to develop a digital
 product, it engages with internal and external stakeholders—and prospective
-end users—to create a&nbsp;<a href="https://www.tech.gov.sg/media/technews/how-to-build-service-blueprint-and-what-you-can-achieve-with-it" class="editor-rtfLink" rel="noopener noreferrer nofollow" target="_blank">service blueprint</a>&nbsp;to
-precisely map out every interaction between a citizen (or business) and
-the government.</p>
+end users—to create a&nbsp;service blueprint&nbsp;to precisely map out
+every interaction between a citizen (or business) and the government.</p>
 <p>“We are a little bit fixated about doing this before even a single code
 is developed. After that, we go through a few rounds of prototyping and
 testing, even creating a high-fidelity prototype so that we can better
