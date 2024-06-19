@@ -6,7 +6,7 @@ description: How does GovTech’s cybersecurity capabilities centre safeguard ou
   nation? Read more about Singapore’s cybersecurity strategy here.
 image: /images/About Us/Our capabilities/Our_capabilities_cybersecurity_compressed.jpg
 ---
-<h2>Safeguarding the government’s Information and Communications Technology &amp; Smart Systems</h2>
+<h2>Safeguarding the Government’s Information and Communications Technology &amp; Smart Systems</h2>
 <p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="GovTech capability centre for cybersecurity" src="/images/About Us/Our capabilities/Cybersecurity_banner.jpg">
@@ -16,8 +16,8 @@ image: /images/About Us/Our capabilities/Our_capabilities_cybersecurity_compress
 is a team of cybersecurity professionals, led by the Government Chief Information
 Security Officer, responsible for cybersecurity planning to operations,
 in delivering a trusted digital government for Singapore.</p>
-<p>Our mission is to secure government info communications technology and
-smart systems, and to respond swiftly to any cyberattack. We achieve this
+<p>Our mission is to secure government Info-Communications Technology and
+Smart Systems, and to respond swiftly to any cyber attack. We achieve this
 through the timely detection of cyber threats, developing cyber capabilities,
 and&nbsp;enhancing the public sector’s cybersecurity posture.</p>
 <ol data-tight="true" class="tight">
@@ -60,11 +60,11 @@ and systems.</div>
 </div>
 <div class="isomer-card">
 <div class="isomer-card-body">
-<div class="isomer-card-title">Enhancing government’s cybersecurity capabilities</div>
-<div class="isomer-card-description">We ensure the secure design of government systems and apps through trust-based
-architecture framework, and conduct security testing on these systems,
+<div class="isomer-card-title">Enhancing the government’s cybersecurity capabilities</div>
+<div class="isomer-card-description">We ensure the secure design of government systems and apps through the
+government trust-based architecture framework, and conduct security testing,
 through red-teaming, penetration-testing, and the Crowdsourced Vulnerability
-Disclosure Programme to quickly identify and remediate vulnerabilities.</div>
+Disclosure Programme, to quickly identify and remediate vulnerabilities.</div>
 </div>
 </div>
 <div class="isomer-card">
