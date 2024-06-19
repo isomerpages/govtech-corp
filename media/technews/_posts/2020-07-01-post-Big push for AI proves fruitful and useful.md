@@ -9,7 +9,6 @@ description: From AI in Covid-19 fight to smart meters for water conservation,
 variant: tiptap
 ---
 <h3>Artificial intelligence, smart sensors, and data science are increasingly vital to helping Singapore achieve its Smart Nation vision.</h3>
-<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="Big push for AI proves fruitful and useful" src="/images/technews/Big_push_for_AI_proves_fruitful_and_useful_1.jpg">
 </div>
@@ -58,9 +57,8 @@ or items that cover their foreheads. VigilantGantry can also be integrated
 with existing infrastructure such as gated entrances.</p>
 <p>Another key feature: Its thermal scanner is designed to be modular so
 that industries from the private sector can easily incorporate the technology
-and&nbsp;<a href="https://github.com/dsaidgovsg/vigilantgantry" class="editor-rtfLink" rel="noopener noreferrer nofollow" target="_blank">open-source software</a>&nbsp;into
-existing infrastructure, such as gated entrances of venues.</p>
-<p></p>
+and&nbsp;open-source software&nbsp;into existing infrastructure, such as
+gated entrances of venues.</p>
 <div class="iframe-wrapper">
 <iframe style="max-width: 100%;" height="400" width="100%" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/4quAADmKs40?si=qYq_HzGXMIhHvKPT"></iframe>
 </div>
@@ -80,7 +78,6 @@ first tested at NTUC Club’s Downtown East and has been deployed at several
 buildings, including the Supreme Court and Parliament House.</p>
 <p>The Islamic Religious Council of Singapore (Muis), Housing and Development
 Board and JTC Corporation have also used SPOTON for their operations.</p>
-<p></p>
 <div class="iframe-wrapper">
 <iframe style="max-width: 100%;" height="400" width="100%" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/q7LykdDqdFY?si=CKsGFU-cpwuy4_Uo"></iframe>
 </div>
@@ -93,7 +90,6 @@ has been raising eyebrows at Bishan-Ang Mo Kio Park.</p>
 <p>The robot named Spot first stepped foot in the park in May. Its job was
 to patrol and politely remind park-goers to observe a safe distance of
 at least 1m apart.</p>
-<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="GovTech enhanced the four-legged robot dog Spot with features such as remote control, 3D mapping and semi-autonomous operations" src="/images/technews/Big_push_for_AI_proves_fruitful_and_useful_2.jpg">
 </div>
@@ -122,7 +118,7 @@ representation of confirmed coronavirus cases with data analytics.</p>
 <p>The coronavirus clusters at night club Ce La Vi, Black Tap at Marina Bay
 Sands and Mustafa Centre were identified with the help of DSTA’s network
 analysis tool.</p>
-<h3><strong>O-R3 on watch at reservoirs</strong></h3>
+<h3>O-R3 on watch at reservoirs</h3>
 <p>For PUB’s reservoirs, there is O-R3. Developed by local technology company
 Otsaw, outdoor security robot O-R3 was originally part of a pilot trial
 by PUB to enhance monitoring and surveillance operations at its plants
@@ -143,7 +139,6 @@ messages to visitors of Bedok Reservoir and Pandan Reservoir.</p>
 <p>The Singapore Police Force’s (SPF) Multi-purpose All Terrain Autonomous
 Robot, or Matar, moves about autonomously and provides Police Command Centres
 with real-time surveillance via a 360-degree video feed.</p>
-<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="Matar patrolling quarantine and isolation facilities" src="/images/technews/Big_push_for_AI_proves_fruitful_and_useful_4.jpg">
 </div>
@@ -176,7 +171,6 @@ starting in 2021.</p>
 to track important data in real-time and receive updates.</p>
 <p>Users can track in real time their water usage via an online customer
 portal, and be alerted about high water consumption and potential leaks.</p>
-<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="Households in Punggol tested out the smart water meters as part of PUB’s first smart water meter pilot trial in 2016." src="/images/technews/Big_push_for_AI_proves_fruitful_and_useful_5.jpg">
 </div>
