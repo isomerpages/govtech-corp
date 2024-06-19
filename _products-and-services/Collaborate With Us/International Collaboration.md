@@ -158,7 +158,7 @@ at SCEWC underscores Singapore's role as a leader in urban innovation,
 striving to create a smarter and more connected urban environment.</p>
 <p>Interested to learn more? Check out the <a href="https://www.linkedin.com/feed/update/urn:li:activity:7128668518480318464/" rel="noopener noreferrer nofollow" target="_blank">showcases by our GovTechies</a> at
 the Expo.</p>
-<h3>Cybersecurity Group's delegations and forums</h3>
+<h3>Cybersecurity Engagements</h3>
 <p>GovTech <a href="/our-capabilities/cybersecurity/" rel="noopener noreferrer nofollow" target="_blank">Cybersecurity Group (CSG)</a> actively
 engages in international collaboration to strengthen our collective cyber
 defence. Our international engagements with foreign government agencies
