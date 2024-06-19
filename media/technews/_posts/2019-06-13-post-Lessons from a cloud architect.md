@@ -11,8 +11,12 @@ variant: tiptap
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="Lessons from a cloud architect - Mr Gregor Hohpe, former technical director in Google Cloud’s office of the CTO" src="/images/technews/Lessons_from_a_cloud_architect_1.jpg">
 </div>
-<h3>Cloud computing has revolutionised the way digital applications are being developed.</h3>
-<h4>Mr Gregor Hohpe, former technical director in Google Cloud’s office of the CTO, highlighted the importance of replaceability, resilience and requirements in cloud deployments, as well as the changing roles and responsibilities of cloud architects.</h4>
+<p>Cloud computing has revolutionised the way digital applications are being
+developed.</p>
+<p>Mr Gregor Hohpe, former technical director in Google Cloud’s office of
+the CTO, highlighted the importance of replaceability, resilience and requirements
+in cloud deployments, as well as the changing roles and responsibilities
+of cloud architects.</p>
 <p>In the past, being an architect meant planning and designing buildings
 for people to live, work, and play in. Fast-forward to our modern, digitalised
 world, and a different breed of architect has emerged. Rather than dabble
@@ -33,7 +37,6 @@ director in Google Cloud’s office of the CTO. He delivered a keynote speech
 about ‘What it means to be an architect in the cloud era’ at the STACK-X:
 Cloud seminar organised by the Government Technology Agency of Singapore
 (GovTech).</p>
-<p></p>
 <div class="iframe-wrapper">
 <iframe style="max-width: 100%;" height="400" width="100%" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/b75e1y2nFXc?si=f26OhzH-WyhedfYK"></iframe>
 </div>
@@ -79,7 +82,5 @@ but at the cashier, the final bill may amount to a hundred dollars [without
 you even realising it],” he explained. Therefore, cloud architects need
 to be more discerning in their choice of features to include in their cloud
 applications.</p>
-<p>If you want to know what more was shared about Cloud technology at the
-Smart Nation &amp; Digital Government Industry Briefing 2019, click&nbsp;
-<a href="https://www.tech.gov.sg/media/technews/soaring-high-with-commercial-cloud" class="editor-rtfLink" rel="noopener noreferrer nofollow" target="_blank">here</a>.</p>
+<p></p>
 <p></p>
