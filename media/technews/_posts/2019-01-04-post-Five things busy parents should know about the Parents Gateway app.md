@@ -11,7 +11,12 @@ variant: tiptap
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="Parents Gateway app" src="/images/technews/5-things-about-parents-gateway-part1.png">
 </div>
-<h3>TL:DR: Schools are dynamic places for learning and parents are important stakeholders in their children’s education. MOE and GovTech have thus launched the Parents Gateway mobile app as a one-stop platform for schools and parents to communicate more conveniently. Here are five ways the app can benefit busy parents.</h3>
+<p>TL:DR: Schools are dynamic places for learning and parents are important
+stakeholders in their children’s education. MOE and GovTech have thus launched
+the Parents Gateway mobile app as a one-stop platform for schools and parents
+to communicate more conveniently. Here are five ways the app can benefit
+busy parents.</p>
+<hr>
 <p>For busy parents, keeping up with their children’s schedules in school
 can be quite challenging. School children sometimes misplace consent forms
 or forget to get their parents to sign them, or parents may miss important
