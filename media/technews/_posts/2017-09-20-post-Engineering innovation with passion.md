@@ -16,7 +16,7 @@ and everyday life.</p>
 <p>Working hard behind the scenes to translate these ideas into real products
 are engineers — modern-day thinkers and tinkerers who seek technological
 solutions to society’s problems.</p>
-<p>Flashback to 2006 Singapore : A group of intrepid engineers from the National
+<p>Flashback to 2006 Singapore: A group of intrepid engineers from the National
 University of Singapore (NUS) band together to start HOPE Technik (HT),
 a company founded on the belief that Singapore can develop world-class
 products.</p>
@@ -34,8 +34,7 @@ on ‘Engineering the Innovation Economy’, a seminar held at the NTUC Centre
 on 3 August 2017.</p>
 <p>The talk was jointly organised by NTUC and General Assembly, an organisation
 that promotes education and strategic career connections.</p>
-<p><strong>It's about passion</strong>
-</p>
+<h3>It's about passion</h3>
 <p>While it may be exciting to embark on a new adventure, staying the course
 through difficult times takes passion.</p>
 <p>HT’s founders know this all too well, having forfeited nearly two years
@@ -53,8 +52,7 @@ in the HT workshop in the wee hours of the morning or during the weekend
 to create their own gizmos and gadgets.</p>
 <p>“At HT, we are always challenging each other to come up with new ideas
 and techniques,” he added.</p>
-<p><strong>Open to people and ideas</strong>
-</p>
+<h3>Open to people and ideas</h3>
 <p>There is a tendency for people within an organisation to become complacent
 and comfortable with ‘safe’ ideas, Mr Ng noted.</p>
 <p>Hence, to sustain an innovative culture, he emphasised the importance
@@ -62,7 +60,7 @@ of being open to people and concepts from external sources.</p>
 <p>“We have many tie-ups with tertiary institutions such as the universities,
 polytechnics and Institutes of Technical Education, so there’s always a
 healthy influx of new people who have many fresh ideas,” said Mr Ng.</p>
-<p>“Some of them can be bit naive, which is actually a good thing! They keep
+<p>“Some of them can be bit naïve, which is actually a good thing! They keep
 the rest of us on our toes and make things interesting.”</p>
 <p>Even as HT welcomes new faces to invigorate its own culture, its mentoring
 of students also benefits society.</p>
@@ -70,8 +68,7 @@ of students also benefits society.</p>
 it comes to “finding the bug in every design or problem,” said Mr Wu.</p>
 <p>By providing a training ground for students to cut their teeth on real-world
 projects, HT is helping to nurture the next generation of engineers.</p>
-<p><strong>Risky business</strong>
-</p>
+<h3>Risky business</h3>
 <p>Different companies have different risk appetites, and this affects their
 willingness to experiment and innovate.</p>
 <p>But firms should realise that in a climate of rapid disruption, keeping
@@ -98,11 +95,4 @@ such as those offered by SPRING Singapore.</p>
 <p>Such initiatives, combined with a culture that is more tolerant of failure,
 will hopefully inspire more Singaporean tech entrepreneurs to venture off
 the beaten track — and help to engineer an innovative Smart Nation.</p>
-<hr>
-<p>Photo credit:</p>
-<ol data-tight="true" class="tight">
-<li>
-<p>Images of Red Rhino and Spider drone courtesy of HOPE Technik website.</p>
-</li>
-</ol>
 <p></p>
