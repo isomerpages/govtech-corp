@@ -11,7 +11,8 @@ variant: tiptap
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="Outline of a city at night and how smart cities are built" src="/images/technews/govtech_expert_shares_challenges_and_considerations_of_building_a_smart_city_1.jpg">
 </div>
-<h3>Mr Christopher Tong, engineering project manager at GovTech, discusses the challenges and complexities of scaling smart city solutions.</h3>
+<p>Mr Christopher Tong, engineering project manager at GovTech, discusses
+the challenges and complexities of scaling smart city solutions.</p>
 <p>Dense clusters of buildings, sprawling infrastructure, and hordes of people
 do not a smart city make. To become truly ‘smart’, cities need to sense
 and respond to the needs of their denizens, and that ambition begins with
@@ -24,7 +25,6 @@ data that can be used for different applications,” said Mr Christopher
 Tong, engineering project manager at the Government Technology Agency of
 Singapore (GovTech), during a brown bag seminar held at GovTech’s Mapletree
 Business City headquarters.</p>
-<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="GovTech expert shares challenges and considerations of building a smart city" src="/images/technews/govtech_expert_shares_challenges_and_considerations_of_building_a_smart_city_2.jpg">
 </div>
