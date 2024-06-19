@@ -93,7 +93,7 @@ on Facebook.</div>
 <div class="isomer-card-grid">
 <div class="isomer-card">
 <div class="isomer-card-body">
-<div class="isomer-card-title">Tech kaki appreciation dinner — 27 June 2024</div>
+<div class="isomer-card-title">Tech Kaki Appreciation Dinner — 27 June 2024</div>
 <div class="isomer-card-description">This event is a gesture of appreciation for our most active members and
 their contributions to the Tech kaki community. Along with the dinner service,
 there will be sharing and activity sessions by the product and research
