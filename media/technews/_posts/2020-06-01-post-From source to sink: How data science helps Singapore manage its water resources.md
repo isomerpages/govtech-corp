@@ -96,9 +96,6 @@ of the main reasons we wanted to do this is because, in a public policy
 setting, we cannot afford large errors,” shared Dr Loke. “Water is a public
 good. Because of this, we have to be prudent in the way we go about making
 decisions.”</p>
-<p>For a more in-depth look at how the team created their model, check out
-this&nbsp;<a href="https://medium.com/dsaid-govtech/using-robust-optimization-and-mixed-integer-programming-to-manage-singapores-water-resources-a0b899afe601" class="editor-rtfLink" rel="noopener noreferrer nofollow" target="_blank">three-part Medium blog post</a>&nbsp;written
-by GovTech’s Mr Tan Kai Wei.</p>
 <p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="The team of PUB Engineers, from left to right: Hariharan s/o Ramasamy (Engineer, Joint Operations Department), Daniel John Tan (Engineer, Joint Operations Department), and Ashley Ng (Senior Planner, Policy and Planning Department)." src="/images/technews/From_source_to_sink_3.jpg">
