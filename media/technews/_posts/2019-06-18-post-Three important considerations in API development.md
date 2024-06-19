@@ -11,8 +11,10 @@ variant: tiptap
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="Application programming interfaces (APIs) are essential for the interoperability of digital services" src="/images/technews/3_important_considerations_in_API_development_1.jpg">
 </div>
-<h3>Application programming interfaces (APIs) are essential for the interoperability of digital services.</h3>
-<h4>The MyInfo team at GovTech encourages the tech community to keep standards, security and documentation in mind when developing APIs.</h4>
+<p>Application programming interfaces (APIs) are essential for the interoperability
+of digital services.</p>
+<p>The MyInfo team at GovTech encourages the tech community to keep standards,
+security and documentation in mind when developing APIs.</p>
 <p>You’re thinking about taking a holiday, but before you purchase your air
 tickets, you decide to use the fare aggregator website Skyscanner to get
 a sense of how much your flight may cost. Simply by keying in your desired
@@ -30,11 +32,11 @@ functionalities or features which can be embedded on a website.</p>
 <p>At the Government Technology Agency of Singapore (GovTech), we’re harnessing
 the power of APIs to create better government digital services for citizens
 and businesses.</p>
-<p>For example, when a citizen uses&nbsp;<a href="https://www.singpass.gov.sg/myinfo/common/aboutus" class="editor-rtfLink" rel="noopener noreferrer nofollow" target="_blank">MyInfo</a>&nbsp;to
-transact with the government, APIs are running in the background to extract
-and compile information from multiple data sources. Organisations are welcome
-to&nbsp;<a href="https://www.ndi-api.gov.sg/library/trusted-data/myinfo/introduction" class="editor-rtfLink" rel="noopener noreferrer nofollow" target="_blank">work with GovTech using our NDI {api} platform</a>&nbsp;to
-tap on MyInfo and collaborate with the government on other digital projects.</p>
+<p>For example, when a citizen uses&nbsp;MyInfo&nbsp;to transact with the
+government, APIs are running in the background to extract and compile information
+from multiple data sources. Organisations are welcome to&nbsp;work with
+GovTech using our NDI {api} platform&nbsp;to tap on MyInfo and collaborate
+with the government on other digital projects.</p>
 <p>If you are building an API library, the MyInfo team would recommend you
 consider these three important aspects.</p>
 <p></p>
