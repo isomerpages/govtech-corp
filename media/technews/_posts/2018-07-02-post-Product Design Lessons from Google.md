@@ -35,7 +35,7 @@ phone because it’s more affordable.”</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="product design lessons from google" src="/images/technews/product-design-lessons-from-google-part-2.png">
 </div>
-<h3><strong>Going beyond usability</strong></h3>
+<h3>Going beyond usability</h3>
 <p>Hailing from India, Mr Kumar began his career as a graphic designer. Employment
 in design and branding landed him stints at companies like Adobe and Designit
 before he arrived at Google in 2015, where he became the first designer
@@ -45,18 +45,18 @@ acronym for ‘user experience’—solutions for emerging internet markets.</p>
 for people,” Mr Kumar explained, noting that emotions and psychology are
 key elements of good UX design.</p>
 <p>He revealed that Google adopts design thinking when creating UX interfaces
-for its applications. This is put into practice during the <a href="https://www.gv.com/sprint/" rel="noopener noreferrer nofollow" target="_blank">Google Design Sprint</a>,
-a brainstorming methodology that typically lasts five days, during which
-a product team has to think through a problem, assess its possible solutions
-and emerge with a vetted solution ready to be handed over to design researchers
-who will then test the product on audiences.</p>
+for its applications. This is put into practice during the Google Design
+Sprint, a brainstorming methodology that typically lasts five days, during
+which a product team has to think through a problem, assess its possible
+solutions and emerge with a vetted solution ready to be handed over to
+design researchers who will then test the product on audiences.</p>
 <p>Mr Kumar emphasized that product designers and researchers are not the
 only stakeholders in the UX design process. Content editors make significant
 contributions by scrutinising text to make sure that instructions to users
 are clear and concise. At the same time, engineers are required to deal
 with the more technical aspects of the product. An interdisciplinary team
 bringing different perspectives to the table is what matters, he said.</p>
-<h3><strong>Success by design</strong></h3>
+<h3>Success by design</h3>
 <p>For the sceptic, design thinking may be nothing more than a novelty concept.
 But Mr Kumar has seen the approach bear fruit. As an example, he explained
 how Google tackled the problem of limited data storage on mobile phones
@@ -73,7 +73,7 @@ back-and-forth in joy as confetti explodes behind it.</p>
 <p>“People are deleting files more often to see this animation,” said Mr
 Kumar, emphasising how a simple UX design tweak could alter user behaviour
 and solve a perennial problem.</p>
-<h3><strong>Iterating with the help of user insights</strong></h3>
+<h3>Iterating with the help of user insights</h3>
 <p>While the blue marshmallow-like creature was a purely aesthetic feature,
 Google has devised other UX design elements that are inherently functional.
 Mr Kumar shared about a feature called ‘cash mode’ in its Tez app that
