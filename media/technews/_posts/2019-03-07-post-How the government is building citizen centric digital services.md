@@ -11,7 +11,10 @@ variant: tiptap
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="How the government is building citizen-centric digital services" src="/images/technews/how-the-government-is-building-citizen-centric-digital-services-part1.png">
 </div>
-<h3>Digitalisation has paved the way for new business models and better ways of doing things. Mr Kok Ping Soon, chief executive of the Government Technology Agency of Singapore, explained the approach that the Singapore government is taking to create digital services.</h3>
+<p>Digitalisation has paved the way for new business models and better ways
+of doing things. Mr Kok Ping Soon, chief executive of the Government Technology
+Agency of Singapore, explained the approach that the Singapore government
+is taking to create digital services.</p>
 <p>Prior to the invention of the internet, the time taken for technological
 products to reach 50 million users was measured in the span of multiple
 decades. It took 62 years for the number of car users to hit 50 million,
@@ -38,22 +41,17 @@ approach to digitalising its services for its citizens and businesses.</p>
 PDF and putting it online,” Mr Kok cautioned. Instead, it involves re-engineering
 back-end IT infrastructure so that the form could be made redundant.</p>
 <p>Such re-engineering is currently being undertaken by the Singapore government
-and spearheaded by GovTech, resulting in the <a href="https://www.tech.gov.sg/products-and-services/singapore-government-tech-stack/" rel="noopener noreferrer nofollow" target="_blank">Singapore Government Technology Stack (SGTS)</a>—a
-common platform for hosting services, sharing data and building applications.
-Whereas in the past, government IT architecture comprised monolithic systems
-with ministry-specific applications, the SGTS has different modules, akin
-to LEGO bricks, that can be pieced together to give rise to a variety of
-different digital services.</p>
+and spearheaded by GovTech, resulting in the Singapore Government Technology
+Stack (SGTS)—a common platform for hosting services, sharing data and building
+applications. Whereas in the past, government IT architecture comprised
+monolithic systems with ministry-specific applications, the SGTS has different
+modules, akin to LEGO bricks, that can be pieced together to give rise
+to a variety of different digital services.</p>
 <p>Importantly, with the SGTS, data can be shared easily between ministries
 when citizens grant their consent via MyInfo, a repository of government-verified
 personal information, said Mr Kok. In this way, a re-imagined back-end
 IT system has drastically reduced the need to fill in forms when transacting
 online.</p>
-<hr>
-<div class="iframe-wrapper">
-<iframe height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/Vt-r2vCqSh8"></iframe>
-</div>
-<p>---</p>
 <h3>Ahead in the cloud</h3>
 <p>Mr Kok also highlighted that the Singapore government is looking to tap
 on the commercial cloud to develop digital services. Partnering with leading
@@ -71,9 +69,8 @@ in mind? While commercial cloud providers do have robust cybersecurity
 measures in place, they should not be taken for granted when developing
 digital services.</p>
 <h3>Putting people first</h3>
-<p>Finally, referencing the <a href="https://www.tech.gov.sg/digital-government-blueprint/?utm_source=top_nav" rel="noopener noreferrer nofollow" target="_blank">Digital Government Blueprint</a> that
-was published in June 2018, Mr Kok reiterated the importance of “serving
-with heart”.</p>
+<p>Finally, referencing the Digital Government Blueprint that was published
+in June 2018, Mr Kok reiterated the importance of “serving with heart”.</p>
 <p>“This is where the primacy of citizens’ needs overwrites the sovereignty
 of an agency,” he noted. Rather than just develop a policy, then provide
 specifications for an IT system to translate the policy to operations,
