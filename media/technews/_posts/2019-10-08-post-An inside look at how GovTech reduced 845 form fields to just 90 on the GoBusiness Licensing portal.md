@@ -13,7 +13,8 @@ variant: tiptap
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="The GovTech team who helped build the GoBusiness Licensing portal" src="/images/technews/GoBusiness_Licensing_portal_1.jpg">
 </div>
-<h3>Get to know the GovTech team who helped build the GoBusiness Licensing portal, and learn about their challenges and triumphs along the way.</h3>
+<p>Get to know the GovTech team who helped build the GoBusiness Licensing
+portal, and learn about their challenges and triumphs along the way.</p>
 <p>So you’ve got a brilliant idea for a new business—you’ve done the sums,
 selected an ideal location for a shopfront, found the right partners and
 are raring to go. Your first hurdle?</p>
@@ -72,7 +73,6 @@ applications can be completed on the GoBusiness platform itself, and the
 information will be automatically disseminated to the right avenues by
 the system,” said Mr Jonathan Lee, product manager at GovTech.</p>
 <h3>Reducing 845 fields to 90</h3>
-<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="Creating a user flow chart to remove unnecessary steps and form fields to streamline the process" src="/images/technews/GoBusiness_Licensing_portal_2.jpg">
 </div>
@@ -88,9 +88,9 @@ and some of those methods may be a little bit old—what we call legacy systems,
 Mr Poh Quan Wei, technical product manager at GovTech, added. Hence, the
 challenge was to “service wrap” the legacy formats into a configuration
 that can be used by GoBusiness.</p>
-<p>In this aspect, GovTech’s&nbsp;<a href="https://www.tech.gov.sg/media/technews/getting-to-know-nectar-and-apex" class="editor-rtfLink" rel="noopener noreferrer nofollow" target="_blank">Application Programming Interface Exchange (APEX)</a>&nbsp;came
-in handy as a central repository of authorised and searchable application
-programming interfaces (APIs) for handling data transactions.</p>
+<p>In this aspect, GovTech’s&nbsp;Application Programming Interface Exchange
+(APEX)&nbsp;came in handy as a central repository of authorised and searchable
+application programming interfaces (APIs) for handling data transactions.</p>
 <p>The GovTech team also had to examine the logic of the fields that applicants
 need to fill in for each license. For example, one agency may require ‘name’
 and ‘surname’ to be input as two separate fields, while another agency
