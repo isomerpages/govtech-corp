@@ -29,7 +29,6 @@ team has to make sure that ALL devices can be detected by each other –
 not just the popular ones. To help with this, the team maintains a ‘device
 farm’ – a collection of over 100 different devices representing the majority
 of the devices used in Singapore by market share.</p>
-<p></p>
 <div class="iframe-wrapper">
 <iframe style="max-width: 100%;" height="400" width="100%" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/4H-_TZsrObA?si=ye6IVGrCbyaTHZWU"></iframe>
 </div>
@@ -52,7 +51,6 @@ it’s fortunate that they have the GovTech office at Sandcrawler! This space
 has a wide variety of different office layouts, and is divided into different
 zones, each simulating different types of areas that TraceTogether needs
 to operate in.</p>
-<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="The GovTech office as a testing ground for TraceTogether" src="/images/technews/tracetogethertest2.jpg">
 </div>
