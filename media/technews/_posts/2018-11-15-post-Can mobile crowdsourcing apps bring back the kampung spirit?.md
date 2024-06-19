@@ -85,7 +85,9 @@ neighbourhoods.</p>
 <p>“These mobile crowdsourcing capabilities serve not only the Smart Nation
 agenda, but also the desire to improve volunteerism in our communities,”
 Mr Hardi concluded.</p>
-<h3>About TRANS Grant</h3>
+<hr>
+<p><strong>About TRANS Grant</strong>
+</p>
 <p>This work is funded under the Translational R&amp;D Initiative (TRANS
 Grant), which taps on the research community to solve public sector challenges
 with innovative use of digital technology. This funding initiative is in
