@@ -10,12 +10,11 @@ description: Discover GovTech’s innovative temperature scanner solution blendi
 variant: tiptap
 ---
 <h3>This temperature scanner developed by GovTech’s Smart Nation Platform Solutions (SNPS) team combines hardware and software for the best of both worlds.</h3>
-<p></p>
 <div class="iframe-wrapper">
 <iframe style="max-width: 100%;" height="400" width="100%" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/q7LykdDqdFY?si=mjO02_e4HZA1xG7N"></iframe>
 </div>
-<p>While areas with low footfall can tap on&nbsp;<a href="https://www.tech.gov.sg/media/technews/how-gt-developed-fit-for-purpose-temperature-scanners-part-1" class="editor-rtfLink" rel="noopener noreferrer nofollow" target="_blank">GovTech’s self-service temperature scanner</a>&nbsp;and
-gated venues like libraries can quickly implement&nbsp;<a href="https://www.tech.gov.sg/media/technews/how-gt-developed-fit-for-purpose-temperature-scanners-part-2" class="editor-rtfLink" rel="noopener noreferrer nofollow" target="_blank">VigilantGantry</a>,
+<p>While areas with low footfall can tap on&nbsp;GovTech’s self-service temperature
+scanner&nbsp;and gated venues like libraries can quickly implement&nbsp;VigilantGantry,
 many other places must screen potentially large numbers of people with
 very little infrastructural support. Places like shopping malls and supermarkets,
 for example, are likely to see a high number of visitors despite the ongoing
@@ -29,7 +28,6 @@ be rapidly deployed.</p>
 <p>“Our solution is focused on three things: being able to do crowd temperature
 screening, real-time screening, and screening at a safe distance,” said
 Mr Chong Jiayi, the engineer who led the SNPS team in the project.</p>
-<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="Mr Chong Jiayi, the engineer who led the SNPS team in the project speaking in front of a camera." src="/images/technews/How_GovTech_developed_fit_for_purpose_temperature_scanners___Part_3.jpg">
 </div>
