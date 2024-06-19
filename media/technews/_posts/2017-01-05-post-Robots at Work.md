@@ -21,7 +21,7 @@ to a future where the Internet of Things is ubiquitous, and artificial
 intelligence and robotics are part of the fabric of daily life.</p>
 <p>Here is a rundown of three service and social robots already in action
 in Singapore.</p>
-<h3><strong>1. Techi, the Roving Housekeeping Robot</strong></h3>
+<h3>Techi, the Roving Housekeeping Robot</h3>
 <p>Techi, a service robot made by Techmetics, could certainly give Rosie
 from The Jetsons a run for its money. In the Hanna-Barbera cartoon series,
 Rosie is the sleek robot maid that does household chores for the futuristic
@@ -46,7 +46,7 @@ in the morning? It is on its way, with the tap of a button on a screen.</p>
 crew in July, a third robot has since joined the team.</p>
 <p>Techi #3—this one with eyes, upping its cute factor considerably—can deliver
 room service orders to guests.</p>
-<h3><strong>2. Emma, the Acupoint Therapy Robot</strong></h3>
+<h3>Emma, the Acupoint Therapy Robot</h3>
 <p>Feeling sore from your last workout?</p>
 <p>Emma to the rescue! Expert Manipulative Massage Automation is essentially
 a robotic arm which runs on proprietary software and uses acupoint therapy
@@ -76,7 +76,7 @@ while also contending with the need to consistently deliver high quality
 therapy.</p>
 <p>Rather than replacing sports massage therapists, it is hoped that Emma
 will allow them to instead treat multiple patients at a time.</p>
-<h3><strong>3. Nadine, the Robot Receptionist</strong></h3>
+<h3>Nadine, the Robot Receptionist</h3>
 <p>When was the last time you had a conversation with a robot?</p>
 <p>Meet friendly and intelligent Nadine, a social humanoid robot ‘receptionist’
 developed by a team at the Institute for Media Innovation at Nanyang Technological
