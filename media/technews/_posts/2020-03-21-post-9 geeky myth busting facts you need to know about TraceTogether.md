@@ -12,11 +12,11 @@ variant: tiptap
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="9 geeky myth-busting facts you need to know about TraceTogether" src="/images/technews/tt-myth.jpg">
 </div>
-<p><a href="https://www.tracetogether.gov.sg/" class="editor-rtfLink" rel="noopener noreferrer nofollow" target="_blank">TraceTogether</a>&nbsp;is a mobile
-app that supports Singapore’s efforts to mitigate the spread of COVID-19
-through community-driven contact tracing. Through the exchange of short-distance
-Bluetooth signals between mobile phones with the installed app, each phone
-can detect other participating TraceTogether phones that are in close proximity.</p>
+<p>TraceTogether&nbsp;is a mobile app that supports Singapore’s efforts to
+mitigate the spread of COVID-19 through community-driven contact tracing.
+Through the exchange of short-distance Bluetooth signals between mobile
+phones with the installed app, each phone can detect other participating
+TraceTogether phones that are in close proximity.</p>
 <p>Here’s a handy list of nine geeky facts you need to know about TraceTogether.</p>
 <h3>Myth #1 — The government uses the TraceTogether app to track or spy on citizens' whereabouts.</h3>
 <p>No, the TraceTogether app does not collect any location data, and there
@@ -33,9 +33,7 @@ only transmit signals within a range of about 10 meters. Using TraceTogether
 is no different from connecting other devices or wearables to your phone
 via Bluetooth. Ensure that your phone operating system is updated to use
 Bluetooth safely. It is difficult for anyone to get close enough to you
-and use a computer to extract information from your phone without you noticing.
-You can read more about the various security layers built into TraceTogether
-to keep your data private here: <a href="https://www.tracetogether.gov.sg/" rel="noopener noreferrer nofollow" target="_blank">https://go.gov.sg/tracetogether-privacy</a>.</p>
+and use a computer to extract information from your phone without you noticing.</p>
 <h3>Myth #3 — If I download TraceTogether and give consent to all in-app functions, I am essentially allowing the Ministry of Health (MOH) and the government to collect and gain access to all my personal data, as well as the data in my phone.</h3>
 <p>When you set up TraceTogether, you will only be asked for your mobile
 number. This is the only personal data that MOH will hold about you, and
@@ -70,7 +68,6 @@ phone. Given the app’s security and privacy safeguards, the risk of a data
 leak from your phone as a result of TraceTogether is very low. By downloading
 the app, you can tap on technology to enhance contact tracing – a key pillar
 of Singapore’s fight against COVID-19. The choice is yours to make.</p>
-<p></p>
 <div class="iframe-wrapper">
 <iframe style="max-width: 100%;" height="400" width="100%" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/buj8ZTRtJes?si=fCeXrH_4SbgvN43e"></iframe>
 </div>
@@ -93,8 +90,7 @@ of people you have been in contact with.</p>
 <h3>Myth #8 — Even after I uninstall the TraceTogether app, my mobile number and the randomised User ID will remain on the server forever.</h3>
 <p>Once TraceTogether is uninstalled or the app’s functionality disabled,
 all connection data collected on your phone will be lost. You can also
-request that your mobile number and User ID be removed from the server
-by sending an email to <a href="https://www.tracetogether.gov.sg/" rel="noopener noreferrer nofollow" target="_blank">support@tracetogether.gov.sg</a>.
+request that your mobile number and User ID be removed from the server.
 This immediately renders all data collected by other TraceTogether phones
 about their interactions with you meaningless because that data can no
 longer be associated with you.</p>
@@ -104,10 +100,4 @@ users to deactivate its functionality.</p>
 <p>The app uses about 1MB of data in a day, equivalent to the data used by
 watching 1 second of a high-definition movie, and consumes only marginally
 more battery than phones that already have Bluetooth enabled.</p>
-<p>If this set of information does not satisfy your geeky curiosity, please
-visit <a href="https://www.tracetogether.gov.sg/" rel="noopener noreferrer nofollow" target="_blank">https://tracetogether.zendesk.com/hc/en-sg</a> to
-read the full list of FAQs.</p>
-<p>If you are convinced now that the app can do more good than harm, download
-it from&nbsp;<a href="https://play.google.com/store/apps/details?id=sg.gov.tech.bluetrace&amp;hl=en" class="editor-rtfLink" rel="noopener noreferrer nofollow" target="_blank">Google Play</a>&nbsp;or
-the&nbsp;<a href="https://apps.apple.com/us/app/tracetogether/id1498276074" class="editor-rtfLink" rel="noopener noreferrer nofollow" target="_blank">App Store</a>&nbsp;and
-encourage everyone at home to do the same.</p>
+<p></p>
