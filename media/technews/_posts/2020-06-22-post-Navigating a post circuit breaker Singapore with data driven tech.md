@@ -24,12 +24,11 @@ words, though the circuit breaker period may be over, it’s no excuse to
 let our guard down. Practices that support public health, such as safe
 distancing, mask-wearing and even remote work, should still be maintained
 for the time being—and accepted as part and parcel of our new normal.</p>
-<p>Within a short matter of months, developments like&nbsp;<a href="https://www.tracetogether.gov.sg/" class="editor-rtfLink" rel="noopener noreferrer nofollow" target="_blank">TraceTogether</a>&nbsp;and&nbsp;
-<a href="https://www.safeentry.gov.sg/" class="editor-rtfLink" rel="noopener noreferrer nofollow" target="_blank">SafeEntry</a>&nbsp;have shown the potential of data-driven technology
-in helping us adjust to the changes brought about in our daily lives by
-COVID-19. To showcase some of these other data-driven solutions, the Government
-Technology Agency (GovTech) invited developers from three different projects
-to a&nbsp;<a href="https://www.tech.gov.sg/www.meetup.com/STACK-X-by-GovTech-Singapore/events/270783287/" class="editor-rtfLink" rel="noopener noreferrer nofollow" target="_blank">webinar</a>&nbsp;on
+<p>Within a short matter of months, developments like&nbsp;TraceTogether&nbsp;and&nbsp;
+SafeEntry&nbsp;have shown the potential of data-driven technology in helping
+us adjust to the changes brought about in our daily lives by COVID-19.
+To showcase some of these other data-driven solutions, the Government Technology
+Agency (GovTech) invited developers from three different projects to a&nbsp;webinar&nbsp;on
 28 May 2020 to discuss how their solutions address the challenges that
 could arise as Singapore safely reopens.</p>
 <h3>Staying vigilant</h3>
@@ -39,8 +38,8 @@ dedicated staff must still be deployed to analyse the temperature readings
 and take action if needed. Many smaller companies and organisations, however,
 cannot afford to delegate temperature screening due to manpower limitations.
 In addition, current temperature screening systems have been described
-as inefficient, even&nbsp;<a href="https://www.straitstimes.com/singapore/coronavirus-long-queues-formed-at-suntec-city-and-raffles-place-on-first-day-of" class="editor-rtfLink" rel="noopener noreferrer nofollow" target="_blank">causing long waiting times</a>&nbsp;and
-queues during their initial implementation.</p>
+as inefficient, even&nbsp;causing long waiting times&nbsp;and queues during
+their initial implementation.</p>
 <p>“When DORSCON Orange was first announced, and temperature screening was
 implemented, building owners told us that they faced issues with manpower
 and screening efficiency,” said Mr Delon Leonard, an AI engineer from the
@@ -49,23 +48,21 @@ video analytics team at the Data Science and Artificial Intelligence Division
 that could control entry across each screening station while minimising
 staff deployments.”</p>
 <p>That premise soon developed into the fully automated, contactless&nbsp;
-<a href="https://www.tech.gov.sg/media/technews/how-gt-developed-fit-for-purpose-temperature-scanners-part-2system" class="editor-rtfLink" rel="noopener noreferrer nofollow" target="_blank">VigilantGantry</a>, which combines a video camera, thermal sensor, and
-gantry system. Through its video analytics and artificial intelligence
-(AI) framework, the system checks for two things: first, whether a visitor’s
-face is sufficiently exposed to make an accurate measurement, and second,
-whether the visitor has a fever. Should either of these checks fail, the
-gantry will restrict access.</p>
+VigilantGantry, which combines a video camera, thermal sensor, and gantry
+system. Through its video analytics and artificial intelligence (AI) framework,
+the system checks for two things: first, whether a visitor’s face is sufficiently
+exposed to make an accurate measurement, and second, whether the visitor
+has a fever. Should either of these checks fail, the gantry will restrict
+access.</p>
 <p>By leveraging technology to assume the responsibilities of a human operator,
 VigilantGantry will help to solve their manpower crunch, said Mr Leonard.
 Currently, VigilantGantry is deployed at some institutes of higher learning
 and government agencies.</p>
-<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="With its video analytics capabilities, VigilantGantry can detect headgear, such as caps or helmets, that could obstruct temperature screening." src="/images/technews/Navigating_a_post_circuit_breaker_Singapore_2.jpg">
 </div>
-<p>With its video analytics capabilities, VigilantGantry can detect headgear,
-such as caps or helmets, that could obstruct temperature screening. (Photo
-credit: GovTech).</p>
+<p><em>With its video analytics capabilities, VigilantGantry can detect headgear, such as caps or helmets, that could obstruct temperature screening. (Photo credit: GovTech).</em>
+</p>
 <h3>A way around the crowds</h3>
 <p>Essential services have operated continuously throughout the COVID-19
 period in Singapore to meet people’s needs. These include many retail malls,
@@ -80,11 +77,10 @@ to go to avoid crowds before they head out. This can also help relieve
 some pressure popular retail outlets face in crowd management.</p>
 <p>“We collaborated with operators to bring together their crowd-level information
 of malls, supermarkets, markets, and post offices and made it available
-to the public through&nbsp;<a href="https://www.gov.sg/article/ending-circuit-breaker-phased-approach-to-resuming-activities-safely" rel="noopener noreferrer nofollow" target="_blank">www.SpaceOut.gov.sg</a>.
-This was designed to be an easy-to-use, map-based website that people can
-access on any digital device.” said Ms Jazreel Siew, a Systems Analyst
-at the Digital Planning Lab of the Urban Redevelopment Authority (URA)
-of Singapore.</p>
+to the public through Space Out. This was designed to be an easy-to-use,
+map-based website that people can access on any digital device.” said Ms
+Jazreel Siew, a Systems Analyst at the Digital Planning Lab of the Urban
+Redevelopment Authority (URA) of Singapore.</p>
 <p>The website shows both near-real time crowd level information for malls
 that are able to provide it, as well as analytics on recent trends of crowd
 levels. People can also easily search for less crowded options nearby.</p>
@@ -129,7 +125,6 @@ could inadvertently expose themselves to virus particles in the air.</p>
 Park, where it uses deep-learning algorithms developed by the SNPS team
 to detect if safe distancing is observed among visitors. The team is currently
 working to make the augmented Spot® fully autonomous.</p>
-<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="Spot®, the dog-like robot developed by Boston Dynamics." src="/images/technews/Navigating_a_post_circuit_breaker_Singapore_4.jpg">
 </div>
@@ -139,10 +134,4 @@ Boston Dynamics)</p>
 at the STACK-X: Meetup webinar exemplify how emerging problems can be proactively
 addressed by harnessing data and technology.</p>
 <p>To find out more about ongoing projects at GovTech—including the ones
-mentioned above—visit their&nbsp;<a href="https://www.developer.gov.sg/" class="editor-rtfLink" rel="noopener noreferrer nofollow" target="_blank">Developer Portal</a>.
-For readers who are looking to contribute to Singapore’s digital efforts
-against COVID-19,&nbsp;<a href="https://www.developer.gov.sg/covid-volunteering/" class="editor-rtfLink" rel="noopener noreferrer nofollow" target="_blank">volunteer</a>&nbsp;and&nbsp;
-<a href="https://govtech.taleo.net/careersection/govtech_external/jobsearch.ftl" class="editor-rtfLink" rel="noopener noreferrer nofollow" target="_blank">career opportunities</a>&nbsp;are also available. Click on the respective
-links to find out more.</p>
-<p>Missed the webinar? Click&nbsp;<a href="https://www.youtube.com/watch?v=-wtORFpvFCg&amp;feature=youtu.be" class="editor-rtfLink" rel="noopener noreferrer nofollow" target="_blank">here</a>&nbsp;to
-watch the recording and stay updated on future STACK-X: Meetups <a href="https://go.gov.sg/meetup" class="editor-rtfLink" rel="noopener noreferrer nofollow" target="_blank">here</a>.</p>
+mentioned above—visit the&nbsp;<a href="https://www.developer.gov.sg/" class="editor-rtfLink" rel="noopener noreferrer nofollow" target="_blank">Developer Portal</a>.</p>
