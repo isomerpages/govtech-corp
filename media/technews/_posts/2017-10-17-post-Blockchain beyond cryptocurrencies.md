@@ -33,7 +33,7 @@ Asia.</p>
 <p>The panellists, who represented a variety of economic sectors, shared
 compelling use cases for blockchains, and how the technology is being deployed
 in testbed or full-fledged initiatives.</p>
-<h3><strong>Just do it</strong></h3>
+<h3>Just do it</h3>
 <p>Known as an ‘immutable ledger’, blockchain technology is essentially a
 decentralised database stored on a 7,000-node global network.</p>
 <p>Hence, any transaction logged on the blockchain becomes part of a permanent
@@ -43,7 +43,7 @@ that lends itself well to any process requiring trust.</p>
 <p>Ironically, some institutions and enterprises may shy away from blockchain
 technology on the account that it is a relatively young innovation — the
 full benefits and risks of blockchains remain largely unexplored.</p>
-<p>Nonetheless, the panellists felt that a fear of possible downsides should
+<p>Nonetheless, the panelists felt that a fear of possible downsides should
 not be paralysing: In the context of imperfect knowledge, the best way
 forward would be to learn through experimentation.</p>
 <p>“Regarding blockchains, MAS has adopted the stance of policymaking through
@@ -63,9 +63,9 @@ to “start thinking about the customer instead of the technology”.</p>
 and protect something about me,” said Mr Zaman.</p>
 <p>“The question that we should then ask is: how can we reduce friction in
 the customer’s journey?”</p>
-<h3><strong>Winning by twinning</strong></h3>
+<h3>Winning by twinning</h3>
 <p>No matter the industry, leveraging blockchains involves the concept of
-a digital representation of a physical object, agreed the panellists.</p>
+a digital representation of a physical object, agreed the panelists.</p>
 <p>“If we’re able to take a digital thumbprint of objects and effectively
 mark them in the blockchain, it would help solve some of the problems of
 fraud; how documents concerning proof of ownership and proof of value are
@@ -89,7 +89,7 @@ and blockchains together,” said Mr Treat.</p>
 <p>He noted that in addition to being exclusively personal, a digital identity
 has to be portable, private and persistent. Hence, blockchains are an ideal
 platform to host personal information.</p>
-<p>Given the slow but certain maturation of blockchain technology, the panellists
+<p>Given the slow but certain maturation of blockchain technology, the panelists
 concurred that the day would come when people would not need to fully understand
 blockchains to be able to benefit from them.</p>
 <p>“How many of us actually know how the internet works?” asked Mr Mohanty.</p>
