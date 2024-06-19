@@ -12,7 +12,9 @@ variant: tiptap
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="GovTech is introducing a new procurement framework to increase the flexibility of collaboration with partners." src="/images/technews/3_new_ways_to_partner_with_GovTech.jpg">
 </div>
-<h3>Procurement procedures typically set out rigid specifications and timelines for industry partners to fulfil. GovTech is introducing a new procurement framework to increase the flexibility of collaboration with partners.</h3>
+<p>Procurement procedures typically set out rigid specifications and timelines
+for industry partners to fulfil. GovTech is introducing a new procurement
+framework to increase the flexibility of collaboration with partners.</p>
 <p>A Government technology procurement process typically goes like this:
 an agency raises a tech need, goes through a process to source for the
 right solution and awards to industry partners that are selected based
