@@ -93,7 +93,6 @@ to the demand for skilled cybersecurity professionals.</p>
 but also people we hold dear. It’s a career that is both future-proof and
 meaningful. What’s there not to like?</p>
 <h4>Q: What are some free learning resources you’ll recommend?</h4>
-<p>For programming-related resources, try&nbsp;<a href="https://www.edx.org/" rel="noopener noreferrer nofollow" target="_blank">edX</a> and for cybersecurity, check out&nbsp;
-<a href="https://tryhackme.com/" class="editor-rtfLink" rel="noopener noreferrer nofollow" target="_blank">try hack me</a>.</p>
-<h4>Career Opportunities for Students: If you are interested in starting a career with GovTech, check out our&nbsp;<a href="http://tech.gov.sg/careers/students-and-graduates/" class="editor-rtfLink" rel="noopener noreferrer nofollow" target="_blank">Campus Recruitment Programmes</a>.</h4>
+<p>For programming-related resources, try&nbsp;<a href="https://www.edx.org/" rel="noopener noreferrer nofollow" target="_blank">edX</a> and for cybersecurity, check out <a href="https://tryhackme.com/" class="editor-rtfLink" rel="noopener noreferrer nofollow" target="_blank">try hack me</a>.</p>
+<h4></h4>
 <p></p>
