@@ -34,7 +34,6 @@ would also have to submit copies of academic results, certificates, transcripts,
 or testimonials, with one set of these documents required for each application.
 Multiply this by three applications, and parents had a mountain of paperwork
 to sort through.</p>
-<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="Ryan Zhuang and Agnes Ong, GovTech’s applications consultants at the Ministry of Education’s Information Technology Division (MOE ITD)" src="/images/technews/Redesigning_the_school_admission_portal_for_better_user_centricity_2.jpg">
 </div>
