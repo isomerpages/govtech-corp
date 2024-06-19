@@ -51,8 +51,7 @@ and stores client information gathered from the VWOs.</p>
 collates and stores client information gathered from the VWOs. As privacy
 is a key concern, only those who are servicing the client will be granted
 access to their particular data.</p>
-<p><strong>OVERCOMING CHALLENGES</strong>
-</p>
+<h3>Overcoming Challenges</h3>
 <p>Still, admits Christina, the team faced plenty of obstacles, such as getting
 buy-in from VWOs and helping them to understand the technology behind the
 system.</p>
@@ -75,8 +74,8 @@ has.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="photo" src="/images/technews/tech-for-good-how-tech-is-transforming-social-services-in-singapore-part-3.jpg">
 </div>
-<p><sub>Christina's team knows the importance of listening and understanding the condition of the VWOs before coming up with a possible solution.</sub>
-</p>
+<p>Christina's team knows the importance of listening and understanding the
+condition of the VWOs before coming up with a possible solution.</p>
 <p>Christina credits her team, which is made up of “very adaptable folks”
 comprising seasoned and experienced members as well as new recruits who
 have many fresh ideas.</p>
@@ -140,8 +139,7 @@ says.</p>
 <p>“The app is nothing fancy, just a simple attendance registration system.
 But the senior citizens were so happy just to complete it and hear the
 sound. To me, seeing that joy on their faces is what keeps me going.”</p>
-<p><strong>HAVING A HEART FOR THE NEEDY</strong>
-</p>
+<h3>Having a heart for the needy</h3>
 <p>Speaking to Christina, you would find someone who is bubbly and optimistic,
 a people–person. But one major incident she experienced made her realise
 how fragile life is, and reinforced her belief in doing more meaningful
