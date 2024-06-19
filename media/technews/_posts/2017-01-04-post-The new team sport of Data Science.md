@@ -10,6 +10,8 @@ description: ""
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="The new team sport of Data Science" src="/images/technews/the-new-team-sport-of-data-science-part-1.png">
 </div>
+<p><em>Image credit: Microsoft Singapore</em>
+</p>
 <p>It takes teamwork to win in football and basketball – and in data too.</p>
 <p>Data science is a team sport, and companies should harness the knowledge
 of many parties to enable impact.</p>
@@ -26,7 +28,8 @@ Executive of GovTech, and Professor Lakshminarayanan Samavedham, Master
 of Residential College 4 at NUS, were also keynote speakers.</p>
 <p>As expected, Data was all the rage at the Summit.</p>
 <p>Mr Chan spoke about the use of data science in the public sector in Singapore,
-and also shared with the crowd a real-life, <a href="https://www.tech.gov.sg/technews/digitalgov/2016/12/rogue-train-a-big-data-story" rel="noopener noreferrer nofollow" target="_blank">data-driven solution to the recent Circle Line disruptions</a>.</p>
+and also shared with the crowd a real-life, data-driven solution to the
+recent Circle Line disruptions.</p>
 <p>Professor Lakshminarayanan, on the other hand, introduced the work that
 Residential College 4 is doing on systems thinking and design, and its
 relevance to the data science community.</p>
@@ -38,8 +41,8 @@ solutions — using the Microsoft Cortana Intelligence Suite — to predict
 the number of fatalities in traffic accidents in which drunk drivers played
 a role.</p>
 <p>(Editor: GovTech’s very own DevOps Engineer, Lim Zui Young, emerged runner-up
-in the Hackathon. You can check out <a href="https://www.tech.gov.sg/technews/upclose/2016/12/an-inclusive-visit" rel="noopener noreferrer nofollow" target="_blank">another story about Zui Young here</a>.)</p>
-<h3><strong>Transforming, digitally</strong></h3>
+in the Hackathon.)</p>
+<h3>Transforming digitally</h3>
 <p>The topic of digital transformation was also prominent in Ms Tan’s keynote
 speech.</p>
 <p>She described four areas in which businesses can experience an impact
@@ -69,7 +72,7 @@ reduced cooling costs.</p>
 employees and allow them to perform even better, Ms Tan said.</p>
 <p>For example, DBS Bank is using Microsoft’s collaborative services to enable
 their employees to connect with each other and share ideas.</p>
-<h3><strong>Driving Change</strong></h3>
+<h3>Driving Change</h3>
 <p>And finally, businesses are also using data and technology to engage with
 their customer, with the aim of improving their experience, she said.</p>
 <p>Here, real estate developer CapitaLand Limited has been using conversational
@@ -96,12 +99,4 @@ for those involved.</p>
 <p>Ms Tan ended by sharing a quote from Microsoft CEO Satya Nadella that
 can possibly apply to sports teams too: “When you change the way you see
 the world, you change the world you see.”</p>
-<hr>
-<p>Photo credit:</p>
-<ol data-tight="true" class="tight">
-<li>
-<p>Main image (top photo) and some photos in the teaser image courtesy of
-Microsoft Singapore.</p>
-</li>
-</ol>
 <p></p>
