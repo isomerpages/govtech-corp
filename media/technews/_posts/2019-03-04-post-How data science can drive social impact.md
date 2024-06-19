@@ -11,7 +11,12 @@ variant: tiptap
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="data science drive social impact" src="/images/technews/how-data-science-can-drive-social-impact-part1.png">
 </div>
-<h3>TL;DR: Sharing the benefits of scientific advancement is a universal human right. While data and artificial intelligence are a boon for driving social causes, they are not uniformly accessible to governments and organisations. Mr Tariq Khokhar, managing director and senior data scientist of the Rockefeller Foundation, shares some strategies to level the playing field.</h3>
+<p>TL;DR: Sharing the benefits of scientific advancement is a universal human
+right. While data and artificial intelligence are a boon for driving social
+causes, they are not uniformly accessible to governments and organisations.
+Mr Tariq Khokhar, managing director and senior data scientist of the Rockefeller
+Foundation, shares some strategies to level the playing field.</p>
+<hr>
 <p>More than 70 years ago, the <a href="https://www.ohchr.org/EN/UDHR/Documents/UDHR_Translations/eng.pdf" rel="noopener noreferrer nofollow" target="_blank">Universal Declaration of Human Rights</a> was
 drafted by a group of international representatives, defining the fundamental
 human rights that need to be protected across the globe. Alongside the
