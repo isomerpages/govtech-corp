@@ -12,8 +12,11 @@ variant: tiptap
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="Hacks to land a great job via MyCareersFuture portal" src="/images/technews/6_hacks_to_land_a_great_job_via_MyCareersFuture_sg_1.jpg">
 </div>
-<h3>The&nbsp;<a href="https://www.mycareersfuture.sg/" rel="noopener noreferrer nofollow" target="_blank">MyCareersFuture.sg</a><a href="https://www.mycareersfuture.sg/" class="editor-rtfLink" rel="noopener noreferrer nofollow" target="_blank"> portal</a>&nbsp;has been upgraded with new features to make job hunting and hiring more efficient.</h3>
-<h4>We spoke with our GovTechies, who worked on the portal and found insider tips on how to increase the chances of finding that ideal match in a competitive job market.</h4>
+<p>The&nbsp;MyCareersFuture.sg portal&nbsp;has been upgraded with new features
+to make job hunting and hiring more efficient.</p>
+<p>We spoke with our GovTechies, who worked on the portal and found insider
+tips on how to increase the chances of finding that ideal match in a competitive
+job market.</p>
 <p>Everybody wants to land their dream job and build a career in the profession
 of their choice. To help match citizens with their ideal roles in companies,
 Workforce Singapore, in collaboration with the Government Technology Agency
