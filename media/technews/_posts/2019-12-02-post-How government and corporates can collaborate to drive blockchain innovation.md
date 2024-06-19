@@ -12,7 +12,9 @@ variant: tiptap
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="Panel of experts discuss key issues at SFF x SWITCH 2019" src="/images/technews/Government_and_Corporates_Can_Collaborate_to_Drive_Blockchain_innovation.jpg">
 </div>
-<h3>At SFF x SWITCH 2019, a panel of experts discussed how blockchain could be used to enable everything from digital identity to cross-border trade in the context of a smart nation.</h3>
+<p>At SFF x SWITCH 2019, a panel of experts discussed how blockchain could
+be used to enable everything from digital identity to cross-border trade
+in the context of a smart nation.</p>
 <p>Better known as the technology underlying Bitcoin transactions, blockchain
 is coming into its own with numerous applications emerging across a wide
 swathe of industry sectors. Serving as a permanent and tamper-resistant
@@ -70,7 +72,7 @@ The more players [there are operating on a blockchain], the more effective
 it is,” he quipped.</p>
 <h3>Unlocking new opportunities</h3>
 <p>If implemented correctly, blockchain-based projects can have a much larger
-impact than initially anticipated, Mr Koh added. He highlighted <a href="https://www.tech.gov.sg/media/technews/with-this-blockchain-based-platform-you-may-no-longer-need-physical-certificates" class="editor-rtfLink" rel="noopener noreferrer nofollow" target="_blank">OpenCerts</a>,
+impact than initially anticipated, Mr Koh added. He highlighted OpenCerts,
 a blockchain-based platform used to digitise and verify educational credentials,
 which was developed as a collaborative project between GovTech and the
 Ministry of Education of Singapore.</p>
