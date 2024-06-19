@@ -139,6 +139,5 @@ empowered nation and redefine the future of government operations and services
 in Singapore. By humanising the front end, engaging the community and modernising
 the back end, we will re-engineer the Government’s operating system to
 create better services for citizens and businesses.”</p>
-<p><em>*This article is the last of a five-part series by GovTech on the re-engineering of the Government’s operating system to provide faster and better public services.</em>
-</p>
+<p></p>
 <p></p>
