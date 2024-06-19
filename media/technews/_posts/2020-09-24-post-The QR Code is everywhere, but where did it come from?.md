@@ -9,7 +9,6 @@ description: Learn the fascinating origin story of QR codes and how they evolved
 variant: tiptap
 ---
 <h3>We know the drill by now: before entering any shop/restaurant/building, whip out your smartphone, look for the SafeEntry QR code, scan it, enter your personal particulars, and finally tap 'check-in'.</h3>
-<p></p>
 <div class="iframe-wrapper">
 <iframe style="max-width: 100%;" height="400" width="100%" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/cswo_6kj0Ug?si=sA0SCLvj_njBoG1f"></iframe>
 </div>
@@ -109,5 +108,4 @@ The system is vital in ensuring that contact tracers can do their jobs
 even as Singapore progressively reopens and people-to-people interactions
 inevitably increase.</p>
 <p>So when you’re out and about, whip out your smartphone and do your part.</p>
-<h4>Oh, and don’t forget to check-out. ;)</h4>
 <p></p>
