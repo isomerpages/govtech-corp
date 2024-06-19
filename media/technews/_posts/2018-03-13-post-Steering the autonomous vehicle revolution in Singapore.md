@@ -44,7 +44,7 @@ nuTonomy; Mr Lam Wee Shann, group director, technology and industrial developmen
 Land Transport Authority; Ms Annabella Ng, government affairs lead, Grab;
 and Mr Mahesh Tanwani, director of engineering–automated driving at automotive
 parts technology company Aptiv.</p>
-<h3><strong>Plugging gaps in public transportation</strong></h3>
+<h3>Plugging gaps in public transportation</h3>
 <p>Moving people around can be a challenge in land-scarce and population-dense
 Singapore. This means that the strategic deployment of a variety of transport
 systems is essential, and AVs are expected to complement existing modes
@@ -65,7 +65,7 @@ nearest transit station, for instance, from their homes to the MRT station.</p>
 want to pick them up for short trips, and this is because the driver doesn’t
 feel the journey is worth it,” explained Ms Ng. AVs can help bridge this
 gap in demand and supply, she said.</p>
-<h3><strong>Mixed feelings about mixed environments</strong></h3>
+<h3>Mixed feelings about mixed environments</h3>
 <p>In addition to matching demand with supply, another compelling reason
 to use AVs is that they lower the likelihood of accidents due to human
 error. According to a McKinsey report, traffic accidents could be reduced
@@ -84,7 +84,7 @@ for carrying out such realistic trials. “The traffic on those roads is
 relatively light, but there are all kinds of traffic situations, such as
 jaywalkers, traffic junctions, non-signalised junctions, personal mobility
 devices such as motorised scooters, and pedestrians,” he said.</p>
-<h3><strong>Arriving safe and sound</strong></h3>
+<h3>Arriving safe and sound</h3>
 <p>To enable AVs to react to myriad traffic scenarios, technical expertise
 is required to optimise sensors and operating systems. Above all, the safety
 of passengers and other road users must be assured, said the speakers.</p>
