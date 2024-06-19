@@ -11,7 +11,8 @@ variant: tiptap
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="How tech is changing the way Singapore manages parks and gardens" src="/images/technews/how-tech-is-changing-the-way-singapore-manages-parks-and-gardens-part1.png">
 </div>
-<h3>Find out how technology is changing the way parks and gardens are maintained and start learning more about our green spaces through mobile apps.</h3>
+<p>Find out how technology is changing the way parks and gardens are maintained
+and start learning more about our green spaces through mobile apps.</p>
 <p>With a global reputation for being a biophilic City in a Garden, Singapore
 goes to great lengths to balance nature and rapid urbanisation. Built-up
 as the city state may be, it boasts more than 3,347 hectares of nature
@@ -32,7 +33,7 @@ Singapore Botanic Gardens.</p>
 digitalisation, data and even drones are helping to protect and promote
 nature in Singapore.</p>
 <div class="iframe-wrapper">
-<iframe height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/kzFvp37s8Mg"></iframe>
+<iframe style="max-width: 100%;" height="400" width="100%" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/kzFvp37s8Mg"></iframe>
 </div>
 <h3>Inspection &amp; Maintenance</h3>
 <p><strong>Resistograph</strong>
@@ -132,9 +133,8 @@ coral dispersal.</p>
 <p>Caring for nature cannot be left to the authorities alone. Hence, NParks
 is using mobile apps to educate citizens about nature and get them involved
 in conservation efforts. The SGBioAtlas app, free to download from the
-<a href="https://itunes.apple.com/sg/app/sgbioatlas/id975080923?mt=8" rel="noopener noreferrer nofollow" target="_blank">App Store</a>or <a href="https://play.google.com/store/apps/details?id=sg.gov.nparks.BiodiversityApp&amp;hl=en_SG" rel="noopener noreferrer nofollow" target="_blank">Google Play Store</a>,
-allows citizens to take photos of flora and fauna around Singapore and
-submit those images to NParks for identification.</p>
+App Storeor Google Play Store, allows citizens to take photos of flora
+and fauna around Singapore and submit those images to NParks for identification.</p>
 <p>“This is a win-win situation because not only do citizens learn about
 the organisms sharing their environment, but at the same time, NParks gathers
 data about the location and frequency of interesting sightings,” Mr Shee
