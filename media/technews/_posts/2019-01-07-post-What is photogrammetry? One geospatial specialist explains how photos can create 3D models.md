@@ -12,7 +12,12 @@ variant: tiptap
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="What is photogrammetry?" src="/images/technews/what-is-photogrammetry-part1.png">
 </div>
-<h3>TL:DR: 3D models are very useful for understanding physical space. Using digital photogrammetry, photographs can be stitched together to create an accurate digital replica of a real-world structure or location. Mr Quek Junjie, associate geospatial specialist at GovTech’s Geospatial Specialist Office, shares his insights on the technology.</h3>
+<p>TL:DR: 3D models are very useful for understanding physical space. Using
+digital photogrammetry, photographs can be stitched together to create
+an accurate digital replica of a real-world structure or location. Mr Quek
+Junjie, associate geospatial specialist at GovTech’s Geospatial Specialist
+Office, shares his insights on the technology.</p>
+<hr>
 <p>If a picture paints a thousand words, then a three-dimensional (3D) model
 of an object or space is bound to tell an even more compelling story. Using
 software to stitch together photographs of a location taken from different
