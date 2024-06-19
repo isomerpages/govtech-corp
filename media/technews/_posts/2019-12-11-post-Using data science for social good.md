@@ -11,8 +11,12 @@ variant: tiptap
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="Public officers who took part in the Data Arcade Tournament 2019" src="/images/technews/Using_data_science_for_social_good_1.jpg">
 </div>
-<h3>Hundreds of public officers took part in the Data Arcade Tournament 2019, the second year running of the visual analytics competition within the Singapore Public Service.</h3>
-<h4>The competition concluded with a 5-hour live hackathon with finalist teams presenting their insights that could promote volunteerism and philanthropy in Singapore.</h4>
+<p>Hundreds of public officers took part in the Data Arcade Tournament 2019,
+the second year running of the visual analytics competition within the
+Singapore Public Service.</p>
+<p>The competition concluded with a 5-hour live hackathon with finalist teams
+presenting their insights that could promote volunteerism and philanthropy
+in Singapore.</p>
 <p>A picture says a thousand words. This is indeed true with visual analytics.
 Rather than overwhelm our audience with paragraphs of text and tables with
 multiple rows and columns, visual analytics allows us to tell our stories
@@ -43,9 +47,9 @@ akin to an Iron Chef competition where the key ingredient is revealed only
 on the spot.</p>
 <p>This year, the National Volunteer and Philanthropy Centre (NVPC) kindly
 provided the dataset for the finals using anonymised data drawn from the
-portal <a href="http://giving.sg" rel="noopener noreferrer nofollow" target="_blank">giving.sg</a>.
-The teams were encouraged to find insights on how NVPC could grow the pool
-of donors and volunteers and how to keep them more active.</p>
+portal Giving SG. The teams were encouraged to find insights on how NVPC
+could grow the pool of donors and volunteers and how to keep them more
+active.</p>
 <p>TechNews caught up with the winning teams from the Land Transport Authority
 (LTA) and Ministry of Manpower (MOM) to learn about the insights they gleaned
 from the datasets and the lessons they learned from using the visual analytics
@@ -67,7 +71,6 @@ Hui Xian, also from the LTA team, said that the lack of time had restricted
 the depth of the analysis they could conduct. Nonetheless, there may be
 opportunities to explore that depth further, as Ms Wang noted that NVPC
 has expressed interest in collaborating with her team in the future.</p>
-<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="Public officers from different agencies working together for the Data Arcade Tournament 2019" src="/images/technews/Using_data_science_for_social_good_2.jpg">
 </div>
@@ -90,7 +93,6 @@ the capabilities of data visualisation in their work. “We may explore data
 visualisation as part of the data literacy programme we have been developing
 at MOM to empower others to use and work with data more efficiently,” said
 Ms Lee.</p>
-<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="Public officers from different agencies working together during the Data Arcade Tournament 2019" src="/images/technews/Using_data_science_for_social_good_3.jpg">
 </div>
@@ -111,5 +113,4 @@ use of the respective analytics tools for the purpose of the Tournament.
 Grand prizes for the winners include overseas conference tickets for the
 Qlik and Tableau conferences to broaden their horizons on the potential
 of visual analytics.</p>
-<p>Planning for the Data Arcade Tournament 2020 has started. If you are keen
-to come in as a dataset sponsor, please email <a href="mailto:mindy_lim@tech.gov.sg" rel="noopener noreferrer nofollow" target="_blank">mindy_lim@tech.gov.sg</a>.</p>
+<p></p>
