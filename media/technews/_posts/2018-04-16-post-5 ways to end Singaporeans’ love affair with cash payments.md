@@ -33,7 +33,7 @@ success in the Singapore context.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="5 ways to end singaporeans’ love affair with cash payments" src="/images/technews/5-ways-to-end-singaporeans'-love-affair-with-cash-payments-part-2.JPG">
 </div>
-<h3><strong>Lesson #1: Mind your language</strong></h3>
+<h3>Lesson #1: Mind your language</h3>
 <p>The first barrier to entry that the Tez team encountered in India was
 language—India has 22 official languages. For Tez’s mobile payments platform
 to be adopted by the masses, it was imperative that its user interface
@@ -46,7 +46,7 @@ applications multilingual.</p>
 <p>Such a feature contributes towards digital inclusiveness as well, ensuring
 that everyone, regardless of their language competency, has access to the
 service.</p>
-<h3><strong>Lesson #2: Less is more</strong></h3>
+<h3>Lesson #2: Less is more</h3>
 <p>Once the language barrier was surmounted, the Tez team turned its focus
 to making sure that the Google-backed mobile payment platform could replace
 not just a physical wallet, but also a digital wallet.</p>
@@ -58,7 +58,7 @@ platform, which removes the need to constantly top up a digital wallet.
 Thus, when it comes to providing digital payments services, simplifying
 the process of fund transfers can go a long way towards getting people
 on board.</p>
-<h3><strong>Lesson #3: Reward good behaviour</strong></h3>
+<h3>Lesson #3: Reward good behaviour</h3>
 <p>Going further to entice new users, the Tez team introduced a virtual scratch
 card game that gave new users cashbacks for using its platform.</p>
 <p>“We started incentivising users’ behaviours—the moment they scratched
@@ -72,7 +72,7 @@ through referrals.</p>
 <p>A similar strategy could take off here in Singapore, where digital payments
 service providers can gamify the uptake of their applications, combining
 the elements of fun and tangible benefits to win sign-ups.</p>
-<h3><strong>Lesson #4: Get social</strong></h3>
+<h3>Lesson #4: Get social</h3>
 <p>In addition to gamification, the Tez team made it convenient for users
 of its platform to transact with friends who had also downloaded the Tez
 mobile app. When Tez users open the mobile app, the home screen immediately
@@ -81,7 +81,7 @@ displays their friends who have already downloaded the app.</p>
 his or her first transaction,” he said. Not only does this make it easier
 to transfer funds between accounts, it also gives new users a tremendous
 amount of confidence to use the service.</p>
-<h3><strong>Lesson #5: Keep it safe and secure</strong></h3>
+<h3>Lesson #5: Keep it safe and secure</h3>
 <p>To boost confidence in a digital payments platform, “security is an extraordinarily
 critical component,” said Mr Narayanan. “For Tez, we leveraged Google’s
 expertise in device security to design a safe product that could give users
