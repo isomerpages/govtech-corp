@@ -11,7 +11,9 @@ variant: tiptap
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="Cloud architect and Smart Nation Fellow Mr Gregor Hohpe gives his take on how organisations can accelerate digital innovation while reaping the benefits of greater flexibility and resilience." src="/images/technews/Four_key_insights_from_GovTech_s_cloud_architect_1.jpg">
 </div>
-<h3>Cloud architect and Smart Nation Fellow Mr Gregor Hohpe gives his take on how organisations can accelerate digital innovation while reaping the benefits of greater flexibility and resilience.</h3>
+<p>Cloud architect and Smart Nation Fellow Mr Gregor Hohpe gives his take
+on how organisations can accelerate digital innovation while reaping the
+benefits of greater flexibility and resilience.</p>
 <p>“No business has ever complained that their IT is moving too quickly,”
 says Mr Gregor Hohpe, Smart Nation Fellow at the Government Technology
 Agency of Singapore (GovTech). In fact, with the likes of Facebook, Amazon,
@@ -25,10 +27,10 @@ Google Cloud’s private sector partners transform their IT to maximise the
 benefit they obtain from migrating to cloud computing platforms. He now
 brings this expertise to bear in accelerating the Singapore government’s
 cloud-centric strategy for providing digital services to citizens and businesses.</p>
-<p>In an&nbsp;<a href="https://www.linkedin.com/pulse/building-smarter-nation-speeding-up-more-than-going-faster-hohpe/" class="editor-rtfLink" rel="noopener noreferrer nofollow" target="_blank">original post on his personal LinkedIn page</a>,
-Mr Hohpe emphasises that “speeding up is more than going faster”, highlighting
-other benefits associated with being able to innovate rapidly in the digital
-space. Here are four key takeaways.</p>
+<p>In an&nbsp;original post on his personal LinkedIn page, Mr Hohpe emphasises
+that “speeding up is more than going faster”, highlighting other benefits
+associated with being able to innovate rapidly in the digital space. Here
+are four key takeaways.</p>
 <h3>1. Architecture gives you options</h3>
 <p>Designing and building IT architecture is often seen as time-consuming,
 tedious and costly aspects of digitalising an organisation. Rather than
