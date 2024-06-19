@@ -10,6 +10,8 @@ description: ""
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="What's the big deal about (chat)bots?" src="/images/technews/what-is-the-big-deal-about-chatbots-part-1.png">
 </div>
+<p><em>Image credit: Pixabay</em>
+</p>
 <p>I’m often asked “Dharmesh, I hear you're obsessed with chatbots. But I
 don’t get it. What’s the big deal?”</p>
 <p>First off, a simple definition: A chatbot is a piece of software that
@@ -49,7 +51,7 @@ because your calendar bot knows you need to leave for the airport for a
 trip.</p>
 <p>And, that’s all before you even factor in the business superpower of chatbots.</p>
 <p>That’s where it gets really interesting.</p>
-<h3><strong>Much Ado A Bot Relationships</strong></h3>
+<h3>Much Ado A Bot Relationships</h3>
 <p>Marketers around the globe are constantly trying to be helpful. But conversations
 often leave us asking: How can we be of more help?</p>
 <p>Customers expect the same level of service from a company, whether from
@@ -108,4 +110,4 @@ more inbound.</p>
 <p>This commentary was contributed by Dharmesh Shah, Co-founder and CTO,
 HubSpot. The views expressed are solely the contributor's own, and do not
 reflect any official position of GovTech.</p>
-<p>Teaser image and main image (Top Photo) from Pixabay.</p>
+<p></p>
