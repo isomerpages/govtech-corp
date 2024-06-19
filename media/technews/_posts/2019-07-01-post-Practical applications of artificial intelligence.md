@@ -11,7 +11,9 @@ variant: tiptap
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="Practical applications of artificial intelligence (AI)" src="/images/technews/Practical_applications_of_artificial_intelligence_1.jpg">
 </div>
-<h3>From social insurance transactions to municipal services, experts from China and Sweden discussed practical use cases for AI on the first day of GovTech’s Digital Government Exchange 2019.</h3>
+<p>From social insurance transactions to municipal services, experts from
+China and Sweden discussed practical use cases for AI on the first day
+of GovTech’s Digital Government Exchange 2019.</p>
 <p>A city is like a living, breathing creature—steel and concrete buildings
 make up its bones, transportation networks comprise its circulatory system,
 and people are its muscles, making things happen. While the ‘bodies’ of
@@ -26,7 +28,6 @@ Mr Lu Yong, vice president of Shanghai Data Exchange, and Dr Magnus Enzell,
 deputy director of the Ministry of Finance, Sweden, as panellists.</p>
 <p>“AI is just a tool in our toolbox. What we need to decide is: Where is
 AI best applied?” Dr Enzell remarked.</p>
-<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="At the fourth Digital Government Exchange, experts gathered to discuss practical use cases for AI" src="/images/technews/Practical_applications_of_artificial_intelligence_2.jpg">
 </div>
