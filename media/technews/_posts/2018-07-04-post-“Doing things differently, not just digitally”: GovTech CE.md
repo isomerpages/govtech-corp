@@ -15,7 +15,7 @@ technology’s sake, said chief executive Kok Ping Soon. Instead, it involves
 a fundamental re-think of the government-citizen relationship. The goal
 is to go beyond providing frictionless services to delighting citizens.</p>
 <div class="iframe-wrapper">
-<iframe height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/wHmqb-DCBiQ"></iframe>
+<iframe style="max-width: 100%;" height="400" width="100%" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/wHmqb-DCBiQ"></iframe>
 </div>
 <hr>
 <p>These days, you can apply for a new passport, file your taxes and renew
@@ -36,8 +36,7 @@ the relationship between the government and its citizens, Mr Kok said.</p>
 about digitalising for digitalisation’s sake. It’s not about taking existing
 forms and putting them onto the web,” he continued. “It is a fundamental
 re-thinking, re-imagining and re-engineering of our government processes.”</p>
-<p><strong>From ministry-centric to moments of life</strong>
-</p>
+<h3>From ministry-centric to moments of life</h3>
 <p>In the past, digital services were thought of as a “linear value chain”
 that began with policy formulation and ended with technology implementation,
 Mr Kok explained. Singapore’s 16 different ministries and 84 agencies were
@@ -65,8 +64,7 @@ to stay relevant in the workforce or find new jobs? What about helping
 retirees?” Mr Kok asked. “We’re taking the moment of life approach deeper
 in each of these moments, as well as spreading [the approach] across different
 moments.”</p>
-<p><strong>From engagement to co-creation</strong>
-</p>
+<h3>From engagement to co-creation</h3>
 <p>Another thing that the government is now doing differently is getting
 citizens involved as early as possible, partnering them to co-create new
 services rather than simply collecting feedback after the service has been
@@ -83,8 +81,10 @@ with citizens, businesses and industry solutions that are meant for them.”</p>
 realm of transportation. For example, GovTech’s Beeline app makes public
 transport data available to private bus operators, allowing them to crowdsource
 demand for point-to-point bus services and adaptively plan their routes.</p>
-<p><strong>From satisfactory to delightful</strong>
-</p>
+<h3>From satisfactory to delightful</h3>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="doing things differently" src="/images/technews/doing-things-differently-not-just-digitally-govtech-ce-part-2.png">
+</div>
 <p>Ultimately, digitalisation should be about treating the citizen as a customer
 and providing services that do not just satisfy but actually delight them,
 he added. “If we can deliver services that are easy to use, seamless and
@@ -101,7 +101,4 @@ in a more agile manner. It requires the government to change its thinking
 and the way we approach policies,” Mr Kok said. “At the end of the day,
 building a smart nation requires a new level of partnership between the
 people, the private and the public sector.”</p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="doing things differently" src="/images/technews/doing-things-differently-not-just-digitally-govtech-ce-part-2.png">
-</div>
 <p></p>
