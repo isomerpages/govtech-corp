@@ -11,8 +11,6 @@ variant: tiptap
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="Resolving Fintech Disputes through ADR" src="/images/technews/Resolving_Fintech_Disputes_through_ADR.jpg">
 </div>
-<p><em>Contributed by Vincent Kor &amp; Chiara Accornero</em>
-</p>
 <p>The accelerating adoption and deployment of technologies like cloud computing,
 data analytics and machine learning are rapidly transforming the finance
 industry. Financial technology (fintech) is generating numerous opportunities
@@ -151,36 +149,5 @@ would be well advised to consider having appropriate dispute resolution
 strategies in place to manage and resolve disputes that may readily arise
 from their complex activities effectively. With its distinctive features,
 ADR provides the means for the effective resolution of fintech disputes.</p>
-<p></p>
-<table style="minWidth: 50px">
-<colgroup>
-<col>
-<col>
-</colgroup>
-<tbody>
-<tr>
-<th rowspan="1" colspan="1">
-<div class="isomer-image-wrapper">
-<img style="width: 100%;" height="auto" width="100%" alt="Vincent Kor is the General Counsel of GovTech where he heads its Legal Division." src="/images/technews/Vincent_Kor.jpg">
-</div>
-<p></p>
-</th>
-<th rowspan="1" colspan="1">
-<p><em>Vincent Kor is the General Counsel of the Government Technology Agency where he heads its Legal Division</em>.</p>
-</th>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Chiara Accornero is the Representative of the WIPO Arbitration and Mediation Centre in Singapore." src="/images/technews/Chiara_Accornero.jpg">
-</div>
-</td>
-<td rowspan="1" colspan="1">
-<p><strong><em>Chiara Accornero is the Representative of the WIPO Arbitration and Mediation Centre in Singapore</em>.</strong>
-</p>
-</td>
-</tr>
-</tbody>
-</table>
-<p></p>
+<hr>
+<p><em>This article was contributed by Vincent Kor &amp; Chiara Accornero. Vincent Kor is the General Counsel of the Government Technology Agency where he heads its Legal Division</em>. <em>Chiara Accornero is the Representative of the WIPO Arbitration and Mediation Centre in Singapore</em>.</p>
