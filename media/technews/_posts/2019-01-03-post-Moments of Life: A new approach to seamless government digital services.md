@@ -11,7 +11,11 @@ variant: tiptap
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="Mr Dominic Chan, director, MOL, at GovTech, shares his thoughts about MOL’s future direction and potential" src="/images/technews/moments-of-life-a-new-approach-to-government-digital-services-part1.png">
 </div>
-<h3>In times of need, hassle-free access to government digital services can be critical. The Moments of Life (MOL) platform spearheaded by GovTech aims to allow seamless interaction among the Singapore government, businesses and citizens. Mr Dominic Chan, director, MOL, at GovTech, shares his thoughts about MOL’s future direction and potential.</h3>
+<p>In times of need, hassle-free access to government digital services can
+be critical. The Moments of Life (MOL) platform spearheaded by GovTech
+aims to allow seamless interaction among the Singapore government, businesses
+and citizens. Mr Dominic Chan, director, MOL, at GovTech, shares his thoughts
+about MOL’s future direction and potential.</p>
 <p>During critical turning points in life—whether you’re setting up a family,
 a company, or caring for an ageing parent—transactions with the government
 are often inevitable. In situations such as these, the less friction between
