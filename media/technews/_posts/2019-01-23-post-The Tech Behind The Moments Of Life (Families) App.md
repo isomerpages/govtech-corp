@@ -26,7 +26,7 @@ line of code is written”, Ding Yi says.</p>
 <p>That written code gets reviewed by the end of the day by team members.
 This rapid and involved way of working is part of the agile methodology
 used to develop the Moments of Life (Families) app.</p>
-<h3><a href="https://www.tech.gov.sg/media/technews/five-key-features-of-the-new-moments-of-life-app" rel="noopener noreferrer nofollow" target="_blank">Five key features of the new Moments of Life (Families) app</a></h3>
+<p>Here are five key features of the new Moments of Life (Families) app.</p>
 <h3>A more agile way of working</h3>
 <p>Many public agencies had to work together on the Moments of Life (Families)
 project. Besides GovTech, there was the Public Service Division (PSD),
@@ -52,13 +52,13 @@ with GovTech requirements.</p>
 <p>The second system, called Application Programming Interface Exchange (APEX),
 allows GovTech’s systems to easily “talk” or exchange information with
 the digital systems of other public agencies.</p>
-<p>Both resources are part of the <a href="https://www.tech.gov.sg/products-and-services/singapore-government-tech-stack/" rel="noopener noreferrer nofollow" target="_blank">Singapore Government Tech Stack</a>.
-As the Tech Stack was newly introduced when the Moments of Life (Families)
-app was being built, many agencies had to enhance their systems to connect
+<p>Both resources are part of the Singapore Government Tech Stack. As the
+Tech Stack was newly introduced when the Moments of Life (Families) app
+was being built, many agencies had to enhance their systems to connect
 to the Tech Stack.</p>
 <hr>
 <div class="iframe-wrapper">
-<iframe height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/Vt-r2vCqSh8"></iframe>
+<iframe style="max-width: 100%;" height="400" width="100%" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/Vt-r2vCqSh8"></iframe>
 </div>
 <p>---</p>
 <p>But with APEX making it easier to link various systems together, says
