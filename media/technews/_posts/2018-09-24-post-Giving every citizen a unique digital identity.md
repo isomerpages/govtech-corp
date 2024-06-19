@@ -33,7 +33,6 @@ cryptographic, non-replicable, non-repudiable form of digital identity,”
 said Mr Kwok Quek Sin, senior director of the NDI programme at the Government
 Technology Agency Singapore (GovTech) during the Public Sector Infocomm
 Seminar held on 14 September 2018.</p>
-<hr>
 <h3>Permission as a pre-requisite to data sharing</h3>
 <p>Trust is a key element of NDI, and Mr Kwok emphasised that it works two
 ways: the government must be able to trust and verify citizens’ personal
@@ -56,17 +55,14 @@ data] takes place only with the consent of the individual,” said Mr Kwok.</p>
 <h3>Keeping transactions secure</h3>
 <p>Another key element of the NDI framework is multi-factor authentication,
 which helps protect against identity fraud. The first level of authentication
-takes place when citizens login with their SingPass, where in addition
+takes place when citizens login with their Singpass, where in addition
 to keying in their password, they will be required to provide a one-time
 password sent to them via SMS or generated with a OneKey token.</p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="2 factor authentication" src="/images/technews/giving-every-citizen-a-unique-digital-identity-part-3.png">
-</div>
 <p>But going beyond one-time passwords, NDI is designed to be able to interface
 with biometrics as well as third-party authentication protocols, such as
 those used by banks. By relying on multiple modes to verify identity and
 allowing the private sector to add their own layers of identity assurance
-on top of SingPass, the NDI prevents citizens’ identities from being hijacked
+on top of Singpass, the NDI prevents citizens’ identities from being hijacked
 for nefarious means.</p>
 <p>“These complementary authentication factors provide [citizens and businesses
 with] options, resiliency and step-up authentication so that citizens can
