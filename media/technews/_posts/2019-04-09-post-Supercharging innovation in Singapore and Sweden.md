@@ -8,7 +8,10 @@ description: Explore the shared vision of Singapore and Sweden as smart cities!
   🏙️ Tech bridges gaps and fosters collaboration for a brighter future.
 variant: tiptap
 ---
-<h3>Both Singapore and Sweden are using technology to overcome various challenges such as healthcare and urban mobility. An all-women panel comprising speakers from both countries highlighted how collaboration and diversity are key to fostering a culture of innovation.</h3>
+<p>Both Singapore and Sweden are using technology to overcome various challenges
+such as healthcare and urban mobility. An all-women panel comprising speakers
+from both countries highlighted how collaboration and diversity are key
+to fostering a culture of innovation.</p>
 <p>Despite being more than 10,000 kilometres apart, the small city-state
 of Singapore and the Scandinavian nation of Sweden share many similarities
 in their push towards becoming smart cities. From a strong focus on innovation
@@ -65,14 +68,13 @@ countries also helps in ensuring diversity, opening up different markets
 and forging connections across ecosystems.</p>
 <p>“I’m very much looking forward to what we can create and shape by working
 together,” Ms Nilsdotter concluded.</p>
-<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="Supercharging innovation in Singapore and Sweden" src="/images/technews/supercharging-innovation-in-singapore-and-sweden-part1.png">
 </div>
-<p></p>
-<p></p>
-<p></p>
-<h3>Both Singapore and Sweden are using technology to overcome various challenges such as healthcare and urban mobility. An all-women panel comprising speakers from both countries highlighted how collaboration and diversity are key to fostering a culture of innovation.</h3>
+<p>Both Singapore and Sweden are using technology to overcome various challenges
+such as healthcare and urban mobility. An all-women panel comprising speakers
+from both countries highlighted how collaboration and diversity are key
+to fostering a culture of innovation.</p>
 <p>Despite being more than 10,000 kilometres apart, the small city state
 of Singapore and the Scandinavian nation of Sweden share many similarities
 in their push towards becoming smart cities. From a strong focus on innovation
