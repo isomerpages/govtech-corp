@@ -50,7 +50,7 @@ is something that we could not have imagined when we first started three
 years ago. It was heartening to see many fantastic ideas and projects being
 developed over 24 hours. But more importantly, we saw the convergence of
 fun, innovation and tech.”</p>
-<h3><strong>Switching on innovation</strong></h3>
+<h3>Switching on innovation</h3>
 <p>With the advent of new technologies, their integration into existing structures
 and devices can be a problem. For instance, to control lights remotely,
 the electrical wiring and wall switches for the lights may have to be re-installed,
@@ -73,7 +73,7 @@ colleagues or collaborators, you’d snail-mail them a hard drive with the
 information on it.</p>
 <p>Today, you can simply upload your data to the cloud, where it is synced
 and shared with anyone you choose to grant access to.</p>
-<h3><strong>Cybersecurity made simple</strong></h3>
+<h3>Cybersecurity made simple</h3>
 <p>While remote control switches and IoT-enabled home appliances make life
 more convenient, their connection to wireless networks means that they
 may be vulnerable to hacking. A recent report by information technology
@@ -93,7 +93,7 @@ applications. Most of the time, all they want to know is whether they are
 protected or not. With our invention, we can make IoT security more accessible
 and easier to understand,” said Ms Ong Yu Jing, the user interface designer
 of the team.</p>
-<h3><strong>Not just intelligence, but bin-telligence</strong></h3>
+<h3>Not just intelligence, but bin-telligence</h3>
 <p>In addition to smart switches and simplified cybersecurity apps, an intelligent
 trash bin—called TrashIt—was built during the competition, bagging its
 inventors the third prize. Beneath the bin’s humble cardboard-and-tape
