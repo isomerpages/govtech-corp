@@ -12,7 +12,9 @@ variant: tiptap
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="GovTech team behind Ask Jamie the government chatbot" src="/images/technews/GovTech-team-behind-Smart-Nation-Ask-Jamie-government-chatbot.JPG">
 </div>
-<h3>Chatbots are becoming increasingly popular as a means of customer engagement. The Singapore government now has its own chatbot —Ask Jamie— that can field questions from citizens and provide them with the relevant answers.</h3>
+<p>Chatbots are becoming increasingly popular as a means of customer engagement.
+The Singapore government now has its own chatbot —Ask Jamie— that can field
+questions from citizens and provide them with the relevant answers.</p>
 <p>Here’s a scenario most of us would be familiar with: you call up an organisation’s
 24-hour helpline to make an enquiry, only to listen to a robotic voice
 read you options like, “Press ‘1’ if you would like to find out more about
@@ -99,5 +101,4 @@ query.</p>
 </p>
 <p>To help Ask Jamie accurately understand what you are saying, avoid areas
 with loud background noises and speak at a slow and measured pace.</p>
-<p><em>If you want to read about another local famous chatbot, then check out our <a href="https://www.tech.gov.sg/media/technews/bus-uncle-talks-data-lah" rel="noopener noreferrer nofollow" target="_blank">story</a> on Bus Uncle here.</em>
-</p>
+<p></p>
