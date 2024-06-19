@@ -11,10 +11,13 @@ variant: tiptap
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="cybersec gender gap" src="/images/technews/bridging-the-gender-gap-in-cybersecurity-part1.png">
 </div>
-<h3>Cybersecurity is still a male-dominated profession, but women are starting to get in on the action. From showing more confidence in their technical skills to being adaptable, women can play to their strengths to build a fulfilling career in cybersecurity.</h3>
+<p>Cybersecurity is still a male-dominated profession, but women are starting
+to get in on the action. From showing more confidence in their technical
+skills to being adaptable, women can play to their strengths to build a
+fulfilling career in cybersecurity.</p>
 <p>Though no less capable than their male counterparts, women are still underrepresented
 in science, technology, engineering and mathematics (STEM) roles, and the
-field of cybersecurity is no exception. For example, in 2013, only <a href="https://iamcybersafe.org/women_in_cybersecurity/" rel="noopener noreferrer nofollow" target="_blank">11 per cent of cybersecurity professionals were women</a>.</p>
+field of cybersecurity is no exception.</p>
 <p>The cybersecurity industry is actively seeking to reverse this trend,
 and a panel of speakers at the ‘Ladies in Cyber Career’ talk, organised
 by the Association of Information Security Professionals, provided their
