@@ -85,5 +85,5 @@ improved the user experience of business owners, allowing them to file
 their trademarks directly with IPOS,” says Chee King. The team also hopes
 to introduce more useful features, such as renewals, on the app in the
 future.</p>
-<h4>Have a trademark to file? Download IPOS Go on the&nbsp;<a href="https://apps.apple.com/us/app/ipos-go/id1475896971" class="editor-rtfLink" rel="noopener noreferrer nofollow" target="_blank">App Store</a>&nbsp;or&nbsp;<a href="https://play.google.com/store/apps/details?id=sg.ipos.mobile" class="editor-rtfLink" rel="noopener noreferrer nofollow" target="_blank">Google Play Store</a>&nbsp;today, and get your trademark filed in just 10 minutes!</h4>
+<h4></h4>
 <p></p>
