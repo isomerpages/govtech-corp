@@ -10,6 +10,8 @@ description: ""
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="The original Tech Maverick in Gov" src="/images/technews/the-original-tech-maverick-in-gov-part-1.png">
 </div>
+<p><em>Image credit: Photo courtesy of Mr Philip Yeo.</em>
+</p>
 <p>Mobile smartphones, desktops, laptops, notebooks and tablets represent
 a dizzying array of options for today’s savvy tech consumer.</p>
 <p>On average, each Singaporean uses an average of 3.3 computer devices and
@@ -23,7 +25,7 @@ of a washing machine and had a then-astonishing capacity of no more than
 a few hundred megabytes!</p>
 <p>This anecdote was shared by Mr Philip Yeo, Chairman of SPRING Singapore,
 who recalls fondly this nugget from Singapore’s history archives.</p>
-<h3><strong>Accounting for Computers 101</strong></h3>
+<h3>Accounting for Computers 101</h3>
 <p>A pioneering civil servant who earned his stripes under the mentorship
 of the legendary former Deputy Prime Minister and Finance Minister Dr Goh
 Keng Swee, Mr Yeo has achieved international fame for his unorthodox methods
@@ -52,7 +54,7 @@ Computer for MINDEF’s Manpower Division — under the classification of a
 that led Mr Yeo, who was then the second Permanent Secretary in the Defence
 Ministry, to serve as founding chairman of the National Computer Board
 (NCB) in 1981.</p>
-<h3><strong>Back to the Future</strong></h3>
+<h3>Back to the Future</h3>
 <p>Here's a short history recap and a game of six degrees of separation.</p>
 <p>Formed as a result of a study conducted in 1980 by the Committee on National
 Computerisation, which was headed by then Senior Minister for Education
@@ -73,7 +75,7 @@ permanent secretary for defence in 1979, he left to assume the appointment
 of chairman of the Economic Development Board (EDB) in 1986, where he redirected
 EDB’s focus from traditional fields to new areas of business such as biomedical
 science, semiconductors, aerospace and speciality chemicals.</p>
-<h3><strong>Development and Research</strong></h3>
+<h3>Development and Research</h3>
 <p>It was at EDB where he made some strategic decisions that, while raising
 eyebrows at the time, eventually paid off.</p>
 <p>“I ‘con-vinced’ the Jurong Town Corporation to launch Jurong Island in
@@ -96,7 +98,7 @@ of that year, with the ‘misuse’ of the R&amp;D multi-year budget,” he muse
 <p>“To pull this off, the Minister for Trade and Industry Mr George Yeo had
 successfully pleaded with then Deputy Prime Minister Lee Hsien Loong [to
 fund science scholarships for Singaporeans],” Mr Yeo adds.</p>
-<h3><strong>To the next Generation</strong></h3>
+<h3>To the next Generation</h3>
 <p>Having kickstarted the A*STAR National Science Scholarship programme that
 has trained more than 1,000 Singaporean PhDs scientists to date, it is
 befitting then that Mr Yeo also has a PhD degree to call his own.</p>
@@ -105,7 +107,7 @@ of Singapore (NUS) to celebrate his many contributions to Singapore’s informat
 technology, semiconductor, chemical and biomedical science industries through
 the nation’s formative, post-independence years.</p>
 <p>Many top international universities have also given Mr Yeo honorary doctorates.
-They are the University of Toronto, Canada (1997); Karolinska Institutet,
+They are the University of Toronto, Canada (1997); Karolinska Institute,
 Sweden (2006); Imperial College London, UK (2007); and Monash University,
 Australia (2011).</p>
 <p>During the NUS commencement ceremony in 2011, he extended some sage advice
@@ -118,11 +120,4 @@ held! That is what lasts."</p>
 <p>"In short, my advice to you is if you do what you love, create opportunities
 for others and boldly make new friends, you will certainly succeed and
 be happy.”</p>
-<hr>
-<p>Image credit</p>
-<ol data-tight="true" class="tight">
-<li>
-<p>All photos courtesy of Mr Philip Yeo.</p>
-</li>
-</ol>
 <p></p>
