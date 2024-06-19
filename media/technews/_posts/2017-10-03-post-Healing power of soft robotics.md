@@ -31,14 +31,14 @@ such as manufacturing, recent advances in technology have made them more
 compact and consumer-friendly, and hence better able to move beyond the
 assembly line into other domains such as healthcare.</p>
 <p>On 20 July 2017, the Institute of Engineers Singapore (IES) conferred
-IES Prestigious Engineering Achievement Awards on two NUS <a href="http://www.bioeng.nus.edu.sg/EILab/robotics.html" rel="noopener noreferrer nofollow" target="_blank">inventions</a> —
+IES Prestigious Engineering Achievement Awards on two NUS inventions —
 a soft robotic glove (EsoGlove) and a soft robotic sock (SRS) for physical
 rehabilitation — in recognition of their innovative use of technology and
 potential to improve quality of life.</p>
 <p>NUS Assistant Professor Raye Yeow, who leads both projects, spoke to TechNews
 about how soft robotics is fast becoming part of the biomedical scene of
 the future.</p>
-<h3><strong>Engineering soft hardware</strong></h3>
+<h3>Engineering soft hardware</h3>
 <p>Robots are often thought of as cold, hard machines with metal joints and
 rigid movements.</p>
 <p>Yet, the robotics being built by Professor Yeow’s team are soft and pliable
@@ -67,7 +67,7 @@ glove and sock had to be both wearable and functionally safe.</p>
 or with help from a caregiver. The actuators also need to be capable of
 providing adequate forces to move the fingers and feet while ensuring comfort
 and safety,” said Professor Yeow.</p>
-<h3><strong>A helping hand and a leg up</strong></h3>
+<h3>A helping hand and a leg up</h3>
 <p>As with all biomedical devices, the EsoGlove and SRS are undergoing extensive
 tests before the they are widely deployed in hospitals and clinics.</p>
 <p>Professor Yeow is working with senior consultant Dr Lim Jeong Hoon, a
