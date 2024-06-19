@@ -63,8 +63,8 @@ of an open platform for all of them to use," he said.</p>
 <p>This focus on data-driven design was also the subject of a talk delivered
 by Mr Mark Lim, Director of GDS, at the summit.</p>
 <p>He noted how this concept has been used extensively in e-commerce and
-retail, citing e-commerce giant <a href="https://www.amazon.com/" rel="noopener noreferrer nofollow" target="_blank">Amazon.com</a> as an example, but not so
-much in government services.</p>
+retail, citing e-commerce giant Amazon as an example, but not so much in
+government services.</p>
 <p>As the one-stop consultancy for government agencies to build apps or trial
 prototypes, GDS champions the lean, agile approach to working, Mr Lim said.</p>
 <p>He explained that out of the 50 features your system has, less than 10%
