@@ -10,6 +10,8 @@ description: ""
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="National Trade Platform grabs Smart City Award" src="/images/technews/national-trade-platform-grabs-smart-city-award-part-1.png">
 </div>
+<p><em>Image credit: Creative Commons Singapore, Port by Noel Reynolds</em>
+</p>
 <p>Singapore’s whole-of-government (WOG) approach to problem solving continued
 to put the country in good stead, as it garnered three top awards in IDC’s
 recent Smart City Asia Pacific Awards 2016.</p>
@@ -49,7 +51,7 @@ and business partners.”</p>
 and co-creates with business communities and service providers to build
 a vibrant and innovative trade ecosystem. The NTP will help to further
 solidify Singapore’s position as a leading global trade hub.”</p>
-<h3><strong>From TradeNet to NTP</strong></h3>
+<h3>From TradeNet to NTP</h3>
 <p>A short history lesson: In 1989, Singapore developed TradeNet to enable
 companies to apply for trade permits electronically, and obtain approval
 within minutes.</p>
@@ -87,7 +89,7 @@ in the ecosystem, we are moving together in the right direction. We hope
 that the NTP can be Singapore’s contribution to the global trade and logistics
 ecosystem, and enable Singapore to continue to thrive as a value-adding
 logistics hub in the world.”</p>
-<h3><strong>Smart Buildings and Hydrohub</strong></h3>
+<h3>Smart Buildings and Hydrohub</h3>
 <p>Two other Singapore projects won awards from IDC.</p>
 <p>In the category of Smart Buildings – one of 14 functional smart city domains
 covered by the index – Singapore’s Smart Yuhua Residential Estate project
@@ -106,16 +108,4 @@ Housing Communities initiative for Taipei City, Taiwan.</p>
 top honours in the Smart Water category, pushes the envelope in its efforts
 to build up a sustainable supply of water to ensure resilience in the face
 of variable weather and growing demand for water.</p>
-<hr>
-<p>Photo credits:</p>
-<ol data-tight="true" class="tight">
-<li>
-<p>Teaser and main image (top photo): Creative Commons Singapore Port by
-Noel Reynolds licensed under CC By 2.0. Original image has been cropped.</p>
-</li>
-<li>
-<p>Creative Commons Port of Singapore by William Cho licensed under CC BY-NC-SA
-2.0. Original image has been cropped.</p>
-</li>
-</ol>
 <p></p>
