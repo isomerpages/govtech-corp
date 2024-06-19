@@ -56,11 +56,9 @@ the digital systems of other public agencies.</p>
 Tech Stack was newly introduced when the Moments of Life (Families) app
 was being built, many agencies had to enhance their systems to connect
 to the Tech Stack.</p>
-<hr>
 <div class="iframe-wrapper">
 <iframe style="max-width: 100%;" height="400" width="100%" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/Vt-r2vCqSh8"></iframe>
 </div>
-<p>---</p>
 <p>But with APEX making it easier to link various systems together, says
 Ms Lee May Gee, Director, Moments of Life (Families) Programme Office,
 the agencies were supportive and able to quickly upgrade their systems
