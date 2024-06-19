@@ -38,7 +38,7 @@ different stages of the Challenge to motivate participants.</p>
 <p>There are useful insights gained too: The information collected also allows
 HPB to monitor behavioural changes in relation to physical activity levels
 at the individual and population levels throughout the Challenge period.</p>
-<h3><strong>First Steps</strong></h3>
+<h3>First Steps</h3>
 <p>The Healthy 365 app began with a pilot in October 2014. It was then progressively
 enhanced and rolled out on a national level to support the National Steps
 Challenge.</p>
