@@ -27,12 +27,12 @@ more than ten years to mature from theory to applications, he said.</p>
 <p>"To give you one metric of the speed of adoption, consider the ImageNet
 contest, a classic computer vision contest. In 2011, there were no entries
 that used GPUs; they were all writing 'if-then-else' code."</p>
-<p>Then in 2012, a team won the contest not by writing 'if-then-elseí code',
+<p>Then in 2012, a team won the contest not by writing 'if-then-else' code,
 but by training a deep neural network.</p>
-<p>Mr Hamilton added:"The following year about 80 percent of the participants
+<p>Mr Hamilton added: "The following year about 80 percent of the participants
 used GPUs, and by 2014 there was no one left writing traditional computer
 vision code."</p>
-<h3><strong>Swimming in the data deluge</strong></h3>
+<h3>Swimming in the data deluge</h3>
 <p>Despite how rapidly AI and deep learning algorithms have come to dominate
 nearly every field of computer science in recent years, the technology
 is actually not new.</p>
@@ -58,11 +58,11 @@ computer and software engineers, he added, sharing that nine out of ten
 job applicants he interviews today are interested in working in AI, up
 from just a year or two ago when people were just starting to talk about
 it.</p>
-<p>"It's an amazing time for the computer science industry; weíre seeing
+<p>"It's an amazing time for the computer science industry; we're seeing
 a very rapid change in the research coming out from the universities and
 industry. Institutions from Google to hospitals are now all paying attention
 to deep learning."</p>
-<h3><strong>AI in the driver's seat</strong></h3>
+<h3>AI in the driver's seat</h3>
 <p>"It's hard to think of an industry that isn't using AI," he continued.</p>
 <p>"However, there's no field that is as close to providing valuable results
 as the world of autonomous vehicles."</p>
