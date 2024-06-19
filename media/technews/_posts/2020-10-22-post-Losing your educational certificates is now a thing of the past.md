@@ -91,5 +91,6 @@ a step by step walkthrough on the process.</p>
 <p>It might seem awfully cutting-edge to issue certs via blockchain in 2020,
 but as the technology becomes more prevalent, who knows what other interesting
 applications there will be in say, 5-10 years?</p>
-<h4>After all, the use cases of transparent, verifiable blocks of data are endless.</h4>
+<p>After all, the use cases of transparent, verifiable blocks of data are
+endless.</p>
 <p></p>
