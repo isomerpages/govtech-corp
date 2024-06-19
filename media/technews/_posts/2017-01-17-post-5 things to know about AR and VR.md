@@ -19,18 +19,18 @@ their living rooms.</p>
 in a Tanzanian jungle thanks to US-based digital imaging company Immersive
 Media, which <a href="https://www.engadget.com/2016/02/22/abc-good-morning-america-vr-safari/" rel="noopener noreferrer nofollow" target="_blank">recently produced a live 360° VR stream</a> for
 news show Good Morning America.</p>
-<p>VR headsets like <a href="https://vr.google.com/cardboard/" rel="noopener noreferrer nofollow" target="_blank">Google Cardboard</a> and <a href="https://www.oculus.com/" rel="noopener noreferrer nofollow" target="_blank">Oculus Rift</a> are
-primarily used in, but not limited, to the entertainment and gaming industries.</p>
+<p>VR headsets like Google Cardboard and Oculus Rift are primarily used in,
+but not limited, to the entertainment and gaming industries.</p>
 <p>The price tag of these headsets may still be quite high for the average
 consumer — the Rift costs US$599 (~S$861), for example — but Mr. Myles
-McGovern, President and CEO of Immersive Media, toldForbes that “as the
+McGovern, President and CEO of Immersive Media, told Forbes that “as the
 technology progresses, it will come to a point where it’s so cost effective
 that it will reach mass acceptance”.</p>
 <p>And AR made it to the mainstream thanks to the trend-setting Pokemon Go
 game, which added interactivity and virtual content to locations around
 us through our smartphones.</p>
 <p>Here are five things about these two technologies to keep in mind.</p>
-<h3><strong>1. AR should not be confused with VR.</strong></h3>
+<h3>AR should not be confused with VR</h3>
 <p>People tend to group AR with VR, when in effect they are vastly different,
 National University of Singapore Professor Andrew Nee, an expert in the
 use of AR and VR in manufacturing, tells TechNews.</p>
@@ -39,7 +39,7 @@ with, AR, on the other hand, overlays virtual, interactive 3D objects over
 the real world to create a sense that they're right in front of you.</p>
 <p>“VR is the construction of an animated world, while AR is overlaying virtual
 objects on the real environment,” Professor Nee explains.</p>
-<h3><strong>2. At its core, VR is not as high-tech as we think.</strong></h3>
+<h3>At its core, VR is not as high-tech as we think</h3>
 <p>Remember the beloved red View-Master toy that lets you ‘watch’ a 3D movie
 through still images found on reels?</p>
 <p>First introduced at the 1939 New York World's Fair, the View-Master is
@@ -51,7 +51,7 @@ so that the eye perceives depth, giving images a 3D appearance.</p>
 <p>Think of how the Google Cardboard platform works — it is fitted with lenses
 that turn the screens of compatible smartphones, with the right app running,
 into VR displays.</p>
-<h3><strong>3. You have to see before you believe</strong></h3>
+<h3>You have to see before you believe</h3>
 <p>When it comes to VR, the realism and level of immersion is something consumers
 simply have to experience to truly believe in.</p>
 <p>No one can convince you until you put on a headset to 'see' for yourself.</p>
@@ -66,7 +66,7 @@ head-mounted displays.</p>
 <p>You don't need to be convinced that today's ubiquitous smartphones are
 well capable of handling AR applications, as millions of Pokémon Go ‘trainers’
 will attest to.</p>
-<h3><strong>4. VR goes beyond games</strong></h3>
+<h3>VR goes beyond games</h3>
 <p>Contrary to what many people may believe, VR (and AR) technologies are
 not just for fun and games.</p>
 <p>However, the roller coaster VR experience that has been played to death
@@ -79,7 +79,7 @@ and education,” he points out.</p>
 equipment with the help of VR; it will not replace training with the real
 equipment, but it can help one build muscle memory and ingrain the process
 flow, he says.</p>
-<h3><strong>5. AR also for assistive or rehabilitative purposes.</strong></h3>
+<h3>AR for assistive or rehabilitative purposes</h3>
 <p>Similarly, people tend to associate AR with games, advertising and animation,
 but it can also be deployed in other useful real-life engineering applications
 to increase productivity and reduce learning curves, Professor Nee says.</p>
