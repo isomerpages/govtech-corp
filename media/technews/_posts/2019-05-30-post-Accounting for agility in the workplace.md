@@ -12,7 +12,9 @@ variant: tiptap
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="Accounting for agility in the workplace" src="/images/technews/ACCA_Agile_Conference_Smart_Nation_GovTech.jpg">
 </div>
-<h3>The agile framework of the software is applicable beyond the tech industry and how the finance and accounting sector can adopt agile practices to thrive, as discussed by an expert panel at the ACCA Annual Conference.</h3>
+<p>The agile framework of the software is applicable beyond the tech industry
+and how the finance and accounting sector can adopt agile practices to
+thrive, as discussed by an expert panel at the ACCA Annual Conference.</p>
 <p>With connotations of speed and dexterity, the agile framework of software
 development has become almost a gold standard at any tech-centric organisation.
 By having cross-functional teams work closely with product end users to
@@ -80,6 +82,5 @@ its people has payoffs in the future.</p>
 not so much for the future. If you want to optimise for the future, then
 you probably need to create a safe space for your employees to learn new
 skills,” Mr Koh concluded.</p>
-<p><em>If you are interested in agile practices and development and want to know how to get the most out of it, click&nbsp;<a href="https://www.tech.gov.sg/media/technews/how-to-get-the-most-out-of-agile-development" class="editor-rtfLink" rel="noopener noreferrer nofollow" target="_blank">here</a>.</em>
-</p>
+<p></p>
 <p></p>
