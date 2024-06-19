@@ -53,8 +53,7 @@ it is artwork that interacts with humans, being a fun companion in one's
 everyday life, or bringing medical services to remote communities, this
 potential also comes from how the technology is being used to combine disparate
 ideas to achieve bigger goals.</p>
-<p><strong>When your bot goes viral</strong>
-</p>
+<h3>When your bot goes viral</h3>
 <p>The communion between human and robot has already permeated our everyday
 life. Recently, Bus Uncle, a chatbot that tells anxious commuters when
 their bus will arrive, while at the same time cracking jokes in Singlish,
@@ -79,8 +78,7 @@ the norm in apps—where answers will be delivered in direct response to
 a user's questions rather than through menus and buttons. He also envisions
 chatbots that talk to one another to satisfy a user’s multiple requests,
 such as for a meal or a taxi.</p>
-<p><strong>Saving lives with AI</strong>
-</p>
+<h3>Saving lives with AI</h3>
 <p>Although the AI developed by Ms Kwok’s company SmartCow does not crack
 jokes, you may one day thank it for saving your life.</p>
 <p>SmartCow is working with a major airport on a system to automatically
