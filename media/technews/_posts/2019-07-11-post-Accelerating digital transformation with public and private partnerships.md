@@ -12,7 +12,9 @@ variant: tiptap
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="Smart Nation Summit 2019" src="/images/technews/Accelerating_digital_transformation_with_public_private_partnerships_1.jpg">
 </div>
-<h3>At the Smart Nation Summit 2019, a panel of experts discussed how engaging with industry players through public-private partnerships could accelerate progress in digital transformation.</h3>
+<p>At the Smart Nation Summit 2019, a panel of experts discussed how engaging
+with industry players through public-private partnerships could accelerate
+progress in digital transformation.</p>
 <p>Accessing government services, such as for the registration of births,
 typically involves the following routine process—filling up page after
 page of official forms, digging up supporting documents and photocopying
