@@ -12,7 +12,11 @@ variant: tiptap
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="5 ways to secure and control your Facebook account" src="/images/technews/5-ways-to-secure-and-control-your-facebook-account-part1.png">
 </div>
-<h3>TL:DR: Facebook is taking steps to improve its services and better protect its users. Artificial intelligence (AI) is key to these upgrades to the social media platform. We also highlight 5 tips to secure your Facebook account and control how your data is used.</h3>
+<p>TL:DR: Facebook is taking steps to improve its services and better protect
+its users. Artificial intelligence (AI) is key to these upgrades to the
+social media platform. We also highlight 5 tips to secure your Facebook
+account and control how your data is used.</p>
+<hr>
 <p>“Move fast and break things” might have been a suitable mantra for a fledgling
 social media company seeking to connect people across the globe with technology.
 But as Facebook has discovered, things like trust, once broken, can be
