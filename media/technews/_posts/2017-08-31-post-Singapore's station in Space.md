@@ -32,7 +32,7 @@ University (NTU).</p>
 by geographical boundaries, meaning that even the smallest of nations can
 nurture big ambitions for space exploration, said Commander Williams.</p>
 <p>Here are three takeaways from a chat with him:</p>
-<h3><strong>1. Singapore's role in space</strong></h3>
+<h3>Singapore's role in space</h3>
 <p>Although the original space race had its roots in hostile competition,
 recent exploits into the void have been congenial and collaborative.</p>
 <p>This is best represented by the ISS, which hosts astronauts from the US,
@@ -52,7 +52,7 @@ communication system, weighing approximately two kilogrammes in total.</p>
 <p>Although such projects may be small in scale at present, the knowledge
 gleaned from them could pave the way for bigger and better Singapore-made
 satellites in the future.</p>
-<h3><strong>2. Fund the future</strong></h3>
+<h3>Fund the future</h3>
 <p>Space exploration is an expensive endeavour, requiring a significant amount
 of research and development.</p>
 <p>This means that most private businesses, whether in Singapore or around
@@ -75,7 +75,7 @@ world. Today, we know that aviation is a huge industry supported by a strong
 and sustainable economic model,” said Mr Williams.</p>
 <p>“If history repeats itself — and it usually does — we might expect to
 see the same thing happen with space technology and space exploration.”</p>
-<h3><strong>3. Launch the heartware</strong></h3>
+<h3>Launch the heartware</h3>
 <p>Simply browsing through NASA’s recruitment page gives you an idea of the
 qualifications needed to work in space exploration.</p>
 <p>The minimal requirement is a bachelor’s degree, although most NASA employees
@@ -88,8 +88,8 @@ to be competitive,” said Mr Williams.</p>
 reputation throughout the world as a hub for quality higher education.</p>
 <p>In addition to the hardware, Singapore can supply the human and intellectual
 capital — the heartware — required for space exploration.</p>
-<p>Take <a href="https://www.channelnewsasia.com/news/technology/meet-goh-eng-lim-the-singaporean-behind-the-most-powerful-9125412" rel="noopener noreferrer nofollow" target="_blank">Dr Goh Eng Lim</a>,
-vice president of Hewlett Packard Enterprise, for example.</p>
+<p>Take Dr Goh Eng Lim, vice president of Hewlett Packard Enterprise, for
+example.</p>
 <p>The Spaceborne computer he helped develop was launched from Cape Canaveral
 in August 2017, and is considered the most powerful supercomputer to have
 been delivered into space.</p>
