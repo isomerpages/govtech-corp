@@ -40,7 +40,7 @@ country’s maiden venture into harnessing the capabilities of AI.</p>
 Koo Sengmeng, Deputy Director (Strategic Alliances) at AI Singapore, laid
 out the city-state’s strategy for using these new digital tools to improve
 the lives of residents and optimise business processes.</p>
-<h3><strong>Bridging research and reality</strong></h3>
+<h3>Bridging research and reality</h3>
 <p>Mr Koo noted that AI talent is scarce globally, not to mention in a relatively
 small country like Singapore. This being the case, partnerships between
 experts from industry and academia are especially pertinent, and efforts
@@ -65,11 +65,11 @@ and interest, there is a minimum financial investment required. Mr Koo,
 however, encouraged the sharing—through open-source databases, for example—of
 any ideas or developments that arise from such collaborations, as this
 would be in the nation’s best interests.</p>
-<h3><strong>Rising to grand challenges</strong></h3>
+<h3>Rising to grand challenges</h3>
 <p>To guide research efforts, AI Singapore is also working with the public
-to define a series of <a href="https://www.aisingapore.org/grandchallenge/" rel="noopener noreferrer nofollow" target="_blank">Grand Challenges</a>—important
-issues in areas such as healthcare, urban mobility and finance that can
-be effectively addressed using AI.</p>
+to define a series of Grand Challenges—important issues in areas such as
+healthcare, urban mobility and finance that can be effectively addressed
+using AI.</p>
 <p>“What we want to achieve through the Grand Challenges is to uncover technical
 as well as financial surprises that will help us focus the questions in
 AI research, and allow us to break through any fundamental bottlenecks,”
@@ -79,7 +79,7 @@ product or application—that can benefit society.</p>
 it sounds. “It is in itself a Grand Challenge to find Grand Challenge questions!”
 he said, while adding that the rewards will be well worth the effort. “If
 we ask the right questions, we will uncover the right problem statements.”</p>
-<h3><strong>More than just megabytes</strong></h3>
+<h3>More than just megabytes</h3>
 <p>As AI becomes more widely adopted, society will need to address the social,
 moral and legal issues associated with the technology, said Mr Koo. “If
 we are going to involve AI in decision making, we need to know how we are
