@@ -10,7 +10,6 @@ description: "Discover GovTech's VigilantGantry: a contactless temperature
 variant: tiptap
 ---
 <h3>The VigilantGantry contactless system can effectively reduce the manpower needed at temperature screening stations.</h3>
-<p></p>
 <div class="iframe-wrapper">
 <iframe style="max-width: 100%;" height="400" width="100%" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/4quAADmKs40?si=phSi7-AqhtedqJOa"></iframe>
 </div>
@@ -21,9 +20,9 @@ screening to help detect the disease and to facilitate contact tracing
 efforts.</p>
 <p>Besides setting up stations for temperature screenings, businesses also
 require staff members to operate the equipment. While areas with lower
-footfall can tap on solutions like GovTech’s&nbsp;<a href="https://www.tech.gov.sg/media/technews/how-gt-developed-fit-for-purpose-temperature-scanners-part-1" class="editor-rtfLink" rel="noopener noreferrer nofollow" target="_blank">self-service temperature scanner</a>,
-areas with high human traffic need a different approach to cope with the
-high volume.</p>
+footfall can tap on solutions like GovTech’s&nbsp;self-service temperature
+scanner, areas with high human traffic need a different approach to cope
+with the high volume.</p>
 <p>To speed up temperature screening in crowded areas and reduce the number
 of human operators required, a team from GovTech’s Data Science and Artificial
 Intelligence Division (DSAID) has developed VigilantGantry, a fully automated,
@@ -32,10 +31,6 @@ contactless gantry system for temperature screening.</p>
 in-house projects to improve temperature screening processes, TechNews
 spoke with the DSAID team to find out why VigilantGantry is vital in this
 time of crisis.</p>
-<p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Temperature screening technology developed by GovTech and deployed across Singapore" src="/images/technews/How_GovTech_developed_fit_for_purpose_temperature_scanners___Part_2_1.jpg">
-</div>
 <h3>Safe, speedy screening</h3>
 <p>“The main goal of VigilantGantry is to help automate temperature screening
 and manage the flow of movement into buildings in a contactless manner,”
@@ -100,7 +95,6 @@ system to help instruct visitors, for example, to remove headgear so that
 manpower needs can be further reduced. The team said that the design thinking
 behind VigilantGantry was to leave no stone unturned. “Hence, the name
 Vigilant,” concluded Mr Leonard.</p>
-<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="The GovTech team behind the design and creation of VigilantGantry." src="/images/technews/How_GovTech_developed_fit_for_purpose_temperature_scanners___Part_2_2.jpg">
 </div>
