@@ -12,7 +12,7 @@ variant: tiptap
 <div class="iframe-wrapper">
 <iframe style="max-width: 100%;" height="400" width="100%" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/buj8ZTRtJes?si=WZ5uFoRpoNxs1WzR"></iframe>
 </div>
-<h3>Contact tracing is essential for containing COVID-19, but not everyone can remember who they have been in contact with. </h3>
+<h3>Contact tracing is essential for containing COVID-19, but not everyone can remember who they have been in contact with.</h3>
 <h3>TraceTogether uses Bluetooth to identify who you have been with rather than where you have been. To develop this app, GovTech had to test dozens of different phones, calibrating wildly differing Bluetooth signal strengths.</h3>
 <p>Singapore has been battling COVID-19 since its first case of infection
 was confirmed on 23 January 2020. As of 23 March, 12pm, there are a total
