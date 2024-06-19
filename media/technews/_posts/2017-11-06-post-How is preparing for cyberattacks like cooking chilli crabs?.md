@@ -32,7 +32,7 @@ these figures only reflect the detected cases--many more lie beneath the
 surface.</p>
 <p>“One thing that we need to be aware of is that cyber-attacks do happen,
 and these threats should be seen as a new normal,” said Mr Khoong.</p>
-<h3><strong>It’s not when, but how</strong></h3>
+<h3>It’s not when, but how</h3>
 <p>“Some of us may say ‘Heng ah, we have never been attacked before.’ But
 it’s a little bit like crossing the road. We know that accidents can and
 do happen, yet we sometimes get absorbed in our WhatsApp chats as we cross
@@ -62,7 +62,7 @@ been happily selling since then,” Mr Khoong shared.</p>
 <p>The moral of the story is that organisations must be aware of what the
 possible threats are and take proactive actions to defend themselves, he
 added.</p>
-<h3><strong>The art of cybersecurity</strong></h3>
+<h3>The art of cybersecurity</h3>
 <p>In a subsequent keynote, Mr Yum Shoen Yih, deputy director of the Critical
 Information Infrastructure Division at CSA, spoke about Singapore’s defence
 strategy. He offered six cybersecurity must-dos inspired by the ancient
@@ -70,7 +70,7 @@ Chinese military treatise The Art of War by Sun Tzu.</p>
 <p>The first principle is that organisations must know their assets—be they
 software or hardware. “If you know yourself, at least you are able to plan
 and fight against the enemy,” said Mr Yum.</p>
-<p>Second, only authorised software should be allowed to work, said Mr Yum.
+<p>Second, only authourised software should be allowed to work, said Mr Yum.
 “It is not enough to just do application whitelisting; you need application
 control. For example, a product like Microsoft Word should only be allowed
 to do word processing, not any other functions like scanning and so on.”</p>
