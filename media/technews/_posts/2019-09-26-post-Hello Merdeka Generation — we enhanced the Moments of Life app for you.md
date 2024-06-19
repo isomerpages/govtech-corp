@@ -16,8 +16,8 @@ description: Discover the Moments of Life app! 📱 From young parents to senior
 government hopes to keep its senior citizens engaged in their silver years
 through the Moments of Life mobile app.</p>
 <p>In June 2018, the Government Technology Agency of Singapore (GovTech)
-launched the&nbsp;<a href="https://www.tech.gov.sg/products-and-services/moments-of-life/" class="editor-rtfLink" rel="noopener noreferrer nofollow" target="_blank">Moments of Life mobile app</a>&nbsp;catering
-to the needs of young parents—the first example of a citizen-centric concierge-like
+launched the&nbsp;Moments of Life mobile app&nbsp;catering to the needs
+of young parents—the first example of a citizen-centric concierge-like
 approach to providing government digital services. Rather than seek out
 multiple ministries to register a new birth and apply for a baby bonus,
 young parents can now complete all these tasks on a single platform using
