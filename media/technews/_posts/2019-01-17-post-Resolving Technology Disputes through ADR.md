@@ -13,8 +13,6 @@ variant: tiptap
 <img style="width: 100%" height="auto" width="100%" alt="Resolving Technology Disputes through ADR" src="/images/technews/resolving-technology-disputes-through-adr-part1.png">
 </div>
 <hr>
-<p><strong>Contributed by Vincent Kor &amp; Chiara Accornero</strong>
-</p>
 <p>In a world where businesses and organisations are ever more reliant on
 technology for their operations, technology disputes can be disastrous.
 Regardless of the size of the technology project, it is not uncommon to
@@ -139,8 +137,5 @@ providers like the WIPO Arbitration and Mediation Centre are located. The
 Singapore Convention on Mediation is a testament to the advantages and
 benefits of ADR in the efficient and effective resolution of technology
 disputes.</p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Resolving Technology Disputes through ADR" src="/images/technews/resolving-technology-disputes-through-adr-part6.png">
-</div>
-<p><em>Vincent Kor is the General Counsel of the Government Technology Agency where he heads its Legal Division</em>.</p>
-<p><em>Chiara Accornero is the Representative of the WIPO Arbitration and Mediation Centre in Singapore</em>.</p>
+<hr>
+<p><em>This article is contributed by Vincent Kor &amp; Chiara Accornero. Vincent Kor is the General Counsel of the Government Technology Agency where he heads its Legal Division</em>. <em>Chiara Accornero is the Representative of the WIPO Arbitration and Mediation Centre in Singapore</em>.</p>
