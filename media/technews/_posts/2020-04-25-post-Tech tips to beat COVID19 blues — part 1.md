@@ -24,13 +24,12 @@ taken centerstage. Equipped with bells and whistles—like Virtual Backgrounds,
 more on that later—it is ultimately Zoom’s ability to accommodate large
 groups for video conferences or classroom lectures that give it an edge
 over its competitors.</p>
-<p>If you’re keen to avoid a video conference faux pas like the&nbsp;<a href="https://www.youtube.com/watch?v=Mh4f9AYRCZY" class="editor-rtfLink" rel="noopener noreferrer nofollow" target="_blank">‘BBC Dad’</a>&nbsp;or
-just want to hide the clutter in your room, take advantage of the Virtual
-Background feature. This feature allows you to display custom images or
-videos in the background. Additionally, Zoom lets you record video calls.
-This can be handy for students who want to revisit course materials and
-lectures.</p>
-<p></p>
+<p>If you’re keen to avoid a video conference faux pas like the&nbsp;‘BBC
+Dad’&nbsp;or just want to hide the clutter in your room, take advantage
+of the Virtual Background feature. This feature allows you to display custom
+images or videos in the background. Additionally, Zoom lets you record
+video calls. This can be handy for students who want to revisit course
+materials and lectures.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="Meet people online through an app on your phone." src="/images/technews/Tech_tips_to_beat_COVID_19_blues___part_1_1.jpg">
 </div>
@@ -57,32 +56,29 @@ potential contacts over the phone.</p>
 <h3>4. Embrace the outdoors</h3>
 <p>Physical activity is important for our health, mood and productivity.
 If you’re thinking of taking a walk outdoors or going for a trail run,
-make sure it’s not too crowded by visiting an online portal named&nbsp;
-<a href="https://safedistparks.nparks.gov.sg/" class="editor-rtfLink" rel="noopener noreferrer nofollow" target="_blank">Safe Distance @ Parks</a>. Co-developed by GovTech and NParks, the website
-allows you to check how crowded a park is in advance so that you can plan
-your outing accordingly.</p>
+make sure it’s not too crowded by visiting an online portal named&nbsp;Safe
+Distance @ Parks. Co-developed by GovTech and NParks, the website allows
+you to check how crowded a park is in advance so that you can plan your
+outing accordingly.</p>
 <p>The portal monitors the real-time visitors of major parks and green spaces
 with the help of data gathered by staff on the ground and aerial photographs
 taken by drones. NParks has advised that people should avoid areas where
 footfall is high and return home as soon as they complete their exercise
 to free up space and allow others to use the park.</p>
-<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="NParks map which shows the crowd status of parks in Singapore online, for people who love to hike" src="/images/technews/Tech_tips_to_beat_COVID_19_blues___part_1_2.jpg">
 </div>
 <h3>5. Stay healthy with home workouts</h3>
 <p>Are parks too crowded? Fret not. Plenty of YouTube and Instagram videos
 and apps catering to varying fitness goals provide home workouts you can
-bank on. For example,&nbsp;<a href="https://apps.apple.com/us/app/fiton-fitness-workout-plans/id1442473191" class="editor-rtfLink" rel="noopener noreferrer nofollow" target="_blank">FitOn app</a>&nbsp;offers
-free exercises designed by celebrity trainers, ranging from pilates to
-high-intensity interval training sessions.</p>
+bank on. For example,&nbsp;FitOn app&nbsp;offers free exercises designed
+by celebrity trainers, ranging from pilates to high-intensity interval
+training sessions.</p>
 <p>If you’d like to support local fitness experts while working on your health
-goals at the same time, why not try&nbsp;<a href="https://circle.myactivesg.com/" class="editor-rtfLink" rel="noopener noreferrer nofollow" target="_blank">ActiveSG Circle</a>,
-a new platform connecting freelance fitness instructors to users across
-Singapore. With 88 verified instructors in piloxing, Zumba, yoga and more,
-you can choose from free content or classes that cost as little as $10
-to $20 per session.</p>
-<p></p>
+goals at the same time, why not try&nbsp;ActiveSG Circle, a new platform
+connecting freelance fitness instructors to users across Singapore. With
+88 verified instructors in piloxing, Zumba, yoga and more, you can choose
+from free content or classes that cost as little as $10 to $20 per session.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="Screenshot from ActiveSG website" src="/images/technews/Tech_tips_to_beat_COVID_19_blues___part_1_3.jpg">
 </div>
@@ -92,7 +88,7 @@ to COVID-19. Protecting our mental well-being is as imperative, if not
 more, as keeping our bodies fit and healthy in these trying times. If you’re
 feeling overwhelmed by the current situation, try practising mindfulness
 through meditation. While it might seem daunting at first, plenty of meditation
-apps, such as&nbsp;<a href="https://www.calm.com/" class="editor-rtfLink" rel="noopener noreferrer nofollow" target="_blank">Calm</a>&nbsp;and&nbsp;
-<a href="https://www.headspace.com/" class="editor-rtfLink" rel="noopener noreferrer nofollow" target="_blank">Headspace</a>, are available to guide you through the process. Take a
-deep breath and remind yourself that this, too, shall pass.</p>
+apps, such as&nbsp;Calm&nbsp;and&nbsp; Headspace, are available to guide
+you through the process. Take a deep breath and remind yourself that this,
+too, shall pass.</p>
 <p></p>
