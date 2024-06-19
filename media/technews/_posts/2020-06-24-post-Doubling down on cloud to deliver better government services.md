@@ -10,7 +10,6 @@ description: ☁️ Discover how Singapore's "cloud-first" approach enhances
 variant: tiptap
 ---
 <h3>Developing ICT systems on the cloud helps the government deliver more agile and user-centric digital services.</h3>
-<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="Developing ICT systems on the cloud helps the government deliver more agile and user-centric digital services." src="/images/technews/Doubling_down_on_cloud_to_deliver_better_government_services_resized.jpg">
 </div>
@@ -39,7 +38,6 @@ create a brand-new solution from scratch. Application testing and deployment
 can also be automated and done in real time, speeding up the delivery of
 high-quality digital services to citizens and businesses.</p>
 <h3>Ahead in the cloud</h3>
-<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="As a centralised platform, SGTS will be able to ensure that cybersecurity and data security measures are incorporated into IT systems development." src="/images/technews/Doubling_down_on_cloud_to_deliver_better_government_services_2_resized.jpg">
 </div>
@@ -77,12 +75,12 @@ and provide updates on application statuses, among other features.</p>
 and provide households with information on water-saving adjustments early
 via a customer portal.</p>
 <h3>Building blocks for development</h3>
-<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="Singapore Government Tech Stack event" src="/images/technews/Doubling_down_on_cloud_to_deliver_better_government_services_3_compressed.jpg">
 </div>
 <p>To support the increased use of the commercial cloud in developing government
-IT systems, GovTech will enhance the&nbsp;<a href="https://www.tech.gov.sg/products-and-services/singapore-government-tech-stack" class="editor-rtfLink" rel="noopener noreferrer nofollow" target="_blank">Singapore Government Tech Stack (SGTS)</a>.</p>
+IT systems, GovTech will enhance the&nbsp;Singapore Government Tech Stack
+(SGTS).</p>
 <p>The centralised platform that enables quick and efficient deployment of
 digital services to the government will offer a suite of services and tools
 that public agencies can use to maintain application consistency and quality.</p>
@@ -115,7 +113,6 @@ students’ oral skills. Computer-based written exams were also used for
 some subjects. These e-exams are supported by SEAB’s eExam system, which
 allows assessment specialists to set e-exam papers and mark them and for
 students to submit answers electronically.</p>
-<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="A student watches a video stimulus during a past oral examination" src="/images/technews/Doubling_down_on_cloud_to_deliver_better_government_services_4_resized.jpg">
 </div>
@@ -132,10 +129,10 @@ marking and generate insights to improve teaching.</p>
 <h3>Robust partnerships</h3>
 <p>More will be done to provide opportunities for the private sector to support
 the cloud-first drive.</p>
-<p>This year, GovTech awarded 17 companies in a co-development tender to&nbsp;
-<a href="https://www.tech.gov.sg/media/technews/govt-award-up-ict-contracts" class="editor-rtfLink" rel="noopener noreferrer nofollow" target="_blank">support public agencies embarking on agile-based projects</a>&nbsp;by
-leveraging the SGTS — with requirements to develop applications that can
-be hosted on the cloud.</p>
+<p>This year, GovTech awarded 17 companies in a co-development tender to&nbsp;support
+public agencies embarking on agile-based projects&nbsp;by leveraging the
+SGTS — with requirements to develop applications that can be hosted on
+the cloud.</p>
 <p>One of the companies, Ufinity, an IT solutions engineering company, welcomed
 the focus on government-industry collaboration.</p>
 <p>The company’s chief executive Tung Teck Lee said: “We are glad to have
