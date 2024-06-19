@@ -10,6 +10,8 @@ description: ""
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="Why kids should consider Coding" src="/images/technews/why-kids-should-consider-coding-part-1.jpg">
 </div>
+<p><em>Image credit: Mr Hardi Ismail (MSO)</em>
+</p>
 <p>“Everyone should learn how to program a computer, because it teaches you
 how to think.”</p>
 <p>These (slightly paraphrased) words still resonate 21 years after the late
@@ -24,8 +26,6 @@ from Code.org.</p>
 <p>Of course, it helped that there was a Star Wars gamification element that
 made it fun, during the session held at the HIVE located at the Sandcrawler
 Building.</p>
-<p>You can learn more about the event by checking out this <a href="https://blog.gds-gov.tech/we-taught-kids-how-to-code-heres-what-i-learned-2b59aecb8289" rel="noopener noreferrer nofollow" target="_blank">GDS blog.</a>
-</p>
 <p>It's a very different world today from the childhoods of most GovTechies.</p>
 <p>Many children today take to computers, smartphones and tablets like digital
 natives, and there's a proliferation of coding classes and courses.</p>
@@ -33,7 +33,7 @@ natives, and there's a proliferation of coding classes and courses.</p>
 truly benefit from picking up coding?</p>
 <p>In the spirit of adopting future-proof skills, here are four reasons why
 experts say learning how to code could be good for children.</p>
-<h3><strong>1. Code is a universal language.</strong></h3>
+<h3>Code is a universal language</h3>
 <p>The code that ran the computer systems aboard Apollo 11, the very first
 human spaceflight that famously landed Neil Armstrong on the Moon, was
 far less complicated than the code behind Microsoft Word — or Pokémon Go.</p>
@@ -51,7 +51,7 @@ be the norm, rather than the exception,” said Mr Loong.</p>
 <p>“Equipping children with these skills at a young age would hence ensure
 that they are ready for the new norm and put them in excellent stead in
 the increasingly competitive job market,” he advised.</p>
-<h3><strong>2. Picking up problem-solving early</strong></h3>
+<h3>Pick up problem-solving early</h3>
 <p>“Programmers build skills in problem solving, systems design, and logical
 thinking. New programming languages and approaches emerge often, so things
 don’t ever get old,” said Mr KT Khoo, Business Development Manager of Tinkercademy,
@@ -64,7 +64,7 @@ design skills,” Mr Loong said.</p>
 <p>“Contrary to some accounts, programming is not a solitary activity as
 you get to work in teams, and connect with tech communities around the
 world,” Mr Khoo added.</p>
-<h3><strong>3. Never too young or too old to start</strong></h3>
+<h3>Never too young or too old to start</h3>
 <p>The good news is, with age-appropriate technology toys available, coding
 and programming can be learned from a very young age. “At any age from
 four and up, really,” said Mr Khoo.</p>
@@ -83,7 +83,7 @@ robots Sphero and Dash &amp; Dot also give them the chance to learn to
 perform various tasks and solve problems.</p>
 <p>As for kids 13 years and above, Mr Khoo recommends getting their hands
 dirty with actual code.</p>
-<h3><strong>4. Invent the future</strong></h3>
+<h3>Invent the future</h3>
 <p>This is a no-brainer. With the proliferation of apps, digital services
 and platforms that serve to make our everyday lives better, programming
 and computing skills are essential to Singapore’s vision of becoming a
@@ -104,12 +104,4 @@ for everyone, but it’s easy enough to find out,” Mr Khoo pointed out.</p>
 <p>“Increasingly, most aspects of work, life and fun are tied inseparably
 to programming. If it is their thing, then they will have a chance to literally
 invent the future.”</p>
-<hr>
-<p>Image credit</p>
-<ol data-tight="true" class="tight">
-<li>
-<p>All photos courtesy of Mr Hardi Ismail (MSO) And that, ladies and gentlemen,
-is why GovTech believes in inspiring children to explore coding.</p>
-</li>
-</ol>
 <p></p>
