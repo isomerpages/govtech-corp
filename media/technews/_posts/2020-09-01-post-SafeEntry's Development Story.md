@@ -33,11 +33,11 @@ needed to come on board SafeEntry within the next 10 days!</p>
 <p>With businesses and livelihoods depending on us, we leveraged our past
 experiences and rolled up our sleeves to expedite our development. We looked
 at two existing products that we had built – the Travel &amp; Health Declaration
-System (THDS) and&nbsp;<a href="https://www.tech.gov.sg/media/technews/www.ndi-api.gov.sg" class="editor-rtfLink" rel="noopener noreferrer nofollow" target="_blank">National Digital Identity (NDI) Developer &amp; Partner Portal</a>&nbsp;(DPP).</p>
+System (THDS) and&nbsp;National Digital Identity (NDI) Developer &amp;
+Partner Portal&nbsp;(DPP).</p>
 <p>THDS provided the web application which allowed individuals to check-in
 and check-out, while DPP provided the self-service and automated on-boarding
 platform for businesses to get their QR codes.</p>
-<p></p>
 <div class="iframe-wrapper">
 <iframe style="max-width: 100%;" height="400" width="100%" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/Xk994lH-8Dg?si=Rn25aESp3HS7DNWp"></iframe>
 </div>
@@ -113,7 +113,7 @@ to scan QR codes without help.</p>
 group check in function, after observing families with young children and
 elderly struggling to check in when they are out.</p>
 <p>Thankfully, with the new features and everyone’s efforts to check in and
-out,&nbsp;<a href="https://www.straitstimes.com/singapore/digital-tools-help-speed-up-contact-tracing-efforts-to-ring-fence-cases" class="editor-rtfLink" rel="noopener noreferrer nofollow" target="_blank">contact tracers can now use SafeEntry logs of locations</a>&nbsp;that
+out,&nbsp;contact tracers can now use SafeEntry logs of locations&nbsp;that
 patients have been to as a reference in their contact tracing efforts.</p>
 <h3>What’s next, then?</h3>
 <p>Since launch, we have seen an average of 9 million daily check-ins, with
