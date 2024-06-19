@@ -22,7 +22,7 @@ technologies from public and private organisations across Singapore.</p>
 <p>Check out this year’s Public Sector winners of the National Infocomm Awards,
 which was jointly organised by the Infocomm Media Development Authority
 (IMDA) and Singapore Infocomm Technology Federation (SiTF).</p>
-<h3><strong>Ask Me Anything, I'm a ChatBot</strong></h3>
+<h3>Ask Me Anything, I'm a ChatBot</h3>
 <p>If you have questions on your eligibility for the Baby Bonus and there
 is no one to consult with in the middle of the night, you might want to
 ask Jamie instead of waiting till the next day to speak to an agent at
@@ -47,7 +47,7 @@ enhance interaction between citizens and the government.</p>
 <p>So, expect to use popular messaging platforms such as the Facebook Messenger,
 Skype and Telegram to ask questions via Ask Jamie soon, and to carry out
 transactions in future.</p>
-<h3><strong>North star guidance for public transport</strong></h3>
+<h3>North star guidance for public transport</h3>
 <p>This year’s winner in the Most Innovative Use of Infocomm Technology (Public
 Sector) category has made a difference for millions of Singaporean commuters.</p>
 <p>With the Land Transport Authority’s (LTA) Project Land Transport Real-time
@@ -70,7 +70,7 @@ allows bus operators to understand the demand, and correspondingly increase
 the number of buses on busy routes.</p>
 <p>Information on traffic incidents is also made available to every bus driver
 on a dual-language console to help them complete their journeys smoothly.</p>
-<h3><strong>Crowdsourced first responders with a heart</strong></h3>
+<h3>Crowdsourced first responders with a heart</h3>
 <p>Here's a sobering statistic: Close to 5,000 people suffer a cardiac arrest
 in Singapore each year.</p>
 <p>In the event of cardiac arrest, every minute that passes decreases the
@@ -97,7 +97,7 @@ drivers and is believed to be the first of its kind in Southeast Asia.</p>
 sessions, and the response has been heartwarming.</p>
 <p>According to Lieutenant de Souza, over 10,000 people have registered as
 responders to date, and their feedback is helping to improve the app.</p>
-<h3><strong>Packing less errors in billing</strong></h3>
+<h3>Packing less errors in billing</h3>
 <p>In the past, paper invoices from the National Health Group Pharmacy (NHGPh)
 had to be transcribed manually by staff at the Institute of Mental Health
 (IMH) Pharmacy into their billing system.</p>
