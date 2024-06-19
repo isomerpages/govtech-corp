@@ -9,11 +9,10 @@ description: 🔒 Keep hackers at bay! Follow these simple guidelines to secure
 variant: tiptap
 ---
 <h3>We don’t think twice when it comes to downloading the latest security patches and software for our computers. After all, we know too well the danger that hackers pose.</h3>
-<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="seven ways to protect your smartphone from hackers" src="/images/technews/Seven_ways_to_protect_your_smartphone_from_hackers.jpg">
 </div>
-<p><em>What have you done to secure your smartphone? PHOTO: <a href="https://www.straitstimes.com/singapore/man-in-row-with-bank-over-hacked-phone" rel="noopener noreferrer nofollow" target="_blank">UNSPLASH.COM</a></em>
+<p><em>What have you done to secure your smartphone? </em>
 </p>
 <p>But what have you done recently to secure your smartphone or tablet? This
 a device that contains info that is equally, if not more sensitive than
@@ -35,12 +34,11 @@ malware checks and thus pose greater security risks. By bypassing the app
 stores, you’re forgoing a crucial level of security screening. Not advisable.</p>
 <h3>2. Enable Anti-Malware!</h3>
 <p>In 2019, there were hundreds of malicious apps on the Google Play store
-containing&nbsp;<a href="https://us.norton.com/internetsecurity-emerging-threats-hundreds-of-android-apps-containing-dresscode-malware-hiding-in-google-play-store.html" class="editor-rtfLink" rel="noopener noreferrer nofollow" target="_blank">‘DressCode’</a>,
-a malware which infected over 400 apps there.</p>
+containing&nbsp;‘DressCode’, a malware which infected over 400 apps there.</p>
 <p>What this tells us is that even if apps are indeed on the app store, you
 can’t count on them to be completely safe – even the most stringent of
 checks can sometimes be slipped past.</p>
-<p>To avoid such situations, anti-malware such as&nbsp;<a href="https://www.cnet.com/how-to/how-to-check-your-android-phone-for-malicious-apps/" class="editor-rtfLink" rel="noopener noreferrer nofollow" target="_blank">Google Play Protect</a>&nbsp;can
+<p>To avoid such situations, anti-malware such as&nbsp;Google Play Protect&nbsp;can
 be enabled to scan apps before downloading, as well as updates before they
 are installed.</p>
 <h3>3. Update your apps and operating systems (OS) regularly</h3>
@@ -61,11 +59,10 @@ your phone into USB charging stations indiscriminately – you might be compromi
 your security.</p>
 <p>Experts call this ‘juice hacking’ – hackers can secretly copy files or
 install malicious software in your phone. And lest you think this will
-take a while,&nbsp;<a href="https://theconversation.com/charging-your-phone-using-a-public-usb-port-beware-of-juice-jacking-130947" class="editor-rtfLink" rel="noopener noreferrer nofollow" target="_blank">60 seconds is all the hackers need.</a>
-</p>
-<p>If necessary, consider plugging a&nbsp;<a href="https://www.pcworld.com/article/3454899/traveling-this-7-gadget-protects-your-phone-from-treacherous-usb-charging-ports.html" class="editor-rtfLink" rel="noopener noreferrer nofollow" target="_blank">USB Data Blocker</a>&nbsp;between
-your device and the charging port as a security measure against risks of
-infecting your device with malware.</p>
+take a while,&nbsp;60 seconds is all the hackers need.</p>
+<p>If necessary, consider plugging a&nbsp;USB Data Blocker&nbsp;between your
+device and the charging port as a security measure against risks of infecting
+your device with malware.</p>
 <p>Otherwise, just carry a good old power bank around.</p>
 <h3>6. Avoid public/untrusted WiFi connections</h3>
 <p>Tempted to join that password free public WiFi? Stop right there. This
