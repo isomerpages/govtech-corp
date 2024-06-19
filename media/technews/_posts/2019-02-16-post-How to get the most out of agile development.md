@@ -46,7 +46,7 @@ remain as status quo. Unfortunately, nothing can be further from the truth.</p>
 <p>For agile development to be effective, stakeholders and product owners
 have to reduce wastage by changing their behaviours and providing a conducive
 environment for the delivery team. Otherwise, teams should stick with traditional
-<a href="https://en.wikipedia.org/wiki/Waterfall_model" rel="noopener noreferrer nofollow" target="_blank">waterfall development</a>.</p>
+waterfall development.</p>
 <p>Here are seven types of wastage teams should eliminate to maximise the
 potential of agile development.</p>
 <h3>Seven types of wastage teams need to eliminate in agile development</h3>
@@ -105,7 +105,7 @@ cost in favour of higher utilisation of people.</p>
 is the final type of wastage. The best way to prevent overproduction is
 to build the smallest possible feature or product (MVP) and validate it
 before building a bigger and better version.</p>
-<p>Unfortunately, overproduction often happens because of <a href="https://medium.com/producthood/the-arrogance-of-building-a-perfect-product-25c4dd26ab41" rel="noopener noreferrer nofollow" target="_blank">product arrogance</a>.
+<p>Unfortunately, overproduction often happens because of product arrogance.
 Product owners and other stakeholders are often overly certain of their
 ideas and hypotheses and choose to skip the MVP to invest in a full-blown
 product.</p>
@@ -115,5 +115,4 @@ all other forms of wastage.</p>
 and stakeholders can eliminate them. Otherwise, it is just another fancy
 idea that produces more noise than substance.</p>
 <p>I hope this article broadens your perspective on what is essential in
-agile development and how it can work better. Reach me at steven_koh@tech.gov.sg
-for comments and feedback.</p>
+agile development and how it can work better.</p>
