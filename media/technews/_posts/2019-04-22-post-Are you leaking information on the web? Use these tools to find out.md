@@ -12,7 +12,9 @@ variant: tiptap
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="Are you leaking information on the web? Use these tools to find out" src="/images/technews/are-you-leading-information-on-the-web-part1.png">
 </div>
-<h3>Information that is publicly available on the internet can be used for good or malicious intent. Here’s how you can scan the web with open-source intelligence (OSINT) tools to protect yourself or your organisation.</h3>
+<p>Information that is publicly available on the internet can be used for
+good or malicious intent. Here’s how you can scan the web with open-source
+intelligence (OSINT) tools to protect yourself or your organisation.</p>
 <p>It’s a recurrent trope in spy movies—a skilled secret agent infiltrates
 an organisation and gathers compromising data on its people and processes;
 information that can be used as leverage. Far from being limited to works
@@ -77,7 +79,7 @@ versions of its websites.</p>
 <p>Defensively, organisations may use Wayback Machine to ensure that no sensitive
 data exists in legacy editions of its webpages.</p>
 <h3>Sploitus</h3>
-<p><a href="https://sploitus.com/" rel="noopener noreferrer nofollow" target="_blank">Sploitus</a>is
+<p><a href="https://sploitus.com/" rel="noopener noreferrer nofollow" target="_blank">Sploitus</a> is
 a search engine for publicly-available exploits for vulnerable software.
 Attackers may use these exploits to launch attacks against organisational
 assets.</p>
