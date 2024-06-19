@@ -36,8 +36,7 @@ you like to solve that requires coding? Setting these objectives right
 from the start can help you decide which programming language to pick up.</p>
 <p>If your ambition is to create a whole new operating system, perhaps you
 ought to learn C++. For developing a website, HTML would be an essential
-starting point. Need help deciding? Check out this&nbsp;<a href="https://lifehacker.com/learn-which-programming-language-to-choose-with-this-in-1669612111" class="editor-rtfLink" rel="noopener noreferrer nofollow" target="_blank">infographic</a>&nbsp;on
-the different types of programming languages and their applications.</p>
+starting point.</p>
 <h4>2. Get the right tools</h4>
 <p>Once you know which programming language you need, the next question might
 be: Where do I type in the code? To do this, you’ll need to download a
@@ -65,7 +64,7 @@ note that these certificates cannot be used for formal accreditation.</p>
 <h4>4. Find inspiration</h4>
 <p>Learning to code is a long and cumulative process, so some persistence
 is definitely required. When you feel yourself losing interest or passion,
-why not check out live-coding websites like&nbsp;<a href="https://www.education-ecosystem.com/projects" class="editor-rtfLink" rel="noopener noreferrer nofollow" target="_blank">this</a>&nbsp;to
+why not check out live-coding websites like&nbsp;<a href="https://educationecosystem.com/projects" class="editor-rtfLink" rel="noopener noreferrer nofollow" target="_blank">Education Ecosystem</a>&nbsp;to
 remind yourself of what you’ll be able to do once you’ve achieved a certain
 level of mastery? In the process, you’ll also get an idea of the challenges
 that programmers run into when trying to create an application from scratch—perfect
