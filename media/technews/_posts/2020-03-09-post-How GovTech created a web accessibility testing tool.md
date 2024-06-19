@@ -89,13 +89,12 @@ at any point in their development process to get a readout of accessibility,
 not wait until the product is finished before testing for accessibility
 as an afterthought.”</p>
 <p>The team is now trialling their accessibility testing tool with colleagues
-at GDS, including <a href="http://DesignSystem.gov.sg" rel="noopener noreferrer nofollow" target="_blank">DesignSystem.gov.sg</a>, and the Ministry
-of Culture, Community and Youth (MCCY)’s grants portal with the aim of
-raising the inclusiveness and ease-of-use of e-services. Ms Yang Kaiting,
-an associate software engineer at GovTech, highlighted that in the future,
-the tool may even be able to suggest constructive fixes to developers.
-Features catering to individuals with hearing and cognitive disabilities
-are also in the works, she added.</p>
+at GDS and the Ministry of Culture, Community and Youth (MCCY)’s grants
+portal with the aim of raising the inclusiveness and ease-of-use of e-services.
+Ms Yang Kaiting, an associate software engineer at GovTech, highlighted
+that in the future, the tool may even be able to suggest constructive fixes
+to developers. Features catering to individuals with hearing and cognitive
+disabilities are also in the works, she added.</p>
 <p>“We all believe that inclusivity is a team sport. It’s not something that
 you pursue ‘only if you are interested in it’,” said Mr Chew Kia Hwee,
 a user experience designer at GovTech who helped design the accessibility
