@@ -12,7 +12,9 @@ variant: tiptap
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="Students from post-secondary institutions to devise digital solutions for a smart nation at the inaugural ‘Build On, Singapore 2019’ hackathon." src="/images/technews/Build_On__Singapore_2019.jpg">
 </div>
-<h3>Students from post-secondary institutions put their heads together to devise digital solutions for a smart nation at the inaugural ‘Build On, Singapore 2019’ hackathon.</h3>
+<p>Students from post-secondary institutions put their heads together to
+devise digital solutions for a smart nation at the inaugural ‘Build On,
+Singapore 2019’ hackathon.</p>
 <p>Transforming Singapore into a smart nation is no easy feat—it takes both
 technology and talent, and both were on display at the inaugural ‘Build
 On, Singapore 2019’ hackathon.</p>
@@ -74,10 +76,9 @@ GovTech, who was also one of the senior judges for the hackathon.</p>
 and the government during this hackathon, and I think such competitions
 help us build and identify talent to achieve our smart nation goals,” he
 said.</p>
-<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="The team from the NUS School of Computing was one of the winners of the Build On, Singapore 2019 Hackathon." src="/images/technews/build_on_part2.jpg">
 </div>
-<p><strong>NUS president Tan Eng Chye (far left) with members of NUS’ 5 Peas in a Pod - (from left) Mr Xavier Xie, 24, Ms Rebecca Tan, 25, Ms Victoria Teo, 22, Mr Vincent Leow, 24, and Mr Teo Kai Cheng, 26. The team from the NUS School of Computing was one of the winners of the Build On, Singapore 2019 Hackathon.</strong>
+<p><em>NUS president Tan Eng Chye (far left) with members of NUS’ 5 Peas in a Pod - (from left) Mr Xavier Xie, 24, Ms Rebecca Tan, 25, Ms Victoria Teo, 22, Mr Vincent Leow, 24, and Mr Teo Kai Cheng, 26. The team from the NUS School of Computing was one of the winners of the Build On, Singapore 2019 Hackathon.</em>
 </p>
 <p></p>
