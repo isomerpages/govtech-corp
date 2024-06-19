@@ -12,11 +12,10 @@ variant: tiptap
 <p>Even as Singapore progressively reopens its economy, many of us continue
 to work from home today. Such arrangements are essential to cut down unnecessary
 travel and interaction to keep Covid-19 at bay.</p>
-<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="Hardware and wires that power servers" src="/images/technews/This_is_why_you_need_a_VPN.jpg">
 </div>
-<p><em>A VPN brings about several benefits, read on to find out more! PHOTO: <a href="https://www.todayonline.com/commentary/guard-against-common-cyber-attacks-while-working-home" rel="noopener noreferrer nofollow" target="_blank">UNSPLASH.com</a></em>
+<p><em>A VPN brings about several benefits, read on to find out more! </em>
 </p>
 <p>But even as you stay physically safe in your home office, you may be unwittingly
 exposing yourself and your organisational network to viruses and contamination
@@ -24,12 +23,11 @@ of a digital nature instead.</p>
 <p>While working from home has compelled businesses to accelerate their digital
 transformations, bad actors have also seen this as a “great opportunity”
 to target home networks that typically aren’t as secure as corporate ones.</p>
-<p>According to this&nbsp;<a href="https://www.todayonline.com/commentary/guard-against-common-cyber-attacks-while-working-home" class="editor-rtfLink" rel="noopener noreferrer nofollow" target="_blank">commentary</a>&nbsp;by
-a cyber security specialist, more than 2,000 malicious domain names containing
-pandemic-related words like “Covid” were registered in the first three
-months of 2020. In March, a&nbsp;<a href="https://www.facebook.com/leehsienloong/photos/a.344710778924968/3154441464618538/?type=3" class="editor-rtfLink" rel="noopener noreferrer nofollow" target="_blank">phishing scam</a>&nbsp;sent
-emails purportedly from Prime Minister Lee Hsien Loong to lure unsuspecting
-individuals to respond.</p>
+<p>According to commentary&nbsp;by a cybersecurity specialist, more than
+2,000 malicious domain names containing pandemic-related words like “Covid”
+were registered in the first three months of 2020. In March, a&nbsp;phishing
+scam&nbsp;sent emails purportedly from Prime Minister Lee Hsien Loong to
+lure unsuspecting individuals to respond.</p>
 <p>And while accessing company information through the internet, your communication
 – which travels to and from your computer – could be intercepted somewhere
 along the round trip by hackers who want to see what you’re up to.</p>
@@ -50,9 +48,7 @@ information, have long made VPN mandatory for remote access.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="The simplified process of how a VPN works" src="/images/technews/This_is_why_you_need_a_VPN_2.png">
 </div>
-<p>Spend 10 seconds on this diagram, and you will know how a VPN works! PHOTO:
-<a href="https://www.todayonline.com/commentary/guard-against-common-cyber-attacks-while-working-home" rel="noopener noreferrer nofollow" target="_blank">UNSPLASH.com</a>
-</p>
+<p>Spend 10 seconds on this diagram, and you will know how a VPN works!</p>
 <h3>Wait, so the VPN knows what I’m up to?</h3>
 <p>In a word, yes. This is why it’s imperative that you use a trustworthy
 one and not sign up for some fly-by-night service just because it’s free.</p>
