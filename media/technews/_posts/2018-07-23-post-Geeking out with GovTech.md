@@ -79,9 +79,6 @@ and being agile, chances are you will not survive in this industry.”</p>
 <p>On boldness, Mr Chan commended the participants for leaving their comfort
 zones and experimenting with a platform—Arduino—that was initially foreign
 to them. Finally, he noted how collaboration is crucial to success.</p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="abc of innovation" src="/images/technews/geeking-out-with-govtech-part-3.PNG">
-</div>
 <p>“Because of the way technology cuts across many domains today, even if
 you are not doing programming or coding per se, your work will still be
 closely related to it. For example, at GovTech we have sociologists and
