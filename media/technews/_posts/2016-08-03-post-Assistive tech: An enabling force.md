@@ -49,7 +49,7 @@ the benefits of technology to the doorstep of Singapore’s special needs
 community.</p>
 <p>It will also help students, caregivers and the general public to better
 appreciate the needs of this community.</p>
-<h3><strong>Assistive Tech here to help</strong></h3>
+<h3>Assistive Tech here to help</h3>
 <p>Among the IT/AT devices on display in the wheelchair-accessible bus was
 an IT/AT software app helps the visually-impaired recognise various currencies,
 text-to-speech software, large typeface keyboards, digital image magnifiers
