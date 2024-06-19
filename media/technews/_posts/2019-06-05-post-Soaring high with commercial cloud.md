@@ -12,7 +12,10 @@ variant: tiptap
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="Panel of experts at the Smart Nation &amp; Digital Government Industry Briefing 2019" src="/images/technews/Soaring_high_with_commercial_cloud.jpg">
 </div>
-<h3>Digital services are being built on commercial cloud systems by the Singapore Government, and what this means for both individuals and businesses, as discussed by a panel at the Smart Nation &amp; Digital Government Industry Briefing 2019.</h3>
+<p>Digital services are being built on commercial cloud systems by the Singapore
+Government, and what this means for both individuals and businesses, as
+discussed by a panel at the Smart Nation &amp; Digital Government Industry
+Briefing 2019.</p>
 <p>In the digital era, common words are taking on new meanings. ‘Cloud,’
 for instance, no longer refers only to fluffy white blobs floating in the
 sky but also denotes a computing framework for remotely storing, managing,
