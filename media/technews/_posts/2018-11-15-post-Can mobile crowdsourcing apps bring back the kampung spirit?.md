@@ -8,7 +8,7 @@ description: ""
 variant: tiptap
 ---
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Can mobile crowdsourcing apps bring back the kampung spirit?" src="/images/technews/can-mobile-crowdsourcing-apps-bring-back-the-kampung-spirit-part1.png">
+<img style="width: 70%;" height="auto" width="100%" alt="Can mobile crowdsourcing apps bring back the kampung spirit?" src="/images/technews/can-mobile-crowdsourcing-apps-bring-back-the-kampung-spirit-part1.png">
 </div>
 <p>TL:DR: Despite the country’s high population density, many Singaporeans
 remain strangers even to their immediate neighbours. Mobile crowdsourcing
