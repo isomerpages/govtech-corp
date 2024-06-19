@@ -32,7 +32,7 @@ Summit 2017.</p>
 <p>“It’s very difficult for us to expand our road system, so there is a lot
 of compulsion to think of alternatives to the car-based culture we have
 today,” added Dr Hee.</p>
-<h3><strong>Engineering solutions</strong></h3>
+<h3>Engineering solutions</h3>
 <p>Constraints often breed innovations, and creative solutions to manage
 the volume of cars on Singapore roads came in two waves.</p>
 <p>The first wave was a policy decision to levy a charge on cars entering
@@ -58,7 +58,7 @@ that charges for the use of private cars in a more pervasive manner,” Dr
 Hee added.</p>
 <p>A wireless and gantry-free system, ERP 2.0 allows road pricing to be adjusted
 dynamically to ease congestion.</p>
-<h3><strong>Engineering environments</strong></h3>
+<h3>Engineering environments</h3>
 <p>Convenience and comfort are top considerations when people choose private
 cars over public transport.</p>
 <p>The fundamental design of urban environments can therefore go a long way
@@ -82,7 +82,7 @@ the private car feels redundant.</p>
 sectors so that people can benefit from seamless mobility,” said Dr Hee.</p>
 <p>“Instead of telling people you can’t drive, it’s better to offer them
 incentives in the form of mobility options.”</p>
-<h3><strong>Engineering mindsets</strong></h3>
+<h3>Engineering mindsets</h3>
 <p>Changes in external factors only go so far to motivate changes in behaviour.</p>
 <p>For a sustained push towards a car-lite society, a paradigm shift in Singaporeans’
 attitudes and mindsets towards private cars must occur.</p>
