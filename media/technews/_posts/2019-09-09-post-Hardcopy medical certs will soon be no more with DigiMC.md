@@ -12,7 +12,8 @@ variant: tiptap
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="With Digital MC, you can view your official medical certificates online" src="/images/technews/Hardcopy_medical_certs_will_soon_be_no_more_with_DigiMC_1.jpg">
 </div>
-<h3>Hardcopy medical certificates will soon be a thing of the past with DigiMC, a system that digitalises the issuance and submission of medical certificates.</h3>
+<p>Hardcopy medical certificates will soon be a thing of the past with DigiMC,
+a system that digitalises the issuance and submission of medical certificates.</p>
 <p>For most working adults, submitting a medical certificate (MC) is a certainty
 when one falls sick. In 2017, about one million hardcopy MCs were generated
 by SingHealth, Singapore’s largest public healthcare cluster. Not only
