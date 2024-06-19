@@ -9,7 +9,10 @@ description: 🎓 Tired of hunting for lost certificates? Discover how
   verification!
 variant: tiptap
 ---
-<h3>Have you ever searched high and low for your certificate, Diploma, or University degree, only to find out that your mom ‘Marie Kondo-ed’ your room and misplaced that precious scroll? We get you! For us, 80s and 90s kids, the case of missing certifications is a real thing.</h3>
+<p>Have you ever searched high and low for your certificate, Diploma, or
+University degree, only to find out that your mom ‘Marie Kondo-ed’ your
+room and misplaced that precious scroll? We get you! For us, 80s and 90s
+kids, the case of missing certifications is a real thing.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="OpenCerts: An easy way to check and verify your certificates" src="/images/technews/Losing_your_educational_certificates_is_now_a_thing_of_the_past_.png">
 </div>
