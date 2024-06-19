@@ -11,7 +11,9 @@ variant: tiptap
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="5 tricks to make sure your Wi-Fi never misses a spot" src="/images/technews/5_tricks_to_make_sure_your_Wi_Fi_never_misses_a_spot.jpg">
 </div>
-<h3>Physical obstructions and interfering devices can limit Wi-Fi coverage in a home setting. We highlight some tips to improve your home fibre broadband’s Wi-Fi strength and range.</h3>
+<p>Physical obstructions and interfering devices can limit Wi-Fi coverage
+in a home setting. We highlight some tips to improve your home fibre broadband’s
+Wi-Fi strength and range.</p>
 <p>Not getting ideal connections on your home’s wireless network? Or struggling
 with Wi-Fi Bermuda Triangles and ‘dead zones’ around the house? With our
 hectic online lifestyles, trying to troubleshoot wireless connectivity
