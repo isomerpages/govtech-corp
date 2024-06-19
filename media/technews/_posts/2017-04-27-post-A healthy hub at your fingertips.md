@@ -10,8 +10,11 @@ description: ""
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="a healthy hub at your fingertips" src="/images/technews/a-healthy-hub-at-your-fingertips-part-1.png">
 </div>
-<p>HealthHub is Singapore’s first one-stop online health information and
-services portal, with a mobile application too.</p>
+<p><em>Image credit: Photo of HealthHub team courtesy of Health Promotion Board (HPB).</em>
+</p>
+<p><a href="https://www.healthhub.sg/" rel="noopener noreferrer nofollow" target="_blank">HealthHub</a> is
+Singapore’s first, one-stop online health information and services portal,
+with a mobile application too.</p>
 <p>Ms Lena Lee, Senior IT Consultant, Chief Information Officer’s Office
 at HPB said: “HealthHub provides Singaporeans 24/7 secured access to reliable
 localised and citizen-centric content, personalised health records, medical
@@ -25,7 +28,7 @@ discharge summary, lab test results, screening records and view medical
 appointments across public healthcare institutions.</p>
 <p>Parents, too, can benefit: They can view their children’s health records,
 such as immunisation records, dental health records and referral letters.</p>
-<h3><strong>A host of health data</strong></h3>
+<h3>A host of health data</h3>
 <p>Putting HealthHub together was an immense and complex task.</p>
 <p>One of the challenges that the team faced — and overcame with sheer hard
 work — was the task of integrating data across many IT systems from all
@@ -50,7 +53,7 @@ view it as a useful tool to access health-related content, key medical
 records and e-services — and that it is important to continually provide
 HealthHub users the latest relevant information on health topics, as well
 as news and announcements, to keep them engaged.</p>
-<h3><strong>Caring for Caregivers</strong></h3>
+<h3>Caring for Caregivers</h3>
 <p>The HealthHub team continued to listen to feedback in order to improve
 the portal.</p>
 <p>Ms Lee said: “A common request that the HealthHub team received following
@@ -135,12 +138,4 @@ can also locate healthcare facilities and services.</p>
 </ul>
 <p>HealthHub is available at <a href="https://www.healthhub.sg/" rel="noopener noreferrer nofollow" target="_blank">www.healthhub.sg</a>, and easily accessible
 with a downloadable mobile app on both iOS and Android devices.</p>
-<hr>
-<p>Image credit:</p>
-<ol data-tight="true" class="tight">
-<li>
-<p>Photo of HealthHub team courtesy of Health Promotion Board (HPB). All
-screenshots from HealthHub portal.</p>
-</li>
-</ol>
 <p></p>
