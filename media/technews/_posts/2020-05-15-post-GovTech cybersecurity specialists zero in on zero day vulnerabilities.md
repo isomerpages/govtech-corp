@@ -107,11 +107,11 @@ and best practices to safeguard their data.</p>
 <h3>Hacking for public good</h3>
 <p>The work of GovTech’s cybersecurity specialists also supports Singapore’s
 journey towards a Smart Nation. Testing critical systems powering Singapore
-ensures that our Smart Nation initiatives and services, such as&nbsp;
-<a href="https://www.singpass.gov.sg/spauth/login/loginpage?URL=%2F&amp;TAM_OP=login" class="editor-rtfLink" rel="noopener noreferrer nofollow" target="_blank">SingPass</a>,&nbsp;<a href="https://www.tech.gov.sg/products-and-services/moments-of-life/" class="editor-rtfLink" rel="noopener noreferrer nofollow" target="_blank">Moments of Life</a>,&nbsp;
-<a href="https://www.gobusiness.gov.sg/licences" class="editor-rtfLink" rel="noopener noreferrer nofollow" target="_blank">GoBusiness</a>&nbsp;and Smart Nation Sensor Platform, to name a few, are
-built upon robust and secure systems and infrastructure. Users can access
-services with a peace of mind, knowing that their accounts are protected.</p>
+ensures that our Smart Nation initiatives and services, such as&nbsp; SingPass,&nbsp;Moments
+of Life,&nbsp; GoBusiness&nbsp;and Smart Nation Sensor Platform, to name
+a few, are built upon robust and secure systems and infrastructure. Users
+can access services with a peace of mind, knowing that their accounts are
+protected.</p>
 <p>“We are in a very privileged position – being able to access systems that
 the general public will not have a chance to interface with. If these government
 systems contain bugs, they may prove to be very valuable to malicious actors,”
