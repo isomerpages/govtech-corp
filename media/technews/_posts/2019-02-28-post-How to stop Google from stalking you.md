@@ -11,7 +11,9 @@ variant: tiptap
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="How to stop Google from stalking you" src="/images/technews/how-to-stop-google-from-stalking-you-part1.png">
 </div>
-<h3>In return for using Google’s apps and services, each of us surrenders some amount of information about ourselves. Here are some settings to toggle if you want to limit the amount of data Google collects about you.</h3>
+<p>In return for using Google’s apps and services, each of us surrenders
+some amount of information about ourselves. Here are some settings to toggle
+if you want to limit the amount of data Google collects about you.</p>
 <p>Imagine being approached by a stranger who knows exactly where you live
 and work, as well as what you like and dislike. In this digital age, that
 stranger most likely goes by the name of Google.</p>
@@ -31,8 +33,7 @@ what you search for and watch on YouTube, as well as your voice and audio
 activity. Here are three simple steps to revoke some of these permissions:</p>
 <ol>
 <li>
-<p>Open your Google account page at <a href="https://myaccount.google.com/" rel="noopener noreferrer nofollow" target="_blank">https://myaccount.google.com/</a>
-</p>
+<p>Open your Google account page</p>
 </li>
 <li>
 <p>Select Data &amp; Personalisation &gt; Activity Controls</p>
@@ -85,8 +86,7 @@ passwords again when accessing certain websites. If you’re determined to
 purge Google of your data and quit Google altogether, follow these steps:</p>
 <ol>
 <li>
-<p>Open your Google account page at <a href="https://myaccount.google.com/" rel="noopener noreferrer nofollow" target="_blank">https://myaccount.google.com/</a>
-</p>
+<p>Open your Google account page</p>
 </li>
 <li>
 <p>Select Data &amp; Personalisation &gt; Scroll down to Download your data
