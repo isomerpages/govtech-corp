@@ -10,6 +10,10 @@ description: ""
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="an inclusive visit" src="/images/technews/an-inclusive-visit-part-1.png">
 </div>
+<p><em>Photo: (From left) Mr Chan Cheow Hoe, GovTech Deputy Chief Executive; Mr William Tay, GDS Intern; Mr Lim Zui Young, DevOps Engineer at GDS; Minister Tan Chuan-Jin; Mr Parimal Aswani, Director, Technology at GDS.</em>
+</p>
+<p><em>Image credit: Ministry of Social and Family Development (MSF)</em>
+</p>
 <p>“Is this really a Government office?” Minister Tan Chuan-Jin quipped as
 he stepped into GovTech’s Hive office, home to the Government Digital Services
 (GDS) team.</p>
@@ -61,12 +65,4 @@ at Hive.</p>
 and check out the new drones currently being tested by GDS' Emerging Tech
 team, and also chat with several GovTechies.</p>
 <p>Thank you for the visit, Minister!</p>
-<p>Keen to find out more? There’s a story on the Enabling Village webpage
-featuring <a href="https://enablingvillage.sg/2016/11/24/5-tips-for-levelling-up-your-career-from-a-tech-geek/" rel="noopener noreferrer nofollow" target="_blank">five tips from Zui Young</a>.</p>
-<p>You can also check out Minister Tan Chuan-Jin’s Facebook video of his
-visit on his <a href="https://www.facebook.com/TanChuanJin1/videos/vb.182928775083239/1276220315754074/?type=3&amp;theater" rel="noopener noreferrer nofollow" target="_blank">Facebook page</a>!</p>
-<hr>
-<p>Main Photo: (From left) Mr Chan Cheow Hoe, GovTech Deputy Chief Executive;
-Mr William Tay, GDS Intern; Mr Lim Zui Young, DevOps Engineer at GDS; Minister
-Tan Chuan-Jin; Mr Parimal Aswani, Director, Technology at GDS.</p>
-<p>Main Photo courtesy of Ministry of Social and Family Development (MSF).</p>
+<p></p>
