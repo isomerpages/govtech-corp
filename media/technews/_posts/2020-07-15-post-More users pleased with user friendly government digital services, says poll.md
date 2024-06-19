@@ -10,7 +10,6 @@ description: Singaporeans give thumbs-up to government digital services,
 variant: tiptap
 ---
 <h3>Satisfaction survey scores among Singaporeans and businesses increased by eight percentage points in 2019 from a year earlier, the highest since 2012.</h3>
-<p></p>
 <div class="iframe-wrapper">
 <iframe style="max-width: 100%;" height="400" width="100%" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/BfMT-WLQ52E?si=_DtaUBdsO8jYexLK"></iframe>
 </div>
@@ -21,12 +20,12 @@ the thumbs-up just two years after the implementation of the Digital Government
 Blueprint. The five-year plan, launched in June 2018, outlines how the
 Government will better leverage data and harness new technologies to improve
 lives.</p>
-<p>In his keynote speech to wrap up GovTech’s five-week series, titled&nbsp;
-<a href="https://www.straitstimes.com/reengineering-the-operating-system-of-the-government" class="editor-rtfLink" rel="noopener noreferrer nofollow" target="_blank">Re-engineering the Government’s Operating System</a>, released online
-today, Mr Kok Ping Soon, chief executive of the Government Technology Agency
-(GovTech), said that citizens’ and businesses’ satisfaction with government
-digital services had increased by eight percentage points in 2019 to reach
-86 per cent and 77 per cent respectively.</p>
+<p>In his keynote speech to wrap up GovTech’s five-week series, titled&nbsp;Re-engineering
+the Government’s Operating System, released online today, Mr Kok Ping Soon,
+chief executive of the Government Technology Agency (GovTech), said that
+citizens’ and businesses’ satisfaction with government digital services
+had increased by eight percentage points in 2019 to reach 86 per cent and
+77 per cent respectively.</p>
 <p>This is according to the Annual Digital Government Perception Survey,
 which was conducted by the Smart Nation and Digital Government Office and
 GovTech from November to December last year.</p>
@@ -42,13 +41,12 @@ development to minimum viable products,” Mr Kok added.</p>
 is created to test the product’s feasibility in an actual market scenario.
 The Government will spend&nbsp;<a href="https://www.straitstimes.com/tech/govt-to-award-up-to-35b-in-ict-contracts-80-open-to-smes-this-year" class="editor-rtfLink" rel="noopener noreferrer nofollow" target="_blank">$3.5 billion this financial year</a>&nbsp;to
 remake its operating systems and fund tech innovations to improve people’s
-lives. More than $118 million from this budget will be pumped into&nbsp;
-<a href="https://www.straitstimes.com/singapore/doubling-down-on-cloud-to-deliver-better-government-servicestechnology" class="editor-rtfLink" rel="noopener noreferrer nofollow" target="_blank">information and communications</a>&nbsp;projects to develop better citizen-
-and business-facing digital applications.</p>
+lives. More than $118 million from this budget will be pumped into&nbsp;information
+and communications&nbsp;projects to develop better citizen- and business-facing
+digital applications.</p>
 <p>It will also refresh several apps that Singaporeans have come to rely
 on, including SingPass Mobile, which is used by more than 1.5 million people,
 to make them even more useful.</p>
-<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="GovTech making improvements on the Singpass app to be more user-friendly" src="/images/technews/More_users_pleased_with_user_friendly_govt_digital_services_1.jpg">
 </div>
@@ -59,9 +57,9 @@ interfaces (API) for integration. These include digital signing,&nbsp;
 <a href="https://www.straitstimes.com/tech/fingerprint-facial-id-for-singpass-authentication" class="editor-rtfLink" rel="noopener noreferrer nofollow" target="_blank">biometrics-as-a-service</a>, remote authorisation and MyInfo Business.</p>
 <p>APIs allow digital applications to communicate with one another and enable
 seamless data sharing among organisations. Over 100 businesses have integrated
-with the National Digital Identity (ndi) platform via GovTech’s&nbsp;
-<a href="https://www.ndi-api.gov.sg/" class="editor-rtfLink" rel="noopener noreferrer nofollow" target="_blank">ndi APIs</a>&nbsp;since 2018. The platform is designed to provide more
-convenience and security for citizens transacting online.</p>
+with the National Digital Identity (ndi) platform via GovTech’s&nbsp;NDI
+APIs&nbsp;since 2018. The platform is designed to provide more convenience
+and security for citizens transacting online.</p>
 <p>According to GovTech, close to 450,000 transactions are made on the platform
 each month. The agency added that businesses in sectors like banking, insurance,
 power supply and online retail have reported higher customer acquisition
@@ -69,7 +67,7 @@ rates and quicker transactions, with an 80 per cent reduction in transaction
 time.</p>
 <h3>Stronger partnerships</h3>
 <p>To speed up the transformation and adoption of government digital services,
-GovTech is&nbsp;<a href="https://www.straitstimes.com/tech/govt-to-award-up-to-35b-in-ict-contracts-80-open-to-smes-this-year" class="editor-rtfLink" rel="noopener noreferrer nofollow" target="_blank">strengthening its partnerships with industry and the community</a>&nbsp;to
+GovTech is&nbsp;strengthening its partnerships with industry and the community&nbsp;to
 co-create digital solutions. In June, it soft-launched a&nbsp;<a href="https://www.developer.gov.sg/" class="editor-rtfLink" rel="noopener noreferrer nofollow" target="_blank">Singapore Government Developer Portal</a>&nbsp;for
 firms and developers to learn more about its tech products.</p>
 <p>The portal is a centralised resource for developers to find key information
@@ -90,9 +88,9 @@ that solve problems caused by the pandemic. About 330 people from the public
 and businesses participated and submitted over 70 proposals, which offered
 solutions such as designing wearables for contact tracing and developing
 personal risk scores based on proximity data.</p>
-<p>To encourage public-private partnerships, government agencies are increasingly&nbsp;
-<a href="https://www.straitstimes.com/singapore/big-push-for-ai-proves-fruitful-and-useful" class="editor-rtfLink" rel="noopener noreferrer nofollow" target="_blank">sharing the source codes</a>&nbsp;of their digital products for industry
-developers to experiment with and build their own versions.</p>
+<p>To encourage public-private partnerships, government agencies are increasingly&nbsp;sharing
+the source codes&nbsp;of their digital products for industry developers
+to experiment with and build their own versions.</p>
 <p>Earlier this year, in response to the Covid-19 outbreak, GovTech developed
 VigilantGantry, a video analytics solution powered by artificial intelligence
 that automatically screens people’s temperatures when they pass through
@@ -103,7 +101,7 @@ foreheads. Mr Lim Kian Boon, deputy director of video analytics at GovTech,
 said: “VigilantGantry’s thermal scanner is designed to be modular so that
 companies can easily adapt and incorporate the technology to existing infrastructure,
 such as gated entrances.”</p>
-<p>“We hope that the private sector will use the&nbsp;<a href="https://github.com/dsaidgovsg/vigilantgantry" class="editor-rtfLink" rel="noopener noreferrer nofollow" target="_blank">source codes</a>&nbsp;to
+<p>“We hope that the private sector will use the&nbsp;source codes&nbsp;to
 scale and deploy to sites across Singapore.”</p>
 <h3>Many ways to contribute</h3>
 <p>Covid-19 has highlighted the importance of having&nbsp;<a href="https://www.straitstimes.com/singapore/early-tech-push-eases-covid-19-impact" class="editor-rtfLink" rel="noopener noreferrer nofollow" target="_blank">digital capabilities that enable the country to adapt to challenges.</a>&nbsp;To
@@ -114,21 +112,18 @@ to Singapore’s Smart Nation project.</p>
 for software engineers, cybersecurity specialists, data scientists, business
 analysts and infrastructure specialists,” said Mr Kok, adding that more
 than 600 talents were engaged through tech hunts held in June.</p>
-<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="Smart Nation Ambassador collecting feedback from citizens" src="/images/technews/More_users_pleased_with_user_friendly_govt_digital_services_2.jpg">
 </div>
 <p><em>Citizens can become Smart Nation Ambassadors to collect feedback on government agencies’ digital services and teach others basic digital skills. This photo was taken last year before safe distancing measures kicked in. PHOTO: SMART NATION AND DIGITAL GOVERNMENT OFFICE</em>
 </p>
-<p>Citizens can also become&nbsp;<a href="https://www.smartnation.gov.sg/resources/scope/smart-nation-ambassador---faq" class="editor-rtfLink" rel="noopener noreferrer nofollow" target="_blank">Smart Nation Ambassadors</a>&nbsp;to
-help collect feedback on government agencies’ digital services and teach
-others, especially senior citizens, basic digital skills, such as how to
-connect to Wi-Fi hotspots and personalise accessibility tools on their
-mobile devices.</p>
-<p>“You can also join us as&nbsp;<a href="https://www.tech.gov.sg/products-and-services/tech-kaki-community/" class="editor-rtfLink" rel="noopener noreferrer nofollow" target="_blank">Tech Kakis</a>&nbsp;to
-improve our products to make them better for users. We value your contributions
-in any form as we build a Smart Nation together,” said Mr Kok.</p>
-<p></p>
+<p>Citizens can also become&nbsp;Smart Nation Ambassadors&nbsp;to help collect
+feedback on government agencies’ digital services and teach others, especially
+senior citizens, basic digital skills, such as how to connect to Wi-Fi
+hotspots and personalise accessibility tools on their mobile devices.</p>
+<p>“You can also join us as&nbsp;Tech Kakis&nbsp;to improve our products
+to make them better for users. We value your contributions in any form
+as we build a Smart Nation together,” said Mr Kok.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="Tech Kaki user-test session with GovTechies" src="/images/technews/More_users_pleased_with_user_friendly_govt_digital_services_3.jpg">
 </div>
