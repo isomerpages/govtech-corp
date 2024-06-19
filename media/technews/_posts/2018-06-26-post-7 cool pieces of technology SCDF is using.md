@@ -16,6 +16,7 @@ these automatons and gadgets keep our homeland heroes safe in the line
 of duty. But even the public can make a difference through the myResponder
 mobile app, administering CPR or helping to tackle small fires before professional
 help arrives.</p>
+<hr>
 <p>When an emergency erupts in the heartlands, the brave men and women of
 the Singapore Civil Defence Force (SCDF) mobilise at the push of a button
 to save lives and restore calm.</p>
@@ -28,11 +29,10 @@ by the SCDF.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="7 cool pieces of technology scdf is using" src="/images/technews/7-cool-pieces-of-technology-SCDF-is-using-part-2.png">
 </div>
-<p><strong>1. Exoskeleton</strong>
-</p>
+<h3>1. Exoskeleton</h3>
 <p>A key element of firefighting operations is managing fatigue. The equipment
-that firefighters carry can weigh more than 40 kilogrammes, which means
-that even the fittest of heroes will tire eventually. To boost the physical
+that firefighters carry can weigh more than 40 kilograms, which means that
+even the fittest of heroes will tire eventually. To boost the physical
 endurance of firefighters and allow them to better focus on their missions,
 the SCDF is working with the Ministry of Home Affairs’ Office of the Chief
 Science and Technology Officer to develop and optimise an exoskeleton—essentially
@@ -46,8 +46,7 @@ exoskeleton.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="7 cool pieces of technology scdf is using" src="/images/technews/7-cool-pieces-of-technology-SCDF-is-using-part-3.png">
 </div>
-<p><strong>2. myResponder Mobile App</strong>
-</p>
+<h3>2. myResponder Mobile App</h3>
 <p>While the SCDF prides itself on arriving quickly at emergencies, there
 are some emergencies that are critically time-sensitive, such as a heart
 attack. The myResponder mobile app developed by GovTech was thus designed
@@ -66,8 +65,7 @@ the SCDF to quickly locate and dispatch emergency resources.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="7 cool pieces of technology scdf is using" src="/images/technews/7-cool-pieces-of-technology-SCDF-is-using-part-4.png">
 </div>
-<p><strong>3. Red Rhino Robot</strong>
-</p>
+<h3>3. Red Rhino Robot</h3>
 <p>While most people run away from a fire, firefighters must head towards
 the flames, putting themselves in harm’s way. The human body was never
 built to withstand thick, choking smoke and extreme heat, so the rescue
@@ -83,8 +81,7 @@ per vehicle to three instead of four.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="7 cool pieces of technology scdf is using" src="/images/technews/7-cool-pieces-of-technology-SCDF-is-using-part-5.png">
 </div>
-<p><strong>4. Pumper Firefighting Machine</strong>
-</p>
+<h3>4. Pumper Firefighting Machine</h3>
 <p>Designed to dive straight into the flames, the Pumper Firefighting Machine
 (PFM) can withstand temperatures of up to 250 degrees Celsius for ten minutes.
 But that’s just one of its many impressive features. Inside the complex
@@ -99,8 +96,7 @@ bot you want by your side in a burning building.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="7 cool pieces of technology scdf is using" src="/images/technews/7-cool-pieces-of-technology-SCDF-is-using-part-6.png">
 </div>
-<p><strong>5. Remote-Operated Underwater Vehicle</strong>
-</p>
+<h3>5. Remote-Operated Underwater Vehicle</h3>
 <p>Fires aren’t the only emergencies that the SCDF attends to; underwater
 search and rescue missions are also part of their job scope. This is where
 the Remote-Operated Underwater Vehicle (ROV), which looks like an assortment
@@ -113,8 +109,7 @@ divers, lowering their fatigue and risk exposure.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="7 cool pieces of technology scdf is using" src="/images/technews/7-cool-pieces-of-technology-SCDF-is-using-part-7.png">
 </div>
-<p><strong>6. Life Detection Robot</strong>
-</p>
+<h3>6. Life Detection Robot</h3>
 <p>In an urban disaster zone such as a collapsed building, looking for signs
 of life among the rubble can be difficult. Where human rescuers use their
 eyes and ears to seek out those who may be trapped beneath debris, the
@@ -128,12 +123,11 @@ to its location and extricate the victim from the wreckage.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="7 cool pieces of technology scdf is using" src="/images/technews/7-cool-pieces-of-technology-SCDF-is-using-part-8.png">
 </div>
-<p><strong>7. Autonomous Casualty Transporter</strong>
-</p>
+<h3>7. Autonomous Casualty Transporter</h3>
 <p>Casualty management is another important aspect of rescue missions. The
 SCDF has thus developed the Autonomous Casualty Transporter (ACT), which,
 as its name implies, helps to carry injured persons away from the disaster
-zone, without human supervision. It can bear loads up to 100 kilogrammes
+zone, without human supervision. It can bear loads up to 100 kilograms
 and travel over various types of terrain.</p>
 <p>Once the casualty has been secured on the stretcher (a locking mechanism
 on the ACT further ensures safety), the ACT navigates itself to a safe
@@ -141,4 +135,5 @@ location using sensors, moving along predetermined routes while avoiding
 obstacles. Its speed can be regulated according to the mission profile,
 and a status light and panel allow it to signal to rescuers with a flashing
 red light.</p>
-<p>Photo credit: Singapore Civil Defence Force</p>
+<hr>
+<p>Photos credit: Singapore Civil Defence Force</p>
