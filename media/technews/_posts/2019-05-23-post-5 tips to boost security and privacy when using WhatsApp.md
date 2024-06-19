@@ -12,10 +12,10 @@ variant: tiptap
 <div class="isomer-image-wrapper">
 <img style="width: 50%;" height="auto" width="100%" alt="WhatsApp icon" src="/images/technews/Whatsapp_icon_resized.jpg">
 </div>
-<p><em>Image by <a href="https://www.freepik.com/free-vector/whatsapp-icon-design_3049286.htm#fromView=search&amp;page=1&amp;position=1&amp;uuid=9af31f57-ec88-402d-b61f-a04254482fcc" rel="noopener noreferrer nofollow" target="_blank">freepik</a></em>
-</p>
-<h3>A recent vulnerability in WhatsApp’s voice call function has raised concerns over security and privacy on the popular messaging platform.</h3>
-<h3>We highlight some settings you can toggle to give you greater peace of mind when using WhatsApp.</h3>
+<p>A recent vulnerability in WhatsApp’s voice call function has raised concerns
+over security and privacy on the popular messaging platform.</p>
+<p>We highlight some settings you can toggle to give you greater peace of
+mind when using WhatsApp.</p>
 <p>Unless you’ve been on a self-imposed digital detox, you probably would
 have heard by now about a critical security flaw in WhatsApp that allows
 hackers to install spyware via the app’s voice call function. For the tech
