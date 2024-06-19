@@ -10,7 +10,8 @@ description: ""
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="govtech joins the smart nation and digital government group" src="/images/technews/govtech-joins-the-smart-nation-and-digital-government-group-part-1.jpg">
 </div>
-<p>Dear readers,</p>
+<p><em>Image credit: Courtest of GovTechie Darren Loh</em>
+</p>
 <p>Just in case you haven’t heard, the big news from last week is that GovTech
 will be part of the Prime Minister’s office (PMO) from 1 May 2017 onwards.</p>
 <p>You can read more from the official press release.</p>
@@ -58,14 +59,10 @@ the official media announcement on 20 March 2017.</p>
 </p>
 <p>There has been quite a bit of coverage about the formation of the SNDGG,
 and we'll share just a sampling.</p>
-<p>You can read all about it in publications such as The <a href="https://www.straitstimes.com/singapore/moves-to-speed-up-smart-nation-projects" rel="noopener noreferrer nofollow" target="_blank">The Straits Times</a>,
-<a href="http://m.todayonline.com/singapore/new-smart-nation-group-formed-pmo" rel="noopener noreferrer nofollow" target="_blank">Today Online</a>and <a href="https://www.computerworld.com.sg/tech/security/singapores-new-government-unit-will-speed-up-smart-nation-initiatives/" rel="noopener noreferrer nofollow" target="_blank">Computer World</a>,
-and others.</p>
+<p>You can read all about it in publications such as <a href="https://www.straitstimes.com/singapore/moves-to-speed-up-smart-nation-projects" rel="noopener noreferrer nofollow" target="_blank">The Straits Times</a>.</p>
 <p>An interesting angle was provided by the GovInsider portal, which highlighted
 the appointment of Dr Janil Puthucheary as the <a href="https://govinsider.asia/digital-gov/singapore-appoints-puthucheary-as-first-govtech-minister/" rel="noopener noreferrer nofollow" target="_blank">Minister in charge of GovTech.</a>
 </p>
-<p>An <a href="https://www.businesstimes.com.sg/opinion/new-agency-for-digital-projects-will-speed-up-defend-smart-nation" rel="noopener noreferrer nofollow" target="_blank">editorial in The Business Times</a> analysed
-the need for the move (Note: it’s behind a paywall).</p>
 <p>The formation of the SNDGG and GovTech's role also popped up in an Insight
 story in The Sunday Times, <a href="https://www.straitstimes.com/singapore/untangling-the-way-to-a-smart-nation" rel="noopener noreferrer nofollow" target="_blank">Untangling The Way To A Smart Nation</a>,
 which is a primer on the need to accelerate the Smart Nation transformation.</p>
@@ -74,11 +71,4 @@ which is a primer on the need to accelerate the Smart Nation transformation.</p>
 <p>In short, it's going to be an even more exciting ride for GovTech from
 1 May, and we’re ready to share our journey with you on our social media
 channels and of course, here on TechNews too.</p>
-<hr>
-<p>Photo Credit:</p>
-<ol data-tight="true" class="tight">
-<li>
-<p>Main image (top photo) courtesy of GovTechie Darren Loh.</p>
-</li>
-</ol>
 <p></p>
