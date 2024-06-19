@@ -12,7 +12,10 @@ variant: tiptap
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="Mr Chai Chin Loon, government chief information security officer on the importance of cybersecurity" src="/images/technews/chief_information_security_officer_keeps_cyberspace_secure___Part_2_1.jpg">
 </div>
-<h3>The Singapore government is crafting policy, tapping on technology and engaging with the community to strengthen the defence of government IT assets and citizen data, says Mr Chai Chin Loon, government chief information security officer.</h3>
+<p>The Singapore government is crafting policy, tapping on technology and
+engaging with the community to strengthen the defence of government IT
+assets and citizen data, says Mr Chai Chin Loon, government chief information
+security officer.</p>
 <p>If you had all the resources in the world, how would you protect your
 home against an intruder? You might put up CCTV cameras, install motion
 sensors along the walkways leading to your apartment, use multiple locks
