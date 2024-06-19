@@ -10,7 +10,6 @@ description: Discover how GovTech's SIOT team engineered a self-service
 variant: tiptap
 ---
 <h3>Take a behind-the-scenes look at how the Sensors and Internet of Things (SIOT) team at GovTech invented a system that automatically measures a person’s temperature.</h3>
-<p></p>
 <div class="iframe-wrapper">
 <iframe style="max-width: 100%;" height="400" width="100%" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/GeM9phUWgck?si=Ey7eG6ShXpRU5XmR"></iframe>
 </div>
@@ -112,14 +111,10 @@ is also providing GovTech with more units of thermometers from its stockpile
 to be upgraded into self-service scanners. ‘Orders’ for scanner units are
 already streaming in from other government agencies, so Mr Quek prioritises
 delivering the scanners to agencies carrying out more people-facing activities.</p>
-<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="GovTechies assessing the self-check temperature monitoring system" src="/images/technews/How_GovTech_developed_fit_for_purpose_temperature_scanners___Part_1_2.jpg">
 </div>
 <p>“This outcome really reflects the Agile methodology applied to hardware
 development and showcases how the country is coming together to fight this
 virus situation as a unit,” Mr Quek concluded.</p>
-<p>While the self-service approach works fantastically for areas with a low
-volume of human traffic, what are the options for areas which have to process
-more people? Read&nbsp;<a href="https://www.tech.gov.sg/media/technews/how-gt-developed-fit-for-purpose-temperature-scanners-part-2" class="editor-rtfLink" rel="noopener noreferrer nofollow" target="_blank">part 2</a>&nbsp;and&nbsp;
-<a href="https://www.tech.gov.sg/media/technews/how-gt-developed-fit-for-purpose-temperature-scanners-part-3" class="editor-rtfLink" rel="noopener noreferrer nofollow" target="_blank">part 3</a>&nbsp;to find out!</p>
+<p></p>
