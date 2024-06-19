@@ -11,7 +11,9 @@ variant: tiptap
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="The importance of VPN and how to choose provider" src="/images/technews/Why_you_need_a_vpn_smart_nation_govtech.jpg">
 </div>
-<h3>A virtual private network (VPN) connection could help enhance your privacy and security on the internet. We bring you some tips on how to decide if you need one and what to consider when selecting an ideal provider.</h3>
+<p>A virtual private network (VPN) connection could help enhance your privacy
+and security on the internet. We bring you some tips on how to decide if
+you need one and what to consider when selecting an ideal provider.</p>
 <p>Perhaps you’re a frequent traveller and often find yourself using free
 Wi-Fi hotspots at airports. Or maybe you’re used to working remotely from
 your laptop at a Starbucks café, latching onto its Wi-Fi network to avoid
