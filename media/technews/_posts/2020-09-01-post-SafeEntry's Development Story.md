@@ -142,4 +142,4 @@ familiar with scanning QR codes and how to use SafeEntry</p>
 do keep an eye out for it!</p>
 <p>In the meantime, we hope you continue to use your phone to check in/ check
 out – after all, it’s mandatory.</p>
-<p>Love, The GovTech team.</p>
+<p></p>
