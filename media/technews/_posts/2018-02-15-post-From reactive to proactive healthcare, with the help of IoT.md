@@ -8,7 +8,7 @@ date: 2018-02-15
 description: ""
 ---
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="from reactive to proactive healthcare with the help of iot" src="/images/technews/from-reactive-to-proactive-healthcare-with-the-help-of-iot-part-1.jpg">
+<img style="width: 60%;" height="auto" width="100%" alt="from reactive to proactive healthcare with the help of iot" src="/images/technews/from-reactive-to-proactive-healthcare-with-the-help-of-iot-part-1.jpg">
 </div>
 <ul data-tight="true" class="tight">
 <li>
