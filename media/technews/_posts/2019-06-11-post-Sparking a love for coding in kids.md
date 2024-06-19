@@ -11,7 +11,9 @@ variant: tiptap
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="GovTechies sparking a love for coding in young children" src="/images/technews/Sparking_a_love_for_coding_in_kids.jpg">
 </div>
-<h3>Children as young as eight learnt to build applications from scratch; made possible by GovTech staff volunteers who participated in GovTech’s signature Digital4Good programme from 5 March to 14 May 2019.</h3>
+<p>Children as young as eight learnt to build applications from scratch;
+made possible by GovTech staff volunteers who participated in GovTech’s
+signature Digital4Good programme from 5 March to 14 May 2019.</p>
 <p>Children growing up in today’s fast-paced, digitalised world could find
 that in addition to picking up conversational languages like English and
 their mother tongue, understanding the language of computers—coding—is
