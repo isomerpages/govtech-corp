@@ -12,7 +12,12 @@ variant: tiptap
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="how govtech simulates four million bus rides a day" src="/images/technews/how-govtech-simulates-four-million-bus-rides-day-part1.jpg">
 </div>
-<h3>TL;DR: Planning bus routes is no easy task; the Land Transport Authority of Singapore must consider the ripple effects of any changes to the transport network. With Reroute, a simulator developed by the Government Technology Agency of Singapore, Land Transport Authority can now test out different scenarios to maximise the convenience of bus services.</h3>
+<p>TL;DR: Planning bus routes is no easy task; the Land Transport Authority
+of Singapore must consider the ripple effects of any changes to the transport
+network. With Reroute, a simulator developed by the Government Technology
+Agency of Singapore, Land Transport Authority can now test out different
+scenarios to maximise the convenience of bus services.</p>
+<hr>
 <p>Imagine this scenario: a new housing development board estate is built
 in your neighbourhood and it sharply increases the volume of commuters
 on the feeder bus service. What used to be a comfortable ride now turns
