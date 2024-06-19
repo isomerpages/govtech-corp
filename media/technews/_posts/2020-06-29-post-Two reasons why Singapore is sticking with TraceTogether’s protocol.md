@@ -10,16 +10,14 @@ description: "Discover why TraceTogether, powered by BlueTrace, remains
 variant: tiptap
 ---
 <h3>Although alternatives exist, here’s why the BlueTrace-powered TraceTogether is still preferred for digital contact tracing in Singapore.</h3>
-<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="TraceTogether using Bluetooth technology" src="/images/technews/TraceTogether_protocol_resized.jpg">
 </div>
 <p>On 20 March 2020, the Government Technology Agency (GovTech) of Singapore
-released&nbsp;<a href="https://www.tracetogether.gov.sg/" class="editor-rtfLink" rel="noopener noreferrer nofollow" target="_blank">TraceTogether</a>, which uses
-Bluetooth technology to alert users if they have been in contact with COVID-19
-patients. The app was built to augment existing contact tracing efforts
-so that authorities can quickly identify and quarantine close contacts
-of COVID-19 patients.</p>
+released&nbsp;TraceTogether, which uses Bluetooth technology to alert users
+if they have been in contact with COVID-19 patients. The app was built
+to augment existing contact tracing efforts so that authorities can quickly
+identify and quarantine close contacts of COVID-19 patients.</p>
 <p>Since its launch, TraceTogether, which uses the BlueTrace protocol, has
 amassed more than two million users—roughly one in every three people living
 in Singapore. However, for the app to have any substantial impact on contact
@@ -52,11 +50,10 @@ orders. To protect user data, all IDs are encrypted—with only MOH retaining
 exclusive access to the identification key.</p>
 <p>However, some have raised questions about why the Government chose not
 to use the EN Protocol since it would lead to higher adoption among iOS
-users, and higher adoption would mean better contact tracing. In a&nbsp;
-<a href="https://www.facebook.com/Vivian.Balakrishnan.Sg/posts/10156889801466207" class="editor-rtfLink" rel="noopener noreferrer nofollow" target="_blank">Facebook post</a>&nbsp;on 15 June, the Minister in charge of the Smart
-Nation initiative, Dr Vivian Balakrishnan, said that while “it is a good
-and innovative system, however, we decided that it would be less effective
-in the local context.”</p>
+users, and higher adoption would mean better contact tracing. In a&nbsp;Facebook
+post&nbsp;on 15 June, the Minister in charge of the Smart Nation initiative,
+Dr Vivian Balakrishnan, said that while “it is a good and innovative system,
+however, we decided that it would be less effective in the local context.”</p>
 <h3>Pinpointing the source of infection</h3>
 <p>Why is this so? First, EN ultimately relies on users being responsible
 by monitoring their own symptoms and uploading their data to the cloud
@@ -94,9 +91,9 @@ BlueTrace or EN protocol well. In order to extend effective protection
 to as many people as possible, we had to consider [hardware] tokens that
 would be simpler, more effective and more convenient than phones,” noted
 Minister Balakrishnan.</p>
-<p>A new portable device, the&nbsp;<a href="https://www.tech.gov.sg/media/media-releases/2020-06-16-tracetogether-token-media-statement" class="editor-rtfLink" rel="noopener noreferrer nofollow" target="_blank">TraceTogether Token</a>,
-will help address some of the challenges faced by the mobile app, such
-as the need for maximum effectiveness and battery drain.</p>
+<p>A new portable device, the&nbsp;TraceTogether Token, will help address
+some of the challenges faced by the mobile app, such as the need for maximum
+effectiveness and battery drain.</p>
 <p>Such an option, however, wouldn’t have been possible with EN, which is
 limited to the iOS and Android operating systems. As a home-grown solution
 designed to meet the country’s needs, TraceTogether and the underlying
