@@ -48,8 +48,8 @@ disabilities. Going forward, he wants to help the community by using his
 abilities in software engineering to ensure that Singapore’s digital services
 are user-friendly for people of all walks of life and that those with disabilities
 are not left out of the rapid digitalisation effort.</p>
-<p><em>This article first appeared on The Purple Parade’s website. The Purple Parade supports inclusion and celebrates the abilities of persons with disabilities.&nbsp;<a href="https://www.purpleparade.sg/" class="editor-rtfLink" rel="noopener noreferrer nofollow" target="_blank">Read more about The Purple Parade Here.</a></em>
+<p><em>This article first appeared on The Purple Parade’s website. The </em>
+<a href="https://www.purpleparade.sg/" rel="noopener noreferrer nofollow" target="_blank">Purple Parade</a><em> supports inclusion and celebrates the abilities of persons with disabilities.&nbsp;Read more about The Purple Parade Here.</em>
 </p>
-<p><em>Enjoyed this article? Check out this&nbsp;<a href="https://www.tech.gov.sg/media/technews/how-tech-has-connected-and-uplifted-singapore-in-a-difficult-year" class="editor-rtfLink" rel="noopener noreferrer nofollow" target="_blank">article to see how tech has uplifted Singapore in a difficult year</a>&nbsp;or this article where we find out why a&nbsp;<a href="https://www.tech.gov.sg/media/technews/from-silicon-valley-to-govtechie" class="editor-rtfLink" rel="noopener noreferrer nofollow" target="_blank">GovTechie moved from Silicon Valley to Singapore’s</a>&nbsp;sunny shores.</em>
-</p>
+<p></p>
 <p></p>
