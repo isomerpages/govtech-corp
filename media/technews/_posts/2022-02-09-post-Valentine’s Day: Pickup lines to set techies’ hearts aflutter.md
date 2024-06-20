@@ -60,12 +60,11 @@ date looks. They’ll love it!</p>
 discussion on whether artificial intelligence will be the end of mankind.</p>
 <h3>Software Engineer</h3>
 <p><strong>Drop this line:</strong>&nbsp;“Did you lose a timestamp? Because
-I’m pretty sure it’s <a href="http://datetime.now" rel="noopener noreferrer nofollow" target="_blank">datetime.now</a>().”</p>
-<p>Why it works: <a href="http://datetime.now" rel="noopener noreferrer nofollow" target="_blank">datetime.now</a>()
-is a simple function for the computer to return the current date and time.
-Admittedly the line might work better in writing than verbally, but the
-function is used pretty often by coders so they’ll still catch on pretty
-quick.</p>
+I’m pretty sure it’s datetime(.)now.”</p>
+<p>Why it works: datetime(.)now is a simple function for the computer to
+return the current date and time. Admittedly the line might work better
+in writing than verbally, but the function is used pretty often by coders
+so they’ll still catch on pretty quick.</p>
 <p><strong>Bonus deal closer:</strong>&nbsp;Start a conversation about what’s
 the world’s most important coding language. Python? Java? Nah, it’s Cobol.</p>
 <h3>Product Manager</h3>
