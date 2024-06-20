@@ -25,8 +25,7 @@ and the procedure was also less invasive, as the patient’s eye socket was
 scanned digitally instead of having a mould of the socket made.</p>
 <p>Of course, this is far from the first breakthrough made possible by 3D
 printing. For instance, the technology has already been deployed in fields
-such as&nbsp;<a href="https://www.nbcnews.com/news/nbcblk/3d-printing-can-solution-nations-affordable-housing-crisis-rcna10725" class="editor-rtfLink" rel="noopener noreferrer nofollow" target="_blank">construction.</a>
-</p>
+such as construction.</p>
 <p>In this article, we’ll focus on the impact that 3D printing is having
 on products that we put on (or into) our bodies. But before we get there,
 a quick introduction to what exactly is 3D printing.</p>
@@ -35,26 +34,22 @@ a quick introduction to what exactly is 3D printing.</p>
 would have seen how the printhead runs back and forth the sheet of paper,
 almost like it’s inking layer by layer.</p>
 <p>Well, a 3D printer works pretty much the same way, except that it’s making
-a three-dimensional object by laying on&nbsp;<a href="https://www.hp.com/sg-en/shop/buying-guide-3d-printer" class="editor-rtfLink" rel="noopener noreferrer nofollow" target="_blank">successive thin layers of material</a>&nbsp;according
-to a digital blueprint. And yes, much like there are home-use and industry-grade
-ink printers, there are 3D printers that are suitable for personal use,
-which you can use to get up to all sorts of&nbsp;<a href="https://all3dp.com/1/useful-cool-things-3d-print-ideas-3d-printer-projects-stuff/" class="editor-rtfLink" rel="noopener noreferrer nofollow" target="_blank">home projects!</a>
-</p>
+a three-dimensional object by laying on&nbsp;successive thin layers of
+material&nbsp;according to a digital blueprint. And yes, much like there
+are home-use and industry-grade ink printers, there are 3D printers that
+are suitable for personal use, which you can use to get up to all sorts
+of&nbsp;home projects!</p>
 <p>With that, let’s get back to the main topic: impactful uses of 3D printing.</p>
 <h3>Prosthetic limbs</h3>
 <div class="isomer-image-wrapper">
 <img style="width: 80%;" height="auto" width="100%" alt="Patient being fitted with prosthetic arm" src="/images/technews/Blood__Flesh_and____3D_printing___2_.jpg">
 </div>
-<p>Photo by <a href="https://unsplash.com/@thisisengineering?utm_content=creditCopyText&amp;utm_medium=referral&amp;utm_source=unsplash" rel="noopener noreferrer nofollow" target="_blank">ThisisEngineering RAEng</a> on
-<a href="https://unsplash.com/photos/man-in-blue-crew-neck-shirt-holding-black-smartphone-J0XncLhc0vY?utm_content=creditCopyText&amp;utm_medium=referral&amp;utm_source=unsplash" rel="noopener noreferrer nofollow" target="_blank">Unsplash</a>
-</p>
 <p>Just like the example of the 3D printed eye, 3D printed prosthetic limbs
 bring a new level of aesthetics, although the look is more cyberpunk mimicking
 human flesh.</p>
 <p>Besides being much more customisable to ensure better fit and comfort,
-the designs are also eye-catchingly futuristic, such as&nbsp;<a href="https://newatlas.com/exo-prosthetic-leg-3d-printing/35297/" class="editor-rtfLink" rel="noopener noreferrer nofollow" target="_blank">see-through legs</a>&nbsp;and&nbsp;
-<a href="https://techcrunch.com/2016/06/26/the-future-of-3d-printed-prosthetics/" class="editor-rtfLink" rel="noopener noreferrer nofollow" target="_blank">bionic-like arms</a>&nbsp;and legs straight out of&nbsp;<a href="https://www.techradar.com/news/the-amazing-bionic-prosthetics-that-are-changing-lives-and-shaping-our-future" class="editor-rtfLink" rel="noopener noreferrer nofollow" target="_blank">video games.</a>
-</p>
+the designs are also eye-catchingly futuristic, such as&nbsp;see-through
+legs, bionic-like arms,&nbsp;and legs straight out of&nbsp;video games.</p>
 <p>Oh and these prosthetics come with the added benefit of faster manufacturing
 time at lower costs.</p>
 <h3>Casts and splints</h3>
