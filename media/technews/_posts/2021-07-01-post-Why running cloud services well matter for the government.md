@@ -9,11 +9,12 @@ description: 🌐 Discover the importance of cloud services for governments amid
   security.🔒 💻
 variant: tiptap
 ---
-<h3>It is easy today to imagine that everything can be placed “on the cloud” and have them run properly without a glitch.</h3>
+<p>It is easy today to imagine that everything can be placed “on the cloud”
+and have them run properly without a glitch.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="Physical databank to store data for cloud services" src="/images/technews/Why_running_cloud_services_well_matter_for_the_government.jpg">
 </div>
-<p><em>Why are cloud services so important to governments? Photo by&nbsp;<a href="https://unsplash.com/@kowalikus?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText" class="editor-rtfLink" rel="noopener noreferrer nofollow" target="_blank">Krzysztof Kowalik</a>&nbsp;on&nbsp;<a href="https://unsplash.com/s/photos/servers?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText" class="editor-rtfLink" rel="noopener noreferrer nofollow" target="_blank">Unsplash</a></em>
+<p><em>Why are cloud services so important to governments? </em>
 </p>
 <p>Especially with the pandemic, cloud services have made a real difference
 in ensuring that important services can keep going and lives can carry
@@ -70,5 +71,5 @@ be improved over time. This way, the government can tap on the reach and
 scale of the cloud while also be competent enough to tackle issues that
 arise. Ultimately, this is the best way to serve citizens as we transform
 how we deliver services through digital technologies.</p>
-<p><em>This article was contributed by Alfred Siew. Alfred Siew is the editor of <a href="https://unsplash.com/@kowalikus?utm_source=unsplash&amp;amp;utm_medium=referral&amp;amp;utm_content=creditCopyText" rel="noopener noreferrer nofollow" target="_blank">Techgoondu.com</a>, a technology news website based in Singapore that was founded in 2008.</em>
+<p><em>This article was contributed by Alfred Siew. Alfred Siew is the editor of <a href="https://www.techgoondu.com/" rel="noopener noreferrer nofollow" target="_blank">Techgoondu.com</a>, a technology news website based in Singapore that was founded in 2008.</em>
 </p>
