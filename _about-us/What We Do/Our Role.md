@@ -9,9 +9,9 @@ variant: tiptap
 image: /images/About Us/Our_role_meta_image_compressed.jpg
 ---
 <h2>Advancing how we live, work and play through tech</h2>
-<p>Our vision is to create a government that is "Digital to the Core, and
-Serves with Heart". We achieve this by using technology to create services
-that are easy, seamless and secure for people to use, and placing the needs
+<p>Our goal is to create a government that is "Digital to the Core, and Serves
+with Heart". We achieve this by using technology to create services that
+are easy, seamless and secure for people to use, and placing the needs
 of citizens and businesses at the centre of everything we do.&nbsp;</p>
 <p>As a digital government, our public officers are also able to continually
 upskill, adapt to new challenges and work more effectively across agencies
