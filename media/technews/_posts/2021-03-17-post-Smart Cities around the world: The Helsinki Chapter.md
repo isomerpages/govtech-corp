@@ -59,13 +59,12 @@ a month.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="Specially designed transport vehicles in Helsinki" src="/images/technews/Smart_Cities_around_the_world_The_Helsinki_Chapter_2.jpg">
 </div>
-<p><em>The weather in Helsinki presents some unique issues when it comes to autonomous vehicles</em>&nbsp;PHOTO:&nbsp;
-<a href="https://sensible4.fi/2020/04/08/sensible-4-adapts-its-autonomous-driving-pilot-in-helsinki-during-covid-19/" class="editor-rtfLink" rel="noopener noreferrer nofollow" target="_blank">Sensible4</a>
-</p>
+<p><em>The weather in Helsinki presents some unique issues when it comes to autonomous vehicles</em>&nbsp;PHOTO:
+Sensible4</p>
 <p>The first autonomous driving bus for all weather conditions, GACHA, made
 its debut in Jätkäsaari, a testing ground for new mobility solutions located
 in Helsinki.</p>
-<p>The development of GACHA began when MUJI and&nbsp;<a href="https://sensible4.fi/?gclid=CjwKCAjwoc_8BRAcEiwAzJevtSz2IRfgFgU15dR9i5d9QngUUMtH64LLlHo9D0ZXjxcO84McMT_e0RoCdjsQAvD_BwE" class="editor-rtfLink" rel="noopener noreferrer nofollow" target="_blank">Sensible )4</a>&nbsp;collectively
+<p>The development of GACHA began when MUJI and&nbsp;Sensible4&nbsp;collectively
 noticed that the first generation of autonomous buses failed to perform
 even in light rain. Considering the harsh winter and rainy conditions in
 Helsinki, GACHA aims to operate as part of the city’s existing transportation
@@ -79,9 +78,7 @@ commuting in both urban and suburban areas.</p>
 right.</p>
 <p>We might not be developing a winterproof 8-seater bus roaming our roads,
 but autonomous vehicles are currently being trialed in several parts of
-Western Singapore – most noticeably One North as well a NTU. Read more
-about our own efforts&nbsp;<a href="https://www.smartnation.gov.sg/what-is-smart-nation/initiatives/Transport/autonomous-vehicles" class="editor-rtfLink" rel="noopener noreferrer nofollow" target="_blank">here.</a>
-</p>
+Western Singapore – most noticeably One North as well a NTU.</p>
 <h3>Uber for Boats</h3>
 <p><a href="https://www.bout.fi/" class="editor-rtfLink" rel="noopener noreferrer nofollow" target="_blank">Bout</a>, named as the “Uber for boats” platform,
 is another mobility service that piloted its test rides in Jätkäsaari in
@@ -92,7 +89,7 @@ them.</p>
 and Espoo, travellers can book rides through the platform’s smartphone
 application.</p>
 <p>In Singapore, we might not have the waterways needed to support such an
-operation, but we are trialling something that’s same-same but different:&nbsp;
+operation, but we are trialing something that’s same-same but different:&nbsp;
 <a href="https://vulcanpost.com/725769/volocopter-electric-air-taxis-singapore-by-2023/" class="editor-rtfLink" rel="noopener noreferrer nofollow" target="_blank">helicopter taxis, touted to be the world’s first!</a>
 </p>
 <h3>Open data policy creates mobility for the blind</h3>
@@ -111,9 +108,8 @@ the GPS app was designed with the visually impaired in mind.</p>
 that delivers detailed points of interest to its users. With BlindSquare,
 the visually impaired can achieve independence during their outdoor commutes.</p>
 <p>An open data policy is also what Singapore believes in as well, and we’ve
-got <a href="https://money-heist.fandom.com/wiki/Helsinki" rel="noopener noreferrer nofollow" target="_blank">data.gov.sg</a> –
-our own effort to make it easier for citizens or businesses to create useful
-projects using data that have been diligently collected.</p>
+got DataGovSG – our own effort to make it easier for citizens or businesses
+to create useful projects using data that have been diligently collected.</p>
 <p>If anything, the projects in Helsinki remind us that there are still many
 opportunities that are just waiting to be explored in the exciting world
 of tech. Whether you live in freezing north, or the sunny tropics, the
