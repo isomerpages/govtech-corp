@@ -119,11 +119,7 @@ Residents can start a conversation with the Chatbot by texting “Hi” to
 +65 9821 9004 (WhatsApp) or @OneServiceSG Bot (Telegram).</p>
 <p>If you’re creatively attuned, you can also participate in the Chatbot
 design competition that will help determine the Chatbot’s avatar and “personality”
-for the official launch. More information can be found on the competition’s
-website: <a href="https://medium.com/dsaid-govtech/training-the-oneservice-chatbot-to-analyse-feedback-on-municipal-issues-using-natural-language-4302aa5a3946" rel="noopener noreferrer nofollow" target="_blank">https://go.gov.sg/ai-chatbot</a>
-</p>
+for the official launch.</p>
 <p><em>Stay tuned for the full launch, where we can look forward to greater convenience when reporting municipal feedback!</em>
-</p>
-<p><em>For a fuller technical explanation of how the OneService chatbot was developed, check out the&nbsp;<a href="https://medium.com/dsaid-govtech/training-the-oneservice-chatbot-to-analyse-feedback-on-municipal-issues-using-natural-language-4302aa5a3946" class="editor-rtfLink" rel="noopener noreferrer nofollow" target="_blank">blog post</a>&nbsp;by our Data Science and Artificial Intelligence Division!</em>
 </p>
 <p></p>
