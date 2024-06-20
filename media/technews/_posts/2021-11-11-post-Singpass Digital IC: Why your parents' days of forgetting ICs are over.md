@@ -33,10 +33,9 @@ head at the counter because you’ve forgotten your physical IC!</p>
 <p>There are instances where your physical IC is specifically required by
 law, such as for registering a marriage (which probably won’t matter to
 your parents anyway…) and hotel check-ins. The authorities are reviewing
-the legislation to formalise the use of&nbsp;<a href="https://www.ifaq.gov.sg/singpass/apps/Fcd_faqmain.aspx#FAQ_1112653" class="editor-rtfLink" rel="noopener noreferrer nofollow" target="_blank">Digital ICs for these exceptions.</a>
-</p>
+the legislation to formalise the use of&nbsp;Digital ICs for these exceptions.</p>
 <div class="iframe-wrapper">
-<iframe style="max-width: 100%;" height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/rUZf1ZcB0NY?si=uO6S1SgRfJQVi1OZ"></iframe>
+<iframe style="max-width: 100%;" height="400" width="100%" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/rUZf1ZcB0NY?si=uO6S1SgRfJQVi1OZ"></iframe>
 </div>
 <p><em>Besides the Digital IC, Singpass is packed with other features! Watch this video to find out more!</em>
 </p>
@@ -111,5 +110,5 @@ but we should still play our part to keep our digital identity safe.</p>
 Seniors Go Digital programme to support users who may need help picking
 up digital tools. If your parents or friends need help, they may visit
 any SG Digital Community Hub for a 1-on-1 consultation with a Digital Ambassador
-or contact us at <a href="https://www.ifaq.gov.sg/singpass/apps/Fcd_faqmain.aspx#FAQ_1112653" rel="noopener noreferrer nofollow" target="_blank">support@singpass.gov.sg</a>.</p>
+or contact the <a href="https://www.singpass.gov.sg/home/ui/contact-us" rel="noopener noreferrer nofollow" target="_blank">Singpass helpdesk</a>.</p>
 <p></p>
