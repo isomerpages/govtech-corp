@@ -60,7 +60,7 @@ of wireframe rooms and objects.</p>
 <p><em>“The ultimate display would, of course, be a room within which the computer can control the existence of matter. A chair displayed in such a room would be good enough to sit in. Handcuffs displayed in such a room would be confining, and a bullet displayed in such a room would be fatal. With appropriate programming, such a display could literally be the Wonderland into which Alice walked.”</em>
 </p>
 <h3>2. What about the origin story of AR?</h3>
-<p>The term was&nbsp;<a href="https://www.tech.gov.sg/media/technews/5-things-to-know-about-arvr" class="editor-rtfLink" rel="noopener noreferrer nofollow" target="_blank">coined</a>&nbsp;in
+<p>The term was&nbsp;<a href="/media/technews/5-things-to-know-about-arvr" class="editor-rtfLink" rel="noopener noreferrer nofollow" target="_blank">coined</a>&nbsp;in
 1990 by a couple of Boeing researchers who came up with an idea to replace
 the use of large plywood boards containing wiring instructions for different
 aircraft being built.</p>
