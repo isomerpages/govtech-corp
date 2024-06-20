@@ -49,14 +49,14 @@ getting a business licence, and booking a COVID-19 vaccination appointment.</p>
 <p>To support the private sector’s digital transformation, the government
 has also opened its digital platforms to private companies. Hence, businesses
 can use MyInfo to offer one-click registration and perform seamless, reliable
-verification of customer details. Firms can also tap on&nbsp;<a href="https://www.channelnewsasia.com/news/singapore/singpass-digital-signature-e-document-govtech-property-caveat-13469756" class="editor-rtfLink" rel="noopener noreferrer nofollow" target="_blank">Sign with SingPass</a>&nbsp;to
-allow their customers to sign digital documents.</p>
+verification of customer details. Firms can also tap on&nbsp;Sign with
+SingPass&nbsp;to allow their customers to sign digital documents.</p>
 <h3>Get on the cloud</h3>
 <p>Next, digitalisation efforts should leverage cloud and commercial solutions
 that are already available. Such a strategy enabled the government to quickly
-roll out Covid-19 digital solutions – the <a href="https://www.channelnewsasia.com/news/singapore/singpass-digital-signature-e-document-govtech-property-caveat-13469756" rel="noopener noreferrer nofollow" target="_blank">Gov.sg</a> WhatsApp
-Channel, TraceTogether, SafeEntry, GoWhere websites – by utilising existing
-services from tech companies like Google and Amazon.</p>
+roll out Covid-19 digital solutions – the GovSG WhatsApp Channel, TraceTogether,
+SafeEntry, GoWhere websites – by utilising existing services from tech
+companies like Google and Amazon.</p>
 <p>The government is also moving 70 per cent of its ICT systems to the commercial
 cloud. One major advantage of this move is that different government agencies
 can access a government-wide ecosystem of ready-made applications.</p>
