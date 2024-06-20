@@ -82,9 +82,9 @@ to videos to music!</p>
 We don’t have to wait in line or be put on hold on the phone. The Singpass
 app is especially useful! It holds our digital identity and unlocks so
 many services.</p>
-<p>Even our&nbsp;<a href="https://www.tech.gov.sg/media/technews/singpass-digital-ic" class="editor-rtfLink" rel="noopener noreferrer nofollow" target="_blank">Identity Card</a>&nbsp;has
-been digitised and is inside our Singpass now. Aunty, aren’t you always
-worried about losing your IC? Now you don’t have to be.</p>
+<p>Even our&nbsp;Identity Card&nbsp;has been digitised and is inside our
+Singpass now. Aunty, aren’t you always worried about losing your IC? Now
+you don’t have to be.</p>
 <p>All these are part of transforming Singapore into a Smart Nation, so that
 technology is used to improve the lives of everyone.</p>
 <h3>GovTech (政府科技局)</h3>
@@ -94,16 +94,10 @@ technology is used to improve the lives of everyone.</p>
 <p>At the end of the day, someone has to build and maintain digital government
 services. That someone is GovTech, a government agency that is spearheading
 digital transformation within the public sector.</p>
-<p>It’s also playing a vital role in making the Smart Nation vision a reality.
-They’ve done many cool things such as using&nbsp;<a href="https://www.tech.gov.sg/media/technews/using-ai-to-differentiate-mosquito-larvae" class="editor-rtfLink" rel="noopener noreferrer nofollow" target="_blank">AI to fight mosquitos</a>&nbsp;and
-a&nbsp;<a href="https://www.tech.gov.sg/media/technews/developing-the-one-service-chatbot" class="editor-rtfLink" rel="noopener noreferrer nofollow" target="_blank">chatbot to improve municipal services.</a>
-</p>
-<p>Isn’t our cousin about to graduate? Maybe she should consider applying
-at GovTech.</p>
+<p>Know someone who is about to graduate? Maybe they should consider joining
+GovTech.</p>
 <h3>New conversation for the new year</h3>
 <p>It gets boring answering the same old questions every year. So, use your
 new vocabulary to spark some fresh conversations. You might even uncover
 a crypto millionaire or two among your relatives.</p>
-<p>*Enjoyed this article? Check out this article to out about&nbsp;<a href="https://www.tech.gov.sg/media/technews/travel-in-the-time-of-covid" class="editor-rtfLink" rel="noopener noreferrer nofollow" target="_blank">how tech is making travel in the time of covid less painful</a>&nbsp;or
-this article to find out how&nbsp;<a href="https://www.tech.gov.sg/media/technews/benefits-of-solar-polar" class="editor-rtfLink" rel="noopener noreferrer nofollow" target="_blank">reserviors are being used to harness the power of solar!</a>
-</p>
+<p></p>
