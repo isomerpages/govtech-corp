@@ -18,11 +18,10 @@ you talk the talk among techies but also are very much applicable even
 outside the tech world. And if you are looking to make a foray into the
 tech industry, knowing these terms will save you from sounding like a noob
 on day one.</p>
-<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="Use tech terms in meetings to impress your boss and colleagues" src="/images/technews/Tech_Talk_to_sound_like_a_Tech_Vet_.jpg">
 </div>
-<p><em>Learn some tech terms and appear woke in your stand-up meetings! PHOTO: <a href="http://UNSPLASH.COM" rel="noopener noreferrer nofollow" target="_blank">UNSPLASH.COM</a></em>
+<p><em>Learn some tech terms and appear woke in your stand-up meetings! </em>
 </p>
 <h3>Agile vs waterfall!</h3>
 <p>You may have heard the term “agile” thrown around a bit in project management,
