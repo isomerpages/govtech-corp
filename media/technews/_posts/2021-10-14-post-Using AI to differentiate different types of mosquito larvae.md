@@ -10,7 +10,7 @@ description: 🦟 Did you know Singapore has over 180 mosquito species? GovTech 
 variant: tiptap
 ---
 <p>Did you know there are more than 180 species of mosquitoes in Singapore?
-That’s more than the United States, which has&nbsp;<a href="https://www.mosquito.org/page/funfacts" class="editor-rtfLink" rel="noopener noreferrer nofollow" target="_blank">176 mosquito species</a>.</p>
+That’s more than the United States, which has&nbsp;<a href="https://www.mosquito.org/fun-facts/" class="editor-rtfLink" rel="noopener noreferrer nofollow" target="_blank">176 mosquito species</a>.</p>
 <p>The most common types in Singapore are the&nbsp;<em>Aedes</em>&nbsp;(which
 spread dengue and chikungunya),&nbsp;<em>Culex</em>&nbsp;(which spread
 filariasis), and&nbsp;<em>Anopheles</em>&nbsp;(which spread malaria). The
@@ -28,7 +28,7 @@ would look like this:</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="Anatomy of mosquito larvae" src="/images/technews/Using_AI_to_differentiate_different_types_of_mosquito_larvae__1_.jpg">
 </div>
-<p><em>Anatomy of mosquito larvae. (Source:&nbsp;<a href="https://www.oecd-ilibrary.org/environment/safety-assessment-of-transgenic-organisms-in-the-environment-volume-8_9789264302235-en" class="editor-rtfLink" rel="noopener noreferrer nofollow" target="_blank">OECD Publication</a>)</em>
+<p><em>Anatomy of mosquito larvae. Source:&nbsp;OECD Publication.</em>
 </p>
 <p>A mosquito larva typically has an ovoid head, thorax, and abdomen of nine
 segments. Analysts look for subtle differences to identify different species.
