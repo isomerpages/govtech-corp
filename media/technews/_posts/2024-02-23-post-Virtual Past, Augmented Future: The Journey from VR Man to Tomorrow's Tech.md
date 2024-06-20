@@ -103,8 +103,7 @@ body before operating.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="Doctor using VR headset to analyse the patient's brain anatomy before taking any medical action." src="/images/technews/VR_headset_healthcare.jpg">
 </div>
-<p><em>Image by DC Studio on <a href="https://www.freepik.com/free-photo/professional-researcher-wearing-virtual-reality-glasses-using-medical-inovation-lab-analysing-brain-scan-patient-team-neurological-doctors-working-with-equipment-high-tech-simulator-device_17787403.htm#fromView=search&amp;page=1&amp;position=45&amp;uuid=74341b1a-a1fc-4977-b329-ffa7aa86f087" rel="noopener noreferrer nofollow" target="_blank">Freepik</a></em>
-</p>
+<p><em>Image by DC Studio on <a href="https://www.freepik.com/free-photo/professional-researcher-wearing-virtual-reality-glasses-using-medical-inovation-lab-analysing-brain-scan-patient-team-neurological-doctors-working-with-equipment-high-tech-simulator-device_17787403.htm#fromView=search&amp;page=1&amp;position=45&amp;uuid=74341b1a-a1fc-4977-b329-ffa7aa86f087" rel="noopener noreferrer nofollow" target="_blank">Freepik</a></em>.</p>
 <p>VR headsets have also proven to be effective in&nbsp;<a href="https://www.wsj.com/articles/for-children-in-the-hospital-vr-may-be-the-cure-for-anxiety-1527559995" class="editor-rtfLink" rel="noopener noreferrer nofollow" target="_blank">diminishing pain and anxiety</a>&nbsp;in
 patients as they undergo procedures such as wound cleaning and injections.</p>
 <p>As for AR, museums have been using the technology to enliven their displays
