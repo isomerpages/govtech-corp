@@ -10,8 +10,8 @@ variant: tiptap
 ---
 <p>Not all heroes wear capes or skintight outfits or appear in films directed
 by Zack Synder.</p>
-<h3>In Singapore, some heroes are comparatively small, silent creatures that operate behind the scenes to keep Singapore running.</h3>
-<p></p>
+<p>In Singapore, some heroes are comparatively small, silent creatures that
+operate behind the scenes to keep Singapore running.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="Drones working to keep Singapore safe and support anti-dengue efforts" src="/images/technews/drones_that_keep_singapore_going_resized.jpg">
 </div>
@@ -24,10 +24,10 @@ safer and more efficient.</p>
 do – some of them are on trial, yes, but hey, it’s always fun to take a
 glimpse into the future.</p>
 <h3>Supporting anti-dengue operations!</h3>
-<p>With Singapore facing a&nbsp;<a href="https://www.channelnewsasia.com/news/singapore/singapore-dengue-cases-reach-record-22403-surpassing-2013-high-12992292" class="editor-rtfLink" rel="noopener noreferrer nofollow" target="_blank">record number of dengue cases</a>&nbsp;this
-year, it is a priority to eliminate dengue hotspots this year. Some of
-these hotspots though, are located in areas that might be challenging to
-carry out anti-dengue operations.</p>
+<p>With Singapore facing a&nbsp;record number of dengue cases&nbsp;this year,
+it is a priority to eliminate dengue hotspots this year. Some of these
+hotspots though, are located in areas that might be challenging to carry
+out anti-dengue operations.</p>
 <p>One example? Private residential estates.</p>
 <p>To solve this,&nbsp;<a href="https://www.straitstimes.com/singapore/drones-join-nea-battle-against-dengue" class="editor-rtfLink" rel="noopener noreferrer nofollow" target="_blank">NEA has been using drones</a>&nbsp;to
 check for mosquito breeding. The drones can fly over houses, and look out
@@ -36,18 +36,18 @@ for potential breeding sites such as the roof gutters in private estates.</p>
 <p>Building inspections can be dangerous and time-consuming affairs, where
 there is the risk of accidents and falls. Not to mention, a lot of equipment
 and manpower is needed to ensure this happens safely.</p>
-<p>SLA’s way of overcoming this?&nbsp;<a href="https://www.sla.gov.sg/qql/slot/u143/Newsroom/Newsletter/LANDAPR19/sla-suave.html" class="editor-rtfLink" rel="noopener noreferrer nofollow" target="_blank">Flying drones equipped with an algorithm called SUAVE</a>&nbsp;(Smart
-Unmanned Aerial Vehicle Enhanced) which analyses buildings for defects
-and potential maintenance issues. Small cracks, debris, water ponding,
-you name it!</p>
+<p>SLA’s way of overcoming this?&nbsp;Flying drones equipped with an algorithm
+called SUAVE&nbsp;(Smart Unmanned Aerial Vehicle Enhanced) which analyses
+buildings for defects and potential maintenance issues. Small cracks, debris,
+water ponding, you name it!</p>
 <p>The results are pretty impressive – the use of drones saves up to 80%
 for time and only uses 60% of the cost required for a conventional inspection.</p>
 <h3>Island hopping, drone style</h3>
 <p>Most drones rely on 4G and WiFi for operation and navigation. However,
 when out at sea, both of these signals are affected by sea waves, weather
 conditions and passing ships.</p>
-<p>That said,&nbsp;<a href="https://www.tech.gov.sg/media/technews/bringing-connectivity-to-the-southern-islands" class="editor-rtfLink" rel="noopener noreferrer nofollow" target="_blank">SLA and GovTech</a>&nbsp;is
-running trials with a way to get past this, by deploying a&nbsp;<a href="https://www.straitstimes.com/tech/unmanned-drones-for-monitoring-singapores-southern-islands-on-trial" class="editor-rtfLink" rel="noopener noreferrer nofollow" target="_blank">large drone that uses TVWS (TV White Space)</a>,
+<p>That said,&nbsp;SLA and GovTech&nbsp;is running trials with a way to get
+past this, by deploying a&nbsp;large drone that uses TVWS (TV White Space),
 which, at the risk of sounding very nerdy – is the inactive space found
 between channels actively used in UHF and VHF spectrum with frequency spans
 from 470 MHz - 790 MHz.</p>
@@ -72,10 +72,8 @@ reducing the need for manpower.</p>
 <p>Singapore deployed them this year in a trial, monitoring industrial areas
 on the western part of the island, as well as areas that are susceptible
 to crimes such as housebreaking and theft.</p>
-<p>Read more about these protectors from the sky&nbsp;<a href="https://www.straitstimes.com/singapore/surveillance-drones-operating-autonomously-take-to-the-sky-in-police-trial" class="editor-rtfLink" rel="noopener noreferrer nofollow" target="_blank">here!</a>
-</p>
 <h3>Keeping calm and swimming on</h3>
-<p>Unlike all the other drones we’ve mentioned earlier, the&nbsp;<a href="https://arl.nus.edu.sg/twiki6/bin/view/ARL/Swan" class="editor-rtfLink" rel="noopener noreferrer nofollow" target="_blank">NUSwan</a>&nbsp;is
+<p>Unlike all the other drones we’ve mentioned earlier, the&nbsp;NUSwan&nbsp;is
 a swimmer, not a flyer.</p>
 <p>Beneath their elegant exteriors, they have propellers instead of legs
 and can operate for hours without the need for sustenance. They’re also
