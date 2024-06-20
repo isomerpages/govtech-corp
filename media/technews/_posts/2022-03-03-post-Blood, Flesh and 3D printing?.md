@@ -56,16 +56,12 @@ time at lower costs.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 70%;" height="auto" width="100%" alt="3D printing a custom-made cast" src="/images/technews/Blood__Flesh_and____3D_printing__3__.jpg">
 </div>
-<p>Photo by <a href="https://unsplash.com/@tomspentys?utm_content=creditCopyText&amp;utm_medium=referral&amp;utm_source=unsplash" rel="noopener noreferrer nofollow" target="_blank">Tom Claes</a> on
-<a href="https://unsplash.com/photos/white-and-black-hair-comb-mNVh70d9zUU?utm_content=creditCopyText&amp;utm_medium=referral&amp;utm_source=unsplash" rel="noopener noreferrer nofollow" target="_blank">Unsplash</a>
-</p>
 <p>If you’ve ever fractured an arm or a leg and had to put on a cast, you
 would know how much of a pain it is. The thing is heavy, ugly, and, oh
 yeah, starts to smell funky as a good part of you is enclosed for months.</p>
-<p><a href="https://bitfab.io/blog/3d-printed-splints/" class="editor-rtfLink" rel="noopener noreferrer nofollow" target="_blank">3D printed casts</a>,
-on the other hand (haha), are lighter, more customisable to your body shape,
-and its rigidity can be adjusted according to what kind of injury you’re
-rehabilitating.</p>
+<p>3D printed casts, on the other hand, are lighter, more customisable to
+your body shape, and its rigidity can be adjusted according to what kind
+of injury you’re rehabilitating.</p>
 <p>The designs can also incorporate the colour of your choice and cool, lattice
 patterns that are not just pleasing to the eye but also breathable. And
 the material is even waterproof (traditional cast wearers have been known
@@ -74,8 +70,6 @@ to wrap their casts in plastic bags while taking a shower)!</p>
 <div class="isomer-image-wrapper">
 <img style="width: 70%;" height="auto" width="100%" alt="Structure of dental implant and how different components can be 3D printed" src="/images/technews/Blood__Flesh_and____3D_printing__4_.jpg">
 </div>
-<p>Image by <a href="https://www.freepik.com/free-vector/infographic-human-structure-dental-implant_25539219.htm#page=3&amp;query=3d%20pring%20dental%20implants&amp;position=6&amp;from_view=search&amp;track=ais&amp;uuid=eab20623-c770-49b2-9555-5905fa8daae6" rel="noopener noreferrer nofollow" target="_blank">brgfx</a> on
-Freepik</p>
 <p>Dental implants like crowns, retainers, and dentures are usually expensive
 and take a long time to produce. Given how distressing a dental issue can
 be – you can’t eat, drink, talk, or even laugh without pain – the wait
@@ -83,23 +77,19 @@ time is a literal pain in the mouth.</p>
 <p>Traditional manufacturing of dental implants is also largely analogue,
 with the quality of the product and its fit to a patient highly dependent
 on the skill of the attending technician.</p>
-<p>But&nbsp;<a href="https://dental.formlabs.com/blog/digital-dentistry-dental-3d-printing/" class="editor-rtfLink" rel="noopener noreferrer nofollow" target="_blank">3D printing</a>&nbsp;has
-made it possible for faster customisation that digitally scans the patient
-instead of relying on moulds, improving accuracy and patient comfort. The
-3D printing process also enables greater precision in crafting artificial
-teeth or aligners that are unique to patients.</p>
+<p>But&nbsp;3D printing&nbsp;has made it possible for faster customisation
+that digitally scans the patient instead of relying on moulds, improving
+accuracy and patient comfort. The 3D printing process also enables greater
+precision in crafting artificial teeth or aligners that are unique to patients.</p>
 <h3>Food</h3>
 <div class="isomer-image-wrapper">
 <img style="width: 70%;" height="auto" width="100%" alt="Graphic of burger being 3D printed using organic materials" src="/images/technews/Blood__Flesh_and____3D_printing___5_.jpg">
 </div>
-<p>Image by <a href="https://www.freepik.com/free-vector/realistic-composition-with-process-burger-3d-printing-vector-illustration_6933102.htm#query=3d%20print%20food&amp;position=1&amp;from_view=search&amp;track=ais&amp;uuid=e7b35946-2277-4755-8580-3a604a68b3ce" rel="noopener noreferrer nofollow" target="_blank">macrovector</a> on
-Freepik</p>
 <p>Yes, you read that right, food. Instead of just using material like plastic,
 edible materials can be used as well.</p>
-<p>While&nbsp;<a href="https://all3dp.com/2/3d-printed-food-3d-printing-food/" class="editor-rtfLink" rel="noopener noreferrer nofollow" target="_blank">3D printed food</a>&nbsp;has
-not reached a mass market level (yet), it is nonetheless opening up possibilities
-of creating intricate designs and personalised meals. I mean, just look
-at some of these 3D-printed&nbsp;<a href="https://www.3dsourced.com/3d-printers/chocolate-3d-printer/" class="editor-rtfLink" rel="noopener noreferrer nofollow" target="_blank">chocolates</a>&nbsp;and
+<p>While&nbsp;3D printed food&nbsp;has not reached a mass market level (yet),
+it is nonetheless opening up possibilities of creating intricate designs
+and personalised meals. I mean, just look at some of these 3D-printed&nbsp;chocolates&nbsp;and
 tell me they aren’t too beautiful to be eaten.</p>
 <h3>I’m intrigued, how do I get started?</h3>
 <p>Three regional libraries (Jurong, Tampines and Woodlands) have 3D printing
@@ -108,14 +98,13 @@ of those libraries, these machines are part of dedicated public maker spaces
 with equipment for people to try out various forms of digital and traditional
 fabrication, including 3D printing, robotics, and other forms of tech-based
 tinkering.</p>
-<p>Only people who have attended one of the&nbsp;<a href="https://www.eventbrite.sg/cc/makeit-at-libraries-programmes-104559" class="editor-rtfLink" rel="noopener noreferrer nofollow" target="_blank">3D Starter Sessions</a>&nbsp;will
+<p>Only people who have attended one of the&nbsp;3D Starter Sessions&nbsp;will
 be allowed to reserve and use the 3D printers in MakeIT at Libraries. The
 three-hour introductory lesson will teach newcomers the fundamentals of
 3D printing, including how to create and edit 3D digital models, as well
 as safely turn them into actual items using the 3D printers in MakeIT.</p>
 <p>If you would like even more training, there are a number of SkillsFuture-approved
-courses such as a two-day course run by&nbsp;<a href="https://www.tp.edu.sg/schools-and-courses/adult-learners/all-courses/skillsfuture-series/basic-computer-aided-design-cad-3d-modelling-and-3d-printing.html" class="editor-rtfLink" rel="noopener noreferrer nofollow" target="_blank">Temasek Polytechnic.</a>
-</p>
+courses such as a two-day course run by&nbsp;Temasek Polytechnic.</p>
 <p>And as mentioned above, 3D printers are suitable for home use too. So
 if you’re really excited about this technology, why not buy one to fiddle
 around with at home?</p>
