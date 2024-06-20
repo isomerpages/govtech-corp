@@ -14,7 +14,7 @@ lauded as one of the most digitally advanced countries in the world.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="Beautiful outline of the smart city of Estonia as the sun sets" src="/images/technews/smart_cities_around_the_world_estonia.jpg">
 </div>
-<p><em>Let's find out how Estonia started on their smart city journey! PHOTO: <a href="https://www.cnbc.com/2019/02/08/how-estonia-became-a-digital-society.html" rel="noopener noreferrer nofollow" target="_blank">UNSPLASH.COM</a></em>
+<p><em>Let's find out how Estonia started on their smart city journey! </em>
 </p>
 <p>The country made the news in 2020 when it launched its Digital Nomad visa
 in August — the first of its kind — allowing foreigners to live within
@@ -38,15 +38,15 @@ paying taxes to checking health records and prescriptions to even e-voting!</p>
 aptly named eID — which allows citizens to identify themselves when making
 online transactions. In fact, enabling digital signatures has allowed the
 country to save up to 2% of its GDP annually.</p>
-<p>Estonia’s eID system is similar to Singapore’s very own&nbsp;<a href="https://www.singpass.gov.sg/singpass/common/aboutus" class="editor-rtfLink" rel="noopener noreferrer nofollow" target="_blank">Singpass</a>,
+<p>Estonia’s eID system is similar to Singapore’s very own&nbsp;<a href="https://www.singpass.gov.sg/" class="editor-rtfLink" rel="noopener noreferrer nofollow" target="_blank">Singpass</a>,
 which also allows Singapore residents to digitally verify their identities.
 This grants users access to over 2,000 online services from government
-and private organisations. With SingPass, one can instantly check their
+and private organisations. With Singpass, one can instantly check their
 CPF account balances or even apply for a home online.</p>
 <p>However, there are some key differences between the two systems. For example,
 usage of the mobile version of eID requires an individual to own a specially-registered
 SIM card that is secured with a passcode. While in Singapore, we use the
-SingPass Mobile app, that’s secured with either a fingerprint, face recognition
+Singpass Mobile app, that’s secured with either a fingerprint, face recognition
 or a 6-digit pin.</p>
 <p>Either way, Estonians and Singaporeans can both agree that digital identification
 that facilitates e-transactions goes a long way to making our lives much,
@@ -57,18 +57,17 @@ much easier.</p>
 </div>
 <p><em>Estonians have been paying for parking via mobile for 20 years!</em>
 </p>
-<p><a href="https://www.cnbc.com/2019/02/08/how-estonia-became-a-digital-society.html" rel="noopener noreferrer nofollow" target="_blank">Parking.SG</a>,
-launched in 2017, allows Singaporean motorists to pay and manage their
-parking sessions via a mobile app. Gone are the days of hunting down a
-7-11 to buy paper parking coupons or the fear of finding a fine plastered
-on the windscreen after returning from a longer-than-expected makan session.</p>
+<p>Parking SG, launched in 2017, allows Singaporean motorists to pay and
+manage their parking sessions via a mobile app. Gone are the days of hunting
+down a 7-11 to buy paper parking coupons or the fear of finding a fine
+plastered on the windscreen after returning from a longer-than-expected
+makan session.</p>
 <p>But did you know that Estonia was the first country in the world to implement
 a mobile parking payment system? Estonians have been enjoying mobile parking
 payments since 2000.</p>
-<p>The aptly named&nbsp;<a href="https://e-estonia.com/solutions/location-based-services/mobile-parking/#:~:text=Mobile%20Parking%20is%20a%20convenient,phone%20does%20everything%20for%20you." class="editor-rtfLink" rel="noopener noreferrer nofollow" target="_blank">Mobile Parking system</a>&nbsp;can
-be used in public parking facilities and even private ones. It’s all done
-conveniently through a mobile app. Around 90% of all parking charges are
-paid via the system.</p>
+<p>The aptly named&nbsp;Mobile Parking system&nbsp;can be used in public
+parking facilities and even private ones. It’s all done conveniently through
+a mobile app. Around 90% of all parking charges are paid via the system.</p>
 <p>Recent improvements to the Mobile Parking app include a fully automated
 solution; a parking session automatically begins when the vehicle is turned
 off and ends once it's started up again. This is achieved when the app
@@ -87,12 +86,12 @@ Three operate in Estonia, and one operates in Helsinki, Finland.</p>
 is a street-sign on steroids. While traditional signages passively provide
 information to road users and pedestrians to keep them safe, this smart
 sign is able to take active steps to prevent accidents from occurring.</p>
-<p><a href="https://amsterdamsmartcity.com/international-projects/smart-flow" class="editor-rtfLink" rel="noopener noreferrer nofollow" target="_blank">Smart Pedestrian Crosswalk</a>,
-an IoT cloud-based platform, monitors sensors to report traffic flow and
-parking availability across Amsterdam. When Smart Flow was first launched,
-the average time required to find a parking space was significantly reduced
-by 43 per cent. On top of that, it helps drivers to make more fiscally
-responsible choices by listing the cheapest options within the area.</p>
+<p>Smart Pedestrian Crosswalk, an IoT cloud-based platform, monitors sensors
+to report traffic flow and parking availability across Amsterdam. When
+Smart Flow was first launched, the average time required to find a parking
+space was significantly reduced by 43 per cent. On top of that, it helps
+drivers to make more fiscally responsible choices by listing the cheapest
+options within the area.</p>
 <p>How is this done? According to Bercman: “…narrow artificial intelligence
 algorithms are used, which are capable of predicting the moving trajectories
 when a pedestrian might be run over by a vehicle”. The sign would then
