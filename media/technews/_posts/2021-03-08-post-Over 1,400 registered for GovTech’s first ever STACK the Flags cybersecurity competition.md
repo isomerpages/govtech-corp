@@ -10,11 +10,13 @@ description: GovTech's inaugural cybersecurity competition, Stack the Flags
   $57,000!🔒
 variant: tiptap
 ---
-<h3>GovTech organised its first-ever “capture-the-flag” (CTF) cybersecurity competition (Stack the Flags 2020), with top teams walking away with a grand total of $57,000 in prize money.</h3>
+<p>GovTech organised its first-ever “capture-the-flag” (CTF) cybersecurity
+competition (Stack the Flags 2020), with top teams walking away with a
+grand total of $57,000 in prize money.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="Desktop screen full of code in different colours in a desktop setup" src="/images/technews/STACK_the_flags_2020__1__resized.jpg">
 </div>
-<p><em>STACK the Flags 2020 was a huge success with more than 1,400 participants. PHOTO: UNSPLASH</em>
+<p><em>STACK the Flags 2020 was a huge success with more than 1,400 participants. </em>
 </p>
 <p>Over 1,400 participants (437 teams) registered, making Stack the Flags
 2020 one of the largest CTF competitions in Singapore to date.</p>
