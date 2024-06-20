@@ -30,10 +30,10 @@ a hard look at their finances.</p>
 <p>That said, four years ago, the wheels had already been in motion to help
 galvanise Singaporeans into starting financial planning.</p>
 <h3>Enter MyMoneySense, a digital financial planning solution</h3>
-<p><a href="https://www.mymoneysense.gov.sg/?&amp;utm_medium=email&amp;utm_source=publicagenciesEDM&amp;utm_campaign=MyMoneySenseCampaign2021" class="editor-rtfLink" rel="noopener noreferrer nofollow" target="_blank">MyMoneySense</a>&nbsp;is
-a free government financial planning service that helps Singaporeans better
-understand their finances so they can make conscious choices to improve
-their financial well-being across different life stages.</p>
+<p><a href="https://www.mymoneysense.gov.sg/" class="editor-rtfLink" rel="noopener noreferrer nofollow" target="_blank">MyMoneySense</a>&nbsp;is a free
+government financial planning service that helps Singaporeans better understand
+their finances so they can make conscious choices to improve their financial
+well-being across different life stages.</p>
 <p>By providing neutral, personalised, and actionable guidance, MyMoneySense
 helps lower the barriers to entry for financial planning and helps Singaporeans
 get started.</p>
@@ -64,7 +64,7 @@ how long you can sustain your expenses in the event of a loss of income.</p>
 can be daunting. MyMoneySense helps you work out the savings amount you
 need to stay on track and reach your goals confidently.
 <br>
-<br>Curious? You can try <a href="https://www.mymoneysense.gov.sg/?&amp;utm_medium=email&amp;utm_source=publicagenciesEDM&amp;utm_campaign=MyMoneySenseCampaign2021" rel="noopener noreferrer nofollow" target="_blank">MyMoneySense</a> now.</p>
+<br>Curious? You can try <a href="https://www.mymoneysense.gov.sg/" rel="noopener noreferrer nofollow" target="_blank">MyMoneySense</a> now.</p>
 </li>
 </ol>
 <h3>A joint effort by private and public sectors</h3>
