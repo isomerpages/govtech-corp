@@ -12,8 +12,6 @@ variant: tiptap
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="Different uses of Bluetooth technology for wireless connectivity" src="/images/technews/Bluetooth_infographic.jpg">
 </div>
-<p><em>Image by vectorjuice on <a href="https://www.freepik.com/free-vector/business-people-using-devices-connected-with-bluetooth-bluetooth-connection-bluetooth-standard-device-wireless-communication-concept_11668806.htm#fromView=search&amp;page=1&amp;position=2&amp;uuid=22aee67c-5571-4492-b75c-556809ab1c24" rel="noopener noreferrer nofollow" target="_blank">Freepik</a></em>
-</p>
 <p>A quick riddle – What’s all around you but always invisible?</p>
 <p>If this were the 90s, you’d probably say “air”. About 10 years ago, you’d
 answer “wifi”. Today, one of the top answers could be “Bluetooth”.</p>
@@ -26,7 +24,7 @@ data from countless individuals that are essential to contact tracing.</p>
 with the logo? In this article, we answer these questions and more about
 Bluetooth that you’ve always had.</p>
 <div class="iframe-wrapper">
-<iframe style="max-width: 100%;" height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/mBeBW6-o7hw?si=ojM1hA98T_T4GIaq"></iframe>
+<iframe style="max-width: 100%;" height="400" width="100%" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/mBeBW6-o7hw?si=ojM1hA98T_T4GIaq"></iframe>
 </div>
 <p>Short on time? Catch this video to see how Bluetooth got to be called
 Bluetooth!</p>
