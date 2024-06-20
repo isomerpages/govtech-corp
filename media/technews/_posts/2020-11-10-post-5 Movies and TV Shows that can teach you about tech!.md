@@ -18,11 +18,10 @@ streaming service.</p>
 the following recommendations of TV shows and films that can teach you
 a thing or two about tech and make your daily viewings less of a guilty
 pleasure.</p>
-<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="Cinema where people head to enjoy movies in a comfortable setting" src="/images/technews/5_Movies_and_TV_Shows_that_can_teach_you_about_tech.jpg">
 </div>
-<p><em>While you sit back and enjoy the movie, remember to learn something! PHOTO: <a href="https://www.investopedia.com/terms/v/venturecapitalist.asp" rel="noopener noreferrer nofollow" target="_blank">UNSPLASH.COM</a></em>
+<p><em>While you sit back and enjoy the movie, remember to learn something! </em>
 </p>
 <p>[SPOILER ALERT] The rest of the article explores the themes and premise
 of popular TV shows and films. While there will be no specific revelations
@@ -37,30 +36,30 @@ on if you can’t stomach these.</p>
 around a bunch of programmers who are brilliant at coding but not so great
 at getting a company up and running.</p>
 <p>We go through everything about start-up life together with our merry band
-of misfits, from boardroom machinations between founders to how&nbsp;
-<a href="https://www.investopedia.com/terms/v/venturecapitalist.asp" class="editor-rtfLink" rel="noopener noreferrer nofollow" target="_blank">venture capitalists</a>&nbsp;can be the maker and crusher of entrepreneurial
-dreams. We even get a helpful 101 on the&nbsp;<a href="https://en.wikipedia.org/wiki/Scrum_(software_development)" class="editor-rtfLink" rel="noopener noreferrer nofollow" target="_blank">Scrum</a>&nbsp;workflow
-in an episode where the long-suffering head of business development tries
-to instill some discipline and structure to the freewheeling team.</p>
+of misfits, from boardroom machinations between founders to how&nbsp; venture
+capitalists&nbsp;can be the maker and crusher of entrepreneurial dreams.
+We even get a helpful 101 on the&nbsp;Scrum&nbsp;workflow in an episode
+where the long-suffering head of business development tries to instill
+some discipline and structure to the freewheeling team.</p>
 <p>There’s also the rivalry with a fictional giant tech firm that will stop
 at nothing to bring its opponent to heel, reminiscent of the ongoing debate
 about whether the largest Silicon Valley companies are engaging in&nbsp;
-<a href="https://www.theguardian.com/technology/2019/jun/03/tech-monopoly-congress-increases-antitrust-scrutiny-on-facebook-google-amazon" class="editor-rtfLink" rel="noopener noreferrer nofollow" target="_blank">monopolistic behaviour</a>.</p>
+monopolistic behaviour.</p>
 <p>As the real-life image of tech went from universal force for good to potential
 purveyor of evil in the wrong hands in recent years, the show also takes
 a turn for the dark in exploring the ethical dilemma of whether a few guys
 who wrote a bunch of code should have this much power and influence over
-vast swaths of humanity. Watch out for&nbsp;<a href="https://finance.yahoo.com/news/the-best-silicon-valley-cameos-so-far-211155435.html" class="editor-rtfLink" rel="noopener noreferrer nofollow" target="_blank">cameos</a>&nbsp;from
-actual tech moguls and journalists for an added dose of realism.</p>
+vast swaths of humanity. Watch out for&nbsp;cameos&nbsp;from actual tech
+moguls and journalists for an added dose of realism.</p>
 <h3>The Great Hack</h3>
 <p><em>What you can learn: Data and social media’s impact on democracy</em>
 </p>
 <p>It has now been widely reported that social media can be exploited to
 influence elections, but the relentless news cycle can make it difficult
 to remember the details. The Great Hack takes an unsparing look at how
-political consulting firm&nbsp;<a href="https://www.nytimes.com/2018/04/04/us/politics/cambridge-analytica-scandal-fallout.html" class="editor-rtfLink" rel="noopener noreferrer nofollow" target="_blank">Cambridge Analytica</a>&nbsp;harvested
-data from tens of millions of Facebook users without their consent and
-then used that information in the course of their work for various political
+political consulting firm&nbsp;Cambridge Analytica&nbsp;harvested data
+from tens of millions of Facebook users without their consent and then
+used that information in the course of their work for various political
 campaigns. The ensuing public outcry when the scandal came to light compelled
 Facebook founder and CEO Mark Zuckerberg to testify before Congress and
 magnified calls for greater regulation of social media.</p>
@@ -98,10 +97,10 @@ even after reboots? And at what point does a robot’s ability to simulate
 emotion, feeling, and experience transition into true sentience?</p>
 <p>The latest third season takes place outside the park, where we see a society
 in which predictive analytics rules all aspects and determines a person’s
-lot in life. This mirrors the real-world debate of what are the&nbsp;
-<a href="https://www.cnbc.com/2019/11/14/apple-card-algo-affair-and-the-future-of-ai-in-your-everyday-life.html" class="editor-rtfLink" rel="noopener noreferrer nofollow" target="_blank">pitfalls</a>&nbsp;and where to draw the line in our embrace of AI in decision-making.</p>
+lot in life. This mirrors the real-world debate of what are the&nbsp; pitfalls&nbsp;and
+where to draw the line in our embrace of AI in decision-making.</p>
 <p>Of course, there’s also the visceral pleasure of watching Singapore depicted
-as a city of the future in season three, which was partly&nbsp;<a href="https://www.facebook.com/33697945612/videos/651904978979918/" class="editor-rtfLink" rel="noopener noreferrer nofollow" target="_blank">shot here</a>.
+as a city of the future in season three, which was partly&nbsp;shot here.
 Our sunny island even gets name-dropped when two characters have a drink
 at an opulent watering hole (Atlas Bar in Parkview Square).</p>
 <p>“Another simulation? Well, this one’s a bit over the top,” says one, while
@@ -110,7 +109,7 @@ taking in her surroundings.</p>
 <h3>Black Mirror</h3>
 <p><em>What you can learn: Implications of tech in the near future</em>
 </p>
-<p>If robots that make minced meat out of the&nbsp;<a href="https://en.wikipedia.org/wiki/Turing_test" class="editor-rtfLink" rel="noopener noreferrer nofollow" target="_blank">Turing Test</a>&nbsp;seem
+<p>If robots that make minced meat out of the&nbsp;Turing Test&nbsp;seem
 too far off, then check out Black Mirror instead. This series that originated
 in Britain grounds itself by taking inspiration from the tech that already
 exists and pushes the premise off-kilter.</p>
@@ -129,11 +128,10 @@ the lead character drops terms like “Tor networking”, “onion routing proto
 and “exit nodes” in the very first episode, even before the title card
 makes its debut appearance.</p>
 <p>Mr Robot – about a cybersecurity engineer leading a double life as a vigilante
-hacker – earned&nbsp;<a href="https://protonmail.com/blog/protonmail-mr-robot-secure-email/" class="editor-rtfLink" rel="noopener noreferrer nofollow" target="_blank">widespread praise</a>&nbsp;for
-its&nbsp;<a href="https://www.wired.com/2016/09/favorite-hacker-moments-season-2-mr-robot/" class="editor-rtfLink" rel="noopener noreferrer nofollow" target="_blank">authenticity</a>&nbsp;from
+hacker – earned&nbsp;widespread praise&nbsp;for its&nbsp;authenticity&nbsp;from
 various cybersecurity firms. Watching this show can get you educated about
-cybersecurity terms like&nbsp;<a href="https://en.wikipedia.org/wiki/Denial-of-service_attack" class="editor-rtfLink" rel="noopener noreferrer nofollow" target="_blank">DDOS</a>&nbsp;and
-how weak passwords are like using tissues to absorb a tidal wave.</p>
+cybersecurity terms like&nbsp;DDOS&nbsp;and how weak passwords are like
+using tissues to absorb a tidal wave.</p>
 <p>If you find yourself furiously changing your passwords and being paranoid
 about every phone call with your bank, this show would have done its job.</p>
 <h3>So there you have it!</h3>
