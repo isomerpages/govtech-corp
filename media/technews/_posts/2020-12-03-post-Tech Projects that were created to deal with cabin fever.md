@@ -16,7 +16,7 @@ condition that can manifest into physical symptoms if left unchecked.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="People at home during COVID-19 lockdown. Check out activities that one can do to fight boredom!" src="/images/technews/Tech_Projects_that_were_created_to_deal_with_cabin_fever.jpg">
 </div>
-<p><em>Bored at home? Read on and discover some novel ways to stave off cabin fever! </em>
+<p><em>Bored at home? Read on and discover some novel ways to stave off cabin fever!</em>
 </p>
 <p>While no substitute for the actual treatment, technology has since risen
 up to attempt to tackle the problem of cabin fever. More and more we see
