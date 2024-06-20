@@ -13,7 +13,6 @@ variant: tiptap
 – particularly when it involved healthcare records.</p>
 <p>The last thing you’d want to do while battling a deadly virus is to fumble
 through paper records that are easily misplaced, replicated or replaced.</p>
-<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="Stethoscope used  by doctors to check for health issues - the Digital Health Passport helps to fight COVID-19" src="/images/technews/Digital_Health_Passport_joins_the_fight_against_COVID_19.jpg">
 </div>
@@ -33,9 +32,7 @@ of lost or damaged physical medical records by providing an easily accessible,
 portable repository of medical documents for citizens.</p>
 <p>Verification is fast and easy, users can automatically access their digital
 records via SingPass and present it to officials via QR code when required.</p>
-<p>Because of the open nature of blockchain, health records are also tamperproof
-(we’ve explained how blockchain works in a previous article about degrees
-and diplomas; read that&nbsp;<a href="https://www.tech.gov.sg/media/technews/losing-your-educationa-certs-a-thing-of-the-past" class="editor-rtfLink" rel="noopener noreferrer nofollow" target="_blank">here</a>).</p>
+<p>Because of the open nature of blockchain, health records are also tamperproof.</p>
 <h3>Put into action in 2 Months</h3>
 <p>Time is of the essence during a pandemic, and the development of the Digital
 Health Passport definitely reflects the urgency required. The project started
