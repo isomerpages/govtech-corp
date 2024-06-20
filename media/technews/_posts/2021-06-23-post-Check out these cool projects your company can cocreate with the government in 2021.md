@@ -20,9 +20,9 @@ in the digitalisation gains brought about by the COVID-19 pandemic. More
 than 80 per cent of the procurement opportunities are open to Small and
 Medium Enterprises (SMEs), a continuation of last year’s practice when
 SMEs were awarded 75 per cent of ICT contracts.</p>
-<p>Excited yet? There will be a&nbsp;<a href="https://www.linkedin.com/events/govtechlivechat-governmentictop6810578714728914945" class="editor-rtfLink" rel="noopener noreferrer nofollow" target="_blank">LinkedIn Live chat</a>&nbsp;held
-on 30 June 2021 to share details of the government’s key digitalisation
-focuses and areas of projected spending.</p>
+<p>Excited yet? There will be a&nbsp;LinkedIn Live chat&nbsp;held on 30 June
+2021 to share details of the government’s key digitalisation focuses and
+areas of projected spending.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="GovTech live chat June 2021 with Director of Procurement at GovTech as guest speaker." src="/images/technews/Check_out_these_cool_projects_your_company_can_co_create_with_the_government_in_2021.jpg">
 </div>
@@ -83,9 +83,8 @@ convenient and enable non-profit organisations to expand their digital
 outreach. An&nbsp;<strong>SG Cares Digital Kampong</strong>&nbsp;platform
 will be built to serve as a centralised repository of API capabilities,
 the&nbsp;<strong>SG Cares</strong>&nbsp;app will be enhanced so it can
-become the go-to app for giving, and the&nbsp;<strong><a href="https://www.linkedin.com/events/govtechlivechat-governmentictop6810578714728914945" rel="noopener noreferrer nofollow" target="_blank">Giving.sg</a></strong>&nbsp;site
-will be improved to provide comprehensive features connecting givers and
-receivers.</p>
+become the go-to app for giving, and the GivingSG site will be improved
+to provide comprehensive features connecting givers and receivers.</p>
 </li>
 <li>
 <p>Common platforms such as the&nbsp;<strong>Singapore Government Technology Stack (SG Tech Stack)</strong>&nbsp;will
