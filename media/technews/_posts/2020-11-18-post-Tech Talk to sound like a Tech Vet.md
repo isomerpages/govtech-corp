@@ -21,7 +21,7 @@ on day one.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="Use tech terms in meetings to impress your boss and colleagues" src="/images/technews/Tech_Talk_to_sound_like_a_Tech_Vet_.jpg">
 </div>
-<p><em>Learn some tech terms and appear woke in your stand-up meetings! </em>
+<p><em>Learn some tech terms and appear woke in your stand-up meetings!</em>
 </p>
 <h3>Agile vs waterfall!</h3>
 <p>You may have heard the term “agile” thrown around a bit in project management,
