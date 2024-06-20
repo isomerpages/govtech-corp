@@ -34,9 +34,9 @@ computers. But how about Mobility as a Service (MaaS)?</p>
 <p>In Helsinki, you can book (and pay for) buses, trains, taxis, bikes, rental
 cars, and more — all from a single app. Instead of owning a car, users
 pay a subscription that allows them to use a wide range of transport offerings.</p>
-<p>The said app is&nbsp;<a href="https://whimapp.com/" class="editor-rtfLink" rel="noopener noreferrer nofollow" target="_blank">Whim</a>&nbsp;– developed
-in Helsinki by Finnish company MaaS Global and has been in operation since
-2017, making Helsinki the first city with a comprehensive MaaS offering.</p>
+<p>The said app is&nbsp;Whim&nbsp;– developed in Helsinki by Finnish company
+MaaS Global and has been in operation since 2017, making Helsinki the first
+city with a comprehensive MaaS offering.</p>
 <p>For users who frequently travel by different public transportation methods,
 a subscription to Whim — Whim Urban 30, Whim Weekend and Whim Unlimited,
 will enable them to make the most out of their subscription fee.</p>
@@ -52,11 +52,9 @@ access to the TIER and VOI e-scooters.</p>
 the simplest way of renting an economy car at just 49 euros per day (according
 to availability).</p>
 <p>Compared to the price of owning a personal car which costs anywhere between
-233 and 260 euros a month to operate and maintain&nbsp;<a href="https://yle.fi/uutiset/osasto/news/how_much_does_it_cost_to_own_a_new_car_in_finland/10044668#:~:text=Between%2040%2C000%20and%2050%2C000%20euros&amp;text=Annual%20total%20costs%20of%20owning,of%207%2C850%20euros%20a%20year" class="editor-rtfLink" rel="noopener noreferrer nofollow" target="_blank">(Yle Uutiset, 2018)</a>,
+233 and 260 euros a month to operate and maintain&nbsp;(Yle Uutiset, 2018),
 the cheapest Whim subscription plan will only set them back by 60 euros
 a month.</p>
-<p>PS: Interestingly, Whim seems to be&nbsp;<a href="https://whimapp.com/sg/package/singapore-beta/" class="editor-rtfLink" rel="noopener noreferrer nofollow" target="_blank">in beta</a>&nbsp;in
-Singapore.</p>
 <h3>All-weather smart bus — GACHA</h3>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="Specially designed transport vehicles in Helsinki" src="/images/technews/Smart_Cities_around_the_world_The_Helsinki_Chapter_2.jpg">
