@@ -2,7 +2,7 @@
 layout: post
 title: "GovTech turns seven: Staying connected with you to continuously improve
   our services"
-permalink: /images/technews/govtech-turns-7
+permalink: /media/technews/govtech-turns-7/
 image: /images/technews/govtechturns7-1.png
 date: 2023-10-04
 description: Discover the impact of 7 years of innovation, user-centric design

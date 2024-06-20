@@ -137,7 +137,7 @@ and how our teams innovate through articles that feature our very own GovTechies
 <div class="isomer-card-link">Read more on TechNews</div>
 </div>
 </a><a rel="noopener noreferrer nofollow" href="/media/technews/making-the-leap/" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Making the leap: How one GovTechie switched careers to product design" src="/images/About Us/Citizen_info_card_5.jpg"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Switching careers to product design</div><div class="isomer-card-link">Read more on TechNews</div></div></a>
-<a rel="noopener noreferrer nofollow" href="/images/technews/today-is-world-programmers-day" class="isomer-card">
+<a rel="noopener noreferrer nofollow" href="/media/technews/today-is-world-programmers-day/" class="isomer-card">
 <div class="isomer-card-image">
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="Today is World Programmer Day. Meet one of our own!" src="/images/About Us/World_programmer_day_card.png">
