@@ -17,12 +17,11 @@ Majulah!” – we want to mark Singapore’s birthday by looking at how tech
 can help bond our communities and enhance their resilience for the future.</p>
 <p>Read on to find out more about various initiatives and how you can be
 a part of them!</p>
+<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="National Day 2022 - building a stronger Singapore with tech" src="/images/technews/National_Day_2022___building_a_stronger_Singapore_with_tech_.jpg">
 </div>
-<p><em>Check out some initiatives you can take part in this NDP</em>&nbsp;Photo
-by&nbsp;<a href="https://unsplash.com/@roganyeoh?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText" class="editor-rtfLink" rel="noopener noreferrer nofollow" target="_blank">Rogan Yeoh</a>&nbsp;on&nbsp;
-<a href="https://unsplash.com/s/photos/singapore-national-day?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText" class="editor-rtfLink" rel="noopener noreferrer nofollow" target="_blank">Unsplash</a>
+<p><em>Check out some initiatives you can take part in this NDP.&nbsp;Photo by&nbsp;<a href="https://unsplash.com/@roganyeoh?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText" class="editor-rtfLink" rel="noopener noreferrer nofollow" target="_blank">Rogan Yeoh</a>&nbsp;on&nbsp; <a href="https://unsplash.com/s/photos/singapore-national-day?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText" class="editor-rtfLink" rel="noopener noreferrer nofollow" target="_blank">Unsplash</a>.</em>
 </p>
 <h3>#DoingGood – NDP 2022</h3>
 <p>This year’s NDP has a series of voluntary events collectively known as
@@ -35,7 +34,7 @@ low-income families. Tech experts will be on hand to guide you so you don’t
 have to be an IT guru to take part.</p>
 <p>Events run across July and August, so check out the&nbsp;<a href="https://doinggood.ndp.gov.sg/" class="editor-rtfLink" rel="noopener noreferrer nofollow" target="_blank">listing page</a>&nbsp;for
 chances to make a difference this National Day.</p>
-<h3><a href="https://unsplash.com/@roganyeoh?utm_source=unsplash&amp;amp;utm_medium=referral&amp;amp;utm_content=creditCopyText" rel="noopener noreferrer nofollow" target="_blank">Better.sg</a></h3>
+<h3>Better.sg</h3>
 <p>As its name suggests, <a href="https://unsplash.com/@roganyeoh?utm_source=unsplash&amp;amp;utm_medium=referral&amp;amp;utm_content=creditCopyText" rel="noopener noreferrer nofollow" target="_blank">better.sg</a> is
 all about creating a better Singapore by building and scaling innovative
 digital tools to address societal issues.</p>
@@ -96,7 +95,7 @@ career experiences with the budding techies of tomorrow!</p>
 <h3>Green Plan</h3>
 <p>Issues like climate change can often seem too daunting for any one person
 to make a difference.</p>
-<p>The&nbsp;<a href="https://www.channelnewsasia.com/cna-green-plan" class="editor-rtfLink" rel="noopener noreferrer nofollow" target="_blank">CNA Green Plan</a>&nbsp;aims
+<p>The&nbsp;<a href="https://www.channelnewsasia.com/watch/cna-green-plan/city-nature-2606646" class="editor-rtfLink" rel="noopener noreferrer nofollow" target="_blank">CNA Green Plan</a>&nbsp;aims
 to correct this perception by shining the spotlight on inspiring individuals
 who take small steps to go green.</p>
 <p>Individuals submitted examples of them doing their part in their day-to-day
@@ -120,3 +119,4 @@ radio.</p>
 lives, but it can also be so much more than just a public holiday.</p>
 <p>Make this National Day period much more meaningful by taking part in efforts
 to forge a better Singapore that’s a home for everyone.</p>
+<p></p>
