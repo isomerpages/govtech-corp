@@ -18,8 +18,6 @@ capabilities.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="Measuring digital maturity" src="/images/technews/How_measuring_digital_maturity_can_help_improve_e_services.jpg">
 </div>
-<p><em>Photo: Unsplash</em>
-</p>
 <p>What remains for many experts in the field is how to measure the level
 of adoption and maturity when it comes to using such digital tools. For
 government agencies, it is important for them to understand where they
@@ -99,6 +97,6 @@ terms of a digital government, Singapore is making sure it knows how well
 it is performing over time, so there is a continuous effort to improve.
 Ultimately, this is done so that e-services can better serve citizens as
 their requirements change.</p>
-<p><em>This article was contributed by Alfred Siew. Alfred Siew is the editor of <a href="http://Techgoondu.com" rel="noopener noreferrer nofollow" target="_blank">Techgoondu.com</a>, a technology news website based in Singapore that was founded in 2008.</em>
+<p><em>This article was contributed by Alfred Siew. Alfred Siew is the editor of <a href="https://www.techgoondu.com/" rel="noopener noreferrer nofollow" target="_blank">Techgoondu.com</a>, a technology news website based in Singapore that was founded in 2008.</em>
 </p>
 <p></p>
