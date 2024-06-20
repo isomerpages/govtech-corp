@@ -19,7 +19,7 @@ either automatically through electronic parking gantries or digitally through
 your mobile device. Let’s take a (road) trip down memory lane to check
 out how parking systems have evolved in Singapore through the decades.</p>
 <div class="iframe-wrapper">
-<iframe style="max-width: 100%;" height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/xIzChauF7jY?si=Was0ey9jDPfe1uoE"></iframe>
+<iframe style="max-width: 100%;" height="400" width="100%" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/xIzChauF7jY?si=Was0ey9jDPfe1uoE"></iframe>
 </div>
 <p>Short on time? Catch this video to see how parking in Singapore evolved
 over the years.</p>
@@ -31,11 +31,11 @@ going on.</p>
 noting the times of arrivals and departures of vehicles entering, and collecting
 the requisite parking fees. Motorists would no doubt be fumbling with notes
 and coins to pay for their parking while exiting the carpark.</p>
-<p>Parking attendants were still prevalent until at least 1982, when the&nbsp;
-<a href="https://www.nas.gov.sg/archivesonline/government_records/Flipviewer/grid_publish/0/0b6fe76b-9f10-11e7-843a-0050568939ad-Cmd.23of1982/web/html5/index.html?launchlogo=tablet/GovernmentRecords_brandingLogo_.png&amp;pn=31" class="editor-rtfLink" rel="noopener noreferrer nofollow" target="_blank">Auditor-General’s Office</a>&nbsp;recommended that productivity could
-be boosted and savings made by reducing the number of parking attendants.
-How could this be done? By expanding the coupon parking system of course,
-something we’ll discuss next.</p>
+<p>Parking attendants were still prevalent until at least 1982, when the
+Auditor-General’s Office&nbsp;recommended that productivity could be boosted
+and savings made by reducing the number of parking attendants. How could
+this be done? By expanding the coupon parking system of course, something
+we’ll discuss next.</p>
 <h3>1980s – Rise of the coupon</h3>
 <p>In 1980, the&nbsp;<a href="https://www.straitstimes.com/singapore/transport/the-who-what-where-when-and-why-of-public-parking-coupons-in-singapore" class="editor-rtfLink" rel="noopener noreferrer nofollow" target="_blank">parking coupon was introduced</a>,
 putting the onus of noting the time and duration of parking on drivers
@@ -72,13 +72,13 @@ unit before the gantry is raised.</p>
 <p>As an increasing number of HDB carparks were brought into the system,
 HDB was able to&nbsp;<a href="https://www.straitstimes.com/singapore/transport/real-time-information-on-hdb-carpark-lots-also-made-available-online" class="editor-rtfLink" rel="noopener noreferrer nofollow" target="_blank">release an app in 2014</a>&nbsp;showing
 real-time information about available lots in EPS HDB carparks.</p>
-<h3>2018 – <a href="https://www.nas.gov.sg/archivesonline/government_records/Flipviewer/grid_publish/0/0b6fe76b-9f10-11e7-843a-0050568939ad-Cmd.23of1982/web/html5/index.html?launchlogo=tablet/GovernmentRecords_brandingLogo_.png&amp;amp;pn=31" rel="noopener noreferrer nofollow" target="_blank">Parking.sg</a> is born</h3>
+<h3>2018 – ParkingSG is born</h3>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="Screenshot of Parking.sg website" src="/images/technews/Parking_sg.jpg">
 </div>
 <p>But for parking at carparks without the electronic gantries. Coupons continued
-to rule the day until 2018, when the&nbsp;<a href="https://www.nas.gov.sg/archivesonline/government_records/Flipviewer/grid_publish/0/0b6fe76b-9f10-11e7-843a-0050568939ad-Cmd.23of1982/web/html5/index.html?launchlogo=tablet/GovernmentRecords_brandingLogo_.png&amp;amp;pn=31" rel="noopener noreferrer nofollow" target="_blank">Parking.sg</a> 
-<a href="https://www.parking.sg" class="editor-rtfLink" rel="noopener noreferrer nofollow" target="_blank">app</a>&nbsp;was rolled out as part of Singapore’s Smart Nation initiative.</p>
+to rule the day until 2018, when the <a href="https://www.parking.sg/" rel="noopener noreferrer nofollow" target="_blank">Parking.sg</a> app was rolled out as part
+of Singapore’s Smart Nation initiative.</p>
 <p>In the past, you would have had to calculate the number of parking coupons
 needed for your parking session. The app will automatically calculate the
 charges after you key in your vehicle number, the car park you are parking
@@ -87,10 +87,9 @@ at, and the parking duration.</p>
 their parking session expires and give them the option to extend their
 parking duration.</p>
 <p>And if motorists end their parking session early, a refund is given on
-a per minute basis. By&nbsp;<a href="https://vulcanpost.com/656482/parking-sg-app-singapore/" class="editor-rtfLink" rel="noopener noreferrer nofollow" target="_blank">2019</a>,
-more than 550,000 unique vehicles and more than 60 per cent of cars had
-used <a href="https://www.nas.gov.sg/archivesonline/government_records/Flipviewer/grid_publish/0/0b6fe76b-9f10-11e7-843a-0050568939ad-Cmd.23of1982/web/html5/index.html?launchlogo=tablet/GovernmentRecords_brandingLogo_.png&amp;amp;pn=31" rel="noopener noreferrer nofollow" target="_blank">Parking.sg</a>,
-over 15 million parking sessions handled by the app.</p>
+a per minute basis. By&nbsp;2019, more than 550,000 unique vehicles and
+more than 60 per cent of cars had used ParkingSG, over 15 million parking
+sessions handled by the app.</p>
 <p>The number of parking coupon booklets sold also fell dramatically, with
 50,000 sold in Dec 2018, less than one-third of 180,000 sold monthly in
 Oct 2017.</p>
