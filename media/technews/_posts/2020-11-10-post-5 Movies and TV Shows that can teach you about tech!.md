@@ -21,7 +21,7 @@ pleasure.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="Cinema where people head to enjoy movies in a comfortable setting" src="/images/technews/5_Movies_and_TV_Shows_that_can_teach_you_about_tech.jpg">
 </div>
-<p><em>While you sit back and enjoy the movie, remember to learn something! </em>
+<p><em>While you sit back and enjoy the movie, remember to learn something!</em>
 </p>
 <p>[SPOILER ALERT] The rest of the article explores the themes and premise
 of popular TV shows and films. While there will be no specific revelations
