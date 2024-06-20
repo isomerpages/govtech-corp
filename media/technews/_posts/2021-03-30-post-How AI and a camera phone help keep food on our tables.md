@@ -11,8 +11,9 @@ variant: tiptap
 <p>What did you have for lunch? Chances are, most of the ingredients came
 from overseas as Singapore imports more than 90 per cent of its food.</p>
 <p>But with global supply chains under stress from the ongoing pandemic,
-it has become all the more important to achieve Singapore’s&nbsp;<a href="https://www.channelnewsasia.com/news/singapore/singapore-produce-30-own-food-up-from-10-nutritional-needs-11320426" class="editor-rtfLink" rel="noopener noreferrer nofollow" target="_blank">“30 by 30” goal</a>&nbsp;of
-producing 30 per cent of our food needs on our shores by 2030.</p>
+it has become all the more important to achieve Singapore’s&nbsp;“30 by
+30” goal&nbsp;of producing 30 per cent of our food needs on our shores
+by 2030.</p>
 <p>To hit this target, local farms will have to ride on tech to supercharge
 productivity – as seen in a project using AI and camera phones to improve
 efficiency at fish farms.</p>
