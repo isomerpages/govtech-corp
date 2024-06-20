@@ -19,9 +19,6 @@ technology industry.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="GovTech winning awards at the WITSA Global ICT Excellence Awards" src="/images/technews/WITSA_awards___GovTech_bags_four_prizes_at_Olympics_of_ICT_1.jpg">
 </div>
-<p>Photo by&nbsp;<a href="https://unsplash.com/@romainchllet?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText" class="editor-rtfLink" rel="noopener noreferrer nofollow" target="_blank">Romain Chollet</a>&nbsp;on&nbsp;
-<a href="https://unsplash.com/s/photos/podium?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText" class="editor-rtfLink" rel="noopener noreferrer nofollow" target="_blank">Unsplash</a>
-</p>
 <h3>What are the WITSA awards?</h3>
 <p>The Global ICT Excellence Awards is an event held annually over the last
 two decades ever since the 2000 World Congress on IT in Taipei.</p>
@@ -135,7 +132,4 @@ be greatly elevated if they are accepted in even more jurisdictions.</p>
 <p>Finally, the awards also serve as a benchmark against which we measure
 our tech readiness. We can learn from other winners about where we fall
 short and get ideas on where we can improve and further innovate.</p>
-<p>Check out the&nbsp;<a href="https://witsa.org/witsa-announces-2021-global-ict-excellence-award-winners/" class="editor-rtfLink" rel="noopener noreferrer nofollow" target="_blank">full list</a>&nbsp;of
-winners here, which includes other agencies from Singapore besides GovTech!</p>
-<p><em>Enjoyed this article? Check out this article to find out about&nbsp;<a href="https://www.tech.gov.sg/media/technews/travel-in-the-time-of-covid" class="editor-rtfLink" rel="noopener noreferrer nofollow" target="_blank">how tech is making travel in the time of covid less painful</a>, or this article where we show how&nbsp;<a href="https://www.tech.gov.sg/media/technews/bridging-the-digital-divide" class="editor-rtfLink" rel="noopener noreferrer nofollow" target="_blank">bridging the digital divide starts with each of us!</a></em>
-</p>
+<p></p>
