@@ -15,10 +15,11 @@ of our population in our workforce, in order to be able to design products
 and services that adequately serve our people.</p>
 <p>In line with GovTech’s participation in the&nbsp;<a href="https://www.sgwomenintech.sg/our-partnerships/corporate-pledge-stories/" class="editor-rtfLink" rel="noopener noreferrer nofollow" target="_blank">Singapore Women in Tech Corporate Pledge</a>&nbsp;in
 March 2021 to create a conducive environment with a support system to attract,
-retain and develop more women in tech, we are pleased&nbsp;<a href="https://www.imda.gov.sg/news-and-events/Media-Room/Media-Releases/2021/Smart-Nation-Scholarship-2021-Welcomes-Most-Number-of-Female-Recipients-since-Inception" class="editor-rtfLink" rel="noopener noreferrer nofollow" target="_blank">to award three young female talent for Smart Nation Scholarship (SNS)</a>&nbsp;2021!
-We caught up with the three undergraduates to learn more about their passion
-in technology, what attracted them to apply for the scholarship, and how
-they hope to contribute to #TechforPublicGood.</p>
+retain and develop more women in tech, we are pleased&nbsp;to award three
+young female talent for Smart Nation Scholarship (SNS)&nbsp;2021! We caught
+up with the three undergraduates to learn more about their passion in technology,
+what attracted them to apply for the scholarship, and how they hope to
+contribute to #TechforPublicGood.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="Recipients of GovTech-Smart Nation Scholarship (SNS) 2021" src="/images/technews/Taking_flight_with_Smart_Nation_Scholarship.jpg">
 </div>
@@ -140,5 +141,4 @@ and efficient.</p>
 </p>
 <p><em>The application period for this year’s Smart Nation Scholarship is open until 30 April 2022. We welcome applications from pre-tertiary students, as well as undergraduates who have completed at least one semester in university but have yet to start their final year of study.</em>
 </p>
-<p><em>Find out more about Smart Nation Scholarship at: <a href="https://www.smartnation.gov.sg/careers/smart-nation-scholarship/" rel="noopener noreferrer nofollow" target="_blank">https://www.smartnation.gov.sg/careers/smart-nation-scholarship/</a></em>
-</p>
+<p></p>
