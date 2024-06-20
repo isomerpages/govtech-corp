@@ -20,7 +20,7 @@ on mosquitoes to fight dengue.</p>
 <p>With that in mind, we approached Goh Jie Wei, Data Analyst from NEA to
 shed more light on the project. Here’s what he had to say.</p>
 <div class="iframe-wrapper">
-<iframe style="max-width: 100%;" height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/nKbBaumLrIU?si=Qjtav4ohvO_Y5PXc"></iframe>
+<iframe style="max-width: 100%;" height="400" width="100%" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/nKbBaumLrIU?si=Qjtav4ohvO_Y5PXc"></iframe>
 </div>
 <p>Short on time? Catch this video to get the quick brief on how data is
 being used to fight dengue!</p>
@@ -92,6 +92,4 @@ water from their homes and immediate surroundings to deprive the mosquitoes
 of breeding habitats.</p>
 <p>To see whether your neighbourhood is in a red, yellow or green zone, check
 out the <a href="https://www.nea.gov.sg/" rel="noopener noreferrer nofollow" target="_blank">NEA website</a> and
-the myENV app. Updates happen every workday! Do also check out <a href="https://beta.data.gov.sg/" rel="noopener noreferrer nofollow" target="_blank">data.gov.sg</a> to
-find out more information about dengue data patterns in Singapore!</p>
-<p></p>
+the myENV app. Updates happen every workday!</p>
