@@ -21,9 +21,7 @@ restaurant for a meal with your friends and loved ones.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="Updating the IOS operating system for our devices helps to address security vulnerabilities" src="/images/technews/Why_you_should_not_ignore_OS___app_updates.jpg">
 </div>
-<p>Are app updates a bane or a boon? Photo by&nbsp;<a href="https://unsplash.com/@vmxhu?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText" class="editor-rtfLink" rel="noopener noreferrer nofollow" target="_blank">Szabo Viktor</a>&nbsp;on&nbsp;
-<a href="https://unsplash.com/s/photos/updates?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText" class="editor-rtfLink" rel="noopener noreferrer nofollow" target="_blank">Unsplash</a>
-</p>
+<p>Are app updates a bane or a boon?</p>
 <h3>You get the best and latest</h3>
 <p>Developers of apps don’t release new versions just to pester you (even
 if it feels that way). These new versions usually contain fresh looks,
@@ -45,9 +43,9 @@ that activities require proof of vaccination</p>
 <p>Your PCR or ART test result if you took a test in the last 24 hours</p>
 </li>
 </ul>
-<p>If you’re a foodie, you would know that&nbsp;<a href="https://www.straitstimes.com/singapore/restaurants-gear-up-to-check-diners-vaccination-status" class="editor-rtfLink" rel="noopener noreferrer nofollow" target="_blank">dining in</a>&nbsp;at
-restaurants now require proof of vaccination or a negative COVID test,
-and that’s what the TraceTogether app now provides.</p>
+<p>If you’re a foodie, you would know that&nbsp;dining in&nbsp;at restaurants
+now require proof of vaccination or a negative COVID test, and that’s what
+the TraceTogether app now provides.</p>
 <h3>You crush bugs</h3>
 <p>Periodic updates to your phone and apps are a minor hassle compared to
 the problems brought about by bugs.</p>
@@ -64,9 +62,9 @@ personal, financial, and other sensitive information.</p>
 <p>Little wonder, then that&nbsp;<a href="https://www.reuters.com/technology/microsoft-says-israeli-group-sold-tools-hack-windows-2021-07-15/" class="editor-rtfLink" rel="noopener noreferrer nofollow" target="_blank">bad actors</a>&nbsp;are
 constantly searching for ways to break into our devices and steal valuable
 data.</p>
-<p>Security has become so important that major&nbsp;<a href="https://asia.nikkei.com/Business/Technology/Google-pays-1.5m-to-white-hat-hackers-Toyota-says-thanks" class="editor-rtfLink" rel="noopener noreferrer nofollow" target="_blank">tech</a>&nbsp;
-<a href="https://www.facebook.com/whitehat" class="editor-rtfLink" rel="noopener noreferrer nofollow" target="_blank">companies</a>&nbsp;are paying bounties to people – known as white hat
-hackers – who can identify vulnerabilities in their systems.</p>
+<p>Security has become so important that major&nbsp;tech&nbsp;companies&nbsp;are
+paying bounties to people – known as white hat hackers – who can identify
+vulnerabilities in their systems.</p>
 <p>These chinks in the armour are then sealed up through software updates
 pushed to the users. So if you don’t install these updates, you’re leaving
 holes in the fence that would otherwise have already been repaired.</p>
@@ -83,8 +81,9 @@ reminder of some of the ways to see if the update is for real.</p>
 and other signs that the message isn’t from who it says it’s from.</p>
 </li>
 <li>
-<p>Look up the official communication channels, such as the&nbsp;<a href="https://www.facebook.com/GovTechSG/posts/alert-received-this-message-from-govtech-via-sms-to-update-your-tracetogether-ap/10157881101922511/" class="editor-rtfLink" rel="noopener noreferrer nofollow" target="_blank">official social media channels</a>&nbsp;of
-the organisation to see if updates have been announced.</p>
+<p>Look up the official communication channels, such as the&nbsp;official
+social media channels&nbsp;of the organisation to see if updates have been
+announced.</p>
 </li>
 <li>
 <p>If in doubt, visit the App Store or Google Play Store directly (without
@@ -94,9 +93,7 @@ can download the update straight from there.</p>
 </ul>
 <h3>Final tip – just auto-update</h3>
 <p>Still too busy to keep tapping for updates whenever the pesky red icons
-appear? Well, just turn on the auto-update function available in the&nbsp;
-<a href="https://www.businessinsider.com/how-to-turn-on-automatic-updates-on-iphone" class="editor-rtfLink" rel="noopener noreferrer nofollow" target="_blank">Apple</a>&nbsp;and&nbsp;<a href="https://support.google.com/googleplay/answer/113412?hl=en" class="editor-rtfLink" rel="noopener noreferrer nofollow" target="_blank">Google</a>&nbsp;app
-environments. Problem solved.</p>
-<p><em>Enjoyed this article? Check out this article to find out about&nbsp;<a href="https://www.tech.gov.sg/media/technews/here-are-5-jobs-that-didnt-exist-10-years-ago" class="editor-rtfLink" rel="noopener noreferrer nofollow" target="_blank">new jobs that didn’t exist a decade ago</a>, or this article where we show how&nbsp;<a href="https://www.tech.gov.sg/media/technews/developing-the-one-service-chatbot" class="editor-rtfLink" rel="noopener noreferrer nofollow" target="_blank">AI Chatbots</a>&nbsp;can improve your neighbourhood!</em>
-</p>
+appear? Well, just turn on the auto-update function available in the Apple
+and Google app stores. Problem solved.</p>
+<p></p>
 <p></p>
