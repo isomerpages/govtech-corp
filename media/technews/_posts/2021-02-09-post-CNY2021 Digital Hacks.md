@@ -21,7 +21,7 @@ mood!</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="Red chinese laterns being hung up for CNY decorations." src="/images/technews/CNY2021_Digital_Hacks.jpg">
 </div>
-<p><em>2021, a different kind of CNY. PHOTO: <a href="https://www.straitstimes.com/life/food/masks-and-gloves-on-and-no-shouting-please-quieter-lohei-to-welcome-year-of-the-ox" rel="noopener noreferrer nofollow" target="_blank">UNSPLASH.COM</a></em>
+<p><em>2021, a different kind of CNY. </em>
 </p>
 <h3>Streaming for reunion dinners and visitations</h3>
 <p>With gatherings kept to eight people, bai nian is about to get a lot more
@@ -47,15 +47,15 @@ results in?</p>
 </li>
 </ul>
 <h3>Giving Lo Hei a digital spin</h3>
-<p>Speaking of Lo Hei, you’ve probably heard the&nbsp;<a href="https://www.straitstimes.com/life/food/masks-and-gloves-on-and-no-shouting-please-quieter-lohei-to-welcome-year-of-the-ox" class="editor-rtfLink" rel="noopener noreferrer nofollow" target="_blank">news by now about the curbs</a>&nbsp;on
-shouting auspicious phrases. But the annual tossing of Yu Sheng doesn’t
-have to be a silent affair, thanks to some nifty apps.</p>
+<p>Speaking of Lo Hei, you’ve probably heard the&nbsp;news by now about the
+curbs&nbsp;on shouting auspicious phrases. But the annual tossing of Yu
+Sheng doesn’t have to be a silent affair, thanks to some nifty apps.</p>
 <p>Just tap on the phrase of your choice, and it’ll be belted out of your
-phone with gusto. There’s even a&nbsp;<a href="http://djbeng.com/lohei.html" class="editor-rtfLink" rel="noopener noreferrer nofollow" target="_blank">version with dialect readings</a>,
-while others are&nbsp;<a href="https://lovolume-lohei.sg/" class="editor-rtfLink" rel="noopener noreferrer nofollow" target="_blank">helpfully organised by ingredients</a>&nbsp;instead.
-For instance, tap on the sweet sauce, and the app will read out the appropriate
-auspicious phrase for that condiment (a definite lifesaver because, let’s
-face it, most of us can’t remember which phrase goes with which ingredient).</p>
+phone with gusto. There’s even a&nbsp;version with dialect readings, while
+others are&nbsp;helpfully organised by ingredients&nbsp;instead. For instance,
+tap on the sweet sauce, and the app will read out the appropriate auspicious
+phrase for that condiment (a definite lifesaver because, let’s face it,
+most of us can’t remember which phrase goes with which ingredient).</p>
 <h3>e-Ang Pows for hygiene purposes</h3>
 <p>Compared to the early 2010s where digital payments were clunky and fiddly
 to use, these days, many people will have their mobile number linked with
@@ -87,8 +87,6 @@ technology has responded quickly, with a variety of services popping up
 to facilitate karaoke without everyone being in the same room.</p>
 <p>Most of these are paid or subscription services but we feel it’s definitely
 worth it to spend a little for what is, after all, a special occasion.</p>
-<p>If you’re on a budget, there are articles such as this&nbsp;<a href="https://www.wired.com/story/zoom-karaoke-party/" class="editor-rtfLink" rel="noopener noreferrer nofollow" target="_blank">one</a>&nbsp;on
-how to host a virtual karaoke party for free.</p>
 <p><strong>Stream the classic CNY shows for some quality time</strong>
 </p>
 <p>A more passive but no less enjoyable annual ritual is gathering around
@@ -120,5 +118,6 @@ is something that is truly invaluable.</p>
 <p>As you can see, just because there’s no extended family gathering this
 year doesn’t mean we can’t all have fun together. A little tech, creativity,
 and willpower are all we need.</p>
-<h3>Here’s wishing you and your family a meaningful and healthy Chinese New Year!</h3>
+<p>Here’s wishing you and your family a meaningful and healthy Chinese New
+Year!</p>
 <p></p>
