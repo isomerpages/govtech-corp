@@ -12,15 +12,10 @@ variant: tiptap
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="GovTech making use of different mediums for its marketing efforts to reach a wider audience" src="/images/technews/Making_Tech_Talk_Exciting___Lessons_from_the_GovTech_s_marketing_team__1_.jpg">
 </div>
-<p><em>Image by <a href="http://rawpixel.com" rel="noopener noreferrer nofollow" target="_blank">rawpixel.com</a> on <a href="https://www.freepik.com/free-photo/corporate-management-strategy-solution-branding-concept_28096443.htm#fromView=search&amp;page=1&amp;position=2&amp;uuid=40ddeada-cc31-4f67-9fb8-67a93cd34393" rel="noopener noreferrer nofollow" target="_blank">Freepik</a></em>
-</p>
 <p>Most people might know GovTech for our tech projects and the wonderful
-teams who develop them. You know, the new and improved&nbsp;<a href="https://www.singpass.gov.sg/main" class="editor-rtfLink" rel="noopener noreferrer nofollow" target="_blank">Singpass</a>&nbsp;and&nbsp;
-<a href="https://www.singpass.gov.sg/main" rel="noopener noreferrer nofollow" target="_blank">Life.sg</a>&nbsp;apps,&nbsp;<a href="https://www.tech.gov.sg/products-and-services/opendoc/" class="editor-rtfLink" rel="noopener noreferrer nofollow" target="_blank">OpenDoc</a>,&nbsp;
-<a href="https://www.singpass.gov.sg/main" rel="noopener noreferrer nofollow" target="_blank">Parking.Sg</a><a href="https://www.parking.sg/" class="editor-rtfLink" rel="noopener noreferrer nofollow" target="_blank">.</a>
-</p>
-<p>What might be less apparent, though, is the team of people who manage
-comms and ensure the word actually gets out to the public.</p>
+teams who develop them. What might be less apparent, though, is the team
+of people who manage comms and ensure the word actually gets out to the
+public.</p>
 <p>That’s right – we’re talking about our award-winning marketing team.</p>
 <p>Award-winning? Yup.</p>
 <p>For two years now, our marketing team has been silently picking up a steady
@@ -33,7 +28,8 @@ as well as some of their challenges.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="Awards awarded to GovTech's marketing team for their hard work and effort" src="/images/technews/Making_Tech_Talk_Exciting___Lessons_from_the_GovTech_s_marketing_team.jpg">
 </div>
-<p>Before the awards comes the hard work. Photo by GovTech</p>
+<p><em>Before the awards comes the hard work. Photo by GovTech</em>
+</p>
 <h3>Don’t rely purely on news coverage</h3>
 <p>Many communications teams depend heavily on mainstream and digital media
 publications to publicise their products and services.</p>
@@ -44,23 +40,6 @@ news cycle and agenda.</p>
 and services, the team expanded its “business as usual” scope of work beyond
 the traditional “media relations” duties, where we are already intensifying
 candid engagement with media stakeholders.</p>
-<p>On top of that, in-house content (including this blog!) is an increasingly
-important part of our communication strategy to put out information such
-as:</p>
-<ul data-tight="true" class="tight">
-<li>
-<p>tech tips such as the&nbsp;<a href="https://www.tech.gov.sg/media/technews/this-is-why-you-need-a-vpn" class="editor-rtfLink" rel="noopener noreferrer nofollow" target="_blank">usefulness of VPN</a>
-</p>
-</li>
-<li>
-<p>Behind the scenes, look to see how everyday tools like the&nbsp;<a href="https://www.tech.gov.sg/media/technews/developing-the-one-service-chatbot" class="editor-rtfLink" rel="noopener noreferrer nofollow" target="_blank">OneService chatbot works</a>
-</p>
-</li>
-<li>
-<p><a href="https://www.facebook.com/18658822510/videos/795096021207624" class="editor-rtfLink" rel="noopener noreferrer nofollow" target="_blank">Interviews</a>&nbsp;with
-GovTechies on how the Government uses tech to better our lives</p>
-</li>
-</ul>
 <h3>Marketing is important – even for government organisations!</h3>
 <p>People from all backgrounds and at different stages of their lives use
 government e-services. Moreover, these users are also comparing their government
@@ -88,9 +67,6 @@ us to come up with the most effective ways of:</p>
 <p>Convincing people that it will improve their lives.</p>
 </li>
 </ul>
-<p>If you’re interested in helping shape Government e-services, sign up to
-be part of the Tech<a href="https://www.tech.gov.sg/get-involved/tech-kaki-newsletter?utm_source=techkaki&amp;utm_medium=facebook&amp;utm_campaign=referral" class="editor-rtfLink" rel="noopener noreferrer nofollow" target="_blank">&nbsp;Kaki</a>&nbsp;community,
-where you may be invited to co-create some of GovTech’s products!</p>
 <h3>Overcoming the challenges of a wide target audience</h3>
 <p>Typically, brands get to tailor-fit their messages or products to specific
 or niche audiences – based on factors such as age, interest, or gender.</p>
@@ -131,6 +107,5 @@ Adoption by the greater public.</p>
 <p>By translating policy and technical jargon into layman's terms, the public
 is more likely to relate better to the product and understand the benefits!</p>
 <p>It’s a win-win!</p>
-<p><em>Enjoyed this article? Check out this article to find out how&nbsp;<a href="https://www.tech.gov.sg/media/technews/history-of-the-internet" class="editor-rtfLink" rel="noopener noreferrer nofollow" target="_blank">the internet in Singapore</a>&nbsp;came about or this article where we chronicle the way&nbsp;<a href="https://www.tech.gov.sg/media/technews/history-of-parking" class="editor-rtfLink" rel="noopener noreferrer nofollow" target="_blank">parking evolved</a>&nbsp;here in Singapore.</em>
-</p>
+<p></p>
 <p></p>
