@@ -80,9 +80,9 @@ good relationships with business leaders.</p>
 <p>Along with these three opportunities, there are also three major risks
 that must be handled well, Ping Soon shared.</p>
 <p>One, cyber threats have the potential to deal with increasing damage as
-Singapore deepens our reliance on tech, as demonstrated by the&nbsp;
-<a href="https://www.straitstimes.com/world/united-states/solarwinds-hack-was-largest-and-most-sophisticated-attack-ever-microsoft" class="editor-rtfLink" rel="noopener noreferrer nofollow" target="_blank">SolarWinds</a>&nbsp;cyber attack, which affected 18,000 organisations,
-including US government agencies and Fortune 500 companies.</p>
+Singapore deepens our reliance on tech, as demonstrated by the <a href="https://www.straitstimes.com/world/united-states/solarwinds-hack-was-largest-and-most-sophisticated-attack-ever-microsoft" class="editor-rtfLink" rel="noopener noreferrer nofollow" target="_blank">SolarWinds</a>&nbsp;cyber
+attack, which affected 18,000 organisations, including US government agencies
+and Fortune 500 companies.</p>
 <p>Two, data must be safeguarded and used responsibly so as not to erode
 trust. Organisations must strengthen accountability for data handling and
 privacy.</p>
