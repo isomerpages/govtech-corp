@@ -13,11 +13,11 @@ variant: tiptap
 of commutes were made every single day in Singapore, whether it was by
 motorists zipping down our expressways, passengers travelling on our MRT
 lines, or bus riders steadily moving along bus routes.</p>
+<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="AI being used to simulate bus rides" src="/images/technews/How_tech_changed_transport_in_Singapore.jpg">
 </div>
-<p>Did you know that AI was used to improve bus routes? Photo by&nbsp;
-<a href="https://unsplash.com/@jiachenlin?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText" class="editor-rtfLink" rel="noopener noreferrer nofollow" target="_blank">Jiachen Lin</a>&nbsp;on&nbsp;<a href="https://unsplash.com/s/photos/singapore-transport?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText" class="editor-rtfLink" rel="noopener noreferrer nofollow" target="_blank">Unsplash</a>
+<p><em>Did you know that AI was used to improve bus routes? Photo by&nbsp; <a href="https://unsplash.com/@jiachenlin?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText" class="editor-rtfLink" rel="noopener noreferrer nofollow" target="_blank">Jiachen Lin</a>&nbsp;on&nbsp;<a href="https://unsplash.com/s/photos/singapore-transport?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText" class="editor-rtfLink" rel="noopener noreferrer nofollow" target="_blank">Unsplash</a>.</em>
 </p>
 <p>Keeping Singapore moving is no doubt a herculean task involving the maintenance
 of roads, train tracks, and other heavy-duty infrastructure. Beyond these
@@ -49,10 +49,9 @@ button to pay the amount they needed. The card is then returned with a
 paper ticket. When the farecard was low in value, riders could top them
 up with cash.</p>
 <p>Best of all, these farecards could also be used for MRT rides, integrating
-the ticketing systems. There were even commemorative farecards issued –
-such as this&nbsp;<a href="https://www.carousell.sg/p/star-wars-episode-1-smrt-giro-farecards-1005461646/?t-id=NSfiJfeh7c_1619608817319&amp;t-referrer_request_id=DjkbMmpKYdPP_NQj" class="editor-rtfLink" rel="noopener noreferrer nofollow" target="_blank">set</a>&nbsp;of
-Star Wars cards launched in conjunction with The Phantom Menace hitting
-big screens.</p>
+the ticketing systems. There were even commemorative farecards issued —
+such as a set of Star Wars cards launched in conjunction with The Phantom
+Menace hitting big screens.</p>
 <p>Another added layer of convenience through contactless payment was added
 in&nbsp;<a href="https://www.ezlink.com.sg/about-ez-link/company-profile/" class="editor-rtfLink" rel="noopener noreferrer nofollow" target="_blank">2002</a>,
 when EZ-Link cards were rolled out. With these new cards, passengers simply
