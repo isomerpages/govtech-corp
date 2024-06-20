@@ -108,4 +108,3 @@ Adoption by the greater public.</p>
 is more likely to relate better to the product and understand the benefits!</p>
 <p>It’s a win-win!</p>
 <p></p>
-<p></p>
