@@ -24,16 +24,14 @@ and safer may well help you arrive at a decision!</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="Tech making travel during Covid time safer and seamless" src="/images/technews/Travel_in_the_time_of_COVID___tech_is_making_your_overseas_trip_less_painful_than_you_think_1.jpg">
 </div>
-<p>Photo Credit: <a href="https://www.traveldailymedia.com/singaporeans-can-access-vaccination-certificates-in-google-pay-app/" rel="noopener noreferrer nofollow" target="_blank">Unsplash.com</a>
-</p>
 <h3>Vaccine certification and authentication digitalised</h3>
 <p>Many of you are no doubt familiar with the Google Pay app that enables
-cashless payments, but did you know that your&nbsp;<a href="https://www.traveldailymedia.com/singaporeans-can-access-vaccination-certificates-in-google-pay-app/" class="editor-rtfLink" rel="noopener noreferrer nofollow" target="_blank">vaccination certificate</a>&nbsp;can
+cashless payments, but did you know that your&nbsp;vaccination certificate&nbsp;can
 also be stored there? This feature is all the more important since a lot
 of travel now depends on whether one is vaccinated and clear of Covid before
 travel. Proof of vaccination and pre-departure results need to be tamper-proof,
 convenient to present, and easily authenticated.</p>
-<p>The tech powering the digital vaccination certificates is&nbsp;<a href="https://www.developer.tech.gov.sg/technologies/digital-solutions-to-address-covid-19/healthcerts" class="editor-rtfLink" rel="noopener noreferrer nofollow" target="_blank">HealthCerts</a>,
+<p>The tech powering the digital vaccination certificates is&nbsp;HealthCerts,
 a digital open standard for test results and vaccination certification.
 The system ensures that tamper-proof e-documents can be shared with travel
 authorities. The open eco-system means private companies and public entities
@@ -47,8 +45,8 @@ and Indonesia.</p>
 process has been revamped to minimise contact with surfaces and others.</p>
 <p>For starters, online and mobile check-in is increasingly replacing the
 need to queue at counters. The Singapore Airlines (SIA) app can even generate
-a&nbsp;<a href="http://www.bbc.com/storyworks/future/imagining-the-future-of-air-travel/contactless-travel-in-the-new-normal" class="editor-rtfLink" rel="noopener noreferrer nofollow" target="_blank">digital boarding pass</a>&nbsp;that
-enables passengers to proceed through the airport.</p>
+a&nbsp;digital boarding pass&nbsp;that enables passengers to proceed through
+the airport.</p>
 <p>Passengers can also use the app to declare the number of baggage and auto-print
 their baggage tags at the airport.</p>
 <p>Even if there is a need to use check-in kiosks, there are now 160 newly
@@ -57,7 +55,7 @@ using infrared sensors. Users can thus use the kiosks through gestures
 instead of touching the screen.</p>
 <p>As for immigration clearance, facial and iris recognition is replacing
 fingerprint scanning as the primary biometric identifier at Changi Airport.
-Be sure to check if your&nbsp;<a href="https://www.straitstimes.com/singapore/transport/covid-19-eye-and-face-scans-part-of-touch-free-travel-at-changi-airport" class="editor-rtfLink" rel="noopener noreferrer nofollow" target="_blank">facial and iris biometric information</a>&nbsp;has
+Be sure to check if your&nbsp;facial and iris biometric information&nbsp;has
 been enrolled with the Immigration and Checkpoints Authority!</p>
 <h3>Mobile app for in-flight entertainment and reading</h3>
 <p>A big part of the pleasure of flying is no doubt the in-flight entertainment
@@ -78,8 +76,9 @@ Review available in SIA’s e-library.</p>
 <p>If your choice of destination is heavily dependent on the travel regulations
 in place for that country, check out this map by the International Air
 Transport Association. You can click on any country, and the latest list
-of travel regulations or restrictions will be displayed. The&nbsp;<a href="https://www.iatatravelcentre.com/world.php" class="editor-rtfLink" rel="noopener noreferrer nofollow" target="_blank">map is also colour-coded</a>&nbsp;in
-terms of the restrictiveness of the rules in place for each country.</p>
+of travel regulations or restrictions will be displayed. The&nbsp;map is
+also colour-coded&nbsp;in terms of the restrictiveness of the rules in
+place for each country.</p>
 <p>Not quite spinning a globe and heading off to the place where your finger
 lands, but close enough in our time of pandemic.</p>
 <p>Do double-check the regulations with other sources, as we have learnt
@@ -90,5 +89,4 @@ can still be pulled off and enjoyable!</p>
 <p>And when you’re back from your adventure, you will not only have tales
 and photos to share but Covid travel hacks as well.</p>
 <p>Bon voyage!</p>
-<p><em>Enjoyed this article? Check out this article about&nbsp;<a href="https://www.tech.gov.sg/media/technews/here-are-5-jobs-that-didnt-exist-10-years-ago" class="editor-rtfLink" rel="noopener noreferrer nofollow" target="_blank">new jobs that didn’t exist a decade ago</a>&nbsp;or this article where we show how&nbsp;<a href="https://www.tech.gov.sg/media/technews/singpass-digital-ic" class="editor-rtfLink" rel="noopener noreferrer nofollow" target="_blank">losing your IC is now a thing of the past!</a></em>
-</p>
+<p></p>
