@@ -72,8 +72,7 @@ and operations, innovating with technology, and building products and platforms&
 can&nbsp;help make a difference in people’s lives. We look forward to working
 with these passionate technologists to tackle challenges&nbsp;in areas&nbsp;such
 as healthcare, transportation, Open Data and public service delivery.”</p>
-<p>For more information on the Smart Nation Fellowship Programme, please
-visit&nbsp;<a href="https://fellowships.data.gov.sg/" rel="noopener noreferrer nofollow" target="_blank">https://fellowships.data.gov.sg/</a>.</p>
+<p>For more information, check out the <a href="/careers/opportunities-for-professionals/smart-nation-fellowship-programme/" rel="noopener noreferrer nofollow" target="_blank">Smart Nation Fellowship Programme</a>.</p>
 <hr>
 <p><strong>ISSUED BY THE INFOCOMM DEVELOPMENT AUTHORITY OF SINGAPORE</strong>
 </p>
