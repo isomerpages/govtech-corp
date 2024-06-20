@@ -143,5 +143,5 @@ they’re excited about something, knowing that I am my kids’ universe, and
 knowing that they are my universe.</p>
 <p><em>Kudos to all mothers who wear many hats in their daily lives and for keeping a strong front before your families and your colleagues. This feat wouldn’t have been possible without their allies - fathers, grandparents, leaders, managers, co-workers, etc. - so a big shout-out to you too!</em>
 </p>
-<p><em>At GovTech, we support our female colleagues where we can. This year, we have established a Women in (Gov)Tech Employee Resource Group (ERG) that will introduce more ground-up programmes and initiatives to support the attraction, development, and retention of female talent within and outside of GovTech. </em>
+<p><em>At GovTech, we support our female colleagues where we can. This year, we have established a Women in (Gov)Tech Employee Resource Group (ERG) that will introduce more ground-up programmes and initiatives to support the attraction, development, and retention of female talent within and outside of GovTech.</em>
 </p>
