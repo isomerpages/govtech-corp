@@ -98,9 +98,8 @@ in 2009.</p>
 <p>But the true disruptive force came in the mid-2010s when apps for private
 hire car rides, such as Grab and Uber, stormed the scene. Their market
 influence quickly built up to the point that new regulations for private
-hire driver vocational&nbsp;<a href="https://www.lta.gov.sg/content/ltagov/en/newsroom/2017/3/2/applications-for-private-hire-car-drivers-vocational-licence-to-open-on-13-march-2017.html" class="editor-rtfLink" rel="noopener noreferrer nofollow" target="_blank">licences</a>&nbsp;and
-for private hire cars to display&nbsp;<a href="https://www.lta.gov.sg/content/ltagov/en/newsroom/2017/4/2/all-private-hire-cars-to-display-decals-from-1-july-2017.html" class="editor-rtfLink" rel="noopener noreferrer nofollow" target="_blank">decals</a>&nbsp;were
-introduced in 2017.</p>
+hire driver vocational licenses&nbsp;and for private hire cars to display
+decals were introduced in 2017.</p>
 <p>This forced established taxi operators to up their game, improving their
 booking apps’ user experience and coming up with new fare structures such
 as&nbsp;<a href="https://www.straitstimes.com/singapore/transport/comfortdelgro-launches-new-flat-fare-option-for-app-bookings" class="editor-rtfLink" rel="noopener noreferrer nofollow" target="_blank">fixed pricing.</a>
