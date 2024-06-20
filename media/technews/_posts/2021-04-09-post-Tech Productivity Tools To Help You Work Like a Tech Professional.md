@@ -12,7 +12,7 @@ variant: tiptap
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="A minimalist desk setup with a monitor, keyboard and mouse for optimal productivity." src="/images/technews/Tech_Productivity_Tools_To_Help_You_Work_Like_a_Tech_Professional.jpg">
 </div>
-<p><em>Read on for some tools that will help you get things done! </em>
+<p><em>Read on for some tools that will help you get things done!</em>
 </p>
 <p>One of the reasons tech exists is to make our lives easier. Automation,
 simplifying stuff, reducing laborious chores&nbsp;<strong>—</strong>&nbsp;these
