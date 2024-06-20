@@ -16,10 +16,10 @@ gives tech its focus on making our lives better.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="View of Silicon Valley from a GovTechie's perspective" src="/images/technews/From_Silicon_Valley_to_GovTechie___Why_one_Smart_Nation_Fellow_joined_the_Public_Service.jpg">
 </div>
-<p><em>Find out why Smart Nation Fellow Wang Zhen decided to join GovTech after leaving San Francisco</em>&nbsp;PHOTO:&nbsp;<em>Photo by&nbsp;<a href="https://unsplash.com/@madhur?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText" class="editor-rtfLink" rel="noopener noreferrer nofollow" target="_blank">Madhur Chadha</a>&nbsp;on&nbsp;<a href="https://unsplash.com/s/photos/silicon-valley?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText" class="editor-rtfLink" rel="noopener noreferrer nofollow" target="_blank">Unsplash</a></em>
+<p><em>Find out why Smart Nation Fellow Wang Zhen decided to join GovTech after leaving San Francisco</em>
 </p>
 <p>GovTech recognises the vast pool of tech talent in the private sector,
-which is why the&nbsp;<a href="https://www.tech.gov.sg/careers/smart-nation-fellowship-programme/" class="editor-rtfLink" rel="noopener noreferrer nofollow" target="_blank">Smart Nation Fellowship Programme</a>&nbsp;was
+which is why the&nbsp;<a href="/careers/opportunities-for-professionals/smart-nation-fellowship-programme/" class="editor-rtfLink" rel="noopener noreferrer nofollow" target="_blank">Smart Nation Fellowship Programme</a>&nbsp;was
 introduced in 2016, seeking to attract established data scientists, engineers,
 software developers, technologists, designers and applied researchers to
 take three to six months - or on a part-time basis - to collaborate with
@@ -60,11 +60,11 @@ satisfaction level surveys, and user engagement to gauge performance.</p>
 and failure is pretty destigmatised. My sense so far is that Singapore’s
 workplace culture seems more risk-averse, which is, of course, not a bad
 thing per se.</p>
-<p>It’s notable that a&nbsp;<a href="http://www3.weforum.org/docs/WEF_ASEAN_Youth_Survey_2019_Report.pdf" class="editor-rtfLink" rel="noopener noreferrer nofollow" target="_blank">2019</a>&nbsp;survey
-of ASEAN youth by the World Economic Forum found that Singaporean youth
-recorded the lowest desire to become an entrepreneur among ASEAN peers,
-even though Singapore is super business-friendly (low corporate tax, first-class
-infrastructure, mature legal system, government funding etc.).</p>
+<p>It’s notable that a&nbsp;2019&nbsp;survey of ASEAN youth by the World
+Economic Forum found that Singaporean youth recorded the lowest desire
+to become an entrepreneur among ASEAN peers, even though Singapore is super
+business-friendly (low corporate tax, first-class infrastructure, mature
+legal system, government funding etc.).</p>
 <p>If I were pushed for an explanation for Singaporeans’ risk-aversion that
 the WEF report didn’t offer, I’d say that it’s a rational choice in a wealthy
 society with a stable (but not booming) economy -- when it’s easy to attain
@@ -97,6 +97,6 @@ to my decision to stay at GovTech.</p>
 than AI does. To be on the safe side, my aspiration is not to build a superhuman
 Skynet system but the simplest model with a trace of self-consciousness.
 What could possibly go wrong?</p>
-<p><em>The Smart Nation Fellowship Programme has attracted 14 Smart Nation Fellows to date, including Wang Zhen. Find out more about the programme&nbsp;<a href="https://www.tech.gov.sg/careers/smart-nation-fellowship-programme/" class="editor-rtfLink" rel="noopener noreferrer nofollow" target="_blank">here</a>.</em>
+<p><em>The Smart Nation Fellowship Programme has attracted 14 Smart Nation Fellows to date, including Wang Zhen. </em>
 </p>
 <p></p>
