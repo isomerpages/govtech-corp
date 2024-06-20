@@ -12,7 +12,7 @@ variant: tiptap
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="A minimalist desk setup with a monitor, keyboard and mouse for optimal productivity." src="/images/technews/Tech_Productivity_Tools_To_Help_You_Work_Like_a_Tech_Professional.jpg">
 </div>
-<p><em>Read on for some tools that will help you get things done! PHOTO: <a href="https://trello.com/en" rel="noopener noreferrer nofollow" target="_blank">UNSPLASH.COM</a></em>
+<p><em>Read on for some tools that will help you get things done! </em>
 </p>
 <p>One of the reasons tech exists is to make our lives easier. Automation,
 simplifying stuff, reducing laborious chores&nbsp;<strong>—</strong>&nbsp;these
@@ -61,7 +61,7 @@ app.</p>
 <p>Before plunging straight into building a customisation, checking out the
 pre-built customisations on the IFTTT website may save you from reinventing
 the wheel. Oh, by the way, the pronunciation of IFTTT rhymes with “gift”.</p>
-<h3>Staying Focussed</h3>
+<h3>Staying Focused</h3>
 <p>1)&nbsp;<a href="https://www.rescuetime.com/" class="editor-rtfLink" rel="noopener noreferrer nofollow" target="_blank">RescueTime</a>
 </p>
 <p>This tool does what its name suggests and rescues your time from being
@@ -74,7 +74,7 @@ breaks add up to hours upon hours might just be the motivation you need
 to cut back on social media. RescueTime also comes as an app so you can
 track your phone usage to see if you’re being productive or consuming too
 many mindless videos.</p>
-<p>2)&nbsp;<a href="https://chrome.google.com/webstore/detail/stayfocusd/laankejkbhbdhmipfmgcngdelahlfoji?hl=en" class="editor-rtfLink" rel="noopener noreferrer nofollow" target="_blank">StayFocused</a>
+<p>2)&nbsp;<a href="https://www.stayfocusd.com/" class="editor-rtfLink" rel="noopener noreferrer nofollow" target="_blank">StayFocusd</a>
 </p>
 <p>Ok, so you’ve tried tracking your online activity in a bid to kick the
 procrastination, but it’s not working.</p>
