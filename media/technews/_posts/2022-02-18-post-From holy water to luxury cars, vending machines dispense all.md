@@ -21,7 +21,7 @@ just how diverse their use has been over the years? Well, you’ve come to
 the right place then, as we’re running through the history of vending machines.</p>
 <p>Short on time? Catch this video to see how vending machines have evolved!</p>
 <div class="iframe-wrapper">
-<iframe style="max-width: 100%;" height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/TZlPEh1UG2g?si=HhhNxRoNYVOcryNP"></iframe>
+<iframe style="max-width: 100%;" height="400" width="100%" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/TZlPEh1UG2g?si=HhhNxRoNYVOcryNP"></iframe>
 </div>
 <h3>First vending machine was from 2,000 years ago</h3>
 <p>Vending machines seem like modern marvels, but the first one was actually
@@ -60,10 +60,8 @@ This method of looking for specific patterns was why crumpled notes were
 often rejected.</p>
 <h3>Vending machines in Singapore today</h3>
 <p>It’s no exaggeration to say the possibilities for vending machines are
-endless. We have machines dispensing&nbsp;<a href="https://www.norwegiansalmon.com.sg/" class="editor-rtfLink" rel="noopener noreferrer nofollow" target="_blank">salmon</a>,&nbsp;
-<a href="https://asia.nikkei.com/Business/Asia-s-1st-gold-vending-machines-for-Singapore-casinos" class="editor-rtfLink" rel="noopener noreferrer nofollow" target="_blank">gold</a>, and even a “machine” the size of a building dispensing&nbsp;
-<a href="https://www.youtube.com/watch?v=Hi0aPm02JM0" class="editor-rtfLink" rel="noopener noreferrer nofollow" target="_blank">luxury cars!</a>
-</p>
+endless. We have machines dispensing&nbsp;salmon,&nbsp; gold, and even
+a “machine” the size of a building dispensing&nbsp;luxury cars!</p>
 <p>Vending machines are also an integral part of Singapore’s fight against
 the pandemic. We are able to get masks, test kits, and contact tracing
 tokens from vending machines situated in housing blocks, community centres,
