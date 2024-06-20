@@ -82,7 +82,7 @@ a regular employee. I was encouraged to speak up during meetings, and I
 felt like an important member of my team.</p>
 <h3>Share with us what was the one memorable thing that happened/you did during your internship?</h3>
 <p>Merlin: One of my most memorable experiences was being allowed to serve
-on the organising committee for the annual&nbsp;<a href="https://www.tech.gov.sg/careers/students-and-graduates/" class="editor-rtfLink" rel="noopener noreferrer nofollow" target="_blank">GeekOut</a>&nbsp;boot
+on the organising committee for the annual&nbsp;<a href="/careers/students-and-graduates/geekout/" class="editor-rtfLink" rel="noopener noreferrer nofollow" target="_blank">GeekOut</a>&nbsp;boot
 camp. I was able to shadow my colleagues and learn about the process of
 organising an online event.</p>
 <p>What was even more incredible for me was the opportunity to attend various
@@ -92,7 +92,7 @@ to see how different teams contribute to the country’s digital transformation
 and improve the lives of our citizens.</p>
 <p>Kerlyn: The most memorable thing that happened during my internship was
 sitting in an interview with GovTech’s senior leaders for the final round
-of assessment for our&nbsp;<a href="https://www.tech.gov.sg/careers/students-and-graduates/" class="editor-rtfLink" rel="noopener noreferrer nofollow" target="_blank">Technology Associate Programme</a>.
+of assessment for our&nbsp;<a href="/careers/students-and-graduates/technology-associate-programme/" class="editor-rtfLink" rel="noopener noreferrer nofollow" target="_blank">Technology Associate Programme</a>.
 I got to listen to them share their ways of assessing candidates and it
 was very insightful.</p>
 <h3>Lastly, what is one piece of advice you’d give to someone interested in applying for an internship at GovTech?</h3>
@@ -104,6 +104,5 @@ for.</p>
 <p>Also, keep your resume as concise as possible!</p>
 <p><strong>Kerlyn:</strong>&nbsp;Adding on to Merlin, keep an open mind and
 maximise the opportunity to learn as much as possible!</p>
-<p><strong>Looking for your next internship? We invite you to apply with us at&nbsp;<a href="https://www.tech.gov.sg/careers/students-and-graduates/" rel="noopener noreferrer nofollow" target="_blank">https://go.gov.sg/internship</a>.</strong>
-</p>
+<p></p>
 <p></p>
