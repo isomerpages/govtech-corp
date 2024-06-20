@@ -102,9 +102,9 @@ which promotes and aggregates demand for solar energy across all government
 agencies, thereby reaping economies of scale.</p>
 <h3>What the future holds</h3>
 <p>Solar power capacity will continue to be ramped up to meet the nation’s
-2025 target. We are already planning to have&nbsp;<a href="https://www.straitstimes.com/singapore/environment/pub-eyes-2-large-scale-floating-solar-farms-at-lower-seletar-and-pandan" class="editor-rtfLink" rel="noopener noreferrer nofollow" target="_blank">two more large-scale</a>&nbsp;floating
+2025 target. We are already planning to have&nbsp;two more large-scale&nbsp;floating
 solar farms at Lower Seletar Reservoir and Pandan Reservoir.</p>
-<p>Beyond that, Singapore aims to deploy at least&nbsp;<a href="https://www.ema.gov.sg/Solar_Photovoltaic_Systems.aspx" class="editor-rtfLink" rel="noopener noreferrer nofollow" target="_blank">2 gigawatt-peak (GWp)</a>&nbsp;of
+<p>Beyond that, Singapore aims to deploy at least&nbsp;2 gigawatt-peak (GWp)&nbsp;of
 solar energy by 2030, or the equivalent of powering about 350,000 households
 for a year.</p>
 <p>Another trend that has been catching on in recent years is to blend solar
@@ -112,7 +112,4 @@ panels into the overall facade of a building in an aesthetically pleasing
 manner. Known as&nbsp;<a href="https://bipv.sg/singapore/" class="editor-rtfLink" rel="noopener noreferrer nofollow" target="_blank">Building Integrated PV</a>,
 prominent examples include the Sports Hub and Biopolis. Now you’re not
 just saving the planet, you’re doing it in style!</p>
-<p>*Enjoyed this article? Check out this article to find out about&nbsp;
-<a href="https://www.tech.gov.sg/media/technews/travel-in-the-time-of-covid" class="editor-rtfLink" rel="noopener noreferrer nofollow" target="_blank">how tech is making travel in the time of covid less painful</a>, or this
-article to find out how&nbsp;<a href="https://www.tech.gov.sg/media/technews/witsa-awards" class="editor-rtfLink" rel="noopener noreferrer nofollow" target="_blank">GovTech fared at the WITSA awards</a>,
-the Olympics of ICT!</p>
+<p></p>
