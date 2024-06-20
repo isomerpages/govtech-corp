@@ -19,9 +19,7 @@ detect smoking that takes place outside of designated public places.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="Irresponsible disposal of cigarette. Using tech to keep environment smoke free" src="/images/technews/Clearing_the_air__Using_tech_to_keep_our_environment_smoke_free.jpg">
 </div>
-<p>Let’s see how tech can be used to keep our environment smoke-free! Photo
-by&nbsp;<a href="https://unsplash.com/@johnmcclane?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText" class="editor-rtfLink" rel="noopener noreferrer nofollow" target="_blank">Andres Siimon</a>&nbsp;on&nbsp;
-<a href="https://unsplash.com/s/photos/smoking-zone?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText" class="editor-rtfLink" rel="noopener noreferrer nofollow" target="_blank">Unsplash</a>
+<p><em>Let’s see how tech can be used to keep our environment smoke-free! </em>
 </p>
 <h3>A fun name for a serious subject</h3>
 <p>Every project needs a name, and the team chose “Balefire” for this smoking
