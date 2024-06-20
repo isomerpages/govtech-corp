@@ -23,7 +23,7 @@ on the Singpass app, and over 90% of them use the app at least once a month.
 The Singpass app is also one of the most downloaded apps in Singapore in
 2020 and has tripled its user base in the past year. If you’re a responsible
 citizen, you’d know the app from all the times you used it for your SafeEntry
-check-ins&nbsp;<a href="https://www.moe.gov.sg/news/press-releases/20210104-release-of-2020-singapore-cambridge-gce-o-level-examination-results-and-2021-joint-admissions-exercise" class="editor-rtfLink" rel="noopener noreferrer nofollow" target="_blank">(and flexing your ‘O’ level results)</a>.</p>
+check-ins&nbsp;(and flexing your ‘O’ level results).</p>
 <p>This month though, everyone’s favourite government app has undergone a
 brand refresh. Besides the obvious logo change, the team has been working
 on making the app even more feature-packed and useful.</p>
