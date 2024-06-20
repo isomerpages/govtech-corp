@@ -23,7 +23,7 @@ you’re vaccinated. It takes just a few moments to ascertain that everything
 is in order, and you sail through customs and head towards the sun and
 sand!</p>
 <p>Fantasies about vacations aside, such seamless verification of digital
-documents is already a reality, thanks not only to&nbsp;<a href="https://www.healthcerts.gov.sg/" class="editor-rtfLink" rel="noopener noreferrer nofollow" target="_blank">technology</a>&nbsp;developed
+documents is already a reality, thanks not only to technology developed
 by GovTech, but also the collaboration with private sector firms in putting
 the technology into as many hands as possible.</p>
 <p>Indeed, the public and private sectors are often discussed as separate
@@ -58,7 +58,7 @@ issued through this framework are tamper-proof and are already used for
 educational and vocational certificates (through the&nbsp;<a href="https://www.opencerts.io/" class="editor-rtfLink" rel="noopener noreferrer nofollow" target="_blank">OpenCerts</a>&nbsp;product)
 and maritime trade documents (through the&nbsp;<a href="https://www.tradetrust.io/" class="editor-rtfLink" rel="noopener noreferrer nofollow" target="_blank">TradeTrust</a>&nbsp;product),
 says Barry Lim, a Delivery Manager with GovTech.</p>
-<p>More recently, GovTech has also embarked on the&nbsp;<a href="https://www.healthcerts.gov.sg/" class="editor-rtfLink" rel="noopener noreferrer nofollow" target="_blank">HealthCerts</a>&nbsp;initiative,
+<p>More recently, GovTech has also embarked on the&nbsp;HealthCerts&nbsp;initiative,
 which will authenticate pre-departure Covid test results and ensure the
 safe resumption of international travel.</p>
 <p>This tech solves the “verifiable and trustworthy” aspect of the equation.
@@ -79,7 +79,7 @@ entities also reached out to airlines and immigration authorities.</p>
 <p>“The common framework and open-source components avoid the need for private
 organisations to reinvent the wheel, therefore achieving faster time to
 market,” says Barry.</p>
-<p>Indeed, private companies such as Accredify, AOKpass, and <a href="https://www.healthcerts.gov.sg/" rel="noopener noreferrer nofollow" target="_blank">Trybe.ID</a> were
+<p>Indeed, private companies such as Accredify, AOKpass, and TrybeID were
 able to operate agilely beyond the shores of Singapore to amplify the reach
 of HealthCerts. As a result, it now operates in nine countries and is used
 by 420 medical facilities.</p>
@@ -90,11 +90,10 @@ them to focus on customising their apps to their clients’ needs, differentiati
 them from their competitors.</p>
 <p>Open source helps to create a marketplace and transcend geographical boundaries
 to fit the local context. We have also seen how some of these private entities,
-such as <a href="https://www.healthcerts.gov.sg/" rel="noopener noreferrer nofollow" target="_blank">Trybe.ID</a>,
-customise users’ needs using OA, such as the issuance of micro-credentials,
-academic certificates or health certificates. Their contributions to the
-OpenAttestation source code repository have also been incorporated during
-the development of HealthCerts.</p>
+such as TrybeID, customise users’ needs using OA, such as the issuance
+of micro-credentials, academic certificates or health certificates. Their
+contributions to the OpenAttestation source code repository have also been
+incorporated during the development of HealthCerts.</p>
 <h3>Overcoming differences</h3>
 <p>Of course, there are inevitable teething issues when organisations with
 differing motivations come together. After all, the public sector is guided
@@ -112,5 +111,4 @@ and competitiveness. This approach to public-private partnership ensures
 that we are not simply approaching the problem in a demand-and-supply manner
 but rather working together to promote progressive solutions to a complex
 situation.</p>
-<p><em>If you’re evaluating digital solutions for digital test results, keen to issue or find out more about HealthCerts please click&nbsp;<a href="https://www.healthcerts.gov.sg/" class="editor-rtfLink" rel="noopener noreferrer nofollow" target="_blank">here</a>&nbsp;– so that more countries can open up for travel safely.</em>
-</p>
+<p></p>
