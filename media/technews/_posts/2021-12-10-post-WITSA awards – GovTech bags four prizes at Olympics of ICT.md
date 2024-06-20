@@ -65,15 +65,15 @@ undertaking, including running incinerator plants, tracking toxic industry
 waste, and recycling.</p>
 </li>
 </ul>
-<p>The&nbsp;<a href="https://wrms.nea.gov.sg/security/process/WRMS/Index" class="editor-rtfLink" rel="noopener noreferrer nofollow" target="_blank">WRMS</a>&nbsp;provides
-the National Environment Agency (NEA) with end-to-end backend support on
-the management of waste disposal accounts and automation of operational
-processes through the addition of new features that aid in the registration
-of disposal vehicles, online billing, data analysis, and even seamless
-retrieval of licence information. These capabilities have allowed NEA to
-improve overall operational efficiency in the waste disposal process.</p>
+<p>The&nbsp;WRMS&nbsp;provides the National Environment Agency (NEA) with
+end-to-end backend support on the management of waste disposal accounts
+and automation of operational processes through the addition of new features
+that aid in the registration of disposal vehicles, online billing, data
+analysis, and even seamless retrieval of licence information. These capabilities
+have allowed NEA to improve overall operational efficiency in the waste
+disposal process.</p>
 <p>Thanks to the system, Singapore is closer to the realisation of its&nbsp;
-<a href="https://www.towardszerowaste.gov.sg/zero-waste-masterplan/" class="editor-rtfLink" rel="noopener noreferrer nofollow" target="_blank">national Zero-Waste 2025 blueprint</a>.</p>
+<a href="https://www.zerowastesg.com/" class="editor-rtfLink" rel="noopener noreferrer nofollow" target="_blank">national Zero-Waste plan</a>.</p>
 <ul data-tight="true" class="tight">
 <li>
 <p><strong>The Singapore Student Learning Space (SLS)</strong> – runner-up
