@@ -70,8 +70,6 @@ the users wanted to access.</p>
 requests for users to perform cyber-attacks such as phishing. A hacker
 could also run JavaScript code that would exploit the outdated Chromium
 browser to execute malicious programs.</p>
-<p>For a technical walkthrough, check out&nbsp;<a href="https://spaceraccoon.dev/applying-offensive-reverse-engineering-to-facebook-gameroom" class="editor-rtfLink" rel="noopener noreferrer nofollow" target="_blank">Eugene’s blog</a>&nbsp;for
-his experience during the challenge.</p>
 <h3>Showcasing SG expertise</h3>
 <p>Eugene’s discovery propelled him into the top ten leaderboard for Bountycon,
 and eventually, he secured the sixth position.</p>
