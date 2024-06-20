@@ -85,8 +85,7 @@ at their surroundings.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="Pokemon Go as an example of the application of Augmented Reality (AR) technology" src="/images/technews/Pokemon_Go__resized_.jpg">
 </div>
-<p><em>Image by keongdagreat at <a href="https://images.assetsdelivery.com/compings_v2/keongdagreat/keongdagreat1608/keongdagreat160800209/60797684.jpg" rel="noopener noreferrer nofollow" target="_blank">123RF</a></em>
-</p>
+<p><em>Image by keongdagreat at <a href="https://images.assetsdelivery.com/compings_v2/keongdagreat/keongdagreat1608/keongdagreat160800209/60797684.jpg" rel="noopener noreferrer nofollow" target="_blank">123RF</a></em>.</p>
 <p>In addition, VR is well-suited for transplanting a user into a completely
 fictional, digital world, and so has uses in gaming and simulation. On
 the other hand, AR shines when interacting with the real world, so education
@@ -124,7 +123,6 @@ Victoria Concert Hall, and Maxwell Food Centre.</p>
 <div class="iframe-wrapper">
 <iframe style="max-width: 100%;" height="400" width="100%" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/zFxpXiAkT2k?si=-3NFz7VS6IJzi9yR"></iframe>
 </div>
-<p></p>
 <p>Education is another field to which AR can be applied.</p>
 <p>For example, Apple offers suggested lesson&nbsp;<a href="https://www.apple.com/sg/education/docs/ar-in-edu-lesson-ideas.pdf" class="editor-rtfLink" rel="noopener noreferrer nofollow" target="_blank">plans</a>&nbsp;to
 accompany the use of AR with iPads. Having trouble with geometry? Perhaps
