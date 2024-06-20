@@ -1,7 +1,7 @@
 ---
 layout: post
 title: GovTech expert shows you how to prevent cyber eavesdropping
-permalink: /media/technews/organisations-prevent-external-eavesdropping-electromagnetic-emissions/
+permalink: /media/technews/how-organisations-can-prevent-external-eavesdropping-influence-through-electromagnetic-emissions/
 image: /images/technews/GovTech_expert_shows_you_how_to_prevent_cyber_eavesdropping_1.jpg
 date: 2019-10-19
 description: Discover how electromagnetic radiation from electronic devices can

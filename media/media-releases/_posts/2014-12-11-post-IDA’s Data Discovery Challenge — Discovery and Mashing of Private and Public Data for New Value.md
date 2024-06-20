@@ -2,7 +2,7 @@
 layout: post
 title: IDA’s Data Discovery Challenge — Discovery and Mashing of Private and
   Public Data for New Value
-permalink: /media/media-releases/ida-data-discovery-challenge-mashing-of-private-public-data-for-new-value/
+permalink: /media/media-releases/combine-and-win-ida-data-discovery-challenge-focuses-on-discovery-and-mashing-of-private-and-public-data-for-new-value/
 date: 2014-12-11
 description: SG's Data Discovery Challenge encourages businesses to share
   private datasets to uncover insights, fueling Smart Nation initiatives. The

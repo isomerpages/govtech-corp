@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Today is World Programmer Day, meet one of our own!
-permalink: /media/technews/today-is-world-programmers-day/
+permalink: /images/technews/today-is-world-programmers-day
 image: /images/technews/Today_is_world_programmer_day__Meet_one_of_our_own_.jpg
 date: 2023-09-13
 description: Celebrate World Programmer Day with Dave, a GovTech software

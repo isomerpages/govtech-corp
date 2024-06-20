@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Behind the scenes look at GovTech’s Red Team cyberattack
-permalink: /media/technews/behind-the-scenes-look-at-govtechs-red-team-cyberattack/
+permalink: /media/technews/behind-the-scenes-look-at-govtech%E2%80%99s-red-team-cyberattack/
 image: /images/technews/behind-the-scenes-look-at-govtech’s-red-team-cyberattack-part-1.png
 variant: tiptap
 date: 2018-06-04

@@ -2,7 +2,7 @@
 layout: post
 title: IDA launches Smart Nation Fellowship Programme to create top Data Science
   and Tech Talents
-permalink: /media/media-releases/ida-launches-smart-nation-fellowship-programme-top-data-science-tech-talent/
+permalink: /media/media-releases/ida-launches-smart-nation-fellowship-programme-to-foster-a-network-of-top-data-science-and-tech-talents-for-singapore/
 date: 2016-03-07
 description: "Join the Smart Nation Fellowship Programme 🌐 and help develop
   transformative digital solutions to improve lives in Singapore. Apply now!

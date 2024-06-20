@@ -2,7 +2,7 @@
 layout: post
 title: Beeline Experiment Goes Live with a Mobile App to Enable Smart,
   Pre–booked Express Bus Rides
-permalink: /media/media-releases/beeline-goes-live-with-mobile-app-enable-pre-booked-express-bus-rides/
+permalink: /media/media-releases/beeline-experiment-goes-live-with-a-mobile-app-to-enable-smart-pre-booked-express-bus-rides/
 date: 2015-08-05
 description: Beeline app — commuters pre-book rides on express private buses,
   offering shorter travel time. It supports SG's Smart Nation goals and changing

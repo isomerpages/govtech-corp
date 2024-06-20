@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Autonomous Vehicles in Singapore
-permalink: /media/technews/autonomous-vehicles-in-singapore/
+permalink: /media/technews/driving-autonomously-in-singapore/
 image: /images/technews/driving_autonomously_in_singapore_part_1.jpg
 date: 2016-10-10
 description: Discover Singapore's journey towards driverless cars, from Gardens

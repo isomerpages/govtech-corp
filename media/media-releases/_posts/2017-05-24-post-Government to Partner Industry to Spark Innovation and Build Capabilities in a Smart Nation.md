@@ -2,7 +2,7 @@
 layout: post
 title: Government to Partner Industry to Spark Innovation and Build Capabilities
   in a Smart Nation
-permalink: /media/media-releases/government-and-industry-spark-innovation-and-capabilities-in-a-smart-nation/
+permalink: /media/media-releases/government-to-partner-industry-to-spark-innovation-and-build-capabilities-in-a-smart-nation/
 date: 2017-05-24
 description: The Singapore Government will invest $2.4 billion in ICT tenders
   for Smart Nation projects like National Digital Identity and cashless

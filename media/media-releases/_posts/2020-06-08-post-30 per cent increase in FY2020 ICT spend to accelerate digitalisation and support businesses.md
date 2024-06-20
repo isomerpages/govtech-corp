@@ -2,7 +2,7 @@
 layout: post
 title: 30 per cent increase in FY2020 ICT spend to accelerate digitalisation and
   support businesses
-permalink: /media/media-releases/increase-fy2020-ict-to-accelerate-digitalisation-and-support-businesses/
+permalink: /media/media-releases/thirty-percent-increase-fy2020-ict-spend-to-accelerate-digitalisation-and-support-businesses/
 date: 2020-06-08
 description: Singapore increases ICT spending by 30% to boost digitalisation
   amid COVID-19 recovery. SMEs are eligible for 80% of procurement

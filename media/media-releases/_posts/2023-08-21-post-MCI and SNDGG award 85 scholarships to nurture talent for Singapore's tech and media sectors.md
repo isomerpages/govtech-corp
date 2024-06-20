@@ -2,7 +2,7 @@
 layout: post
 title: MCI and SNDGG award 85 scholarships to nurture talent for Singapore's
   tech and media sectors
-permalink: /media/media-releases/mci-and-sndgg-award-scholarships-to-nurture-talent-for-sg-technology-sectors/
+permalink: /media/media-releases/2023-08-21-mci-and-sndgg-award-85-scholarships-to-nurture-talent-for-singapore-technology-media-and-information-sectors
 date: 2023-08-21
 variant: markdown
 description: 85 scholarships awarded by MCI and SNDGG for tech, media, and info

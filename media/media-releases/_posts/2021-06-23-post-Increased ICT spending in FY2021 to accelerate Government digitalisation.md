@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Increased ICT spending in FY2021 to accelerate Government digitalisation
-permalink: /media/media-releases/2021-06-23-increased-ict-spending-in-fy2021-to-accelerate-digitalisation/
+permalink: /media/media-releases/2021-06-23-increased-ict-spending-in-fy2021-to-accelerate-government-digitalisation
 date: 2021-06-23
 description: Singapore Govt allocates S$3.8 billion for ICT spending, focusing
   on digital service transformation, infrastructure re-engineering, and AI

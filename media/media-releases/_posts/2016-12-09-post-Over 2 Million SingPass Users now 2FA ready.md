@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Over 2 Million SingPass Users now 2FA ready
-permalink: /media/media-releases/over-2-million-singpass-users-now-2fa-ready/
+permalink: /media/media-releases/over-2-point-3-million-singpass-users-now-2fa-ready/
 date: 2016-12-09
 description: SingPass Users must set up 2FA by 15 Jan 2017 for secure access to
   over 100 govt digital services. File taxes & more! Get help at
