@@ -18,9 +18,6 @@ thanks to the technology of 3D printing.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="3D printing machine" src="/images/technews/Blood__Flesh_and____3D_printing___1_.jpg">
 </div>
-<p>Read on to find out how you can try out 3D printing in Singapore. Photo
-by <a href="https://edition.cnn.com/2021/11/25/health/3d-printed-eye-scli-intl-gbr-scn/index.html" rel="noopener noreferrer nofollow" target="_blank">unsplash.com</a>
-</p>
 <p>Late last year, a man in Britain became the first person in the world
 to be fitted with a&nbsp;<a href="https://edition.cnn.com/2021/11/25/health/3d-printed-eye-scli-intl-gbr-scn/index.html" class="editor-rtfLink" rel="noopener noreferrer nofollow" target="_blank">3D-printed eye.</a>&nbsp;The
 prosthetic is more life-like than those produced using previous methods,
