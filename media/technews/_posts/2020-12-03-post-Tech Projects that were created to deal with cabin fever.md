@@ -13,11 +13,10 @@ variant: tiptap
 around the world, lockdowns are still a reality.</p>
 <p>Prolonged loneliness and boredom can give rise to cabin fever, a psychological
 condition that can manifest into physical symptoms if left unchecked.</p>
-<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="People at home during COVID-19 lockdown. Check out activities that one can do to fight boredom!" src="/images/technews/Tech_Projects_that_were_created_to_deal_with_cabin_fever.jpg">
 </div>
-<p><em>Bored at home? Read on and discover some novel ways to stave off cabin fever! PHOTO: <a href="https://www.penguins.org.au/virtual/live-penguin-tv/" rel="noopener noreferrer nofollow" target="_blank">UNSPLASH.COM</a></em>
+<p><em>Bored at home? Read on and discover some novel ways to stave off cabin fever! </em>
 </p>
 <p>While no substitute for the actual treatment, technology has since risen
 up to attempt to tackle the problem of cabin fever. More and more we see
@@ -27,12 +26,12 @@ out into the web for answers.</p>
 responded to COVID-19.</p>
 <p>Well, know what they say – modern problems require modern solutions.</p>
 <h3>Watch Penguins LIVE!</h3>
-<p><a href="https://www.penguins.org.au/virtual/live-penguin-tv/" class="editor-rtfLink" rel="noopener noreferrer nofollow" target="_blank">Live Penguin TV</a>&nbsp;is
-a free streaming service brought to you by the non-profit conservationist
-organisation Phillip Island Nature Parks in Victoria, Australia. With the
-Aussies experiencing their own version of circuit breaker, the rangers
-have turned to setting up a camera to stream penguins returning to their
-island home every day at around 1630 Singapore time.</p>
+<p>Live Penguin TV&nbsp;is a free streaming service brought to you by the
+non-profit conservationist organisation Phillip Island Nature Parks in
+Victoria, Australia. With the Aussies experiencing their own version of
+circuit breaker, the rangers have turned to setting up a camera to stream
+penguins returning to their island home every day at around 1630 Singapore
+time.</p>
 <p>The stream is hosted by high energy and passionate rangers, talking us
 through as the tiny tuxedo waddlers return from the ocean to trek back
 to their burrows each night. The video quality is poor, but once the penguins
@@ -45,7 +44,7 @@ snapping at penguins in order to protect her goslings! (This service is
 free of charge and the website warns of scammers attempting to charge people,
 so be wary of that.)</p>
 <h3>Get a change of view</h3>
-<p>For those who with an irrepressible wanderlust,&nbsp;<a href="https://window-swap.com/" class="editor-rtfLink" rel="noopener noreferrer nofollow" target="_blank">Windowswap</a>&nbsp;is
+<p>For those who with an irrepressible wanderlust,&nbsp;Windowswap&nbsp;is
 a great workaround during Phase 2. Created by Sonali Ranjit and Vaishnav
 Balasubramaniam – both based in Singapore – the wife and husband team sought
 to allow users to live vicariously by peering through the windows of strangers,
@@ -66,12 +65,11 @@ clicking through multiple windows with the expressed purpose of finding
 more such animals.</p>
 <p>The whole experience is whimsical and oddly satisfying.</p>
 <h3>Spend your nights (or days) at the museum</h3>
-<p><a href="https://artsandculture.google.com/partner?hl=en" class="editor-rtfLink" rel="noopener noreferrer nofollow" target="_blank">Google arts and culture app</a>&nbsp;will
-satisfy the curious mind and quench your thirst for knowledge. The app
-itself is not new, but with Covid lockdowns all over the world it has gained
-a renewed surge in content and functionality. Browse the collections of
-Musée d’Orsay, zoom into Rembrandt’s artwork, or even take a “walk” in
-famous sites all from your desktop or phone.</p>
+<p>Google arts and culture app&nbsp;will satisfy the curious mind and quench
+your thirst for knowledge. The app itself is not new, but with Covid lockdowns
+all over the world it has gained a renewed surge in content and functionality.
+Browse the collections of Musée d’Orsay, zoom into Rembrandt’s artwork,
+or even take a “walk” in famous sites all from your desktop or phone.</p>
 <p>The app is better optimised on mobile devices, offering to take users
 down a rabbit hole of cultural and artistic enrichment. Currently I am
 browsing through the NASA museum, seeing and learning about the vastness
@@ -87,9 +85,9 @@ in the world!</p>
 <h3>Get Movin’ with ActiveSG</h3>
 <p>If there is a silver lining to be had in this COVID-19 period, there isn’t
 a better time to have access to readily available online fitness programmes
-with just a Wi-fi connection and Zoom.&nbsp;<a href="https://circle.myactivesg.com/" class="editor-rtfLink" rel="noopener noreferrer nofollow" target="_blank">ActiveSg Circle</a>&nbsp;is
-the ultimate platform for you to get started on building up your fitness
-from the comfort of your home.</p>
+with just a Wi-fi connection and Zoom.&nbsp;ActiveSg Circle&nbsp;is the
+ultimate platform for you to get started on building up your fitness from
+the comfort of your home.</p>
 <p>To say that ActiveSG Circle online programmes cover almost every type
 and level of fitness known to humankind is not an exaggeration; everything
 from yoga for back pain to piloxing and trampoline fitness to way, way
@@ -100,16 +98,15 @@ a 45 to 60 minutes class. You can easily sort through the mass of classes
 available with the search function, filtering out names, dates and even
 instructors.</p>
 <p>The site even has free VOD (video on demand) and streaming service, known
-as&nbsp;<a href="https://circle.myactivesg.com/circle-tv/getactive-tv-live" class="editor-rtfLink" rel="noopener noreferrer nofollow" target="_blank">Get Active TV</a>,
-with videos available on YouTube and Facebook.</p>
+as&nbsp;Get Active TV, with videos available on YouTube and Facebook.</p>
 <p>There are a variety of exercises to choose from on Get Active!, from cardio
 to bodily mobility enhancements. While the training is more for beginners
 and the elderly, there’s nothing stopping the more enthusiastic audience
 from ramping up their own training. The trainers communicate in both English
 and Mother tongue, though the latter is entirely dependent on the race
 of the trainer themselves.</p>
-<p>The&nbsp;<a href="https://www.youtube.com/watch?v=w4OMF-XW6KQ" class="editor-rtfLink" rel="noopener noreferrer nofollow" target="_blank">‘Wot’cha Cooking’ video series</a>&nbsp;features
-Ben Logan and various guests whipping up delicious and healthy meals, all
-the while engaging in banter and entertainment. The cooking videos are
-roughly 45 minutes to an hour long, though for those who prefer to simply
-read the instructions, it is available on the MyActiveSG website.</p>
+<p>The&nbsp;‘Wot’cha Cooking’ video series&nbsp;features Ben Logan and various
+guests whipping up delicious and healthy meals, all the while engaging
+in banter and entertainment. The cooking videos are roughly 45 minutes
+to an hour long, though for those who prefer to simply read the instructions,
+it is available on the MyActiveSG website.</p>
