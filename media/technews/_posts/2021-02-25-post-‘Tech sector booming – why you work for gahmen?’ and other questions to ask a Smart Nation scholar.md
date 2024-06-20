@@ -168,6 +168,11 @@ it was launched, I saw the potential of tech to bring convenience to everyone.
 GovTech’s mission and values are really aligned with my personal goals
 so it was a natural choice for me, and I feel like I’m making a contribution
 to make Singapore a better place to live in.</p>
-<h4>Jointly launched in 2018 by the Cyber Security Agency (CSA), Infocomm Media Development Authority (IMDA) and Government Technology Agency (GovTech), the application period for this year’s Smart Nation Scholarship is open until 31 March 2021.</h4>
-<h4>We welcome applications from pre-tertiary students as well as undergraduates who have completed at least one semester in university and have yet to start their final year of study.</h4>
-<p>Find out more about the Smart Nation Scholarship at: www.go.gov.sg/smartnationscholar.</p>
+<p>Jointly launched in 2018 by the Cyber Security Agency (CSA), Infocomm
+Media Development Authority (IMDA) and Government Technology Agency (GovTech),
+the application period for this year’s Smart Nation Scholarship is open
+until 31 March 2021.</p>
+<p>We welcome applications from pre-tertiary students as well as undergraduates
+who have completed at least one semester in university and have yet to
+start their final year of study.</p>
+<p></p>
