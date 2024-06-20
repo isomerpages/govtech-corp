@@ -15,8 +15,8 @@ is better unlocked by the appreciation of varying perspectives and respect
 for different ideas. Part of our organic efforts has been to support women
 in tech, both within GovTech and outside, including girls.</p>
 <p>Last year, we were among more than 50 companies that took part in the&nbsp;
-<a href="https://sgtech.org.sg/SGTECH/Web/Initiatives/SG-Women-in-Tech-Company-Pledge/SG-Women-in-Tech-Company-Pledge.aspx" class="editor-rtfLink" rel="noopener noreferrer nofollow" target="_blank">SG Women in Tech Corporate Pledge</a>&nbsp;to signal our commitment to
-create a conducive environment with a support system to attract, retain
+<a href="https://www.sgwomenintech.sg/our-partnerships/corporate-pledge-stories/" class="editor-rtfLink" rel="noopener noreferrer nofollow" target="_blank">SG Women in Tech Corporate Pledge</a>&nbsp;to signal our commitment to
+creating a conducive environment with a support system to attract, retain
 and develop more women in tech. In particular, we pledged to:</p>
 <ul data-tight="true" class="tight">
 <li>
