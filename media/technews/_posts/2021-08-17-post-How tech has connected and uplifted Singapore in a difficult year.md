@@ -22,7 +22,7 @@ Fellow Singaporeans are uniting the community through tech-driven initiatives
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="National Day in 2021: Singaporeans coming together in using technology to tackle Covid-19 challenges" src="/images/technews/How_tech_has_connected_and_uplifted_Singapore_in_a_difficult_year.jpg">
 </div>
-<p><em>2021 is a National Day with a different feel. Photo by&nbsp;<a href="https://unsplash.com/@maxoh?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText" class="editor-rtfLink" rel="noopener noreferrer nofollow" target="_blank">Max Oh</a>&nbsp;on&nbsp;<a href="https://unsplash.com/s/photos/singapore-flag?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText" class="editor-rtfLink" rel="noopener noreferrer nofollow" target="_blank">Unsplash</a></em>
+<p><em>2021 is a National Day with a different feel.</em>
 </p>
 <h3>Supporting our hawkers</h3>
 <p>Eateries have been relying on delivery services when dining-in was restricted.
@@ -33,8 +33,7 @@ and tech – who faced difficulties offering their fare online?</p>
 </div>
 <p><em>Screenshot of the crowd-sourced map to help disadvantaged hawkers.</em>
 </p>
-<p>Redditor&nbsp;<a href="https://www.reddit.com/user/waffleboy92/" class="editor-rtfLink" rel="noopener noreferrer nofollow" target="_blank">u/waffleboy92</a>&nbsp;kickstarted
-a&nbsp;<a href="https://www.google.com/maps/d/u/0/viewer?mid=1XcpTiJpt_O-Rw6Wu8qrtCm_Ek9VUgIDF&amp;ll=1.3749635417556823%2C103.8857052285117&amp;z=12" class="editor-rtfLink" rel="noopener noreferrer nofollow" target="_blank">crowd-sourced map</a>&nbsp;of
+<p>Redditor&nbsp;u/waffleboy92&nbsp;kickstarted a&nbsp;crowd-sourced map&nbsp;of
 over 200 digitally disadvantaged hawkers and counting, with the aim of
 boosting their business.</p>
 <p>Those who want to support these hawkers can pull out the interactive Google
@@ -46,15 +45,10 @@ since the pandemic.</p>
 <p>The redditor behind the project said he started the project so that people
 have a convenient way to see in one glance hawkers that are near them who
 need help.</p>
-<p>Do you know a hawker who could do with a helping hand but is not yet on
-this map? Contribute by filling up the details in this&nbsp;<a href="https://docs.google.com/forms/d/1kFwMnj8LLdujRLRsFZ5gAnDDBaFJdjI_HN9NWfQPWQg/viewform?edit_requested=true" class="editor-rtfLink" rel="noopener noreferrer nofollow" target="_blank">form!</a>
-</p>
 <h3>Computers against Covid</h3>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="Online learning during the Covid-19 outbreak" src="/images/technews/Student_online_learning.jpg">
 </div>
-<p><em>Image by <a href="https://www.freepik.com/free-photo/close-up-student-online-class_12977086.htm#fromView=search&amp;page=1&amp;position=27&amp;uuid=f2a0b3fb-9dc2-4659-bdb0-c64233a177d1" rel="noopener noreferrer nofollow" target="_blank">Freepik</a></em>
-</p>
 <p>The pandemic has made digital connections all the more important for all
 people. Two examples – home-based learning has made it essential for students
 to have access to computers and with job listings increasingly on online
@@ -64,11 +58,8 @@ been collecting used devices, refurbishing them, and then distributing
 them to low-income families. According to their website, they have distributed
 more than 4,000 laptops since May 2021 but are still trying to fulfil requests
 of between 150 and 200 laptops a month.</p>
-<p>You can&nbsp;<a href="https://docs.google.com/forms/d/1DBdIFS-28WoLg1fBXoMFPKzsVv0OYxFVkhxl_B8NzrQ/viewform?edit_requested=true" class="editor-rtfLink" rel="noopener noreferrer nofollow" target="_blank">donate</a>&nbsp;laptops
-and smartphones, as well as laptop accessories such as laptop bags, webcams,
-and headsets.</p>
-<p>For social services organisations who want to request for devices for
-your beneficiaries, you can reach out to the charity at&nbsp;<a href="https://unsplash.com/@maxoh?utm_source=unsplash&amp;amp;utm_medium=referral&amp;amp;utm_content=creditCopyText" rel="noopener noreferrer nofollow" target="_blank">request4laptops@engineeringgood.org</a>.</p>
+<p>You can&nbsp;donate&nbsp;laptops and smartphones, as well as laptop accessories
+such as laptop bags, webcams, and headsets.</p>
 <h3>When Friendzone is a good thing</h3>
 <p><a href="https://friendzone.sg/" class="editor-rtfLink" rel="noopener noreferrer nofollow" target="_blank">Friendzone</a>&nbsp;started in 2018 as an
 event for people living in the same neighbourhood to meet up and bond over
@@ -90,8 +81,6 @@ of poly, JC or NS, we welcome you to join us.”</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="Elderly man teaching elderly woman how to use tech devices" src="/images/technews/portrait_senior_couple_using_tablet_device_home.jpg">
 </div>
-<p><em>Image by <a href="https://www.freepik.com/free-photo/portrait-senior-couple-using-tablet-device-home_49598836.htm#fromView=search&amp;page=1&amp;position=21&amp;uuid=81ea7307-29dd-4798-8a2c-b9328874142c" rel="noopener noreferrer nofollow" target="_blank">Freepik</a></em>
-</p>
 <p>It’s conventional wisdom that older people have a harder time catching
 up with the latest technology, but only one group truly have the lived
 experience of such difficulties – seniors themselves. That’s why there
