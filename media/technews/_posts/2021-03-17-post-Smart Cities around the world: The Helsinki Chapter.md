@@ -9,11 +9,11 @@ description: Discover how Helsinki is leading the way in smart mobility with
   boats. 🚗🛥️🚌
 variant: tiptap
 ---
-<p>If the only time you’ve heard of Helsinki was during an episode of&nbsp;
-<a href="https://money-heist.fandom.com/wiki/Helsinki" class="editor-rtfLink" rel="noopener noreferrer nofollow" target="_blank">Money Heist</a>, you’d very much be forgiven. The capital of Finland is
-far, far, far away from Singapore – 9,248 km to be exact.</p>
-<p>That said, according to the&nbsp;<a href="https://www.imd.org/smart-city-observatory/smart-city-index/" class="editor-rtfLink" rel="noopener noreferrer nofollow" target="_blank">Smart City Index 2020</a>&nbsp;published
-by Switzerland-based business school&nbsp;<a href="https://www.imd.org/" class="editor-rtfLink" rel="noopener noreferrer nofollow" target="_blank">IMD</a>, Helsinki has
+<p>If the only time you’ve heard of Helsinki was during an episode of&nbsp;Money
+Heist, you’d very much be forgiven. The capital of Finland is far, far,
+far away from Singapore – 9,248 km to be exact.</p>
+<p>That said, according to the Smart City Index 2020&nbsp;published by Switzerland-based
+business school&nbsp;<a href="https://www.imd.org/" class="editor-rtfLink" rel="noopener noreferrer nofollow" target="_blank">IMD</a>, Helsinki has
 plenty in common with Singapore. The two cities have consistently ranked
 among the top 5 smartest cities in the world.</p>
 <p>And while the city has quite a lot of projects going on, we’ve decided
