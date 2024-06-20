@@ -77,9 +77,5 @@ and let’s succeed together in GovTech!”</p>
 <p>To GovTech and all GovTechies, it has not been easy, but continue to keep
 up the good work. Stay Safe and Stay Strong and, we’ll see you all next
 year for number 6.</p>
-<p>*Enjoyed this story? Curious to find out how internships are like here
-at GovTech? Check out this&nbsp;<a href="https://www.tech.gov.sg/media/technews/non-tech-students-share-internship-takeaways" class="editor-rtfLink" rel="noopener noreferrer nofollow" target="_blank">link</a>!
-Ever wondered how Bluetooth came along and how it got it’s name? Level
-up your tech knowledge via this&nbsp;<a href="https://www.tech.gov.sg/media/technews/history-of-bluetooth" class="editor-rtfLink" rel="noopener noreferrer nofollow" target="_blank">article!</a>
-</p>
+<p></p>
 <p></p>
