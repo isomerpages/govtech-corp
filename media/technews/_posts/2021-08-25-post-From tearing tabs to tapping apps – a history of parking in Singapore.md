@@ -99,6 +99,5 @@ No more disrupting your meeting to walk back to the car just to place more
 coupons. No need to disrupt your coffeeshop lunch because the parking warden
 has shown up. And no need to keep a stack of coupons handy and fiddle with
 them every time you want to park.</p>
-<p>Initiatives like <a href="https://www.nas.gov.sg/archivesonline/government_records/Flipviewer/grid_publish/0/0b6fe76b-9f10-11e7-843a-0050568939ad-Cmd.23of1982/web/html5/index.html?launchlogo=tablet/GovernmentRecords_brandingLogo_.png&amp;amp;pn=31" rel="noopener noreferrer nofollow" target="_blank">Parking.sg</a> is
-what being a Smart Nation is about – improving the lives of citizens in
-small ways that nonetheless make a tangible difference.</p>
+<p>Initiatives like ParkingSG is what being a Smart Nation is about – improving
+the lives of citizens in small ways that nonetheless make a tangible difference.</p>
