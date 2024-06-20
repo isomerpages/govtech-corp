@@ -12,7 +12,6 @@ variant: tiptap
 ---
 <p>Singapore is already known as one of the world's most business-friendly
 countries, but we’re not resting on our laurels.</p>
-<p></p>
 <div class="iframe-wrapper">
 <iframe style="max-width: 100%;" height="400" width="100%" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/xJ5D8FuUjaw?si=0RsITgAjAREph8va"></iframe>
 </div>
@@ -93,6 +92,5 @@ your mind, next year may just be the right time to check out how to make
 it a reality by heading to GoBusiness. And if you’re already a business
 owner, you’re going to get some help in 2022 to take your enterprise to
 the next level!</p>
-<p><em>Enjoyed this article? Check out this article to find out about&nbsp;<a href="https://www.tech.gov.sg/media/technews/here-are-5-jobs-that-didnt-exist-10-years-ago" class="editor-rtfLink" rel="noopener noreferrer nofollow" target="_blank">new jobs that didn’t exist a decade ago</a>, or this article where we show how&nbsp;<a href="https://www.tech.gov.sg/media/technews/singpass-digital-ic" class="editor-rtfLink" rel="noopener noreferrer nofollow" target="_blank">losing your IC is now a thing of the past!</a></em>
-</p>
+<p></p>
 <p></p>
