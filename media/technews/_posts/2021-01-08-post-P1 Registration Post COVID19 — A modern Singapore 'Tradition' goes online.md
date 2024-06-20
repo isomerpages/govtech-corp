@@ -17,13 +17,11 @@ leave, wake up early, and then head to the school that your kid will hopefully
 be enrolled in.</p>
 <p>It’s an anxious day of queues, hot weather and fiddling about with paperwork.
 One could almost say it’s tradition.</p>
-<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="Classroom filled with tables and chairs, ready for students returning to school post COVID-19" src="/images/technews/P1_Registration_Post_COVID_19_1.jpg">
 </div>
 <p>Even before the first day of school jitters, parents have to go through
-P1 registration jitters first! PHOTO: <a href="http://UNSPLASH.com" rel="noopener noreferrer nofollow" target="_blank">UNSPLASH.com</a>
-</p>
+P1 registration jitters first!</p>
 <p>Of course, with COVID-19, tradition had to give way to tech. Reason being,
 many anxious parents in queues don’t exactly qualify as safe distancing.</p>
 <p>In the interest of public health and safety, MOE moved the 2020 P1 Registration
