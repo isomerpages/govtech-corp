@@ -17,7 +17,7 @@ shift in the way modern software is designed, developed and delivered.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="Post-it notes on a wall, discussing ways to be Agile" src="/images/technews/The_Importance_of_Being_Agile.jpg">
 </div>
-<p><em>The importance of Post-it notes in Agile!</em>&nbsp;PHOTO:&nbsp;<em>Photo by Patrick Perkins, Unsplash</em>
+<p><em>The importance of Post-it notes in Agile!</em>
 </p>
 <p>Today’s business software solutions are expected to support an ever-evolving
 range of operational imperatives and user features such as AI-powered interfaces,
