@@ -9,7 +9,9 @@ description: 🧧 Elevate your CNY conversations with our guide to explaining te
   terms. 🍊
 variant: tiptap
 ---
-<h3>Chinese New Year is just around the corner, and we know what this means for many Singaporeans: pineapple tart bingeing, new clothes, and, of course, awkward conversations with people you see once a year.</h3>
+<p>Chinese New Year is just around the corner, and we know what this means
+for many Singaporeans: pineapple tart bingeing, new clothes, and, of course,
+awkward conversations with people you see once a year.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="GovTechie, sitting at a desk with two screens, hard at work at GovTech office" src="/images/technews/Explaining_your_tech_job_this_CNY.jpg">
 </div>
