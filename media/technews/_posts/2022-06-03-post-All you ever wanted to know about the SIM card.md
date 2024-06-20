@@ -11,15 +11,16 @@ variant: tiptap
 ---
 <p>Hands up if you’ve ever heard of the SIM card. Yes, we see that all of
 you are reaching for the sky.</p>
+<p></p>
 <div class="iframe-wrapper">
-<iframe style="max-width: 100%;" height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/G5wANyk3Fv0?si=QaCwZDPGN3ivM60R"></iframe>
+<iframe style="max-width: 100%;" height="400" width="100%" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/G5wANyk3Fv0?si=QaCwZDPGN3ivM60R"></iframe>
 </div>
 <p>Now, hands up if you know what SIM stands for. Chances are, there aren’t
 many hands left up. Even though SIM cards have been by our side since the
 time we owned our first mobile phones, there is precious little we know
 about them (including the tidbit that SIM stands for Subscriber Identity
 Module).</p>
-<p>And this is a pity because this fundamental piece of technology has enabled
+<p>This is a pity because this fundamental piece of technology has enabled
 us to store our contacts, make calls, and send text messages over the decades.
 So if you want to stop taking it for granted and learn about the history
 of the SIM card, you’ve come to the right place!</p>
@@ -60,7 +61,7 @@ time, SIM cards could store over 250 contacts.</p>
 <p>In today’s world, SIM cards are no longer just for mobile phones. The
 Internet of Things means that a myriad of electronics, from everyday appliances
 like refrigerators to gizmos like drones, need connectivity. This is where
-<a href="https://sea.pcmag.com/mobile-phones/42461/what-is-an-esim-card" rel="noopener noreferrer nofollow" target="_blank">eSIMs</a>, or embedded SIMs, come in.</p>
+<a href="https://www.pcmag.com/explainers/what-is-an-esim-card" rel="noopener noreferrer nofollow" target="_blank">eSIMs</a>, or embedded SIMs, come in.</p>
 <p>They are basically the circuitry of a SIM card soldered into the device
 itself, so an extra slot is not needed. This is especially valuable for
 smaller gadgets like smartwatches where space is of the essence.</p>
