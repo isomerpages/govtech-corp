@@ -13,7 +13,7 @@ variant: tiptap
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="Digital services in the time of COVID-19" src="/images/technews/digitalid.jpg">
 </div>
-<p><em>With COVID-19, digital services are more important than ever. PHOTO: <a href="https://www.straitstimes.com/business/economy/singapore-new-zealand-and-chile-conclude-talks-on-digital-trade-pact" rel="noopener noreferrer nofollow" target="_blank">UNSPLASH.COM</a></em>
+<p><em>With COVID-19, digital services are more important than ever.</em>
 </p>
 <p>With Singapore still in the fight against COVID-19, it’s no exaggeration
 to say that this year will continue to feel very different from years prior.</p>
@@ -84,6 +84,7 @@ trade and transactions even without face-to-face interactions.</p>
 <p>Indeed, as the world looks to online processes in a post-pandemic recovery,
 digital IDs will play a crucial role by being an enabler of business and
 trade, as well as a return to normalcy.</p>
-<p><em>This article was contributed by Alfred Siew. Alfred Siew is the editor of <a href="https://www.straitstimes.com/business/economy/singapore-new-zealand-and-chile-conclude-talks-on-digital-trade-pact" rel="noopener noreferrer nofollow" target="_blank">Techgoondu.com</a>, a technology news website based in Singapore that was founded in 2008.</em>
-</p>
+<p>This article was contributed by Alfred Siew. Alfred Siew is the editor
+of <a href="https://www.techgoondu.com/" rel="noopener noreferrer nofollow" target="_blank">Techgoondu.com</a>,
+a technology news website based in Singapore that was founded in 2008.</p>
 <p></p>
