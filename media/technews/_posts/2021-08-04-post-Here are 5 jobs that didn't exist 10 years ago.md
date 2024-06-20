@@ -80,8 +80,6 @@ HTML, CSS, JavaScript and/or other apps.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="Full-stack developer coding with knowledge of the different coding languages" src="/images/technews/Here_are_5_jobs_that_didn_t_exist_10_years_ago_4.jpg">
 </div>
-<p><em>Image by <a href="https://www.freepik.com/free-photo/person-front-computer-working-html_36189959.htm#fromView=search&amp;page=1&amp;position=28&amp;uuid=7528587f-188b-42b8-b97d-2c7fbcd8b7e2" rel="noopener noreferrer nofollow" target="_blank">freepik</a></em>
-</p>
 <p>Back-end developers, on the other hand, deal with the behind-the-scenes;
 every back end of a website involves a server, an application, and a database.</p>
 <p>Of course, at some point over the last 10 years, the demands of the job
@@ -98,7 +96,8 @@ memory.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="Old-school website designs that would not be suitable today" src="/images/technews/Here_are_5_jobs_that_didn_t_exist_10_years_ago_3.jpg">
 </div>
-<p>Photo: GovTech</p>
+<p><em>Photo: GovTech</em>
+</p>
 <p>See how terrible it looks? In the past, websites were created with little
 or no UI/UX principles in mind. All that changed when smartphones hit the
 scene in the 2010s. You could argue that the need for mobile websites and
@@ -151,29 +150,5 @@ shoes. In the same way, they couldn’t predict the jobs of today in the
 <p>The best thing we can do? Keep our skills updated, stay abreast of the
 latest developments, and do a career check-up often.</p>
 <p>Here’s to hoping content writers are still needed in the 2030s.</p>
-<p>If you’re a techie reading this and are interested in applying for any
-of the roles mentioned above, please do! Here are the links:</p>
-<ul data-tight="true" class="tight">
-<li>
-<p><a href="https://sggovterp.wd102.myworkdayjobs.com/en-US/PublicServiceCareers/job/Singapore/Senior-UX-Designer--Development--Centre_JR-10000000080-1" class="editor-rtfLink" rel="noopener noreferrer nofollow" target="_blank">UX Designer</a>
-</p>
-</li>
-<li>
-<p><a href="https://sggovterp.wd102.myworkdayjobs.com/PublicServiceCareers/job/Singapore/Full-Stack-Developer--SNPS-_JR-10000000153" class="editor-rtfLink" rel="noopener noreferrer nofollow" target="_blank">Full Stack Developer</a>
-</p>
-</li>
-<li>
-<p><a href="https://sggovterp.wd102.myworkdayjobs.com/en-US/PublicServiceCareers/job/Non-Headquarters-MOE5/Senior-DevSecOps-Engineer--Experimental-Systems-and-Technology-Lab--MOE-_JR-10000003615-1" class="editor-rtfLink" rel="noopener noreferrer nofollow" target="_blank">DevSecOps</a>
-</p>
-</li>
-<li>
-<p><a href="https://sggovterp.wd102.myworkdayjobs.com/en-US/PublicServiceCareers/job/Singapore/Cybersecurity-Consultancy--Cloud---Infra-_JR-10000003663" class="editor-rtfLink" rel="noopener noreferrer nofollow" target="_blank">Cybersecurity Consultant</a>
-</p>
-</li>
-<li>
-<p><a href="https://sggovterp.wd102.myworkdayjobs.com/en-US/PublicServiceCareers/job/Singapore/Application-Infrastructure-Engineer--Cloud-Infrastructure-management-_JR-10000002307" class="editor-rtfLink" rel="noopener noreferrer nofollow" target="_blank">Application Infrastructure Engineer</a>
-</p>
-</li>
-</ul>
-<p>(Sorry, no drone operators)</p>
+<p></p>
 <p></p>
