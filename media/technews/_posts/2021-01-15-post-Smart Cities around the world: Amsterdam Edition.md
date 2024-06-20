@@ -10,7 +10,7 @@ description: ♻️ Amsterdam tackles waste management with smart cameras and
 variant: tiptap
 ---
 <p>As you might know, Singapore scores pretty well amongst the world’s smart
-cities – Otherwise, why else would they shoot&nbsp;<a href="https://www.channelnewsasia.com/news/lifestyle/westworld-season-3-singapore-11706008" class="editor-rtfLink" rel="noopener noreferrer nofollow" target="_blank">WestWorld</a>&nbsp;here?</p>
+cities – Otherwise, why else would they shoot&nbsp;WestWorld&nbsp;here?</p>
 <p>That said, we’re not the only ones out there. Cities around the world
 are all racing to compete as ideal places to live, work and play, improving
 the lives of their citizens.</p>
@@ -25,7 +25,7 @@ around the globe instead.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="Amsterdam as one of the smart cities of the world using technology to advance itself" src="/images/technews/Smart_Cities_around_the_world_amsterdam_1.jpg">
 </div>
-<p><em>Let's check out what our friends in Amsterdam have been up to! PHOTO: <a href="https://www.channelnewsasia.com/news/lifestyle/westworld-season-3-singapore-11706008" rel="noopener noreferrer nofollow" target="_blank">UNSPLASH.COM</a></em>
+<p><em>Let's check out what our friends in Amsterdam have been up to! </em>
 </p>
 <p>Fun fact: Apart from being amongst&nbsp;<a href="https://www.straitstimes.com/singapore/singapore-tops-world-smart-city-index-again-lauded-for-handling-of-covid-19" class="editor-rtfLink" rel="noopener noreferrer nofollow" target="_blank">the world’s top 10 smart cities</a>,
 Amsterdam shares more than a few similarities with Singapore. It was once
@@ -38,7 +38,7 @@ up to!</p>
 <div class="isomer-image-wrapper">
 <img style="width: 40%;" height="auto" width="100%" alt="The Mijnbuur app user interface that helps foster social responsibility" src="/images/technews/Smart_Cities_around_the_world_amsterdam_2.png">
 </div>
-<p><em>Read on to find out how The Mijnbuur app aims to foster a sense of social responsibility. PHOTO: <a href="https://www.channelnewsasia.com/news/lifestyle/westworld-season-3-singapore-11706008" rel="noopener noreferrer nofollow" target="_blank">https://www.mijnbuur.nl/</a></em>
+<p><em>Read on to find out how The Mijnbuur app aims to foster a sense of social responsibility. </em>
 </p>
 <p>The Mijnbuur app is probably the most wholesome thing you’ll hear about.
 It connects you with your neighbours, the local police, or your neighbourhood
@@ -79,26 +79,25 @@ fitted with smart cameras which can quantify the amount of rubbish there
 are on the streets and at collection points.</p>
 <p>In Singapore, we manage our waste slightly differently – waste is consolidated
 in rubbish chutes and bins. That said, towns in Pasir Ris and Tampines
-are rolling something out that’s pretty similar –&nbsp;<a href="https://www.channelnewsasia.com/news/singapore/smart-waste-system-tampines-pasir-ris-alerts-collection-crew-10719228" class="editor-rtfLink" rel="noopener noreferrer nofollow" target="_blank">a smart waste system that informs collectors when the system is almost full!</a>
-</p>
+are rolling something out that’s pretty similar –&nbsp;a smart waste system
+that informs collectors when the system is almost full!</p>
 <h3>Easier access to parking lots</h3>
 <p>The stress of driving is sometimes too overwhelming, especially if you’re
 hyper-aware of the line of cars queuing up behind you as you very slowly
-and shoddily attempt a parallel park. In fact, a whopping&nbsp;<a href="https://www.iamsterdam.com/en/business/key-sectors/smart-mobility/insights/amsterdam-smart-parking-solutions" class="editor-rtfLink" rel="noopener noreferrer nofollow" target="_blank">30 per cent of city traffic</a>&nbsp;is
-caused by drivers seeking a parking space. Finding a parking space faster
-would thus lead to a reduction of congestion, fuel use, air pollution levels
-and, of course, drivers’ stress levels.</p>
-<p><a href="https://amsterdamsmartcity.com/international-projects/smart-flow" class="editor-rtfLink" rel="noopener noreferrer nofollow" target="_blank">Smart Flow</a>,
-an IoT cloud-based platform, monitors sensors to report traffic flow and
-parking availability across Amsterdam. When Smart Flow was first launched,
-the average time required to find a parking space was significantly reduced
-by 43 percent. On top of that, it helps drivers to make more fiscally responsible
-choices by listing the cheapest options within the area.</p>
+and shoddily attempt a parallel park. In fact, a whopping&nbsp;30 per cent
+of city traffic&nbsp;is caused by drivers seeking a parking space. Finding
+a parking space faster would thus lead to a reduction of congestion, fuel
+use, air pollution levels and, of course, drivers’ stress levels.</p>
+<p>Smart Flow, an IoT cloud-based platform, monitors sensors to report traffic
+flow and parking availability across Amsterdam. When Smart Flow was first
+launched, the average time required to find a parking space was significantly
+reduced by 43 percent. On top of that, it helps drivers to make more fiscally
+responsible choices by listing the cheapest options within the area.</p>
 <p>Well, Singapore isn’t too far behind either, with something in the works
-by our very own ST Electronics — the&nbsp;<a href="https://www.stengg.com/en/innovation/smart-car-park-platform-addresses-parking-challenges/" class="editor-rtfLink" rel="noopener noreferrer nofollow" target="_blank">Smart Car Park Platform</a>.
-Combined with smartphone technologies, drivers will eventually be able
-to search and book parking spaces, check parking rates, and even apply
-for season parking through the mobile app.</p>
+by our very own ST Electronics — the&nbsp;Smart Car Park Platform. Combined
+with smartphone technologies, drivers will eventually be able to search
+and book parking spaces, check parking rates, and even apply for season
+parking through the mobile app.</p>
 <h3>Smart Lighting</h3>
 <p>Energy efficiency is one of the biggest goals of a smart city. Unfortunately,
 though the lights along the streets of many cities use timers or light
@@ -114,10 +113,10 @@ reach maximum intensity once vehicles or people pass by and return to the
 lowest intensity when the motion sensors do not detect anything on their
 periphery.</p>
 <p>Back home, we’ve also realised the potential for lighting systems to improve
-urban planning and operations. Our&nbsp;<a href="https://www.tech.gov.sg/scewc2019/laap" class="editor-rtfLink" rel="noopener noreferrer nofollow" target="_blank">smart lampposts</a>&nbsp;in
-Singapore may not adjust their intensity automatically, but they do have
-sensors that can detect and monitor changes to environmental conditions
-like humidity, rainfall, temperature and pollutants in the air!</p>
+urban planning and operations. Our&nbsp;smart lampposts&nbsp;in Singapore
+may not adjust their intensity automatically, but they do have sensors
+that can detect and monitor changes to environmental conditions like humidity,
+rainfall, temperature and pollutants in the air!</p>
 <p>In addition, mounted cameras have analytic capabilities to count and analyse
 crowd build-ups, as well as count, classify and monitor the speed of Personal
 Mobility Devices (PMDs) to enhance safety in public spaces!</p>
