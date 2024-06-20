@@ -18,7 +18,6 @@ at GovTech as a product manager since Sept 14, 2020. With her school term
 starting in January (she’s heading to Brown University), we caught up with
 her to reflect on her time at GovTech and provide her perspectives on some
 misconceptions about working in tech.</p>
-<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="Alyssa Marie Loo — GovTech intern and PSC Scholar, sharing her experiences of working at GovTech" src="/images/technews/GovTech_Spotlight__Alyssa_Marie_Loo.jpg">
 </div>
@@ -26,12 +25,11 @@ misconceptions about working in tech.</p>
 </p>
 <h3>What are you working on in your internship?</h3>
 <p>Quite a lot of things! I’m serving as the internal product manager for
-our&nbsp;<a href="https://www.tech.gov.sg/media/technews/a-conversation-with-bertrand-lee" class="editor-rtfLink" rel="noopener noreferrer nofollow" target="_blank">VICA</a>&nbsp;team,
-so I manage the Agile user stories and resolve any debates that come up
-about product features and feature behaviour. I’m also doing research about
-how far our chatbots can support Singaporean English expressions, managing
-partner engagements for our future features in our roadmap, and doing some
-research into AI Ethics guidelines for our chatbot.</p>
+our VICA team, so I manage the Agile user stories and resolve any debates
+that come up about product features and feature behaviour. I’m also doing
+research about how far our chatbots can support Singaporean English expressions,
+managing partner engagements for our future features in our roadmap, and
+doing some research into AI Ethics guidelines for our chatbot.</p>
 <h3>What do you hope to achieve in your time at GovTech?</h3>
 <p>VICA 1.0, released this month (December 2020), is something I feel really
 happy about, having supported the team in internal product management for
@@ -47,7 +45,7 @@ Guidelines at least for our VICA team and our business users, so as to
 contribute to the foundation for responsible AI usage in our public sector.</p>
 <h3>What are some misconceptions of GovTech you had initially?</h3>
 <p>I thought that everyone had to be a hardcore programmer to work anywhere
-in tech, and I thought that to work in Govtech, you had to be some real
+in tech, and I thought that to work in GovTech, you had to be some real
 programming prodigy who could do sorcery with computers.</p>
 <p>It’s really not true! I learned that there are many roles in tech which
 don’t need you to specialise in the nuts and bolts of programming, (though
@@ -132,6 +130,4 @@ try something outside my comfort zone and experience what a tech company
 environment is like. I had friends who had previously interned at GovTech
 before, and they were all fans of the work culture, calling it a public
 agency ‘startup’.</p>
-<h3>Interested in interning at GovTech?</h3>
-<p>Apply with us for a meaningful internship at&nbsp;<a href="https://www.todayonline.com/first-presidents-scholar-pursue-linguistics-university-wants-create-chatbot-recognises-singlish" rel="noopener noreferrer nofollow" target="_blank">https://go.gov.sg/internship</a>
-</p>
+<p></p>
