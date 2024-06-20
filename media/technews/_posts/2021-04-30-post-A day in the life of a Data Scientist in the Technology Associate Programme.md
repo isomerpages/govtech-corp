@@ -28,13 +28,12 @@ contributors fit into the larger context of using data to benefit Singapore.</p>
 <h3>Data science grounded in the real world</h3>
 <p>After all, solving real-world issues that affect the workings of government,
 and by extension, Singaporeans, is what drew me to GovTech in the first
-place. I first got to know of the organisation through a&nbsp;<a href="https://blog.data.gov.sg/how-we-caught-the-circle-line-rogue-train-with-data-79405c86ab6a" class="editor-rtfLink" rel="noopener noreferrer nofollow" target="_blank">blog post</a>&nbsp;on
+place. I first got to know of the organisation through a&nbsp;blog post&nbsp;on
 identifying the Circle Line rogue train. As I learnt more about cool projects
-such as the&nbsp;<a href="https://www.tech.gov.sg/media/technews/meet-the-govtech-team-that-built-the-singapore-police-force-jarvis" class="editor-rtfLink" rel="noopener noreferrer nofollow" target="_blank">Jarvis</a>&nbsp;information
-system, I was increasingly drawn to GovTech. And I was fortunate enough
-to join the&nbsp;<a href="http://go.gov.sg/govtech-tap" class="editor-rtfLink" rel="noopener noreferrer nofollow" target="_blank">Technology Associate Programme (TAP)</a>,
-a 2-year leadership-trainee programme for aspiring public sector tech leaders,
-kicking off my tech career after graduation.</p>
+such as the&nbsp;Jarvis&nbsp;information system, I was increasingly drawn
+to GovTech. And I was fortunate enough to join the&nbsp;Technology Associate
+Programme (TAP), a 2-year leadership-trainee programme for aspiring public
+sector tech leaders, kicking off my tech career after graduation.</p>
 <p>But before I go on further, I’ll let you know more about how my day unfolds.
 Following the team update, we have a sharing session by one of our colleagues
 (the hot seat is rotated every session) on something he or she is working
@@ -97,5 +96,5 @@ helping Singapore regain some semblance of pre-pandemic normalcy.</p>
 for talent. If you dream of a meaningful and challenging career that makes
 lives better and contributes to the public good through technology, then
 GovTech is the place for you.</p>
-<p><em>The&nbsp;<a href="http://go.gov.sg/govtech-tap" class="editor-rtfLink" rel="noopener noreferrer nofollow" target="_blank">Technology Associate Programme (TAP)</a>&nbsp;is a two-year leadership-trainee programme designed to sharpen and develop your technical knowledge and professional skills, giving you a strong head start in your tech career. Final-year students or fresh graduates with a passion for building #TechforPublicGood and up for a good challenge, are welcome to apply! Applications are open from 1 May 2021 to 31 July 2021.</em>
+<p><em>iThe&nbsp;Technology Associate Programme (TAP)&nbsp;is a two-year leadership-trainee programme designed to sharpen and develop your technical knowledge and professional skills, giving you a strong head start in your tech career. Final-year students or fresh graduates with a passion for building #TechforPublicGood and up for a good challenge, are welcome to apply! Applications are open from 1 May 2021 to 31 July 2021.</em>
 </p>
