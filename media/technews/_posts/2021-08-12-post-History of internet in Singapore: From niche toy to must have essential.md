@@ -93,7 +93,7 @@ at that time – Singtel, M1, Starhub – achieved&nbsp;<a href="https://graphic
 making bandwidth-intensive activities like streaming videos possible on
 the go.</p>
 <h3>To the future and beyond</h3>
-<p>What’s next for the internet in Singapore? The country is aiming to have&nbsp;
+<p>What’s next for the internet in Singapore? The country is aiming to have
 <a href="https://www.straitstimes.com/singapore/singtel-launches-5g-trial-services-in-singapore-second-telco-after-starhub-to-do-so" class="editor-rtfLink" rel="noopener noreferrer nofollow" target="_blank">nationwide 5G</a>&nbsp;coverage by 2025. Boosting speed and coverage is
 essential to implementing Internet-of-Things (IoT) initiatives such as
 the&nbsp;smart lamppost&nbsp;project, equipping lampposts with sensors
