@@ -20,7 +20,7 @@ cool smart city projects to back it up.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="Outline of Seoul at night with the bird's eye view" src="/images/technews/Smart_Cities_around_the_World_Seoul.jpg">
 </div>
-<p><em>Find out how Koreans are using technology to improve their transport systems! PHOTO: Photo by&nbsp;<a href="https://unsplash.com/@icidius?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText" class="editor-rtfLink" rel="noopener noreferrer nofollow" target="_blank">Ciaran O'Brien</a>&nbsp;on&nbsp;<a href="https://unsplash.com/s/photos/seoul?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText" class="editor-rtfLink" rel="noopener noreferrer nofollow" target="_blank">Unsplash</a></em>
+<p><em>Find out how Koreans are using technology to improve their transport systems! </em>
 </p>
 <h3>The Owl Bus and mobile data</h3>
 <p>In Korea, their ‘Night Rider’ buses get the objectively cooler name of&nbsp;
