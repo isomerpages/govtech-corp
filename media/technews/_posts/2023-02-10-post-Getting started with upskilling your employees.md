@@ -12,8 +12,7 @@ variant: tiptap
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="Employer attending upskilling courses with employees" src="/images/technews/Getting_started_with_upskilling_your_employees.jpg">
 </div>
-<p><em>Upskill to level up!</em> Photo by <a href="https://unsplash.com/@dougglaslopez?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText" rel="noopener noreferrer nofollow" target="_blank">Douglas Lopez</a> on
-<a href="https://unsplash.com/photos/WFItslWB89M?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText" rel="noopener noreferrer nofollow" target="_blank">Unsplash</a>
+<p><em>Upskill to level up!</em>
 </p>
 <p>As we navigate the digital age, keeping our skills up to date has become
 more important than ever, with the World Economic Forum’s&nbsp;<a href="https://www.weforum.org/reports/the-future-of-jobs-report-2020/in-full/infographics-e4e69e4de7" class="editor-rtfLink" rel="noopener noreferrer nofollow" target="_blank">Future of Jobs Report 2020</a>&nbsp;estimating
