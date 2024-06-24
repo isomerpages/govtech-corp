@@ -17,7 +17,7 @@ and emotionally demanding to see a person you’re close to in poor health.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="Caregiver taking care of someone else. Physically and emotionally demanding job." src="/images/technews/How_tech_can_relieve_caregiver_burnout.jpg">
 </div>
-<p><em>Who cares for the caregiver? </em>
+<p><em>Who cares for the caregiver?</em>
 </p>
 <p>Indeed, an August 2022&nbsp;<a href="https://www.straitstimes.com/singapore/community/more-support-for-caregivers-after-major-study-finds-help-boosts-their-quality-of-life" class="editor-rtfLink" rel="noopener noreferrer nofollow" target="_blank">Straits Times article</a>&nbsp;reported
 that over half of caregivers who took part in a survey said they were “burdened”
