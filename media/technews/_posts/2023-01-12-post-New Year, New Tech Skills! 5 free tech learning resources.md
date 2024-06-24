@@ -12,8 +12,7 @@ variant: tiptap
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="5 free tech learning resources" src="/images/technews/New_Year__New_Tech_Skills__5_free_tech_learning_resources.jpg">
 </div>
-<p><em>What will you be learning in 2023?</em> Photo by <a href="https://unsplash.com/@brett_jordan?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText" rel="noopener noreferrer nofollow" target="_blank">Brett Jordan</a> on
-<a href="https://unsplash.com/photos/wvfbpzLbZVg?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText" rel="noopener noreferrer nofollow" target="_blank">Unsplash</a>
+<p><em>What will you be learning in 2023?</em> 
 </p>
 <p>Any New Year resolutions that revolve around learning or upgrading your
 skills? Today’s article is just for you!</p>
@@ -54,31 +53,28 @@ management training, and digital photography.</p>
 <p>Some of the courses can also be used for credit exemptions at institutes
 of higher learning like polytechnics and universities.</p>
 <h3>Coursera</h3>
-<p>Coursera, a pioneer in massive open online courses, offers many of its
-courses for free. Best of all, some are from world-renowned universities.</p>
-<p>You can learn about&nbsp;<a href="https://www.coursera.org/learn/machine-learning" class="editor-rtfLink" rel="noopener noreferrer nofollow" target="_blank">machine learning</a>&nbsp;and&nbsp;
-<a href="https://www.coursera.org/learn/game-theory-1" class="editor-rtfLink" rel="noopener noreferrer nofollow" target="_blank">game theory</a>&nbsp;from Stanford University,&nbsp;<a href="https://www.coursera.org/learn/covid-19-contact-tracing?edocomorp=covid-19-contact-tracing" class="editor-rtfLink" rel="noopener noreferrer nofollow" target="_blank">COVID-19 contact tracing</a>&nbsp;from
-Johns Hopkins University or the&nbsp;<a href="https://www.coursera.org/learn/covid-19" class="editor-rtfLink" rel="noopener noreferrer nofollow" target="_blank">disease</a>&nbsp;in
-general from Imperial College London,&nbsp;<a href="https://www.coursera.org/learn/microeconomics-part2" class="editor-rtfLink" rel="noopener noreferrer nofollow" target="_blank">microeconomics</a>&nbsp;from
-the University of Pennsylvania, and the&nbsp;<a href="https://www.coursera.org/learn/cs-programming-java" class="editor-rtfLink" rel="noopener noreferrer nofollow" target="_blank">principles of computer programming</a>&nbsp;from
+<p><a href="https://www.coursera.org/" rel="noopener noreferrer nofollow" target="_blank">Coursera</a>,
+a pioneer in massive open online courses, offers many of its courses for
+free. Best of all, some are from world-renowned universities.</p>
+<p>You can learn about&nbsp;machine learning&nbsp;and&nbsp; game theory&nbsp;from
+Stanford University,&nbsp;COVID-19 contact tracing&nbsp;from Johns Hopkins
+University or the&nbsp;disease&nbsp;in general from Imperial College London,&nbsp;microeconomics&nbsp;from
+the University of Pennsylvania, and the&nbsp;principles of computer programming&nbsp;from
 Princeton University.</p>
 <p>Yes, you can take classes from these prestigious educational institutions
 from the comfort of your home, and it won’t cost you a cent!</p>
 <h3>General Assembly</h3>
-<p>General Assembly is known for running boot camps for mid-career switchers
-who aspire to a new path in tech as software engineers, data scientists,
-and product managers.</p>
+<p><a href="https://generalassemb.ly/" rel="noopener noreferrer nofollow" target="_blank">General Assembly</a> is
+known for running boot camps for mid-career switchers who aspire to a new
+path in tech as software engineers, data scientists, and product managers.</p>
 <p>While these bootcamps usually involve monetary commitment and a few months
 of effort, they also run free, short courses for those who are curious
 about tech.</p>
-<p>These include introduction courses to&nbsp;<a href="https://generalassemb.ly/education/intro-to-python-free-online-livestream/online" class="editor-rtfLink" rel="noopener noreferrer nofollow" target="_blank">Python coding</a>,&nbsp;
-<a href="https://generalassemb.ly/education/intro-to-data-analytics-livestream" class="editor-rtfLink" rel="noopener noreferrer nofollow" target="_blank">data analytics</a>,&nbsp;<a href="https://generalassemb.ly/education/free-intro-to-ux-design-class-online/online/" class="editor-rtfLink" rel="noopener noreferrer nofollow" target="_blank">UX design</a>,
-and&nbsp;<a href="https://generalassemb.ly/education/free-intro-to-digital-marketing-class-online/online/" class="editor-rtfLink" rel="noopener noreferrer nofollow" target="_blank">digital marketing</a>.
-There are also classes on specific tools that you can put to use immediately,
-like Excel and Google Analytics.</p>
-<p>You can even access resources on general skills, such as a class on&nbsp;
-<a href="https://generalassemb.ly/education/intro-to-public-speaking-free-online-livestream/online" class="editor-rtfLink" rel="noopener noreferrer nofollow" target="_blank">public speaking.</a>
-</p>
+<p>These include introduction courses to&nbsp;Python coding,&nbsp;data analytics,&nbsp;UX
+design, and&nbsp;digital marketing. There are also classes on specific
+tools that you can put to use immediately, like Excel and Google Analytics.</p>
+<p>You can even access resources on general skills, such as a class on&nbsp;public
+speaking.</p>
 <h3>Explore and expand your knowledge</h3>
 <p>It can be daunting to consider a career in tech, whether you’re thinking
 of choosing a tech major when entering a tertiary institute or thinking
