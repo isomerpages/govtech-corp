@@ -2,7 +2,7 @@
 layout: post
 title: This GovTech team is the reason you no longer have to use paper parking
   coupons (Part 2)
-permalink: /media/technews/this-govtech-team-is-the-reason-you-no-longer-have-to-use-paper-parking-coupons-(part-2)/
+permalink: "/media/technews/this-govtech-team-is-the-reason-you-no-longer-have-to-use-paper-parking-coupons-(part-2)"
 image: /images/technews/this-govtech-team-is-the-reason-you-no-longer-have-to-use-paper-parking-coupons-(part-2)-part-1.png
 variant: tiptap
 date: 2018-04-04
