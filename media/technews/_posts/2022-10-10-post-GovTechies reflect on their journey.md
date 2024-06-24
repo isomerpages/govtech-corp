@@ -128,10 +128,4 @@ are encouraged to explore a STEM career.</p>
 to know that our colleagues in GovTech are receptive to our efforts to
 drive active conversations around being more gender inclusive and neutral
 in the organisation, which will ultimately influence the wider tech industry.</p>
-<h3>Make a difference, join us!</h3>
-<p>GovTech wouldn’t have gotten this far with our Smart Nation successes
-without the passion and good work of our GovTechies. We are proud to be
-part of the team that builds tech for public good! If you see yourself
-as a good fit for our work and culture, you’re welcome to&nbsp;<a href="http://go.gov.sg/govtechcareers" class="editor-rtfLink" rel="noopener noreferrer nofollow" target="_blank">apply here</a>&nbsp;or
-visit our&nbsp;<a href="http://www.linkedin.com/company/govtech-singapore" class="editor-rtfLink" rel="noopener noreferrer nofollow" target="_blank">LinkedIn</a>&nbsp;or&nbsp;
-<a href="http://www.facebook.com/insidegovtech" class="editor-rtfLink" rel="noopener noreferrer nofollow" target="_blank">Inside GovTech</a>&nbsp;Facebook page to learn more about us.</p>
+<p></p>
