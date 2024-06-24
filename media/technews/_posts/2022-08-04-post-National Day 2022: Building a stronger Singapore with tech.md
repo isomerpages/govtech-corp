@@ -17,11 +17,10 @@ Majulah!” – we want to mark Singapore’s birthday by looking at how tech
 can help bond our communities and enhance their resilience for the future.</p>
 <p>Read on to find out more about various initiatives and how you can be
 a part of them!</p>
-<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="National Day 2022 - building a stronger Singapore with tech" src="/images/technews/National_Day_2022___building_a_stronger_Singapore_with_tech_.jpg">
 </div>
-<p><em>Check out some initiatives you can take part in this NDP.&nbsp;Photo by&nbsp;<a href="https://unsplash.com/@roganyeoh?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText" class="editor-rtfLink" rel="noopener noreferrer nofollow" target="_blank">Rogan Yeoh</a>&nbsp;on&nbsp; <a href="https://unsplash.com/s/photos/singapore-national-day?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText" class="editor-rtfLink" rel="noopener noreferrer nofollow" target="_blank">Unsplash</a>.</em>
+<p><em>Check out some initiatives you can take part in this NDP.</em>
 </p>
 <h3>#DoingGood – NDP 2022</h3>
 <p>This year’s NDP has a series of voluntary events collectively known as
@@ -32,22 +31,19 @@ experience the convenience of going cashless.</p>
 <p>Or you can refurbish donated laptops to make them suitable for use by
 low-income families. Tech experts will be on hand to guide you so you don’t
 have to be an IT guru to take part.</p>
-<p>Events run across July and August, so check out the&nbsp;<a href="https://doinggood.ndp.gov.sg/" class="editor-rtfLink" rel="noopener noreferrer nofollow" target="_blank">listing page</a>&nbsp;for
-chances to make a difference this National Day.</p>
 <h3>Better.sg</h3>
-<p>As its name suggests, <a href="https://unsplash.com/@roganyeoh?utm_source=unsplash&amp;amp;utm_medium=referral&amp;amp;utm_content=creditCopyText" rel="noopener noreferrer nofollow" target="_blank">better.sg</a> is
-all about creating a better Singapore by building and scaling innovative
-digital tools to address societal issues.</p>
-<p>This volunteer-run&nbsp;<a href="https://better.sg/" class="editor-rtfLink" rel="noopener noreferrer nofollow" target="_blank">organisation</a>&nbsp;helps
-bring to life a variety of projects that help different groups of beneficiaries.
-One tool uses voice-over-IP tech to aid migrant workers to&nbsp;<a href="https://callhome.sg/" class="editor-rtfLink" rel="noopener noreferrer nofollow" target="_blank">call home</a>&nbsp;and
-connect to their loved ones for free. Another is an&nbsp;<a href="https://tobeyou.sg/" class="editor-rtfLink" rel="noopener noreferrer nofollow" target="_blank">online game</a>&nbsp;that
+<p>As its name suggests, <a href="https://better.sg/" rel="noopener noreferrer nofollow" target="_blank">better.sg</a> is all about creating a better Singapore
+by building and scaling innovative digital tools to address societal issues.</p>
+<p>This volunteer-run&nbsp;organisation&nbsp;helps bring to life a variety
+of projects that help different groups of beneficiaries. One tool uses
+voice-over-IP tech to aid migrant workers to&nbsp;call home&nbsp;and connect
+to their loved ones for free. Another is an&nbsp;online game&nbsp;that
 encourages empathy by allowing you to experience a day in the life of someone
 from a different background.</p>
 <p>You can volunteer in various capacities, be it helping to brainstorm and
 develop new tech tools, generate articles and podcasts to spread the word
-about #techforgood, or helping to develop <a href="https://unsplash.com/@roganyeoh?utm_source=unsplash&amp;amp;utm_medium=referral&amp;amp;utm_content=creditCopyText" rel="noopener noreferrer nofollow" target="_blank">better.sg</a>’s
-community by lending a hand with members’ activities.</p>
+about #techforgood, or helping to develop <a href="http://better.sg" rel="noopener noreferrer nofollow" target="_blank">better.sg</a>’s community by lending a hand with
+members’ activities.</p>
 <h3>Engineering Good</h3>
 <p><a href="https://engineeringgood.org/" class="editor-rtfLink" rel="noopener noreferrer nofollow" target="_blank">Engineering Good</a>&nbsp;is a charity
 that helps empower those with disabilities and the disadvantaged through
@@ -62,9 +58,8 @@ They collect and refurbish pre-owned laptops and then distribute these
 devices to those in need.</p>
 <h3>SG Enable Smart Home</h3>
 <p>Another organisation that helps people with disabilities live more independent
-lives is SG Enable, which partnered with Google to develop the&nbsp;
-<a href="https://www-sgenable-sg-admin.cwp.sg/docs/default-source/default-document-library/news-and-insights-library/st_12-aug-2020_pgb2_sge_new-guide-on-smart-home-tech-for-people-with-disabilities.pdf" class="editor-rtfLink" rel="noopener noreferrer nofollow" target="_blank">Smart Home Guide.</a>
-</p>
+lives is SG Enable, which partnered with Google to develop the&nbsp;Smart
+Home Guide.</p>
 <p>The guide advises about the benefits of smart home devices and how people
 with disabilities – such as physical disabilities, visual impairment, and
 deafness – can set up their homes with such conveniences.</p>
