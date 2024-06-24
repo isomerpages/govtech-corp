@@ -9,17 +9,15 @@ description: 🌐 Tech aids caregivers! Explore apps, platforms, and robots
   🤖💙
 variant: tiptap
 ---
-<p></p>
 <p>Being a caregiver can feel not only like a full<em>-</em>time job, but
 even all-consuming of one’s life. There are daily commitments as another
 person’s wellbeing depends on you; not to mention the emergencies to respond
 to. Many caregivers are looking after their loved ones, so it is both physically
 and emotionally demanding to see a person you’re close to in poor health.</p>
-<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="Caregiver taking care of someone else. Physically and emotionally demanding job." src="/images/technews/How_tech_can_relieve_caregiver_burnout.jpg">
 </div>
-<p><em>Who cares for the caregiver? Photo: <a href="https://www.straitstimes.com/singapore/community/more-support-for-caregivers-after-major-study-finds-help-boosts-their-quality-of-life" rel="noopener noreferrer nofollow" target="_blank">Unsplash.com</a></em>
+<p><em>Who cares for the caregiver? </em>
 </p>
 <p>Indeed, an August 2022&nbsp;<a href="https://www.straitstimes.com/singapore/community/more-support-for-caregivers-after-major-study-finds-help-boosts-their-quality-of-life" class="editor-rtfLink" rel="noopener noreferrer nofollow" target="_blank">Straits Times article</a>&nbsp;reported
 that over half of caregivers who took part in a survey said they were “burdened”
@@ -27,24 +25,12 @@ and “barely coping”.</p>
 <p>As tech becomes increasingly important in society, it is also fortunately
 providing some much needed support for caregivers. Here are five ways that
 tech is relieving burnout among those caring for someone else.</p>
-<h3>Dementia Friends app</h3>
-<p>Sometimes, we just need to talk to and get together with others who are
-in a similar situation and truly understand what we’re going through.</p>
-<p>The Dementia Friends&nbsp;<a href="https://dementiafriendly.sg/" class="editor-rtfLink" rel="noopener noreferrer nofollow" target="_blank">app</a>&nbsp;connects
-caregivers of people with dementia. There are regular&nbsp;<a href="https://dementiafriendly.sg/Event" class="editor-rtfLink" rel="noopener noreferrer nofollow" target="_blank">events</a>&nbsp;for
-caregivers to share resources, provide support, and just lend a listening
-ear. They can also turn to the app to submit a case if a loved one with
-dementia is missing. The app’s 12,000 users will see the open cases and
-can submit the location of recent sightings if they think they’ve spotted
-the missing person.</p>
-<p>There are also “safe-return” points where members of the public can take
-lost people with dementia.</p>
 <h3>Healthhub</h3>
 <p>The Healthhub site provides a platform of resources for caregiving support
 to learn more about costs and findings,&nbsp;<a href="https://www.healthhub.sg/a-z/costs-and-financing/22/caregivers-training-grant-ctg" class="editor-rtfLink" rel="noopener noreferrer nofollow" target="_blank">grants</a>,
 find support&nbsp;<a href="https://www.healthhub.sg/a-z/support-groups-and-others/3/caregiver_support_groups" class="editor-rtfLink" rel="noopener noreferrer nofollow" target="_blank">groups</a>&nbsp;and
 get caregiving tips. There are also resources on caregiver&nbsp;<a href="https://www.healthhub.sg/a-z/support-groups-and-others/11/caregiver-training" class="editor-rtfLink" rel="noopener noreferrer nofollow" target="_blank">training</a>&nbsp;and
-self-care](<a href="https://www.straitstimes.com/singapore/community/more-support-for-caregivers-after-major-study-finds-help-boosts-their-quality-of-life" rel="noopener noreferrer nofollow" target="_blank">https://www.healthhub.sg/a-z/support-groups-and-others/11/caregiver-training</a>).</p>
+self-care.</p>
 <p>There are also a host of&nbsp;<a href="https://www.healthhub.sg/HealtheServices" class="editor-rtfLink" rel="noopener noreferrer nofollow" target="_blank">e-services</a>&nbsp;where
 caregivers can retrieve the health records of their loved ones, enabling
 them to cut red tape when dealing with administrative matters.</p>
@@ -52,8 +38,8 @@ them to cut red tape when dealing with administrative matters.</p>
 by logging in through Singpass and have the medicine delivered. This saves
 the caregivers periodic trips to the clinic or hospital and saves them
 precious time to catch a breather.</p>
-<h3><a href="https://www.straitstimes.com/singapore/community/more-support-for-caregivers-after-major-study-finds-help-boosts-their-quality-of-life" rel="noopener noreferrer nofollow" target="_blank">Mindline.sg</a></h3>
-<p><a href="https://www.straitstimes.com/singapore/community/more-support-for-caregivers-after-major-study-finds-help-boosts-their-quality-of-life" rel="noopener noreferrer nofollow" target="_blank">Mindline.sg</a>&nbsp;is
+<h3>Mindline Sg</h3>
+<p><a href="https://www.mindline.sg/" rel="noopener noreferrer nofollow" target="_blank">Mindline.sg</a>&nbsp;is
 a site that provides tools and tips to manage your health and wellbeing.</p>
 <p>One of the options you can choose is “I need caregiving support”. You’ll
 be directed to various resources such as mindfulness exercises you can
