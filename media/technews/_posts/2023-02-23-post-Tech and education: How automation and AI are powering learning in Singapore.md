@@ -12,8 +12,7 @@ variant: tiptap
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="Tech and education: Teacher educating students with whiteboard and markers" src="/images/technews/Tech_and_education__How_automation_and_AI_are_powering_learning_in_Singapore.jpg">
 </div>
-<p><em>Tech and Education!</em> Photo by <a href="https://unsplash.com/@wocintechchat?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText" rel="noopener noreferrer nofollow" target="_blank">Christina @ wocintechchat.com</a> on
-<a href="https://unsplash.com/photos/4T-02pK0jUg?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText" rel="noopener noreferrer nofollow" target="_blank">Unsplash</a>
+<p><em>Tech and Education!</em> 
 </p>
 <p>The education sector has gone through huge changes in recent years. With
 massive open online courses gaining popularity, attending classes with
