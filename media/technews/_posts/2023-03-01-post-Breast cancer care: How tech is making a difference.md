@@ -11,9 +11,6 @@ variant: tiptap
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="Tech advancements in the treatment of breast cancer" src="/images/technews/tech-in-breast-cancer.jpg">
 </div>
-<p>Photo by&nbsp;<a href="https://unsplash.com/@nci?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText" class="editor-rtfLink" rel="noopener noreferrer nofollow" target="_blank">National Cancer Institute</a>&nbsp;on&nbsp;
-<a href="https://unsplash.com/photos/9k4Fglw6eFQ?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText" class="editor-rtfLink" rel="noopener noreferrer nofollow" target="_blank">Unsplash</a>
-</p>
 <p>Did you know that breast cancer is the most common cancer among Singaporean
 women? Each year,&nbsp;<a href="https://www.singaporecancersociety.org.sg/learn-about-cancer/types-of-cancer/breast-cancer.html#overview" class="editor-rtfLink" rel="noopener noreferrer nofollow" target="_blank">over 2,000 women</a>&nbsp;here
 are diagnosed with the disease and die from it.</p>
