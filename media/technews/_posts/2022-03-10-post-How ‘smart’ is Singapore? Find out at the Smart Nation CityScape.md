@@ -13,10 +13,9 @@ variant: tiptap
 that it’s been too long.</p>
 <p>Well, for everyone who’s sick of visiting the same few brunch places over
 and over again, here’s something different to try! We’ve taken URA’s already
-popular&nbsp;<a href="https://www.ura.gov.sg/Corporate/Singapore-City-Gallery" class="editor-rtfLink" rel="noopener noreferrer nofollow" target="_blank">Singapore City Gallery</a>&nbsp;at
-the URA Centre and augmented it with new features to showcase what Smart
-Nation is all about. Welcome to the&nbsp;<a href="https://www.smartnation.gov.sg/community/showcases/cityscape" class="editor-rtfLink" rel="noopener noreferrer nofollow" target="_blank">Smart Nation CityScape!</a>
-</p>
+popular&nbsp;Singapore City Gallery&nbsp;at the URA Centre and augmented
+it with new features to showcase what Smart Nation is all about. Welcome
+to the&nbsp;Smart Nation CityScape!</p>
 <p>Have no plans for the weekend? There is plenty to do at the Smart Nation
 CityScape! Photo by GovTech</p>
 <p>Through a series of interactive stations and displays, we’ve summarised
@@ -82,4 +81,4 @@ throw away.</p>
 <p>Location and Opening hours:
 <br>● Located at 45 Maxwell Road, The URA Centre, Singapore 069118.
 <br>● Mondays to Saturdays, 9am to 5pm.</p>
-<p>More details click&nbsp;<a href="https://www.ura.gov.sg/Corporate/Singapore-City-Gallery/Key-Highlights-details/SmartNation-Cityscape-details" class="editor-rtfLink" rel="noopener noreferrer nofollow" target="_blank">here</a>!</p>
+<p></p>
