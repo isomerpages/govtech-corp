@@ -17,10 +17,8 @@ variant: tiptap
 <p>Did you know that women make up just over&nbsp;<a href="https://www.bcg.com/publications/2020/boosting-women-in-southeast-asia-tech-sector" class="editor-rtfLink" rel="noopener noreferrer nofollow" target="_blank">40 per cent</a>&nbsp;of
 Singapore’s tech workforce, a significantly higher proportion than the
 global average of a little under 30 per cent? Still, the government has
-continually&nbsp;<a href="https://www.straitstimes.com/tech/tech-news/women-can-help-ease-talent-crunch-in-cyber-security-industry-josephine-teo" class="editor-rtfLink" rel="noopener noreferrer nofollow" target="_blank">encouraged</a>&nbsp;
-<a href="https://www.straitstimes.com/singapore/new-stem-educational-programme-to-prepare-young-women-for-careers-in-fintech" class="editor-rtfLink" rel="noopener noreferrer nofollow" target="_blank">more</a>&nbsp;<a href="https://www.straitstimes.com/tech/generationtech-inspiring-teen-girls-STEM-tech-roles" class="editor-rtfLink" rel="noopener noreferrer nofollow" target="_blank">women</a>&nbsp;to
-join the tech sector, both to ease the talent crunch in the industry and
-to foster diversity.</p>
+continually&nbsp;encouraged&nbsp;more&nbsp;women&nbsp;to join the tech
+sector, both to ease the talent crunch in the industry and to foster diversity.</p>
 <p>As we celebrated International Women in Cyber Day last month, we spoke
 to three GovTechies in cybersecurity roles on what it’s like as a woman
 in the industry, how they got started, and their hopes for the future.</p>
@@ -64,7 +62,7 @@ to get all the issues resolved for my premium customers.</p>
 cyber defence plan coming together and having a sound strategy backed by
 a motivated and committed team. It’s what enables us to spring into action
 and respond when incidents like the SolarWinds attack occur.</p>
-<h3>Mei Leng, you were named one of the&nbsp;<a href="https://womeninsecurityaseanregion.com/" class="editor-rtfLink" rel="noopener noreferrer nofollow" target="_blank">top 30 women</a>&nbsp;in cybersecurity at the ASEAN Region Awards this year. What was that like?</h3>
+<h3>Mei Leng, you were named one of the&nbsp;top 30 women&nbsp;in cybersecurity at the ASEAN Region Awards this year. What was that like?</h3>
 <p><strong>Mei Leng:</strong>&nbsp;I am humbled and grateful to be the recipient
 of the award. I felt thankful that my work had been recognised. It motivates
 me to continue to challenge myself to achieve greater heights.</p>
@@ -117,5 +115,3 @@ journey as technology changes quickly and cyber threats are always evolving.
 It is not a job where muscular strength is an advantage. What it needs
 is mental grit, agility, and resilience.</p>
 <p>I am glad to see more women in different disciplines within cybersecurity.</p>
-<p>Inspired by their sharing? Learn more about our Cybersecurity Capability
-Centre and&nbsp;<a href="https://www.tech.gov.sg/capability-centre-csg" class="editor-rtfLink" rel="noopener noreferrer nofollow" target="_blank">job opportunities here</a>.</p>
