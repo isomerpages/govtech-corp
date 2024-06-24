@@ -31,9 +31,6 @@ then scored by AI based on the drawings and the drawing stroke sequence.</p>
 <p>What’s more, no special training is needed to administer the test, so
 lay volunteers can be deployed. This enables dementia screening to be done
 much more efficiently and scaled to be proactive.</p>
-<p>If you are interested in taking part in the test or getting a family member
-to try it out, you can sign up&nbsp;<a href="https://form.gov.sg/#!/627cc5dd2177ad00120a2bbb" class="editor-rtfLink" rel="noopener noreferrer nofollow" target="_blank">here.</a>
-</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="Using a drawing test and AI to detect dementia" src="/images/technews/Three_ways_tech_is_supporting_Alzheimer_s.jpg">
 </div>
