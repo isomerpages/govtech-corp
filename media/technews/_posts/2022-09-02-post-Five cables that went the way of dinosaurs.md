@@ -22,7 +22,7 @@ go. Chances are, you’re holding on to some of these cable dinosaurs in
 some hidden corner of your house.</p>
 <p>How many of them do you recognise?</p>
 <div class="iframe-wrapper">
-<iframe height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/dVq2q6OxaVM?si=k-x93AI1DOapRb6Q"></iframe>
+<iframe style="max-width: 100%;" height="400" width="100%" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/dVq2q6OxaVM?si=k-x93AI1DOapRb6Q"></iframe>
 </div>
 <h3>Apple 30-pin</h3>
 <p>Found on: Old Apple Devices Making its debut in 2003 on another extinct
@@ -69,8 +69,8 @@ Recorder (VCR). Like the VGA and DVI, HDMI and display have more or less
 replaced them.</p>
 <p>For some weird reason though, modern-day TVs still have these ports. Our
 guess is that it’s used to ensure backward compatibility with VCRs – which
-amazingly still&nbsp;<a href="https://www.nytimes.com/2021/02/20/style/vhs-tapes.html" class="editor-rtfLink" rel="noopener noreferrer nofollow" target="_blank">see use.</a>&nbsp;It’s
-only a matter of time – so don’t feel too attached to them!</p>
+amazingly still&nbsp;see use.&nbsp;It’s only a matter of time – so don’t
+feel too attached to them!</p>
 <h3>Coaxial</h3>
 <p>Where you might have seen it: Set-top boxes, TVs, wall ports (which connect
 to networks). When we say this cable is old, we mean it. The submarine
