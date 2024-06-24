@@ -12,15 +12,14 @@ variant: tiptap
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="Software engineer creating the code for a bot." src="/images/technews/Good_Bots_vs_Bad_Bots__Know_the_difference_and_protect_yourself.jpg">
 </div>
-<p><em>Bots, useful or nefarious? Photo: <a href="http://Unsplash.com" rel="noopener noreferrer nofollow" target="_blank">Unsplash.com</a></em>
+<p><em>Bots, useful or nefarious? </em>
 </p>
 <p>Even if you’re not super into technology, you’ve probably heard of the
 term “bot” in daily life.</p>
 <p>For instance, multi-billionaire Elon Musk has been trying to&nbsp;<a href="https://www.bbc.com/news/technology-62571733" class="editor-rtfLink" rel="noopener noreferrer nofollow" target="_blank">wriggle</a>&nbsp;out
 of his deal to buy Twitter by claiming that an overly large number of accounts
 are run by bots.</p>
-<p>Or if you’re into the daily word game&nbsp;<a href="https://www.nytimes.com/games/wordle/index.html" class="editor-rtfLink" rel="noopener noreferrer nofollow" target="_blank">Wordle</a>,
-the&nbsp;<a href="https://www.nytimes.com/2022/04/07/upshot/wordle-bot-introduction.html" class="editor-rtfLink" rel="noopener noreferrer nofollow" target="_blank">WordleBot</a>&nbsp;can
+<p>Or if you’re into the daily word game&nbsp;Wordle, the&nbsp;WordleBot&nbsp;can
 evaluate your completed game and give you a score based on how lucky and
 skilful you were.</p>
 <p>Bots can be really useful, but with all things tech, they can be used
@@ -50,12 +49,12 @@ you.</p>
 <h3>Sounds great, but I’m sensing a but…</h3>
 <p>Right again! Software can also be made to run automated tasks with malicious
 intent. They can flood a website with visits at high speed, causing it
-to crash under a denial of service&nbsp;<a href="https://en.wikipedia.org/wiki/Denial-of-service_attack" class="editor-rtfLink" rel="noopener noreferrer nofollow" target="_blank">DDoS</a>&nbsp;attack.
-Financial crimes can also be committed by using bots to repeatedly login
-to a bank’s website in an attempt to take over customer accounts.</p>
+to crash under a denial of service&nbsp;DDoS&nbsp;attack. Financial crimes
+can also be committed by using bots to repeatedly login to a bank’s website
+in an attempt to take over customer accounts.</p>
 <p>Bots can also be used to send out spam through email and social media.
-You may have heard of Elon Musk’s&nbsp;<a href="https://www.bbc.com/news/business-62144776" class="editor-rtfLink" rel="noopener noreferrer nofollow" target="_blank">fight</a>&nbsp;with
-Twitter over the exact number of bot accounts on the platform.</p>
+You may have heard of Elon Musk’s&nbsp;fight&nbsp;with Twitter over the
+exact number of bot accounts on the platform.</p>
 <h3>Yikes! What can I do to protect myself?</h3>
 <p>Bat bot threats typically target businesses and institutions, but individuals
 can also fall prey to such attacks. You can take some simple steps to minimise
