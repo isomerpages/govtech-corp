@@ -23,32 +23,29 @@ with the origin of the word.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="What is the metaverse? Let TV shows and movies show you the way" src="/images/technews/Confused_about_the_metaverse__Let_TV_shows_and_movies_show_you_the_way_.jpg">
 </div>
-<p>TV shows and movies might be the best way to explain the metaverse! Photo
-by Unsplash</p>
+<p><em>TV shows and movies might be the best way to explain the metaverse!</em>
+</p>
 <h3>More a notion than a definition</h3>
 <p>Of course, Facebook (or we say Meta) is not the first to use the term.
-The 1992 book&nbsp;<a href="https://en.wikipedia.org/wiki/Snow_Crash#Metaverse" class="editor-rtfLink" rel="noopener noreferrer nofollow" target="_blank">Snow Crash</a>&nbsp;coined
-the word, combining the prefix “meta” – which means “beyond” in Ancient
-Greek – and “verse” – short for “universe” – to refer to an amalgamation
-of the virtual and physical world.</p>
+The 1992 book&nbsp;Snow Crash&nbsp;coined the word, combining the prefix
+“meta” – which means “beyond” in Ancient Greek – and “verse” – short for
+“universe” – to refer to an amalgamation of the virtual and physical world.</p>
 <p>Almost three decades on, the metaverse is more a notion than a definition,
 simply because it doesn’t really exist… yet. This lack of a clear meaning
 opens up a world of possibilities to shape the contours of the metaverse.</p>
-<p>In Mark Zuckerberg’s&nbsp;<a href="https://about.fb.com/news/2021/10/founders-letter/" class="editor-rtfLink" rel="noopener noreferrer nofollow" target="_blank">statement</a>&nbsp;after
-his company’s announcement, he outlined a future where “you will be able
-to teleport instantly as a hologram to be at the office without a commute”
-and “your perfect work setup with multiple monitors – instead of physical
-things assembled in factories, they’ll be holograms designed by creators
-around the world”.</p>
-<p>And it’s not just tech companies that want a piece of the metaverse.&nbsp;
-<a href="https://www.dbs.com.sg/treasures/templatedata/article/generic/data/en/CIO/112021/211115CIOVP.xml#" class="editor-rtfLink" rel="noopener noreferrer nofollow" target="_blank">Banks</a>, for instance, are studying the concept because of the potential
-of a completely virtual, parallel economy surfacing.</p>
+<p>In Mark Zuckerberg’s&nbsp;statement&nbsp;after his company’s announcement,
+he outlined a future where “you will be able to teleport instantly as a
+hologram to be at the office without a commute” and “your perfect work
+setup with multiple monitors – instead of physical things assembled in
+factories, they’ll be holograms designed by creators around the world”.</p>
+<p>And it’s not just tech companies that want a piece of the metaverse.&nbsp;Banks,
+for instance, are studying the concept because of the potential of a completely
+virtual, parallel economy surfacing.</p>
 <p>Since the metaverse is envisioned as a realm in which to live and play,
 the entertainment industry has been getting in on the act as well. The
 popular game Roblox, whose 43 million daily active users give it a claim
-as a metaverse, held a&nbsp;<a href="https://venturebeat.com/2021/10/20/roblox-unveils-electronic-music-festival-in-the-metaverse/" class="editor-rtfLink" rel="noopener noreferrer nofollow" target="_blank">three-day electronic music festival</a>,
-while singer Justin Bieber appeared as an avatar at his&nbsp;<a href="https://www.bandwagon.asia/articles/justin-bieber-metaverse-concert-justin-bieber-an-interactive-virtual-experience-free-tickets-sign-up" class="editor-rtfLink" rel="noopener noreferrer nofollow" target="_blank">virtual concert.</a>
-</p>
+as a metaverse, held a&nbsp;three-day electronic music festival, while
+singer Justin Bieber appeared as an avatar at his&nbsp;virtual concert.</p>
 <p>Still, these efforts to realise a seamless blending of the virtual and
 physical world are still very much just baby steps. For fuller depictions
 of what the metaverse could look like, we would have to turn to the world
