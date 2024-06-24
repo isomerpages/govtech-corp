@@ -18,28 +18,6 @@ engaged apart from school work?</p>
 keep the young ones entertained – and give you a much-needed breather.
 Who knows, the children may even develop some useful lifelong tech skills
 along the way. You can thank us later.</p>
-<p><strong>Tech activities to keep your kids entertained:</strong>
-</p>
-<ol data-tight="true" class="tight">
-<li>
-<p>Learn coding</p>
-</li>
-<li>
-<p>Be a drone pilot</p>
-</li>
-<li>
-<p>Learn about 3D printing</p>
-</li>
-<li>
-<p>Watch robots in action</p>
-</li>
-<li>
-<p>Check out how the Smart Nation is built</p>
-</li>
-<li>
-<p>Follow Smart Nation Builder - a moving roadshow</p>
-</li>
-</ol>
 <h3>1. Learn coding</h3>
 <p>Coding skills are all the rage now in the job market, but it’s not just
 all work and no play. There are quite a few learning centres offering coding
@@ -48,7 +26,7 @@ also tons of free learning materials online.</p>
 <p>Case in point, check out our very own&nbsp;<a href="https://www.youtube.com/c/GovTechSG" class="editor-rtfLink" rel="noopener noreferrer nofollow" target="_blank">GovTech YouTube channel</a>,
 which has instructional videos aimed at teaching children how to code.</p>
 <div class="iframe-wrapper">
-<iframe height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/MfkeAoVo4Vo?si=OKQpZ9XLvei2Ab92"></iframe>
+<iframe style="max-width: 100%;" height="400" width="100%" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/MfkeAoVo4Vo?si=OKQpZ9XLvei2Ab92"></iframe>
 </div>
 <p>And if you think Python or Java are too intimidating for your child, fret
 not as lessons primarily use programming languages aimed at children such
@@ -74,28 +52,26 @@ with care.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="3D printing a plastic owl-shaped figure" src="/images/technews/3D_printing.jpg">
 </div>
-<p><em>Image by mari1408 on 123RF</em>
-</p>
 <p>The National Library, for instance, organises periodic 3D printing workshops
 but participants must be at least 15 years old.</p>
 <h3>4. Watch robots in action</h3>
 <p>Robots are cool. It’s why Transformers toys have fascinated children across
 generations.</p>
-<p>The&nbsp;<a href="https://www.smartnation.gov.sg/community/showcases/playscape" class="editor-rtfLink" rel="noopener noreferrer nofollow" target="_blank">Smart Nation Playscape</a>&nbsp;at
-the Science Centre features robots galore, including robots that you can
-programme to dance and Rubik’s cube-solving robotic arms.</p>
+<p>The&nbsp;Smart Nation Playscape&nbsp;at the Science Centre features robots
+galore, including robots that you can programme to dance and Rubik’s cube-solving
+robotic arms.</p>
 <p>The playscape also goes beyond just robots. Get a complete tech immersion
 with exhibits on sensors, geospatial tech, biometrics, blockchain, AI,
 user experience, and Augmented/Virtual Reality/Mixed Reality (AR/VR/MR).</p>
 <h3>5. Check out how the Smart Nation is built</h3>
-<p>Speaking of Smart Nation, head on down to the URA Centre to explore the&nbsp;
-<a href="https://www.smartnation.gov.sg/community/showcases/cityscape" class="editor-rtfLink" rel="noopener noreferrer nofollow" target="_blank">Smart Nation Cityscape</a>.</p>
+<p>Speaking of Smart Nation, head on down to the URA Centre to explore the
+Smart Nation Cityscape.</p>
 <p>After being wowed by the model buildings forming a miniature rendering
 of Singapore’s landscape, they’ll learn about how technology is increasingly
 powering our daily city lives, including supporting the planning of towns
 and amenities and being embedded in our infrastructure.</p>
 <div class="iframe-wrapper">
-<iframe style="max-width: 100%;" height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/2QJqf0CZ4d4?si=75jGjGW30jxhU9gx"></iframe>
+<iframe style="max-width: 100%;" height="400" width="100%" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/2QJqf0CZ4d4?si=75jGjGW30jxhU9gx"></iframe>
 </div>
 <h3>6. Follow Smart Nation Builder – a moving roadshow</h3>
 <div class="isomer-image-wrapper">
@@ -118,5 +94,4 @@ more courses and programmes that will keep them occupied for many a weekend
 and school holiday to come.</p>
 <p>They’ll be getting good entertainment and education at the same time.
 And, of course, there’s the added perk of you getting some me time.</p>
-<h4>Now that’s a good investment of your time and effort.</h4>
 <p></p>
