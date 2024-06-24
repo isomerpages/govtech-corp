@@ -12,9 +12,6 @@ variant: tiptap
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="Oldschool Macintosh personal computer using the old internet system and interface." src="/images/technews/From_coding_to_clicking___how_website_creation_has_evolved_over_decades.jpg">
 </div>
-<p>Photo by <a href="https://unsplash.com/@jonnyuiux?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText" rel="noopener noreferrer nofollow" target="_blank">Jonny Caspari</a> on
-<a href="https://unsplash.com/photos/d21CGQKtJh8?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText" rel="noopener noreferrer nofollow" target="_blank">Unsplash</a>
-</p>
 <p>Websites – they’re the basic building blocks of the internet. Whether
 they’re carrying videos, photos, or text, websites today come in all manners
 of sophisticated and eye-catching design.</p>
@@ -106,5 +103,5 @@ to keeping pace with tech advances and helping Singaporeans along in the
 digitalisation journey, such as through IMDA’s&nbsp;<a href="https://www.imda.gov.sg/programme-listing/smes-go-digital" class="editor-rtfLink" rel="noopener noreferrer nofollow" target="_blank">programme</a>&nbsp;to
 make digital simple for SMEs.</p>
 <p>Hopefully, we’ve also inspired you to try out building your own website,
-be it through a website building service or perhaps going old-school and&nbsp;
+be it through a website building service or perhaps going old-school and
 <a href="https://www.tech.gov.sg/media/technews/tips-to-help-you-get-started-with-coding" class="editor-rtfLink" rel="noopener noreferrer nofollow" target="_blank">picking up coding</a>&nbsp;to make one from scratch!</p>
