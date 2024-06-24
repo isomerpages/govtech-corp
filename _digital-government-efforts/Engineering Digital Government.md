@@ -41,7 +41,7 @@ agencies can adopt commercial cloud solutions without compromising on security.<
 </div>
 <p></p>
 <div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="https://www.developer.tech.gov.sg/products/categories/data-and-apis/apex-cloud/overview.html" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="API Exchange (APEX) logo" src="/images/Digital Gov Efforts/APEX_600x400.png"></div></div><div class="isomer-card-body"><div class="isomer-card-title">API Exchange (APEX)</div><div class="isomer-card-description">A self-service API platform that functions as a centralised and secure API gateway and data-sharing platform for the government.</div><div class="isomer-card-link">Learn more on SGDP</div></div></a>
-<a rel="noopener noreferrer nofollow" href="/for-government-agencies/" class="isomer-card">
+<a rel="noopener noreferrer nofollow" href="/products-and-services/for-government-agencies/productivity-and-marketing/digital-workplace/" class="isomer-card">
 <div class="isomer-card-image">
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="Digital Workplace (DWP) logo" src="/images/Digital Gov Efforts/Digital_workplace_600x300.png">

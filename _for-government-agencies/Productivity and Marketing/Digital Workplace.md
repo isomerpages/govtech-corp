@@ -20,7 +20,7 @@ image: /images/About Us/Digital_Workplace.png
 environment for public officers.</p>
 </li>
 <li>
-<p><strong>Examples:</strong> Access work calendars remotely with CalSync,
+<p>Examples:<strong> </strong>Access work calendars remotely with CalSync,
 send personalised bulk messages with Postman, create and collect data through
 forms using FormSG and speech-to-text transcription using Transcribe.</p>
 </li>
