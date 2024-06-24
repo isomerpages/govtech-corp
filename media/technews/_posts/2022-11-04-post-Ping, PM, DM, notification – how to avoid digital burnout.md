@@ -12,8 +12,7 @@ variant: tiptap
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="Matchstick burning out like how a person can suffer from digital burnout" src="/images/technews/digital_burnout.jpg">
 </div>
-<p><em>Think it's just work digital burnout? Think again!</em> Photo by
-<a href="https://unsplash.com/@gift_habeshaw?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText" rel="noopener noreferrer nofollow" target="_blank">Gift Habeshaw</a>on <a href="https://unsplash.com/s/photos/burn-out?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText" rel="noopener noreferrer nofollow" target="_blank">Unsplash</a>
+<p><em>Think it's just work digital burnout? Think again!</em> 
 </p>
 <p>As Singapore lifts pandemic restrictions and many aspects of life return
 to normal, one thing is here to stay, at least for now – remote working,
@@ -25,28 +24,7 @@ and more screen time overall.</p>
 reason why four out of five Singaporeans are feeling&nbsp;<a href="https://sbr.com.sg/hr-education/news/singaporeans-are-most-de-energised-employees-in-asia" class="editor-rtfLink" rel="noopener noreferrer nofollow" target="_blank">at risk of burnout</a>&nbsp;in
 2022.</p>
 <p>If you’re feeling fatigued and listlessness from an overdose of technology,
-here are some&nbsp;<strong>tips to avoid digital burnout:</strong>
-</p>
-<ol data-tight="true" class="tight">
-<li>
-<p>Do a digital cleanse</p>
-</li>
-<li>
-<p>Remove false urgencies</p>
-</li>
-<li>
-<p>Avoid multitasking</p>
-</li>
-<li>
-<p>Set digital boundaries</p>
-</li>
-<li>
-<p>Routinely unplug</p>
-</li>
-<li>
-<p>Manage, not abandon technology</p>
-</li>
-</ol>
+here are some&nbsp;tips to avoid digital burnout.</p>
 <h3>1. Do a digital cleanse</h3>
 <p>Few things are less draining than a cluttered email inbox with thousands,
 even tens of thousands of unread mail. Or opening your social media account
@@ -75,15 +53,12 @@ same goes for your other social media apps unless you are using one of
 them as a means of real-time communication.</p>
 <p>Even tech giants are increasingly aware of the need that notifications
 can become a distraction and need to be used in a controlled manner. Apple
-and Google’s newer devices have&nbsp;<a href="https://support.apple.com/en-sg/HT212608" class="editor-rtfLink" rel="noopener noreferrer nofollow" target="_blank">“focus mode”</a>&nbsp;that
-enables you to customise the notifications you see when you activate the
-function.</p>
+and Google’s newer devices have&nbsp;“focus mode”&nbsp;that enables you
+to customise the notifications you see when you activate the function.</p>
 <h3>3. Avoid multitasking</h3>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="Avoid multitasking" src="/images/technews/Multitasking_stress.jpg">
 </div>
-<p><em>Image by <a href="https://govtechcmg.assetsdelivery.com/new/portfolio_image.php?contributorid=drogatnev&amp;lang=en" rel="noopener noreferrer nofollow" target="_blank">drogatnev</a> on 123RF</em>
-</p>
 <p>One of the great paradoxes of technology is how it’s allowed us to be
 productive on multiple tasks at the same time, but also doomed us to be
 unproductive on multiple distractions at the same time.</p>
@@ -113,8 +88,6 @@ the usage of individual websites.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="Routinely unplug from tech devices to refocus and clear your mind" src="/images/technews/Unplug_from_tech.jpg">
 </div>
-<p><em>Image by <a href="https://www.freepik.com/free-vector/hand-drawn-flat-design-digital-detox-illustration_23789424.htm#fromView=search&amp;page=1&amp;position=0&amp;uuid=88770ceb-7e00-4c8d-b1c8-152967d1871c" rel="noopener noreferrer nofollow" target="_blank">freepik</a></em>
-</p>
 <p>Taking breaks from technology, whether for work or entertainment, helps
 you to decompress. Set technology-free times when you can focus on other
 things such as eating with your family, exercising, or just reading a good
