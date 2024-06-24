@@ -13,17 +13,15 @@ variant: tiptap
 of commutes were made every single day in Singapore, whether it was by
 motorists zipping down our expressways, passengers travelling on our MRT
 lines, or bus riders steadily moving along bus routes.</p>
-<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="AI being used to simulate bus rides" src="/images/technews/How_tech_changed_transport_in_Singapore.jpg">
 </div>
-<p><em>Did you know that AI was used to improve bus routes? Photo by&nbsp; <a href="https://unsplash.com/@jiachenlin?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText" class="editor-rtfLink" rel="noopener noreferrer nofollow" target="_blank">Jiachen Lin</a>&nbsp;on&nbsp;<a href="https://unsplash.com/s/photos/singapore-transport?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText" class="editor-rtfLink" rel="noopener noreferrer nofollow" target="_blank">Unsplash</a>.</em>
+<p><em>Did you know that AI was used to improve bus routes?</em>
 </p>
 <p>Keeping Singapore moving is no doubt a herculean task involving the maintenance
 of roads, train tracks, and other heavy-duty infrastructure. Beyond these
 engineering feats, tech has played a major role in making transport here
-more seamless and convenient. (Pssst, GovTech actually uses AI to&nbsp;
-<a href="https://www.tech.gov.sg/media/technews/how-govtech-simulates-four-million-bus-rides-a-day" class="editor-rtfLink" rel="noopener noreferrer nofollow" target="_blank">simulate bus rides</a>&nbsp;for better planning).</p>
+more seamless and convenient.</p>
 <p>Let’s take a look at some of these other innovations in public transport,
 roads, taxis and even bicycles that have kept the country moving.</p>
 <h3>Public transport fare system</h3>
@@ -37,7 +35,7 @@ system, passengers drop the exact fare amount into a box while the driver
 issues the ticket through a machine. Yes, just the ability to pay cash,
 not directly to a human, was considered cutting-edge technology back then.
 Still, bus conductors continued to be a part of many bus journeys until&nbsp;
-<a href="http://www.ntwu.org.sg/NTWU/Pages/AboutUs.aspx" class="editor-rtfLink" rel="noopener noreferrer nofollow" target="_blank">1984</a>, when SBS fully implemented the system.</p>
+1984, when SBS fully implemented the system.</p>
 <p>While the new system was a big improvement, there was still a significant
 drawback – riders had to have the exact fare on them as the ticketing machine
 didn’t issue change. Five-cent coins were particularly useful during this
@@ -74,27 +72,24 @@ for the decals. Because they were not supposed to slow or stop traffic
 (this would have defeated the purpose of congestion pricing) to carry out
 their inspection, their work required some serious eye power.</p>
 <p>Enforcement officers continued to eyeball vehicles for more than two decades
-until&nbsp;<a href="https://eresources.nlb.gov.sg/infopedia/articles/SIP_832__2009-01-05.html" class="editor-rtfLink" rel="noopener noreferrer nofollow" target="_blank">1998</a>&nbsp;when
-Electronic Road Pricing was launched. All vehicles in Singapore were outfitted
-with in-vehicle units with cash cards that motorists had to keep topped
-up. At the same time, large overhead gantries spanning the entire road
-were progressively set up at different points of heavy traffic flow. These
-gantries could automatically scan the in-vehicle units and deduct the appropriate
-toll from the cash cards. As such, all motorists had to do was ensure their
-cash cards had enough money.</p>
-<p>In&nbsp;<a href="https://www.todayonline.com/singapore/erp-readers-be-replaced-free-satellite-based-units-2021-lta" class="editor-rtfLink" rel="noopener noreferrer nofollow" target="_blank">2020</a>,
-it was announced that new ERP units will be installed in vehicles starting
-from the second half of 2021. By 2023, these new units will work with the
-new satellite-based ERP system, which will do away with the need for ERP
-gantries.</p>
+until&nbsp;1998&nbsp;when Electronic Road Pricing was launched. All vehicles
+in Singapore were outfitted with in-vehicle units with cash cards that
+motorists had to keep topped up. At the same time, large overhead gantries
+spanning the entire road were progressively set up at different points
+of heavy traffic flow. These gantries could automatically scan the in-vehicle
+units and deduct the appropriate toll from the cash cards. As such, all
+motorists had to do was ensure their cash cards had enough money.</p>
+<p>In&nbsp;2020, it was announced that new ERP units will be installed in
+vehicles starting from the second half of 2021. By 2023, these new units
+will work with the new satellite-based ERP system, which will do away with
+the need for ERP gantries.</p>
 <h3>Taxi services</h3>
 <p>Stick your arm out on the side of a street, flag a taxi, and your ride
 stops next to you. This action used to be commonplace but is becoming increasingly
 rare thanks to the digitalisation of getting a taxi.</p>
 <p>And this digitalisation started way before smartphones and apps became
-ubiquitous. For instance, taxis started accepting NETS payments in&nbsp;
-<a href="https://mothership.sg/2020/03/old-taxis-in-singapore/" class="editor-rtfLink" rel="noopener noreferrer nofollow" target="_blank">2006</a>, and passengers could book rides through the internet starting
-in 2009.</p>
+ubiquitous. For instance, taxis started accepting NETS payments in&nbsp;2006,
+and passengers could book rides through the internet starting in 2009.</p>
 <p>But the true disruptive force came in the mid-2010s when apps for private
 hire car rides, such as Grab and Uber, stormed the scene. Their market
 influence quickly built up to the point that new regulations for private
@@ -108,9 +103,9 @@ as&nbsp;<a href="https://www.straitstimes.com/singapore/transport/comfortdelgro-
 scene – Ryde, Gojek, Urge, Jugnoo – but only a few had staying power in
 a competitive market.</p>
 <h3>Cycling</h3>
-<p>The humble two-wheeler driven by pedal power got a huge dose of tech in&nbsp;
-<a href="https://www.channelnewsasia.com/news/singapore/wheel-woes-the-rise-and-fall-of-singapore-s-bike-sharing-11336200" class="editor-rtfLink" rel="noopener noreferrer nofollow" target="_blank">2017</a>&nbsp;when three bike-sharing companies – Mobike, oBike, and Ofo
-– set up shop in Singapore within months of each other.</p>
+<p>The humble two-wheeler driven by pedal power got a huge dose of tech in&nbsp;2017&nbsp;when
+three bike-sharing companies – Mobike, oBike, and Ofo – set up shop in
+Singapore within months of each other.</p>
 <p>The idea was to spread shareable bikes across the island so that anyone
 who wants to rent a bicycle can scan the QR code on it, unlock the bike,
 and ride away. When the rider reaches his destination, he scans the QR
@@ -129,8 +124,8 @@ operating – SG Bike, Mobike (which has been acquired by SG Bike), and Anywheel
 – with a total fleet size of about 40,000 bikes.</p>
 <h3>What’s next?</h3>
 <p>As we seek greater convenience in our commutes, the world of transport
-will continue to be shaped by tech and innovation. One promising area is&nbsp;
-<a href="https://www.smartnation.gov.sg/what-is-smart-nation/initiatives/Transport/autonomous-vehicles" class="editor-rtfLink" rel="noopener noreferrer nofollow" target="_blank">autonomous vehicles</a>, which are already operating along&nbsp;<a href="https://www.straitstimes.com/singapore/transport/pay-to-ride-on-driverless-buses-in-two-areas-until-april-30" class="editor-rtfLink" rel="noopener noreferrer nofollow" target="_blank">fixed routes</a>&nbsp;in
+will continue to be shaped by tech and innovation. One promising area is&nbsp;autonomous
+vehicles, which are already operating along&nbsp;<a href="https://www.straitstimes.com/singapore/transport/pay-to-ride-on-driverless-buses-in-two-areas-until-april-30" class="editor-rtfLink" rel="noopener noreferrer nofollow" target="_blank">fixed routes</a>&nbsp;in
 a few places. The entire western part of Singapore has also been designated
 as a testing ground for driverless vehicles.</p>
 <p>It’s hard to predict when driverless vehicles and other transport tech
