@@ -17,7 +17,7 @@ welcomes you with audio and videos on a flat screen.</p>
 as a tour guide for the museum featuring life as prisoners of war during
 World War II.</p>
 <div class="iframe-wrapper">
-<iframe height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/5X1Ec4M4CCI?si=BcIR1dRypPePbEYu"></iframe>
+<iframe style="max-width: 100%;" height="400" width="100%" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/5X1Ec4M4CCI?si=BcIR1dRypPePbEYu"></iframe>
 </div>
 <h3>What’s Temi and what can it do?</h3>
 <p>Though petite, with height reaching the waist level of an average adult,
