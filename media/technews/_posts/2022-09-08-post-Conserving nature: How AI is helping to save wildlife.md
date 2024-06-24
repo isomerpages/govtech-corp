@@ -28,7 +28,7 @@ app, inspectors armed with a simple smartphone can rapidly identify contraband.<
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="AI helping to save wildlife" src="/images/technews/Conserving_nature__How_AI_is_helping_to_save_wildlife.jpg">
 </div>
-<p><em>How can technology keep poachers at bay? PHOTO: Unsplash</em>
+<p><em>How can technology keep poachers at bay? </em>
 </p>
 <h3>Poacher detection – Connected Conservation Initiative (Zambia)</h3>
 <p>Zambia is home to the 22,400 sq km Kafue National Park, which is supposed
@@ -91,5 +91,4 @@ the biggest difference.</p>
 <p>We hope this article has not just introduced the world of AI in conservation,
 but also inspired you to think about what part you can play in saving the
 environment.</p>
-<p>As Captain Planet says, the&nbsp;<a href="https://www.youtube.com/watch?v=OiYjTb3opAA" class="editor-rtfLink" rel="noopener noreferrer nofollow" target="_blank">power is yours!</a>
-</p>
+<p>As Captain Planet says, the&nbsp;power is yours!</p>

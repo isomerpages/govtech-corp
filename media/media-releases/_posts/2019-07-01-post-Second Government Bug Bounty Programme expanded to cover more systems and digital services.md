@@ -2,7 +2,7 @@
 layout: post
 title: Second Government Bug Bounty Programme expanded to cover more systems and
   digital services
-permalink: /media/media-releases/second-bug-bounty-programme-to-cover-more-systems-and-digital-services/
+permalink: /media/media-releases/second-government-bug-bounty-programme-expanded-to-cover-more-systems-and-digital-services/
 date: 2019-07-01
 description: GovTech and CSA expand second Government Bug Bounty Programme to
   cover more systems and digital services, engaging ethical hackers. 💻🔍

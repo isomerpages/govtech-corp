@@ -17,35 +17,15 @@ on!</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="Gaming our way to healthier lifestyles with tech programs and apps" src="/images/technews/Gaming_our_way_to_healthier_lifestyles.jpg">
 </div>
-<p><em>Photo: Unsplash</em>
-</p>
-<p>Can you believe there have already been seven seasons of the&nbsp;<a href="https://www.tech.gov.sg/media/technews/stepping-up-to-the-healthy-challenge" class="editor-rtfLink" rel="noopener noreferrer nofollow" target="_blank">National Steps Challenge</a>?
-The world’s first population-level fitness tracker-based physical activity
-initiative started in 2015 as a way to get Singaporeans moving. The premise
-is simple: the more steps you take – which is where the fitness tracker
-comes in – the more rewards you earn.</p>
-<p>Its popularity shouldn’t come as a surprise.&nbsp;<a href="https://pubmed.ncbi.nlm.nih.gov/30135818/" class="editor-rtfLink" rel="noopener noreferrer nofollow" target="_blank">Studies</a>&nbsp;have
-shown that gamification can motivate people to start and continue actions
-that benefit their health and well-being.</p>
-<p><strong>Tech programs and apps:</strong>
-</p>
-<ol data-tight="true" class="tight">
-<li>
-<p>Healthy 365 app</p>
-</li>
-<li>
-<p>Lumi Health</p>
-</li>
-<li>
-<p>hiSG</p>
-</li>
-<li>
-<p>MindWorks</p>
-</li>
-</ol>
+<p>Can you believe there have already been seven seasons of the&nbsp;National
+Steps Challenge? The world’s first population-level fitness tracker-based
+physical activity initiative started in 2015 as a way to get Singaporeans
+moving. The premise is simple: the more steps you take – which is where
+the fitness tracker comes in – the more rewards you earn.</p>
+<p>Its popularity shouldn’t come as a surprise.&nbsp;Studies&nbsp;have shown
+that gamification can motivate people to start and continue actions that
+benefit their health and well-being.</p>
 <h3>1. Healthy 365 app</h3><a class="isomer-image-wrapper" href="https://pphtpc.hpb.gov.sg/h365-app/home?a=b/"><img style="width: 100%" height="auto" width="100%" alt="Healthy 365 mobile app to improve overall health and well-being via points system" src="/images/technews/Healthy365_app.jpg"></a>
-<p><em>Screenshot of Healthy 365 app from <a href="https://pphtpc.hpb.gov.sg/h365-app/home?a=b/" rel="noopener noreferrer nofollow" target="_blank">website</a></em>
-</p>
 <p>We would be remiss if we didn’t start by mentioning this app that powers
 the National Steps Challenge. It is where users log their steps, earn points,
 and exchange them for rewards such as grocery vouchers.</p>
@@ -66,14 +46,13 @@ outlets, much like how QR-based cashless payments are done now.</p>
 <p>Over 2,500 food and beverages merchants are expected to join the programme
 and start accepting the credits by end-March 2023.</p>
 <div class="iframe-wrapper">
-<iframe style="max-width: 100%;" height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/5E4REwBNKWs?si=3ROtIipqa17EtxOh"></iframe>
+<iframe style="max-width: 100%;" height="400" width="100%" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/5E4REwBNKWs?si=3ROtIipqa17EtxOh"></iframe>
 </div>
 <h3>2. Lumi Health</h3><a class="isomer-image-wrapper" href="https://www.lumihealth.sg/"><img style="width: 100%" height="auto" width="100%" alt="Lumi Health screenshot from website showing how the app is compatible with IPhone and Apple watch" src="/images/technews/LumiHealth_screenshot.jpg"></a>
-<p><em>Screenshot from Lumi Health <a href="https://www.lumihealth.sg/" rel="noopener noreferrer nofollow" target="_blank">website</a></em>
-</p>
-<p>Lumi Health is a health&nbsp;<a href="https://www.lumihealth.sg/" class="editor-rtfLink" rel="noopener noreferrer nofollow" target="_blank">programme</a>&nbsp;developed
-by HPB together with Apple. Because it rides on many features of the Apple
-Watch, it is open to only users of that particular wearable device.</p>
+<p><a href="https://www.lumihealth.sg/" rel="noopener noreferrer nofollow" target="_blank">LumiHealth</a> is
+a health programme developed by HPB together with Apple. Because it rides
+on many features of the Apple Watch, it is open to only users of that particular
+wearable device.</p>
 <p>The overarching game within the app involves helping a cute animated figure
 by the name of Lu advance in its journey, much like a character in a video
 game. How does Lu move along? It’s powered by LumiPoints that you earn
@@ -97,29 +76,11 @@ their meals in an app.</p>
 as you know by now, can be used to redeem rewards.</p>
 <p>At the end of the two years, participants will get free health insights
 and also get to keep the device, which is a Fitbit Versa 2 smartwatch.</p>
-<p>You can register your interest at this&nbsp;<a href="https://form.gov.sg/#!/5e52b08786290e0013b5e8f1" class="editor-rtfLink" rel="noopener noreferrer nofollow" target="_blank">link</a>,
-and you’ll be informed by the end of 2022 if you’ve been selected to participate.</p>
 <p>Do note that participants need to make a $50 deposit that will be refunded
 for two years upon successfully participating in the study. During the
 24-month period, there are minimum requirements that participants need
 to hit (such as the number of days wearing the device per month). You’ll
 forfeit your $50 deposit should you fail to hit the target.</p>
-<h3>4. MindWorks</h3>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="MindWorks website screenshot, learn how to meditate and clear your mind for mental health" src="/images/technews/MindWorks_screenshot.jpg">
-</div>
-<p><em>Screenshot from MindWorks <a href="https://mindworks.org/about-us/why-mindworks/" rel="noopener noreferrer nofollow" target="_blank">website</a></em>
-</p>
-<p>Being healthy is not just about physical well-being but mental fitness
-as well. The&nbsp;<a href="https://www.straitstimes.com/singapore/brain-training-game-launched-to-boost-seniors-cognitive-health" class="editor-rtfLink" rel="noopener noreferrer nofollow" target="_blank">MindWorks</a>&nbsp;app
-is designed to keep minds nimble through a set of memory-based games. Targeted
-at people above 50, the games test basic matching, counting, and sequencing
-skills, which the app calls brain training activities.</p>
-<p>Developed by researchers from the Centre of Applied Gerontology and Temasek
-Polytechnic students, the app’s creators hope it will improve the cognitive
-ability of seniors, particularly as Singapore faces the issue of an ageing
-population and, therefore, an increase in the number of people living with
-dementia.</p>
 <h3>Gaming for good</h3>
 <p>Anyone who’s ever played a game of Candy Crush knows there’s a mental
 rush whenever a level is cleared, even if it really means nothing in real

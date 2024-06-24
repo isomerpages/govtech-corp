@@ -14,7 +14,7 @@ to foster a diverse and inclusive workplace to support innovation, which
 is better unlocked by the appreciation of varying perspectives and respect
 for different ideas. Part of our organic efforts has been to support women
 in tech, both within GovTech and outside, including girls.</p>
-<p>Last year, we were among more than 50 companies that took part in the&nbsp;
+<p>Last year, we were among more than 50 companies that took part in the
 <a href="https://www.sgwomenintech.sg/our-partnerships/corporate-pledge-stories/" class="editor-rtfLink" rel="noopener noreferrer nofollow" target="_blank">SG Women in Tech Corporate Pledge</a>&nbsp;to signal our commitment to
 creating a conducive environment with a support system to attract, retain
 and develop more women in tech. In particular, we pledged to:</p>
@@ -84,7 +84,7 @@ involved in:</p>
 </p>
 </li>
 <li>
-<p><a href="https://www.sgwomenintech.sg/contact/" class="editor-rtfLink" rel="noopener noreferrer nofollow" target="_blank">SG Women in Tech</a>
+<p><a href="https://www.sgwomenintech.sg/" class="editor-rtfLink" rel="noopener noreferrer nofollow" target="_blank">SG Women in Tech</a>
 </p>
 </li>
 <li>

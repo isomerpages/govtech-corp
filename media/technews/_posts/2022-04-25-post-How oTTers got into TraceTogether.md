@@ -11,13 +11,11 @@ variant: tiptap
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="Otters as inspiration for redesigning the TraceTogether app" src="/images/technews/How_oTTers_got_into_TraceTogether__1_.jpg">
 </div>
-<p>Image by <a href="https://www.freepik.com/free-photo/closeup-shot-cute-otters-zoo_23036089.htm#query=otters&amp;position=24&amp;from_view=search&amp;track=sph&amp;uuid=794c4f47-ba82-486a-b4df-06f8daeedf4b" rel="noopener noreferrer nofollow" target="_blank">wirestock</a> on
-Freepik</p>
 <p>Love otters and how they’ve become part of Singapore’s landscape? So do
 we. So much so that users of the latest version of the TraceTogether app,
 or TT for short, will notice that we’ve incorporated a swimming otter into
 the display after one does SafeEntry through TT.</p>
-<p><em>Editor’s note: We know that Singapore is&nbsp;<a href="https://www.channelnewsasia.com/singapore/covid19-tracetogether-safeentry-step-down-2641231" class="editor-rtfLink" rel="noopener noreferrer nofollow" target="_blank">stepping down on the use of TraceTogether</a>. But hey, we still love otters =]</em>
+<p><em>Editor’s note: We know that Singapore is&nbsp;stepping down on the use of TraceTogether. But hey, we still love otters =]</em>
 </p>
 <p>Needless to say, the little fellow doing its backstroke has been a hit
 with netizens. To find out more about the latest iteration of TT, we speak

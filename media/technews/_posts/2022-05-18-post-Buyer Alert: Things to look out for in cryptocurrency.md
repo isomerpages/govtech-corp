@@ -14,35 +14,10 @@ investors understand what they are buying into when entering the market.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="Computer screen showing the volatile crypto market" src="/images/technews/Buyer_Alert__Things_to_look_out_for_in_cryptocurrency.jpg">
 </div>
-<p>Photo by Behnam Norouzi on Unsplash</p>
 <p>Cryptocurrency is perhaps the most well-known application of blockchain
 technology and was initially touted as a foolproof system.</p>
 <p>However, recent vulnerabilities that have surfaced have reinforced the
 idea that investors should be aware of some potential pitfalls.</p>
-<p><strong>What to look out for in cryptocurrency:</strong>
-</p>
-<ol data-tight="true" class="tight">
-<li>
-<p><a href="https://staging-lite.d2uz1494fahfnj.amplifyapp.com/media/technews/things-to-look-out-for-in-cryptocurrency#1-high-volatility" class="editor-rtfLink" rel="noopener noreferrer nofollow" target="_blank">High volatility</a>
-</p>
-</li>
-<li>
-<p><a href="https://staging-lite.d2uz1494fahfnj.amplifyapp.com/media/technews/things-to-look-out-for-in-cryptocurrency#2-outright-scams" class="editor-rtfLink" rel="noopener noreferrer nofollow" target="_blank">Outright scams</a>
-</p>
-</li>
-<li>
-<p><a href="https://staging-lite.d2uz1494fahfnj.amplifyapp.com/media/technews/things-to-look-out-for-in-cryptocurrency#3-hacked-wallets" class="editor-rtfLink" rel="noopener noreferrer nofollow" target="_blank">Hacked wallets</a>
-</p>
-</li>
-<li>
-<p><a href="https://staging-lite.d2uz1494fahfnj.amplifyapp.com/media/technews/things-to-look-out-for-in-cryptocurrency#4-forgotten-password" class="editor-rtfLink" rel="noopener noreferrer nofollow" target="_blank">Forgotten password</a>
-</p>
-</li>
-<li>
-<p><a href="https://staging-lite.d2uz1494fahfnj.amplifyapp.com/media/technews/things-to-look-out-for-in-cryptocurrency#5-high-potential-high-risk" class="editor-rtfLink" rel="noopener noreferrer nofollow" target="_blank">High potential, high risk</a>
-</p>
-</li>
-</ol>
 <h3>1. High volatility</h3>
 <p>It's been a wild ride even for bitcoin, the most prominent of all cryptocurrencies.
 Just this year alone, it’s reached values of over $80,000 twice, while
@@ -77,9 +52,8 @@ an article titled&nbsp;<a href="https://gizmodo.com/new-squid-game-cryptocurrenc
 pointing out a fake endorsement from Elon Musk and a poorly written white
 paper, among other tell-tale signs.</p>
 <p>Indeed, a few days after the article was published, The coin’s value crashed
-after its creators&nbsp;<a href="https://www.forbes.com/sites/jonathanponciano/2021/11/01/viral-squid-game-cryptocurrency-crashes-100-in-minutes-after-founders-reportedly-run-away-with-25-million/?sh=2ac600504ac2" class="editor-rtfLink" rel="noopener noreferrer nofollow" target="_blank">ran away</a>&nbsp;with
-investor proceeds in what is known as a&nbsp;<a href="https://coinmarketcap.com/alexandria/glossary/rug-pull" class="editor-rtfLink" rel="noopener noreferrer nofollow" target="_blank">“rug pull”.</a>
-</p>
+after its creators&nbsp;ran away&nbsp;with investor proceeds in what is
+known as a&nbsp;“rug pull”.</p>
 <p>Do your research before plunging in. And no, a few articles from reputable
 news outlets don’t guarantee that what you buy is legit.</p>
 <p>Another type of scam is a spin on the classic wire transfer scam, where
@@ -94,13 +68,14 @@ and wallets.</p>
 <p>Bad actors have various ways to steal digital currencies, ranging from
 sophisticated attacks that exploit system vulnerabilities to more “low-tech”
 methods like phishing and stealing passwords.</p>
-<p>For an added layer of security, consider getting what is known as a&nbsp;
-<a href="https://time.com/nextadvisor/investing/cryptocurrency/hot-wallet-vs-cold-wallet/" class="editor-rtfLink" rel="noopener noreferrer nofollow" target="_blank">cold wallet</a>, akin to a thumb drive, which stores your cryptocurrency
-completely offline.</p>
+<p>For an added layer of security, consider getting what is known as a&nbsp;cold
+wallet, akin to a thumb drive, which stores your cryptocurrency completely
+offline.</p>
 <h3>4. Forgotten password</h3>
 <p>Sometimes, you are your worst enemy. Some people have been unable to access
-millions of dollars worth of cryptocurrency because they’ve&nbsp;<a href="https://www.nytimes.com/2021/01/12/technology/bitcoin-passwords-wallets-fortunes.html" class="editor-rtfLink" rel="noopener noreferrer nofollow" target="_blank">forgotten their passwords</a>&nbsp;to
-their digital wallets or lost the piece of paper upon which they were written.</p>
+millions of dollars worth of cryptocurrency because they’ve&nbsp;forgotten
+their passwords&nbsp;to their digital wallets or lost the piece of paper
+upon which they were written.</p>
 <p>It must be a special kind of pain to be so near, yet so far from life-changing
 wealth.</p>
 <p>There’s no perfect solution to this issue. Memorise or have just one copy

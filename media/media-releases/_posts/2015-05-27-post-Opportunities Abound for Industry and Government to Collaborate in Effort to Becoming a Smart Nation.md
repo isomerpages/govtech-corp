@@ -2,7 +2,7 @@
 layout: post
 title: Opportunities Abound for Industry and Government to Collaborate in Effort
   to Becoming a Smart Nation
-permalink: /media/media-releases/opportunities-for-industry-and-government-collaborate-to-become-smart-nation/
+permalink: /media/media-releases/opportunities-abound-for-industry-and-government-to-collaborate-in-effort-to-becoming-a-smart-nation/
 date: 2015-05-27
 description: SG's Smart Nation strategy — investments in Infocomm tech, cloud
   services, data analytics, and cybersecurity to improve service delivery and

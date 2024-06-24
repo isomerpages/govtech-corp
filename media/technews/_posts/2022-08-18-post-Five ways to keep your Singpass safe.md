@@ -19,26 +19,6 @@ as when Two-Factor Authentication (2FA) was introduced in 2015.</p>
 user vigilance is as crucial as the technical and operational safeguards
 put in place. Read on to learn more about these five security tips and
 how you can play an active role in keeping your Singpass secure.</p>
-<p><strong>Five ways to keep your Singpass safe:</strong>
-</p>
-<ol data-tight="true" class="tight">
-<li>
-<p>Don't share your Singpass details with others</p>
-</li>
-<li>
-<p>Don't click on hyperlinks or scan QR codes sent over SMS or WhatsApp by
-"Singpass"</p>
-</li>
-<li>
-<p>Check the Singpass URL domain carefully</p>
-</li>
-<li>
-<p>Don't ignore the alert about an unusual login</p>
-</li>
-<li>
-<p>Only one active Singpass app at a time</p>
-</li>
-</ol>
 <h3>1. Don't share your Singpass details with others</h3>
 <p>Do you know that Singpass can be used to access thousands of government
 and private sector services, and it contains a lot of your personal information?</p>
@@ -69,10 +49,9 @@ well be relying on you to do so after being rejected by the Singpass app.</p>
 and bears the Singpass logo? Think again! Scammers are constantly updating
 their methodologies, and phishing websites can look very similar to real
 websites.</p>
-<p>That’s why you should always check that the URL domain on the Singpass
-website is&nbsp;<em><a href="https://www.tech.gov.sg/media/technews/five-ways-to-keep-your-singpass-safe#1-dont-share-your-singpass-details-with-others" rel="noopener noreferrer nofollow" target="_blank">singpass.gov.sg</a></em>&nbsp;before
-you proceed. This will help to protect you from phishing websites that
-trick you into disclosing your login details.</p>
+<p>That’s why you should always check the URL domain on the Singpass website
+before you proceed. This will help to protect you from phishing websites
+that trick you into disclosing your login details.</p>
 <h3>4. Don’t ignore the alert about an unusual login</h3>
 <p>Singpass will send you an alert when a login is performed on a device
 or Internet browser that you don’t usually use. This is part of the real-time
@@ -80,7 +59,7 @@ fraud analytics deployed to identify suspicious behaviour.</p>
 <p>Don’t ignore the notification! If you did not perform the login, report
 the incident immediately to the Singpass Helpdesk at 6335 3533 (operates
 from 8am to 10pm on Mondays to Fridays, and from 8am to 6pm on Saturdays,
-Sundays and public holidays) or&nbsp;<a href="https://www.tech.gov.sg/media/technews/five-ways-to-keep-your-singpass-safe#1-dont-share-your-singpass-details-with-others" rel="noopener noreferrer nofollow" target="_blank">support@singpass.gov.sg</a>&nbsp;(responds
+Sundays and public holidays) or&nbsp;<a href="mailto:support@singpass.gov.sg" rel="noopener noreferrer nofollow" target="_blank">support@singpass.gov.sg</a>&nbsp;(responds
 in 3 working days) to secure your account.</p>
 <p>Also, remember to update your contact details registered with Singpass
 so that you can receive these transactional and security alerts promptly.</p>
@@ -103,8 +82,4 @@ save yourself a lot of time and grief.</p>
 them that we can all do our part to protect our digital identity and data.
 The more people we can help spread the word to, the more we can keep safe
 from scammers.</p>
-<p>For more information on security measures and tips to protect your Singpass
-account, visit&nbsp;<a href="https://www.tech.gov.sg/media/technews/five-ways-to-keep-your-singpass-safe#1-dont-share-your-singpass-details-with-others" rel="noopener noreferrer nofollow" target="_blank">https://go.gov.sg/even-safer-singpass</a> 
-<a href="https://go.gov.sg/even-safer-singpass" class="editor-rtfLink" rel="noopener noreferrer nofollow" target="_blank">.</a>
-</p>
 <p>Together, we can keep scammers at bay!</p>

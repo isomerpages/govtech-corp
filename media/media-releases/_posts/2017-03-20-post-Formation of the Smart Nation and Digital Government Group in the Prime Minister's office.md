@@ -2,7 +2,7 @@
 layout: post
 title: Formation of the Smart Nation and Digital Government Group in the Prime
   Minister's office
-permalink: /media/media-releases/formation-of-the-smart-nation-and-digital-government-group-in-the-pmo/
+permalink: /media/media-releases/formation-of-the-smart-nation-and-digital-government-group-in-the-prime-minister-office/
 date: 2017-03-20
 description: SNDGG is formed to drive digital transformation and improve public
   services.  It integrates smart technologies, boosting innovation and citizen

@@ -11,7 +11,6 @@ variant: tiptap
 ---
 <p>Hands up if you’ve ever heard of the SIM card. Yes, we see that all of
 you are reaching for the sky.</p>
-<p></p>
 <div class="iframe-wrapper">
 <iframe style="max-width: 100%;" height="400" width="100%" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/G5wANyk3Fv0?si=QaCwZDPGN3ivM60R"></iframe>
 </div>
@@ -28,8 +27,8 @@ of the SIM card, you’ve come to the right place!</p>
 <p>Mobile phones existed before SIM, but not in a way that we’re familiar
 with today. In 1973, the <a href="https://www.theguardian.com/technology/2013/apr/03/mobile-phone-40th-anniversary" rel="noopener noreferrer nofollow" target="_blank">first handheld mobile phone call</a> was
 made with a phone that was dubbed a “brick” because of its heft.</p>
-<p>A decade later, the <a href="https://www.tigermobiles.com/evolution/#zeroPhone" rel="noopener noreferrer nofollow" target="_blank">first commercial mobile phone</a> was
-launched by Motorola, costing US$4,000 for the handset alone!</p>
+<p>A decade later, the first commercial mobile phone was launched by Motorola,
+costing US$4,000 for the handset alone!</p>
 <h3>Evolution of SIM card – smaller yet mightier</h3>
 <p>As its name suggests, a Subscriber Identity Module is used to identify
 and authenticate you, the subscriber. It was developed in 1991 by German
@@ -47,11 +46,10 @@ of your family and friends, as well as SMS messages (remember those?).</p>
 SMS messages and 20 contacts. Remember, this was the early 90s, where you
 had to carry a (paper) notebook and write down phone numbers or memorise
 them, so 20 contacts was life-changing.</p>
-<p>In <a href="https://www.aeris.com/news/post/the-history-of-the-sim-card-where-its-going-and-where-its-been/" rel="noopener noreferrer nofollow" target="_blank">1996</a>,
-the SIM card shrank in size dramatically, becoming known as the mini-SIM.
-About the size of the top portion of your thumb, it usually fitted in a
-nook behind the battery of mobile phones (this was the era when Nokia was
-the top mobile dog and removable batteries were a thing).</p>
+<p>In 1996, the SIM card shrank in size dramatically, becoming known as the
+mini-SIM. About the size of the top portion of your thumb, it usually fitted
+in a nook behind the battery of mobile phones (this was the era when Nokia
+was the top mobile dog and removable batteries were a thing).</p>
 <p>The mini-SIM continued to be the standard for the next decade and a half
 until 2010, when the micro-SIM – about the size of your thumb’s nail –
 took its place. In just two short years, the micro-SIM itself was replaced
@@ -72,7 +70,7 @@ you won’t have to go to each one of them one by one in order to swap out
 SIM cards to change mobile providers.</p>
 <p>The same goes for mobile phones with eSIMs. You can use two different
 lines on the same phone without having to physically pop out one SIM card
-and pop in another. For instance, <a href="https://support.apple.com/en-sg/HT209044" rel="noopener noreferrer nofollow" target="_blank">certain models of the iPhone</a> support
+and pop in another. For instance, certain models of the iPhone support
 two active eSIMs at the same time or one nano-SIM with one eSIM.</p>
 <p>Of course, the downside is that if your mobile device breaks down, you
 can’t just take out your SIM card and slide it into a replacement device.</p>

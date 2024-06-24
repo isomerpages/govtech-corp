@@ -9,15 +9,12 @@ description: 🌐 Bridge the "identity gap" with digital ID! Explore the global
   about SG's journey 🌍
 variant: tiptap
 ---
-<p>This op-ed is written by Kendrick Lee (Director, National Digital Identity,
-Trusted Data Division, Government Technology Agency of Singapore) and Calum
-Handforth (Adviser, UNDP Global Centre for Technology, Innovation, and
-Sustainable Development).</p>
+<p><em>This op-ed is written by Kendrick Lee (Director, National Digital Identity, Trusted Data Division, Government Technology Agency of Singapore) and Calum Handforth (Adviser, UNDP Global Centre for Technology, Innovation, and Sustainable Development).</em>
+</p>
 <p>Read on to see how we can fill the “identity gap”.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%;" height="auto" width="100%" alt="Digital identity from our devices can help us to access digital tools necessary for society today" src="/images/technews/How_digital_could_help_close_the__identity_gap_.jpg">
 </div>
-<p>Photo by Yogesh Rahamatkar on Unsplash</p>
 <p>For those without documents, the world is cut off.</p>
 <p><strong>The problem:</strong>&nbsp;Nearly one billion people around the
 world have no official proof of identity.</p>
@@ -85,7 +82,7 @@ integrate into government digital components. This can be complicated when
 building on top of legacy technology, but also in the context of incomplete
 or non-existent analogue identity systems. Leveraging high-trust services
 or institutions as an ‘exemplar’ can be useful. Singapore’s National Digital
-Identity journey can be traced to the implementation of&nbsp;<a href="https://www.developer.tech.gov.sg/products/categories/digital-identity/singpass/overview.html" class="editor-rtfLink" rel="noopener noreferrer nofollow" target="_blank">Singpass</a>&nbsp;–
+Identity journey can be traced to the implementation of Singpass&nbsp;–
 a foundational digital infrastructure. In extending Singpass to service
 both public and private sectors, this robust foundation enabled a range
 of innovative solutions that facilitate transactions for citizens and businesses
@@ -96,15 +93,15 @@ guarantee the authenticity of this foundational data, is a crucial part
 of the digital ID system. Countries have developed canonical data registries
 – ensuring that all data is genuine, unique, and also able to integrate
 with databases within and beyond the public sector.</p>
-<p>In Singapore’s case, these include (i)&nbsp;<a href="https://www.developer.tech.gov.sg/products/categories/digital-identity/myinfo/overview.html" class="editor-rtfLink" rel="noopener noreferrer nofollow" target="_blank">Myinfo</a>&nbsp;–
-a “Tell Us Once” service that enables citizens or businesses to pre-fill
-and provide data for online transactions across industries; and (ii)&nbsp;
-<a href="https://www.developer.tech.gov.sg/products/categories/digital-identity/sgfindex/overview.html" class="editor-rtfLink" rel="noopener noreferrer nofollow" target="_blank">SGFinDex</a>&nbsp;– a centrally managed consent system that allows individuals
-to access financial information held across financial institutions such
-as banks, insurers, and government agencies. Data quality also needs to
-be futureproofed by building reliable and sustainable digital architectures
-and workflows – particularly in ensuring the uptake and adoption of a digital
-ID and its associated services.</p>
+<p>In Singapore’s case, these include (i)&nbsp;Myinfo&nbsp;– a “Tell Us Once”
+service that enables citizens or businesses to pre-fill and provide data
+for online transactions across industries; and (ii)&nbsp; SGFinDex&nbsp;–
+a centrally managed consent system that allows individuals to access financial
+information held across financial institutions such as banks, insurers,
+and government agencies. Data quality also needs to be futureproofed by
+building reliable and sustainable digital architectures and workflows –
+particularly in ensuring the uptake and adoption of a digital ID and its
+associated services.</p>
 <p><strong>Shape a digital ecosystem:</strong>&nbsp;The usefulness and sustainability
 of digital ID cannot be achieved by the government alone. The private sector
 plays a particularly important role. Digital ID needs to be embedded in
@@ -119,9 +116,8 @@ digital nations, and collaboration with the tech community.</p>
 into Digital Identity MOUs with countries such as Australia, the United
 Kingdom and China (Shenzhen) to explore cross-border recognition. Singapore
 is also focused on mutual learning through international engagement by
-hosting an annual&nbsp;<a href="https://www.tech.gov.sg/media/corporate-publications/digital-government-exchange-reports" class="editor-rtfLink" rel="noopener noreferrer nofollow" target="_blank">G2G DGX Digital Identity Working group</a>,
-and tech community outreach initiatives such as&nbsp;<a href="https://www.developer.tech.gov.sg/communities/stack-x-meetups/overview.html" class="editor-rtfLink" rel="noopener noreferrer nofollow" target="_blank">STACK-X Meetup.</a>
-</p>
+hosting an annual&nbsp;G2G DGX Digital Identity Working group, and tech
+community outreach initiatives such as&nbsp;STACK-X Meetup.</p>
 <h3>Start building now</h3>
 <p>Shaping a digital ID is a marathon, and not a sprint. It must be founded
 on local needs and realities, but governments should also look to learn
@@ -140,5 +136,8 @@ that all can benefit from the potential afforded by digital ID initiatives.
 These efforts are essential, particularly recognising the crucial role
 of digital ID in enabling successful and prosperous lives and livelihoods
 around the world.</p>
-<p><em>The above insights were drawn from a ‘Masterclass’ on Singapore’s Digital ID journey, delivered by Singapore’s GovTech Agency and the UNDP Global Centre for Technology, Innovation, and Sustainable Development. You can watch the full webinar&nbsp;<a href="https://www.youtube.com/watch?v=Xg8iWouMTJA&amp;list=PLVs2bLtIMGhI5A1_tQemmUfcTPGKZ1cUj&amp;index=6&amp;t=38s" class="editor-rtfLink" rel="noopener noreferrer nofollow" target="_blank">here</a></em>.</p>
-<p>A version of this article was originally published on Apolitical.</p>
+<hr>
+<p><em>The above insights were drawn from a ‘Masterclass’ on Singapore’s Digital ID journey, delivered by Singapore’s GovTech Agency and the UNDP Global Centre for Technology, Innovation, and Sustainable Development. </em>
+</p>
+<p><em>A version of this article was originally published on Apolitical.</em>
+</p>

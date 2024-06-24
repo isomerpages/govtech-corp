@@ -2,7 +2,7 @@
 layout: post
 title: Smart Nation and Digital Government Group appoints new CEO of Government
   Technology Agency
-permalink: /media/smart-nation-and-digital-government-group-appoints-new-ceo-of-government-technology-agency/
+permalink: /media/smart-nation-and-digital-government-group-appoints-new-chief-executive-of-government-technology-agency/
 date: 2018-04-09
 description: Mr. Kok Ping Soon will be appointed as CEO of GovTech, succeeding
   Ms. Jacqueline Poh,  using expertise from MOM to strengthen GovTech's digital

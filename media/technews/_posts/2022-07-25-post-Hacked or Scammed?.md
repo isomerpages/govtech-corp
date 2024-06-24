@@ -113,7 +113,4 @@ slip past you.</p>
 <img style="width: 100%" height="auto" width="100%" alt="An alarmed Super Jaga" src="/images/technews/Hacked_or_Scammed___4_.png">
 </div>
 <p>0-2/5 – There should be alarm bells ringing in your head! Your lack of
-awareness of scams and hacks makes you vulnerable to them. Stay safe online
-by reading up more about&nbsp;<a href="https://www.imda.gov.sg/seniorsgodigital/-/media/Seniors-Go-Digital/PDF/pdf4/Staying%20Safe%20Online.pdf" class="editor-rtfLink" rel="noopener noreferrer nofollow" target="_blank">scams</a>&nbsp;and
-other information on preventing&nbsp;<a href="https://www.tech.gov.sg/media/technews/seven-ways-to-protect-your-smartphone-from-hackers" class="editor-rtfLink" rel="noopener noreferrer nofollow" target="_blank">hacks.</a>
-</p>
+awareness of scams and hacks makes you vulnerable to them.</p>

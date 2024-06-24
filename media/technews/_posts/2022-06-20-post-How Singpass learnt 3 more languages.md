@@ -18,8 +18,8 @@ preferred language in the app settings!</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="Three GovTechies from the National Digital Identity team" src="/images/technews/How_Singpass_learnt_3_more_languages__1_.jpeg">
 </div>
-<p>*From L-R: Law Xun Da (Associate Software Engineer), Zheng Yurong (Associate
-UX Designer) and Tay Li Soon (Lead Product Manager)</p>
+<p><em>From L-R: Law Xun Da (Associate Software Engineer), Zheng Yurong (Associate UX Designer) and Tay Li Soon (Lead Product Manager)</em>
+</p>
 <p>To find out what went behind the scenes to deliver the quadrilingual Singpass,
 we caught up with three GovTechies from the National Digital Identity team
 who worked on the translation project: Zheng Yurong, Associate UX Designer;
@@ -62,7 +62,8 @@ in subsequent app releases as part of ongoing efforts to improve app usability.<
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="Singpass user interface in different languages" src="/images/technews/How_Singpass_learnt_3_more_languages__4_.jpeg">
 </div>
-<p>Same Singpass App, different languages!</p>
+<p><em>Same Singpass App, different languages!</em>
+</p>
 <h3>Fresh eyes of the Citizen Translators</h3>
 <p>The input from the Citizen Translators was invaluable as they had the
 benefit of distance from the project and could look at it with fresh eyes,

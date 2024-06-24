@@ -2,7 +2,7 @@
 layout: post
 title: GovTech and UK’s GDS to deepen collaboration in the development of
   Digital Government Services
-permalink: /media/media-releases/govtech-uk-gds-deepen-collaboration-development-digital-government-services/
+permalink: /media/media-releases/govtech-singapore-uk-gds-sign-mou-deepen-collaboration-and-exchange-development-digital-government-services/
 date: 2019-06-14
 description: GovTech Singapore and UK's Government Digital Service to boost
   collaboration, sharing knowledge and best practices for improved digital

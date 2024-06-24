@@ -2,7 +2,7 @@
 layout: post
 title: Introducing CorpPass for Businesses and other Entities to Transact online
   with the Government
-permalink: /media/media-releases/corppass-for-business-and-other-entities-to-transact-online-with-government/
+permalink: /media/media-releases/introducing-corppass-for-businesses-and-other-entities-to-transact-online-with-the-government/
 date: 2016-09-01
 description: CorpPass launches 15 Sep 2016, simplifying business transactions
   with the government. Enjoy enhanced security, and easier access to multiple

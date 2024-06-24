@@ -105,5 +105,3 @@ more valuable experiences that online conferences can’t provide, they added.</
 about the same things that you are excited about. These events create an
 oppotunity for people to get to know one another and eventually to work
 together.” said Microsoft’s Paul Lorimer.</p>
-<p>To catch up on keynotes and panel discussions you may have missed, head&nbsp;
-<a href="https://www.developer.tech.gov.sg/communities/events/conferences/stack-2022-developer-conference/recordings/all-recordings.html" class="editor-rtfLink" rel="noopener noreferrer nofollow" target="_blank">here</a>&nbsp;to check out records of the conference proceedings.</p>

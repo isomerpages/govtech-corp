@@ -38,7 +38,7 @@ white hats. The first two Government BBPs covered 14 government systems
 and involved some 700 cybersecurity researchers and white hats, with a
 total bounty of close to US$38,000 paid out.</p>
 <p>To supplement the BBP, which is time bound and limited to a fixed set
-of systems and services, GovTech launched the <a href="https://www.tech.gov.sg/report_vulnerability" rel="noopener noreferrer nofollow" target="_blank">Vulnerability Disclosure Programme</a> on
+of systems and services, GovTech launched the <a href="https://www.tech.gov.sg/report-vulnerability" rel="noopener noreferrer nofollow" target="_blank">Vulnerability Disclosure Programme</a> on
 1 October 2019 to encourage the public’s responsible reporting of any suspected
 vulnerability found in government Internet-facing web-based and mobile
 applications.</p>

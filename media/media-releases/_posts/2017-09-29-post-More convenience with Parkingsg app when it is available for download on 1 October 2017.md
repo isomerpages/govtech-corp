@@ -2,7 +2,7 @@
 layout: post
 title: More convenience with Parkingsg app when it is available for download on
   1 October 2017
-permalink: /media/media-releases/more-convenience-with-parkingsg-app-when-it-is-available-for-download/
+permalink: /media/media-releases/more-convenience-with-parkingsg-app-when-it-is-available-for-download-on-1-october-2017/
 date: 2017-09-29
 description: Parking.sg app works at 1,100 public car parks via their smartphone
   📱. It calculates charges, offers refunds for early departures, and allows

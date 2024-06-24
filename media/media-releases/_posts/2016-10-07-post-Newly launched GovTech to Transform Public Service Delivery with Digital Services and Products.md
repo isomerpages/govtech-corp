@@ -2,7 +2,7 @@
 layout: post
 title: Newly launched GovTech to Transform Public Service Delivery with Digital
   Services and Products
-permalink: /media/media-releases/govtech-to-transform-public-service-with-digital-services-and-products/
+permalink: /media/media-releases/newly-launched-govtech-to-transform-public-service-delivery-with-citizen-centric-digital-services-and-products/
 date: 2016-10-07
 description: GovTech to lead Singapore's digital transformation! The agency aims
   to enhance government services with data science, AI, and IoT for a smarter

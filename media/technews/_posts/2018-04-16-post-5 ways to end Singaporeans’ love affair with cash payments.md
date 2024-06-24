@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 5 ways to end Singaporeans’ love affair with cash payments
-permalink: /media/technews/5-ways-to-end-singaporeans-love-affair-with-cash-payments/
+permalink: /media/technews/5-ways-to-end-singaporeans'-love-affair-with-cash-payments/
 image: /images/technews/5-ways-to-end-singaporeans'-love-affair-with-cash-payments-part-1.png
 variant: tiptap
 date: 2018-04-16

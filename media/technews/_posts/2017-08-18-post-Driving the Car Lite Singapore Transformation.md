@@ -1,20 +1,21 @@
 ---
 layout: post
-title: Driving the car lite transformation
-permalink: /media/technews/driving-the-car-lite-transformation/
+title: Driving the Car Lite Singapore Transformation
+permalink: /media/technews/driving-the-car-lite-singapore-transformation/
 image: /images/technews/driving-the-car-lite-transformation-part-1.png
 variant: tiptap
 date: 2017-08-18
-description: ""
+description: Can Singapore go car-lite? Discover the innovative steps and
+  challenges in transforming the Little Red Dot into a car-lite society. 🚗✨
 ---
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="driving the car-lite transformation" src="/images/technews/driving-the-car-lite-transformation-part-1.png">
+<img style="width: 100%" height="auto" width="100%" alt="Driving the car-lite Singapore transformation" src="/images/technews/driving-the-car-lite-transformation-part-1.png">
 </div>
 <p>For the Little Red Dot, size matters.</p>
 <p>With a limited land area of just 719 square kilometres, Singapore treats
 land as a critical resource, and efforts to maximise the productivity of
 every square metre are constantly underway.</p>
-<p>Nearly 12 percent of Singapore is covered by roads, rivalling the area
+<p>Nearly 12 per cent of Singapore is covered by roads, rivalling the area
 set aside for housing.</p>
 <p>Roads are the arteries and veins that convey the lifeblood of Singapore’s
 economy — including its people — to and from the heart of the city every
@@ -22,17 +23,33 @@ day.</p>
 <p>With Singapore’s burgeoning population set to hit 6.9 million people by
 2030, the need to balance road transportation against other land functions
 is now more pressing than ever before in the aspiring Smart Nation.</p>
+<h3>What does Car-lite mean?</h3>
+<p>According to an <a href="https://cde.nus.edu.sg/nuscities/how-singapore-can-become-car-lite/" rel="noopener noreferrer nofollow" target="_blank">opinion piece</a> by
+the NUS College of Design and Engineering:&nbsp;</p>
+<blockquote>
+<p>“‘Car-lite’ should not be confused with ‘car-free’. Car-lite means relying
+less on cars, and more on buses, trains, cycles and walking for mobility;
+or even teleworking where possible, while not eliminating car transport
+entirely.”</p>
+</blockquote>
+<p>~ Gopinath Menon, member of the Public Transport Council of Singapore’s
+Ministry of Transport, Studio Leader for NUS Cities’ Liveable Cities course&nbsp;</p>
+<h3>The question is: Can Singapore go Car-lite?</h3>
 <p>To prevent the traffic congestion problems that plagued Singapore in the
 1960s from recurring, urban planners must start thinking about making Singapore
 a ‘car-lite’ society, said Dr Hee Limin, Director of Research at Singapore’s
-<a href="https://www.clc.gov.sg/" rel="noopener noreferrer nofollow" target="_blank">Centre for Liveable Cities.</a>
+<a href="https://www.clc.gov.sg/" rel="noopener noreferrer nofollow" target="_blank"><u>Centre for Liveable Cities.</u>
+</a>
 </p>
 <p>She was giving a keynote address on 19 July during the World Engineers
 Summit 2017.</p>
+<blockquote>
 <p>“It’s very difficult for us to expand our road system, so there is a lot
 of compulsion to think of alternatives to the car-based culture we have
-today,” added Dr Hee.</p>
-<h3>Engineering solutions</h3>
+today.”</p>
+</blockquote>
+<p>~ Dr Hee Limin</p>
+<h3>The Birth of Electronic Road Pricing (ERP)</h3>
 <p>Constraints often breed innovations, and creative solutions to manage
 the volume of cars on Singapore roads came in two waves.</p>
 <p>The first wave was a policy decision to levy a charge on cars entering
@@ -42,14 +59,17 @@ an area licensing scheme to control traffic into its city centre,” explained
 Dr Hee.</p>
 <p>Gantries were manually operated, but as the total number of cars increased
 over the years, this eventually became untenable.</p>
-<p>Hence, the second wave: the electronic road pricing (ERP) system, an engineering
+<p>Hence, the second wave: The electronic road pricing (ERP) system, an engineering
 solution that substituted manpower with technology.</p>
-<p>This consists of two parts: an in-vehicle unit into which car owners insert
-a stored value card, and electronic gantries that deduct funds from the
+<p>This consists of two parts: An in-vehicle unit into which car owners insert
+a stored value card and electronic gantries that deduct funds from the
 card as cars pass under them.</p>
+<blockquote>
 <p>“In 1998 we implemented the first ERP system which makes people pay a
 tax for driving on roads, thus pricing driving to reflect the real costs
-of private car usage,” said Dr Hee.</p>
+of private car usage.”</p>
+</blockquote>
+<p>~ Dr Hee Limin</p>
 <p>Still, the use of physical gantries means that the system becomes unwieldy
 as traffic conditions evolve.</p>
 <p>In anticipation of this, a new system is already in the works.</p>
@@ -58,14 +78,17 @@ that charges for the use of private cars in a more pervasive manner,” Dr
 Hee added.</p>
 <p>A wireless and gantry-free system, ERP 2.0 allows road pricing to be adjusted
 dynamically to ease congestion.</p>
-<h3>Engineering environments</h3>
+<h3>Redesigning Public Infrastructure</h3>
 <p>Convenience and comfort are top considerations when people choose private
 cars over public transport.</p>
 <p>The fundamental design of urban environments can therefore go a long way
 in shaping people’s commuting preferences.</p>
+<blockquote>
 <p>“Our compact, transit-oriented new towns are arranged such that many amenities
-are within walking distance or a bus ride away,” said Dr Hee. Such urban
-planning decisions reduce the use of private cars within neighbourhoods.</p>
+are within walking distance or a bus ride away.”</p>
+</blockquote>
+<p>~ Dr Hee Limin</p>
+<p>Such urban planning decisions reduce the use of private cars within neighbourhoods.</p>
 <p>However, when people travel beyond their neighbourhoods, private cars
 are still preferred because of the first-and-last-mile problem.</p>
 <p>This refers to the hassle of getting from home to the nearest public transit
@@ -74,16 +97,19 @@ network, and (after alighting) from the network to the final destination.</p>
 thunderstorms,” Dr Hee lamented. Private cars will thus remain a more attractive
 option unless there are ample covered walkways and underground and overhead
 linkages, she added.</p>
-<p>Another way to solve the first-and-last mile problem is to promote the
+<p>Another way to solve the first-and-last-mile problem is to promote the
 use of personal mobility devices such as bicycles or scooters. Here, the
 government is working closely with businesses to create an ecosystem where
 the private car feels redundant.</p>
 <p>“We need to foster collaborative partnerships between the public and private
 sectors so that people can benefit from seamless mobility,” said Dr Hee.</p>
+<blockquote>
 <p>“Instead of telling people you can’t drive, it’s better to offer them
 incentives in the form of mobility options.”</p>
-<h3>Engineering mindsets</h3>
-<p>Changes in external factors only go so far to motivate changes in behaviour.</p>
+</blockquote>
+<p>~ Dr Hee Limin</p>
+<h3>Changing Mindsets and the Singapore Car Culture</h3>
+<p>Changes in external factors only go so far as to motivate changes in behaviour.</p>
 <p>For a sustained push towards a car-lite society, a paradigm shift in Singaporeans’
 attitudes and mindsets towards private cars must occur.</p>
 <p>“There is a need to promote the car-lite vision as a lifestyle,” urged
@@ -95,7 +121,11 @@ and streets as public spaces.</p>
 Road and the CBD. Can these become a more permanent feature?” Dr Hee asked.</p>
 <p>Despite the challenges, Dr Hee is hopeful that the next generation of
 Singaporeans will buy into the idea of a car-lite society.</p>
+<blockquote>
 <p>“Millennials no longer harbour thoughts of owning cars as much as people
 did in the past, and today with our technology-rich environment, we have
 many enterprise models that increasingly look at mobility as a business
-opportunity."</p>
+opportunity.”</p>
+</blockquote>
+<p>~ Dr Hee Limin</p>
+<p></p>

@@ -2,7 +2,7 @@
 layout: post
 title: Digital Government Exchange (DGX) Reports
 date: 2022-01-24
-permalink: /media/reports-and-speeches/digital-government-exchange-reports/
+permalink: /media/corporate-publications/digital-government-exchange-reports
 description: DGX is an annual global gathering for Government CIOs and public
   sector leaders. It's a platform for exploring collaboration in digital
   governance.

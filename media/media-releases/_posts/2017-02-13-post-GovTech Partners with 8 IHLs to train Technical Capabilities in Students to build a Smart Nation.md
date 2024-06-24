@@ -2,7 +2,7 @@
 layout: post
 title: GovTech Partners with 8 IHLs to train Technical Capabilities in Students
   to build a Smart Nation
-permalink: /media/media-releases/govtech-partners-with-eight-ihls-to-develop-deep-technical-capabilities/
+permalink: /media/media-releases/govtech-partners-with-eight-institutes-of-higher-learning-to-develop-deep-technical-capabilities/
 date: 2017-02-13
 description: GovTech partners with eight Institutes of Higher Learning to
   develop tech talent in cyber security, data analytics, and more. 💻🎓

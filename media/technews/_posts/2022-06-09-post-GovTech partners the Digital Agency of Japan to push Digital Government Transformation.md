@@ -2,7 +2,7 @@
 layout: post
 title: GovTech partners the Digital Agency of Japan to push Digital Government
   Transformation
-permalink: /media/technews/govtech-partners-the-japan-digital-agency-to-push-digital-government-transformation/
+permalink: /media/technews/govtech-partners-the-digital-agency-of-japan-to-push-digital-government-transformation/
 image: /images/technews/GovTech_partners_the_Digital_Agency_of_Japan_to_push_Digital_Government_Transformation.jpg
 date: 2022-06-09
 description: 🇸🇬🇯🇵 GovTech and Japan's Digital Agency join forces! A signed
