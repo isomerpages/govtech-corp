@@ -12,8 +12,6 @@ variant: tiptap
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="Scams are on the rise and in different forms, always stay vigilant even when on smartphones" src="/images/technews/Top_5_scams_in_Singapore_and_how_to_protect_yourself_from_them__1_.jpg">
 </div>
-<p><em>Credit: Unsplash</em>
-</p>
 <p>Millennials and Zoomers are often referred to as digital natives as they
 are the first generations that grew up having the internet at their fingertips.</p>
 <p>But if you think that being digital natives means being too savvy to fall
@@ -23,27 +21,9 @@ between 20 and 39 years old.</p>
 <p>So it’s time to shake off your complacency, young adults, and learn about
 the common scams out there. Arm yourself with knowledge so that you don’t
 end up losing your hard-earned money!</p>
-<p><strong>Types of Scams:</strong>
-</p>
-<ol data-tight="true" class="tight">
-<li>
-<p>Phishing scams</p>
-</li>
-<li>
-<p>Job scams</p>
-</li>
-<li>
-<p>E-commerce scams</p>
-</li>
-<li>
-<p>Investment scams</p>
-</li>
-<li>
-<p>Fake friend call scams</p>
-</li>
-</ol>
 <h3>1. Phishing scams</h3>
-<h4><strong>How it works:&nbsp;</strong></h4>
+<p><strong>How it works:&nbsp;</strong>
+</p>
 <p>Phishing scams try to trick you into revealing your personal information
 like your login credentials or credit card details.</p>
 <p>In such cases, scammers impersonate trusted organisations – such as banks
@@ -67,17 +47,18 @@ their accounts.</p>
 <p>A total of 790 OCBC customers fell victim to the scam, losing $13.7 million
 altogether. The bank&nbsp;<a href="https://www.todayonline.com/singapore/ocbc-completes-arrangements-fully-reimburse-all-phishing-scam-victims-who-total-790-combined-losses-s137m-1803146" class="editor-rtfLink" rel="noopener noreferrer nofollow" target="_blank">fully reimbursed</a>&nbsp;the
 victims, after acknowledging its customer service and response fell short.</p>
-<h4><strong>How to protect yourself:</strong></h4>
+<p><strong>How to protect yourself:</strong>
+</p>
 <ul data-tight="true" class="tight">
 <li>
 <p>Always verify the app or website you are logging into. Look out for telltale
 signs like misspellings in the URL.</p>
 </li>
 <li>
-<p>Legitimate websites should have the lock symbol or “<a href="https://www.straitstimes.com/singapore/scam-victims-in-s-pore-lost-6607-million-in-2022-almost-13-billion-in-past-two-years" rel="noopener noreferrer nofollow" target="_blank">https://”</a> in
-the address bar. Banks have stopped sending SMSes and emails with links
-to click. If you receive a message full of links purportedly from a bank,
-it’s highly likely to be a scam.</p>
+<p>Legitimate websites should have the <em>https </em>in the address bar.
+Banks have stopped sending SMSes and emails with links to click. If you
+receive a message full of links purportedly from a bank, it’s highly likely
+to be a scam.</p>
 </li>
 <li>
 <p>Scammers can use a method called&nbsp;<a href="https://mothership.sg/2022/01/spoofed-sms-ocbc/" class="editor-rtfLink" rel="noopener noreferrer nofollow" target="_blank">spoofing</a>&nbsp;to
@@ -99,12 +80,13 @@ you from hanging up to call the bank back so you know you’re really talking
 to bank representatives.</p>
 </li>
 <li>
-<p>Refer to the government’s&nbsp;<a href="https://www.gov.sg/trusted-sites" class="editor-rtfLink" rel="noopener noreferrer nofollow" target="_blank">list of trusted sites</a>&nbsp;when
+<p>Refer to the Government’s&nbsp;<a href="https://www.gov.sg/trusted-sites" class="editor-rtfLink" rel="noopener noreferrer nofollow" target="_blank">list of trusted sites</a>&nbsp;when
 logging in to access government services.</p>
 </li>
 </ul>
 <h3>2. Job scams</h3>
-<h4><strong>How it works:&nbsp;</strong></h4>
+<p><strong>How it works:&nbsp;</strong>
+</p>
 <p>Scammers reach out to would-be victims on popular messaging apps such
 as Telegram and WhatsApp, offering simple work that can be done from home
 for easy money.</p>
@@ -132,7 +114,8 @@ messaging platforms.</p>
 with the bogus rationale of stimulating the crypto market.</p>
 <p>In the end, the victims end up shelling out money but not receiving the
 promised returns.</p>
-<h4><strong>How to protect yourself:</strong></h4>
+<p><strong>How to protect yourself:</strong>
+</p>
 <ul data-tight="true" class="tight">
 <li>
 <p>Dubious claims of easy money should not be trusted.</p>
@@ -155,7 +138,8 @@ trying to lull victims into a false sense of security.</p>
 </li>
 </ul>
 <h3>3. E-commerce scams</h3>
-<h4><strong>How it works:</strong></h4>
+<p><strong>How it works:</strong>
+</p>
 <p>With online shopping becoming ever more popular, e-commerce scams are
 also proliferating. Scammers post listings of products for sale on shopping
 platforms or advertisements on social media, with eye-catching discounts
@@ -181,7 +165,8 @@ the phone directly. After ending the call, the victim tried but failed
 to delete the app, and eventually gave up and went to sleep.</p>
 <p>The next morning, he discovered that his CPF savings had been transferred
 to his bank account and then transferred out.</p>
-<h4><strong>How to protect yourself:</strong></h4>
+<p><strong>How to protect yourself:</strong>
+</p>
 <ul data-tight="true" class="tight">
 <li>
 <p>Once again, don’t be tempted by rock-bottom prices. Ask yourself, how
@@ -197,9 +182,9 @@ sellers, official brand stores, and comb through the reviews carefully.</p>
 steps to confirm your purchase.</p>
 </li>
 <li>
-<p>If you suspect there’s malware on your device, turn on&nbsp;<a href="https://www.csa.gov.sg/alerts-advisories/Advisories/2021/ad-2021-008#:~:text=If%20you%20suspect%20that%20your,the%20device%2C%20uninstall%20them%20immediately." class="editor-rtfLink" rel="noopener noreferrer nofollow" target="_blank">flight mode immediately</a>&nbsp;to
-disable any malicious connections. Perform an anti-virus/anti-malware scan.
-Do a factory reset to be sure.</p>
+<p>If you suspect there’s malware on your device, turn on&nbsp;flight mode
+immediately&nbsp;to disable any malicious connections. Perform an anti-virus/anti-malware
+scan. Do a factory reset to be sure.</p>
 </li>
 <li>
 <p>Unfortunately, Android phones are more susceptible to malware attacks
@@ -211,7 +196,8 @@ on their devices.</p>
 </li>
 </ul>
 <h3>4. Investment Scams</h3>
-<h4><strong>How it works:</strong></h4>
+<p><strong>How it works:</strong>
+</p>
 <p>These are get-rich-quick schemes promising high returns for investments
 in anything from cryptocurrency, overseas real estate, and even&nbsp;
 <a href="https://www.thestar.com.my/news/nation/2018/12/07/more-than-100-victims-scammed-over-fake-musang-king-investment-plan/" class="editor-rtfLink" rel="noopener noreferrer nofollow" target="_blank">durians.</a>
@@ -224,21 +210,19 @@ claims that the victims need to cough up more money (in the guise of a
 handling/admin fee) before they can withdraw their investment. In reality,
 this is just yet another trick to string victims along and milk them for
 as long as possible.</p>
-<p>Investment scam victims lost&nbsp;<a href="https://www.straitstimes.com/singapore/scam-victims-in-s-pore-lost-6607-million-in-2022-almost-13-billion-in-past-two-years#:~:text=In%202022%2C%20victims%20of%20investment%20scams%20lost%20%24198.3%20million%20%E2%80%93%20the%20highest%20amount%20lost%20among%20all%20scam%20types.%20This%20was%20more%20than%20the%20%24190.2%20million%20lost%20to%20scammers%20in%202021." class="editor-rtfLink" rel="noopener noreferrer nofollow" target="_blank">$198.3 million in 2022</a>&nbsp;–
-the highest amount lost among all scam types.</p>
 <p><strong>Example – Investment scam using prominent economist’s name</strong>
 </p>
-<p>Fraudsters&nbsp;<a href="https://www.straitstimes.com/singapore/scam-victims-in-s-pore-lost-6607-million-in-2022-almost-13-billion-in-past-two-years#:~:text=In%202022%2C%20victims%20of%20investment%20scams%20lost%20%24198.3%20million%20%E2%80%93%20the%20highest%20amount%20lost%20among%20all%20scam%20types.%20This%20was%20more%20than%20the%20%24190.2%20million%20lost%20to%20scammers%20in%202021." class="editor-rtfLink" rel="noopener noreferrer nofollow" target="_blank">impersonated</a>&nbsp;well-known
-economist Tan Khee Giap and set up social media accounts and WhatsApp groups.
-In these channels, the bogus Dr Tan would give investment tips on gold,
-futures and foreign currencies.</p>
+<p>Fraudsters&nbsp;impersonated&nbsp;well-known economist Tan Khee Giap and
+set up social media accounts and WhatsApp groups. In these channels, the
+bogus Dr Tan would give investment tips on gold, futures and foreign currencies.</p>
 <p>The scammers would also instruct members to go to a website that they
 claimed was an online investment platform. One victim invested nearly $25,000
 over three weeks and supposedly doubled her money. But when she tried to
 do a partial withdrawal, she was rejected by the system. She was then told
 she had to pay a “handling fee” of 10 per cent, or $2,477. After she transferred
 the money, the scammers became uncontactable.</p>
-<h4><strong>How to protect yourself:</strong></h4>
+<p><strong>How to protect yourself:</strong>
+</p>
 <ul data-tight="true" class="tight">
 <li>
 <p>Check with official sources and do investments only with licensed financial
@@ -256,7 +240,8 @@ official sources.</p>
 </li>
 </ul>
 <h3>5. Fake friend call scams</h3>
-<h4><strong>How it works:</strong>&nbsp;</h4>
+<p><strong>How it works:&nbsp;</strong>
+</p>
 <p>Getting a call from a friend you haven’t heard from in a while is always
 nice, provided that friend is indeed your friend. Scammers are calling
 unsuspecting victims, claiming to be their friend and asking questions
@@ -284,7 +269,8 @@ victim to phishing sites or download malware to the victim’s phone, enabling
 the scammer to gain control of the device.</p>
 <p>More than 3,700 people fell prey to such scams and lost at least $12 million
 in the first half of 2023.</p>
-<h4><strong>How to protect yourself:</strong></h4>
+<p><strong>How to protect yourself:</strong>
+</p>
 <ul data-tight="true" class="tight">
 <li>
 <p>Be sceptical of people contacting you out of the blue, claiming to be
@@ -307,5 +293,6 @@ than in 2021. And this problem will only grow as our lives become increasingly
 digital, creating more opportunities for scammers to strike.</p>
 <p>That is why it’s imperative we do our part as individuals to educate ourselves,
 watch out for one another, and report suspicious activity.</p>
-<h3>Remember, If something even feels a whiff strange, don’t proceed. If it’s too good to be true, it probably isn’t.</h3>
+<p>Remember, If something even feels a whiff strange, don’t proceed. If it’s
+too good to be true, it probably isn’t.</p>
 <p></p>
