@@ -83,7 +83,6 @@ The time and effort Michael has invested into providing me with such an
 insightful and meaningful mentorship experience has inspired me and helped
 me to grow my technical and non-technical skill sets.</p>
 <h3>Any words of encouragement for girls to pursue their interest in tech?</h3>
-<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="Yong En receiving a certificate of participation in the Girls in Tech Summer Mentorship Programme" src="/images/technews/Empowering_girls_4.jpg">
 </div>
