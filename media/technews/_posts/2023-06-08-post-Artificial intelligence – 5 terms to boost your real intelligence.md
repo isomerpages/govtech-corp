@@ -12,8 +12,6 @@ variant: tiptap
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="Artificial intelligence – 5 terms to boost your real intelligence" src="/images/technews/Artificial_intelligence___5_terms_to_boost_your_real_intelligence.jpg">
 </div>
-<p>Photo Credit:&nbsp;<a href="http://unsplash.com" rel="noopener noreferrer nofollow" target="_blank">unsplash.com</a>
-</p>
 <p>Artificial intelligence, or AI for short, has been all the rage in recent
 times. A few years ago, self-driving cars showed great promise and there
 were predictions that automated cars would become the norm very soon and
@@ -27,25 +25,6 @@ write essays that could pass off as the work of a real-life person.</p>
 some relevant terms so that you can follow along during conversations.
 Perhaps you’ll even get good enough to drop in a few phrases at the right
 moments. We’ll even throw in some examples of AI right here in Singapore!</p>
-<p><strong>5 terms to boost intelligence:</strong>
-</p>
-<ol data-tight="true" class="tight">
-<li>
-<p>Machine learning</p>
-</li>
-<li>
-<p>Neural networks and deep learning</p>
-</li>
-<li>
-<p>Generative AI</p>
-</li>
-<li>
-<p>Natural language processing</p>
-</li>
-<li>
-<p>VICA - Virtual Intelligent Chat Assistant</p>
-</li>
-</ol>
 <h3>1. Machine learning</h3>
 <p>As its name suggests,&nbsp;<a href="https://mitsloan.mit.edu/ideas-made-to-matter/machine-learning-explained" class="editor-rtfLink" rel="noopener noreferrer nofollow" target="_blank">machine learning</a>&nbsp;is
 all about enabling a machine to learn and is what is driving the gigantic
@@ -109,7 +88,7 @@ chatbots.</p>
 <p>If you have visited government websites, you would probably remember Ask
 Jamie – GovTech’s virtual assistant, which was rolled out in 2014. That
 said, her days are numbered.</p>
-<p>Jamie’s replacement,&nbsp;<a href="https://www.tech.gov.sg/products-and-services/vica/" class="editor-rtfLink" rel="noopener noreferrer nofollow" target="_blank">VICA</a>&nbsp;,
+<p>Jamie’s replacement,&nbsp;<a href="/products-and-services/for-government-agencies/productivity-and-marketing/vica/" class="editor-rtfLink" rel="noopener noreferrer nofollow" target="_blank">VICA</a>,
 is already out answering citizens’ queries in the wild. Armed with next-generation
 NLP, it’s already powering the chatbots on multiple government websites.</p>
 <p>At the time of publication, VICA was in operation for IRAS (Ask IRAS),
@@ -129,5 +108,5 @@ human and artificial intelligence harmoniously coexist, opening doors to
 remarkable achievements.</p>
 <p>As Alan Turing wisely said, "We can only see a short distance ahead, but
 we can see plenty there that needs to be done."</p>
-<h3>Let's embark on this transformative journey with resilience and optimism.</h3>
+<p>Let's embark on this transformative journey with resilience and optimism.</p>
 <p></p>
