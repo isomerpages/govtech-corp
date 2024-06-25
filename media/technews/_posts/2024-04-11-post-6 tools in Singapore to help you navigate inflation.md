@@ -11,22 +11,6 @@ variant: tiptap
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="Start saving these government-developed apps to better manage inflation in Singapore" src="/images/technews/money_budgeting__2__compressed.jpg">
 </div>
-<p><strong>Table of contents:</strong>
-</p>
-<ul data-tight="true" class="tight">
-<li>
-<p>SGFinDex</p>
-</li>
-<li>
-<p>BudgetMealGoWhere</p>
-</li>
-<li>
-<p>Price Kaki</p>
-</li>
-<li>
-<p>LumiHealth, ActiveSG, Healthy365</p>
-</li>
-</ul>
 <p>According to a <a href="https://www.scmp.com/news/asia/southeast-asia/article/3238332/singapores-soaring-cost-living-salaries-top-residents-concerns-survey" rel="noopener noreferrer nofollow" target="_blank"><u>survey</u></a> conducted
 in October 2023, the cost of living is Singaporeans’ top concern. Indeed,
 the government has been watching the issue closely and introducing <a href="https://www.channelnewsasia.com/singapore/cash-payouts-cdc-vouchers-singaporeans-cost-living-water-prices-3804691" rel="noopener noreferrer nofollow" target="_blank"><u>support measures</u></a> to
@@ -43,7 +27,7 @@ inflation!</p>
 can spend.</p>
 <p>But keeping track of all your financial accounts can be quite a handful
 when you have multiple savings accounts and investments.</p>
-<p>Thankfully, the <a href="https://www.mas.gov.sg/development/fintech/sgfindex" rel="noopener noreferrer nofollow" target="_blank"><u>SGFinDex</u></a>,
+<p>Thankfully, the <a href="/products-and-services/for-citizens/digital-services/sgfindex/" rel="noopener noreferrer nofollow" target="_blank"><u>SGFinDex</u></a>,
 short for Singapore Financial Data Exchange, simplifies matters by consolidating
 your personal financial information under one view. This includes deposits,
 credit cards, car and home loans, insurance details and investments from
@@ -53,7 +37,7 @@ in Singapore, as well as the SGX Central Depository.</p>
 financial health, freeing up more time to plan your finances.</p>
 <h3>Cheap coffee shop meals – BudgetMealGoWhere</h3>
 <p>If you love to eat out, but lament that meals are getting pricier, then
-<a href="https://www.tech.gov.sg/media/media-releases/2023-05-19-new-portal-to-help-residents-find-budget-meals-in-the-heartlands" rel="noopener noreferrer nofollow" target="_blank"><u>BudgetMealGoWhere</u> 
+<a href="https://www.gowhere.gov.sg/budgetmeal/" rel="noopener noreferrer nofollow" target="_blank"><u>BudgetMealGoWhere</u> 
 </a>is just the site for you.</p>
 <p>Developed jointly by GovTech and HDB, the portal helps residents locate
 coffee shops offering affordable meals easily. Simply visit the site, enter
