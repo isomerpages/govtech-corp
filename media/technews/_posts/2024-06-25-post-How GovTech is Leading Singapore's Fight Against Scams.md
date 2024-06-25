@@ -9,3 +9,9 @@ description: Discover how GovTech is leading the fight against scams in
 image: /images/technews/GT_fight_against_scams_2.jpg
 variant: tiptap
 ---
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="How GovTech is leading Singapore's fight against scams" src="/images/technews/GT_fight_against_scams_2.jpg">
+</div>
+<p>
+<br>
+</p>
