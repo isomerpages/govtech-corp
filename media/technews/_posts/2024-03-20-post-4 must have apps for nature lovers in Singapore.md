@@ -61,7 +61,7 @@ it to SGBioAtlas app and enhance this biodiversity repository. And don’t
 worry if you don’t know the name of the critter you saw. The cataloguing
 can be done on your behalf after experts have had the time to look at your
 photo contribution.</p>
-<p>Learn about SGBioAtlas&nbsp;<a href="https://biome.nparks.gov.sg/" class="editor-rtfLink" rel="noopener noreferrer nofollow" target="_blank">here</a>.</p>
+<p>Learn about <a href="https://biome.nparks.gov.sg/" rel="noopener noreferrer nofollow" target="_blank">SGBioAtlas</a>.</p>
 <h3>3. Bring nature nearer with NParks Explore A Route</h3>
 <p>The NParks Explore A Route, or NEAR app, is another map platform. This
 one is, however, dedicated to park connectors and trails all over the island.</p>
@@ -74,7 +74,8 @@ trails, sharing them through the self-mapping feature “Phyll My Trail”.
 It even allows you to mark out gorgeous sights and interesting information
 that you spot along the way.</p>
 <p>If you can’t access the app, you can still access information on the park
-connector networks and trails on NParks’&nbsp;<a href="https://pcn.nparks.gov.sg/aboutrecreationalconnectivity/" class="editor-rtfLink" rel="noopener noreferrer nofollow" target="_blank">website.</a>
+connector networks and trails on <a href="https://pcn.nparks.gov.sg/aboutrecreationalconnectivity/" rel="noopener noreferrer nofollow" target="_blank">NParks’&nbsp;</a>
+<a href="https://pcn.nparks.gov.sg/aboutrecreationalconnectivity/" class="editor-rtfLink" rel="noopener noreferrer nofollow" target="_blank">website.</a>
 </p>
 <h3>4. Be prepared for the weather with myENV</h3>
 <p>Going out to experience nature means leaving the comfort of the indoors
@@ -85,8 +86,8 @@ be a useful companion to download on your phone!</p>
 weather, but of course, it’s more than that. The app also gives you information
 about dengue hot spots, air quality, water levels, floods, food hygiene,
 and where to recycle your waste.</p>
-<p>Download myEnv&nbsp;<a href="https://www.smartnation.gov.sg/initiatives/urban-living/myenv-app/" class="editor-rtfLink" rel="noopener noreferrer nofollow" target="_blank">here.</a>
-</p>
+<p>Download myENV on <a href="https://play.google.com/store/apps/details?id=sg.gov.nea&amp;amp;pli=1" rel="noopener noreferrer nofollow" target="_blank">Google Play</a> or
+the <a href="https://apps.apple.com/sg/app/myenv/id444435182" rel="noopener noreferrer nofollow" target="_blank">App Store</a>.</p>
 <h3>Embrace the great outdoors</h3>
 <p>Yes, there is a certain irony in using tech to encourage us to embrace
 the great outdoors. But hey, who said tech is just about staying in air-con
