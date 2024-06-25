@@ -12,7 +12,6 @@ variant: tiptap
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="5 ways to get smarter about AI in Singapore" src="/images/technews/5_free_ways_you_can_get_smarter_about_AI_compressed.jpg">
 </div>
-<p></p>
 <p>In this year’s budget, PM Lawrence Wong described Artificial Intelligence
 (AI) not just as ChatGPT or Large Language Models, but rather as a key
 technology of the future – comparing it to technological breakthroughs
@@ -24,25 +23,7 @@ due to AI.</p>
 <p>So if you’re feeling anxious about AI, harness that energy and learn about
 how the tech works and what it can do for you. After all, you don’t fear
 what you understand.</p>
-<p><strong>Here are some tips to empower yourself with AI knowledge:</strong>
-</p>
-<ol data-tight="true" class="tight">
-<li>
-<p>Don't knock it till you've tried it</p>
-</li>
-<li>
-<p>Read up on how AI actually works</p>
-</li>
-<li>
-<p>Discover how AI projects are pulled off</p>
-</li>
-<li>
-<p>Join communities with an interest in AI and tech</p>
-</li>
-<li>
-<p>Get certified in AI</p>
-</li>
-</ol>
+<p>Here are some tips to empower yourself with AI knowledge:</p>
 <h3>1. Don’t knock it till you’ve tried it</h3>
 <p>It’s been more than a year since generative AI took the world by storm,
 so if you still haven’t tried it yet, it’s time to come up from whatever
@@ -56,15 +37,13 @@ to go with your work presentation, this gets you to start seeing AI as
 a tool you can use, instead of an amorphous, malignant force.</p>
 <p>If you have difficulty getting exactly what you want or even something
 close to it, you’ll know why <a href="https://www.ibm.com/topics/prompt-engineering" rel="noopener noreferrer nofollow" target="_blank"><u>prompt engineering</u></a> is
-such a buzz phrase now. Getting good at getting <a href="https://www.nytimes.com/2023/05/25/technology/ai-chatbot-chatgpt-prompts.html" rel="noopener noreferrer nofollow" target="_blank"><u>good results from AI</u></a> is
+such a buzz phrase now. Getting good at getting good results from AI is
 a sought-after skill nowadays, so you’re already getting future-ready!</p>
 <p>And if you’ve heard of <a href="https://apnews.com/article/artificial-intelligence-hallucination-chatbots-chatgpt-falsehoods-ac4672c5b06e6f91050aa46ee731bcf4" rel="noopener noreferrer nofollow" target="_blank"><u>AI hallucinating</u></a> and
 making things up, why not try it out yourself and see if you can break
 the chatbot you’re using? At the very least, you’ll quickly learn about
 the limitations of the chatbot you’re using when it starts giving ever
-less useful replies. And hopefully, you also realise you need to double-check
-information from chatbots and not end up like a <a href="https://www.nytimes.com/2023/06/08/nyregion/lawyer-chatgpt-sanctions.html" rel="noopener noreferrer nofollow" target="_blank"><u>certain lawyer</u></a> who
-cited legal cases that turned out to be entirely fabricated by a chatbot.</p>
+less useful replies.</p>
 <h3>2. Read up on how AI actually works</h3>
 <p>Now that you’ve tried your hand at generative AI tools, it’s time to gain
 some understanding of what’s going on under the hood.</p>
