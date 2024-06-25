@@ -20,22 +20,6 @@ step by getting you beyond the concrete jungle we live in and appreciating
 what we’re trying to protect — the beauty of nature.</p>
 <p>We have four apps that will enhance your outdoor experience and boost
 your knowledge about Singapore’s greenery.</p>
-<p><strong>4 Apps for the Great Outdoors!</strong>
-</p>
-<ol data-tight="true" class="tight">
-<li>
-<p>Learn about the green giants around you with TreesSG</p>
-</li>
-<li>
-<p>See what lives near you with SGBioAtlas</p>
-</li>
-<li>
-<p>Bring nature nearer with NParks Explore A Route</p>
-</li>
-<li>
-<p>Be prepared for the weather with myENV</p>
-</li>
-</ol>
 <h3>1. Learn about the green giants around you with TreesSG</h3>
 <p>Singapore is a garden city replete with trees, shrubs, and all manners
 of plants throughout its urban landscape. And while trees may look very
@@ -57,13 +41,11 @@ to your favourite tree.</p>
 will let you discover local trees and biodiversity. For instance, the&nbsp;
 <a href="https://www.nparks.gov.sg/~/media/nparks-real-content/gardens-parks-and-nature/diy-walk/diy-walk-pdf-files/civic-district-tree-trail.pdf" class="editor-rtfLink" rel="noopener noreferrer nofollow" target="_blank">Civic District tree trail</a>&nbsp;introduces you to some of the oldest
 trees in Singapore while also revealing their place in the country’s history.</p>
-<p>As for those with young children below the age of three, you can check
-this&nbsp;<a href="https://www.nparks.gov.sg/treessg/one-million-trees-movement/familytrees" class="editor-rtfLink" rel="noopener noreferrer nofollow" target="_blank">linked page</a>&nbsp;to
-look out for opportunities to commemorate your child’s birth by planting
-a tree. The tree will grow along with your little one, and wouldn’t it
-be cool to look back one day to see how far both of them have come?</p>
-<p>Learn about the TreesSG&nbsp;<a href="https://www.nparks.gov.sg/treessg" class="editor-rtfLink" rel="noopener noreferrer nofollow" target="_blank">here.</a>
-</p>
+<p>As for those with young children below the age of three, you can look
+out for opportunities to commemorate your child’s birth by <a href="https://www.nparks.gov.sg/treessg/one-million-trees-movement/familytrees" rel="noopener noreferrer nofollow" target="_blank">planting a tree</a>.
+The tree will grow along with your little one, and wouldn’t it be cool
+to look back one day to see how far both of them have come?</p>
+<p>Learn about the <a href="/products-and-services/for-citizens/environment/treessg/" rel="noopener noreferrer nofollow" target="_blank">TreesSG</a>.</p>
 <h3>2. See what lives near you with SGBioAtlas</h3>
 <p>As a tropical island, Singapore is home to a treasure trove of biodiversity.
 SGBioAtlas relies on crowdsourcing to map the distribution of flora and
