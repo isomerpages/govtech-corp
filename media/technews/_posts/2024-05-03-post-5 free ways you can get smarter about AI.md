@@ -49,13 +49,12 @@ less useful replies.</p>
 some understanding of what’s going on under the hood.</p>
 <p>Yes, AI researchers are typically PhD holders, but there are many good
 articles such as this one that explain AI using plain English. You’ll not
-only gain an overall understanding of AI but also other terms such as
-<a href="https://www.youtube.com/watch?v=Gv9_4yMHFhI&amp;list=PLblh5JKOoLUICTaGLRoHQDuF_7q2GfuJF" rel="noopener noreferrer nofollow" target="_blank"><u>machine learning</u> 
-</a>and <a href="https://www.ibm.com/topics/natural-language-processing" rel="noopener noreferrer nofollow" target="_blank"><u>natural language processing</u></a>,
-concepts that are critical to the inner workings of chatbots.</p>
+only gain an overall understanding of AI but also other terms such as machine
+learning and natural language processing, concepts that are critical to
+the inner workings of chatbots.</p>
 <p>Be sure to sign up for updates from the links above so that you regularly
 read about the latest developments and trends in AI. If you’re reading
-this, you probably already know that GovTech’s very own <a href="https://www.tech.gov.sg/media/technews/" rel="noopener noreferrer nofollow" target="_blank"><u>TechNews</u></a> page
+this, you probably already know that GovTech’s very own <a href="/media/technews/" rel="noopener noreferrer nofollow" target="_blank"><u>TechNews</u></a> page
 is a handy source of informative articles on AI and all things tech! And
 of course, along the way, you’ll discover other useful resources of your
 own.</p>
@@ -67,9 +66,6 @@ stages and processes involved.</p>
 <p>For instance, you can check out TechNews’ articles on using AI to <a href="/media/technews/clearing-the-air-using-tech-to-keep-our-environment-smoke-free/" rel="noopener noreferrer nofollow" target="_blank"><u>detect smoking</u></a> at
 public parks, or how AI can <a href="/media/technews/how-ai-and-a-camera-phone-help-keep-food-on-our-tables/" rel="noopener noreferrer nofollow" target="_blank"><u>identify healthy fish feed</u></a> for
 farming.</p>
-<p>There is also the <a href="https://medium.com/dsaid-govtech" rel="noopener noreferrer nofollow" target="_blank"><u>Medium page</u></a> of the Data
-Science and Artificial Intelligence Division, which dives deeper into topics
-like <a href="https://medium.com/dsaid-govtech/productionising-large-language-models-in-government-0fbf3909311b" rel="noopener noreferrer nofollow" target="_blank"><u>large language models</u></a>.</p>
 <p>Besides GovTech pages, other organisations also share outlines of how
 they use AI in their daily operations, such as <a href="https://open.nytimes.com/how-the-new-york-times-uses-machine-learning-to-make-its-paywall-smarter-e5771d5f46f8" rel="noopener noreferrer nofollow" target="_blank"><u>improving paywalls</u></a>.
 These articles are also typically written with a mix of technical and everyday
@@ -81,7 +77,7 @@ each other to stay the course when we were kids? Being part of communities
 that are interested in tech and AI provides the same benefits.</p>
 <p>For instance, DataScience SG frequently posts about the latest AI developments
 and engaging discussions on various related topics. You can also check
-out GovTech’s community of tech experts, <a href="https://www.developer.tech.gov.sg/communities/stack-x-meetups/overview.html" rel="noopener noreferrer nofollow" target="_blank"><u>STACK</u></a>,
+out GovTech’s community of tech experts, <a href="/our-communities/join-our-communities/stack-community/" rel="noopener noreferrer nofollow" target="_blank"><u>STACK</u></a>,
 to expand your network. Such communities also have information about industry
 talks, workshops, and events that will sustain your interest and expand
 your horizons.</p>
@@ -98,10 +94,10 @@ scheme with a two-month AI-engineering learning phase followed by seven
 to 10 months of on-the-job training. Those who complete the programme are
 then ready to become AI professionals.</p>
 <h3>Tech just keeps rolling on</h3>
-<p>OpenAI announced its <a href="https://openai.com/sora" rel="noopener noreferrer nofollow" target="_blank"><u>latest product</u></a> in mid-February,
-an AI model that can generate cinema-quality video from text prompts. Given
-the speed at which AI is advancing, there’s no telling which aspect of
-life and work it will touch next.</p>
+<p>OpenAI announced its <a href="https://openai.com/sora" rel="noopener noreferrer nofollow" target="_blank"><u>latest product called Sora</u></a> in
+mid-February, an AI model that can generate cinema-quality video from text
+prompts. Given the speed at which AI is advancing, there’s no telling which
+aspect of life and work it will touch next.</p>
 <p>Will AI wipe out jobs on a massive scale? The jury is still out on this
 one (although our AI overlords may read this in the not-so-distant future
 and laugh at the naivety of humanity).</p>
