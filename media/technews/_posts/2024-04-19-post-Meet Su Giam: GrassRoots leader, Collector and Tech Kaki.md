@@ -12,7 +12,6 @@ variant: tiptap
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="Su Giam: GrassRoots leader, Collector and Tech Kaki" src="/images/technews/su_giam_technews.jpg">
 </div>
-<p></p>
 <p>In late 2016, GovTech set up <a href="/our-communities/join-our-communities/tech-kaki/" rel="noopener noreferrer nofollow" target="_blank"><u>Tech Kaki</u></a>,
 a citizen community,​​ ​to encourage participation and collect user feedback
 in the development of government digital products and services (think LifeSG,
@@ -59,7 +58,7 @@ like me.</p>
 developments too! Recently, my volunteer work with the Smart Nation Builder
 in June 2023 allowed me to interact directly with the public and encourage
 seniors to provide feedback on apps like LifeSG and explore the use of
-AI for detecting early dementia via <a href="https://www.smartnation.gov.sg/initiatives/health/project-pensieve/" rel="noopener noreferrer nofollow" target="_blank"><u>Project Pensieve</u></a>.</p>
+AI for detecting early dementia via <a href="https://www.smartnation.gov.sg/initiatives/project-pensieve/" rel="noopener noreferrer nofollow" target="_blank"><u>Project Pensieve</u></a>.</p>
 <h3>What do you enjoy most about being part of the Tech Kaki community?</h3>
 <p>As a community member of Tech Kaki, I’ve enjoyed working together with
 the product and research teams to improve apps from a user’s perspective
@@ -116,9 +115,8 @@ consider this an open jio to join Tech Kaki. Your input will help shape
 our digital services and solutions from the ground up. As a member, you’ll
 get early access to our tech products and can influence their development
 with just a few minutes of your time through simple surveys.</p>
-<p>Ready to make a difference with just a few clicks? Join us now and help
-shape the future of tech in Singapore!</p>
-<p>Sign up <a href="http://eepurl.com/hsr131" rel="noopener noreferrer nofollow" target="_blank"><u>here</u></a>!</p>
+<p>Ready to make a difference with just a few clicks? <a href="http://eepurl.com/hsr131" rel="noopener noreferrer nofollow" target="_blank">Join Tech Kaki</a> now and help shape the
+future of tech in Singapore!</p>
 <p></p>
 <div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="http://eepurl.com/cUwIsD" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Subscribe to the TechNews email newsletter" src="/images/CTA card images/TechNews_CTA_image.jpg"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Subscribe to the TechNews email newsletter</div><div class="isomer-card-link">TechNews</div></div></a>
 <a rel="noopener noreferrer nofollow" href="http://eepurl.com/hsr131" class="isomer-card">
