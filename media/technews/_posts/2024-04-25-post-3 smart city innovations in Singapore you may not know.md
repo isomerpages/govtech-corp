@@ -12,20 +12,6 @@ variant: tiptap
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="Smart City Innovations and products in Singapore that drive Singapore's smart nation goals" src="/images/technews/3_smart_city_innovations.jpg">
 </div>
-<p></p>
-<p><strong>3 smart city innovations in Singapore:</strong>
-</p>
-<ol data-tight="true" class="tight">
-<li>
-<p>Punggol Digital District</p>
-</li>
-<li>
-<p>Sensei Care Kit</p>
-</li>
-<li>
-<p>Personal Alert Button</p>
-</li>
-</ol>
 <p>You’ve probably heard of Singapore’s Smart Nation goal, but do you know
 that the country was ranked as the smartest Asian city and seventh-smartest
 in the world last year in the <a href="https://www.straitstimes.com/singapore/singapore-is-top-asian-city-in-smart-city-index-ranks-7th-worldwide" rel="noopener noreferrer nofollow" target="_blank"><u>Smart City Index</u></a>?
@@ -49,7 +35,7 @@ carbon emissions equivalent to removing 2,000 vehicles from the roads.</p>
 <p>Other features include car plate recognition technology so that parking
 lots can be reserved through an app and smart lamp posts that detect the
 proximity of people and dim and brighten accordingly.</p>
-<p>All these are made possible by the <a href="https://www.developer.tech.gov.sg/products/categories/sensor-platforms-and-internet-of-things/open-digital-platform/overview.html" rel="noopener noreferrer nofollow" target="_blank"><u>Open Digital Platform</u></a>,
+<p>All these are made possible by the <a href="/products-and-services/for-businesses/smart-city-tech/" rel="noopener noreferrer nofollow" target="_blank"><u>Open Digital Platform</u></a>,
 a smart city operating system that integrates various district management
 operations onto a single platform. Using the platform, estate managers
 can control the cooling system, pneumatic waste conveyance, autonomous
@@ -67,7 +53,7 @@ health assessments also empower caregivers and the elderly with data to
 make informed decisions.</p>
 <h3>3. Personal Alert Button</h3>
 <p>Another innovation that plays a significant role in managing Singapore’s
-ageing population is the <a href="https://www.developer.tech.gov.sg/products/categories/sensor-platforms-and-internet-of-things/personal-alert-button/overview.html" rel="noopener noreferrer nofollow" target="_blank"><u>Personal Alert Button or PAB</u></a>.</p>
+ageing population is the <a href="/products-and-services/for-citizens/smart-city-tech/" rel="noopener noreferrer nofollow" target="_blank"><u>Personal Alert Button</u></a>.</p>
 <p>The wireless device – a simple box with a button – can be placed anywhere
 in a senior’s home. Upon activation, it will send a distress signal to
 either a <a href="https://www.healthhub.sg/a-z/medical-and-care-facilities/8/senior_activity_centre" rel="noopener noreferrer nofollow" target="_blank"><u>Senior Activity Centre (SAC)</u></a> or
