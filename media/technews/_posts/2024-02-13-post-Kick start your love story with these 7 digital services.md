@@ -10,7 +10,7 @@ image: /images/technews/_Compressed__Kick_start_your_love_story_with_these_7_dig
 variant: tiptap
 ---
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Check out the different apps by GovTech to enhance your Valentine's Day date plans!" src="/images/technews/_Compressed__Kick_start_your_love_story_with_these_7_digital_services.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="Valentine's Day Apps for Couples" src="/images/technews/valentine_digital_services.png">
 </div>
 <p>Valentine’s Day is just around the corner!</p>
 <p>That means it’s the season for expensive chocolates, flowers, and fully-booked

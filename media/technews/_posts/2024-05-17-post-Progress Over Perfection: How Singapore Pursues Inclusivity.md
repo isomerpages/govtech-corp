@@ -1,6 +1,6 @@
 ---
 title: "Progress Over Perfection: How Singapore Pursues Inclusivity"
-permalink: /progress-over-perfection-how-singapore-pursues-inclusivity/
+permalink: /media/technews/progress-over-perfection-how-singapore-pursues-inclusivity/
 date: 2024-05-17
 layout: post
 description: 🌐 Inclusivity is key! By 2030, Singapore aims for all gov websites

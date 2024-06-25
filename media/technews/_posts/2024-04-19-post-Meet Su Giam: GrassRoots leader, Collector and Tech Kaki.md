@@ -1,6 +1,6 @@
 ---
 title: "Meet Su Giam: GrassRoots leader, Collector and Tech Kaki"
-permalink: /meet-su-giam-grassroots-leader-collector-and-tech-kaki/
+permalink: /media/technews/meet-su-giam-grassroots-leader-collector-and-tech-kaki/
 date: 2024-04-19
 layout: post
 description: "Tech Kaki: A citizen community making a difference! Join us to

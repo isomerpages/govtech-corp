@@ -1,6 +1,6 @@
 ---
 title: How GovTech is Leading Singapore's Fight Against Scams
-permalink: /how-govtech-is-leading-singapore-fight-against-scams/
+permalink: /media/technews/how-govtech-is-leading-singapore-fight-against-scams/
 date: 2024-06-25
 layout: post
 description: Discover how GovTech is leading the fight against scams in

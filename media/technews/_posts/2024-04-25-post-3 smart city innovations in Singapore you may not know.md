@@ -1,6 +1,6 @@
 ---
 title: 3 smart city innovations in Singapore you may not know
-permalink: /3-smart-city-innovations-in-singapore-you-may-not-know/
+permalink: /media/technews/3-smart-city-innovations-in-singapore-you-may-not-know/
 date: 2024-04-25
 layout: post
 description: "🌆 Smart city innovations: Punggol Digital District's tech-infused

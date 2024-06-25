@@ -1,6 +1,6 @@
 ---
 title: 5 free ways you can get smarter about AI
-permalink: /5-free-ways-you-can-get-smarter-about-ai/
+permalink: /media/technews/5-free-ways-you-can-get-smarter-about-ai/
 date: 2024-05-03
 layout: post
 description: 🔍 Worried about AI taking your job? Learn how it works, try AI
