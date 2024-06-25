@@ -87,5 +87,8 @@ in Singapore developing breast cancer in her lifetime. Those with a family
 history of breast cancer face twice the risk.</p>
 <p>Given the relatively widespread nature of this disease, it is all the
 more important that progress is continually made in its detection and treatment.</p>
-<h4>The good news is that tech is ever-improving and making a difference in the battle against breast cancer. Together with good protocols for regular screening, hopefully, we can one day turn the tide and bring down the prevalence of breast cancer.</h4>
+<p>The good news is that tech is ever-improving and making a difference in
+the battle against breast cancer. Together with good protocols for regular
+screening, hopefully, we can one day turn the tide and bring down the prevalence
+of breast cancer.</p>
 <p></p>
