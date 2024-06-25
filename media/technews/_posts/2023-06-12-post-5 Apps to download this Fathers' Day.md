@@ -12,9 +12,8 @@ variant: tiptap
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="Father's Day 2023" src="/images/technews/5_Apps_to_download_this_Fathers__Day.jpg">
 </div>
-<p>Photo Credit: <a href="http://unsplash.com" rel="noopener noreferrer nofollow" target="_blank">unsplash.com</a>
-</p>
-<h3>Happy Father’s Day in advance! (Or belated, depending on when you read this article)</h3>
+<p>Happy Father’s Day in advance! (Or belated, depending on when you read
+this article)</p>
 <p>Parenthood brings its fair share of challenges and responsibilities. Fortunately,
 we live in an age where technology can lend a helping hand, especially
 in Singapore.</p>
@@ -24,25 +23,6 @@ about daddy duties, there are also apps that will help a dad recharge and
 have some fun!</p>
 <p>The GovTech team (which includes some fathers) has picked out our favourite
 apps for your reference.</p>
-<p><strong>5 Apps to download:</strong>
-</p>
-<ol data-tight="true" class="tight">
-<li>
-<p>Healthhub</p>
-</li>
-<li>
-<p>MyTransport</p>
-</li>
-<li>
-<p>LifeSG</p>
-</li>
-<li>
-<p>ActiveSG</p>
-</li>
-<li>
-<p>NParks</p>
-</li>
-</ol>
 <h3>1. HealthHub</h3>
 <p>Part of being a dad is making sure everyone in the family is healthy.
 HealthHub, developed by the Ministry of Health (MOH), helps you do that
