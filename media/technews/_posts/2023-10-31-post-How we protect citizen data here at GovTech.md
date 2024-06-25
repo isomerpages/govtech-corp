@@ -37,15 +37,15 @@ to be more streamlined and convenient for the citizens. Compared to just
 a few years ago, citizens now can access a whole bunch of services at their
 fingertips. But there are also risks. Our role is to balance the increasing
 complexity of securing the data and citizen usability. At GovTech, we’ve
-implemented several measures to detect and prevent unauthorised access
+implemented several measures to detect and prevent unauthourised access
 to databases containing citizen information.</p>
 <p>One such measure is the use of audit logs, which can be exported and retained
-centrally using the&nbsp;<a href="https://www.developer.tech.gov.sg/products/categories/infrastructure-and-hosting/government-on-commercial-cloud/overview.html" class="editor-rtfLink" rel="noopener noreferrer nofollow" target="_blank">Government on Commercial Cloud (GCC)</a>&nbsp;depending
+centrally using the&nbsp;<a href="/products-and-services/for-government-agencies/software-development/government-on-commercial-cloud/" class="editor-rtfLink" rel="noopener noreferrer nofollow" target="_blank">Government on Commercial Cloud (GCC)</a>&nbsp;depending
 on product requirements. Additionally, we provide agencies with guidelines
 on proper network segmentation to ensure that databases are not exposed
 to the internet and that only traffic from restricted sources can access
 them. These measures help to ensure that citizen information is protected
-from unauthorised access.</p>
+from unauthourised access.</p>
 <h3>How do you keep your security measures updated to defend against ever-evolving cyber threats?</h3>
 <p>To defend against ever-evolving cyber threats, we prioritise innovation
 and agility when creating solutions and security measures. We also stay
@@ -60,7 +60,7 @@ measures to stay ahead of the latest threats.</p>
 threats in real time. This includes using machine learning algorithms to
 analyse network traffic and identify potential threats, as well as using
 AI-powered security tools to automate threat detection and response. For
-example: We use AI to enhance the&nbsp;<a href="https://www.tech.gov.sg/files/Factsheet%20about%20the%20Government%20Cyber%20Security%20Operations%20Centre.pdf" class="editor-rtfLink" rel="noopener noreferrer nofollow" target="_blank">Government Cyber Security Operations Centre (GCSOC).</a>&nbsp;We
+example: We use AI to enhance the&nbsp;<a href="/products-and-services/for-government-agencies/cybersecurity/" class="editor-rtfLink" rel="noopener noreferrer nofollow" target="_blank">Government Cybersecurity Operations Centre (GCSOC).</a>&nbsp;We
 collaborate with key partners and also our partner services – this helps
 us expose threats quickly and mitigate threats early by initiating automated
 responses.</p>
@@ -96,16 +96,15 @@ are alert and know how to respond in the case of an attack.</p>
 <h3>Do you have any special considerations for protecting the data of vulnerable populations?</h3>
 <p>I’ve got something interesting to share – typically, we think of vulnerable
 populations as the elderly and the young. However, a&nbsp;<a href="https://www.straitstimes.com/singapore/courts-crime/more-than-half-of-scam-victims-are-still-young-adults-most-fell-for-job-scams" class="editor-rtfLink" rel="noopener noreferrer nofollow" target="_blank">recent report</a>&nbsp;highlighted
-that&nbsp;<a href="https://www.tech.gov.sg/media/technews/anyone-can-become-a-scam-victim" class="editor-rtfLink" rel="noopener noreferrer nofollow" target="_blank">young adults</a>&nbsp;are
-equally, if not more susceptible to scams where their sensitive personal
-data is compromised. Hence, I believe that any measures protecting personal
-data should be encompassing and not specific to any particular segment
-of the population.</p>
+that young adults&nbsp;are equally, if not more susceptible to scams where
+their sensitive personal data is compromised. Hence, I believe that any
+measures protecting personal data should be encompassing and not specific
+to any particular segment of the population.</p>
 <h3>How much of the responsibility for cybersecurity would you say lies with the end user, and what steps can citizens take to better protect their own data when interacting with government services?</h3>
 <p>We’ve put measures across multiple levels to protect citizen data. However,
 given that the individual ultimately owns their personal data, end users
 need to play their part in protecting their own data as well. Citizens
-can take steps to better protect their data by using&nbsp;<a href="https://www.tech.gov.sg/media/technews/why-passphases-are-much-more-secure-than-passwords" class="editor-rtfLink" rel="noopener noreferrer nofollow" target="_blank">strong passwords or pass phrases</a>,
+can take steps to better protect their data by using&nbsp;<a href="/media/technews/why-passphases-are-much-more-secure-than-passwords" class="editor-rtfLink" rel="noopener noreferrer nofollow" target="_blank">strong passwords or passphrases</a>,
 enabling two-factor authentication, and being cautious when clicking on
 links or downloading attachments from unknown sources.</p>
 <p>In addition, it pays to possess a healthy dose of scepticism in the digital

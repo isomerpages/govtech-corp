@@ -6,7 +6,6 @@ description: Empowering women for tech success. Raising awareness, fostering
   community support, and driving change in the industry.
 ---
 <h3>Empowering women for tech success: Raising awareness, fostering community support, and driving change in the industry.</h3>
-<p></p>
 <p>Established in 2021, GovTech's Women in (Gov)Tech (WiG) Employee Resource
 Group (ERG) was inaugurated as the first employee resource group dedicated
 to cultivating and retaining female talent within the Singapore Government.
@@ -51,7 +50,7 @@ junior college</p>
 </details>
 </div>
 <p></p>
-<p><em>Applications for 2024 run are closed. </em>
+<p><em>Applications for 2024 run are closed.</em>
 </p>
 <h4>Contact Us</h4>
 <p>Reach out to us if you would like to learn more about Women in (Gov)Tech

@@ -13,8 +13,7 @@ variant: tiptap
 <img style="width: 100%" height="auto" width="100%" alt="Thank you for your feedback as it helps improve our products and services" src="/images/technews/GovTech_turns_seven__Staying_connected_with_you_to_continuously_improve_our_services.jpg">
 </div>
 <p>GovTech turns 7 this year! It did seem just like yesterday when we were
-formed with the goal of helping Singapore reach its&nbsp;<a href="https://www.tech.gov.sg/who-we-are/our-role/" class="editor-rtfLink" rel="noopener noreferrer nofollow" target="_blank">Smart Nation objectives.</a>
-</p>
+formed with the goal of helping Singapore reach its&nbsp;Smart Nation objectives.</p>
 <p>Since then, we’ve created many services and products that many Singaporeans
 find invaluable today. Some of these you’ll definitely recognise: think
 Singpass, CrowdTaskSG, ScamShield and GoBusiness.</p>
@@ -25,21 +24,18 @@ UX designers in GovTech.</p>
 provide valuable feedback to improve the services for users. On our 7th
 birthday, we took the opportunity to ask some of our product teams how
 the everyday user impacts their final products.</p>
-<p><em>Editor’s note: Make sure to check out our birthday page&nbsp;<a href="https://go.gov.sg/gt7-article" class="editor-rtfLink" rel="noopener noreferrer nofollow" target="_blank">here</a>. We promise you, it’s well worth your while.</em>
-</p>
 <h3>Singpass: Redesigning for enhanced vigilance</h3>
 <p>The design team at Singpass collects feedback and conducts surveys, interviews,
 and usability testing regularly to better understand users’ behaviour during
 transactions and continually improve the Singpass service for 5 million
 users. Since 2022, Singapore has seen a&nbsp;<a href="https://www.police.gov.sg/media-room/news/20221002_advisory_on_phishing_scams_involving_singpass" class="editor-rtfLink" rel="noopener noreferrer nofollow" target="_blank">surge in scams</a>,
 including phishing for Singpass login details and misusing Singpass accounts.</p>
-<p>To&nbsp;<a href="https://www.singpass.gov.sg/main/security/" class="editor-rtfLink" rel="noopener noreferrer nofollow" target="_blank">better protect users</a>&nbsp;against
-evolving scams, the Singpass team examined the effectiveness of the Singpass
-app consent screen in helping users spot fraudulent activities during transactions.
-The team conducted a 2-week user research study with selected Tech Kaki
-community members, where participants performed login tasks with different
-design prototypes, to observe user behaviours when logging in and inspire
-design changes.</p>
+<p>To&nbsp;better protect users&nbsp;against evolving scams, the Singpass
+team examined the effectiveness of the Singpass app consent screen in helping
+users spot fraudulent activities during transactions. The team conducted
+a 2-week user research study with selected Tech Kaki community members,
+where participants performed login tasks with different design prototypes,
+to observe user behaviours when logging in and inspire design changes.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="Upgrading the user interface of the Singpass login page to make it more user-friendly" src="/images/technews/GovTech_turns_seven__Staying_connected_with_you_to_continuously_improve_our_services__2_.jpg">
 </div>
@@ -76,8 +72,6 @@ on the portal to support the campaign.</p>
 <p>But it was well worth it – the quiz received around 200 responses a day,
 and more than 2,600 responses in total which came in invaluable to the
 Singpass team</p>
-<p>To be part of the crowd, register at CrowdTaskSG&nbsp;<a href="https://www.crowdtask.gov.sg/" class="editor-rtfLink" rel="noopener noreferrer nofollow" target="_blank">here!</a>
-</p>
 <h3>Public feedback: Front and centre of the ScamShield Bot</h3>
 <p>Scams are becoming more sophisticated, making it increasingly difficult
 for citizens to discern what is genuine. Recognising this growing threat,
@@ -120,7 +114,7 @@ regulatory challenges that businesses encounter throughout their business
 journey.</p>
 <p>For example: One frequent feedback was that users were unsure about the
 grants available to them or which ones they were eligible for.</p>
-<p>In response, the team created an&nbsp;<a href="https://www.gobusiness.gov.sg/gov-assist/#:~:text=Find%20out%20with%20e%2DAdviser,needs%20to%20get%20our%20recommendations." class="editor-rtfLink" rel="noopener noreferrer nofollow" target="_blank">e-Adviser for Government Assistance</a>.
+<p>In response, the team created an&nbsp;<a href="https://www.gobusiness.gov.sg/gov-assist/" class="editor-rtfLink" rel="noopener noreferrer nofollow" target="_blank">e-Adviser for Government Assistance</a>.
 This is a tool to help businesses narrow down the relevant assistance schemes
 that they can apply for.</p>
 <h3>We want to be better – so give us feedback!</h3>
@@ -129,6 +123,3 @@ you — our most important stakeholder — at the centre of everything we do.</p
 <p>Your feedback is not just welcomed; it’s essential. So, here’s to another
 year of creating better, more inclusive experiences for all Singaporeans.
 Thank you for being an integral part of our journey towards a Smart Nation.</p>
-<p>Celebrate our 7th birthday with us, and learn more about our communities
-on our&nbsp;<a href="https://go.gov.sg/gt7-article" class="editor-rtfLink" rel="noopener noreferrer nofollow" target="_blank">Birthday Campaign page!</a>
-</p>

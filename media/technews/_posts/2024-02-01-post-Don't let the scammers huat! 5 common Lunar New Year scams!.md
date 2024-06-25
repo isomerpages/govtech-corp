@@ -18,25 +18,7 @@ ones. Unfortunately, these activities also mean new opportunities for scammers
 to carry out their nefarious schemes.</p>
 <p>So don’t be an unsuspecting victim – read on to find out more about past
 scams during the Lunar New Year period so that you can stay vigilant!</p>
-<p><strong>Don’t fall for these LNY scams!</strong>
-</p>
-<ol data-tight="true" class="tight">
-<li>
-<p>Bak kwa scam</p>
-</li>
-<li>
-<p>Parcel delivery scam</p>
-</li>
-<li>
-<p>Angbao scam</p>
-</li>
-<li>
-<p>Fake promotion scam</p>
-</li>
-<li>
-<p>Online travel scam</p>
-</li>
-</ol>
+<p>Don’t fall for these LNY scams!</p>
 <h3>1. Bak kwa scam</h3>
 <p>Bak kwa is a must-have snack during the Lunar New Year season and it’s
 common to see snaking queues to buy the sweet and salty BBQed meat. Many
@@ -72,7 +54,7 @@ The messages are designed to look like they are from logistics companies
 such as SingPost and contain a phishing link. When victims click on the
 link, they are brought to a spoofed website to key in their personal details
 and banking credentials.</p>
-<p>This information is then used by the scammers to make unauthorised transactions
+<p>This information is then used by the scammers to make unauthourised transactions
 through the victims’ bank accounts or credit cards.</p>
 <p>Be wary of links sent to you. It’s better not to click on them and go
 to the official app or website yourself to verify the delivery status of
@@ -141,8 +123,8 @@ ScamShield filters out scam messages and calls from numbers used in scams.</p>
 <p>Be wary of clicking on links, especially those received in unsolicited
 messages or emails. Always verify the authenticity of the website; these
 days, scammers can impersonate official websites closely. For government-related
-services, look out for those starting with ‘<a href="https://www.tech.gov.sg/media/technews/dont-let-the-scammers-huat-this-lunar-new-year#1-bak-kwa-scam" rel="noopener noreferrer nofollow" target="_blank">go.gov.sg</a>’
-– these are legitimate URLs you can trust</p>
+services, look out for those starting with ‘<a href="https://go.gov.sg/" rel="noopener noreferrer nofollow" target="_blank">go.gov.sg</a>’ – these are legitimate URLs you
+can trust</p>
 </li>
 <li>
 <p>Last but not least, report Suspicious Activities: If you encounter or

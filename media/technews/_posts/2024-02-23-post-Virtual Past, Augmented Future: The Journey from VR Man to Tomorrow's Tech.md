@@ -27,26 +27,7 @@ goggles, and if AR is just as foreign a concept, then you’ve come to the
 right place.</p>
 <p>Here, we explain and demystify both terms and discuss what the future
 holds.</p>
-<p><strong>What is the difference between VR and AR?</strong>
-</p>
-<ol data-tight="true" class="tight">
-<li>
-<p>What is the origin story of VR?</p>
-</li>
-<li>
-<p>What about the origin story of VR?</p>
-</li>
-<li>
-<p>But what is the difference between AR and VR?</p>
-</li>
-<li>
-<p>How about some real-life examples of both pieces of technology being used?</p>
-</li>
-<li>
-<p>What does the future hold for these tools?</p>
-</li>
-</ol>
-<h3>1. What is the origin story of VR?</h3>
+<h3>What is the origin story of VR?</h3>
 <p>In 1965, computer scientist Ivan Sutherland articulated the concept of
 an “ultimate display”, where a head-mounted display could simulate reality
 to the point where one could not differentiate it from actual reality.</p>
@@ -59,7 +40,7 @@ of wireframe rooms and objects.</p>
 <p>In Sutherland’s own words:</p>
 <p><em>“The ultimate display would, of course, be a room within which the computer can control the existence of matter. A chair displayed in such a room would be good enough to sit in. Handcuffs displayed in such a room would be confining, and a bullet displayed in such a room would be fatal. With appropriate programming, such a display could literally be the Wonderland into which Alice walked.”</em>
 </p>
-<h3>2. What about the origin story of AR?</h3>
+<h3>What about the origin story of AR?</h3>
 <p>The term was&nbsp;<a href="/media/technews/5-things-to-know-about-arvr" class="editor-rtfLink" rel="noopener noreferrer nofollow" target="_blank">coined</a>&nbsp;in
 1990 by a couple of Boeing researchers who came up with an idea to replace
 the use of large plywood boards containing wiring instructions for different
@@ -67,7 +48,7 @@ aircraft being built.</p>
 <p>They suggested a head-mounted display for construction workers that projected
 the cable positions onto multipurpose, reusable boards, kickstarting the
 use of AR in industrial settings.</p>
-<h3>3. But what is the difference between AR and VR?</h3>
+<h3>But what is the difference between AR and VR?</h3>
 <p>VR immerses users in a completely artificial, computer-generated environment.
 Those goggles are big and clunky for a reason – they cover the user’s entire
 field of vision so that he or she is transported to a simulated world,
@@ -85,15 +66,13 @@ at their surroundings.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="Pokemon Go as an example of the application of Augmented Reality (AR) technology" src="/images/technews/Pokemon_Go__resized_.jpg">
 </div>
-<p><em>Image by keongdagreat at <a href="https://images.assetsdelivery.com/compings_v2/keongdagreat/keongdagreat1608/keongdagreat160800209/60797684.jpg" rel="noopener noreferrer nofollow" target="_blank">123RF</a></em>.</p>
 <p>In addition, VR is well-suited for transplanting a user into a completely
 fictional, digital world, and so has uses in gaming and simulation. On
 the other hand, AR shines when interacting with the real world, so education
 and navigation are instances where it can prove useful.</p>
-<h3>4. How about some real-life examples of both pieces of technology being used?</h3>
+<h3>How about some real-life examples of both pieces of technology being used?</h3>
 <p>For starters, there is a long line of VR products in the realm of gaming,
-such as the&nbsp;<a href="https://www.playstation.com/en-sg/ps-vr/" class="editor-rtfLink" rel="noopener noreferrer nofollow" target="_blank">PlayStation</a>&nbsp;VR
-headset and the&nbsp;<a href="https://www.meta.com/quest/products/quest-2/" class="editor-rtfLink" rel="noopener noreferrer nofollow" target="_blank">Oculus</a>&nbsp;series
+such as the&nbsp;PlayStation&nbsp;VR headset and the&nbsp;Oculus&nbsp;series
 of headsets for PC gaming.</p>
 <p>VR is also being used for better healthcare outcomes in the medical industry.
 Surgeons at the George Washington University Hospital in the US use an
@@ -102,7 +81,6 @@ body before operating.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="Doctor using VR headset to analyse the patient's brain anatomy before taking any medical action." src="/images/technews/VR_headset_healthcare.jpg">
 </div>
-<p><em>Image by DC Studio on <a href="https://www.freepik.com/free-photo/professional-researcher-wearing-virtual-reality-glasses-using-medical-inovation-lab-analysing-brain-scan-patient-team-neurological-doctors-working-with-equipment-high-tech-simulator-device_17787403.htm#fromView=search&amp;page=1&amp;position=45&amp;uuid=74341b1a-a1fc-4977-b329-ffa7aa86f087" rel="noopener noreferrer nofollow" target="_blank">Freepik</a></em>.</p>
 <p>VR headsets have also proven to be effective in&nbsp;<a href="https://www.wsj.com/articles/for-children-in-the-hospital-vr-may-be-the-cure-for-anxiety-1527559995" class="editor-rtfLink" rel="noopener noreferrer nofollow" target="_blank">diminishing pain and anxiety</a>&nbsp;in
 patients as they undergo procedures such as wound cleaning and injections.</p>
 <p>As for AR, museums have been using the technology to enliven their displays
@@ -119,7 +97,6 @@ AR-guided tour.</p>
 <p>Users get to follow Merli, Singapore’s tourism mascot, on an immersive
 tour of Singapore’s iconic landmarks! Attractions include Merlion Park,
 Victoria Concert Hall, and Maxwell Food Centre.</p>
-<p></p>
 <div class="iframe-wrapper">
 <iframe style="max-width: 100%;" height="400" width="100%" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/zFxpXiAkT2k?si=-3NFz7VS6IJzi9yR"></iframe>
 </div>
@@ -140,7 +117,7 @@ Virtua Fighter, might have been considered shining examples of VR in the
 past.</p>
 <p>(Of course, no marketer would slap the word “virtua” (L or no L) on these
 titles today.)</p>
-<h3>5. What does the future hold for these tools?</h3>
+<h3>What does the future hold for these tools?</h3>
 <p>What do sci-fi films depict when they want to deliver a sense that future
 societies have reached a super advanced state of technology?</p>
 <p>Floating screens that can be manipulated with gestures, a la the hit movie

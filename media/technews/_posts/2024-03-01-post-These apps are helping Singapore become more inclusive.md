@@ -69,9 +69,9 @@ as it is about those that do not.</p>
 </li>
 </ul>
 <h3>Ensuring digital services are accessible with Purple A11y</h3>
-<p>Developed by the Accessibility Enabling Team (A11y Team),&nbsp;<a href="https://www.developer.tech.gov.sg/products/categories/design/purple-a11y/overview.html" class="editor-rtfLink" rel="noopener noreferrer nofollow" target="_blank">Purple A11y</a>&nbsp;is
-an open-source tool that developers can use to help them build more inclusive
-products during the product development process.</p>
+<p>Developed by the Accessibility Enabling Team (A11y Team),&nbsp;<a href="/products-and-services/for-government-agencies/accessibility/" class="editor-rtfLink" rel="noopener noreferrer nofollow" target="_blank">Purple </a>
+<a href="https://www.developer.tech.gov.sg/products/categories/design/purple-a11y/overview.html" class="editor-rtfLink" rel="noopener noreferrer nofollow" target="_blank">A11y</a>&nbsp;is an open-source tool that developers can use to help them
+build more inclusive products during the product development process.</p>
 <p>The customisable and automated tool allows software development teams
 to find and fix accessibility problems to help persons with disabilities
 (PWDs) and the elderly access digital services more easily.</p>
@@ -102,7 +102,7 @@ far more approachable for everyone.</p>
 <p>Scams have been a major problem in Singapore in the past few years, with
 Singaporeans losing over S$600 million in scam per year. Scammers change
 their tactics often, and have become extremely convincing too.</p>
-<p>That’s why the government launched&nbsp;<a href="https://www.scamshield.org.sg/about-us/" class="editor-rtfLink" rel="noopener noreferrer nofollow" target="_blank">ScamShield</a>&nbsp;in
+<p>That’s why the government launched&nbsp;<a href="https://www.scamshield.org.sg/" class="editor-rtfLink" rel="noopener noreferrer nofollow" target="_blank">ScamShield</a>&nbsp;in
 2020, an app that helps individuals protect themselves against scam calls
 and text messages.</p>
 <p>ScamShield does so by checking calls from unknown numbers against a database
@@ -125,7 +125,8 @@ against scams.</p>
 the number of scams reported and how these reports contribute to safeguarding
 the community. This level of engagement and feedback is designed to motivate
 continued participation in the collective fight against scams.</p>
-<h4>You can do your part to build a safer (and hence more inclusive) Singapore by installing the bot&nbsp;<a href="https://api.whatsapp.com/message/A2G6DGDFYVCHL1?autoload=1&amp;app_absent=0" class="editor-rtfLink" rel="noopener noreferrer nofollow" target="_blank">here</a>.</h4>
+<p>You can do your part to build a safer (and hence more inclusive) Singapore
+by installing the <a href="https://api.whatsapp.com/message/A2G6DGDFYVCHL1?autoload=1&amp;app_absent=0" rel="noopener noreferrer nofollow" target="_blank">ScamShield bot</a>.</p>
 <p></p>
 <div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="http://eepurl.com/cUwIsD" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Subscribe to the TechNews email newsletter" src="/images/technews/TN_banner.jpg"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Subscribe to the TechNews email newsletter</div><div class="isomer-card-link">TechNews</div></div></a>
 <a rel="noopener noreferrer nofollow" href="http://eepurl.com/hsr131" class="isomer-card">
@@ -140,5 +141,4 @@ continued participation in the collective fight against scams.</p>
 </div>
 </a>
 </div>
-<p></p>
 <p></p>

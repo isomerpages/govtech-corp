@@ -24,25 +24,7 @@ as samurais or an essay on the history of different types of pasta, why
 not learn how to use tools like ChatGPT or DALL-E to automate some tasks
 that – without generative AI – would have taken hours or at least some
 special skills to do?</p>
-<p><strong>How AI tools can help:</strong>
-</p>
-<ol data-tight="true" class="tight">
-<li>
-<p>Create slides with AI tools like Gamma</p>
-</li>
-<li>
-<p>Taking meeting minutes</p>
-</li>
-<li>
-<p>Quick scenario sketching with AI tools like DALL-E</p>
-</li>
-<li>
-<p>Write and debug code with chatbots</p>
-</li>
-<li>
-<p>Chatbots as Devil's advocates</p>
-</li>
-</ol>
+<p>Here's how AI tools can help:</p>
 <h3>1. Create slides with AI tools like Gamma</h3>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="Gamma screenshot, showing how this AI tool can help create slide decks efficiently" src="/images/technews/Gamma_screenshot.jpg">
@@ -73,31 +55,30 @@ or meeting minutes.</p>
 with at least some participants dialling in. And the video conference tool
 you used was likely an enterprise version of the tool, meaning AI-recorded
 meeting transcripts are probably available.</p>
-<p>For example, you can turn on the&nbsp;<a href="https://support.google.com/a/answer/12076932?sjid=14814772003770671259-NA" class="editor-rtfLink" rel="noopener noreferrer nofollow" target="_blank">transcription feature</a>&nbsp;for
-Google Meet and a Google Doc link with the transcript will be emailed to
-the meeting host.</p>
+<p>For example, you can turn on the&nbsp;transcription feature&nbsp;for Google
+Meet and a Google Doc link with the transcript will be emailed to the meeting
+host.</p>
 <p>You can then input this transcript into an AI chatbot like ChatGPT and
 prompt it to produce a summary in the format of a minutes memo.</p>
 <p>Be sure to read the summary thoroughly to ensure that the key points are
 captured accurately as chatbots have a tendency to&nbsp;<a href="https://www.nytimes.com/2023/05/01/business/ai-chatbots-hallucination.html" class="editor-rtfLink" rel="noopener noreferrer nofollow" target="_blank">“hallucinate”</a>&nbsp;and
 make up false information.</p>
-<p>GovTech also has its own transcription product, check it out&nbsp;<a href="https://www.developer.tech.gov.sg/products/categories/productivity-tools/transcribe/overview.html" class="editor-rtfLink" rel="noopener noreferrer nofollow" target="_blank">here.</a>
-</p>
+<p>GovTech also has its own transcription product, called <a href="/products-and-services/for-government-agencies/productivity-and-marketing/transcribe/" rel="noopener noreferrer nofollow" target="_blank">Transcribe</a>.</p>
 <h3>3. Quick scenario sketching with AI tools like DALL-E</h3>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="DALL-E screenshot, showing how it can convert text prompts into generated images" src="/images/technews/Dall_E_screenshot.jpg">
 </div>
-<p><em>Screenshot from <a href="https://openai.com/research/dall-e" rel="noopener noreferrer nofollow" target="_blank">DALL-E website</a></em>
+<p><em>Screenshot from <a href="https://openai.com/index/dall-e/" rel="noopener noreferrer nofollow" target="_blank">DALL-E website</a></em>
 </p>
 <p>Many of us use images in presentations, pitches, and general communication
 to convey what we want to say.</p>
 <p>However, finding the right image is not easy and few of us have the talent
 to draw, paint or otherwise create the picture with our own hands.</p>
-<p>Well, AI tools like&nbsp;<a href="https://www.bing.com/create" class="editor-rtfLink" rel="noopener noreferrer nofollow" target="_blank">DALL-E</a>&nbsp;are
-making a passable artist out of everyone. Simply describe the picture as
-you see it in your mind, and AI will generate something along the lines
-of what you typed. You can even specify the art style (pixel art, manga,
-thin pencil, watercolours) to get a result that’s closer to what you imagined.</p>
+<p>Well, AI tools like DALL-E&nbsp;are making a passable artist out of everyone.
+Simply describe the picture as you see it in your mind, and AI will generate
+something along the lines of what you typed. You can even specify the art
+style (pixel art, manga, thin pencil, watercolours) to get a result that’s
+closer to what you imagined.</p>
 <p>If you’re in advertising and suddenly have a brilliant idea for a video
 ad. You could describe it to your boss, or you could get DALL-E to sketch
 a series of storyboards that convey the overall plot of your video; after
@@ -106,8 +87,6 @@ all, a picture paints a thousand words!</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="Coding with ChatGPT as an assistant" src="/images/technews/chatgpt_coding.jpg">
 </div>
-<p><em>Image by elleaon on 123RF</em>
-</p>
 <p>Chatbots are also good at writing and debugging computer code, so anyone
 – from programming veterans to novices – can benefit from using chatbots
 to speed up their work.</p>
@@ -134,21 +113,17 @@ confidential information, of course), and ask the AI tool to play devil’s
 advocate to strengthen your piece. The chatbot will, at the very least,
 produce a summary of your work highlighting the points you made and might
 just surface new angles that you haven’t considered.</p>
-<p>Public and civil servants should also try out&nbsp;<a href="https://www.straitstimes.com/singapore/4000-civil-servants-using-government-pair-chatbot-for-writing-coding" class="editor-rtfLink" rel="noopener noreferrer nofollow" target="_blank">Pair</a>&nbsp;for
-their work!</p>
+<p>Public and civil servants should also try out&nbsp;<a href="https://pair.gov.sg/" class="editor-rtfLink" rel="noopener noreferrer nofollow" target="_blank">Pair</a>
+<a href="https://pair.gov.sg/" rel="noopener noreferrer nofollow" target="_blank">&nbsp;</a>for their work!</p>
 <h3>Harness the potential, but with care</h3>
 <p>As you can see, there is great potential in speeding up and improving
 the quality of your work with AI tools. But a running theme throughout
 the different possible uses is that careful attention must be paid to double-check
 the work of AI tools, as the technology is still prone to making stuff
-up and you don’t want to end up known as the&nbsp;<a href="https://www.nytimes.com/2023/06/08/nyregion/lawyer-chatgpt-sanctions.html" class="editor-rtfLink" rel="noopener noreferrer nofollow" target="_blank">ChatGPT lawyer.</a>
-</p>
+up.</p>
 <p>So don’t completely rely on and trust these AI tools. Instead, use them
 as you would a diligent assistant who’s not an expert in your field – they
 tirelessly produce what you ask them to do, but you’re still the professional
 with the discerning eye to sort the wheat from the chaff.</p>
 <p>That way, you automate the boring stuff, saving you time and energy to
-work on the finer details and exercise judgement on quality. But before
-you go forth to multiply your productivity in AI wonderland, make sure
-you check out&nbsp;<a href="https://www.tech.gov.sg/media/technews/generative-ai-where-can-it-go-wrong" class="editor-rtfLink" rel="noopener noreferrer nofollow" target="_blank">our other article on AI</a>,
-where we identified the potential pitfalls of using AI tools at work.</p>
+work on the finer details and exercise judgement on quality.</p>

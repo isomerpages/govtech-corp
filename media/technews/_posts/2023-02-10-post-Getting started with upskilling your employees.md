@@ -55,7 +55,7 @@ up with a Personal Development Plan which provides a structured approach
 to career upskilling, encourages employees to take ownership over their
 own learning and professional growth, and helps you and your employees
 to focus on learning content and developing the most appropriate skills.</p>
-<p>Unsure of how to get started? Check out the&nbsp;<a href="https://www.enterprisejobskills.gov.sg/content/upgrade-skills/skillsfuture-series.html" class="editor-rtfLink" rel="noopener noreferrer nofollow" target="_blank">SkillsFuture Series</a>,
+<p>Unsure of how to get started? Check out the&nbsp;<a href="https://www.skillsfuture.gov.sg/initiatives/mid-career/series" class="editor-rtfLink" rel="noopener noreferrer nofollow" target="_blank">SkillsFuture Series</a>,
 which provides training courses across emerging skills in the four economic
 growth pillars - Digital, Green, Care and Industry 4.0. Catering for varying
 proficiency levels, these courses lend insight into up-and-coming industry
@@ -69,13 +69,13 @@ Singapore (SSG), this enables individuals to pursue further education and
 develop new skills and knowledge.</p>
 <p>Aside from SkillsFuture,&nbsp;<a href="https://business.udemy.com/course-collection/?utm_source=organic-search&amp;utm_medium=google" class="editor-rtfLink" rel="noopener noreferrer nofollow" target="_blank">Udemy Business</a>&nbsp;is
 another useful online learning platform that offers courses on technical
-and soft skills alike, and is&nbsp;<a href="https://mobileapp.nlb.gov.sg/get-started-with/learn/" class="editor-rtfLink" rel="noopener noreferrer nofollow" target="_blank">complimentary for individuals with a library membership.</a>
-</p>
+and soft skills alike, and is&nbsp;complimentary for individuals with a
+library membership.</p>
 <p>If you’re looking to further your digital transformation journey, don’t
 miss out on SkillsFuture courses such as the Digital Transformation &amp;
 Innovation Programme. Under this course, trainees will be taught to use
 technologies to revise business strategies for greater digital transformation.</p>
-<p>You can also turn to&nbsp;<a href="https://www.linkedin.com/learning/" class="editor-rtfLink" rel="noopener noreferrer nofollow" target="_blank">LinkedIn Learning with Lynda</a>,
+<p>You can also turn to&nbsp;<a href="https://www.linkedin.com/learning/" class="editor-rtfLink" rel="noopener noreferrer nofollow" target="_blank">LinkedIn Learning</a>,
 where you can access business, technology and creative courses taught by
 industry experts from various sectors and get course recommendations based
 on your employees’ unique skill sets.</p>
@@ -85,21 +85,21 @@ progress to ensure that they’re on the right track.</p>
 <h3>Get subsidies for training fees</h3>
 <p>Upskilling doesn’t always have to be costly - there are many grants and
 subsidies available to help defray training expenses!</p>
-<p>The&nbsp;<a href="https://www.enterprisejobskills.gov.sg/content/upgrade-skills/sfec.html" class="editor-rtfLink" rel="noopener noreferrer nofollow" target="_blank">SkillsFuture Enterprise Credit scheme</a>&nbsp;is
-one resource you can turn to to defray the cost of upskilling. To support
-workforce transformation and enterprise transformation, eligible businesses
-can claim up to $10,000 for selected programmes by various government agencies,
-as well as courses aligned to job redesign initiatives and Skills Frameworks
-by Workforce Singapore.</p>
-<p>The&nbsp;<a href="https://www.imda.gov.sg/imtalent/programmes/citrep-plus" class="editor-rtfLink" rel="noopener noreferrer nofollow" target="_blank">Critical Infocomm Technology Resource Programme PLUS (CITREP+)</a>&nbsp;is
+<p>The&nbsp;<a href="https://www.skillsfuture.gov.sg/sfec" class="editor-rtfLink" rel="noopener noreferrer nofollow" target="_blank">SkillsFuture Enterprise Credit</a>
+<a href="https://www.enterprisejobskills.gov.sg/content/upgrade-skills/sfec.html" class="editor-rtfLink" rel="noopener noreferrer nofollow" target="_blank">scheme</a>&nbsp;is one resource you can turn to to defray the cost of
+upskilling. To support workforce transformation and enterprise transformation,
+eligible businesses can claim up to $10,000 for selected programmes by
+various government agencies, as well as courses aligned to job redesign
+initiatives and Skills Frameworks by Workforce Singapore.</p>
+<p>The&nbsp;<a href="https://www.imda.gov.sg/how-we-can-help/techskills-accelerator-tesa" rel="noopener noreferrer nofollow" target="_blank">TechSkills Accelerator (TeSA)</a> is
 yet another resource you can consider. Under this initiative, employees
 can bolster their ICT skills and enjoy funding support for course and certification
 fees.</p>
-<p>Keen to learn more about upskilling? Check out&nbsp;<a href="https://www.gobusiness.gov.sg/skillsfuture-for-enterprise/?src=topnav&amp;utm_source=govtech&amp;utm_medium=technews&amp;utm_campaign=" class="editor-rtfLink" rel="noopener noreferrer nofollow" target="_blank">GoBusiness’ SkillsFuture for Enterprise</a>,
+<p>Keen to learn more about upskilling? Check out&nbsp;<a href="https://skillsfuture.gobusiness.gov.sg/" class="editor-rtfLink" rel="noopener noreferrer nofollow" target="_blank">GoBusiness’ SkillsFuture for Enterprise</a>,
 which collates and organises the various skills development resources into
 a step-by-step guide for easy reference.</p>
 <p>You can also turn to the&nbsp;<a href="https://eadviser.gobusiness.gov.sg/skillstraining?src=eservices&amp;utm_source=govtech&amp;utm_medium=technews&amp;utm_campaign=" class="editor-rtfLink" rel="noopener noreferrer nofollow" target="_blank">GoBusiness e-Adviser for Skills Training</a>,
 which offers recommendations for training courses and initiatives for career
 upskilling that are personalised to your business’ needs.</p>
-<p><em>This article first appeared on <a href="https://www.weforum.org/reports/the-future-of-jobs-report-2020/in-full/infographics-e4e69e4de7" rel="noopener noreferrer nofollow" target="_blank">https://www.gobusiness.gov.sg/gobusiness-blog/</a></em>
+<p><em>This article first appeared on <a href="https://www.gobusiness.gov.sg/gobusiness-blog/" rel="noopener noreferrer nofollow" target="_blank">https://www.gobusiness.gov.sg/gobusiness-blog/.</a></em>
 </p>

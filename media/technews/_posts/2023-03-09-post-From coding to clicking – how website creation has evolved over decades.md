@@ -41,7 +41,7 @@ see that the default blue text for hyperlinks was already a thing back
 then.</p>
 <h3>The search engine is born</h3>
 <p>Just two years after the world’s first website was introduced, Aliweb
-–regarded as the first search engine – came online.</p>
+– regarded as the first search engine – came online.</p>
 <p>It not only organised links into helpful categories such as entertainment,
 living, and shopping, but it also deployed colour to make the site more
 user-friendly and easy to navigate.</p>
@@ -100,8 +100,8 @@ having to learn coding and deal with the intricacies of hosting a website.</p>
 <h3>Digitalisation keeps rolling</h3>
 <p>Websites will doubtless continue to evolve. The government is committed
 to keeping pace with tech advances and helping Singaporeans along in the
-digitalisation journey, such as through IMDA’s&nbsp;<a href="https://www.imda.gov.sg/programme-listing/smes-go-digital" class="editor-rtfLink" rel="noopener noreferrer nofollow" target="_blank">programme</a>&nbsp;to
-make digital simple for SMEs.</p>
+digitalisation journey, such as through <a href="https://www.imda.gov.sg/how-we-can-help/smes-go-digital" rel="noopener noreferrer nofollow" target="_blank">IMDA’s&nbsp;SMEs Go Digital </a>
+<a href="https://www.imda.gov.sg/how-we-can-help/smes-go-digital" class="editor-rtfLink" rel="noopener noreferrer nofollow" target="_blank">programme</a>&nbsp;to make digital simple for SMEs.</p>
 <p>Hopefully, we’ve also inspired you to try out building your own website,
 be it through a website building service or perhaps going old-school and
-<a href="https://www.tech.gov.sg/media/technews/tips-to-help-you-get-started-with-coding" class="editor-rtfLink" rel="noopener noreferrer nofollow" target="_blank">picking up coding</a>&nbsp;to make one from scratch!</p>
+<a href="/media/technews/tips-to-help-you-get-started-with-coding" class="editor-rtfLink" rel="noopener noreferrer nofollow" target="_blank">picking up coding</a>&nbsp;to make one from scratch!</p>

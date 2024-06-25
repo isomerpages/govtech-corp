@@ -60,12 +60,12 @@ demands.</p>
 <p>Yes, we know that life even before Primary 1 starts can be complicated.
 What with the balloting, the school-home distances, the phases, and all
 other crucial information.</p>
-<p>Well, remember the&nbsp;<a href="https://www.life.gov.sg/?utm_source=google&amp;utm_medium=search&amp;utm_campaign=ACCSSAlwaysOn&amp;gclid=Cj0KCQiAtOmsBhCnARIsAGPa5ybwCQA3BfXZbFw1FC18ruO7zdnHS_Nl_XzGhkQG_5EuVyjv-c_1TW8aApIrEALw_wcB" class="editor-rtfLink" rel="noopener noreferrer nofollow" target="_blank">LifeSG</a>&nbsp;app
+<p>Well, remember the&nbsp;<a href="https://www.life.gov.sg/" class="editor-rtfLink" rel="noopener noreferrer nofollow" target="_blank">LifeSG</a>&nbsp;app
 and portal, where you registered your child’s birth? It’s not called LifeSG
 for nothing as it truly has something for every stage of life. Head to
-this handy&nbsp;<a href="https://www.life.gov.sg/guides/p1-registration" class="editor-rtfLink" rel="noopener noreferrer nofollow" target="_blank">guide</a>&nbsp;to
-get all you need to know about confirming your kid’s place in a primary
-school.</p>
+this handy&nbsp;<a href="https://www.life.gov.sg/guides/p1-registration" rel="noopener noreferrer nofollow" target="_blank">Primary 1 registration </a>
+<a href="https://www.life.gov.sg/guides/p1-registration" class="editor-rtfLink" rel="noopener noreferrer nofollow" target="_blank">guide</a>&nbsp;to get all you need to know about confirming your kid’s
+place in a primary school.</p>
 <p>Additionally, there are also articles about adjusting to life in primary
 school, such as using recess money as a way to inculcate good financial
 habits and using play activities to build interactive skills with other
@@ -86,7 +86,7 @@ your child’s recess money)</p>
 </li>
 </ul>
 <p>Some services can even be used outside of school. For example, the&nbsp;
-<a href="https://www.posb.com.sg/personal/deposits/bank-with-ease/posb-smart-buddy?cid=sg:en:cbg:posb:sem:goo:na:txt:casa:casa-aga-sem:posb-sb-brand:na&amp;ds_rl=1247858&amp;gad_source=1&amp;gclid=CjwKCAiA-P-rBhBEEiwAQEXhHyZWPEMuYyQ6DEC0RGEyJ5-3NkvCwW1RpL3-_rMtw4CJ9KEpkqJikRoCuhEQAvD_BwE&amp;gclsrc=aw.ds" class="editor-rtfLink" rel="noopener noreferrer nofollow" target="_blank">Smart Buddy</a>&nbsp;works at over 10,000 NETS merchants islandwide.</p>
+<a href="https://www.posb.com.sg/personal/deposits/bank-with-ease/posb-smart-buddy" class="editor-rtfLink" rel="noopener noreferrer nofollow" target="_blank">Smart Buddy</a>&nbsp;works at over 10,000 NETS merchants islandwide.</p>
 <h3>HealthHub</h3>
 <p>Hands up if you remember taking your height and weight, getting immunisation
 jabs, and getting dental checks in primary school, all the while recording

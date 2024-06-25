@@ -49,7 +49,7 @@ directed to a bogus payment site that will capture your card details for
 nefarious uses.</p>
 <p>Clicking on such links can even cause malware to be downloaded to your
 phone. If you see an unrecognised app appearing on your device, do not
-ignore it! It is likely to be malware. One victim&nbsp;<a href="https://www.tech.gov.sg/media/technews/top-five-scams-in-singapore-and-how-to-protect-yourself" class="editor-rtfLink" rel="noopener noreferrer nofollow" target="_blank">lost more than $40,000</a>&nbsp;of
+ignore it! It is likely to be malware. One victim&nbsp;<a href="/media/technews/top-five-scams-in-singapore-and-how-to-protect-yourself/" class="editor-rtfLink" rel="noopener noreferrer nofollow" target="_blank">lost more than $40,000</a>&nbsp;of
 his CPF savings after he tried to buy seafood online and ended up getting
 malware on his phone in the form of an app.</p>
 <p>If you suspect that your device has been infected by malware, turn on
@@ -60,8 +60,6 @@ reset for good measure.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="Never share OTP password with anyone for security reasons" src="/images/technews/OTP___Safe_Online_Shopping.jpg">
 </div>
-<p><em>Image by storyset on <a href="https://www.freepik.com/free-vector/enter-otp-concept-illustration_20824339.htm#fromView=search&amp;page=1&amp;position=0&amp;uuid=cd7554e9-d612-4115-8d38-c24bc19e0a4f" rel="noopener noreferrer nofollow" target="_blank">Freepik</a></em>
-</p>
 <p>OTPs, or one-time passwords, are an important form of two-factor authentication
 used for logins and payments to ensure that it’s really you who’s performing
 the action, instead of someone who’s gotten hold of your username and password
@@ -76,9 +74,6 @@ scams, so watch out for this!</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="Always update your apps and operating system to avoid security vulnerabilities" src="/images/technews/Software_update___Safe_Online_Shopping.jpg">
 </div>
-<p>Image by <a href="http://rawpixel.com" rel="noopener noreferrer nofollow" target="_blank">rawpixel.com</a> on
-<a href="https://www.freepik.com/free-photo/upgrade-update-new-version-better-graphics-concept_18042703.htm#fromView=search&amp;page=1&amp;position=18&amp;uuid=36b20463-fa92-4cd5-9da1-e37fd78dfb64" rel="noopener noreferrer nofollow" target="_blank">Freepik</a>
-</p>
 <p>Cybercriminals are always probing for security vulnerabilities in our
 devices and the apps that are installed on them.</p>
 <p>Fortunately, phone manufacturers and app developers alike periodically
@@ -103,7 +98,7 @@ scammers want to keep you in a heightened state of anxiety.</p>
 back and ask yourself: Is there anything strange about the situation? Am
 I being made to feel a false sense of urgency so that I throw caution to
 the wind? Am I letting my guard down because I just have to grab that awesome
-deal? Remember,&nbsp;<a href="https://www.tech.gov.sg/media/technews/anyone-can-become-a-scam-victim" class="editor-rtfLink" rel="noopener noreferrer nofollow" target="_blank">anyone can be a scam victim</a>,
+deal? Remember,&nbsp;<a href="/media/technews/anyone-can-become-a-scam-victim/" class="editor-rtfLink" rel="noopener noreferrer nofollow" target="_blank">anyone can be a scam victim</a>,
 even the internet savvy.</p>
 <p>If you sense any of these feelings, keep calm and remind yourself – there
 are so many online sales nowadays that even if you miss out on this one,

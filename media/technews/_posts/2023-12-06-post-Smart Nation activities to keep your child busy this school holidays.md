@@ -22,8 +22,8 @@ and things to do with your kids during the school holidays.</p>
 late May,&nbsp;<a href="https://www.smartnation.gov.sg/community/showcases/playscape/" class="editor-rtfLink" rel="noopener noreferrer nofollow" target="_blank">PlayScape</a>&nbsp;is
 an ideal destination for parents seeking to enrich their children’s knowledge
 through interactive experiences. With exhibits on AI, cybersecurity, and
-other key digital technologies, it provides hands-on learning that is both&nbsp;
-<a href="https://www.straitstimes.com/singapore/new-science-centre-exhibition-explains-emerging-technologies-through-play" class="editor-rtfLink" rel="noopener noreferrer nofollow" target="_blank">engaging</a>&nbsp;and educational.</p>
+other key digital technologies, it provides hands-on learning that is both&nbsp;engaging&nbsp;and
+educational.</p>
 <p>Each zone at PlayScape offers a unique glimpse into the technologies that
 support Singapore’s Smart Nation initiative.</p>
 <p>Children can learn through play, gaining insights into complex concepts
@@ -68,10 +68,7 @@ Python or Java; instead, the lessons mostly use&nbsp;<a href="https://scratch.mi
 a language that is child-friendly. The series is called&nbsp;<a href="https://www.youtube.com/playlist?list=PLEpmxnWUCorlVClvjhlb1-apn8nDGEM9Y" class="editor-rtfLink" rel="noopener noreferrer nofollow" target="_blank">Learning From Scratch</a>&nbsp;(Haha,
 see what we did there?)</p>
 <div class="iframe-wrapper">
-<iframe style="max-width: 100%;" height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/MfkeAoVo4Vo?si=KUz5FCV8O95L7BdD"></iframe>
+<iframe style="max-width: 100%;" height="400" width="100%" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/MfkeAoVo4Vo?si=KUz5FCV8O95L7BdD"></iframe>
 </div>
 <p>Happy holidays!</p>
-<p>PS: If you’re feeling a bit nostalgic, you can check out our&nbsp;<a href="https://www.youtube.com/watch?v=y96CYNfD_1M&amp;list=PLEpmxnWUCornhRYp8_HWh4Bfl_5wBGxBD" class="editor-rtfLink" rel="noopener noreferrer nofollow" target="_blank">‘The History Of’</a>&nbsp;Series
-with your child to find out the beginnings of many of the tech they take
-for granted today!</p>
 <p></p>

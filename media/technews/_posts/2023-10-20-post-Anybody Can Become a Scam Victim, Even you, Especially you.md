@@ -117,7 +117,7 @@ relationships and becoming emotionally vulnerable to people they meet online.</p
 guard down against a prospective partner on social media? One month? Two?
 Here’s the thing. These days, love scammers are willing to wait a couple
 of months before making their move to take your money.</p>
-<p>Take for example the&nbsp;<a href="https://www.wired.com/story/what-is-pig-butchering-scam/" class="editor-rtfLink" rel="noopener noreferrer nofollow" target="_blank">‘Pig butchering scam.’</a>&nbsp;The
+<p>Take for example the&nbsp;<a href="https://www.investopedia.com/pig-butchering-scams-8605501" class="editor-rtfLink" rel="noopener noreferrer nofollow" target="_blank">‘pig butchering scam.’</a>&nbsp;The
 term originates in Mainland China, as sha zhu pan. Literal translation:
 Pig butchering platter. The idea is that scammers take time to flatter
 and fatten you up, before delivering a decisive blow..to your finances.</p>

@@ -13,12 +13,12 @@ variant: tiptap
 <img style="width: 100%" height="auto" width="100%" alt="DIYGoWhere: Empowering users to build their own websites" src="/images/technews/DIYGoWhere_updated_banner.png">
 </div>
 <p>By now, you’re probably familiar with GoWhere and its multiple campaigns,
-which are instantly recognisable by the URL&nbsp;<a href="https://www.gowhere.gov.sg/" rel="noopener noreferrer nofollow" target="_blank">gowhere.gov.sg/</a>.</p>
-<p>Since the COVID-19 pandemic, GoWhere has offered intuitive location-based
-search for Government campaigns, services and information. Two classic
-pandemic examples are VaccineGoWhere, which was instrumental in informing
-Singaporeans where to get vaccinated and ARTGoWhere, which informed the
-public on where to pick up ART test kits.</p>
+which are instantly recognisable by the URL&nbsp;<em><a href="https://www.gowhere.gov.sg/" rel="noopener noreferrer nofollow" target="_blank">gowhere.gov.sg</a></em>.</p>
+<p>Since the COVID-19 pandemic, <a href="/products-and-services/for-citizens/directories-and-distribution/gowhere/" rel="noopener noreferrer nofollow" target="_blank">GoWhere</a> has
+offered intuitive location-based search for Government campaigns, services
+and information. Two classic pandemic examples are VaccineGoWhere, which
+was instrumental in informing Singaporeans where to get vaccinated and
+ARTGoWhere, which informed the public on where to pick up ART test kits.</p>
 <p>Post-pandemic, the GoWhere team has been supporting multiple campaigns
 to help Singaporeans in aspects such as:</p>
 <ul data-tight="true" class="tight">
@@ -98,11 +98,11 @@ campaign sites anytime.</p>
 </li>
 </ul>
 <h3>Unlocking the possibilities</h3>
-<p>From collecting CDC vouchers to helping out with Total Defence, the&nbsp;
-<a href="https://www.gowhere.gov.sg/" rel="noopener noreferrer nofollow" target="_blank">GoWhere.gov.sg</a>&nbsp;suite of products has helped simplify various
-aspects of life for Singaporeans. With the implementation of DIYGoWhere,
-we’re excited to give this tool to agencies to use.</p>
-<h4>Contact the DIYGoWhere team&nbsp;<a href="https://form.gov.sg/#!/62e37ff33074e40012f51a8c" class="editor-rtfLink" rel="noopener noreferrer nofollow" target="_blank">here</a>.</h4>
+<p>From collecting CDC vouchers to helping out with Total Defence, the GoWhere&nbsp;suite
+of products has helped simplify various aspects of life for Singaporeans.
+With the implementation of DIYGoWhere, we’re excited to give this tool
+to agencies to use.</p>
+<p>Contact the <a href="https://form.gov.sg/#!/62e37ff33074e40012f51a8c" rel="noopener noreferrer nofollow" target="_blank">DIYGoWhere team</a>.</p>
 <div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="http://eepurl.com/cUwIsD" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Subscribe to the TechNews email newsletter" src="/images/technews/TN_banner.jpg"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Subscribe to the TechNews email newsletter</div><div class="isomer-card-link">TechNews</div></div></a>
 <a rel="noopener noreferrer nofollow" href="http://eepurl.com/hsr131" class="isomer-card">
 <div class="isomer-card-image">

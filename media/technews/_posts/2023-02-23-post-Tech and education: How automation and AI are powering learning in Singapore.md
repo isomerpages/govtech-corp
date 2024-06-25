@@ -12,7 +12,7 @@ variant: tiptap
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="Tech and education: Teacher educating students with whiteboard and markers" src="/images/technews/Tech_and_education__How_automation_and_AI_are_powering_learning_in_Singapore.jpg">
 </div>
-<p><em>Tech and Education!</em> 
+<p><em>Tech and Education!</em>
 </p>
 <p>The education sector has gone through huge changes in recent years. With
 massive open online courses gaining popularity, attending classes with
