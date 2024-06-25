@@ -101,5 +101,5 @@ a step-by-step guide for easy reference.</p>
 <p>You can also turn to the&nbsp;<a href="https://eadviser.gobusiness.gov.sg/skillstraining?src=eservices&amp;utm_source=govtech&amp;utm_medium=technews&amp;utm_campaign=" class="editor-rtfLink" rel="noopener noreferrer nofollow" target="_blank">GoBusiness e-Adviser for Skills Training</a>,
 which offers recommendations for training courses and initiatives for career
 upskilling that are personalised to your business’ needs.</p>
-<p><em>This article first appeared on <a href="https://www.gobusiness.gov.sg/gobusiness-blog/" rel="noopener noreferrer nofollow" target="_blank">https://www.gobusiness.gov.sg/gobusiness-blog/</a></em>
+<p><em>This article first appeared on <a href="https://www.gobusiness.gov.sg/gobusiness-blog/" rel="noopener noreferrer nofollow" target="_blank">https://www.gobusiness.gov.sg/gobusiness-blog/.</a></em>
 </p>
