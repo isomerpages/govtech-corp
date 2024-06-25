@@ -21,7 +21,7 @@ the government’s digital inclusion learning festival for all public officers.&
 as it brought together the government, industry players, and end users
 in a new initiative.&nbsp;</p>
 <p>Called the Co-Creation Lab, the event kickstarted a wide-ranging conversation
-on how we can make <a href="/about-us/our-journey/our-story/" rel="noopener noreferrer nofollow" target="_blank"><u>Singapore’s digital services</u></a> truly
+on how we can make <a href="/products-and-services/overview/" rel="noopener noreferrer nofollow" target="_blank"><u>Singapore’s digital services</u></a> truly
 accessible for all.</p>
 <h3>Hearing first-hand pain points</h3>
 <p>Indeed, the first session — attended by 95 participants from the Persons
