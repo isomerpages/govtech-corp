@@ -12,8 +12,7 @@ variant: tiptap
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="How GovTech is leading Singapore's fight against scams" src="/images/technews/GT_fight_against_scams_2.jpg">
 </div>
-<p>
-<br>Scams are a persistent threat worldwide, and Singapore is no exception.</p>
+<p>Scams are a persistent threat worldwide, and Singapore is no exception.</p>
 <p>Recent reports by the Singapore Police Force (SPF) indicate a troubling
 rise in scam cases, with a staggering 47% increase from 2022 to 2023. This
 highlights the urgent need for effective anti-scam measures.</p>
@@ -29,8 +28,9 @@ vigilance and improvement.</p>
 war of scams:</p>
 <h3>Scam Analytics and Tactical Intervention System (SATIS)</h3>
 <p>A collaboration between GovTech, the Ministry of Home Affairs (MHA), and
-the SPF, SATIS is an advanced system that builds upon the success of PhishMonSG
-– an earlier tool.
+the SPF, <a href="/products-and-services/for-citizens/scam-prevention/" rel="noopener noreferrer nofollow" target="_blank">SATIS</a> is
+an advanced system that builds upon the success of PhishMonSG – an earlier
+tool.
 <br>
 <br>SATIS actively hunts for and disrupts scam sites, extending its reach
 beyond government websites to include phishing attempts by banks, malware-hosting
