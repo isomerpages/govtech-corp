@@ -24,25 +24,7 @@ as samurais or an essay on the history of different types of pasta, why
 not learn how to use tools like ChatGPT or DALL-E to automate some tasks
 that – without generative AI – would have taken hours or at least some
 special skills to do?</p>
-<p><strong>How AI tools can help:</strong>
-</p>
-<ol data-tight="true" class="tight">
-<li>
-<p>Create slides with AI tools like Gamma</p>
-</li>
-<li>
-<p>Taking meeting minutes</p>
-</li>
-<li>
-<p>Quick scenario sketching with AI tools like DALL-E</p>
-</li>
-<li>
-<p>Write and debug code with chatbots</p>
-</li>
-<li>
-<p>Chatbots as Devil's advocates</p>
-</li>
-</ol>
+<p>Here's how AI tools can help:</p>
 <h3>1. Create slides with AI tools like Gamma</h3>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="Gamma screenshot, showing how this AI tool can help create slide decks efficiently" src="/images/technews/Gamma_screenshot.jpg">
@@ -73,16 +55,15 @@ or meeting minutes.</p>
 with at least some participants dialling in. And the video conference tool
 you used was likely an enterprise version of the tool, meaning AI-recorded
 meeting transcripts are probably available.</p>
-<p>For example, you can turn on the&nbsp;<a href="https://support.google.com/a/answer/12076932?sjid=14814772003770671259-NA" class="editor-rtfLink" rel="noopener noreferrer nofollow" target="_blank">transcription feature</a>&nbsp;for
-Google Meet and a Google Doc link with the transcript will be emailed to
-the meeting host.</p>
+<p>For example, you can turn on the&nbsp;transcription feature&nbsp;for Google
+Meet and a Google Doc link with the transcript will be emailed to the meeting
+host.</p>
 <p>You can then input this transcript into an AI chatbot like ChatGPT and
 prompt it to produce a summary in the format of a minutes memo.</p>
 <p>Be sure to read the summary thoroughly to ensure that the key points are
 captured accurately as chatbots have a tendency to&nbsp;<a href="https://www.nytimes.com/2023/05/01/business/ai-chatbots-hallucination.html" class="editor-rtfLink" rel="noopener noreferrer nofollow" target="_blank">“hallucinate”</a>&nbsp;and
 make up false information.</p>
-<p>GovTech also has its own transcription product, check it out&nbsp;<a href="https://www.developer.tech.gov.sg/products/categories/productivity-tools/transcribe/overview.html" class="editor-rtfLink" rel="noopener noreferrer nofollow" target="_blank">here.</a>
-</p>
+<p>GovTech also has its own transcription product, called <a href="/products-and-services/for-government-agencies/productivity-and-marketing/transcribe/" rel="noopener noreferrer nofollow" target="_blank">Transcribe</a>.</p>
 <h3>3. Quick scenario sketching with AI tools like DALL-E</h3>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="DALL-E screenshot, showing how it can convert text prompts into generated images" src="/images/technews/Dall_E_screenshot.jpg">
