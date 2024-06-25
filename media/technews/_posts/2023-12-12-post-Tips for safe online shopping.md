@@ -98,7 +98,7 @@ scammers want to keep you in a heightened state of anxiety.</p>
 back and ask yourself: Is there anything strange about the situation? Am
 I being made to feel a false sense of urgency so that I throw caution to
 the wind? Am I letting my guard down because I just have to grab that awesome
-deal? Remember,&nbsp;<a href="https://www.tech.gov.sg/media/technews/anyone-can-become-a-scam-victim" class="editor-rtfLink" rel="noopener noreferrer nofollow" target="_blank">anyone can be a scam victim</a>,
+deal? Remember,&nbsp;<a href="/media/technews/anyone-can-become-a-scam-victim/" class="editor-rtfLink" rel="noopener noreferrer nofollow" target="_blank">anyone can be a scam victim</a>,
 even the internet savvy.</p>
 <p>If you sense any of these feelings, keep calm and remind yourself – there
 are so many online sales nowadays that even if you miss out on this one,
