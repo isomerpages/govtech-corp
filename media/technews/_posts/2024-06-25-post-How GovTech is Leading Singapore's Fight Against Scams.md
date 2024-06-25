@@ -50,7 +50,7 @@ this by analyzing elements like URLs and logos, comparing them against
 authentic sources to identify potential scams.
 <br>
 <br>This enables us to detect, analyse, and disrupt scam sites swiftly and
-accurately, significantly scaling up Singapore's anti- scam efforts.</p>
+accurately, significantly scaling up Singapore's anti-scam efforts.</p>
 <h3>ScamShield App</h3>
 <p>Developed by Open Government Products under GovTech, the <a href="https://www.scamshield.org.sg/" rel="noopener noreferrer nofollow" target="_blank"><u>ScamShield app</u></a> is
 a user-friendly mobile application that safeguards users from scam calls.
