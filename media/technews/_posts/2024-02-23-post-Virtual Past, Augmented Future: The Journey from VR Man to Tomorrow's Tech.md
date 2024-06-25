@@ -70,10 +70,9 @@ at their surroundings.</p>
 fictional, digital world, and so has uses in gaming and simulation. On
 the other hand, AR shines when interacting with the real world, so education
 and navigation are instances where it can prove useful.</p>
-<h3>4. How about some real-life examples of both pieces of technology being used?</h3>
+<h3>How about some real-life examples of both pieces of technology being used?</h3>
 <p>For starters, there is a long line of VR products in the realm of gaming,
-such as the&nbsp;<a href="https://www.playstation.com/en-sg/ps-vr/" class="editor-rtfLink" rel="noopener noreferrer nofollow" target="_blank">PlayStation</a>&nbsp;VR
-headset and the&nbsp;<a href="https://www.meta.com/quest/products/quest-2/" class="editor-rtfLink" rel="noopener noreferrer nofollow" target="_blank">Oculus</a>&nbsp;series
+such as the&nbsp;PlayStation&nbsp;VR headset and the&nbsp;Oculus&nbsp;series
 of headsets for PC gaming.</p>
 <p>VR is also being used for better healthcare outcomes in the medical industry.
 Surgeons at the George Washington University Hospital in the US use an
@@ -118,7 +117,7 @@ Virtua Fighter, might have been considered shining examples of VR in the
 past.</p>
 <p>(Of course, no marketer would slap the word “virtua” (L or no L) on these
 titles today.)</p>
-<h3>5. What does the future hold for these tools?</h3>
+<h3>What does the future hold for these tools?</h3>
 <p>What do sci-fi films depict when they want to deliver a sense that future
 societies have reached a super advanced state of technology?</p>
 <p>Floating screens that can be manipulated with gestures, a la the hit movie
