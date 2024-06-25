@@ -22,10 +22,9 @@ within the tech industry and in the Singapore Government.</p>
 polytechnics, or junior colleges a unique opportunity to work on personal
 projects that enhance their technical skills under the guidance of experienced
 GovTechies.</p>
-<p>Last year, one of our participants, <a href="https://www.linkedin.com/in/yong-en-ong" rel="noopener noreferrer nofollow" target="_blank"><u>Ong Yong En</u></a>,
-had the opportunity to be mentored by <a href="https://www.linkedin.com/in/miccheng" rel="noopener noreferrer nofollow" target="_blank"><u>Michael Cheng</u></a>, a
-Principal Software Engineer at GDS-ACE (Meteor), and a second-time mentor
-at the programme.</p>
+<p>Last year, one of our participants, Ong Yong En, had the opportunity to
+be mentored by Michael Cheng, a Principal Software Engineer at GDS-ACE
+(Meteor), and a second-time mentor at the programme.</p>
 <p>We spoke to Yong En – who eventually joined us as an intern in December
 2023 – to find out more about her experience during the programme as a
 mentee.</p>
@@ -58,7 +57,6 @@ multiple approaches and pick up new tools and tech stacks in my free time.
 This encourages me to continue learning and staying up to date with the
 relevant technology trends, even till today.</p>
 <h3>What was your most memorable experience during the internship?</h3>
-<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="Yong En's mentor introducing her to his friend who also shares the same interests as her" src="/images/technews/Empowering_girls_2.jpg">
 </div>
@@ -70,7 +68,6 @@ some interesting historical and cultural sites in the city centre.</p>
 him for going out of his way to accompany me, and being open to new experiences
 outside his comfort zone!</p>
 <h3>What else did you appreciate about your mentor, Michael?</h3>
-<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="Yong En, her friend, and her mentor, Michael taking a picture together at a GovTech event" src="/images/technews/Empowering_girls_3.jpg">
 </div>
