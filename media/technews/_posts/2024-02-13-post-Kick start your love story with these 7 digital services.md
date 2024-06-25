@@ -22,38 +22,7 @@ there are plenty of apps going around to make life a little easier for
 loved ones.</p>
 <p>With that in mind, our GovTech team has selected our top apps for couples
 this Valentine’s Day.</p>
-<p><strong>7 Digital services that couples can try out:</strong>
-</p>
-<ol data-tight="true" class="tight">
-<li>
-<p>Get intellectually stimulated with the <strong>NLB mobile app</strong>
-</p>
-</li>
-<li>
-<p>Never lose your way again with <strong>NParks NEAR</strong>
-</p>
-</li>
-<li>
-<p>Get your relationship moving with <strong>MyTransport</strong>
-</p>
-</li>
-<li>
-<p>Keep fit together with <strong>ActiveSG</strong>
-</p>
-</li>
-<li>
-<p>Prepare to settle down together with <strong>MyNiceHome</strong>
-</p>
-</li>
-<li>
-<p>Seal the deal with <strong>Our Marriage Journey</strong>
-</p>
-</li>
-<li>
-<p>Go through life together with <strong>LifeSG</strong>
-</p>
-</li>
-</ol>
+<p>7 Digital services that couples can try out:</p>
 <h3>1. Get intellectually stimulated with the NLB mobile app</h3>
 <p>Ah, the library – one of the first places that young Singaporeans go on
 a date. It’s air-conditioned, has a large collection of books – and it’s,
@@ -64,10 +33,10 @@ material that spark conversations, plan cultural dates, and attend events
 together.</p>
 <p>It’s a unique way to bond and grow as a couple – remember, staying intellectually
 compatible is a big part of being romantically compatible! Download the
-app&nbsp;<a href="https://mobileapp.nlb.gov.sg/" class="editor-rtfLink" rel="noopener noreferrer nofollow" target="_blank">here.</a>
+<a href="https://mobileapp.nlb.gov.sg/" rel="noopener noreferrer nofollow" target="_blank">NLB mobile app.</a>
 </p>
-<p>PS: If you borrow ebooks, you don’t need to worry about returning them
-late. That’s one way to avoid arguing about fines!</p>
+<p><em>Ps: If you borrow ebooks, you don’t need to worry about returning them late. That’s one way to avoid arguing about fines!</em>
+</p>
 <h3>2. Never lose your way again with NParks NEAR</h3>
 <p>Singapore has a huge range of public parks, thanks to NParks. That means
 plenty of green spaces for couples to unwind after a long week of work.
@@ -83,8 +52,8 @@ the move!</p>
 a key feature of NEAR is an interactive map, which enables users to navigate
 and explore the PCN and various trails. This includes detailed route information,
 points of interest, and distance markers, encouraging discovery and exploration.</p>
-<p>Get NEAR with your partner&nbsp;<a href="https://near.nparks.gov.sg/about" class="editor-rtfLink" rel="noopener noreferrer nofollow" target="_blank">here!</a>
-</p>
+<p>Explore the <a href="https://near.nparks.gov.sg/about" rel="noopener noreferrer nofollow" target="_blank">NEAR </a>app
+with your partner.</p>
 <h3>3. Get your relationship moving with MyTransport</h3>
 <p>When it comes to love, showing up is important. But showing up on time
 is equally, if not more important; it’s not good to keep your partner waiting
@@ -109,8 +78,8 @@ or hitting the gym. But there are also programmes that you can sign up
 for that feature more niche sports. Think archery or belly dancing, or
 even pickleball.</p>
 <p>Yes, pickleball (you read that correctly).</p>
-<p>(PS: You can also hold each other accountable to good fitness habits by
-downloading the LumiHealth app)</p>
+<p><em>(PS: You can also hold each other accountable to good fitness habits by downloading the <a href="https://www.lumihealth.sg/" rel="noopener noreferrer nofollow" target="_blank">LumiHealth </a>app)</em>
+</p>
 <h3>5. Prepare to settle down together with MyNiceHome</h3>
 <p>In Singapore, asking someone to buy a HDB together is the equivalent of
 a marriage proposal. That’s why you know things are getting serious when
@@ -127,7 +96,7 @@ couples to get educated on this!</p>
 <p>For couples planning to take their commitment to the next level, the
 <a href="https://www.marriage.gov.sg/" class="editor-rtfLink" rel="noopener noreferrer nofollow" target="_blank">Our Marriage Journey</a>&nbsp;portal is a game-changer. The new Registry
 of Marriages (ROM) portal simplifies the process of filing for marriage
-online via SingPass, making the journey to your big day a little less fuss-free.</p>
+online via Singpass, making the journey to your big day a little less fuss-free.</p>
 <p>On the portal, you can also get access to resources to help prepare for
 marriage. You can also verify marriage documents or plan your solemnisation.</p>
 <p>Additionally, Our Marriage Journey extends its services beyond just the
@@ -143,7 +112,7 @@ find a willing partner)</p>
 <p>Got married? Trust us – you’re only halfway through your romantic journey
 together. Things often get hectic during marriage, with plenty of chores
 and errands. This is especially true if you have children.</p>
-<p>Well, enter&nbsp;<a href="https://www.life.gov.sg/?utm_source=google&amp;utm_medium=search&amp;utm_campaign=ACCSSAlwaysOn&amp;gclid=Cj0KCQiAoKeuBhCoARIsAB4WxtcDQWzqOlUZkCWvmQ9MUs_CVq1JCOiUGtMGB0HCW-ELc8OR_Bc_qE8aAvVpEALw_wcB" class="editor-rtfLink" rel="noopener noreferrer nofollow" target="_blank">LifeSG:</a>&nbsp;your
+<p>Well, enter&nbsp;<a href="https://www.life.gov.sg/" class="editor-rtfLink" rel="noopener noreferrer nofollow" target="_blank">LifeSG:</a>&nbsp;your
 digital assistant for navigating life’s milestones as a couple. This can
 be anything from getting your baby bonus, paying taxes, booking public
 facilities, as well as online video consults from HDB (including getting
