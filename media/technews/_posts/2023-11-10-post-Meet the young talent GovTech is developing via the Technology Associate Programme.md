@@ -130,4 +130,3 @@ open from July to August of every year – so you’re a little early. That
 said, you can join our&nbsp;<a href="https://go.gov.sg/govtechtalentcommunity" class="editor-rtfLink" rel="noopener noreferrer nofollow" target="_blank">Talent Community</a>&nbsp;to
 stay in touch with us and get notified when applications open in 2024.</p>
 <p></p>
-<p></p>
