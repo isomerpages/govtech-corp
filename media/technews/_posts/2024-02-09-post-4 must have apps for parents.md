@@ -20,27 +20,8 @@ work, errands, relatives – and of course, school, life can get pretty hectic.<
 lives a little easier. With these apps, families in Singapore can manage
 their daily tasks more efficiently, ensuring that they can focus on what
 truly matters - spending quality time together!</p>
-<p><strong>4 apps and 1 platform for parents to try out!:</strong>
-</p>
-<ol data-tight="true" class="tight">
-<li>
-<p>LifeSG</p>
-</li>
-<li>
-<p>MyMoneySense</p>
-</li>
-<li>
-<p>myENV</p>
-</li>
-<li>
-<p>NLBMobile</p>
-</li>
-<li>
-<p>Parents Gateway</p>
-</li>
-</ol>
+<p>4 apps and 1 platform for parents to try out:</p>
 <h3>1. Tackle multiple tasks with LifeSG</h3>
-<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="Access multiple e-services via the LifeSG app and make life simpler with LifeSG" src="/images/technews/lifesg_infographic.jpg">
 </div>
@@ -68,7 +49,6 @@ birth, or even end-of-life planning.</p>
 <p>Learn more about&nbsp;<a href="https://www.life.gov.sg/" class="editor-rtfLink" rel="noopener noreferrer nofollow" target="_blank">LifeSG here.</a>
 </p>
 <h3>2. Managing your finances with MyMoneySense</h3>
-<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="Get an overview of your finances and plan your financial goals with MyMoneySense" src="/images/technews/MyMoneySense.jpg">
 </div>
@@ -93,10 +73,9 @@ by using objective indicators.</p>
 <p>For example: Based on your cash flow and current cash reserves, they can
 crunch out an ‘emergency fund ratio’ to see whether you have enough cash
 in the case of a loss of income.</p>
-<p>Try&nbsp;<a href="https://www.mymoneysense.gov.sg/" class="editor-rtfLink" rel="noopener noreferrer nofollow" target="_blank">MyMoneySense out here.</a>
+<p>Explore <a href="https://www.mymoneysense.gov.sg/" class="editor-rtfLink" rel="noopener noreferrer nofollow" target="_blank">MyMoneySense.</a>
 </p>
 <h3>3. Keep your family safe with myENV</h3>
-<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="Plan your activities ahead with myENV to check for weather forecasts and updates." src="/images/technews/new_myenv_app_layout.jpg">
 </div>
@@ -113,10 +92,9 @@ hygiene, and recycling.</p>
 <p>If you want something more customised, you can even bookmark locations
 such as your home, office or your child’s child care centre (or your parent’s
 nursing home) to stay on top of any hazards that appear there!</p>
-<p>Download myENV&nbsp;<a href="https://www.smartnation.gov.sg/initiatives/urban-living/myenv-app/" class="editor-rtfLink" rel="noopener noreferrer nofollow" target="_blank">here.</a>
-</p>
+<p>Download myENV on <a href="https://play.google.com/store/apps/details?id=sg.gov.nea&amp;amp;pli=1" rel="noopener noreferrer nofollow" target="_blank">Google Play</a> or
+the <a href="https://apps.apple.com/sg/app/myenv/id444435182" rel="noopener noreferrer nofollow" target="_blank">App Store</a>.</p>
 <h3>4. Learn as a family with NLBMobile</h3>
-<p></p>
 <div class="iframe-wrapper">
 <iframe style="max-width: 100%;" height="400" width="100%" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/47FBXNAUNUI?si=Uzi2GPF--jzRkxvW"></iframe>
 </div>
@@ -134,10 +112,9 @@ you can search the digital archive for newspapers published locally since
 1827!</p>
 <p>That’s nearly 200 years of reading to catch up on, longer than Singapore
 has been an independent nation!</p>
-<p>You can download the NLB mobile app&nbsp;<a href="https://mobileapp.nlb.gov.sg/" class="editor-rtfLink" rel="noopener noreferrer nofollow" target="_blank">here.</a>
+<p>Download the <a href="https://mobileapp.nlb.gov.sg/" rel="noopener noreferrer nofollow" target="_blank">NLB mobile app.</a>
 </p>
 <h3>5. Keep track of your child’s progress with Parents Gateway</h3>
-<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="Parents Gateway: Parents and teachers can communicate and check on children's academic progress" src="/images/technews/Parents_Gateway.jpg">
 </div>
@@ -157,7 +134,7 @@ view, making tracking easier. Additionally, as kids transition between
 academic stages, Parents Gateway provides resources to support parents
 during these times. It also houses a collection of parenting tips, from
 cyber wellness pointers to activity suggestions.</p>
-<p>Parents Gateway is downloadable&nbsp;<a href="https://pg.moe.edu.sg/" class="editor-rtfLink" rel="noopener noreferrer nofollow" target="_blank">here.</a>
+<p>Download <a href="https://pg.moe.edu.sg/" rel="noopener noreferrer nofollow" target="_blank">Parents Gateway.</a>
 </p>
 <p></p>
 <div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="http://eepurl.com/cUwIsD" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Subscribe to the TechNews email newsletter" src="/images/technews/TN_banner.jpg"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Subscribe to the TechNews email newsletter</div><div class="isomer-card-link">TechNews</div></div></a>
