@@ -63,9 +63,9 @@ the adoption of technology and innovation.</p>
 funding support for eligible costs to help SMEs enter new markets.</p>
 <h3>Simplify digital interactions with the government using GoBusiness</h3>
 <p>Starting or managing a business can sometimes feel like navigating a labyrinth
-of regulations. But don't fret – you can rely on GoBusiness, the go-to
-platform that gives you access to a wealth of government information and
-services to help you navigate your business journey.
+of regulations. But don't fret – you can rely on <a href="/products-and-services/for-businesses/corporate-transactions/gobusiness/" rel="noopener noreferrer nofollow" target="_blank">GoBusiness</a>,
+the go-to platform that gives you access to a wealth of government information
+and services to help you navigate your business journey.
 <br>
 <br>On GoBusiness, you can easily identify the <a href="https://www.gobusiness.gov.sg/licences/" rel="noopener noreferrer nofollow" target="_blank"><u>licences and permits</u></a> your
 business requires from a comprehensive list, and seamlessly apply for them
@@ -91,10 +91,11 @@ necessary licences, ensuring you don't miss any crucial steps.
 <br>(These are just some of the few features on<a href="https://www.gobusiness.gov.sg/" rel="noopener noreferrer nofollow" target="_blank"><u> GoBusiness</u></a>, check out
 the site to learn more!)</p>
 <h3>Take B2B to the next level with TradeTrust</h3>
-<p>TradeTrust is a framework designed to enhance the trustworthiness of electronic
-trade documents. It integrates globally recognised standards with public
-blockchain technology, enabling seamless interoperability across digital
-platforms for governments and businesses.</p>
+<p><a href="/products-and-services/for-businesses/trade-transactions/" rel="noopener noreferrer nofollow" target="_blank">TradeTrust</a> is
+a framework designed to enhance the trustworthiness of electronic trade
+documents. It integrates globally recognised standards with public blockchain
+technology, enabling seamless interoperability across digital platforms
+for governments and businesses.</p>
 <p>In simple terms: It's kind of like a digital envelope for businesses,
 helping them to make their trade documents verifiable (Verifiable Documents)
 and/or transferable (Electronic Transferable Records - ETR)easily and securely.
