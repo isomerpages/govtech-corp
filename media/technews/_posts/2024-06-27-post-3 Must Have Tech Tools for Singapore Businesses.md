@@ -7,3 +7,4 @@ description: ""
 image: /images/technews/digital_tools_for_businesses.jpg
 variant: tiptap
 ---
+<p></p>
