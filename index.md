@@ -9,7 +9,7 @@ permalink: /
 notification: ""
 sections:
   - hero:
-      background: /images/Homepage/website_3.png
+      background: /images/Homepage/website_2.png
       button: REGISTER NOW
       url: https://go.gov.sg/digitalservicesawards-2024
       key_highlights:
