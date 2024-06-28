@@ -9,8 +9,8 @@ permalink: /
 notification: ""
 sections:
   - hero:
-      background: /images/Homepage/website_2.png
-      button: REGISTER NOW
+      background: /images/Homepage/DSA2024_GTBanner2.jpg
+      button: SUBMIT NOMINATIONS
       url: https://go.gov.sg/digitalservicesawards-2024
       key_highlights:
         - title: For Citizens
@@ -29,7 +29,7 @@ sections:
       size: md
       alignment: left
       backgroundColor: white
-      title: STACK Conference 2024
+      title: Digital Services Awards 2024
   - infobar:
       title: Government Technology Agency (GovTech)
       subtitle: WHO WE ARE
