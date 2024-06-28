@@ -29,6 +29,7 @@ sections:
       size: md
       alignment: left
       backgroundColor: white
+      title: STACK Conference 2024
   - infobar:
       title: Government Technology Agency (GovTech)
       subtitle: WHO WE ARE
