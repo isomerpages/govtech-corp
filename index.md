@@ -25,7 +25,7 @@ sections:
         - title: For Government Agencies
           description: Productivity and collaboration
           url: /for-government-agencies
-      variant: center
+      variant: image
       size: md
       alignment: left
       backgroundColor: white
