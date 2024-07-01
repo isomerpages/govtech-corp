@@ -8,13 +8,12 @@ third_nav_title: Join Our Communities
 image: /images/Get Involved/Tech_Kaki_Appreciation_Dinner__1_.jpg
 ---
 <h2>A citizen community from all walks of life</h2>
-<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="GovTech community Tech Kaki networking" src="/images/Get Involved/Tech_kaki_1690x800.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="Tech Kaki Appreciation Dinner 2024" src="/images/Get Involved/techkaki_appreciation_dinner_2024.jpg">
 </div>
 <h3>About Tech Kaki</h3>
 <div class="isomer-image-wrapper">
-<img style="width: 70%;" height="auto" width="100%" alt="Tech Kaki logo" src="/images/Get Involved/techkaki_logo__horizontal_.png">
+<img style="width: 70%;" height="auto" width="100%" alt="Tech Kaki logo" src="/images/Get Involved/techkaki_logo.png">
 </div>
 <p>Citizens are at the heart of our work. Since 2016, a community of everyday
 people has played an active role in the development of our digital products
@@ -88,8 +87,7 @@ on Facebook.</div>
 </div>
 </a>
 </div>
-<h4>Upcoming engagements:</h4>
-<p></p>
+<h4>Past engagements:</h4>
 <div class="isomer-card-grid">
 <div class="isomer-card">
 <div class="isomer-card-body">
