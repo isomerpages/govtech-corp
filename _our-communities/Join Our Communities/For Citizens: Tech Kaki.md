@@ -87,8 +87,7 @@ on Facebook.</div>
 </div>
 </a>
 </div>
-<h4>Upcoming engagements:</h4>
-<p></p>
+<h4>Past engagements:</h4>
 <div class="isomer-card-grid">
 <div class="isomer-card">
 <div class="isomer-card-body">
