@@ -23,5 +23,8 @@ workshops on 5th November.</p>
 <p>Lightning talks across trending topics such as AI, cloud, urban technology,
 etc.</p>
 </li>
+<li>
+<p>Workshops, product showcases, and more!</p>
+</li>
 </ul>
 <p>For more details, visit the <a href="https://www.govtechstack.sg/" rel="noopener noreferrer nofollow" target="_blank">STACK 2024 event page</a>!</p>
