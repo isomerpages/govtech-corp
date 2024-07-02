@@ -8,7 +8,7 @@ third_nav_title: Our Journey
 variant: tiptap
 image: /images/About Us/Our_story_meta_image_compressed.jpg
 ---
-<h2>GovTech's story at a glance</h2>
+<h3>GovTech's story at a glance</h3>
 <p>The founding of GovTech in 2016 was an important milestone in Singapore’s
 digital government transformation. Discover our journey and the important
 achievements we’ve reached to further the Smart Nation initiative.</p>
