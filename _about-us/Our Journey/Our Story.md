@@ -16,11 +16,6 @@ achievements we’ve reached to further the Smart Nation initiative.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 80%;" height="auto" width="100%" alt="GovTech history and Singapore digital government journey" src="/images/About Us/govtech_infographics_Page_2.jpg">
 </div>
-<h3>A new chapter in our digital government journey</h3>
-<p></p>
-<div class="iframe-wrapper">
-<iframe style="max-width: 100%;" height="400" width="100%" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/1qJ8aQdDQvw?si=Q7FjDUunqoVYmQoP"></iframe>
-</div>
 <h4>How GovTech was launched in Singapore</h4>
 <p>GovTech was formed to spearhead the creation of government digital services
 for citizens, businesses and public officers.&nbsp;</p>
@@ -29,11 +24,6 @@ for citizens, businesses and public officers.&nbsp;</p>
 Infocomm and Media Development Authority (IMDA).&nbsp;</p>
 <p>The Government Technology Agency (GovTech) was then created to take on
 the Smart Nation engineering efforts from the former IDA.</p>
-<h3>The growth of GovTech</h3>
-<p></p>
-<div class="iframe-wrapper">
-<iframe style="max-width: 100%;" height="400" width="100%" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/TEmIuECWBHM?si=rOT2CT4vdUcir-_K"></iframe>
-</div>
 <h4>Building our organisation’s capabilities</h4>
 <p>Upon our launch in 2016, we established 5 capability centres to strengthen
 the public sector's engineering expertise and build the government's capabilities
@@ -42,11 +32,6 @@ in emerging technologies.&nbsp;</p>
 Services (for Application Design, Development and Deployment), Cybersecurity,
 Sensors &amp; IoT, and Government ICT Infrastructure. Many of our products
 and services tap on the expertise of more than 1 capability centre.</p>
-<h3>Building the foundations of a smart nation</h3>
-<p></p>
-<div class="iframe-wrapper">
-<iframe style="max-width: 100%;" height="400" width="100%" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/Wfc-Vg5KC8w?si=KznXi82Jiaah5zYF"></iframe>
-</div>
 <h4>The creation of the Singapore Government Tech Stack</h4>
 <p>The Singapore Government Tech Stack (SGTS) was a significant project by
 GovTech that drove the Smart Nation initiative forward.&nbsp;</p>
@@ -55,11 +40,6 @@ and faster way of building and implementing digital government services.</p>
 <p>This includes a more seamless and connected experience, easier exchange
 of data, and faster deployment of solutions without the need to build infrastructures
 from scratch.</p>
-<h3>Driving progress through global knowledge sharing</h3>
-<p></p>
-<div class="iframe-wrapper">
-<iframe style="max-width: 100%;" height="400" width="100%" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/wzko3Bef8Fk?si=Be_Htv0XG1LfkQqr"></iframe>
-</div>
 <h4>How GovTech maintains a world-class digital government</h4>
 <p>It’s important for us to stay on top of the latest digital standards and
 practices. Not only do we learn from our local tech experts. We also go
@@ -76,8 +56,8 @@ that we’ve developed to serve citizens, businesses and public officers
 such as Singpass, GoBusiness, Analytics.gov and more.&nbsp;&nbsp;</p>
 <p>Together with other government agencies, we have championed innovation
 and encouraged digital transformation within the government through services
-like HealthCerts with the Ministry of Health and Student Learning Space
-with the Ministry of Education.&nbsp;</p>
+like myENV with the National Environment Agency and Parents Gateway with
+the Ministry of Education.&nbsp;</p>
 <p>Beyond the development of products and services, we have attracted a large
 pool of tech talent that include software engineers, data scientists, DevOps
 engineers, UX/UI designers and more.&nbsp;</p>
