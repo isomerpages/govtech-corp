@@ -9,21 +9,22 @@ description: STACK Developer Conference 2024, GovTech’s biennial flagship
 image: /images/media/events/stack2024_cfp.jpg
 variant: tiptap
 ---
-<a class="isomer-image-wrapper" href="https://www.developer.tech.gov.sg/communities/events/conferences/stack-conference-2024/overview.html"><img style="width: 100%" height="auto" width="100%" alt="STACK Conference 2024 call for proposals" src="/images/media/events/stack2024_cfp.jpg"></a>
-<p></p>
+<a class="isomer-image-wrapper" href="https://www.govtechstack.sg/"><img style="width: 100%" height="auto" width="100%" alt="STACK Conference 2024 GovTech" src="/images/media/events/5b__TechNews_EDM.png"></a>
 <p><strong>STACK Developer Conference 2024</strong>, GovTech’s biennial flagship
-conference connecting Government, industry, and the tech community is happening
-from 6th to 7th November 2024, with pre-conference workshops on 5th November.</p>
-<p>Interested to speak at the conference?</p>
-<p>We’re looking for speakers to share your proposals if you would like to:</p>
+conference connecting the Government, industry, and tech community is happening
+from 6<sup>th</sup> to 7<sup>th</sup> November 2024, with pre-conference
+workshops on 5th November.</p>
+<p>What to expect:</p>
 <ul data-tight="true" class="tight">
 <li>
-<p>speak about a topic at our plenary or lightning talks; or</p>
+<p>Keynote and plenary speakers from the public and private sectors</p>
 </li>
 <li>
-<p>conduct technical workshop(s) for conference attendees</p>
+<p>Lightning talks across trending topics such as AI, cloud, urban technology,
+etc.</p>
+</li>
+<li>
+<p>Workshops, product showcases, and more!</p>
 </li>
 </ul>
-<p>For more details, visit the <a href="https://www.developer.tech.gov.sg/communities/events/conferences/stack-conference-2024/overview.html" rel="noopener noreferrer nofollow" target="_blank"><u>Singapore Government Developer Portal</u></a> today!</p>
-<p><em>Closing date for proposals submission: 12 July 2024</em>
-</p>
+<p>For more details, visit the <a href="https://www.govtechstack.sg/" rel="noopener noreferrer nofollow" target="_blank">STACK 2024 event page</a>!</p>
