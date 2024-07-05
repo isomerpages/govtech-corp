@@ -17,7 +17,7 @@ workshops on 5th November.</p>
 <p>What to expect:</p>
 <ul data-tight="true" class="tight">
 <li>
-<p>Keynotes and plenary speakers from the public and private sectors</p>
+<p>Keynote and plenary speakers from the public and private sectors</p>
 </li>
 <li>
 <p>Lightning talks across trending topics such as AI, cloud, urban technology,
