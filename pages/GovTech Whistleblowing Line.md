@@ -16,9 +16,6 @@ or submit them using the feedback form.</p>
 <p>The Whistleblowing Line includes:</p>
 <ul data-tight="true" class="tight">
 <li>
-<p>a dedicated hotline number: 1800-WHISTLE (1800 944 7853)</p>
-</li>
-<li>
 <p>a webpage:&nbsp;<a href="https://form.gov.sg/5bd91cac927f22000f64379a" rel="noopener noreferrer nofollow" target="_blank">Submit a report online</a>
 </p>
 </li>
