@@ -8,10 +8,12 @@ third_nav_title: Join Our Communities
 image: /images/Get Involved/Tech_Kaki_Appreciation_Dinner__1_.jpg
 ---
 <h2>A citizen community from all walks of life</h2>
+<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="Tech Kaki Appreciation Dinner 2024" src="/images/Get Involved/techkaki_appreciation_dinner_2024.jpg">
 </div>
 <h3>About Tech Kaki</h3>
+<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 70%;" height="auto" width="100%" alt="Tech Kaki logo" src="/images/Get Involved/techkaki_logo.png">
 </div>
