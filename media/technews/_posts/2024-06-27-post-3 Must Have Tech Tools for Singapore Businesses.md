@@ -87,9 +87,9 @@ as they transform and grow. It offers a comprehensive suite of intangible
 assets and intellectual property (IA/IP) service directories, resources
 and personalised recommendations to help businesses navigate the complex
 IA/IP landscape.</p>
-<p>
-<br>(These are just some of the few features on<a href="https://www.gobusiness.gov.sg/" rel="noopener noreferrer nofollow" target="_blank"><u> GoBusiness</u></a>, check out
-the site to learn more!)</p>
+<p></p>
+<p>(These are just some of the few features on <a href="https://www.gobusiness.gov.sg/" rel="noopener noreferrer nofollow" target="_blank">GoBusiness</a>, check out the site
+to learn more!)</p>
 <h3>Take B2B to the next level with TradeTrust</h3>
 <p><a href="/products-and-services/for-businesses/trade-transactions/" rel="noopener noreferrer nofollow" target="_blank">TradeTrust</a> is
 a framework designed to enhance the trustworthiness of electronic trade
