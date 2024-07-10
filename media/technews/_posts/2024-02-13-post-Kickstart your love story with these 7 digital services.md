@@ -1,5 +1,5 @@
 ---
-title: Kick start your love story with these 7 digital services
+title: Kickstart your love story with these 7 digital services
 permalink: /media/technews/kickstart-your-love-story-with-these-seven-digital-services/
 date: 2024-02-13
 layout: post
