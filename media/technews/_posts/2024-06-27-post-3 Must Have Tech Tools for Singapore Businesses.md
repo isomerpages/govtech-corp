@@ -80,16 +80,14 @@ which you can use to submit applications for various licences and permits
 from different government agencies simultaneously, saving you valuable
 time and effort.
 <br>
-<br>There’s also <a href="https://www.gobusiness.gov.sg/intellectual-property/ip-grow/?src=topnav" rel="noopener noreferrer nofollow" target="_blank"><u>GoBusiness IP Grow</u></a> which
-is designed to help businesses maximise the value of their intangible assets
-(IA) and intellectual property (IP). It offers a comprehensive suite of
-services including directories, personalised advice, and resources to help
-businesses grow and expand.</p>
-<p>Finally, if you're new to the food services industry and feeling a bit
-overwhelmed, the <a href="https://foodservices.gobusiness.gov.sg/licences/foodservices" rel="noopener noreferrer nofollow" target="_blank"><u>Guided Journey </u></a>feature
-is your lifeline. It provides step-by-step instructions on obtaining the
-necessary licences, ensuring you don't miss any crucial steps.
-<br>
+</p>
+<p>There’s also <a href="https://www.gobusiness.gov.sg/intellectual-property/ip-grow/?src=topnav" rel="noopener noreferrer nofollow" target="_blank"><u>GoBusiness IP Grow</u></a> which
+is designed to empower businesses in safeguarding their ideas and innovations
+as they transform and grow. It offers a comprehensive suite of intangible
+assets and intellectual property (IA/IP) service directories, resources
+and personalised recommendations to help businesses navigate the complex
+IA/IP landscape.</p>
+<p>
 <br>(These are just some of the few features on<a href="https://www.gobusiness.gov.sg/" rel="noopener noreferrer nofollow" target="_blank"><u> GoBusiness</u></a>, check out
 the site to learn more!)</p>
 <h3>Take B2B to the next level with TradeTrust</h3>
