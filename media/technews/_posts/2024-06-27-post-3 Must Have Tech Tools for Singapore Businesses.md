@@ -84,7 +84,7 @@ time and effort.
 <p>There’s also <a href="https://www.gobusiness.gov.sg/intellectual-property/ip-grow/?src=topnav" rel="noopener noreferrer nofollow" target="_blank"><u>GoBusiness IP Grow</u></a> which
 is designed to empower businesses in safeguarding their ideas and innovations
 as they transform and grow. It offers a comprehensive suite of intangible
-assets and intellectual property (IA/IP) service directories, resources
+assets and intellectual property (IA/IP) service directories, resources,
 and personalised recommendations to help businesses navigate the complex
 IA/IP landscape.</p>
 <p></p>
