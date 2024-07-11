@@ -1,0 +1,27 @@
+collections:
+  for-government-agencies:
+    output: true
+    order:
+      - Data & AI/.keep
+      - Data & AI/AnalyticsGov.md
+      - Data & AI/Video Analytics System.md
+      - Data & AI/Whole of Government Application Analytics (WOGAA).md
+      - Data & AI/DataGovSG.md
+      - Data & AI/GovText.md
+      - Government Transactions/.keep
+      - Government Transactions/Singpass API.md
+      - Government Transactions/RedeemSG.md
+      - Government Transactions/PaySG.md
+      - ICT and Infrastructure/.keep
+      - ICT and Infrastructure/Data Loss Prevention.md
+      - ICT and Infrastructure/Secure Internet Surfing.md
+      - Productivity and Marketing/.keep
+      - Productivity and Marketing/Digital Workplace.md
+      - Productivity and Marketing/FormSG.md
+      - Productivity and Marketing/VICA.md
+      - Productivity and Marketing/Pair Chat.md
+      - Productivity and Marketing/LaunchPad.md
+      - Productivity and Marketing/Transcribe.md
+      - Software Development/.keep
+      - Software Development/Singapore Government Tech Stack.md
+      - Software Development/Government on Commercial Cloud.md
