@@ -98,9 +98,9 @@ technology, enabling seamless interoperability across digital platforms
 for governments and businesses.</p>
 <p>In simple terms: It's kind of like a digital envelope for businesses,
 helping them to make their trade documents verifiable (Verifiable Documents)
-and/or transferable (Electronic Transferable Records - ETR)easily and securely.
-At the same time, the documents are portable and effective across digital
-systems.</p>
+and/or transferable (Electronic Transferable Records - ETR) easily and
+securely. At the same time, the documents are portable and effective across
+digital systems.</p>
 <p>Using TradeTrust, business owners can enhance the trustworthiness of the
 documents that they issue, reducing the risk of someone faking their documents
 because the issuer and integrity of the documents are cryptographically
