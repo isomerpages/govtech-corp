@@ -9,7 +9,7 @@ permalink: /
 notification: ""
 sections:
   - hero:
-      background: /images/Homepage/stack_2024_website_banner.png
+      background: /images/Homepage/website_2.png
       button: REGISTER NOW
       url: https://go.gov.sg/stack2024-gt
       key_highlights:
