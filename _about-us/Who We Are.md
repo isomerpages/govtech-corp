@@ -7,8 +7,7 @@ description: Get to know the lead agency driving Singapore’s Smart Nation
 variant: tiptap
 image: /images/About Us/Who_we_are_meta_image_compressed.jpg
 ---
-<h2>What is GovTech?</h2>
-<p></p>
+<h2>Who is GovTech?</h2>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="The team at GovTech working hard to create technology for the public good" src="/images/About Us/Who_we_are_banner_1690x800.jpg">
 </div>
@@ -117,11 +116,11 @@ Singapore. We leverage each other's strengths to get the best results.</div>
 or not, learn more about our communities below as you look for the right
 fit.</p>
 <p></p>
-<div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="/our-communities/join-our-communities/tech-kaki/" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Tech Kaki tech community Singapore logo" src="/images/Get Involved/Tech_Kaki_600x300.png"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Tech Kaki</div><div class="isomer-card-description">Co-create digital products and services for citizens' everyday use by attending user testing sessions, interviews and more.</div><div class="isomer-card-link">Join Tech Kaki community</div></div></a>
+<div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="/our-communities/join-our-communities/tech-kaki/" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Tech Kaki tech community Singapore logo" src="/images/About Us/Tech_Kaki_card.png"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Tech Kaki</div><div class="isomer-card-description">Co-create digital products and services for citizens' everyday use by attending user testing sessions, interviews and more.</div><div class="isomer-card-link">Join Tech Kaki community</div></div></a>
 <a rel="noopener noreferrer nofollow" href="/our-communities/join-our-communities/stack-community/" class="isomer-card">
 <div class="isomer-card-image">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="GovTech STACK community tech conference" src="/images/Get Involved/Stack_community_new__600x300.png">
+<img style="width: 100%" height="auto" width="100%" alt="GovTech STACK community tech conference" src="/images/About Us/STACK_card.png">
 </div>
 </div>
 <div class="isomer-card-body">
@@ -133,7 +132,7 @@ for networking through tech conferences and meet-ups.</div>
 </a>
 </div>
 <p></p>
-<div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="http://eepurl.com/cUwIsD" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Subscribe to the TechNews email newsletter" src="/images/About Us/Subscribe_to_TechNews_600x300.jpg"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Subscribe to TechNews</div><div class="isomer-card-description">Get tech tips, trend alerts, behind-the-scenes stories, GovTech updates and more when you sign up to receive TechNews newsletters.</div><div class="isomer-card-link">TechNews</div></div></a>
+<div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="http://eepurl.com/cUwIsD" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Subscribe to the TechNews email newsletter" src="/images/About Us/TechNews_card.png"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Subscribe to TechNews</div><div class="isomer-card-description">Get tech tips, trend alerts, behind-the-scenes stories, GovTech updates and more when you sign up to receive TechNews newsletters.</div><div class="isomer-card-link">Subscribe to TechNews</div></div></a>
 <a rel="noopener noreferrer nofollow" href="https://linktr.ee/connectwithgovtech" class="isomer-card">
 <div class="isomer-card-image">
 <div class="isomer-image-wrapper">
@@ -144,7 +143,7 @@ for networking through tech conferences and meet-ups.</div>
 <div class="isomer-card-title">Connect on social media</div>
 <div class="isomer-card-description">Follow us on social media for updates on new products and features, scholarship
 and job opportunities, life Inside GovTech, and much more!</div>
-<div class="isomer-card-link">Social media</div>
+<div class="isomer-card-link">Follow us on social media</div>
 </div>
 </a>
 </div>
