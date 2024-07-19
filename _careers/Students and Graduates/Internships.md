@@ -33,7 +33,6 @@ and gain access to courses and career workshops.</p>
 students who are up for a challenge and want to make a difference. If that
 sounds like you, first check out the timelines as well as guidelines for
 our internship applications.</p>
-<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="Application periods for GovTech's internship programmes" src="/images/careers/Internship_infographics.jpg">
 </div>
