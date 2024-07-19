@@ -28,6 +28,22 @@ lives of Singaporeans.</p>
 <img style="width: 100%" height="auto" width="100%" alt="Technology Associate Programme (TAP) application process" src="/images/careers/TAP_application_process.jpg">
 </div>
 <h3>Benefits of becoming a Tech Associate</h3>
+<p></p>
+<div class="isomer-card-grid">
+<div class="isomer-card">
+<div class="isomer-card-body">
+<div class="isomer-card-title">Structured rotation</div>
+<div class="isomer-card-description">Look forward to at least 2 rotations during your TAP journey.</div>
+</div>
+</div>
+<div class="isomer-card">
+<div class="isomer-card-body">
+<div class="isomer-card-title">Form camaraderie</div>
+<div class="isomer-card-description">Commence your TAP journey together with TAPpers in your cohort by starting
+work in May - Jun.</div>
+</div>
+</div>
+</div>
 <div class="isomer-card-grid">
 <div class="isomer-card">
 <div class="isomer-card-body">
