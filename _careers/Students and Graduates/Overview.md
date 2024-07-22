@@ -61,7 +61,7 @@ take part in various exciting projects and learning opportunities.</div>
 <p>GovTech offers numerous opportunities that will help you expand your career
 horizons. Take a look at the current list of programmes we host.</p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="GovTech's many opportunities for students and graduates." src="/images/careers/infographics_students_grad_22nd_jul.jpg">
+<img style="width: 80%;" height="auto" width="100%" alt="GovTech's many opportunities for students and graduates." src="/images/careers/infographics_students_grad_22nd_jul.jpg">
 </div>
 <p></p>
 <div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="/careers/students-and-graduates/geekout/" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="GeekOut is a fun-filled bootcamp for young tech enthusiasts" src="/images/careers/Students_graduates_600x300_1.jpg"></div></div><div class="isomer-card-body"><div class="isomer-card-title">GeekOut is a fun-filled boot camp for young tech enthusiasts</div><div class="isomer-card-description">GeekOut is a five-day technology bootcamp for Junior College and Polytechnic students to network with like-minded individuals and gain hands-on experiences with different technologies.</div><div class="isomer-card-link">Explore GeekOut</div></div></a>
