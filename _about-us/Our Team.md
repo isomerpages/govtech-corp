@@ -110,8 +110,7 @@ and Information</div>
 </div>
 <div class="isomer-card-body">
 <div class="isomer-card-title">Ms Melissa KHOO</div>
-<div class="isomer-card-description">Deputy Secretary (Higher Education And Skills), Ministry of Education
-(MOE)</div>
+<div class="isomer-card-description">Chief Executive Officer, Central Provident Fund Board</div>
 </div>
 </div>
 </div>
