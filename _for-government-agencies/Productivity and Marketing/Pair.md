@@ -126,15 +126,16 @@ more easily. Users can select one of three available sources - Hansard
 Parliamentary Reports, Supreme Court Judgments, or Legislation.</p>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Pair Search Sources" src="/images/Products and Services/For Government Agencies/Pair_search_sources.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="Pair Search feature demonstration" src="/images/Products and Services/For Government Agencies/product_update_search_1.gif">
 </div>
+<p></p>
 <p>Depending on your search query, you can select the source that best fit
 your needs. For a quick glance of the policy summary and timeline, users
-can utilise the AI-powered "Analyse Results" tools (right-side) to quickly
-discover the most important information.</p>
+can utilise the "Analyse Results" tools (right-side) to quickly discover
+the most important information.</p>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Hansard parliamentary records chosen as the source of information" src="/images/Products and Services/For Government Agencies/Pair_hansard_tool_compressed.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="Pair Search AI features demonstration" src="/images/Products and Services/For Government Agencies/product_update_search_2.gif">
 </div>
 <p></p>
 <p>Pair Search understands your search intent and supports filtering – all
@@ -148,6 +149,11 @@ try.</p>
 <summary><strong>Noms by Pair (Beta)</strong>
 </summary>
 <div data-type="detailsContent" class="isomer-details-content">
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Noms by Pair - feature demonstration" src="/images/Products and Services/For Government Agencies/product_update_noms.gif">
+</div>
+<p></p>
 <p>Currently in the pilot testing phase, this AI-powered tool generates the
 first draft of your meeting minutes in the precise format and style unique
 to government agencies.</p>
