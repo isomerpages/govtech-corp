@@ -15,11 +15,55 @@ image: /images/About Us/Who_we_are_meta_image_compressed.jpg
 and public sector digital transformation. We harness the power of technology
 to make lives better for citizens, businesses, international audiences
 and the public service sector.</p>
-<h3>Our vision:</h3>
-<p>Empowering our nation with possibilities through infocomm technology and
-related engineering technology.</p>
 <h3>Our mission:</h3>
 <p>Engineering Digital Government, Making Lives Better.</p>
+<h3>Our theory of success:</h3>
+<p></p>
+<div class="isomer-card-grid">
+<div class="isomer-card">
+<div class="isomer-card-body">
+<div class="isomer-card-title">Enabling Agencies to be Successful</div>
+<div class="isomer-card-description">We strive to build capabilities in agencies, uplift CIO teams, and strengthen
+our vendor-GovTech ecosystem.</div>
+</div>
+</div>
+<div class="isomer-card">
+<div class="isomer-card-body">
+<div class="isomer-card-title">Product Excellence</div>
+<div class="isomer-card-description">In addition to product quality, we aim to impart good product practices
+and strategies to government agencies.</div>
+</div>
+</div>
+<div class="isomer-card">
+<div class="isomer-card-body">
+<div class="isomer-card-title">Enabling Public Officers' Productivity</div>
+<div class="isomer-card-description">Productivity is enhanced by providing public officers with the right digital
+products and developing trust in our infrastructure.</div>
+</div>
+</div>
+<div class="isomer-card">
+<div class="isomer-card-body">
+<div class="isomer-card-title">Act as One GovTech</div>
+<div class="isomer-card-description">To fulfil GovTech's mission, we endeavour to optimise workflows across
+GovTech and encourage divisions to help each other succeed.</div>
+</div>
+</div>
+<div class="isomer-card">
+<div class="isomer-card-body">
+<div class="isomer-card-title">Organisational Excellence</div>
+<div class="isomer-card-description">To make GovTech a great place to work, we strive to have the best HR practices
+and establish ourselves as a learning organisation.</div>
+</div>
+</div>
+<div class="isomer-card">
+<div class="isomer-card-body">
+<div class="isomer-card-title">Right Culture</div>
+<div class="isomer-card-description">Apart from being agile, bold, and collaborative, we are open to feedback
+and driven by purpose to deliver impact. In the process, we also prioritise
+psychological safety.</div>
+</div>
+</div>
+</div>
 <h3>What does GovTech do?</h3>
 <p></p>
 <div data-type="detailGroup" class="isomer-accordion isomer-accordion-white">
