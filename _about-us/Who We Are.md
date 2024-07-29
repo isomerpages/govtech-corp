@@ -16,10 +16,7 @@ and public sector digital transformation. We harness the power of technology
 to make lives better for citizens, businesses, international audiences
 and the public service sector.</p>
 <h3>Our mission:</h3>
-<p>Engineering Digital Government, Making Lives Better.</p>
-<h3>Our vision:</h3>
-<p>Trusted, Seamless, and Cost-effective Government Services through Technology.</p>
-<h3>Our theory of success:</h3>
+<p>Engineering Digital Government, Making Lives Better.ur theory of success:</p>
 <p></p>
 <div class="isomer-card-grid">
 <div class="isomer-card">

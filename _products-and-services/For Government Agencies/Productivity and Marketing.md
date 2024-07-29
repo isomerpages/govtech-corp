@@ -43,11 +43,11 @@ forms within minutes, and even collect payments for transactions.</div>
 </div>
 </div>
 <div class="isomer-card-body">
-<div class="isomer-card-title">Pair Chat</div>
+<div class="isomer-card-title">Pair</div>
 <div class="isomer-card-description">Think ChatGPT, but made even more secure for public officers' use. This
 virtual personal assistant can help write emails, conduct research and
 ideate.</div>
-<div class="isomer-card-link">Explore Pair Chat</div>
+<div class="isomer-card-link">Explore Pair</div>
 </div>
 </a><a rel="noopener noreferrer nofollow" href="/products-and-services/for-government-agencies/productivity-and-marketing/launchpad/" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="LaunchPad is an AI innovation and experimentation platform designed to kickstart agencies' AI transformation journey" src="/images/Products and Services/For Government Agencies/LaunchPad_600x400.png"></div></div><div class="isomer-card-body"><div class="isomer-card-title">LaunchPad</div><div class="isomer-card-description">This innovation and experimentation platform allows public officers to experience generative AI and the capabilities of large language models.</div><div class="isomer-card-link">Explore LaunchPad</div></div></a>
 <a rel="noopener noreferrer nofollow" href="/products-and-services/for-government-agencies/productivity-and-marketing/transcribe/" class="isomer-card">
