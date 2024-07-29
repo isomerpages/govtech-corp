@@ -18,7 +18,7 @@ part of a pizza recipe — to cause a furore online. Less than a month later,
 the product was quietly <a href="https://www.nytimes.com/2024/06/01/technology/google-ai-overviews-rollback.html" class="editor-rtfLink" rel="noopener noreferrer nofollow" target="_blank">scaled back</a>.&nbsp;</p>
 <p>AI Overviews, as the new feature is known, would have represented one
 of the most prominent ways AI is entering our daily lives. Not for nothing
-is “google” a common verb now and to see AI generated text everytime we
+is “Google” a common verb now and to see AI-generated text every time we
 look for information would have been pretty in-your-face.&nbsp;</p>
 <p>But even with this setback, AI has already inexorably been infused into
 many of our interactions with technology. Here are some ways that you are,
@@ -54,14 +54,20 @@ Messenger) now work with Meta AI. One usually associates search in WhatsApp
 with trawling through your texting history, but now you can type questions
 like “what to do in London”, and Meta AI will generate a response in a
 chat thread.</p>
-<p>As for the Government, public sector websites can now integrate <a href="https://www.search.gov.sg" class="editor-rtfLink" rel="noopener noreferrer nofollow" target="_blank">SearchSG</a>,
-a search engine powered by machine learning. The tool has a “search all
-of government” feature, which allows users to find relevant information
-from one government website even though they are conducting their search
-on another.&nbsp;</p>
-<p>The SmartFinder function also replaces the conventional “Control + F”
-page search, displaying interactive page summaries along with page search
-results.</p>
+<p>As for the Government, public sector websites can now integrate GovTech's
+<a href="https://www.search.gov.sg" class="editor-rtfLink" rel="noopener noreferrer nofollow" target="_blank">SearchSG</a>, a search engine powered by machine learning that enhances
+citizens' search experience and discoverability of government information
+and services. For example, the tool has a <strong>SmartFinder</strong> function,
+a smart widget that replaces the conventional "Control + F" page search,
+displaying interactive AI-generated page summaries, FAQs and cross-agency
+recommendations along with page search results.</p>
+<p>Citizens will also have a bird's eye view of important information via
+the <strong>SmartSnippet</strong>, which auto extracts snippets from the
+most relevant documents and FAQs on the results page.</p>
+<p>To reduce the need for citizens to sift through numerous web results,
+SearchSG also has a Large Language Modelling-backed <strong>SmartAnswer</strong> feature
+that is able to provide concise and customised responses to search queries,
+supported with citations to ensure credibility and accuracy.</p>
 <p>It is not just large and established organisations that are revolutionising
 search. Search engines that are based <a href="https://www.nytimes.com/2024/02/01/technology/perplexity-search-ai-google.html" class="editor-rtfLink" rel="noopener noreferrer nofollow" target="_blank">entirely on AI</a> have
 also sprouted, again offering the user experience of search results in
@@ -148,11 +154,9 @@ lives of all who live here.</p>
 the AI race is only getting hotter. While no one can say for sure what
 the next AI products will look like, it’s safe to say that AI’s impact
 on our lives, in ways big and small, will get larger.</p>
-<p>Having some knowledge about how AI works will enable us to navigate the
-future with greater confidence. Don’t know where to start? Check out our
-article on ways you can <a href="https://www.tech.gov.sg/media/technews/5-free-ways-you-can-get-smarter-about-ai" class="editor-rtfLink" rel="noopener noreferrer nofollow" target="_blank">get smarter about AI</a>!
-After all, while machine learning is getting more advanced, human learning
-is pretty formidable too!</p>
+<p></p>
+<div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="/media/technews/5-free-ways-you-can-get-smarter-about-ai/" class="isomer-card"><div class="isomer-card-body"><div class="isomer-card-title">5 free ways you can get smarter about AI</div><div class="isomer-card-description">Having some knowledge about how AI works will enable us to navigate the future with greater confidence. Check out our article on ways you can get smarter about AI!</div><div class="isomer-card-link">Read more on TechNews</div></div></a>
+</div>
 <p></p>
 <div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="http://eepurl.com/cUwIsD" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Subscribe to the TechNews email newsletter" src="/images/CTA card images/TechNews_CTA_image.jpg"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Subscribe to the TechNews email newsletter</div><div class="isomer-card-link">TechNews</div></div></a>
 <a rel="noopener noreferrer nofollow" href="http://eepurl.com/hsr131" class="isomer-card">
