@@ -18,132 +18,6 @@ and the public service sector.</p>
 <h3>Our mission:</h3>
 <p>Engineering Digital Government, Making Lives Better.</p>
 <h3>Our theory of success:</h3>
-<table style="minWidth: 75px">
-<colgroup>
-<col>
-<col>
-<col>
-</colgroup>
-<tbody>
-<tr>
-<th rowspan="1" colspan="1">
-<p>Enabling Agencies to be Successful</p>
-</th>
-<th rowspan="1" colspan="1">
-<p>Product Excellence</p>
-</th>
-<th rowspan="1" colspan="1">
-<p>Enabling Public Officers' Productivity</p>
-</th>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<ul data-tight="true" class="tight">
-<li>
-<p>Build up capabilities in agencies</p>
-</li>
-<li>
-<p>Uplift CIO teams</p>
-</li>
-<li>
-<p>Strengthen vendor ecosystem</p>
-</li>
-</ul>
-</td>
-<td rowspan="1" colspan="1">
-<ul data-tight="true" class="tight">
-<li>
-<p>Product strategy</p>
-</li>
-<li>
-<p>Product quality</p>
-</li>
-<li>
-<p>Bring good product practices to agencies</p>
-</li>
-</ul>
-</td>
-<td rowspan="1" colspan="1">
-<ul data-tight="true" class="tight">
-<li>
-<p>Increase productivity by providing the right digital products</p>
-</li>
-<li>
-<p>Ensure trust in our infrastructure</p>
-</li>
-</ul>
-</td>
-</tr>
-</tbody>
-</table>
-<p></p>
-<table style="minWidth: 75px">
-<colgroup>
-<col>
-<col>
-<col>
-</colgroup>
-<tbody>
-<tr>
-<th rowspan="1" colspan="1">
-<p>Act as One GovTech</p>
-</th>
-<th rowspan="1" colspan="1">
-<p>Organisational Excellence</p>
-</th>
-<th rowspan="1" colspan="1">
-<p>Right Culture</p>
-</th>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<ul data-tight="true" class="tight">
-<li>
-<p>Bring the best of GovTech to the mission</p>
-</li>
-<li>
-<p>Optimise across GovTech</p>
-</li>
-<li>
-<p>Divisions help each other succeed</p>
-</li>
-</ul>
-</td>
-<td rowspan="1" colspan="1">
-<ul data-tight="true" class="tight">
-<li>
-<p>Good processes</p>
-</li>
-<li>
-<p>Learning organisation</p>
-</li>
-<li>
-<p>Best HR practices</p>
-</li>
-<li>
-<p>Great place to work</p>
-</li>
-</ul>
-</td>
-<td rowspan="1" colspan="1">
-<ul data-tight="true" class="tight">
-<li>
-<p>Agile, bold, collaborative</p>
-</li>
-<li>
-<p>Driven by purpose and deliver impact</p>
-</li>
-<li>
-<p>Open to feedback</p>
-</li>
-<li>
-<p>Psychological safety</p>
-</li>
-</ul>
-</td>
-</tr>
-</tbody>
-</table>
 <p></p>
 <div class="isomer-card-grid">
 <div class="isomer-card">
@@ -157,7 +31,7 @@ our vendor-GovTech ecosystem.</div>
 <div class="isomer-card-body">
 <div class="isomer-card-title">Product Excellence</div>
 <div class="isomer-card-description">In addition to product quality, we aim to impart good product practices
-and strategies to agencies.</div>
+and strategies to government agencies.</div>
 </div>
 </div>
 <div class="isomer-card">
