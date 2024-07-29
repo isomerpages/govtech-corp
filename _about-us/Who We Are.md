@@ -15,9 +15,6 @@ image: /images/About Us/Who_we_are_meta_image_compressed.jpg
 and public sector digital transformation. We harness the power of technology
 to make lives better for citizens, businesses, international audiences
 and the public service sector.</p>
-<h3>Our vision:</h3>
-<p>Empowering our nation with possibilities through infocomm technology and
-related engineering technology.</p>
 <h3>Our mission:</h3>
 <p>Engineering Digital Government, Making Lives Better.</p>
 <h3>What does GovTech do?</h3>
