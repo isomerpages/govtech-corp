@@ -119,7 +119,7 @@ trust them!</div>
 <div class="isomer-card-description">Shortened links like 'go.gov.sg', 'for.sg', 'for.edu.sg' can only be created
 by public servants, healthcare and education officers respectively.</div>
 </div>
-</div><a rel="noopener noreferrer nofollow" href="https://www.gov.sg/trusted-sites" class="isomer-card"><div class="isomer-card-body"><div class="isomer-card-title">Manually check the links you receive</div><div class="isomer-card-description">Scammers can create similar but illegitimate links. Examine the URL carefully.</div><div class="isomer-card-link">Here’s a list of trusted sites</div></div></a>
+</div><a rel="noopener noreferrer nofollow" href="https://www.gov.sg/trusted-sites" class="isomer-card"><div class="isomer-card-body"><div class="isomer-card-title">Manually check the links you receive</div><div class="isomer-card-description">Scammers can create similar but illegitimate links. Examine the URL carefully.</div><div class="isomer-card-link">Here's a list of trusted sites</div></div></a>
 </div>
 <p></p>
 <p></p>
