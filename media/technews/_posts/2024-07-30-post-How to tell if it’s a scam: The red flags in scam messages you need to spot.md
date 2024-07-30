@@ -59,7 +59,7 @@ been known to create good replicas of the real thing.</p>
 </p>
 <h4>Red flag #5: Unexpected payment requests</h4>
 <p>If you're transacting with the Government, you usually will have to use
-your SingPass to log in to the website. Always be sceptical when this doesn't
+your Singpass to log in to the website. Always be sceptical when this doesn't
 happen. The fact that PayNow also isn't offered as a payment option is
 a red flag.</p>
 <p>Stay alert to any unexpected requests for payments or fees, particularly
