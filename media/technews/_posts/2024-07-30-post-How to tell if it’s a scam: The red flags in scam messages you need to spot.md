@@ -42,7 +42,7 @@ information.</p>
 be an immediate red flag. That said, +65 (Singapore's country codes) aren't
 much better either; they should not be trusted, especially if it's from
 an unknown number.&nbsp;</p>
-<p><em>PS: Unfortunately scammers can also spoof a legitimate sender's number and email address, so you always have to be wary, regardless where the message is from.</em>
+<p><em>PS: Unfortunately, scammers can also spoof a legitimate sender's number and email address, so you always have to be wary, regardless where the message is from.</em>
 </p>
 <h3>Exhibit 2: The traffic fine</h3>
 <p></p>
