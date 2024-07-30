@@ -38,7 +38,7 @@ much better either; they should not be trusted, especially if it's from
 an unknown number.&nbsp;</p>
 <p><em>PS: Unfortunately scammers can also spoof a legitimate sender's number and email address, so you always have to be wary, regardless where the message is from.</em>
 </p>
-<h3>Exhibit 2: The traffic Fine</h3>
+<h3>Exhibit 2: The traffic fine</h3>
 <p>(Image)</p>
 <h4>Red flag #4: Dodgy website link</h4>
 <p>'police-gov.com' is a big red flag; You'd expect the police to have at
@@ -71,9 +71,9 @@ beef, and mooncakes.</p>
 it via original sources. In 2023, there was a scam that made people download
 a <a href="https://www.police.gov.sg/media-room/news/20230516_police_advisory_on_phishing_scams_involving_fake_scamshield_app#:~:text=The%20Police%20would%20like%20to,control%20of%20the%20victim's%20devices." rel="noopener noreferrer nofollow" target="_blank">fake ScamShield app</a> outside
 the Google Play store.</p>
-<h3>Exhibit 4: The Helpful Customer Service Staff</h3>
+<h3>Exhibit 4: The helpful customer service staff</h3>
 <p>(Image)</p>
-<h4>Red flag #7: Requesting Sensitive Information</h4>
+<h4>Red flag #7: Requesting sensitive information</h4>
 <p>Last but not least, always remember that someone requesting your One-Time
 Password (OTP) or personal passwords is a major security red flag. And
 yes, your SingPass credentials fall into this category; since a lot of
@@ -121,20 +121,15 @@ by public servants, healthcare and education officers respectively.</div>
 </div>
 </div><a rel="noopener noreferrer nofollow" href="https://www.gov.sg/trusted-sites" class="isomer-card"><div class="isomer-card-body"><div class="isomer-card-title">Manually check the links you receive</div><div class="isomer-card-description">Scammers can create similar but illegitimate links. Examine the URL carefully.</div><div class="isomer-card-link">Here's a list of trusted sites</div></div></a>
 </div>
-<p></p>
-<h4>Related Content</h4>
-<div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="https://www.isomer.gov.sg" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Placeholder image" src="https://placehold.co/600x400"></div></div><div class="isomer-card-body"><div class="isomer-card-title">This is a title for your card</div><div class="isomer-card-description">This is body text for your card. Describe your card.</div><div class="isomer-card-link">This is a link for your card</div></div></a>
-<a rel="noopener noreferrer nofollow" href="https://www.isomer.gov.sg" class="isomer-card">
-<div class="isomer-card-image">
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Placeholder image" src="https://placehold.co/600x400">
-</div>
-</div>
+<h4>Related content</h4>
+<div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="/media/technews/anyone-can-become-a-scam-victim" class="isomer-card"><div class="isomer-card-body"><div class="isomer-card-title">Why you might fall for a scam</div><div class="isomer-card-description">Four ways you might be letting your guard down – and allowing yourself to be scammed.</div><div class="isomer-card-link">Read more on TechNews</div></div></a>
+<a rel="noopener noreferrer nofollow" href="/media/technews/which-sms-links-are-scams-and-which-are-not" class="isomer-card">
 <div class="isomer-card-body">
-<div class="isomer-card-title">This is a title for your card</div>
-<div class="isomer-card-description">This is body text for your card. Describe your card.</div>
-<div class="isomer-card-link">This is a link for your card</div>
+<div class="isomer-card-title">Is that CDC voucher link a scam?</div>
+<div class="isomer-card-description">Scammers might exploit your interest in CDC vouchers. Learn how to avoid
+them.</div>
+<div class="isomer-card-link">Read more on TechNews</div>
 </div>
-</a><a rel="noopener noreferrer nofollow" href="https://www.isomer.gov.sg" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Placeholder image" src="https://placehold.co/600x400"></div></div><div class="isomer-card-body"><div class="isomer-card-title">This is a title for your card</div><div class="isomer-card-description">This is body text for your card. Describe your card.</div><div class="isomer-card-link">This is a link for your card</div></div></a>
+</a><a rel="noopener noreferrer nofollow" href="/media/technews/dont-let-the-scammers-huat-this-lunar-new-year" class="isomer-card"><div class="isomer-card-body"><div class="isomer-card-title">Lunar New Year might also be scam season</div><div class="isomer-card-description">Lunar New Year is about prosperity. Hang on to your money and don't let the scammers huat this festive season.</div><div class="isomer-card-link">Read more on TechNews</div></div></a>
 </div>
 <p></p>
