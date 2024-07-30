@@ -15,7 +15,10 @@ variant: tiptap
 pulled up some text messages from our inboxes to highlight what's not quite
 right with them.</p>
 <h3>Exhibit 1: The delivery delay</h3>
-<p>(Image)</p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Example of how a scam message can look like" src="/images/technews/Exhibit_1.jpg">
+</div>
 <h4>Red flag #1: It says Singapore Post instead of SingPost</h4>
 <p>Scammers often try to use generic names like "info" or "msginfo" in their
 emails and messages. 'Singapore Post' is a little bit more generic than
@@ -42,7 +45,10 @@ an unknown number.&nbsp;</p>
 <p><em>PS: Unfortunately scammers can also spoof a legitimate sender's number and email address, so you always have to be wary, regardless where the message is from.</em>
 </p>
 <h3>Exhibit 2: The traffic fine</h3>
-<p>(Image)</p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Example of a fake traffic fine message issued by scammers" src="/images/technews/TechNews_scam_article_traffic.png">
+</div>
 <h4>Red flag #4: Dodgy website link</h4>
 <p>'police-gov.com' is a big red flag; You'd expect the police to have at
 least <strong>'gov.sg'</strong> in the url. At least, the official one (
@@ -61,7 +67,10 @@ if they say that payments are urgent or overdue.</p>
 <p>Also, rest assured, the Singapore Government will give you ample time
 and notice to pay your fines.</p>
 <h3>Exhibit 3: The fake bank officer</h3>
-<p>(Image)</p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Example of fake bank officer impersonation by scammers" src="/images/technews/Exhibit_3_edited.jpg">
+</div>
 <h4>Red flag #6: You're instructed to download an app</h4>
 <p>If you're asked to download an app, there's a very high chance that the
 app is malware designed to steal your information.</p>
@@ -75,7 +84,10 @@ it via original sources. In 2023, there was a scam that made people download
 a <a href="https://www.police.gov.sg/media-room/news/20230516_police_advisory_on_phishing_scams_involving_fake_scamshield_app#:~:text=The%20Police%20would%20like%20to,control%20of%20the%20victim's%20devices." rel="noopener noreferrer nofollow" target="_blank">fake ScamShield app</a> outside
 the Google Play store.</p>
 <h3>Exhibit 4: The helpful customer service staff</h3>
-<p>(Image)</p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Fake helpful customer staff impersonation by scammers" src="/images/technews/Helpful_customer_staff.jpg">
+</div>
 <h4>Red flag #7: Requesting sensitive information</h4>
 <p>Last but not least, always remember that someone requesting your One-Time
 Password (OTP) or personal passwords is a major security red flag. And
@@ -134,5 +146,19 @@ them.</div>
 <div class="isomer-card-link">Read more on TechNews</div>
 </div>
 </a><a rel="noopener noreferrer nofollow" href="/media/technews/dont-let-the-scammers-huat-this-lunar-new-year" class="isomer-card"><div class="isomer-card-body"><div class="isomer-card-title">Lunar New Year might also be scam season</div><div class="isomer-card-description">Lunar New Year is about prosperity. Hang on to your money and don't let the scammers huat this festive season.</div><div class="isomer-card-link">Read more on TechNews</div></div></a>
+</div>
+<p></p>
+<div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="http://eepurl.com/cUwIsD" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Subscribe to the TechNews email newsletter" src="/images/CTA card images/TechNews_CTA_image.jpg"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Subscribe to the TechNews email newsletter</div><div class="isomer-card-link">TechNews</div></div></a>
+<a rel="noopener noreferrer nofollow" href="http://eepurl.com/hsr131" class="isomer-card">
+<div class="isomer-card-image">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Join the Tech Kaki user-testing community" src="/images/CTA card images/Tech_Kaki_CTA_image.jpg">
+</div>
+</div>
+<div class="isomer-card-body">
+<div class="isomer-card-title">Join the Tech Kaki user-testing community</div>
+<div class="isomer-card-link">Tech Kaki</div>
+</div>
+</a>
 </div>
 <p></p>
