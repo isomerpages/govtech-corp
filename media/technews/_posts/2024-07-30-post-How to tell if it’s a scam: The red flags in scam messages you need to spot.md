@@ -22,7 +22,7 @@ some reason to be suspicious.</p>
 message is authentic.</p>
 <p><em>PS: If you look carefully, 'Reminder' is also spelt as 'Remindaer'!&nbsp; Spelling errors are also another warning sign.</em>
 </p>
-<h4>Red flag #2: It Contains a Link!</h4>
+<h4>Red flag #2: It contains a link!</h4>
 <p>Also, as of Feb 28 2022, SingPost (as well as banks in Singapore) have
 stopped sending clickable links in their official SMSes. This one is suspicious
 for sure.</p>
@@ -31,16 +31,16 @@ a shortened URL, which has absolutely nothing to do with SingPost (<a href="http
 <p>Why is that a red flag? Messages with shortened URLs claiming to address
 delivery issues often lead to phishing sites designed to steal your personal
 information.</p>
-<h4>Red Flag #3: The Number Has a +63</h4>
+<h4>Red flag #3: The number has a +63</h4>
 <p>For starters, +63 is the country code for the Philippines, so that should
 be an immediate red flag. That said, +65 (Singapore's country codes) aren't
 much better either; they should not be trusted, especially if it's from
 an unknown number.&nbsp;</p>
 <p><em>PS: Unfortunately scammers can also spoof a legitimate sender's number and email address, so you always have to be wary, regardless where the message is from.</em>
 </p>
-<h3>Exhibit 2: The Traffic Fine</h3>
+<h3>Exhibit 2: The traffic Fine</h3>
 <p>(Image)</p>
-<h4>Red Flag #4: Dodgy Website Link</h4>
+<h4>Red flag #4: Dodgy website link</h4>
 <p>'police-gov.com' is a big red flag; You'd expect the police to have at
 least <strong>'gov.sg'</strong> in the url. At least, the official one (
 <a href="http://www.police.gov.sg" rel="noopener noreferrer nofollow" target="_blank">www.police.gov.sg</a>) does.</p>
