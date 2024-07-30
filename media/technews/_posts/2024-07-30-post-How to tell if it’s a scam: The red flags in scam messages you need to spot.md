@@ -77,11 +77,11 @@ app is malware designed to steal your information.</p>
 <p>This holds particularly true if it's a third-party app not found on official
 app stores such as Google Play or Apple App Store.</p>
 <p>In the past, scammers have tricked Singaporeans to download malware in
-the form of apps on the promise of good deals involving durians, wagyu
-beef, and mooncakes.</p>
+the form of apps on the promise of good deals involving <a href="https://www.channelnewsasia.com/singapore/e-commerce-scams-food-items-s20000-seafood-durian-wagyu-beef-3328556" rel="noopener noreferrer nofollow" target="_blank">durians, wagyu beef</a>,
+and <a href="https://www.straitstimes.com/singapore/online-mooncake-scam-27-people-lose-325000-in-a-month" rel="noopener noreferrer nofollow" target="_blank">mooncakes</a>.</p>
 <p>Remember – even if the app sounds like a trustable app, you need to download
 it via original sources. In 2023, there was a scam that made people download
-a <a href="https://www.police.gov.sg/media-room/news/20230516_police_advisory_on_phishing_scams_involving_fake_scamshield_app#:~:text=The%20Police%20would%20like%20to,control%20of%20the%20victim's%20devices." rel="noopener noreferrer nofollow" target="_blank">fake ScamShield app</a> outside
+a <a href="https://www.straitstimes.com/singapore/police-warn-against-new-phishing-scam-variant-involving-fake-scamshield-app" rel="noopener noreferrer nofollow" target="_blank">fake ScamShield app</a> outside
 the Google Play store.</p>
 <h3>Exhibit 4: The helpful customer service staff</h3>
 <p></p>
