@@ -48,7 +48,7 @@ least <strong>'gov.sg'</strong> in the url. At least, the official one (
 been known to create good replicas of the real thing.</p>
 <p><em>PS: Another way to avoid getting scammed is to wait for the official letter from the Traffic Police to see if you have indeed gotten a fine. Alternatively, you can file an appeal here, with your appeal number; they'd be able to advise if it's legitimate or not.</em>
 </p>
-<h4>Red Flag #5: Unexpected Payment Requests</h4>
+<h4>Red flag #5: Unexpected payment requests</h4>
 <p>If you're transacting with the Government, you usually will have to use
 your SingPass to log in to the website. Always be sceptical when this doesn't
 happen. The fact that PayNow also isn't offered as a payment option is
@@ -57,9 +57,9 @@ a red flag.</p>
 if they say that payments are urgent or overdue.</p>
 <p>Also, rest assured, the Singapore Government will give you ample time
 and notice to pay your fines.</p>
-<h3>Exhibit 3: The Fake Bank Officer</h3>
+<h3>Exhibit 3: The fake bank officer</h3>
 <p>(Image)</p>
-<h4>Red Flag #6: You're Instructed to Download an App</h4>
+<h4>Red flag #6: You're instructed to download an app</h4>
 <p>If you're asked to download an app, there's a very high chance that the
 app is malware designed to steal your information.</p>
 <p>This holds particularly true if it's a third-party app not found on official
