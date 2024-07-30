@@ -91,7 +91,7 @@ the Google Play store.</p>
 <h4>Red flag #7: Requesting sensitive information</h4>
 <p>Last but not least, always remember that someone requesting your One-Time
 Password (OTP) or personal passwords is a major security red flag. And
-yes, your SingPass credentials fall into this category; since a lot of
+yes, your Singpass credentials fall into this category; since a lot of
 your sensitive information can be assessed using it.</p>
 <p>Such requests are often signs of attempted fraud or hacking, as legitimate
 companies and services will never ask for this sensitive information via
@@ -101,12 +101,12 @@ of the person or entity asking for such details and never share your passwords
 or OTPs over phone calls, emails, or messages that you did not initiate
 or cannot independently verify.</p>
 <h3>How can we stay safe, then?</h3>
-<p>Scams are getting increasingly sophisticated every day. And they’re getting
+<p>Scams are getting increasingly sophisticated every day. And they're getting
 better and better at impersonating companies and the authorities.</p>
 <p>That being said, the first line of defence you can identify a legitimate
-link from the Singapore Government is to look for 'gov.sg' in the URL.
-In the past, some government sites did not all use 'gov.sg', but this is
-changing.&nbsp;&nbsp;</p>
+link from the Singapore Government is to look for <strong>'gov.sg'</strong> in
+the URL. In the past, some government sites did not all use <strong>'gov.sg'</strong>,
+but this is changing.&nbsp;&nbsp;</p>
 <p>Another way is to look out for <strong>'go.gov.sg', 'for.sg' or 'for.edu,sg'</strong> in
 the url. These shortened links can only be created by public servants,
 healthcare and education officers respectively, so you can be assured that
