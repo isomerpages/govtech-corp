@@ -7,6 +7,9 @@ description: ""
 image: /images/technews/TechNews__Red_flags_in_scam_messages.png
 variant: tiptap
 ---
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Red flags in scam messages that you need to spot" src="/images/technews/TechNews__Red_flags_in_scam_messages.png">
+</div>
 <p>Scam messages. We've all received them.</p>
 <p>But how can you tell if they're legitimate? The editorial team at TechNews
 pulled up some text messages from our inboxes to highlight what's not quite
