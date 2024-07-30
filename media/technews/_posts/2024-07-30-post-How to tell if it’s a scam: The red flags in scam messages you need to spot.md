@@ -42,8 +42,8 @@ an unknown number.&nbsp;</p>
 <p>(Image)</p>
 <h4>Red Flag #4: Dodgy Website Link</h4>
 <p>'police-gov.com' is a big red flag; You'd expect the police to have at
-least 'gov.sg' in the url. At least, the official one (<a href="http://www.police.gov.sg" rel="noopener noreferrer nofollow" target="_blank">www.police.gov.sg</a>)
-does.</p>
+least <strong>'gov.sg'</strong> in the url. At least, the official one (
+<a href="http://www.police.gov.sg" rel="noopener noreferrer nofollow" target="_blank">www.police.gov.sg</a>) does.</p>
 <p>This website may also look legitimate with the logo, but scammers have
 been known to create good replicas of the real thing.</p>
 <p><em>PS: Another way to avoid getting scammed is to wait for the official letter from the Traffic Police to see if you have indeed gotten a fine. Alternatively, you can file an appeal here, with your appeal number; they'd be able to advise if it's legitimate or not.</em>
