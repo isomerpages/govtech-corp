@@ -208,7 +208,7 @@ EY</div>
 </div>
 </div>
 </div>
-<h3>Senior leadership</h3>
+<h3>Senior Leadership</h3>
 <div class="isomer-card-grid">
 <div class="isomer-card">
 <div class="isomer-card-image">
@@ -230,8 +230,8 @@ Technology Agency of Singapore</div>
 </div>
 <div class="isomer-card-body">
 <div class="isomer-card-title">Mr CHANG Sau Sheong</div>
-<div class="isomer-card-description">Chief Technology Officer / Deputy Chief Executive, Government Digital
-Products</div>
+<div class="isomer-card-description">Chief Technology Officer / Deputy Chief Executive, Government Technology
+Office and Government Digital Products</div>
 </div>
 </div>
 <div class="isomer-card">
@@ -253,14 +253,14 @@ Products</div>
 </div>
 <div class="isomer-card-body">
 <div class="isomer-card-title">Mr Dominic CHAN</div>
-<div class="isomer-card-description">Chief Information Officer / Assistant Chief Executive, Technology Management
-Office</div>
+<div class="isomer-card-description">Chief Information Officer / Assistant Chief Executive, CIO Office and
+Technology Management Office</div>
 </div>
 </div>
 <div class="isomer-card">
 <div class="isomer-card-image">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="GovTech leader Justiin ANG" src="/images/About Us/Mr_Justiin_ANG_compressed.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="GovTech leader Justiin ANG" src="/images/our-team/Mr_Justiin_ANG.png">
 </div>
 </div>
 <div class="isomer-card-body">
@@ -277,7 +277,8 @@ Executive, Cybersecurity Group</div>
 </div>
 <div class="isomer-card-body">
 <div class="isomer-card-title">Mr TAN Bee Teck</div>
-<div class="isomer-card-description">Assistant Chief Executive, Enterprise SaaS</div>
+<div class="isomer-card-description">Assistant Chief Executive, Central Administration, Social, and Enterprise
+SaaS</div>
 </div>
 </div>
 <div class="isomer-card">
@@ -388,7 +389,7 @@ Group</div>
 </div>
 <div class="isomer-card-body">
 <div class="isomer-card-title">Mr Richard TAY</div>
-<div class="isomer-card-description">Senior Director, Public Officer Productivity</div>
+<div class="isomer-card-description">Senior Director, Infrastructure</div>
 </div>
 </div>
 <div class="isomer-card">
