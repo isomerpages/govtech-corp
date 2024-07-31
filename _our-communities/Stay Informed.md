@@ -76,7 +76,7 @@ insights, lessons from their time in GovTech and product development journeys.</
 <p>Government Digital Services</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="https://blog.gds-gov.tech" rel="noopener noreferrer nofollow" target="_blank">https://blog.gds-gov.tech</a>
+<p><a href="https://medium.com/singapore-gds" rel="noopener noreferrer nofollow" target="_blank">https://medium.com/singapore-gds</a>
 </p>
 </td>
 </tr>
