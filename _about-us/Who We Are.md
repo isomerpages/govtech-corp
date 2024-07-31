@@ -17,7 +17,7 @@ to make lives better for citizens, businesses, international audiences
 and the public service sector.</p>
 <h3>Our mission</h3>
 <p>Engineering Digital Government, Making Lives Better.</p>
-<h3>Our theory of succes</h3>
+<h3>Our theory of success</h3>
 <p></p>
 <div class="isomer-card-grid">
 <div class="isomer-card">
