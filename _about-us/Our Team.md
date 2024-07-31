@@ -230,8 +230,8 @@ Technology Agency of Singapore</div>
 </div>
 <div class="isomer-card-body">
 <div class="isomer-card-title">Mr CHANG Sau Sheong</div>
-<div class="isomer-card-description">Chief Technology Officer / Deputy Chief Executive, Government Digital
-Products</div>
+<div class="isomer-card-description">Chief Technology Officer / Deputy Chief Executive, Government Technology
+Office and Government Digital Products</div>
 </div>
 </div>
 <div class="isomer-card">
@@ -253,8 +253,8 @@ Products</div>
 </div>
 <div class="isomer-card-body">
 <div class="isomer-card-title">Mr Dominic CHAN</div>
-<div class="isomer-card-description">Chief Information Officer / Assistant Chief Executive, Technology Management
-Office</div>
+<div class="isomer-card-description">Chief Information Officer / Assistant Chief Executive, CIO Office and
+Technology Management Office</div>
 </div>
 </div>
 <div class="isomer-card">
@@ -277,7 +277,8 @@ Executive, Cybersecurity Group</div>
 </div>
 <div class="isomer-card-body">
 <div class="isomer-card-title">Mr TAN Bee Teck</div>
-<div class="isomer-card-description">Assistant Chief Executive, Enterprise SaaS</div>
+<div class="isomer-card-description">Assistant Chief Executive, Central Administration, Social, and Enterprise
+SaaS</div>
 </div>
 </div>
 <div class="isomer-card">
@@ -388,7 +389,7 @@ Group</div>
 </div>
 <div class="isomer-card-body">
 <div class="isomer-card-title">Mr Richard TAY</div>
-<div class="isomer-card-description">Senior Director, Public Officer Productivity</div>
+<div class="isomer-card-description">Senior Director, Infrastructure</div>
 </div>
 </div>
 <div class="isomer-card">
