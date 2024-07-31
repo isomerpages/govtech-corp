@@ -208,7 +208,7 @@ EY</div>
 </div>
 </div>
 </div>
-<h3>Senior leadership</h3>
+<h3>Senior Leadership</h3>
 <div class="isomer-card-grid">
 <div class="isomer-card">
 <div class="isomer-card-image">
