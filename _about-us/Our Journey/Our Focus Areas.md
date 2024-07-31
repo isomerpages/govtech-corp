@@ -111,7 +111,7 @@ digital services.</p>
 </div>
 <p>We invited The Purple Parade, Singapore’s movement for inclusion, to share
 how they celebrate all abilities as we raised funds for their cause.</p>
-<h4>Women in (Gov)Tech</h4>
+<h4>Women in GovTech</h4>
 <p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="Women in GovTech group photo" src="/images/About Us/GovTech_women_group_photo.jpg">
