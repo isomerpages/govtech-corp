@@ -260,7 +260,7 @@ Technology Management Office</div>
 <div class="isomer-card">
 <div class="isomer-card-image">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="GovTech leader Justiin ANG" src="/images/About Us/Mr_Justiin_ANG_compressed.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="GovTech leader Justiin ANG" src="/images/our-team/Mr_Justiin_ANG.png">
 </div>
 </div>
 <div class="isomer-card-body">
