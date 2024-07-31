@@ -7,9 +7,8 @@ third_nav_title: Our Achievements
 variant: tiptap
 image: /images/About Us/About_Us___Our_Achievements___Our_KPIs.jpg
 ---
-<h2>Key goals for the Digital Government Blueprint 2.0</h2>
-<p>As we advance our digital government, GovTech looks to the <a href="/about-us/what-we-do/our-role/" rel="noopener noreferrer nofollow" target="_blank">Digital Government Blueprint (DGB) 2.0</a> to
-identify the KPIs for our organisation.</p>
+<h2>Key goals for our Digital Government Journey</h2>
+<p></p>
 <h3>Our track record for meeting KPIs</h3>
 <h4>High citizen satisfaction with government digital services</h4>
 <p>Singaporeans responded positively when asked about their satisfaction
