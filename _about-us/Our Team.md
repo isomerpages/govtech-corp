@@ -70,7 +70,7 @@ and Information</div>
 <div class="isomer-card">
 <div class="isomer-card-image">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="GovTech leader Derrick Goh" src="/images/our-team/Mr_DERRICK_Goh.png">
+<img style="width: 100%" height="auto" width="100%" alt="GovTech leader Derrick Goh" src="/images/our-team/Mr_Derrick_Goh.png">
 </div>
 </div>
 <div class="isomer-card-body">
@@ -129,7 +129,7 @@ and Information</div>
 <div class="isomer-card">
 <div class="isomer-card-image">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="GovTech leader Stacey N. Lacy" src="/images/our-team/Ms_Stacey_LACY.png">
+<img style="width: 100%" height="auto" width="100%" alt="GovTech leader Stacey N. Lacy" src="/images/our-team/Ms_Stacey_Lacy.png">
 </div>
 </div>
 <div class="isomer-card-body">
@@ -166,7 +166,7 @@ EY</div>
 <div class="isomer-card">
 <div class="isomer-card-image">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="GovTech leader Shonn Mills" src="/images/About Us/Shonn_MILLS.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="GovTech leader Shonn Mills" src="/images/our-team/Mr_Shonn_Mills.png">
 </div>
 </div>
 <div class="isomer-card-body">
@@ -177,7 +177,7 @@ EY</div>
 <div class="isomer-card">
 <div class="isomer-card-image">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="GovTech leader Noah Pepper" src="/images/our-team/Mr_Noah_PEPPER.png">
+<img style="width: 100%" height="auto" width="100%" alt="GovTech leader Noah Pepper" src="/images/our-team/Mr_Noah_Pepper.png">
 </div>
 </div>
 <div class="isomer-card-body">
@@ -194,17 +194,6 @@ EY</div>
 <div class="isomer-card-body">
 <div class="isomer-card-title">Ms Vaishali RASTOGI</div>
 <div class="isomer-card-description">Global Leader Of Technology, Media And Telecommunications Business, BCG</div>
-</div>
-</div>
-<div class="isomer-card">
-<div class="isomer-card-image">
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="GovTech leader Mervyn Tan" src="/images/About Us/Mervyn_TAN.jpg">
-</div>
-</div>
-<div class="isomer-card-body">
-<div class="isomer-card-title">Mr Mervyn TAN</div>
-<div class="isomer-card-description">Chief Executive, Defence Science and Technology Agency (DSTA)</div>
 </div>
 </div>
 </div>
