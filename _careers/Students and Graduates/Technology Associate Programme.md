@@ -114,7 +114,7 @@ for you to tap into.</div>
 </div>
 <h3>Interested in joining TAP?</h3>
 <p></p>
-<div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="https://go.gov.sg/GovTechTalentCommunity" class="isomer-card"><div class="isomer-card-body"><div class="isomer-card-title">Join our talent community to stay updated on TAP application periods</div><div class="isomer-card-link">Join our community</div></div></a>
+<div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="https://go.gov.sg/TAP2025" class="isomer-card"><div class="isomer-card-body"><div class="isomer-card-title">TAP application is open from 1 Aug - 31 Aug 2024</div><div class="isomer-card-link">Apply Now</div></div></a>
 <a rel="noopener noreferrer nofollow" href="mailto:AreYouIT@tech.gov.sg" class="isomer-card">
 <div class="isomer-card-body">
 <div class="isomer-card-title">Have an enquiry? Reach out to us directly</div>

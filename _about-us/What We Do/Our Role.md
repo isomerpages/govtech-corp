@@ -26,16 +26,13 @@ key activities, such as SafeEntry and TraceTogether.</p>
 </div>
 <h3>What's next for our digital government?</h3>
 <p>GovTech has its eyes set on harnessing new technologies and leveraging
-on data, as part of the Digital Government Blueprint (DGB) 2.0.&nbsp;</p>
-<p>Since the launch of the first DGB in 2018, we have successfully digitalised
+on data.&nbsp;</p>
+<p>Since the launch of the DGB in 2018, we have successfully digitalised
 government services and achieved high citizen and business satisfaction
 through products like Singpass.&nbsp;</p>
-<p>With DGB 2.0, GovTech will drive even more digital government transformation
+<p>GovTech will continue to drive even more digital government transformation
 to support the Smart Nation initiative.</p>
 <p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 75%;" height="auto" width="100%" alt="GovTech in Singapore Digital Government Blueprint 2.0" src="/images/About Us/our_role_infographic.jpg">
-</div>
 <h3>Our key areas of work</h3>
 <p>GovTech is a key driver in digital transformation. We create impactful
 government digital services which drive Singapore’s Smart Nation vision.</p>
