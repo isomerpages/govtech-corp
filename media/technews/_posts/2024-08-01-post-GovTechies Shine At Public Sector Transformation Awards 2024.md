@@ -96,7 +96,6 @@ thereby minimising missed opportunities and potential revenue losses.</p>
 <p>According to Mr. Eos Ong from Sunnystep Pte. Ltd, an enterprise user,
 "It wasn’t easy to find IP expertise, but our search for IP services became
 much faster and more reliable with IP Grow."</p>
-<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="GovTech at Public Sector Transformation Awards 2024" src="/images/technews/PST_4.jpg">
 </div>
