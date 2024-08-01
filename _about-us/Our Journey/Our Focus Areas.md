@@ -25,7 +25,7 @@ areas include:</p>
 <p>Strengthening enablers for agencies to leverage digital technology</p>
 </li>
 </ul>
-<h3>Diversity and Inclusion in GovTech</h3>
+<h3>Diversity and Inclusion</h3>
 <p>GovTech creates products and services for every citizen — that includes
 vulnerable communities such as the elderly and persons with disabilities.</p>
 <p>Many of our products have strong accessibility features, like enabling
