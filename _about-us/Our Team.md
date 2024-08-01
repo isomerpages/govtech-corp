@@ -196,17 +196,6 @@ EY</div>
 <div class="isomer-card-description">Global Leader Of Technology, Media And Telecommunications Business, BCG</div>
 </div>
 </div>
-<div class="isomer-card">
-<div class="isomer-card-image">
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="GovTech leader Mervyn Tan" src="/images/About Us/Mervyn_TAN.jpg">
-</div>
-</div>
-<div class="isomer-card-body">
-<div class="isomer-card-title">Mr Mervyn TAN</div>
-<div class="isomer-card-description">Chief Executive, Defence Science and Technology Agency (DSTA)</div>
-</div>
-</div>
 </div>
 <h3>Senior Leadership</h3>
 <div class="isomer-card-grid">
