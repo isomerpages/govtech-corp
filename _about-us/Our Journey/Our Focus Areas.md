@@ -10,62 +10,21 @@ image: /images/About Us/Our_focus_areas___meta_image.jpg
 ---
 <h2>Our commitment to build a digital government</h2>
 <p>When it comes to building Singapore’s digital government, GovTech’s focus
-areas are outlined by the 5 thrusts as defined by the Digital Government
-Blueprint (DGB) 2.0.&nbsp;</p>
-<p>This includes ensuring government services are easy to access and use
-for Singaporeans, improving the workplace experience for public officers,
-uplifting digital capabilities to enable bolder transformation, strengthening
-enablers for agencies to leverage digital technology, and maximising the
-use of our available resources.</p>
-<p>Learn more about the <a href="/about-us/what-we-do/our-role/" rel="noopener noreferrer nofollow" target="_blank">DGB 2.0</a> and what building a digital
-government entails.</p>
-<h3>Sustainability at the core of GovTech</h3>
-<p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Sustainability at the core of GovTech" src="/images/About Us/Sustainability_Green_GovTechies_1690x800.jpg">
-</div>
-<p>We believe that sustainability should influence everything that we do.&nbsp;</p>
-<p>This is why we have adopted a Sustainability Framework with 3 key pillars
-— Sustainable Organisation, Sustainable Information and Communications
-Technology &amp; Smart Systems (ICT&amp;SS) and Digital Innovation for
-Sustainability.</p>
-<p>With these pillars, GovTech can drive sustainable digitalisation practices
-to support the Singapore Green Plan 2030 goals and achieve net zero emissions
-by 2045.</p>
-<p>Visit our page on <a href="/our-digital-government-efforts/sustainability/" rel="noopener noreferrer nofollow" target="_blank">Sustainability</a> to
-learn more about our green efforts.</p>
-<p></p>
-<div class="isomer-card-grid">
-<div class="isomer-card">
-<div class="isomer-card-image">
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="GovTech Green Bounce station where GovTechies can reuse paper bags and containers to recycle them." src="/images/About Us/Our_focus_areas_sustainability_600x300_1.jpg">
-</div>
-</div>
-<div class="isomer-card-body">
-<div class="isomer-card-title">Green ‘Bounce’ Station</div>
-<div class="isomer-card-description">GovTech’s Green ‘Bounce’ Station encourages the use of reusable bags,
-lunch boxes, and cutlery.</div>
-</div>
-</div>
-<div class="isomer-card">
-<div class="isomer-card-image">
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Green Week 2023: GovTechies take the Green Pledge and participate in green activities." src="/images/About Us/Our_focus_areas_sustainability_600x300_2.jpg">
-</div>
-</div>
-<div class="isomer-card-body">
-<div class="isomer-card-title">Green GovTech Week</div>
-<div class="isomer-card-description">During the Green GovTech Week, GovTechies took the Green Pledge and participated
-in various green activities, learning how to drive sustainability in the
-public sector and Singapore.</div>
-</div>
-</div>
-</div>
-<p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 80%;" height="auto" width="100%" alt="GovTech sustainability framework to support Singapore Green Plan 2030" src="/images/About Us/our_focus_areas_infographic.jpg">
-</div>
+areas include:</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Ensuring that government services are easy to access and use for Singaporeans</p>
+</li>
+<li>
+<p>Improving the workplace experience and productivity of public officers</p>
+</li>
+<li>
+<p>Uplifting digital capabilities to enable bolder transformation</p>
+</li>
+<li>
+<p>Strengthening enablers for agencies to leverage digital technology</p>
+</li>
+</ul>
 <h3>Diversity and Inclusion in GovTech</h3>
 <p>GovTech creates products and services for every citizen — that includes
 vulnerable communities such as the elderly and persons with disabilities.</p>
@@ -134,4 +93,51 @@ responsibility (CSR) efforts like the annual Hair for Hope (HfH).</p>
 <p>We recently collaborated with <a href="https://www.ccf.org.sg/get-involved/hair-for-hope/" rel="noopener noreferrer nofollow" target="_blank">Children's Cancer Foundation</a> to
 organise a HfH event at GovTech's main office, where 46 brave GovTechies
 made a <em>bald</em> statement by shaving their heads for <a href="https://www.instagram.com/p/C7eBYIsJuA-/?utm_source=ig_web_copy_link&amp;igsh=MzRlODBiNWFlZA==" rel="noopener noreferrer nofollow" target="_blank">Hair for Hope 2024</a>.</p>
+<h3>Sustainability at the core of GovTech</h3>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Sustainability at the core of GovTech" src="/images/About Us/Sustainability_Green_GovTechies_1690x800.jpg">
+</div>
+<p>We believe that sustainability should influence everything that we do.&nbsp;</p>
+<p>This is why we have adopted a Sustainability Framework with 3 key pillars
+— Sustainable Organisation, Sustainable Information and Communications
+Technology &amp; Smart Systems (ICT&amp;SS) and Digital Innovation for
+Sustainability.</p>
+<p>With these pillars, GovTech can drive sustainable digitalisation practices
+to support the Singapore Green Plan 2030 goals and achieve net zero emissions
+by 2045.</p>
+<p>Visit our page on <a href="/our-digital-government-efforts/sustainability/" rel="noopener noreferrer nofollow" target="_blank">Sustainability</a> to
+learn more about our green efforts.</p>
+<p></p>
+<div class="isomer-card-grid">
+<div class="isomer-card">
+<div class="isomer-card-image">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="GovTech Green Bounce station where GovTechies can reuse paper bags and containers to recycle them." src="/images/About Us/Our_focus_areas_sustainability_600x300_1.jpg">
+</div>
+</div>
+<div class="isomer-card-body">
+<div class="isomer-card-title">Green ‘Bounce’ Station</div>
+<div class="isomer-card-description">GovTech’s Green ‘Bounce’ Station encourages the use of reusable bags,
+lunch boxes, and cutlery.</div>
+</div>
+</div>
+<div class="isomer-card">
+<div class="isomer-card-image">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Green Week 2023: GovTechies take the Green Pledge and participate in green activities." src="/images/About Us/Our_focus_areas_sustainability_600x300_2.jpg">
+</div>
+</div>
+<div class="isomer-card-body">
+<div class="isomer-card-title">Green GovTech Week</div>
+<div class="isomer-card-description">During the Green GovTech Week, GovTechies took the Green Pledge and participated
+in various green activities, learning how to drive sustainability in the
+public sector and Singapore.</div>
+</div>
+</div>
+</div>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 80%;" height="auto" width="100%" alt="GovTech sustainability framework to support Singapore Green Plan 2030" src="/images/About Us/our_focus_areas_infographic.jpg">
+</div>
 <p></p>
