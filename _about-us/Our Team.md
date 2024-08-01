@@ -70,7 +70,7 @@ and Information</div>
 <div class="isomer-card">
 <div class="isomer-card-image">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="GovTech leader Derrick Goh" src="/images/About Us/DERRICK_Goh.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="GovTech leader Derrick Goh" src="/images/our-team/Mr_DERRICK_Goh.png">
 </div>
 </div>
 <div class="isomer-card-body">
@@ -129,7 +129,7 @@ and Information</div>
 <div class="isomer-card">
 <div class="isomer-card-image">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="GovTech leader Stacey N. Lacy" src="/images/About Us/Stacey_N__LACY.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="GovTech leader Stacey N. Lacy" src="/images/our-team/Ms_Stacey_LACY.png">
 </div>
 </div>
 <div class="isomer-card-body">
@@ -177,7 +177,7 @@ EY</div>
 <div class="isomer-card">
 <div class="isomer-card-image">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="GovTech leader Noah Pepper" src="/images/About Us/Noah_PEPPER.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="GovTech leader Noah Pepper" src="/images/our-team/Mr_Noah_PEPPER.png">
 </div>
 </div>
 <div class="isomer-card-body">
