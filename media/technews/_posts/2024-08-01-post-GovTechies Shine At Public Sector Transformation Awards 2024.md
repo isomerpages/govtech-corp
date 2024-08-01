@@ -51,10 +51,11 @@ manually. With Case Connect, case workers can now refer cases, share updates,
 coordinate on a single case plan for clients, and track the case plan progress
 on a single page, providing Comprehensive, Convenient, and Coordinated
 (3C) support for clients.</p>
-<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="GovTech at Public Sector Transformation Awards 2024" src="/images/technews/PST_2.jpg">
 </div>
+<p><em>Case Connect team recognised at the Public Sector Transformation Awards 2024</em>
+</p>
 <h3>One Public Service Award: Project Cumulus</h3>
 <p><em>In collaboration with AGD, PSD, and VITAL</em>
 </p>
@@ -78,10 +79,11 @@ capabilities to bridge policy-ops gaps.</p>
 managing MP appeals onboarded by July 2022. To date, the team has achieved
 an impressive adoption rate of 90% among 92 MP divisions (including opposition)
 for the system.</p>
-<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="GovTech at Public Sector Transformation Awards 2024" src="/images/technews/PST_3.jpg">
 </div>
+<p><em>Recognising excellence: Case Connect team's victory at the Public Sector Transformation Awards 2024</em>
+</p>
 <h3>Service Delivery Excellence Award: GoBusiness IP Grow</h3>
 <p><em>In collaboration with IPOS and MTI</em>
 </p>
