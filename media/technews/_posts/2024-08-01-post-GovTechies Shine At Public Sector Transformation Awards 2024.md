@@ -114,10 +114,11 @@ guiding his team towards success and inspiring transformative growth. His
 focus on nurturing the well-being and development of individual team members
 has set the stage for remarkable achievements. Cheers to Andre for his
 outstanding contributions!</p>
-<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="GovTech at Public Sector Transformation Awards 2024" src="/images/technews/PST_5.jpg">
 </div>
+<p><em>Honouring Andre for exceptional leadership in combating cyber threats and scams</em>
+</p>
 <h3>One Public Service Award: Counter Ransomware Task Force (CRTF)</h3>
 <p><em>In collaboration with CSA, AGC, IMDA, MAS, MHA, and MINDEF</em>
 </p>
