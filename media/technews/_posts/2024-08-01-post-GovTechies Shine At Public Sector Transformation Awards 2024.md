@@ -100,6 +100,8 @@ much faster and more reliable with IP Grow."</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="GovTech at Public Sector Transformation Awards 2024" src="/images/technews/PST_4.jpg">
 </div>
+<p><em>GoBusiness IP Grow team revolutionising intangible assets and intellectual property services</em>
+</p>
 <h3>Exemplary Leader Award: Andre Ng, Assistant Director, Detection and Response Engineering, Cybersecurity Group</h3>
 <p>Andre embodies the epitome of individual mastery, exceptional performance,
 unwavering drive, and steadfast leadership. His infectious collaborative
