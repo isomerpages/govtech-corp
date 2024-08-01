@@ -33,7 +33,11 @@ the Ministry of Education. What used to take an hour to draft is now reduced
 to about 15 minutes, significantly decreasing the time taken for teachers
 to compose students’ testimonials. This application has since benefited
 over 4,000 teachers, with more than 40,000 testimonials generated to date.</p>
-<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="GovTech at Public Sector Transformation Awards 2024" src="/images/technews/PST_1.jpg">
+</div>
+<p><em>LaunchPad team celebrates their award win at the Public Sector Transformation Awards 2024</em>
+</p>
 <h3>One Public Service Award: Case Connect (Referral &amp; Coordination)</h3>
 <p><em>In collaboration with MSF, CPFB, HDB, ITE, MinLaw, MOE, MOH, MUIS, PA, SPS, and WSG</em>
 </p>
@@ -48,6 +52,9 @@ coordinate on a single case plan for clients, and track the case plan progress
 on a single page, providing Comprehensive, Convenient, and Coordinated
 (3C) support for clients.</p>
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="GovTech at Public Sector Transformation Awards 2024" src="/images/technews/PST_2.jpg">
+</div>
 <h3>One Public Service Award: Project Cumulus</h3>
 <p><em>In collaboration with AGD, PSD, and VITAL</em>
 </p>
@@ -72,6 +79,9 @@ managing MP appeals onboarded by July 2022. To date, the team has achieved
 an impressive adoption rate of 90% among 92 MP divisions (including opposition)
 for the system.</p>
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="GovTech at Public Sector Transformation Awards 2024" src="/images/technews/PST_3.jpg">
+</div>
 <h3>Service Delivery Excellence Award: GoBusiness IP Grow</h3>
 <p><em>In collaboration with IPOS and MTI</em>
 </p>
@@ -85,6 +95,9 @@ thereby minimising missed opportunities and potential revenue losses.</p>
 "It wasn’t easy to find IP expertise, but our search for IP services became
 much faster and more reliable with IP Grow."</p>
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="GovTech at Public Sector Transformation Awards 2024" src="/images/technews/PST_4.jpg">
+</div>
 <h3>Exemplary Leader Award: Andre Ng, Assistant Director, Detection and Response Engineering, Cybersecurity Group</h3>
 <p>Andre embodies the epitome of individual mastery, exceptional performance,
 unwavering drive, and steadfast leadership. His infectious collaborative
@@ -99,6 +112,9 @@ focus on nurturing the well-being and development of individual team members
 has set the stage for remarkable achievements. Cheers to Andre for his
 outstanding contributions!</p>
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="GovTech at Public Sector Transformation Awards 2024" src="/images/technews/PST_5.jpg">
+</div>
 <h3>One Public Service Award: Counter Ransomware Task Force (CRTF)</h3>
 <p><em>In collaboration with CSA, AGC, IMDA, MAS, MHA, and MINDEF</em>
 </p>
