@@ -3,7 +3,9 @@ title: GovTechies Shine At Public Sector Transformation Awards 2024
 permalink: /media/technews/govtechies-shine-at-public-sector-transformation-awards-2024/
 date: 2024-08-01
 layout: post
-description: ""
+description: Recognising government agencies' achievements at the Public Sector
+  Transformation Awards, where groundbreaking projects like LaunchPad, Case
+  Connect, and Project Cumulus were highlighted.
 image: /images/technews/PST_Awards_2024.png
 variant: tiptap
 ---
@@ -34,9 +36,9 @@ to about 15 minutes, significantly decreasing the time taken for teachers
 to compose students’ testimonials. This application has since benefited
 over 4,000 teachers, with more than 40,000 testimonials generated to date.</p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="GovTech at Public Sector Transformation Awards 2024" src="/images/technews/PST_1.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="LaunchPad team from GovTech" src="/images/technews/launchpad_govtech_team.jpg">
 </div>
-<p><em>LaunchPad team celebrates their award win at the Public Sector Transformation Awards 2024</em>
+<p><em>LaunchPad team driving AI innovation and experimentation across the public sector</em>
 </p>
 <h3>One Public Service Award: Case Connect (Referral &amp; Coordination)</h3>
 <p><em>In collaboration with MSF, CPFB, HDB, ITE, MinLaw, MOE, MOH, MUIS, PA, SPS, and WSG</em>
@@ -145,11 +147,11 @@ outstanding accomplishments and the remarkable individuals and teams behind
 them, as they continue to inspire and lead the way in shaping the future
 of public service excellence.</p>
 <p></p>
-<div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="http://eepurl.com/cUwIsD" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Subscribe to the TechNews email newsletter" src="/images/CTA card images/TechNews_CTA_image.jpg"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Subscribe to the TechNews email newsletter</div><div class="isomer-card-link">TechNews</div></div></a>
+<div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="http://eepurl.com/cUwIsD" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Subscribe to the TechNews email newsletter" src="/images/CTA card images/technews_footer.jpg"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Subscribe to the TechNews email newsletter</div><div class="isomer-card-link">TechNews</div></div></a>
 <a rel="noopener noreferrer nofollow" href="http://eepurl.com/hsr131" class="isomer-card">
 <div class="isomer-card-image">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Join the Tech Kaki user-testing community" src="/images/CTA card images/Tech_Kaki_CTA_image.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="Join the Tech Kaki user-testing community" src="/images/CTA card images/techkaki_footer.jpg">
 </div>
 </div>
 <div class="isomer-card-body">
