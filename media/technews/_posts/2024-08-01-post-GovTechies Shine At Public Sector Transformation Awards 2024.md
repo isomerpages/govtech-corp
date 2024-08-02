@@ -34,9 +34,9 @@ to about 15 minutes, significantly decreasing the time taken for teachers
 to compose students’ testimonials. This application has since benefited
 over 4,000 teachers, with more than 40,000 testimonials generated to date.</p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="GovTech at Public Sector Transformation Awards 2024" src="/images/technews/PST_1.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="LaunchPad team from GovTech" src="/images/technews/launchpad_govtech_team.jpg">
 </div>
-<p><em>LaunchPad team celebrates their award win at the Public Sector Transformation Awards 2024</em>
+<p><em>LaunchPad team driving AI innovation and experimentation across the public sector</em>
 </p>
 <h3>One Public Service Award: Case Connect (Referral &amp; Coordination)</h3>
 <p><em>In collaboration with MSF, CPFB, HDB, ITE, MinLaw, MOE, MOH, MUIS, PA, SPS, and WSG</em>
