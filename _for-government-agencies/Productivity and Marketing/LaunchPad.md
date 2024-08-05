@@ -266,10 +266,9 @@ of their efforts!</p>
 <summary>Ideas from the WOG 2023 Ideathon</summary>
 <div data-type="detailsContent" class="isomer-details-content">
 <p></p><a class="isomer-image-wrapper" href="https://teams.microsoft.com/l/team/19%3aCSzeVJX-B-_Q1821ftN1kKdxhw8vDlhKf9VOztkWLE81%40thread.tacv2/conversations?groupId=f3331322-026c-44c8-a6a8-92cff04b50ba&amp;tenantId=0b11c524-9a1c-4e1b-84cb-6336aefc2243"><img style="width: 80%;" height="auto" width="100%" alt="Number of ideas, participants, agencies for WOG 2023 Ideathon" src="/images/Products and Services/For Government Agencies/WOG_2023_ideathon.jpg"></a>
-<p>From the <a href="https://teams.microsoft.com/l/team/19%3aCSzeVJX-B-_Q1821ftN1kKdxhw8vDlhKf9VOztkWLE81%40thread.tacv2/conversations?groupId=f3331322-026c-44c8-a6a8-92cff04b50ba&amp;tenantId=0b11c524-9a1c-4e1b-84cb-6336aefc2243" rel="noopener noreferrer nofollow" target="_blank">WOG 2023 Ideathon</a>,
-we have collected a total of 434 ideas. More than 50% of the ideas can
-be matched to our current central products and you have <a href="https://tableau.data.tech.gov.sg/#/views/HackathonRegistration/ProblemSpace?:iid=1" rel="noopener noreferrer nofollow" target="_blank">over 200 remaining ideas</a> to
-pick from to help develop a solution.</p>
+<p>From the WOG 2023 Ideathon, we have collected a total of 434 ideas. More
+than 50% of the ideas can be matched to our current central products and
+you have over 200 remaining ideas to pick from to help develop a solution.</p>
 </div>
 </details>
 <details class="isomer-details">
