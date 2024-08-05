@@ -69,8 +69,7 @@ to serve citizens of all ages and companies of all sizes. IDA does this
 by actively supporting the growth of innovative technology companies and
 start-ups in Singapore, working with leading global IT companies, and developing
 excellent information technology and telecommunications infrastructure,
-policies, and capabilities for Singapore. For more news and information,
-visit <a href="http://www.ida.gov.sg" rel="noopener noreferrer nofollow" target="_blank">www.ida.gov.sg</a>.</p>
+policies, and capabilities for Singapore.</p>
 <h4>For media clarification</h4>
 <p>Malini Nathan (Ms)&nbsp;
 <br>Senior Manager&nbsp;
