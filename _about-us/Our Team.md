@@ -207,7 +207,7 @@ EY</div>
 </div>
 <div class="isomer-card-body">
 <div class="isomer-card-title">Mr GOH Wei Boon</div>
-<div class="isomer-card-description">Chief Executive / Government Chief Digital Technology Officer, Government
+<div class="isomer-card-description">Chief Executive &amp; Government Chief Digital Technology Officer, Government
 Technology Agency of Singapore</div>
 </div>
 </div>
@@ -219,8 +219,7 @@ Technology Agency of Singapore</div>
 </div>
 <div class="isomer-card-body">
 <div class="isomer-card-title">Mr CHANG Sau Sheong</div>
-<div class="isomer-card-description">Chief Technology Officer / Deputy Chief Executive, Government Technology
-Office and Government Digital Products</div>
+<div class="isomer-card-description">Chief Technology Officer &amp; Deputy Chief Executive (Products)</div>
 </div>
 </div>
 <div class="isomer-card">
@@ -242,8 +241,8 @@ Office and Government Digital Products</div>
 </div>
 <div class="isomer-card-body">
 <div class="isomer-card-title">Mr Dominic CHAN</div>
-<div class="isomer-card-description">Chief Information Officer / Assistant Chief Executive, CIO Office and
-Technology Management Office</div>
+<div class="isomer-card-description">Chief Information Officer &amp; Assistant Chief Executive, CIO Office
+and Technology Management Office</div>
 </div>
 </div>
 <div class="isomer-card">
@@ -254,8 +253,8 @@ Technology Management Office</div>
 </div>
 <div class="isomer-card-body">
 <div class="isomer-card-title">Mr Justiin ANG</div>
-<div class="isomer-card-description">Government Cybersecurity Information Security Officer / Assistant Chief
-Executive, Cybersecurity Group</div>
+<div class="isomer-card-description">Government Cybersecurity Information Security Officer &amp; Assistant
+Chief Executive, Cybersecurity Group</div>
 </div>
 </div>
 <div class="isomer-card">
