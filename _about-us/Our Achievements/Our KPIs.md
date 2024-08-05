@@ -29,9 +29,6 @@ government digital services and initiatives when surveyed for the Annual
 Survey on Satisfaction with Government Digital Services (Business) in 2023.&nbsp;</p>
 <p>The survey was conducted from October 2023 to February 2024, for the reporting
 period of 2023. The survey also helped to identify areas for improvement.&nbsp;</p>
-<p>About 1500 respondents were surveyed, comprising representatives of the
-total demographic population. Data collection was done via face-to-face
-interviews.</p>
 <p>1,370 company respondents were surveyed and the sample was representative
 across business classification, company type, and company size. Data collection
 was done through telephone interviews.</p>
