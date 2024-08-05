@@ -12,7 +12,7 @@ variant: tiptap
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="5 free tech learning resources" src="/images/technews/New_Year__New_Tech_Skills__5_free_tech_learning_resources.jpg">
 </div>
-<p><em>What will you be learning in 2023?</em> 
+<p><em>What will you be learning in 2023?</em>
 </p>
 <p>Any New Year resolutions that revolve around learning or upgrading your
 skills? Today’s article is just for you!</p>
@@ -45,7 +45,7 @@ three accepts applications in January and August every year.</p>
 <p>While many full time national servicemen (NSFs) today are proud to be
 contributing to the military and civil defence of our country, there is
 still the concern of lagging behind in their studies and careers due to
-the two years in uniform. To address this, the&nbsp;<a href="https://www.mindef.gov.sg/web/portal/mindef/news-and-events/latest-releases/article-detail/2022/September/21sep22_fs" class="editor-rtfLink" rel="noopener noreferrer nofollow" target="_blank">SkillsFuture@NS Learning eXperience Platform</a>&nbsp;was
+the two years in uniform. To address this, the&nbsp;<a href="https://www.ns.gov.sg/web/profiles/nsf/impt-full-time-ns-info#continual-learning-during-ns" class="editor-rtfLink" rel="noopener noreferrer nofollow" target="_blank">SkillsFuture@NS Learning eXperience Platform</a>&nbsp;was
 launched in November 2022, giving NSFs free unlimited access to over 75,000
 online courses in about 135 categories.</p>
 <p>Skills that they can pick up include Python programming, machine learning,
