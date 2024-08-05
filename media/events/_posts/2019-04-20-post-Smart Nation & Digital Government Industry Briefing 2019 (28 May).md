@@ -20,7 +20,7 @@ Briefing 2019
 Level 3, Summit 1 &amp; 2
 <br>
 </p>
-<h3>Click <a href="https://www.sndg-industrybriefing.sg" rel="noopener noreferrer nofollow" target="_blank">here</a> to register by 24 May 2019. Tickets are $88 (inclusive of GST).</h3>
+<h3>Register by 24 May 2019. Tickets are $88 (inclusive of GST).</h3>
 <p>The annual Smart Nation &amp; Digital Government Industry Briefing organised
 by GovTech provides information on the business and partnership opportunities
 with the Singapore Government.</p>
@@ -28,7 +28,11 @@ with the Singapore Government.</p>
 Information Officers and senior public officers from Government agencies
 and get the latest updates on the implementation of the Digital Government
 Blueprint to improve the lives of citizens and businesses.</p>
-<table>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
@@ -109,5 +113,3 @@ Blueprint to improve the lives of citizens and businesses.</p>
 </tbody>
 </table>
 <p></p>
-<p>Register <a href="https://www.sndg-industrybriefing.sg" rel="noopener noreferrer nofollow" target="_blank">here</a> today.
-For enquiries, please call 6996 6710 or email .</p>
