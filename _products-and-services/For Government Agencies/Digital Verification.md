@@ -74,7 +74,7 @@ like other government services. However, citizens can use governmental
 services that are built on this framework to verify their official documents,
 such as OpenCerts and HealthCerts.</p>
 <p>For businesses or partners in the private sector, the OpenAttestation
-is publicly listed in the <a href="https://digitalpublicgoods.net/registry/openattestation.html" rel="noopener noreferrer nofollow" target="_blank">Digital Public Goods Registry</a>.
+is publicly listed in the <a href="https://digitalpublicgoods.net/registry/" rel="noopener noreferrer nofollow" target="_blank">Digital Public Goods Registry</a>.
 Interested parties may access the free-to-use <a href="https://digitalpublicgoods.net/registry/openattestation.html" rel="noopener noreferrer nofollow" target="_blank">OpenAttestation framework</a> here.</p>
 <h3>Interested to learn more about OpenAttestation (OA)?</h3>
 <div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="https://www.openattestation.com/" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Visit the OA website to discover the framework" src="/images/CTA card images/Visit_the_product_website.png"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Visit the OA website to discover the framework</div><div class="isomer-card-link">Go to OA website</div></div></a>
