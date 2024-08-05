@@ -87,10 +87,6 @@ involved in:</p>
 <p><a href="https://www.sgwomenintech.sg/" class="editor-rtfLink" rel="noopener noreferrer nofollow" target="_blank">SG Women in Tech</a>
 </p>
 </li>
-<li>
-<p><a href="https://singapore.girlsintech.org/" class="editor-rtfLink" rel="noopener noreferrer nofollow" target="_blank">Girls in Tech™ Singapore</a>
-</p>
-</li>
 </ul>
 <p>In the meantime, membership to our own WiG ERG continues to grow, with
 more activities being organised to provide support for career growth and
