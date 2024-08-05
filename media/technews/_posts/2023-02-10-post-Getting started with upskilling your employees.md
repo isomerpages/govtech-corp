@@ -85,12 +85,12 @@ progress to ensure that they’re on the right track.</p>
 <h3>Get subsidies for training fees</h3>
 <p>Upskilling doesn’t always have to be costly - there are many grants and
 subsidies available to help defray training expenses!</p>
-<p>The&nbsp;<a href="https://www.skillsfuture.gov.sg/sfec" class="editor-rtfLink" rel="noopener noreferrer nofollow" target="_blank">SkillsFuture Enterprise Credit</a>
-<a href="https://www.enterprisejobskills.gov.sg/content/upgrade-skills/sfec.html" class="editor-rtfLink" rel="noopener noreferrer nofollow" target="_blank">scheme</a>&nbsp;is one resource you can turn to to defray the cost of
-upskilling. To support workforce transformation and enterprise transformation,
-eligible businesses can claim up to $10,000 for selected programmes by
-various government agencies, as well as courses aligned to job redesign
-initiatives and Skills Frameworks by Workforce Singapore.</p>
+<p>The <a href="https://www.skillsfuture.gov.sg/sfec" rel="noopener noreferrer nofollow" target="_blank">SkillsFuture Enterprise Credit</a> scheme&nbsp;is
+one resource you can turn to to defray the cost of upskilling. To support
+workforce transformation and enterprise transformation, eligible businesses
+can claim up to $10,000 for selected programmes by various government agencies,
+as well as courses aligned to job redesign initiatives and Skills Frameworks
+by Workforce Singapore.</p>
 <p>The&nbsp;<a href="https://www.imda.gov.sg/how-we-can-help/techskills-accelerator-tesa" rel="noopener noreferrer nofollow" target="_blank">TechSkills Accelerator (TeSA)</a> is
 yet another resource you can consider. Under this initiative, employees
 can bolster their ICT skills and enjoy funding support for course and certification
