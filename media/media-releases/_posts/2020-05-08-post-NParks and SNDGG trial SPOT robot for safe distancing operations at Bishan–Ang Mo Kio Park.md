@@ -44,13 +44,13 @@ community isolation facility to deliver essential items such as medicine
 to patients. SNDGG will also explore the use of SPOT to support other COVID-19
 related operations across agencies.</p>
 <p>Technology has been used to help NParks in safe distancing work. The Safe
-Distance @ Parks portal <a href="https://safedistparks.nparks.gov.sg" rel="noopener noreferrer nofollow" target="_blank">safedistparks.nparks.gov.sg</a>,
-for instance, was developed by NParks to allow the public to look for a
-park near them and check visitorship levels before leaving their house.
-A total of 30 drones are also being deployed in selected parks and nature
-areas to provide officers with a high vantage point to obtain visitorship
-updates quickly, complementing ground observations, as well as give them
-a better sense of the density of visitors in a specific area.</p>
+Distance @ Parks portal, for instance, was developed by NParks to allow
+the public to look for a park near them and check visitorship levels before
+leaving their house. A total of 30 drones are also being deployed in selected
+parks and nature areas to provide officers with a high vantage point to
+obtain visitorship updates quickly, complementing ground observations,
+as well as give them a better sense of the density of visitors in a specific
+area.</p>
 <p>8 NParks and MOH reiterate the advice for the public to stay home to minimise
 the risk of COVID-19 spread. If they wish to exercise (walk, jog and cycle),
 they should go to a park or park connector that is in their neighbourhood
