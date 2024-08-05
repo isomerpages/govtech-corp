@@ -54,7 +54,7 @@ with citizen communities.</p>
 <p>One particular project we’re extremely proud of is <a href="/products-and-services/for-government-agencies/accessibility/" rel="noopener noreferrer nofollow" target="_blank"><u>Purple A11y</u></a>,
 an open-source automated testing tool developed by our A11y team. The tool
 is even listed internationally on the Digital Public Good Registry by the
-<a href="https://digitalpublicgoods.net/registry/digit.html" rel="noopener noreferrer nofollow" target="_blank"><u>Digital Public Goods Alliance</u>
+<a href="https://digitalpublicgoods.net/registry/" rel="noopener noreferrer nofollow" target="_blank"><u>Digital Public Goods Alliance</u>
 </a>!</p>
 <p>Since its launch in July 2023, it has identified 6.4 million accessibility
 issues and scanned over 500,000 websites worldwide, with 57% being Singapore-based
