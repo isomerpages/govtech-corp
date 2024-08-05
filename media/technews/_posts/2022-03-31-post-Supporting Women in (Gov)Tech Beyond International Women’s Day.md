@@ -36,7 +36,7 @@ initiatives to support the development and retention of female employees.</p>
 </p>
 <p>A year on, we have fulfilled our committed actions, which set us up to
 continue on this agenda more intentionally. With the formation of the Women
-in (Gov)Tech Employee Resource Group (WiG ERG), led by a strong core team
+in GovTech Employee Resource Group (WiG ERG), led by a strong core team
 of 9 in the executive committee and with the backing of 3 executive sponsors,
 we are able to go further in fostering a more inclusive community at GovTech
 which encourages everyone, especially women, to share their experiences
@@ -44,15 +44,15 @@ and forge strong bonds with one another.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="Women in (Gov)Tech 2021/2022 executive committee members" src="/images/technews/Supporting_Women_in__Gov_Tech_Beyond_International_Women_s_Day__1_.jpg">
 </div>
-<p><em>Women in (Gov)Tech 2021/2022 executive committee members</em>
+<p><em>Women in GovTech 2021/2022 executive committee members</em>
 </p>
 <p>For International Women’s Day 2022, we joined the world in commemorating
-the occasion which bore the theme of #BreakTheBias. However, we recognise
-that it would take more than pledges to overcome biases, so we have planned
-several initiatives for the months ahead to help GovTechies become more
-familiar with the topic of diversity &amp; inclusion and encourage personal
-actions to support underrepresented communities, including women in tech.
-Here are some of them:</p>
+the occasion which bore the theme of<em> #BreakTheBias</em>. However, we
+recognise that it would take more than pledges to overcome biases, so we
+have planned several initiatives for the months ahead to help GovTechies
+become more familiar with the topic of diversity &amp; inclusion and encourage
+personal actions to support underrepresented communities, including women
+in tech. Here are some of them:</p>
 <h3>Addressing unconscious bias and its implications</h3>
 <p>The ability to #BreakTheBias requires awareness of how we might prefer
 a particular person or thing in an unfair way, which is normal, and recognition
