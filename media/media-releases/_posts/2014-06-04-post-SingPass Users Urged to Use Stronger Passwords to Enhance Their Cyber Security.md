@@ -39,9 +39,7 @@ Managing Director of the Infocomm Development Authority of Singapore.</p>
 <p>The Singapore Government takes cyber security very seriously.&nbsp;The
 protection of&nbsp;personal data and&nbsp;the delivery of secure e-Services&nbsp;are
 critical. We will continue to strengthen all Government&nbsp;e-Services&nbsp;as
-part of&nbsp;on-going&nbsp;efforts to enhance security.&nbsp;Users can
-visit the GoSafe Online website at <a href="http://www.gosafeonline.sg" rel="noopener noreferrer nofollow" target="_blank">www.gosafeonline.sg</a> to learn&nbsp;more
-about&nbsp;how to protect themselves against cyber threats or seek assistance.</p>
+part of&nbsp;on-going&nbsp;efforts to enhance security.</p>
 <hr>
 <p><strong>ISSUED BY INFOCOMM DEVELOPMENT AUTHORITY OF SINGAPORE</strong>
 </p>
@@ -53,9 +51,7 @@ a view to serving&nbsp;citizens of all ages and companies of all sizes.
 IDA does this by actively supporting the growth of innovative technology
 companies and start-ups in Singapore, working with leading global IT companies,
 and developing excellent information technology and telecommunications
-infrastructure, policies, and capabilities for Singapore. For more news
-and information, visit <a href="http://www.ida.gov.sg" rel="noopener noreferrer nofollow" target="_blank">www.ida.gov.sg</a>
-</p>
+infrastructure, policies, and capabilities for Singapore.</p>
 <h4>For media clarification</h4>
 <p>Malini NATHAN (Ms)
 <br>Manager, Corporate and Marketing Communication
