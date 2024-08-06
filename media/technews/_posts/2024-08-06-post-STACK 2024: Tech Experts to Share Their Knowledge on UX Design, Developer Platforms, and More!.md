@@ -188,6 +188,10 @@ Join us to gain the knowledge and tools needed to elevate your projects
 and drive success!</p>
 <hr>
 <h3>3. Lillian Shieh: A Visionary in Design and Innovation</h3>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 70%;" height="auto" width="100%" alt="STACK Developer Conference 2024 - Lillian Shieh" src="/images/technews/Lillian_Shieh_600x300.png">
+</div>
 <p>Lillian Shieh, the Senior Director and Head of Design in Asia Pacific
 at Johnson &amp; Johnson, is a distinguished design researcher, product
 strategist, and service designer. She also currently leads the Design Practice
@@ -219,6 +223,40 @@ want to miss.</p>
 <hr>
 <h3>4. Scott Shaw: A Tech Industry Veteran Worth Listening To</h3>
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 70%;" height="auto" width="100%" alt="STACK Developer Conference 2024 - Scott Shaw" src="/images/technews/Scott_Shaw_600x300.png">
+</div>
+<p>Scott Shaw, the Chief Technology Officer (CTO) for Thoughtworks APAC,
+brings a wealth of experience and knowledge to the table. Mr Shaw has been
+with Thoughtworks for nearly 20 years, witnessing its growth from around
+700 employees to over 12,000 globally. As part of the Global Technology
+Leadership Team, he ensures technical excellence across the Asia Pacific
+region.</p>
+<p>With over 30 years of experience in the software industry, he is a trusted
+advisor on technology strategy, architecture, and emerging trends. His
+extensive experience also makes him a key figure in driving innovation
+for his clients.</p>
+<h4>Innovative Contributions – Thoughtworks’ Technology Radar</h4>
+<p>Apart from being a frequent speaker on platforms, cloud and modernisation,
+Shaw is also an avid author of Thoughtworks’ <a href="https://www.thoughtworks.com/en-sg/radar" rel="noopener noreferrer nofollow" target="_blank"><u>Technology Radar</u></a>,
+which helps organisations navigate the pros and cons of adopting new technologies.
+The Technology Radar is a biannual report that provides insights into the
+latest practices, tech advancements, platforms, and frameworks. It is a
+pool of valuable information gathered by the Thoughtworks’ global teams.</p>
+<p>The latest edition of the Technology Radar highlights the transformative
+impact of generative AI on the software industry, an area where Shaw sees
+significant potential for enhancing team collaboration and knowledge structuring.</p>
+<h4>What to Expect from Scott’s Talk</h4>
+<p>Scott’s keynote speech promises to be an enlightening experience, packed
+with practical advice, innovative insights, and a forward-looking perspective
+on technology. Don’t miss out on this chance to learn from this industry
+expert!</p>
+<hr>
+<h4>Sign up today to get the early bird prices!</h4>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Early bird prices for STACK 2024 - registration" src="/images/technews/early_bird_prices_banner.png">
+</div>
 <p></p>
 <p></p>
 <p></p>
