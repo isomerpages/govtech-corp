@@ -261,10 +261,3 @@ expert!</p>
 <img style="width: 100%" height="auto" width="100%" alt="Early bird prices for STACK 2024 - registration" src="/images/technews/early_bird_prices_banner.png">
 </div>
 <p></p>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
