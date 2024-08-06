@@ -125,9 +125,10 @@ who will be presenting at STACK 2024!</p>
 <div class="isomer-image-wrapper">
 <img style="width: 70%;" height="auto" width="100%" alt="STACK Developer Conference 2024 - Evan You" src="/images/technews/Evan_You_600x300.png">
 </div>
-<p>Evan You is an independent open-source developer currently based in Singapore.
-He is the author and team lead of two highly influential projects in the
-web frontend and JavaScript ecosystem: <a href="https://vuejs.org/" rel="noopener noreferrer nofollow" target="_blank"><u>Vue.js</u></a> and <a href="https://vitejs.dev/" rel="noopener noreferrer nofollow" target="_blank"><u>Vite</u></a>. Evan’s contributions have significantly
+<p><a href="https://www.linkedin.com/in/evanyou/" rel="noopener noreferrer nofollow" target="_blank">Evan You</a> is
+an independent open-source developer currently based in Singapore. He is
+the author and team lead of two highly influential projects in the web
+frontend and JavaScript ecosystem: <a href="https://vuejs.org/" rel="noopener noreferrer nofollow" target="_blank"><u>Vue.js</u></a> and <a href="https://vitejs.dev/" rel="noopener noreferrer nofollow" target="_blank"><u>Vite</u></a>. Evan’s contributions have significantly
 shaped modern web development and transformed the way developers build
 user interfaces, making him a pivotal figure in the open-source community.</p>
 <h4>A Journey of Innovation and Impact</h4>
@@ -154,12 +155,13 @@ helpful for anyone interested in the evolution of the web development landscape.
 <div class="isomer-image-wrapper">
 <img style="width: 70%;" height="auto" width="100%" alt="STACK Developer Conference 2024 - Gregor Hohpe" src="/images/technews/Gregor_Hohpe_600x300.png">
 </div>
-<p>Gregor Hohpe is a tech strategist, engineer, author, speaker, and a former
-GovTech Smart Nation Fellow. As an architect, he has explored and studied
-the complex world of IT architecture for over two decades. His experience
-spans diverse organisations – from Silicon Valley startups to established
-enterprises like Amazon Web Services (AWS) and Google, ensuring successful
-digital transformation in these organisations.</p>
+<p><a href="https://www.linkedin.com/in/ghohpe/?originalSubdomain=sg" rel="noopener noreferrer nofollow" target="_blank">Gregor Hohpe</a> is
+a tech strategist, engineer, author, speaker, and a former GovTech Smart
+Nation Fellow. As an architect, he has explored and studied the complex
+world of IT architecture for over two decades. His experience spans diverse
+organisations – from Silicon Valley startups to established enterprises
+like Amazon Web Services (AWS) and Google, ensuring successful digital
+transformation in these organisations.</p>
 <h4>A Global Authority on Architecture</h4>
 <p>Gregor's expertise is recognised worldwide. He co-authored the seminal
 book <a href="https://architectelevator.com/book/#eip:~:text=The%20Classic%3A%20Enterprise%20Integration%20Patterns" rel="noopener noreferrer nofollow" target="_blank"><u>Enterprise Integration Patterns (2003)</u></a>,
@@ -192,12 +194,13 @@ and drive success!</p>
 <div class="isomer-image-wrapper">
 <img style="width: 70%;" height="auto" width="100%" alt="STACK Developer Conference 2024 - Lillian Shieh" src="/images/technews/Lillian_Shieh_600x300.png">
 </div>
-<p>Lillian Shieh, the Senior Director and Head of Design in Asia Pacific
-at Johnson &amp; Johnson, is a distinguished design researcher, product
-strategist, and service designer. She also currently leads the Design Practice
-at GovTech. Her roles involve supporting designers, promoting best practices,
-and exploring emerging technologies to develop digital services for citizens,
-businesses, and public officers.</p>
+<p><a href="https://www.linkedin.com/in/lillianshieh/" rel="noopener noreferrer nofollow" target="_blank">Lillian Shieh</a>,
+the Senior Director and Head of Design in Asia Pacific at Johnson &amp;
+Johnson, is a distinguished design researcher, product strategist, and
+service designer. She also currently leads the Design Practice at GovTech.
+Her roles involve supporting designers, promoting best practices, and exploring
+emerging technologies to develop digital services for citizens, businesses,
+and public officers.</p>
 <h4>Smart Nation Fellow: Pioneering Design Leadership at GovTech</h4>
 <p>At GovTech, Lillian Shieh is at the forefront of integrating design into
 public services. She ensures that design methodologies and best practices
@@ -226,12 +229,12 @@ want to miss.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 70%;" height="auto" width="100%" alt="STACK Developer Conference 2024 - Scott Shaw" src="/images/technews/Scott_Shaw_600x300.png">
 </div>
-<p>Scott Shaw, the Chief Technology Officer (CTO) for Thoughtworks APAC,
-brings a wealth of experience and knowledge to the table. Mr Shaw has been
-with Thoughtworks for nearly 20 years, witnessing its growth from around
-700 employees to over 12,000 globally. As part of the Global Technology
-Leadership Team, he ensures technical excellence across the Asia Pacific
-region.</p>
+<p><a href="https://www.linkedin.com/in/scott-shaw-b4003a4/" rel="noopener noreferrer nofollow" target="_blank">Scott Shaw</a>,
+the Chief Technology Officer (CTO) for Thoughtworks APAC, brings a wealth
+of experience and knowledge to the table. Mr Shaw has been with Thoughtworks
+for nearly 20 years, witnessing its growth from around 700 employees to
+over 12,000 globally. As part of the Global Technology Leadership Team,
+he ensures technical excellence across the Asia Pacific region.</p>
 <p>With over 30 years of experience in the software industry, he is a trusted
 advisor on technology strategy, architecture, and emerging trends. His
 extensive experience also makes him a key figure in driving innovation
