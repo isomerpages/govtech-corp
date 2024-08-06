@@ -8,9 +8,7 @@ description: ""
 image: /images/technews/STACK_2024_banner.jpg
 variant: tiptap
 ---
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="STACK Developer Conference 2024 by GovTech Singapore" src="/images/technews/STACK_2024_banner.jpg">
-</div>
+<a class="isomer-image-wrapper" href="https://www.developer.tech.gov.sg/communities/events/conferences/stack-developer-conference-2024/overview"><img style="width: 100%" height="auto" width="100%" alt="STACK Developer Conference 2024 by GovTech Singapore" src="/images/technews/STACK_2024_banner.jpg"></a>
 <p>Get ready for Singapore's largest Government-led tech event — GovTech's
 <a href="https://www.developer.tech.gov.sg/communities/events/conferences/stack-developer-conference-2024/overview" rel="noopener noreferrer nofollow" target="_blank"><u>STACK Developer Conference 2024 </u>
 </a>from 6 to 7 November at the Sands Expo and Convention Centre!</p>
