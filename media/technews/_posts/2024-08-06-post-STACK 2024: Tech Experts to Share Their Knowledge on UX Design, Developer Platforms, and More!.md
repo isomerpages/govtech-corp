@@ -66,7 +66,7 @@ talks, panel discussions and more!</p>
 </div>
 </div>
 </div>
-<p><em>Programme subjected to changes</em>
+<p><em>Programme subject to changes</em>
 </p>
 <p>Here is a brief background and introduction to some of the keynote speakers
 who will be presenting at STACK 2024!</p>
