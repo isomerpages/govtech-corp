@@ -177,10 +177,11 @@ actionable strategies. His passion lies in helping technology leaders bridge
 the divide between the “engine room” (technical details) and the “penthouse”
 (business strategy).</p>
 <h4>Transforming Singapore's Smart Nation</h4>
-<p>As a former Smart Nation Fellow for the Singapore government, Gregor played
-a pivotal role in accelerating government IT processes. He understands
-the unique challenges faced by public sector organisations and offers practical
-solutions for navigating rapid change while maintaining security and efficiency.</p>
+<p>As a <a href="https://www.linkedin.com/pulse/building-smarter-nation-speeding-up-more-than-going-faster-hohpe/" rel="noopener noreferrer nofollow" target="_blank">former Smart Nation Fellow</a> for
+the Singapore government, Gregor played a pivotal role in accelerating
+government IT processes. He understands the unique challenges faced by
+public sector organisations and offers practical solutions for navigating
+rapid change while maintaining security and efficiency.</p>
 <h4>What to Expect from Gregor’s Talk</h4>
 <p>Gregor's visionary insights on leveraging architecture for successful
 cloud transformation are invaluable for tech leaders and executives. His
