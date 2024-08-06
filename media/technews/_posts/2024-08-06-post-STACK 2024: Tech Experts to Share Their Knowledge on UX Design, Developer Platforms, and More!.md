@@ -256,5 +256,5 @@ on technology. Don’t miss out on this chance to learn from this industry
 expert!</p>
 <hr>
 <h4>Sign up today to get the early bird prices!</h4>
-<p></p><a class="isomer-image-wrapper" href="https://go.gov.sg/stack2024-register"><img style="width: 100%" height="auto" width="100%" alt="Early bird prices for STACK 2024 - registration" src="/images/technews/early_bird_prices_banner.png"></a>
+<p></p><a class="isomer-image-wrapper" href="https://go.gov.sg/stack2024-register"><img style="width: 100%" height="auto" width="100%" alt="Early bird prices for STACK 2024 - registration" src="/images/technews/early_bird_prices_banner_cropped.png"></a>
 <p></p>
