@@ -34,7 +34,7 @@ talks, panel discussions and more!</p>
 <div class="isomer-card-grid">
 <div class="isomer-card">
 <div class="isomer-card-body">
-<div class="isomer-card-title">Over 10 Technical Workshops to Select</div>
+<div class="isomer-card-title">Over 10 Technical Workshops</div>
 </div>
 </div>
 <div class="isomer-card">
@@ -47,9 +47,6 @@ talks, panel discussions and more!</p>
 <div class="isomer-card-title">8 Plenary Talks</div>
 </div>
 </div>
-</div>
-<p></p>
-<div class="isomer-card-grid">
 <div class="isomer-card">
 <div class="isomer-card-body">
 <div class="isomer-card-title">2 Panel Discussions</div>
