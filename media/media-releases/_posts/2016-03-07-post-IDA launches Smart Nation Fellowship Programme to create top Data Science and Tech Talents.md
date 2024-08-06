@@ -106,13 +106,11 @@ us realise our vision. For more information, please visit <a href="https://fello
 <p>Teresa TAN (Ms)
 <br>Manager, Corporate &amp; Marketing Communications
 <br>Infocomm Development Authority of Singapore
-<br>DID: (65) 6211 1745
-<br>Email: <a href="https://fellowships.data.gov.sg/" rel="noopener noreferrer nofollow" target="_blank">Teresa_Tan@ida.gov.sg</a>
+<br>
 </p>
 <p>TAN Boon Leng (Mr)
 <br>Manager, Corporate &amp; Marketing Communications
 <br>Infocomm Development Authority of Singapore
-<br>DID: (65) 6211 0375
-<br>Email: <a href="https://fellowships.data.gov.sg/" rel="noopener noreferrer nofollow" target="_blank">Tan_Boon_Leng@ida.gov.sg</a>
+<br>
 </p>
 <p></p>

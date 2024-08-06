@@ -109,13 +109,11 @@ also enhances the capabilities of the Singapore Government in these domains.</p>
 <p>Henna JAYABALAN (Ms)
 <br>Assistant Manager
 <br>Communications and Marketing Group, GovTech
-<br>DID: (65) 6211 1203
-<br>Email: <a href="https://www.ndi-api.gov.sg/library/trusted-data/myinfo/introduction" rel="noopener noreferrer nofollow" target="_blank">Henna_Jayabalan@tech.gov.sg</a>
+<br>
 </p>
 <p>Medha LIM (Ms)
 <br>Senior Manager
 <br>Communications and Marketing Group, GovTech
-<br>DID: (65) 6211 1622
-<br>Email: <a href="https://www.ndi-api.gov.sg/library/trusted-data/myinfo/introduction" rel="noopener noreferrer nofollow" target="_blank">Medha_Lim@tech.gov.sg</a>
+<br>
 </p>
 <p></p>

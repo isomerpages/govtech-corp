@@ -21,8 +21,8 @@ can save lives, and the knowledge here may make a difference to those around
 you.</p>
 <h3>AI chatbot service</h3>
 <p>Women at risk of hereditary breast and ovarian cancer (HBOC) can get information
-about the disease through an&nbsp;<a href="https://www.nuhs.edu.sg/sites/nuhs/NUHS%20Assets/News%20Documents/NUHS%20Corp/Media%20Releases/2021/Media-Release-NCIS-BotMD-Meet-Angie-that-empowers-women-at-risk-of-hereditary-breast-cancer.pdf" class="editor-rtfLink" rel="noopener noreferrer nofollow" target="_blank">AI chatbot</a>&nbsp;while
-also learning about how genetic testing can help.</p>
+about the disease through an&nbsp;AI chatbot&nbsp;while also learning about
+how genetic testing can help.</p>
 <p>They can also fill in their family medical history using the Whatsapp
 service for risk assessment. This is done before going for a genetic counselling
 session to understand the pros and cons of genetic testing and discuss

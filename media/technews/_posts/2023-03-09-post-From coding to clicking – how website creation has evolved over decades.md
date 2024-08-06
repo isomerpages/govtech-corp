@@ -44,7 +44,7 @@ then.</p>
 – regarded as the first search engine – came online.</p>
 <p>It not only organised links into helpful categories such as entertainment,
 living, and shopping, but it also deployed colour to make the site more
-user-friendly and easy to navigate.</p>
+user-friendly and easier to navigate.</p>
 <p>If you’re wondering what this colour milestone looks like, you’re in luck
 because the site is also still&nbsp;<a href="http://www.aliweb.com/" class="editor-rtfLink" rel="noopener noreferrer nofollow" target="_blank">live today</a>&nbsp;–
 and we don’t mean it’s just online. Click on the links, and you’ll find
