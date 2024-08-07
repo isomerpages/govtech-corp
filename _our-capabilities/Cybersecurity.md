@@ -118,8 +118,6 @@ their skills, and learn from one another.</div>
 </div>
 </div>
 </div>
-<div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="https://medium.com/csg-govtech" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Want to learn more about our work?" src="/images/CTA card images/Medium_blog_CTA_631x200.png"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Want to learn more about our work?</div><div class="isomer-card-description">Visit our Medium blog to see our latest projects and learn about their development.</div><div class="isomer-card-link">Read more on our Medium blog</div></div></a>
-</div>
 <h4>Who should join us</h4>
 <p>If you are passionate about public service and securing our digital way
 of life, join our team and discover a world of development opportunities
