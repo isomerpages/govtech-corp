@@ -45,8 +45,7 @@ an inclusive team culture.</div>
 </div>
 </div>
 <h3>Our work and initiatives</h3>
-<p>Our capability centre has a wide portfolio of past works as we build <strong>Tech for Public Good</strong>.
-Below are a few examples:</p>
+<p>Here are some examples of our applications:</p>
 <div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="https://www.opencerts.io/" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="OpenCerts logo" src="/images/About Us/Our capabilities/OpenCerts_600x300.png"></div></div><div class="isomer-card-body"><div class="isomer-card-title">OpenCerts</div><div class="isomer-card-description">Preventing fraud in education credentials by enabling educational institutions to issue digital certificates via OpenCerts, allowing for cost and time savings due to ease of verification.</div><div class="isomer-card-link">Go to website</div></div></a>
 <a rel="noopener noreferrer nofollow" href="https://www.developer.tech.gov.sg/products/categories/data-and-apis/apex-cloud/overview.html" class="isomer-card">
 <div class="isomer-card-image">
@@ -62,22 +61,37 @@ interface EXchange), a secure catalogue of all APIs across the government.</div>
 </div>
 </a>
 </div>
-<hr>
 <p></p>
+<div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="/products-and-services/for-citizens/directories-and-distribution/gowhere/" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="GoWhere offers information on public services, events, and initiatives in Singapore and where citizens can locate them" src="/images/Products and Services/For citizens/GoWhere_600x300.png"></div></div><div class="isomer-card-body"><div class="isomer-card-title">GoWhere</div><div class="isomer-card-description">A website that consolidates information on government services, events, and initiatives, including where to find them.</div><div class="isomer-card-link">Explore GoWhere</div></div></a>
+<a rel="noopener noreferrer nofollow" href="/products-and-services/for-citizens/directories-and-distribution/govwallet/" class="isomer-card">
+<div class="isomer-card-image">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="GovWallet is a digital wallet that allows citizens to manage their government payouts" src="/images/Products and Services/For citizens/GovWallet_logo_600x300.jpg">
+</div>
+</div>
+<div class="isomer-card-body">
+<div class="isomer-card-title">GovWallet</div>
+<div class="isomer-card-description">A digital wallet embedded within apps such as Singpass and LifeSG that
+allows all eligible citizens to manage their government payouts.</div>
+<div class="isomer-card-link">Explore GovWallet</div>
+</div>
+</a>
+</div>
+<hr>
 <div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="https://www.tech.gov.sg/products-and-services/overview/" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="See our range of citizen, business, and government products" src="/images/CTA card images/Visit_the_product_website.png"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Explore our range of citizen, business, and government products and services</div><div class="isomer-card-link">See products and services</div></div></a>
 <a rel="noopener noreferrer nofollow" href="https://www.developer.tech.gov.sg/products/all-products/" class="isomer-card">
 <div class="isomer-card-image">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Discover our solutions on the Singapore Government Development Portal (SGDP)" src="/images/CTA card images/Visit_the_SGDP_Portal.png">
+<img style="width: 100%" height="auto" width="100%" alt="Visit the Singapore Government Development Portal (SGDP) for product specifications and resources" src="/images/CTA card images/Visit_the_SGDP_Portal.png">
 </div>
 </div>
 <div class="isomer-card-body">
-<div class="isomer-card-title">Discover our solutions on the Singapore Government Development Portal
-(SGDP)</div>
+<div class="isomer-card-title">Visit the Singapore Government Development Portal (SGDP) for product resources</div>
 <div class="isomer-card-link">Go to SGDP</div>
 </div>
 </a>
 </div>
+<hr>
 <h3>Join our team</h3>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="Testimonial for careers in GovTech capability centre for Application Design, Development and Deployment - software engineer" src="/images/About Us/Our capabilities/Application_Design__Development_and_Deployment_quote_1.jpg">
