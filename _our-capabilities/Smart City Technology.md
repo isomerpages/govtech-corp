@@ -22,8 +22,9 @@ capabilities in IoT, pilot new sensor technologies, and solve IoT challenges.</p
 <p>In addition, we work closely with government agencies and industry partners
 to understand their pain points and develop solutions to actual use cases.</p>
 <h3>Our work and initiatives</h3>
-<p>The Open Digital Platform (ODP) is a digital infrastructure built for
-the first smart district in Singapore, the Punggol Digital District.</p>
+<p>The <a href="/products-and-services/for-businesses/smart-city-tech/" rel="noopener noreferrer nofollow" target="_blank">Open Digital Platform (ODP)</a> is
+a digital infrastructure built for the first smart district in Singapore,
+the Punggol Digital District.</p>
 <div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="https://estates.jtc.gov.sg/pdd/stories/open-digital-platform-an-insiders-look-at-the-development-of-a-disruptive-technology" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="The Open Digital Platform was co-developed by JTC and the Smart City Tech Division at GovTech." src="/images/About Us/Our capabilities/smart_city_tech_card_1_600x300.jpg"></div></div><div class="isomer-card-body"><div class="isomer-card-title">The development of ODP</div><div class="isomer-card-description">Learn how this proprietary technology co-developed by GovTech and JTC was built, and the unique features of this first-of-its-kind infrastructure.</div><div class="isomer-card-link">Go to JTC website</div></div></a>
 <a rel="noopener noreferrer nofollow" href="https://estates.jtc.gov.sg/pdd/stories/open-digital-platform-the-digital-backbone-of-pdd" class="isomer-card">
 <div class="isomer-card-image">
