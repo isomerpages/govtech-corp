@@ -8,7 +8,7 @@ third_nav_title: What We Do
 variant: tiptap
 image: /images/About Us/Our capabilities/Our_capabilities_meta_image_resized.jpg
 ---
-<h2>Leading digital government transformation with dedicated capability centres</h2>
+<h2>Leading digital government transformation with our capability centres</h2>
 <p>Our capability centres strengthen the public sector's engineering expertise
 and build the government’s capabilities in emerging technologies.</p>
 <p>They enable GovTech to develop and deliver innovative citizen-centric
