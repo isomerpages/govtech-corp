@@ -77,8 +77,8 @@ Digital Academy.</div>
 <div class="isomer-card">
 <div class="isomer-card-body">
 <div class="isomer-card-title">Did you know?</div>
-<div class="isomer-card-description">CSG is the first Common Vulnerabilities and Exposures (CVE) Numbering
-Authority (CNA) in Singapore. As a CNA, CSG promptly assigns CVE numbers
+<div class="isomer-card-description">GovTech is the first Common Vulnerabilities and Exposures (CVE) Numbering
+Authority (CNA) in Singapore. As a CNA, we promptly assign CVE numbers
 to identified vulnerabilities to allow quick remediation across different
 organisations and platforms.</div>
 </div>
@@ -125,7 +125,6 @@ their skills, and learn from one another.</div>
 of life, join our team and discover a world of development opportunities
 in cybersecurity.</p>
 <h3>Join our team</h3>
-<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="Testimonial for careers in GovTech capability centre for cybersecurity - cybersecurity specialist" src="/images/About Us/Our capabilities/EB_Campaign_banner___quotes_Tan_Kee_Hock__updated___1_.jpg">
 </div>
