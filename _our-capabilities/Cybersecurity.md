@@ -122,6 +122,7 @@ their skills, and learn from one another.</div>
 <p>If you are passionate about public service and securing our digital way
 of life, join our team and discover a world of development opportunities
 in cybersecurity.</p>
+<hr>
 <h3>Join our team</h3>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="Testimonial for careers in GovTech capability centre for cybersecurity - cybersecurity specialist" src="/images/About Us/Our capabilities/EB_Campaign_banner___quotes_Tan_Kee_Hock__updated___1_.jpg">
