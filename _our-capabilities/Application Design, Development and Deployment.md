@@ -91,7 +91,6 @@ allows all eligible citizens to manage their government payouts.</div>
 </div>
 </a>
 </div>
-<hr>
 <h3>Join our team</h3>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="Testimonial for careers in GovTech capability centre for Application Design, Development and Deployment - software engineer" src="/images/About Us/Our capabilities/Application_Design__Development_and_Deployment_quote_1.jpg">
