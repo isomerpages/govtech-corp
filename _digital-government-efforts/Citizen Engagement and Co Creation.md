@@ -51,7 +51,7 @@ the completion of their course of study.</p>
 <a rel="noopener noreferrer nofollow" href="/our-communities/join-our-communities/tech-kaki/" class="isomer-card">
 <div class="isomer-card-image">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Tech Kaki logo" src="/images/Digital Gov Efforts/Tech_Kaki_600x400.png">
+<img style="width: 100%" height="auto" width="100%" alt="Tech Kaki logo" src="/images/Get Involved/TK_logo_stacked.png">
 </div>
 </div>
 <div class="isomer-card-body">
