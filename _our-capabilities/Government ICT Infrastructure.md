@@ -17,13 +17,12 @@ image: /images/About Us/Our
 <p>We develop ICT infrastructure at scale and the foundational ICT layer
 that enables the entire government, impacting all government agencies and
 public officers.&nbsp;</p>
-<p>Our centre is also known as the Government Infrastructure Group (GIG)
-and our expertise lies in developing agile, secure, resilient and cost-effective
+<p>Our expertise lies in developing agile, secure, resilient, and cost-effective
 public sector ICT infrastructure.&nbsp;</p>
 <p>We lead in optimising across performance-security-cost for the government.
 Our scope extends across data centres/hosting, networks, digital workplace
-applications, end-user devices, IT support, secure ICT infrastructure and
-ICT infrastructure applications.</p>
+applications, end-user devices, IT support, secure ICT infrastructure,
+and ICT infrastructure applications.</p>
 <h3>Our work and initiatives</h3>
 <p>As we tinker with new technologies to constantly improve the ICT experiences
 across the WOG and provide support for public officers, our work ranges
