@@ -40,7 +40,7 @@ Accessibility and Inclusivity, and Relevance and Consistency.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="Objectives of GovTech Digital Service Standards (DSS)" src="/images/Digital Gov Efforts/dss_objectives.jpg">
 </div>
-<p>Learn more about <a href="https://www.developer.tech.gov.sg/guidelines/standards-and-best-practices/digital-service-standards.html" rel="noopener noreferrer nofollow" target="_blank">Digital Service Standards (DSS)</a>.</p>
+<p>Learn more about <a href="/products-and-services/for-government-agencies/digital-standards-and-guides/" rel="noopener noreferrer nofollow" target="_blank">Digital Service Standards (DSS)</a>.</p>
 <h4>Singapore Government Design System (SGDS)</h4>
 <div class="isomer-image-wrapper">
 <img style="width: 60%;" height="auto" width="100%" alt="Singapore Government Design System (SGDS) logo" src="/images/Digital Gov Efforts/SGDS.png">
