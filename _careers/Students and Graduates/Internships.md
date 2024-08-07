@@ -55,7 +55,7 @@ our internship applications.</p>
 <p>"I was given the privilege to impact change at a national scale through
 digital transformation!"</p>
 </blockquote>
-<p>~ Sherman Ng, Government Digital Services Intern</p>
+<p>~ Sherman Ng, Intern</p>
 <p></p>
 <div class="instagram-wrapper">
 <blockquote style="background:#FFF; border:0; border-radius:3px; box-shadow:0 0 1px 0 rgba(0,0,0,0.5),0 1px 10px 0 rgba(0,0,0,0.15); margin: 1px; max-width:650px; min-width:326px; padding:0; width:99.375%; width:-webkit-calc(100% - 2px); width:calc(100% - 2px);" data-instgrm-version="14" data-instgrm-permalink="https://www.instagram.com/reel/CxmptIINtSC/?utm_source=ig_embed&amp;utm_campaign=loading" class="instagram-media">
@@ -71,7 +71,7 @@ digital transformation!"</p>
 <p>"It was very rewarding when we received feedback that the product that
 we had developed was simple and straightforward to use.</p>
 </blockquote>
-<p>~ Varshini, DSAID Intern</p>
+<p>~ Varshini, Intern</p>
 <p>Check out the <a href="https://medium.com/ytpo-govtech" rel="noopener noreferrer nofollow" target="_blank">Young Talents @GovTech Medium blog</a> for
 more testimonials and sharing from past interns.</p>
 <h3>Begin your GovTech journey today!</h3>
