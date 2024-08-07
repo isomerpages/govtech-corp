@@ -14,12 +14,9 @@ image: /images/About Us/Our
 <img style="width: 100%" height="auto" width="100%" alt="GovTech capability centre for Application Design, Development and Deployment" src="/images/About Us/Our capabilities/Application_Design__Development_and_Deployment_banner.jpg">
 </div>
 <h3>What we do</h3>
-<p>This capability centre prioritises the needs of citizens to develop products
-and services that improve their lives.&nbsp;</p>
-<p>Anchored by the Government Digital Services (GDS) division at GovTech,
-this centre enables the government to continuously improve, integrate and
-deploy digital services to citizens while ensuring that these services
-are scalable, resilient and reusable.</p>
+<p>Our expertise in application development enables the government to continuously
+improve, integrate, and deploy digital services to citizens while ensuring
+that these services are scalable, resilient, and reusable.</p>
 <p>We also create a strong design and software engineering foundation within
 the public service. Our expertise includes Agile methods, user experience
 design, quality engineering, DevOps, reusable digital services and more.</p>
