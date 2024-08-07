@@ -74,6 +74,7 @@ agencies upgrading their ICT infrastructure.</p>
 </div>
 </details>
 </div>
+<hr>
 <h3>Join our team</h3>
 <p></p>
 <div class="isomer-image-wrapper">
