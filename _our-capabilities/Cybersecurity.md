@@ -12,12 +12,8 @@ image: /images/About Us/Our capabilities/Our_capabilities_cybersecurity_compress
 <img style="width: 100%" height="auto" width="100%" alt="GovTech capability centre for cybersecurity" src="/images/About Us/Our capabilities/Cybersecurity_banner.jpg">
 </div>
 <h3>What we do</h3>
-<p>The Cybersecurity Group (CSG), within the Government Technology Agency,
-is a team of cybersecurity professionals, led by the Government Chief Information
-Security Officer, responsible for cybersecurity planning to operations,
-in delivering a trusted digital government for Singapore.</p>
 <p>Our mission is to secure government Info-Communications Technology and
-Smart Systems, and to respond swiftly to any cyber attack. We achieve this
+Smart Systems, and to respond swiftly to any cyberattack. We achieve this
 through the timely detection of cyber threats, developing cyber capabilities,
 and&nbsp;enhancing the public sector’s cybersecurity posture.</p>
 <ol data-tight="true" class="tight">
@@ -39,10 +35,10 @@ governance policies and through various outreach programmes and exercises.</p>
 <div class="isomer-card">
 <div class="isomer-card-body">
 <div class="isomer-card-title">Did you know?</div>
-<div class="isomer-card-description">CSG played a key role in the secure development and deployment of key
-government digital services during COVID-19, such as GoWhere sites and
-TraceTogether, which were critical in the continuation of day-to-day life
-and business in Singapore.</div>
+<div class="isomer-card-description">Cybersecurity played a key role in the secure development and deployment
+of key government digital services during COVID-19, such as GoWhere sites
+and TraceTogether, which were critical in the continuation of day-to-day
+life and business in Singapore.</div>
 </div>
 </div>
 </div>
@@ -137,5 +133,5 @@ in cybersecurity.</p>
 <img style="width: 100%" height="auto" width="100%" alt="Testimonial for careers in GovTech capability centre for cybersecurity - Associate cybersecurity specialist" src="/images/About Us/Our capabilities/cybersecurity_quote_2.jpg">
 </div>
 <p><a href="/careers/why-join-govtech/overview/" rel="noopener noreferrer nofollow" target="_blank">Explore GovTech careers</a> as
-a Chief Information Security Officer, Cybersecurity Engineer, Cybersecurity
-Policy Developer, Red Team Engineer and more.</p>
+a Cybersecurity Engineer, Cybersecurity Policy Developer, Red Team Engineer,
+and more.</p>
