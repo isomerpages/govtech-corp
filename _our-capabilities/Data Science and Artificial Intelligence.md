@@ -30,23 +30,16 @@ have gone wrong and what could be done better next time.</p>
 <div class="isomer-card-grid">
 <div class="isomer-card">
 <div class="isomer-card-body">
-<div class="isomer-card-title">DSAID consultancy projects</div>
-<div class="isomer-card-description">We partner with government agencies for projects involving data science
-and artificial intelligence.</div>
-</div>
-</div>
-<div class="isomer-card">
-<div class="isomer-card-body">
-<div class="isomer-card-title">Development of data-driven products</div>
-<div class="isomer-card-description">We develop and deploy products for WOG, such as a central and secure data
-exploitation platform.</div>
+<div class="isomer-card-title">Helping government agencies improve their operations</div>
+<div class="isomer-card-description">We work with government agencies to use data-driven insights and AI in
+ways that improve their service delivery and policy outcomes.</div>
 </div>
 </div>
 <div class="isomer-card">
 <div class="isomer-card-body">
 <div class="isomer-card-title">Building a WOG data and AI community</div>
 <div class="isomer-card-description">We empower public officers to be more data-driven by prioritising data
-trainings and programmes that drive innovation and community learning</div>
+trainings and programmes that drive innovation and community learning.</div>
 </div>
 </div>
 </div>
