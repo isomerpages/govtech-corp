@@ -16,17 +16,13 @@ image: /images/Digital Gov Efforts/02_Citizen_Engagement.jpg
 <p>At GovTech, we engage with the public as much as we can because we believe
 that it helps us identify the needs of citizens accurately and effectively
 enhance government products and services.&nbsp;</p>
-<p>We do this through communities like Tech Kaki, which brings together tech
-enthusiasts who provide user insights that feed into the development of
-GovTech's products and services.</p>
-<p>For instance, the LifeSG app was enhanced in 2020 based on citizen feedback
-to include personalised services such as those for job hunting, tax management
-and CPF matters. It was also updated to include benefits for citizens in
-the form of SkillFuture credits, SingaporeRediscover Vouchers and MINDEF
-Celebratory Gifts for NSmen.&nbsp;</p>
-<p>In addition, an improved user navigation and a citizen profile were added
-to enhance the user experience. Previously, the app was centred on services
-for parents and seniors.</p>
+<div class="isomer-image-wrapper">
+<img style="width: 70%;" height="auto" width="100%" alt="Tech Kaki logo" src="/images/Get Involved/techkaki_logo.png">
+</div>
+<p>We do this through communities like <a href="/our-communities/join-our-communities/tech-kaki/" rel="noopener noreferrer nofollow" target="_blank">Tech Kaki</a>,
+which brings together tech enthusiasts who provide user insights that feed
+into the development of GovTech's products and services.</p>
+<p></p>
 <h3>How co-creation is catalysing innovations</h3>
 <p>In times of rapid advancement, public-private collaborations are great
 initiatives to encourage new ideas and more innovative government offerings.&nbsp;</p>
