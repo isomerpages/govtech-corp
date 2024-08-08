@@ -61,10 +61,11 @@ high-quality digital services easily.&nbsp;</p>
 <p>GovTech introduced this customisable, automated web accessibility-testing
 tool that allows software development teams to find and fix accessibility
 issues or gaps in their product/service.</p>
-<p>In 2022, Purple A11y (previously known as Purple HATS) was also registered
-as a DigitalPublicGood by the <a href="https://www.undp.org/blog/why-singapore-building-digital-public-goods" rel="noopener noreferrer nofollow" target="_blank">United Nations Development Programme (UNDP)</a> and
-published as an Organisation for Economic Co-operation and Development
-(OECD) case study for its impact as a Tech for Public Good.</p>
+<p>In 2022, <a href="/products-and-services/for-government-agencies/accessibility/" rel="noopener noreferrer nofollow" target="_blank">Purple A11y</a> (previously
+known as Purple HATS) was also registered as a DigitalPublicGood by the
+<a href="https://www.undp.org/blog/why-singapore-building-digital-public-goods" rel="noopener noreferrer nofollow" target="_blank">United Nations Development Programme (UNDP)</a>and published as an Organisation
+for Economic Co-operation and Development (OECD) case study for its impact
+as a Tech for Public Good.</p>
 <p>Learn more about <a href="/products-and-services/for-government-agencies/accessibility/" rel="noopener noreferrer nofollow" target="_blank">Purple A11y</a>.</p>
 <h3>Driving diversity and inclusion within GovTech</h3>
 <p>As we commit ourselves to developing inclusive and accessible products,
@@ -78,7 +79,7 @@ organisation and among GovTechies as well.</p>
 </div>
 </div>
 <div class="isomer-card-body">
-<div class="isomer-card-title">Women in (Gov)Tech</div>
+<div class="isomer-card-title">Women in GovTech</div>
 <div class="isomer-card-description">This Employee Resource Group develops initiatives to support female talent
 in GovTech and beyond.</div>
 <div class="isomer-card-link">Read more on TechNews</div>
