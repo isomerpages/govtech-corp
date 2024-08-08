@@ -48,9 +48,6 @@ trainings and programmes that drive innovation and community learning.</div>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="Testimonial for careers in GovTech capability centre for data science and artificial intelligence - Data Scientist" src="/images/About Us/Our capabilities/Data_Science_and_Artificial_Intelligence_quote_1.jpg">
 </div>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Testimonial for careers in GovTech capability centre for data science and artificial intelligence - AI engineer" src="/images/About Us/Our capabilities/Data_Science_and_Artificial_Intelligence_quote_2.jpg">
-</div>
 <p><a href="/careers/why-join-govtech/overview/" rel="noopener noreferrer nofollow" target="_blank">Explore GovTech careers</a> as
 a Data Engineer, Data Scientist, Quantitative Analyst, AI Engineer and
 more.</p>
