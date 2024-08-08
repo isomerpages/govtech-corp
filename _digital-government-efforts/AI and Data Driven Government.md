@@ -52,9 +52,9 @@ of government digital services.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 70%;" height="auto" width="100%" alt="Personalise logo" src="/images/Digital Gov Efforts/Personalise_logo_600x300.png">
 </div>
-<p>This is a whole-of-government personalisation engine that aims to customise
-digital touch points such as emails and websites to provide the most relevant
-services to our residents.&nbsp;</p>
+<p>This is a WOG personalisation engine that aims to customise digital touch
+points such as emails and websites to provide the most relevant services
+to our residents.&nbsp;</p>
 <p>It is built on top of a Customer Data Platform that ingests a myriad of
 data from across government systems, and then fed into deep machine-learning
 models to identify the most relevant or personalised content for our users.</p>
