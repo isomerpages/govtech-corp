@@ -17,11 +17,10 @@ image: /images/Digital Gov Efforts/09_Sustainability.jpg
 an ambitious and rigorous strategy that outlines the country’s long-term
 plan to achieve net zero emissions by 2050 with the public sector leading
 the way.</p>
-<p>As the public sector’s centre of excellence for info-comm technology and
-smart systems (ICT&amp;SS), one of our <a href="/about-us/our-journey/our-focus-areas/" rel="noopener noreferrer nofollow" target="_blank">key focus areas</a> is to
-take the lead in decarbonising public sector technology to mitigate global
-warming and secure a smart and sustainable future for the people living
-in Singapore.</p>
+<p>One of our <a href="/about-us/our-journey/our-focus-areas/" rel="noopener noreferrer nofollow" target="_blank">key focus areas</a> is
+to take the lead in decarbonising public sector technology to mitigate
+global warming and secure a smart and sustainable future for the people
+living in Singapore.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="Outline of the Singapore city with trees and greenery in the background" src="/images/Digital Gov Efforts/Sustainability_banner_image__1_.jpg">
 </div>
@@ -30,7 +29,7 @@ in Singapore.</p>
 <p>"We drive the sustainability agenda as a convenor and orchestrator of
 all internal and external stakeholders and touchpoints of GovTech."</p>
 </blockquote>
-<p>~ Liew Hui Ming, Digitalisation Strategy</p>
+<p>~ Liew Hui Ming, Director, Digitalisation Strategy &amp; Partnership Office</p>
 <h3>What are we committed to?</h3>
 <div class="isomer-card-grid">
 <div class="isomer-card">
