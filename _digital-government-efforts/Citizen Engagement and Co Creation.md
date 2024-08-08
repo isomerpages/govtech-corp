@@ -21,8 +21,49 @@ enhance government products and services.&nbsp;</p>
 </div>
 <p>We do this through communities like <a href="/our-communities/join-our-communities/tech-kaki/" rel="noopener noreferrer nofollow" target="_blank">Tech Kaki</a>,
 which brings together tech enthusiasts who provide user insights that feed
-into the development of GovTech's products and services.</p>
-<p></p>
+into the development and enhancement of the Government's products and services.</p>
+<p><strong><br></strong>Apps like Singpass and LifeSG would not be what they
+are without Tech Kaki. As part of our community, you’ll be involved in
+government research to address government feedback and co-create better
+products and services for all.</p>
+<div class="isomer-card-grid">
+<div class="isomer-card">
+<div class="isomer-card-image">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="New Singpass login page co-created by Tech Kaki" src="/images/Get Involved/govtechturns7_2.jpg">
+</div>
+</div>
+<div class="isomer-card-body">
+<div class="isomer-card-title">Protecting citizens on Singpass</div>
+<div class="isomer-card-description">Citizens can now spot fraudulent activity better with a redesigned login
+page for Singpass, thanks to a user research study done by Tech Kaki.</div>
+</div>
+</div>
+<div class="isomer-card">
+<div class="isomer-card-image">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="A smoother LifeSG inbox experience" src="/images/Get Involved/LifeSG_inbox_600x400.jpg">
+</div>
+</div>
+<div class="isomer-card-body">
+<div class="isomer-card-title">A smoother LifeSG inbox experience</div>
+<div class="isomer-card-description">With the help of over 100 Tech Kaki members who shared their views, the
+inbox design was enhanced so users could search for applications more easily.</div>
+</div>
+</div>
+<div class="isomer-card">
+<div class="isomer-card-image">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Tech Kaki appreciation dinner and networking event" src="/images/Get Involved/Tech_Kaki_Appreciation_Dinner__1_.jpg">
+</div>
+</div>
+<div class="isomer-card-body">
+<div class="isomer-card-title">Appreciation events for our members</div>
+<div class="isomer-card-description">Annual events are organised so members can network, celebrate the impact
+of our Tech Kaki community and share more about their contributions.</div>
+</div>
+</div>
+</div>
 <h3>How co-creation is catalysing innovations</h3>
 <p>In times of rapid advancement, public-private collaborations are great
 initiatives to encourage new ideas and more innovative government offerings.&nbsp;</p>
