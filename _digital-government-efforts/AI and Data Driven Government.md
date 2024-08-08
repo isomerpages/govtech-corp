@@ -40,9 +40,9 @@ analytics visualisation.&nbsp;</p>
 <p>It allows government officers to gain insights on the performance of government
 websites and digital services in real-time through a convenient and user-friendly
 platform.&nbsp;</p>
-<p>It also consolidates data points from across the whole-of-government (WOG)
-to allow agencies to benchmark the performance of their website services,
-and have a holistic overview of government digital services.</p>
+<p>It also consolidates data points across WOG to allow agencies to benchmark
+the performance of their website services, and have a holistic overview
+of government digital services.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="WOGAA Product family and the different capabilities" src="/images/Digital Gov Efforts/WOGAA_infographic.jpg">
 </div>
