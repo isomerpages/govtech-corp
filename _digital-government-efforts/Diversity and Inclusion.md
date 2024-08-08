@@ -61,8 +61,8 @@ high-quality digital services easily.&nbsp;</p>
 <p>GovTech introduced this customisable, automated web accessibility-testing
 tool that allows software development teams to find and fix accessibility
 issues or gaps in their product/service.</p>
-<p>In 2022, Purple HATS (now known as Purple A11y) was also registered as
-a DigitalPublicGood by the <a href="https://www.undp.org/blog/why-singapore-building-digital-public-goods" rel="noopener noreferrer nofollow" target="_blank">United Nations Development Programme (UNDP)</a> and
+<p>In 2022, Purple A11y (previously known as Purple HATS) was also registered
+as a DigitalPublicGood by the <a href="https://www.undp.org/blog/why-singapore-building-digital-public-goods" rel="noopener noreferrer nofollow" target="_blank">United Nations Development Programme (UNDP)</a> and
 published as an Organisation for Economic Co-operation and Development
 (OECD) case study for its impact as a Tech for Public Good.</p>
 <p>Learn more about <a href="/products-and-services/for-government-agencies/accessibility/" rel="noopener noreferrer nofollow" target="_blank">Purple A11y</a>.</p>
