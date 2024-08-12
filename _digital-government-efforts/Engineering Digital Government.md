@@ -56,19 +56,17 @@ division and tech literacy to move through the workday with ease.</div>
 </a>
 </div>
 <h3>Cybersecurity efforts within the digital government</h3>
-<p>The Cybersecurity Group (CSG) leads the efforts to develop the cybersecurity
-strategy for the government, secures the usage of government digital services
-for the public and protects the Government’s ICT systems and Smart systems
-(ICT &amp; SS).</p>
-<p>One of the five capability centres at GovTech, the group's suite of cybersecurity
-capabilities range from blue-teaming capabilities that detect and respond
-against cyber threats, to red-teaming capabilities that uncover cyber vulnerabilities
-in Government’s ICT &amp; SS.&nbsp;</p>
-<p>Beyond developing cyber-defence capabilities, this centre also develops
-cybersecurity policies and guidelines for agencies, works with agencies
-to implement secure architectures and provides cybersecurity technical
-guidance that help build a safer, more secure Smart Nation for our citizens
-and businesses.</p>
+<p>GovTech leads the efforts to develop the cybersecurity strategy for the
+government, secures the usage of government digital services for the public
+and protects the Government’s ICT systems and Smart systems (ICT &amp;
+SS).</p>
+<p>Our suite of cybersecurity capabilities range from blue-teaming capabilities
+that detect and respond against cyber threats, to red-teaming capabilities
+that uncover cyber vulnerabilities in Government’s ICT &amp; SS.&nbsp;</p>
+<p>Beyond developing cyber-defence capabilities, we also develop cybersecurity
+policies and guidelines for agencies, work with agencies to implement secure
+architectures, and provide cybersecurity technical guidance that help build
+a safer, more secure Smart Nation for our citizens and businesses.</p>
 <p>Learn more about our cybersecurity efforts with these articles below.</p>
 <div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="/media/technews/how-the-government-chief-information-security-officer-keeps-cyberspace-secure" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="GovTech chief information security officer" src="/images/Digital Gov Efforts/Chief_Information_officer_600x400.jpg"></div></div><div class="isomer-card-body"><div class="isomer-card-title">How the government chief information security officer keeps cyberspace secure</div><div class="isomer-card-link">Read more on TechNews</div></div></a>
 <a rel="noopener noreferrer nofollow" href="/media/technews/cybersecurity-on-zero-day-vulnerabilities" class="isomer-card">
@@ -83,9 +81,6 @@ and businesses.</p>
 </div>
 </a><a rel="noopener noreferrer nofollow" href="/media/technews/women-in-cybersecurity/" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Women at GovTech as cybersecurity specialists" src="/images/Digital Gov Efforts/Women_in_cybersecurity_600x400.jpg"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Women in cybersecurity — GovTechies on life as cyber guardians</div><div class="isomer-card-link">Read more on TechNews</div></div></a>
 </div>
-<p>Interested to learn more about CSG and the work they do?</p>
-<p>Read about the <a href="/our-capabilities/cybersecurity/" rel="noopener noreferrer nofollow" target="_blank">CSG capability centre</a><u>.</u>
-</p>
 <h4>Government IT Security Incident Response (GITSIR) Team</h4>
 <p>The Government IT Security Incident Response (GITSIR) team enables the
 Government to provide a swift response to cybersecurity incidents.</p>

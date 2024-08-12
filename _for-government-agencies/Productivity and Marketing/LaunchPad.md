@@ -64,9 +64,9 @@ and leverage digital solutions for public service improvement.</p>
 </summary>
 <div data-type="detailsContent" class="isomer-details-content">
 <p>The Discover tab highlights use cases, products, and digital solutions
-across the government. It showcases the potential applications of GDS and
-DSAI products and offers insights and inspiration for implementing digital
-strategies effectively to solve real-world problems within the Public Service.</p>
+across the government. It offers insights and inspiration for implementing
+digital strategies effectively to solve real-world problems within the
+public service.</p>
 </div>
 </details>
 <details class="isomer-details">

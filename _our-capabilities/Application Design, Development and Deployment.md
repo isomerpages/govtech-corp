@@ -14,12 +14,9 @@ image: /images/About Us/Our
 <img style="width: 100%" height="auto" width="100%" alt="GovTech capability centre for Application Design, Development and Deployment" src="/images/About Us/Our capabilities/Application_Design__Development_and_Deployment_banner.jpg">
 </div>
 <h3>What we do</h3>
-<p>This capability centre prioritises the needs of citizens to develop products
-and services that improve their lives.&nbsp;</p>
-<p>Anchored by the Government Digital Services (GDS) division at GovTech,
-this centre enables the government to continuously improve, integrate and
-deploy digital services to citizens while ensuring that these services
-are scalable, resilient and reusable.</p>
+<p>Our expertise in application development enables the government to continuously
+improve, integrate, and deploy digital services to citizens while ensuring
+that these services are scalable, resilient, and reusable.</p>
 <p>We also create a strong design and software engineering foundation within
 the public service. Our expertise includes Agile methods, user experience
 design, quality engineering, DevOps, reusable digital services and more.</p>
@@ -28,14 +25,14 @@ design, quality engineering, DevOps, reusable digital services and more.</p>
 <div class="isomer-card">
 <div class="isomer-card-body">
 <div class="isomer-card-title">Designing for users</div>
-<div class="isomer-card-description">Engage citizens, listen to feedback and iteratively test products for
+<div class="isomer-card-description">Engage citizens, listen to feedback, and iteratively test products for
 further enhancements.</div>
 </div>
 </div>
 <div class="isomer-card">
 <div class="isomer-card-body">
 <div class="isomer-card-title">Engineering with care</div>
-<div class="isomer-card-description">Build robust innovations in less time using modern tech, open-source libraries
+<div class="isomer-card-description">Build robust innovations in less time using modern tech, open-source libraries,
 and DevOps practices.</div>
 </div>
 </div>
@@ -48,23 +45,7 @@ an inclusive team culture.</div>
 </div>
 </div>
 <h3>Our work and initiatives</h3>
-<p>Our capability centre has a wide portfolio of past works as we build <strong>Tech for Public Good</strong>.
-Below are a few examples:</p>
-<div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="https://www.developer.tech.gov.sg/products/categories/digital-solutions-to-address-covid-19/tracetogether/overview.html" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="TraceTogether logo" src="/images/About Us/Our capabilities/TraceTogether_600x300.png"></div></div><div class="isomer-card-body"><div class="isomer-card-title">TraceTogether</div><div class="isomer-card-description">Helping Singapore curb the spread of COVID-19 with the development of apps like TraceTogether, a tool that was used by over 90% of Singapore residents as of 2021.</div><div class="isomer-card-link">Learn more on SGDP</div></div></a>
-<a rel="noopener noreferrer nofollow" href="/products-and-services/for-businesses/corporate-transactions/gobusiness/" class="isomer-card">
-<div class="isomer-card-image">
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="GoBusiness logo" src="/images/About Us/Our capabilities/GoBusiness_600x300.png">
-</div>
-</div>
-<div class="isomer-card-body">
-<div class="isomer-card-title">GoBusiness</div>
-<div class="isomer-card-description">Making it easier for entrepreneurs to start businesses with a one-stop-shop
-portal, GoBusiness Licensing.</div>
-<div class="isomer-card-link">Explore GoBusiness</div>
-</div>
-</a>
-</div>
+<p>Here are some examples of our applications:</p>
 <div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="https://www.opencerts.io/" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="OpenCerts logo" src="/images/About Us/Our capabilities/OpenCerts_600x300.png"></div></div><div class="isomer-card-body"><div class="isomer-card-title">OpenCerts</div><div class="isomer-card-description">Preventing fraud in education credentials by enabling educational institutions to issue digital certificates via OpenCerts, allowing for cost and time savings due to ease of verification.</div><div class="isomer-card-link">Go to website</div></div></a>
 <a rel="noopener noreferrer nofollow" href="https://www.developer.tech.gov.sg/products/categories/data-and-apis/apex-cloud/overview.html" class="isomer-card">
 <div class="isomer-card-image">
@@ -80,29 +61,37 @@ interface EXchange), a secure catalogue of all APIs across the government.</div>
 </div>
 </a>
 </div>
-<div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="/products-and-services/for-government-agencies/productivity-and-marketing/vica/" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="VICA logo" src="/images/About Us/Our capabilities/VICA_logo_600x300.png"></div></div><div class="isomer-card-body"><div class="isomer-card-title">VICA (Virtual Intelligent Chat Assistant)</div><div class="isomer-card-description">VICA (Virtual Intelligent Chat Assistant) — a technology that powers chatbots across government agencies. The chatbot itself is also customisable, presenting itself as different personas for each agency such as "Ask Gayle" on GovTech's website, "Ask Wally" on PUB's website and more.</div><div class="isomer-card-link">Explore VICA</div></div></a>
-</div>
-<h3>Want to learn more about our work?</h3>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Official GovTech blogs from the different divisions." src="/images/About Us/Our capabilities/GovTech_blogs.png">
-</div>
 <p></p>
-<div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="https://medium.com/singapore-gds" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="See our latest projects and learn about their development on our Medium blog" src="/images/CTA card images/Visit_the_product_website.png"></div></div><div class="isomer-card-body"><div class="isomer-card-title">See our latest projects and learn about their development on our Medium blog</div><div class="isomer-card-link">Read more on our Medium blog</div></div></a>
-<a rel="noopener noreferrer nofollow" href="https://www.developer.tech.gov.sg/products/all-products/" class="isomer-card">
+<div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="/products-and-services/for-citizens/directories-and-distribution/gowhere/" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="GoWhere offers information on public services, events, and initiatives in Singapore and where citizens can locate them" src="/images/Products and Services/For citizens/GoWhere_600x300.png"></div></div><div class="isomer-card-body"><div class="isomer-card-title">GoWhere</div><div class="isomer-card-description">A website that consolidates information on government services, events, and initiatives, including where to find them.</div><div class="isomer-card-link">Explore GoWhere</div></div></a>
+<a rel="noopener noreferrer nofollow" href="/products-and-services/for-citizens/directories-and-distribution/govwallet/" class="isomer-card">
 <div class="isomer-card-image">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Discover our solutions on the Singapore Government Development Portal (SGDP)" src="/images/CTA card images/Visit_the_SGDP_Portal.png">
+<img style="width: 100%" height="auto" width="100%" alt="GovWallet is a digital wallet that allows citizens to manage their government payouts" src="/images/Products and Services/For citizens/GovWallet_logo_600x300.jpg">
 </div>
 </div>
 <div class="isomer-card-body">
-<div class="isomer-card-title">Discover our solutions on the Singapore Government Development Portal
-(SGDP)</div>
+<div class="isomer-card-title">GovWallet</div>
+<div class="isomer-card-description">A digital wallet embedded within apps such as Singpass and LifeSG that
+allows all eligible citizens to manage their government payouts.</div>
+<div class="isomer-card-link">Explore GovWallet</div>
+</div>
+</a>
+</div>
+<hr>
+<div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="https://www.tech.gov.sg/products-and-services/overview/" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="See our range of citizen, business, and government products" src="/images/CTA card images/Visit_the_product_website.png"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Explore our range of citizen, business, and government products and services</div><div class="isomer-card-link">See products and services</div></div></a>
+<a rel="noopener noreferrer nofollow" href="https://www.developer.tech.gov.sg/products/all-products/" class="isomer-card">
+<div class="isomer-card-image">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Visit the Singapore Government Development Portal (SGDP) for product specifications and resources" src="/images/CTA card images/Visit_the_SGDP_Portal.png">
+</div>
+</div>
+<div class="isomer-card-body">
+<div class="isomer-card-title">Visit the Singapore Government Development Portal (SGDP) for product resources</div>
 <div class="isomer-card-link">Go to SGDP</div>
 </div>
 </a>
 </div>
 <h3>Join our team</h3>
-<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="Testimonial for careers in GovTech capability centre for Application Design, Development and Deployment - software engineer" src="/images/About Us/Our capabilities/Application_Design__Development_and_Deployment_quote_1.jpg">
 </div>

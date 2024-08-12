@@ -43,7 +43,7 @@ carpark systems and more.</p>
 first smart district in Singapore, where data is collected and operational
 activities can be managed on a centralised platform which allows for more
 efficient management of the estate.</p>
-<p>Learn more about <a href="https://www.developer.tech.gov.sg/products/categories/sensor-platforms-and-internet-of-things/open-digital-platform/overview.html" rel="noopener noreferrer nofollow" target="_blank">ODP</a>.</p>
+<p>Learn more about <a href="/products-and-services/for-businesses/smart-city-tech/" rel="noopener noreferrer nofollow" target="_blank">ODP</a>.</p>
 <h3>Safe and seamless government digital transactions</h3>
 <p>Our technologies ensure that citizens and businesses are able to perform
 important government transactions conveniently and securely online.</p>

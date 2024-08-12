@@ -32,7 +32,6 @@ government services and achieved high citizen and business satisfaction
 through products like Singpass.&nbsp;</p>
 <p>GovTech will continue to drive even more digital government transformation
 to support the Smart Nation initiative.</p>
-<p></p>
 <h3>Our key areas of work</h3>
 <p>GovTech is a key driver in digital transformation. We create impactful
 government digital services which drive Singapore’s Smart Nation vision.</p>

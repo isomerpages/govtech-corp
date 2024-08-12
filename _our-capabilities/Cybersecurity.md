@@ -12,12 +12,8 @@ image: /images/About Us/Our capabilities/Our_capabilities_cybersecurity_compress
 <img style="width: 100%" height="auto" width="100%" alt="GovTech capability centre for cybersecurity" src="/images/About Us/Our capabilities/Cybersecurity_banner.jpg">
 </div>
 <h3>What we do</h3>
-<p>The Cybersecurity Group (CSG), within the Government Technology Agency,
-is a team of cybersecurity professionals, led by the Government Chief Information
-Security Officer, responsible for cybersecurity planning to operations,
-in delivering a trusted digital government for Singapore.</p>
 <p>Our mission is to secure government Info-Communications Technology and
-Smart Systems, and to respond swiftly to any cyber attack. We achieve this
+Smart Systems, and to respond swiftly to any cyberattack. We achieve this
 through the timely detection of cyber threats, developing cyber capabilities,
 and&nbsp;enhancing the public sector’s cybersecurity posture.</p>
 <ol data-tight="true" class="tight">
@@ -39,10 +35,10 @@ governance policies and through various outreach programmes and exercises.</p>
 <div class="isomer-card">
 <div class="isomer-card-body">
 <div class="isomer-card-title">Did you know?</div>
-<div class="isomer-card-description">CSG played a key role in the secure development and deployment of key
-government digital services during COVID-19, such as GoWhere sites and
-TraceTogether, which were critical in the continuation of day-to-day life
-and business in Singapore.</div>
+<div class="isomer-card-description">Cybersecurity played a key role in the secure development and deployment
+of key government digital services during COVID-19, such as GoWhere sites
+and TraceTogether, which were critical in the continuation of day-to-day
+life and business in Singapore.</div>
 </div>
 </div>
 </div>
@@ -81,8 +77,8 @@ Digital Academy.</div>
 <div class="isomer-card">
 <div class="isomer-card-body">
 <div class="isomer-card-title">Did you know?</div>
-<div class="isomer-card-description">CSG is the first Common Vulnerabilities and Exposures (CVE) Numbering
-Authority (CNA) in Singapore. As a CNA, CSG promptly assigns CVE numbers
+<div class="isomer-card-description">GovTech is the first Common Vulnerabilities and Exposures (CVE) Numbering
+Authority (CNA) in Singapore. As a CNA, we promptly assign CVE numbers
 to identified vulnerabilities to allow quick remediation across different
 organisations and platforms.</div>
 </div>
@@ -122,20 +118,15 @@ their skills, and learn from one another.</div>
 </div>
 </div>
 </div>
-<div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="https://medium.com/csg-govtech" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Want to learn more about our work?" src="/images/CTA card images/Medium_blog_CTA_631x200.png"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Want to learn more about our work?</div><div class="isomer-card-description">Visit our Medium blog to see our latest projects and learn about their development.</div><div class="isomer-card-link">Read more on our Medium blog</div></div></a>
-</div>
 <h4>Who should join us</h4>
 <p>If you are passionate about public service and securing our digital way
 of life, join our team and discover a world of development opportunities
 in cybersecurity.</p>
+<hr>
 <h3>Join our team</h3>
-<p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Testimonial for careers in GovTech capability centre for cybersecurity - cybersecurity specialist" src="/images/About Us/Our capabilities/EB_Campaign_banner___quotes_Tan_Kee_Hock__updated___1_.jpg">
-</div>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="Testimonial for careers in GovTech capability centre for cybersecurity - Associate cybersecurity specialist" src="/images/About Us/Our capabilities/cybersecurity_quote_2.jpg">
 </div>
 <p><a href="/careers/why-join-govtech/overview/" rel="noopener noreferrer nofollow" target="_blank">Explore GovTech careers</a> as
-a Chief Information Security Officer, Cybersecurity Engineer, Cybersecurity
-Policy Developer, Red Team Engineer and more.</p>
+a Cybersecurity Engineer, Cybersecurity Policy Developer, Red Team Engineer,
+and more.</p>

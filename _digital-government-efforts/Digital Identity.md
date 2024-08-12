@@ -12,17 +12,15 @@ image: /images/Digital Gov Efforts/05_Digital_Identity.jpg
 <img style="width: 100%" height="auto" width="100%" alt="GovTech national digital identity" src="/images/Digital Gov Efforts/GovTech_digital_identity_banner.jpg">
 </div>
 <h3>Singapore’s trusted digital identity</h3>
-<p>The National Digital Identity (NDI) is Singapore’s trusted digital identity.
-Underpinned by Singpass, the NDI brings together the Singpass app, Myinfo
-and Myinfo business to provide greater transactional security and ease
-of use.</p>
+<p>The National Digital Identity (NDI) is Singapore’s trusted digital identity,
+providing citizens with greater transactional security and ease of use.</p>
 <p>Today, citizens can conveniently and easily access government and private
 sector services through Singpass – from accessing Central Provident Fund
 (CPF) savings to renewing insurance policies and digitally signing documents.</p>
-<p>Singapore’s NDI has also expanded to include services such as Myinfo business
-and Corppass, acting as an international business gateway that allows global
-business transactions and the flow of cross-border data and transactions
-in an open and trusted environment.</p>
+<p>Singapore’s NDI has also expanded to include services such as Corppass,
+acting as an international business gateway that allows global business
+transactions and the flow of cross-border data and transactions in an open
+and trusted environment.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Digital Gov Efforts/Journey_Banner1__image_.jpg">
 </div>

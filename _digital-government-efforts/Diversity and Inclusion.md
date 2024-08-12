@@ -40,7 +40,7 @@ Accessibility and Inclusivity, and Relevance and Consistency.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="Objectives of GovTech Digital Service Standards (DSS)" src="/images/Digital Gov Efforts/dss_objectives.jpg">
 </div>
-<p>Learn more about <a href="https://www.developer.tech.gov.sg/guidelines/standards-and-best-practices/digital-service-standards.html" rel="noopener noreferrer nofollow" target="_blank">Digital Service Standards (DSS)</a>.</p>
+<p>Learn more about <a href="/products-and-services/for-government-agencies/digital-standards-and-guides/" rel="noopener noreferrer nofollow" target="_blank">Digital Service Standards (DSS)</a>.</p>
 <h4>Singapore Government Design System (SGDS)</h4>
 <div class="isomer-image-wrapper">
 <img style="width: 60%;" height="auto" width="100%" alt="Singapore Government Design System (SGDS) logo" src="/images/Digital Gov Efforts/SGDS.png">
@@ -61,8 +61,8 @@ high-quality digital services easily.&nbsp;</p>
 <p>GovTech introduced this customisable, automated web accessibility-testing
 tool that allows software development teams to find and fix accessibility
 issues or gaps in their product/service.</p>
-<p>In 2022, Purple HATS (now known as Purple A11y) was also registered as
-a DigitalPublicGood by the <a href="https://www.undp.org/blog/why-singapore-building-digital-public-goods" rel="noopener noreferrer nofollow" target="_blank">United Nations Development Programme (UNDP)</a> and
+<p>In 2022, Purple A11y (previously known as Purple HATS) was also registered
+as a DigitalPublicGood by the <a href="https://www.undp.org/blog/why-singapore-building-digital-public-goods" rel="noopener noreferrer nofollow" target="_blank">United Nations Development Programme (UNDP)</a>and
 published as an Organisation for Economic Co-operation and Development
 (OECD) case study for its impact as a Tech for Public Good.</p>
 <p>Learn more about <a href="/products-and-services/for-government-agencies/accessibility/" rel="noopener noreferrer nofollow" target="_blank">Purple A11y</a>.</p>
@@ -78,7 +78,7 @@ organisation and among GovTechies as well.</p>
 </div>
 </div>
 <div class="isomer-card-body">
-<div class="isomer-card-title">Women in (Gov)Tech</div>
+<div class="isomer-card-title">Women in GovTech</div>
 <div class="isomer-card-description">This Employee Resource Group develops initiatives to support female talent
 in GovTech and beyond.</div>
 <div class="isomer-card-link">Read more on TechNews</div>

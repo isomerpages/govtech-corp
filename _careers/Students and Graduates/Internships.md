@@ -32,12 +32,13 @@ and gain access to courses and career workshops.</p>
 <p>We're looking for ambitious pre-tertiary, polytechnic students and university
 students who are up for a challenge and want to make a difference. If that
 sounds like you, first check out the timelines as well as guidelines for
-our internship applications.</p>
+our internship applications. <strong>Do note that applicants who have graduated from university are not eligible for our internship programme.</strong>
+</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="Application periods for GovTech's internship programmes" src="/images/careers/Internship_infographics.jpg">
 </div>
 <div class="isomer-image-wrapper">
-<img style="width: 80%;" height="auto" width="100%" alt="GovTech's internship application processes" src="/images/careers/internships_infographic.jpg">
+<img style="width: 80%;" height="auto" width="100%" alt="GovTech's internship application processes" src="/images/careers/govtech_Infographics_05_01_compressed.jpg">
 </div>
 <h3>Hear from our past interns</h3>
 <p></p>
@@ -55,7 +56,7 @@ our internship applications.</p>
 <p>"I was given the privilege to impact change at a national scale through
 digital transformation!"</p>
 </blockquote>
-<p>~ Sherman Ng, Government Digital Services Intern</p>
+<p>~ Sherman Ng, Intern</p>
 <p></p>
 <div class="instagram-wrapper">
 <blockquote style="background:#FFF; border:0; border-radius:3px; box-shadow:0 0 1px 0 rgba(0,0,0,0.5),0 1px 10px 0 rgba(0,0,0,0.15); margin: 1px; max-width:650px; min-width:326px; padding:0; width:99.375%; width:-webkit-calc(100% - 2px); width:calc(100% - 2px);" data-instgrm-version="14" data-instgrm-permalink="https://www.instagram.com/reel/CxmptIINtSC/?utm_source=ig_embed&amp;utm_campaign=loading" class="instagram-media">
@@ -71,7 +72,7 @@ digital transformation!"</p>
 <p>"It was very rewarding when we received feedback that the product that
 we had developed was simple and straightforward to use.</p>
 </blockquote>
-<p>~ Varshini, DSAID Intern</p>
+<p>~ Varshini, Intern</p>
 <p>Check out the <a href="https://medium.com/ytpo-govtech" rel="noopener noreferrer nofollow" target="_blank">Young Talents @GovTech Medium blog</a> for
 more testimonials and sharing from past interns.</p>
 <h3>Begin your GovTech journey today!</h3>
@@ -79,4 +80,17 @@ more testimonials and sharing from past interns.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="Batch of past GovTech interns having fun while posing for a photo at a photo booth" src="/images/careers/Internships_1690x800.jpg">
 </div>
+<p>Applications for our internship programme are open from <strong>12 August to 30 September 2024</strong>.
+Apply now!</p>
+<h3>Interested to join us as a #GovTechIntern?</h3>
+<p></p>
+<div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="http://go.gov.sg/GovTechInternshipProjects2025" class="isomer-card"><div class="isomer-card-body"><div class="isomer-card-title">Check out the available internship roles and projects at GovTech</div><div class="isomer-card-link">Explore GovTech's internships</div></div></a>
+<a rel="noopener noreferrer nofollow" href="https://careers.tech.gov.sg/careers/SearchJobs" class="isomer-card">
+<div class="isomer-card-body">
+<div class="isomer-card-title">Ready to apply? Submit your application</div>
+<div class="isomer-card-link">Apply for an internship</div>
+</div>
+</a><a rel="noopener noreferrer nofollow" href="http://go.gov.sg/GovTech2025internships" class="isomer-card"><div class="isomer-card-body"><div class="isomer-card-title">Already applied? Tell us your preferred roles and projects</div><div class="isomer-card-link">Go to form</div></div></a>
+</div>
+<p>For enquiries, please email <a href="mailto:AreYouIT@tech.gov.sg" rel="noopener noreferrer nofollow" target="_blank"><u>AreYouIT@tech.gov.sg</u></a>.</p>
 <p></p>
