@@ -321,7 +321,7 @@ SaaS</div>
 </div>
 <div class="isomer-card-body">
 <div class="isomer-card-title">Mr LIM Thian Chin</div>
-<div class="isomer-card-description">Senior Director, Governance</div>
+<div class="isomer-card-description">Chief Risk Officer &amp; Senior Director, Governance</div>
 </div>
 </div>
 <div class="isomer-card">
