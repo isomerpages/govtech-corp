@@ -369,10 +369,12 @@ Group</div>
 <div class="isomer-card-description">Senior Director, Education</div>
 </div>
 </div>
+</div>
+<div class="isomer-card-grid">
 <div class="isomer-card">
 <div class="isomer-card-image">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="GovTech leader Lillian SHIEH" src="/images/our-team/Lillian_Shieh.png">
+<img style="width: 100%" height="auto" width="100%" alt="GovTech leader Lillian Shieh" src="/images/our-team/Lillian_Shieh.png">
 </div>
 </div>
 <div class="isomer-card-body">
@@ -383,7 +385,7 @@ Group</div>
 <div class="isomer-card">
 <div class="isomer-card-image">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="GovTech leader Sing Khang Leng" src="/images/About Us/SING_Khang_Leng.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="GovTech leader SING Khang Leng" src="/images/About Us/SING_Khang_Leng.jpg">
 </div>
 </div>
 <div class="isomer-card-body">
@@ -394,12 +396,23 @@ Group</div>
 <div class="isomer-card">
 <div class="isomer-card-image">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="GovTech leader Richard Tay" src="/images/About Us/Richard_TAY.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="GovTech leader Richard TAY" src="/images/About Us/Richard_TAY.jpg">
 </div>
 </div>
 <div class="isomer-card-body">
 <div class="isomer-card-title">Mr Richard TAY</div>
 <div class="isomer-card-description">Senior Director, Infrastructure</div>
+</div>
+</div>
+<div class="isomer-card">
+<div class="isomer-card-image">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="GovTech leader Lim Bee Kwan" src="/images/our-team/Lim_Bee_Kwan.png">
+</div>
+</div>
+<div class="isomer-card-body">
+<div class="isomer-card-title">Ms LIM Bee Kwan</div>
+<div class="isomer-card-description">Chief Executive Officer, Assurity Trusted Solutions</div>
 </div>
 </div>
 </div>
