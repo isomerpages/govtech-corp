@@ -52,8 +52,8 @@ Government Group)</div>
 </div>
 <div class="isomer-card-body">
 <div class="isomer-card-title">Mr CHNG Kai Fong</div>
-<div class="isomer-card-description">Permanent Secretary (Information And Development), Ministry of Communications
-and Information</div>
+<div class="isomer-card-description">Permanent Secretary (Information And Development), Ministry of Digital
+Development and Information (MDDI)</div>
 </div>
 </div>
 <div class="isomer-card">
