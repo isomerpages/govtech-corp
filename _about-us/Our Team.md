@@ -52,8 +52,8 @@ Government Group)</div>
 </div>
 <div class="isomer-card-body">
 <div class="isomer-card-title">Mr CHNG Kai Fong</div>
-<div class="isomer-card-description">Permanent Secretary (Information And Development), Ministry of Communications
-and Information</div>
+<div class="isomer-card-description">Permanent Secretary (Information And Development), Ministry of Digital
+Development and Information (MDDI)</div>
 </div>
 </div>
 <div class="isomer-card">
@@ -305,12 +305,23 @@ SaaS</div>
 <div class="isomer-card">
 <div class="isomer-card-image">
 <div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="GovTech leader Vlastimil Chvojka" src="/images/About Us/Vlastimil_CHVOJKA.jpg">
+</div>
+</div>
+<div class="isomer-card-body">
+<div class="isomer-card-title">Mr Vlastimil CHVOJKA</div>
+<div class="isomer-card-description">Senior Director, Digital Economy Products</div>
+</div>
+</div>
+<div class="isomer-card">
+<div class="isomer-card-image">
+<div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="GovTech leader Lim Thian Chin" src="/images/About Us/LIM_Thian_Chin.jpg">
 </div>
 </div>
 <div class="isomer-card-body">
 <div class="isomer-card-title">Mr LIM Thian Chin</div>
-<div class="isomer-card-description">Senior Director, Governance</div>
+<div class="isomer-card-description">Chief Risk Officer &amp; Senior Director, Governance</div>
 </div>
 </div>
 <div class="isomer-card">
@@ -358,10 +369,23 @@ Group</div>
 <div class="isomer-card-description">Senior Director, Education</div>
 </div>
 </div>
+</div>
+<div class="isomer-card-grid">
 <div class="isomer-card">
 <div class="isomer-card-image">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="GovTech leader Sing Khang Leng" src="/images/About Us/SING_Khang_Leng.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="GovTech leader Lillian Shieh" src="/images/our-team/Lillian_Shieh.png">
+</div>
+</div>
+<div class="isomer-card-body">
+<div class="isomer-card-title">Ms Lillian SHIEH</div>
+<div class="isomer-card-description">Head of Design Practice, Government Technology Office</div>
+</div>
+</div>
+<div class="isomer-card">
+<div class="isomer-card-image">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="GovTech leader SING Khang Leng" src="/images/About Us/SING_Khang_Leng.jpg">
 </div>
 </div>
 <div class="isomer-card-body">
@@ -372,7 +396,7 @@ Group</div>
 <div class="isomer-card">
 <div class="isomer-card-image">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="GovTech leader Richard Tay" src="/images/About Us/Richard_TAY.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="GovTech leader Richard TAY" src="/images/About Us/Richard_TAY.jpg">
 </div>
 </div>
 <div class="isomer-card-body">
@@ -383,12 +407,12 @@ Group</div>
 <div class="isomer-card">
 <div class="isomer-card-image">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="GovTech leader Vlastimil Chvojka" src="/images/About Us/Vlastimil_CHVOJKA.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="GovTech leader Lim Bee Kwan" src="/images/our-team/Lim_Bee_Kwan.png">
 </div>
 </div>
 <div class="isomer-card-body">
-<div class="isomer-card-title">Mr Vlastimil CHVOJKA</div>
-<div class="isomer-card-description">Senior Director, Digital Economy Products</div>
+<div class="isomer-card-title">Ms LIM Bee Kwan</div>
+<div class="isomer-card-description">Chief Executive Officer, Assurity Trusted Solutions</div>
 </div>
 </div>
 </div>
