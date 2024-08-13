@@ -305,6 +305,17 @@ SaaS</div>
 <div class="isomer-card">
 <div class="isomer-card-image">
 <div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="GovTech leader Vlastimil Chvojka" src="/images/About Us/Vlastimil_CHVOJKA.jpg">
+</div>
+</div>
+<div class="isomer-card-body">
+<div class="isomer-card-title">Mr Vlastimil CHVOJKA</div>
+<div class="isomer-card-description">Senior Director, Digital Economy Products</div>
+</div>
+</div>
+<div class="isomer-card">
+<div class="isomer-card-image">
+<div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="GovTech leader Lim Thian Chin" src="/images/About Us/LIM_Thian_Chin.jpg">
 </div>
 </div>
@@ -361,6 +372,17 @@ Group</div>
 <div class="isomer-card">
 <div class="isomer-card-image">
 <div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="GovTech leader Lillian SHIEH" src="/images/our-team/Lillian_Shieh.png">
+</div>
+</div>
+<div class="isomer-card-body">
+<div class="isomer-card-title">Ms Lillian SHIEH</div>
+<div class="isomer-card-description">Head of Design Practice, Government Technology Office</div>
+</div>
+</div>
+<div class="isomer-card">
+<div class="isomer-card-image">
+<div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="GovTech leader Sing Khang Leng" src="/images/About Us/SING_Khang_Leng.jpg">
 </div>
 </div>
@@ -378,17 +400,6 @@ Group</div>
 <div class="isomer-card-body">
 <div class="isomer-card-title">Mr Richard TAY</div>
 <div class="isomer-card-description">Senior Director, Infrastructure</div>
-</div>
-</div>
-<div class="isomer-card">
-<div class="isomer-card-image">
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="GovTech leader Vlastimil Chvojka" src="/images/About Us/Vlastimil_CHVOJKA.jpg">
-</div>
-</div>
-<div class="isomer-card-body">
-<div class="isomer-card-title">Mr Vlastimil CHVOJKA</div>
-<div class="isomer-card-description">Senior Director, Digital Economy Products</div>
 </div>
 </div>
 </div>
