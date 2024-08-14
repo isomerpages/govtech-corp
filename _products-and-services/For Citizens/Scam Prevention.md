@@ -7,21 +7,25 @@ description: The Scam Analytics and Tactical Intervention System hunts, analyses
 third_nav_title: For Citizens
 image: /images/Products and Services/Product overview card images/Cybersecurity.png
 ---
-<h2>Protecting web users from scam websites with Scam Analytics and Tactical Intervention System (SATIS)</h2>
+<h2>Protecting web users from scam websites with Scam Analytics and Tactical Intervention System (SATIS) and the recursive Machine-Learning Site Evaluator (rMSE)</h2>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="Scam Analytics and Tactical Intervention System (SATIS) protects web users from scam websites." src="/images/Products and Services/For citizens/SATIS_1690x800.png">
 </div>
 <ul data-tight="true" class="tight">
 <li>
-<p>SATIS is an AI-powered platform that combats scam websites and protects
-citizens from scammers.</p>
+<p>SATIS is a platform that supports SPF in combatting scam websites and
+protects citizens from scammers.</p>
 </li>
 <li>
-<p>Continuously scans websites at scale (over 100,000 websites scanned daily)
+<p>rMSE is an in-house, AI-powered classifier that can evaluate potential
+scam sites at scale.</p>
+</li>
+<li>
+<p>Together, they continuously review over 100,000 websites scanned daily
 for potential scams.</p>
 </li>
 <li>
-<p>Achieves high accuracy of over 90% in scam site identification.</p>
+<p>&lt;0.1% false positives through a combination man and machine!</p>
 </li>
 <li>
 <p>Users can contribute to data collection by reporting suspicious sites
