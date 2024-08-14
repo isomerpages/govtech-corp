@@ -7,21 +7,25 @@ description: The Scam Analytics and Tactical Intervention System hunts, analyses
 third_nav_title: For Citizens
 image: /images/Products and Services/Product overview card images/Cybersecurity.png
 ---
-<h2>Protecting web users from scam websites with Scam Analytics and Tactical Intervention System (SATIS)</h2>
+<h2>Protecting web users from scam websites with Scam Analytics and Tactical Intervention System (SATIS) and the recursive Machine-Learning Site Evaluator (rMSE)</h2>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="Scam Analytics and Tactical Intervention System (SATIS) protects web users from scam websites." src="/images/Products and Services/For citizens/SATIS_1690x800.png">
 </div>
 <ul data-tight="true" class="tight">
 <li>
-<p>SATIS is an AI-powered platform that combats scam websites and protects
-citizens from scammers.</p>
+<p>SATIS is a platform that supports SPF in combatting scam websites and
+protects citizens from scammers.</p>
 </li>
 <li>
-<p>Continuously scans websites at scale (over 100,000 websites scanned daily)
+<p>rMSE is an in-house, AI-powered classifier that can evaluate potential
+scam sites at scale.</p>
+</li>
+<li>
+<p>Together, they continuously review over 100,000 websites scanned daily
 for potential scams.</p>
 </li>
 <li>
-<p>Achieves high accuracy of over 90% in scam site identification.</p>
+<p>&lt;0.1% false positives through a combination man and machine!</p>
 </li>
 <li>
 <p>Users can contribute to data collection by reporting suspicious sites
@@ -35,14 +39,14 @@ citizens from accessing malicious websites.</p>
 <hr>
 <p>With the proliferation of scam websites, there is a need to step up our
 cybersecurity measures and protect users, especially the ones who are less
-savvy. That is why we have invented the Scam Analytics and Tactical Intervention
-System (SATIS). Powered by artificial intelligence (AI), this platform
-hunts, analyses and disrupts malicious websites such as bank phishing sites
-and job scam sites.&nbsp;</p>
-<p>SATIS is powered by a technology developed by GovTech — the recursive
-Machine-Learning Site Evaluator (rMSE). This technology flags scam sites
-that are sent to the Singapore Police Force (SPF) and/or Google for further
-action.</p>
+savvy. That is why we have worked with SPF to develop Scam Analytics and
+Tactical Intervention System (SATIS). Powered by artificial intelligence
+(AI), this platform hunts, analyses and disrupts malicious websites such
+as bank phishing sites and job scam sites.&nbsp;</p>
+<p>SATIS is powered by an in-house AI/ML technology developed by GovTech
+—recursive Machine-Learning Site Evaluator (rMSE). This technology alone
+achieves an accuracy well in excess of 90% and is used to flags scam sites
+for the Singapore Police Force (SPF) and/or Google to take further action.</p>
 <h3>What are the benefits of SATIS?</h3>
 <p>SATIS provides three key benefits, as follows.</p>
 <div class="isomer-card-grid">
@@ -55,7 +59,7 @@ sites and flag potential scams.</div>
 </div>
 <div class="isomer-card">
 <div class="isomer-card-body">
-<div class="isomer-card-title">Accuracy rate of 90%</div>
+<div class="isomer-card-title">Machine Learning accuracy rate of well over 90%</div>
 <div class="isomer-card-description">The platform can accurately evaluate and identify suspicious websites,
 allowing for swift action.</div>
 </div>
@@ -81,12 +85,23 @@ you can do to maximise its usefulness.&nbsp;</p>
 the <a href="https://www.scamshield.org.sg/about-bot/" rel="noopener noreferrer nofollow" target="_blank"><u>Scam Shield WhatsApp bot</u></a>,
 or the <a href="https://form.gov.sg/63982e109841390011a59121" rel="noopener noreferrer nofollow" target="_blank"><u>Report a Scam Form</u></a>.</p>
 <h4>2. Look out for sites disrupted by SATIS</h4>
-<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="The Scam Analytics and Tactical Intervention System will disrupt scam websites." src="/images/Products and Services/For citizens/rMSE_resized.jpg">
 </div>
-<p>Your browser will display a red-warning screen by Google and/or a message
-from SPF if you land on a SATIS-disrupted scam website.</p>
+<p>If you land on a SATIS-disrupted scam website, you may see either:</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>A red warning screen from Google,</p>
+</li>
+<li>
+<p>A message from SPF,</p>
+</li>
+<li>
+<p>or a disconnected site (e.g. 404 error)</p>
+</li>
+</ul>
+<p>In some cases, scammers may find excuses to send you a different link
+– please disengage with them!</p>
 <h3>Want to stay updated?</h3>
 <div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="http://eepurl.com/cUwIsD" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Subscribe to TechNews" src="/images/CTA card images/Subscribe_to_the_TN_newsletter.png"></div></div><div class="isomer-card-body"><div class="isomer-card-title">TechNews readers will be the first to receive updates on SATIS!</div><div class="isomer-card-link">Subscribe to TechNews</div></div></a>
 <a rel="noopener noreferrer nofollow" href="http://eepurl.com/hsr131" class="isomer-card">
