@@ -110,10 +110,10 @@ Digital Government Group (SNDGG) in the Prime Minister’s Office.</p>
 <p>For more information, please visit&nbsp;<a href="https://wogaa.sg/" rel="noopener noreferrer nofollow" target="_blank">www.tech.gov.sg</a>.</p>
 <p>Follow GovTech on Facebook / Twitter / Instagram/ Linkedin @GovTechSG.</p>
 <hr>
-<h3><strong>Annex: Award categories and list of winners</strong></h3>
+<h3>Annex: Award categories and list of winners</h3>
 <p><em>Note: This year’s “Best Search Engine Optimisation” and “Best Accessibility (Cat A)” categories see more than one winner, and one of the “Outstanding Citizen Contributor” winning entries comprises a duo; this resulted in a total of 33 awards.</em>
 </p>
-<h3>Award: Best Search Engine Optimisation (SEO)</h3>
+<h4>Award: Best Search Engine Optimisation (SEO)</h4>
 <p><strong>No. of Categories</strong>: 3*</p>
 <p><strong>Description of Award</strong>: Recognises agencies with the highest
 SEO scores from WOGAA Inspect<sup>[4]</sup>, with sites that are the most
@@ -133,7 +133,7 @@ Ministry of Transport, Tote Board, Yellow Ribbon Singapore</p>
 <p>Cat C: National Heritage Board</p>
 </li>
 </ul>
-<h3>Award: Best Accessibility</h3>
+<h4>Award: Best Accessibility</h4>
 <p><strong>No. of Categories</strong>: 3*</p>
 <p><strong>Description of Award</strong>: Recognises agencies with the highest
 WOGAA Inspect accessibility scores across all their informational services,
@@ -153,7 +153,7 @@ and have the best user experience.</p>
 <p>Cat C: National Heritage Board</p>
 </li>
 </ul>
-<h3>Award: Best Customer Satisfaction Score for Transactional Services</h3>
+<h4>Award: Best Customer Satisfaction Score for Transactional Services</h4>
 <p><strong>No. of Categories</strong>: 3*</p>
 <p><strong>Description of Award</strong>: Recognises agencies that exceed
 user expectations with the best customer satisfaction scores from WOGAA
@@ -172,7 +172,7 @@ Sentiments<sup>[5]</sup>.</p>
 <p>Cat C: National Environmental Agency</p>
 </li>
 </ul>
-<h3>Award: Best Functionality</h3>
+<h4>Award: Best Functionality</h4>
 <p><strong>No. of Categories</strong>: 3*</p>
 <p><strong>Description of Award</strong>: Recognises the agencies that achieved
 the best combination score of page load time, SEO and accessibility across
@@ -191,14 +191,14 @@ all their informational websites.</p>
 <p>Cat C: National Heritage Board</p>
 </li>
 </ul>
-<h3>Award: Best Improvement</h3>
+<h4>Award: Best Improvement</h4>
 <p><strong>No. of Categories</strong>: 1</p>
 <p><strong>Description of Award</strong>: Acknowledges the largest improvements
 made by the agency with the highest overall increase of scores from the
 start to the end of the qualifying period.</p>
 <p></p>
 <p><strong>Award Winner:</strong>&nbsp;Singapore Police Force</p>
-<h3>Award: Best Usability</h3>
+<h4>Award: Best Usability</h4>
 <p><strong>No. of Categories</strong>: 4</p>
 <p><strong>Description of Award</strong>: Comprises 2 sub-award categories:
 Best Usability (Government), Best Usability (Industry), Most Popular Informational
@@ -226,7 +226,7 @@ the event day.</p>
 <p>Most Popular Informational Website (Industry): DBS Website</p>
 </li>
 </ul>
-<h3>Award: Outstanding Citizen Contributor</h3>
+<h4>Award: Outstanding Citizen Contributor</h4>
 <p><strong>No. of Categories</strong>: 9</p>
 <p><strong>Description of Award</strong>: Comprises 3 sub-award categories
 that recognise citizens from WOG, Tech Kaki and CrowdTaskSG community:</p>
