@@ -233,6 +233,6 @@ collections, as well as a continual development of innovative library spaces.
 Established on 1 September 1995, NLB is as a statutory board under the
 Ministry of Digital Development and Information.</p>
 <p>For more information, please visit the <a href="https://www.nlb.gov.sg/" rel="noopener noreferrer nofollow" target="_blank">NLB website</a>, and NLB’s <a href="https://www.facebook.com/nlbsingapore" rel="noopener noreferrer nofollow" target="_blank">Facebook</a>,
-<a href="https://instagram.com/nlbsingapore" rel="noopener noreferrer nofollow" target="_blank">Instagram</a>, <a href="https://sg.linkedin.com/company/national-library-board" rel="noopener noreferrer nofollow" target="_blank">LinkedIn</a> and
-<a href="https://www.youtube.com/c/NLBsg" rel="noopener noreferrer nofollow" target="_blank">YouTube</a>channels.</p>
+<a href="https://instagram.com/nlbsingapore" rel="noopener noreferrer nofollow" target="_blank">Instagram</a>, <a href="https://sg.linkedin.com/company/national-library-board" rel="noopener noreferrer nofollow" target="_blank">LinkedIn</a>,
+and <a href="https://www.youtube.com/c/NLBsg" rel="noopener noreferrer nofollow" target="_blank">YouTube</a>.</p>
 <p></p>
