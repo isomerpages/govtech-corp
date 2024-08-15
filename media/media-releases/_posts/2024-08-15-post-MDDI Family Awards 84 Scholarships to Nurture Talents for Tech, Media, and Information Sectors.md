@@ -197,7 +197,7 @@ pursue international partnerships, and drive regional cybersecurity capacity
 building programmes.</p>
 <p>CSA is part of the Prime Minister’s Office and is managed by the Ministry
 of Digital Development and Information. For more news and information,
-please visit <a rel="noopener noreferrer nofollow" target="_blank">www.csa.gov.sg</a>.</p>
+please visit <a href="https://www.csa.gov.sg/" rel="noopener noreferrer nofollow" target="_blank">www.csa.gov.sg</a>.</p>
 <h3>About the Government Technology Agency (GovTech)</h3>
 <p>The Government Technology Agency of Singapore (GovTech) is the lead agency
 driving Singapore’s Smart Nation initiative and public or digital transformation.
@@ -217,8 +217,8 @@ Digital Future, we foster growth in Infocomm Technology and Media sectors
 in concert with progressive regulations, harnessing frontier technologies,
 and developing local talent and digital infrastructure ecosystems to establish
 Singapore as a digital metropolis.</p>
-<p>For more news and information, visit <a rel="noopener noreferrer nofollow" target="_blank">www.imda.gov.sg</a> or
-follow IMDA on LinkedIn (IMDAsg) and Instagram (@imdasg).</p>
+<p>For more news and information, visit <a href="https://www.imda.gov.sg/" rel="noopener noreferrer nofollow" target="_blank">www.imda.gov.sg</a> or follow IMDA on LinkedIn
+(IMDAsg) and Instagram (@imdasg).</p>
 <h3>About National Library Board (NLB)</h3>
 <p>The National Library Board (NLB) nurtures Readers for Life, Learning Communities
 and a Knowledgeable Nation by promoting reading, learning and history through
