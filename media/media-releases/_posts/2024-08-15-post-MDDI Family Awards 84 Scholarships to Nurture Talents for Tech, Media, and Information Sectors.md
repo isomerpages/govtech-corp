@@ -53,12 +53,12 @@ a difference to our national digital transformation. Jointly offered by
 CSA, GovTech, and IMDA, scholars can look forward to a multifaceted career,
 specialising in a variety of tech domains and opportunities for job rotations
 across the different public agencies.</p>
-<h3>MDDI Postgraduate Scholarship</h3>
+<h3>(B) MDDI Postgraduate Scholarship</h3>
 <p>Beyond attracting and growing young talents, MDDI family also strives
 to develop in-service officers’ professional and specialised capabilities
 through the MDDI Postgraduate Scholarship, which was awarded to 2 MDDI
 officers this year, to pursue postgraduate studies.</p>
-<h3>IMDA SG Digital Scholarship</h3>
+<h3>(C) IMDA SG Digital Scholarship</h3>
 <p>In addition to developing talents for the public sector, MDDI family also
 aims to develop future leaders for Singapore’s technology and media ecosystem.
 68 recipients were awarded the IMDA SG Digital Scholarship, an industry
