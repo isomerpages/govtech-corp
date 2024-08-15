@@ -23,11 +23,11 @@ talents in technology, media, library, and archives services and communications
 areas, allowing them to lead a range of digital development and government
 communications work across public and private sectors. A total of three
 types of scholarship were awarded to the recipients:</p>
-<h3>Undergraduate Scholarships</h3>
+<h3>(A) Undergraduate Scholarships</h3>
 <p>The MDDI Family offers three categories of scholarships to support students
 pursuing bachelor’s degrees relevant to the ministry, statutory boards,
 or agencies:</p>
-<h4>MDDI Information Service Scholarship</h4>
+<h4>i. MDDI Information Service Scholarship</h4>
 <p>3 recipients were awarded the MDDI Information Service Scholarship. This
 scholarship was first introduced in 2008 to attract young talents with
 an interest in government communications. They will play an important role
@@ -36,7 +36,7 @@ to the Government, through engaging citizens on national and social issues
 in various channels, strengthening policy communications at whole-of-government
 level, communicating policies to the public, and managing government media
 relations.</p>
-<h4>NLB Scholarship&nbsp;</h4>
+<h4>ii. NLB Scholarship&nbsp;</h4>
 <p>3 recipients were awarded the NLB Scholarship. Through the NLB Scholarship,
 NLB aims to build and nurture a multi-disciplinary talent pipeline in information
 literacy, knowledge creation and preservation to develop Singapore’s libraries
@@ -46,7 +46,7 @@ for all Singaporeans. They will also contribute to NLB’s roles in building
 a Learning Marketplace, nurturing an Informed Citizenry, inspiring Singapore
 Storytellers, and being an Equaliser as envisioned through LAB25 (Libraries
 and Archives Blueprint 2025).</p>
-<h4>Smart Nation Scholarship</h4>
+<h4>iii. Smart Nation Scholarship</h4>
 <p>8 recipients were awarded the Smart Nation Scholarship (SNS). The SNS
 seeks to develop future technology leaders who are passionate in making
 a difference to our national digital transformation. Jointly offered by
