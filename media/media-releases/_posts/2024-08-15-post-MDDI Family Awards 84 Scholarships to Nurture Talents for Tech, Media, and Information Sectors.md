@@ -91,45 +91,89 @@ Strategy 2.0.</p>
 </p>
 <p><strong>MDDI</strong>
 </p>
+<ul data-tight="true" class="tight">
+<li>
 <p>Xenon Chen (Mr)</p>
+</li>
+<li>
 <p>Assistant Manager, Communications &amp; Engagement Division</p>
+</li>
+<li>
 <p>(65) 8533 4662</p>
-<p><a rel="noopener noreferrer nofollow" target="_blank">xenon_chen@mddi.gov.sg</a>
+</li>
+<li>
+<p><a href="mailto:xenon_chen@mddi.gov.sg" rel="noopener noreferrer nofollow" target="_blank">xenon_chen@mddi.gov.sg</a>
 </p>
-<p><strong>&nbsp;</strong>
-</p>
+</li>
+</ul>
 <p><strong>CSA</strong>
 </p>
-<p><a rel="noopener noreferrer nofollow" target="_blank">Cassandra Yeo (Ms)</a>
-</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Cassandra Yeo (Ms)</p>
+</li>
+<li>
 <p>Assistant Manager, Communications &amp; Engagement Office</p>
+</li>
+<li>
 <p>(65) 8223 9034</p>
-<p><a rel="noopener noreferrer nofollow" target="_blank">cassandra_yeo@csa.gov.sg</a>
+</li>
+<li>
+<p><a href="mailto:cassandra_yeo@csa.gov.sg" rel="noopener noreferrer nofollow" target="_blank">cassandra_yeo@csa.gov.sg</a>
 </p>
-<p><strong>&nbsp;</strong>
-</p>
+</li>
+</ul>
 <p><strong>GovTech</strong>
 </p>
+<ul data-tight="true" class="tight">
+<li>
 <p>Sharleen TEO (Ms)</p>
+</li>
+<li>
 <p>Assistant Manager, Communications and Marketing Group</p>
+</li>
+<li>
 <p>(65) 9100 8335</p>
-<p><a rel="noopener noreferrer nofollow" target="_blank">sharleen_teo@tech.gov.sg</a>
+</li>
+<li>
+<p><a href="mailto:sharleen_teo@tech.gov.sg" rel="noopener noreferrer nofollow" target="_blank">sharleen_teo@tech.gov.sg</a>
 </p>
-<p>&nbsp;</p>
+</li>
+</ul>
 <p><strong>IMDA</strong>
 </p>
+<ul data-tight="true" class="tight">
+<li>
 <p>Shamana Menon (Ms)</p>
+</li>
+<li>
 <p>Manager, Communications and Marketing</p>
+</li>
+<li>
 <p>(65) 9694 2579</p>
-<p><a rel="noopener noreferrer nofollow" target="_blank">shamana_menon@imda.gov.sg</a>
+</li>
+<li>
+<p><a href="mailto:shamana_menon@imda.gov.sg" rel="noopener noreferrer nofollow" target="_blank">shamana_menon@imda.gov.sg</a>
 </p>
+</li>
+</ul>
 <p><strong>NLB</strong>
 </p>
+<ul data-tight="true" class="tight">
+<li>
 <p>Ong Hui Ying (Ms)</p>
+</li>
+<li>
 <p>Assistant Manager, Corporate Communications Division</p>
+</li>
+<li>
 <p>(65) 96924805</p>
-<p><a rel="noopener noreferrer nofollow" target="_blank">ong_hui_ying@nlb.gov.sg</a>
+</li>
+<li>
+<p><a href="mailto:ong_hui_ying@nlb.gov.sg" rel="noopener noreferrer nofollow" target="_blank">ong_hui_ying@nlb.gov.sg</a>
 </p>
+</li>
+</ul>
 <hr>
 <h3>About Ministry of Digital Development and Information (MDDI)</h3>
 <p>The Ministry of Digital Development and Information (MDDI) drives Singapore’s
