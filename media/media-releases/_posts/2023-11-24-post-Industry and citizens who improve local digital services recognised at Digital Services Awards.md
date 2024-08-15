@@ -10,11 +10,11 @@ description: GovTech's DSA expands to recognise industry and citizen
 image: /images/media-release/_1__Industry_and_citizens_who_improve_local_digital_services_recognised_for_the_first_time_at_annual_Digital_Services_Awards.jpg
 variant: tiptap
 ---
-<p>The annual Digital Services Awards (DSA)[1], organised by the Government
-Technology Agency of Singapore (GovTech) and supported by Smart Nation
-Group, expanded beyond government agencies for the first time to encourage
-broader participation and acknowledge the valuable contributions of citizens
-and private organisations.</p>
+<p>The annual Digital Services Awards (DSA)<sup>[1]</sup>, organised by the
+Government Technology Agency of Singapore (GovTech) and supported by Smart
+Nation Group, expanded beyond government agencies for the first time to
+encourage broader participation and acknowledge the valuable contributions
+of citizens and private organisations.</p>
 <p>Held on 24 November 2023 at the Devan Nair Institute for Employment and
 Employability, this year’s event saw 350 physical attendees, with another
 500 joining via livestream. Senior Minister of State for Ministry of Communications
@@ -53,11 +53,11 @@ digital services.</p>
 enhance government digital services were honoured at the Awards. Three
 awardees were selected through an open call for nominations across the
 Whole-of-Government, and six were selected from government-initiated tech
-communities such as Tech Kaki[2] and CrowdTaskSG[3]. Besides experts who
-drive social technology initiatives and strive to empower lives through
-technology, media representatives from The Straits Times and Channel 8
-News were also part of the judging panel involved in the evaluation of
-this award category.</p>
+communities such as Tech Kaki<sup>[2]</sup> and CrowdTaskSG<sup>[3]</sup>.
+Besides experts who drive social technology initiatives and strive to empower
+lives through technology, media representatives from The Straits Times
+and Channel 8 News were also part of the judging panel involved in the
+evaluation of this award category.</p>
 <h3>Raising digital standards in Singapore</h3>
 <p>Mr Goh Wei Boon, Chief Executive, of GovTech, said, “We hope the new award
 categories will encourage more citizens and private sector organisations
@@ -80,7 +80,6 @@ effort.”</p>
 <hr>
 <p>ISSUED BY THE COMMUNICATIONS AND MARKETING GROUP</p>
 <p>GOVERNMENT TECHNOLOGY AGENCY OF SINGAPORE</p>
-<p></p>
 <hr>
 <p>[1] Held annually since 2021, the Digital Services Awards was first introduced
 by the government to recognise outstanding achievements and excellence
@@ -91,21 +90,9 @@ contributions.</p>
 community established by GovTech in late 2016, to encourage citizen participation
 in the development of our digital products and services, ensuring they
 are designed to meet the needs of citizens and businesses.</p>
-<p></p>
 <p>[3] <a href="https://www.crowdtask.gov.sg/" class="editor-rtfLink" rel="noopener noreferrer nofollow" target="_blank">CrowdTaskSG</a>&nbsp;is a gamified
 web portal developed by GovTech, for government agencies in Singapore to
 engage citizens and gather insights through crowdsourcing tasks.</p>
-<p></p>
-<hr>
-<p>Enclosed:</p>
-<ul data-tight="true" class="tight">
-<li>
-<p>Annex A (Event Photos)</p>
-</li>
-<li>
-<p>Annex B (Award Categories and List of Winners)</p>
-</li>
-</ul>
 <hr>
 <h3>About Government Technology Agency</h3>
 <p>The Government Technology Agency (GovTech) is the lead agency driving
@@ -120,45 +107,17 @@ public sector lead for cybersecurity, and oversees key government ICT infrastruc
 as well as regulates ICT procurement, data protection and security in the
 public sector. GovTech is a Statutory Board under the Smart Nation and
 Digital Government Group (SNDGG) in the Prime Minister’s Office.</p>
-<p>For more information, please visit&nbsp;<a href="https://wogaa.sg/" rel="noopener noreferrer nofollow" target="_blank">www.tech.gov.sg</a>. Follow GovTech on Facebook
-/ Twitter / Instagram/ Linkedin @GovTechSG.</p>
+<p>For more information, please visit&nbsp;<a href="https://wogaa.sg/" rel="noopener noreferrer nofollow" target="_blank">www.tech.gov.sg</a>.</p>
+<p>Follow GovTech on Facebook / Twitter / Instagram/ Linkedin @GovTechSG.</p>
 <hr>
-<h3><strong>Annex A: Event Photos</strong></h3>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Dr Janil Puthucheary, Guest of Honour, addressing the audience at the Digital Services Awards 2023" src="/images/media-release/_1__Industry_and_citizens_who_improve_local_digital_services_recognised_for_the_first_time_at_annual_Digital_Services_Awards.jpg">
-</div>
-<p>Senior Minister of State for Ministry of Communications and Information
-and Minister-in-Charge of GovTech, Dr Janil Puthucheary, graced the event
-as the Guest-of-Honour and presented awards to 33 winners across eight
-award categories.</p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Dr Janil Puthucheary addressing the crowd at the Digital Services Awards 2023" src="/images/media-release/_2__Industry_and_citizens_who_improve_local_digital_services_recognised_for_the_first_time_at_annual_Digital_Services_Awards.jpg">
-</div>
-<p>The Digital Services Awards (DSA) organised by GovTech was held on 24
-November 2023 at the Devan Nair Institute for Employment and Employability,
-and saw 350 physical attendees, with another 500 joining via live stream.</p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Dr Janil Puthucheary posing with the recipients of &quot;Outstanding Citizen Contributor&quot; category" src="/images/media-release/_3__Industry_and_citizens_who_improve_local_digital_services_recognised_for_the_first_time_at_annual_Digital_Services_Awards.jpg">
-</div>
-<p>In line with this year’s theme, “Empathy at the Heart of Tech”, the third
-edition of DSA introduced a new award category (“Outstanding Citizen Contributor”)
-that celebrates citizens who have actively participated and contributed
-to improving government digital services.</p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Dr Janil Puthucheary speaking with GovTech employees at exhibition booths" src="/images/media-release/_4__Industry_and_citizens_who_improve_local_digital_services_recognised_for_the_first_time_at_annual_Digital_Services_Awards.jpg">
-</div>
-<p>Senior Minister of State for Ministry of Communications and Information
-and Minister-in-Charge of GovTech, Dr Janil Puthucheary visited the exhibition
-booths showcasing various GovTech products that help agencies improve their
-digital services.</p>
-<h3><strong>Annex B: Award categories and list of winners</strong></h3>
+<h3>Annex: Award categories and list of winners</h3>
 <p><em>Note: This year’s “Best Search Engine Optimisation” and “Best Accessibility (Cat A)” categories see more than one winner, and one of the “Outstanding Citizen Contributor” winning entries comprises a duo; this resulted in a total of 33 awards.</em>
 </p>
-<h3>Award: Best Search Engine Optimisation (SEO)</h3>
+<h4>Award: Best Search Engine Optimisation (SEO)</h4>
 <p><strong>No. of Categories</strong>: 3*</p>
 <p><strong>Description of Award</strong>: Recognises agencies with the highest
-SEO scores from WOGAA Inspect[4], with sites that are the most searchable
-on search engines.</p>
+SEO scores from WOGAA Inspect<sup>[4]</sup>, with sites that are the most
+searchable on search engines.</p>
 <p></p>
 <p><strong>Award Winners:</strong>
 </p>
@@ -174,7 +133,7 @@ Ministry of Transport, Tote Board, Yellow Ribbon Singapore</p>
 <p>Cat C: National Heritage Board</p>
 </li>
 </ul>
-<h3>Award: Best Accessibility</h3>
+<h4>Award: Best Accessibility</h4>
 <p><strong>No. of Categories</strong>: 3*</p>
 <p><strong>Description of Award</strong>: Recognises agencies with the highest
 WOGAA Inspect accessibility scores across all their informational services,
@@ -194,11 +153,11 @@ and have the best user experience.</p>
 <p>Cat C: National Heritage Board</p>
 </li>
 </ul>
-<h3>Award: Best Customer Satisfaction Score for Transactional Services</h3>
+<h4>Award: Best Customer Satisfaction Score for Transactional Services</h4>
 <p><strong>No. of Categories</strong>: 3*</p>
 <p><strong>Description of Award</strong>: Recognises agencies that exceed
 user expectations with the best customer satisfaction scores from WOGAA
-Sentiments[5].</p>
+Sentiments<sup>[5]</sup>.</p>
 <p></p>
 <p><strong>Award Winners:</strong>
 </p>
@@ -213,7 +172,7 @@ Sentiments[5].</p>
 <p>Cat C: National Environmental Agency</p>
 </li>
 </ul>
-<h3>Award: Best Functionality</h3>
+<h4>Award: Best Functionality</h4>
 <p><strong>No. of Categories</strong>: 3*</p>
 <p><strong>Description of Award</strong>: Recognises the agencies that achieved
 the best combination score of page load time, SEO and accessibility across
@@ -232,14 +191,14 @@ all their informational websites.</p>
 <p>Cat C: National Heritage Board</p>
 </li>
 </ul>
-<h3>Award: Best Improvement</h3>
+<h4>Award: Best Improvement</h4>
 <p><strong>No. of Categories</strong>: 1</p>
 <p><strong>Description of Award</strong>: Acknowledges the largest improvements
 made by the agency with the highest overall increase of scores from the
 start to the end of the qualifying period.</p>
 <p></p>
 <p><strong>Award Winner:</strong>&nbsp;Singapore Police Force</p>
-<h3>Award: Best Usability</h3>
+<h4>Award: Best Usability</h4>
 <p><strong>No. of Categories</strong>: 4</p>
 <p><strong>Description of Award</strong>: Comprises 2 sub-award categories:
 Best Usability (Government), Best Usability (Industry), Most Popular Informational
@@ -267,7 +226,7 @@ the event day.</p>
 <p>Most Popular Informational Website (Industry): DBS Website</p>
 </li>
 </ul>
-<h3>Award: Outstanding Citizen Contributor</h3>
+<h4>Award: Outstanding Citizen Contributor</h4>
 <p><strong>No. of Categories</strong>: 9</p>
 <p><strong>Description of Award</strong>: Comprises 3 sub-award categories
 that recognise citizens from WOG, Tech Kaki and CrowdTaskSG community:</p>
@@ -314,6 +273,5 @@ website’s performance, accessibility, best practices, and search engine
 optimisation (SEO).</p>
 <p>[5] WOGAA Sentiments is a tool that allows government websites to collect
 user satisfaction feedback and ratings.</p>
-<p></p>
 <hr>
 <p></p>
