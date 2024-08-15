@@ -18,10 +18,27 @@ for Digital Development and Information and Minister-in-charge of Smart
 Nation and Cybersecurity. This is MDDI family’s first scholarship award
 ceremony following the merger of the Ministry of Communications and Information
 and the Smart Nation and Digital Government Group last October.</p>
-<p></p>
 <p>The scholarships are part of MDDI family’s collective effort to nurture
 talents in technology, media, library, and archives services and communications
 areas, allowing them to lead a range of digital development and government
 communications work across public and private sectors. A total of three
 types of scholarship were awarded to the recipients:</p>
+<h3>Undergraduate Scholarships</h3>
+<p>The MDDI Family offers three categories of scholarships to support students
+pursuing bachelor’s degrees relevant to the ministry, statutory boards,
+or agencies:</p>
+<h4>MDDI Information Service Scholarship</h4>
+<p>3 recipients were awarded the MDDI Information Service Scholarship. This
+scholarship was first introduced in 2008 to attract young talents with
+an interest in government communications. They will play an important role
+in public communications to ensure that citizens are heard and connected
+to the Government, through engaging citizens on national and social issues
+in various channels, strengthening policy communications at whole-of-government
+level, communicating policies to the public, and managing government media
+relations.</p>
+<h4>NLB Scholarship&nbsp;</h4>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
 <p></p>
