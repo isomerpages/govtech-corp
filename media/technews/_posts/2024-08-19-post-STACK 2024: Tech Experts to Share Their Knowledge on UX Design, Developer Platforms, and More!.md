@@ -143,8 +143,117 @@ and community support ensures that Vue.js and Vite will remain at the forefront
 of web development for years to come. As a keynote speaker, Evan offers
 invaluable insights into the future of web technologies, making his talks
 helpful for anyone interested in the evolution of the web development landscape.</p>
+<h3>2. Gregor Hohpe: Architecting Transformation for the Cloud Era</h3>
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 75%;" height="auto" width="100%" alt="Gregor Hohpe at STACK 2024" src="/images/technews/Gregor_Hohpe_600x300.png">
+</div>
+<p><a href="https://www.linkedin.com/in/ghohpe/?originalSubdomain=sg" rel="noopener noreferrer nofollow" target="_blank">Gregor Hohpe</a>&nbsp;is
+a tech strategist, engineer, author, speaker, and a former GovTech Smart
+Nation Fellow. As an architect, he has explored and studied the complex
+world of IT architecture for over two decades. His experience spans diverse
+organisations – from Silicon Valley startups to established enterprises
+like Amazon Web Services (AWS) and Google, ensuring successful digital
+transformation in these organisations.</p>
+<h4>A Global Authority on Architecture</h4>
+<p>Gregor's expertise is recognised worldwide. He co-authored the seminal
+book&nbsp;<a href="https://architectelevator.com/book/#eip:~:text=The%20Classic%3A%20Enterprise%20Integration%20Patterns" rel="noopener noreferrer nofollow" target="_blank">Enterprise Integration Patterns (2003)</a>,
+a cornerstone reference for&nbsp;<a href="https://aws.amazon.com/what-is/enterprise-service-bus/#:~:text=application%20integration%20requirements%3F-,What%20is%20Enterprise%20Service%20Bus%3F,%2C%20protocols%2C%20and%20security%20restrictions." rel="noopener noreferrer nofollow" target="_blank">Enterprise Service Buses (ESBs)</a>.
+His follow-up,&nbsp;<a href="https://architectelevator.com/book/#:~:text=writing%20this%20way.-,The%20Software%20Architect%20Elevator,-Being%20an%20architect" rel="noopener noreferrer nofollow" target="_blank">The Software Architect Elevator (2020)</a>,
+delves into real-world IT transformation challenges. His articles have
+also been featured in prestigious publications like&nbsp;<a href="https://link.springer.com/book/10.1007/978-1-4302-0038-3" rel="noopener noreferrer nofollow" target="_blank">Best Software Writing</a>&nbsp;by
+Joel Spolsky and&nbsp;<a href="https://www.oreilly.com/library/view/97-things-every/9780596800611/" rel="noopener noreferrer nofollow" target="_blank">97 Things Every Software Architect Should Know</a>.</p>
+<h4>From Buzzwords to Actionable Strategies</h4>
+<p>Gregor is known for his ability to translate complex concepts into practical
+solutions. He actively dismantles "buzzwords" and replaces them with clear,
+actionable strategies. His passion lies in helping technology leaders bridge
+the divide between the “engine room” (technical details) and the “penthouse”
+(business strategy).</p>
+<h4>Transforming Singapore's Smart Nation</h4>
+<p>As a <a href="https://www.linkedin.com/pulse/building-smarter-nation-speeding-up-more-than-going-faster-hohpe/" rel="noopener noreferrer nofollow" target="_blank">former Smart Nation Fellow</a> for
+the Singapore government, Gregor played a pivotal role in accelerating
+government IT processes. He understands the unique challenges faced by
+public sector organisations and offers practical solutions for navigating
+rapid change while maintaining security and efficiency.</p>
+<h4>What to Expect from Gregor’s Talk</h4>
+<p>Learn about the magic of developer platforms and how they defy the IT
+laws of physics:</p>
+<p>• Platforms spur innovation despite harmonisation</p>
+<p>• Platforms speed up development while assuring compliance</p>
+<p>• Platforms reduce cognitive load without restricting choice</p>
+<p>But building such an in-house platform, or even deploying one, is far
+from easy. Gregor packages his experience in building platforms into a
+series of mental models and metaphors that will help you understand design
+decisions and trade-offs. You'll also find out how platforms are related
+to cars, submarines, and fruit salads!</p>
+<h3>3. Lillian Shieh: Integrity and Strategic Leadership in Design and Innovation</h3>
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 75%;" height="auto" width="100%" alt="Lillian Shieh at STACK 2024" src="/images/technews/Lillian_Shieh_600x300.png">
+</div>
+<p><a href="https://www.linkedin.com/in/lillianshieh/" rel="noopener noreferrer nofollow" target="_blank">Lillian Shieh</a>,
+the Head of Design Practice at GovTech, is a distinguished design researcher,
+product strategist, and service designer. Her portfolio of experience includes
+building multi-disciplinary design teams, establishing best practices for
+digital service development, and new product and service innovation for
+health care, financial services and the public sector.</p>
+<h4>Senior Design Leadership at GovTech</h4>
+<p>At GovTech, Lillian Shieh is at the forefront of integrating user-centricity
+into public services. Her objective is to ensure that best practices in
+user experience design are woven into the fabric of government digital
+services, with the goal of benefitting citizens, businesses, and public
+officers alike.</p>
+<h4>A Track Record of Success</h4>
+<p>As Senior Director and Head of Design in Asia Pacific at J&amp;J, Lillian
+led the launch of the J&amp;J Design Lab in the region. She built a strong,
+multidisciplinary team and fostered deep collaborations with J&amp;J’s
+Pharma, MedTech, and Consumer businesses. Under her leadership, the team
+created innovative products and services that increased engagement and
+value for consumers, patients, and surgeons. This resulted in better products,
+services and health outcomes for consumers. The lab’s success is also reflected
+in the sustained partnerships and significant investments from various
+J&amp;J sectors.</p>
+<h4>What to Expect from Lillian’s Talk</h4>
+<p>Lillian Shieh’s keynote speech promises valuable insights into how Government
+services can be improved, by examining powerful biases in how digital services
+are developed and by reflecting on the changing priorities and responsibilities
+of government digital services when there is greater digital maturity.</p>
+<h3>4. Scott Shaw: A Tech Industry Pioneer and Advisor</h3>
 <p></p>
-<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 75%;" height="auto" width="100%" alt="Scott Shaw at STACK 2024" src="/images/technews/Scott_Shaw_600x300.png">
+</div>
+<p><a href="https://www.linkedin.com/in/scott-shaw-b4003a4/" rel="noopener noreferrer nofollow" target="_blank">Scott Shaw</a>,
+the Chief Technology Officer (CTO) for Thoughtworks APAC, brings a wealth
+of experience and knowledge to the table. Mr Shaw has been with Thoughtworks
+for nearly 20 years, witnessing its growth from around 700 employees to
+over 12,000 globally. As part of the Global Technology Leadership Team,
+he ensures technical excellence across the Asia Pacific region.</p>
+<p>With over 30 years of experience in the software industry, he is a trusted
+advisor on technology strategy, architecture, and emerging trends. His
+extensive experience also makes him a key figure in driving innovation
+for his clients.</p>
+<h4>Innovative Contributions – Thoughtworks’ Technology Radar</h4>
+<p>Shaw is also a key author of Thoughtworks' <a href="https://www.thoughtworks.com/en-sg/radar" rel="noopener noreferrer nofollow" target="_blank">Technology Radar</a>, a
+highly regarded biannual report that guides organizations in navigating
+the latest technological advancements. The Radar distils insights from
+Thoughtworks' global teams, highlighting cutting-edge practices, platforms,
+and frameworks.</p>
+<p>The latest Radar edition underscores the transformative impact of Generative
+AI on the software industry, an area where Shaw sees significant potential
+for enhancing team collaboration and knowledge structuring.</p>
+<h4>What to Expect from Scott’s Talk</h4>
+<p>Scott’s keynote, on Engineering Platforms, will explore how to build internal
+engineering platforms that enhance developer experience by addressing pain
+points and minimising distractions. Drawing on global experience, he will
+reveal practices, tools, and metrics that ensure platforms drive efficiency
+and align with business goals.</p>
+<p>Don’t miss out on this chance to learn from this industry expert!</p>
+<hr>
+<p>Sign up today to enjoy <a href="https://go.gov.sg/stack2024-register" rel="noopener noreferrer nofollow" target="_blank">early bird prices</a>!</p>
+<a class="isomer-image-wrapper" href="https://go.gov.sg/stack2024-register">
+<img style="width: 100%" height="auto" width="100%" alt="STACK 2024 Early Bird Prices!" src="/images/technews/early_bird_prices_banner_cropped.png">
+</a>
+<p><em>Valid till 31 August 2024.</em>
+</p>
 <p></p>
