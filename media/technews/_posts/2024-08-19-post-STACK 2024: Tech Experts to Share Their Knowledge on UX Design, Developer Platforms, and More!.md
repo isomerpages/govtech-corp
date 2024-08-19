@@ -67,7 +67,6 @@ can also participate in plenary talks, panel discussions and more!</p>
 </p>
 <p>Here is a brief background and introduction to some of the keynote speakers
 who will be presenting at STACK 2024!</p>
-<p></p>
 <div class="isomer-card-grid">
 <div class="isomer-card">
 <div class="isomer-card-image">
