@@ -10,13 +10,15 @@ description: "STACK 2024: Singapore's largest government-led tech event. Learn
 image: /images/technews/STACK_2024_banner.jpg
 variant: tiptap
 ---
-<a class="isomer-image-wrapper" href="https://www.developer.tech.gov.sg/communities/events/conferences/stack-developer-conference-2024/overview.html"><img style="width: 100%" height="auto" width="100%" alt="STACK Developer Conference 2024, powered by GovTech" src="/images/technews/STACK_2024_banner.jpg"></a>
-<p>Get ready for Singapore's largest Government-led tech event — GovTech's&nbsp;
-<a href="https://go.gov.sg/stack2024-tn" rel="noopener noreferrer nofollow" target="_blank">STACK Developer Conference 2024&nbsp;</a>from 6 to 7 November at the Sands
+<a class="isomer-image-wrapper" href="https://go.gov.sg/stack2024-tnedm"><img style="width: 100%" height="auto" width="100%" alt="STACK Developer Conference 2024, powered by GovTech" src="/images/technews/STACK_2024_banner.jpg"></a>
+<p>Get ready for Singapore's largest Government-led tech event — GovTech's
+<a href="https://go.gov.sg/stack2024-tnedm" rel="noopener noreferrer nofollow" target="_blank">STACK Developer Conference 2024&nbsp;</a>from 6 to 7 November at the Sands
 Expo and Convention Centre!</p>
 <h2>What is the STACK Developer Conference about?</h2>
-<p>STACK 2024 is part of a&nbsp;<a href="https://www.developer.tech.gov.sg/communities/events/stack-meetups/" rel="noopener noreferrer nofollow" target="_blank">series of tech events</a>&nbsp;organised
-by GovTech to drive Singapore’s Smart Nation initiative and&nbsp;<a href="https://www.tech.gov.sg/about-us/what-we-do/our-role/" rel="noopener noreferrer nofollow" target="_blank">digital government transformation</a>.
+<p>STACK 2024 is part of the <a href="https://www.tech.gov.sg/our-communities/join-our-communities/stack-community/" rel="noopener noreferrer nofollow" target="_blank">GovTech STACK community's</a> series
+of tech events to drive learning, networking, and collaboration between
+the public and private sectors. Organised by GovTech to drive Singapore’s
+Smart Nation initiative and&nbsp;<a href="https://www.tech.gov.sg/about-us/what-we-do/our-role/" rel="noopener noreferrer nofollow" target="_blank">digital government transformation</a>.
 This biennial event has been running since GovTech’s inception in 2016
 and serves as a platform for the public and private sectors to convene
 and collaborate on future opportunities that further Singapore’s Smart
@@ -259,10 +261,7 @@ and align with business goals.</p>
 <p>Don’t miss out on this chance to learn from this industry expert!</p>
 <hr>
 <h4>Register for STACK Developer Conference 2024!</h4>
-<p>Sign up today to enjoy <a href="https://go.gov.sg/stack2024-register" rel="noopener noreferrer nofollow" target="_blank">early bird prices</a>!</p>
-<a class="isomer-image-wrapper" href="https://go.gov.sg/stack2024-register">
-<img style="width: 100%" height="auto" width="100%" alt="STACK 2024 Early Bird Prices!" src="/images/technews/early_bird_prices_banner_cropped.png">
-</a>
+<p>Sign up today to enjoy <a href="https://go.gov.sg/stack2024-tnedm" rel="noopener noreferrer nofollow" target="_blank">early bird prices</a>!</p><a class="isomer-image-wrapper" href="https://go.gov.sg/stack2024-tnedm"><img style="width: 100%" height="auto" width="100%" alt="STACK 2024 Early Bird Prices!" src="/images/technews/early_bird_prices_banner_cropped.png"></a>
 <p><em>Valid till 31 August 2024.</em>
 </p>
 <p></p>
