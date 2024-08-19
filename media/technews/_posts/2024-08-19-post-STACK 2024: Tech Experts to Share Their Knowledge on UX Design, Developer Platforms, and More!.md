@@ -178,9 +178,17 @@ rapid change while maintaining security and efficiency.</p>
 <h4>What to Expect from Gregor’s Talk</h4>
 <p>Learn about the magic of developer platforms and how they defy the IT
 laws of physics:</p>
-<p>• Platforms spur innovation despite harmonisation</p>
-<p>• Platforms speed up development while assuring compliance</p>
-<p>• Platforms reduce cognitive load without restricting choice</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Platforms spur innovation despite harmonisation</p>
+</li>
+<li>
+<p>Platforms speed up development while assuring compliance</p>
+</li>
+<li>
+<p>Platforms reduce cognitive load without restricting choice</p>
+</li>
+</ul>
 <p>But building such an in-house platform, or even deploying one, is far
 from easy. Gregor packages his experience in building platforms into a
 series of mental models and metaphors that will help you understand design
@@ -250,6 +258,7 @@ reveal practices, tools, and metrics that ensure platforms drive efficiency
 and align with business goals.</p>
 <p>Don’t miss out on this chance to learn from this industry expert!</p>
 <hr>
+<h4>Register for STACK Developer Conference 2024!</h4>
 <p>Sign up today to enjoy <a href="https://go.gov.sg/stack2024-register" rel="noopener noreferrer nofollow" target="_blank">early bird prices</a>!</p>
 <a class="isomer-image-wrapper" href="https://go.gov.sg/stack2024-register">
 <img style="width: 100%" height="auto" width="100%" alt="STACK 2024 Early Bird Prices!" src="/images/technews/early_bird_prices_banner_cropped.png">
