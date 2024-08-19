@@ -12,8 +12,8 @@ variant: tiptap
 <img style="width: 100%" height="auto" width="100%" alt="STACK Developer Conference 2024, powered by GovTech" src="/images/technews/STACK_2024_banner.jpg">
 </div>
 <p>Get ready for Singapore's largest Government-led tech event — GovTech's&nbsp;
-<a href="https://go.gov.sg/stack2024-tn" rel="noopener noreferrer nofollow" target="_blank">STACK Developer Conference 2024</a>from 6 to 7 November at the Sands Expo
-and Convention Centre!</p>
+<a href="https://go.gov.sg/stack2024-tn" rel="noopener noreferrer nofollow" target="_blank">STACK Developer Conference 2024&nbsp;</a>from 6 to 7 November at the Sands
+Expo and Convention Centre!</p>
 <h2>What is the STACK Developer Conference about?</h2>
 <p>STACK 2024 is part of a&nbsp;<a href="https://www.developer.tech.gov.sg/communities/events/stack-meetups/" rel="noopener noreferrer nofollow" target="_blank">series of tech events</a>&nbsp;organised
 by GovTech to drive Singapore’s Smart Nation initiative and&nbsp;<a href="https://www.tech.gov.sg/about-us/what-we-do/our-role/" rel="noopener noreferrer nofollow" target="_blank">digital government transformation</a>.
