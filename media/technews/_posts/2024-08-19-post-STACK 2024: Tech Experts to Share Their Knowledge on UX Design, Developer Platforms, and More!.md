@@ -19,10 +19,9 @@ Expo and Convention Centre!</p>
 of tech events to drive learning, networking, and collaboration between
 the public and private sectors. Organised by GovTech to drive Singapore’s
 Smart Nation initiative and&nbsp;<a href="https://www.tech.gov.sg/about-us/what-we-do/our-role/" rel="noopener noreferrer nofollow" target="_blank">digital government transformation</a>,
-this biennial event has been running since GovTech’s inception in 2016.
-It serves as a platform for the public and private sectors to convene and
-collaborate on future opportunities that further Singapore’s Smart Nation
-vision.</p>
+this biennial event serves as a platform for the public and private sectors
+to convene and collaborate on future opportunities that further Singapore’s
+Smart Nation vision.</p>
 <h3>Who will be at STACK 2024?</h3>
 <p>8 established keynote speakers will share their knowledge and expertise
 at STACK 2024, making it the perfect opportunity for innovators, entrepreneurs,
