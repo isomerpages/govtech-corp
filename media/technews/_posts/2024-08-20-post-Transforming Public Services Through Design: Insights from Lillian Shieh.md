@@ -33,7 +33,7 @@ picture because E-Lab was acquired by a digital consultancy to do “Experience
 Modelling.” As part of XMod, I discovered that some of the most interesting
 product challenges are designing experiences for high-trust domains like
 banking, travel, and government.</p>
-<p><em>[Note: E-Lab was renamed as XMod when E-Lab was acquired by <a href="https://www.publicissapient.com/" rel="noopener noreferrer nofollow" target="_blank">Publicis Sapient</a></em>—<em>a technology consulting firm</em>—<em>in 1999.]</em>
+<p><em>[Note: E-Lab was renamed as XMod when E-Lab was acquired by <a href="https://www.publicissapient.com/" rel="noopener noreferrer nofollow" target="_blank">Publicis Sapient </a></em>— <em>a technology consulting firm </em>— <em>in 1999.]</em>
 </p>
 <h3>What are some of your proudest achievements in your design career?</h3>
 <div class="isomer-card-grid">
@@ -131,8 +131,9 @@ of government digital services.</p>
 </a>
 <p><em>Early bird prices are valid till 31 August 2024.</em>
 </p>
-<p></p>
-<p></p>
+<h4>Related Content:</h4>
+<div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="/media/technews/stack-2024-tech-experts-to-share-their-knowledge-on-ux-design-developer-platforms/" class="isomer-card"><div class="isomer-card-body"><div class="isomer-card-title">STACK 2024: Tech Experts to Share Their Knowledge on UX Design, Developer Platforms, and More!</div><div class="isomer-card-link">Read more on TechNews</div></div></a>
+</div>
 <p></p>
 <p></p>
 <p></p>
