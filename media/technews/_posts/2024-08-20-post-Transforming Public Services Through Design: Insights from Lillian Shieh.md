@@ -19,6 +19,10 @@ strategy. In addition to being the Senior Director and Head of Design in
 Asia Pacific previously at Johnson &amp; Johnson, she was also awarded
 the prestigious <a href="https://www.tech.gov.sg/careers/opportunities-for-professionals/smart-nation-fellowship-programme/" rel="noopener noreferrer nofollow" target="_blank">Smart Nation Fellowship</a> at
 GovTech.</p>
+<p><em>You might also be interested in:</em>
+</p>
+<div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="/media/technews/stack-2024-tech-experts-to-share-their-knowledge-on-ux-design-developer-platforms/" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="STACK Developer Conference 2024" src="/images/technews/STACK_2024_article__631x200___1_.jpg"></div></div><div class="isomer-card-body"><div class="isomer-card-title">STACK 2024: Tech Experts to Share Their Knowledge on UX Design, Developer Platforms, and More!</div><div class="isomer-card-link">Read more on TechNews</div></div></a>
+</div>
 <p>As the new Head of Design at GovTech, <a href="https://www.linkedin.com/in/lillianshieh/" rel="noopener noreferrer nofollow" target="_blank">Lillian</a> will work on
 improving GovTech’s product development process and <a href="https://www.tech.gov.sg/products-and-services/overview/" rel="noopener noreferrer nofollow" target="_blank">digital products</a> for
 citizens, businesses and public officers.</p>
