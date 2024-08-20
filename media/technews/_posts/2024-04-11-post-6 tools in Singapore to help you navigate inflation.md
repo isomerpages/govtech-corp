@@ -77,7 +77,7 @@ journal for better rest.</p>
 supermarkets such as FairPrice and Giant. You can even give yourself a
 treat at other participating merchants like Koi and Mr Bean.</p>
 <p>And if all this talk about fitness has got you inspired, you don’t have
-to splash out to pursue a healthy lifestyle if you’ve got the <a href="https://members.myactivesg.com/" rel="noopener noreferrer nofollow" target="_blank"><u>ActiveSG app</u></a>.</p>
+to splash out to pursue a healthy lifestyle if you’ve got the <a href="http://activesg.gov.sg/" rel="noopener noreferrer nofollow" target="_blank"><u>ActiveSG app</u></a>.</p>
 <p>For example, instead of spending thousands of dollars on a gym membership,
 you can purchase a year-long pass that gives you access to all 28 ActiveSG
 gyms for just $300. And if you work out only on weekdays (excluding public
