@@ -28,11 +28,11 @@ also catalyses collaboration among partners to enhance community support
 and ensure that everyone gets the care they need,” said Desmond Choo, Mayor
 of North East District.</p>
 <p>In partnership with Government Technology Agency (GovTech), TampinesCaresGoWhere
-simplifies the process for families, especially those 2 with members at
-different life stages and varying needs, to find all the support they require
-in one place. This eliminates the need to search across multiple sources
-and provides easy access to services and programs, enabling residents to
-access resources for a better quality of life and social engagement.</p>
+simplifies the process for families, especially those with members at different
+life stages and varying needs, to find all the support they require in
+one place. This eliminates the need to search across multiple sources and
+provides easy access to services and programs, enabling residents to access
+resources for a better quality of life and social engagement.</p>
 <p>This initiative also helps foster collaborations among NE CDC’s partners
 to provide effective care for all residents. SingHealth, as the Regional
 Health Manager for Eastern Singapore, plays a pivotal role in forging and
