@@ -12,7 +12,7 @@ variant: tiptap
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="Q&amp;A with Lillian Shieh: Head of Design at GovTech, Researcher, Product Strategist, UX Designer" src="/images/technews/Lillian_Shieh_article_banner_STACK_2024.jpg">
 </div>
-<h2>Exclusive Feature on Lillian Shieh: Keynote Speaker at STACK 2024</h2>
+<h2>Exclusive feature on Lillian Shieh: Keynote speaker at STACK 2024</h2>
 <p>One of eight established keynote speakers at <a href="https://www.developer.tech.gov.sg/communities/events/conferences/stack-developer-conference-2024/overview" rel="noopener noreferrer nofollow" target="_blank">STACK Developer Conference 2024</a>,
 Lillian has a wealth of experience in user research, design, and product
 strategy. In addition to being the Senior Director and Head of Design in
