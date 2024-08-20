@@ -97,7 +97,7 @@ people, ideas, processes and systems.</p>
 in systems thinking while also deepening their education in the technology
 of the solutions they build, and the language and priorities of their domain,
 e.g. healthcare, business, government, etc.</p>
-<h3>What do you love and enjoy about your work?</h3>
+<h3>What aspect(s) of your work do you enjoy?</h3>
 <p>What do I love? Working with open-minded, curious people, who are kind,
 professional, and driven by purpose to solve big problems.</p>
 <p>What I enjoy at work includes questioning and examining problems from
