@@ -62,7 +62,7 @@ creating a comprehensive and engaging experience for all.</p>
 </p>
 <ul data-tight="true" class="tight">
 <li>
-<p><a href="/files/media/media-releases/GoWhere_Factsheet.pdf" rel="noopener noreferrer nofollow" target="_blank">GovTech GoWhere Media Factsheet</a>
+<p><a href="/files/media/media-releases/GoWhere_Factsheet.pdf" rel="noopener noreferrer nofollow" target="_blank">GoWhere Media Factsheet</a>
 </p>
 </li>
 </ul>
