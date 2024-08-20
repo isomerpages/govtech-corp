@@ -68,11 +68,70 @@ therapy (CAR T-cell therapy)</div>
 <p>A common misconception about Design is that it’s only a delivery function
 for visuals. Good design operates at the systems level and is integral
 to HOW something works well.</p>
-<p>Why is design thinking important for innovation in an organisation?</p>
+<h3>Why is design thinking important for innovation in an organisation?</h3>
 <p><strong>Business analysis</strong> and <strong>strategy</strong> are not
 foolproof, because their starting point is often based on incorrect assumptions
-about people’s needs.&nbsp; <strong>Design Thinking</strong> provides a framework
+about people’s needs.&nbsp;<strong>Design Thinking</strong> provides a framework
 for developing insight and identifying important problems to be solved.</p>
+<h3>Based on your experience, what are some important tips for good UX design in mobile applications/e-services?</h3>
+<p>Counterintuitively, when developing mobile apps, product teams should
+invest time appropriately. Mobile apps can be harder to build than websites
+because they must target problems more accurately. The most successful
+apps are designed with a balance of <strong>simplicity, clarity, and functionality</strong>.
+A great designer understands that within any app there are hundreds of
+potential features and routes, but makes thoughtful choices to build user
+flows that are <strong>most effective</strong> and <strong>naturally intuitive</strong>.</p>
+<h3>Any advice on best practices when testing with users?</h3>
+<p>Scope properly for testing (and user research) and know that this will
+save downstream time and effort.</p>
+<h3>With advancements in Generative AI, how do you see this fast-growing technology impacting UX designers and how can they better prepare themselves for the future of design?</h3>
+<p>Like many other professions, we will rebuild our workflows to incorporate
+AI where it makes work more efficient. Designers will focus on understanding
+people and context to build product strategy and complex solutions comprising
+people, ideas, processes and systems.</p>
+<p>To strengthen their strategic capabilities, designers will become experts
+in systems thinking while also deepening their education in the technology
+of the solutions they build, and the language and priorities of their domain,
+e.g. healthcare, business, government, etc.</p>
+<h3>What inspires you? / What does a good day at work for you look like?</h3>
+<p>What do I love? Working with open-minded, curious people, who are kind,
+professional, and driven by purpose to solve big problems.</p>
+<p>What I enjoy at work includes questioning and examining problems from
+first principles, as well as diverging to experiment with ideas, then converging
+to shape those ideas into great work that delivers impact.</p>
+<h3>As the newly onboarded Head of Design at GovTech, what are some things you are excited to start working on?</h3>
+<p>A few of the questions and problems I’m excited to tackle:</p>
+<ol data-tight="true" class="tight">
+<li>
+<p>How does design work in GovTech’s product development process?</p>
+</li>
+<li>
+<p>How do we ensure that design is set up for success, including investing
+in the growth of our designers?</p>
+</li>
+<li>
+<p>How does Design work together with Technology and Product Management to
+ensure quality and impact of government digital services? How do we build
+healthy team collaboration at scale?&nbsp;</p>
+</li>
+<li>
+<p>How do we partner with agencies to ensure that services are deeply user-centric,
+while integrating best practices for building usable, accessible, government
+digital services?</p>
+</li>
+</ol>
+<hr>
+<p>Lillian’s keynote address at STACK 2024 will cover insights into how government
+services can be improved, how impactful biases are developed in digital
+services, and the importance of digital maturity on changing priorities
+of government digital services.</p>
+<p>If you’re interested in hearing more of Lillian’s expert insights, <a href="https://go.gov.sg/stack2024-tnedm" rel="noopener noreferrer nofollow" target="_blank">register for the STACK Developer Conference 2024</a> today!</p>
+<a class="isomer-image-wrapper" href="https://go.gov.sg/stack2024-tnedm">
+<img style="width: 100%" height="auto" width="100%" alt="STACK 2024 Early Bird Prices - Registration" src="/images/technews/early_bird_prices_banner_cropped.png">
+</a>
+<p><em>Early bird prices are valid till 31 August 2024.</em>
+</p>
+<p></p>
 <p></p>
 <p></p>
 <p></p>
