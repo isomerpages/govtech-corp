@@ -58,8 +58,16 @@ also featured booths from various organizations and agencies catering to
 children, young working adults, families and persons with disabilities,
 creating a comprehensive and engaging experience for all.</p>
 <p>For more information on TampinesCaresGoWhere, please visit <a href="http://www.go.gov.sg/tampinescares" rel="noopener noreferrer nofollow" target="_blank">www.go.gov.sg/tampinescares</a>.</p>
+<p><strong>Related Resources</strong>
+</p>
+<ul data-tight="true" class="tight">
+<li>
+<p><a href="/files/media/media-releases/GoWhere_Factsheet.pdf" rel="noopener noreferrer nofollow" target="_blank">GovTech GoWhere Media Factsheet</a>
+</p>
+</li>
+</ul>
 <hr>
-<h3>About North East Community Development Council (NECDC) </h3>
+<h3>About North East Community Development Council (NECDC)</h3>
 <p>Set up in 1997, the North East Community Development Council (NECDC) serves
 a population of over 970,000 residents. The North East District spans 21
 divisions in Aljunied, Sengkang, Pasir Ris – Punggol, Tampines GRCs, Hougang
