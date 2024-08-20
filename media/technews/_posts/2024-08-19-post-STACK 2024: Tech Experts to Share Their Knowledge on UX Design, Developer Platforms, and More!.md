@@ -262,7 +262,9 @@ and align with business goals.</p>
 <p>Sign up today to enjoy <a href="https://go.gov.sg/stack2024-tnedm" rel="noopener noreferrer nofollow" target="_blank">early bird prices</a>!</p><a class="isomer-image-wrapper" href="https://go.gov.sg/stack2024-tnedm"><img style="width: 100%" height="auto" width="100%" alt="STACK 2024 Early Bird Prices!" src="/images/technews/early_bird_prices_banner_cropped.png"></a>
 <p><em>Valid till 31 August 2024.</em>
 </p>
-<p></p>
+<h4>Related Content:</h4>
+<div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="/media/technews/transforming-public-services-through-design-insights-from-lillian-shieh/" class="isomer-card"><div class="isomer-card-body"><div class="isomer-card-title">Transforming Public Services Through Design: Insights from Lillian Shieh</div><div class="isomer-card-link">Read more on TechNews</div></div></a>
+</div>
 <div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="http://eepurl.com/cUwIsD" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Subscribe to the TechNews email newsletter" src="/images/technews/technews_footer.jpg"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Subscribe to the TechNews email newsletter</div><div class="isomer-card-link">TechNews</div></div></a>
 <a rel="noopener noreferrer nofollow" href="http://eepurl.com/hsr131" class="isomer-card">
 <div class="isomer-card-image">
