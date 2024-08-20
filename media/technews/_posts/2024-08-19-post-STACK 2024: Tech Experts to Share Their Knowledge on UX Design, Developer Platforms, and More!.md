@@ -228,7 +228,7 @@ are developed and by reflecting on the changing priorities and responsibilities
 of government digital services when there is greater digital maturity.</p>
 <p><em>You might also be interested in:</em>
 </p>
-<div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="/media/technews/transforming-public-services-through-design-insights-from-lillian-shieh/" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="STACK Developer Conference 2024" src="/images/technews/STACK_2024_article__631x200___1_.jpg"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Transforming Public Services Through Design: Insights from Lillian Shieh</div><div class="isomer-card-description">Q&amp;A with Lillian Shieh: Researcher, Product Strategist, UX Designer</div><div class="isomer-card-link">Read more on TechNews</div></div></a>
+<div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="/media/technews/transforming-public-services-through-design-insights-from-lillian-shieh/" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="STACK Developer Conference 2024" src="/images/technews/STACK_2024__845x200_.jpg"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Transforming Public Services Through Design: Insights from Lillian Shieh</div><div class="isomer-card-description">Q&amp;A with Lillian Shieh: Researcher, Product Strategist, UX Designer</div><div class="isomer-card-link">Read more on TechNews</div></div></a>
 </div>
 <h3>4. Scott Shaw: A Tech Industry Pioneer and Advisor</h3>
 <p></p>
