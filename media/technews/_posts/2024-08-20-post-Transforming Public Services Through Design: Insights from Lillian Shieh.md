@@ -77,8 +77,8 @@ for developing insight and identifying important problems to be solved.</p>
 <p>Counterintuitively, when developing mobile apps, product teams should
 invest time appropriately. Mobile apps can be harder to build than websites
 because they must target problems more accurately. The most successful
-apps are designed with a balance of <strong>simplicity, clarity, and functionality</strong>.
-A great designer understands that within any app there are hundreds of
+apps are designed with a balance of <strong>simplicity, clarity, and functionality</strong>.</p>
+<p>A great designer understands that within any app there are hundreds of
 potential features and routes, but makes thoughtful choices to build user
 flows that are <strong>most effective</strong> and <strong>naturally intuitive</strong>.</p>
 <h3>Any advice on best practices when testing with users?</h3>
