@@ -30,7 +30,7 @@ citizens, businesses and public officers.</p>
 and opinions in response to the questions about her career experiences,
 and expertise in the design field.</p>
 <p>Let’s begin.</p>
-<h3>As a design researcher, product strategist, and UX designer, you have extensive experience and knowledge in the field of design and UX. Could you share about how you got into this industry and why you enjoy working in this field?</h3>
+<h3>As a design researcher, product strategist, and UX designer, you have extensive experience and knowledge in the field of design and UX. Could you share about how you got into this industry?</h3>
 <p>I worked as a design researcher for <a href="https://en.wikipedia.org/wiki/E-Lab" rel="noopener noreferrer nofollow" target="_blank">E-Lab</a>, a consultancy that
 pioneered social science methods for product development. UX entered the
 picture because E-Lab was acquired by a digital consultancy to do “Experience
