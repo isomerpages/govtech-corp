@@ -1,6 +1,6 @@
 ---
 title: Five Ways You’re Already Using AI
-permalink: /five-ways-you-are-already-using-ai/
+permalink: /media/technews/five-ways-you-are-already-using-ai/
 date: 2024-07-22
 layout: post
 description: Discover five surprising ways you're already using AI daily, from
