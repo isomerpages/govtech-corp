@@ -39,6 +39,12 @@ product challenges are designing experiences for high-trust domains like
 banking, travel, and government.</p>
 <p><em>[Note: E-Lab was renamed as XMod when E-Lab was acquired by <a href="https://www.publicissapient.com/" rel="noopener noreferrer nofollow" target="_blank">Publicis Sapient </a></em>— <em>a technology consulting firm </em>— <em>in 1999.]</em>
 </p>
+<h3>What aspect(s) of your work do you enjoy?</h3>
+<p>What do I love? Working with open-minded, curious people, who are kind,
+professional, and driven by purpose to solve big problems.</p>
+<p>What I enjoy at work includes questioning and examining problems from
+first principles, as well as diverging to experiment with ideas, then converging
+to shape those ideas into great work that delivers impact.</p>
 <h3>What are some of your proudest achievements in your design career?</h3>
 <div class="isomer-card-grid">
 <div class="isomer-card">
@@ -68,10 +74,6 @@ therapy (CAR T-cell therapy)</div>
 </div>
 </div>
 </div>
-<h3>What are some common misconceptions about UX designers that you have come across in your line of work/past experiences?</h3>
-<p>A common misconception about Design is that it’s only a delivery function
-for visuals. Good design operates at the systems level and is integral
-to HOW something works well.</p>
 <h3>Why is design thinking important for innovation in an organisation?</h3>
 <p><strong>Business analysis</strong> and <strong>strategy</strong> are not
 foolproof, because their starting point is often based on incorrect assumptions
@@ -85,6 +87,10 @@ apps are designed with a balance of <strong>simplicity, clarity, and functionali
 <p>A great designer understands that within any app there are hundreds of
 potential features and routes, but makes thoughtful choices to build user
 flows that are <strong>most effective</strong> and <strong>naturally intuitive</strong>.</p>
+<h3>What are some common misconceptions about UX designers that you have come across in your line of work/past experiences?</h3>
+<p>A common misconception about Design is that it’s only a delivery function
+for visuals. Good design operates at the systems level and is integral
+to HOW something works well.</p>
 <h3>Any advice on best practices when testing with users?</h3>
 <p>Scope properly for testing (and user research) and know that this will
 save downstream time and effort.</p>
@@ -97,12 +103,6 @@ people, ideas, processes and systems.</p>
 in systems thinking while also deepening their education in the technology
 of the solutions they build, and the language and priorities of their domain,
 e.g. healthcare, business, government, etc.</p>
-<h3>What aspect(s) of your work do you enjoy?</h3>
-<p>What do I love? Working with open-minded, curious people, who are kind,
-professional, and driven by purpose to solve big problems.</p>
-<p>What I enjoy at work includes questioning and examining problems from
-first principles, as well as diverging to experiment with ideas, then converging
-to shape those ideas into great work that delivers impact.</p>
 <h3>As the newly onboarded Head of Design at GovTech, what are some things you are excited to start working on?</h3>
 <p>A few of the questions and problems I’m excited to tackle:</p>
 <ol data-tight="true" class="tight">
