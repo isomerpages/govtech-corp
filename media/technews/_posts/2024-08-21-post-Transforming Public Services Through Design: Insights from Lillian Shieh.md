@@ -125,10 +125,10 @@ digital services?</p>
 </li>
 </ol>
 <hr>
-<p>Lillian’s keynote address at STACK 2024 will cover insights into how government
-services can be improved, how impactful biases are developed in digital
-services, and the importance of digital maturity on changing priorities
-of government digital services.</p>
+<p>Lillian’s keynote address at STACK 2024 will cover insights into how <strong>government services </strong>can
+be improved, how<strong> impactful biases</strong> are developed in digital
+services, and the importance of <strong>digital maturity</strong> on changing
+priorities of government digital services.</p>
 <p>If you’re interested in hearing more of Lillian’s expert insights, <a href="https://go.gov.sg/stack2024-tnedm" rel="noopener noreferrer nofollow" target="_blank">register for the STACK Developer Conference 2024</a> today!</p>
 <a class="isomer-image-wrapper" href="https://go.gov.sg/stack2024-tnedm">
 <img style="width: 100%" height="auto" width="100%" alt="STACK 2024 Early Bird Prices - Registration" src="/images/technews/early_bird_prices_banner_cropped.png">
