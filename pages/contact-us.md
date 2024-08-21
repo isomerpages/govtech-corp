@@ -10,7 +10,7 @@ contacts:
       - other: ""
     title: General Enquiries & Feedback
   - content:
-      - phone: 1 800 944 7853
+      - phone: ""
       - email: whistleblow@tech.gov.sg
       - other: ""
     title: Whistleblowing Line
