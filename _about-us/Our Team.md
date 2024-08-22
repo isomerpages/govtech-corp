@@ -241,8 +241,8 @@ Technology Agency of Singapore</div>
 </div>
 <div class="isomer-card-body">
 <div class="isomer-card-title">Mr Dominic CHAN</div>
-<div class="isomer-card-description">Chief Information Officer &amp; Assistant Chief Executive, CIO Office
-and Technology Management Office</div>
+<div class="isomer-card-description">Chief Information Officer &amp; Assistant Chief Executive, Chief Information
+Office and Technology Management Office</div>
 </div>
 </div>
 <div class="isomer-card">
@@ -254,7 +254,7 @@ and Technology Management Office</div>
 <div class="isomer-card-body">
 <div class="isomer-card-title">Mr Justiin ANG</div>
 <div class="isomer-card-description">Government Cybersecurity Information Security Officer &amp; Assistant
-Chief Executive, Cybersecurity Group</div>
+Chief Executive, Cybersecurity and Trusted Infrastructure Services</div>
 </div>
 </div>
 <div class="isomer-card">
