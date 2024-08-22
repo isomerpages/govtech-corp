@@ -219,7 +219,8 @@ Technology Agency of Singapore</div>
 </div>
 <div class="isomer-card-body">
 <div class="isomer-card-title">Mr CHANG Sau Sheong</div>
-<div class="isomer-card-description">Chief Technology Officer &amp; Deputy Chief Executive (Products)</div>
+<div class="isomer-card-description">Chief Technology Officer &amp; Deputy Chief Executive, Government Digital
+Products and Government Technology Office</div>
 </div>
 </div>
 <div class="isomer-card">
@@ -265,8 +266,8 @@ Chief Executive, Cybersecurity and Trusted Infrastructure Services</div>
 </div>
 <div class="isomer-card-body">
 <div class="isomer-card-title">Mr TAN Bee Teck</div>
-<div class="isomer-card-description">Assistant Chief Executive, Central Administration, Social, and Enterprise
-SaaS</div>
+<div class="isomer-card-description">Assistant Chief Executive, Central Administration and Social, Government
+Digital Transformation</div>
 </div>
 </div>
 <div class="isomer-card">
@@ -277,7 +278,8 @@ SaaS</div>
 </div>
 <div class="isomer-card-body">
 <div class="isomer-card-title">Mr TAN Eng Pheng</div>
-<div class="isomer-card-description">Assistant Chief Executive, Economic and National Development</div>
+<div class="isomer-card-description">Assistant Chief Executive, Economic and National Development, Government
+Digital Transformation</div>
 </div>
 </div>
 <div class="isomer-card">
@@ -299,7 +301,7 @@ SaaS</div>
 </div>
 <div class="isomer-card-body">
 <div class="isomer-card-title">Mr CHAI Chin Loon</div>
-<div class="isomer-card-description">Senior Director, Engineering Cluster, Cybersecurity Group</div>
+<div class="isomer-card-description">Senior Director, Engineering and Cybersecurity</div>
 </div>
 </div>
 <div class="isomer-card">
@@ -310,7 +312,7 @@ SaaS</div>
 </div>
 <div class="isomer-card-body">
 <div class="isomer-card-title">Mr Vlastimil CHVOJKA</div>
-<div class="isomer-card-description">Senior Director, Digital Economy Products</div>
+<div class="isomer-card-description">Senior Director, Apps Products, Government Digital Products</div>
 </div>
 </div>
 <div class="isomer-card">
@@ -321,7 +323,8 @@ SaaS</div>
 </div>
 <div class="isomer-card-body">
 <div class="isomer-card-title">Mr LIM Thian Chin</div>
-<div class="isomer-card-description">Chief Risk Officer &amp; Senior Director, Governance</div>
+<div class="isomer-card-description">Chief Risk Officer &amp; Senior Director, Digital Governance, Strategy,
+Corporate &amp; Governance</div>
 </div>
 </div>
 <div class="isomer-card">
@@ -332,7 +335,7 @@ SaaS</div>
 </div>
 <div class="isomer-card-body">
 <div class="isomer-card-title">Mr Kevin NG</div>
-<div class="isomer-card-description">Senior Director, Core Engineering Products</div>
+<div class="isomer-card-description">Senior Director, Core Engineering Products, Government Digital Products</div>
 </div>
 </div>
 <div class="isomer-card">
@@ -343,8 +346,7 @@ SaaS</div>
 </div>
 <div class="isomer-card-body">
 <div class="isomer-card-title">Mr ONG Hong Joo</div>
-<div class="isomer-card-description">Senior Director, Cyber Defence Operations and Intelligence Cluster, Cybersecurity
-Group</div>
+<div class="isomer-card-description">Senior Director, Cyber Defence Operations &amp; Intelligence, Cybersecurity</div>
 </div>
 </div>
 <div class="isomer-card">
@@ -355,7 +357,8 @@ Group</div>
 </div>
 <div class="isomer-card-body">
 <div class="isomer-card-title">Mr D. N. PRASAD</div>
-<div class="isomer-card-description">Senior Director, People and Organisation</div>
+<div class="isomer-card-description">Senior Director, People and Organisation Division, Strategy, Corporate
+&amp; Governance</div>
 </div>
 </div>
 <div class="isomer-card">
@@ -366,7 +369,8 @@ Group</div>
 </div>
 <div class="isomer-card-body">
 <div class="isomer-card-title">Mr Jason SEE</div>
-<div class="isomer-card-description">Senior Director, Education</div>
+<div class="isomer-card-description">Senior Director, Education Cluster, Central Administration &amp; Social,
+Government Digital Transformation</div>
 </div>
 </div>
 </div>
@@ -379,7 +383,7 @@ Group</div>
 </div>
 <div class="isomer-card-body">
 <div class="isomer-card-title">Ms Lillian SHIEH</div>
-<div class="isomer-card-description">Head of Design Practice, Government Technology Office</div>
+<div class="isomer-card-description">Head of Practice, Design Practice, Government Technology Office</div>
 </div>
 </div>
 <div class="isomer-card">
@@ -390,7 +394,8 @@ Group</div>
 </div>
 <div class="isomer-card-body">
 <div class="isomer-card-title">Mr SING Khang Leng</div>
-<div class="isomer-card-description">Senior Director, Manpower</div>
+<div class="isomer-card-description">Senior Director, Manpower Cluster, Economic &amp; National Development,
+Government Digital Transformation</div>
 </div>
 </div>
 <div class="isomer-card">
@@ -401,7 +406,8 @@ Group</div>
 </div>
 <div class="isomer-card-body">
 <div class="isomer-card-title">Mr Richard TAY</div>
-<div class="isomer-card-description">Senior Director, Infrastructure</div>
+<div class="isomer-card-description">Senior Director, Government Productivity Engineering, Trusted Infrastructure
+Services</div>
 </div>
 </div>
 <div class="isomer-card">
@@ -412,7 +418,7 @@ Group</div>
 </div>
 <div class="isomer-card-body">
 <div class="isomer-card-title">Ms LIM Bee Kwan</div>
-<div class="isomer-card-description">Chief Executive Officer, Assurity Trusted Solutions</div>
+<div class="isomer-card-description">Chief Executive, Assurity Trusted Solutions</div>
 </div>
 </div>
 </div>
