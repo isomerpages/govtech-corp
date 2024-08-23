@@ -314,7 +314,7 @@ Digital Transformation</div>
 </div>
 <div class="isomer-card-body">
 <div class="isomer-card-title">Mr CHAI Chin Loon</div>
-<div class="isomer-card-description">Senior Director, Engineering and Cybersecurity</div>
+<div class="isomer-card-description">Senior Director, Engineering, Cybersecurity</div>
 </div>
 </div>
 <div class="isomer-card">
