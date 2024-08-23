@@ -296,6 +296,19 @@ Digital Transformation</div>
 <div class="isomer-card">
 <div class="isomer-card-image">
 <div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Ms LIM Bee Kwan" src="/images/our-team/Lim_Bee_Kwan.png">
+</div>
+</div>
+<div class="isomer-card-body">
+<div class="isomer-card-title">Ms LIM Bee Kwan</div>
+<div class="isomer-card-description">Chief Executive, Assurity Trusted Solutions</div>
+</div>
+</div>
+</div>
+<div class="isomer-card-grid">
+<div class="isomer-card">
+<div class="isomer-card-image">
+<div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="GovTech leader Chin Loon" src="/images/About Us/CHAI_Chin_Loon.jpg">
 </div>
 </div>
@@ -373,12 +386,10 @@ Corporate &amp; Governance</div>
 Government Digital Transformation</div>
 </div>
 </div>
-</div>
-<div class="isomer-card-grid">
 <div class="isomer-card">
 <div class="isomer-card-image">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="GovTech leader SING Khang Leng" src="/images/About Us/SING_Khang_Leng.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="Mr SING Khang Leng" src="/images/About Us/SING_Khang_Leng.jpg">
 </div>
 </div>
 <div class="isomer-card-body">
@@ -390,7 +401,7 @@ Government Digital Transformation</div>
 <div class="isomer-card">
 <div class="isomer-card-image">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="GovTech leader Richard TAY" src="/images/About Us/Richard_TAY.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="Mr Richard TAY" src="/images/About Us/Richard_TAY.jpg">
 </div>
 </div>
 <div class="isomer-card-body">
@@ -402,18 +413,7 @@ Services</div>
 <div class="isomer-card">
 <div class="isomer-card-image">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="GovTech leader Lillian Shieh" src="/images/our-team/Lillian_Shieh.png">
-</div>
-</div>
-<div class="isomer-card-body">
-<div class="isomer-card-title">Ms Lillian SHIEH</div>
-<div class="isomer-card-description">Head of Practice, Design Practice, Government Technology Office</div>
-</div>
-</div>
-<div class="isomer-card">
-<div class="isomer-card-image">
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="GovTech leader Chen Kaiwei" src="/images/our-team/Mr_Chen_Kaiwei.png">
+<img style="width: 100%" height="auto" width="100%" alt="Mr CHEN Kaiwei" src="/images/our-team/Mr_Chen_Kaiwei.png">
 </div>
 </div>
 <div class="isomer-card-body">
@@ -424,12 +424,12 @@ Services</div>
 <div class="isomer-card">
 <div class="isomer-card-image">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="GovTech leader Lim Bee Kwan" src="/images/our-team/Lim_Bee_Kwan.png">
+<img style="width: 100%" height="auto" width="100%" alt="Ms Lillian SHIEH" src="/images/our-team/Lillian_Shieh.png">
 </div>
 </div>
 <div class="isomer-card-body">
-<div class="isomer-card-title">Ms LIM Bee Kwan</div>
-<div class="isomer-card-description">Chief Executive, Assurity Trusted Solutions</div>
+<div class="isomer-card-title">Ms Lillian SHIEH</div>
+<div class="isomer-card-description">Head of Practice, Design Practice, Government Technology Office</div>
 </div>
 </div>
 </div>
