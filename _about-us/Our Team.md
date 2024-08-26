@@ -219,7 +219,8 @@ Technology Agency of Singapore</div>
 </div>
 <div class="isomer-card-body">
 <div class="isomer-card-title">Mr CHANG Sau Sheong</div>
-<div class="isomer-card-description">Chief Technology Officer &amp; Deputy Chief Executive (Products)</div>
+<div class="isomer-card-description">Chief Technology Officer &amp; Deputy Chief Executive, Government Digital
+Products and Government Technology Office</div>
 </div>
 </div>
 <div class="isomer-card">
@@ -241,8 +242,8 @@ Technology Agency of Singapore</div>
 </div>
 <div class="isomer-card-body">
 <div class="isomer-card-title">Mr Dominic CHAN</div>
-<div class="isomer-card-description">Chief Information Officer &amp; Assistant Chief Executive, CIO Office
-and Technology Management Office</div>
+<div class="isomer-card-description">Chief Information Officer &amp; Assistant Chief Executive, Chief Information
+Office and Technology Management Office</div>
 </div>
 </div>
 <div class="isomer-card">
@@ -254,7 +255,7 @@ and Technology Management Office</div>
 <div class="isomer-card-body">
 <div class="isomer-card-title">Mr Justiin ANG</div>
 <div class="isomer-card-description">Government Cybersecurity Information Security Officer &amp; Assistant
-Chief Executive, Cybersecurity Group</div>
+Chief Executive, Cybersecurity, Trusted Infrastructure Services</div>
 </div>
 </div>
 <div class="isomer-card">
@@ -265,8 +266,8 @@ Chief Executive, Cybersecurity Group</div>
 </div>
 <div class="isomer-card-body">
 <div class="isomer-card-title">Mr TAN Bee Teck</div>
-<div class="isomer-card-description">Assistant Chief Executive, Central Administration, Social, and Enterprise
-SaaS</div>
+<div class="isomer-card-description">Assistant Chief Executive, Central Administration and Social, Government
+Digital Transformation</div>
 </div>
 </div>
 <div class="isomer-card">
@@ -277,7 +278,8 @@ SaaS</div>
 </div>
 <div class="isomer-card-body">
 <div class="isomer-card-title">Mr TAN Eng Pheng</div>
-<div class="isomer-card-description">Assistant Chief Executive, Economic and National Development</div>
+<div class="isomer-card-description">Assistant Chief Executive, Economic and National Development, Government
+Digital Transformation</div>
 </div>
 </div>
 <div class="isomer-card">
@@ -294,12 +296,25 @@ SaaS</div>
 <div class="isomer-card">
 <div class="isomer-card-image">
 <div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Ms LIM Bee Kwan" src="/images/our-team/Lim_Bee_Kwan.png">
+</div>
+</div>
+<div class="isomer-card-body">
+<div class="isomer-card-title">Ms LIM Bee Kwan</div>
+<div class="isomer-card-description">Chief Executive, Assurity Trusted Solutions</div>
+</div>
+</div>
+</div>
+<div class="isomer-card-grid">
+<div class="isomer-card">
+<div class="isomer-card-image">
+<div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="GovTech leader Chin Loon" src="/images/About Us/CHAI_Chin_Loon.jpg">
 </div>
 </div>
 <div class="isomer-card-body">
 <div class="isomer-card-title">Mr CHAI Chin Loon</div>
-<div class="isomer-card-description">Senior Director, Engineering Cluster, Cybersecurity Group</div>
+<div class="isomer-card-description">Senior Director, Engineering, Cybersecurity</div>
 </div>
 </div>
 <div class="isomer-card">
@@ -310,7 +325,7 @@ SaaS</div>
 </div>
 <div class="isomer-card-body">
 <div class="isomer-card-title">Mr Vlastimil CHVOJKA</div>
-<div class="isomer-card-description">Senior Director, Digital Economy Products</div>
+<div class="isomer-card-description">Senior Director, Apps Products, Government Digital Products</div>
 </div>
 </div>
 <div class="isomer-card">
@@ -321,7 +336,8 @@ SaaS</div>
 </div>
 <div class="isomer-card-body">
 <div class="isomer-card-title">Mr LIM Thian Chin</div>
-<div class="isomer-card-description">Chief Risk Officer &amp; Senior Director, Governance</div>
+<div class="isomer-card-description">Chief Risk Officer &amp; Senior Director, Digital Governance, Strategy,
+Corporate &amp; Governance</div>
 </div>
 </div>
 <div class="isomer-card">
@@ -332,7 +348,7 @@ SaaS</div>
 </div>
 <div class="isomer-card-body">
 <div class="isomer-card-title">Mr Kevin NG</div>
-<div class="isomer-card-description">Senior Director, Core Engineering Products</div>
+<div class="isomer-card-description">Senior Director, Core Engineering Products, Government Digital Products</div>
 </div>
 </div>
 <div class="isomer-card">
@@ -343,8 +359,7 @@ SaaS</div>
 </div>
 <div class="isomer-card-body">
 <div class="isomer-card-title">Mr ONG Hong Joo</div>
-<div class="isomer-card-description">Senior Director, Cyber Defence Operations and Intelligence Cluster, Cybersecurity
-Group</div>
+<div class="isomer-card-description">Senior Director, Cyber Defence Operations &amp; Intelligence, Cybersecurity</div>
 </div>
 </div>
 <div class="isomer-card">
@@ -355,7 +370,8 @@ Group</div>
 </div>
 <div class="isomer-card-body">
 <div class="isomer-card-title">Mr D. N. PRASAD</div>
-<div class="isomer-card-description">Senior Director, People and Organisation</div>
+<div class="isomer-card-description">Senior Director, People and Organisation Division, Strategy, Corporate
+&amp; Governance</div>
 </div>
 </div>
 <div class="isomer-card">
@@ -366,53 +382,54 @@ Group</div>
 </div>
 <div class="isomer-card-body">
 <div class="isomer-card-title">Mr Jason SEE</div>
-<div class="isomer-card-description">Senior Director, Education</div>
-</div>
-</div>
-</div>
-<div class="isomer-card-grid">
-<div class="isomer-card">
-<div class="isomer-card-image">
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="GovTech leader Lillian Shieh" src="/images/our-team/Lillian_Shieh.png">
-</div>
-</div>
-<div class="isomer-card-body">
-<div class="isomer-card-title">Ms Lillian SHIEH</div>
-<div class="isomer-card-description">Head of Design Practice, Government Technology Office</div>
+<div class="isomer-card-description">Senior Director, Education Cluster, Central Administration &amp; Social,
+Government Digital Transformation</div>
 </div>
 </div>
 <div class="isomer-card">
 <div class="isomer-card-image">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="GovTech leader SING Khang Leng" src="/images/About Us/SING_Khang_Leng.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="Mr SING Khang Leng" src="/images/About Us/SING_Khang_Leng.jpg">
 </div>
 </div>
 <div class="isomer-card-body">
 <div class="isomer-card-title">Mr SING Khang Leng</div>
-<div class="isomer-card-description">Senior Director, Manpower</div>
+<div class="isomer-card-description">Senior Director, Manpower Cluster, Economic &amp; National Development,
+Government Digital Transformation</div>
 </div>
 </div>
 <div class="isomer-card">
 <div class="isomer-card-image">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="GovTech leader Richard TAY" src="/images/About Us/Richard_TAY.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="Mr Richard TAY" src="/images/About Us/Richard_TAY.jpg">
 </div>
 </div>
 <div class="isomer-card-body">
 <div class="isomer-card-title">Mr Richard TAY</div>
-<div class="isomer-card-description">Senior Director, Infrastructure</div>
+<div class="isomer-card-description">Senior Director, Government Productivity Engineering, Trusted Infrastructure
+Services</div>
 </div>
 </div>
 <div class="isomer-card">
 <div class="isomer-card-image">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="GovTech leader Lim Bee Kwan" src="/images/our-team/Lim_Bee_Kwan.png">
+<img style="width: 100%" height="auto" width="100%" alt="Mr CHEN Kaiwei" src="/images/our-team/Mr_Chen_Kaiwei.png">
 </div>
 </div>
 <div class="isomer-card-body">
-<div class="isomer-card-title">Ms LIM Bee Kwan</div>
-<div class="isomer-card-description">Chief Executive Officer, Assurity Trusted Solutions</div>
+<div class="isomer-card-title">Mr CHEN Kaiwei</div>
+<div class="isomer-card-description">Head of Practice, Product Management Practice, Government Technology Office</div>
+</div>
+</div>
+<div class="isomer-card">
+<div class="isomer-card-image">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Ms Lillian SHIEH" src="/images/our-team/Lillian_Shieh.png">
+</div>
+</div>
+<div class="isomer-card-body">
+<div class="isomer-card-title">Ms Lillian SHIEH</div>
+<div class="isomer-card-description">Head of Practice, Design Practice, Government Technology Office</div>
 </div>
 </div>
 </div>
