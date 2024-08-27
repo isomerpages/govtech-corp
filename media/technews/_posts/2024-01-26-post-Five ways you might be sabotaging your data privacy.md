@@ -49,13 +49,12 @@ site.</p>
 </div>
 <p>Speaking of unsecured sites, always keep a lookout for the&nbsp;<a href="https://it.wisc.edu/news/two-things-to-look-for-in-a-secure-website/" class="editor-rtfLink" rel="noopener noreferrer nofollow" target="_blank">lock icon</a>&nbsp;next
 to the URL address in the box where you type the webpage address in, which
-indicates that the site is secured by a digital certificate.</p>
-<p>Another good indication of a secure and legitimate website is the URL
-starting with “https” instead of merely “http”.</p>
-<p>Still, scammers are always upping their game and have started to&nbsp;
-<a href="https://eecu.org/community/articles/how-to-make-sure-a-website-is-secure" class="editor-rtfLink" rel="noopener noreferrer nofollow" target="_blank">purchase digital certificates</a>&nbsp;for their spoofed sites as they
-know people are likely to trust a site with the lock icon. The result –
-there are plenty of fake sites out there with the lock icon too.</p>
+indicates that the site is secured by a digital certificate. Secure websites
+also typically begin with "https" in the URL name.</p>
+<p>Still, scammers are always upping their game and have started to <a href="https://eecu.org/community/articles/how-to-make-sure-a-website-is-secure" class="editor-rtfLink" rel="noopener noreferrer nofollow" target="_blank">purchase digital certificates</a>&nbsp;for
+their spoofed sites as they know people are likely to trust a site with
+the lock icon. The result – there are plenty of fake sites out there with
+the lock icon too.</p>
 <p>So do take care to scrutinise the name of the site in the address bar,
 especially when you are about to perform sensitive actions like making
 a payment online. Be especially wary of misspellings which might look legitimate
