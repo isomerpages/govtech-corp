@@ -61,7 +61,7 @@ on a single page, providing Comprehensive, Convenient, and Coordinated
 <h3>One Public Service Award: Project Cumulus</h3>
 <p><em>In collaboration with AGD, PSD, and VITAL</em>
 </p>
-<p>Project Columbus was the first government public cloud project designed
+<p>Project Cumulus was the first government public cloud project designed
 to harmonise Finance, HR, and Payroll processes and practices across 41
 Statutory Boards. This initiative facilitated the rapid adoption of best
 practices and innovative services, yielding Whole-of-Government resource
