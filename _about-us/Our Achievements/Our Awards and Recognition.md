@@ -88,6 +88,14 @@ of awards.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p>Case Connect</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Public Sector Transformation (PST) Awards - One Public Service Award (2024)</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p>Digitalisation of Birth &amp; Death Registration Process</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -104,6 +112,15 @@ of awards.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p>myENV</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Special Award for Smart Cities - Best in Citizen Wellbeing at the IDC
+Future Enterprise Awards (2023)</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p>FWMOMCARE app</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -112,11 +129,19 @@ of awards.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>myENV app (in collaboration with NEA)</p>
+<p>GoBusiness IP Grow</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Special Award for Smart Cities - Best in Citizen Wellbeing at the IDC
-Future Enterprise Awards (2023)</p>
+<p>Public Sector Transformation (PST) Awards - Service Delivery Excellence
+Award (2024)</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>LaunchPad</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Public Sector Transformation (PST) Awards - Exemplary Innovator (2024)</p>
 </td>
 </tr>
 <tr>
