@@ -30,18 +30,18 @@ programming languages, software development, data science, or cybersecurity.
 Showcase your technical expertise through various means such as</p>
 <ul>
 <li>
-<p>Education and coursework: Highlight relevant courses or certifications
-you have completed to indicate your skills and knowledge.</p>
+<p><strong>Education and coursework: </strong>Highlight relevant courses
+or certifications you have completed to indicate your skills and knowledge.</p>
 </li>
 <li>
-<p>Personal projects: Whether it’s developing a mobile app, creating a website,
-or designing a prototype, these projects can help highlight your initiative
-and proficiency.</p>
+<p><strong>Personal projects: </strong>Whether it’s developing a mobile app,
+creating a website, or designing a prototype, these projects can help highlight
+your initiative and proficiency.</p>
 </li>
 <li>
-<p>Portfolio: Especially for roles like UX design, a portfolio can significantly
-enhance your application by demonstrating your design process, creativity,
-and technical skills.</p>
+<p><strong>Portfolio: </strong>Especially for roles like UX design, a portfolio
+can significantly enhance your application by demonstrating your design
+process, creativity, and technical skills.</p>
 </li>
 </ul>
 <h4>2. Problem-Solving Abilities</h4>
