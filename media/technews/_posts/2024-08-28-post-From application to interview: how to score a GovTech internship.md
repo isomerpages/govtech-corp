@@ -7,7 +7,13 @@ description: ""
 image: ""
 variant: tiptap
 ---
-<p>Are you a tech-savvy student with a passion for innovation and a desire
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="GovTech Internship Tips" src="/images/How_to_score_a_GovTech_internship.png">
+</div>
+<p>
+<br>
+<br>Are you a tech-savvy student with a passion for innovation and a desire
 to make a difference in the lives of Singaporeans? If you're curious about
 applying your skills in the public service, an internship with GovTech
 might be the perfect opportunity for you.&nbsp;</p>
