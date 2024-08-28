@@ -15,11 +15,11 @@ variant: tiptap
 <br>
 <br>Are you a tech-savvy student with a passion for innovation and a desire
 to make a difference in the lives of Singaporeans? If you're curious about
-applying your skills in the public service, an internship with GovTech
-might be the perfect opportunity for you.&nbsp;</p>
+applying your skills in the public service, an <a href="https://www.tech.gov.sg/careers/students-and-graduates/internships/" rel="noopener nofollow" target="_blank">internship</a> with
+GovTech might be the perfect opportunity for you.&nbsp;</p>
 <p>As the public agency leading the charge in technological advancements
-for Singapore's public services, GovTech offers unique and impactful internships
-where you can contribute to projects that matter.&nbsp;</p>
+for Singapore's public services, GovTech offers unique and impactful
+<a href="https://www.tech.gov.sg/careers/students-and-graduates/internships/" rel="noopener nofollow" target="_blank">internships</a>where you can contribute to projects that matter.&nbsp;</p>
 <p>In this article, we'll provide tips on how to stand out in the application
 process and secure a coveted spot in GovTech’s dynamic and forward-thinking
 environment.</p>
@@ -78,7 +78,8 @@ and how you contributed to them while working collaboratively.
 <p><strong>Passion for technology and public service: </strong>Share experiences
 where you’ve used technology to make a positive impact. Think about why
 you are interested in tech’s potential to serve the public good.
-<br>&nbsp;</p>
+<br>
+</p>
 </li>
 <li>
 <p><strong>Leadership and CCA: </strong>Taking on leadership roles in tech
@@ -103,9 +104,10 @@ and enthusiasts in the field.
 </li>
 <li>
 <p><strong>Understand GovTech’s mission: </strong>Familiarise yourself with
-GovTech’s vision, mission, and ongoing projects. This knowledge will help
-you tailor your application and demonstrate your alignment with the agency's
-goals.&nbsp;
+GovTech’s vision, <a href="https://www.tech.gov.sg/about-us/who-we-are/" rel="noopener nofollow" target="_blank">mission</a>,
+and <a href="https://www.tech.gov.sg/our-digital-government-efforts/" rel="noopener nofollow" target="_blank">ongoing projects</a>.
+This knowledge will help you tailor your application and demonstrate your
+alignment with the agency's goals.&nbsp;
 <br>
 </p>
 </li>
