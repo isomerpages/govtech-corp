@@ -10,8 +10,9 @@ variant: tiptap
 ---
 <p></p>
 <p></p>
+<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="GovTech Internship" src="/images/How_to_score_a_GovTech_internship_1.png">
+<img style="width: 100%" height="auto" width="100%" alt="Insights on securing a GovTech internship: From application to interview success." src="/images/technews/How_to_score_a_GovTech_internship_1.png">
 </div>
 <p>
 <br>
