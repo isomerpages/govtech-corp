@@ -9,13 +9,10 @@ image: /images/How_to_score_a_GovTech_internship_1.png
 variant: tiptap
 ---
 <p></p>
-<p></p>
-<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="Insights on securing a GovTech internship: From application to interview success." src="/images/technews/How_to_score_a_GovTech_internship_1.png">
 </div>
 <p>
-<br>
 <br>Are you a tech-savvy student with a passion for innovation and a desire
 to make a difference in the lives of Singaporeans? If you're curious about
 applying your skills in the public service, an <a href="https://www.tech.gov.sg/careers/students-and-graduates/internships/" rel="noopener nofollow" target="_blank">internship</a> with
@@ -249,7 +246,5 @@ apply for an internship with GovTech?&nbsp;</p>
 <p>We look forward to meeting passionate, driven individuals like you and
 seeing how you can help us shape a better tomorrow. Take the first step
 towards an exciting and fulfilling career. Find out more information about
-our internship programme at <a href="https://go.gov.sg/ck-technews" rel="noopener noreferrer nofollow" target="_blank">go.gov.sg/govtechinternship</a>!</p>
-<p>
-<br>
+our internship programme at <a href="https://go.gov.sg/ck-technews" rel="noopener noreferrer nofollow" target="_blank">go.gov.sg/govtechinternshi</a>
 </p>
