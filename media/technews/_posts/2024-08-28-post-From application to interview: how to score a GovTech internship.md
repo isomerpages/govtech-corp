@@ -8,8 +8,9 @@ image: ""
 variant: tiptap
 ---
 <p></p>
+<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="GovTech Internship Tips" src="/images/How_to_score_a_GovTech_internship.png">
+<img style="width: 100%" height="auto" width="100%" alt="GovTech Internship" src="/images/How_to_score_a_GovTech_internship_1.png">
 </div>
 <p>
 <br>
