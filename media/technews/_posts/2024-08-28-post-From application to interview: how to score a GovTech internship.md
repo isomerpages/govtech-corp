@@ -23,6 +23,7 @@ for Singapore's public services, GovTech offers unique and impactful
 <p>In this article, we'll provide tips on how to stand out in the application
 process and secure a coveted spot in GovTech’s dynamic and forward-thinking
 environment.</p>
+<hr>
 <h3>Three Things GovTech Looks For in Candidates</h3>
 <h4>1. Technical Competency</h4>
 <p>We are looking for candidates with relevant technical skills, such as
@@ -87,6 +88,7 @@ clubs, societies, or volunteer organisations can showcase your ability
 to lead and collaborate.</p>
 </li>
 </ul>
+<hr>
 <h3>Preparation Before Applying</h3>
 <h4>1. Industry research</h4>
 <p>Before applying, it's essential to stay informed about the latest developments,
@@ -119,7 +121,7 @@ One suggested prompt can be “How should I prepare myself to be a software
 engineer intern?”&nbsp;</p>
 </li>
 </ul>
-<h3>2. Professional Online Presence</h3>
+<h4>2. Professional Online Presence</h4>
 <p>A strong, professional online presence can differentiate you from other
 candidates and highlight your commitment to the tech industry:</p>
 <ul>
@@ -137,6 +139,7 @@ your projects, skills, and achievements. This can even be a GitHub account
 with various repositories.&nbsp;</p>
 </li>
 </ul>
+<hr>
 <h3>How to Craft an Eye-Catching Application</h3>
 <h4>1. Tailored resume</h4>
 <p>Customise your resume to highlight experiences, skills, and projects relevant
@@ -186,6 +189,7 @@ and spelling errors.
 clear headings and bullet points to emphasise key information.</p>
 </li>
 </ul>
+<hr>
 <h3>Acing the Interview</h3>
 <h4>1. Showcase communication skills</h4>
 <p>During the interview, highlight your ability to communicate effectively
@@ -209,11 +213,10 @@ receive and act on feedback during the conversation.&nbsp;</p>
 <ul>
 <li>
 <p><strong>Open dialogue: </strong>Be honest about your experiences, strengths,
-and areas for improvement. Authenticity can help build trust with interviewers.
-<br>
-</p>
+and areas for improvement. Authenticity can help build trust with interviewers.</p>
 </li>
 </ul>
+<hr>
 <h3>Bonus question: Can students from non-tech courses of study get a tech internship?</h3>
 <p>The short answer is: yes! We welcome candidates from diverse academic
 backgrounds as they enrich our teams with unique perspectives. Generally,
