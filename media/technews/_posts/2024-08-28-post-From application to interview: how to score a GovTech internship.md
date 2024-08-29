@@ -1,19 +1,18 @@
 ---
 title: "From application to interview: how to score a GovTech internship"
-permalink: /from-application-to-interview-how-to-score-a-govtech-internship/
+permalink: /media/technews/from-application-to-interview-how-to-score-a-govtech-internship/
 date: 2024-08-28
 layout: post
-description: ""
-image: ""
+description: "Insights on securing a GovTech internship: From application to
+  interview success."
+image: /images/technews/How_to_score_a_GovTech_internship_1.png
 variant: tiptap
 ---
 <p></p>
-<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="GovTech Internship" src="/images/How_to_score_a_GovTech_internship_1.png">
+<img style="width: 100%" height="auto" width="100%" alt="Insights on securing a GovTech internship: From application to interview success." src="/images/technews/How_to_score_a_GovTech_internship_1.png">
 </div>
 <p>
-<br>
 <br>Are you a tech-savvy student with a passion for innovation and a desire
 to make a difference in the lives of Singaporeans? If you're curious about
 applying your skills in the public service, an <a href="https://www.tech.gov.sg/careers/students-and-graduates/internships/" rel="noopener nofollow" target="_blank">internship</a> with
@@ -24,6 +23,7 @@ for Singapore's public services, GovTech offers unique and impactful
 <p>In this article, we'll provide tips on how to stand out in the application
 process and secure a coveted spot in GovTech’s dynamic and forward-thinking
 environment.</p>
+<hr>
 <h3>Three Things GovTech Looks For in Candidates</h3>
 <h4>1. Technical Competency</h4>
 <p>We are looking for candidates with relevant technical skills, such as
@@ -88,6 +88,7 @@ clubs, societies, or volunteer organisations can showcase your ability
 to lead and collaborate.</p>
 </li>
 </ul>
+<hr>
 <h3>Preparation Before Applying</h3>
 <h4>1. Industry research</h4>
 <p>Before applying, it's essential to stay informed about the latest developments,
@@ -120,7 +121,7 @@ One suggested prompt can be “How should I prepare myself to be a software
 engineer intern?”&nbsp;</p>
 </li>
 </ul>
-<h3>2. Professional Online Presence</h3>
+<h4>2. Professional Online Presence</h4>
 <p>A strong, professional online presence can differentiate you from other
 candidates and highlight your commitment to the tech industry:</p>
 <ul>
@@ -138,8 +139,9 @@ your projects, skills, and achievements. This can even be a GitHub account
 with various repositories.&nbsp;</p>
 </li>
 </ul>
+<hr>
 <h3>How to Craft an Eye-Catching Application</h3>
-<h3>1. Tailored resume</h3>
+<h4>1. Tailored resume</h4>
 <p>Customise your resume to highlight experiences, skills, and projects relevant
 to the specific role you're applying for:</p>
 <ul>
@@ -166,7 +168,7 @@ and metrics to quantify your achievements and impact.</p>
 a GovTech product in beta, to help you craft impactful descriptions of
 your accomplishments, and download a version of your resume that’s optimized
 for application tracking systems (ATS) to ensure safe and accurate parsing!&nbsp;</p>
-<h3>2. Clear and concise application documents</h3>
+<h4>2. Clear and concise application documents</h4>
 <p>Ensure that your application materials are well-organised, error-free,
 and effectively communicate your strengths and experiences:</p>
 <ul>
@@ -187,6 +189,7 @@ and spelling errors.
 clear headings and bullet points to emphasise key information.</p>
 </li>
 </ul>
+<hr>
 <h3>Acing the Interview</h3>
 <h4>1. Showcase communication skills</h4>
 <p>During the interview, highlight your ability to communicate effectively
@@ -205,16 +208,15 @@ actively and engage with others' perspectives. Show your willingness to
 receive and act on feedback during the conversation.&nbsp;</p>
 </li>
 </ul>
-<h3>2. Be authentic</h3>
+<h4>2. Be authentic</h4>
 <p>We want candidates who can share their perspectives openly:</p>
 <ul>
 <li>
 <p><strong>Open dialogue: </strong>Be honest about your experiences, strengths,
-and areas for improvement. Authenticity can help build trust with interviewers.
-<br>
-</p>
+and areas for improvement. Authenticity can help build trust with interviewers.</p>
 </li>
 </ul>
+<hr>
 <h3>Bonus question: Can students from non-tech courses of study get a tech internship?</h3>
 <p>The short answer is: yes! We welcome candidates from diverse academic
 backgrounds as they enrich our teams with unique perspectives. Generally,
@@ -247,7 +249,20 @@ apply for an internship with GovTech?&nbsp;</p>
 <p>We look forward to meeting passionate, driven individuals like you and
 seeing how you can help us shape a better tomorrow. Take the first step
 towards an exciting and fulfilling career. Find out more information about
-our internship programme at <a href="https://go.gov.sg/ck-technews" rel="noopener noreferrer nofollow" target="_blank">go.gov.sg/govtechinternship</a>!</p>
-<p>
-<br>
+our internship programme at <a href="https://go.gov.sg/govtechinternship" rel="noopener noreferrer nofollow" target="_blank">go.gov.sg/govtechinternship</a>
 </p>
+<p></p>
+<div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="http://eepurl.com/cUwIsD" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Subscribe to the TechNews email newsletter" src="/images/CTA card images/technews_footer.jpg"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Subscribe to the TechNews email newsletter</div><div class="isomer-card-link">TechNews</div></div></a>
+<a rel="noopener noreferrer nofollow" href="http://eepurl.com/hsr131" class="isomer-card">
+<div class="isomer-card-image">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Join the Tech Kaki user-testing community" src="/images/CTA card images/techkaki_footer.jpg">
+</div>
+</div>
+<div class="isomer-card-body">
+<div class="isomer-card-title">Join the Tech Kaki user-testing community</div>
+<div class="isomer-card-link">Tech Kaki</div>
+</div>
+</a>
+</div>
+<p></p>
