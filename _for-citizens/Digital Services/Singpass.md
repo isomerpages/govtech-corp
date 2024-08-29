@@ -140,11 +140,11 @@ as CPF balance, passport number and HDB details on hand.</p>
 </div>
 </details>
 <details class="isomer-details">
-<summary><strong>4. Receive timely notifications from government agencies</strong>
+<summary><strong>4. Receive timely notifications from Singpass</strong>
 </summary>
 <div data-type="detailsContent" class="isomer-details-content">
-<p>For instance, users who are due for NRIC re-registration and passport
-renewal will receive notifications in their Singpass app inbox.</p>
+<p>For instance, users may receive important announcements, transactional
+alerts, and security advisories in their Singpass app inbox.</p>
 </div>
 </details>
 <details class="isomer-details">
