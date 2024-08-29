@@ -55,12 +55,6 @@ victims, after acknowledging its customer service and response fell short.</p>
 signs like misspellings in the URL.</p>
 </li>
 <li>
-<p>Legitimate websites should have the <em>https </em>in the address bar.
-Banks have stopped sending SMSes and emails with links to click. If you
-receive a message full of links purportedly from a bank, it’s highly likely
-to be a scam.</p>
-</li>
-<li>
 <p>Scammers can use a method called&nbsp;<a href="https://mothership.sg/2022/01/spoofed-sms-ocbc/" class="editor-rtfLink" rel="noopener noreferrer nofollow" target="_blank">spoofing</a>&nbsp;to
 send SMSes and make them appear in the same thread of real SMSes from the
 legitimate organisation. So, never trust an SMS just because it appears
@@ -78,6 +72,18 @@ who they say they are. For example, legitimate bank customer service agents
 will gladly oblige your efforts to verify their identity, and won’t dissuade
 you from hanging up to call the bank back so you know you’re really talking
 to bank representatives.</p>
+</li>
+<li>
+<p>Legitimate websites should have the <em>https </em>in the address bar.
+Banks have stopped sending SMSes and emails with links to click. If you
+receive a message full of links purportedly from a bank, it’s highly likely
+to be a scam.</p>
+</li>
+<li>
+<p>Whilst secure websites typically start with 'https' instead of 'http',
+users are also advised to check that other security indicators are in place
+as well. Always exercise caution and verify the authenticity of any communication
+through official channels before taking action.</p>
 </li>
 <li>
 <p>Refer to the Government’s&nbsp;<a href="https://www.gov.sg/trusted-sites" class="editor-rtfLink" rel="noopener noreferrer nofollow" target="_blank">list of trusted sites</a>&nbsp;when
