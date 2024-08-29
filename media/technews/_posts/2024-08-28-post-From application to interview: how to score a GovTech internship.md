@@ -246,5 +246,5 @@ apply for an internship with GovTech?&nbsp;</p>
 <p>We look forward to meeting passionate, driven individuals like you and
 seeing how you can help us shape a better tomorrow. Take the first step
 towards an exciting and fulfilling career. Find out more information about
-our internship programme at <a href="https://go.gov.sg/ck-technews" rel="noopener noreferrer nofollow" target="_blank">go.gov.sg/govtechinternshi</a>
+our internship programme at <a href="https://go.gov.sg/govtechinternship" rel="noopener noreferrer nofollow" target="_blank">go.gov.sg/govtechinternship</a>
 </p>
