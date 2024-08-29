@@ -138,7 +138,7 @@ with various repositories.&nbsp;</p>
 </li>
 </ul>
 <h3>How to Craft an Eye-Catching Application</h3>
-<h3>1. Tailored resume</h3>
+<h4>1. Tailored resume</h4>
 <p>Customise your resume to highlight experiences, skills, and projects relevant
 to the specific role you're applying for:</p>
 <ul>
@@ -165,7 +165,7 @@ and metrics to quantify your achievements and impact.</p>
 a GovTech product in beta, to help you craft impactful descriptions of
 your accomplishments, and download a version of your resume that’s optimized
 for application tracking systems (ATS) to ensure safe and accurate parsing!&nbsp;</p>
-<h3>2. Clear and concise application documents</h3>
+<h4>2. Clear and concise application documents</h4>
 <p>Ensure that your application materials are well-organised, error-free,
 and effectively communicate your strengths and experiences:</p>
 <ul>
@@ -204,7 +204,7 @@ actively and engage with others' perspectives. Show your willingness to
 receive and act on feedback during the conversation.&nbsp;</p>
 </li>
 </ul>
-<h3>2. Be authentic</h3>
+<h4>2. Be authentic</h4>
 <p>We want candidates who can share their perspectives openly:</p>
 <ul>
 <li>
