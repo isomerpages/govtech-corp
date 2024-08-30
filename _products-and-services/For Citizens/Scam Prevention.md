@@ -82,8 +82,8 @@ you can do to maximise its usefulness.&nbsp;</p>
 <img style="width: 100%" height="auto" width="100%" alt="Help heighten the efficiency of the Scam Analytics and Tactical Intervention System by reporting scams via Scam Shield." src="/images/Products and Services/For citizens/SATIS_card_image_1_compressed.jpg">
 </div>
 <p>Heighten its efficiency by reporting any suspicious web activities via
-the <a href="https://www.scamshield.org.sg/about-bot/" rel="noopener noreferrer nofollow" target="_blank"><u>Scam Shield WhatsApp bot</u></a>,
-or the <a href="https://form.gov.sg/63982e109841390011a59121" rel="noopener noreferrer nofollow" target="_blank"><u>Report a Scam Form</u></a>.</p>
+the <a href="https://www.scamshield.gov.sg/" rel="noopener noreferrer nofollow" target="_blank">ScamShield app.</a>
+</p>
 <h4>2. Look out for sites disrupted by SATIS</h4>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="The Scam Analytics and Tactical Intervention System will disrupt scam websites." src="/images/Products and Services/For citizens/rMSE_resized.jpg">
