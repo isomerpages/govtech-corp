@@ -133,7 +133,7 @@ priorities of government digital services.</p>
 <a class="isomer-image-wrapper" href="https://go.gov.sg/stack2024-tnedm">
 <img style="width: 100%" height="auto" width="100%" alt="STACK 2024 Early Bird Prices - Registration" src="/images/technews/early_bird_prices_banner_cropped.png">
 </a>
-<p><em>Early bird prices are valid till 31 August 2024.</em>
+<p><em>Early bird prices are valid till 20 September 2024.</em>
 </p>
 <h4>Related Content:</h4>
 <div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="/media/technews/stack-2024-tech-experts-to-share-their-knowledge-on-ux-design-developer-platforms/" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="STACK Developer Conference 2024" src="/images/technews/STACK_2024__845x200_.jpg"></div></div><div class="isomer-card-body"><div class="isomer-card-title">STACK 2024: Tech Experts to Share Their Knowledge on UX Design, Developer Platforms, and More!</div><div class="isomer-card-link">Read more on TechNews</div></div></a>
