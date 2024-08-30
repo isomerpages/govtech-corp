@@ -262,8 +262,7 @@ reveal practices, tools, and metrics that ensure platforms drive efficiency
 and align with business goals.</p>
 <p>Don’t miss out on this chance to learn from this industry expert!</p>
 <hr>
-<h4>Register for STACK Developer Conference 2024!</h4>
-<p>Sign up today to enjoy <a href="https://go.gov.sg/stack2024-tnedm" rel="noopener noreferrer nofollow" target="_blank">early bird prices</a>!</p><a class="isomer-image-wrapper" href="https://go.gov.sg/stack2024-tnedm"><img style="width: 100%" height="auto" width="100%" alt="STACK 2024 Early Bird Prices!" src="/images/technews/early_bird_prices_banner_cropped.png"></a>
+<h4>Register for <a href="https://go.gov.sg/stack2024-tnedm" rel="noopener noreferrer nofollow" target="_blank">STACK Developer Conference 2024</a>!</h4><a class="isomer-image-wrapper" href="https://go.gov.sg/stack2024-tnedm"><img style="width: 100%" height="auto" width="100%" alt="STACK 2024 Early Bird Prices!" src="/images/technews/early_bird_prices_banner_cropped.png"></a>
 <p><em>Early bird prices are valid till 20 September 2024.</em>
 </p>
 <h4>Related Content:</h4>
