@@ -62,7 +62,7 @@ further.</p>
 <h3>4. Maintain line of sight</h3>
 <p>Once you’ve gone through your checklist and ensured that your drone is
 fit for flight, do take note of the height limits for recreational drone
-activity. According to the <a href="https://www.caas.gov.sg/public-passengers/unmanned-aircraft-systems" rel="noopener noreferrer nofollow" target="_blank">Civil Aviation Authority of Singapore’s (CAAS) guidelines</a>,
+activity. According to the <a href="https://www.caas.gov.sg/public-passengers/unmanned-aircraft" rel="noopener noreferrer nofollow" target="_blank">Civil Aviation Authority of Singapore’s (CAAS) guidelines</a>,
 drones should fly below 200 feet (which is about 60 metres, or 12 storeys
 of an HDB apartment block), beyond which an activity permit is required
 for each flight session or block of repeated flight sessions.</p>
