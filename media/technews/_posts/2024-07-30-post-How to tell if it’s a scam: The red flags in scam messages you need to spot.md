@@ -57,7 +57,8 @@ least <strong>'gov.sg'</strong> in the url. At least, the official one (
 <a href="http://www.police.gov.sg" rel="noopener noreferrer nofollow" target="_blank">www.police.gov.sg</a>) does.</p>
 <p>This website may also look legitimate with the logo, but scammers have
 been known to create good replicas of the real thing.</p>
-<p><em>PS: Another way to avoid getting scammed is to wait for the official letter from the Traffic Police to see if you have indeed gotten a fine. Alternatively, you can file an appeal <a href="https://eservices1.police.gov.sg/phub/eservices/landingpage/traffic-eappeal" rel="noopener noreferrer nofollow" target="_blank">here</a>, with your appeal number; they'd be able to advise if it's legitimate or not.</em>
+<p><em>PS: Another way to avoid getting scammed is to wait for the official letter from the Traffic Police to see if you have indeed gotten a fine. Alternatively, you can file an </em>
+<a href="https://eservices1.police.gov.sg/phub/eservices/landingpage/traffic-eappeal" rel="noopener nofollow" target="_blank">e-appeal</a><em>, with your appeal number; they'd be able to advise if it's legitimate or not.</em>
 </p>
 <h4>Red flag #5: Unexpected payment requests</h4>
 <p>If you're transacting with the Government, you usually will have to use
