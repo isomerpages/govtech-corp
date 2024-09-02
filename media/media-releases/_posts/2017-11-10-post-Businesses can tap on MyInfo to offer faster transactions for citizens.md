@@ -64,10 +64,8 @@ accept e-money. This is in line with Smart Nation&nbsp;and&nbsp;we are
 pleased to be part of the rapidly evolving cashless payments ecosystem,”
 said Jeremy Tan, founder and CEO of Liquid Group.</p>
 <p>The portal will also benefit developers as it offers a sandbox environment&nbsp;for
-them&nbsp;to build solutions faster. Developers can access the sandbox
-at&nbsp;<a href="https://www.ndi-api.gov.sg/library/trusted-data/myinfo/introduction" rel="noopener noreferrer nofollow" target="_blank">https://www.ndi-api.gov.sg/library/trusted-data/myinfo/introduction</a>&nbsp;to
-find out how to prototype their services. Locally-registered businesses
-can log in with their CorpPass credentials from December 2017 onwards.</p>
+them&nbsp;to build solutions faster. Locally-registered businesses can
+log in with their CorpPass credentials from December 2017 onwards.</p>
 <h3>What is MyInfo?</h3>
 <p>MyInfo is a service for SingPass users to manage the use of their&nbsp;personal&nbsp;data
 when transacting online with participating government agencies and commercial
