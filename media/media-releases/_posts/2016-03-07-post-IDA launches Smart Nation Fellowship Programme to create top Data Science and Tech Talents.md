@@ -91,9 +91,7 @@ to serve citizens of all ages and companies of all sizes. IDA does this
 by actively supporting the growth of innovative technology companies and
 start-ups in Singapore, working with leading global IT companies, and developing
 excellent information technology and telecommunications infrastructure,
-policies, and capabilities for Singapore. For more news and information,
-visit <a href="https://fellowships.data.gov.sg/" rel="noopener noreferrer nofollow" target="_blank">www.tech.gov.sg</a>.
-Follow IDA on Facebook IDA. Singapore and Twitter @IDAsg.</p>
+policies, and capabilities for Singapore.</p>
 <p>About Smart Nation Singapore strives to be a Smart Nation in which our
 people&nbsp;are empowered&nbsp;by technology to lead meaningful and fulfilled
 lives. By harnessing the power of networks, data and info-comm technologies,
@@ -101,7 +99,7 @@ we endeavour to improve living, create economic opportunity and build a
 closer community. We have a conducive environment to experiment, prototype
 and deploy innovative solutions that&nbsp;can be shared&nbsp;with other
 global cities. It is an exciting journey, and we want your ideas to help
-us realise our vision. For more information, please visit <a href="https://fellowships.data.gov.sg/" rel="noopener noreferrer nofollow" target="_blank">www.smartnation.sg</a>.</p>
+us realise our vision.</p>
 <h4>For media clarification</h4>
 <p>Teresa TAN (Ms)
 <br>Manager, Corporate &amp; Marketing Communications
