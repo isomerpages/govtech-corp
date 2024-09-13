@@ -7,10 +7,12 @@ layout: post
 description: "STACK 2024: Singapore's largest government-led tech event. Learn
   from top experts, network, and discover the future of tech. Nov 6-7. Sign-up
   today!"
-image: /images/technews/STACK_2024_banner.jpg
+image: /images/technews/STACK_KEYNOTES_1.png
 variant: tiptap
 ---
-<a class="isomer-image-wrapper" href="https://go.gov.sg/stack2024-tnedm"><img style="width: 100%" height="auto" width="100%" alt="STACK Developer Conference 2024, powered by GovTech" src="/images/technews/STACK_2024_banner.jpg"></a>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="STACK 2024 Conference Keynote Speakers" src="/images/technews/STACK_KEYNOTES_1.png">
+</div>
 <p>Get ready for Singapore's largest Government-led tech event — GovTech's
 <a href="https://go.gov.sg/stack2024-tnedm" rel="noopener noreferrer nofollow" target="_blank">STACK Developer Conference 2024&nbsp;</a>from 6 to 7 November at the Sands
 Expo and Convention Centre!</p>
