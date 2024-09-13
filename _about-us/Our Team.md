@@ -365,18 +365,6 @@ Corporate &amp; Governance</div>
 <div class="isomer-card">
 <div class="isomer-card-image">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="D.N. Prasad" src="/images/About Us/D__N__PRASAD.jpg">
-</div>
-</div>
-<div class="isomer-card-body">
-<div class="isomer-card-title">Mr D. N. PRASAD</div>
-<div class="isomer-card-description">Senior Director, People and Organisation Division, Strategy, Corporate
-&amp; Governance</div>
-</div>
-</div>
-<div class="isomer-card">
-<div class="isomer-card-image">
-<div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="GovTech leader Jason See" src="/images/About Us/Jason_SEE.jpg">
 </div>
 </div>
