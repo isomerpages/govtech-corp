@@ -2,7 +2,6 @@ collections:
   for-citizens:
     output: true
     order:
-      - Employment/.keep
       - Crowdsourcing/.keep
       - Crowdsourcing/CrowdTaskSG.md
       - Crowdsourcing/Vulnerability Discovery Programme.md
@@ -15,6 +14,7 @@ collections:
       - Directories and Distribution/.keep
       - Directories and Distribution/GoWhere.md
       - Directories and Distribution/GovWallet.md
+      - Employment/.keep
       - Environment/.keep
       - Environment/myENV.md
       - Environment/TreesSG.md
