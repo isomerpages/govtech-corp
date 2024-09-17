@@ -15,7 +15,7 @@ image: /images/Products and Services/For citizens/resumeboost_logo.png
 <p></p>
 <ul data-tight="true" class="tight">
 <li>
-<p>ResumeBoost SG is a cutting-edge AI (Artificial Intelligence) tool developed
+<p>ResumeBoostSG is a cutting-edge AI (Artificial Intelligence) tool developed
 by GovTech designed to optimise&nbsp;resumes and increase your chances
 of landing job interviews.</p>
 </li>
@@ -46,7 +46,7 @@ and write professional summaries that highlight your unique strengths.</p>
 features. By participating in the beta phase, users can provide valuable
 feedback while positioning themselves to stand out in Singapore’s competitive
 job market.</p>
-<h3>Why use Resume Boost?</h3>
+<h3>Why use ResumeBoostSG?</h3>
 <h4>Understand how your resume is doing</h4>
 <p>Get a comprehensive evaluation of your resume and understand your strengths
 and discover areas for improvement to make a stronger impression on employers.</p>
@@ -64,12 +64,12 @@ quickly review job applications.</p>
 <p>We export an ATS-friendly resume to boost your chances of having a real
 person review it.</p>
 <p></p>
-<h3>How to use Resume Boost?</h3>
-<p>Simply visit the <a href="https://resumeboost.pic.gov.sg/?source=govtechwebsite" rel="noopener noreferrer nofollow" target="_blank">Resume Boost</a> web
+<h3>How to use ResumeBoostSG?</h3>
+<p>Simply visit the <a href="https://resumeboost.pic.gov.sg/?source=govtechwebsite" rel="noopener noreferrer nofollow" target="_blank">ResumeBoostSG</a> web
 app and login via Singpass to get started. We encourage using your desktop
 or laptop for the best experience.</p>
 <p></p>
-<h3>Interested to find out more about Resume Boost?</h3>
+<h3>Interested to find out more about ResumeBoostSG?</h3>
 <p></p>
 <div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="http://eepurl.com/cUwIsD" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="TechNews readers will be the first to receive updates on Resume Boost!" src="/images/CTA card images/Subscribe_to_the_TN_newsletter.png"></div></div><div class="isomer-card-body"><div class="isomer-card-title">TechNews readers will be the first to receive updates on Resume Boost!</div><div class="isomer-card-link">Subscribe to TechNews</div></div></a>
 <a rel="noopener noreferrer nofollow" href="http://eepurl.com/hsr131" class="isomer-card">
