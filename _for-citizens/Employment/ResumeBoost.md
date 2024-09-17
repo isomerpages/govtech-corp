@@ -51,7 +51,7 @@ job market.</p>
 <p>Get a comprehensive evaluation of your resume and understand your strengths
 and discover areas for improvement to make a stronger impression on employers.</p>
 <p></p>
-<h4>Rewrite your resume with the help of AI </h4>
+<h4>Rewrite your resume with the help of AI</h4>
 <p>Our cutting-edge AI powered by human expertise gives you tailored suggestions
 on how to strengthen your resume, down to each bullet point. Each change
 is clearly explained, allowing you to accept, edit, or regenerate suggestions
