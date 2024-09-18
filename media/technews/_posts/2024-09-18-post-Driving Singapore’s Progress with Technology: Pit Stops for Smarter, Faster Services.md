@@ -8,3 +8,73 @@ description: "GovTech Innovations: Transforming Public Services for a Smarter Si
 image: ""
 variant: tiptap
 ---
+<p>Singapore’s journey toward a more efficient, digitally connected future
+is accelerating, with GovTech leading the charge through innovative solutions.
+Taking cue from the Singapore Grand Prix, think of these technologies as
+strategic pit stops on a racetrack, each designed to streamline and enhance
+our interaction with public services. From accessing grants to <a href="https://www.tech.gov.sg/media/technews/how-govtech-is-leading-singapore-fight-against-scams/" class="Hyperlink SCXW226748605 BCX8" rel="noreferrer noopener" target="_blank">safeguarding against <u>scams</u></a>,
+these digital tools are essential for keeping Singapore on the fast track
+to progress.&nbsp;</p>
+<hr>
+<h4><u>GoWhere Suite: One-Stop Portals for Government Information</u>&nbsp;</h4>
+<p>The <a href="https://www.gowhere.gov.sg/" class="Hyperlink SCXW251385517 BCX8" rel="noreferrer noopener" target="_blank"><u>GoWhere Suite</u></a> is a comprehensive
+collection of websites that provide easy access to critical government
+information and services. Initially launched to support pandemic-related
+needs, the suite has expanded to include over 30 sites covering a wide
+range of topics, from locating the nearest vaccination centre to finding
+support schemes.&nbsp;</p>
+<p>Popular platforms like <a href="https://www.gowhere.gov.sg/" class="Hyperlink SCXW7819204 BCX8" rel="noreferrer noopener" target="_blank"><u>SupportGoWhere</u></a> help users
+discover government support schemes and check eligibility, while sites
+like <a href="https://www.gowhere.gov.sg/" class="Hyperlink SCXW7819204 BCX8" rel="noreferrer noopener" target="_blank"><u>HealthierSGEventsGoWhere</u></a> guide
+citizens to wellness activities, health screenings, and community events
+that promote a healthier lifestyle. The latest addition to the suite,
+<a href="https://www.gowhere.gov.sg/tampinescares" class="Hyperlink SCXW7819204 BCX8" rel="noreferrer noopener" target="_blank"><u>TampinesCaresGoWhere</u>
+</a>, is specifically tailored to <a href="https://www.tech.gov.sg/media/media-releases/tampinescaresgowhere-transforms-community-care-with-aggregated-services/" class="Hyperlink SCXW7819204 BCX8" rel="noreferrer noopener" target="_blank"><u>Tampines residents, providing information on social assistance, healthcare, and community support</u></a> available
+within the neighbourhood. These platforms have collectively recorded over
+65 million visits, showcasing their essential role in keeping the public
+informed and connected.&nbsp;</p>
+<p>To boost productivity among public officers, <a href="https://diy.gowhere.gov.sg/" class="Hyperlink SCXW7819204 BCX8" rel="noreferrer noopener" target="_blank"><u>DIYGoWhere</u></a> –
+a versatile tool that <a href="https://www.tech.gov.sg/media/technews/create-new-gowhere-sites-in-less-than-a-day/" class="Hyperlink SCXW7819204 BCX8" rel="noreferrer noopener" target="_blank"><u>empowers agencies to swiftly create or update websites</u></a> –
+slashes the time needed to launch new sites from days to just a few hours,
+ensuring public service information remains timely and accessible.</p>
+<hr>
+<h4><u>OurSG Grants: Your Gateway to Faster Funding</u>&nbsp;</h4>
+<p>The <a href="https://oursggrants.gov.sg/" class="Hyperlink SCXW113840723 BCX8" rel="noreferrer noopener" target="_blank"><u>OurSG Grants portal</u></a> is a
+centralised platform designed to simplify the grant application process
+for community, arts, heritage, sports, and social good initiatives. By
+consolidating information from multiple agencies into one accessible location,
+it streamlines the often complex tasks of searching for and applying for
+government grants in Singapore. This platform ensures that community-driven
+projects can access funding faster, effectively removing barriers and delays
+that traditionally hinder the application process.&nbsp;</p>
+<hr>
+<h4><u>SATIS: AI-Powered Scam Detection and Prevention</u>&nbsp;</h4>
+<p>The <a href="https://www.tech.gov.sg/products-and-services/for-citizens/scam-prevention/" class="Hyperlink SCXW113840723 BCX8" rel="noreferrer noopener" target="_blank"><u>Scam Analytics and Tactical Intervention System (SATIS)</u></a> is
+GovTech’s latest in the fight against scams in Singapore, developed in
+collaboration with Ministry of Home Affairs. Utilising AI and machine learning,
+SATIS can rapidly detect, assess, and disrupt malicious websites within
+hours, drastically shortening response times compared to traditional methods.
+This technology plays a vital role in <a href="https://www.straitstimes.com/singapore/a-scam-could-cost-someone-s-life-why-govtech-fights-scammers" class="Hyperlink SCXW113840723 BCX8" rel="noreferrer noopener" target="_blank"><u>safeguarding citizens from financial loss and potential harm</u></a>,
+demonstrating that <a href="https://www.tech.gov.sg/media/technews/how-govtech-is-leading-singapore-fight-against-scams/" class="Hyperlink SCXW113840723 BCX8" rel="noreferrer noopener" target="_blank">combating <u>scams</u></a> is
+about more than just money - it’s fundamentally about ensuring public safety.&nbsp;</p>
+<hr>
+<h4><u>Singpass: Digital IC for Seamless Identification</u>&nbsp;</h4>
+<p>With <a href="https://www.singpass.gov.sg/main" class="Hyperlink SCXW113840723 BCX8" rel="noreferrer noopener" target="_blank"><u>Singpass</u></a>, verifying
+your identity has never been easier. The <a href="http://digital%20ic%20feature/" class="Hyperlink SCXW113840723 BCX8" rel="noreferrer noopener" target="_blank"><u>Digital IC feature</u></a> in
+the Singpass app allows users to quickly authenticate at government counters
+without digging through their wallets for a physical card.&nbsp;Every month,
+more than 330,000 users access their Digital IC barcode, showcasing the
+growing reliance on digital solutions for everyday needs. Singpass continues
+to evolve, constantly adding new features such as digital signing and multi-language
+support, that extend its usability across a wider range of services, making
+digital identification seamless for all residents.&nbsp;</p>
+<hr>
+<p>As Singapore races toward a digitally enabled future, these GovTech innovations
+are transforming how we access and interact with public services. From
+building <a href="https://www.tech.gov.sg/our-digital-government-efforts/tech-for-public-good/" class="Hyperlink SCXW113840723 BCX8" rel="noreferrer noopener" target="_blank"><u>tech for public good</u></a> to
+<a href="https://www.tech.gov.sg/our-digital-government-efforts/engineering-digital-government/" class="Hyperlink SCXW113840723 BCX8" rel="noreferrer noopener" target="_blank">engineering a digital governmen<u>t</u>
+</a>, these solutions are pivotal milestones in our nation’s digital journey.
+Join us as we work toward a smarter, more connected Singapore! If you’re
+not already subscribed, sign up for TechNews to stay updated on the latest
+developments driving our nation’s progress.&nbsp;</p>
+<p>&nbsp;</p>
