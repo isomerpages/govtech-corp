@@ -19,8 +19,6 @@ image: /images/Products and Services/For citizens/resumeboost_logo.png
 by GovTech designed to optimise&nbsp;resumes and increase your chances
 of landing job interviews.</p>
 </li>
-</ul>
-<ul data-tight="true" class="tight">
 <li>
 <p>It provides a comprehensive evaluation of your resume - such as improving
 completeness, crafting impactful descriptions, highlighting your unique
