@@ -38,10 +38,11 @@ showcases your skills and experience is essential. Employers value a strong
 combination of qualifications, experience, and adaptability. With the increasing
 use of applicant tracking systems (ATS) to filter candidates, resumes need
 to be both ATS-friendly and tailored to local job market trends.</p>
-<p>Developed by GovTech, ResumeBoostSG combines cutting-edge AI with human
-expertise to deliver a comprehensive resume evaluation. The tool provides
-tailored suggestions to help you craft impactful descriptions of your accomplishments
-and write professional summaries that highlight your unique strengths.</p>
+<p>Developed by GovTech, <a href="https://resumeboost.pic.gov.sg/?source=govtechwebsite" rel="noopener nofollow" target="_blank">ResumeBoostSG</a> combines
+cutting-edge AI with human expertise to deliver a comprehensive resume
+evaluation. The tool provides tailored suggestions to help you craft impactful
+descriptions of your accomplishments and write professional summaries that
+highlight your unique strengths.</p>
 <p>Currently in beta, ResumeBoostSG offers early access to these powerful
 features. By participating in the beta phase, users can provide valuable
 feedback while positioning themselves to stand out in Singapore’s competitive
