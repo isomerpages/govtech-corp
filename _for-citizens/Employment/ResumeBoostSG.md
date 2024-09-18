@@ -50,13 +50,17 @@ job market.</p>
 <h4>Understand how your resume is doing</h4>
 <p>Get a comprehensive evaluation of your resume and understand your strengths
 and discover areas for improvement to make a stronger impression on employers.</p>
-<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="ResumeBoostSG evaluation" src="/images/Products and Services/resumeboost_evaluation.png">
+</div>
 <h4>Rewrite your resume with the help of AI</h4>
 <p>Our cutting-edge AI powered by human expertise gives you tailored suggestions
 on how to strengthen your resume, down to each bullet point. Each change
 is clearly explained, allowing you to accept, edit, or regenerate suggestions
 as needed.</p>
-<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="ResumeBoostSG rewrite" src="/images/Products and Services/resumeboost_ai_rewrite.png">
+</div>
 <h4>Download a resume that is recognised by job scanning tools</h4>
 <p>Your fancy resume format may never reach hiring managers if it's poorly
 parsed by Applicant Tracking Systems (ATS), tools used by employers to
