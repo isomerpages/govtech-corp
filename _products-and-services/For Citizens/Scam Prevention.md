@@ -103,8 +103,8 @@ the <a href="https://www.scamshield.gov.sg/" rel="noopener noreferrer nofollow" 
 <p>In some cases, scammers may find excuses to send you a different link
 – please disengage with them!</p>
 <h3>Want to stay updated?</h3>
-<div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="http://eepurl.com/cUwIsD" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Subscribe to TechNews" src="/images/CTA card images/Subscribe_to_the_TN_newsletter.png"></div></div><div class="isomer-card-body"><div class="isomer-card-title">TechNews readers will be the first to receive updates on SATIS!</div><div class="isomer-card-link">Subscribe to TechNews</div></div></a>
-<a rel="noopener noreferrer nofollow" href="http://eepurl.com/hsr131" class="isomer-card">
+<div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="https://go.gov.sg/communitysignup-gtwebsite" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Subscribe to TechNews" src="/images/CTA card images/Subscribe_to_the_TN_newsletter.png"></div></div><div class="isomer-card-body"><div class="isomer-card-title">TechNews readers will be the first to receive updates on SATIS!</div><div class="isomer-card-link">Subscribe to TechNews</div></div></a>
+<a rel="noopener noreferrer nofollow" href="https://go.gov.sg/communitysignup-gtwebsite" class="isomer-card">
 <div class="isomer-card-image">
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="Join Tech Kaki community" src="/images/CTA card images/Join_our_user_testing_community__TK_.png">
