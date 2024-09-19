@@ -135,7 +135,7 @@ more vulnerable communities.</div>
 </div>
 <h3>Interested to find out more about GALE?</h3>
 <div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="https://medium.com/siot-govtech" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Follow updates on GALE over at the Smart City Technology Division blog" src="/images/CTA card images/Visit_the_product_website.png"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Follow updates on GALE over at the Smart City Technology Division blog</div><div class="isomer-card-link">Read more on Medium blog</div></div></a>
-<a rel="noopener noreferrer nofollow" href="http://eepurl.com/cUwIsD" class="isomer-card">
+<a rel="noopener noreferrer nofollow" href="https://go.gov.sg/communitysignup-gtwebsite" class="isomer-card">
 <div class="isomer-card-image">
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="Receive updates on GALE by subscribing to our TechNews Newsletter" src="/images/CTA card images/Subscribe_to_the_TN_newsletter.png">
