@@ -9,10 +9,10 @@ image: /images/Cyan_Blue.png
 variant: tiptap
 ---
 <p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Cyan_Blue.png">
-</div>
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Driving singapore progress with technology pit-stops for smarter faster services" src="/images/driving_singapore_progress_with_technology_pit_stops_for_smarter_faster_services.png">
+</div>
 <p>Singapore’s journey toward a more efficient, digitally connected future
 is accelerating, with GovTech leading the charge through innovative solutions.
 Taking cue from the Singapore Grand Prix, think of these technologies as
