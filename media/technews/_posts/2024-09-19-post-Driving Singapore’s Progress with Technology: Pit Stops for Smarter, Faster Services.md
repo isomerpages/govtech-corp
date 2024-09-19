@@ -21,6 +21,27 @@ our interaction with public services. From accessing grants to <a href="https://
 these digital tools are essential for keeping Singapore on the fast track
 to progress.&nbsp;</p>
 <hr>
+<h4><strong>GoWhere Suite: One-Stop Portals for Government Information&nbsp;</strong></h4>
+<p>The<a href="https://www.gowhere.gov.sg/" rel="noopener noreferrer nofollow" target="_blank"> <u>GoWhere Suite</u></a> is
+a comprehensive collection of websites that provide easy access to government
+information and services. Initially launched to support pandemic-related
+needs, the suite has expanded to support over 30 nationwide initiatives
+covering a wide range of topics, from locating the nearest vaccination
+centre to finding support schemes.&nbsp;</p>
+<p>Popular platforms like<a href="https://www.gowhere.gov.sg/" rel="noopener noreferrer nofollow" target="_blank"> <u>SupportGoWhere</u></a> help users
+discover government support schemes and check eligibility, while sites
+like<a href="https://gowhere.gov.sg/budgetmeal/" rel="noopener noreferrer nofollow" target="_blank"> <u>BudgetMealGoWhere</u></a> help
+the public find affordable meals around them. One of the more recent GoWhere
+websites,<a href="https://www.gowhere.gov.sg/tampinescares" rel="noopener noreferrer nofollow" target="_blank"> <u>TampinesCaresGoWhere</u></a>,
+is specifically tailored to<a href="https://www.tech.gov.sg/media/media-releases/tampinescaresgowhere-transforms-community-care-with-aggregated-services/" rel="noopener noreferrer nofollow" target="_blank"> <u>Tampines residents, providing information on social assistance, healthcare, and community support</u></a> available
+within the neighbourhood. These platforms have collectively recorded over
+65 million visits, showcasing their essential role in keeping the public
+informed and connected.</p>
+<p>To boost productivity among public officers,<a href="https://diy.gowhere.gov.sg/" rel="noopener noreferrer nofollow" target="_blank"> <u>DIYGoWhere</u></a> – a versatile
+tool that<a href="https://www.tech.gov.sg/media/technews/create-new-gowhere-sites-in-less-than-a-day/" rel="noopener noreferrer nofollow" target="_blank"> <u>empowers agencies to swiftly create or update websites</u></a> –
+slashes the time needed to launch new sites from days to just a few hours,
+ensuring public service information remains timely and accessible.</p>
+<hr>
 <h4>OurSG Grants: Your Gateway to Faster Funding&nbsp;</h4>
 <p>The <a href="https://oursggrants.gov.sg/" class="Hyperlink SCXW113840723 BCX8" rel="noreferrer noopener" target="_blank"><u>OurSG Grants portal</u></a> is a
 centralised platform designed to simplify the grant application process
