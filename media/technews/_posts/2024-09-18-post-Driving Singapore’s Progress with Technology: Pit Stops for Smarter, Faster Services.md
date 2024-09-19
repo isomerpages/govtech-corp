@@ -21,28 +21,6 @@ our interaction with public services. From accessing grants to <a href="https://
 these digital tools are essential for keeping Singapore on the fast track
 to progress.&nbsp;</p>
 <hr>
-<h4><u>GoWhere Suite: One-Stop Portals for Government Information</u>&nbsp;</h4>
-<p>The <a href="https://www.gowhere.gov.sg/" class="Hyperlink SCXW251385517 BCX8" rel="noreferrer noopener" target="_blank"><u>GoWhere Suite</u></a> is a comprehensive
-collection of websites that provide easy access to critical government
-information and services. Initially launched to support pandemic-related
-needs, the suite has expanded to include over 30 sites covering a wide
-range of topics, from locating the nearest vaccination centre to finding
-support schemes.&nbsp;</p>
-<p>Popular platforms like <a href="https://www.gowhere.gov.sg/" class="Hyperlink SCXW7819204 BCX8" rel="noreferrer noopener" target="_blank"><u>SupportGoWhere</u></a> help users
-discover government support schemes and check eligibility, while sites
-like <a href="https://www.gowhere.gov.sg/" class="Hyperlink SCXW7819204 BCX8" rel="noreferrer noopener" target="_blank"><u>HealthierSGEventsGoWhere</u></a> guide
-citizens to wellness activities, health screenings, and community events
-that promote a healthier lifestyle. The latest addition to the suite,
-<a href="https://www.gowhere.gov.sg/tampinescares" class="Hyperlink SCXW7819204 BCX8" rel="noreferrer noopener" target="_blank"><u>TampinesCaresGoWhere</u>
-</a>, is specifically tailored to <a href="https://www.tech.gov.sg/media/media-releases/tampinescaresgowhere-transforms-community-care-with-aggregated-services/" class="Hyperlink SCXW7819204 BCX8" rel="noreferrer noopener" target="_blank"><u>Tampines residents, providing information on social assistance, healthcare, and community support</u></a> available
-within the neighbourhood. These platforms have collectively recorded over
-65 million visits, showcasing their essential role in keeping the public
-informed and connected.&nbsp;</p>
-<p>To boost productivity among public officers, <a href="https://diy.gowhere.gov.sg/" class="Hyperlink SCXW7819204 BCX8" rel="noreferrer noopener" target="_blank"><u>DIYGoWhere</u></a> –
-a versatile tool that <a href="https://www.tech.gov.sg/media/technews/create-new-gowhere-sites-in-less-than-a-day/" class="Hyperlink SCXW7819204 BCX8" rel="noreferrer noopener" target="_blank"><u>empowers agencies to swiftly create or update websites</u></a> –
-slashes the time needed to launch new sites from days to just a few hours,
-ensuring public service information remains timely and accessible.</p>
-<hr>
 <h4><u>OurSG Grants: Your Gateway to Faster Funding</u>&nbsp;</h4>
 <p>The <a href="https://oursggrants.gov.sg/" class="Hyperlink SCXW113840723 BCX8" rel="noreferrer noopener" target="_blank"><u>OurSG Grants portal</u></a> is a
 centralised platform designed to simplify the grant application process
