@@ -29,7 +29,7 @@ curated to give you tech tips, behind-the-scenes stories and more.</p>
 </div>
 </a><a rel="noopener noreferrer nofollow" href="/media/technews/tips-for-safe-online-shopping/" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Tips for safe online shopping" src="/images/About Us/Safe_Online_Shopping_info_card_3.jpg"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Tips for safe online shopping</div><div class="isomer-card-link">Read more on TechNews</div></div></a>
 </div>
-<div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="http://eepurl.com/cUwIsD" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Subscribe to the TechNews email newsletter" src="/images/CTA card images/TechNews_CTA_image.jpg"></div></div><div class="isomer-card-body"><div class="isomer-card-title">TechNews newsletter subscription</div><div class="isomer-card-description">Get tech tips, trend alerts, behind-the-scenes stories, GovTech updates and more when you sign up to receive TechNews newsletters.</div><div class="isomer-card-link">Subscribe to TechNews</div></div></a>
+<div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="https://go.gov.sg/communitysignup-gtwebsite" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Subscribe to the TechNews email newsletter" src="/images/CTA card images/TechNews_CTA_image.jpg"></div></div><div class="isomer-card-body"><div class="isomer-card-title">TechNews newsletter subscription</div><div class="isomer-card-description">Get tech tips, trend alerts, behind-the-scenes stories, GovTech updates and more when you sign up to receive TechNews newsletters.</div><div class="isomer-card-link">Subscribe to TechNews</div></div></a>
 <a rel="noopener noreferrer nofollow" href="/media/technews/" class="isomer-card">
 <div class="isomer-card-image">
 <div class="isomer-image-wrapper">
@@ -52,7 +52,7 @@ articles here.</div>
 <h4>Be part of our Tech Kaki community</h4>
 <p>Join over 6,000 members to drive change in Singapore. By contributing
 feedback, you’ll co-create digital products and services for citizens.</p>
-<p><a href="http://eepurl.com/hsr131" rel="noopener noreferrer nofollow" target="_blank">Become a Tech Kaki</a>.</p>
+<p><a href="https://go.gov.sg/communitysignup-gtwebsite" rel="noopener noreferrer nofollow" target="_blank">Become a Tech Kaki</a>.</p>
 <p>Want to know what else our community gets up to? <a href="/our-communities/join-our-communities/tech-kaki/" rel="noopener noreferrer nofollow" target="_blank">Read more about Tech Kaki</a>.</p>
 <h3>Behind the scenes at GovTech</h3>
 <h4>Our culture and values</h4>
