@@ -8,6 +8,11 @@ description: "GovTech Innovations: Transforming Public Services for a Smarter Si
 image: ""
 variant: tiptap
 ---
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Cyan_Blue.png">
+</div>
+<p></p>
 <p>Singapore’s journey toward a more efficient, digitally connected future
 is accelerating, with GovTech leading the charge through innovative solutions.
 Taking cue from the Singapore Grand Prix, think of these technologies as
@@ -60,14 +65,15 @@ about more than just money - it’s fundamentally about ensuring public safety.&
 <hr>
 <h4><u>Singpass: Digital IC for Seamless Identification</u>&nbsp;</h4>
 <p>With <a href="https://www.singpass.gov.sg/main" class="Hyperlink SCXW113840723 BCX8" rel="noreferrer noopener" target="_blank"><u>Singpass</u></a>, verifying
-your identity has never been easier. The <a href="http://digital%20ic%20feature/" class="Hyperlink SCXW113840723 BCX8" rel="noreferrer noopener" target="_blank"><u>Digital IC feature</u></a> in
+your identity has never been easier. The <a href="https://www.tech.gov.sg/media/technews/singpass-digital-ic/" class="Hyperlink SCXW113840723 BCX8" rel="noreferrer noopener" target="_blank"><u>Digital IC feature</u></a> in
 the Singpass app allows users to quickly authenticate at government counters
 without digging through their wallets for a physical card.&nbsp;Every month,
-more than 330,000 users access their Digital IC barcode, showcasing the
-growing reliance on digital solutions for everyday needs. Singpass continues
-to evolve, constantly adding new features such as digital signing and multi-language
-support, that extend its usability across a wider range of services, making
-digital identification seamless for all residents.&nbsp;</p>
+more than 330,000 users access their <a href="https://www.tech.gov.sg/media/technews/singpass-digital-ic/" rel="noopener nofollow" target="_blank">Digital IC barcode</a>,
+showcasing the growing reliance on digital solutions for everyday needs.
+Singpass continues to evolve, constantly adding new features such as
+<a href="https://www.tech.gov.sg/media/media-releases/2020-11-04-sign-with-singpass/" rel="noopener nofollow" target="_blank">digital signing</a>and <a href="https://www.tech.gov.sg/media/technews/how-singpass-learnt-three-languages/" rel="noopener nofollow" target="_blank">multi-language support</a>,
+that extend its usability across a wider range of services, making digital
+identification seamless for all residents.&nbsp;</p>
 <hr>
 <p>As Singapore races toward a digitally enabled future, these GovTech innovations
 are transforming how we access and interact with public services. From
