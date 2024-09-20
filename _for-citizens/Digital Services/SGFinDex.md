@@ -178,7 +178,7 @@ and current protection plans.</p>
 </div>
 <p></p>
 <div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="https://www.singpass.gov.sg/main/sgfindex/" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Want to find out more about SGFinDex? Visit Product website" src="/images/CTA card images/Visit_the_product_website.png"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Want to find out more about SGFinDex?</div><div class="isomer-card-link">Go to SGFinDex website</div></div></a>
-<a rel="noopener noreferrer nofollow" href="http://eepurl.com/cUwIsD" class="isomer-card">
+<a rel="noopener noreferrer nofollow" href="https://go.gov.sg/communitysignup-gtwebsite" class="isomer-card">
 <div class="isomer-card-image">
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="Subscribe to TechNews Newsletter to receive updates on SGFinDex!" src="/images/CTA card images/Subscribe_to_the_TN_newsletter.png">

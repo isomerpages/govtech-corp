@@ -91,10 +91,16 @@ they are being cared for.</div>
 <h3>How to use TreesSG?</h3>
 <p>Simply visit the <a href="https://www.nparks.gov.sg/treessg" rel="noopener noreferrer nofollow" target="_blank">TreesSG website</a> and start exploring.</p>
 <h3>Interested in finding out more about TreesSG?</h3>
-<div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="http://eepurl.com/cUwIsD" class="isomer-card"><div class="isomer-card-body"><div class="isomer-card-title">TechNews readers will be the first to receive updates on TreesSG!</div><div class="isomer-card-link">Subscribe to TechNews</div></div></a>
-<a rel="noopener noreferrer nofollow" href="http://eepurl.com/hsr131" class="isomer-card">
+<div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="https://go.gov.sg/communitysignup-gtwebsite" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="TechNews readers will be the first to receive updates on TreesSG!" src="/images/CTA card images/Subscribe_to_the_TN_newsletter.png"></div></div><div class="isomer-card-body"><div class="isomer-card-title">TechNews readers will be the first to receive updates on TreesSG!</div><div class="isomer-card-link">Subscribe to TechNews</div></div></a>
+<a rel="noopener noreferrer nofollow" href="https://go.gov.sg/communitysignup-gtwebsite" class="isomer-card">
+<div class="isomer-card-image">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Have suggestions on how to improve TreesSG? Provide feedback as a Tech Kaki!" src="/images/CTA card images/Join_our_user_testing_community__TK_.png">
+</div>
+</div>
 <div class="isomer-card-body">
-<div class="isomer-card-title">Have feedback on TreesSg? Become a Tech Kaki to share it!</div>
+<div class="isomer-card-title">Have suggestions on how to improve TreesSG? Provide feedback as a Tech
+Kaki!</div>
 <div class="isomer-card-link">Join Tech Kaki community</div>
 </div>
 </a>

@@ -109,7 +109,7 @@ via a letter and Singpass</p>
 <p>For more information, check out <a href="https://www.wallet.gov.sg/how-to-use" rel="noopener noreferrer nofollow" target="_blank">https://www.wallet.gov.sg/how-to-use</a>.</p>
 <h3>Interested in finding out more about GovWallet?</h3>
 <div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="https://www.wallet.gov.sg/where-to-spend" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Visit the GovWallet website to find out where to spend your credits" src="/images/CTA card images/Visit_the_product_website.png"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Visit the GovWallet website to find out where to spend your credits</div><div class="isomer-card-link">Go to GovWallet website</div></div></a>
-<a rel="noopener noreferrer nofollow" href="http://eepurl.com/cUwIsD" class="isomer-card">
+<a rel="noopener noreferrer nofollow" href="https://go.gov.sg/communitysignup-gtwebsite" class="isomer-card">
 <div class="isomer-card-image">
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="TechNews readers will be the first to receive updates on GovWallet!" src="/images/CTA card images/Subscribe_to_the_TN_newsletter.png">

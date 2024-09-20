@@ -13,7 +13,7 @@ image: /images/Get Involved/Stay_informed_meta_image_compressed.jpg
 <h3>Subscribe to TechNews</h3>
 <p>Get tech tips, trend alerts, behind-the-scenes stories, GovTech updates
 and more when you sign up to receive TechNews newsletters.</p>
-<p><a href="http://eepurl.com/cUwIsD" class="button primary" rel="noopener noreferrer nofollow" target="_blank">Subscribe to TechNews</a>.</p>
+<p><a href="https://go.gov.sg/communitysignup-gtwebsite" class="button primary" rel="noopener noreferrer nofollow" target="_blank">Subscribe to TechNews</a>.</p>
 <h3>Connect with us on social media</h3>
 <p>Follow us on social media for updates on new products and features, scholarship
 and job opportunities, life Inside GovTech, and much more!</p>

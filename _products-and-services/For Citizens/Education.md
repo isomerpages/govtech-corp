@@ -102,7 +102,7 @@ in a school, email the Parents Gateway Helpdesk at <a href="https://apps.apple.c
 assistance.</p>
 <h3>Interested to learn more about Parents Gateway?</h3>
 <div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="https://pg.moe.edu.sg/" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Visit the Parents Gateway website to learn more about this service" src="/images/CTA card images/Visit_the_product_website.png"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Visit the Parents Gateway website to learn more about this service</div><div class="isomer-card-link">Go to website</div></div></a>
-<a rel="noopener noreferrer nofollow" href="http://eepurl.com/cUwIsD" class="isomer-card">
+<a rel="noopener noreferrer nofollow" href="https://go.gov.sg/communitysignup-gtwebsite" class="isomer-card">
 <div class="isomer-card-image">
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="TechNews readers will be the first to receive updates on Parents Gateway!" src="/images/CTA card images/Subscribe_to_the_TN_newsletter.png">

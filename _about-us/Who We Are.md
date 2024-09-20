@@ -79,7 +79,7 @@ for networking through tech conferences and meet-ups.</div>
 </a>
 </div>
 <p></p>
-<div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="http://eepurl.com/cUwIsD" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Subscribe to the TechNews email newsletter" src="/images/About Us/TechNews_card.png"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Subscribe to TechNews</div><div class="isomer-card-description">Get tech tips, trend alerts, behind-the-scenes stories, GovTech updates and more when you sign up to receive TechNews newsletters.</div><div class="isomer-card-link">Subscribe to TechNews</div></div></a>
+<div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="https://go.gov.sg/communitysignup-gtwebsite" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Subscribe to the TechNews email newsletter" src="/images/About Us/TechNews_card.png"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Subscribe to TechNews</div><div class="isomer-card-description">Get tech tips, trend alerts, behind-the-scenes stories, GovTech updates and more when you sign up to receive TechNews newsletters.</div><div class="isomer-card-link">Subscribe to TechNews</div></div></a>
 <a rel="noopener noreferrer nofollow" href="https://linktr.ee/connectwithgovtech" class="isomer-card">
 <div class="isomer-card-image">
 <div class="isomer-image-wrapper">

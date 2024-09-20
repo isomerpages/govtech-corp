@@ -215,7 +215,7 @@ LifeSG app so that the relevant authorities can resolve them quickly.</div>
 </div>
 <h3>Interested in finding out more about LifeSG?</h3>
 <div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="https://www.life.gov.sg/" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Visit the LifeSG website to download the app and start using its services" src="/images/CTA card images/Visit_the_product_website.png"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Visit the LifeSG website to download the app and start using its services</div><div class="isomer-card-link">Download LifeSG app</div></div></a>
-<a rel="noopener noreferrer nofollow" href="http://eepurl.com/cUwIsD" class="isomer-card">
+<a rel="noopener noreferrer nofollow" href="https://go.gov.sg/communitysignup-gtwebsite" class="isomer-card">
 <div class="isomer-card-image">
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="TechNews readers will be the first to receive updates on LifeSG!" src="/images/CTA card images/Subscribe_to_the_TN_newsletter.png">
