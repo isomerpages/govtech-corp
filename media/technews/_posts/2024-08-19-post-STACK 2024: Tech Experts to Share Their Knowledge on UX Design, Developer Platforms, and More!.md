@@ -119,7 +119,7 @@ who will be presenting at STACK 2024!</p>
 <h3>1. Evan You: A Developer that’s Transforming the Web Development Landscape</h3>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 75%;" height="auto" width="100%" alt="Evan You at STACK 2024" src="/images/technews/Evan_You_600x300.png">
+<img style="width: 60%;" height="auto" width="100%" alt="Evan You at STACK 2024" src="/images/technews/Evan_You_600x300.png">
 </div>
 <p><a href="https://www.linkedin.com/in/evanyou/" rel="noopener noreferrer nofollow" target="_blank">Evan You</a>&nbsp;is
 an independent open-source developer currently based in Singapore. He is
@@ -148,7 +148,7 @@ helpful for anyone interested in the evolution of the web development landscape.
 <h3>2. Gregor Hohpe: Architecting Transformation for the Cloud Era</h3>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 75%;" height="auto" width="100%" alt="Gregor Hohpe at STACK 2024" src="/images/technews/Gregor_Hohpe_600x300.png">
+<img style="width: 60%;" height="auto" width="100%" alt="Gregor Hohpe at STACK 2024" src="/images/technews/Gregor_Hohpe_600x300.png">
 </div>
 <p><a href="https://www.linkedin.com/in/ghohpe/?originalSubdomain=sg" rel="noopener noreferrer nofollow" target="_blank">Gregor Hohpe</a>&nbsp;is
 a tech strategist, engineer, author, speaker, and a former GovTech Smart
@@ -199,7 +199,7 @@ to cars, submarines, and fruit salads!</p>
 <h3>3. Lillian Shieh: Integrity and Strategic Leadership in Design and Innovation</h3>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 75%;" height="auto" width="100%" alt="Lillian Shieh at STACK 2024" src="/images/technews/Lillian_Shieh_600x300.png">
+<img style="width: 60%;" height="auto" width="100%" alt="Lillian Shieh at STACK 2024" src="/images/technews/Lillian_Shieh_600x300.png">
 </div>
 <p><a href="https://www.linkedin.com/in/lillianshieh/" rel="noopener noreferrer nofollow" target="_blank">Lillian Shieh</a>,
 the Head of Design Practice at GovTech, is a distinguished design researcher,
@@ -235,7 +235,7 @@ of government digital services when there is greater digital maturity.</p>
 <h3>4. Rachel Laycock: Engineering Platforms for Developer Experience</h3>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Rachel Laycock STACK Keynote speaker" src="/images/technews/Rachel_Laycock___600x300.png">
+<img style="width: 60%;" height="auto" width="100%" alt="Rachel Laycock STACK Keynote speaker" src="/images/technews/Rachel_Laycock___600x300.png">
 </div>
 <p><a href="https://www.linkedin.com/in/rachellaycock/" rel="noopener noreferrer nofollow" target="_blank">Rachel Laycock</a> is
 the Chief Technology Officer (CTO) of <a href="https://www.thoughtworks.com/" rel="noopener noreferrer nofollow" target="_blank">Thoughtworks</a>, a global technology
