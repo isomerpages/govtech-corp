@@ -11,7 +11,7 @@ image: /images/technews/STACK_TechNews_1.png
 variant: tiptap
 ---
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="STACK 2024 Conference Keynote Speakers" src="/images/technews/STACK_KEYNOTES_1.png">
+<img style="width: 100%" height="auto" width="100%" alt="STACK Developer Conference 2024 Keynote Speakers" src="/images/technews/STACK_TechNews_1.png">
 </div>
 <p>Get ready for Singapore's largest Government-led tech event — GovTech's
 <a href="https://go.gov.sg/stack2024-tnedm" rel="noopener noreferrer nofollow" target="_blank">STACK Developer Conference 2024&nbsp;</a>from 6 to 7 November at the Sands
@@ -107,12 +107,12 @@ who will be presenting at STACK 2024!</p>
 <div class="isomer-card">
 <div class="isomer-card-image">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Scott Shaw: A Tech Industry Pioneer and Advisor" src="/images/technews/Scott_Shaw_600x300.png">
+<img style="width: 100%" height="auto" width="100%" alt="Rachel Laycock: Engineering Platforms for Developer Experience" src="/images/technews/Rachel_Laycock___600x300.png">
 </div>
 </div>
 <div class="isomer-card-body">
-<div class="isomer-card-title">Scott Shaw</div>
-<div class="isomer-card-description">A Tech Industry Pioneer and Advisor</div>
+<div class="isomer-card-title">Rachel Laycock</div>
+<div class="isomer-card-description">Engineering Platforms for Developer Experience</div>
 </div>
 </div>
 </div>
@@ -232,37 +232,45 @@ of government digital services when there is greater digital maturity.</p>
 </p>
 <div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="/media/technews/transforming-public-services-through-design-insights-from-lillian-shieh/" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="STACK Developer Conference 2024" src="/images/technews/STACK_2024__845x200_.jpg"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Transforming Public Services Through Design: Insights from Lillian Shieh</div><div class="isomer-card-description">Q&amp;A with Lillian Shieh: Researcher, Product Strategist, UX Designer</div><div class="isomer-card-link">Read more on TechNews</div></div></a>
 </div>
-<h3>4. Scott Shaw: A Tech Industry Pioneer and Advisor</h3>
+<h3>4. Rachel Laycock: Engineering Platforms for Developer Experience</h3>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 75%;" height="auto" width="100%" alt="Scott Shaw at STACK 2024" src="/images/technews/Scott_Shaw_600x300.png">
+<img style="width: 100%" height="auto" width="100%" alt="Rachel Laycock STACK Keynote speaker" src="/images/technews/Rachel_Laycock___600x300.png">
 </div>
-<p><a href="https://www.linkedin.com/in/scott-shaw-b4003a4/" rel="noopener noreferrer nofollow" target="_blank">Scott Shaw</a>,
-the Chief Technology Officer (CTO) for Thoughtworks APAC, brings a wealth
-of experience and knowledge to the table. Mr Shaw has been with Thoughtworks
-for nearly 20 years, witnessing its growth from around 700 employees to
-over 12,000 globally. As part of the Global Technology Leadership Team,
-he ensures technical excellence across the Asia Pacific region.</p>
-<p>With over 30 years of experience in the software industry, he is a trusted
-advisor on technology strategy, architecture, and emerging trends. His
-extensive experience also makes him a key figure in driving innovation
-for his clients.</p>
-<h4>Innovative Contributions – Thoughtworks’ Technology Radar</h4>
-<p>Shaw is also a key author of Thoughtworks' <a href="https://www.thoughtworks.com/en-sg/radar" rel="noopener noreferrer nofollow" target="_blank">Technology Radar</a>, a
-highly regarded biannual report that guides organizations in navigating
-the latest technological advancements. The Radar distils insights from
-Thoughtworks' global teams, highlighting cutting-edge practices, platforms,
-and frameworks.</p>
-<p>The latest Radar edition underscores the transformative impact of Generative
-AI on the software industry, an area where Shaw sees significant potential
-for enhancing team collaboration and knowledge structuring.</p>
-<h4>What to Expect from Scott’s Talk</h4>
-<p>Scott’s keynote, on Engineering Platforms, will explore how to build internal
-engineering platforms that enhance developer experience by addressing pain
-points and minimising distractions. Drawing on global experience, he will
-reveal practices, tools, and metrics that ensure platforms drive efficiency
-and align with business goals.</p>
-<p>Don’t miss out on this chance to learn from this industry expert!</p>
+<p><a href="https://www.linkedin.com/in/rachellaycock/" rel="noopener noreferrer nofollow" target="_blank">Rachel Laycock</a> is
+the Chief Technology Officer (CTO) of <a href="https://www.thoughtworks.com/" rel="noopener noreferrer nofollow" target="_blank">Thoughtworks</a>, a global technology
+consultancy known for its expertise in digital transformation. With a passion
+for problem-solving, Rachel has built a career focused on modernising enterprise
+tech stacks and enabling teams to deliver extraordinary value. Since joining
+Thoughtworks in 2010, Rachel has held numerous leadership roles, including
+Global Managing Director for Enterprise Modernisation, Platforms, and Cloud,
+driving innovation and cloud adoption for clients across the globe.</p>
+<h4>Empowering Global Digital Transformation</h4>
+<p>Rachel’s career has been marked by her ability to lead large-scale digital
+transformations across industries. Her work with Thoughtworks’ clients
+has impacted businesses worldwide, providing strategic direction for technology
+modernisation and cloud solutions. As a passionate advocate for Agile practices
+and continuous delivery, Rachel has helped organisations create a culture
+of continuous improvement, ensuring they remain self-sufficient and resilient
+in an ever-changing digital landscape.</p>
+<h4>From Developer to CTO&nbsp;</h4>
+<p>Rachel's journey from developer to CTO reflects her deep understanding
+of the technical and strategic aspects of enterprise modernisation. Her
+contributions to <a href="https://www.thoughtworks.com/en-sg/radar" rel="noopener noreferrer nofollow" target="_blank">Thoughtworks’ Technology Radar</a>,
+which highlights trends and innovations in the industry, underscore her
+commitment to staying at the forefront of technology. As CTO, Rachel leads
+with a focus on ensuring that Thoughtworks remains a trusted partner for
+clients undergoing rapid technological change, all while maintaining a
+keen eye on developer experience and platform efficiency.</p>
+<h4>What to Expect from Rachel’s Talk</h4>
+<p>Rachel's keynote speech will dive into the rising importance of internal
+engineering platforms and the critical connection between platform design
+and developer experience (DevEx). Drawing on her global experience, Rachel
+will explore how platforms can address developer pain points, foster a
+state of flow, and align with both business and technical goals. Attendees
+will gain insights into building platforms that optimise efficiency, reduce
+cognitive load, and enhance developer buy-in, ensuring long-term success
+for both development teams and executives.&nbsp;</p>
 <hr>
 <h4>Register for <a href="https://go.gov.sg/stack2024-tnedm" rel="noopener noreferrer nofollow" target="_blank">STACK Developer Conference 2024</a></h4>
 <p><em>Choose from <a href="https://go.gov.sg/stack2024-tnedm" rel="noopener noreferrer nofollow" target="_blank">in-person tickets</a> (selling fast) or <a href="https://go.gov.sg/stack2024-tnedm" rel="noopener noreferrer nofollow" target="_blank">virtual tickets</a>!</em>
