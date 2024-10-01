@@ -35,7 +35,7 @@ sounds like you, first check out the timelines as well as guidelines for
 our internship applications. <strong>Do note that applicants who have graduated from university are not eligible for our internship programme.</strong>
 </p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Application periods for GovTech's internship programmes" src="/images/careers/Internship_infographics.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="GovTech internship 2025 application periods" src="/images/careers/govtech_internship_application_period_2025.jpg">
 </div>
 <div class="isomer-image-wrapper">
 <img style="width: 80%;" height="auto" width="100%" alt="GovTech's internship application processes" src="/images/careers/govtech_Infographics_05_01_compressed.jpg">
