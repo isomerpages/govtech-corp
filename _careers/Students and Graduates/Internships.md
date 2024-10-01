@@ -80,17 +80,10 @@ more testimonials and sharing from past interns.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="Batch of past GovTech interns having fun while posing for a photo at a photo booth" src="/images/careers/Internships_1690x800.jpg">
 </div>
-<p>Applications for our internship programme are open from <strong>12 August to 30 September 2024</strong>.
-Apply now!</p>
+<p></p>
 <h3>Interested to join us as a #GovTechIntern?</h3>
 <p></p>
-<div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="http://go.gov.sg/GovTechInternshipProjects2025" class="isomer-card"><div class="isomer-card-body"><div class="isomer-card-title">Check out the available internship roles and projects at GovTech</div><div class="isomer-card-link">Explore GovTech's internships</div></div></a>
-<a rel="noopener noreferrer nofollow" href="https://careers.tech.gov.sg/careers/SearchJobs" class="isomer-card">
-<div class="isomer-card-body">
-<div class="isomer-card-title">Ready to apply? Submit your application</div>
-<div class="isomer-card-link">Apply for an internship</div>
-</div>
-</a><a rel="noopener noreferrer nofollow" href="http://go.gov.sg/GovTech2025internships" class="isomer-card"><div class="isomer-card-body"><div class="isomer-card-title">Already applied? Tell us your preferred roles and projects</div><div class="isomer-card-link">Go to form</div></div></a>
+<div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="https://go.gov.sg/govtechtalentcommunity" class="isomer-card"><div class="isomer-card-body"><div class="isomer-card-title">Join our talent community to stay updated on the next internship application period</div><div class="isomer-card-link">Join our talent community</div></div></a>
 </div>
 <p>For enquiries, please email <a href="mailto:AreYouIT@tech.gov.sg" rel="noopener noreferrer nofollow" target="_blank"><u>AreYouIT@tech.gov.sg</u></a>.</p>
 <p></p>
