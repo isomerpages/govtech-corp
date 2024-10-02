@@ -90,13 +90,14 @@ round, followed by 4-hour finals.</p>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>Date</strong>
+<p><strong>Date / Time</strong>
 </p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Registration</p>
+<p><strong>Registration</strong>
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Registration opens 2<sup>nd</sup> October</p>
@@ -104,7 +105,8 @@ round, followed by 4-hour finals.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Onboarding to Platform</p>
+<p><strong>Onboarding to Platform</strong>
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>20<sup>th</sup> to 25<sup>th</sup> October</p>
@@ -114,7 +116,8 @@ up before 14<sup>th</sup> October</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Preliminary Round</p>
+<p><strong>Preliminary Round</strong>
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>26<sup>th</sup> October 6:00pm to 27<sup>th</sup> October 6:00am</p>
@@ -122,7 +125,8 @@ up before 14<sup>th</sup> October</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Final Round</p>
+<p><strong>Final Round</strong>
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>5<sup>th</sup> November 1:30pm to 5:30pm</p>
@@ -130,7 +134,8 @@ up before 14<sup>th</sup> October</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Prize Ceremony</p>
+<p><strong>Prize Ceremony</strong>
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>5<sup>th</sup> November 5:30pm-6:30pm</p>
