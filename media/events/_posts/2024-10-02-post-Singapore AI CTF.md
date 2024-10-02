@@ -124,3 +124,40 @@ up before 14<sup>th</sup> October</p>
 <p>For more information, please contact us at <a href="mailto:ctf@tech.gov.sg" rel="noopener noreferrer nofollow" target="_blank">ctf@tech.gov.sg</a>
 </p>
 <p></p>
+<h3>Participation</h3>
+<p>The Singapore AI Security CTF is open to all, and the competition is divided
+into two categories:</p>
+<p></p>
+<div class="isomer-card-grid">
+<div class="isomer-card">
+<div class="isomer-card-body">
+<div class="isomer-card-title">Category 1: Open</div>
+<div class="isomer-card-description">Any team composition, local, or international teams accepted.</div>
+</div>
+</div>
+<div class="isomer-card">
+<div class="isomer-card-body">
+<div class="isomer-card-title">Category 2: Pre-University</div>
+<div class="isomer-card-description">All members must be a Singapore Citizen or Permanent Resident and must
+currently be studying in a Pre-University Education Institution based in
+Singapore: Polytechnic, Junior College, Integrated Programme, and Institutes
+of Technical Education</div>
+</div>
+</div>
+</div>
+<p>Employees of GovTech and officers seconded to GovTech are not eligible
+to participate.</p>
+<p>Participants under the age of 18 at the start date of the Competition
+must obtain <strong>proper parental/guardian’s consent</strong> to participate
+in the Competition. The <a href="/files/media/Events/SG_AI_CTF_Parental_Consent_Form.pdf" rel="noopener noreferrer nofollow" target="_blank">parental/guardian consent form can be found here</a> and
+must be submitted before the competition starts.</p>
+<p>Teams that fail to comply with the above-mentioned requirements can be
+automatically disqualified from the Competition.</p>
+<p>Top Teams from the preliminary round must attend the Final Round virtually
+to be eligible for the Prizes. Local teams are strongly encouraged to attend
+the Final Round.</p>
+<p>Top Teams from Category (2) Pre-University are strongly encouraged to
+attend the Final Round. Should any member of the team be unable to attend
+the final round physically, please inform the organiser at <a href="mailto:ctf@tech.gov.sg" rel="noopener noreferrer nofollow" target="_blank">ctf@tech.gov.sg</a>
+</p>
+<p></p>
