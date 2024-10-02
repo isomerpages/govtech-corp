@@ -87,7 +87,7 @@ round, followed by 4-hour finals.</p>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Registration opens 2<sup>nd</sup> October</p>
+<p>Registration opens on 2<sup>nd</sup> October</p>
 </td>
 </tr>
 <tr>
@@ -96,7 +96,7 @@ round, followed by 4-hour finals.</p>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>20<sup>th</sup> to 25<sup>th</sup> October</p>
+<p>20<sup>th</sup> - 25<sup>th</sup> October</p>
 <p>Onboarding will begin on 20<sup>th</sup> October, for those who signed
 up before 14<sup>th</sup> October</p>
 </td>
@@ -107,7 +107,7 @@ up before 14<sup>th</sup> October</p>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>26<sup>th</sup> October 6:00pm to 27<sup>th</sup> October 6:00am</p>
+<p>26<sup>th</sup> October 6:00pm - 27<sup>th</sup> October 6:00am</p>
 </td>
 </tr>
 <tr>
