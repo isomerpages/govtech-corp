@@ -47,7 +47,7 @@ round, followed by 4-hour finals.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>Round 1: 12-Hour Preliminary Virtual Round </strong>
+<p><strong>Round 1: 12-Hour Preliminary Virtual Round</strong>
 </p>
 <p></p>
 <p><strong><a href="https://go.gov.sg/singaporeaictf" rel="noopener nofollow" target="_blank">REGISTER NOW</a></strong>
@@ -62,7 +62,7 @@ round, followed by 4-hour finals.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>Round 2: 4-Hour Finals </strong>
+<p><strong>Round 2: 4-Hour Finals</strong>
 </p>
 <p></p>
 <p>(Local teams to attend physically at MBS)</p>
@@ -71,30 +71,6 @@ round, followed by 4-hour finals.</p>
 <p>Start Time: Tuesday, 5th Nov 1:30pm (UTC+08 Singapore Time)</p>
 <p></p>
 <p>End Time: Tuesday, 5th Nov 5:30pm (UTC+08 Singapore Time)</p>
-<p></p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
 <p></p>
 </td>
 </tr>
