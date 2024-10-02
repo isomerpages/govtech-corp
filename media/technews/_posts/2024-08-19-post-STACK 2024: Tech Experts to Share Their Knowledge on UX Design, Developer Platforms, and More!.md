@@ -25,13 +25,14 @@ this biennial event serves as a platform for Government, industry, and
 tech communities to convene and collaborate on future opportunities that
 further <a href="https://www.smartnation.gov.sg/about-smart-nation/transforming-singapore/" rel="noopener noreferrer nofollow" target="_blank">Singapore's Smart Nation vision</a>.</p>
 <h3>Who will be at STACK 2024?</h3>
-<p>8 established keynote speakers will share their knowledge and expertise
+<p>9 established keynote speakers will share their knowledge and expertise
 at STACK 2024, making it the perfect opportunity for innovators, entrepreneurs,
 and tech enthusiasts to learn, network and discuss the latest tech advancements
 and products.</p>
 <p>The keynote speakers include leaders and experts from organisations like
-GovTech, Thoughtworks, and more. In addition to keynote speeches, attendees
-can also participate in plenary talks, panel discussions and more!</p>
+GovTech, Thoughtworks, Microsoft, and more. In addition to keynote speeches,
+attendees can also participate in plenary talks, panel discussions and
+more!</p>
 <div class="isomer-card-grid">
 <div class="isomer-card">
 <div class="isomer-card-body">
@@ -40,12 +41,12 @@ can also participate in plenary talks, panel discussions and more!</p>
 </div>
 <div class="isomer-card">
 <div class="isomer-card-body">
-<div class="isomer-card-title">8 Keynote Presentations</div>
+<div class="isomer-card-title">9 Keynote Presentations</div>
 </div>
 </div>
 <div class="isomer-card">
 <div class="isomer-card-body">
-<div class="isomer-card-title">8 Plenary Talks</div>
+<div class="isomer-card-title">7 Plenary Talks</div>
 </div>
 </div>
 <div class="isomer-card">
