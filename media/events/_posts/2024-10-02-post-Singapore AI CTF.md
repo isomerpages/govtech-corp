@@ -28,9 +28,7 @@ variant: tiptap
 <p>The AI Security CTF will be held in two rounds – a virtual preliminary
 round, followed by 4-hour finals.</p>
 <p></p>
-<div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="https://go.gov.sg/singaporeaictf" class="isomer-card"><div class="isomer-card-body"><div class="isomer-card-title">Round 1: 12-Hour Preliminary Virtual Round</div><div class="isomer-card-description">Start Time: Saturday, 26th Oct 6pm (UTC+08 Singapore Time)
-
-End Time: Sunday, 27th October 6am (UTC+08 Singapore Time)</div><div class="isomer-card-link">REGISTER NOW</div></div></a>
+<div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="https://go.gov.sg/singaporeaictf" class="isomer-card"><div class="isomer-card-body"><div class="isomer-card-title">Round 1: 12-Hour Preliminary Virtual Round</div><div class="isomer-card-description">Start Time: Saturday, 26th Oct 6pm (UTC+08 Singapore Time)</div><div class="isomer-card-link">REGISTER NOW</div></div></a>
 <div class="isomer-card">
 <div class="isomer-card-body">
 <div class="isomer-card-title">Round 2: 4-Hour Finals (Local teams to attend physically at MBS)</div>
@@ -122,7 +120,7 @@ up before 14<sup>th</sup> October</p>
 <p>For more information, please contact us at <a href="mailto:ctf@tech.gov.sg" rel="noopener noreferrer nofollow" target="_blank">ctf@tech.gov.sg</a>
 </p>
 <p></p>
-<h3>Participation</h3>
+<h3>Event Details</h3>
 <p>The Singapore AI Security CTF is open to all, and the competition is divided
 into two categories:</p>
 <p></p>
