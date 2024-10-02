@@ -249,3 +249,49 @@ on first come first serve basis.</p>
 </details>
 </div>
 <p></p>
+<h3>Frequently Asked Questions</h3>
+<div data-type="detailGroup" class="isomer-accordion isomer-accordion-white">
+<details class="isomer-details">
+<summary><strong>Q: My team is made up of Pre-University Students, can I join the open category?</strong>
+</summary>
+<div data-type="detailsContent" class="isomer-details-content">
+<p>A: Yes, Teams that wish to participate in a more senior category than
+their own, may do so. E.g. A JC team can participate in the Open category.</p>
+</div>
+</details>
+<details class="isomer-details">
+<summary><strong>Q: My team is made up of a participant who is not Singaporean/PR, can I join the pre-university category?</strong>
+</summary>
+<div data-type="detailsContent" class="isomer-details-content">
+<p>A: No. The Pre-University category is only open to Singaporean/PR. We
+will do a verification before prizes are disbursed for such categories
+of prizes. Teams with participants who are not Singaporean/PR are required
+to join Open Category instead.</p>
+</div>
+</details>
+<details class="isomer-details">
+<summary><strong>Q: My team member is unable to make it physically for the 5 November Finals, would I be disqualified?</strong>
+</summary>
+<div data-type="detailsContent" class="isomer-details-content">
+<p>A: We strongly encourage participants under Category 2 (Pre-University)
+to join us for the 5 November Finals. Category 2 Teams with no participants
+on the actual day might be disqualified, as we are disbursing the prizes
+on that day.</p>
+<p></p>
+<p>There is no requirement for Category 1 (Open) teams to attend the 5 November
+Finals. That said, we strongly encourage participants who are based locally
+to join us physically during the 5 November finals.</p>
+</div>
+</details>
+<details class="isomer-details">
+<summary><strong>Q: What if I have more than 4 friends who want to join the competition?</strong>
+</summary>
+<div data-type="detailsContent" class="isomer-details-content">
+<p>A: We strongly encourage you and your friends to divide yourselves into
+teams of up to 4 members. The Organising Committee will require each team
+to comply strictly to this requirement. This is to ensure fair competition
+play and ease of administration for the CTF.</p>
+</div>
+</details>
+</div>
+<p></p>
