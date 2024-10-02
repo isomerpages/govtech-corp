@@ -161,3 +161,91 @@ attend the Final Round. Should any member of the team be unable to attend
 the final round physically, please inform the organiser at <a href="mailto:ctf@tech.gov.sg" rel="noopener noreferrer nofollow" target="_blank">ctf@tech.gov.sg</a>
 </p>
 <p></p>
+<div data-type="detailGroup" class="isomer-accordion isomer-accordion-white">
+<details class="isomer-details">
+<summary><strong>Prizes</strong>
+</summary>
+<div data-type="detailsContent" class="isomer-details-content">
+<p></p>
+<p><strong><u>Open</u></strong>
+</p>
+<p>1st prize | SGD 10,000</p>
+<p>2nd prize | SGD 6,000</p>
+<p>3rd prize | SGD 3,000</p>
+<p></p>
+<p><strong><u>Pre-U (Poly/JC/ITE/IP or equivalent)</u></strong>
+</p>
+<p>1st prize | SGD 5,000</p>
+<p>2nd prize | SGD 3,000</p>
+<p>3rd prize | SGD 1,000</p>
+<p></p>
+</div>
+</details>
+<details class="isomer-details">
+<summary><strong>Competition Categories</strong>
+</summary>
+<div data-type="detailsContent" class="isomer-details-content">
+<p></p>
+<p>The categories of the AI CTF Competition are:</p>
+<p></p>
+<p><strong>1) Data Analysis</strong>
+</p>
+<p>Participants need to utilise various data analysis and visualization tools
+to extract hidden information within a given dataset.</p>
+<p><strong>2) Model Extraction</strong>
+</p>
+<p>Participants use malicious means to extract information of model (e.g.
+parameters, architecture, or training data)</p>
+<p><strong>3) Model Fingerprinting</strong>
+</p>
+<p>Participants must verify watermarks and/or fingerprints in AI models to
+verify it’s authenticity and detect unauthorized copies.</p>
+<p><strong>4) Prompt Injection</strong>
+</p>
+<p>An attack where hackers use a specially crafted input to trick AI into
+disclosing a hidden secret.</p>
+<p><strong>5) Adversarial AI Image</strong>
+</p>
+<p>Attacker injects malicious data into training set causing AI to misclassify
+an image.</p>
+<p><strong>6) Adversarial Audio Generation</strong>
+</p>
+<p>Involves replicating voices and audio using AI.</p>
+<p><strong>7) Model Inversion</strong>
+</p>
+<p>Attacker aims to infer/reconstruct input data based on model outputs.</p>
+<p></p>
+</div>
+</details>
+<details class="isomer-details">
+<summary><strong>Referral Bonus</strong>
+</summary>
+<div data-type="detailsContent" class="isomer-details-content">
+<p>Refer your friends to SG AI CTF and win exclusive goodies!</p>
+<p></p>
+<p>Simply get your referee to key in your team's email in the 'referral section'
+of the SG AI CTF sign up form, and both you and your teams can walk away
+with the following exclusive goodies!</p>
+<p></p>
+<p>1st Referral: Tote Bag</p>
+<p>2nd Referral: Commemorative jaga coin</p>
+<p>3rd Referral: Wireless charger</p>
+<p>4th Referral: Jaga plushie</p>
+<p>5th Referral and above: Limited edition SG AI CTF event shirt</p>
+<p></p>
+<p>Successful referrals will be contacted via email for the collection instructions
+for the goodies</p>
+<p></p>
+<p><strong>Terms of Referral</strong>
+</p>
+<p>1. Collection will be at SG AI CTF event on 5 Nov Event Day at MBS</p>
+<p>2. Members of team must be physically present to collect the merchandise</p>
+<p>3. Goodies will be given in order of referral e.g first team referred
+will receive tote bag each, second team referred will receive jaga coin
+each</p>
+<p>4. Goodies are subject to change depending on availability and will be
+on first come first serve basis.</p>
+</div>
+</details>
+</div>
+<p></p>
