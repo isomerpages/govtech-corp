@@ -9,9 +9,7 @@ description: The Singapore AI CTF 2024 is an upcoming capture-the-flag
 image: /images/media/events/sg_ai_ctf_2024.png
 variant: tiptap
 ---
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Singapore AI CTF 2024" src="/images/media/events/sg_ai_ctf_2024.png">
-</div>
+<a class="isomer-image-wrapper" href="https://go.gov.sg/singaporeaictf"><img style="width: 100%" height="auto" width="100%" alt="Singapore AI CTF 2024" src="/images/media/events/sg_ai_ctf_2024.png"></a>
 <h3>Join Singapore’s first AI Security focused CTF, featuring machine learning security challenges in 7 domains!</h3>
 <p>The AI Security CTF will be held in two rounds – a virtual preliminary
 round, followed by 4-hour finals.</p>
