@@ -163,7 +163,7 @@ into two categories:</p>
 <div class="isomer-card">
 <div class="isomer-card-body">
 <div class="isomer-card-title">Category 2: Pre-University</div>
-<div class="isomer-card-description">All members must be a Singapore Citizen or Permanent Resident and must
+<div class="isomer-card-description">All members must be Singapore Citizens or Permanent Residents and must
 currently be studying in a Pre-University Education Institution based in
 Singapore: Polytechnic, Junior College, Integrated Programme, and Institutes
 of Technical Education</div>
@@ -249,8 +249,12 @@ an image.</p>
 <p>Refer your friends to SG AI CTF and win exclusive goodies!</p>
 <p></p>
 <p>Simply get your referee to key in your team's email in the 'referral section'
-of the SG AI CTF sign up form, and both you and your teams can walk away
-with the following exclusive goodies!</p>
+of the SG AI CTF sign up form (see sample image below), and both you and
+your teams can walk away with the following exclusive goodies!</p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="SG AI CTF 2024 Referral Instructions" src="/images/media/events/referral_ctf.png">
+</div>
 <p></p>
 <p>1st Referral: Tote Bag</p>
 <p>2nd Referral: Commemorative Jaga coin</p>
