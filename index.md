@@ -113,7 +113,7 @@ sections:
             conference connecting Government, industry, and the tech community
             is happening from 6-7 November 2024, with pre-conference workshops
             on 5th November.
-          link_text: Submit Proposals
+          link_text: Find Out More
           link_url: /media/events/govtech-stack-developer-conference-2024/
         - title: Industry Engagement
           date: 14 May 2024
