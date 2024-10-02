@@ -267,8 +267,8 @@ for the goodies</p>
 <p></p>
 <p><strong>Terms of Referral</strong>
 </p>
-<p>1. Collection will be at SG AI CTF event on 5 Nov Event Day at MBS</p>
-<p>2. Members of team must be physically present to collect the merchandise</p>
+<p>1. Collection will be at the SG AI CTF event on 5 Nov Event Day at MBS</p>
+<p>2. Members of the team must be physically present to collect the merchandise</p>
 <p>3. Goodies will be given in order of referral e.g first team referred
 will receive tote bag each, second team referred will receive Jaga coin
 each</p>
@@ -293,7 +293,7 @@ their own, may do so. E.g. A JC team can participate in the Open category.</p>
 <summary><strong>Q: My team is made up of a participant who is not Singaporean/PR, can I join the pre-university category?</strong>
 </summary>
 <div data-type="detailsContent" class="isomer-details-content">
-<p>A: No. The Pre-University category is only open to Singaporean/PR. We
+<p>A: No. The Pre-University category is only open to Singaporeans/PR. We
 will do a verification before prizes are disbursed for such categories
 of prizes. Teams with participants who are not Singaporean/PR are required
 to join Open Category instead.</p>
@@ -319,7 +319,7 @@ to join us physically during the 5 November finals.</p>
 <div data-type="detailsContent" class="isomer-details-content">
 <p>A: We strongly encourage you and your friends to divide yourselves into
 teams of up to 4 members. The Organising Committee will require each team
-to comply strictly to this requirement. This is to ensure fair competition
+to comply strictly with this requirement. This is to ensure fair competition
 play and ease of administration for the CTF.</p>
 </div>
 </details>
