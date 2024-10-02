@@ -105,12 +105,22 @@ up before 14<sup>th</sup> October</p>
 </tbody>
 </table>
 <p></p>
-<p>Please find the Terms and Conditions of the competition <strong><u>here</u></strong>
+<h3>Useful Links</h3>
+<ul data-tight="true" class="tight">
+<li>
+<p><a href="/files/media/Events/Terms_and_Conditions_for_SG_AI_CTF_Competition_.pdf" rel="noopener noreferrer nofollow" target="_blank">Terms and Conditions</a>
 </p>
-<p>Please find the rules of the competition<strong><u> here</u></strong>
+</li>
+<li>
+<p><a href="/files/media/Events/Rules_of_Singapore_AI_CTF_Competition.pdf" rel="noopener noreferrer nofollow" target="_blank">Rules</a>
 </p>
-<p>Please find the Privacy Policy of the competition<strong><u> here</u></strong>
+</li>
+<li>
+<p><a href="/files/media/Events/Privacy_Statement_for_SG_AI_CTF.pdf" rel="noopener noreferrer nofollow" target="_blank">Privacy Statement</a>
 </p>
+</li>
+</ul>
+<p></p>
 <p>For more information, please contact us at <a href="mailto:ctf@tech.gov.sg" rel="noopener noreferrer nofollow" target="_blank">ctf@tech.gov.sg</a>
 </p>
 <p></p>
