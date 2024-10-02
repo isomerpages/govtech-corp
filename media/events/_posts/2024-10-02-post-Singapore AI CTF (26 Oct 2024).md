@@ -10,6 +10,7 @@ image: /images/media/events/sg_ai_ctf_2024.png
 variant: tiptap
 ---
 <a class="isomer-image-wrapper" href="https://go.gov.sg/singaporeaictf"><img style="width: 100%" height="auto" width="100%" alt="Singapore AI CTF 2024" src="/images/media/events/sg_ai_ctf_2024.png"></a>
+<p></p>
 <h3>Join Singapore’s first AI Security focused CTF, featuring machine learning security challenges in 7 domains!</h3>
 <p>The AI Security CTF will be held in two rounds – a virtual preliminary
 round, followed by 4-hour finals.</p>
@@ -213,30 +214,30 @@ the final round physically, please inform the organiser at <a href="mailto:ctf@t
 <p></p>
 <p><strong>1) Data Analysis</strong>
 </p>
-<p>Participants need to utilise various data analysis and visualization tools
+<p>Participants need to utilise various data analysis and visualisation tools
 to extract hidden information within a given dataset.</p>
 <p><strong>2) Model Extraction</strong>
 </p>
-<p>Participants use malicious means to extract information of model (e.g.
-parameters, architecture, or training data)</p>
+<p>Participants use malicious means to extract information from the model
+(e.g. parameters, architecture, or training data)</p>
 <p><strong>3) Model Fingerprinting</strong>
 </p>
 <p>Participants must verify watermarks and/or fingerprints in AI models to
-verify it’s authenticity and detect unauthorized copies.</p>
+verify their authenticity and detect unauthorised copies.</p>
 <p><strong>4) Prompt Injection</strong>
 </p>
 <p>An attack where hackers use a specially crafted input to trick AI into
 disclosing a hidden secret.</p>
 <p><strong>5) Adversarial AI Image</strong>
 </p>
-<p>Attacker injects malicious data into training set causing AI to misclassify
-an image.</p>
+<p>An attacker injects malicious data into the training set causing AI to
+misclassify an image.</p>
 <p><strong>6) Adversarial Audio Generation</strong>
 </p>
 <p>Involves replicating voices and audio using AI.</p>
 <p><strong>7) Model Inversion</strong>
 </p>
-<p>Attacker aims to infer/reconstruct input data based on model outputs.</p>
+<p>An attacker aims to infer/reconstruct input data based on model outputs.</p>
 <p></p>
 </div>
 </details>
@@ -271,7 +272,7 @@ for the goodies</p>
 will receive tote bag each, second team referred will receive Jaga coin
 each</p>
 <p>4. Goodies are subject to change depending on availability and will be
-on first come first serve basis.</p>
+on first come first-served basis.</p>
 </div>
 </details>
 </div>
