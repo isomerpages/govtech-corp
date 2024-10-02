@@ -250,6 +250,7 @@ on first come first serve basis.</p>
 </div>
 <p></p>
 <h3>Frequently Asked Questions</h3>
+<p></p>
 <div data-type="detailGroup" class="isomer-accordion isomer-accordion-white">
 <details class="isomer-details">
 <summary><strong>Q: My team is made up of Pre-University Students, can I join the open category?</strong>
