@@ -29,19 +29,79 @@ variant: tiptap
 <h3>Join Singapore’s first AI Security focused CTF, featuring machine learning security challenges in 7 domains!</h3>
 <p>The AI Security CTF will be held in two rounds – a virtual preliminary
 round, followed by 4-hour finals.</p>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Round</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Details</strong>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Round 1: 12-Hour Preliminary Virtual Round </strong>
+</p>
 <p></p>
-<div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="https://go.gov.sg/singaporeaictf" class="isomer-card"><div class="isomer-card-body"><div class="isomer-card-title">Round 1: 12-Hour Preliminary Virtual Round</div><div class="isomer-card-description">Start Time: Saturday, 26th Oct 6pm (UTC+08 Singapore Time)</div><div class="isomer-card-link">REGISTER NOW</div></div></a>
-<div class="isomer-card">
-<div class="isomer-card-body">
-<div class="isomer-card-title">Round 2: 4-Hour Finals (Local teams to attend physically at MBS)</div>
-<div class="isomer-card-description">Start Time: Tuesday, 5th Nov 1:30pm (UTC+08 Singapore Time) End Time:
-Tuesday, 5th Nov 5:30pm (UTC+08 Singapore Time)</div>
-</div>
-</div>
-</div>
+<p><strong><a href="https://go.gov.sg/singaporeaictf" rel="noopener nofollow" target="_blank">REGISTER NOW</a></strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Start Time: Saturday, 26th Oct 6pm (UTC+08 Singapore Time)</p>
+<p></p>
+<p>End Time: Sunday, 27th October 6am (UTC+08 Singapore Time)</p>
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Round 2: 4-Hour Finals </strong>
+</p>
+<p></p>
+<p>(Local teams to attend physically at MBS)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Start Time: Tuesday, 5th Nov 1:30pm (UTC+08 Singapore Time)</p>
+<p></p>
+<p>End Time: Tuesday, 5th Nov 5:30pm (UTC+08 Singapore Time)</p>
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+</tbody>
+</table>
 <h3>Schedule</h3>
 <p>All dates and times are provided in UTC+08 and are subject to change.</p>
-<p></p>
 <table style="minWidth: 50px">
 <colgroup>
 <col>
