@@ -12,20 +12,6 @@ variant: tiptap
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="Singapore AI CTF 2024" src="/images/media/events/sg_ai_ctf_2024.png">
 </div>
-<p></p>
-<div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="https://go.gov.sg/singaporeaictf" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="AI Security CTF by GovTech" src="/images/media/events/jaga_left.png"></div></div><div class="isomer-card-body"><div class="isomer-card-title">AI Security CTF by GovTech</div><div class="isomer-card-link">Register Now</div></div></a>
-<div class="isomer-card">
-<div class="isomer-card-image">
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="AI Safety CTF by IMDA" src="/images/media/events/jaga_right.png">
-</div>
-</div>
-<div class="isomer-card-body">
-<div class="isomer-card-title">AI Safety CTF by IMDA</div>
-<div class="isomer-card-description">Stay tuned for more info</div>
-</div>
-</div>
-</div>
 <h3>Join Singapore’s first AI Security focused CTF, featuring machine learning security challenges in 7 domains!</h3>
 <p>The AI Security CTF will be held in two rounds – a virtual preliminary
 round, followed by 4-hour finals.</p>
@@ -163,7 +149,6 @@ up before 14<sup>th</sup> October</p>
 <p></p>
 <p>For more information, please contact us at <a href="mailto:ctf@tech.gov.sg" rel="noopener noreferrer nofollow" target="_blank">ctf@tech.gov.sg</a>
 </p>
-<p></p>
 <h3>Event Details</h3>
 <p>The Singapore AI Security CTF is open to all, and the competition is divided
 into two categories:</p>
@@ -268,7 +253,7 @@ of the SG AI CTF sign up form, and both you and your teams can walk away
 with the following exclusive goodies!</p>
 <p></p>
 <p>1st Referral: Tote Bag</p>
-<p>2nd Referral: Commemorative jaga coin</p>
+<p>2nd Referral: Commemorative Jaga coin</p>
 <p>3rd Referral: Wireless charger</p>
 <p>4th Referral: Jaga plushie</p>
 <p>5th Referral and above: Limited edition SG AI CTF event shirt</p>
@@ -281,7 +266,7 @@ for the goodies</p>
 <p>1. Collection will be at SG AI CTF event on 5 Nov Event Day at MBS</p>
 <p>2. Members of team must be physically present to collect the merchandise</p>
 <p>3. Goodies will be given in order of referral e.g first team referred
-will receive tote bag each, second team referred will receive jaga coin
+will receive tote bag each, second team referred will receive Jaga coin
 each</p>
 <p>4. Goodies are subject to change depending on availability and will be
 on first come first serve basis.</p>
