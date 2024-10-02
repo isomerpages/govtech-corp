@@ -31,7 +31,7 @@ security challenges in 7 domains!</p>
 <p>The AI Security CTF will be held in two rounds – a virtual preliminary
 round, followed by 4-hour finals.</p>
 <p></p>
-<h4>Round 1: 12-Hour Preliminary Virtual Round </h4>
+<h4>Round 1: 12-Hour Preliminary Virtual Round</h4>
 <p>Start Time: Saturday, 26<sup>th</sup> Oct 6pm (UTC+08 Singapore Time)</p>
 <p>End Time: Sunday, 27<sup>th</sup> October 6am (UTC+08 Singapore Time)</p>
 <p><strong><a href="https://go.gov.sg/singaporeaictf" rel="noopener nofollow" target="_blank">REGISTER NOW</a></strong>
