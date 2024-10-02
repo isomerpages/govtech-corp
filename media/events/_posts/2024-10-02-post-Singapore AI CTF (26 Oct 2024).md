@@ -77,7 +77,8 @@ round, followed by 4-hour finals.</p>
 </tbody>
 </table>
 <h3>Schedule</h3>
-<p>All dates and times are provided in UTC+08 and are subject to change.</p>
+<p><em>All dates and times are provided in UTC+08 and are subject to change.</em>
+</p>
 <table style="minWidth: 50px">
 <colgroup>
 <col>
