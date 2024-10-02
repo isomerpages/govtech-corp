@@ -296,3 +296,7 @@ play and ease of administration for the CTF.</p>
 </details>
 </div>
 <p></p>
+<h3>Contact Us</h3>
+<p>You may contact us at <a href="mailto:ctf@tech.gov.sg" rel="noopener noreferrer nofollow" target="_blank">ctf@tech.gov.sg</a> should you have further
+queries.</p>
+<p></p>
