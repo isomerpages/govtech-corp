@@ -9,9 +9,9 @@ permalink: /
 notification: ""
 sections:
   - hero:
-      background: /images/Homepage/website_2.png
-      button: REGISTER NOW
-      url: https://go.gov.sg/stack2024-gt
+      background: /images/Homepage/sg_ai_ctf_bg.png
+      button: FIND OUT MORE
+      url: /media/events/singapore-ai-ctf-2024/
       key_highlights:
         - title: For Citizens
           description: Tips, events and stories
@@ -29,7 +29,7 @@ sections:
       size: md
       alignment: left
       backgroundColor: white
-      title: STACK Developer Conference 2024
+      title: Singapore AI CTF 2024
   - infobar:
       title: Government Technology Agency (GovTech)
       subtitle: WHO WE ARE
