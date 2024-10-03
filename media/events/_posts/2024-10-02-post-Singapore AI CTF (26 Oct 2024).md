@@ -11,11 +11,11 @@ variant: tiptap
 ---
 <a class="isomer-image-wrapper" href="https://go.gov.sg/singaporeaictf"><img style="width: 100%" height="auto" width="100%" alt="SG AI CTF 2024 Banner" src="/images/media/events/SG_AI_CTF_Banner_With_Graphics.png"></a>
 <p></p>
-<div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="https://go.gov.sg/singaporeaictf" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="AI Security CTF by GovTech" src="/images/media/events/SG_AI_CTF_Thumbnail_GT.png"></div></div><div class="isomer-card-body"><div class="isomer-card-title">AI Security CTF by GovTech</div><div class="isomer-card-link">REGISTER NOW</div></div></a>
+<div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="https://go.gov.sg/singaporeaictf" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="AI Security CTF by GovTech" src="/images/media/events/SG_AI_CTF_v2_Thumbnail_GT.png"></div></div><div class="isomer-card-body"><div class="isomer-card-title">AI Security CTF by GovTech</div><div class="isomer-card-link">REGISTER NOW</div></div></a>
 <div class="isomer-card">
 <div class="isomer-card-image">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="AI Safety CTF by IMDA" src="/images/media/events/SG_AI_CTF_Thumbnail_IMDA.png">
+<img style="width: 100%" height="auto" width="100%" alt="AI Safety CTF by IMDA" src="/images/media/events/SG_AI_CTF_v2_Thumbnail_IMDA.png">
 </div>
 </div>
 <div class="isomer-card-body">
