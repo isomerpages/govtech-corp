@@ -309,12 +309,35 @@ Digital Transformation</div>
 <div class="isomer-card">
 <div class="isomer-card-image">
 <div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Mr Chong Rong Hwa" src="/images/our-team/Chong_Rong_Hwa.png">
+</div>
+</div>
+<div class="isomer-card-body">
+<div class="isomer-card-title">Mr CHONG Rong Hwa</div>
+<div class="isomer-card-description">Senior Director, Engineering Cluster, Cybersecurity</div>
+</div>
+</div>
+<div class="isomer-card">
+<div class="isomer-card-image">
+<div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="GovTech leader Vlastimil Chvojka" src="/images/About Us/Vlastimil_CHVOJKA.jpg">
 </div>
 </div>
 <div class="isomer-card-body">
 <div class="isomer-card-title">Mr Vlastimil CHVOJKA</div>
 <div class="isomer-card-description">Senior Director, Apps Products, Government Digital Products</div>
+</div>
+</div>
+<div class="isomer-card">
+<div class="isomer-card-image">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Mr Eyung Lim" src="/images/our-team/Eyung_Lim_GT.png">
+</div>
+</div>
+<div class="isomer-card-body">
+<div class="isomer-card-title">Mr Eyung LIM</div>
+<div class="isomer-card-description">Senior Director, Apps (Digital Society) and Social Platform Products,
+Government Digital Products</div>
 </div>
 </div>
 <div class="isomer-card">
