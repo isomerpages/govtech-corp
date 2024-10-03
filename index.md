@@ -26,7 +26,7 @@ sections:
           description: Productivity and collaboration
           url: /for-government-agencies
       variant: floating
-      size: sm
+      size: md
       alignment: left
       backgroundColor: gray
       title: Singapore AI CTF 2024
