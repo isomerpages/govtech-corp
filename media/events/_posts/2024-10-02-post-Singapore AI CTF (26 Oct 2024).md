@@ -313,7 +313,7 @@ to join Open Category instead.</p>
 </div>
 </details>
 <details class="isomer-details">
-<summary><strong>Q: My team member is unable to make it physically for the 5<sup>th</sup>  November Finals, would I be disqualified?</strong>
+<summary><strong>Q: My team member is unable to make it physically for the 5<sup>th</sup> November Finals, would I be disqualified?</strong>
 </summary>
 <div data-type="detailsContent" class="isomer-details-content">
 <p>A: We strongly encourage participants under Category 2 (Pre-University)
