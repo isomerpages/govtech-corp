@@ -206,15 +206,15 @@ the final round physically, please inform the organiser at <a href="mailto:ctf@t
 <p></p>
 <p><strong><u>Open</u></strong>
 </p>
-<p>1st prize | SGD 10,000</p>
-<p>2nd prize | SGD 6,000</p>
-<p>3rd prize | SGD 3,000</p>
+<p>1<sup>st</sup> prize | SGD 10,000</p>
+<p>2<sup>nd</sup> prize | SGD 6,000</p>
+<p>3<sup>rd</sup> prize | SGD 3,000</p>
 <p></p>
 <p><strong><u>Pre-U (Poly/JC/ITE/IP or equivalent)</u></strong>
 </p>
-<p>1st prize | SGD 5,000</p>
-<p>2nd prize | SGD 3,000</p>
-<p>3rd prize | SGD 1,000</p>
+<p>1<sup>st</sup> prize | SGD 5,000</p>
+<p>2<sup>nd</sup> prize | SGD 3,000</p>
+<p>3<sup>rd</sup> prize | SGD 1,000</p>
 <p></p>
 </div>
 </details>
