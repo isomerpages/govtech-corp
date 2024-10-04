@@ -57,7 +57,6 @@ in Singapore are designed to be seamless, secure, and inclusive.</p>
 and used data to rank 141 cities by how they use technology to address
 the city’s challenges and improve the quality of life for its residents.&nbsp;</p>
 <p>Zurich, Oslo and Canberra were the top three cities respectively.</p>
-<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="Singapore ranked as 5th in the IMD Smart Cities index 2024" src="/images/About Us/Our Achievements/IMD2024_top_10_copy.jpg">
 </div>
