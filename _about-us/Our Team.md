@@ -413,6 +413,17 @@ Services</div>
 <div class="isomer-card">
 <div class="isomer-card-image">
 <div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Nicholas Bok" src="/images/our-team/Nicholas_Bok.png">
+</div>
+</div>
+<div class="isomer-card-body">
+<div class="isomer-card-title">Mr Nicholas BOK</div>
+<div class="isomer-card-description">Director, Internal Audit</div>
+</div>
+</div>
+<div class="isomer-card">
+<div class="isomer-card-image">
+<div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="Mr CHEN Kaiwei" src="/images/our-team/Mr_Chen_Kaiwei.png">
 </div>
 </div>
