@@ -45,7 +45,7 @@ round, followed by 4-hour finals.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>Round 1: 12-Hour Preliminary Virtual Round</strong>
+<p><strong>Round 1: 48-Hour Preliminary Virtual Round</strong>
 </p>
 <p></p>
 <p><strong><a href="https://go.gov.sg/singaporeaictf" rel="noopener nofollow" target="_blank">REGISTER NOW</a></strong>
