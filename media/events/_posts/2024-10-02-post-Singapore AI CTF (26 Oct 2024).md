@@ -45,7 +45,7 @@ round, followed by 4-hour finals.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>Round 1: </strong>
+<p><strong>Round 1:</strong>
 </p>
 <p><strong>48-Hour Preliminary Virtual Round</strong>
 </p>
@@ -62,7 +62,7 @@ round, followed by 4-hour finals.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>Round 2: </strong>
+<p><strong>Round 2:</strong>
 </p>
 <p><strong>4-Hour Finals</strong>
 </p>
