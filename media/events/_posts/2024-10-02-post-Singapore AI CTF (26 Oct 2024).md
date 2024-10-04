@@ -279,7 +279,8 @@ for the goodies</p>
 <p></p>
 <p><strong>Terms of Referral</strong>
 </p>
-<p>1. Collection will be at the SG AI CTF event on 5 Nov Event Day at MBS</p>
+<p>1. Collection will be at the SG AI CTF event on 5<sup>th</sup> November
+Event Day at MBS</p>
 <p>2. Members of the team must be physically present to collect the merchandise</p>
 <p>3. Goodies will be given in order of referral e.g first team referred
 will receive tote bag each, second team referred will receive Jaga coin
@@ -312,15 +313,15 @@ to join Open Category instead.</p>
 </div>
 </details>
 <details class="isomer-details">
-<summary><strong>Q: My team member is unable to make it physically for the 5 November Finals, would I be disqualified?</strong>
+<summary><strong>Q: My team member is unable to make it physically for the 5<sup>th</sup>  November Finals, would I be disqualified?</strong>
 </summary>
 <div data-type="detailsContent" class="isomer-details-content">
 <p>A: We strongly encourage participants under Category 2 (Pre-University)
-to join us for the 5 November Finals. Category 2 Teams with no participants
-on the actual day might be disqualified, as we are disbursing the prizes
-on that day.</p>
+to join us for the 5<sup>th</sup> November Finals. Category 2 Teams with
+no participants on the actual day might be disqualified, as we are disbursing
+the prizes on that day.</p>
 <p></p>
-<p>There is no requirement for Category 1 (Open) teams to attend the 5 November
+<p>There is no requirement for Category 1 (Open) teams to attend the 5<sup>th</sup> November
 Finals. That said, we strongly encourage participants who are based locally
 to join us physically during the 5 November finals.</p>
 </div>
