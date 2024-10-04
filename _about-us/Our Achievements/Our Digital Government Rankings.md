@@ -17,22 +17,39 @@ image: /images/About Us/Our
 <p>Nations all over the world look up to Singapore for its innovative digital
 government, made possible through our Smart Nation drive.</p>
 <h3>Our ranking in the United Nations e-Government Survey</h3>
-<p>Singapore was ranked 12<sup>th</sup> in the world in 2022 as part of the
-<a href="https://publicadministration.un.org/egovkb/en-us/Reports/UN-E-Government-Survey-2022" rel="noopener noreferrer nofollow" target="_blank">United Nations e-Government Survey</a>— an assessment that measures the
-development of all 193 United Nations member states.</p>
+<p>Singapore was ranked 3<sup>rd </sup>in the world in 2024 as part of the
+<a href="https://publicadministration.un.org/egovkb/en-us/Reports/UN-E-Government-Survey-2024" rel="noopener noreferrer nofollow" target="_blank">United Nations e-Government Survey</a>, which provides a comprehensive
+assessment of the digital government landscape across all 193 Member States.</p>
 <p>The survey is published biennially and recognises that each country pursues
-e-Government initiatives to realise its own national development goals.</p>
-<p>Denmark and Finland were the top two leading countries in e-Government
-development.</p>
-<p></p>
+e-Government initiatives to realise its own national development goals.
+Denmark and Estonia were the top two leading countries in 2024's e-Government
+development assessment.</p>
+<p>Singapore has been recognised for its long-standing leadership in digital
+governance, driven by several key factors:</p>
+<ul data-tight="true" class="tight">
+<li>
+<p><strong>Advanced Digital Infrastructure</strong>: Singapore has built
+a robust and sophisticated digital infrastructure, ensuring high accessibility
+and efficiency in digital government services.</p>
+</li>
+<li>
+<p><strong>Adoption of Cutting-Edge Technologies:</strong> Singapore leverages
+innovative technologies like AI and IoT to enhance public service delivery.</p>
+</li>
+<li>
+<p><strong>Strong Regulatory Frameworks</strong>: Singapore's digital development
+is guided by well-established policies and strategic plans, ensuring sustainable
+and secure growth in digital government.</p>
+</li>
+<li>
+<p><strong>Citizen Engagement and Inclusiveness:</strong> The digital services
+in Singapore are designed to be seamless, secure, and inclusive.</p>
+</li>
+</ul>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Global ranking Singapore 12th place for UN e-government survey" src="/images/About Us/Our Achievements/Compressed__UN__Global_ranking.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="UN e-Gov 2024 Global Ranking" src="/images/About Us/Our Achievements/UN_eGov_2024_global_ranking.png">
 </div>
-<p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Singapore Asia region ranking UN e-government survey" src="/images/About Us/Our Achievements/Compressed_UN_Asia_Region_ranking.jpg">
-</div>
-<p><em>Screenshots taken from <a href="https://publicadministration.un.org/egovkb/en-us/Reports/UN-E-Government-Survey-2022#0" rel="noopener noreferrer nofollow" target="_blank">UN E-Government Survey 2022 Infographics</a></em>.</p>
+<p><em>Screenshot taken from <a href="https://publicadministration.un.org/egovkb/en-us/Reports/UN-E-Government-Survey-2024#0" rel="noopener noreferrer nofollow" target="_blank">UN E-Government Survey 2024 Infographics</a></em>.</p>
 <h3>Singapore’s Smart City ranking</h3>
 <p>Singapore came 5<sup>th</sup> in the world and 1st in Asia as part of the
 <a href="https://www.imd.org/smart-city-observatory/home/" rel="noopener noreferrer nofollow" target="_blank">IMD Smart Cities Index</a>in 2024.&nbsp;</p>
@@ -40,7 +57,6 @@ development.</p>
 and used data to rank 141 cities by how they use technology to address
 the city’s challenges and improve the quality of life for its residents.&nbsp;</p>
 <p>Zurich, Oslo and Canberra were the top three cities respectively.</p>
-<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="Singapore ranked as 5th in the IMD Smart Cities index 2024" src="/images/About Us/Our Achievements/IMD2024_top_10_copy.jpg">
 </div>
