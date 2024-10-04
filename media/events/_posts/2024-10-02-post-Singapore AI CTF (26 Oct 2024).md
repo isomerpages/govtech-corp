@@ -52,9 +52,9 @@ round, followed by 4-hour finals.</p>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Start Time: Saturday, 26th Oct 6pm (UTC+08 Singapore Time)</p>
+<p>Start Time: Saturday, 26<sup>th</sup> Oct 8am (UTC+08 Singapore Time)</p>
 <p></p>
-<p>End Time: Sunday, 27th October 6am (UTC+08 Singapore Time)</p>
+<p>End Time: Monday, 28<sup>th</sup> October 8am (UTC+08 Singapore Time)</p>
 <p></p>
 </td>
 </tr>
@@ -66,9 +66,9 @@ round, followed by 4-hour finals.</p>
 <p>(Local teams to attend physically at MBS)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Start Time: Tuesday, 5th Nov 1:30pm (UTC+08 Singapore Time)</p>
+<p>Start Time: Tuesday, 5<sup>th</sup> Nov 1:30pm (UTC+08 Singapore Time)</p>
 <p></p>
-<p>End Time: Tuesday, 5th Nov 5:30pm (UTC+08 Singapore Time)</p>
+<p>End Time: Tuesday, 5<sup>th</sup> Nov 5:30pm (UTC+08 Singapore Time)</p>
 <p></p>
 </td>
 </tr>
