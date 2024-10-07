@@ -75,19 +75,7 @@ would affect GovTech’s ability to attract, recruit, develop and retain
 diverse talent.</p>
 <h3>Be a part of a Women in Tech community</h3>
 <p>There is strength in numbers, so we urge all women in tech - and allies
-- to join a community - be it one at your workplace or in the industry.
-Here are some industry communities or initiatives you could join or get
-involved in:</p>
-<ul data-tight="true" class="tight">
-<li>
-<p><a href="https://www.scs.org.sg/communities/women-in-technology" class="editor-rtfLink" rel="noopener noreferrer nofollow" target="_blank">Singapore Computer Society Women in Tech Chapter</a>
-</p>
-</li>
-<li>
-<p><a href="https://www.sgwomenintech.sg/" class="editor-rtfLink" rel="noopener noreferrer nofollow" target="_blank">SG Women in Tech</a>
-</p>
-</li>
-</ul>
+- to join a community - be it one at your workplace or in the industry.</p>
 <p>In the meantime, membership to our own WiG ERG continues to grow, with
 more activities being organised to provide support for career growth and
 build a trusted internal community. One such activity is a monthly series,
