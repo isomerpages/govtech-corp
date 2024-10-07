@@ -72,7 +72,7 @@ that aid in the registration of disposal vehicles, online billing, data
 analysis, and even seamless retrieval of licence information. These capabilities
 have allowed NEA to improve overall operational efficiency in the waste
 disposal process.</p>
-<p>Thanks to the system, Singapore is closer to the realisation of its&nbsp;
+<p>Thanks to the system, Singapore is closer to the realisation of its
 <a href="https://www.zerowastesg.com/" class="editor-rtfLink" rel="noopener noreferrer nofollow" target="_blank">national Zero-Waste plan</a>.</p>
 <ul data-tight="true" class="tight">
 <li>
