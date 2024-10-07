@@ -30,8 +30,8 @@ from every corner of the world.</p>
 <p>What’s more, the award nominations are made by experts who know the industry
 best – the national and regional WITSA ICT industry associations. Winners
 are selected by an independent panel of judges comprising industry leaders.</p>
-<p>This year’s edition was held on 13th November in conjunction with the&nbsp;
-<a href="https://www.wcit2021.org.bd/" class="editor-rtfLink" rel="noopener noreferrer nofollow" target="_blank">World Congress on IT</a>&nbsp;in Dhaka.</p>
+<p>This year’s edition was held on 13th November in conjunction with the
+World Congress on IT&nbsp;in Dhaka.</p>
 <h3>What did GovTech win?</h3>
 <p>A diverse slate of projects – ranging from education to eldercare, waste
 management to document authentication – was honoured. Three were named
