@@ -57,7 +57,7 @@ Development and Information (MDDI)</div>
 <div class="isomer-card">
 <div class="isomer-card-image">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Mr Derrick GOH" src="/images/About Us/DERRICK_Goh.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="Mr Derrick GOH" src="/images/our-team/Mr_Derrick_Goh.png">
 </div>
 </div>
 <div class="isomer-card-body">
@@ -79,7 +79,7 @@ Development and Information (MDDI)</div>
 <div class="isomer-card">
 <div class="isomer-card-image">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Ms Stacey N. LACY" src="/images/About Us/Stacey_N__LACY.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="Ms Stacey N. LACY" src="/images/our-team/Ms_Stacey_Lacy.png">
 </div>
 </div>
 <div class="isomer-card-body">
