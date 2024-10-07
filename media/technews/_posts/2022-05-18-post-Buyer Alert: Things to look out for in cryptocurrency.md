@@ -26,8 +26,8 @@ and akin to investing in risky financial products, so know what you are
 signing up for.</p>
 <p>Seemingly stable cryptocurrency-related businesses can also fold with
 little notice, as happened to the cryptocurrency trading platform Torque.
-It was paying out monetary rewards like “clockwork” (as&nbsp;<a href="https://www.channelnewsasia.com/cnainsider/get-rich-quick-avoid-cryptocurrency-scams-losses-investment-risk-2079181" class="editor-rtfLink" rel="noopener noreferrer nofollow" target="_blank">one investor described it</a>)
-until it suddenly stopped, leaving investors in the lurch.</p>
+It was paying out monetary rewards like clockwork until it suddenly stopped,
+leaving investors in the lurch.</p>
 <p>The man who ran the company says&nbsp;<a href="https://www.straitstimes.com/business/companies-markets/at-least-70-police-reports-filed-against-singaporean-run-crypto-trading" class="editor-rtfLink" rel="noopener noreferrer nofollow" target="_blank">Torque’s</a>&nbsp;downfall
 was due to a rogue employee executing unauthorised trades that cost the
 firm significant losses, but it’s still unclear what exactly went down,
