@@ -43,7 +43,6 @@ test, and deploy AI/ML models.</p>
 <p>As a readily available AI/ML Ops environment, any agency can work on their
 data projects right away without the need for them to expend additional
 time and effort to develop equivalent systems on their own.</p>
-<p></p>
 <div class="iframe-wrapper">
 <iframe style="max-width: 100%;" height="400" width="100%" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/I71256PwRU8?si=gEE50cGg6eE1ELrK"></iframe>
 </div>
@@ -91,7 +90,7 @@ and accelerate machine learning innovation real-time co-working capabilities."</
 <p>~ Jeffrey Chai, Product Manager</p>
 <h3>How to use AG?</h3>
 <p>Public officers can visit the <a href="https://www.developer.tech.gov.sg/products/categories/analytics/analytics-gov/getting-started" rel="noopener noreferrer nofollow" target="_blank">Singapore Government Developer Portal</a> to
-get started with Analytics.gov or head over to <a href="https://analytics.gov.sg" rel="noopener noreferrer nofollow" target="_blank">https://analytics.gov.sg</a> (accessible
+get started with Analytics.gov or head over to <a href="https://www.analytics.gov.sg/" rel="noopener noreferrer nofollow" target="_blank">Analytics.gov</a> website (accessible
 only via the government intranet).</p>
 <h3>What's the latest on AG?&nbsp;</h3>
 <p>AG introduced MLOps capabilities with Amazon SageMaker Studio, allowing

@@ -17,8 +17,8 @@ structuring of code into discrete modules — for granted.</p>
 <p>This modular structure makes code more manageable, and prevents changes
 made to one part of a programme from having unintended consequences on
 other parts.</p>
-<p>But this method of programming didn’t always exist — and we have <a href="http://www.pmg.csail.mit.edu/~liskov/" rel="noopener noreferrer nofollow" target="_blank">Barbara Liskov</a> to
-thank for inventing it.</p>
+<p>But this method of programming didn’t always exist — and we have Barbara
+Liskov to thank for inventing it.</p>
 <p>While at the Massachusetts Institute of Technology (MIT) in the 1970s,
 she developed the fundamental concepts of data abstraction and modular
 programming — ideas which have since influenced all mainstream programming

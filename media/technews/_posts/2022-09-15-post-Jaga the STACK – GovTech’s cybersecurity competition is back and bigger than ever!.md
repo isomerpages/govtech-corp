@@ -71,7 +71,6 @@ friends to take part this year. “The competition is a good chance for them
 to showcase skills they’ve learnt in and out of school. The challenges
 were rewarding, and this would be a good chance for students like us to
 gain more exposure in the field.”</p>
-<p>Find out more about&nbsp;<a href="https://jts.tech.gov.sg/" class="editor-rtfLink" rel="noopener noreferrer nofollow" target="_blank">Jaga the STACK</a>.</p>
 <h3>Competition dates:</h3>
 <p>STACK the Codes Hackathon: 7 Oct to 15 Nov 2022</p>
 <p>STACK the Flags: 2 to 4 Dec 2022</p>

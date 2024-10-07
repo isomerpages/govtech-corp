@@ -45,9 +45,9 @@ three accepts applications in January and August every year.</p>
 <p>While many full time national servicemen (NSFs) today are proud to be
 contributing to the military and civil defence of our country, there is
 still the concern of lagging behind in their studies and careers due to
-the two years in uniform. To address this, the&nbsp;<a href="https://www.ns.gov.sg/web/profiles/nsf/impt-full-time-ns-info#continual-learning-during-ns" class="editor-rtfLink" rel="noopener noreferrer nofollow" target="_blank">SkillsFuture@NS Learning eXperience Platform</a>&nbsp;was
-launched in November 2022, giving NSFs free unlimited access to over 75,000
-online courses in about 135 categories.</p>
+the two years in uniform. To address this, the&nbsp;SkillsFuture@NS Learning
+eXperience Platform was launched in November 2022, giving NSFs free unlimited
+access to over 75,000 online courses in about 135 categories.</p>
 <p>Skills that they can pick up include Python programming, machine learning,
 management training, and digital photography.</p>
 <p>Some of the courses can also be used for credit exemptions at institutes
