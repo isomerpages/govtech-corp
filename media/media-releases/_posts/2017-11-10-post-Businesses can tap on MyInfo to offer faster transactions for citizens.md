@@ -88,8 +88,7 @@ in order&nbsp;to&nbsp;make our lives more&nbsp;convenient, and our economy
 more&nbsp;productive, through more efficient government and business processes.
 But beyond that, a Smart Nation is about creating new opportunities in
 a digital&nbsp;age, and transforming the way&nbsp;people live, work and&nbsp;play,&nbsp;so&nbsp;that&nbsp;Singapore
-remains an outstanding global city.&nbsp;For more information, please visit
-<a href="https://www.ndi-api.gov.sg/library/trusted-data/myinfo/introduction" rel="noopener noreferrer nofollow" target="_blank">www.smartnation.sg</a>.</p>
+remains an outstanding global city.&nbsp;</p>
 <h4>About Government Technology Agency of Singapore</h4>
 <p>The Government Technology Agency of Singapore (GovTech) is a statutory
 board formed in October 2016 after the restructuring of the Infocomm Development
