@@ -292,6 +292,18 @@ Corporate &amp; Governance</div>
 <div class="isomer-card">
 <div class="isomer-card-image">
 <div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Ms Peggy MAH" src="/images/our-team/Peggy_Mah.png">
+</div>
+</div>
+<div class="isomer-card-body">
+<div class="isomer-card-title">Ms Peggy MAH</div>
+<div class="isomer-card-description">Senior Director, Culture, Community &amp; Youth Cluster, Central Administration
+&amp; Social, Government Digital Transformation</div>
+</div>
+</div>
+<div class="isomer-card">
+<div class="isomer-card-image">
+<div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="GovTech leader Kevin Ng" src="/images/About Us/Kevin_NG.jpg">
 </div>
 </div>
