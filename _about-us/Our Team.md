@@ -6,7 +6,7 @@ description: Get to know the leaders and heads of GovTech, who are at the
 variant: tiptap
 image: /images/About Us/GovTechSg_True_Inline_Logo_2_Cyan.jpg
 ---
-<h2>Board of Directors</h2>
+<h3>Board of Directors</h3>
 <div class="isomer-card-grid">
 <div class="isomer-card">
 <div class="isomer-card-image">
@@ -42,12 +42,10 @@ image: /images/About Us/GovTechSg_True_Inline_Logo_2_Cyan.jpg
 Government Group)</div>
 </div>
 </div>
-</div>
-<div class="isomer-card-grid">
 <div class="isomer-card">
 <div class="isomer-card-image">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="GovTech leader Chng Kai Fong" src="/images/About Us/CHNG_Kai_Fong.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="Mr CHNG Kai Fong" src="/images/About Us/CHNG_Kai_Fong.jpg">
 </div>
 </div>
 <div class="isomer-card-body">
@@ -59,18 +57,7 @@ Development and Information (MDDI)</div>
 <div class="isomer-card">
 <div class="isomer-card-image">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="GovTech leader Bojan Blecic" src="/images/About Us/Bojan_BLECIC.jpg">
-</div>
-</div>
-<div class="isomer-card-body">
-<div class="isomer-card-title">Mr Bojan BLECIC</div>
-<div class="isomer-card-description">Senior Vice President/Head Of Experience Design, OCBC Bank</div>
-</div>
-</div>
-<div class="isomer-card">
-<div class="isomer-card-image">
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="GovTech leader Derrick Goh" src="/images/our-team/Mr_Derrick_Goh.png">
+<img style="width: 100%" height="auto" width="100%" alt="Mr Derrick GOH" src="/images/our-team/Mr_Derrick_Goh.png">
 </div>
 </div>
 <div class="isomer-card-body">
@@ -78,23 +65,10 @@ Development and Information (MDDI)</div>
 <div class="isomer-card-description">Managing Director And Head Of Group Audit, DBS Bank</div>
 </div>
 </div>
-</div>
-<div class="isomer-card-grid">
 <div class="isomer-card">
 <div class="isomer-card-image">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="GovTech leader Lesly Goh" src="/images/About Us/Lesly_GOH.jpg">
-</div>
-</div>
-<div class="isomer-card-body">
-<div class="isomer-card-title">Ms Lesly GOH</div>
-<div class="isomer-card-description">Senior Technology Advisor, World Bank</div>
-</div>
-</div>
-<div class="isomer-card">
-<div class="isomer-card-image">
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="GovTech leader Ho Teck Hua" src="/images/About Us/HO_Teck_Hua.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="Prof HO Teck Hua" src="/images/About Us/HO_Teck_Hua.jpg">
 </div>
 </div>
 <div class="isomer-card-body">
@@ -105,31 +79,7 @@ Development and Information (MDDI)</div>
 <div class="isomer-card">
 <div class="isomer-card-image">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="GovTech leader Melissa Khoo" src="/images/About Us/Melissa_KHOO.jpg">
-</div>
-</div>
-<div class="isomer-card-body">
-<div class="isomer-card-title">Ms Melissa KHOO</div>
-<div class="isomer-card-description">Chief Executive Officer, Central Provident Fund Board</div>
-</div>
-</div>
-</div>
-<div class="isomer-card-grid">
-<div class="isomer-card">
-<div class="isomer-card-image">
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="GovTech leader David Koh" src="/images/About Us/David_KOH.jpg">
-</div>
-</div>
-<div class="isomer-card-body">
-<div class="isomer-card-title">Mr David KOH</div>
-<div class="isomer-card-description">Chief Executive, Cyber Security Agency, Prime Minister’s Office (PMO)</div>
-</div>
-</div>
-<div class="isomer-card">
-<div class="isomer-card-image">
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="GovTech leader Stacey N. Lacy" src="/images/our-team/Ms_Stacey_Lacy.png">
+<img style="width: 100%" height="auto" width="100%" alt="Ms Stacey N. LACY" src="/images/our-team/Ms_Stacey_Lacy.png">
 </div>
 </div>
 <div class="isomer-card-body">
@@ -141,20 +91,7 @@ Citi</div>
 <div class="isomer-card">
 <div class="isomer-card-image">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="GovTech leader Lew Chuen Hong" src="/images/About Us/LEW_Chuen_Hong.jpg">
-</div>
-</div>
-<div class="isomer-card-body">
-<div class="isomer-card-title">Mr LEW Chuen Hong</div>
-<div class="isomer-card-description">Chief Executive, Infocomm Media Development Authority (IMDA)</div>
-</div>
-</div>
-</div>
-<div class="isomer-card-grid">
-<div class="isomer-card">
-<div class="isomer-card-image">
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="GovTech leader Liew Nam Soon" src="/images/About Us/LIEW_Nam_Soon.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="Mr LIEW Nam Soon" src="/images/About Us/LIEW_Nam_Soon.jpg">
 </div>
 </div>
 <div class="isomer-card-body">
@@ -166,7 +103,7 @@ EY</div>
 <div class="isomer-card">
 <div class="isomer-card-image">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="GovTech leader Shonn Mills" src="/images/our-team/Mr_Shonn_Mills.png">
+<img style="width: 100%" height="auto" width="100%" alt="Mr Shonn MILLS" src="/images/About Us/Shonn_MILLS.jpg">
 </div>
 </div>
 <div class="isomer-card-body">
@@ -177,7 +114,7 @@ EY</div>
 <div class="isomer-card">
 <div class="isomer-card-image">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="GovTech leader Noah Pepper" src="/images/our-team/Mr_Noah_Pepper.png">
+<img style="width: 100%" height="auto" width="100%" alt="Mr Noah PEPPER" src="/images/our-team/Mr_Noah_Pepper.png">
 </div>
 </div>
 <div class="isomer-card-body">
@@ -188,7 +125,7 @@ EY</div>
 <div class="isomer-card">
 <div class="isomer-card-image">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="GovTech leader Vaishali Rastogi" src="/images/About Us/Vaishali_RASTOGI.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="Ms Vaishali RASTOGI" src="/images/About Us/Vaishali_RASTOGI.jpg">
 </div>
 </div>
 <div class="isomer-card-body">
@@ -350,6 +287,18 @@ Government Digital Products</div>
 <div class="isomer-card-title">Mr LIM Thian Chin</div>
 <div class="isomer-card-description">Chief Risk Officer &amp; Senior Director, Digital Governance, Strategy,
 Corporate &amp; Governance</div>
+</div>
+</div>
+<div class="isomer-card">
+<div class="isomer-card-image">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Ms Peggy MAH" src="/images/our-team/Peggy_Mah.png">
+</div>
+</div>
+<div class="isomer-card-body">
+<div class="isomer-card-title">Ms Peggy MAH</div>
+<div class="isomer-card-description">Senior Director, Culture, Community &amp; Youth Cluster, Central Administration
+&amp; Social, Government Digital Transformation</div>
 </div>
 </div>
 <div class="isomer-card">

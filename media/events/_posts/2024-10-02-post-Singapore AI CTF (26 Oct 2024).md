@@ -54,7 +54,7 @@ round, followed by 4-hour finals.</p>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Start Time: Saturday, 26<sup>th</sup> Oct 8am (UTC+08 Singapore Time)</p>
+<p>Start Time: Saturday, 26<sup>th</sup> October 8am (UTC+08 Singapore Time)</p>
 <p></p>
 <p>End Time: Monday, 28<sup>th</sup> October 8am (UTC+08 Singapore Time)</p>
 <p></p>
@@ -67,12 +67,12 @@ round, followed by 4-hour finals.</p>
 <p><strong>4-Hour Finals</strong>
 </p>
 <p></p>
-<p>(Local teams to attend physically at MBS)</p>
+<p>(Local teams to attend physically at Marina Bay Sands)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Start Time: Tuesday, 5<sup>th</sup> Nov 1:30pm (UTC+08 Singapore Time)</p>
+<p>Start Time: Tuesday, 5<sup>th</sup> November 1:30pm (UTC+08 Singapore Time)</p>
 <p></p>
-<p>End Time: Tuesday, 5<sup>th</sup> Nov 5:30pm (UTC+08 Singapore Time)</p>
+<p>End Time: Tuesday, 5<sup>th</sup> November 5:30pm (UTC+08 Singapore Time)</p>
 <p></p>
 </td>
 </tr>
@@ -123,7 +123,7 @@ up before 14<sup>th</sup> October</p>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>26<sup>th</sup> October 6:00pm - 27<sup>th</sup> October 6:00am</p>
+<p>26<sup>th</sup> October 8am to 28<sup>th</sup> October 8am</p>
 </td>
 </tr>
 <tr>
