@@ -6,7 +6,7 @@ description: Get to know the leaders and heads of GovTech, who are at the
 variant: tiptap
 image: /images/About Us/GovTechSg_True_Inline_Logo_2_Cyan.jpg
 ---
-<h2>Board of Directors</h2>
+<h3>Board of Directors</h3>
 <div class="isomer-card-grid">
 <div class="isomer-card">
 <div class="isomer-card-image">
@@ -45,7 +45,7 @@ Government Group)</div>
 <div class="isomer-card">
 <div class="isomer-card-image">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Mr CHNG Kai Fong" src="https://placehold.co/600x400">
+<img style="width: 100%" height="auto" width="100%" alt="Mr CHNG Kai Fong" src="/images/About Us/CHNG_Kai_Fong.jpg">
 </div>
 </div>
 <div class="isomer-card-body">
@@ -57,7 +57,7 @@ Development and Information (MDDI)</div>
 <div class="isomer-card">
 <div class="isomer-card-image">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Mr Derrick GOH" src="https://placehold.co/600x400">
+<img style="width: 100%" height="auto" width="100%" alt="Mr Derrick GOH" src="/images/About Us/DERRICK_Goh.jpg">
 </div>
 </div>
 <div class="isomer-card-body">
@@ -68,7 +68,7 @@ Development and Information (MDDI)</div>
 <div class="isomer-card">
 <div class="isomer-card-image">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Prof HO Teck Hua" src="https://placehold.co/600x400">
+<img style="width: 100%" height="auto" width="100%" alt="Prof HO Teck Hua" src="/images/About Us/HO_Teck_Hua.jpg">
 </div>
 </div>
 <div class="isomer-card-body">
@@ -79,7 +79,7 @@ Development and Information (MDDI)</div>
 <div class="isomer-card">
 <div class="isomer-card-image">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Ms Stacey N. LACY" src="https://placehold.co/600x400">
+<img style="width: 100%" height="auto" width="100%" alt="Ms Stacey N. LACY" src="/images/About Us/Stacey_N__LACY.jpg">
 </div>
 </div>
 <div class="isomer-card-body">
@@ -91,7 +91,7 @@ Citi</div>
 <div class="isomer-card">
 <div class="isomer-card-image">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Mr LIEW Nam Soon" src="https://placehold.co/600x400">
+<img style="width: 100%" height="auto" width="100%" alt="Mr LIEW Nam Soon" src="/images/About Us/LIEW_Nam_Soon.jpg">
 </div>
 </div>
 <div class="isomer-card-body">
@@ -103,7 +103,7 @@ EY</div>
 <div class="isomer-card">
 <div class="isomer-card-image">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Mr Shonn MILLS" src="https://placehold.co/600x400">
+<img style="width: 100%" height="auto" width="100%" alt="Mr Shonn MILLS" src="/images/About Us/Shonn_MILLS.jpg">
 </div>
 </div>
 <div class="isomer-card-body">
@@ -114,7 +114,7 @@ EY</div>
 <div class="isomer-card">
 <div class="isomer-card-image">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Mr Noah PEPPER" src="https://placehold.co/600x400">
+<img style="width: 100%" height="auto" width="100%" alt="Mr Noah PEPPER" src="/images/our-team/Mr_Noah_Pepper.png">
 </div>
 </div>
 <div class="isomer-card-body">
@@ -125,7 +125,7 @@ EY</div>
 <div class="isomer-card">
 <div class="isomer-card-image">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Ms Vaishali RASTOGI" src="https://placehold.co/600x400">
+<img style="width: 100%" height="auto" width="100%" alt="Ms Vaishali RASTOGI" src="/images/About Us/Vaishali_RASTOGI.jpg">
 </div>
 </div>
 <div class="isomer-card-body">
