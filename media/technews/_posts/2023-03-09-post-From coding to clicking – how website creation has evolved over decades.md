@@ -45,10 +45,6 @@ then.</p>
 <p>It not only organised links into helpful categories such as entertainment,
 living, and shopping, but it also deployed colour to make the site more
 user-friendly and easier to navigate.</p>
-<p>If you’re wondering what this colour milestone looks like, you’re in luck
-because the site is also still&nbsp;<a href="http://www.aliweb.com/" class="editor-rtfLink" rel="noopener noreferrer nofollow" target="_blank">live today</a>&nbsp;–
-and we don’t mean it’s just online. Click on the links, and you’ll find
-they still work!</p>
 <h3>Web development leaps forward</h3>
 <p>The mid-1990s were crucial years in the history of web development. The
 programming language JavaScript was introduced in 1995, allowing motion
