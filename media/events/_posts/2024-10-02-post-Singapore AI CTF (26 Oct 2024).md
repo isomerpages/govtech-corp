@@ -67,7 +67,7 @@ round, followed by 4-hour finals.</p>
 <p><strong>4-Hour Finals</strong>
 </p>
 <p></p>
-<p>(Local teams to attend physically at MBS)</p>
+<p>(Local teams to attend physically at Marina Bay Sands)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Start Time: Tuesday, 5<sup>th</sup> November 1:30pm (UTC+08 Singapore Time)</p>
