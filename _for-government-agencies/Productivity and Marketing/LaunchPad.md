@@ -255,63 +255,34 @@ the same idea.</p>
 <div data-type="detailsContent" class="isomer-details-content">
 <p>All confirmed participants will also be given the following swags in appreciation
 of their efforts!</p>
-<p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Exclusive swag pack for LAUNCH! Hackathon team members" src="/images/Products and Services/For Government Agencies/swag_pack.jpg">
 </div>
+</details>
+<details class="isomer-details">
+<summary></summary>
+<div data-type="detailsContent" class="isomer-details-content">
 <p></p>
 </div>
 </details>
 <details class="isomer-details">
-<summary>Ideas from the WOG 2023 Ideathon</summary>
+<summary></summary>
 <div data-type="detailsContent" class="isomer-details-content">
-<p></p><a class="isomer-image-wrapper" href="https://teams.microsoft.com/l/team/19%3aCSzeVJX-B-_Q1821ftN1kKdxhw8vDlhKf9VOztkWLE81%40thread.tacv2/conversations?groupId=f3331322-026c-44c8-a6a8-92cff04b50ba&amp;tenantId=0b11c524-9a1c-4e1b-84cb-6336aefc2243"><img style="width: 80%;" height="auto" width="100%" alt="Number of ideas, participants, agencies for WOG 2023 Ideathon" src="/images/Products and Services/For Government Agencies/WOG_2023_ideathon.jpg"></a>
-<p>From the WOG 2023 Ideathon, we have collected a total of 434 ideas. More
-than 50% of the ideas can be matched to our current central products and
-you have over 200 remaining ideas to pick from to help develop a solution.</p>
-</div>
-</details>
-<details class="isomer-details">
-<summary>How to register/sign up?</summary>
-<div data-type="detailsContent" class="isomer-details-content">
-<ol data-tight="true" class="tight">
-<li>
-<p>Click on your desired problem title &amp; register your interest in the
-linked form (link in image).</p>
-</li>
-</ol><a class="isomer-image-wrapper" href="https://tableau.data.tech.gov.sg/#/views/HackathonRegistration/ProblemSpace?:iid=1"><img style="width: 100%" height="auto" width="100%" alt="LAUNCH! Hackathon - selecting desired problem title and registration to participate in this event" src="/images/Products and Services/For Government Agencies/LaunchPad_problem_spaces_resized.jpg"></a>
-<p></p>
 <ol start="2" data-tight="true" class="tight">
 <li>
-<p>Your details should be pre-filled in the <a href="https://form.gov.sg/6603e84b2954793dcdc2b7e8?6603e8711a085fad07e3601d" rel="noopener noreferrer nofollow" target="_blank">registration form</a> (link
-in image).</p>
-</li>
-</ol><a class="isomer-image-wrapper" href="https://form.gov.sg/6603e84b2954793dcdc2b7e8?6603e8711a085fad07e3601d"><img style="width: 100%" height="auto" width="100%" alt="LAUNCH! Hackathon registration form" src="/images/Products and Services/For Government Agencies/LaunchPad_registration_form_resized.jpg"></a>
 <p></p>
+</li>
+</ol>
 </div>
 </details>
 <details class="isomer-details">
-<summary>Other ways of participating in the LAUNCH! Programme</summary>
+<summary></summary>
 <div data-type="detailsContent" class="isomer-details-content">
-<h4>Share your idea(s) on LaunchPad's LAUNCH! Ideathon 2024 for WOG:</h4>
+<h4></h4>
+</div>
+</details>
+<details class="isomer-details">
+<summary></summary>
+<div data-type="detailsContent" class="isomer-details-content">
 <p></p>
-<ol data-tight="true" class="tight">
-<li>
-<p><a href="https://launchpad.gov.sg/" rel="noopener noreferrer nofollow" target="_blank">Submit an idea</a><strong>:</strong> Tell
-us about the problem you are facing, how you think the problem can be solved,
-its impact and more.</p>
-</li>
-<li>
-<p><strong>Upvote: </strong>Show your support and indicate demand for the
-ideas on the Ideathon if it is useful for you too.</p>
-</li>
-<li>
-<p><strong>Comment:</strong> Share your thoughts and feedback on any additional
-user features for the idea owner's consideration.</p>
-</li>
-</ol>
-<p></p>
-<p><a href="https://launchpad.gov.sg/" rel="noopener noreferrer nofollow" target="_blank">Access LAUNCH! Ideathon 2024</a>!</p>
 </div>
 </details>
 </div>
