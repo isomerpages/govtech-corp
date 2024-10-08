@@ -114,6 +114,17 @@ EY</div>
 <div class="isomer-card">
 <div class="isomer-card-image">
 <div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Joan Moh" src="/images/our-team/Joan_Moh.png">
+</div>
+</div>
+<div class="isomer-card-body">
+<div class="isomer-card-title">Ms Joan MOH</div>
+<div class="isomer-card-description">Deputy Secretary (Workplaces), Ministry of Manpower (MOM)</div>
+</div>
+</div>
+<div class="isomer-card">
+<div class="isomer-card-image">
+<div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="Mr Noah PEPPER" src="/images/our-team/Mr_Noah_Pepper.png">
 </div>
 </div>
