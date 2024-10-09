@@ -69,6 +69,7 @@ government systems are designed with security in mind. Through collaborative
 governance and proactive oversight, we provide <a href="/products-and-services/for-government-agencies/data-and-ai/" rel="noopener nofollow" target="_blank">practical guidance</a> that
 empower our stakeholders to uphold security best practices while adopting
 threat management approach.</p>
+<p></p>
 <div class="isomer-card-grid">
 <div class="isomer-card">
 <div class="isomer-card-body">
