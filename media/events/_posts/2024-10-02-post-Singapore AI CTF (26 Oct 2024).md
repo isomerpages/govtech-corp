@@ -328,6 +328,43 @@ to comply strictly with this requirement. This is to ensure fair competition
 play and ease of administration for the CTF.</p>
 </div>
 </details>
+<details class="isomer-details">
+<summary><strong>Q: I am currently an NSF who has not started university, would I be eligible for the Pre-U Category?</strong>
+</summary>
+<div data-type="detailsContent" class="isomer-details-content">
+<p>A: You may only be considered for the Pre-U category if you do not have
+a placement at a university at the point of registration. If you already
+have a placement in a university, please sign up for the 'Open' Category
+instead.</p>
+</div>
+</details>
+<details class="isomer-details">
+<summary><strong>Q: I am a Singaporean/PR who has secured a placement in a pre-university institution, can I be considered for the pre-university Category?</strong>
+</summary>
+<div data-type="detailsContent" class="isomer-details-content">
+<p>A: Yes, you may be considered for the Pre-U category as long as you have
+secured a placement in a pre-university education institution (e.g. Polytechnics,
+Junior Colleges, Integrated Programmes, and Institutes of Technical Education
+or equivalent).</p>
+</div>
+</details>
+<details class="isomer-details">
+<summary><strong>Q: How many teams will be filtered from the preliminary round, to compete in the final round?</strong>
+</summary>
+<div data-type="detailsContent" class="isomer-details-content">
+<p>A: Up to 10 teams each from the 'Open' and 'Pre-U' categories will be
+selected for the final round from the preliminary round.</p>
+</div>
+</details>
+<details class="isomer-details">
+<summary><strong>Q: Will the points from the preliminary round be carried over to the final round?</strong>
+</summary>
+<div data-type="detailsContent" class="isomer-details-content">
+<p>A: No, the finalists from the 'Open' and 'Pre-U' Categories will have
+their points reset for the final round. All teams in the final round will
+start with 0 points.</p>
+</div>
+</details>
 </div>
 <p></p>
 <h3>Contact Us</h3>
