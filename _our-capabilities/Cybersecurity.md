@@ -66,7 +66,7 @@ Digital Academy.</p>
 <h4>Strengthening security governance in government systems</h4>
 <p>We establish comprehensive security governance frameworks to ensure that
 government systems are designed with security in mind. Through collaborative
-governance and proactive oversight, we provide practical guidance that
+governance and proactive oversight, we provide <a href="/products-and-services/for-government-agencies/data-and-ai/" rel="noopener nofollow" target="_blank">practical guidance</a> that
 empower our stakeholders to uphold security best practices while adopting
 threat management approach.</p>
 <div class="isomer-card-grid">
