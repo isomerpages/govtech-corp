@@ -9,9 +9,9 @@ permalink: /
 notification: ""
 sections:
   - hero:
-      background: /images/Homepage/SG_AI_CTF_Floating_Jaga.png
+      background: /images/Homepage/Homepage_Banner.png
       button: FIND OUT MORE
-      url: /media/events/singapore-ai-ctf-2024/
+      url: https://www.tech.gov.sg/
       key_highlights:
         - title: For Citizens
           description: Tips, events and stories
@@ -25,7 +25,7 @@ sections:
         - title: For Government Agencies
           description: Productivity and collaboration
           url: /for-government-agencies
-      variant: floating
+      variant: image
       size: md
       alignment: left
       backgroundColor: gray
