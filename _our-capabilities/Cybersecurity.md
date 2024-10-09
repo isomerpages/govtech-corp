@@ -44,35 +44,31 @@ life and business in Singapore.</div>
 </div>
 <h3>Our work and initiatives</h3>
 <p>We deliver our mission through a range of activities and functions.</p>
-<div class="isomer-card-grid">
-<div class="isomer-card">
-<div class="isomer-card-body">
-<div class="isomer-card-title">Strengthening the government’s defences in cyberspace</div>
-<div class="isomer-card-description">The Government Cybersecurity Operations Centre (GCSOC), with a comprehensive
+<p></p>
+<h4>Strengthening the government’s defences in cyberspace</h4>
+<p>The Government Cybersecurity Operations Centre (GCSOC), with a comprehensive
 suite of cybersecurity capabilities to monitor, detect and respond to incidents,
 is our key capability to defend against threats to the Government networks
-and systems.</div>
-</div>
-</div>
-<div class="isomer-card">
-<div class="isomer-card-body">
-<div class="isomer-card-title">Enhancing the government’s cybersecurity capabilities</div>
-<div class="isomer-card-description">We ensure the secure design of government systems and apps through the
+and systems.</p>
+<p></p>
+<h4>Enhancing the government’s cybersecurity capabilities</h4>
+<p>We ensure the secure design of government systems and apps through the
 government trust-based architecture framework, and conduct security testing,
 through red-teaming, penetration-testing, and the Crowdsourced Vulnerability
-Disclosure Programme, to quickly identify and remediate vulnerabilities.</div>
-</div>
-</div>
-<div class="isomer-card">
-<div class="isomer-card-body">
-<div class="isomer-card-title">Elevating the cybersecurity posture of our workforce</div>
-<div class="isomer-card-description">We elevate public service officers’ cyber competencies through cybersecurity
+Disclosure Programme, to quickly identify and remediate vulnerabilities.</p>
+<p></p>
+<h4>Elevating the cybersecurity posture of our workforce</h4>
+<p>We elevate public service officers’ cyber competencies through cybersecurity
 training, quizzes, and phishing exercises. We also provide upskilling courses
 to our public service officers and cybersecurity specialists through GovTech’s
-Digital Academy.</div>
-</div>
-</div>
-</div>
+Digital Academy.</p>
+<p></p>
+<h4>Strengthening security governance in government systems</h4>
+<p>We establish comprehensive security governance frameworks to ensure that
+government systems are designed with security in mind. Through collaborative
+governance and proactive oversight, we provide practical guidance that
+empower our stakeholders to uphold security best practices while adopting
+threat management approach.</p>
 <div class="isomer-card-grid">
 <div class="isomer-card">
 <div class="isomer-card-body">
@@ -84,7 +80,6 @@ organisations and platforms.</div>
 </div>
 </div>
 </div>
-<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="The Government Cybersecurity Operations Centre (GCSOC) plays a key role in detecting and mitigating cyber threats against the Whole-of-Government" src="/images/About Us/Our capabilities/CSG_image.jpg">
 </div>
