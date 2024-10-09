@@ -43,7 +43,7 @@ life and business in Singapore.</div>
 </div>
 </div>
 <h3>Our work and initiatives</h3>
-<p>We deliver our mission through a range of activities and functions.</p>
+<p>We deliver our mission through a range of activities and functions:</p>
 <p></p>
 <h4>Strengthening the government’s defences in cyberspace</h4>
 <p>The Government Cybersecurity Operations Centre (GCSOC), with a comprehensive
