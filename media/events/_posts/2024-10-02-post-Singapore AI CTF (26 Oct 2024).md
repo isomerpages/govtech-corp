@@ -11,20 +11,8 @@ variant: tiptap
 ---
 <a class="isomer-image-wrapper" href="https://go.gov.sg/singaporeaictf"><img style="width: 100%" height="auto" width="100%" alt="SG AI CTF 2024 Banner" src="/images/media/events/SG_AI_CTF_Banner_With_Graphics.png"></a>
 <p></p>
-<div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="https://go.gov.sg/singaporeaictf" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="AI Security CTF by GovTech" src="/images/media/events/SG_AI_CTF_v2_Thumbnail_GT.png"></div></div><div class="isomer-card-body"><div class="isomer-card-title">AI Security CTF by GovTech</div><div class="isomer-card-link">REGISTER NOW</div></div></a>
-<div class="isomer-card">
-<div class="isomer-card-image">
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="AI Safety CTF by IMDA" src="/images/media/events/SG_AI_CTF_v2_Thumbnail_IMDA.png">
+<div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="https://go.gov.sg/singaporeaictf" class="isomer-card"><div class="isomer-card-body"><div class="isomer-card-title">AI Security CTF by GovTech</div><div class="isomer-card-description">Join Singapore’s first AI Security focused CTF, featuring machine learning security challenges in 7 domains!</div><div class="isomer-card-link">REGISTER NOW</div></div></a>
 </div>
-</div>
-<div class="isomer-card-body">
-<div class="isomer-card-title">AI Safety CTF by IMDA</div>
-<div class="isomer-card-description">Stay tuned for more info</div>
-</div>
-</div>
-</div>
-<h3>Join Singapore’s first AI Security focused CTF, featuring machine learning security challenges in 7 domains!</h3>
 <p>The AI Security CTF will be held in two rounds – a virtual preliminary
 round, followed by 4-hour finals.</p>
 <table style="minWidth: 50px">
@@ -345,4 +333,5 @@ play and ease of administration for the CTF.</p>
 <h3>Contact Us</h3>
 <p>You may contact us at <a href="mailto:ctf@tech.gov.sg" rel="noopener noreferrer nofollow" target="_blank">ctf@tech.gov.sg</a> should you have further
 queries.</p>
+<p></p>
 <p></p>
