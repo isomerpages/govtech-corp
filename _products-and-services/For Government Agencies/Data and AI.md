@@ -18,7 +18,6 @@ from the endless streams of data, we need to unlock the power of technologies
 such as artificial intelligence (AI).</p>
 <p>Always one to keep up with the latest trends, GovTech has created several
 AI-enabled services, all aimed at increasing productivity and project success.</p>
-<p></p>
 <h3>Cybersecurity Best Practices for Large Language Models (LLMs)</h3>
 <p>Across the entire government, the adoption of Large Language Models (LLMs)
 is accelerating due to their potential to enhance government operations
