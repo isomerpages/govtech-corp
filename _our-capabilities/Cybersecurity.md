@@ -45,31 +45,37 @@ life and business in Singapore.</div>
 <h3>Our work and initiatives</h3>
 <p>We deliver our mission through a range of activities and functions:</p>
 <p></p>
-<h4>Strengthening the government’s defences in cyberspace</h4>
-<p>The Government Cybersecurity Operations Centre (GCSOC), with a comprehensive
+<div class="isomer-card-grid">
+<div class="isomer-card">
+<div class="isomer-card-body">
+<div class="isomer-card-title">Strengthening the government’s defences in cyberspace</div>
+<div class="isomer-card-description">The Government Cybersecurity Operations Centre (GCSOC), with a comprehensive
 suite of cybersecurity capabilities to monitor, detect and respond to incidents,
 is our key capability to defend against threats to the Government networks
-and systems.</p>
-<p></p>
-<h4>Enhancing the government’s cybersecurity capabilities</h4>
-<p>We ensure the secure design of government systems and apps through the
+and systems.</div>
+</div>
+</div>
+<div class="isomer-card">
+<div class="isomer-card-body">
+<div class="isomer-card-title">Enhancing the government’s cybersecurity capabilities</div>
+<div class="isomer-card-description">We ensure the secure design of government systems and apps through the
 government trust-based architecture framework, and conduct security testing,
 through red-teaming, penetration-testing, and the Crowdsourced Vulnerability
-Disclosure Programme, to quickly identify and remediate vulnerabilities.</p>
-<p></p>
-<h4>Elevating the cybersecurity posture of our workforce</h4>
-<p>We elevate public service officers’ cyber competencies through cybersecurity
+Disclosure Programme, to quickly identify and remediate vulnerabilities.</div>
+</div>
+</div>
+</div>
+<div class="isomer-card-grid">
+<div class="isomer-card">
+<div class="isomer-card-body">
+<div class="isomer-card-title">Elevating the cybersecurity posture of our workforce</div>
+<div class="isomer-card-description">We elevate public service officers’ cyber competencies through cybersecurity
 training, quizzes, and phishing exercises. We also provide upskilling courses
 to our public service officers and cybersecurity specialists through GovTech’s
-Digital Academy.</p>
-<p></p>
-<h4>Strengthening security governance in government systems</h4>
-<p>We establish comprehensive security governance frameworks to ensure that
-government systems are designed with security in mind. Through collaborative
-governance and proactive oversight, we provide <a href="/products-and-services/for-government-agencies/data-and-ai/#:~:text=Cybersecurity%20best%20practices%20for%20Large%20Language%20Models" rel="noopener nofollow" target="_blank">practical guidance</a> that
-empower our stakeholders to uphold security best practices while adopting
-threat management approach.</p>
-<p></p>
+Digital Academy.</div>
+</div>
+</div><a rel="noopener noreferrer nofollow" href="https://cms.isomer.gov.sg/products-and-services/for-government-agencies/data-and-ai/#:~:text=Cybersecurity%20best%20practices%20for%20Large%20Language%20Models" class="isomer-card"><div class="isomer-card-body"><div class="isomer-card-title">Strengthening security governance in government systems</div><div class="isomer-card-description">We establish comprehensive security governance frameworks for government systems, ensuring they are designed with security in mind. Through collaborative oversight, we offer practical guidance to empower stakeholders in maintaining best practices and effective threat management.</div><div class="isomer-card-link">Cybersecurity best practices for Large Language Models (LLMs)</div></div></a>
+</div>
 <div class="isomer-card-grid">
 <div class="isomer-card">
 <div class="isomer-card-body">
