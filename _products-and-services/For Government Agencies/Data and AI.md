@@ -18,6 +18,18 @@ from the endless streams of data, we need to unlock the power of technologies
 such as artificial intelligence (AI).</p>
 <p>Always one to keep up with the latest trends, GovTech has created several
 AI-enabled services, all aimed at increasing productivity and project success.</p>
+<h3>Cybersecurity best practices for Large Language Models</h3>
+<p>Across the entire government, the adoption of Large Language Models (LLMs)
+is accelerating due to their potential to enhance government operations
+and services. To ensure that government systems are designed with security
+in mind, GovTech produced a LLM Cybersecurity Playbook.</p>
+<p>This playbook provides a recommended set of cybersecurity best practices
+to guide agencies and industries in developing (including training and
+fine-tuning), procuring, deploying (including integration), and using LLMs.
+Given the evolving nature of the cybersecurity landscape and the early
+stage of LLM adoption, we commit to regularly reviewing the playbook in
+consultation with AI practitioners to ensure its ongoing relevance.</p>
+<p>Download a copy of the <a href="/files/products-and-services/Cybersecurity_Playbook_for_Large_Language_Model_LLM_Applications.pdf" rel="noopener noreferrer nofollow" target="_blank">LLM Cybersecurity Playbook</a>.</p>
 <h3>Explore our data and AI tools</h3>
 <div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="/products-and-services/for-government-agencies/data-and-ai/analytics-gov/" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Analytics.gov provides a space for public officers to collaborate on data projects" src="/images/Products and Services/For Government Agencies/Analytics_gov_600x400.png"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Analytics.gov</div><div class="isomer-card-description">Built with analytics and machine learning operationalisation capabilities, this platform enables public officers to collaborate on data projects.</div><div class="isomer-card-link">Explore Analytics.gov</div></div></a>
 <a rel="noopener noreferrer nofollow" href="/products-and-services/for-government-agencies/data-and-ai/video-analytics-system/" class="isomer-card">

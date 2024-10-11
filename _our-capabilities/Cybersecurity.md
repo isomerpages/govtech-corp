@@ -43,7 +43,8 @@ life and business in Singapore.</div>
 </div>
 </div>
 <h3>Our work and initiatives</h3>
-<p>We deliver our mission through a range of activities and functions.</p>
+<p>We deliver our mission through a range of activities and functions:</p>
+<p></p>
 <div class="isomer-card-grid">
 <div class="isomer-card">
 <div class="isomer-card-body">
@@ -63,6 +64,8 @@ through red-teaming, penetration-testing, and the Crowdsourced Vulnerability
 Disclosure Programme, to quickly identify and remediate vulnerabilities.</div>
 </div>
 </div>
+</div>
+<div class="isomer-card-grid">
 <div class="isomer-card">
 <div class="isomer-card-body">
 <div class="isomer-card-title">Elevating the cybersecurity posture of our workforce</div>
@@ -71,7 +74,7 @@ training, quizzes, and phishing exercises. We also provide upskilling courses
 to our public service officers and cybersecurity specialists through GovTech’s
 Digital Academy.</div>
 </div>
-</div>
+</div><a rel="noopener noreferrer nofollow" href="/products-and-services/for-government-agencies/data-and-ai/#:~:text=Cybersecurity%20best%20practices%20for%20Large%20Language%20Models" class="isomer-card"><div class="isomer-card-body"><div class="isomer-card-title">Strengthening security governance in government systems</div><div class="isomer-card-description">We establish comprehensive security governance frameworks for government systems, ensuring they are designed with security in mind. Through collaborative oversight, we offer practical guidance to empower stakeholders in maintaining best practices and effective threat management.</div><div class="isomer-card-link">Cybersecurity best practices for Large Language Models (LLMs)</div></div></a>
 </div>
 <div class="isomer-card-grid">
 <div class="isomer-card">
@@ -84,7 +87,6 @@ organisations and platforms.</div>
 </div>
 </div>
 </div>
-<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="The Government Cybersecurity Operations Centre (GCSOC) plays a key role in detecting and mitigating cyber threats against the Whole-of-Government" src="/images/About Us/Our capabilities/CSG_image.jpg">
 </div>
