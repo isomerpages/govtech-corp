@@ -9,7 +9,7 @@ permalink: /
 notification: ""
 sections:
   - hero:
-      background: /images/Homepage/Homepage_Banner.png
+      background: /images/Homepage/SG_AI_CTF_Floating_Jaga.png
       button: FIND OUT MORE
       url: /media/events/singapore-ai-ctf-2024/
       key_highlights:
@@ -25,10 +25,11 @@ sections:
         - title: For Government Agencies
           description: Productivity and collaboration
           url: /for-government-agencies
-      variant: center
-      size: sm
-      alignment: right
+      variant: floating
+      size: md
+      alignment: left
       backgroundColor: gray
+      title: Singapore AI CTF 2024
   - infobar:
       title: Government Technology Agency (GovTech)
       subtitle: WHO WE ARE
