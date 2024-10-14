@@ -303,7 +303,7 @@ Corporate &amp; Governance</div>
 <div class="isomer-card">
 <div class="isomer-card-image">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Ms Peggy MAH" src="/images/our-team/Peggy_Mah.png">
+<img style="width: 100%" height="auto" width="100%" alt="Ms Peggy MAH" src="/images/our-team/Peggy_Mah_2.png">
 </div>
 </div>
 <div class="isomer-card-body">
