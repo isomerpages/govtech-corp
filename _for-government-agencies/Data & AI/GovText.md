@@ -43,18 +43,12 @@ and Large Language Models (LLMs) for drafting and finding information.</p>
 <p>GovText provides a variety of text analysis services through web portal
 tools and a model hosting platform, which can be accessed by government
 agencies.</p>
-<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="GovText tools and services" src="/images/Products and Services/For Government Agencies/GovText_image.png">
 </div>
 <h4>1. General text analysis</h4>
 <p><strong>Topic Modelling</strong>
 </p>
-<p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="GovText offers topic modelling." src="/images/Products and Services/_compressed__wordcloud_screenshot.jpg">
-</div>
-<p></p>
 <div class="isomer-card-grid">
 <div class="isomer-card">
 <div class="isomer-card-body">
@@ -79,11 +73,6 @@ given to them.</div>
 </div>
 <p><strong>Summarisation</strong>
 </p>
-<p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="GovText can help to generate summaries of documents." src="/images/Products and Services/summarisation_screenshot.jpg">
-</div>
-<p></p>
 <div class="isomer-card-grid">
 <div class="isomer-card">
 <div class="isomer-card-body">
@@ -107,7 +96,6 @@ a summary.</div>
 </div>
 </div>
 <h4>2. Productivity tools</h4>
-<p></p>
 <div class="isomer-card-grid">
 <div class="isomer-card">
 <div class="isomer-card-body">
