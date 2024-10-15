@@ -156,7 +156,6 @@ up before 14<sup>th</sup> October</p>
 <h3>Event Details</h3>
 <p>The Singapore AI Security CTF is open to all, and the competition is divided
 into two categories:</p>
-<p></p>
 <div class="isomer-card-grid">
 <div class="isomer-card">
 <div class="isomer-card-body">
@@ -174,8 +173,8 @@ of Technical Education</div>
 </div>
 </div>
 </div>
-<p>Employees of GovTech and officers seconded to GovTech are not eligible
-to participate.</p>
+<p>Employees of GovTech and officers seconded to GovTech may participate
+but are <strong>ineligible </strong>for prizes.</p>
 <p>Participants under the age of 18 at the start date of the Competition
 must obtain <strong>proper parental/guardian’s consent</strong> to participate
 in the Competition. The <a href="/files/media/Events/SG_AI_CTF_Parental_Consent_Form.pdf" rel="noopener noreferrer nofollow" target="_blank">parental/guardian consent form can be found here</a> and
@@ -363,6 +362,21 @@ selected for the final round from the preliminary round.</p>
 <p>A: No, the finalists from the 'Open' and 'Pre-U' Categories will have
 their points reset for the final round. All teams in the final round will
 start with 0 points.</p>
+</div>
+</details>
+<details class="isomer-details">
+<summary><strong>Q: Will I receive a confirmation email after submitting my participation form?</strong>
+</summary>
+<div data-type="detailsContent" class="isomer-details-content">
+<p>A: Yes, you'll receive a confirmation email from <a href="mailto:ctf@tech.gov.sg" rel="noopener noreferrer nofollow" target="_blank">ctf@tech.gov.sg</a> with onboarding instructions
+prior to the competition.</p>
+<p></p>
+<p>You may also get an email from our vendor, Dreadnode, via the email
+<a href="mailto:no-reply@dreadnode.io" rel="noopener noreferrer nofollow" target="_blank">no-reply@dreadnode.io</a>
+</p>
+<p></p>
+<p>Alert us at <a href="mailto:ctf@tech.gov.sg" rel="noopener noreferrer nofollow" target="_blank">ctf@tech.gov.sg</a> if
+you receive emails about the SG AI CTF from other sources.</p>
 </div>
 </details>
 </div>
