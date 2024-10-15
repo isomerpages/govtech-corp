@@ -174,19 +174,21 @@ of Technical Education</div>
 </div>
 </div>
 <p>Employees of GovTech and officers seconded to GovTech may participate
-but are <strong>ineligible </strong>for prizes.</p>
+but are ineligible for prizes.</p>
 <p>Participants under the age of 18 at the start date of the Competition
 must obtain <strong>proper parental/guardian’s consent</strong> to participate
 in the Competition. The <a href="/files/media/Events/SG_AI_CTF_Parental_Consent_Form.pdf" rel="noopener noreferrer nofollow" target="_blank">parental/guardian consent form can be found here</a> and
 must be submitted before the competition starts.</p>
 <p>Teams that fail to comply with the above-mentioned requirements can be
 automatically disqualified from the Competition.</p>
-<p>Top Teams from the preliminary round must attend the Final Round virtually
-to be eligible for the Prizes. Local teams are strongly encouraged to attend
-the Final Round.</p>
-<p>Top Teams from Category (2) Pre-University are strongly encouraged to
-attend the Final Round. Should any member of the team be unable to attend
-the final round physically, please inform the organiser at <a href="mailto:ctf@tech.gov.sg" rel="noopener noreferrer nofollow" target="_blank">ctf@tech.gov.sg</a>
+<p>Top Teams from the preliminary round must attend the Final Round to be
+eligible for the Prizes.</p>
+<p>Local teams are strongly encouraged to be physically present at the Final
+Round.</p>
+<p>Top Teams from Category (2) Pre-University are required to be physically
+present at the Final Round. Should any member of the team be unable to
+be physically present at the final round, please inform the organiser at
+<a href="mailto:ctf@tech.gov.sg" rel="noopener noreferrer nofollow" target="_blank">ctf@tech.gov.sg</a>
 </p>
 <p></p>
 <div data-type="detailGroup" class="isomer-accordion isomer-accordion-white">
@@ -304,17 +306,17 @@ to join Open Category instead.</p>
 </div>
 </details>
 <details class="isomer-details">
-<summary><strong>Q: My team member is unable to make it physically for the 5<sup>th</sup> November Finals, would I be disqualified?</strong>
+<summary><strong>Q: My team member is unable to be physically present for the 5<sup>th</sup> November Finals, would I be disqualified?</strong>
 </summary>
 <div data-type="detailsContent" class="isomer-details-content">
-<p>A: We strongly encourage participants under Category 2 (Pre-University)
-to join us for the 5<sup>th</sup> November Finals. Category 2 Teams with
-no participants on the actual day might be disqualified, as we are disbursing
-the prizes on that day.</p>
+<p>A: We require participants under Category 2 (Pre-University) to join us
+for the 5<sup>th</sup> November Finals. Category 2 Teams with no participants
+on the actual day might be disqualified, as we are disbursing the prizes
+on that day.</p>
 <p></p>
 <p>There is no requirement for Category 1 (Open) teams to attend the 5<sup>th</sup> November
 Finals. That said, we strongly encourage participants who are based locally
-to join us physically during the 5 November finals.</p>
+to be physically present during the 5<sup>th</sup> November Finals.</p>
 </div>
 </details>
 <details class="isomer-details">
