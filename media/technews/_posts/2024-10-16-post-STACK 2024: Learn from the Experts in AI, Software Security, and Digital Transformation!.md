@@ -85,7 +85,6 @@ collaboration between the government, industry players, and the tech community.
 Under his leadership, the <a href="https://kr-asia.com/shaping-a-digital-nation-govtechs-chang-sau-sheong-on-leading-singapores-tech-evolution" rel="noopener noreferrer nofollow" target="_blank"><u>conference has evolved</u></a> into
 a platform for exploring cutting-edge topics like AI, digital trust, and
 open-source innovation.</p>
-<p></p>
 <h3>Steve Springett: Pioneering Secure Software Supply Chains for a Safer Digital Future</h3>
 <div class="isomer-image-wrapper">
 <img style="width: 60%;" height="auto" width="100%" alt="Steve Springett STACK Developer Conference 2024 Keynote Speaker" src="/images/technews/Steve_Springett___600x300__1_.png">
@@ -188,7 +187,6 @@ strategies.</p>
 Officer and interim CRO empower her to bridge the gap between product development
 and marketing. Her approach is deeply rooted in customer insights, ensuring
 product innovation and marketing strategies align with real market needs.</p>
-<p></p>
 <h3>Dr Tok Wee Hyong: Pioneering Data and AI for Global Impact</h3>
 <div class="isomer-image-wrapper">
 <img style="width: 60%;" height="auto" width="100%" alt="Dr Tok Wee Hyong STACK Developer Conference 2024 Keynote Speaker" src="/images/technews/Tok_Wee_Hyong___600x300.png">
