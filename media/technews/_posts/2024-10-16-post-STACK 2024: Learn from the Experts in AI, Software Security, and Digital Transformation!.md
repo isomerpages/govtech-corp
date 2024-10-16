@@ -30,9 +30,10 @@ Grab, ServiceNow, and others.&nbsp;</p>
 <p>STACK 2024 offers an unparalleled opportunity for innovators, entrepreneurs,
 and tech enthusiasts to gain insights into the latest advancements, trends,
 and products shaping the future of technology.</p>
+<p>Get to know some of the <strong>STACK keynote speakers</strong> below.</p>
 <p><em>Note: This article is the 2nd of a three-part article series. Check out the 1st article to learn more about other <a href="/media/technews/stack-2024-tech-experts-to-share-their-knowledge-on-ux-design-developer-platforms/" rel="noopener nofollow" target="_blank">STACK keynote speakers</a>.</em>
 </p>
-<h3>1. Chang Sau Sheong: Shaping Singapore's Digital Future</h3>
+<h3>Chang Sau Sheong: Shaping Singapore's Digital Future</h3>
 <div class="isomer-image-wrapper">
 <img style="width: 60%;" height="auto" width="100%" alt="Chang Sau Sheong" src="/images/technews/Sau_Sheong___600x300__1_.png">
 </div>
@@ -85,4 +86,62 @@ collaboration between the government, industry players, and the tech community.
 Under his leadership, the <a href="https://kr-asia.com/shaping-a-digital-nation-govtechs-chang-sau-sheong-on-leading-singapores-tech-evolution" rel="noopener noreferrer nofollow" target="_blank"><u>conference has evolved</u></a> into
 a platform for exploring cutting-edge topics like AI, digital trust, and
 open-source innovation.</p>
+<p></p>
+<h3>Steve Springett: Pioneering Secure Software Supply Chains for a Safer Digital Future</h3>
+<div class="isomer-image-wrapper">
+<img style="width: 60%;" height="auto" width="100%" alt="Steve Springett" src="/images/technews/Steve_Springett___600x300__1_.png">
+</div>
+<p><a href="https://www.linkedin.com/in/stevespringett/" rel="noopener noreferrer nofollow" target="_blank"><u>Steve Springett</u></a> is
+a prominent figure in software security, currently serving as the Director
+of Product Security at <a href="https://www.servicenow.com/" rel="noopener noreferrer nofollow" target="_blank"><u>ServiceNow</u></a>, where he helps
+over 4,000 developers build secure and resilient software. As a passionate
+advocate for open-source software and a leader within the <a href="https://owasp.org/" rel="noopener noreferrer nofollow" target="_blank"><u>Open Worldwide Application Security Project (OWASP) community</u></a>,
+Steve has driven numerous initiatives aimed at enhancing software supply
+chain security.</p>
+<h4>What to Expect from Steve’s Talk</h4>
+<p>In his keynote, Steve will address the critical importance of software
+supply chain security in today’s interconnected world:</p>
+<ul>
+<li>
+<p>The role of Software Bill of Materials (SBOMs) in enhancing transparency
+and accountability</p>
+</li>
+<li>
+<p>How organisations can integrate security practices into engineering and
+developer platforms</p>
+</li>
+<li>
+<p>The importance of maturity models in assessing and improving security
+postures</p>
+</li>
+<li>
+<p>The collective responsibility required to address the challenges of the
+software supply chain</p>
+</li>
+</ul>
+<p>Expect to gain valuable knowledge on how to navigate this complex landscape,
+and safeguard your software supply chain by leveraging collaboration, transparency,
+and shared best practices to build a safer digital future.</p>
+<h4>An Expert in Software Supply Chain Security</h4>
+<p>As part of the <a href="https://owasp.org/www-board/" rel="noopener noreferrer nofollow" target="_blank"><u>OWASP Board of Directors</u></a>,
+Steve helps to shape the organisation’s future direction. For instance,
+under his leadership, the <a href="https://owasp.org/www-project-dependency-track/" rel="noopener noreferrer nofollow" target="_blank"><u>OWASP Dependency-Track</u></a> project
+has become a key tool for identifying and managing risks in software components.
+Moreover, his efforts with <a href="https://owasp.org/www-project-cyclonedx/" rel="noopener noreferrer nofollow" target="_blank"><u>CycloneDX</u></a>, a
+standard for generating <a href="https://www.synopsys.com/blogs/software-security/software-bill-of-materials-bom.html" rel="noopener noreferrer nofollow" target="_blank"><u>Software Bill of Materials (SBOMs)</u></a>,
+have also been widely recognised, influencing policies and frameworks such
+as the <a href="https://csrc.nist.gov/Projects/ssdf" rel="noopener noreferrer nofollow" target="_blank"><u>NIST Secure Software Development Framework</u></a>.
+He also co-authored the <a href="https://owasp.org/www-project-software-component-verification-standard/" rel="noopener noreferrer nofollow" target="_blank"><u>Software Component Verification Standard (SCVS)</u></a> —
+a comprehensive reference for assessing software security maturity across
+organisations.</p>
+<p>At ServiceNow, Steve educates teams on secure software development practices,
+including threat modelling, secure architecture, and defensive programming
+techniques. His commitment to security spans every stage of the software
+development lifecycle, fostering a culture where security is ingrained
+from the outset.</p>
+<p></p>
+<p>
+<br>
+<br>
+</p>
 <p></p>
