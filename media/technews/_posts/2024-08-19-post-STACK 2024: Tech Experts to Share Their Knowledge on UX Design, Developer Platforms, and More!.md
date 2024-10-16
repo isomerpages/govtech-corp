@@ -16,7 +16,7 @@ variant: tiptap
 <p>Get ready for Singapore's largest Government-led tech event — GovTech's
 <a href="https://go.gov.sg/stack2024-tnedm" rel="noopener noreferrer nofollow" target="_blank">STACK Developer Conference 2024&nbsp;</a>from 6 to 7 November at the Sands
 Expo and Convention Centre!</p>
-<h2>What is the STACK Developer Conference about?</h2>
+<h3>What is the STACK Developer Conference about?</h3>
 <p>STACK 2024 is part of the <a href="https://www.tech.gov.sg/our-communities/join-our-communities/stack-community/" rel="noopener noreferrer nofollow" target="_blank">GovTech STACK community's</a> series
 of tech events to drive learning, networking, and collaboration between
 the public and private sectors. Organised by GovTech to drive Singapore’s
