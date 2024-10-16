@@ -22,13 +22,13 @@ event brings together government agencies, industry leaders, and tech innovators
 to exchange ideas and explore new opportunities, driving <a href="https://www.smartnation.gov.sg/about-smart-nation/transforming-singapore/" rel="noopener noreferrer nofollow" target="_blank"><u>Singapore’s Smart Nation vision</u></a> forward.</p>
 <h3>Why attend STACK 2024?</h3>
 <p>This year’s conference will feature leading experts from renowned organisations
-like Grab, Microsoft, Carousell, and more. Attendees will gain invaluable
-insights into cutting-edge technologies, trends, and innovations that are
-shaping the future of the tech landscape.</p>
+like Thoughtworks, Microsoft, Carousell, and more. Attendees will gain
+invaluable insights into cutting-edge technologies, trends, and innovations
+that are shaping the future of the tech landscape.</p>
 <p>STACK 2024 is a must-attend event for innovators, entrepreneurs, and tech
 enthusiasts looking to stay ahead of the curve in an ever-evolving digital
 world.</p>
-<p><strong>Get to know the plenary speakers of STACK 2024!</strong>
+<p><strong>Get to know the speakers of STACK 2024!</strong>
 </p>
 <p><em>Note: This feature is part of a series of articles on STACK 2024. Check out the other articles to learn more about STACK's keynote speakers:</em>
 </p>
