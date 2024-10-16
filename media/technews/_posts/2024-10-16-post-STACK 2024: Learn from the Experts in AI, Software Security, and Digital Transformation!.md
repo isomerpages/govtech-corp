@@ -35,7 +35,7 @@ and products shaping the future of technology.</p>
 </p>
 <h3>Chang Sau Sheong: Shaping Singapore's Digital Future</h3>
 <div class="isomer-image-wrapper">
-<img style="width: 60%;" height="auto" width="100%" alt="Chang Sau Sheong" src="/images/technews/Sau_Sheong___600x300__1_.png">
+<img style="width: 60%;" height="auto" width="100%" alt="Chang Sau Sheong STACK Developer Conference 2024 Keynote Speaker" src="/images/technews/Sau_Sheong___600x300__1_.png">
 </div>
 <p>
 <br><a href="https://www.linkedin.com/in/sausheong/" rel="noopener noreferrer nofollow" target="_blank"><u>Chang Sau Sheong</u></a> is
@@ -89,7 +89,7 @@ open-source innovation.</p>
 <p></p>
 <h3>Steve Springett: Pioneering Secure Software Supply Chains for a Safer Digital Future</h3>
 <div class="isomer-image-wrapper">
-<img style="width: 60%;" height="auto" width="100%" alt="Steve Springett" src="/images/technews/Steve_Springett___600x300__1_.png">
+<img style="width: 60%;" height="auto" width="100%" alt="Steve Springett STACK Developer Conference 2024 Keynote Speaker" src="/images/technews/Steve_Springett___600x300__1_.png">
 </div>
 <p><a href="https://www.linkedin.com/in/stevespringett/" rel="noopener noreferrer nofollow" target="_blank">Steve Springett</a> is
 a prominent figure in software security, currently serving as the Director
@@ -146,8 +146,12 @@ open collaboration, education, and innovation.</p>
 and industry. He believes in strategic representation at key events and
 has been actively involved in software transparency initiatives led by
 the U.S. Federal Government.</p>
+<h3><br>Ashley Kramer: Company Culture as a Catalyst for Innovation</h3>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Ashley Kramer STACK Developer Conference 2024 Keynote Speaker" src="/images/technews/Ashley_Kramer___600x300__1_.png">
+</div>
 <p>
-<br>
 <br>
 </p>
 <p></p>
