@@ -160,7 +160,7 @@ world of software development and GitLab’s community approach and her perspect
 on what it means to bring an open-source mindset to the workplace. Drawing
 from her extensive experience at GitLab and other leading tech companies,
 Ashley will explore how to:</p>
-<ol data-tight="true" class="tight">
+<ul data-tight="true" class="tight">
 <li>
 <p>Implement a community-driven mindset within organisations</p>
 </li>
@@ -171,7 +171,7 @@ Ashley will explore how to:</p>
 <p>Provide the resources, freedom, and support needed to hire and grow tech
 talent for innovation to thrive</p>
 </li>
-</ol>
+</ul>
 <h4>Ashley’s Journey: From Engineer to Executive</h4>
 <p>Beginning her career as a software engineer at NASA, Ashley quickly discovered
 that while she excelled in the technical aspects, her real passion lay
@@ -188,6 +188,10 @@ strategies.</p>
 Officer and interim CRO empower her to bridge the gap between product development
 and marketing. Her approach is deeply rooted in customer insights, ensuring
 product innovation and marketing strategies align with real market needs.</p>
+<p></p>
+<h3>Dr Tok Wee Hyong: Pioneering Data and AI for Global Impact</h3>
+<p></p>
+<p></p>
 <hr>
 <h4>Register for <a href="https://go.gov.sg/stack2024-tnedm" rel="noopener noreferrer nofollow" target="_blank">STACK Developer Conference 2024</a></h4>
 <p><em>Choose from <a href="https://go.gov.sg/stack2024-tnedm" rel="noopener noreferrer nofollow" target="_blank">in-person tickets</a> (selling fast) or <a href="https://go.gov.sg/stack2024-tnedm" rel="noopener noreferrer nofollow" target="_blank">virtual tickets</a>!</em>
