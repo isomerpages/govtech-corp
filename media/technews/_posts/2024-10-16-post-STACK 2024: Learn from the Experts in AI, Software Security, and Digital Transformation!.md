@@ -37,8 +37,7 @@ and products shaping the future of technology.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 60%;" height="auto" width="100%" alt="Chang Sau Sheong STACK Developer Conference 2024 Keynote Speaker" src="/images/technews/Sau_Sheong___600x300__1_.png">
 </div>
-<p>
-<br><a href="https://www.linkedin.com/in/sausheong/" rel="noopener noreferrer nofollow" target="_blank"><u>Chang Sau Sheong</u></a> is
+<p><a href="https://www.linkedin.com/in/sausheong/" rel="noopener noreferrer nofollow" target="_blank"><u>Chang Sau Sheong</u></a> is
 the Chief Technology Officer and Deputy Chief Executive (Products) at GovTech,
 where he leads the country's digital transformation efforts and drives
 innovation in public sector technologies. With over 30 years of experience
@@ -146,10 +145,69 @@ open collaboration, education, and innovation.</p>
 and industry. He believes in strategic representation at key events and
 has been actively involved in software transparency initiatives led by
 the U.S. Federal Government.</p>
-<h3><br>Ashley Kramer: Company Culture as a Catalyst for Innovation</h3>
-<p></p>
+<h3>Ashley Kramer: Company Culture as a Catalyst for Innovation</h3>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Ashley Kramer STACK Developer Conference 2024 Keynote Speaker" src="/images/technews/Ashley_Kramer___600x300__1_.png">
+<img style="width: 60%;" height="auto" width="100%" alt="Ashley Kramer STACK Developer Conference 2024 Keynote Speaker" src="/images/technews/Ashley_Kramer___600x300__1_.png">
+</div>
+<p><a href="https://www.linkedin.com/in/ashleyekramer/" rel="noopener noreferrer nofollow" target="_blank">Ashley Kramer</a> serves
+as the Chief Strategy &amp; Marketing Officer, as well as interim CRO for
+<a href="https://about.gitlab.com/" rel="noopener noreferrer nofollow" target="_blank">GitLab Inc</a>. With deep expertise in product management, marketing,
+and technology, she is pivotal in advancing GitLab's position as the most
+comprehensive AI-powered DevSecOps platform for software innovation.</p>
+<h4>What to Expect from Ashley’s Keynote Presentation</h4>
+<p>In her keynote presentation, Ashley will share the parallels between the
+world of software development and GitLab’s community approach and her perspective
+on what it means to bring an open-source mindset to the workplace. Drawing
+from her extensive experience at GitLab and other leading tech companies,
+Ashley will explore how to:</p>
+<ol data-tight="true" class="tight">
+<li>
+<p>Implement a community-driven mindset within organisations</p>
+</li>
+<li>
+<p>Build high-performing teams</p>
+</li>
+<li>
+<p>Provide the resources, freedom, and support needed to hire and grow tech
+talent for innovation to thrive</p>
+</li>
+</ol>
+<h4>Ashley’s Journey: From Engineer to Executive</h4>
+<p>Beginning her career as a software engineer at NASA, Ashley quickly discovered
+that while she excelled in the technical aspects, her real passion lay
+in solving problems and creating compelling narratives. This led to a product
+management role at Amazon.</p>
+<p>At Amazon, she honed her ability to combine analytical skills with creative
+vision, a blend that not only made her a standout product leader but also
+prepared her for her future in marketing. Her roles at Tableau and Alteryx
+further solidified her expertise in scaling hypergrowth companies, transforming
+them into market leaders through strategic product positioning and go-to-market
+strategies.</p>
+<h4>Leading Through a Customer-First Approach</h4>
+<p>At GitLab, Ashley’s roles as Chief Marketing Officer &amp; Chief Strategy
+Officer and interim CRO empower her to bridge the gap between product development
+and marketing. Her approach is deeply rooted in customer insights, ensuring
+product innovation and marketing strategies align with real market needs.</p>
+<hr>
+<h4>Register for <a href="https://go.gov.sg/stack2024-tnedm" rel="noopener noreferrer nofollow" target="_blank">STACK Developer Conference 2024</a></h4>
+<p><em>Choose from <a href="https://go.gov.sg/stack2024-tnedm" rel="noopener noreferrer nofollow" target="_blank">in-person tickets</a> (selling fast) or <a href="https://go.gov.sg/stack2024-tnedm" rel="noopener noreferrer nofollow" target="_blank">virtual tickets</a>!</em>
+</p>
+<h4>Related Content:</h4>
+<div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="/media/technews/stack-2024-tech-experts-to-share-their-knowledge-on-ux-design-developer-platforms/" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="STACK Developer Conference 2024 Keynote Speakers" src="/images/technews/STACK_2024__845x200_.jpg"></div></div><div class="isomer-card-body"><div class="isomer-card-title">STACK 2024: Tech Experts to Share Their Knowledge on UX Design, Developer Platforms, and More!</div><div class="isomer-card-link">Read more on TechNews</div></div></a>
+</div>
+<p></p>
+<div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="https://go.gov.sg/communitysignup-technews" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Subscribe to the TechNews email newsletter" src="/images/CTA card images/technews_footer.jpg"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Subscribe to the TechNews email newsletter</div><div class="isomer-card-link">TechNews</div></div></a>
+<a rel="noopener noreferrer nofollow" href="https://go.gov.sg/communitysignup-technews" class="isomer-card">
+<div class="isomer-card-image">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Join the Tech Kaki user-testing community" src="/images/CTA card images/techkaki_footer.jpg">
+</div>
+</div>
+<div class="isomer-card-body">
+<div class="isomer-card-title">Join the Tech Kaki user-testing community</div>
+<div class="isomer-card-link">Tech Kaki</div>
+</div>
+</a>
 </div>
 <p>
 <br>
