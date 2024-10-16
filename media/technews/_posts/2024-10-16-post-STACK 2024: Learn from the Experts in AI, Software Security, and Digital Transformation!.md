@@ -42,35 +42,47 @@ the Chief Technology Officer and Deputy Chief Executive (Products) at GovTech,
 where he leads the country's digital transformation efforts and drives
 innovation in public sector technologies. With over 30 years of experience
 in software engineering and <a href="https://www.tech.gov.sg/our-digital-government-efforts/" rel="noopener noreferrer nofollow" target="_blank"><u>digital transformation</u></a>,
-Chang is a key figure in Singapore’s journey towards becoming a <a href="https://www.smartnation.gov.sg/" rel="noopener noreferrer nofollow" target="_blank"><u>Smart Nation</u></a>.</p>
+Sau Sheong is a key figure in Singapore’s journey towards becoming a
+<a href="https://www.smartnation.gov.sg/" rel="noopener noreferrer nofollow" target="_blank"><u>Smart Nation</u>
+</a>.</p>
 <h4>What to Expect from Chang Sau Sheong’s Talk</h4>
-<p>In his keynote, Chang will delve into how AI and open-source technologies
+<p>In his keynote, Sau Sheong will delve into how AI and open-source technologies
 are revolutionising software development and engineering productivity.
 Attendees can expect insights into how the Singapore government is leveraging
-<a href="https://www.tech.gov.sg/products-and-services/for-government-agencies/productivity-and-marketing/pair/" rel="noopener noreferrer nofollow" target="_blank"><u>AI coding assistants</u>
+<a href="https://www.tech.gov.sg/products-and-services/for-government-agencies/productivity-and-marketing/pair/" rel="noopener noreferrer nofollow" target="_blank"><u>AI coding assistants </u>
 </a>and <a href="https://www.tech.gov.sg/products-and-services/for-government-agencies/software-development/government-on-commercial-cloud/" rel="noopener noreferrer nofollow" target="_blank"><u>cloud technologies</u></a> to
 enhance the efficiency of public services.</p>
 <p>With his extensive experience across both public and private sectors,
-Chang will offer practical advice on driving digital transformation in
-complex organisations, ensuring long-term resilience in a rapidly evolving
+Sau Sheong will offer practical advice on driving digital transformation
+in complex organisations, ensuring long-term resilience in a rapidly evolving
 tech landscape.</p>
 <h4>A Visionary Leader in Digital Transformation</h4>
-<p>At GovTech, Chang is responsible for the development and execution of
-whole-of-government platforms, including <a href="https://www.tech.gov.sg/products-and-services/for-government-agencies/software-development/" rel="noopener noreferrer nofollow" target="_blank"><u>cloud infrastructure</u></a> and
+<p>At GovTech, Sau Sheong is responsible for the development and execution
+of whole-of-government platforms, including <a href="https://www.tech.gov.sg/products-and-services/for-government-agencies/software-development/" rel="noopener noreferrer nofollow" target="_blank"><u>cloud infrastructure</u></a> and
 <a href="https://www.tech.gov.sg/media/technews/how-govtech-is-leading-singapore-fight-against-scams/" rel="noopener noreferrer nofollow" target="_blank"><u>cybersecurity operations</u>
 </a>. He is dedicated to ensuring that Singapore’s public sector remains at
 the forefront of artificial intelligence (AI) adoption, utilising <a href="https://www.tech.gov.sg/media/technews/generative-ai-where-can-it-go-wrong/" rel="noopener noreferrer nofollow" target="_blank"><u>generative AI</u></a> and
 open-source tools to boost developer productivity and build resilient digital
 infrastructure.&nbsp;</p>
-<p>Before joining GovTech, Chang had an extensive career with leadership
+<p>Before joining GovTech, Sau Sheong had an extensive career with leadership
 roles at global tech giants like PayPal, Yahoo, and HP, where he led teams
 in building enterprise software for international markets.</p>
 <h4>Championing AI and Innersourcing</h4>
-<p>
-<br>
-<br>
-</p>
-<p>
-<br>
-</p>
+<p>Sau Sheong is a strong advocate for AI integration and <a href="https://www.developer.tech.gov.sg/guidelines/standards-and-best-practices/innersource.html" rel="noopener noreferrer nofollow" target="_blank"><u>InnerSourcing</u></a> —
+a strategy where organisations use open-source software development practices
+to develop, share, and collaborate on software codes within the organisation.
+He is focused on enhancing <a href="https://www.tech.gov.sg/for-government-agencies/" rel="noopener noreferrer nofollow" target="_blank"><u>collaboration across government agencies</u></a> by
+encouraging the sharing and cross-use of software module stacks such as
+<a href="https://www.tech.gov.sg/products-and-services/for-government-agencies/software-development/sg-tech-stack/" rel="noopener noreferrer nofollow" target="_blank"><u>SG Tech Stack</u>
+</a>. This allows developers who face common engineering, security, and policy
+compliance challenges to reuse and adapt these resources for their projects.</p>
+<h4>Driving Community and Industry Engagement</h4>
+<p>Sau Sheong's dedication to building technology communities is evident
+in his long-standing involvement in developer conferences. He is the
+<a href="https://govinsider.asia/intl-en/article/biennial-stack-developer-conference-to-spotlight-developer-productivity" rel="noopener noreferrer nofollow" target="_blank"><u>driving force behind the STACK Developer Conference</u>
+</a>, Singapore’s largest government-led developer event, where he fosters
+collaboration between the government, industry players, and the tech community.
+Under his leadership, the <a href="https://kr-asia.com/shaping-a-digital-nation-govtechs-chang-sau-sheong-on-leading-singapores-tech-evolution" rel="noopener noreferrer nofollow" target="_blank"><u>conference has evolved</u></a> into
+a platform for exploring cutting-edge topics like AI, digital trust, and
+open-source innovation.</p>
 <p></p>
