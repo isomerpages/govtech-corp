@@ -76,7 +76,7 @@ and products shaping the future of technology.</p>
 </div>
 </div>
 </div>
-<p><em>Note: This article is the 2nd of a two-part series on STACK keynote speakers. Check out the 1st article to learn more about the other <a href="/media/technews/stack-2024-tech-experts-to-share-their-knowledge-on-ux-design-developer-platforms/" rel="noopener nofollow" target="_blank">STACK keynote speakers</a>.</em>
+<p><em>Note: This article is the 2<sup>nd</sup> of a two-part series on STACK keynote speakers. Check out the 1<sup>st</sup> article to learn more about the other <a href="/media/technews/stack-2024-tech-experts-to-share-their-knowledge-on-ux-design-developer-platforms/" rel="noopener nofollow" target="_blank">STACK keynote speakers</a>.</em>
 </p>
 <hr>
 <h3>Chang Sau Sheong: Shaping Singapore's Digital Future</h3>
