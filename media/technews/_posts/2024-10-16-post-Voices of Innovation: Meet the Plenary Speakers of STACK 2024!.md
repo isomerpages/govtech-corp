@@ -28,8 +28,108 @@ that are shaping the future of the tech landscape.</p>
 <p>STACK 2024 is a must-attend event for innovators, entrepreneurs, and tech
 enthusiasts looking to stay ahead of the curve in an ever-evolving digital
 world.</p>
-<p><strong>Get to know the speakers of STACK 2024!</strong>
-</p>
+<h3>Get to know the plenary speakers of STACK 2024</h3>
+<div class="isomer-card-grid">
+<div class="isomer-card">
+<div class="isomer-card-image">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Abi Noda: Empowering Developer Productivity Through Data-Driven Insights" src="/images/technews/Abi_Noda.png">
+</div>
+</div>
+<div class="isomer-card-body">
+<div class="isomer-card-title">Abi Noda</div>
+<div class="isomer-card-description">Empowering Developer Productivity Through Data-Driven Insights</div>
+</div>
+</div>
+<div class="isomer-card">
+<div class="isomer-card-image">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Kevin Ng: Innovating Government Tech Solutions for Singapore" src="/images/technews/Kevin_Ng___600x300.png">
+</div>
+</div>
+<div class="isomer-card-body">
+<div class="isomer-card-title">Kevin Ng</div>
+<div class="isomer-card-description">Innovating Government Tech Solutions for Singapore</div>
+</div>
+</div>
+<div class="isomer-card">
+<div class="isomer-card-image">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Tang Bing Wan: Leading Cloud Innovation for Singapore's Government" src="/images/technews/Tang_Bing_Wan___600x300.png">
+</div>
+</div>
+<div class="isomer-card-body">
+<div class="isomer-card-title">Tang Bing Wan</div>
+<div class="isomer-card-description">Leading Cloud Innovation for Singapore's Government</div>
+</div>
+</div>
+<div class="isomer-card">
+<div class="isomer-card-image">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Brian Houck: Elevating Developer Productivity in the Age of AI" src="/images/technews/Brian_Houck___600x300.png">
+</div>
+</div>
+<div class="isomer-card-body">
+<div class="isomer-card-title">Brian Houck</div>
+<div class="isomer-card-description">Elevating Developer Productivity in the Age of AI</div>
+</div>
+</div>
+<div class="isomer-card">
+<div class="isomer-card-image">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Ketan Mujumdar: Engineering Excellence in Fast-Paced Environments" src="/images/technews/Ketan_Mujumdar___600x300.png">
+</div>
+</div>
+<div class="isomer-card-body">
+<div class="isomer-card-title">Ketan Mujumdar</div>
+<div class="isomer-card-description">Engineering Excellence in Fast-Paced Environments</div>
+</div>
+</div>
+<div class="isomer-card">
+<div class="isomer-card-image">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Rajath Ramesh: Building Scalable Platforms with Vision" src="/images/technews/Rajath_Ramesh___600x300.png">
+</div>
+</div>
+<div class="isomer-card-body">
+<div class="isomer-card-title">Rajath Ramesh</div>
+<div class="isomer-card-description">Building Scalable Platforms with Vision</div>
+</div>
+</div>
+<div class="isomer-card">
+<div class="isomer-card-image">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Brian Lim: Driving AI Innovation in Product Development" src="/images/technews/Brian_Lim___600x300.png">
+</div>
+</div>
+<div class="isomer-card-body">
+<div class="isomer-card-title">Brian Lim</div>
+<div class="isomer-card-description">Driving AI Innovation in Product Development</div>
+</div>
+</div>
+<div class="isomer-card">
+<div class="isomer-card-image">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Jessie Xia: Elevating Careers Through Digital Transformation" src="/images/technews/Jessie_Xia___600x300.png">
+</div>
+</div>
+<div class="isomer-card-body">
+<div class="isomer-card-title">Jessie Xia</div>
+<div class="isomer-card-description">Elevating Careers Through Digital Transformation</div>
+</div>
+</div>
+<div class="isomer-card">
+<div class="isomer-card-image">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Corey Lee: Driving Innovation Through Cross-Functional Collaboration" src="/images/technews/Corey_Lee___600x300.png">
+</div>
+</div>
+<div class="isomer-card-body">
+<div class="isomer-card-title">Corey Lee</div>
+<div class="isomer-card-description">Driving Innovation Through Cross-Functional Collaboration</div>
+</div>
+</div>
+</div>
 <p><em>Note: This feature is part of a series of articles on STACK 2024. Check out the other articles to learn more about STACK's keynote speakers:</em>
 </p>
 <ul data-tight="true" class="tight">
