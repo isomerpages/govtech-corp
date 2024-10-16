@@ -118,9 +118,8 @@ who will be presenting at STACK 2024!</p>
 </div>
 </div>
 <h3>1. Evan You: A Developer that’s Transforming the Web Development Landscape</h3>
-<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 60%;" height="auto" width="100%" alt="Evan You at STACK 2024" src="/images/technews/Evan_You_600x300.png">
+<img style="width: 60%;" height="auto" width="100%" alt="Evan You STACK Developer Conference 2024 Keynote Speaker" src="/images/technews/Evan_You_600x300.png">
 </div>
 <p><a href="https://www.linkedin.com/in/evanyou/" rel="noopener noreferrer nofollow" target="_blank">Evan You</a>&nbsp;is
 an independent open-source developer currently based in Singapore. He is
@@ -147,9 +146,8 @@ of web development for years to come. As a keynote speaker, Evan offers
 invaluable insights into the future of web technologies, making his talks
 helpful for anyone interested in the evolution of the web development landscape.</p>
 <h3>2. Gregor Hohpe: Architecting Transformation for the Cloud Era</h3>
-<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 60%;" height="auto" width="100%" alt="Gregor Hohpe at STACK 2024" src="/images/technews/Gregor_Hohpe_600x300.png">
+<img style="width: 60%;" height="auto" width="100%" alt="Gregor Hohpe STACK Developer Conference 2024 Keynote Speaker" src="/images/technews/Gregor_Hohpe_600x300.png">
 </div>
 <p><a href="https://www.linkedin.com/in/ghohpe/?originalSubdomain=sg" rel="noopener noreferrer nofollow" target="_blank">Gregor Hohpe</a>&nbsp;is
 a tech strategist, engineer, author, speaker, and a former GovTech Smart
@@ -198,9 +196,8 @@ series of mental models and metaphors that will help you understand design
 decisions and trade-offs. You'll also find out how platforms are related
 to cars, submarines, and fruit salads!</p>
 <h3>3. Lillian Shieh: Integrity and Strategic Leadership in Design and Innovation</h3>
-<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 60%;" height="auto" width="100%" alt="Lillian Shieh at STACK 2024" src="/images/technews/Lillian_Shieh_600x300.png">
+<img style="width: 60%;" height="auto" width="100%" alt="Lillian Shieh STACK Developer Conference 2024 Keynote Speaker" src="/images/technews/Lillian_Shieh_600x300.png">
 </div>
 <p><a href="https://www.linkedin.com/in/lillianshieh/" rel="noopener noreferrer nofollow" target="_blank">Lillian Shieh</a>,
 the Head of Design Practice at GovTech, is a distinguished design researcher,
@@ -234,9 +231,8 @@ of government digital services when there is greater digital maturity.</p>
 <div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="/media/technews/transforming-public-services-through-design-insights-from-lillian-shieh/" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="STACK Developer Conference 2024" src="/images/technews/STACK_2024__845x200_.jpg"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Transforming Public Services Through Design: Insights from Lillian Shieh</div><div class="isomer-card-description">Q&amp;A with Lillian Shieh: Researcher, Product Strategist, UX Designer</div><div class="isomer-card-link">Read more on TechNews</div></div></a>
 </div>
 <h3>4. Rachel Laycock: Engineering Platforms for Developer Experience</h3>
-<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 60%;" height="auto" width="100%" alt="Rachel Laycock STACK Keynote speaker" src="/images/technews/Rachel_Laycock___600x300.png">
+<img style="width: 60%;" height="auto" width="100%" alt="Rachel Laycock STACK Developer Conference 2024 Keynote Speaker" src="/images/technews/Rachel_Laycock___600x300.png">
 </div>
 <p><a href="https://www.linkedin.com/in/rachellaycock/" rel="noopener noreferrer nofollow" target="_blank">Rachel Laycock</a> is
 the Chief Technology Officer (CTO) of <a href="https://www.thoughtworks.com/" rel="noopener noreferrer nofollow" target="_blank">Thoughtworks</a>, a global technology
