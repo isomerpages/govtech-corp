@@ -190,4 +190,35 @@ actionable insights on building a collaborative culture at scale, emphasising
 the power of cross-functional teamwork. Whether you're a product designer
 or a team leader, this talk will provide practical strategies to elevate
 collaboration and innovation in your organisation.</p>
+<hr>
+<h4><strong>Keen to hear from these speakers? Register for the <a href="https://go.gov.sg/stack2024-tnedm" rel="noopener noreferrer nofollow" target="_blank">STACK Developer Conference 2024!</a></strong></h4>
+<p><strong><em>Choose from <a href="https://go.gov.sg/stack2024-tnedm" rel="noopener noreferrer nofollow" target="_blank">in-person tickets</a> (selling fast) or <a href="https://go.gov.sg/stack2024-tnedm" rel="noopener noreferrer nofollow" target="_blank">virtual tickets</a>!</em></strong>
+</p>
+<h4>Related Content:</h4>
+<div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="/media/technews/stack-2024-tech-experts-to-share-their-knowledge-on-ux-design-developer-platforms/" class="isomer-card"><div class="isomer-card-body"><div class="isomer-card-title">STACK 2024: Tech Experts to Share Their Knowledge on UX Design, Developer Platforms, and More!</div><div class="isomer-card-description">Get to know the keynote speakers in STACK Developer Conference 2024 [Part 1]</div><div class="isomer-card-link">Read more on TechNews</div></div></a>
+<a rel="noopener noreferrer nofollow" href="/media/technews/stack-2024-learn-from-experts-in-ai-software-security-and-digital-transformation/" class="isomer-card">
+<div class="isomer-card-body">
+<div class="isomer-card-title">STACK 2024: Learn from the Experts in AI, Software Security, and Digital
+Transformation!</div>
+<div class="isomer-card-description">Get to know the keynote speakers in STACK Developer Conference 2024 [Part
+2]</div>
+<div class="isomer-card-link">Read more on TechNews</div>
+</div>
+</a>
+</div>
+<p></p>
+<div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="https://go.gov.sg/communitysignup-technews" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Subscribe to the TechNews email newsletter" src="/images/CTA card images/technews_footer.jpg"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Subscribe to the TechNews email newsletter</div><div class="isomer-card-link">TechNews</div></div></a>
+<a rel="noopener noreferrer nofollow" href="https://go.gov.sg/communitysignup-technews" class="isomer-card">
+<div class="isomer-card-image">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Join the Tech Kaki user-testing community" src="/images/CTA card images/techkaki_footer.jpg">
+</div>
+</div>
+<div class="isomer-card-body">
+<div class="isomer-card-title">Join the Tech Kaki user-testing community</div>
+<div class="isomer-card-link">Tech Kaki</div>
+</div>
+</a>
+</div>
+<p></p>
 <p></p>
