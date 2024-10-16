@@ -25,10 +25,10 @@ this biennial event serves as a platform for Government, industry, and
 tech communities to convene and collaborate on future opportunities that
 further <a href="https://www.smartnation.gov.sg/about-smart-nation/transforming-singapore/" rel="noopener noreferrer nofollow" target="_blank">Singapore's Smart Nation vision</a>.</p>
 <h3>Who will be at STACK 2024?</h3>
-<p>9 established keynote speakers will share their knowledge and expertise
-at STACK 2024, making it the perfect opportunity for innovators, entrepreneurs,
-and tech enthusiasts to learn, network and discuss the latest tech advancements
-and products.</p>
+<p><strong>9 established keynote speakers</strong> will share their knowledge
+and expertise at STACK 2024, making it the perfect opportunity for innovators,
+entrepreneurs, and tech enthusiasts to learn, network and discuss the latest
+tech advancements and products.</p>
 <p>The keynote speakers include leaders and experts from organisations like
 GovTech, Thoughtworks, Microsoft, and more. In addition to keynote speeches,
 attendees can also participate in plenary talks, panel discussions and
