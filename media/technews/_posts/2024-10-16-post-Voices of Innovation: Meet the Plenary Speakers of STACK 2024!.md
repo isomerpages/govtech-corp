@@ -43,7 +43,92 @@ world.</p>
 </li>
 </ul>
 <hr>
-<p>Abi Noda: Empowering Developer Productivity Through Data-Driven Insights
+<h3>Abi Noda: Empowering Developer Productivity Through Data-Driven Insights </h3>
+<p><a href="https://www.linkedin.com/in/abinoda/" rel="noopener noreferrer nofollow" target="_blank">Abi Noda</a> is
+the CEO and Co-Founder of <a href="https://getdx.com/" rel="noopener noreferrer nofollow" target="_blank">DX</a>, an engineering intelligence platform
+that helps organisations improve developer productivity. He also hosts
+the Engineering Enablement podcast and newsletter, sharing the latest research
+on developer performance. Before founding DX, Abi held CTO roles at various
+companies and was the founder and CEO of Pull Panda, a collaboration tool
+for engineering teams that was acquired by GitHub in 2019. Abi's work is
+rooted in his passion for optimising developer performance, making him
+a thought leader in the field of engineering intelligence.</p>
+<h4>What to Expect from Abi’s Talk</h4>
+<p>In his talk, Abi Noda will explore the challenges of measuring developer
+productivity using frameworks like <a href="https://getdx.com/blog/dora-metrics/" rel="noopener noreferrer nofollow" target="_blank">DORA</a> and <a href="https://getdx.com/blog/space-metrics/" rel="noopener noreferrer nofollow" target="_blank">SPACE</a>.
+He will introduce <a href="https://getdx.com/research/measuring-developer-productivity-with-the-dx-core-4/" rel="noopener noreferrer nofollow" target="_blank">DX Core 4</a>,
+a groundbreaking unified framework designed to give a more holistic and
+actionable view of developer productivity. Attendees will gain insights
+into how these tools can be applied to drive meaningful improvements in
+engineering teams.</p>
+<h3>Kevin Ng: Innovating Government Tech Solutions for Singapore</h3>
+<p><a href="https://www.linkedin.com/in/kevin-ng-134562/?originalSubdomain=sg" rel="noopener noreferrer nofollow" target="_blank">Kevin Ng</a> is
+the Senior Director of Core Engineering Products at <a href="https://www.tech.gov.sg/" rel="noopener noreferrer nofollow" target="_blank">GovTech</a>, where he leads teams in developing
+key platforms like the <a href="https://www.tech.gov.sg/products-and-services/for-government-agencies/software-development/government-on-commercial-cloud/" rel="noopener noreferrer nofollow" target="_blank">Government on Commercial Cloud (GCC)</a> and
+<a href="https://www.tech.gov.sg/products-and-services/for-government-agencies/software-development/sg-tech-stack/" rel="noopener noreferrer nofollow" target="_blank">Singapore Government Tech Stack (SGTS)</a>. With over 20 years of experience,
+Kevin has a proven track record of launching new technologies and building
+high-performing product and engineering teams. His work supports Singapore’s
+public sector through innovative solutions for machine learning, UX design,
+and DevOps communities. Previously, Kevin held leadership roles at global
+companies including Expedia, where he led major technological transformations.</p>
+<h3>Tang Bing Wan: Leading Cloud Innovation for Singapore's Government</h3>
+<p><a href="https://www.linkedin.com/in/bingwantang/?originalSubdomain=sg" rel="noopener noreferrer nofollow" target="_blank">Tang Bing Wan</a> is
+the Director of Core Engineering Products at <a href="https://www.tech.gov.sg/" rel="noopener noreferrer nofollow" target="_blank">GovTech</a>, where he oversees the <a href="https://www.tech.gov.sg/products-and-services/for-government-agencies/software-development/government-on-commercial-cloud/" rel="noopener noreferrer nofollow" target="_blank">Government on Commercial Cloud (GCC)</a> programme.
+With a career spanning over two decades, Bing Wan has played a pivotal
+role in driving Singapore's cloud adoption strategy, helping government
+agencies transition to commercial cloud services efficiently and securely.
+His leadership has been instrumental in streamlining cloud migration processes
+and enhancing infrastructure strategies across Singapore’s public sector.</p>
+<p>Bing Wan’s extensive experience as an infrastructure architect includes
+expertise in cloud technologies, IT operations, and system refactoring.
+Prior to GovTech, he held technical and leadership roles in both the banking
+and shipping industries. His deep understanding of infrastructure and cloud
+automation has positioned him as a key figure in Singapore’s digital transformation.</p>
+<h4>What to Expect from Kevin and Bing Wan's Talk</h4>
+<p>In their talk, Bing Wan and Kevin will explore the transformation of developer
+platforms in the public sector, focusing on cloud-native services, resilient
+architectures, and AI-assisted development. They will highlight the importance
+of using Kubernetes ecosystems and cloud-agnostic solutions to enhance
+scalability and reduce risks. Attendees will also learn how breaking down
+silos between development, operations, and security can unlock the full
+potential of <a href="https://www.microsoft.com/en-sg/security/business/security-101/what-is-devsecops#:~:text=FAQs-,DevSecOps%20defined,releasing%20code%20with%20security%20vulnerabilities." rel="noopener noreferrer nofollow" target="_blank">DevSecOps</a>.
+Finally, Bing Wan and Kevin will discuss how continuous upskilling and
+AI integration can streamline the developer experience across government
+agencies.</p>
+<h3>Brian Houck: Elevating Developer Productivity in the Age of AI</h3>
+<p><a href="https://www.linkedin.com/in/brian-houck-b4123132/" rel="noopener noreferrer nofollow" target="_blank">Brian Houck</a>,
+a Senior Principal Applied Scientist at <a href="https://www.microsoft.com/en-sg/" rel="noopener noreferrer nofollow" target="_blank">Microsoft</a>, focuses on enhancing
+the productivity and well-being of engineering teams. With a human-centered
+approach, he aims to create collaborative and motivating work environments.
+His research into developer tooling, processes, and cultural dynamics has
+led to impactful initiatives that improve team dynamics and efficiency.
+Brian’s work is not just about measuring metrics but empowering developers
+to reach their full potential.</p>
+<h4>What to Expect from Brian’s Talk</h4>
+<p>In his presentation, Brian will revisit the SPACE framework, a model designed
+to measure developer productivity across multiple dimensions. He will explore
+how AI is reshaping traditional workflows and why understanding these changes
+through the SPACE lens is essential. Attendees will gain practical strategies
+for applying this framework to improve developer experience, optimise focus
+time, and ensure well-being in hybrid work environments, all while navigating
+the growing influence of AI on engineering work.</p>
+<h3>Ketan Mujumdar: Engineering Excellence in Fast-Paced Environments</h3>
+<p><a href="https://www.linkedin.com/in/ketanmujumdar/" rel="noopener noreferrer nofollow" target="_blank">Ketan Mujumdar</a> is
+the Director of Engineering at <a href="https://press.carousell.com/carousell-group/" rel="noopener noreferrer nofollow" target="_blank">Carousell Group</a>,
+bringing over 15 years of experience in leading engineering teams and driving
+innovative solutions. With a deep background in Agile methodologies and
+cloud services, Ketan has led projects across multiple sectors, including
+monetisation strategies and software development. His expertise spans roles
+such as Scrum Master, Product Owner, and Release Manager, making him a
+versatile leader in the field of engineering.</p>
+<h3>Rajath Ramesh: Building Scalable Platforms with Vision</h3>
+<p><a href="https://www.linkedin.com/in/rajathramesh/" rel="noopener nofollow" target="_blank">Rajath Ramesh</a>,
+Group Director of Product and Platform Engineering at <a href="https://press.carousell.com/carousell-group/" rel="noopener noreferrer nofollow" target="_blank">Carousell Group</a>,
+is an expert in designing and developing scalable systems on cloud infrastructure.
+With extensive experience leading engineering teams, he has played a key
+role in standardising infrastructure, backend, and data platforms across
+the company. His innovative leadership has empowered teams to build long-term,
+efficient platforms that drive the success of Carousell's engineering efforts.
 <br>
 </p>
 <p></p>
