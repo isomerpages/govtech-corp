@@ -175,6 +175,9 @@ of how to effectively implement <a href="https://www.tech.gov.sg/products-and-se
 the lessons learned from working on cutting-edge AI technologies in a fast-paced
 environment.</p>
 <h3>Jessie Xia: Elevating Careers Through Digital Transformation</h3>
+<div class="isomer-image-wrapper">
+<img style="width: 60%;" height="auto" width="100%" alt="Jessie Xia STACK Developer Conference 2024 Speaker" src="/images/technews/Jessie_Xia___600x300.png">
+</div>
 <p><a href="https://www.linkedin.com/in/jessie-xia/?originalSubdomain=sg" rel="noopener noreferrer nofollow" target="_blank">Jessie Xia</a>,
 Global Chief Information Officer at <a href="https://www.thoughtworks.com/en-sg" rel="noopener noreferrer nofollow" target="_blank">Thoughtworks</a>, is a seasoned
 IT leader with over 19 years of experience in digital consulting, IT strategy,
@@ -193,6 +196,9 @@ growth. Attendees will leave with tools and a mindset to drive their own
 career development, whether they are software engineers, <a href="https://www.tech.gov.sg/media/technews/transforming-public-services-through-design-insights-from-lillian-shieh/" rel="noopener noreferrer nofollow" target="_blank">UX designers</a>,
 or project managers.</p>
 <h3>Corey Lee: Driving Innovation Through Cross-Functional Collaboration</h3>
+<div class="isomer-image-wrapper">
+<img style="width: 60%;" height="auto" width="100%" alt="Corey Lee STACK Developer Conference 2024 Speaker" src="/images/technews/Corey_Lee___600x300.png">
+</div>
 <p><a href="https://www.linkedin.com/in/coreylee/?originalSubdomain=jp" rel="noopener noreferrer nofollow" target="_blank">Corey Lee</a>,
 a multidisciplinary designer based in Tokyo, serves as a Designer Advocate
 at <a href="https://www.figma.com/" rel="noopener noreferrer nofollow" target="_blank">Figma</a>.
