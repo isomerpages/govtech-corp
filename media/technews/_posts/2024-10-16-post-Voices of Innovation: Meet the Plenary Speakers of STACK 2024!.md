@@ -78,6 +78,9 @@ public sector through innovative solutions for machine learning, UX design,
 and DevOps communities. Previously, Kevin held leadership roles at global
 companies including Expedia, where he led major technological transformations.</p>
 <h3>Tang Bing Wan: Leading Cloud Innovation for Singapore's Government</h3>
+<div class="isomer-image-wrapper">
+<img style="width: 60%;" height="auto" width="100%" alt="Tang Bing Wan STACK Developer Conference 2024 Speaker" src="/images/technews/Tang_Bing_Wan___600x300.png">
+</div>
 <p><a href="https://www.linkedin.com/in/bingwantang/?originalSubdomain=sg" rel="noopener noreferrer nofollow" target="_blank">Tang Bing Wan</a> is
 the Director of Core Engineering Products at <a href="https://www.tech.gov.sg/" rel="noopener noreferrer nofollow" target="_blank">GovTech</a>, where he oversees the <a href="https://www.tech.gov.sg/products-and-services/for-government-agencies/software-development/government-on-commercial-cloud/" rel="noopener noreferrer nofollow" target="_blank">Government on Commercial Cloud (GCC)</a> programme.
 With a career spanning over two decades, Bing Wan has played a pivotal
@@ -102,6 +105,9 @@ Finally, Bing Wan and Kevin will discuss how continuous upskilling and
 AI integration can streamline the developer experience across government
 agencies.</p>
 <h3>Brian Houck: Elevating Developer Productivity in the Age of AI</h3>
+<div class="isomer-image-wrapper">
+<img style="width: 60%;" height="auto" width="100%" alt="Brian Houck STACK Developer Conference 2024 Speaker" src="/images/technews/Brian_Houck___600x300.png">
+</div>
 <p><a href="https://www.linkedin.com/in/brian-houck-b4123132/" rel="noopener noreferrer nofollow" target="_blank">Brian Houck</a>,
 a Senior Principal Applied Scientist at <a href="https://www.microsoft.com/en-sg/" rel="noopener noreferrer nofollow" target="_blank">Microsoft</a>, focuses on enhancing
 the productivity and well-being of engineering teams. With a human-centered
@@ -119,6 +125,9 @@ for applying this framework to improve developer experience, optimise focus
 time, and ensure well-being in hybrid work environments, all while navigating
 the growing influence of AI on engineering work.</p>
 <h3>Ketan Mujumdar: Engineering Excellence in Fast-Paced Environments</h3>
+<div class="isomer-image-wrapper">
+<img style="width: 60%;" height="auto" width="100%" alt="Ketan Mujumdar STACK Developer Conference 2024 Speaker" src="/images/technews/Ketan_Mujumdar___600x300.png">
+</div>
 <p><a href="https://www.linkedin.com/in/ketanmujumdar/" rel="noopener noreferrer nofollow" target="_blank">Ketan Mujumdar</a> is
 the Director of Engineering at <a href="https://press.carousell.com/carousell-group/" rel="noopener noreferrer nofollow" target="_blank">Carousell Group</a>,
 bringing over 15 years of experience in leading engineering teams and driving
@@ -128,6 +137,9 @@ monetisation strategies and software development. His expertise spans roles
 such as Scrum Master, Product Owner, and Release Manager, making him a
 versatile leader in the field of engineering.</p>
 <h3>Rajath Ramesh: Building Scalable Platforms with Vision</h3>
+<div class="isomer-image-wrapper">
+<img style="width: 60%;" height="auto" width="100%" alt="Rajath Ramesh STACK Developer Conference 2024 Speaker" src="/images/technews/Rajath_Ramesh___600x300.png">
+</div>
 <p><a href="https://www.linkedin.com/in/rajathramesh/" rel="noopener nofollow" target="_blank">Rajath Ramesh</a>,
 Group Director of Product and Platform Engineering at <a href="https://press.carousell.com/carousell-group/" rel="noopener noreferrer nofollow" target="_blank">Carousell Group</a>,
 is an expert in designing and developing scalable systems on cloud infrastructure.
@@ -142,6 +154,9 @@ environments. These environments allow developers to test code changes
 without disrupting shared systems like staging or pre-production, enhancing
 productivity by 20% while maintaining stability and controlling costs.</p>
 <h3>Brian Lim: Driving AI Innovation in Product Development</h3>
+<div class="isomer-image-wrapper">
+<img style="width: 60%;" height="auto" width="100%" alt="Brian Lim STACK Developer Conference 2024 Speaker" src="/images/technews/Brian_Lim___600x300.png">
+</div>
 <p><a href="https://www.linkedin.com/in/brianlimlc/?originalSubdomain=sg" rel="noopener noreferrer nofollow" target="_blank">Brian Lim</a>,
 Managing Director and APAC General Manager at <a href="https://primer.ai/" rel="noopener noreferrer nofollow" target="_blank">Primer AI</a>, is a leader in AI strategy and
 product development. With extensive experience advising governments, corporates,
