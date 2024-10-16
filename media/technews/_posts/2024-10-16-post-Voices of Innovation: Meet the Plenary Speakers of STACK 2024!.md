@@ -171,4 +171,23 @@ strengths, demonstrating value in day-to-day work, and planning for long-term
 growth. Attendees will leave with tools and a mindset to drive their own
 career development, whether they are software engineers, <a href="https://www.tech.gov.sg/media/technews/transforming-public-services-through-design-insights-from-lillian-shieh/" rel="noopener noreferrer nofollow" target="_blank">UX designers</a>,
 or project managers.</p>
+<h3>Corey Lee: Driving Innovation Through Cross-Functional Collaboration</h3>
+<p><a href="https://www.linkedin.com/in/coreylee/?originalSubdomain=jp" rel="noopener noreferrer nofollow" target="_blank">Corey Lee</a>,
+a multidisciplinary designer based in Tokyo, serves as a Designer Advocate
+at <a href="https://www.figma.com/" rel="noopener noreferrer nofollow" target="_blank">Figma</a>.
+With expertise in product design, design operations, and strategy, Corey
+is dedicated to empowering organisations to harness design effectively
+at scale. His work spans across APAC, where he focuses on fostering collaborative
+design cultures and building design communities. With years of experience
+in <a href="https://coreylee.tokyo/" rel="noopener noreferrer nofollow" target="_blank">various design leadership roles</a>,
+Corey is passionate about helping teams achieve their design potential
+and innovate through cross-functional collaboration.</p>
+<h4>What to Expect from Corey’s Talk&nbsp;</h4>
+<p>In his session, Corey will delve into how organisational culture fuels
+innovation. He will highlight the importance of aligning strong values
+with collaborative efforts to drive product success. Attendees will gain
+actionable insights on building a collaborative culture at scale, emphasising
+the power of cross-functional teamwork. Whether you're a product designer
+or a team leader, this talk will provide practical strategies to elevate
+collaboration and innovation in your organisation.</p>
 <p></p>
