@@ -220,7 +220,7 @@ As the former Head of AI Labs, Wee Hyong led a global team of data scientists
 to develop AI solutions for industries ranging from healthcare to manufacturing,
 delivering innovative machine learning applications that drive business
 impact.</p>
-<h4>From Product Innovation to Global Leadership  </h4>
+<h4>From Product Innovation to Global Leadership</h4>
 <p>Throughout his career, Wee Hyong has been at the forefront of AI innovation
 at Microsoft. He helped develop the <a href="https://azure.microsoft.com/en-us/products/data-factory" rel="noopener noreferrer nofollow" target="_blank">Azure Data Factory</a>,
 a key component in Microsoft’s cloud offerings, and played a crucial role
@@ -232,8 +232,8 @@ with his leadership in product development, has cemented his status as
 one of the leading figures in global AI innovation.</p>
 <p></p>
 <hr>
-<h4>Register for <a href="https://go.gov.sg/stack2024-tnedm" rel="noopener noreferrer nofollow" target="_blank">STACK Developer Conference 2024</a></h4>
-<p><em>Choose from <a href="https://go.gov.sg/stack2024-tnedm" rel="noopener noreferrer nofollow" target="_blank">in-person tickets</a> (selling fast) or <a href="https://go.gov.sg/stack2024-tnedm" rel="noopener noreferrer nofollow" target="_blank">virtual tickets</a>!</em>
+<h4><strong>Keen to hear from these keynote speakers? Register for the <a href="https://go.gov.sg/stack2024-tnedm" rel="noopener noreferrer nofollow" target="_blank">STACK Developer Conference 2024!</a></strong></h4>
+<p><strong><em>Choose from <a href="https://go.gov.sg/stack2024-tnedm" rel="noopener noreferrer nofollow" target="_blank">in-person tickets</a> (selling fast) or <a href="https://go.gov.sg/stack2024-tnedm" rel="noopener noreferrer nofollow" target="_blank">virtual tickets</a>!</em></strong>
 </p>
 <h4>Related Content:</h4>
 <div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="/media/technews/stack-2024-tech-experts-to-share-their-knowledge-on-ux-design-developer-platforms/" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="STACK Developer Conference 2024 Keynote Speakers" src="/images/technews/STACK_2024__845x200_.jpg"></div></div><div class="isomer-card-body"><div class="isomer-card-title">STACK 2024: Tech Experts to Share Their Knowledge on UX Design, Developer Platforms, and More!</div><div class="isomer-card-link">Read more on TechNews</div></div></a>
