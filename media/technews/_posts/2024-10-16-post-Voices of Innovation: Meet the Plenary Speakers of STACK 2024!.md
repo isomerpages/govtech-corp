@@ -153,4 +153,22 @@ involved in AI product deployment. Attendees will gain a deeper understanding
 of how to effectively implement <a href="https://www.tech.gov.sg/products-and-services/for-government-agencies/data-and-ai/" rel="noopener noreferrer nofollow" target="_blank">LLM-based products</a> and
 the lessons learned from working on cutting-edge AI technologies in a fast-paced
 environment.</p>
+<h3>Jessie Xia: Elevating Careers Through Digital Transformation</h3>
+<p><a href="https://www.linkedin.com/in/jessie-xia/?originalSubdomain=sg" rel="noopener noreferrer nofollow" target="_blank">Jessie Xia</a>,
+Global Chief Information Officer at <a href="https://www.thoughtworks.com/en-sg" rel="noopener noreferrer nofollow" target="_blank">Thoughtworks</a>, is a seasoned
+IT leader with over 19 years of experience in digital consulting, IT strategy,
+and leadership development. Throughout her career at Thoughtworks, Jessie
+has been instrumental in guiding the company’s digital transformation journey
+and fostering innovation. With a passion for leveraging technology to enhance
+productivity and improve lives, Jessie’s leadership focuses on both internal
+strategies and client success.</p>
+<h4>What to Expect from Jessie’s Talk</h4>
+<p>In her session, Jessie will offer practical advice on navigating a tech
+career by strategically enhancing skills and aligning with business goals.
+Drawing from the <a href="https://www.thoughtworks.com/en-sg/insights/blog/careers-at-thoughtworks/an-integrated-talent-ecosystem-designed-for-growth" rel="noopener noreferrer nofollow" target="_blank">TalentTech ecosystem</a> at
+Thoughtworks, she will provide actionable insights on identifying personal
+strengths, demonstrating value in day-to-day work, and planning for long-term
+growth. Attendees will leave with tools and a mindset to drive their own
+career development, whether they are software engineers, <a href="https://www.tech.gov.sg/media/technews/transforming-public-services-through-design-insights-from-lillian-shieh/" rel="noopener noreferrer nofollow" target="_blank">UX designers</a>,
+or project managers.</p>
 <p></p>
