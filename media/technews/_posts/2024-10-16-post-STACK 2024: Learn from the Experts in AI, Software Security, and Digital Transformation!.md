@@ -23,7 +23,7 @@ serves as a platform for government agencies, industry leaders, and the
 tech community to exchange ideas and explore new opportunities that propel
 <a href="https://www.tech.gov.sg/our-capabilities/" rel="noopener noreferrer nofollow" target="_blank">digital transformation</a>.</p>
 <h3>Why attend STACK 2024?</h3>
-<p>This year’s event will feature 9 distinguished <a href="https://www.developer.tech.gov.sg/communities/events/conferences/stack-developer-conference-2024/speakers" rel="noopener noreferrer nofollow" target="_blank"><u>keynote speakers</u></a> who
+<p>This year’s event will feature <strong>9 distinguished <a href="https://www.developer.tech.gov.sg/communities/events/conferences/stack-developer-conference-2024/speakers" rel="noopener noreferrer nofollow" target="_blank"><u>keynote speakers</u></a></strong> who
 are experts in their fields, representing leading organisations like Microsoft,
 GitLab, ServiceNow, and more.</p>
 <p>STACK 2024 offers an unparalleled opportunity for innovators, entrepreneurs,
