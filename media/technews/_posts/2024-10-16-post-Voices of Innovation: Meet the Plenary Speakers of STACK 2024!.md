@@ -44,6 +44,9 @@ world.</p>
 </ul>
 <hr>
 <h3>Abi Noda: Empowering Developer Productivity Through Data-Driven Insights</h3>
+<div class="isomer-image-wrapper">
+<img style="width: 60%;" height="auto" width="100%" alt="Abi Noda STACK Developer Conference 2024 Speaker" src="/images/technews/Abi_Noda.png">
+</div>
 <p><a href="https://www.linkedin.com/in/abinoda/" rel="noopener noreferrer nofollow" target="_blank">Abi Noda</a> is
 the CEO and Co-Founder of <a href="https://getdx.com/" rel="noopener noreferrer nofollow" target="_blank">DX</a>, an engineering intelligence platform
 that helps organisations improve developer productivity. He also hosts
@@ -62,6 +65,9 @@ actionable view of developer productivity. Attendees will gain insights
 into how these tools can be applied to drive meaningful improvements in
 engineering teams.</p>
 <h3>Kevin Ng: Innovating Government Tech Solutions for Singapore</h3>
+<div class="isomer-image-wrapper">
+<img style="width: 60%;" height="auto" width="100%" alt="Kevin Ng STACK Developer Conference 2024 Speaker" src="/images/technews/Kevin_Ng___600x300.png">
+</div>
 <p><a href="https://www.linkedin.com/in/kevin-ng-134562/?originalSubdomain=sg" rel="noopener noreferrer nofollow" target="_blank">Kevin Ng</a> is
 the Senior Director of Core Engineering Products at <a href="https://www.tech.gov.sg/" rel="noopener noreferrer nofollow" target="_blank">GovTech</a>, where he leads teams in developing
 key platforms like the <a href="https://www.tech.gov.sg/products-and-services/for-government-agencies/software-development/government-on-commercial-cloud/" rel="noopener noreferrer nofollow" target="_blank">Government on Commercial Cloud (GCC)</a> and
