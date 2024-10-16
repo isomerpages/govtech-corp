@@ -190,7 +190,46 @@ and marketing. Her approach is deeply rooted in customer insights, ensuring
 product innovation and marketing strategies align with real market needs.</p>
 <p></p>
 <h3>Dr Tok Wee Hyong: Pioneering Data and AI for Global Impact</h3>
-<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 60%;" height="auto" width="100%" alt="Dr Tok Wee Hyong STACK Developer Conference 2024 Keynote Speaker" src="/images/technews/Tok_Wee_Hyong___600x300.png">
+</div>
+<p><a href="https://www.linkedin.com/in/weehyongtok/" rel="noopener noreferrer nofollow" target="_blank">Wee Hyong</a> is
+the Partner Director of Products at Microsoft's Cloud and AI Organisation,
+where he leads global teams in developing cutting-edge solutions that harness
+the power of data and artificial intelligence. With over 15 years of experience
+at <a href="https://www.microsoft.com/en-sg" rel="noopener noreferrer nofollow" target="_blank">Microsoft</a>,
+Wee Hyong has been a driving force in shaping the company’s AI strategy
+and fostering innovation across its diverse product portfolio. His leadership
+has helped transform AI from a niche technology into a critical tool for
+businesses and governments worldwide.</p>
+<h4>What to Expect from Dr Tok Wee Hyong’s Talk</h4>
+<p>In his keynote, Wee Hyong will explore the game-changing potential of
+Generative AI and how it’s reshaping industries today. He will discuss
+the pivotal role of data in training AI models and outline best practices
+for developing a holistic <a href="https://www.microsoft.com/en-us/research/group/dataai/" rel="noopener noreferrer nofollow" target="_blank">Data and AI</a> strategy
+that can deliver meaningful outcomes. Expect insights into how Microsoft
+and its partners are leveraging AI to solve real-world challenges, from
+enhancing operational efficiencies to tackling environmental issues.</p>
+<h4>Transforming AI and Data into Tangible Solutions</h4>
+<p>Wee Hyong has played a pivotal role in advancing AI technologies at Microsoft,
+co-founding initiatives like <a href="https://planetarycomputer.microsoft.com/" rel="noopener noreferrer nofollow" target="_blank">AI for Earth</a>, which
+uses AI to address global sustainability challenges. Through projects ranging
+from tracking deforestation to measuring carbon absorption, his work has
+demonstrated how AI can be a force for <a href="https://www.tech.gov.sg/our-digital-government-efforts/tech-for-public-good/" rel="noopener noreferrer nofollow" target="_blank">public good</a>.
+As the former Head of AI Labs, Wee Hyong led a global team of data scientists
+to develop AI solutions for industries ranging from healthcare to manufacturing,
+delivering innovative machine learning applications that drive business
+impact.</p>
+<h4>From Product Innovation to Global Leadership  </h4>
+<p>Throughout his career, Wee Hyong has been at the forefront of AI innovation
+at Microsoft. He helped develop the <a href="https://azure.microsoft.com/en-us/products/data-factory" rel="noopener noreferrer nofollow" target="_blank">Azure Data Factory</a>,
+a key component in Microsoft’s cloud offerings, and played a crucial role
+in launching <a href="https://www.microsoft.com/en-us/microsoft-fabric" rel="noopener noreferrer nofollow" target="_blank">Microsoft Fabric</a>,
+a unified data analytics platform. With over 10 books published on topics
+like weak supervision and automated machine learning, Wee Hyong is also
+a thought leader in the tech community. His deep expertise in AI, coupled
+with his leadership in product development, has cemented his status as
+one of the leading figures in global AI innovation.</p>
 <p></p>
 <hr>
 <h4>Register for <a href="https://go.gov.sg/stack2024-tnedm" rel="noopener noreferrer nofollow" target="_blank">STACK Developer Conference 2024</a></h4>
