@@ -43,7 +43,7 @@ world.</p>
 </li>
 </ul>
 <hr>
-<h3>Abi Noda: Empowering Developer Productivity Through Data-Driven Insights </h3>
+<h3>Abi Noda: Empowering Developer Productivity Through Data-Driven Insights</h3>
 <p><a href="https://www.linkedin.com/in/abinoda/" rel="noopener noreferrer nofollow" target="_blank">Abi Noda</a> is
 the CEO and Co-Founder of <a href="https://getdx.com/" rel="noopener noreferrer nofollow" target="_blank">DX</a>, an engineering intelligence platform
 that helps organisations improve developer productivity. He also hosts
@@ -128,7 +128,11 @@ is an expert in designing and developing scalable systems on cloud infrastructur
 With extensive experience leading engineering teams, he has played a key
 role in standardising infrastructure, backend, and data platforms across
 the company. His innovative leadership has empowered teams to build long-term,
-efficient platforms that drive the success of Carousell's engineering efforts.
-<br>
-</p>
+efficient platforms that drive the success of Carousell's engineering efforts.</p>
+<h4>What to Expect from Ketan and Rajath's Talk</h4>
+<p>Ketan Mujumdar and Rajath Ramesh will share how Carousell improved developer
+efficiency in microservice architecture by implementing isolated, on-demand
+environments. These environments allow developers to test code changes
+without disrupting shared systems like staging or pre-production, enhancing
+productivity by 20% while maintaining stability and controlling costs.</p>
 <p></p>
