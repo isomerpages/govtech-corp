@@ -135,4 +135,22 @@ efficiency in microservice architecture by implementing isolated, on-demand
 environments. These environments allow developers to test code changes
 without disrupting shared systems like staging or pre-production, enhancing
 productivity by 20% while maintaining stability and controlling costs.</p>
+<h3>Brian Lim: Driving AI Innovation in Product Development</h3>
+<p><a href="https://www.linkedin.com/in/brianlimlc/?originalSubdomain=sg" rel="noopener noreferrer nofollow" target="_blank">Brian Lim</a>,
+Managing Director and APAC General Manager at <a href="https://primer.ai/" rel="noopener noreferrer nofollow" target="_blank">Primer AI</a>, is a leader in AI strategy and
+product development. With extensive experience advising governments, corporates,
+and startups, Brian’s expertise lies in leveraging AI technologies, particularly
+Large Language Models (LLMs) and Natural Language Processing (NLP), to
+solve complex business challenges. Prior to Primer, he led GIC Labs, where
+he spearheaded innovation in emerging technologies, including AI and NLP,
+to enhance decision-making.</p>
+<h4>What to Expect from Brian’s Talk&nbsp;</h4>
+<p>In his talk, Brian will share valuable insights from Primer AI’s journey
+in developing and deploying AI products. He will explore the latest advancements
+in <a href="https://www.tech.gov.sg/media/technews/generative-ai-where-can-it-go-wrong/" rel="noopener noreferrer nofollow" target="_blank">LLMs</a>,
+discuss real-world use cases, and tackle the practical challenges and solutions
+involved in AI product deployment. Attendees will gain a deeper understanding
+of how to effectively implement <a href="https://www.tech.gov.sg/products-and-services/for-government-agencies/data-and-ai/" rel="noopener noreferrer nofollow" target="_blank">LLM-based products</a> and
+the lessons learned from working on cutting-edge AI technologies in a fast-paced
+environment.</p>
 <p></p>
