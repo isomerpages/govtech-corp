@@ -31,8 +31,10 @@ tech advancements and products.</p>
 GovTech, Thoughtworks, Microsoft, and more. In addition to keynote speeches,
 attendees can also participate in plenary talks, panel discussions and
 more!</p>
-<p>Here is a brief background and introduction to some of the keynote speakers
-who will be presenting at STACK 2024!</p>
+<p><strong>Here's an introduction to some of the keynote speakers who will be speaking at STACK 2024!</strong>
+</p>
+<p><em>Note: This article is the 1<sup>st </sup>of a two-part series on STACK keynote speakers. Check out the 2<sup>nd</sup> article to learn more about the other <a href="/media/technews/stack-2024-learn-from-experts-in-ai-software-security-and-digital-transformation/" rel="noopener nofollow" target="_blank">STACK keynote speakers</a>.</em>
+</p>
 <div class="isomer-card-grid">
 <div class="isomer-card">
 <div class="isomer-card-image">
