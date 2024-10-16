@@ -27,10 +27,7 @@ GitLab, ServiceNow, and more.</p>
 <p>STACK 2024 offers an unparalleled opportunity for innovators, entrepreneurs,
 and tech enthusiasts to gain insights into the latest advancements, trends,
 and products shaping the future of technology.</p>
-<p><strong>Get to know some of these keynote speakers who will be speaking at STACK 2024!</strong>
-</p>
-<p><em>Note: This article is the 2nd of a two-part series on STACK keynote speakers. Check out the 1st article to learn more about the other <a href="/media/technews/stack-2024-tech-experts-to-share-their-knowledge-on-ux-design-developer-platforms/" rel="noopener nofollow" target="_blank">STACK keynote speakers</a>.</em>
-</p>
+<h3>Get to know the keynote speakers of STACK 2024</h3>
 <div class="isomer-card-grid">
 <div class="isomer-card">
 <div class="isomer-card-image">
@@ -79,6 +76,9 @@ and products shaping the future of technology.</p>
 </div>
 </div>
 </div>
+<p><em>Note: This article is the 2nd of a two-part series on STACK keynote speakers. Check out the 1st article to learn more about the other <a href="/media/technews/stack-2024-tech-experts-to-share-their-knowledge-on-ux-design-developer-platforms/" rel="noopener nofollow" target="_blank">STACK keynote speakers</a>.</em>
+</p>
+<hr>
 <h3>Chang Sau Sheong: Shaping Singapore's Digital Future</h3>
 <div class="isomer-image-wrapper">
 <img style="width: 60%;" height="auto" width="100%" alt="Chang Sau Sheong STACK Developer Conference 2024 Keynote Speaker" src="/images/technews/Sau_Sheong___600x300__1_.png">
