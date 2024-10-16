@@ -192,7 +192,7 @@ J&amp;J sectors.</p>
 services can be improved, by examining powerful biases in how digital services
 are developed and by reflecting on the changing priorities and responsibilities
 of government digital services when there is greater digital maturity.</p>
-<p><em>You might also be interested in this TechNews article:</em>
+<p><strong><em>You might also be interested in this TechNews article:</em></strong>
 </p>
 <div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="/media/technews/transforming-public-services-through-design-insights-from-lillian-shieh/" class="isomer-card"><div class="isomer-card-body"><div class="isomer-card-title">Transforming Public Services Through Design: Insights from Lillian Shieh</div><div class="isomer-card-description">Q&amp;A with Lillian Shieh: Researcher, Product Strategist, UX Designer</div><div class="isomer-card-link">Read more on TechNews</div></div></a>
 </div>
