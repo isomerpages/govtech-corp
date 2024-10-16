@@ -14,7 +14,7 @@ variant: tiptap
 <p>Get ready for Singapore's largest Government-led tech event — GovTech's
 <a href="https://go.gov.sg/stack2024-tnedm" rel="noopener noreferrer nofollow" target="_blank">STACK Developer Conference 2024&nbsp;</a>from 6 to 7 November at the Sands
 Expo and Convention Centre!</p>
-<h3>What is the STACK Developer Conference about?</h3>
+<h3>What is STACK Developer Conference about?</h3>
 <p>STACK 2024 is part of the <a href="https://www.tech.gov.sg/our-communities/join-our-communities/stack-community/" rel="noopener noreferrer nofollow" target="_blank">GovTech STACK community's</a> series
 of tech events to drive learning, networking, and collaboration between
 the public and private sectors. Organised by GovTech to drive Singapore’s
@@ -31,10 +31,7 @@ tech advancements and products.</p>
 GovTech, Thoughtworks, Microsoft, and more. In addition to keynote speeches,
 attendees can also participate in plenary talks, panel discussions and
 more!</p>
-<p><strong>Here's an introduction to some of the keynote speakers who will be speaking at STACK 2024!</strong>
-</p>
-<p><em>Note: This article is the 1<sup>st </sup>of a two-part series on STACK keynote speakers. Check out the 2<sup>nd</sup> article to learn more about the other <a href="/media/technews/stack-2024-learn-from-experts-in-ai-software-security-and-digital-transformation/" rel="noopener nofollow" target="_blank">STACK keynote speakers</a>.</em>
-</p>
+<h3>Get to know the keynote speakers of STACK 2024</h3>
 <div class="isomer-card-grid">
 <div class="isomer-card">
 <div class="isomer-card-image">
@@ -83,6 +80,9 @@ more!</p>
 </div>
 </div>
 </div>
+<p><em>Note: This article is the 1<sup>st </sup>of a two-part series on STACK keynote speakers. Check out the 2<sup>nd</sup> article to learn more about the other <a href="/media/technews/stack-2024-learn-from-experts-in-ai-software-security-and-digital-transformation/" rel="noopener nofollow" target="_blank">STACK keynote speakers</a>.</em>
+</p>
+<hr>
 <h3>Evan You: A Developer that’s Transforming the Web Development Landscape</h3>
 <div class="isomer-image-wrapper">
 <img style="width: 60%;" height="auto" width="100%" alt="Evan You STACK Developer Conference 2024 Keynote Speaker" src="/images/technews/Evan_You_600x300.png">
