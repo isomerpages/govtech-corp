@@ -10,9 +10,7 @@ description: Join STACK 2024 and learn from experts in AI, DevSecOps, and
 image: /images/technews/STACK_2024_article__631x200___1_.jpg
 variant: tiptap
 ---
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="STACK 2024 Banner" src="/images/technews/STACK_2024_article__631x200___1_.jpg">
-</div>
+<a class="isomer-image-wrapper" href="https://go.gov.sg/stack2024-tnedm"><img style="width: 100%" height="auto" width="100%" alt="STACK 2024 Banner" src="/images/technews/STACK_2024_article__631x200___1_.jpg"></a>
 <p>Get ready for Singapore’s biggest Government-led tech event — <a href="https://go.gov.sg/stack2024-tnedm" rel="noopener noreferrer nofollow" target="_blank"><u>GovTech’s STACK Developer Conference 2024</u></a> —
 happening from 6 to 7 November at the Marina Bay Sands Expo and Convention
 Centre!</p>
