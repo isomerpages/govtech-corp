@@ -42,7 +42,8 @@ world.</p>
 </p>
 </li>
 </ul>
-<p>
+<hr>
+<p>Abi Noda: Empowering Developer Productivity Through Data-Driven Insights
 <br>
 </p>
 <p></p>
