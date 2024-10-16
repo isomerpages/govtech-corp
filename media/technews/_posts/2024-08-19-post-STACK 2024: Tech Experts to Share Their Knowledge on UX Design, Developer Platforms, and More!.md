@@ -31,40 +31,6 @@ tech advancements and products.</p>
 GovTech, Thoughtworks, Microsoft, and more. In addition to keynote speeches,
 attendees can also participate in plenary talks, panel discussions and
 more!</p>
-<div class="isomer-card-grid">
-<div class="isomer-card">
-<div class="isomer-card-body">
-<div class="isomer-card-title">Over 10 Technical Workshops</div>
-</div>
-</div>
-<div class="isomer-card">
-<div class="isomer-card-body">
-<div class="isomer-card-title">9 Keynote Presentations</div>
-</div>
-</div>
-<div class="isomer-card">
-<div class="isomer-card-body">
-<div class="isomer-card-title">7 Plenary Talks</div>
-</div>
-</div>
-<div class="isomer-card">
-<div class="isomer-card-body">
-<div class="isomer-card-title">2 Panel Discussions</div>
-</div>
-</div>
-<div class="isomer-card">
-<div class="isomer-card-body">
-<div class="isomer-card-title">36 Lightning Talks</div>
-</div>
-</div>
-<div class="isomer-card">
-<div class="isomer-card-body">
-<div class="isomer-card-title">Over 10 Product Showcases</div>
-</div>
-</div>
-</div>
-<p><em>Programme subject to changes</em>
-</p>
 <p>Here is a brief background and introduction to some of the keynote speakers
 who will be presenting at STACK 2024!</p>
 <div class="isomer-card-grid">
