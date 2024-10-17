@@ -253,48 +253,6 @@ potential of <a href="https://www.microsoft.com/en-sg/security/business/security
 Finally, Bing Wan and Kevin will discuss how continuous upskilling and
 AI integration can streamline the developer experience across government
 agencies.</p>
-<h3>Brian Lim: Driving AI Innovation in Product Development</h3>
-<div class="isomer-image-wrapper">
-<img style="width: 60%;" height="auto" width="100%" alt="Brian Lim STACK Developer Conference 2024 Speaker" src="/images/technews/Brian_Lim___600x300.png">
-</div>
-<p><a href="https://www.linkedin.com/in/brianlimlc/?originalSubdomain=sg" rel="noopener noreferrer nofollow" target="_blank">Brian Lim</a>,
-Managing Director and APAC General Manager at <a href="https://primer.ai/" rel="noopener noreferrer nofollow" target="_blank">Primer AI</a>, is a leader in AI strategy and
-product development. With extensive experience advising governments, corporates,
-and startups, Brian’s expertise lies in leveraging AI technologies, particularly
-Large Language Models (LLMs) and Natural Language Processing (NLP), to
-solve complex business challenges. Prior to Primer, he led GIC Labs, where
-he spearheaded innovation in emerging technologies, including AI and NLP,
-to enhance decision-making.</p>
-<h4>What to Expect from Brian’s Talk&nbsp;</h4>
-<p>In his talk, Brian will share valuable insights from Primer AI’s journey
-in developing and deploying AI products. He will explore the latest advancements
-in <a href="https://www.tech.gov.sg/media/technews/generative-ai-where-can-it-go-wrong/" rel="noopener noreferrer nofollow" target="_blank">LLMs</a>,
-discuss real-world use cases, and tackle the practical challenges and solutions
-involved in AI product deployment. Attendees will gain a deeper understanding
-of how to effectively implement <a href="https://www.tech.gov.sg/products-and-services/for-government-agencies/data-and-ai/" rel="noopener noreferrer nofollow" target="_blank">LLM-based products</a> and
-the lessons learned from working on cutting-edge AI technologies in a fast-paced
-environment.</p>
-<h3>Jessie Xia: Elevating Careers Through Digital Transformation</h3>
-<div class="isomer-image-wrapper">
-<img style="width: 60%;" height="auto" width="100%" alt="Jessie Xia STACK Developer Conference 2024 Speaker" src="/images/technews/Jessie_Xia___600x300.png">
-</div>
-<p><a href="https://www.linkedin.com/in/jessie-xia/?originalSubdomain=sg" rel="noopener noreferrer nofollow" target="_blank">Jessie Xia</a>,
-Global Chief Information Officer at <a href="https://www.thoughtworks.com/en-sg" rel="noopener noreferrer nofollow" target="_blank">Thoughtworks</a>, is a seasoned
-IT leader with over 19 years of experience in digital consulting, IT strategy,
-and leadership development. Throughout her career at Thoughtworks, Jessie
-has been instrumental in guiding the company’s digital transformation journey
-and fostering innovation. With a passion for leveraging technology to enhance
-productivity and improve lives, Jessie’s leadership focuses on both internal
-strategies and client success.</p>
-<h4>What to Expect from Jessie’s Talk</h4>
-<p>In her session, Jessie will offer practical advice on navigating a tech
-career by strategically enhancing skills and aligning with business goals.
-Drawing from the <a href="https://www.thoughtworks.com/en-sg/insights/blog/careers-at-thoughtworks/an-integrated-talent-ecosystem-designed-for-growth" rel="noopener noreferrer nofollow" target="_blank">TalentTech ecosystem</a> at
-Thoughtworks, she will provide actionable insights on identifying personal
-strengths, demonstrating value in day-to-day work, and planning for long-term
-growth. Attendees will leave with tools and a mindset to drive their own
-career development, whether they are software engineers, <a href="https://www.tech.gov.sg/media/technews/transforming-public-services-through-design-insights-from-lillian-shieh/" rel="noopener noreferrer nofollow" target="_blank">UX designers</a>,
-or project managers.</p>
 <h3>Corey Lee: Driving Innovation Through Cross-Functional Collaboration</h3>
 <div class="isomer-image-wrapper">
 <img style="width: 60%;" height="auto" width="100%" alt="Corey Lee STACK Developer Conference 2024 Speaker" src="/images/technews/Corey_Lee___600x300.png">
@@ -317,6 +275,48 @@ actionable insights on building a collaborative culture at scale, emphasising
 the power of cross-functional teamwork. Whether you're a product designer
 or a team leader, this talk will provide practical strategies to elevate
 collaboration and innovation in your organisation.</p>
+<h3>Jessie Xia: Elevating Careers Through Digital Transformation</h3>
+<div class="isomer-image-wrapper">
+<img style="width: 60%;" height="auto" width="100%" alt="Jessie Xia STACK Developer Conference 2024 Speaker" src="/images/technews/Jessie_Xia___600x300.png">
+</div>
+<p><a href="https://www.linkedin.com/in/jessie-xia/?originalSubdomain=sg" rel="noopener noreferrer nofollow" target="_blank">Jessie Xia</a>,
+Global Chief Information Officer at <a href="https://www.thoughtworks.com/en-sg" rel="noopener noreferrer nofollow" target="_blank">Thoughtworks</a>, is a seasoned
+IT leader with over 19 years of experience in digital consulting, IT strategy,
+and leadership development. Throughout her career at Thoughtworks, Jessie
+has been instrumental in guiding the company’s digital transformation journey
+and fostering innovation. With a passion for leveraging technology to enhance
+productivity and improve lives, Jessie’s leadership focuses on both internal
+strategies and client success.</p>
+<h4>What to Expect from Jessie’s Talk</h4>
+<p>In her session, Jessie will offer practical advice on navigating a tech
+career by strategically enhancing skills and aligning with business goals.
+Drawing from the <a href="https://www.thoughtworks.com/en-sg/insights/blog/careers-at-thoughtworks/an-integrated-talent-ecosystem-designed-for-growth" rel="noopener noreferrer nofollow" target="_blank">TalentTech ecosystem</a> at
+Thoughtworks, she will provide actionable insights on identifying personal
+strengths, demonstrating value in day-to-day work, and planning for long-term
+growth. Attendees will leave with tools and a mindset to drive their own
+career development, whether they are software engineers, <a href="https://www.tech.gov.sg/media/technews/transforming-public-services-through-design-insights-from-lillian-shieh/" rel="noopener noreferrer nofollow" target="_blank">UX designers</a>,
+or project managers.</p>
+<h3>Brian Lim: Driving AI Innovation in Product Development</h3>
+<div class="isomer-image-wrapper">
+<img style="width: 60%;" height="auto" width="100%" alt="Brian Lim STACK Developer Conference 2024 Speaker" src="/images/technews/Brian_Lim___600x300.png">
+</div>
+<p><a href="https://www.linkedin.com/in/brianlimlc/?originalSubdomain=sg" rel="noopener noreferrer nofollow" target="_blank">Brian Lim</a>,
+Managing Director and APAC General Manager at <a href="https://primer.ai/" rel="noopener noreferrer nofollow" target="_blank">Primer AI</a>, is a leader in AI strategy and
+product development. With extensive experience advising governments, corporates,
+and startups, Brian’s expertise lies in leveraging AI technologies, particularly
+Large Language Models (LLMs) and Natural Language Processing (NLP), to
+solve complex business challenges. Prior to Primer, he led GIC Labs, where
+he spearheaded innovation in emerging technologies, including AI and NLP,
+to enhance decision-making.</p>
+<h4>What to Expect from Brian’s Talk&nbsp;</h4>
+<p>In his talk, Brian will share valuable insights from Primer AI’s journey
+in developing and deploying AI products. He will explore the latest advancements
+in <a href="https://www.tech.gov.sg/media/technews/generative-ai-where-can-it-go-wrong/" rel="noopener noreferrer nofollow" target="_blank">LLMs</a>,
+discuss real-world use cases, and tackle the practical challenges and solutions
+involved in AI product deployment. Attendees will gain a deeper understanding
+of how to effectively implement <a href="https://www.tech.gov.sg/products-and-services/for-government-agencies/data-and-ai/" rel="noopener noreferrer nofollow" target="_blank">LLM-based products</a> and
+the lessons learned from working on cutting-edge AI technologies in a fast-paced
+environment.</p>
 <hr>
 <h4><strong>Keen to hear from these speakers? Register for the <a href="https://go.gov.sg/stack2024-tnedm" rel="noopener noreferrer nofollow" target="_blank">STACK Developer Conference 2024!</a></strong></h4>
 <p><strong><em>Choose from <a href="https://go.gov.sg/stack2024-tnedm" rel="noopener noreferrer nofollow" target="_blank">in-person tickets</a> (selling fast) or <a href="https://go.gov.sg/stack2024-tnedm" rel="noopener noreferrer nofollow" target="_blank">virtual tickets</a>!</em></strong>
