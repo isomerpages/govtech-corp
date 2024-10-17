@@ -5,14 +5,18 @@ variant: tiptap
 description: Join tech experts as they decode technical speak and sharing the
   latest tech happenings
 ---
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="GovTech Decoded hosted by GovTechies Alicia, Michael and Andre" src="/images/Campaign_Banner_V04.png">
+</div>
 <p>Ease into tech jargon and get the latest scoop on the tech happenings
 in GovTech!</p>
 <p>Join us as we decode technical speak in our video-podcast series. We gathered
 the tech experts within our organisation to discuss hot tech topics and
 how the Singapore government leverages technologies to build tech for public
 good.</p>
-<p>Subscribe to our <a href="https://www.youtube.com/@GovTechSG" rel="noopener nofollow" target="_blank">YouTube</a> and
-<a href="https://open.spotify.com/show/6ZhKSG18z7bQ30jIvn4965?si=a8YjBA4qQ_ihKug1Ne2znQ&amp;nd=1&amp;dlsi=99d2bf0d3719429b" rel="noopener nofollow" target="_blank">Spotify</a>to get notified when new episodes are released.</p>
+<p>Subscribe to get notified when new episodes are released!</p>
+<p></p>
 <h3>Watch the latest episode!</h3>
 <p><strong>Episode 1 - Is AI a Double-edged Sword in Cybersecurity?</strong>
 </p>
@@ -35,6 +39,8 @@ bad actors can exploit it to create sophisticated attacks and evade traditional
 security measures.</p>
 <p>Hear from our cybersecurity experts Bryan and Chloe as they unpack scam
 tactics and share the Singapore government’s efforts to protect citizens.</p>
+<p></p>
+<p>Watch on YouTube | Listen on Spotify | Episode Transcript</p>
 </th>
 </tr>
 </tbody>
