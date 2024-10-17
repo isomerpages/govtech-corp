@@ -25,13 +25,13 @@ government leverages technologies to build tech for public good.</p>
 <td rowspan="1" colspan="1">
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Listen on Spotify" src="/images/28.png">
+<img style="width: 30%;" height="auto" width="100%" alt="Listen on Spotify" src="/images/28.png">
 </div>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Watch on Youtube" src="/images/29.png">
+<img style="width: 30%;" height="auto" width="100%" alt="Watch on Youtube" src="/images/29.png">
 </div>
 </td>
 </tr>
