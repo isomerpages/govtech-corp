@@ -11,11 +11,10 @@ variant: tiptap
 ---
 <a class="isomer-image-wrapper" href="https://go.gov.sg/singaporeaictf"><img style="width: 100%" height="auto" width="100%" alt="SG AI CTF 2024 Banner" src="/images/media/events/SG_AI_CTF_Banner_With_Graphics.png"></a>
 <p></p>
-<div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="https://go.gov.sg/singaporeaictf" class="isomer-card"><div class="isomer-card-body"><div class="isomer-card-title">Singapore AI CTF by GovTech</div><div class="isomer-card-description">The Singapore AI CTF is a jeopardy-style AI Capture-the-Flag (CTF) competition organised by GovTech's Cybersecurity Group (CSG).
-
-In this competition, participants collect 'flags' which can take the form of a hidden file or information by overcoming various AI/ML model security challenges.</div><div class="isomer-card-link">REGISTER NOW</div></div></a>
+<div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="https://go.gov.sg/singaporeaictf" class="isomer-card"><div class="isomer-card-body"><div class="isomer-card-title">Singapore AI CTF by GovTech</div><div class="isomer-card-description">The Singapore AI CTF is a jeopardy-style AI Capture-the-Flag (CTF) competition organised by GovTech's Cybersecurity Group (CSG).</div><div class="isomer-card-link">REGISTER NOW</div></div></a>
 </div>
-<p>The AI Security CTF will be held in two rounds – a virtual preliminary
+<p></p>
+<p>The Singapore AI CTF will be held in two rounds – a virtual preliminary
 round, followed by 4-hour finals.</p>
 <table style="minWidth: 50px">
 <colgroup>
@@ -156,8 +155,8 @@ up before 14<sup>th</sup> October</p>
 <p>For more information, please contact us at <a href="mailto:ctf@tech.gov.sg" rel="noopener noreferrer nofollow" target="_blank">ctf@tech.gov.sg</a>
 </p>
 <h3>Event Details</h3>
-<p>The Singapore AI Security CTF is open to all, and the competition is divided
-into two categories:</p>
+<p>The Singapore AI CTF is open to all, and the competition is divided into
+two categories:</p>
 <div class="isomer-card-grid">
 <div class="isomer-card">
 <div class="isomer-card-body">
