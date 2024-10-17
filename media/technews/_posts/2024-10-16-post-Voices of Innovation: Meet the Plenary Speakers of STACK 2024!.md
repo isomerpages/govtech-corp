@@ -44,28 +44,6 @@ world.</p>
 <div class="isomer-card">
 <div class="isomer-card-image">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Kevin Ng: Innovating Government Tech Solutions for Singapore" src="/images/technews/Kevin_Ng___600x300.png">
-</div>
-</div>
-<div class="isomer-card-body">
-<div class="isomer-card-title">Kevin Ng</div>
-<div class="isomer-card-description">Innovating Government Tech Solutions for Singapore</div>
-</div>
-</div>
-<div class="isomer-card">
-<div class="isomer-card-image">
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Tang Bing Wan: Leading Cloud Innovation for Singapore's Government" src="/images/technews/Tang_Bing_Wan___600x300.png">
-</div>
-</div>
-<div class="isomer-card-body">
-<div class="isomer-card-title">Tang Bing Wan</div>
-<div class="isomer-card-description">Leading Cloud Innovation for Singapore's Government</div>
-</div>
-</div>
-<div class="isomer-card">
-<div class="isomer-card-image">
-<div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="Brian Houck: Elevating Developer Productivity in the Age of AI" src="/images/technews/Brian_Houck___600x300.png">
 </div>
 </div>
@@ -99,12 +77,34 @@ world.</p>
 <div class="isomer-card">
 <div class="isomer-card-image">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Brian Lim: Driving AI Innovation in Product Development" src="/images/technews/Brian_Lim___600x300.png">
+<img style="width: 100%" height="auto" width="100%" alt="Kevin Ng: Innovating Government Tech Solutions for Singapore" src="/images/technews/Kevin_Ng___600x300.png">
 </div>
 </div>
 <div class="isomer-card-body">
-<div class="isomer-card-title">Brian Lim</div>
-<div class="isomer-card-description">Driving AI Innovation in Product Development</div>
+<div class="isomer-card-title">Kevin Ng</div>
+<div class="isomer-card-description">Innovating Government Tech Solutions for Singapore</div>
+</div>
+</div>
+<div class="isomer-card">
+<div class="isomer-card-image">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Tang Bing Wan: Leading Cloud Innovation for Singapore's Government" src="/images/technews/Tang_Bing_Wan___600x300.png">
+</div>
+</div>
+<div class="isomer-card-body">
+<div class="isomer-card-title">Tang Bing Wan</div>
+<div class="isomer-card-description">Leading Cloud Innovation for Singapore's Government</div>
+</div>
+</div>
+<div class="isomer-card">
+<div class="isomer-card-image">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Corey Lee: Driving Innovation Through Cross-Functional Collaboration" src="/images/technews/Corey_Lee___600x300.png">
+</div>
+</div>
+<div class="isomer-card-body">
+<div class="isomer-card-title">Corey Lee</div>
+<div class="isomer-card-description">Driving Innovation Through Cross-Functional Collaboration</div>
 </div>
 </div>
 <div class="isomer-card">
@@ -121,12 +121,12 @@ world.</p>
 <div class="isomer-card">
 <div class="isomer-card-image">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Corey Lee: Driving Innovation Through Cross-Functional Collaboration" src="/images/technews/Corey_Lee___600x300.png">
+<img style="width: 100%" height="auto" width="100%" alt="Brian Lim: Driving AI Innovation in Product Development" src="/images/technews/Brian_Lim___600x300.png">
 </div>
 </div>
 <div class="isomer-card-body">
-<div class="isomer-card-title">Corey Lee</div>
-<div class="isomer-card-description">Driving Innovation Through Cross-Functional Collaboration</div>
+<div class="isomer-card-title">Brian Lim</div>
+<div class="isomer-card-description">Driving AI Innovation in Product Development</div>
 </div>
 </div>
 </div>
@@ -164,46 +164,6 @@ a groundbreaking unified framework designed to give a more holistic and
 actionable view of developer productivity. Attendees will gain insights
 into how these tools can be applied to drive meaningful improvements in
 engineering teams.</p>
-<h3>Kevin Ng: Innovating Government Tech Solutions for Singapore</h3>
-<div class="isomer-image-wrapper">
-<img style="width: 60%;" height="auto" width="100%" alt="Kevin Ng STACK Developer Conference 2024 Speaker" src="/images/technews/Kevin_Ng___600x300.png">
-</div>
-<p><a href="https://www.linkedin.com/in/kevin-ng-134562/?originalSubdomain=sg" rel="noopener noreferrer nofollow" target="_blank">Kevin Ng</a> is
-the Senior Director of Core Engineering Products at <a href="https://www.tech.gov.sg/" rel="noopener noreferrer nofollow" target="_blank">GovTech</a>, where he leads teams in developing
-key platforms like the <a href="https://www.tech.gov.sg/products-and-services/for-government-agencies/software-development/government-on-commercial-cloud/" rel="noopener noreferrer nofollow" target="_blank">Government on Commercial Cloud (GCC)</a> and
-<a href="https://www.tech.gov.sg/products-and-services/for-government-agencies/software-development/sg-tech-stack/" rel="noopener noreferrer nofollow" target="_blank">Singapore Government Tech Stack (SGTS)</a>. With over 20 years of experience,
-Kevin has a proven track record of launching new technologies and building
-high-performing product and engineering teams. His work supports Singapore’s
-public sector through innovative solutions for machine learning, UX design,
-and DevOps communities. Previously, Kevin held leadership roles at global
-companies including Expedia, where he led major technological transformations.</p>
-<h3>Tang Bing Wan: Leading Cloud Innovation for Singapore's Government</h3>
-<div class="isomer-image-wrapper">
-<img style="width: 60%;" height="auto" width="100%" alt="Tang Bing Wan STACK Developer Conference 2024 Speaker" src="/images/technews/Tang_Bing_Wan___600x300.png">
-</div>
-<p><a href="https://www.linkedin.com/in/bingwantang/?originalSubdomain=sg" rel="noopener noreferrer nofollow" target="_blank">Tang Bing Wan</a> is
-the Director of Core Engineering Products at <a href="https://www.tech.gov.sg/" rel="noopener noreferrer nofollow" target="_blank">GovTech</a>, where he oversees the <a href="https://www.tech.gov.sg/products-and-services/for-government-agencies/software-development/government-on-commercial-cloud/" rel="noopener noreferrer nofollow" target="_blank">Government on Commercial Cloud (GCC)</a> programme.
-With a career spanning over two decades, Bing Wan has played a pivotal
-role in driving Singapore's cloud adoption strategy, helping government
-agencies transition to commercial cloud services efficiently and securely.
-His leadership has been instrumental in streamlining cloud migration processes
-and enhancing infrastructure strategies across Singapore’s public sector.</p>
-<p>Bing Wan’s extensive experience as an infrastructure architect includes
-expertise in cloud technologies, IT operations, and system refactoring.
-Prior to GovTech, he held technical and leadership roles in both the banking
-and shipping industries. His deep understanding of infrastructure and cloud
-automation has positioned him as a key figure in Singapore’s digital transformation.</p>
-<h4>What to Expect from Kevin and Bing Wan's Talk</h4>
-<p>In their talk, Bing Wan and Kevin will explore the transformation of developer
-platforms in the public sector, focusing on cloud-native services, resilient
-architectures, and AI-assisted development. They will highlight the importance
-of using Kubernetes ecosystems and cloud-agnostic solutions to enhance
-scalability and reduce risks. Attendees will also learn how breaking down
-silos between development, operations, and security can unlock the full
-potential of <a href="https://www.microsoft.com/en-sg/security/business/security-101/what-is-devsecops#:~:text=FAQs-,DevSecOps%20defined,releasing%20code%20with%20security%20vulnerabilities." rel="noopener noreferrer nofollow" target="_blank">DevSecOps</a>.
-Finally, Bing Wan and Kevin will discuss how continuous upskilling and
-AI integration can streamline the developer experience across government
-agencies.</p>
 <h3>Brian Houck: Elevating Developer Productivity in the Age of AI</h3>
 <div class="isomer-image-wrapper">
 <img style="width: 60%;" height="auto" width="100%" alt="Brian Houck STACK Developer Conference 2024 Speaker" src="/images/technews/Brian_Houck___600x300.png">
@@ -253,6 +213,46 @@ efficiency in microservice architecture by implementing isolated, on-demand
 environments. These environments allow developers to test code changes
 without disrupting shared systems like staging or pre-production, enhancing
 productivity by 20% while maintaining stability and controlling costs.</p>
+<h3>Kevin Ng: Innovating Government Tech Solutions for Singapore</h3>
+<div class="isomer-image-wrapper">
+<img style="width: 60%;" height="auto" width="100%" alt="Kevin Ng STACK Developer Conference 2024 Speaker" src="/images/technews/Kevin_Ng___600x300.png">
+</div>
+<p><a href="https://www.linkedin.com/in/kevin-ng-134562/?originalSubdomain=sg" rel="noopener noreferrer nofollow" target="_blank">Kevin Ng</a> is
+the Senior Director of Core Engineering Products at <a href="https://www.tech.gov.sg/" rel="noopener noreferrer nofollow" target="_blank">GovTech</a>, where he leads teams in developing
+key platforms like the <a href="https://www.tech.gov.sg/products-and-services/for-government-agencies/software-development/government-on-commercial-cloud/" rel="noopener noreferrer nofollow" target="_blank">Government on Commercial Cloud (GCC)</a> and
+<a href="https://www.tech.gov.sg/products-and-services/for-government-agencies/software-development/sg-tech-stack/" rel="noopener noreferrer nofollow" target="_blank">Singapore Government Tech Stack (SGTS)</a>. With over 20 years of experience,
+Kevin has a proven track record of launching new technologies and building
+high-performing product and engineering teams. His work supports Singapore’s
+public sector through innovative solutions for machine learning, UX design,
+and DevOps communities. Previously, Kevin held leadership roles at global
+companies including Expedia, where he led major technological transformations.</p>
+<h3>Tang Bing Wan: Leading Cloud Innovation for Singapore's Government</h3>
+<div class="isomer-image-wrapper">
+<img style="width: 60%;" height="auto" width="100%" alt="Tang Bing Wan STACK Developer Conference 2024 Speaker" src="/images/technews/Tang_Bing_Wan___600x300.png">
+</div>
+<p><a href="https://www.linkedin.com/in/bingwantang/?originalSubdomain=sg" rel="noopener noreferrer nofollow" target="_blank">Tang Bing Wan</a> is
+the Director of Core Engineering Products at <a href="https://www.tech.gov.sg/" rel="noopener noreferrer nofollow" target="_blank">GovTech</a>, where he oversees the <a href="https://www.tech.gov.sg/products-and-services/for-government-agencies/software-development/government-on-commercial-cloud/" rel="noopener noreferrer nofollow" target="_blank">Government on Commercial Cloud (GCC)</a> programme.
+With a career spanning over two decades, Bing Wan has played a pivotal
+role in driving Singapore's cloud adoption strategy, helping government
+agencies transition to commercial cloud services efficiently and securely.
+His leadership has been instrumental in streamlining cloud migration processes
+and enhancing infrastructure strategies across Singapore’s public sector.</p>
+<p>Bing Wan’s extensive experience as an infrastructure architect includes
+expertise in cloud technologies, IT operations, and system refactoring.
+Prior to GovTech, he held technical and leadership roles in both the banking
+and shipping industries. His deep understanding of infrastructure and cloud
+automation has positioned him as a key figure in Singapore’s digital transformation.</p>
+<h4>What to Expect from Kevin and Bing Wan's Talk</h4>
+<p>In their talk, Bing Wan and Kevin will explore the transformation of developer
+platforms in the public sector, focusing on cloud-native services, resilient
+architectures, and AI-assisted development. They will highlight the importance
+of using Kubernetes ecosystems and cloud-agnostic solutions to enhance
+scalability and reduce risks. Attendees will also learn how breaking down
+silos between development, operations, and security can unlock the full
+potential of <a href="https://www.microsoft.com/en-sg/security/business/security-101/what-is-devsecops#:~:text=FAQs-,DevSecOps%20defined,releasing%20code%20with%20security%20vulnerabilities." rel="noopener noreferrer nofollow" target="_blank">DevSecOps</a>.
+Finally, Bing Wan and Kevin will discuss how continuous upskilling and
+AI integration can streamline the developer experience across government
+agencies.</p>
 <h3>Brian Lim: Driving AI Innovation in Product Development</h3>
 <div class="isomer-image-wrapper">
 <img style="width: 60%;" height="auto" width="100%" alt="Brian Lim STACK Developer Conference 2024 Speaker" src="/images/technews/Brian_Lim___600x300.png">
