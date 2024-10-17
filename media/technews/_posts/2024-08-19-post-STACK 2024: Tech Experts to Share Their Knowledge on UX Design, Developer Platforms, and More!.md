@@ -10,13 +10,11 @@ description: "STACK 2024: Singapore's largest government-led tech event. Learn
 image: /images/technews/STACK_TechNews_1.png
 variant: tiptap
 ---
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="STACK Developer Conference 2024 Keynote Speakers" src="/images/technews/STACK_TechNews_1.png">
-</div>
+<a class="isomer-image-wrapper" href="https://go.gov.sg/stack2024-tnedm"><img style="width: 100%" height="auto" width="100%" alt="STACK Developer Conference 2024" src="/images/technews/STACK_2024_article__631x200___1_.jpg"></a>
 <p>Get ready for Singapore's largest Government-led tech event — GovTech's
 <a href="https://go.gov.sg/stack2024-tnedm" rel="noopener noreferrer nofollow" target="_blank">STACK Developer Conference 2024&nbsp;</a>from 6 to 7 November at the Sands
 Expo and Convention Centre!</p>
-<h2>What is the STACK Developer Conference about?</h2>
+<h3>What is STACK Developer Conference about?</h3>
 <p>STACK 2024 is part of the <a href="https://www.tech.gov.sg/our-communities/join-our-communities/stack-community/" rel="noopener noreferrer nofollow" target="_blank">GovTech STACK community's</a> series
 of tech events to drive learning, networking, and collaboration between
 the public and private sectors. Organised by GovTech to drive Singapore’s
@@ -25,50 +23,15 @@ this biennial event serves as a platform for Government, industry, and
 tech communities to convene and collaborate on future opportunities that
 further <a href="https://www.smartnation.gov.sg/about-smart-nation/transforming-singapore/" rel="noopener noreferrer nofollow" target="_blank">Singapore's Smart Nation vision</a>.</p>
 <h3>Who will be at STACK 2024?</h3>
-<p>9 established keynote speakers will share their knowledge and expertise
-at STACK 2024, making it the perfect opportunity for innovators, entrepreneurs,
-and tech enthusiasts to learn, network and discuss the latest tech advancements
-and products.</p>
+<p><strong>9 established keynote speakers</strong> will share their knowledge
+and expertise at STACK 2024, making it the perfect opportunity for innovators,
+entrepreneurs, and tech enthusiasts to learn, network and discuss the latest
+tech advancements and products.</p>
 <p>The keynote speakers include leaders and experts from organisations like
 GovTech, Thoughtworks, Microsoft, and more. In addition to keynote speeches,
 attendees can also participate in plenary talks, panel discussions and
 more!</p>
-<div class="isomer-card-grid">
-<div class="isomer-card">
-<div class="isomer-card-body">
-<div class="isomer-card-title">Over 10 Technical Workshops</div>
-</div>
-</div>
-<div class="isomer-card">
-<div class="isomer-card-body">
-<div class="isomer-card-title">9 Keynote Presentations</div>
-</div>
-</div>
-<div class="isomer-card">
-<div class="isomer-card-body">
-<div class="isomer-card-title">7 Plenary Talks</div>
-</div>
-</div>
-<div class="isomer-card">
-<div class="isomer-card-body">
-<div class="isomer-card-title">2 Panel Discussions</div>
-</div>
-</div>
-<div class="isomer-card">
-<div class="isomer-card-body">
-<div class="isomer-card-title">36 Lightning Talks</div>
-</div>
-</div>
-<div class="isomer-card">
-<div class="isomer-card-body">
-<div class="isomer-card-title">Over 10 Product Showcases</div>
-</div>
-</div>
-</div>
-<p><em>Programme subject to changes</em>
-</p>
-<p>Here is a brief background and introduction to some of the keynote speakers
-who will be presenting at STACK 2024!</p>
+<h3>Get to know the keynote speakers of STACK 2024</h3>
 <div class="isomer-card-grid">
 <div class="isomer-card">
 <div class="isomer-card-image">
@@ -117,10 +80,12 @@ who will be presenting at STACK 2024!</p>
 </div>
 </div>
 </div>
-<h3>1. Evan You: A Developer that’s Transforming the Web Development Landscape</h3>
-<p></p>
+<p><em>Note: This article is the 1<sup>st </sup>of a two-part series on STACK keynote speakers. Check out the 2<sup>nd</sup> article to learn more about the other <a href="/media/technews/stack-2024-learn-from-experts-in-ai-software-security-and-digital-transformation/" rel="noopener nofollow" target="_blank">STACK keynote speakers</a>.</em>
+</p>
+<hr>
+<h3>Evan You: A Developer that’s Transforming the Web Development Landscape</h3>
 <div class="isomer-image-wrapper">
-<img style="width: 60%;" height="auto" width="100%" alt="Evan You at STACK 2024" src="/images/technews/Evan_You_600x300.png">
+<img style="width: 60%;" height="auto" width="100%" alt="Evan You STACK Developer Conference 2024 Keynote Speaker" src="/images/technews/Evan_You_600x300.png">
 </div>
 <p><a href="https://www.linkedin.com/in/evanyou/" rel="noopener noreferrer nofollow" target="_blank">Evan You</a>&nbsp;is
 an independent open-source developer currently based in Singapore. He is
@@ -146,10 +111,9 @@ and community support ensures that Vue.js and Vite will remain at the forefront
 of web development for years to come. As a keynote speaker, Evan offers
 invaluable insights into the future of web technologies, making his talks
 helpful for anyone interested in the evolution of the web development landscape.</p>
-<h3>2. Gregor Hohpe: Architecting Transformation for the Cloud Era</h3>
-<p></p>
+<h3>Gregor Hohpe: Architecting Transformation for the Cloud Era</h3>
 <div class="isomer-image-wrapper">
-<img style="width: 60%;" height="auto" width="100%" alt="Gregor Hohpe at STACK 2024" src="/images/technews/Gregor_Hohpe_600x300.png">
+<img style="width: 60%;" height="auto" width="100%" alt="Gregor Hohpe STACK Developer Conference 2024 Keynote Speaker" src="/images/technews/Gregor_Hohpe_600x300.png">
 </div>
 <p><a href="https://www.linkedin.com/in/ghohpe/?originalSubdomain=sg" rel="noopener noreferrer nofollow" target="_blank">Gregor Hohpe</a>&nbsp;is
 a tech strategist, engineer, author, speaker, and a former GovTech Smart
@@ -197,10 +161,9 @@ from easy. Gregor packages his experience in building platforms into a
 series of mental models and metaphors that will help you understand design
 decisions and trade-offs. You'll also find out how platforms are related
 to cars, submarines, and fruit salads!</p>
-<h3>3. Lillian Shieh: Integrity and Strategic Leadership in Design and Innovation</h3>
-<p></p>
+<h3>Lillian Shieh: Integrity and Strategic Leadership in Design and Innovation</h3>
 <div class="isomer-image-wrapper">
-<img style="width: 60%;" height="auto" width="100%" alt="Lillian Shieh at STACK 2024" src="/images/technews/Lillian_Shieh_600x300.png">
+<img style="width: 60%;" height="auto" width="100%" alt="Lillian Shieh STACK Developer Conference 2024 Keynote Speaker" src="/images/technews/Lillian_Shieh_600x300.png">
 </div>
 <p><a href="https://www.linkedin.com/in/lillianshieh/" rel="noopener noreferrer nofollow" target="_blank">Lillian Shieh</a>,
 the Head of Design Practice at GovTech, is a distinguished design researcher,
@@ -229,14 +192,13 @@ J&amp;J sectors.</p>
 services can be improved, by examining powerful biases in how digital services
 are developed and by reflecting on the changing priorities and responsibilities
 of government digital services when there is greater digital maturity.</p>
-<p><em>You might also be interested in:</em>
+<p><strong><em>You might also be interested in this TechNews article:</em></strong>
 </p>
-<div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="/media/technews/transforming-public-services-through-design-insights-from-lillian-shieh/" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="STACK Developer Conference 2024" src="/images/technews/STACK_2024__845x200_.jpg"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Transforming Public Services Through Design: Insights from Lillian Shieh</div><div class="isomer-card-description">Q&amp;A with Lillian Shieh: Researcher, Product Strategist, UX Designer</div><div class="isomer-card-link">Read more on TechNews</div></div></a>
+<div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="/media/technews/transforming-public-services-through-design-insights-from-lillian-shieh/" class="isomer-card"><div class="isomer-card-body"><div class="isomer-card-title">Transforming Public Services Through Design: Insights from Lillian Shieh</div><div class="isomer-card-description">Q&amp;A with Lillian Shieh: Researcher, Product Strategist, UX Designer</div><div class="isomer-card-link">Read more on TechNews</div></div></a>
 </div>
-<h3>4. Rachel Laycock: Engineering Platforms for Developer Experience</h3>
-<p></p>
+<h3>Rachel Laycock: Engineering Platforms for Developer Experience</h3>
 <div class="isomer-image-wrapper">
-<img style="width: 60%;" height="auto" width="100%" alt="Rachel Laycock STACK Keynote speaker" src="/images/technews/Rachel_Laycock___600x300.png">
+<img style="width: 60%;" height="auto" width="100%" alt="Rachel Laycock STACK Developer Conference 2024 Keynote Speaker" src="/images/technews/Rachel_Laycock___600x300.png">
 </div>
 <p><a href="https://www.linkedin.com/in/rachellaycock/" rel="noopener noreferrer nofollow" target="_blank">Rachel Laycock</a> is
 the Chief Technology Officer (CTO) of <a href="https://www.thoughtworks.com/" rel="noopener noreferrer nofollow" target="_blank">Thoughtworks</a>, a global technology
@@ -272,12 +234,13 @@ state of flow, and align with both business and technical goals. Attendees
 will gain insights into building platforms that optimise efficiency, reduce
 cognitive load, and enhance developer buy-in, ensuring long-term success
 for both development teams and executives.&nbsp;</p>
+<p></p>
 <hr>
-<h4>Register for <a href="https://go.gov.sg/stack2024-tnedm" rel="noopener noreferrer nofollow" target="_blank">STACK Developer Conference 2024</a></h4>
-<p><em>Choose from <a href="https://go.gov.sg/stack2024-tnedm" rel="noopener noreferrer nofollow" target="_blank">in-person tickets</a> (selling fast) or <a href="https://go.gov.sg/stack2024-tnedm" rel="noopener noreferrer nofollow" target="_blank">virtual tickets</a>!</em>
+<h4><strong>Keen to hear from these keynote speakers? Register for the <a href="https://go.gov.sg/stack2024-tnedm" rel="noopener noreferrer nofollow" target="_blank">STACK Developer Conference 2024!</a></strong></h4>
+<p><strong><em>Choose from <a href="https://go.gov.sg/stack2024-tnedm" rel="noopener noreferrer nofollow" target="_blank">in-person tickets</a> (selling fast) or <a href="https://go.gov.sg/stack2024-tnedm" rel="noopener noreferrer nofollow" target="_blank">virtual tickets</a>!</em></strong>
 </p>
 <h4>Related Content:</h4>
-<div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="/media/technews/transforming-public-services-through-design-insights-from-lillian-shieh/" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="STACK Developer Conference 2024" src="/images/technews/STACK_2024__845x200_.jpg"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Transforming Public Services Through Design: Insights from Lillian Shieh</div><div class="isomer-card-link">Read more on TechNews</div></div></a>
+<div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="/media/technews/stack-2024-learn-from-experts-in-ai-software-security-and-digital-transformation/" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="STACK Developer Conference 2024" src="/images/technews/STACK_2024__845x200_.jpg"></div></div><div class="isomer-card-body"><div class="isomer-card-title">STACK 2024: Learn from the Experts in AI, Software Security, and Digital Transformation!</div><div class="isomer-card-link">Read more on TechNews</div></div></a>
 </div>
 <p></p>
 <div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="https://go.gov.sg/communitysignup-technews" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Subscribe to the TechNews email newsletter" src="/images/CTA card images/technews_footer.jpg"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Subscribe to the TechNews email newsletter</div><div class="isomer-card-link">TechNews</div></div></a>
