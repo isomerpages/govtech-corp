@@ -38,8 +38,7 @@ government leverages technologies to build tech for public good.</p>
 </tbody>
 </table>
 <h3>Watch the latest episode!</h3>
-<p><strong>Episode 1 - Is AI a Double-edged Sword in Cybersecurity?</strong>
-</p>
+<h4><strong>Episode 1 - Is AI a Double-edged Sword in Cybersecurity?</strong></h4>
 <table style="minWidth: 50px">
 <colgroup>
 <col>
