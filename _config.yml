@@ -2,8 +2,8 @@ title: Government Technology Agency of Singapore | GovTech
 url: https://www.tech.gov.sg
 favicon: /images/symbol 4 magenta.png
 colors:
-  primary-color: "#0061af"
-  secondary-color: "#b41e8e"
+  primary-color: "#b41e8e"
+  secondary-color: "#0061af"
   media-colors:
     - title: media-color-one
       color: "#f47920"

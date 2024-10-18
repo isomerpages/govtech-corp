@@ -40,6 +40,16 @@ sections:
       button: About GovTech
       url: /about-us/who-we-are/
   - infopic:
+      title: STACK Developer Conference 2024
+      subtitle: UPCOMING EVENTS
+      id: infopic
+      description: GovTech’s flagship conference connecting Government, industry, and
+        the tech community is happening from 6-7 November 2024.
+      button: REGISTER NOW
+      url: https://go.gov.sg/stack2024-gt
+      image: /images/Homepage/STACK_2024_Banner_Homepage.png
+      alt: GovTech STACK Conference 2024
+  - infopic:
       title: Tech for Public Good
       subtitle: Our Digital Government Efforts
       id: infopic
@@ -68,16 +78,6 @@ sections:
       url: /careers/why-join-govtech/overview/
       image: /images/Homepage/whyjoingovtechcareer.png
       alt: GovTech culture
-  - infopic:
-      title: Products and services
-      subtitle: OUR PORTFOLIO OF WORK
-      description: From apps to digital services and software development tools, our
-        tech solutions collectively benefit citizens, businesses and public
-        officers.
-      button: Explore our portfolio
-      url: /products-and-services/overview/
-      image: /images/Homepage/govtechproducts.png
-      alt: GovTech product Singpass
   - resources:
       title: Media
       subtitle: GovTech news and stories
