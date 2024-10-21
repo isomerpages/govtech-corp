@@ -4,4 +4,136 @@ permalink: /aibots/
 variant: tiptap
 description: ""
 ---
+<h2>AIBots</h2>
+<p><strong>Powered by GovTech</strong>
+</p>
+<p></p>
+<p>AiBots is a platform where government agencies can create customised Generative
+AI chatbots. Agencies can add internal knowledge bases, configure the bots
+for their use cases, and share their bots with their teams - all under
+15 minutes.</p>
+<hr>
+<h3>Key Benefits</h3>
+<div class="isomer-card-grid">
+<div class="isomer-card">
+<div class="isomer-card-body">
+<div class="isomer-card-title">Upload internal documents</div>
+<div class="isomer-card-description">LLMs only know what's on the Internet. Add content classified up to Restricted
+/ Sensitive (Normal) that your AI Bot can reference.</div>
+</div>
+</div>
+<div class="isomer-card">
+<div class="isomer-card-body">
+<div class="isomer-card-title">Configure your bot</div>
+<div class="isomer-card-description">Engineer your system prompts for your bot to respond exactly the way you
+want. Set the tone, outline guardrails, try different creativity levels.</div>
+</div>
+</div>
+<div class="isomer-card">
+<div class="isomer-card-body">
+<div class="isomer-card-title">Share with others</div>
+<div class="isomer-card-description">When you're happy with your bot, let others use it too. Multiply the benefits
+of what you have built.</div>
+</div>
+</div>
+</div>
+<p></p>
+<h3>Product Features</h3>
+<div data-type="detailGroup" class="isomer-accordion isomer-accordion-white">
+<details class="isomer-details">
+<summary><strong>Configure bot settings</strong>
+</summary>
+<div data-type="detailsContent" class="isomer-details-content">
+<p>Try different GPT models to assess quality of bot’s responses. Set creativity
+level and tone of responses so that the bot responds in a format that’s
+relevant for users.</p>
+</div>
+</details>
+<details class="isomer-details">
+<summary><strong>Create prompt templates</strong>
+</summary>
+<div data-type="detailsContent" class="isomer-details-content">
+<p>Build user-friendly prompt templates with placeholders for users to fill
+in information, so that the bot is optimised for the needs of users, even
+those less familiar with chatbots.</p>
+</div>
+</details>
+<details class="isomer-details">
+<summary><strong>Allow users to download your bot’s files</strong>
+</summary>
+<div data-type="detailsContent" class="isomer-details-content">
+<p>Users can download the files uploaded within the bot’s knowledge base,
+so that users can refer to the direct source of the bot’s information if
+needed.</p>
+</div>
+</details>
+</div>
+<p></p>
+<h3>Recognition</h3>
+<blockquote>
+<p><strong><em>&gt;13,000 users and &gt;4,000 bots across 100 agencies</em></strong>
+</p>
+</blockquote>
+<p></p>
+<h3>Success Stories</h3>
+<div class="isomer-card-grid">
+<div class="isomer-card">
+<div class="isomer-card-image">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="AIBots Talking Points and Speech Generator" src="/images/Product Catalogue/197767269_M.jpg">
+</div>
+</div>
+<div class="isomer-card-body">
+<div class="isomer-card-title">Talking Points and Speech Generator</div>
+<div class="isomer-card-description">Agencies use AIBots to create draft speeches and prepare talking points
+for events. The bot takes reference from uploaded documents for facts and
+past speeches' writing style and tone.</div>
+</div>
+</div>
+<div class="isomer-card">
+<div class="isomer-card-image">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="AIBots Q&amp;A on Internal Processes" src="/images/Product Catalogue/95800347_M.jpg">
+</div>
+</div>
+<div class="isomer-card-body">
+<div class="isomer-card-title">Q&amp;A on Internal Processes</div>
+<div class="isomer-card-description">Agencies struggle with managing high volumes of questions on internal
+processes. A Q&amp;A bot helps respond to questions on HR policies, travel
+polivies, onboarding processes etc. with just the original policy document
+uploaded for reference.</div>
+</div>
+</div>
+<div class="isomer-card">
+<div class="isomer-card-image">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="AIBots Survey Verbatim Results Analysis" src="/images/Product Catalogue/209875867_M.jpg">
+</div>
+</div>
+<div class="isomer-card-body">
+<div class="isomer-card-title">Survey Verbatim Results Analysis</div>
+<div class="isomer-card-description">Agencies conduct surveys regularly to gather citizens' feedback. The bot
+extracts specific insights based on what the user wants to know, minimising
+the time and effort taken to comb through all comments.</div>
+</div>
+</div>
+</div>
+<p></p>
+<hr>
+<h3>Get Started with AIBots</h3>
+<p></p>
+<div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="https://aibots.gov.sg/" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Product Website" src="/images/CTA card images/Visit_the_product_website.png"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Visit the AIBots website</div><div class="isomer-card-description">AIBots is only accessible within the government network.</div><div class="isomer-card-link">Explore AIBots</div></div></a>
+<a rel="noopener noreferrer nofollow" href="mailto:info@tech.gov.sg" class="isomer-card">
+<div class="isomer-card-image">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Contact Us" src="/images/CTA card images/Have_question__Drops_us_an_email.png">
+</div>
+</div>
+<div class="isomer-card-body">
+<div class="isomer-card-title">Contact the AIBots team</div>
+<div class="isomer-card-description">Got a custom request? Drop the team an email.</div>
+<div class="isomer-card-link">Contact AiBots</div>
+</div>
+</a>
+</div>
 <p></p>
