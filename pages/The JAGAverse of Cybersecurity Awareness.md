@@ -15,10 +15,11 @@ description: ""
 <p>In this digital age, you probably spend close to a third of your day in
 cyberspace –&nbsp;be it at work or play. But how much do you know about
 cybersecurity, and how safe are you online? Let JAGA tell you more!</p>
+<hr>
+<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 35%;" height="auto" width="100%" alt="" src="/images/The JAGAverse Campaign/jaga the cybersecurity engineer.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/The JAGAverse Campaign/Who_is_JAGA.jpg">
 </div>
-<h4></h4>
 <h4><strong>Who is JAGA?</strong></h4>
 <p>JAGA, which means ‘guard’ in Malay, is a hedgehog who joined GovTech as
 a cybersecurity engineer in 2017. Most times, he is cute, gentle and non-aggressive.
@@ -108,6 +109,7 @@ attachments or web links.</div>
 </div>
 </div>
 </div>
+<hr>
 <h4><strong>JAGA’s cybertips you shouldn’t skip&nbsp;</strong></h4>
 <p>While there are cyberspace safeguards in place, we can do our part by
 practising good cyber safety habits. Here are 5 simple cybersecurity tips
