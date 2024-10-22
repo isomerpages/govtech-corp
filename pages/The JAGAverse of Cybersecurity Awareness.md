@@ -112,7 +112,38 @@ attachments or web links.</div>
 <p>While there are cyberspace safeguards in place, we can do our part by
 practising good cyber safety habits. Here are 5 simple cybersecurity tips
 that are easy to remember and share with your friends:</p>
-<p></p>
+<table style="minWidth: 25px">
+<colgroup>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Tip 1:</strong> Text here</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Tip 2:</strong> Text here</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Tip 3:</strong> Text here</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Tip 4:</strong> Text here</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Tip 5:</strong> Text here</p>
+</td>
+</tr>
+</tbody>
+</table>
 <h4><strong>Be a cybersecurity champion</strong></h4>
 <p>Ready to embark on your journey to help Jaga keep our cyberspace a safe
 place for everyone? Check out some of these resources below.</p>
