@@ -78,12 +78,41 @@ threats may be hidden from view, but they are always waiting for you!&nbsp;</p>
 practising good cyber safety habits. Here are 5 simple cybersecurity tips
 that are easy to remember and share with your friends:</p>
 <p></p>
-<h4><strong>Have some fun with JAGA while you tell everyone</strong></h4>
-<p>Ready to embark on your journey to help JAGA keep our cyberspace a safe
-place for everyone?</p>
-<p>
-<br>
+<h4><strong>Be a cybersecurity champion</strong></h4>
+<p>Ready to embark on your journey to help Jaga keep our cyberspace a safe
+place for everyone? Check out some of these resources below.</p>
+<table style="minWidth: 25px">
+<colgroup>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<td rowspan="1" colspan="1">
+<p><a href="https://www.tech.gov.sg/our-capabilities/cybersecurity/." rel="noopener nofollow" target="_blank">Learn more about GovTech's cybersecurity capabilities</a>
 </p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><a href="https://www.tech.gov.sg/media/media-releases/2021-08-31-new-vulnerability-rewards-programme/" rel="noopener nofollow" target="_blank">New Vulnerability Rewards Programme to test Resilience of Critical Government Systems</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><a href="https://www.tech.gov.sg/how-to-tell-if-its-a-scam-the-red-flags-in-scam-messages-you-need-to-spot/" rel="noopener nofollow" target="_blank">How to tell if it’s a scam: The red flags in scam messages you need to spot</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><a href="https://www.tech.gov.sg/media/technews/five-ways-you-might-be-sabotaging-your-data-privacy/" rel="noopener nofollow" target="_blank">Five ways you might be sabotaging your data privacy</a>
+</p>
+</td>
+</tr>
+</tbody>
+</table>
+<h4><strong>Check out our <a href="https://linktr.ee/connectwithgovtech" rel="noopener noreferrer nofollow" target="_blank"><u>social media channels</u></a> to explore #TheJAGAverseOfCybersecurityAwareness!</strong></h4>
 <p>
 <br>
 </p>
