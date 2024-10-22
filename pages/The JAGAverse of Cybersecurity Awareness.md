@@ -180,7 +180,8 @@ place for everyone? Check out some of these resources below.</p>
 </tr>
 </tbody>
 </table>
-<p><strong>Check out our social media channels to explore #TheJAGAverseOfCybersecurityAwareness!</strong>
+<hr>
+<p><strong>Check out our <a href="https://linktr.ee/connectwithgovtech" rel="noopener nofollow" target="_blank">social media channels</a> to explore #TheJAGAverseOfCybersecurityAwareness!</strong>
 </p>
 <div class="instagram-wrapper">
 <blockquote style="background:#FFF; border:0; border-radius:3px; box-shadow:0 0 1px 0 rgba(0,0,0,0.5),0 1px 10px 0 rgba(0,0,0,0.15); margin: 1px; max-width:650px; min-width:326px; padding:0; width:99.375%; width:-webkit-calc(100% - 2px); width:calc(100% - 2px);" data-instgrm-version="14" data-instgrm-permalink="https://www.instagram.com/reel/CxmptIINtSC/?utm_source=ig_embed&amp;utm_campaign=loading" class="instagram-media">
