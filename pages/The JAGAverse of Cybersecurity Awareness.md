@@ -5,20 +5,20 @@ variant: tiptap
 description: ""
 ---
 <p></p>
+<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/cybersecurity_is_our_shared_responsibility.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/The JAGAverse Campaign/cybersecurity_is_our_shared_responsibility.jpg">
 </div>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/GovTech_Banner_1024x768.jpg">
+<div class="iframe-wrapper">
+<iframe style="max-width: 100%;" height="400" width="100%" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/mBeBW6-o7hw?si=ojM1hA98T_T4GIaq"></iframe>
 </div>
 <p>In this digital age, you probably spend close to a third of your day in
 cyberspace –&nbsp;be it at work or play. But how much do you know about
 cybersecurity, and how safe are you online? Let JAGA tell you more!</p>
-<h4></h4>
-<h4></h4>
 <div class="isomer-image-wrapper">
-<img style="width: 35%;" height="auto" width="100%" alt="jaga the cybersecurity engineer" src="/images/jaga the cybersecurity engineer.png">
+<img style="width: 35%;" height="auto" width="100%" alt="" src="/images/The JAGAverse Campaign/jaga the cybersecurity engineer.png">
 </div>
+<h4></h4>
 <h4><strong>Who is JAGA?</strong></h4>
 <p>JAGA, which means ‘guard’ in Malay, is a hedgehog who joined GovTech as
 a cybersecurity engineer in 2017. Most times, he is cute, gentle and non-aggressive.
@@ -34,7 +34,7 @@ defensive and preventive measures, like letting our own ‘mouse cursor spines�
 pop up whenever we sense a cyber threat,&nbsp;because a click is all it
 takes to protect ourselves.</p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%;" height="auto" width="100%" alt="JAGA is your friend, help him defend!" src="/images/JAGA_is_your_friend_help_him_defend.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/The JAGAverse Campaign/JAGA_is_your_friend_help_him_defend.jpg">
 </div>
 <h4><strong>JAGA’s your friend; help him defend!&nbsp;</strong></h4>
 <p>Through the years, JAGA has levelled up as a cybersecurity engineer. He
@@ -50,7 +50,7 @@ threats may be hidden from view, but they are always waiting for you!&nbsp;</p>
 <div class="isomer-card">
 <div class="isomer-card-image">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Kingphisher" src="/images/Kingphisher.png">
+<img style="width: 100%" height="auto" width="100%" alt="Kingphisher" src="/images/The JAGAverse Campaign/Kingphisher.png">
 </div>
 </div>
 <div class="isomer-card-body">
@@ -60,7 +60,7 @@ threats may be hidden from view, but they are always waiting for you!&nbsp;</p>
 <div class="isomer-card">
 <div class="isomer-card-image">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Phishy Pigeons" src="/images/Phishy_Pigeons.png">
+<img style="width: 100%" height="auto" width="100%" alt="Phishy Pigeons" src="/images/The JAGAverse Campaign/Phishy_Pigeons.png">
 </div>
 </div>
 <div class="isomer-card-body">
@@ -74,7 +74,7 @@ threats may be hidden from view, but they are always waiting for you!&nbsp;</p>
 <div class="isomer-card">
 <div class="isomer-card-image">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Impersonation Scams" src="/images/Screenshot_2024_10_22_at_2_22_46_PM.png">
+<img style="width: 100%" height="auto" width="100%" alt="Impersonation Scams" src="/images/The JAGAverse Campaign/Screenshot_2024_10_22_at_2_22_46_PM.png">
 </div>
 </div>
 <div class="isomer-card-body">
@@ -86,7 +86,7 @@ figures or organisations.</div>
 <div class="isomer-card">
 <div class="isomer-card-image">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Phishing Threats" src="/images/Screenshot_2024_10_22_at_2_22_00_PM.png">
+<img style="width: 100%" height="auto" width="100%" alt="Phishing Threats" src="/images/The JAGAverse Campaign/Screenshot_2024_10_22_at_2_22_00_PM.png">
 </div>
 </div>
 <div class="isomer-card-body">
@@ -98,7 +98,7 @@ financial data.</div>
 <div class="isomer-card">
 <div class="isomer-card-image">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Malware" src="/images/Screenshot_2024_10_22_at_2_26_02_PM.png">
+<img style="width: 100%" height="auto" width="100%" alt="Malware" src="/images/The JAGAverse Campaign/Screenshot_2024_10_22_at_2_26_02_PM.png">
 </div>
 </div>
 <div class="isomer-card-body">
