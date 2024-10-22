@@ -4,12 +4,20 @@ permalink: /the-jaga-verse-of-cybersecurity-awareness/
 variant: tiptap
 description: ""
 ---
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="cybersecurity is our shared responsibility" src="/images/cybersecurity is our shared responsibility.jpg">
+</div>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/GovTech_Banner_1024x768.jpg">
+</div>
 <p>In this digital age, you probably spend close to a third of your day in
 cyberspace –&nbsp;be it at work or play. But how much do you know about
 cybersecurity, and how safe are you online? Let JAGA tell you more!</p>
 <h4></h4>
+<h4></h4>
 <div class="isomer-image-wrapper">
-<img style="width: 35%;" height="auto" width="100%" alt="JAGA the cybersecurity engineer" src="/images/Untitled_1.png">
+<img style="width: 35%;" height="auto" width="100%" alt="jaga the cybersecurity engineer" src="/images/jaga the cybersecurity engineer.png">
 </div>
 <h4><strong>Who is JAGA?</strong></h4>
 <p>JAGA, which means ‘guard’ in Malay, is a hedgehog who joined GovTech as
@@ -19,9 +27,6 @@ to approach. But what they do not know is that when JAGA feels threatened,
 his spines (some of which look like mouse cursors) pop up in self-defence
 immediately –&nbsp;hence preventing any cyber threats from actually harming
 him.</p>
-<p>
-<br>
-</p>
 <p>In some ways, we are like JAGA. We may think we are ‘small’ and insignificant
 in cyberspace, but that does not mean we will not be targeted. That is
 why we need to practise good cyber safety too – by staying alert and taking
