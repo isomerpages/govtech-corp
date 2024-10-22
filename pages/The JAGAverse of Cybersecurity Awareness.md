@@ -4,7 +4,6 @@ permalink: /the-jaga-verse-of-cybersecurity-awareness/
 variant: tiptap
 description: ""
 ---
-<h3><strong>Cybersecurity –&nbsp;whose responsibility?</strong></h3>
 <p>In this digital age, you probably spend close to a third of your day in
 cyberspace –&nbsp;be it at work or play. But how much do you know about
 cybersecurity, and how safe are you online? Let JAGA tell you more!</p>
