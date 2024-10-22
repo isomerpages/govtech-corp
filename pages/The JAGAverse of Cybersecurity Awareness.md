@@ -73,41 +73,7 @@ threats may be hidden from view, but they are always waiting for you!&nbsp;</p>
 <p>While there are cyberspace safeguards in place, we can do our part by
 practising good cyber safety habits. Here are 5 simple cybersecurity tips
 that are easy to remember and share with your friends:</p>
-<h4><strong>Use the PHISH principle to spot telltale signs:</strong></h4>
-<div data-type="detailGroup" class="isomer-accordion isomer-accordion-white">
-<details class="isomer-details">
-<summary>Package</summary>
-<div data-type="detailsContent" class="isomer-details-content">
-<p>Do not open unexpected attachments. Or do an anti-virus scan first.</p>
-</div>
-</details>
-<details class="isomer-details">
-<summary>Hurry</summary>
-<div data-type="detailsContent" class="isomer-details-content">
-<p>Stop and think before responding to urgent or threatening messages.</p>
-</div>
-</details>
-<details class="isomer-details">
-<summary>Inconsistency</summary>
-<div data-type="detailsContent" class="isomer-details-content">
-<p>Look for discrepancies in sender details, such as mismatched name &amp;
-email.</p>
-</div>
-</details>
-<details class="isomer-details">
-<summary>Sensitive Information</summary>
-<div data-type="detailsContent" class="isomer-details-content">
-<p>Be wary and verify emails that ask for personal or classified information.</p>
-</div>
-</details>
-<details class="isomer-details">
-<summary>Hyperlink</summary>
-<div data-type="detailsContent" class="isomer-details-content">
-<p>Hover your mouse over links to preview actual URLs&nbsp; as link texts
-may be deceptive.</p>
-</div>
-</details>
-</div>
+<p></p>
 <p><strong>Have some fun with JAGA while you tell everyone</strong>
 </p>
 <p>Ready to embark on your journey to help JAGA keep our cyberspace a safe
