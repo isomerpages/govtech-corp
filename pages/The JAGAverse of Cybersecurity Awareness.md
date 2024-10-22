@@ -6,7 +6,7 @@ description: ""
 ---
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="cybersecurity is our shared responsibility" src="/images/cybersecurity is our shared responsibility.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/cybersecurity_is_our_shared_responsibility.jpg">
 </div>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/GovTech_Banner_1024x768.jpg">
