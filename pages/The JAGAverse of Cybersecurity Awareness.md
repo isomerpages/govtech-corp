@@ -50,7 +50,7 @@ threats may be hidden from view, but they are always waiting for you!&nbsp;</p>
 <div class="isomer-card">
 <div class="isomer-card-image">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Kingphisher" src="/images/Screenshot_2024_10_22_at_2_18_10_PM.png">
+<img style="width: 100%" height="auto" width="100%" alt="Kingphisher" src="/images/Kingphisher.png">
 </div>
 </div>
 <div class="isomer-card-body">
@@ -60,7 +60,7 @@ threats may be hidden from view, but they are always waiting for you!&nbsp;</p>
 <div class="isomer-card">
 <div class="isomer-card-image">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Phishy Pigeons" src="/images/Screenshot_2024_10_22_at_2_18_35_PM.png">
+<img style="width: 100%" height="auto" width="100%" alt="Phishy Pigeons" src="/images/Phishy_Pigeons.png">
 </div>
 </div>
 <div class="isomer-card-body">
