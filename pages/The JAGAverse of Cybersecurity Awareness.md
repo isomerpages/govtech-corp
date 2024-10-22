@@ -33,7 +33,10 @@ why we need to practise good cyber safety too – by staying alert and taking
 defensive and preventive measures, like letting our own ‘mouse cursor spines’
 pop up whenever we sense a cyber threat,&nbsp;because a click is all it
 takes to protect ourselves.</p>
-<h4><br><strong>JAGA’s your friend; help him defend!&nbsp;</strong></h4>
+<div class="isomer-image-wrapper">
+<img style="width: 80%;" height="auto" width="100%" alt="JAGA is your friend, help him defend!" src="/images/JAGA_is_your_friend_help_him_defend.jpg">
+</div>
+<h4><strong>JAGA’s your friend; help him defend!&nbsp;</strong></h4>
 <p>Through the years, JAGA has levelled up as a cybersecurity engineer. He
 is ever vigilant when it comes to emerging and increasingly sophisticated
 threats, and always up-to-date on every cyber threat released (even faster
