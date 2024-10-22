@@ -78,8 +78,7 @@ threats may be hidden from view, but they are always waiting for you!&nbsp;</p>
 practising good cyber safety habits. Here are 5 simple cybersecurity tips
 that are easy to remember and share with your friends:</p>
 <p></p>
-<p><strong>Have some fun with JAGA while you tell everyone</strong>
-</p>
+<h4><strong>Have some fun with JAGA while you tell everyone</strong></h4>
 <p>Ready to embark on your journey to help JAGA keep our cyberspace a safe
 place for everyone?</p>
 <p>
