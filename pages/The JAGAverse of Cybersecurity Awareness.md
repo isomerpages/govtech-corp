@@ -8,8 +8,9 @@ description: ""
 <p>In this digital age, you probably spend close to a third of your day in
 cyberspace –&nbsp;be it at work or play. But how much do you know about
 cybersecurity, and how safe are you online? Let JAGA tell you more!</p>
+<h4></h4>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/5_cybersecurity_trends_1.jpg">
+<img style="width: 35%;" height="auto" width="100%" alt="JAGA the cybersecurity engineer" src="/images/Untitled_1.png">
 </div>
 <h4><strong>Who is JAGA?</strong></h4>
 <p>JAGA, which means ‘guard’ in Malay, is a hedgehog who joined GovTech as
