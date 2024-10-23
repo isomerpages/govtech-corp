@@ -39,30 +39,26 @@ and creativity.</div>
 <h3>Product Features</h3>
 <div data-type="detailGroup" class="isomer-accordion isomer-accordion-white">
 <details class="isomer-details">
-<summary><strong>Configure bot settings</strong>
-</summary>
+<summary>Customise your bot personality and performance</summary>
 <div data-type="detailsContent" class="isomer-details-content">
-<p>Try different GPT models to assess quality of bot’s responses. Set creativity
-level and tone of responses so that the bot responds in a format that’s
-relevant for users.</p>
+<p>Experiment with different GPT models to fine-tune your bot's intelligence.
+Adjust creativity levels and tone to craft a bot that resonates with your
+audience.</p>
 </div>
 </details>
 <details class="isomer-details">
-<summary><strong>Create prompt templates</strong>
-</summary>
+<summary>Streamline user interactions with smart templates</summary>
 <div data-type="detailsContent" class="isomer-details-content">
-<p>Build user-friendly prompt templates with placeholders for users to fill
-in information, so that the bot is optimised for the needs of users, even
-those less familiar with chatbots.</p>
+<p>Design intuitive prompt templates with easy-to-fill placeholders. Simplify
+complex queries for users of all experience levels.</p>
 </div>
 </details>
 <details class="isomer-details">
-<summary><strong>Allow users to download your bot’s files</strong>
-</summary>
+<summary>Enhance transparency with downloadable knowledge base</summary>
 <div data-type="detailsContent" class="isomer-details-content">
-<p>Users can download the files uploaded within the bot’s knowledge base,
-so that users can refer to the direct source of the bot’s information if
-needed.</p>
+<p>Give users direct access to your bot's information sources. They can download
+files from the bot's knowledge base, promoting trust and allowing for deeper
+exploration of topics.</p>
 </div>
 </details>
 </div>
