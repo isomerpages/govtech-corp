@@ -66,7 +66,7 @@ exploration of topics.</p>
 </details>
 </div>
 <p></p>
-<h3>Recognition</h3>
+<h3>Highlights</h3>
 <blockquote>
 <p><strong><em>Widespread adoption and trust across government sectors: 13,000+ users, 4,000+ bots, 100 agencies</em></strong>
 </p>
