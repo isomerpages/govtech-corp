@@ -47,14 +47,16 @@ audience.</p>
 </div>
 </details>
 <details class="isomer-details">
-<summary>Streamline user interactions with smart templates</summary>
+<summary><strong>Streamline user interactions with smart templates</strong>
+</summary>
 <div data-type="detailsContent" class="isomer-details-content">
 <p>Design intuitive prompt templates with easy-to-fill placeholders. Simplify
 complex queries for users of all experience levels.</p>
 </div>
 </details>
 <details class="isomer-details">
-<summary>Enhance transparency with downloadable knowledge base</summary>
+<summary><strong>Enhance transparency with downloadable knowledge base</strong>
+</summary>
 <div data-type="detailsContent" class="isomer-details-content">
 <p>Give users direct access to your bot's information sources. They can download
 files from the bot's knowledge base, promoting trust and allowing for deeper
