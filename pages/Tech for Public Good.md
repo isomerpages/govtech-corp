@@ -31,7 +31,7 @@ government agencies.</p>
 </div>
 <div class="isomer-card-body">
 <div class="isomer-card-title">Scam Analytics and Tactical Intervention System (SATIS)</div>
-<div class="isomer-card-description">Hunt, analyse and disrupt malicious websites with SATIS.</div>
+<div class="isomer-card-description">Hunt, analyse, and disrupt malicious websites with SATIS.</div>
 </div>
 </div>
 </div>
