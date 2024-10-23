@@ -39,7 +39,8 @@ and creativity.</div>
 <h3>Product Features</h3>
 <div data-type="detailGroup" class="isomer-accordion isomer-accordion-white">
 <details class="isomer-details">
-<summary>Customise your bot personality and performance</summary>
+<summary><strong>Customise your bot personality and performance</strong>
+</summary>
 <div data-type="detailsContent" class="isomer-details-content">
 <p>Experiment with different GPT models to fine-tune your bot's intelligence.
 Adjust creativity levels and tone to craft a bot that resonates with your
