@@ -17,23 +17,21 @@ for their use cases, and share their bots with their teams - all under
 <div class="isomer-card-grid">
 <div class="isomer-card">
 <div class="isomer-card-body">
-<div class="isomer-card-title">Upload internal documents</div>
-<div class="isomer-card-description">LLMs only know what's on the Internet. Add content classified up to Restricted
-/ Sensitive (Normal) that your AI Bot can reference.</div>
+<div class="isomer-card-title">Precision-tailored AI assistant</div>
+<div class="isomer-card-description">Shape your bot's personality with custom prompts. Set tone, boundaries,
+and creativity.</div>
 </div>
 </div>
 <div class="isomer-card">
 <div class="isomer-card-body">
-<div class="isomer-card-title">Configure your bot</div>
-<div class="isomer-card-description">Engineer your system prompts for your bot to respond exactly the way you
-want. Set the tone, outline guardrails, try different creativity levels.</div>
+<div class="isomer-card-title">Harness confidential knowledge</div>
+<div class="isomer-card-description">Upload internal documents (up to Restricted/Sensitive Normal).</div>
 </div>
 </div>
 <div class="isomer-card">
 <div class="isomer-card-body">
-<div class="isomer-card-title">Share with others</div>
-<div class="isomer-card-description">When you're happy with your bot, let others use it too. Multiply the benefits
-of what you have built.</div>
+<div class="isomer-card-title">15-minute AI deployment</div>
+<div class="isomer-card-description">User-friendly platform for quick bot creation.</div>
 </div>
 </div>
 </div>
