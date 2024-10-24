@@ -28,10 +28,9 @@ cybercriminals, his spines (some of which look like mouse cursors) pop
 up in self-defence immediately and spiking any cyber threats in the vicinity.&nbsp;</p>
 <p>We are grateful to Jaga for keeping our cyberspace safe but we s<u>t</u>ill<u> </u>must
 be able to defend ourselves. In cyberspace, cybercriminals could be lying
-in wait for us even where we think we are safest<s> </s><u>. </u><s>&nbsp;</s>By
-staying alert, taking preventive measures, and reporting with a click to
-protect ourselves when we detect a cyber threat, we can ensure that we
-remain cyber-safe!</p>
+in wait for us even where we think we are safest. By staying alert, taking
+preventive measures, and reporting with a click to protect ourselves when
+we detect a cyber threat, we can ensure that we remain cyber-safe!</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="Help Jaga defend the Jaga-verse" src="/images/The JAGAverse Campaign/JAGA_is_your_friend_help_him_defend.jpg">
 </div>
@@ -123,7 +122,8 @@ with your friends too!&nbsp;</p>
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
-<h4><strong>Tip 1</strong></h4>
+<p><strong>Tip 1</strong>
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><strong>Do not click on suspicious email attachments or web links.</strong>
@@ -132,7 +132,8 @@ with your friends too!&nbsp;</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<h4><strong>Tip 2</strong></h4>
+<p><strong>Tip 2</strong>
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><strong>Update your software in a timely fashion.</strong>
@@ -141,7 +142,8 @@ with your friends too!&nbsp;</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<h4><strong>Tip 3</strong></h4>
+<p><strong>Tip 3</strong>
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><strong>Report phishing threats.</strong>
@@ -150,7 +152,8 @@ with your friends too!&nbsp;</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<h4><strong>Tip 4</strong></h4>
+<p><strong>Tip 4</strong>
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><strong>Watch what data you share.</strong>
