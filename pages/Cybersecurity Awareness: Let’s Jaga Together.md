@@ -74,7 +74,7 @@ may be hidden from view, but they are always waiting for you! &nbsp;</p>
 <div class="isomer-card">
 <div class="isomer-card-image">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Impersonation Scams" src="/images/The JAGAverse Campaign/Screenshot_2024_10_22_at_2_22_46_PM.png">
+<img style="width: 100%" height="auto" width="100%" alt="Impersonation Scams" src="/images/The JAGAverse Campaign/Impersonation_Scams.jpg">
 </div>
 </div>
 <div class="isomer-card-body">
@@ -86,7 +86,7 @@ figures or organisations.</div>
 <div class="isomer-card">
 <div class="isomer-card-image">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Phishing Threats" src="/images/The JAGAverse Campaign/Screenshot_2024_10_22_at_2_22_00_PM.png">
+<img style="width: 100%" height="auto" width="100%" alt="Phishing Threats" src="/images/The JAGAverse Campaign/Phishing_Threats.jpg">
 </div>
 </div>
 <div class="isomer-card-body">
@@ -98,7 +98,7 @@ financial data.</div>
 <div class="isomer-card">
 <div class="isomer-card-image">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Malware" src="/images/The JAGAverse Campaign/Screenshot_2024_10_22_at_2_26_02_PM.png">
+<img style="width: 100%" height="auto" width="100%" alt="Malware" src="/images/The JAGAverse Campaign/Malware.jpg">
 </div>
 </div>
 <div class="isomer-card-body">
@@ -114,48 +114,6 @@ attachments or web links.</div>
 practising good cyber safety habits. Use these four cybersecurity tips
 that are simple and easy to remember. Lend Jaga a hand by sharing them
 with your friends too!&nbsp;</p>
-<div class="isomer-card-grid">
-<div class="isomer-card">
-<div class="isomer-card-image">
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Placeholder image" src="/images/Do_not_click_on_suspicious_email_attachments_or_web_links.jpg">
-</div>
-</div>
-<div class="isomer-card-body">
-<div class="isomer-card-title">If unsure, verify the source of information and web links</div>
-</div>
-</div>
-<div class="isomer-card">
-<div class="isomer-card-image">
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Ensuring that software vulnerabilities are fixed" src="https://placehold.co/600x400">
-</div>
-</div>
-<div class="isomer-card-body">
-<div class="isomer-card-title">This ensures that software vulnerabilities are fixed.</div>
-</div>
-</div>
-<div class="isomer-card">
-<div class="isomer-card-image">
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Report phishing threats via ScamShield" src="https://placehold.co/600x400">
-</div>
-</div>
-<div class="isomer-card-body">
-<div class="isomer-card-title">Report phishing threats via ScamShield</div>
-</div>
-</div>
-<div class="isomer-card">
-<div class="isomer-card-image">
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Do not use confidential information when using commercial AI tools" src="https://placehold.co/600x400">
-</div>
-</div>
-<div class="isomer-card-body">
-<div class="isomer-card-title">Do not use confidential information when using commercial AI tools</div>
-</div>
-</div>
-</div>
 <table style="minWidth: 50px">
 <colgroup>
 <col>
