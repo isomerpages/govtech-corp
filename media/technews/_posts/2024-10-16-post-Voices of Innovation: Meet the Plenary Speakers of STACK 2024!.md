@@ -121,12 +121,12 @@ world.</p>
 <div class="isomer-card">
 <div class="isomer-card-image">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Brian Lim: Driving AI Innovation in Product Development" src="/images/technews/Brian_Lim___600x300.png">
+<img style="width: 100%" height="auto" width="100%" alt="Brian Lim: Considerations for AI Software Product Design" src="/images/technews/Brian_Lim___600x300.png">
 </div>
 </div>
 <div class="isomer-card-body">
 <div class="isomer-card-title">Brian Lim</div>
-<div class="isomer-card-description">Driving AI Innovation in Product Development</div>
+<div class="isomer-card-description">Considerations for AI Software Product Design</div>
 </div>
 </div>
 </div>
@@ -309,14 +309,11 @@ solve complex business challenges. Prior to Primer, he led GIC Labs, where
 he spearheaded innovation in emerging technologies, including AI and NLP,
 to enhance decision-making.</p>
 <h4>What to Expect from Brian’s Talk&nbsp;</h4>
-<p>In his talk, Brian will share valuable insights from Primer AI’s journey
-in developing and deploying AI products. He will explore the latest advancements
-in <a href="https://www.tech.gov.sg/media/technews/generative-ai-where-can-it-go-wrong/" rel="noopener noreferrer nofollow" target="_blank">LLMs</a>,
-discuss real-world use cases, and tackle the practical challenges and solutions
-involved in AI product deployment. Attendees will gain a deeper understanding
-of how to effectively implement <a href="https://www.tech.gov.sg/products-and-services/for-government-agencies/data-and-ai/" rel="noopener noreferrer nofollow" target="_blank">LLM-based products</a> and
-the lessons learned from working on cutting-edge AI technologies in a fast-paced
-environment.</p>
+<p>In his presentation, Brian will share important considerations in incorporating
+AI into software product design. His session will cover UI design considerations
+and address challenges like hallucinations, bias, and output variability
+when embedding AI into software products. Attendees will also gain insights
+on UX design patterns for human-AI collaboration.</p>
 <hr>
 <h4><strong>Keen to hear from these speakers? Register for the <a href="https://go.gov.sg/stack2024-tnedm" rel="noopener noreferrer nofollow" target="_blank">STACK Developer Conference 2024!</a></strong></h4>
 <p><strong><em>Choose from <a href="https://go.gov.sg/stack2024-tnedm" rel="noopener noreferrer nofollow" target="_blank">in-person tickets</a> (selling fast) or <a href="https://go.gov.sg/stack2024-tnedm" rel="noopener noreferrer nofollow" target="_blank">virtual tickets</a>!</em></strong>
