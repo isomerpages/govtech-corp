@@ -8,7 +8,7 @@ description: "Discover how to stay safe online with 'Cybersecurity Awareness:
   today!"
 ---
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/The JAGAverse Campaign/cybersecurity_is_our_shared_responsibility.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="Cybersecurity Awareness: Let's Jaga together" src="/images/The JAGAverse Campaign/cybersecurity_is_our_shared_responsibility.jpg">
 </div>
 <p></p>
 <p>More than a third of your day is spent in cyberspace – be it at work or
@@ -16,7 +16,7 @@ play. But how much do you know about the security of that space, and how
 safe are you online? Let Jaga tell you more!&nbsp;</p>
 <hr>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/The JAGAverse Campaign/Who_is_JAGA.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="Jaga the cybersecurity engineer" src="/images/The JAGAverse Campaign/Who_is_JAGA.jpg">
 </div>
 <h3>Who is Jaga?</h3>
 <p>Jaga, which means ‘guard’ in Malay, is a hedgehog who joined GovTech as
@@ -32,7 +32,7 @@ staying alert, taking preventive measures, and reporting with a click to
 protect ourselves when we detect a cyber threat, we can ensure that we
 remain cyber-safe!</p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/The JAGAverse Campaign/JAGA_is_your_friend_help_him_defend.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="Help Jaga defend the Jaga-verse" src="/images/The JAGAverse Campaign/JAGA_is_your_friend_help_him_defend.jpg">
 </div>
 <h3><strong>Jaga’s your friend; help him defend the Jaga-verse! </strong>&nbsp;&nbsp;</h3>
 <p>Through the years, Jaga has levelled up as a cybersecurity engineer. He
@@ -49,7 +49,7 @@ may be hidden from view, but they are always waiting for you! &nbsp;</p>
 <div class="isomer-card">
 <div class="isomer-card-image">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Kingphisher" src="/images/The JAGAverse Campaign/Kingphisher.png">
+<img style="width: 100%" height="auto" width="100%" alt="Kingphisher the Cybercriminal Mastermind" src="/images/The JAGAverse Campaign/Kingphisher.png">
 </div>
 </div>
 <div class="isomer-card-body">
@@ -60,7 +60,7 @@ may be hidden from view, but they are always waiting for you! &nbsp;</p>
 <div class="isomer-card">
 <div class="isomer-card-image">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Phishy Pigeons" src="/images/The JAGAverse Campaign/Phishy_Pigeons.png">
+<img style="width: 100%" height="auto" width="100%" alt="Phishy Pigeons the Cyber Threat Actors" src="/images/The JAGAverse Campaign/Phishy_Pigeons.png">
 </div>
 </div>
 <div class="isomer-card-body">
@@ -118,7 +118,7 @@ with your friends too!&nbsp;</p>
 <div class="isomer-card">
 <div class="isomer-card-image">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Placeholder image" src="https://placehold.co/600x400">
+<img style="width: 100%" height="auto" width="100%" alt="Placeholder image" src="/images/Do_not_click_on_suspicious_email_attachments_or_web_links.jpg">
 </div>
 </div>
 <div class="isomer-card-body">
@@ -156,6 +156,50 @@ with your friends too!&nbsp;</p>
 </div>
 </div>
 </div>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<td rowspan="1" colspan="1">
+<h4><strong>Tip 1</strong></h4>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Do not click on suspicious email attachments or web links.</strong>
+<br>If unsure, verify the source of information and web links.</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<h4><strong>Tip 2</strong></h4>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Update your software in a timely fashion.</strong>
+<br>This ensures that software vulnerabilities are fixed.</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<h4><strong>Tip 3</strong></h4>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Report phishing threats.</strong>
+<br>Report phishing threats via ScamShield.</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<h4><strong>Tip 4</strong></h4>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Watch what data you share.</strong>
+<br>Do not use confidential information when using commercial AI tools.</p>
+</td>
+</tr>
+</tbody>
+</table>
 <h3>Be a cybersecurity champion</h3>
 <p>Ready to embark on your journey to help Jaga keep our cyberspace a safe
 place for everyone? Check out some of these resources below.</p>
