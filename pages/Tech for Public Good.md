@@ -97,11 +97,11 @@ resources and services provided by the Singapore government.</div>
 <p></p>
 <hr>
 <h3>For Government Agencies</h3>
-<div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="/aibots/" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="AIBots" src="https://placehold.co/600x400"></div></div><div class="isomer-card-body"><div class="isomer-card-title">AIBots</div><div class="isomer-card-description">Create customised Generative AI chatbots with AIBots.</div><div class="isomer-card-link">Learn more</div></div></a>
+<div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="/aibots/" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="AIBots" src="/images/Product Catalogue/aibots_visual.png"></div></div><div class="isomer-card-body"><div class="isomer-card-title">AIBots</div><div class="isomer-card-description">Create customised Generative AI chatbots with AIBots.</div><div class="isomer-card-link">Learn about AIBots</div></div></a>
 <div class="isomer-card">
 <div class="isomer-card-image">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Purple A11y" src="https://placehold.co/600x400">
+<img style="width: 100%" height="auto" width="100%" alt="Purple A11y" src="/images/Products and Services/For Government Agencies/purple_a11y_resized.jpg">
 </div>
 </div>
 <div class="isomer-card-body">
@@ -112,7 +112,7 @@ resources and services provided by the Singapore government.</div>
 <div class="isomer-card">
 <div class="isomer-card-image">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Scam Analytics and Tactical Intervention System (SATIS)" src="https://placehold.co/600x400">
+<img style="width: 100%" height="auto" width="100%" alt="Scam Analytics and Tactical Intervention System (SATIS)" src="/images/Products and Services/For citizens/SATIS_card_image_1_compressed.jpg">
 </div>
 </div>
 <div class="isomer-card-body">
