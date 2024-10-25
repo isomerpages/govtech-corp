@@ -61,8 +61,7 @@ reach all citizens and strengthen societal bonds.</div>
 <blockquote>
 <p>GovTech is the lead agency driving Singapore's Smart Nation initiative
 and public sector digital transformation. We harness the power of technology
-to make lives better for citizens, businesses, international audiences
-and the public service sector.</p>
+to make lives better for citizens, businesses, and government agencies.</p>
 </blockquote>
 <p></p>
 <div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="/tech-for-public-good/" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Tech for Public Good" src="/images/Products and Services/For businesses/Singpass_API_card_2.jpg"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Tech for Public Good</div><div class="isomer-card-description">Technologies are developed and tailored to the needs of citizens and businesses, and empower them to achieve a greater quality of life.</div><div class="isomer-card-link">Digital Solutions Driving Tech for Public Good</div></div></a>
@@ -74,10 +73,10 @@ and the public service sector.</p>
 </div>
 <div class="isomer-card-body">
 <div class="isomer-card-title">Engineering Digital Government</div>
-<div class="isomer-card-description">Whole-of-government platforms (WOG) and programmes are developed to facilitate
+<div class="isomer-card-description">Whole-of-government platforms (WOG) and systems are developed to facilitate
 inter-agency collaboration, uplift government agencies' capabilities, and
 drive whole-of-government digital transformation.</div>
-<div class="isomer-card-link">WOG Digital Government Platforms</div>
+<div class="isomer-card-link">WOG Digital Government Initiatives</div>
 </div>
 </a>
 </div>
