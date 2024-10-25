@@ -14,15 +14,17 @@ a proprietary and one-of-its-kind smart city operating system that integrates
 various district management operations. Boasting digital twin capabilities,
 the ODP can manage district cooling, security, car park systems and more,
 and even make robotic automation a reality.</p>
+</blockquote>
+<blockquote>
+<p>Centralisation of district operations for better operations management
+is expected to reduce operational manpower, and energy consumption by up
+to 30%.</p>
 <p></p>
 </blockquote>
 <p>ODP serves as the digital backbone of the upcoming Punggol Digital District
 (PDD). Streams of data are collected in real-time to help facility managers,
 security personnel and other estate managers deliver smooth estate services
-and optimise their critical operations. Centralisation of district operations
-for better operations management is expected to reduce operational manpower,
-and energy consumption <strong>by up to 30%.</strong>
-</p>
+and optimise their critical operations.</p>
 <p></p>
 <h3>Key Benefits</h3>
 <div class="isomer-card-grid">
@@ -80,7 +82,7 @@ the IDC Smart City Asia/Pacific Awards (SCAPA) in 2021</p>
 </ul>
 <p></p>
 <hr>
-<h3>Get Started with AIBots</h3>
+<h3>Learn more about ODP</h3>
 <p></p>
 <div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="https://aibots.gov.sg/" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Product Website" src="/images/CTA card images/Visit_the_product_website.png"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Visit the AIBots website</div><div class="isomer-card-description">AIBots is only accessible within the government network.</div><div class="isomer-card-link">Explore AIBots</div></div></a>
 <a rel="noopener noreferrer nofollow" href="mailto:info@tech.gov.sg" class="isomer-card">
