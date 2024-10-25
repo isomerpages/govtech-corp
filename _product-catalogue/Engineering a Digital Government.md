@@ -5,7 +5,7 @@ variant: tiptap
 description: ""
 ---
 <blockquote>
-<p>We build whole-of-government platforms (WOG) and programmes to facilitate
+<p>We build whole-of-government platforms (WOG) and systems to facilitate
 inter-agency collaboration, uplift government agencies' capabilities, and
 drive whole-of-government digital transformation.</p>
 </blockquote>
