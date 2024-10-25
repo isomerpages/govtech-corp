@@ -70,7 +70,7 @@ exploration of topics.</p>
 <p></p>
 <h3>Recognition</h3>
 <p>AIBots has gained widespread adoption and trust across the whole of government,
-with 4,000+ bots created by 13,000+ users across 100 government agencies.</p>
+with 4,000+ bots created by 13,000+ users across government agencies.</p>
 <p></p>
 <h3>Success Stories</h3>
 <div class="isomer-card-grid">
