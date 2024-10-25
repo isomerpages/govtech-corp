@@ -11,13 +11,13 @@ image: /images/Products and Services/Product overview card images/Digital_Servic
 <h2>Ensuring our digital services are always accessible</h2>
 <p>Our Digital Government Blueprint details our bold vision to create a government
 that is "Digital to the Core, and Serves with Heart". We can achieve this
-by designing products and services that directly address citizens' needs.
-By simplifying transactions and e-payments, we make sure every citizen,
-regardless of digital literacy level, can use our solutions with ease.</p>
-<p>Today, 99% of transactions between citizens and government are completed
-online. Beyond fulfilling e-government needs, these digital solutions create
-an open and connected system that our partners in the private sector can
-leverage and in turn optimise their own businesses.</p>
+by designing products and services that directly address citizens' needs.</p>
+<p>99% of all government transactions are completed online. By simplifying
+transactions and e-payments, we make sure every citizen, regardless of
+digital literacy level, can use our solutions with ease. Beyond fulfilling
+e-government needs, these digital solutions create an open and connected
+system that our partners in the private sector can leverage and in turn
+optimise their own businesses.</p>
 <h3>Explore our digital services for citizens</h3>
 <div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="/products-and-services/for-citizens/digital-services/singpass/" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Singpass is Singaporeans' digital identity" src="/images/Products and Services/For citizens/Singpass.png"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Singpass</div><div class="isomer-card-description">5 million Singapore residents use Singpass, their digital identity, to authenticate when accessing digital transactions.</div><div class="isomer-card-link">Explore Singpass</div></div></a>
 <a rel="noopener noreferrer nofollow" href="/products-and-services/for-citizens/digital-services/lifesg/" class="isomer-card">

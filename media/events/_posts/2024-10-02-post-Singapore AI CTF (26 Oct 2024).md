@@ -22,16 +22,6 @@ round, followed by 4-hour finals.</p>
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>Round</strong>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><strong>Details</strong>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
 <p><strong>Round 1:</strong>
 </p>
 <p><strong>48-Hour Preliminary Virtual Round</strong>
@@ -61,6 +51,21 @@ round, followed by 4-hour finals.</p>
 <p></p>
 <p>End Time: Tuesday, 5<sup>th</sup> November 5:30pm (UTC+08 Singapore Time)</p>
 <p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>SG AI CTF Village:</strong>
+</p>
+<p><strong>Witness the CTF Finals live and attend talks and booths targeting tech enthusiasts and mid-careerists!</strong>
+</p>
+<p></p>
+<p>View the detailed programme <strong><a href="/files/media/Events/Singapore_AI_CTF_Detailed_Programme.pdf" rel="noopener noreferrer nofollow" target="_blank">here</a></strong>.</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Start Time: Tuesday, 5<sup>th</sup> November 10:00am (UTC+08 Singapore
+Time)</p>
+<p>End Time: Tuesday, 5<sup>th</sup> November 5:00pm (UTC+08 Singapore Time)</p>
 </td>
 </tr>
 </tbody>
