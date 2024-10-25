@@ -1,0 +1,4 @@
+collections:
+  product-catalogue:
+    output: true
+    order: []
