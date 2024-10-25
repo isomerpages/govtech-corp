@@ -15,11 +15,14 @@ various district management operations. Boasting digital twin capabilities,
 the ODP can manage district cooling, security, car park systems and more,
 and even make robotic automation a reality.</p>
 <p></p>
+</blockquote>
 <p>ODP serves as the digital backbone of the upcoming Punggol Digital District
 (PDD). Streams of data are collected in real-time to help facility managers,
-security personnel and the like to deliver smooth estate services and optimise
-their critical operations.</p>
-</blockquote>
+security personnel and other estate managers deliver smooth estate services
+and optimise their critical operations. Centralisation of district operations
+for better operations management is expected to reduce operational manpower,
+and energy consumption <strong>by up to 30%. </strong>
+</p>
 <p></p>
 <h3>Key Benefits</h3>
 <div class="isomer-card-grid">
@@ -56,7 +59,7 @@ autonomous vehicles.</p>
 </div>
 </details>
 <details class="isomer-details">
-<summary><strong>Real-time data monitoring </strong>
+<summary><strong>Real-time data monitoring</strong>
 </summary>
 <div data-type="detailsContent" class="isomer-details-content">
 <p>Ingesting data streams from various district management systems, these
