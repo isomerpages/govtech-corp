@@ -2,5 +2,6 @@ collections:
   product-catalogue:
     output: true
     order:
+      - Digital Solutions to Drive a Smart Nation.md
       - Tech for Public Good.md
       - AIBots.md
