@@ -2,4 +2,5 @@ collections:
   product-catalogue:
     output: true
     order:
+      - Tech for Public Good.md
       - AIBots.md
