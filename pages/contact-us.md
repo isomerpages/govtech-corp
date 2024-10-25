@@ -16,7 +16,7 @@ contacts:
     title: Whistleblowing Line
   - content:
       - phone: ""
-      - email: partnerships_engagement@tech.gov.sg
+      - email: govtech_sipeo@tech.gov.sg
       - other: ""
     title: Industry / Vendor Partnership
 feedback: ""
