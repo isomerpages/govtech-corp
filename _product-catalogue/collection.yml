@@ -2,8 +2,8 @@ collections:
   product-catalogue:
     output: true
     order:
-      - Open Digital Platform.md
       - Digital Solutions to Drive a Smart Nation.md
       - Tech for Public Good.md
       - AIBots.md
       - Engineering a Digital Government.md
+      - Open Digital Platform.md
