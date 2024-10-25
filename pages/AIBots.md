@@ -69,10 +69,8 @@ exploration of topics.</p>
 </div>
 <p></p>
 <h3>Highlights</h3>
-<blockquote>
-<p><strong><em>Widespread adoption and trust across government sectors: 13,000+ users, 4,000+ bots, 100 agencies</em></strong>
-</p>
-</blockquote>
+<p>Widespread adoption and trust across government sectors: 13,000+ users,
+4,000+ bots, 100 agencies</p>
 <p></p>
 <h3>Success Stories</h3>
 <div class="isomer-card-grid">
