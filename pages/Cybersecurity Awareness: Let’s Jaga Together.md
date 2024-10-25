@@ -147,7 +147,7 @@ with your friends too!&nbsp;</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><strong>Report phishing threats.</strong>
-<br>Report phishing threats via ScamShield.</p>
+<br>Use ScamShield to report suspected phishing attempts.</p>
 </td>
 </tr>
 <tr>
@@ -157,7 +157,7 @@ with your friends too!&nbsp;</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><strong>Watch what data you share.</strong>
-<br>Do not use confidential information when using commercial AI tools.</p>
+<br>Do not include confidential information when using commercial AI tools.</p>
 </td>
 </tr>
 </tbody>
