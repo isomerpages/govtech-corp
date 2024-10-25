@@ -53,7 +53,6 @@ of marriage administration.</div>
 <p></p>
 <hr>
 <h3>For Businesses</h3>
-<h3>Explore our platforms for corporate transactions</h3>
 <div class="isomer-card-grid">
 <div class="isomer-card">
 <div class="isomer-card-image">
