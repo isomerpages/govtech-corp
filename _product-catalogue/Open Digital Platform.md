@@ -81,21 +81,3 @@ the IDC Smart City Asia/Pacific Awards (SCAPA) in 2021</p>
 </li>
 </ul>
 <p></p>
-<hr>
-<h3>Learn more about ODP</h3>
-<p></p>
-<div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="https://aibots.gov.sg/" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Product Website" src="/images/CTA card images/Visit_the_product_website.png"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Visit the AIBots website</div><div class="isomer-card-description">AIBots is only accessible within the government network.</div><div class="isomer-card-link">Explore AIBots</div></div></a>
-<a rel="noopener noreferrer nofollow" href="mailto:info@tech.gov.sg" class="isomer-card">
-<div class="isomer-card-image">
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Contact Us" src="/images/CTA card images/Have_question__Drops_us_an_email.png">
-</div>
-</div>
-<div class="isomer-card-body">
-<div class="isomer-card-title">Contact the AIBots team</div>
-<div class="isomer-card-description">Got a custom request? Drop the team an email.</div>
-<div class="isomer-card-link">Contact AiBots</div>
-</div>
-</a>
-</div>
-<p></p>
