@@ -68,9 +68,9 @@ exploration of topics.</p>
 </details>
 </div>
 <p></p>
-<h3>Highlights</h3>
-<p>Widespread adoption and trust across government sectors: 13,000+ users,
-4,000+ bots, 100 agencies</p>
+<h3>Recognition</h3>
+<p>AIBots has gained widespread adoption and trust across the whole of government,
+with 4,000+ bots created by 13,000+ users across 100 government agencies.</p>
 <p></p>
 <h3>Success Stories</h3>
 <div class="isomer-card-grid">
