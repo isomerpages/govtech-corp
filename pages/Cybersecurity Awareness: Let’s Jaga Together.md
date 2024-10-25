@@ -26,11 +26,11 @@ But don’t be fooled by his demeanour! Jaga is a fierce and passionate protecto
 of Singapore’s government digital systems. When he feels threatened by
 cybercriminals, his spines (some of which look like mouse cursors) pop
 up in self-defence immediately and spiking any cyber threats in the vicinity.&nbsp;</p>
-<p>We are grateful to Jaga for keeping our cyberspace safe but we s<u>t</u>ill<u> </u>must
+<p>We are grateful to Jaga for keeping our cyberspace safe but we still must
 be able to defend ourselves. In cyberspace, cybercriminals could be lying
 in wait for us even where we think we are safest. By staying alert, taking
 preventive measures, and reporting with a click to protect ourselves when
-we detect a cyber threat, we can ensure that we remain cyber-safe!</p>
+we detect a cyber threat, we can ensure that we remain cyber safe!</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="Help Jaga defend the Jaga-verse" src="/images/The JAGAverse Campaign/JAGA_is_your_friend_help_him_defend.jpg">
 </div>
