@@ -21,7 +21,7 @@ and even make robotic automation a reality.</p>
 security personnel and other estate managers deliver smooth estate services
 and optimise their critical operations. Centralisation of district operations
 for better operations management is expected to reduce operational manpower,
-and energy consumption <strong>by up to 30%. </strong>
+and energy consumption <strong>by up to 30%.</strong>
 </p>
 <p></p>
 <h3>Key Benefits</h3>
@@ -72,52 +72,12 @@ and send commands to systems in response to real-world happenings.</p>
 </div>
 <p></p>
 <h3>Recognition</h3>
-<p>AIBots has gained widespread adoption and trust across the whole of government,
-with 4,000+ bots created by 13,000+ users across government agencies.</p>
-<p></p>
-<h3>Success Stories</h3>
-<div class="isomer-card-grid">
-<div class="isomer-card">
-<div class="isomer-card-image">
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="AIBots Talking Points and Speech Generator" src="/images/Product Catalogue/197767269_M.jpg">
-</div>
-</div>
-<div class="isomer-card-body">
-<div class="isomer-card-title">Talking Points and Speech Generator</div>
-<div class="isomer-card-description">Agencies use AIBots to create draft speeches and prepare talking points
-for events. The bot takes reference from uploaded documents for facts and
-past speeches' writing style and tone.</div>
-</div>
-</div>
-<div class="isomer-card">
-<div class="isomer-card-image">
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="AIBots Q&amp;A on Internal Processes" src="/images/Product Catalogue/95800347_M.jpg">
-</div>
-</div>
-<div class="isomer-card-body">
-<div class="isomer-card-title">Q&amp;A on Internal Processes</div>
-<div class="isomer-card-description">Agencies struggle with managing high volumes of questions on internal
-processes. A Q&amp;A bot helps respond to questions on HR policies, travel
-polivies, onboarding processes etc. with just the original policy document
-uploaded for reference.</div>
-</div>
-</div>
-<div class="isomer-card">
-<div class="isomer-card-image">
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="AIBots Survey Verbatim Results Analysis" src="/images/Product Catalogue/209875867_M.jpg">
-</div>
-</div>
-<div class="isomer-card-body">
-<div class="isomer-card-title">Survey Verbatim Results Analysis</div>
-<div class="isomer-card-description">Agencies conduct surveys regularly to gather citizens' feedback. The bot
-extracts specific insights based on what the user wants to know, minimising
-the time and effort taken to comb through all comments.</div>
-</div>
-</div>
-</div>
+<ul data-tight="true" class="tight">
+<li>
+<p>ODP was awarded the <strong>Outstanding Smart City Project for Urban Planning and Land Use</strong> at
+the IDC Smart City Asia/Pacific Awards (SCAPA) in 2021</p>
+</li>
+</ul>
 <p></p>
 <hr>
 <h3>Get Started with AIBots</h3>
