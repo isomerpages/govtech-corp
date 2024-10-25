@@ -8,10 +8,12 @@ description: ""
 <p><strong>Powered by GovTech</strong>
 </p>
 <p></p>
+<blockquote>
 <p>AIBots is a platform where government agencies can create customised Generative
 AI chatbots. Agencies can add internal knowledge bases, configure the bots
 for their use cases, and share their bots with their teams - all under
 15 minutes.</p>
+</blockquote>
 <hr>
 <h3>Key Benefits</h3>
 <div class="isomer-card-grid">
