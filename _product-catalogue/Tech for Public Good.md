@@ -21,8 +21,8 @@ challenges and contribute to the nation's Smart Nation vision.</p>
 </div>
 <div class="isomer-card-body">
 <div class="isomer-card-title">Singpass</div>
-<div class="isomer-card-description">5 million Singapore residents use Singpass, their digital identity, to
-authenticate when accessing digital transactions.</div>
+<div class="isomer-card-description">Use Singpass to authenticate logins and transactions when accessing digital
+services.</div>
 </div>
 </div>
 <div class="isomer-card">
@@ -33,8 +33,7 @@ authenticate when accessing digital transactions.</div>
 </div>
 <div class="isomer-card-body">
 <div class="isomer-card-title">LifeSG</div>
-<div class="isomer-card-description">This app provides citizens with personalised access to the services of
-over 100 government agencies.</div>
+<div class="isomer-card-description">Enjoy personalised access to over 100 government agencies' services.</div>
 </div>
 </div>
 <div class="isomer-card">
@@ -45,8 +44,8 @@ over 100 government agencies.</div>
 </div>
 <div class="isomer-card-body">
 <div class="isomer-card-title">Our Marriage Journey</div>
-<div class="isomer-card-description">This digital marriage registry service assists couples with the process
-of marriage administration.</div>
+<div class="isomer-card-description">Use this digital marriage registry service to facilitate the process of
+marriage administration.</div>
 </div>
 </div>
 </div>
