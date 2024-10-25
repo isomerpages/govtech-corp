@@ -11,8 +11,6 @@ like AI, data science, and cybersecurity, we strive to solve real-world
 challenges and contribute to the nation's Smart Nation vision.</p>
 </blockquote>
 <p></p>
-<p><strong>Get to know our range of digital products for citizens, businesses, and government agencies.</strong>
-</p>
 <h3>For Citizens</h3>
 <div class="isomer-card-grid">
 <div class="isomer-card">
