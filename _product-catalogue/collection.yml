@@ -1,4 +1,5 @@
 collections:
   product-catalogue:
     output: true
-    order: []
+    order:
+      - AIBots.md
