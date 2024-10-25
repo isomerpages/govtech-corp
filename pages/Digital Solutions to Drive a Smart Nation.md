@@ -17,7 +17,7 @@ to improve citizens’ lives and create a thriving digital future for all.</p>
 <div class="isomer-card">
 <div class="isomer-card-image">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Trust" src="https://placehold.co/600x400">
+<img style="width: 100%" height="auto" width="100%" alt="Trust" src="/images/Product Catalogue/goals_trust2.png">
 </div>
 </div>
 <div class="isomer-card-body">
@@ -30,7 +30,7 @@ to online threats​.</div>
 <div class="isomer-card">
 <div class="isomer-card-image">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Growth" src="https://placehold.co/600x400">
+<img style="width: 100%" height="auto" width="100%" alt="Growth" src="/images/Product Catalogue/goals_growth2.png">
 </div>
 </div>
 <div class="isomer-card-body">
@@ -42,7 +42,7 @@ thrive, promoting economic growth and personal development across all sectors.</
 <div class="isomer-card">
 <div class="isomer-card-image">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Community" src="https://placehold.co/600x400">
+<img style="width: 100%" height="auto" width="100%" alt="Community" src="/images/Product Catalogue/goals_community2.png">
 </div>
 </div>
 <div class="isomer-card-body">
