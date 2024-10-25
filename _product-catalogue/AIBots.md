@@ -69,8 +69,8 @@ exploration of topics.</p>
 </div>
 <p></p>
 <h3>Recognition</h3>
-<p>ODP was awarded the <strong>Outstanding Smart City Project for Urban Planning and Land Use</strong> at
-the IDC Smart City Asia/Pacific Awards (SCAPA) in 2021.</p>
+<p>AIBots has gained widespread adoption and trust across the whole of government,
+with 4,000+ bots created by 13,000+ users across government agencies.</p>
 <p></p>
 <h3>Success Stories</h3>
 <div class="isomer-card-grid">
