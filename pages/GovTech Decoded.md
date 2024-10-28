@@ -23,10 +23,10 @@ get notified when new episodes are released.</p>
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
-<p></p><a class="isomer-image-wrapper" href="https://www.youtube.com/playlist?list=PLEpmxnWUCorn-aJzcdlqdh-AZ2rgL67Qt"><img style="width: 50%;" height="auto" width="100%" alt="Watch on YouTube" src="/images/Decoded/29.png"></a>
+<p></p><a class="isomer-image-wrapper" href="https://go.gov.sg/govtechdecoded-from-website-youtube-playlist"><img style="width: 50%;" height="auto" width="100%" alt="Watch on YouTube" src="/images/Decoded/29.png"></a>
 </th>
 <th rowspan="1" colspan="1">
-<p></p><a class="isomer-image-wrapper" href="https://open.spotify.com/show/6ZhKSG18z7bQ30jIvn4965?si=1e45261441234ab8"><img style="width: 50%;" height="auto" width="100%" alt="Listen on Spotify" src="/images/Decoded/28.png"></a>
+<p></p><a class="isomer-image-wrapper" href="https://go.gov.sg/govtechdecoded-spotify"><img style="width: 50%;" height="auto" width="100%" alt="Listen on Spotify" src="/images/Decoded/28.png"></a>
 </th>
 </tr>
 </tbody>
@@ -39,7 +39,7 @@ get notified when new episodes are released.</p>
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
-<p></p><a class="isomer-image-wrapper" href="https://youtu.be/VIruNSlMpks"><img style="width: 100%;" height="auto" width="100%" alt="GovTech Decoded Episode 1: AI a double-edged sword in the fight against scams" src="/images/Decoded/Screenshot_2024_10_17_at_4_06_30_PM.png"></a>
+<p></p><a class="isomer-image-wrapper" href="https://go.gov.sg/govtechdecoded-from-website-ep1"><img style="width: 100%;" height="auto" width="100%" alt="GovTech Decoded Episode 1: AI a double-edged sword in the fight against scams" src="/images/Decoded/Screenshot_2024_10_17_at_4_06_30_PM.png"></a>
 </td>
 <td rowspan="1" colspan="1">
 <p><strong>Ep1: AI a double-edged sword in the fight against scams</strong>
@@ -51,8 +51,8 @@ security measures.</p>
 <p>Hear from our cybersecurity experts Bryan and Chloe as they unpack scam
 tactics and share the Singapore government's efforts to protect citizens.</p>
 <p></p>
-<p><a href="https://youtu.be/VIruNSlMpks" rel="noopener nofollow" target="_blank">Watch on YouTube</a> |
-Listen on <strong>Spotify</strong> | <a href="/files/GOVTECH_DECODED_Ep1__Transcript.pdf" rel="noopener nofollow" target="_blank">Episode 1 Transcript</a>
+<p><a href="https://go.gov.sg/govtechdecoded-from-website-ep1" rel="noopener nofollow" target="_blank">Watch on YouTube</a> |
+<a href="https://go.gov.sg/govtechdecoded-spotify-ep1" rel="noopener nofollow" target="_blank">Listen on Spotify</a>| <a href="/files/GOVTECH_DECODED_Ep1__Transcript.pdf" rel="noopener nofollow" target="_blank">Episode 1 Transcript</a>
 </p>
 </td>
 </tr>
@@ -67,7 +67,8 @@ Listen on <strong>Spotify</strong> | <a href="/files/GOVTECH_DECODED_Ep1__Transc
 </tr>
 </tbody>
 </table>
-<p></p>
+<p>Share your ideas and feedback about GovTech Decoded vodcast series at
+<a href="go.gov.sg/govtechdecoded-feedback" rel="noopener nofollow" target="_blank">go.gov.sg/govtechdecoded-feedback</a>.</p>
 <p></p>
 <p></p>
 <p></p>
