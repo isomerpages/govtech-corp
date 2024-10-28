@@ -55,7 +55,7 @@ can be arranged according to your schedule.</p>
 <p>“I was able to collaborate with like-minded individuals and directly drive
 Singapore’s efforts to become a truly Smart Nation.”</p>
 </blockquote>
-<p>~ Paul Piong, Telsa</p>
+<p>~ Paul Piong, Tesla</p>
 <p></p>
 <blockquote>
 <p>"This was a unique opportunity for me to apply my data analysis skills

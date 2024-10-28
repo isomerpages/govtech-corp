@@ -12,6 +12,9 @@ image: /images/The JAGAverse Campaign/Lets_jaga_together_cybersecurity_awareness
 <img style="width: 100%" height="auto" width="100%" alt="Cybersecurity Awareness: Let's Jaga together" src="/images/The JAGAverse Campaign/cybersecurity_is_our_shared_responsibility.jpg">
 </div>
 <p></p>
+<div class="iframe-wrapper">
+<iframe style="max-width: 100%;" height="400" width="100%" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/DrrHlacPbPc"></iframe>
+</div>
 <p>More than a third of your day is spent in cyberspace – be it at work or
 play. But how much do you know about the security of that space, and how
 safe are you online? Let Jaga tell you more!&nbsp;</p>
@@ -165,37 +168,13 @@ with your friends too!&nbsp;</p>
 <h3>Be a cybersecurity champion</h3>
 <p>Ready to embark on your journey to help Jaga keep our cyberspace a safe
 place for everyone? Check out some of these resources below.</p>
-<table style="minWidth: 25px">
-<colgroup>
-<col>
-</colgroup>
-<tbody>
-<tr>
-<td rowspan="1" colspan="1">
 <p><a href="https://www.tech.gov.sg/our-capabilities/cybersecurity/." rel="noopener nofollow" target="_blank">Learn more about GovTech's cybersecurity capabilities</a>
 </p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
 <p><a href="https://www.tech.gov.sg/media/media-releases/2021-08-31-new-vulnerability-rewards-programme/" rel="noopener nofollow" target="_blank">New Vulnerability Rewards Programme to test Resilience of Critical Government Systems</a>
 </p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
 <p><a href="https://www.tech.gov.sg/how-to-tell-if-its-a-scam-the-red-flags-in-scam-messages-you-need-to-spot/" rel="noopener nofollow" target="_blank">How to tell if it’s a scam: The red flags in scam messages you need to spot</a>
 </p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
 <p><a href="https://www.tech.gov.sg/media/technews/five-ways-you-might-be-sabotaging-your-data-privacy/" rel="noopener nofollow" target="_blank">Five ways you might be sabotaging your data privacy</a>
-</p>
-</td>
-</tr>
-</tbody>
-</table>
-<p>
 <br>
 </p>
+<p></p>
