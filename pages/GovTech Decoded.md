@@ -39,10 +39,7 @@ get notified when new episodes are released.</p>
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
-<p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%;" height="auto" width="100%" alt="GovTech Decoded Episode 1: AI a double-edged sword in the fight against scams" src="/images/Decoded/Screenshot_2024_10_17_at_4_06_30_PM.png">
-</div>
+<p></p><a class="isomer-image-wrapper" href="https://youtu.be/VIruNSlMpks"><img style="width: 100%;" height="auto" width="100%" alt="GovTech Decoded Episode 1: AI a double-edged sword in the fight against scams" src="/images/Decoded/Screenshot_2024_10_17_at_4_06_30_PM.png"></a>
 </td>
 <td rowspan="1" colspan="1">
 <p><strong>Ep1: AI a double-edged sword in the fight against scams</strong>
@@ -55,7 +52,8 @@ security measures.</p>
 tactics and share the Singapore government's efforts to protect citizens.</p>
 <p></p>
 <p><a href="https://youtu.be/VIruNSlMpks" rel="noopener nofollow" target="_blank">Watch on YouTube</a> |
-Listen on <strong>Spotify</strong> | Episode Transcript</p>
+Listen on <strong>Spotify</strong> | <a href="/files/GOVTECH_DECODED_Ep1__Transcript.pdf" rel="noopener nofollow" target="_blank">Episode 1 Transcript</a>
+</p>
 </td>
 </tr>
 <tr>
