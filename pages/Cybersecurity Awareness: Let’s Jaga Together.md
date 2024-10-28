@@ -11,7 +11,9 @@ image: /images/The JAGAverse Campaign/Lets_jaga_together_cybersecurity_awareness
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="Cybersecurity Awareness: Let's Jaga together" src="/images/The JAGAverse Campaign/cybersecurity_is_our_shared_responsibility.jpg">
 </div>
-<p></p>
+<div class="iframe-wrapper">
+<iframe style="max-width: 100%;" height="400" width="100%" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/DrrHlacPbPc"></iframe>
+</div>
 <p>More than a third of your day is spent in cyberspace – be it at work or
 play. But how much do you know about the security of that space, and how
 safe are you online? Let Jaga tell you more!&nbsp;</p>
@@ -196,6 +198,7 @@ place for everyone? Check out some of these resources below.</p>
 </tr>
 </tbody>
 </table>
+<p></p>
 <p>
 <br>
 </p>
