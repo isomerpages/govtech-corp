@@ -13,7 +13,7 @@ in GovTech!</p>
 <p>Join us as we decode technical speak in this vodcast series. We gather
 tech experts from GovTech to discuss hot tech topics and how the Singapore
 government leverages technologies to build tech for public good.</p>
-<p>Follow us on <a href="go.gov.sg/connectwithgovtech" rel="noopener nofollow" target="_blank">social media</a> to
+<p>Follow us on <a href="https://go.gov.sg/connectwithGovtech" rel="noopener nofollow" target="_blank">social media</a> to
 get notified when new episodes are released.</p>
 <table style="minWidth: 50px">
 <colgroup>
@@ -52,7 +52,7 @@ security measures.</p>
 tactics and share the Singapore government's efforts to protect citizens.</p>
 <p></p>
 <p><a href="https://go.gov.sg/govtechdecoded-from-website-ep1" rel="noopener nofollow" target="_blank">Watch on YouTube</a> |
-<a href="https://go.gov.sg/govtechdecoded-spotify-ep1" rel="noopener nofollow" target="_blank">Listen on Spotify</a>| <a href="/files/GOVTECH_DECODED_Ep1__Transcript.pdf" rel="noopener nofollow" target="_blank">Episode 1 Transcript</a>
+<a href="https://go.gov.sg/govtechdecoded-spotify-ep1" rel="noopener nofollow" target="_blank">Listen on Spotify</a>| <a href="/files/GovTech_Decoded_Ep_1_Transcript.pdf" rel="noopener noreferrer nofollow" target="_blank">Episode 1 Transcript</a>
 </p>
 </td>
 </tr>
