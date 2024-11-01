@@ -9,7 +9,7 @@ permalink: /
 notification: ""
 sections:
   - hero:
-      background: /images/Govtech_Decoded_Homepage_Banner_1.png
+      background: /images/Govtech_Decoded_Homepage_Banner_1735.png
       button: GET TICKETS
       url: https://go.gov.sg/stack2024-gt
       key_highlights:
@@ -29,7 +29,7 @@ sections:
       size: md
       alignment: left
       backgroundColor: gray
-      subtitle: —
+      subtitle: Decode Technical Speak with Us
   - infobar:
       title: Government Technology Agency (GovTech)
       subtitle: WHO WE ARE
