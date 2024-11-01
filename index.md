@@ -9,7 +9,7 @@ permalink: /
 notification: ""
 sections:
   - hero:
-      background: /images/Homepage/website_2.png
+      background: /images/Govtech_Decoded_Homepage_Banner_1.png
       button: GET TICKETS
       url: https://go.gov.sg/stack2024-gt
       key_highlights:
@@ -29,8 +29,6 @@ sections:
       size: md
       alignment: left
       backgroundColor: gray
-      title: STACK Developer Conference 2024
-      subtitle: LAST CALL FOR REGISTRATIONS
   - infobar:
       title: Government Technology Agency (GovTech)
       subtitle: WHO WE ARE
