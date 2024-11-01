@@ -233,6 +233,18 @@ Digital Transformation</div>
 <div class="isomer-card">
 <div class="isomer-card-image">
 <div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Ivan Tan" src="/images/our-team/Ivan_Tan.png">
+</div>
+</div>
+<div class="isomer-card-body">
+<div class="isomer-card-title">Mr Ivan TAN</div>
+<div class="isomer-card-description">Assistant Chief Executive, Designate - Economic and National Development,
+Government Digital Transformation</div>
+</div>
+</div>
+<div class="isomer-card">
+<div class="isomer-card-image">
+<div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="GovTech leader Bernard Toh" src="/images/About Us/Bernard_TOH.jpg">
 </div>
 </div>
@@ -252,12 +264,10 @@ Digital Transformation</div>
 <div class="isomer-card-description">Chief Executive, Assurity Trusted Solutions</div>
 </div>
 </div>
-</div>
-<div class="isomer-card-grid">
 <div class="isomer-card">
 <div class="isomer-card-image">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Mr Chong Rong Hwa" src="/images/our-team/Mr_Chong_Rong_Hwa.png">
+<img style="width: 100%" height="auto" width="100%" alt="Mr CHONG Rong Hwa" src="/images/our-team/Mr_Chong_Rong_Hwa.png">
 </div>
 </div>
 <div class="isomer-card-body">
@@ -268,12 +278,26 @@ Digital Transformation</div>
 <div class="isomer-card">
 <div class="isomer-card-image">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="GovTech leader Vlastimil Chvojka" src="/images/About Us/Vlastimil_CHVOJKA.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="Mr Vlastimil CHVOJKA" src="/images/About Us/Vlastimil_CHVOJKA.jpg">
 </div>
 </div>
 <div class="isomer-card-body">
 <div class="isomer-card-title">Mr Vlastimil CHVOJKA</div>
 <div class="isomer-card-description">Senior Director, Apps Products, Government Digital Products</div>
+</div>
+</div>
+</div>
+<div class="isomer-card-grid">
+<div class="isomer-card">
+<div class="isomer-card-image">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Cynthia Lee" src="/images/our-team/Cynthia_Lee.png">
+</div>
+</div>
+<div class="isomer-card-body">
+<div class="isomer-card-title">Ms Cynthia LEE</div>
+<div class="isomer-card-description">Senior Director, People and Organisation Division, Strategy, Corporate
+&amp; Governance</div>
 </div>
 </div>
 <div class="isomer-card">
