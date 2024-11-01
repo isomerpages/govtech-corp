@@ -29,8 +29,7 @@ sections:
       size: md
       alignment: left
       backgroundColor: gray
-      subtitle: ""
-      title: ""
+      subtitle: —
   - infobar:
       title: Government Technology Agency (GovTech)
       subtitle: WHO WE ARE
