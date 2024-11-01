@@ -233,6 +233,18 @@ Digital Transformation</div>
 <div class="isomer-card">
 <div class="isomer-card-image">
 <div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Ivan Tan" src="https://placehold.co/600x400">
+</div>
+</div>
+<div class="isomer-card-body">
+<div class="isomer-card-title">Mr Ivan TAN</div>
+<div class="isomer-card-description">Assistant Chief Executive, Designate - Economic and National Development,
+Government Digital Transformation</div>
+</div>
+</div>
+<div class="isomer-card">
+<div class="isomer-card-image">
+<div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="GovTech leader Bernard Toh" src="/images/About Us/Bernard_TOH.jpg">
 </div>
 </div>
@@ -274,6 +286,18 @@ Digital Transformation</div>
 <div class="isomer-card-body">
 <div class="isomer-card-title">Mr Vlastimil CHVOJKA</div>
 <div class="isomer-card-description">Senior Director, Apps Products, Government Digital Products</div>
+</div>
+</div>
+<div class="isomer-card">
+<div class="isomer-card-image">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Cynthia Lee" src="https://placehold.co/600x400">
+</div>
+</div>
+<div class="isomer-card-body">
+<div class="isomer-card-title">Ms Cynthia LEE</div>
+<div class="isomer-card-description">Senior Director, People and Organisation Division, Strategy, Corporate
+&amp; Governance</div>
 </div>
 </div>
 <div class="isomer-card">
