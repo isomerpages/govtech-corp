@@ -10,7 +10,7 @@ notification: ""
 sections:
   - hero:
       background: /images/Govtech_Decoded_Homepage_Banner_1735.png
-      button: LEARN MORE
+      button: WATCH NOW
       url: /govtech-decoded/
       key_highlights:
         - title: For Citizens
@@ -29,7 +29,7 @@ sections:
       size: md
       alignment: left
       backgroundColor: gray
-      title: Decode Technical Speak With Us
+      title: New Vodcast Series
   - infobar:
       title: Government Technology Agency (GovTech)
       subtitle: WHO WE ARE
