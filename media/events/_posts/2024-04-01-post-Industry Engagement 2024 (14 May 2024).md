@@ -86,9 +86,7 @@ partners that provided us with insights from their experience, and we shared
 with them some of the plans and actions taken since the event.</p>
 <p>Here are the highlights of how much we have progressed with our partners’
 feedback and suggestions:</p>
-<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 70%;" height="auto" width="100%" alt="IE 2024 Highlights Infographic" src="/images/media/events/IE2024_Infographic.jpg">
+<img style="width: 100%;" height="auto" width="100%" alt="IE 2024 Highlights Infographic" src="/images/media/events/IE2024_Infographic.jpg">
 </div>
-<p></p>
 <p></p>
