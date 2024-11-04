@@ -75,6 +75,17 @@ and products shaping the future of technology.</p>
 <div class="isomer-card-description">Pioneering Secure Software Supply Chains for a Safer Digital Future</div>
 </div>
 </div>
+<div class="isomer-card">
+<div class="isomer-card-image">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Suthen Thomas Paradatheth" src="/images/technews/Suthen_Thomas_Paradatheth___600x300__1_.png">
+</div>
+</div>
+<div class="isomer-card-body">
+<div class="isomer-card-title">Suthen Thomas Paradatheth</div>
+<div class="isomer-card-description">Leading Grab’s Tech Revolution in Southeast Asia</div>
+</div>
+</div>
 </div>
 <p><em>Note: This article is the 2<sup>nd</sup> of a two-part series on STACK keynote speakers. Check out the 1<sup>st</sup> article to learn more about the other <a href="/media/technews/stack-2024-tech-experts-to-share-their-knowledge-on-ux-design-developer-platforms/" rel="noopener nofollow" target="_blank">STACK keynote speakers</a>.</em>
 </p>
