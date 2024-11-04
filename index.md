@@ -29,7 +29,6 @@ sections:
       size: md
       alignment: left
       backgroundColor: gray
-      title: New Vodcast Series
   - infobar:
       title: Government Technology Agency (GovTech)
       subtitle: WHO WE ARE
