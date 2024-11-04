@@ -29,7 +29,7 @@ sections:
       size: md
       alignment: left
       backgroundColor: gray
-      subtitle: Decode Technical Speak with Us
+      title: New Vodcast Series
   - infobar:
       title: Government Technology Agency (GovTech)
       subtitle: WHO WE ARE
