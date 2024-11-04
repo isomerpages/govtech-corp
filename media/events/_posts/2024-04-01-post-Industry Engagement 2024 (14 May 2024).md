@@ -77,12 +77,18 @@ and how this might address changing citizens’ and businesses’ needs.</p>
 </p>
 <p><a href="/files/media/Events/industry_engagement_2024_opening_address.pdf" rel="noopener noreferrer nofollow" target="_blank">Industry Engagement 2024 Opening Address deck</a>
 </p>
-<p></p>
 <div class="iframe-wrapper">
 <iframe style="max-width: 100%;" height="400" width="100%" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/aEgsYHFy1CQ?si=1yeQi6XYLVc3YbRD"></iframe>
 </div>
-<p>If you have enquiries, please contact our event management partner at
-<a href="mailto:tm_events@adventurers.com.sg" rel="noopener noreferrer nofollow" target="_blank"><u>tm_events@adventurers.com.sg</u> 
-</a>.</p>
+<h3>Continuing Conversations with the Industry</h3>
+<p>IE2024 was a meaningful session with invaluable participation and feedback
+from the industry. In October 2024, GovTech met up with some of the industry
+partners that provided us with insights from their experience, and we shared
+with them some of the plans and actions taken since the event.</p>
+<p>Here are the highlights of how much we have progressed with our partners’
+feedback and suggestions:</p>
+<p></p>
+<p></p>
+<p></p>
 <p>Thank you for making this event a success!</p>
 <p></p>
