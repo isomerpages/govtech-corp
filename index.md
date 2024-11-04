@@ -10,8 +10,8 @@ notification: ""
 sections:
   - hero:
       background: /images/Govtech_Decoded_Homepage_Banner_1735.png
-      button: GET TICKETS
-      url: https://go.gov.sg/stack2024-gt
+      button: LEARN MORE
+      url: /govtech-decoded/
       key_highlights:
         - title: For Citizens
           description: Tips, events and stories
