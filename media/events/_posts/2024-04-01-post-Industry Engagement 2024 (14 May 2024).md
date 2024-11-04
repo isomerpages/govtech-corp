@@ -12,7 +12,6 @@ variant: tiptap
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="Industry Engagement 2024: An event held to expand GovTech and industry collaborations" src="/images/media/events/IE2024_post_event_banner.jpg">
 </div>
-<p></p>
 <p>Industry Briefing has been rebranded as Industry Engagement (IE) to better
 reflect its new ambition to foster deeper ties and valuable collaborations
 with the industry.</p>
@@ -80,7 +79,7 @@ and how this might address changing citizens’ and businesses’ needs.</p>
 <div class="iframe-wrapper">
 <iframe style="max-width: 100%;" height="400" width="100%" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/aEgsYHFy1CQ?si=1yeQi6XYLVc3YbRD"></iframe>
 </div>
-<h3>Continuing Conversations with the Industry</h3>
+<h3>Continuing Conversations with the Industry:</h3>
 <p>IE2024 was a meaningful session with invaluable participation and feedback
 from the industry. In October 2024, GovTech met up with some of the industry
 partners that provided us with insights from their experience, and we shared
@@ -88,7 +87,8 @@ with them some of the plans and actions taken since the event.</p>
 <p>Here are the highlights of how much we have progressed with our partners’
 feedback and suggestions:</p>
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 70%;" height="auto" width="100%" alt="IE 2024 Highlights Infographic" src="/images/media/events/IE2024_Infographic.jpg">
+</div>
 <p></p>
-<p></p>
-<p>Thank you for making this event a success!</p>
 <p></p>
