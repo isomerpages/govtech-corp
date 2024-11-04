@@ -285,6 +285,27 @@ open collaboration, education, and innovation.</p>
 and industry. He believes in strategic representation at key events and
 has been actively involved in software transparency initiatives led by
 the U.S. Federal Government.</p>
+<h3>Suthen Thomas Paradatheth: Leading Grab’s Tech Revolution in Southeast Asia</h3>
+<div class="isomer-image-wrapper">
+<img style="width: 60%;" height="auto" width="100%" alt="Suthen" src="/images/technews/Suthen_Thomas_Paradatheth___600x300__1_.png">
+</div>
+<p><a href="https://www.linkedin.com/in/suthen-thomas-paradatheth-18958b51/?originalSubdomain=sg" rel="noopener noreferrer nofollow" target="_blank">Suthen Thomas Paradatheth</a> is
+the Chief Technology Officer (CTO) of <a href="https://www.grab.com/sg/" rel="noopener noreferrer nofollow" target="_blank">Grab</a>. He leads the technology team
+that builds all of Grab's products which serve millions of people across
+Southeast Asia every day. An early leader in Grab, he has held a range
+of critical technology and business leadership roles in the company since
+it began as a startup until it became a NASDAQ-listed public company.</p>
+<p>He was Grab’s first Technical Lead, and oversaw the development of many
+of its foundational systems. He also established the Business Operations
+team and served as Chief of Staff to co-Founder Hooi Ling Tan. Since 2017,
+he has held a variety of engineering and technology leadership positions,
+including Chief Technology Officer.</p>
+<p>He has a Master’s in Public Policy from the Harvard Kennedy School on
+a twin Fulbright Scholarship and Khazanah Global Scholarship and a Bachelor’s
+in Software Engineering (First Honours) from the Multimedia University.</p>
+<h4>What to Expect from Suthen's Talk</h4>
+<p>In his keynote, Suthen will discuss the critical role of platforms in
+driving engineering efficiency and maximising scalability.</p>
 <hr>
 <h4><strong>Keen to hear from these keynote speakers? Register for the <a href="https://go.gov.sg/stack2024-tnedm" rel="noopener noreferrer nofollow" target="_blank">STACK Developer Conference 2024!</a></strong></h4>
 <p><strong><em>Choose from <a href="https://go.gov.sg/stack2024-tnedm" rel="noopener noreferrer nofollow" target="_blank">in-person tickets</a> (selling fast) or <a href="https://go.gov.sg/stack2024-tnedm" rel="noopener noreferrer nofollow" target="_blank">virtual tickets</a>!</em></strong>
