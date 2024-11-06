@@ -7,3 +7,7 @@ description: ""
 image: ""
 variant: tiptap
 ---
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="GovTech x OpenAI Hackathon 2024" src="/images/media/events/KV_FA_05.png">
+</div>
+<p></p>
