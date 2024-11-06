@@ -158,7 +158,91 @@ Technology Officer, Ministry of Digital Development and Information</div>
 </div>
 </div>
 </div>
-<p></p>
+<p><strong>Frequently Asked Questions</strong>​</p>
+<div data-type="detailGroup" class="isomer-accordion isomer-accordion-white">
+<details class="isomer-details">
+<summary><strong>Can I join the hackathon virtually?</strong>
+</summary>
+<div data-type="detailsContent" class="isomer-details-content">
+<p>​No, this is a Physical Hackathon. All participants should be residing
+in Singapore and must be present throughout the entire hackathon on the
+event date.</p>
+</div>
+</details>
+<details class="isomer-details">
+<summary><strong>I do not have any technical background, can I join the hackathon?</strong>​</summary>
+<div data-type="detailsContent" class="isomer-details-content">
+<p>No, the hackathon is exclusively for developers who will create an application
+using the latest OpenAI Realtime API and o1 reasoning model.</p>
+</div>
+</details>
+<details class="isomer-details">
+<summary><strong>What are some key timelines I have to note?</strong>​</summary>
+<div data-type="detailsContent" class="isomer-details-content">
+<p>Registration period: 5 Nov 2024 to 12 Nov 2024, 2359 hours or limited
+to 250 submissions, whichever is earlier.</p>
+<p>Notification to successful applicants: 15 Nov 2024​</p>
+<p>Hackathon Event Day: 22 Nov 2024, Full day from 0830 to 1700​</p>
+<p>​Please proceed with the registration process only if you can commit to
+the stated timelines.</p>
+</div>
+</details>
+<details class="isomer-details">
+<summary><strong>I do not have a team, can I still register for the hackathon?</strong>​</summary>
+<div data-type="detailsContent" class="isomer-details-content">
+<p>You may register as an individual, and if shortlisted, the organizer will
+group you with other successful registrants to form a team.</p>
+</div>
+</details>
+<details class="isomer-details">
+<summary><strong>How many members can we have in a team?</strong>​</summary>
+<div data-type="detailsContent" class="isomer-details-content">
+<p>Teams can have up to 5 members. For teams with less than 5 members, the
+organizer may add successful individual registrants to your team.</p>
+</div>
+</details>
+<details class="isomer-details">
+<summary><strong>Can we do any pre-preparation before the hackathon?</strong>​</summary>
+<div data-type="detailsContent" class="isomer-details-content">
+<p>No, participants are expected to start hacking on the event day.​</p>
+</div>
+</details>
+<details class="isomer-details">
+<summary><strong>What are the prizes?</strong>
+</summary>
+<div data-type="detailsContent" class="isomer-details-content">
+<p>Prizes for the top 3 winning teams are as follows:​</p>
+<p><strong>1st Place​</strong>
+</p>
+<p>USD 25,000 worth of OpenAI API Credits​</p>
+<p><strong>2nd Place​</strong>
+</p>
+<p>USD 15,000 worth of OpenAI API Credits​</p>
+<p><strong>3rd Place​</strong>
+</p>
+<p>USD 10,000 worth of OpenAI API Credits​</p>
+<p>​Prizes won are non-exchangeable or refundable.</p>
+</div>
+</details>
+<details class="isomer-details">
+<summary><strong>What do I have to bring for the hackathon?</strong>
+</summary>
+<div data-type="detailsContent" class="isomer-details-content">
+<p>If shortlisted, all participants are expected to bring their own problem
+statement or use case. Additionally, bring your own device(s) and accessories
+like chargers.</p>
+</div>
+</details>
+<details class="isomer-details">
+<summary><strong>What will be provided for the hackathon participants?</strong>
+</summary>
+<div data-type="detailsContent" class="isomer-details-content">
+<p>Basic setup including tables, chairs, power sockets, and food and beverages
+throughout the day (breakfast, lunch, and tea break) will be provided to
+fuel our participants!​</p>
+</div>
+</details>
+</div>
 <h3>Ready to push innovation boundaries?</h3>
 <p>Register your interest by <strong>12 November 2024</strong>.
 <br>Shortlisted applicants will be notified by <strong>15 November 2024.</strong>
