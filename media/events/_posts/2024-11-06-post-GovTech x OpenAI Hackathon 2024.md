@@ -158,7 +158,7 @@ Technology Officer, Ministry of Digital Development and Information</div>
 </div>
 </div>
 </div>
-<p><strong>Frequently Asked Questions</strong>​</p>
+<h3><strong>Frequently Asked Questions</strong>​</h3>
 <div data-type="detailGroup" class="isomer-accordion isomer-accordion-white">
 <details class="isomer-details">
 <summary><strong>Can I join the hackathon virtually?</strong>
