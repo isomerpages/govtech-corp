@@ -108,7 +108,7 @@ together with others.</p>
 impact of the project if implemented presently.</p>
 </li>
 </ol>
-<h3>Guest of Honour and Judging Panel</h3>
+<h3>Guest-of-Honour and Judging Panel</h3>
 <div class="isomer-card-grid">
 <div class="isomer-card">
 <div class="isomer-card-image">
@@ -129,7 +129,7 @@ and Information, Smart Nation, and Cybersecurity</div>
 </div>
 </div>
 <div class="isomer-card-body">
-<div class="isomer-card-title">Judging Panel</div>
+<div class="isomer-card-title">Judge</div>
 <div class="isomer-card-description">Mr Mark Chen, Senior Vice President of Research, OpenAI</div>
 </div>
 </div>
@@ -140,7 +140,7 @@ and Information, Smart Nation, and Cybersecurity</div>
 </div>
 </div>
 <div class="isomer-card-body">
-<div class="isomer-card-title">Judging Panel</div>
+<div class="isomer-card-title">Judge</div>
 <div class="isomer-card-description">Mr Chen Kaiwei, Senior Director, Head of Product Strategy and Product
 Practice, GovTech</div>
 </div>
@@ -152,7 +152,7 @@ Practice, GovTech</div>
 </div>
 </div>
 <div class="isomer-card-body">
-<div class="isomer-card-title">Judging Panel</div>
+<div class="isomer-card-title">Judge</div>
 <div class="isomer-card-description">Dr He Ruimin, Chief Artificial Intelligence Officer and Deputy Chief Digital
 Technology Officer, Ministry of Digital Development and Information</div>
 </div>
@@ -165,6 +165,6 @@ Technology Officer, Ministry of Digital Development and Information</div>
 </p><a class="isomer-image-wrapper" href="https://go.gov.sg/gt-openai-web"><img style="width: 50%;" height="auto" width="100%" alt="" src="/images/OpenAI_Hackathon__CTA_button.png"></a>
 <p></p>
 <hr>
-<p>For general enquiries on this hackathon, please email to&nbsp;<a href="mailto:launch@tech.gov.sg" rel="noopener noreferrer nofollow" target="_blank"><u>launch@tech.gov.sg</u></a>
+<p>For general enquiries on this hackathon, please email&nbsp;<a href="mailto:launch@tech.gov.sg" rel="noopener noreferrer nofollow" target="_blank"><u>launch@tech.gov.sg</u></a>
 </p>
 <p></p>
