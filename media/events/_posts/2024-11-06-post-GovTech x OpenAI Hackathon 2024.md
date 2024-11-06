@@ -115,7 +115,7 @@ impact of the project if implemented presently.</p>
 <div class="isomer-card">
 <div class="isomer-card-image">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Mr Joseph Leong" src="https://placehold.co/600x400">
+<img style="width: 100%" height="auto" width="100%" alt="Mr Joseph Leong" src="/images/Joseph_Leong.jpg">
 </div>
 </div>
 <div class="isomer-card-body">
@@ -127,7 +127,7 @@ and Information, Smart Nation, and Cybersecurity</div>
 <div class="isomer-card">
 <div class="isomer-card-image">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Placeholder image" src="https://placehold.co/600x400">
+<img style="width: 100%" height="auto" width="100%" alt="Mr Mark Chen" src="/images/Mark_Chen.png">
 </div>
 </div>
 <div class="isomer-card-body">
@@ -138,7 +138,7 @@ and Information, Smart Nation, and Cybersecurity</div>
 <div class="isomer-card">
 <div class="isomer-card-image">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Mr Chen Kaiwei" src="https://placehold.co/600x400">
+<img style="width: 100%" height="auto" width="100%" alt="Mr Chen Kaiwei" src="/images/Chen_Kaiwei.jpg">
 </div>
 </div>
 <div class="isomer-card-body">
@@ -150,7 +150,7 @@ Practice, GovTech</div>
 <div class="isomer-card">
 <div class="isomer-card-image">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Dr He Ruimin" src="https://placehold.co/600x400">
+<img style="width: 100%" height="auto" width="100%" alt="Dr He Ruimin" src="/images/He_Ruimin.png">
 </div>
 </div>
 <div class="isomer-card-body">
