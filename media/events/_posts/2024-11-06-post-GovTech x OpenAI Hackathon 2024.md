@@ -163,6 +163,7 @@ Technology Officer, Ministry of Digital Development and Information</div>
 <p>Register your interest by <strong>12 November 2024</strong>.
 <br>Shortlisted applicants will be notified by <strong>15 November 2024.</strong>
 </p><a class="isomer-image-wrapper" href="https://go.gov.sg/gt-openai-web"><img style="width: 50%;" height="auto" width="100%" alt="" src="/images/OpenAI_Hackathon__CTA_button.png"></a>
+<p></p>
 <hr>
 <p>For general enquiries on this hackathon, please email to&nbsp;<a href="mailto:launch@tech.gov.sg" rel="noopener noreferrer nofollow" target="_blank"><u>launch@tech.gov.sg</u></a>
 </p>
