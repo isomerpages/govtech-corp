@@ -15,6 +15,9 @@ Pacific!</p>
 <p>Be part of this exciting one-day hackathon to transform AI-powered concepts
 into reality, using cutting-edge models such as OpenAI GPT-4o Realtime
 and o1 reasoning model.</p>
+<blockquote>
+<p>Hackathon theme: AI for the Public Good, for Singapore and the World</p>
+</blockquote>
 <p>Guided by technical specialists from GovTech and OpenAI, you'll have the
 opportunity to:</p>
 <ul data-tight="true" class="tight">
@@ -31,6 +34,23 @@ opportunity to:</p>
 <p>Compete for attractive prizes</p>
 </li>
 </ul>
+<h3>How to register your interest</h3>
+<ul data-tight="true" class="tight">
+<li>
+<p>Provide your own problem statement or use case that you would like to
+solve during this hackathon.</p>
+</li>
+<li>
+<p>Each team can have up to 5 members. You may choose to sign up as an individual
+or together as a team. Successful individual applicants will be grouped
+together with others.</p>
+</li>
+<li>
+<p>Shortlisted applicants will be notified by 15 November 2024.</p>
+</li>
+</ul>
 <p></p>
-<p>Theme:</p>
+<h3>Event details</h3>
+<p>Venue:</p>
+<p></p>
 <p></p>
