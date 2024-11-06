@@ -48,12 +48,12 @@ together with others.</p>
 <li>
 <p>Shortlisted applicants will be notified by 15 November 2024.</p>
 </li>
-</ul>
-<p></p>
+</ul><a class="isomer-image-wrapper" href="https://go.gov.sg/gt-openai-web"><img style="width: 50%;" height="auto" width="100%" alt="" src="/images/OpenAI_Hackathon__CTA_button.png"></a>
 <h3>Event details</h3>
-<p>Venue:</p>
-<p></p>
-<p></p>
+<p><strong>Venue:&nbsp;</strong>Lifelong Learning Institute, 11 Eunos Road
+8, Singapore 408601
+<br><strong>Date:</strong>&nbsp;Friday, 22 November 2024
+<br><strong>Time:</strong>&nbsp;9:00 AM to 5:00 PM</p>
 <h3>Team prizes to be won</h3>
 <div class="isomer-card-grid">
 <div class="isomer-card">
@@ -90,7 +90,26 @@ together with others.</p>
 </div>
 </div>
 </div>
-<p></p>
+<h3>Judging Criteria</h3>
+<p><strong>Teams will be scored on 5 areas,&nbsp;</strong>as follows:</p>
+<ol data-tight="true" class="tight">
+<li>
+<p>Appropriate and effective utilisation of the AI model.</p>
+</li>
+<li>
+<p>Innovation and ingenuity in the use case application.</p>
+</li>
+<li>
+<p>Quality of implementation.</p>
+</li>
+<li>
+<p>Clarity and effectiveness of project and demo presentation.</p>
+</li>
+<li>
+<p>Adherence to the hackathon theme - Practical value and potential real-world
+impact of the project if implemented presently.</p>
+</li>
+</ol>
 <h3>Guest of Honour and Judging Panel</h3>
 <div class="isomer-card-grid">
 <div class="isomer-card">
@@ -141,10 +160,7 @@ Technology Officer, Ministry of Digital Development and Information</div>
 </div>
 </div>
 </div>
-<p></p>
-<p>Ready to push the innovation boundaries?</p>
-<p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 50%;" height="auto" width="100%" alt="" src="/images/OpenAI_Hackathon__CTA_button.png">
-</div>
+<hr>
+<p>For general enquiries on this hackathon, please email to&nbsp;<a href="mailto:launch@tech.gov.sg" rel="noopener noreferrer nofollow" target="_blank"><u>launch@tech.gov.sg</u></a>
+</p>
 <p></p>
