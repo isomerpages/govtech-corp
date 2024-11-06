@@ -32,21 +32,19 @@ opportunity to:</p>
 <p>Compete for attractive prizes</p>
 </li>
 </ul>
-<h3>How to register your interest</h3>
-<ul data-tight="true" class="tight">
+<h3>How to Participate</h3>
+<ol data-tight="true" class="tight">
 <li>
-<p>Provide your own problem statement or use case that you would like to
-solve during this hackathon.</p>
+<p>Submit your problem statement or use case to solve during the event.</p>
 </li>
 <li>
-<p>Each team can have up to 5 members. You may choose to sign up as an individual
-or together as a team. Successful individual applicants will be grouped
-together with others.</p>
+<p>Form teams of up to 5 members, or sign up individually to be grouped with
+others.</p>
 </li>
 <li>
 <p>Shortlisted applicants will be notified by 15 November 2024.</p>
 </li>
-</ul><a class="isomer-image-wrapper" href="https://go.gov.sg/gt-openai-web"><img style="width: 50%;" height="auto" width="100%" alt="" src="/images/OpenAI_Hackathon__CTA_button.png"></a>
+</ol><a class="isomer-image-wrapper" href="https://go.gov.sg/gt-openai-web"><img style="width: 50%;" height="auto" width="100%" alt="" src="/images/OpenAI_Hackathon__CTA_button.png"></a>
 <h3>Event details</h3>
 <p><strong>Venue:&nbsp;</strong>Lifelong Learning Institute, 11 Eunos Road
 8, Singapore 408601
@@ -92,20 +90,20 @@ together with others.</p>
 <p><strong>Teams will be scored on 5 areas,&nbsp;</strong>as follows:</p>
 <ol data-tight="true" class="tight">
 <li>
-<p>Appropriate and effective utilisation of the AI model.</p>
+<p>Appropriate and effective use of the AI model.</p>
 </li>
 <li>
-<p>Innovation and ingenuity in the use case application.</p>
+<p>Innovative application of the use case.</p>
 </li>
 <li>
 <p>Quality of implementation.</p>
 </li>
 <li>
-<p>Clarity and effectiveness of project and demo presentation.</p>
+<p>Clarity and impactful project presentation.</p>
 </li>
 <li>
-<p>Adherence to the hackathon theme - Practical value and potential real-world
-impact of the project if implemented presently.</p>
+<p>Adherence with hackathon theme: Practical value and potential real-world
+impact.</p>
 </li>
 </ol>
 <h3>Guest-of-Honour and Judging Panel</h3>
@@ -177,20 +175,27 @@ using the latest OpenAI Realtime API and o1 reasoning model.</p>
 </div>
 </details>
 <details class="isomer-details">
-<summary><strong>What are some key timelines I have to note?</strong>​</summary>
+<summary><strong>What are key timelines to note?</strong>​</summary>
 <div data-type="detailsContent" class="isomer-details-content">
-<p>Registration period: 5 Nov 2024 to 12 Nov 2024, 2359 hours or limited
-to 250 submissions, whichever is earlier.</p>
-<p>Notification to successful applicants: 15 Nov 2024​</p>
-<p>Hackathon Event Day: 22 Nov 2024, Full day from 0830 to 1700​</p>
-<p>​Please proceed with the registration process only if you can commit to
-the stated timelines.</p>
+<ol data-tight="true" class="tight">
+<li>
+<p>Registration period: 5 Nov 2024 to 12 Nov 2024, 2359 hours (or first 250
+submissions)</p>
+</li>
+<li>
+<p>Notification of successful applicants: 15 Nov 2024​</p>
+</li>
+<li>
+<p>Hackathon Event: 22 Nov 2024, 0830 to 1700​hrs</p>
+</li>
+</ol>
+<p>​Please register only if you can commit to these dates.</p>
 </div>
 </details>
 <details class="isomer-details">
 <summary><strong>I do not have a team, can I still register for the hackathon?</strong>​</summary>
 <div data-type="detailsContent" class="isomer-details-content">
-<p>You may register as an individual, and if shortlisted, the organizer will
+<p>You may register as an individual, and if shortlisted, the organiser will
 group you with other successful registrants to form a team.</p>
 </div>
 </details>
@@ -198,7 +203,7 @@ group you with other successful registrants to form a team.</p>
 <summary><strong>How many members can we have in a team?</strong>​</summary>
 <div data-type="detailsContent" class="isomer-details-content">
 <p>Teams can have up to 5 members. For teams with less than 5 members, the
-organizer may add successful individual registrants to your team.</p>
+organiser may add successful individual registrants to your team.</p>
 </div>
 </details>
 <details class="isomer-details">
@@ -237,9 +242,16 @@ like chargers.</p>
 <summary><strong>What will be provided for the hackathon participants?</strong>
 </summary>
 <div data-type="detailsContent" class="isomer-details-content">
-<p>Basic setup including tables, chairs, power sockets, and food and beverages
-throughout the day (breakfast, lunch, and tea break) will be provided to
-fuel our participants!​</p>
+<p>We'll supply the essentials:</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Basic setup (tables, chairs, power sockets)</p>
+</li>
+<li>
+<p>Meals throughout the day (breakfast, lunch, tea break)</p>
+</li>
+</ul>
+<p>Everything you need to stay fueled and focused!</p>
 </div>
 </details>
 </div>
