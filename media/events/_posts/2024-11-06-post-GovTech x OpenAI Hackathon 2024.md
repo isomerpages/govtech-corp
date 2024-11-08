@@ -10,7 +10,8 @@ image: /images/media/events/OpenAI_KV_NEW.png
 variant: tiptap
 ---
 <a class="isomer-image-wrapper" href="https://go.gov.sg/gt-openai-web"><img style="width: 100%" height="auto" width="100%" alt="GovTech x OpenAI hackathon 2024" src="/images/media/events/OpenAI_KV_NEW.png"></a>
-<p>Calling all developers!</p>
+<p><strong>Calling all developers!</strong>
+</p>
 <p>Be part of this exciting <strong>one-day hackathon on 22 November 2024</strong> to
 transform AI-powered concepts into reality, using cutting-edge models such
 as OpenAI GPT-4o Realtime and o1 reasoning model.</p>
