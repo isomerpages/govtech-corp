@@ -102,7 +102,7 @@ others.</p>
 <p>Clarity and impactful project presentation.</p>
 </li>
 <li>
-<p>Adherence with hackathon theme: Practical value and potential real-world
+<p>Adherence to hackathon theme: Practical value and potential real-world
 impact.</p>
 </li>
 </ol>
@@ -156,7 +156,7 @@ Technology Officer, Ministry of Digital Development and Information</div>
 </div>
 </div>
 </div>
-<h3><strong>Frequently Asked Questions</strong>​</h3>
+<h3>Frequently Asked Questions​</h3>
 <div data-type="detailGroup" class="isomer-accordion isomer-accordion-white">
 <details class="isomer-details">
 <summary><strong>Can I join the hackathon virtually?</strong>
