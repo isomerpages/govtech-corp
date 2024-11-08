@@ -8,6 +8,11 @@ description: ""
 image: ""
 variant: tiptap
 ---
+<p><strong>WELCOME ADDRESS BY DR JANIL PUTHUCHEARY, SENIOR MINISTER OF STATE FOR DIGITAL DEVELOPMENT AND INFORMATION &amp; HEALTH, AND MINISTER-IN-CHARGE OF GOVTECH, AT STACK DEVELOPER CONFERENCE 2024</strong>
+</p>
+<p><strong>ON 6 NOV 2024, 10.10 AM</strong>
+</p>
+<hr>
 <h3>Celebrating 10 Years of Smart Nation</h3>
 <p>Good morning everyone, and welcome to STACK 2024. We launched our Smart
 Nation journey in 2014. Before that, we were engaged in technology-driven
