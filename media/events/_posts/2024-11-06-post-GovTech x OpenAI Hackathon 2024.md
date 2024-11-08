@@ -10,16 +10,30 @@ image: /images/OpenAi_Hackathon.png
 variant: tiptap
 ---
 <a class="isomer-image-wrapper" href="https://go.gov.sg/gt-openai-web"><img style="width: 100%" height="auto" width="100%" alt="GovTech X OpenAI Hackathon 2024" src="/images/media/events/Launch_OpenAI_Banner.png"></a>
-<p>Calling all developers - Join the first OpenAI hackathon hosted in Asia
-Pacific!</p>
-<p>Be part of this exciting one-day hackathon to transform AI-powered concepts
-into reality, using cutting-edge models such as OpenAI GPT-4o Realtime
-and o1 reasoning model.</p>
+<p>Calling all developers!</p>
+<p>Be part of this exciting <strong>one-day hackathon on 22 November 2024</strong> to
+transform AI-powered concepts into reality, using cutting-edge models such
+as OpenAI GPT-4o Realtime and o1 reasoning model.</p>
+<p>Jointly organised by GovTech and OpenAI.</p>
+<ul data-tight="true" class="tight">
+<li>
+<p><strong>Date:</strong>&nbsp;Friday, 22 November 2024</p>
+</li>
+<li>
+<p><strong>Time:</strong>&nbsp;9:00 AM to 5:00 PM</p>
+</li>
+<li>
+<p><strong>Venue:&nbsp;</strong>Lifelong Learning Institute, 11 Eunos Road
+8, Singapore 408601</p>
+</li>
+</ul>
+<p></p>
 <blockquote>
-<p>Hackathon theme: AI for the Public Good, for Singapore and the World</p>
+<p>Theme: AI for the Public Good, for Singapore and the World</p>
 </blockquote>
-<p>Guided by technical specialists from GovTech and OpenAI, you'll have the
-opportunity to:</p>
+<p></p>
+<p><strong>Guided by technical specialists from GovTech and OpenAI, you'll have the opportunity to:</strong>
+</p>
 <ul data-tight="true" class="tight">
 <li>
 <p>Build innovative prototypes</p>
@@ -35,7 +49,7 @@ opportunity to:</p>
 </li>
 </ul>
 <h3>How to Participate</h3>
-<ol data-tight="true" class="tight">
+<ul data-tight="true" class="tight">
 <li>
 <p>Submit your problem statement or use case to solve during the event.</p>
 </li>
@@ -45,14 +59,10 @@ others.</p>
 </li>
 <li>
 <p>Shortlisted applicants will be notified by 15 November 2024.</p>
+<p></p>
 </li>
-</ol><a class="isomer-image-wrapper" href="https://go.gov.sg/gt-openai-web"><img style="width: 50%;" height="auto" width="100%" alt="" src="/images/OpenAI_Hackathon__CTA_button.png"></a>
-<h3>Event details</h3>
-<p><strong>Venue:&nbsp;</strong>Lifelong Learning Institute, 11 Eunos Road
-8, Singapore 408601
-<br><strong>Date:</strong>&nbsp;Friday, 22 November 2024
-<br><strong>Time:</strong>&nbsp;9:00 AM to 5:00 PM</p>
-<h3>Team prizes to be won</h3>
+</ul><a class="isomer-image-wrapper" href="https://go.gov.sg/gt-openai-web"><img style="width: 50%;" height="auto" width="100%" alt="" src="/images/OpenAI_Hackathon__CTA_button.png"></a>
+<h3>Team Prizes</h3>
 <div class="isomer-card-grid">
 <div class="isomer-card">
 <div class="isomer-card-image">
