@@ -207,7 +207,50 @@ which could otherwise prevent people with disabilities (PWDs) from accessing
 what have now become essential content and features. Oobee has facilitated
 the discovery of more than 11.5 million accessibility issues over nearly
 800,000 pages since July 2023.</p>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
+<h3>Partnering our People for Success</h3>
+<p>As we increase our capabilities and upgrade our products and services,
+we must ensure to strengthen our partnerships with citizens, businesses
+and other stakeholders. We need to advance our capabilities together, and
+co-create new solutions together. This is not new; and we have continued
+to do so even as we refresh our Smart Nation vision, focusing on Trust,
+Community and Growth.</p>
+<p>First, we are collaborating with leading industry players (in our digital
+ecosystems) to mitigate online harms and collectively build a safer and
+more trusted digital space. Our Cyber Security Agency of Singapore (CSA)
+has partnered with Google to create a fraud protection feature under Google
+Play Store for all Android devices in Singapore. This blocks high-risk
+apps from being downloaded outside the official app stores, protecting
+users against malware-enabled scams. In the last six months, this approach
+has successfully blocked nearly 900,000 attempts to install high-risk apps.</p>
+<p>Second, we are partnering our enterprises and workers to deepen their
+understanding of new technologies like AI, and to equip them with the necessary
+expertise and resources to take advantage of the best-in-class technologies.
+For businesses, the government is establishing multiple AI sectoral centres
+of excellence. We are starting with the manufacturing sector in September,
+to help firms develop AI solutions tailored to their use cases, in collaboration
+with the research community. At the same time, we are working directly
+with workers to help them acquire in-demand tech skills through training
+programmes like the TechSkills Accelerator Programme by the Infocomm Media
+Development Authority (IMDA). The programme has been very effective in
+helping workers adapt to the tech skills needed today and the anticipated
+demand in the near future.</p>
+<p>Finally, we are working with the wider developer community, making sure
+that the diverse needs of citizens are addressed. This year, we held the
+inaugural Co- Creation Lab at A11y (“AL-eye”) Week in May. We brought together
+developers and members of the vulnerable communities. Their numbers may
+not be great, but their needs are very diverse. It was a valuable opportunity
+for product teams to work directly with these vulnerable users, hear their
+issues and address their considerations, and embed their thinking in their
+product development process.</p>
+<h3>Conclusion</h3>
+<p>Many of these things (I mentioned) became possible because we put in a
+lot of effort around our Tech Stack, and I have had the privilege of working
+with excellent colleagues who have been working on many of the challenges
+that I described. I want to thank everybody for their enthusiasm. The success
+of an event like STACK is because of the community of practitioners that
+turn up with a shared interest in tech for public good. Since our first
+conference in 2018, STACK has grown from strength to strength, increasing
+in number, deepening in quality, broadening in the areas of interest. I
+wish you all a great conference over the next two days. I hope that this
+year’s conference will allow you to form new partnerships and generate
+new ideas to help us take Smart Nation forward. Thank you.</p>
