@@ -9,7 +9,7 @@ description: Join the GovTech x OpenAI Hackathon 2024 to build impactful AI
 image: /images/OpenAi_Hackathon.png
 variant: tiptap
 ---
-<a class="isomer-image-wrapper" href="https://go.gov.sg/gt-openai-web"><img style="width: 100%" height="auto" width="100%" alt="GovTech x OpenAI Hackathon 2024" src="/images/media/events/KV_FA_05.png"></a>
+<a class="isomer-image-wrapper" href="https://go.gov.sg/gt-openai-web"><img style="width: 100%" height="auto" width="100%" alt="GovTech X OpenAI Hackathon 2024" src="/images/media/events/Launch_OpenAI_Banner.png"></a>
 <p>Calling all developers - Join the first OpenAI hackathon hosted in Asia
 Pacific!</p>
 <p>Be part of this exciting one-day hackathon to transform AI-powered concepts
