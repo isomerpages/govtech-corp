@@ -174,6 +174,42 @@ datam altering existing datasets or even removing essential data types.</div>
 </div>
 </div>
 </div>
+<h3>Overcoming Data Poisoning by striking the Balance between High-Quality Data and Quantity of Data</h3>
+<p>When asked if the GASP team faces issues of data poisoning, Andre states
+that the problem definitely exists. However, the GASP team carefully validates
+the dataset used to train ML models in their products to reduce the risk
+of data poisoning.</p>
+<p>Taking rMSE as an example, part of the data collected comes from police
+cases on scam-related issues. Since police reports require police officers
+to officially close a case, the data collected from SPF is considered to
+be high-quality because it has been carefully verified by humans.</p>
+<p>Additionally, the GASP team utilises the <a href="https://www.scamshield.gov.sg/" rel="noopener noreferrer nofollow" target="_blank">ScamShield</a> database of scam reports
+from Singaporeans to further enhance the quality of the training dataset.</p>
+<div class="isomer-card-grid">
+<div class="isomer-card">
+<div class="isomer-card-body">
+<div class="isomer-card-title">What is ScamShield?</div>
+<div class="isomer-card-description">ScamShield is a mobile app that blocks scam calls and messages by matching
+unknown numbers against a database managed by the SPF. Numbers linked to
+scams are blocked automatically. ScamShield also uses an on-device algorithm
+to analyse incoming messages and detect possible scams.</div>
+</div>
+</div>
+</div>
+<p>However, despite the carefully validated datasets, Mark states:</p>
+<blockquote>
+<p><em>“In the scams or adversarial space, the more data you have, the better. However, the quality of data is also an important factor. So, you always have to strike a balance between large training datasets and carefully validated datasets.”</em>
+</p>
+</blockquote>
+<p>Another method the GASP team uses to validate datasets is to wait for
+weeks or months before deciding if a website is safe or malicious.</p>
+<p>Why is this necessary you might wonder? Mark explains:</p>
+<blockquote>
+<p><em>“One good way to overcome data poisoning is to be patient. Scammers tend to resort to something called strategic squatting where they will register a domain online, put some benign or safe content on it and only turn the site malicious after a period of time. So sometimes there is a need to be patient in our analysis and judgement.” </em>-
+Mark Chen</p>
+</blockquote>
+<p></p>
+<p></p>
 <p></p>
 <p></p>
 <p></p>
