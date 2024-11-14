@@ -112,8 +112,8 @@ collaboration with the Ministry of Home Affairs (MHA). This tool actively
 consolidates threat intelligence, analyses, and disrupts any malicious
 websites. These include job scam sites or bank phishing sites that mimic
 the look and feel of the real websites of legitimate organisations.</p>
-<p>SATIS is powered by the <a href="https://www.developer.tech.gov.sg/products/categories/cybersecurity/rmse/overview.html" rel="noopener noreferrer nofollow" target="_blank">recursive Machine-Learning Site Evaluator (rMSE)</a> —
-an in-house Machine Learning (ML) technology developed by GovTech. It works
+<p>SATIS is powered by the <a href="https://www.developer.tech.gov.sg/products/categories/cybersecurity/rmse/overview.html" rel="noopener noreferrer nofollow" target="_blank">recursive Machine-Learning Site Evaluator (rMSE)</a>—an
+in-house Machine Learning (ML) technology developed by GovTech. It works
 in the background and around the clock, analysing over hundreds of thousands
 of URLs daily to identify potentially malicious sites. As of Sept 2024
 SATIS has successfully identified and disrupted over 50,000 scam-related
