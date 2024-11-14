@@ -152,7 +152,7 @@ and anomalous behaviours at a rate that is not humanly possible.</p>
 <p>This is where the power of AI comes in. With AI, vast amounts of data
 can be analysed in a short time frame. AI can then quickly draw logical
 conclusions on what is considered anomalous behaviour from the pool of
-data studied and subsequently, perform routine security functions implemented
+data studied and subsequently perform routine security functions implemented
 by the GASP team. Thus, the ML technology behind rMSE for instance, is
 continuously improving on its own with more data being fed into it. Over
 time, AI will learn and adapt to new trends of attacking behaviours and
