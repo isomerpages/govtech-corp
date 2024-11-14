@@ -142,8 +142,38 @@ of the following:</p>
 </table>
 <p></p>
 <h3>How Does GASP Use AI to Fight Scams in Singapore?</h3>
-<p></p>
-<p></p>
+<p>In the early days (i.e. 1-2 years ago), finding scam sites often involved
+manual operators looking for anomalies vs. static rules — known threats
+and behaviours that attackers commonly use when setting up scam sites.
+However, this process has since evolved with the use of ML to identify
+unknown patterns and anomalous behaviours at a rate that is not humanly
+possible.</p>
+<p>How does this work?</p>
+<p>This is where the power of AI comes in. With AI, vast amounts of data
+can be analysed in a short time frame. AI can then quickly draw logical
+conclusions on what is considered anomalous behaviour from the pool of
+data studied and subsequently, perform routine security functions implemented
+by the GASP team. Thus, the ML technology behind rMSE for instance, is
+continuously improving on its own with more data being fed into it. Over
+time, AI will learn and adapt to new trends of attacking behaviours and
+afterwards, suggest safe code fixes to counter the attackers.</p>
+<p>This is possible because AI can meticulously scan millions of lines of
+code rapidly, scrutinising each part to determine if any line can be used
+to breach systems. However, scammers can still introduce vulnerabilities
+into AI defence systems by poisoning the data sets used to train AI cybersecurity
+products.</p>
+<p>This phenomenon is known as <strong>data poisoning</strong>.</p>
+<div class="isomer-card-grid">
+<div class="isomer-card">
+<div class="isomer-card-body">
+<div class="isomer-card-title">What is Data Poisoning?</div>
+<div class="isomer-card-description">Data poisoning is a type of cyberattack that aims to undermine artificial
+intelligence (AI) and machine learning (ML) models by corrupting training
+datasets. This weakens the models' accuracy and reliability by adding fake
+datam altering existing datasets or even removing essential data types.</div>
+</div>
+</div>
+</div>
 <p></p>
 <p></p>
 <p></p>
