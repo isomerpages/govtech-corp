@@ -91,7 +91,7 @@ quick action by cybersecurity personnel, often before athletes see them.</p>
 <p>Covering close to 15,000 athletes and 2,000 officials, the AI-driven system
 is part of a broader safeguarding initiative to protect athletes' physical
 and mental well-being. This allows them to focus fully on competing at
-the games and reduce the likelihood of being affected by abusive comments
+the games and reduces the likelihood of being affected by abusive comments
 on social media platforms.</p>
 <h3>Fighting Scams in Singapore with GovTech’s Anti-Scam Products (GASP) Team</h3>
 <p>Closer to home, the GASP team was formed with the mission of building
