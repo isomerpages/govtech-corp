@@ -37,6 +37,7 @@ scam prevention and cybersecurity:</p>
 <p>Overcoming Data Poisoning by Malicious Actors</p>
 </li>
 </ul>
+<hr>
 <h3>The Evolution of Scams with AI</h3>
 <p>Scammers are leveraging emerging technologies like AI to enhance their
 malicious tactics. Hence, the need for robust cybersecurity measures has
