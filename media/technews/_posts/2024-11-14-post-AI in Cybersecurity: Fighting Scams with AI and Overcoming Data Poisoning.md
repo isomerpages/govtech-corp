@@ -233,10 +233,24 @@ a beacon of hope in the ongoing fight to protect users from online scams
 and data poisoning.</p>
 <p><em>Note: This is the 1st article of a two-part article series. Check out the 2nd article below:</em>
 </p>
-<p></p>
-<div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="https://www.isomer.gov.sg" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Placeholder image" src="https://placehold.co/600x400"></div></div><div class="isomer-card-body"><div class="isomer-card-title">This is a title for your card</div><div class="isomer-card-description">This is body text for your card. Describe your card.</div><div class="isomer-card-link">This is a link for your card</div></div></a>
+<div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="https://www.isomer.gov.sg" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Placeholder image" src="https://placehold.co/600x400"></div></div><div class="isomer-card-body"><div class="isomer-card-title">This is a title for your card</div><div class="isomer-card-link">This is a link for your card</div></div></a>
 </div>
-<p></p>
+<hr>
+<h3>Related articles:</h3>
+<ol data-tight="true" class="tight">
+<li>
+<p><a href="https://www.tech.gov.sg/how-to-tell-if-its-a-scam-the-red-flags-in-scam-messages-you-need-to-spot/" rel="noopener noreferrer nofollow" target="_blank">How to tell if it’s a scam: The red flags in scam messages you need to spot</a>
+</p>
+</li>
+<li>
+<p><a href="https://www.tech.gov.sg/media/technews/how-govtech-is-leading-singapore-fight-against-scams/" rel="noopener noreferrer nofollow" target="_blank">How GovTech is Leading Singapore’s Fight Against Scams</a>
+</p>
+</li>
+<li>
+<p><a href="https://www.tech.gov.sg/media/technews/five-ways-you-might-be-sabotaging-your-data-privacy/" rel="noopener noreferrer nofollow" target="_blank">Five ways you might be sabotaging your data privacy</a>
+</p>
+</li>
+</ol>
 <p></p>
 <p></p>
 <p></p>
