@@ -170,7 +170,7 @@ products.</p>
 <div class="isomer-card-description">Data poisoning is a type of cyberattack that aims to undermine artificial
 intelligence (AI) and machine learning (ML) models by corrupting training
 datasets. This weakens the models' accuracy and reliability by adding fake
-datam altering existing datasets or even removing essential data types.</div>
+data, altering existing datasets, or even removing essential data types.</div>
 </div>
 </div>
 </div>
@@ -206,7 +206,7 @@ to analyse incoming messages and detect possible scams.</div>
 weeks or months before deciding if a website is safe or malicious.</p>
 <p>Why is this necessary you might wonder? Mark explains:</p>
 <blockquote>
-<p><em>“One good way to overcome data poisoning is to be patient. Scammers tend to resort to something called </em><strong><em>strategic squatting</em></strong><em> where they will register a domain online, put some benign or safe content on it and only turn the site malicious after a period of time. So sometimes there is a need to be patient in our analysis and judgement.” </em>-
+<p><em>“One good way to overcome data poisoning is to be patient. Scammers tend to resort to something called </em><strong><em>strategic squatting</em></strong><em> where they will register a domain online, put some benign or safe content on it, and only turn the site malicious after a period of time. So sometimes there is a need to be patient in our analysis and judgement.” </em>-
 Mark Chen</p>
 </blockquote>
 <div class="isomer-card-grid">
