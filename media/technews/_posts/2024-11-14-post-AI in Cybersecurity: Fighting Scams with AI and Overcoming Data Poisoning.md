@@ -70,8 +70,8 @@ Sundar Pichai, CEO of Google</p>
 <p>This statement from Google’s Chief Executive only reinforces what we already
 know: that AI is here to stay and will continue to change the way we live
 our lives. Despite the endless possibilities of AI for good, we have already
-seen how it is <a href="https://www.channelnewsasia.com/singapore/ai-phishing-attempts-cyber-attacks-technology-scams-deepfakes-ransomware-4506631" rel="noopener noreferrer nofollow" target="_blank">used for the wrong purposes</a> —
-the enhancement of scam messages and calls, malware, phishing emails, deepfake
+seen how it is <a href="https://www.channelnewsasia.com/singapore/ai-phishing-attempts-cyber-attacks-technology-scams-deepfakes-ransomware-4506631" rel="noopener noreferrer nofollow" target="_blank">used for the wrong purposes</a>—the
+enhancement of scam messages and calls, malware, phishing emails, deepfake
 videos, etc.</p>
 <p>Nonetheless, there are signs that not all hope is lost, and AI can indeed
 be used for public good, like ensuring a safer digital cyberspace for online
