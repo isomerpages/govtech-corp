@@ -103,9 +103,8 @@ Singaporeans from online scams.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="GovTech’s Anti-Scam Products GASP Mark Chen Andre Ng" src="/images/technews/gasp_mark_andre.jpg">
 </div>
-<p><em>Mr Mark Chen (left) and Mr Andre Ng  from GovTech’s Anti-Scam Products (GASP) team</em>
+<p><em>Mr Mark Chen (left) and Mr Andre Ng from GovTech’s Anti-Scam Products (GASP) team</em>
 </p>
-<p></p>
 <h3>Protecting Singapore Residents from the Shadows with SATIS</h3>
 <p>With the increasing number of malicious websites designed to steal users’
 login credentials and banking details, the GASP team developed the <a href="https://www.tech.gov.sg/products-and-services/for-citizens/scam-prevention/" rel="noopener noreferrer nofollow" target="_blank">Scam Analytics and Tactical Intervention System (SATIS)</a> in
@@ -271,7 +270,6 @@ and data poisoning.</p>
 </p>
 </li>
 </ul>
-<p></p>
 <p></p>
 <p></p>
 <p></p>
