@@ -144,11 +144,10 @@ of the following:</p>
 </p>
 <h3>How Does GASP Use AI to Fight Scams in Singapore?</h3>
 <p>In the early days (i.e. 1-2 years ago), finding scam sites often involved
-manual operators looking for anomalies vs. static rules — known threats
-and behaviours that attackers commonly use when setting up scam sites.
-However, this process has since evolved with the use of ML to identify
-unknown patterns and anomalous behaviours at a rate that is not humanly
-possible.</p>
+manual operators looking for anomalies vs. static rules—known threats and
+behaviours that attackers commonly use when setting up scam sites. However,
+this process has since evolved with the use of ML to identify unknown patterns
+and anomalous behaviours at a rate that is not humanly possible.</p>
 <p>How does this work?</p>
 <p>This is where the power of AI comes in. With AI, vast amounts of data
 can be analysed in a short time frame. AI can then quickly draw logical
