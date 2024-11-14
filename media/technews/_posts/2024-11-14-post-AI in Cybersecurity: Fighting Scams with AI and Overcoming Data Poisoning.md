@@ -233,12 +233,7 @@ a beacon of hope in the ongoing fight to protect users from online scams
 and data poisoning.</p>
 <p><em>Note: This is the 1st article of a two-part article series. Check out the 2nd article below:</em>
 </p>
-<div class="isomer-card-grid">
-<div class="isomer-card">
-<div class="isomer-card-body">
-<div class="isomer-card-title">AI in Cybersecurity: Overcoming the Defender’s Dilemma and Creative Scams</div>
-</div>
-</div>
+<div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="/media/technews/ai-in-cybersecurity-overcoming-the-defenders-dilemma-and-creative-scams/" class="isomer-card"><div class="isomer-card-body"><div class="isomer-card-title">AI in Cybersecurity: Overcoming the Defender’s Dilemma and Creative Scams</div><div class="isomer-card-link">Read the article</div></div></a>
 </div>
 <hr>
 <h3>Related articles:</h3>
