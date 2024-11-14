@@ -128,6 +128,7 @@ websites.</p>
 <p><em>“With SATIS and rMSE, the police can now proactively hunt and take down malicious websites at scale before anyone falls prey. This would not be humanly possible without AI technology.”</em> -
 Andre Ng</p>
 </blockquote>
+<p></p>
 <p>If you happen to land on a SATIS-disrupted scam website, you’ll see one
 of the following:</p>
 <ul data-tight="true" class="tight">
@@ -141,8 +142,9 @@ of the following:</p>
 <p>Error notification (e.g. error 404 message)</p>
 </li>
 </ul>
+<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 60%;" height="auto" width="100%" alt="" src="/images/technews/error_screen.png">
+<img style="width: 100%" height="auto" width="100%" alt="SATIS Red Warning Screen" src="/images/technews/satis_warning_screen_red.jpg">
 </div>
 <h3>How Does GASP Use AI to Fight Scams in Singapore?</h3>
 <p>In the early days (i.e. 1-2 years ago), finding scam sites often involved
