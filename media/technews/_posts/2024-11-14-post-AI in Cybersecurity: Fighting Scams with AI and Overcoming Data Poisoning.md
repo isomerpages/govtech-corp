@@ -9,6 +9,9 @@ description: Learn how GovTech’s Anti-Scam Products team uses AI to fight onli
 image: ""
 variant: tiptap
 ---
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="TechNews AI in Cybersecurity Part 1" src="/images/technews/technews_ai_in_cybersecurity_1.png">
+</div>
 <p>In recent times, the use of artificial intelligence (AI) by cyber criminals
 to create convincing phishing sites, deepfakes, and fraudulent content
 has made it even more challenging for defenders to protect individuals
