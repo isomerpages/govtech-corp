@@ -156,7 +156,7 @@ data studied and subsequently perform routine security functions implemented
 by the GASP team. Thus, the ML technology behind rMSE for instance, is
 continuously improving on its own with more data being fed into it. Over
 time, AI will learn and adapt to new trends of attacking behaviours and
-afterwards, suggest safe code fixes to counter the attackers.</p>
+afterwards suggest safe code fixes to counter the attackers.</p>
 <p>This is possible because AI can meticulously scan millions of lines of
 code rapidly, scrutinising each part to determine if any line can be used
 to breach systems. However, scammers can still introduce vulnerabilities
