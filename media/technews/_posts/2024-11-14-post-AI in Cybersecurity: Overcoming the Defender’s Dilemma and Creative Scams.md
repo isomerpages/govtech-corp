@@ -202,4 +202,20 @@ you’re unsure!</p>
 </p>
 <div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="/media/technews/ai-in-cybersecurity-fighting-scams-with-ai-and-overcoming-data-poisoning/" class="isomer-card"><div class="isomer-card-body"><div class="isomer-card-title">AI in Cybersecurity: Fighting Scams with AI and Overcoming Data Poisoning</div><div class="isomer-card-link">Read the article</div></div></a>
 </div>
+<hr>
+<h3>Related articles:</h3>
+<ul data-tight="true" class="tight">
+<li>
+<p><a href="https://www.tech.gov.sg/media/technews/which-sms-links-are-scams-and-which-are-not/" rel="noopener noreferrer nofollow" target="_blank">CDC SMS links, scam or not?</a>
+</p>
+</li>
+<li>
+<p><a href="https://www.tech.gov.sg/how-to-tell-if-its-a-scam-the-red-flags-in-scam-messages-you-need-to-spot/" rel="noopener noreferrer nofollow" target="_blank">How to tell if it’s a scam: The red flags in scam messages you need to spot</a>
+</p>
+</li>
+<li>
+<p><a href="https://www.tech.gov.sg/media/technews/virtual-past-augmented-future-the-journey-from-vr-man-to-tomorrows-tech/" rel="noopener noreferrer nofollow" target="_blank">Virtual Past, Augmented Future: The Journey from VR Man to Tomorrow’s Tech</a>
+</p>
+</li>
+</ul>
 <p></p>
