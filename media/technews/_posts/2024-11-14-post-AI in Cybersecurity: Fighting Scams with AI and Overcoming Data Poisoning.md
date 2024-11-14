@@ -219,6 +219,25 @@ and evade security filters.</div>
 </div>
 </div>
 </div>
+<h3>Artificial Intelligence: A Double-Edged Sword</h3>
+<p>As technology advances, so do scammers’ tactics, making it clear that
+traditional cybersecurity methods alone are no longer sufficient. The rise
+of AI has introduced both new challenges and solutions to the fight against
+scams. GovTech’s GASP team has shown how AI can be harnessed to disrupt
+and prevent malicious activities, significantly improving scam detection
+and response in Singapore. However, the battle doesn’t stop there. Defenders
+must evolve AI-driven solutions to outsmart and outpace attackers as malicious
+actors adapt.</p>
+<p>While the road ahead is complex, integrating AI into cybersecurity provides
+a beacon of hope in the ongoing fight to protect users from online scams
+and data poisoning.</p>
+<p><em>Note: This is the 1st article of a two-part article series. Check out the 2nd article below:</em>
+</p>
+<p></p>
+<div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="https://www.isomer.gov.sg" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Placeholder image" src="https://placehold.co/600x400"></div></div><div class="isomer-card-body"><div class="isomer-card-title">This is a title for your card</div><div class="isomer-card-description">This is body text for your card. Describe your card.</div><div class="isomer-card-link">This is a link for your card</div></div></a>
+</div>
+<p></p>
+<p></p>
 <p></p>
 <p></p>
 <p></p>
