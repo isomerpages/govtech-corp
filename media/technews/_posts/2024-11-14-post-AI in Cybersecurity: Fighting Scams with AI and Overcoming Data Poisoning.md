@@ -81,6 +81,31 @@ and mental well-being. This allows them to focus fully on competing at
 the games and reduce the likelihood of being affected by abusive comments
 on social media platforms.</p>
 <h3>Fighting Scams in Singapore with GovTech’s Anti-Scam Products (GASP) Team</h3>
+<p>Closer to home, the GASP team was formed with the mission of building
+tech products to detect, deter and disrupt scammers at scale. We sat down
+with <a href="https://www.linkedin.com/in/markchen-sg/?originalSubdomain=sg" rel="noopener noreferrer nofollow" target="_blank">Mr Mark Chen</a>,
+Principal Product Manager at GASP, and <a href="https://www.linkedin.com/in/andre-nhy/" rel="noopener noreferrer nofollow" target="_blank">Mr Andre Ng</a>, Assistant
+Director at GASP, to find out more about how the GASP team uses AI to protect
+Singaporeans from online scams.</p>
+<h3>Protecting Singapore Residents from the Shadows with SATIS</h3>
+<p>With the increasing number of malicious websites designed to steal users’
+login credentials and banking details, the GASP team developed the <a href="https://www.tech.gov.sg/products-and-services/for-citizens/scam-prevention/" rel="noopener noreferrer nofollow" target="_blank">Scam Analytics and Tactical Intervention System (SATIS)</a> in
+collaboration with the Ministry of Home Affairs (MHA). This tool actively
+consolidates threat intelligence, analyses, and disrupts any malicious
+websites. These include job scam sites or bank phishing sites that mimic
+the look and feel of the real websites of legitimate organisations.</p>
+<p>SATIS is powered by the <a href="https://www.developer.tech.gov.sg/products/categories/cybersecurity/rmse/overview.html" rel="noopener noreferrer nofollow" target="_blank">recursive Machine-Learning Site Evaluator (rMSE)</a> —
+an in-house Machine Learning (ML) technology developed by GovTech. It works
+in the background and around the clock, analysing over hundreds of thousands
+of URLs daily to identify potentially malicious sites. As of Sept 2024
+SATIS has successfully identified and disrupted over 50,000 scam-related
+websites.</p>
+<blockquote>
+<p><em>“With SATIS and rMSE, the police can now proactively hunt and take down malicious websites at scale before anyone falls prey. This would not be humanly possible without AI technology.”</em> -
+Andre Ng</p>
+</blockquote>
+<p></p>
+<p></p>
 <p></p>
 <p></p>
 <p></p>
