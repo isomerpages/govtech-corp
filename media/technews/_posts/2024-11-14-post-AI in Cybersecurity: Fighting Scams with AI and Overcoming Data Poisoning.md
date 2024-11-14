@@ -130,41 +130,20 @@ Andre Ng</p>
 </blockquote>
 <p>If you happen to land on a SATIS-disrupted scam website, you’ll see one
 of the following:</p>
-<table style="minWidth: 75px">
-<colgroup>
-<col>
-<col>
-<col>
-</colgroup>
-<tbody>
-<tr>
-<td rowspan="1" colspan="1">
-<p><strong>A red warning screen notification</strong>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><strong>Warning from SPF</strong>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><strong>Error notification (e.g. error 404 message)</strong>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-</tr>
-</tbody>
-</table>
-<p></p>
+<ul data-tight="true" class="tight">
+<li>
+<p>A red warning screen notification</p>
+</li>
+<li>
+<p>Warning from SPF</p>
+</li>
+<li>
+<p>Error notification (e.g. error 404 message)</p>
+</li>
+</ul>
+<div class="isomer-image-wrapper">
+<img style="width: 60%;" height="auto" width="100%" alt="" src="/images/technews/error_screen.png">
+</div>
 <h3>How Does GASP Use AI to Fight Scams in Singapore?</h3>
 <p>In the early days (i.e. 1-2 years ago), finding scam sites often involved
 manual operators looking for anomalies vs. static rules — known threats
