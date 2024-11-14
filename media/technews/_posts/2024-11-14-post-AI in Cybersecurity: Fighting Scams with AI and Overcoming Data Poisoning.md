@@ -48,7 +48,7 @@ last year. From a more global perspective, a <a href="https://www.statista.com/f
 that from 2024 to 2029, the estimated cost of cybercrime worldwide is projected
 to increase by $6.4 trillion U.S. dollars.</p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Statistica Estimated Cost of Cybercrime Worldwide 2018-2029" src="/images/technews/Satistica_Cybercrime_Cost.png">
+<img style="width: 80%;" height="auto" width="100%" alt="Statistica Estimated Cost of Cybercrime Worldwide 2018-2029" src="/images/technews/Satistica_Cybercrime_Cost.png">
 </div>
 <p><em>Statistics taken from <a href="https://www.statista.com/forecasts/1280009/cost-cybercrime-worldwide" rel="noopener noreferrer nofollow" target="_blank">Statistica</a>, published 30<sup>th</sup> July 2024.</em>
 </p>
@@ -146,7 +146,7 @@ of the following:</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="SATIS Red Warning Screen" src="/images/technews/satis_warning_screen_red.jpg">
 </div>
-<p><em>A red warning screen notification issued due to SATIS’ disruption and identification of a potentially malicious website. </em>
+<p><em>A red warning screen notification issued due to SATIS’ disruption and identification of a potentially malicious website.</em>
 </p>
 <h3>How Does GASP Use AI to Fight Scams in Singapore?</h3>
 <p>In the early days (i.e. 1-2 years ago), finding scam sites often involved
