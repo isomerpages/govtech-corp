@@ -88,7 +88,7 @@ especially with AI enabling more software creation and management.</p>
 <p>Attackers have significant advantages over defenders, who are stretched
 thin across the digital ecosystem. While defenders must protect against
 many threats, attackers can focus on a single target, exploiting vulnerabilities
-and waiting for mistakes. Small businesses are especially vulnerable as
+and waiting for mistakes. Small businesses are especially vulnerable, as
 they may lack the resources and expertise to defend against determined
 attackers.</p>
 </div>
@@ -99,7 +99,7 @@ attackers.</p>
 are evolving, AI must be used in cybersecurity efforts to combat the increasingly
 sophisticated scams and address the defender’s dilemma.</p>
 <blockquote>
-<p><em>“We have reached a point where we have no choice but to use artificial intelligence to help us do our jobs. There is so much </em><strong><em>telemetry data</em></strong><em> to analyse and spotting any anomalous pattern or behaviour in this pool of data is akin to finding a needle in a haystack. So, we use AI to mimic the defender’s intuition in spotting anomalous behaviours, and at a much faster rate. In this sense, you can think of AI as a massive force multiplier.” </em>-
+<p><em>“We have reached a point where we have no choice but to use artificial intelligence to help us do our jobs. There is so much </em><strong><em>telemetry data</em></strong><em> to analyse, and spotting any anomalous pattern or behaviour in this pool of data is akin to finding a needle in a haystack. So, we use AI to mimic the defender’s intuition in spotting anomalous behaviours, and at a much faster rate. In this sense, you can think of AI as a massive force multiplier.” </em>-
 Andre Ng</p>
 </blockquote>
 <p></p>
@@ -127,7 +127,7 @@ their methods.</p>
 <p>He provides the example of the <a href="https://www.tech.gov.sg/media/technews/which-sms-links-are-scams-and-which-are-not/" rel="noopener noreferrer nofollow" target="_blank">CDC vouchers scam incident</a> that
 occurred earlier this year:</p>
 <blockquote>
-<p><em>“When we first looked at this issue, we thought that ‘okay, they’re just trying to phish for banking or Singpass credentials.’ But what actually happened was a multi-stage scam that the scammers asked victims for their phone number(s) and then sent them OTPs via Telegram or WhatsApp. Once victims keyed in the OTPs, the scammers took over the victims’ Telegram and WhatsApp accounts, messaging friends and family and asking them to transfer money to a third-party account. From the point of view of the eventual victim (the one who lost money), they were transferring money to their actual friend” </em>-
+<p><em>“When we first looked at this issue, we thought that ‘okay, they’re just trying to phish for banking or Singpass credentials.’ But what actually happened was a multi-stage scam in which the scammers asked victims for their phone number(s) and then sent them OTPs via Telegram or WhatsApp. Once victims keyed in the OTPs, the scammers took over the victims’ Telegram and WhatsApp accounts, messaging friends and family and asking them to transfer money to a third-party account. From the point of view of the eventual victim (the one who lost money), they were transferring money to their actual friend” </em>-
 Mark Chen</p>
 </blockquote>
 <p>Adding to Mark’s example of the CDC vouchers incident, Andre explains
