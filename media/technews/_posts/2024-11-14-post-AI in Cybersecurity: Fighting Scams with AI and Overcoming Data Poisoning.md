@@ -103,7 +103,7 @@ Singaporeans from online scams.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="GovTech’s Anti-Scam Products GASP Mark Chen Andre Ng" src="/images/technews/gasp_mark_andre.jpg">
 </div>
-<p><em>Mr Mark Chen (left) and Mr Andre Ng from GovTech’s Anti-Scam Products (GASP) team</em>
+<p><em>Mr Mark Chen (left) and Mr Andre Ng from GovTech’s Anti-Scam Products (GASP) team.</em>
 </p>
 <h3>Protecting Singapore Residents from the Shadows with SATIS</h3>
 <p>With the increasing number of malicious websites designed to steal users’
@@ -112,6 +112,12 @@ collaboration with the Ministry of Home Affairs (MHA). This tool actively
 consolidates threat intelligence, analyses, and disrupts any malicious
 websites. These include job scam sites or bank phishing sites that mimic
 the look and feel of the real websites of legitimate organisations.</p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="GovTech’s Anti-Scam Products (GASP) Team" src="/images/technews/gasp_team_photo.jpg">
+</div>
+<p><em>The team from GovTech’s Anti-Scam Products (GASP).</em>
+</p>
 <p>SATIS is powered by the <a href="https://www.developer.tech.gov.sg/products/categories/cybersecurity/rmse/overview.html" rel="noopener noreferrer nofollow" target="_blank">recursive Machine-Learning Site Evaluator (rMSE)</a> —
 an in-house Machine Learning (ML) technology developed by GovTech. It works
 in the background and around the clock, analysing over hundreds of thousands
