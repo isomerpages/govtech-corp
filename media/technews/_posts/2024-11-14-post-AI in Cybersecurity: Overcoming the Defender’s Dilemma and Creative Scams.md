@@ -16,14 +16,12 @@ evolve. Hackers are becoming more creative, sophisticated scams are on
 the rise, and with the integration of AI into these malicious tactics,
 cybersecurity experts face an uphill challenge. But there’s hope. <a href="https://www.tech.gov.sg/media/technews/5-ai-terms-to-boost-your-intelligence/" rel="noopener noreferrer nofollow" target="_blank">Artificial Intelligence (AI)</a> is
 increasingly seen as a powerful ally in cybersecurity, providing defenders
-with the tools to detect, analyse, and disrupt potential threats. Hence,
-GovTech’s Anti-Scam Products (GASP) team has <a href="https://www.tech.gov.sg/products-and-services/for-citizens/scam-prevention/" rel="noopener noreferrer nofollow" target="_blank">adopted AI</a> to
+with the tools to detect, analyse, and disrupt potential threats.</p>
+<p>GovTech’s Anti-Scam Products (GASP) team has <a href="https://www.tech.gov.sg/products-and-services/for-citizens/scam-prevention/" rel="noopener noreferrer nofollow" target="_blank">adopted AI</a> to
 level the playing field in this ever-evolving battle. <a href="https://www.linkedin.com/in/markchen-sg/?originalSubdomain=sg" rel="noopener noreferrer nofollow" target="_blank">Mr Mark Chen</a>,
 Principal Product Manager at GASP, and <a href="https://www.linkedin.com/in/andre-nhy/" rel="noopener noreferrer nofollow" target="_blank">Mr Andre Ng</a>, Assistant
 Director at GASP, will share more about how the GASP team uses AI to overcome
 the Defender’s Dilemma.</p>
-<p>Let’s dive into how AI is changing the face of cybersecurity and what
-this means for both defenders and attackers in this high-stakes game.</p>
 <p>Let’s dive into how AI is changing the face of cybersecurity and what
 this means for both defenders and attackers in this high-stakes game:</p>
 <ul data-tight="true" class="tight">
@@ -40,6 +38,7 @@ this means for both defenders and attackers in this high-stakes game:</p>
 <p>How to Check for Malicious Sites or Documents?</p>
 </li>
 </ul>
+<hr>
 <h3>The Defender’s Dilemma in Cybersecurity</h3>
 <p>In today’s digital age, cybersecurity is a relentless battle. While defenders
 work tirelessly to safeguard systems from countless threats, attackers
