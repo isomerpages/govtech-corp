@@ -208,7 +208,17 @@ weeks or months before deciding if a website is safe or malicious.</p>
 <p><em>“One good way to overcome data poisoning is to be patient. Scammers tend to resort to something called strategic squatting where they will register a domain online, put some benign or safe content on it and only turn the site malicious after a period of time. So sometimes there is a need to be patient in our analysis and judgement.” </em>-
 Mark Chen</p>
 </blockquote>
-<p></p>
+<div class="isomer-card-grid">
+<div class="isomer-card">
+<div class="isomer-card-body">
+<div class="isomer-card-title">What is Strategic Squatting?</div>
+<div class="isomer-card-description">Strategic squatting is a method attackers use to bypass security measures
+and gain unauthorised system access. This technique involves registering
+domain names that closely resemble legitimate ones, aiming to mislead users
+and evade security filters.</div>
+</div>
+</div>
+</div>
 <p></p>
 <p></p>
 <p></p>
