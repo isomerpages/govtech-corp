@@ -237,7 +237,7 @@ and data poisoning.</p>
 </div>
 <hr>
 <h3>Related articles:</h3>
-<ol data-tight="true" class="tight">
+<ul data-tight="true" class="tight">
 <li>
 <p><a href="https://www.tech.gov.sg/how-to-tell-if-its-a-scam-the-red-flags-in-scam-messages-you-need-to-spot/" rel="noopener noreferrer nofollow" target="_blank">How to tell if it’s a scam: The red flags in scam messages you need to spot</a>
 </p>
@@ -250,7 +250,7 @@ and data poisoning.</p>
 <p><a href="https://www.tech.gov.sg/media/technews/five-ways-you-might-be-sabotaging-your-data-privacy/" rel="noopener noreferrer nofollow" target="_blank">Five ways you might be sabotaging your data privacy</a>
 </p>
 </li>
-</ol>
+</ul>
 <p></p>
 <p></p>
 <p></p>
