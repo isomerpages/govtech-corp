@@ -47,6 +47,12 @@ to scams in 2023. Reported scam cases also hit a record high of 46,563
 last year. From a more global perspective, a <a href="https://www.statista.com/forecasts/1280009/cost-cybercrime-worldwide" rel="noopener noreferrer nofollow" target="_blank">report from Statistica</a> indicates
 that from 2024 to 2029, the estimated cost of cybercrime worldwide is projected
 to increase by $6.4 trillion U.S. dollars.</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Statistica Estimated Cost of Cybercrime Worldwide 2018-2029" src="/images/technews/Satistica_Cybercrime_Cost.png">
+</div>
+<p><em>Statistics taken from <a href="https://www.statista.com/forecasts/1280009/cost-cybercrime-worldwide" rel="noopener noreferrer nofollow" target="_blank">Statistica</a>, published 30<sup>th</sup> July 2024.</em>
+</p>
+<p></p>
 <p>With alarming numbers like these, it’s no surprise that cybersecurity
 and scam prevention are <a href="https://govinsider.asia/intl-en/article/singapore-encourages-the-use-of-ai-to-improve-cybersecurity-posture" rel="noopener noreferrer nofollow" target="_blank">growing concerns for the Singapore government</a> and
 Singaporeans of all ages.</p>
