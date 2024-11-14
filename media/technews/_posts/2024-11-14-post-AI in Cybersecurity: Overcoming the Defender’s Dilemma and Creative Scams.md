@@ -42,7 +42,7 @@ this means for both defenders and attackers in this high-stakes game:</p>
 <h3>The Defender’s Dilemma in Cybersecurity</h3>
 <p>In today’s digital age, cybersecurity is a relentless battle. While defenders
 work tirelessly to safeguard systems from countless threats, attackers
-only need to find one vulnerability to strike. This is the essence of the <em>Defender’s Dilemma</em>.
+only need to find one vulnerability to strike. This is the essence of the <strong>Defender’s Dilemma</strong>.
 It highlights the difficult position cybersecurity professionals face:
 they must defend every aspect of a system, while cybercriminals can focus
 all their efforts on identifying and exploiting a single weak point.</p>
@@ -99,7 +99,7 @@ attackers.</p>
 are evolving, AI must be used in cybersecurity efforts to combat the increasingly
 sophisticated scams and address the defender’s dilemma.</p>
 <blockquote>
-<p><em>“We have reached a point where we have no choice but to use artificial intelligence to help us do our jobs. There is so much telemetry data to analyse and spotting any anomalous pattern or behaviour in this pool of data is akin to finding a needle in a haystack. So, we use AI to mimic the defender’s intuition in spotting anomalous behaviours, and at a much faster rate. In this sense, you can think of AI as a massive force multiplier.” </em>-
+<p><em>“We have reached a point where we have no choice but to use artificial intelligence to help us do our jobs. There is so much </em><strong><em>telemetry data</em></strong><em> to analyse and spotting any anomalous pattern or behaviour in this pool of data is akin to finding a needle in a haystack. So, we use AI to mimic the defender’s intuition in spotting anomalous behaviours, and at a much faster rate. In this sense, you can think of AI as a massive force multiplier.” </em>-
 Andre Ng</p>
 </blockquote>
 <p></p>
