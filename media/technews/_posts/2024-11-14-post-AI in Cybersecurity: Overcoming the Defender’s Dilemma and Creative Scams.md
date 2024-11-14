@@ -165,11 +165,22 @@ if it is malicious or safe to use. The data is also automatically shared
 with the security community so that they can use the data to train better
 AI detection models.</p>
 <h4>ScamShield</h4>
-<p>Download the <a href="https://www.scamshield.gov.sg/" rel="noopener noreferrer nofollow" target="_blank">ScamShield app</a> to
-protect yourself from scam calls and messages. It operates by matching
-unknown numbers against a database managed by the SPF. Numbers linked to
-scams are blocked automatically. If you're unsure if something is a scam,
-call the 24/7 ScamShield helpline at 1799 to check.</p>
+<p>Download the <a href="https://www.scamshield.gov.sg/" rel="noopener noreferrer nofollow" target="_blank">ScamShield app</a> to:</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Check for scams</p>
+</li>
+<li>
+<p>Report potential scams</p>
+</li>
+<li>
+<p>Block and filter scams</p>
+</li>
+</ul>
+<p>ScamShield operates by matching unknown numbers against a database managed
+by the SPF. Numbers linked to scams are blocked automatically. If you're
+unsure if something is a scam, call the 24/7 ScamShield helpline at 1799
+to check.</p>
 <div class="iframe-wrapper">
 <iframe style="max-width: 100%;" height="400" width="100%" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/bIAo--B3V3A?si=ocsA5BEU1CDgzfaN"></iframe>
 </div>
