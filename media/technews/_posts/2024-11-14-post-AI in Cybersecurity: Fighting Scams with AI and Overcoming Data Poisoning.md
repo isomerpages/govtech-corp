@@ -104,7 +104,42 @@ websites.</p>
 <p><em>“With SATIS and rMSE, the police can now proactively hunt and take down malicious websites at scale before anyone falls prey. This would not be humanly possible without AI technology.”</em> -
 Andre Ng</p>
 </blockquote>
+<p>If you happen to land on a SATIS-disrupted scam website, you’ll see one
+of the following:</p>
+<table style="minWidth: 75px">
+<colgroup>
+<col>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>A red warning screen notification</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Warning from SPF</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Error notification (e.g. error 404 message)</strong>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+</tbody>
+</table>
 <p></p>
 <p></p>
 <p></p>
