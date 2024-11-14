@@ -203,19 +203,17 @@ you’re unsure!</p>
 <div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="/media/technews/ai-in-cybersecurity-fighting-scams-with-ai-and-overcoming-data-poisoning/" class="isomer-card"><div class="isomer-card-body"><div class="isomer-card-title">AI in Cybersecurity: Fighting Scams with AI and Overcoming Data Poisoning</div><div class="isomer-card-link">Read the article</div></div></a>
 </div>
 <hr>
-<h3>Related articles:</h3>
-<ul data-tight="true" class="tight">
-<li>
-<p><a href="https://www.tech.gov.sg/media/technews/which-sms-links-are-scams-and-which-are-not/" rel="noopener noreferrer nofollow" target="_blank">CDC SMS links, scam or not?</a>
-</p>
-</li>
-<li>
-<p><a href="https://www.tech.gov.sg/how-to-tell-if-its-a-scam-the-red-flags-in-scam-messages-you-need-to-spot/" rel="noopener noreferrer nofollow" target="_blank">How to tell if it’s a scam: The red flags in scam messages you need to spot</a>
-</p>
-</li>
-<li>
-<p><a href="https://www.tech.gov.sg/media/technews/virtual-past-augmented-future-the-journey-from-vr-man-to-tomorrows-tech/" rel="noopener noreferrer nofollow" target="_blank">Virtual Past, Augmented Future: The Journey from VR Man to Tomorrow’s Tech</a>
-</p>
-</li>
-</ul>
+<div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="https://go.gov.sg/communitysignup-technews" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Subscribe to the TechNews email newsletter" src="/images/CTA card images/technews_footer.jpg"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Subscribe to the TechNews email newsletter</div><div class="isomer-card-link">TechNews</div></div></a>
+<a rel="noopener noreferrer nofollow" href="https://go.gov.sg/communitysignup-technews" class="isomer-card">
+<div class="isomer-card-image">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Join the Tech Kaki user-testing community" src="/images/CTA card images/techkaki_footer.jpg">
+</div>
+</div>
+<div class="isomer-card-body">
+<div class="isomer-card-title">Join the Tech Kaki user-testing community</div>
+<div class="isomer-card-link">Tech Kaki</div>
+</div>
+</a>
+</div>
 <p></p>
