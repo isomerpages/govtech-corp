@@ -236,19 +236,19 @@ and data poisoning.</p>
 <div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="/media/technews/ai-in-cybersecurity-overcoming-the-defenders-dilemma-and-creative-scams/" class="isomer-card"><div class="isomer-card-body"><div class="isomer-card-title">AI in Cybersecurity: Overcoming the Defender’s Dilemma and Creative Scams</div><div class="isomer-card-link">Read the article</div></div></a>
 </div>
 <hr>
-<h3>Related articles:</h3>
-<ul data-tight="true" class="tight">
-<li>
-<p><a href="https://www.tech.gov.sg/media/technews/how-govtech-is-leading-singapore-fight-against-scams/" rel="noopener noreferrer nofollow" target="_blank">How GovTech is Leading Singapore’s Fight Against Scams</a>
-</p>
-</li>
-<li>
-<p><a href="https://www.tech.gov.sg/media/technews/five-ways-you-might-be-sabotaging-your-data-privacy/" rel="noopener noreferrer nofollow" target="_blank">Five ways you might be sabotaging your data privacy</a>
-</p>
-</li>
-</ul>
-<p></p>
-<p></p>
+<div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="https://go.gov.sg/communitysignup-technews" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Subscribe to the TechNews email newsletter" src="/images/CTA card images/technews_footer.jpg"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Subscribe to the TechNews email newsletter</div><div class="isomer-card-link">TechNews</div></div></a>
+<a rel="noopener noreferrer nofollow" href="https://go.gov.sg/communitysignup-technews" class="isomer-card">
+<div class="isomer-card-image">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Join the Tech Kaki user-testing community" src="/images/CTA card images/techkaki_footer.jpg">
+</div>
+</div>
+<div class="isomer-card-body">
+<div class="isomer-card-title">Join the Tech Kaki user-testing community</div>
+<div class="isomer-card-link">Tech Kaki</div>
+</div>
+</a>
+</div>
 <p></p>
 <p></p>
 <p></p>
