@@ -76,6 +76,9 @@ videos, etc.</p>
 be used for public good, like ensuring a safer digital cyberspace for online
 users.</p>
 <h3>AI Cybersecurity System Deployed at the Paris Olympic Games 2024</h3>
+<div class="isomer-image-wrapper">
+<img style="width: 50%;" height="auto" width="100%" alt="Olympics" src="/images/technews/olympics_logo.jpg">
+</div>
 <p>A positive case study example is demonstrated at the <a href="https://olympics.com/ioc/news/ai-system-to-protect-athletes-from-online-abuse-during-paris-2024" rel="noopener noreferrer nofollow" target="_blank">Paris Olympic Games 2024</a>.
 For the first time, the International Olympic Committee (IOC) used a new
 AI-powered monitoring service to protect athletes and officials from online
@@ -96,6 +99,13 @@ with <a href="https://www.linkedin.com/in/markchen-sg/?originalSubdomain=sg" rel
 Principal Product Manager at GASP, and <a href="https://www.linkedin.com/in/andre-nhy/" rel="noopener noreferrer nofollow" target="_blank">Mr Andre Ng</a>, Assistant
 Director at GASP, to find out more about how the GASP team uses AI to protect
 Singaporeans from online scams.</p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="GovTech’s Anti-Scam Products GASP Mark Chen Andre Ng" src="/images/technews/gasp_mark_andre.jpg">
+</div>
+<p><em>Mr Mark Chen (left) and Mr Andre Ng  from GovTech’s Anti-Scam Products (GASP) team</em>
+</p>
+<p></p>
 <h3>Protecting Singapore Residents from the Shadows with SATIS</h3>
 <p>With the increasing number of malicious websites designed to steal users’
 login credentials and banking details, the GASP team developed the <a href="https://www.tech.gov.sg/products-and-services/for-citizens/scam-prevention/" rel="noopener noreferrer nofollow" target="_blank">Scam Analytics and Tactical Intervention System (SATIS)</a> in
