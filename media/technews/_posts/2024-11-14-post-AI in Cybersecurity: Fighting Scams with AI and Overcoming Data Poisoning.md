@@ -146,6 +146,8 @@ of the following:</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="SATIS Red Warning Screen" src="/images/technews/satis_warning_screen_red.jpg">
 </div>
+<p><em>A red warning screen notification issued due to SATIS’ disruption and identification of a potentially malicious website. </em>
+</p>
 <h3>How Does GASP Use AI to Fight Scams in Singapore?</h3>
 <p>In the early days (i.e. 1-2 years ago), finding scam sites often involved
 manual operators looking for anomalies vs. static rules — known threats
