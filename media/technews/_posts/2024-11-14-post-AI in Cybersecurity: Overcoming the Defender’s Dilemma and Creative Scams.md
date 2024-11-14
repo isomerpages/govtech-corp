@@ -170,6 +170,9 @@ protect yourself from scam calls and messages. It operates by matching
 unknown numbers against a database managed by the SPF. Numbers linked to
 scams are blocked automatically. If you're unsure if something is a scam,
 call the 24/7 ScamShield helpline at 1799 to check.</p>
+<div class="iframe-wrapper">
+<iframe style="max-width: 100%;" height="400" width="100%" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/bIAo--B3V3A?si=ocsA5BEU1CDgzfaN"></iframe>
+</div>
 <h4>CheckMateSG</h4>
 <p><a href="https://checkmate.sg/" rel="noopener noreferrer nofollow" target="_blank">CheckMateSG</a> is
 a ground-up initiative that relies on a network of volunteers, called CheckMates,
@@ -184,8 +187,8 @@ CheckMateSG!</p>
 <h4>List of trusted government websites</h4>
 <p>Check out the <a href="https://www.gov.sg/trusted-sites#orgs" rel="noopener noreferrer nofollow" target="_blank">list of legitimate government-associated websites and other organisations</a> if
 you’re unsure!</p>
-<p></p>
 <p><em>Note: This is the 2nd article of a two-part article series. Check out the 1st article below:</em>
 </p>
-<p></p>
+<div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="/media/technews/ai-in-cybersecurity-fighting-scams-with-ai-and-overcoming-data-poisoning/" class="isomer-card"><div class="isomer-card-body"><div class="isomer-card-title">AI in Cybersecurity: Fighting Scams with AI and Overcoming Data Poisoning</div><div class="isomer-card-link">Read the article</div></div></a>
+</div>
 <p></p>
