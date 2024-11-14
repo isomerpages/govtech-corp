@@ -132,7 +132,7 @@ Mark Chen</p>
 </blockquote>
 <p>Adding to Mark’s example of the CDC vouchers incident, Andre explains
 that <a href="https://www.tech.gov.sg/how-to-tell-if-its-a-scam-the-red-flags-in-scam-messages-you-need-to-spot/" rel="noopener noreferrer nofollow" target="_blank">scammers</a> are
-getting better at mimicking legitimate websites and with the growing capabilities
+getting better at mimicking legitimate websites, and with the growing capabilities
 of deepfake technology, it is even harder for the naked eye to spot suspicious
 content.</p>
 <p>“You can no longer look out for grammatical errors or the SSL certificate
@@ -143,7 +143,7 @@ requests. Ultimately, scammers need to convince potential victims about
 the truth of their claims and how money is somehow needed to fix the issue.</p>
 <h3>The DNA of the GASP Team at GovTech</h3>
 <p>The GASP team is very much an experimental unit that is constantly using
-different methods of using AI to fight scams, and is currently expanding
+different methods of using AI to fight scams and is currently expanding
 SATIS’ capabilities to analyse online advertisements in addition to websites.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="GovTech’s Anti-Scam Products (GASP) Team" src="/images/technews/gasp_team_photo.jpg">
@@ -151,15 +151,15 @@ SATIS’ capabilities to analyse online advertisements in addition to websites.<
 <p><em>The team from GovTech’s Anti-Scam Products (GASP).</em>
 </p>
 <blockquote>
-<p><em>“Part of the process of creating successful products requires failure and if we don’t fail, then we won’t learn anything. So, we have to be comfortable with letting go of the ideas that didn’t work out because this is also part of the discovery process. Having this attitude is important for us if we want to catch up with the latest trends of scams.” </em>-
+<p><em>“Part of the process of creating successful products requires failure, and if we don’t fail, then we won’t learn anything. So, we have to be comfortable with letting go of the ideas that didn’t work out because this is also part of the discovery process. Having this attitude is important for us if we want to catch up with the latest trends of scams.” </em>-
 Mark Chen</p>
 </blockquote>
 <h3>How to Check for Malicious Sites or Documents?</h3>
 <p>Here are some online tools and ways that you can use to verify websites,
-documents, emails and more:</p>
+documents, emails, and more:</p>
 <h4>Google Cloud’s VirusTotal</h4>
 <p>Google Cloud’s <a href="https://www.virustotal.com/gui/home/upload" rel="noopener noreferrer nofollow" target="_blank">VirusTotal</a> has
-been using AI to analyse suspicious files, domains, URLs and more to determine
+been using AI to analyse suspicious files, domains, URLs, and more to determine
 if it is malicious or safe to use. The data is also automatically shared
 with the security community so that they can use the data to train better
 AI detection models.</p>
