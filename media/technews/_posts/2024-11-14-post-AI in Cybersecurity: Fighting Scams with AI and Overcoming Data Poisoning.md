@@ -16,7 +16,7 @@ variant: tiptap
 to create convincing phishing sites, deepfakes, and fraudulent content
 has made it even more challenging for defenders to protect individuals
 and organisations.</p>
-<p>However, AI is not only a tool for attackers — it is also a powerful weapon
+<p>However, AI is not only a tool for attackers—it is also a powerful weapon
 for defenders. In this article, we will explore how AI is used to combat
 the evolving threat of scams, focusing on GovTech’s Anti-Scam Products
 (GASP) team and their innovative efforts in Singapore. From the Scam Analytics
