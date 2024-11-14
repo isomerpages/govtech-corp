@@ -239,10 +239,6 @@ and data poisoning.</p>
 <h3>Related articles:</h3>
 <ul data-tight="true" class="tight">
 <li>
-<p><a href="https://www.tech.gov.sg/how-to-tell-if-its-a-scam-the-red-flags-in-scam-messages-you-need-to-spot/" rel="noopener noreferrer nofollow" target="_blank">How to tell if it’s a scam: The red flags in scam messages you need to spot</a>
-</p>
-</li>
-<li>
 <p><a href="https://www.tech.gov.sg/media/technews/how-govtech-is-leading-singapore-fight-against-scams/" rel="noopener noreferrer nofollow" target="_blank">How GovTech is Leading Singapore’s Fight Against Scams</a>
 </p>
 </li>
