@@ -183,8 +183,9 @@ of data poisoning.</p>
 cases on scam-related issues. Since police reports require police officers
 to officially close a case, the data collected from SPF is considered to
 be high-quality because it has been carefully verified by humans.</p>
-<p>Additionally, the GASP team utilises the <a href="https://www.scamshield.gov.sg/" rel="noopener noreferrer nofollow" target="_blank">ScamShield</a> database of scam reports
-from Singaporeans to further enhance the quality of the training dataset.</p>
+<p>Additionally, the GASP team utilises the <strong><a href="https://www.scamshield.gov.sg/" rel="noopener noreferrer nofollow" target="_blank">ScamShield</a></strong> database
+of scam reports from Singaporeans to further enhance the quality of the
+training dataset.</p>
 <div class="isomer-card-grid">
 <div class="isomer-card">
 <div class="isomer-card-body">
@@ -205,7 +206,7 @@ to analyse incoming messages and detect possible scams.</div>
 weeks or months before deciding if a website is safe or malicious.</p>
 <p>Why is this necessary you might wonder? Mark explains:</p>
 <blockquote>
-<p><em>“One good way to overcome data poisoning is to be patient. Scammers tend to resort to something called strategic squatting where they will register a domain online, put some benign or safe content on it and only turn the site malicious after a period of time. So sometimes there is a need to be patient in our analysis and judgement.” </em>-
+<p><em>“One good way to overcome data poisoning is to be patient. Scammers tend to resort to something called </em><strong><em>strategic squatting</em></strong><em> where they will register a domain online, put some benign or safe content on it and only turn the site malicious after a period of time. So sometimes there is a need to be patient in our analysis and judgement.” </em>-
 Mark Chen</p>
 </blockquote>
 <div class="isomer-card-grid">
