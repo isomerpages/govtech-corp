@@ -95,7 +95,7 @@ the games and reduces the likelihood of being affected by abusive comments
 on social media platforms.</p>
 <h3>Fighting Scams in Singapore with GovTech’s Anti-Scam Products (GASP) Team</h3>
 <p>Closer to home, the GASP team was formed with the mission of building
-tech products to detect, deter and disrupt scammers at scale. We sat down
+tech products to detect, deter, and disrupt scammers at scale. We sat down
 with <a href="https://www.linkedin.com/in/markchen-sg/?originalSubdomain=sg" rel="noopener noreferrer nofollow" target="_blank">Mr Mark Chen</a>,
 Principal Product Manager at GASP, and <a href="https://www.linkedin.com/in/andre-nhy/" rel="noopener noreferrer nofollow" target="_blank">Mr Andre Ng</a>, Assistant
 Director at GASP, to find out more about how the GASP team uses AI to protect
