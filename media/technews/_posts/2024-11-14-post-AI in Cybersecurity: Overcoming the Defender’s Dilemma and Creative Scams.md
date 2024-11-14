@@ -57,6 +57,43 @@ while attackers only need to find one vulnerability in the system to succeed.</d
 </div>
 </div>
 </div>
-<p></p>
+<p>According to Google’s report on How AI Can Reverse the Defender’s Dilemma,
+there are 3 main factors that contribute to this issue:</p>
+<div data-type="detailGroup" class="isomer-accordion isomer-accordion-white">
+<details class="isomer-details">
+<summary><strong>1. The internet was built for sharing information but not for the security of data</strong>
+</summary>
+<div data-type="detailsContent" class="isomer-details-content">
+<p>Security was not a primary focus when the internet's original technology
+stack was developed. Furthermore, key protocols did not prioritise security
+features such as identity and authentication. While there have been attempts
+to improve on this, changes happen slowly, and there is also the risk of
+fracturing compatibility with older systems.</p>
+</div>
+</details>
+<details class="isomer-details">
+<summary><strong>2. The digital world is growing more complicated every year</strong>
+</summary>
+<div data-type="detailsContent" class="isomer-details-content">
+<p>The internet's design lets different technologies work together, but new
+risks emerge as software becomes more complex. Developers add layers to
+simplify this complexity, but these layers can create security gaps or
+vulnerabilities. As our digital world expands, the security risks increase,
+especially with AI enabling more software creation and management.</p>
+</div>
+</details>
+<details class="isomer-details">
+<summary><strong>3. The lack of cybersecurity expertise and resources to combat attackers</strong>
+</summary>
+<div data-type="detailsContent" class="isomer-details-content">
+<p>Attackers have significant advantages over defenders, who are stretched
+thin across the digital ecosystem. While defenders must protect against
+many threats, attackers can focus on a single target, exploiting vulnerabilities
+and waiting for mistakes. Small businesses are especially vulnerable as
+they may lack the resources and expertise to defend against determined
+attackers.</p>
+</div>
+</details>
+</div>
 <p></p>
 <p></p>
