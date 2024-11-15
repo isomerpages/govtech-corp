@@ -10,7 +10,7 @@ notification: ""
 sections:
   - hero:
       background: /images/Govtech_Decoded_Homepage_Banner_0411_4.png
-      button: FIND OUT MORE
+      button: FIND OUT MORE FIND OUT MORE
       url: /govtech-decoded/
       key_highlights:
         - title: For Citizens

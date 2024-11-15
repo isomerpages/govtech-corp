@@ -47,9 +47,8 @@ master your craft, and realise your full potential.</p>
 mind. As a caring employer, we put the interests of our people — whom we
 call “GovTechies” — at the heart of everything we do. We believe our awards
 speak volumes about our vibrant and employee-friendly workplace!</p>
-<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="GovTech's HR and workplace-related awards" src="/images/careers/Awards_CRMS_compressed.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="GovTech's HR and workplace-related awards" src="/images/careers/Awards.png">
 </div>
 <h4>Get on the leadership track</h4>
 <p>We see all incoming GovTechies as future leaders. Guided by the three

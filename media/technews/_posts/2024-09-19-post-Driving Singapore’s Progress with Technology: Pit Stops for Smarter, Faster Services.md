@@ -8,8 +8,6 @@ description: "GovTech Innovations: Transforming Public Services for a Smarter Si
 image: /images/driving_singapore_progress_with_technology_pit_stops_for_smarter_faster_services.png
 variant: tiptap
 ---
-<p></p>
-<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="Driving singapore progress with technology pit-stops for smarter faster services" src="/images/driving_singapore_progress_with_technology_pit_stops_for_smarter_faster_services.png">
 </div>
@@ -21,7 +19,7 @@ our interaction with public services. From accessing grants to <a href="https://
 these digital tools are essential for keeping Singapore on the fast track
 to progress.&nbsp;</p>
 <hr>
-<h4><strong>GoWhere Suite: One-Stop Portals for Government Information&nbsp;</strong></h4>
+<h3>GoWhere Suite: One-Stop Portals for Government Information&nbsp;</h3>
 <p>The<a href="https://www.gowhere.gov.sg/" rel="noopener noreferrer nofollow" target="_blank"> <u>GoWhere Suite</u></a> is
 a comprehensive collection of websites that provide easy access to government
 information and services. Initially launched to support pandemic-related
@@ -41,8 +39,7 @@ informed and connected.</p>
 tool that<a href="https://www.tech.gov.sg/media/technews/create-new-gowhere-sites-in-less-than-a-day/" rel="noopener noreferrer nofollow" target="_blank"> <u>empowers agencies to swiftly create or update websites</u></a> –
 slashes the time needed to launch new sites from days to just a few hours,
 ensuring public service information remains timely and accessible.</p>
-<hr>
-<h4>OurSG Grants: Your Gateway to Faster Funding&nbsp;</h4>
+<h3>OurSG Grants: Your Gateway to Faster Funding&nbsp;</h3>
 <p>The <a href="https://oursggrants.gov.sg/" class="Hyperlink SCXW113840723 BCX8" rel="noreferrer noopener" target="_blank"><u>OurSG Grants portal</u></a> is a
 centralised platform designed to simplify the grant application process
 for community, arts, heritage, sports, and social good initiatives. By
@@ -51,8 +48,7 @@ it streamlines the often complex tasks of searching for and applying for
 government grants in Singapore. This platform ensures that community-driven
 projects can access funding faster, effectively removing barriers and delays
 that traditionally hinder the application process.&nbsp;</p>
-<hr>
-<h4>SATIS: AI-Powered Scam Detection and Prevention&nbsp;</h4>
+<h3>SATIS: AI-Powered Scam Detection and Prevention&nbsp;</h3>
 <p>The <a href="https://www.tech.gov.sg/products-and-services/for-citizens/scam-prevention/" class="Hyperlink SCXW113840723 BCX8" rel="noreferrer noopener" target="_blank"><u>Scam Analytics and Tactical Intervention System (SATIS)</u></a> is
 GovTech’s latest in the fight against scams in Singapore, developed in
 collaboration with Ministry of Home Affairs. Utilising AI and machine learning,
@@ -61,8 +57,7 @@ hours, drastically shortening response times compared to traditional methods.
 This technology plays a vital role in <a href="https://www.straitstimes.com/singapore/a-scam-could-cost-someone-s-life-why-govtech-fights-scammers" class="Hyperlink SCXW113840723 BCX8" rel="noreferrer noopener" target="_blank"><u>safeguarding citizens from financial loss and potential harm</u></a>,
 demonstrating that <a href="https://www.tech.gov.sg/media/technews/how-govtech-is-leading-singapore-fight-against-scams/" class="Hyperlink SCXW113840723 BCX8" rel="noreferrer noopener" target="_blank">combating <u>scams</u></a> is
 about more than just money - it’s fundamentally about ensuring public safety.&nbsp;</p>
-<hr>
-<h4>Singpass: Digital IC for Seamless Identification&nbsp;</h4>
+<h3>Singpass: Digital IC for Seamless Identification&nbsp;</h3>
 <p>With <a href="https://www.singpass.gov.sg/main" class="Hyperlink SCXW113840723 BCX8" rel="noreferrer noopener" target="_blank"><u>Singpass</u></a>, verifying
 your identity has never been easier. The <a href="https://www.tech.gov.sg/media/technews/singpass-digital-ic/" class="Hyperlink SCXW113840723 BCX8" rel="noreferrer noopener" target="_blank"><u>Digital IC feature</u></a> in
 the Singpass app allows users to quickly authenticate at government counters

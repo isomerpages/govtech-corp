@@ -1,5 +1,5 @@
 ---
-title: GovTech x OpenAI Hackathon 2024
+title: GovTech x OpenAI Hackathon 2024 (22 Nov 2024)
 permalink: /media/events/govtech-openai-hackathon-2024/
 date: 2024-11-06
 layout: post
