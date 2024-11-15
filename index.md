@@ -9,8 +9,8 @@ permalink: /
 notification: ""
 sections:
   - hero:
-      background: /images/STACK_Banner.jpg
-      button: REGISTER NOW
+      background: /images/Govtech_Decoded_Homepage_Banner_0411_4.png
+      button: FIND OUT MORE
       url: /govtech-decoded/
       key_highlights:
         - title: For Citizens
@@ -29,7 +29,6 @@ sections:
       size: md
       alignment: left
       backgroundColor: gray
-      title: STACK Developer Conference 2024
   - infobar:
       title: Government Technology Agency (GovTech)
       subtitle: WHO WE ARE
