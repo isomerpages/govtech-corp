@@ -26,7 +26,7 @@ sections:
           description: Productivity and collaboration
           url: /for-government-agencies
       variant: floating
-      size: sm
+      size: md
       alignment: right
       backgroundColor: gray
       title: "Digital Services Awards 2024: Vote, Celebrate & Win Prizes!"
