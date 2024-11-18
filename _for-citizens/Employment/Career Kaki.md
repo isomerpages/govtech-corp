@@ -40,7 +40,7 @@ in Singapore and access job listings, resources, and courses related to
 your interests. Whether you're seeking your first role, transitioning careers,
 or looking to advance in your field, Career Kaki empowers you to take proactive
 steps toward building your career and confidently navigating the job market.</p>
-<h3>Why use Career Kaki? </h3>
+<h3>Why use Career Kaki?</h3>
 <div class="isomer-card-grid">
 <div class="isomer-card">
 <div class="isomer-card-image">
@@ -80,6 +80,7 @@ MyCareersFuture and CareerCompass.</div>
 </div>
 </div>
 </div>
+<h3>How to use Career Kaki?</h3>
 <p></p>
 <p></p>
 <p></p>
