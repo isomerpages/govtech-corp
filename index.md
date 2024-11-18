@@ -29,7 +29,7 @@ sections:
       size: md
       alignment: right
       backgroundColor: gray
-      title: Cast Your Vote, Discover the Winners, & Win Prizes!
+      title: "Digital Services Awards 2024: Vote, Celebrate, & Win Prizes!"
       subtitle: Register before 27 November to learn from industry experts, vote for
         the Most Popular Informational Websites, and win exciting prizes through
         quizzes!
