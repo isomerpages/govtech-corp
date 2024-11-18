@@ -39,6 +39,16 @@ sections:
       button: About GovTech
       url: /about-us/who-we-are/
   - infopic:
+      title: GovTech Decoded
+      subtitle: VODCAST SERIES
+      id: infopic
+      description: Join us as we decode tech topics in this vodcast series with tech
+        experts from GovTech.
+      button: LEARN MORE
+      url: /govtech-decoded/
+      image: /images/Decoded/Campaign_Banner_V04.png
+      alt: Image alt text
+  - infopic:
       title: Tech for Public Good
       subtitle: Our Digital Government Efforts
       id: infopic
