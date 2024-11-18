@@ -9,7 +9,7 @@ permalink: /
 notification: ""
 sections:
   - hero:
-      background: /images/DSA2024_RegistrationBanner_gt.jpg
+      background: /images/DSA2024_RegistrationBanner3.png
       button: REGISTER NOW
       url: https://go.gov.sg/dsa24-live-gt
       key_highlights:
