@@ -9,7 +9,7 @@ permalink: /
 notification: ""
 sections:
   - hero:
-      background: /images/Homepage/DSA2024_RegistrationBanner_gt.jpg
+      background: /images/Homepage/DSA2024_RegistrationBanner.jpg
       button: REGISTER NOW
       url: https://go.gov.sg/dsa24-live-gt
       key_highlights:
@@ -29,7 +29,7 @@ sections:
       size: md
       alignment: right
       backgroundColor: gray
-      title: "Digital Services Awards 2024: Vote, Celebrate & Win Prizes!"
+      title: "DSA 2024: Vote, Celebrate & Win Prizes!"
       subtitle: Register before 27 November to learn from industry experts, vote for
         the Most Popular Informational Websites, and win exciting prizes through
         quizzes!
