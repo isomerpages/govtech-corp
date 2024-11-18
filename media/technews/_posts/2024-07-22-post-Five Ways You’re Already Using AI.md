@@ -81,11 +81,11 @@ Gmail, chances are you’ve seen suggested words and phrases pop up in grey
 in front of your cursor. Just as you’ve typed “I hope this email”, “finds
 you well” appears as suggestions and all you have to do is hit “tab” to
 use those words.</p>
-<p>The <a href="https://support.google.com/mail/answer/9116836?hl=en&amp;co=GENIE.Platform%3DDesktop" class="editor-rtfLink" rel="noopener noreferrer nofollow" target="_blank">Smart Compose</a> function
+<p>Google's <a href="https://support.google.com/mail/answer/9116836?hl=en&amp;co=GENIE.Platform%3DDesktop" class="editor-rtfLink" rel="noopener noreferrer nofollow" target="_blank">Smart Compose</a> function
 is powered by machine learning, a technique that enables computers to learn
 through examples in an automated manner. It’s also what powers AI as we
 know it today.</p>
-<p>Smart Compose has been around <a href="https://www.nytimes.com/2018/06/01/technology/personaltech/gmail-smart-compose.html" class="editor-rtfLink" rel="noopener noreferrer nofollow" target="_blank">since 2018</a>,
+<p>Google's Smart Compose has been around <a href="https://www.nytimes.com/2018/06/01/technology/personaltech/gmail-smart-compose.html" class="editor-rtfLink" rel="noopener noreferrer nofollow" target="_blank">since 2018</a>,
 way before AI became such a buzzword. In other words, many of us had already
 been using AI before AI became a thing.&nbsp;</p>
 <h3>3. Translation services</h3>
@@ -132,7 +132,7 @@ programmes that somehow fit your taste for rom-coms and police procedurals.
 Open your preferred e-commerce site, and the latest video game console,
 along with all the must-have accessories, are already awaiting you on the
 home screen.</p>
-<p>Or perhaps you’re looking for your next career move? Over at the <a href="https://www.mycareersfuture.gov.sg/" class="editor-rtfLink" rel="noopener noreferrer nofollow" target="_blank">My Careers Future</a> job
+<p>Or perhaps you’re looking for your next career move? Over at the <a href="https://www.mycareersfuture.gov.sg/" class="editor-rtfLink" rel="noopener noreferrer nofollow" target="_blank">MyCareersFuture</a> job
 portal, jobs that match your experience and professional profile continually
 surface while you browse the different positions available.</p>
 <p>These recommendations are made possible by algorithms that take in factors
