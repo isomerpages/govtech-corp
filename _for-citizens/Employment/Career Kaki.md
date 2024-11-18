@@ -81,7 +81,8 @@ MyCareersFuture and CareerCompass.</div>
 </div>
 </div>
 <h3>How to use Career Kaki?</h3>
-<p></p>
+<p>Visit the <a href="https://careerkaki.pic.gov.sg/?utm_source=govtech_medium=website&amp;utm_campaign=ck-product-listing" rel="noopener noreferrer nofollow" target="_blank">Career Kaki website</a> and
+chat with Career Kaki to get started!</p>
 <p></p>
 <p></p>
 <p></p>
