@@ -40,5 +40,47 @@ in Singapore and access job listings, resources, and courses related to
 your interests. Whether you're seeking your first role, transitioning careers,
 or looking to advance in your field, Career Kaki empowers you to take proactive
 steps toward building your career and confidently navigating the job market.</p>
+<h3>Why use Career Kaki? </h3>
+<div class="isomer-card-grid">
+<div class="isomer-card">
+<div class="isomer-card-image">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Career conversation" src="/images/Products and Services/For citizens/Career_Kaki___Card_1.png">
+</div>
+</div>
+<div class="isomer-card-body">
+<div class="isomer-card-title">An easy way to have a career conversation</div>
+<div class="isomer-card-description">Career Kaki is able to understand your career related questions and provide
+responses that are powered by AI. Our introductory prompts make it easy
+for you to get started as well.</div>
+</div>
+</div>
+<div class="isomer-card">
+<div class="isomer-card-image">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Personalised job recommendations" src="/images/Products and Services/For citizens/Career_Kaki___Card_2.png">
+</div>
+</div>
+<div class="isomer-card-body">
+<div class="isomer-card-title">Access personalised recommendations</div>
+<div class="isomer-card-description">Login with Singpass to get personalised recommendations. Career Kaki knows
+basic information about you, and remembers your past conversations.</div>
+</div>
+</div>
+<div class="isomer-card">
+<div class="isomer-card-image">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Trustworthy sources" src="/images/Products and Services/For citizens/Career_Kaki___Card_3.png">
+</div>
+</div>
+<div class="isomer-card-body">
+<div class="isomer-card-title">Responses are backed by trustworthy sources</div>
+<div class="isomer-card-description">Career Kaki is backed by trustworthy government data sources, such as
+MyCareersFuture and CareerCompass.</div>
+</div>
+</div>
+</div>
+<p></p>
+<p></p>
 <p></p>
 <p></p>
