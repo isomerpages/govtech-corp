@@ -107,9 +107,9 @@ of writing.&nbsp;</p>
 comment or photo caption in a language other than English? There’s usually
 a “translate” button you can tap to instantly see the English equivalent.</p>
 <p>This form of machine learning, known as natural language processing, is
-also what is behind Smart Compose and ChatGPT. Such tools have proved useful
-for a myriad of professions and the Government also launched its own chatbot
-called <a href="https://www.developer.tech.gov.sg/products/categories/productivity-tools/pair/features" class="editor-rtfLink" rel="noopener noreferrer nofollow" target="_blank">Pair Chat</a>,
+also what is behind Google's Smart Compose and ChatGPT. Such tools have
+proved useful for a myriad of professions and the Government also launched
+its own chatbot called <a href="https://www.developer.tech.gov.sg/products/categories/productivity-tools/pair/features" class="editor-rtfLink" rel="noopener noreferrer nofollow" target="_blank">Pair Chat</a>,
 a secure version of ChatGPT for government officers. Pair has the added
 advantage of being built specifically to understand the context of Singapore’s
 Government and provide even more useful responses based on its specialised
