@@ -39,7 +39,10 @@ get notified when new episodes are released.</p>
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
-<p></p><a class="isomer-image-wrapper" href="https://go.gov.sg/govtechdecoded-from-website-ep1"><img style="width: 100%;" height="auto" width="100%" alt="GovTech Decoded Episode 1: AI a double-edged sword in the fight against scams" src="/images/Decoded/Screenshot_2024_10_17_at_4_06_30_PM.png"></a>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="GovTech Decoded Ep 1: AI a Double-Edged Sword in the Fight Against Scams" src="/images/Decoded/Ep_1_Spotify_Cover__1_.png">
+</div>
 </td>
 <td rowspan="1" colspan="1">
 <p><strong>Ep1: AI a double-edged sword in the fight against scams</strong>
@@ -59,9 +62,26 @@ tactics and share the Singapore government's efforts to protect citizens.</p>
 <tr>
 <td rowspan="1" colspan="1">
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="GovTech Decoded Ep 2: Cybersecurity Chronicles from Frontliners" src="/images/Decoded/Ep_2_Spotify_Cover.png">
+</div>
 </td>
 <td rowspan="1" colspan="1">
-<p><em>Stay tuned, episode 2 coming on 18 November.</em>
+<p><strong>Ep2: Cybersecurity Chronicles from Frontliners</strong>
+</p>
+<p></p>
+<p>The Singapore Government has strategised a multi-prong approach to safeguard
+our cyberspace and systems from ever-evolving threats.
+<br>
+</p>
+<p>We sit down with our cybersecurity experts, Bryan Koh and Chloe Lim, as
+they dive into the nuts and bolts of building the Singapore government’s
+defences against sophisticated cyber adversaries. They also discuss ‘controversial’
+defence techniques like working&nbsp;with external parties and individuals
+to ensure our nation maintains a robust and resilient cybersecurity posture.</p>
+<p></p>
+<p><a href="https://go.gov.sg/govtechdecoded-from-website-ep2" rel="noopener nofollow" target="_blank">Watch on YouTube</a> |
+<a href="https://go.gov.sg/govtechdecoded-spotify-ep2" rel="noopener nofollow" target="_blank">Listen on Spotify</a>
 </p>
 </td>
 </tr>
