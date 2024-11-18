@@ -9,9 +9,9 @@ permalink: /
 notification: ""
 sections:
   - hero:
-      background: /images/Govtech_Decoded_Homepage_Banner_0411_4.png
-      button: FIND OUT MORE
-      url: /govtech-decoded/
+      background: /images/Homepage/DSA2024_RegistrationBanner.jpg
+      button: REGISTER NOW
+      url: https://go.gov.sg/dsa24-live-gt
       key_highlights:
         - title: For Citizens
           description: Tips, events and stories
@@ -25,10 +25,14 @@ sections:
         - title: For Government Agencies
           description: Productivity and collaboration
           url: /for-government-agencies
-      variant: center
+      variant: floating
       size: md
-      alignment: left
+      alignment: right
       backgroundColor: gray
+      title: "Digital Services Awards 2024: Vote, Celebrate & Win Prizes!"
+      subtitle: Register before 27 November to learn from industry experts, vote for
+        the Most Popular Informational Websites, and win exciting prizes through
+        quizzes!
   - infobar:
       title: Government Technology Agency (GovTech)
       subtitle: WHO WE ARE
@@ -38,6 +42,17 @@ sections:
         transformation.
       button: About GovTech
       url: /about-us/who-we-are/
+  - infopic:
+      title: GovTech Decoded
+      subtitle: New Vodcast Series
+      id: infopic
+      description: Dive into the world of tech with our latest video-podcast series.
+        Hear from GovTech experts as they decode technical speak and discuss the
+        latest tech trends.
+      button: Find out more
+      url: /govtech-decoded/
+      image: /images/Decoded/Govtech_Decoded_Info_Card_Banner_2.png
+      alt: GovTech Decoded Vodcast Series
   - infopic:
       title: Tech for Public Good
       subtitle: Our Digital Government Efforts

@@ -73,16 +73,15 @@ app and login via Singpass to get started. We encourage using your desktop
 or laptop for the best experience.</p>
 <p></p>
 <h3>Interested to find out more about ResumeBoostSG?</h3>
-<p></p>
 <div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="https://go.gov.sg/communitysignup-gtwebsite" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="TechNews readers will be the first to receive updates on ResumeBoostSG!" src="/images/CTA card images/Subscribe_to_the_TN_newsletter.png"></div></div><div class="isomer-card-body"><div class="isomer-card-title">TechNews readers will be the first to receive updates on ResumeBoostSG!</div><div class="isomer-card-link">Subscribe to TechNews</div></div></a>
 <a rel="noopener noreferrer nofollow" href="https://go.gov.sg/communitysignup-gtwebsite" class="isomer-card">
 <div class="isomer-card-image">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Know how ResumeBoostSG can improve? Become a Tech Kaki to share your ideas" src="/images/CTA card images/Join_our_user_testing_community__TK_.png">
+<img style="width: 100%" height="auto" width="100%" alt="Know how ResumeBoostSG can improve? Become a Tech Kaki to share your ideas." src="/images/CTA card images/Join_our_user_testing_community__TK_.png">
 </div>
 </div>
 <div class="isomer-card-body">
-<div class="isomer-card-title">Know how ResumeBoostSG can improve? Become a Tech Kaki to share your ideas</div>
+<div class="isomer-card-title">Know how ResumeBoostSG can improve? Become a Tech Kaki to share your ideas.</div>
 <div class="isomer-card-link">Join Tech Kaki community</div>
 </div>
 </a>
