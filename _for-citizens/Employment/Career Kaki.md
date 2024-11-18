@@ -9,9 +9,11 @@ image: /images/Products and Services/For citizens/Career_Kaki.png
 third_nav_title: Employment
 ---
 <h3>Transform your future career with personalised AI-powered job coaching</h3>
+<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 80%;" height="auto" width="100%" alt="Career Kaki logo" src="/images/Products and Services/For citizens/Career_Kaki_logo.png">
 </div>
+<p></p>
 <ul data-tight="true" class="tight">
 <li>
 <p>Powered by AI, Career Kaki is developed by GovTech and offers career coaching,
