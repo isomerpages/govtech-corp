@@ -29,19 +29,7 @@ in their job search journey.</p>
 resume optimisation tool.</div>
 <div class="isomer-card-link">Explore ResumeBoostSG</div>
 </div>
-</a>
-<div class="isomer-card">
-<div class="isomer-card-image">
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Career Kaki" src="/images/Products and Services/For citizens/Career_Kaki.png">
-</div>
-</div>
-<div class="isomer-card-body">
-<div class="isomer-card-title">Career Kaki</div>
-<div class="isomer-card-description">Unlock your career potential with Career Kaki, an AI-powered coaching
-assistant.</div>
-</div>
-</div>
+</a><a rel="noopener noreferrer nofollow" href="/products-and-services/for-citizens/employment/career-kaki/" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Career Kaki" src="/images/Products and Services/For citizens/Career_Kaki.png"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Career Kaki</div><div class="isomer-card-description">Unlock your career potential with Career Kaki, an AI-powered coaching assistant.</div><div class="isomer-card-link">Explore Career Kaki</div></div></a>
 </div>
 <p></p>
 <h3></h3>
