@@ -55,7 +55,7 @@ security measures.</p>
 tactics and share the Singapore government's efforts to protect citizens.</p>
 <p></p>
 <p><a href="https://go.gov.sg/govtechdecoded-from-website-ep1" rel="noopener nofollow" target="_blank">Watch on YouTube</a> |
-<a href="https://go.gov.sg/govtechdecoded-spotify-ep1" rel="noopener nofollow" target="_blank">Listen on Spotify</a>| <a href="/files/GovTech_Decoded_Ep_1_Transcript.pdf" rel="noopener noreferrer nofollow" target="_blank">Episode 1 Transcript</a>
+<a href="https://go.gov.sg/govtechdecoded-spotify-ep1" rel="noopener nofollow" target="_blank">Listen on Spotify</a>| <a href="/files/GovTech Decoded/Ep_1__AI_a_double_edged_sword_in_the_fight_against_scams_docx.pdf" rel="noopener nofollow" target="_blank">Episode 1 Transcript</a>
 </p>
 </td>
 </tr>
@@ -81,7 +81,7 @@ defence techniques like working&nbsp;with external parties and individuals
 to ensure our nation maintains a robust and resilient cybersecurity posture.</p>
 <p></p>
 <p><a href="https://go.gov.sg/govtechdecoded-from-website-ep2" rel="noopener nofollow" target="_blank">Watch on YouTube</a> |
-<a href="https://go.gov.sg/govtechdecoded-spotify-ep2" rel="noopener nofollow" target="_blank">Listen on Spotify</a>
+<a href="https://go.gov.sg/govtechdecoded-spotify-ep2" rel="noopener nofollow" target="_blank">Listen on Spotify</a>| <a href="/files/GovTech Decoded/Ep_2__Cybersecurity_Chronicles_from_Frontliners_docx.pdf" rel="noopener nofollow" target="_blank">Episode 2 Transcript</a>
 </p>
 </td>
 </tr>
