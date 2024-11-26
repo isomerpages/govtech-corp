@@ -80,7 +80,7 @@ our part by protecting ourselves.&nbsp;</p>
 <p>If you haven’t already, download the <a href="https://www.scamshield.gov.sg/" rel="noopener noreferrer nofollow" target="_blank"><u>ScamShield</u></a> app. It’s a
 handy tool that blocks scam calls and messages to your phone.&nbsp;</p>
 <p>In addition, it also lets you report scams directly and verify suspicious
-messages. Once a number, messenger, or link is submitted to <a href="https://www.scamshield.gov.sg/" rel="noopener nofollow" target="_blank">ScamShield</a>,
+messages. Once a number, messenger, or link is submitted to ScamShield,
 it will check if it’s from a verified source such as the government or
 registered businesses. It will also compare the input with known scam messages,
 numbers, and links and inform you of the results.&nbsp;</p>
