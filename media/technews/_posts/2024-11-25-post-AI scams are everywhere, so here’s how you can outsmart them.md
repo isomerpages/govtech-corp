@@ -114,13 +114,10 @@ we keep ourselves safe in the wild wild web.&nbsp;</p>
 <p>Educating ourselves about AI’s potential to have both negative and positive
 effects on us will also go a long way, so check out GovTech’s <a href="https://www.youtube.com/watch?v=VIruNSlMpks" rel="noopener noreferrer nofollow" target="_blank"><u>vodcast</u></a> on
 AI and online scams.&nbsp;</p>
-<p><em>[embed ep 1 video here]</em>
-</p>
-<p>Afterall, knowledge is power, so get empowered today!
-<br>
-</p>
-<div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="/media/technews/ai-in-cybersecurity-fighting-scams-with-ai-and-overcoming-data-poisoning/" class="isomer-card"><div class="isomer-card-body"><div class="isomer-card-title">AI in Cybersecurity: Fighting Scams with AI and Overcoming Data Poisoning</div><div class="isomer-card-link">Read the article</div></div></a>
+<div class="iframe-wrapper">
+<iframe style="max-width: 100%;" height="400" width="100%" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/VIruNSlMpks?si=GOtHD1Lro_0jaS8g"></iframe>
 </div>
+<p>Afterall, knowledge is power, so get empowered today!</p>
 <hr>
 <div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="https://go.gov.sg/communitysignup-technews" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Subscribe to the TechNews email newsletter" src="/images/CTA card images/technews_footer.jpg"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Subscribe to the TechNews email newsletter</div><div class="isomer-card-link">TechNews</div></div></a>
 <a rel="noopener noreferrer nofollow" href="https://go.gov.sg/communitysignup-technews" class="isomer-card">
