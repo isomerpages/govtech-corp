@@ -11,7 +11,6 @@ variant: tiptap
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="How to outsmart AI scams" src="/images/technews/GovTech_Decoded_TechNews.png">
 </div>
-<p>AI scams are everywhere, so here’s how you can outsmart them</p>
 <p>Just how tough is it nowadays to spot AI-generated scams? Pretty tough,
 it turns out.&nbsp;</p>
 <p>At the <a href="https://www.straitstimes.com/singapore/what-happens-when-it-becomes-almost-impossible-to-spot-a-scam-even-for-experts" rel="noopener noreferrer nofollow" target="_blank"><u>Global Anti-Scam Summit Asia 2024</u></a> in
