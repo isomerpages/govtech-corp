@@ -7,6 +7,10 @@ description: ""
 image: ""
 variant: tiptap
 ---
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="How to outsmart AI scams" src="/images/technews/GovTech_Decoded_TechNews.png">
+</div>
 <p>AI scams are everywhere, so here’s how you can outsmart them</p>
 <p>Just how tough is it nowadays to spot AI-generated scams? Pretty tough,
 it turns out.&nbsp;</p>
