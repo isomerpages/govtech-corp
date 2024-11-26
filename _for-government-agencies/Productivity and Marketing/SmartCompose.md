@@ -97,7 +97,6 @@ testimonials, appraisals, procurement documents, and marketing content.</div>
 </div>
 <hr>
 <h3>How to use SmartCompose?</h3>
-<p></p>
 <ol data-tight="true" class="tight">
 <li>
 <p><strong>Log in at</strong>  <a href="https://www.smartcompose.gov.sg" rel="noopener noreferrer nofollow" target="_blank">smartcompose.gov.sg</a>.</p>
@@ -110,11 +109,14 @@ testimonials, appraisals, procurement documents, and marketing content.</div>
 </li>
 <li>
 <p>Alternatively, log in via Email OTP using your government email address.</p>
+</li>
+</ul>
+</li>
+</ol>
 <hr>
 <h3>What's New with SmartCompose?</h3>
-<p></p>
 <p>SmartCompose is expanding its capabilities:</p>
-</li>
+<ul data-tight="true" class="tight">
 <li>
 <p>Ongoing trials are exploring applications in generating appraisals, procurement
 materials, and eDM marketing content.</p>
@@ -124,8 +126,6 @@ materials, and eDM marketing content.</p>
 service delivery.</p>
 </li>
 </ul>
-</li>
-</ol>
 <hr>
 <h3>Interested to find out more about SmartCompose?</h3>
 <p></p>
