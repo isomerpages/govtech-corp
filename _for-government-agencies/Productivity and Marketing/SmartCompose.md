@@ -39,7 +39,7 @@ officers draft faster, more thoughtful, and professional responses to citizen
 inquiries. Since its launch in April 2024, it has been adopted by over
 5,680 public officers across more than 90 agencies, significantly improving
 email drafting speeds by 70% and reducing average response times to just
-5.3 minutes per email. This enhanced efficiency is projected to save government
+5 minutes per email. This enhanced efficiency is projected to save government
 agencies over 38,000 man-days annually.</p>
 <p></p>
 <div class="isomer-image-wrapper">
@@ -126,4 +126,20 @@ service delivery.</p>
 </ul>
 </li>
 </ol>
+<hr>
+<h3>Interested to find out more about SmartCompose?</h3>
+<p></p>
+<div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="https://go.gov.sg/communitysignup-gtwebsite" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="TechNews readers will be the first to receive updates on SmartCompose!" src="/images/Subscribe_to_the_TN_newsletter.png"></div></div><div class="isomer-card-body"><div class="isomer-card-title">TechNews readers will be the first to receive updates on SmartCompose!</div><div class="isomer-card-link">Subscribe to TechNews</div></div></a>
+<a rel="noopener noreferrer nofollow" href="mailto:info@tech.gov.sg" class="isomer-card">
+<div class="isomer-card-image">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Have questions? Email us" src="/images/Have_question__Drops_us_an_email.png">
+</div>
+</div>
+<div class="isomer-card-body">
+<div class="isomer-card-title">Have questions? Email us</div>
+<div class="isomer-card-link">info@tech.gov.sg</div>
+</div>
+</a>
+</div>
 <p></p>
