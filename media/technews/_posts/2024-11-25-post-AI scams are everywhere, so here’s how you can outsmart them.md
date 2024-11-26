@@ -15,6 +15,12 @@ variant: tiptap
 </div>
 <p>Just how tough is it nowadays to spot AI-generated scams? Pretty tough,
 it turns out.&nbsp;</p>
+<p>Learn more at our <a href="https://www.youtube.com/watch?v=VIruNSlMpks" rel="noopener noreferrer nofollow" target="_blank"><u>vodcast</u></a> on
+AI and online scams:</p>
+<div class="iframe-wrapper">
+<iframe style="max-width: 100%;" height="400" width="100%" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/VIruNSlMpks?si=GOtHD1Lro_0jaS8g"></iframe>
+</div>
+<p></p>
 <p>At the <a href="https://www.straitstimes.com/singapore/what-happens-when-it-becomes-almost-impossible-to-spot-a-scam-even-for-experts" rel="noopener noreferrer nofollow" target="_blank"><u>Global Anti-Scam Summit Asia 2024</u></a> in
 October, a room of about 100 anti-scam experts were asked to stand. They
 were then shown one video at a time and asked if it was real or AI-generated.
@@ -117,12 +123,8 @@ obvious get-rich-quick schemes, and other assorted giant red flags.</p>
 a healthy dose of scepticism to what you see online, we can ensure that
 we keep ourselves safe in the wild wild web.&nbsp;</p>
 <p>Educating ourselves about AI’s potential to have both negative and positive
-effects on us will also go a long way, so check out GovTech’s <a href="https://www.youtube.com/watch?v=VIruNSlMpks" rel="noopener noreferrer nofollow" target="_blank"><u>vodcast</u></a> on
-AI and online scams.&nbsp;</p>
-<div class="iframe-wrapper">
-<iframe style="max-width: 100%;" height="400" width="100%" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/VIruNSlMpks?si=GOtHD1Lro_0jaS8g"></iframe>
-</div>
-<p>Afterall, knowledge is power, so get empowered today!</p>
+effects is crucial. If you haven't already, do watch <a href="https://www.youtube.com/watch?v=VIruNSlMpks" rel="noopener nofollow" target="_blank">our vodcast on AI and online scams</a>.&nbsp;Afterall,
+knowledge is power, so get empowered today!</p>
 <hr>
 <div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="https://go.gov.sg/communitysignup-technews" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Subscribe to the TechNews email newsletter" src="/images/CTA card images/technews_footer.jpg"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Subscribe to the TechNews email newsletter</div><div class="isomer-card-link">TechNews</div></div></a>
 <a rel="noopener noreferrer nofollow" href="https://go.gov.sg/communitysignup-technews" class="isomer-card">
