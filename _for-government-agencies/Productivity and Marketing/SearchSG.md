@@ -57,6 +57,7 @@ time by 67%, saving users an average of 6.1 minutes per search.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="searchsg on mom's website - results" src="/images/searchsg_mom_results.png">
 </div>
+<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="searchsg on mom's website - full results" src="/images/searchsg_mom_results1.png">
 </div>
