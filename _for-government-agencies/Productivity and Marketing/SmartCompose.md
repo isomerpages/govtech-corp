@@ -105,7 +105,8 @@ testimonials, appraisals, procurement documents, and marketing content.</div>
 <p>Use your <strong>TechPass account</strong> for access.</p>
 <ul data-tight="true" class="tight">
 <li>
-<p>If you do not have a TechPass account, follow the Sign-Up process to onboard.</p>
+<p>If you do not have a TechPass account, follow the <a href="https://drive.google.com/file/d/1HQzE9NGjsn-7v7Rid7j3GYlr-evV17Io/view" rel="noopener nofollow" target="_blank">Sign-Up process</a> to
+onboard.</p>
 </li>
 <li>
 <p>Alternatively, log in via Email OTP using your government email address.</p>
