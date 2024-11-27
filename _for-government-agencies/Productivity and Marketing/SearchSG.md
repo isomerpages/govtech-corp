@@ -46,7 +46,7 @@ access to government-related information. Tailored to the Singapore context,
 it enhances search relevance, accuracy, and user satisfaction, helping
 citizens quickly and efficiently find accurate information across all government
 websites. Since its beta launch in June 2022, SearchSG has facilitated
-over 3.73 million searches, averaging 300,000 searches per month. The platform
+4.2 million searches, averaging 300,000 searches per month. The platform
 has enabled government agencies to enhance content and user experience
 based on real-time search data. Additionally, SearchSG has reduced search
 time by 67%, saving users an average of 6.1 minutes per search.</p>
