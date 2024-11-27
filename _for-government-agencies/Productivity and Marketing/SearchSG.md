@@ -10,7 +10,7 @@ third_nav_title: Productivity and Marketing
 <h2>AI-Powered Search for Relevant and Accurate Government Information with SearchSG</h2>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/searchSGlogo.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/SearchSG_Logo_colour.png">
 </div>
 <ul>
 <li>
@@ -46,20 +46,20 @@ access to government-related information. Tailored to the Singapore context,
 it enhances search relevance, accuracy, and user satisfaction, helping
 citizens quickly and efficiently find accurate information across all government
 websites. Since its beta launch in June 2022, SearchSG has facilitated
-over 3.73 million searches, averaging 300,000 searches per month. The platform
+4.2 million searches, averaging 300,000 searches per month. The platform
 has enabled government agencies to enhance content and user experience
 based on real-time search data. Additionally, SearchSG has reduced search
 time by 67%, saving users an average of 6.1 minutes per search.</p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="searchsg on mom's page" src="/images/searchsg_momsearch.png">
+<img style="width: 100%" height="auto" width="100%" alt="searchsg on mom's website - search" src="/images/image.png">
 </div>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="searchsg on mom's website - results" src="/images/searchsg_mom_results.png">
+<img style="width: 100%" height="auto" width="100%" alt="searchsg on mom's website - results" src="/images/image2.png">
 </div>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="searchsg on mom's website - full results" src="/images/searchsg_mom_results1.png">
+<img style="width: 100%" height="auto" width="100%" alt="searchsg on mom's website - results full" src="/images/image3.png">
 </div>
 <hr>
 <h3>Why Use SearchSG?</h3>
