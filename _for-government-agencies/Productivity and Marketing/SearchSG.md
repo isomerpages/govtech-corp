@@ -1,6 +1,6 @@
 ---
 title: SearchSG
-permalink: /searchsg/
+permalink: /products-and-services/for-government-agencies/productivity-and-marketing/searchsg/
 variant: tiptap
 description: "SearchSG: The AI-powered search engine tailored for Singapore.
   Quickly access accurate, relevant government information across all official

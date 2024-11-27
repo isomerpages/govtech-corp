@@ -1,6 +1,6 @@
 ---
 title: SmartCompose
-permalink: /smartcompose/
+permalink: /products-and-services/for-government-agencies/productivity-and-marketing/smartcompose/
 variant: tiptap
 description: Discover SmartCompose, the AI-powered writing assistant for
   citizen-facing public officers. Streamline responses with fast, empathetic,
