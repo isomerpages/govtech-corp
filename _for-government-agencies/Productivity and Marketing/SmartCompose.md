@@ -128,7 +128,6 @@ service delivery.</p>
 </ul>
 <hr>
 <h3>Interested to find out more about SmartCompose?</h3>
-<p></p>
 <div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="https://go.gov.sg/communitysignup-gtwebsite" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="TechNews readers will be the first to receive updates on SmartCompose!" src="/images/Subscribe_to_the_TN_newsletter.png"></div></div><div class="isomer-card-body"><div class="isomer-card-title">TechNews readers will be the first to receive updates on SmartCompose!</div><div class="isomer-card-link">Subscribe to TechNews</div></div></a>
 <a rel="noopener noreferrer nofollow" href="mailto:info@tech.gov.sg" class="isomer-card">
 <div class="isomer-card-image">
