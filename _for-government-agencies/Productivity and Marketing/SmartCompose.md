@@ -11,9 +11,8 @@ third_nav_title: Productivity and Marketing
 <h2>Transforming Citizen Interactions with SmartCompose</h2>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Logo of SmartCompose" src="/images/smartcompose.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/SmartComposeLogo_8x.png">
 </div>
-<p></p>
 <ul data-tight="true" class="tight">
 <li>
 <p><strong>AI-Powered Response Generation</strong>
@@ -43,13 +42,14 @@ email drafting speeds by 70% and reducing average response times to just
 agencies over 38,000 man-days annually.</p>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%;" height="auto" width="100%" alt="smartcompose log in page" src="/images/smartcompose1.png">
-</div>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="smartcompose demo" src="/images/smartcompose2.png">
+<img style="width: 100%" height="auto" width="100%" alt="smartcompose login page" src="/images/smartcompose_screenshot.png">
 </div>
 </li>
 </ul>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="smartcompose in action" src="/images/image1.png">
+</div>
 <hr>
 <h3>Why use SmartCompose?</h3>
 <p></p>
