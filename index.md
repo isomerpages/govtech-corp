@@ -109,12 +109,10 @@ sections:
       announcement_items:
         - title: STACK Developer Conference
           date: 06 November 2024
-          announcement: STACK Developer Conference 2024, GovTech’s biennial flagship
-            conference connecting Government, industry, and the tech community
-            is happening from 6-7 November 2024, with pre-conference workshops
-            on 5th November.
-          link_text: Find Out More
-          link_url: /media/events/govtech-stack-developer-conference-2024/
+          announcement: STACK Developer Conference is GovTech’s biennial flagship
+            conference connecting Government, industry, and the tech community.
+          link_text: Watch Recordings
+          link_url: https://www.developer.tech.gov.sg/communities/events/conferences/stack-developer-conference-2024/recordings
         - title: Industry Engagement
           date: 14 May 2024
           announcement: Industry Engagement is an annual, two-way dialogue session where
