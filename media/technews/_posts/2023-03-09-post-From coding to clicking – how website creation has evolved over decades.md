@@ -54,10 +54,6 @@ enabled support for graphics and other forms beyond simple tables.</p>
 <p>The next year, Cascading Style Sheets (CSS) made its debut. While HTML
 continued to handle the content of a site, CSS governed its style and was
 where elements like colour and typography were outlined.</p>
-<p>One early example of a site in this new era is CNN’s&nbsp;<a href="http://edition.cnn.com/EVENTS/1996/year.in.review/" class="editor-rtfLink" rel="noopener noreferrer nofollow" target="_blank">year in review for 1996</a>.
-It took advantage of the web’s new capabilities by displaying photos, graphics,
-and design elements in its presentation of the 10 biggest news stories
-of the year.</p>
 <p>Macromedia Flash also took the stage, enabling web animation to be displayed.
 This required the Flash plugin extension, and some of you would remember
 blank areas on websites when the plugin was not installed.</p>

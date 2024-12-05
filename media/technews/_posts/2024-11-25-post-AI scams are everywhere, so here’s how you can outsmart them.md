@@ -1,6 +1,6 @@
 ---
 title: AI scams are everywhere, so here’s how you can outsmart them
-permalink: /ai-scams-are-everywhere-so-heres-how-you-can-outsmart-them/
+permalink: /media/technews/ai-scams-are-everywhere-so-heres-how-you-can-outsmart-them/
 date: 2024-11-25
 layout: post
 description: AI-generated scams are harder to spot than ever, with increasingly
