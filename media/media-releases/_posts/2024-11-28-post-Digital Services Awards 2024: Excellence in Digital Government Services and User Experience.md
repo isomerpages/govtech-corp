@@ -18,8 +18,7 @@ digital government services and enhancing user experiences.</p>
 over 1,800 attendees both physically and virtually via livestream. Dr Janil
 Puthucheary, Senior Minister of State for Digital Development and Information
 &amp; Health, and Minister-in-Charge of GovTech, was the Guest-of-Honour
-and presented the awards to the winners. <em>(Please see Annex A for event photos and Annex B for the complete list of award recipients.)</em>
-</p>
+and presented the awards to the winners.</p>
 <p>In his remarks, Mr Goh Wei Boon, Chief Executive of GovTech stated, “We
 are proud to celebrate the contributions of individuals and organisations
 driving advancements in digital government services. By fostering strong
