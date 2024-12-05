@@ -74,7 +74,7 @@ Delivery pipeline.</div>
 </div>
 </div>
 <h3>How to use Oobee?</h3>
-<p>Start using Purple A11y in just three easy steps!</p>
+<p>Start using Oobee in just three easy steps!</p>
 <div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="https://github.com/GovTechSG/oobee-desktop" class="isomer-card"><div class="isomer-card-body"><div class="isomer-card-title">1. Download the software package</div><div class="isomer-card-description">Refer to the installation guide and download the software package from Github.</div><div class="isomer-card-link">Download software package</div></div></a>
 <div class="isomer-card">
 <div class="isomer-card-body">
