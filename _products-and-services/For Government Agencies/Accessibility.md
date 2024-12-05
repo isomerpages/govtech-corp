@@ -75,7 +75,7 @@ Delivery pipeline.</div>
 </div>
 <h3>How to use Oobee?</h3>
 <p>Start using Purple A11y in just three easy steps!</p>
-<div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="https://github.com/GovTechSG/purple-a11y-desktop/blob/main/INSTALLATION.md" class="isomer-card"><div class="isomer-card-body"><div class="isomer-card-title">1. Download the software package</div><div class="isomer-card-description">Refer to the installation guide and download the software package from Github.</div><div class="isomer-card-link">Download software package</div></div></a>
+<div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="https://github.com/GovTechSG/oobee-desktop" class="isomer-card"><div class="isomer-card-body"><div class="isomer-card-title">1. Download the software package</div><div class="isomer-card-description">Refer to the installation guide and download the software package from Github.</div><div class="isomer-card-link">Download software package</div></div></a>
 <div class="isomer-card">
 <div class="isomer-card-body">
 <div class="isomer-card-title">2. Perform the scan</div>
