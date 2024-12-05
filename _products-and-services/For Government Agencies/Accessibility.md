@@ -79,8 +79,8 @@ Delivery pipeline.</div>
 <div class="isomer-card">
 <div class="isomer-card-body">
 <div class="isomer-card-title">2. Perform the scan</div>
-<div class="isomer-card-description">Purple A11y will scan and analyse the digital service before producing
-a report with its findings.</div>
+<div class="isomer-card-description">Oobee will scan and analyse the digital service before producing a report
+with its findings.</div>
 </div>
 </div>
 <div class="isomer-card">
