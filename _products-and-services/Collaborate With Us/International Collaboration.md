@@ -107,13 +107,16 @@ year and present their findings at the DGX Conference.</p>
 <p>Explore the recent DGX Working Group reports below:</p>
 <ul data-tight="true" class="tight">
 <li>
-<p>2024 Working Group Reports</p>
+<p><a href="/media/reports-and-speeches/dgx-working-group-reports-2024/" rel="noopener nofollow" target="_blank">2024 Working Group Reports</a>
+</p>
 </li>
 <li>
-<p>2023 Working Group Reports</p>
+<p><a href="/media/reports-and-speeches/dgx-working-group-reports-2023/" rel="noopener nofollow" target="_blank">2023 Working Group Reports</a>
+</p>
 </li>
 <li>
-<p>2022 Working Group Reports</p>
+<p><a href="/media/reports-and-speeches/dgx-working-group-reports-2022/" rel="noopener nofollow" target="_blank">2022 Working Group Reports</a>
+</p>
 </li>
 </ul>
 <p>For enquiries on DGX, please contact <a href="mailto:international_partnership@tech.gov.sg" rel="noopener noreferrer nofollow" target="_blank">international_partnership@tech.gov.sg</a>
