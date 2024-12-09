@@ -7,3 +7,8 @@ description: ""
 image: ""
 variant: tiptap
 ---
+<p>The 2022 Working Groups (WGs) saw representatives share experiences and
+opportunities on topics covering Artificial Intelligence (AI), Digital
+Identity, and Cybersecurity. For more details, please refer to the reports
+below.</p>
+<p></p>
