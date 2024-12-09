@@ -18,83 +18,120 @@ so that they can collaborate with the international community as well as
 identify opportunities for collaboration.</p>
 <h3>Collaboration opportunities</h3>
 <p>Our multi-pronged approach to international partnerships includes:</p>
-<div data-type="detailGroup" class="isomer-accordion isomer-accordion-white">
 <details class="isomer-details">
 <summary><strong>Bilateral</strong>
 </summary>
 <div data-type="detailsContent" class="isomer-details-content">
-<p>Hosting foreign delegations keen to learn from GovTech's experiences.</p>
+<p>Exchange and collaborate with international counterparts to advance our
+Digital Government journey.</p>
 </div>
 </details>
 <details class="isomer-details">
 <summary><strong>Multilateral</strong>
 </summary>
 <div data-type="detailsContent" class="isomer-details-content">
-<p>Engaging international organisations and governments, and participating
-in global forums for international cooperation on Digital Government by
-the United Nations, the World Bank and the European Union.</p>
-</div>
-</details>
-<details class="isomer-details">
-<summary><strong>Working with non-profit organisations and civil societies</strong>
-</summary>
-<div data-type="detailsContent" class="isomer-details-content">
-<p>Sharing Singapore’s digital transformation journey of the public sector
-at platforms such as the World Economic Forum.</p>
+<p>Participate in global forums to share GovTech’s experiences and drive
+international cooperation on Digital Government.</p>
 </div>
 </details>
 <details class="isomer-details">
 <summary><strong>Knowledge sharing via the Singapore Government Developer Portal</strong>
 </summary>
 <div data-type="detailsContent" class="isomer-details-content">
-<p>Offering detailed information on our products, solutions and guidelines.
-Check out the <a href="https://www.developer.tech.gov.sg/" rel="noopener noreferrer nofollow" target="_blank">Singapore Government Developer Portal</a>.</p>
+<p>Offer detailed information on GovTech’s products, solutions and guidelines.
+Check out the <a href="https://www.developer.tech.gov.sg/" rel="noopener noreferrer nofollow" target="_blank"><u>Singapore Government Developer Portal</u></a>.</p>
 </div>
 </details>
-</div>
 <p></p>
 <p>Singapore actively participates in platforms by giving keynote speeches
 and conducting workshops. We believe such engagements will serve a much
-larger community of countries looking to learn about Singapore’s journey.
-Explore a few of our past international collaborations below.</p>
-<h3>Digital Government Exchange (DGX)</h3>
+larger community of countries looking to learn about Singapore’s journey.</p>
+<p><strong>Here’s a timeline of some of our key international initiatives:</strong>
+</p>
 <p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="GovTech collaborates with The World Bank to organise Digital Government Exchange." src="/images/Products and Services/Collaborate with us/card_1__resized_.jpg">
+<div data-type="detailGroup" class="isomer-accordion isomer-accordion-white">
+<details class="isomer-details">
+<summary><strong>2022</strong>
+</summary>
+<div data-type="detailsContent" class="isomer-details-content">
+<p>May 2022 - <a href="https://www.tech.gov.sg/media/technews/govtech-partners-the-digital-agency-of-japan-to-push-digital-government-transformation" rel="noopener noreferrer nofollow" target="_blank">Memorandum of Cooperation (MOC) between GovTech and the Digital Agency of Japan in the area of Digital Government</a>
+</p>
+<p>July 2022 - <a href="https://www.tech.gov.sg/media/media-releases/2022-07-04-mou-signing-between-govtech-and-uk-government-digital-service" rel="noopener noreferrer nofollow" target="_blank">Memorandum of Understanding between GovTech and UK Government Digital Services on the design and delivery of digital government public services</a>
+</p>
+<p>Sep 2022 - Hosting of GovTech’s&nbsp;<a href="https://www.developer.tech.gov.sg/our-digital-journey/digital-government-exchange/overview" rel="noopener noreferrer nofollow" target="_blank">Digital Government Exchange</a>&nbsp;and
+the&nbsp;<a href="https://ica-it.org/index.php/conferences/previous-conferences/56th-ica-conference" rel="noopener noreferrer nofollow" target="_blank">56th ICA Conference</a>
+</p>
 </div>
-<p>The Digital Government Exchange (DGX) is an annual global gathering of
-Government Chief Information Officers (CIOs) and public sector leaders
-from jurisdictions that have made significant progress in digital government.
-Organised by Singapore’s Smart Nation and Digital Government Group since
-2016, DGX is a one-of-its-kind international platform that has developed
-a community of like-minded leaders who can engage in information exchange,
-sharing of experiences, and mutual learning, while exploring future collaboration
-opportunities.</p>
-<p>Past participants involved representatives from government bodies as well
-as multilateral institutions. They include Australia, Canada, China (Shanghai),
-Denmark, Estonia, Finland, France, Israel, Japan, New Zealand, the Netherlands
-(Amsterdam), Sweden, the United Kingdom (UK), the United States (USA),
-the United Nations (UN), the World Economic Forum (WEF) and the World Bank.</p>
-<p>The ninth edition of DGX serves as a significant annual international
-gathering of Government Chief Information Officers (CIOs) and public sector
-leaders from advanced economies, including Australia, the Netherlands (Amsterdam),
-Canada, China (Shanghai), Denmark, Estonia, Finland, France, Israel, Japan,
-New Zealand, Sweden, the United Kingdom (UK), and the U.S. (New York).
-This event offers a platform for participating governments to exchange
-insights and experiences related to their digital government initiatives
-in their respective countries.</p>
-<p>For more information, check out how <a href="https://blogs.worldbank.org/en/governance/dgx-bringing-govtech-community-together?trk=public_post_main-feed-card_feed-article-content" rel="noopener noreferrer nofollow" target="_blank">DGX is bringing the GovTech Community together</a>.</p>
-<h3>Smart City Expo World Congress 2023</h3>
+</details>
+<details class="isomer-details">
+<summary><strong>2023</strong>
+</summary>
+<div data-type="detailsContent" class="isomer-details-content">
+<p>Apr 2023 - Participated in the ASEAN Secure Smart Cities Exchange, held
+in conjunction with the RSA Conference</p>
+<p>Sep 2023 - Hosting of GovTech’s Digital Government Exchange 2023</p>
+<p>Nov 2023 - Showcase at the Smart City Expo World Congress (SCEWC) by the
+team from the&nbsp;<a href="https://www.tech.gov.sg/our-capabilities/smart-city-technology/" rel="noopener noreferrer nofollow" target="_blank">Smart City Technology Division</a>,
+in collaboration with JTC Corporation and ST Engineering.</p>
+</div>
+</details>
+<details class="isomer-details">
+<summary><strong>2024</strong>
+</summary>
+<div data-type="detailsContent" class="isomer-details-content">
+<p>Sep 2024 - Hosting of GovTech’s Digital Government Exchange 2024</p>
+</div>
+</details>
+</div>
+<h3>Digital Government Exchange (DGX)</h3>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="DGX 2024" src="/images/Products and Services/Collaborate with us/GovT_110924_181.jpg">
+</div>
+<p>Formed since 2016, the Digital Government Exchange (DGX) is an annual
+global gathering of Government Chief Information Officers (CIOs) and public
+sector leaders from jurisdictions that have made significant progress in
+digital government and smart cities. DGX is a platform for senior leaders
+with keen interest in info-comm technology to share knowledge and best
+practices in the delivery of government services to citizens and businesses.</p>
+<p>Past participants involved representatives from government agencies as
+well as international organisations. They include Australia, China, Denmark,
+Estonia, Finland, Germany, Israel, Japan, the Netherlands, New Zealand,
+the United Kingdom, the United States of America, and the World Bank.</p>
+<p>DGX is organised by GovTech, with support from the Ministry of Digital
+Development and Information (MDDI).</p>
+<h4>DGX Working Groups</h4>
+<p>A key feature of DGX is the formation of Working Groups, where technical
+experts deep dive into topics of interest, and share successes and learning
+points. The Working Groups hold regular meetings over the course of the
+year and present their findings at the DGX Conference.</p>
+<p>Explore the recent DGX Working Group reports below:</p>
+<ul data-tight="true" class="tight">
+<li>
+<p><a href="/media/reports-and-speeches/dgx-working-group-reports-2024/" rel="noopener nofollow" target="_blank">2024 Working Group Reports</a>
+</p>
+</li>
+<li>
+<p><a href="/media/reports-and-speeches/dgx-working-group-reports-2023/" rel="noopener nofollow" target="_blank">2023 Working Group Reports</a>
+</p>
+</li>
+<li>
+<p><a href="/media/reports-and-speeches/dgx-working-group-reports-2022/" rel="noopener nofollow" target="_blank">2022 Working Group Reports</a>
+</p>
+</li>
+</ul>
+<p>For enquiries on DGX, please contact <a href="mailto:international_partnership@tech.gov.sg" rel="noopener noreferrer nofollow" target="_blank">international_partnership@tech.gov.sg</a>
+</p>
+<h3>Smart City Expo World Congress</h3>
 <p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="GovTech participated in the Smart City Expo World Congress 2023 in Barcelona." src="/images/Products and Services/Collaborate with us/card_2__resized_.jpg">
 </div>
 <p>Our team from the <a href="/our-capabilities/smart-city-technology/" rel="noopener noreferrer nofollow" target="_blank">Smart City Technology Division</a>,
 in collaboration with JTC Corporation and ST Engineering, represented Singapore
-at the prestigious Smart City Expo World Congress (SCEWC). This event,
-recognised as the largest and most influential gathering on urban innovation,
-connects leaders from the most forward-thinking companies, governments,
-and organisations to drive the future of urban living.</p>
+at the prestigious Smart City Expo World Congress (SCEWC) in 2023. This
+event, recognised as the largest and most influential gathering on urban
+innovation, connects leaders from the most forward-thinking companies,
+governments, and organisations to drive the future of urban living.</p>
 <p>At the expo, the team showcased several groundbreaking projects that underline
 Singapore's commitment to digital advancements. Learn more about these
 projects below.</p>
