@@ -58,3 +58,5 @@ on how to use these apps, they gain confidence, which we find rewarding."</p>
 <p>This recognition underscores the importance of citizen engagement in Singapore's
 digital transformation journey, demonstrating how grassroots innovation
 can significantly contribute to improving public services.</p>
+<h3>Measuring Real-World Impact</h3>
+<p></p>
