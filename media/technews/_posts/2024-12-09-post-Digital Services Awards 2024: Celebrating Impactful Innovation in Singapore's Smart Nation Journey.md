@@ -52,7 +52,7 @@ while six were from citizen fuelled communities, <a href="/our-communities/join-
 <p>Among them was Qhek Hwee Boon, who is a <a href="https://www.cpf.gov.sg/member/infohub/cpf-volunteering" rel="noopener noreferrer nofollow" target="_blank">CPF Volunteer</a> (CPFV):</p>
 <blockquote>
 <p>"We feel that a lot of the seniors don't have the confidence to use all
-these apps, especially with all the prevalent scams." "By guiding them
+these apps, especially with all the prevalent scams... By guiding them
 on how to use these apps, they gain confidence, which we find rewarding."</p>
 </blockquote>
 <p>This recognition underscores the importance of citizen engagement in Singapore's
