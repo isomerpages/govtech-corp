@@ -76,7 +76,7 @@ in collaboration with JTC Corporation and ST Engineering.</p>
 <details class="isomer-details">
 <summary>2024</summary>
 <div data-type="detailsContent" class="isomer-details-content">
-<p></p>
+<p>Sep 2024 - Hosting of GovTech’s Digital Government Exchange 2024</p>
 </div>
 </details>
 </div>
