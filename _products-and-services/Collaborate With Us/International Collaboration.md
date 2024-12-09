@@ -96,10 +96,12 @@ Estonia, Finland, Germany, Israel, Japan, the Netherlands, New Zealand,
 the United Kingdom, the United States of America, and the World Bank.</p>
 <p>DGX is organised by GovTech, with support from the Ministry of Digital
 Development and Information (MDDI).</p>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
+<h4>DGX Working Groups</h4>
+<p>A key feature of DGX is the formation of Working Groups, where technical
+experts deep dive into topics of interest, and share successes and learning
+points. The Working Groups hold regular meeings over the course of the
+year, and present their findings at the DGX Conference.</p>
+<p>Explore the recent DGX Working Group reports below:</p>
 <p></p>
 <p></p>
 <h3>Smart City Expo World Congress</h3>
