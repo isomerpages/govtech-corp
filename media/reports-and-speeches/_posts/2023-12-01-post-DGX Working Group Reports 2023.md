@@ -9,8 +9,8 @@ variant: tiptap
 ---
 <p>The 2023 Working Groups (WGs) saw representatives share experiences and
 opportunities on topics covering Artificial Intelligence (AI), Digital
-Identity, Cybersecurity, and Cloud. For more details, refer to the reports
-below.</p>
+Identity, Cybersecurity, and Cloud. For more details, please refer to the
+reports below.</p>
 <ul data-tight="true" class="tight">
 <li>
 <p><a href="/files/media/Reports/DGX_2023_Working_Group_Report___AI_Ethics.pdf" rel="noopener nofollow" target="_blank">DGX 2023 Working Group Report - AI Ethics</a>
