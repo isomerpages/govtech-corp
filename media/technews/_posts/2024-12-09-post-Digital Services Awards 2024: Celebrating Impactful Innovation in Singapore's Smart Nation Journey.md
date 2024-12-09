@@ -13,13 +13,13 @@ variant: tiptap
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="Digital Services Awards 2024" src="/images/technews/DSA2024_with_tn_logo.png">
 </div>
+<h3>Transforming Public Services Through Digital Innovation</h3>
 <p>The fourth annual Digital Services Awards (DSA) recently celebrated 44
 outstanding contributors who are shaping Singapore's digital landscape.
 Held on 28 November 2024, the event showcased how collaboration between
 government, industry, and citizens is driving impactful digital transformation
 across the nation. This year's DSA winners have made significant strides
 in enhancing public services through innovative digital solutions.</p>
-<hr>
 <h3>Award-Winning Digital Innovations</h3>
 <p>The <a href="https://www.ica.gov.sg/" rel="noopener noreferrer nofollow" target="_blank">Immigration and Checkpoints Authority (ICA)</a> continued
 its winning streak, earning recognition for its groundbreaking digital
@@ -93,8 +93,19 @@ towards realising the vision of Smart Nation 2.0.”</p>
 <h3>Stay Informed and Get Involved</h3>
 <p>To keep up with Singapore's digital government initiatives and upcoming
 events:</p>
-<p></p>
-<p></p>
+<div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="https://go.gov.sg/communitysignup-technews" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Subscribe to the TechNews email newsletter" src="/images/CTA card images/technews_footer.jpg"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Subscribe to the TechNews email newsletter</div><div class="isomer-card-link">TechNews</div></div></a>
+<a rel="noopener noreferrer nofollow" href="https://go.gov.sg/communitysignup-technews" class="isomer-card">
+<div class="isomer-card-image">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Join the Tech Kaki user-testing community" src="/images/CTA card images/techkaki_footer.jpg">
+</div>
+</div>
+<div class="isomer-card-body">
+<div class="isomer-card-title">Join the Tech Kaki user-testing community</div>
+<div class="isomer-card-link">Tech Kaki</div>
+</div>
+</a>
+</div>
 <p>Your engagement is valuable to our mission in engineering a digital government
 and making lives better. Join us in building tech for public good!</p>
 <p></p>
