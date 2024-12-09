@@ -90,4 +90,11 @@ we can better keep pace with innovation and ensure our services remain
 relevant, user-centric, and inclusive. Together, we are shaping the path
 towards realising the vision of Smart Nation 2.0.”</p>
 </blockquote>
+<h3>Stay Informed and Get Involved</h3>
+<p>To keep up with Singapore's digital government initiatives and upcoming
+events:</p>
+<p></p>
+<p></p>
+<p>Your engagement is valuable to our mission in engineering a digital government
+and making lives better. Join us in building tech for public good!</p>
 <p></p>
