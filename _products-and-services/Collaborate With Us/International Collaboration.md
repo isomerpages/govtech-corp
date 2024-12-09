@@ -84,29 +84,25 @@ in collaboration with JTC Corporation and ST Engineering.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="DGX 2024" src="/images/Products and Services/Collaborate with us/GovT_110924_181.jpg">
 </div>
-<p>The Digital Government Exchange (DGX) is an annual global gathering of
-Government Chief Information Officers (CIOs) and public sector leaders
-from jurisdictions that have made significant progress in digital government.
-Organised by Singapore’s Smart Nation and Digital Government Group since
-2016, DGX is a one-of-its-kind international platform that has developed
-a community of like-minded leaders who can engage in information exchange,
-sharing of experiences, and mutual learning, while exploring future collaboration
-opportunities.</p>
-<p>Past participants involved representatives from government bodies as well
-as multilateral institutions. They include Australia, Canada, China (Shanghai),
-Denmark, Estonia, Finland, France, Israel, Japan, New Zealand, the Netherlands
-(Amsterdam), Sweden, the United Kingdom (UK), the United States (USA),
-the United Nations (UN), the World Economic Forum (WEF) and the World Bank.</p>
-<p>The ninth edition of DGX serves as a significant annual international
-gathering of Government Chief Information Officers (CIOs) and public sector
-leaders from advanced economies, including Australia, the Netherlands (Amsterdam),
-Canada, China (Shanghai), Denmark, Estonia, Finland, France, Israel, Japan,
-New Zealand, Sweden, the United Kingdom (UK), and the U.S. (New York).
-This event offers a platform for participating governments to exchange
-insights and experiences related to their digital government initiatives
-in their respective countries.</p>
-<p>For more information, check out how <a href="https://blogs.worldbank.org/en/governance/dgx-bringing-govtech-community-together?trk=public_post_main-feed-card_feed-article-content" rel="noopener noreferrer nofollow" target="_blank">DGX is bringing the GovTech Community together</a>.</p>
-<h3>Smart City Expo World Congress 2023</h3>
+<p>Formed since 2016, the Digital Government Exchange (DGX) is an annual
+global gathering of Government Chief Information Officers (CIOs) and public
+sector leaders from jurisdictions that have made significant progress in
+digital government and smart cities. DGX is a platform for senior leaders
+with keen interest in info-comm technology to share knowledge and best
+practices in the delivery of government services to citizens and businesses.</p>
+<p>Past participants involved representatives from government agencies as
+well as international organisations. They include Australia, China, Denmark,
+Estonia, Finland, Germany, Israel, Japan, the Netherlands, New Zealand,
+the United Kingdom, the United States of America, and the World Bank.</p>
+<p>DGX is organised by GovTech, with support from the Ministry of Digital
+Development and Information (MDDI).</p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p>Smart City Expo World Congress 2023</p>
 <p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="GovTech participated in the Smart City Expo World Congress 2023 in Barcelona." src="/images/Products and Services/Collaborate with us/card_2__resized_.jpg">
