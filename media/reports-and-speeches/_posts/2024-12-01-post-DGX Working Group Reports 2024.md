@@ -12,7 +12,16 @@ on topics, such as AI, Cloud, and Cybersecurity. For more details, please
 refer to the reports attached below.</p>
 <ul data-tight="true" class="tight">
 <li>
-<p></p>
+<p><a href="/files/media/Reports/DGX_2024_AI_Working_Group_Report.pdf" rel="noopener nofollow" target="_blank">DGX 2024 Working Group Report - AI</a>
+</p>
+</li>
+<li>
+<p><a href="/files/media/Reports/DGX_2024_Cyber_Working_Group_Report.pdf" rel="noopener nofollow" target="_blank">DGX 2024 Working Group Report - Cyber</a>
+</p>
+</li>
+<li>
+<p><a href="/files/media/Reports/DGX_2024_Green_Architected_Framework_Report.pdf" rel="noopener nofollow" target="_blank">DGX 2024 Working Group Report - Green Architected Framework</a>
+</p>
 </li>
 </ul>
 <p></p>
