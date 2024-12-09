@@ -9,7 +9,7 @@ variant: tiptap
 ---
 <p>The 2024 Working Groups (WGs) convened technical experts to share experiences
 on topics, such as AI, Cloud, and Cybersecurity. For more details, please
-refer to the reports attached below.</p>
+refer to the reports below.</p>
 <ul data-tight="true" class="tight">
 <li>
 <p><a href="/files/media/Reports/DGX_2024_AI_Working_Group_Report.pdf" rel="noopener nofollow" target="_blank">DGX 2024 Working Group Report - AI</a>
