@@ -18,41 +18,30 @@ so that they can collaborate with the international community as well as
 identify opportunities for collaboration.</p>
 <h3>Collaboration opportunities</h3>
 <p>Our multi-pronged approach to international partnerships includes:</p>
-<div data-type="detailGroup" class="isomer-accordion isomer-accordion-white">
 <details class="isomer-details">
 <summary><strong>Bilateral</strong>
 </summary>
 <div data-type="detailsContent" class="isomer-details-content">
-<p>Hosting foreign delegations keen to learn from GovTech's experiences.</p>
+<p>Exchange and collaborate with international counterparts to advance our
+Digital Government journey.</p>
 </div>
 </details>
 <details class="isomer-details">
 <summary><strong>Multilateral</strong>
 </summary>
 <div data-type="detailsContent" class="isomer-details-content">
-<p>Engaging international organisations and governments, and participating
-in global forums for international cooperation on Digital Government by
-the United Nations, the World Bank and the European Union.</p>
-</div>
-</details>
-<details class="isomer-details">
-<summary><strong>Working with non-profit organisations and civil societies</strong>
-</summary>
-<div data-type="detailsContent" class="isomer-details-content">
-<p>Sharing Singapore’s digital transformation journey of the public sector
-at platforms such as the World Economic Forum.</p>
+<p>Participate in global forums to share GovTech’s experiences and drive
+international cooperation on Digital Government.</p>
 </div>
 </details>
 <details class="isomer-details">
 <summary><strong>Knowledge sharing via the Singapore Government Developer Portal</strong>
 </summary>
 <div data-type="detailsContent" class="isomer-details-content">
-<p>Offering detailed information on our products, solutions and guidelines.
-Check out the <a href="https://www.developer.tech.gov.sg/" rel="noopener noreferrer nofollow" target="_blank">Singapore Government Developer Portal</a>.</p>
+<p>Offer detailed information on GovTech’s products, solutions and guidelines.
+Check out the <a href="https://www.developer.tech.gov.sg/" rel="noopener noreferrer nofollow" target="_blank"><u>Singapore Government Developer Portal</u></a>.</p>
 </div>
 </details>
-</div>
-<p></p>
 <p>Singapore actively participates in platforms by giving keynote speeches
 and conducting workshops. We believe such engagements will serve a much
 larger community of countries looking to learn about Singapore’s journey.
