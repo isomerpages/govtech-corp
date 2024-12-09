@@ -37,4 +37,22 @@ and improve overall educational outcomes across Singapore's schools.</p>
 <p>These innovations demonstrate the tangible benefits of digital transformation
 in critical areas of public service, directly impacting the daily lives
 of Singaporeans and visitors alike.</p>
+<h3>Citizen Contributors: Driving Grassroots Contribution</h3>
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="DSA 2024 Outstanding Citizen Contributors" src="/images/technews/DSA_2024___Outstanding_Citizen_Contributors.jpg">
+</div>
+<p><em>Grassroots contributions helping to shape Singapore's user-centric digital government services: The nine Outstanding Citizen Contributors receive their awards on stage at the Digital Services Awards 2024.</em>
+</p>
+<p>The DSA also recognised nine outstanding citizen contributors who have
+played crucial roles in improving government digital services. Three awardees
+were selected through an open call for nominations across the Whole-of-Government,
+while six were from citizen fuelled communities, <a href="/our-communities/join-our-communities/tech-kaki/" rel="noopener noreferrer nofollow" target="_blank">Tech Kaki</a> and
+<a href="/products-and-services/for-citizens/crowdsourcing/crowdtasksg/" rel="noopener noreferrer nofollow" target="_blank">CrowdTaskSG</a>.</p>
+<p>Among them was Qhek Hwee Boon, who is a <a href="https://www.cpf.gov.sg/member/infohub/cpf-volunteering" rel="noopener noreferrer nofollow" target="_blank">CPF Volunteer</a> (CPFV):</p>
+<p>"We feel that a lot of the seniors don't have the confidence to use all
+these apps, especially with all the prevalent scams." "By guiding them
+on how to use these apps, they gain confidence, which we find rewarding."</p>
+<p>This recognition underscores the importance of citizen engagement in Singapore's
+digital transformation journey, demonstrating how grassroots innovation
+can significantly contribute to improving public services.</p>
