@@ -7,4 +7,12 @@ description: ""
 image: ""
 variant: tiptap
 ---
+<p>The 2024 Working Groups (WGs) convened technical experts to share experiences
+on topics, such as AI, Cloud, and Cybersecurity. For more details, please
+refer to the reports attached below.</p>
+<ul data-tight="true" class="tight">
+<li>
+<p></p>
+</li>
+</ul>
 <p></p>
