@@ -81,9 +81,8 @@ in collaboration with JTC Corporation and ST Engineering.</p>
 </details>
 </div>
 <h3>Digital Government Exchange (DGX)</h3>
-<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="GovTech collaborates with The World Bank to organise Digital Government Exchange." src="/images/Products and Services/Collaborate with us/card_1__resized_.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="DGX 2024" src="/images/Products and Services/Collaborate with us/GovT_110924_181.jpg">
 </div>
 <p>The Digital Government Exchange (DGX) is an annual global gathering of
 Government Chief Information Officers (CIOs) and public sector leaders
