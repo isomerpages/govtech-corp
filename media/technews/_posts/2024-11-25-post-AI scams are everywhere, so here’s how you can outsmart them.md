@@ -112,9 +112,9 @@ accounts have been hacked.&nbsp;&nbsp;</p>
 <p>For e-commerce scams, report the incident to the platform. Include all
 the details you have, like screenshots and the scammer’s account info.&nbsp;&nbsp;</p>
 <hr>
-<h3>New scams call for renewed vigilance</h3>
 </li>
 </ol>
+<h3>New scams call for renewed vigilance</h3>
 <p>Gone are the days when online scams come riddled with misspellings, laughably
 obvious get-rich-quick schemes, and other assorted giant red flags.</p>
 <p>Instead of thinking “it could never happen to me”, think instead that
