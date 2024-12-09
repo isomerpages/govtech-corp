@@ -102,17 +102,17 @@ Development and Information (MDDI).</p>
 <p></p>
 <p></p>
 <p></p>
-<p>Smart City Expo World Congress 2023</p>
+<h3>Smart City Expo World Congress </h3>
 <p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="GovTech participated in the Smart City Expo World Congress 2023 in Barcelona." src="/images/Products and Services/Collaborate with us/card_2__resized_.jpg">
 </div>
 <p>Our team from the <a href="/our-capabilities/smart-city-technology/" rel="noopener noreferrer nofollow" target="_blank">Smart City Technology Division</a>,
 in collaboration with JTC Corporation and ST Engineering, represented Singapore
-at the prestigious Smart City Expo World Congress (SCEWC). This event,
-recognised as the largest and most influential gathering on urban innovation,
-connects leaders from the most forward-thinking companies, governments,
-and organisations to drive the future of urban living.</p>
+at the prestigious Smart City Expo World Congress (SCEWC) in 2023. This
+event, recognised as the largest and most influential gathering on urban
+innovation, connects leaders from the most forward-thinking companies,
+governments, and organisations to drive the future of urban living.</p>
 <p>At the expo, the team showcased several groundbreaking projects that underline
 Singapore's commitment to digital advancements. Learn more about these
 projects below.</p>
