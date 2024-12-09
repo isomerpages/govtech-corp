@@ -59,4 +59,35 @@ on how to use these apps, they gain confidence, which we find rewarding."</p>
 digital transformation journey, demonstrating how grassroots innovation
 can significantly contribute to improving public services.</p>
 <h3>Measuring Real-World Impact</h3>
+<p>The rigorous evaluation process for the DSA ensures that awarded projects
+demonstrate tangible benefits to Singaporeans. Key metrics considered include:</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>User satisfaction rates</p>
+</li>
+<li>
+<p>Time and cost savings for citizens and businesses</p>
+</li>
+<li>
+<p>Adoption rates of digital services</p>
+</li>
+<li>
+<p>Improvements in service delivery efficiency</p>
+</li>
+</ul>
+<p></p>
+<h3>Looking Ahead: The Future of Digital Government Services</h3>
+<p>As Singapore continues its journey towards realising the <a href="https://www.smartnation.gov.sg/" rel="noopener noreferrer nofollow" target="_blank">Smart Nation 2.0 vision</a>,
+the innovations celebrated at the DSA 2024 provide a glimpse into the future
+of digital government services. With a focus on co-creation, user-centricity,
+and measurable impact, Singapore is setting new benchmarks for digital
+governance globally.</p>
+<p>Mr Goh Wei Boon, Chief Executive of GovTech, celebrated and shared about
+the power of co-creation:</p>
+<blockquote>
+<p>"By fostering strong collaboration between government, industry, and citizens,
+we can better keep pace with innovation and ensure our services remain
+relevant, user-centric, and inclusive. Together, we are shaping the path
+towards realising the vision of Smart Nation 2.0.”</p>
+</blockquote>
 <p></p>
