@@ -99,10 +99,20 @@ Development and Information (MDDI).</p>
 <h4>DGX Working Groups</h4>
 <p>A key feature of DGX is the formation of Working Groups, where technical
 experts deep dive into topics of interest, and share successes and learning
-points. The Working Groups hold regular meeings over the course of the
-year, and present their findings at the DGX Conference.</p>
+points. The Working Groups hold regular meetings over the course of the
+year and present their findings at the DGX Conference.</p>
 <p>Explore the recent DGX Working Group reports below:</p>
-<p></p>
+<ul data-tight="true" class="tight">
+<li>
+<p>2024 Working Group Reports</p>
+</li>
+<li>
+<p>2023 Working Group Reports</p>
+</li>
+<li>
+<p>2022 Working Group Reports</p>
+</li>
+</ul>
 <p></p>
 <h3>Smart City Expo World Congress</h3>
 <p></p>
@@ -214,4 +224,4 @@ conjunction with the RSA Conference in April 2023 (San Francisco, USA).</div>
 <p></p>
 <div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="mailto:info@tech.gov.sg" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Collaborate with GovTech" src="/images/CTA card images/Ready_to_Collaborate.png"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Ready to collaborate?</div><div class="isomer-card-description">Get in touch with us today to explore ways we can work together.</div><div class="isomer-card-link">info@tech.gov.sg</div></div></a>
 </div>
-<p></p>
+<p>t</p>
