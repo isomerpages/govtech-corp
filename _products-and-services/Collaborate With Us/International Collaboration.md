@@ -65,11 +65,16 @@ the&nbsp;<a href="https://ica-it.org/index.php/conferences/previous-conferences/
 <details class="isomer-details">
 <summary>2023</summary>
 <div data-type="detailsContent" class="isomer-details-content">
-<p></p>
+<p>Apr 2023 - Participated in the ASEAN Secure Smart Cities Exchange, held
+in conjunction with the RSA Conference</p>
+<p>Sep 2023 - Hosting of GovTech’s Digital Government Exchange 2023</p>
+<p>Nov 2023 - Showcase at the Smart City Expo World Congress (SCEWC) by the
+team from the&nbsp;<a href="https://www.tech.gov.sg/our-capabilities/smart-city-technology/" rel="noopener noreferrer nofollow" target="_blank">Smart City Technology Division</a>,
+in collaboration with JTC Corporation and ST Engineering.</p>
 </div>
 </details>
 <details class="isomer-details">
-<summary>2024May</summary>
+<summary>2024</summary>
 <div data-type="detailsContent" class="isomer-details-content">
 <p></p>
 </div>
