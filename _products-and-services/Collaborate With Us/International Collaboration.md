@@ -102,7 +102,7 @@ Development and Information (MDDI).</p>
 <p></p>
 <p></p>
 <p></p>
-<h3>Smart City Expo World Congress </h3>
+<h3>Smart City Expo World Congress</h3>
 <p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="GovTech participated in the Smart City Expo World Congress 2023 in Barcelona." src="/images/Products and Services/Collaborate with us/card_2__resized_.jpg">
