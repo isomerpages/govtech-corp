@@ -113,7 +113,8 @@ year and present their findings at the DGX Conference.</p>
 <p>2022 Working Group Reports</p>
 </li>
 </ul>
-<p></p>
+<p>For enquiries on DGX, please contact <a href="mailto:international_partnership@tech.gov.sg" rel="noopener noreferrer nofollow" target="_blank">international_partnership@tech.gov.sg</a>
+</p>
 <h3>Smart City Expo World Congress</h3>
 <p></p>
 <div class="isomer-image-wrapper">
