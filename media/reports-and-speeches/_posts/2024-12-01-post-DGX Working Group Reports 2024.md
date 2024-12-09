@@ -16,7 +16,7 @@ refer to the reports below.</p>
 </p>
 </li>
 <li>
-<p><a href="/files/media/Reports/DGX_2024_Cyber_Working_Group_Report.pdf" rel="noopener nofollow" target="_blank">DGX 2024 Working Group Report - Cyber</a>
+<p><a href="/files/media/Reports/DGX_2024_Cyber_Working_Group_Report.pdf" rel="noopener nofollow" target="_blank">DGX 2024 Working Group Report - Cybersecurity</a>
 </p>
 </li>
 <li>
