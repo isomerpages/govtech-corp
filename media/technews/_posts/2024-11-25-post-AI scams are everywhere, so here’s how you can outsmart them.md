@@ -9,7 +9,6 @@ description: AI-generated scams are harder to spot than ever, with increasingly
 image: /images/technews/GovTech_Decoded_TechNews.png
 variant: tiptap
 ---
-<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="How to outsmart AI scams" src="/images/technews/GovTech_Decoded_TechNews.png">
 </div>
@@ -20,7 +19,7 @@ AI and online scams:</p>
 <div class="iframe-wrapper">
 <iframe style="max-width: 100%;" height="400" width="100%" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/VIruNSlMpks?si=GOtHD1Lro_0jaS8g"></iframe>
 </div>
-<p></p>
+<hr>
 <p>At the <a href="https://www.straitstimes.com/singapore/what-happens-when-it-becomes-almost-impossible-to-spot-a-scam-even-for-experts" rel="noopener noreferrer nofollow" target="_blank"><u>Global Anti-Scam Summit Asia 2024</u></a> in
 October, a room of about 100 anti-scam experts were asked to stand. They
 were then shown one video at a time and asked if it was real or AI-generated.
