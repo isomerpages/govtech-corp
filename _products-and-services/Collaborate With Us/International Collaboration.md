@@ -42,10 +42,44 @@ international cooperation on Digital Government.</p>
 Check out the <a href="https://www.developer.tech.gov.sg/" rel="noopener noreferrer nofollow" target="_blank"><u>Singapore Government Developer Portal</u></a>.</p>
 </div>
 </details>
+<p></p>
 <p>Singapore actively participates in platforms by giving keynote speeches
 and conducting workshops. We believe such engagements will serve a much
-larger community of countries looking to learn about Singapore’s journey.
-Explore a few of our past international collaborations below.</p>
+larger community of countries looking to learn about Singapore’s journey.</p>
+<p><strong>Here’s a timeline of some of our key international initiatives:</strong>
+</p>
+<p></p>
+<div data-type="detailGroup" class="isomer-accordion isomer-accordion-white">
+<details class="isomer-details">
+<summary>May 2022</summary>
+<div data-type="detailsContent" class="isomer-details-content">
+<ul data-tight="true" class="tight">
+<li>
+<p><a href="https://www.tech.gov.sg/media/technews/govtech-partners-the-digital-agency-of-japan-to-push-digital-government-transformation" rel="noopener noreferrer nofollow" target="_blank">Memorandum of Cooperation (MOC) between GovTech and the Digital Agency of Japan in the area of Digital Government</a>
+</p>
+</li>
+</ul>
+</div>
+</details>
+<details class="isomer-details">
+<summary>July 2022</summary>
+<div data-type="detailsContent" class="isomer-details-content">
+<ul data-tight="true" class="tight">
+<li>
+<p><a href="https://www.tech.gov.sg/media/media-releases/2022-07-04-mou-signing-between-govtech-and-uk-government-digital-service" rel="noopener noreferrer nofollow" target="_blank">Memorandum of Understanding between GovTech and UK Government Digital Services on the design and delivery of digital government public services</a>
+</p>
+</li>
+</ul>
+</div>
+</details>
+<details class="isomer-details">
+<summary></summary>
+<div data-type="detailsContent" class="isomer-details-content">
+<p></p>
+</div>
+</details>
+</div>
+<p></p>
 <h3>Digital Government Exchange (DGX)</h3>
 <p></p>
 <div class="isomer-image-wrapper">
