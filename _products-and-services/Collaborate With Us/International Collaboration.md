@@ -51,7 +51,8 @@ larger community of countries looking to learn about Singapore’s journey.</p>
 <p></p>
 <div data-type="detailGroup" class="isomer-accordion isomer-accordion-white">
 <details class="isomer-details">
-<summary>2022</summary>
+<summary><strong>2022</strong>
+</summary>
 <div data-type="detailsContent" class="isomer-details-content">
 <p>May 2022 - <a href="https://www.tech.gov.sg/media/technews/govtech-partners-the-digital-agency-of-japan-to-push-digital-government-transformation" rel="noopener noreferrer nofollow" target="_blank">Memorandum of Cooperation (MOC) between GovTech and the Digital Agency of Japan in the area of Digital Government</a>
 </p>
@@ -63,7 +64,8 @@ the&nbsp;<a href="https://ica-it.org/index.php/conferences/previous-conferences/
 </div>
 </details>
 <details class="isomer-details">
-<summary>2023</summary>
+<summary><strong>2023</strong>
+</summary>
 <div data-type="detailsContent" class="isomer-details-content">
 <p>Apr 2023 - Participated in the ASEAN Secure Smart Cities Exchange, held
 in conjunction with the RSA Conference</p>
@@ -74,7 +76,8 @@ in collaboration with JTC Corporation and ST Engineering.</p>
 </div>
 </details>
 <details class="isomer-details">
-<summary>2024</summary>
+<summary><strong>2024</strong>
+</summary>
 <div data-type="detailsContent" class="isomer-details-content">
 <p>Sep 2024 - Hosting of GovTech’s Digital Government Exchange 2024</p>
 </div>
