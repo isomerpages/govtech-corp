@@ -58,8 +58,8 @@ larger community of countries looking to learn about Singapore’s journey.</p>
 </p>
 <p>July 2022 - <a href="https://www.tech.gov.sg/media/media-releases/2022-07-04-mou-signing-between-govtech-and-uk-government-digital-service" rel="noopener noreferrer nofollow" target="_blank">Memorandum of Understanding between GovTech and UK Government Digital Services on the design and delivery of digital government public services</a>
 </p>
-<p>Sep 2022 - Hosting of GovTech’s&nbsp;<a href="https://www.developer.tech.gov.sg/our-digital-journey/digital-government-exchange/overview" rel="noopener noreferrer nofollow" target="_blank">Digital Government Exchange</a>&nbsp;and
-the&nbsp;<a href="https://ica-it.org/index.php/conferences/previous-conferences/56th-ica-conference" rel="noopener noreferrer nofollow" target="_blank">56th ICA Conference</a>
+<p>Sep 2022 - Hosting of GovTech’s Digital Government Exchange 2022 and the&nbsp;
+<a href="https://ica-it.org/index.php/conferences/previous-conferences/56th-ica-conference" rel="noopener noreferrer nofollow" target="_blank">56th ICA Conference</a>
 </p>
 </div>
 </details>
