@@ -14,12 +14,12 @@ variant: tiptap
 <img style="width: 100%" height="auto" width="100%" alt="Digital Services Awards 2024" src="/images/technews/DSA2024_with_tn_logo.png">
 </div>
 <h3>Transforming Public Services Through Digital Innovation</h3>
-<p>The fourth annual Digital Services Awards (DSA) recently celebrated 44
-outstanding contributors who are shaping Singapore's digital landscape.
-Held on 28 November 2024, the event showcased how collaboration between
-government, industry, and citizens is driving impactful digital transformation
-across the nation. This year's DSA winners have made significant strides
-in enhancing public services through innovative digital solutions.</p>
+<p>The fourth annual <a href="https://go.gov.sg/dsa24-winners-tn" rel="noopener noreferrer nofollow" target="_blank">Digital Services Awards (DSA)</a> recently
+celebrated 44 outstanding contributors who are shaping Singapore's digital
+landscape. Held on 28 November 2024, the event showcased how collaboration
+between government, industry, and citizens is driving impactful digital
+transformation across the nation. This year's DSA winners have made significant
+strides in enhancing public services through innovative digital solutions.</p>
 <h3>Award-Winning Digital Innovations</h3>
 <p>The <a href="https://www.ica.gov.sg/" rel="noopener noreferrer nofollow" target="_blank">Immigration and Checkpoints Authority (ICA)</a> continued
 its winning streak, earning recognition for its groundbreaking digital
