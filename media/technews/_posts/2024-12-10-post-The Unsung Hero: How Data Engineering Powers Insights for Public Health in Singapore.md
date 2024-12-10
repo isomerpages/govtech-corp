@@ -19,15 +19,12 @@ come to mind. However, these eye-catching aspects rely on a fundamental,
 often overlooked foundation: data engineering. Without a solid data engineering
 framework, AI and ML projects are like skyscrapers built on quicksand –
 impressive looking but unlikely to stand the test of time.</p>
-<p></p>
 <p>Data engineering is akin to the plumbing that keeps our homes functioning.
 While not as visible as the taps and showers it supports, it is crucial
 for ensuring smooth operations. Similarly, data engineering ensures that
-messy, raw data is cleaned, organised, and made usable.</p>
-<p></p>
-<p>This is the foundation that allows data scientists and analysts to create
-insights and build transformative solutions.&nbsp;</p>
-<p></p>
+messy, raw data is cleaned, organised, and made usable. This is the foundation
+that allows data scientists and analysts to create insights and build transformative
+solutions.&nbsp;</p>
 <p>GovTech’s Data Engineering Practice (DP) team plays a critical role in
 enabling impactful public sector projects. A prime example of this is its
 partnership with the <a href="https://www.hpb.gov.sg/" rel="noopener noreferrer nofollow" target="_blank">Health Promotion Board (HPB)</a> to develop
@@ -38,11 +35,10 @@ that drive meaningful outcomes.&nbsp;</p>
 <p>With the country’s population<a href="https://www.straitstimes.com/singapore/s-pore-population-crosses-6-million-mark" rel="noopener noreferrer nofollow" target="_blank"> hitting 6 million</a> and
 continuing to climb, efforts to ensure a healthy society have become even
 more urgent. HPB’s initiatives across different health domains, such as
-nutrition, physical activity, mental well-being and health screeningexemplify
+nutrition, physical activity, mental well-being and health screening exemplify
 the government’s commitment to fostering healthier lifestyles. An added
 bonus: they also generate valuable data to deepen our understanding of
 citizens’ lifestyles.&nbsp;</p>
-<p></p>
 <p>Combining information on citizens’ demographics, participation rates,
 and behavioural trends can help identify citizen segments in greater need
 of behaviour changes. This data allows the organisation to identify gaps
@@ -115,8 +111,6 @@ groundwork for HPB to achieve its goals.&nbsp;</p>
 challenges, the role of data engineering will only grow in importance.
 Through projects like the Population Health Data Hub, GovTech and its partners
 are proving that when data is managed right, the possibilities are endless.&nbsp;</p>
-<p></p>
-<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="HPB and GovTech's Data Engineering Practice team posing" src="/images/HPB_and_GT_DEP.jpg">
 </div>
@@ -144,4 +138,25 @@ double loop learning and provide expert consulting for use case</p>
 <p>3.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Standardisation: Set
 standards, guides and frameworks for whole-of-government</p>
 <hr>
+<p>Want to stay updated on our latest tech innovations and co-create with
+us?</p>
+<p></p>
+<div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="https://community.tech.gov.sg/?utm_campaign=TechNews&amp;utm_source=technews" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Subscribe to the TechNews email newsletter" src="/images/technews/technews.jpg"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Subscribe to the TechNews email newsletter</div><div class="isomer-card-link">TechNews</div></div></a>
+<a rel="noopener noreferrer nofollow" href="https://community.tech.gov.sg/?utm_campaign=TechNews&amp;utm_source=technews" class="isomer-card">
+<div class="isomer-card-image">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Join the Tech Kaki user-testing community" src="/images/technews/techkaki.jpg">
+</div>
+</div>
+<div class="isomer-card-body">
+<div class="isomer-card-title">Join the Tech Kaki user-testing community</div>
+<div class="isomer-card-link">Tech Kaki</div>
+</div>
+</a>
+</div>
+<p></p>
+<p>Be part of Singapore's digital transformation journey – stay informed
+and make a difference!</p>
+<p></p>
+<p></p>
 <p></p>
