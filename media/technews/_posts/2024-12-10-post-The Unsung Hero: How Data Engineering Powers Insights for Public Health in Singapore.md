@@ -126,9 +126,11 @@ are proving that when data is managed right, the possibilities are endless.&nbsp
 </p>
 <p><em>Danush Aaditya, Yap Ghim Eng, Winston Lai, Neo Yi Lin, Albert Goh, Lim Kim Tee, Yap Lee Chen, Melissa Yeo, Ryan Lim, Joshua Na (Absent: Erwin, Andy Lam)</em>
 </p>
-<p>&nbsp;</p>
 <hr>
-<p></p>
+<p>Are you a public officer looking to enhance your agency's data engineering
+capabilities? The GovTech Data Engineering Practice team is ready to collaborate.&nbsp;</p>
+<div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="mailto:dep@tech.gov.sg" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Are you a public officer looking to enhance your agency's data engineering capabilities?" src="/images/image.jpg"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Are you a public officer looking to enhance your agency's data engineering capabilities?</div><div class="isomer-card-description">The GovTech Data Engineering Practice team is ready to collaborate. Contact us to explore how partnering with us can strengthen your data initiatives and drive your agency forward.</div><div class="isomer-card-link">dep@tech.gov.sg</div></div></a>
+</div>
 <p>The Data Engineering Practice (DP), one of the practices within the Government
 Technology Office of GovTech,&nbsp;transfers data engineering expertise
 to the public sector, helping agencies improve their data quality, availability
@@ -141,10 +143,5 @@ Conduct proof of concepts and testing emerging technologies</p>
 double loop learning and provide expert consulting for use case</p>
 <p>3.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Standardisation: Set
 standards, guides and frameworks for whole-of-government</p>
-<hr>
-<p>Are you a public officer looking to enhance your agency's data engineering
-capabilities? The GovTech Data Engineering Practice team is ready to collaborate.&nbsp;</p>
-<div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="mailto:dep@tech.gov.sg" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Are you a public officer looking to enhance your agency's data engineering capabilities?" src="/images/image.jpg"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Are you a public officer looking to enhance your agency's data engineering capabilities?</div><div class="isomer-card-description">The GovTech Data Engineering Practice team is ready to collaborate.  Contact us to explore how partnering with us can strengthen your data initiatives and drive your agency forward.</div><div class="isomer-card-link">dep@tech.gov.sg</div></div></a>
-</div>
 <hr>
 <p></p>
