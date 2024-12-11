@@ -13,7 +13,7 @@ variant: tiptap
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="Data Engineering and HPB team" src="/images/The_unsung_hero_banner_1_with_logo.png">
 </div>
-<p>When we think about <a href="https://www.tech.gov.sg/products-and-services/artificial-intelligence/" rel="noopener noreferrer nofollow" target="_blank">artificial intelligence (AI) and machine learning (ML)</a>,
+<p>When we think about <a href="https://www.tech.gov.sg/media/technews/five-ways-you-are-already-using-ai/" rel="noopener noreferrer nofollow" target="_blank">artificial intelligence (AI) and machine learning (ML)</a>,
 cutting-edge models, complex algorithms, and dazzling analytics usually
 come to mind. However, these eye-catching aspects rely on a fundamental,
 often overlooked foundation: data engineering. Without a solid data engineering
@@ -121,8 +121,7 @@ are proving that when data is managed right, the possibilities are endless.&nbsp
 <p><em>Danush Aaditya, Yap Ghim Eng, Winston Lai, Neo Yi Lin, Albert Goh, Lim Kim Tee, Yap Lee Chen, Melissa Yeo, Ryan Lim, Joshua Na (Absent: Erwin, Andy Lam)</em>
 </p>
 <hr>
-<p>Are you a public officer looking to enhance your agency's data engineering
-capabilities? The GovTech Data Engineering Practice team is ready to collaborate.&nbsp;</p>
+<p></p>
 <div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="mailto:dep@tech.gov.sg" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Are you a public officer looking to enhance your agency's data engineering capabilities?" src="/images/image.jpg"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Are you a public officer looking to enhance your agency's data engineering capabilities?</div><div class="isomer-card-description">The GovTech Data Engineering Practice team is ready to collaborate. Contact us to explore how partnering with us can strengthen your data initiatives and drive your agency forward.</div><div class="isomer-card-link">dep@tech.gov.sg</div></div></a>
 </div>
 <p>The Data Engineering Practice (DP), one of the practices within the Government
