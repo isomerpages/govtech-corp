@@ -9,7 +9,7 @@ permalink: /
 notification: ""
 sections:
   - hero:
-      background: /images/Govtech_Decoded_Homepage_Banner_0411_4.png
+      background: /images/Cracker.gif
       button: FIND OUT MORE
       url: /govtech-decoded/
       key_highlights:
