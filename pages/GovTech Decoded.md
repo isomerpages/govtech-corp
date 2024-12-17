@@ -85,6 +85,28 @@ to ensure our nation maintains a robust and resilient cybersecurity posture.</p>
 </p>
 </td>
 </tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Ep3: Building Blocks of a Reliable Tech Stack</strong>
+</p>
+<p></p>
+<p>Tech Stacks are powerful digital infrastructures that can help scale innovation
+and drive efficiency. At GovTech, we’ve built the <a href="https://www.developer.tech.gov.sg/singapore-government-tech-stack/" rel="noopener nofollow" target="_blank">Singapore Government Tech Stack (SGTS)</a> to
+engineer our digital government and create a unified ecosystem for developers
+to thrive.
+<br>
+<br>Using the analogy of building a home, we explore the SG Tech Stack with
+Liyana Fauzi and Charis Anne Lim to understand how it enables developers
+to focus on creativity, reduce complexities, and ensure security and compliance.</p>
+<p></p>
+<p><a href="https://go.gov.sg/govtechdecoded-from-website-ep3" rel="noopener nofollow" target="_blank">Watch on YouTube</a> |
+<a href="https://go.gov.sg/govtechdecoded-spotify-ep2" rel="noopener nofollow" target="_blank">Listen on Spotify</a>| <a href="/files/GovTech Decoded/Ep_2__Cybersecurity_Chronicles_from_Frontliners_docx.pdf" rel="noopener nofollow" target="_blank">Episode 2 Transcript</a>
+</p>
+</td>
+</tr>
 </tbody>
 </table>
 <p>Share your ideas and feedback about GovTech Decoded vodcast series at
