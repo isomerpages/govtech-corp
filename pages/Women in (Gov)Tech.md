@@ -5,6 +5,7 @@ variant: tiptap
 description: Empowering women for tech success. Raising awareness, fostering
   community support, and driving change in the industry.
 ---
+<p></p>
 <h3>Empowering women for tech success: Raising awareness, fostering community support, and driving change in the industry.</h3>
 <p>Established in 2021, GovTech's Women in (Gov)Tech (WiG) Employee Resource
 Group (ERG) was inaugurated as the first employee resource group dedicated
