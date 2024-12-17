@@ -88,6 +88,9 @@ to ensure our nation maintains a robust and resilient cybersecurity posture.</p>
 <tr>
 <td rowspan="1" colspan="1">
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="GovTech Decoded Ep 3: Building Blocks of a Reliable Tech Stack" src="/images/Decoded/Ep_3_Spotify_Cover.png">
+</div>
 </td>
 <td rowspan="1" colspan="1">
 <p><strong>Ep3: Building Blocks of a Reliable Tech Stack</strong>
@@ -103,7 +106,7 @@ Liyana Fauzi and Charis Anne Lim to understand how it enables developers
 to focus on creativity, reduce complexities, and ensure security and compliance.</p>
 <p></p>
 <p><a href="https://go.gov.sg/govtechdecoded-from-website-ep3" rel="noopener nofollow" target="_blank">Watch on YouTube</a> |
-<a href="https://go.gov.sg/govtechdecoded-spotify-ep2" rel="noopener nofollow" target="_blank">Listen on Spotify</a>| <a href="/files/GovTech Decoded/Ep_2__Cybersecurity_Chronicles_from_Frontliners_docx.pdf" rel="noopener nofollow" target="_blank">Episode 2 Transcript</a>
+<a href="https://go.gov.sg/govtechdecoded-spotify-ep3" rel="noopener nofollow" target="_blank">Listen on Spotify</a>| <a href="/files/GovTech Decoded/Ep_3__Building_Blocks_of_a_Reliable_Tech_Stack__docx.pdf" rel="noopener nofollow" target="_blank">Episode 3 Transcript</a>
 </p>
 </td>
 </tr>
