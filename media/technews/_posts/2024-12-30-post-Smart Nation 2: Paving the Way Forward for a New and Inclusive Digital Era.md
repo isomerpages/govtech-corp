@@ -8,6 +8,9 @@ description: Learn about the key goals and initiatives of Smart Nation 2.0, from
 image: /images/technews/Smart_Nation_2_0_GovTech_TechNews.png
 variant: tiptap
 ---
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Smart Nation 2.0" src="/images/technews/Smart_Nation_2_0_GovTech_TechNews.png">
+</div>
 <p>As we approach the end of 2024, it is fitting to close this year by focusing
 on the importance of a refreshed Smart Nation blueprint for the years ahead.</p>
 <p>The <a href="https://www.smartnation.gov.sg/sn1/" rel="noopener noreferrer nofollow" target="_blank">first Smart Nation initiative</a> was
