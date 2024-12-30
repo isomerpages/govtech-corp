@@ -8,10 +8,6 @@ description: Learn about the key goals and initiatives of Smart Nation 2.0, from
 image: ""
 variant: tiptap
 ---
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Smart Nation 2.0: Inclusivity and Digitalisation Singapore" src="/images/technews/Smart_Nation_2_0_GovTech_TechNews.png">
-</div>
-<p></p>
 <p>As we approach the end of 2024, it is fitting to close this year by focusing
 on the importance of a refreshed Smart Nation blueprint for the years ahead.</p>
 <p>The <a href="https://www.smartnation.gov.sg/sn1/" rel="noopener noreferrer nofollow" target="_blank">first Smart Nation initiative</a> was
@@ -41,4 +37,27 @@ goals of Smart Nation 2.0 and the efforts being made to achieve these goals.</p>
 <p>What to expect from Smart Nation 2.0 moving forward</p>
 </li>
 </ul>
-<p></p>
+<h3>What does being a Smart Nation mean?</h3>
+<p>Being a <a href="https://www.smartnation.gov.sg/vision/" rel="noopener noreferrer nofollow" target="_blank">Smart Nation</a> means
+<a href="https://www.tech.gov.sg/media/technews/how-data-engineering-powers-insights-for-public-health-in-singapore/" rel="noopener noreferrer nofollow" target="_blank">leveraging technology in optimal ways</a>to improve the quality of life
+for all citizens, create economic opportunities, and foster a more connected
+and inclusive society. It embodies the vision where digital tools and innovations
+are seamlessly integrated into daily life, making interactions with government
+services, businesses, and communities more efficient and meaningful.</p>
+<p>A Smart Nation focuses on using advanced technology to address real challenges
+and improve the quality of life for all.</p>
+<p>In Singapore, this has meant transforming government services into user-friendly
+digital experiences, fostering cashless transactions, and building <a href="https://www.tech.gov.sg/products-and-services/for-businesses/smart-city-tech/" rel="noopener noreferrer nofollow" target="_blank">smart infrastructure that enhances urban living</a>.
+For example, sensors in housing estates ensure swift maintenance and digital
+platforms like <a href="https://www.tech.gov.sg/media/technews/tracetogether-behind-the-scenes-look-at-its-development-process/" rel="noopener noreferrer nofollow" target="_blank">TraceTogether</a> demonstrate
+how technology can be a critical enabler during crises like the COVID-19
+pandemic.</p>
+<p>At its core, being a Smart Nation reflects a collective whole-of-nation
+effort. It requires active participation from government, businesses, and
+citizens. It’s about embracing innovation, fostering digital literacy,
+and ensuring that no one is left behind as society progresses into a new
+digital era. This is what it means to create a thriving digital future
+for all.</p>
+<p>&nbsp;</p>
+<p><a href="https://www.youtube.com/watch?v=3KVb3pRy_3E" rel="noopener noreferrer nofollow" target="_blank">A Thriving Digital Future for All</a>
+</p>
