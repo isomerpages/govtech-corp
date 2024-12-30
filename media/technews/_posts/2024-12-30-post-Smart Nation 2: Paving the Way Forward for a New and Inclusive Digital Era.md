@@ -178,7 +178,22 @@ that progress is inclusive, with benefits shared widely across society.</p>
 </p>
 <p><strong>To help streamline processes and provide useful tools for growth,</strong> here
 are some of GovTech’s initiatives and products:</p>
-<p></p>
+<div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="https://www.tech.gov.sg/products-and-services/for-government-agencies/software-development/sg-tech-stack/" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="SG Tech Stack" src="https://placehold.co/600x400"></div></div><div class="isomer-card-body"><div class="isomer-card-title">SG Tech Stack: Accelerating Digital Transformation</div><div class="isomer-card-description">SGTS is a platform that empowers government agencies to build secure and efficient digital services. By providing a suite of pre-built tools and best practices, SGTS streamlines development, reduces costs, and accelerates time-to-market.</div><div class="isomer-card-link">Find Out More</div></div></a>
+<a rel="noopener noreferrer nofollow" href="https://www.tech.gov.sg/products-and-services/for-businesses/corporate-transactions/gobusiness/" class="isomer-card">
+<div class="isomer-card-image">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="GoBusiness" src="https://placehold.co/600x400">
+</div>
+</div>
+<div class="isomer-card-body">
+<div class="isomer-card-title">GoBusiness: Your Business Gateway for Every Need</div>
+<div class="isomer-card-description">GoBusiness is a one-stop platform for all business needs. Access over
+120 government e-services, get personalised advice from over 200 e-advisers
+on various business needs and simplify one’s business journey.</div>
+<div class="isomer-card-link">Find Out More</div>
+</div>
+</a><a rel="noopener noreferrer nofollow" href="https://www.tech.gov.sg/products-and-services/for-citizens/employment/career-kaki/" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Career Kaki" src="https://placehold.co/600x400"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Career Kaki: Your AI Career Coach</div><div class="isomer-card-description">Career Kaki is your AI-powered career coach. Receive personalised recommendations on jobs, courses, and resources tailored to your unique profile. Get expert advice on career paths and job application strategies. Gain the insights needed to achieve your career goals.</div><div class="isomer-card-link">Find Out More</div></div></a>
+</div>
 <p></p>
 <p></p>
 <p></p>
