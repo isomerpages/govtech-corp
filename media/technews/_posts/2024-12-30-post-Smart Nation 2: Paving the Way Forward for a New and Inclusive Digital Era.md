@@ -137,8 +137,8 @@ experience for everyone.Moreover, individuals must also be empowered with
 the knowledge and tools to use technology responsibly. This enables Singaporeans
 to navigate the digital landscape with confidence, assured that their safety
 and privacy are safeguarded.</p>
-<p>There are numerous government tools and systems to enhance the safety
-and security of Singaporeans. Examples include:</p>
+<p>Here are some examples of government tools and systems <strong>to enhance the safety and security of Singaporeans:</strong>
+</p>
 <p></p>
 <div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="https://www.tech.gov.sg/products-and-services/for-citizens/digital-services/singpass/" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Singpass" src="/images/Products and Services/For citizens/Singpass_600x300.png"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Singpass: Secure Digital Identity to Access Services</div><div class="isomer-card-description">Singpass is your trusted online ID for accessing online government and business services in Singapore. It provides secure login with biometrics or 2FA which protects your data and simplifies transactions.</div><div class="isomer-card-link">Find Out More</div></div></a>
 <a rel="noopener noreferrer nofollow" href="https://www.tech.gov.sg/products-and-services/for-citizens/scam-prevention/" class="isomer-card">
@@ -176,7 +176,7 @@ to stay competitive in a tech-driven world. Through these efforts, it ensures
 that progress is inclusive, with benefits shared widely across society.</p>
 <p><em>Note: For businesses interested in partnering with GovTech, check out how you can <a href="https://www.tech.gov.sg/products-and-services/collaborate-with-us/industry-collaboration/" rel="noopener noreferrer nofollow" target="_blank">collaborate with us</a> to help build our Smart Nation.</em>
 </p>
-<p>To help streamline processes and provide useful tools for growth, here
+<p><strong>To help streamline processes and provide useful tools for growth,</strong> here
 are some of GovTech’s initiatives and products:</p>
 <p></p>
 <p></p>
