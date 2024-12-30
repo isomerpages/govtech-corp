@@ -195,6 +195,25 @@ on various business needs and simplify one’s business journey.</div>
 </a><a rel="noopener noreferrer nofollow" href="https://www.tech.gov.sg/products-and-services/for-citizens/employment/career-kaki/" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Career Kaki" src="https://placehold.co/600x400"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Career Kaki: Your AI Career Coach</div><div class="isomer-card-description">Career Kaki is your AI-powered career coach. Receive personalised recommendations on jobs, courses, and resources tailored to your unique profile. Get expert advice on career paths and job application strategies. Gain the insights needed to achieve your career goals.</div><div class="isomer-card-link">Find Out More</div></div></a>
 </div>
 <p></p>
+<p><strong>To develop local talent and help with skills training, </strong>here
+are some government programmes for businesses and Singaporeans of all ages:</p>
+<div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="https://aiap.sg/apprenticeship/" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="AI Apprenticeship Programme (AIAP)" src="https://placehold.co/600x400"></div></div><div class="isomer-card-body"><div class="isomer-card-title">AI Apprenticeship Programme (AIAP)</div><div class="isomer-card-description">The AIAP was formed to identify, train and groom local talents to become AI specialists. Apprentices will gain hands-on AI experience, learning ML and software engineering to deploy models. AIAP is recognised as a leading AI deep-skilling programme in Singapore and globally.</div><div class="isomer-card-link">Find Out More</div></div></a>
+<a rel="noopener noreferrer nofollow" href="https://www.imda.gov.sg/how-we-can-help/smes-go-digital" class="isomer-card">
+<div class="isomer-card-image">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="SMEs Go Digital" src="https://placehold.co/600x400">
+</div>
+</div>
+<div class="isomer-card-body">
+<div class="isomer-card-title">SMEs Go Digital</div>
+<div class="isomer-card-description">SMEs Go Digital helps SMEs to digitalise by offering support and resources
+to adopt advanced digital solutions. This programme aims to improve operations
+and drive growth with technology. SMEs can also opt for industry-specific
+assistance.</div>
+<div class="isomer-card-link">Find Out More</div>
+</div>
+</a><a rel="noopener noreferrer nofollow" href="https://www.imda.gov.sg/how-we-can-help/code-for-fun" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Code for Fun" src="https://placehold.co/600x400"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Code for Fun </div><div class="isomer-card-description">Code for Fun exposes students to coding, digital making, and AI. It equips them with computational thinking, creativity, and responsible technology use for success in the digital future. From 2025, AI for Fun modules offer additional learning in generative AI and smart robots.</div><div class="isomer-card-link">Find Out More</div></div></a>
+</div>
 <p></p>
 <p></p>
 <p></p>
