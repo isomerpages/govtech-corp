@@ -299,17 +299,20 @@ community.</div>
 </a>
 </div>
 <p></p>
-<div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="https://www.isomer.gov.sg" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Placeholder image" src="https://placehold.co/600x400"></div></div><div class="isomer-card-body"><div class="isomer-card-title">This is a title for your card</div><div class="isomer-card-description">This is body text for your card. Describe your card.</div><div class="isomer-card-link">This is a link for your card</div></div></a>
-<a rel="noopener noreferrer nofollow" href="https://www.isomer.gov.sg" class="isomer-card">
+<div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="https://www.tech.gov.sg/products-and-services/for-citizens/crowdsourcing/build-for-good-hackathon/" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Build for Good (BFG)" src="https://placehold.co/600x400"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Build for Good (BFG): Empowering Citizens to Shape Singapore's Future</div><div class="isomer-card-description">BFG empowers citizens to contribute to positive change in Singapore. Through hackathons, accelerators, and a vibrant community, individuals can collaborate on innovative solutions to address pressing social and environmental issues. Any citizen can join the movement and make a difference!</div><div class="isomer-card-link">Find Out More</div></div></a>
+<a rel="noopener noreferrer nofollow" href="https://hack.gov.sg/" class="isomer-card">
 <div class="isomer-card-image">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Placeholder image" src="https://placehold.co/600x400">
+<img style="width: 100%" height="auto" width="100%" alt="Hack for Public Good (HFPG)" src="https://placehold.co/600x400">
 </div>
 </div>
 <div class="isomer-card-body">
-<div class="isomer-card-title">This is a title for your card</div>
-<div class="isomer-card-description">This is body text for your card. Describe your card.</div>
-<div class="isomer-card-link">This is a link for your card</div>
+<div class="isomer-card-title">Hack for Public Good (HFPG): Innovating for a Better Singapore</div>
+<div class="isomer-card-description">HFPG is an initiative where OGP officers focus on solving real-world problems.
+Through collaboration and user research, teams develop solutions and build
+working prototypes. This unique approach empowers OGP to deliver impactful
+public services and create a better future for Singapore.</div>
+<div class="isomer-card-link">Find Out More</div>
 </div>
 </a>
 </div>
