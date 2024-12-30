@@ -58,6 +58,10 @@ citizens. It’s about embracing innovation, fostering digital literacy,
 and ensuring that no one is left behind as society progresses into a new
 digital era. This is what it means to create a thriving digital future
 for all.</p>
-<p>&nbsp;</p>
-<p><a href="https://www.youtube.com/watch?v=3KVb3pRy_3E" rel="noopener noreferrer nofollow" target="_blank">A Thriving Digital Future for All</a>
-</p>
+<div class="iframe-wrapper">
+<iframe style="max-width: 100%;" height="400" width="100%" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/3KVb3pRy_3E?si=-PF6_4dk0Ph9G4Jj"></iframe>
+</div>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
