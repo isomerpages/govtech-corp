@@ -212,8 +212,13 @@ and drive growth with technology. SMEs can also opt for industry-specific
 assistance.</div>
 <div class="isomer-card-link">Find Out More</div>
 </div>
-</a><a rel="noopener noreferrer nofollow" href="https://www.imda.gov.sg/how-we-can-help/code-for-fun" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Code for Fun" src="https://placehold.co/600x400"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Code for Fun </div><div class="isomer-card-description">Code for Fun exposes students to coding, digital making, and AI. It equips them with computational thinking, creativity, and responsible technology use for success in the digital future. From 2025, AI for Fun modules offer additional learning in generative AI and smart robots.</div><div class="isomer-card-link">Find Out More</div></div></a>
+</a><a rel="noopener noreferrer nofollow" href="https://www.imda.gov.sg/how-we-can-help/code-for-fun" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Code for Fun" src="https://placehold.co/600x400"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Code for Fun</div><div class="isomer-card-description">Code for Fun exposes students to coding, digital making, and AI. It equips them with computational thinking, creativity, and responsible technology use for success in the digital future. From 2025, AI for Fun modules offer additional learning in generative AI and smart robots.</div><div class="isomer-card-link">Find Out More</div></div></a>
 </div>
+<p></p>
+<p><em>For a more comprehensive list of resources available, check out <a href="https://www.smartnation.gov.sg/resources/residents/" rel="noopener noreferrer nofollow" target="_blank">Smart Nation resources (for residents, businesses, and developers)</a> and other <a href="https://www.smartnation.gov.sg/nais/contribute/" rel="noopener noreferrer nofollow" target="_blank">AI-related programmes</a>.</em>
+</p>
+<p></p>
+<h4>Community</h4>
 <p></p>
 <p></p>
 <p></p>
