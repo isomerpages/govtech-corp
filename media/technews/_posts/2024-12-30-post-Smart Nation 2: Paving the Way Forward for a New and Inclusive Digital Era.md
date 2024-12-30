@@ -71,4 +71,12 @@ future and shape our nation together.”</p>
 </blockquote>
 <p>- PM Lawrence Wong at the <a href="https://www.pmo.gov.sg/Newsroom/PM-Lawrence-Wong-at-the-Launch-of-Smart-Nation" rel="noopener noreferrer nofollow" target="_blank">launch of Smart Nation 2.0 in Oct 2024</a>
 </p>
+<p>A refreshed Smart Nation 2.0 is necessary because the technological landscape
+has evolved significantly since Singapore first embarked on its Smart Nation
+journey back in 2014. The rise of generative AI, the ubiquity of smartphones,
+and the growing influence of digital platforms on every aspect of life
+present both new opportunities and challenges. To stay ahead of technological
+trends, Singapore must adapt its strategies to harness these advancements
+effectively.</p>
+<h3>3 key goals of Smart Nation 2.0</h3>
 <p></p>
