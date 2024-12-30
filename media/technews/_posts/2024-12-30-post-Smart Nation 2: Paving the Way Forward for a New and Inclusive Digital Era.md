@@ -347,3 +347,6 @@ training, networking opportunities with experts, and a platform for educators
 to innovate and shape the future of education in Singapore by shaping the
 curriculum. By investing in educators, the government aims to create a
 digitally empowered generation of students.</p>
+<h3>What to expect from Smart Nation 2.0 moving forward</h3>
+<p></p>
+<p></p>
