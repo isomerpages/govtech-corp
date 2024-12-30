@@ -314,4 +314,36 @@ thereby highlighting cybersecurity problems that must be addressed.</p>
 </div>
 <p></p>
 <h3>Developing tech talent to achieve Smart Nation 2.0 goals</h3>
-<p></p>
+<p>Talented individuals and leaders are needed to guide and collaborate with
+others to steer the wheels in the right direction. Hence, the government
+has provided some opportunities for developing and outsourcing talent.</p>
+<h4>Smart Nation Fellowship</h4>
+<p>The <a href="https://www.tech.gov.sg/careers/opportunities-for-professionals/smart-nation-fellowship-programme/" rel="noopener noreferrer nofollow" target="_blank">Smart Nation Fellowship Programme</a> recruits
+talented individuals like data scientists, engineers, and researchers to
+collaborate with GovTech project teams and share their expertise in specific
+domains.</p>
+<p>Fellows will work alongside passionate individuals and contribute their
+expertise to projects across exciting areas like AI, blockchain, and data
+science. The programme offers flexibility, allowing fellows to work on
+pre-identified projects or even propose their own innovative ideas. Alternatively,
+fellows can even choose a part-time consultancy to fit their schedule.</p>
+<h4>Smart Nation Scholarship</h4>
+<p>The <a href="https://www.tech.gov.sg/careers/students-and-graduates/smart-nation-scholarship/" rel="noopener noreferrer nofollow" target="_blank">Smart Nation Scholarship</a> offers
+promising individuals the opportunity to pursue a career in technology
+and contribute to Singapore's digital transformation. This scholarship
+provides financial support for tuition fees and living expenses, as well
+as opportunities for internships and mentorship. Upon graduation, scholars
+join a fast-tracked career path, gaining valuable experience and assuming
+leadership roles in various technology domains.</p>
+<p>If you're a Singapore Citizen or Permanent Resident with a knack for problem-solving
+and a desire to serve the public good, <a href="https://brightsparks.com.sg/profile/SNS/index.php" rel="noopener noreferrer nofollow" target="_blank">apply today</a> and
+be part of Singapore's Smart Nation transformation.</p>
+<h4>Smart Nation Educator Fellowship</h4>
+<p>The Singapore government, through the <a href="https://www.mddi.gov.sg/" rel="noopener noreferrer nofollow" target="_blank">Ministry of Digital Development and Information (MDDI)</a> and
+the Ministry of Education (MOE), is launching a new initiative to empower
+educators with the skills and knowledge needed to cultivate digital proficiency
+and cyber wellness among students. This initiative, known as the <a href="https://www.sgpc.gov.sg/api/file/getfile/6%20Smart%20Nation%20Educator%20Fellowship%20Factsheet_FINAL.pdf?path=/sgpcmedia/media_releases/mddi-ced/press_release/P-20241001-1/attachment/6%20Smart%20Nation%20Educator%20Fellowship%20Factsheet_FINAL.pdf" rel="noopener noreferrer nofollow" target="_blank">Smart Nation Educator Fellowship,</a> provides
+training, networking opportunities with experts, and a platform for educators
+to innovate and shape the future of education in Singapore by shaping the
+curriculum. By investing in educators, the government aims to create a
+digitally empowered generation of students.</p>
