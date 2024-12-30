@@ -80,3 +80,47 @@ trends, Singapore must adapt its strategies to harness these advancements
 effectively.</p>
 <h3>3 key goals of Smart Nation 2.0</h3>
 <p></p>
+<div class="isomer-card-grid">
+<div class="isomer-card">
+<div class="isomer-card-image">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Smart Nation 2.0 Goal Trust" src="/images/technews/SN2_0_Trust.png">
+</div>
+</div>
+<div class="isomer-card-body">
+<div class="isomer-card-title">Trust</div>
+<div class="isomer-card-description">Singaporeans should be able to confidently use digital tools, knowing
+their safety and privacy are protected and digital systems are reliable.</div>
+</div>
+</div>
+<div class="isomer-card">
+<div class="isomer-card-image">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Smart Nation 2.0 Goal Growth" src="/images/technews/SN2_0_Growth.png">
+</div>
+</div>
+<div class="isomer-card-body">
+<div class="isomer-card-title">Growth</div>
+<div class="isomer-card-description">Technology must be leveraged to empower individuals and businesses to
+learn, adapt, and develop new skills.</div>
+</div>
+</div>
+<div class="isomer-card">
+<div class="isomer-card-image">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Smart Nation 2.0 Goal Community" src="/images/technews/SN2_0_Community.png">
+</div>
+</div>
+<div class="isomer-card-body">
+<div class="isomer-card-title">Community</div>
+<div class="isomer-card-description">Technology can unite communities and strengthen society. A Smart Nation
+should foster social cohesion without leaving anyone behind.</div>
+</div>
+</div>
+</div>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
