@@ -258,6 +258,17 @@ also earn rewards for their contributions, and be part of a community that's
 driving positive change.</div>
 <div class="isomer-card-link">Find Out More</div>
 </div>
-</a><a rel="noopener noreferrer nofollow" href="https://www.tech.gov.sg/our-communities/join-our-communities/stack-community/" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="STACK Community" src="https://placehold.co/600x400"></div></div><div class="isomer-card-body"><div class="isomer-card-title">STACK Community: Knowledge Sharing and Partnerships</div><div class="isomer-card-description">The STACK Community is a vibrant network of tech enthusiasts and experts dedicated to building a smarter Singapore. Connect with like-minded individuals, attend conferences and meetups, and learn about the latest tech trends. </div><div class="isomer-card-link">Find Out More</div></div></a>
+</a><a rel="noopener noreferrer nofollow" href="https://www.tech.gov.sg/our-communities/join-our-communities/stack-community/" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="STACK Community" src="https://placehold.co/600x400"></div></div><div class="isomer-card-body"><div class="isomer-card-title">STACK Community: Knowledge Sharing and Partnerships</div><div class="isomer-card-description">The STACK Community is a vibrant network of tech enthusiasts and experts dedicated to building a smarter Singapore. Connect with like-minded individuals, attend conferences and meetups, and learn about the latest tech trends.</div><div class="isomer-card-link">Find Out More</div></div></a>
+</div>
+<p></p>
+<p><strong><u>STACK Developer Conference</u></strong>
+<br>
+<br>GovTech also hosts the <a href="https://www.developer.tech.gov.sg/communities/events/conferences/stack-developer-conference-2024/overview.html" rel="noopener noreferrer nofollow" target="_blank">STACK Developer Conference</a> biennially
+which brings together government agencies, industry leaders, and tech enthusiasts.
+This flagship event fosters collaboration, knowledge sharing, and innovation,
+driving the digital transformation of Singapore.</p>
+<p>Here are the highlights from the STACK 2024 Developer Conference:</p>
+<div class="iframe-wrapper">
+<iframe style="max-width: 100%;" height="400" width="100%" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/s-9796BXwz0?si=amH6UdFc8VVWx5I6"></iframe>
 </div>
 <p></p>
