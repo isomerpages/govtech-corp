@@ -246,11 +246,11 @@ also encouraged, empowering citizens to collaborate with the government
 to co-create digital solutions that address societal needs.</p>
 <p>Here are some government platforms where <strong>citizens can co-create:</strong>
 </p>
-<div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="https://www.tech.gov.sg/our-communities/join-our-communities/tech-kaki/" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Tech Kaki" src="https://placehold.co/600x400"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Tech Kaki: A Citizen Community for User-testing</div><div class="isomer-card-description">By providing valuable feedback and insights, Tech Kaki members contribute to the development of user-friendly and efficient digital services. Anyone can join the community and help shape the future of Singapore's digital services.</div><div class="isomer-card-link">Find Out More</div></div></a>
+<div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="https://www.tech.gov.sg/our-communities/join-our-communities/tech-kaki/" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Tech Kaki" src="/images/technews/TK_600x400.png"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Tech Kaki: A Citizen Community for User-testing</div><div class="isomer-card-description">By providing valuable feedback and insights, Tech Kaki members contribute to the development of user-friendly and efficient digital services. Anyone can join the community and help shape the future of Singapore's digital services.</div><div class="isomer-card-link">Find Out More</div></div></a>
 <a rel="noopener noreferrer nofollow" href="https://www.tech.gov.sg/products-and-services/for-citizens/crowdsourcing/crowdtasksg/" class="isomer-card">
 <div class="isomer-card-image">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="CrowdTaskSG" src="https://placehold.co/600x400">
+<img style="width: 100%" height="auto" width="100%" alt="CrowdTaskSG" src="/images/technews/CTSG_600x400.png">
 </div>
 </div>
 <div class="isomer-card-body">
@@ -261,7 +261,7 @@ also earn rewards for their contributions, and be part of a community that's
 driving positive change.</div>
 <div class="isomer-card-link">Find Out More</div>
 </div>
-</a><a rel="noopener noreferrer nofollow" href="https://www.tech.gov.sg/our-communities/join-our-communities/stack-community/" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="STACK Community" src="https://placehold.co/600x400"></div></div><div class="isomer-card-body"><div class="isomer-card-title">STACK Community: Knowledge Sharing and Partnerships</div><div class="isomer-card-description">The STACK Community is a vibrant network of tech enthusiasts and experts dedicated to building a smarter Singapore. Connect with like-minded individuals, attend conferences and meetups, and learn about the latest tech trends.</div><div class="isomer-card-link">Find Out More</div></div></a>
+</a><a rel="noopener noreferrer nofollow" href="https://www.tech.gov.sg/our-communities/join-our-communities/stack-community/" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="STACK Community" src="/images/technews/STACK_600x400.png"></div></div><div class="isomer-card-body"><div class="isomer-card-title">STACK Community: Knowledge Sharing and Partnerships</div><div class="isomer-card-description">The STACK Community is a vibrant network of tech enthusiasts and experts dedicated to building a smarter Singapore. Connect with like-minded individuals, attend conferences and meetups, and learn about the latest tech trends.</div><div class="isomer-card-link">Find Out More</div></div></a>
 </div>
 <p></p>
 <p><strong><u>STACK Developer Conference</u></strong>
