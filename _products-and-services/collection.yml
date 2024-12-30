@@ -1,0 +1,40 @@
+collections:
+  products-and-services:
+    output: true
+    order:
+      - Overview.md
+      - For Citizens/.keep
+      - For Citizens/Overview.md
+      - For Citizens/Crowdsourcing.md
+      - For Citizens/Digital Services.md
+      - For Citizens/Digital Storage and Verification.md
+      - For Citizens/Directories and Distribution.md
+      - For Citizens/Education.md
+      - For Citizens/Employment.md
+      - For Citizens/Environment.md
+      - For Citizens/Health.md
+      - For Citizens/Scam Prevention.md
+      - For Citizens/Smart City Tech.md
+      - For Businesses/.keep
+      - For Businesses/Overview.md
+      - For Businesses/Corporate Transactions.md
+      - For Businesses/Smart City Tech.md
+      - For Businesses/Trade Transactions.md
+      - For Government Agencies/.keep
+      - For Government Agencies/Overview.md
+      - For Government Agencies/Accessibility.md
+      - For Government Agencies/Cybersecurity.md
+      - For Government Agencies/Data and AI.md
+      - For Government Agencies/Digital Standards and Guides.md
+      - For Government Agencies/Digital Verification.md
+      - For Government Agencies/Government Transactions.md
+      - For Government Agencies/ICT and Infrastructure.md
+      - For Government Agencies/Knowledge and Training.md
+      - For Government Agencies/Productivity and Marketing.md
+      - For Government Agencies/Service Delivery.md
+      - For Government Agencies/Software Development.md
+      - Collaborate With Us/.keep
+      - Collaborate With Us/Overview.md
+      - Collaborate With Us/Government Collaboration.md
+      - Collaborate With Us/Industry Collaboration.md
+      - Collaborate With Us/International Collaboration.md
