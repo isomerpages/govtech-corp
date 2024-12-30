@@ -5,14 +5,13 @@ variant: tiptap
 description: The Build for Good hackathon empowers citizens to innovate,
   collaborate, and create impactful digital solutions for Singapore. Learn more.
 third_nav_title: Crowdsourcing
-image: /images/Products and Services/For citizens/Build_for_good_logo.png
+image: /images/technews/BFG_600x300.png
 ---
 <h2>Empowering citizens to make Singapore better with the Build for Good (BFG) initiative</h2>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 60%;" height="auto" width="100%" alt="Build for Good (BFG) hackathon logo" src="/images/Products and Services/For citizens/Build_for_good_logo.png">
+<img style="width: 100%" height="auto" width="100%" alt="Build for Good hackathon" src="/images/technews/BFG_600x300.png">
 </div>
-<p></p>
 <ul data-tight="true" class="tight">
 <li>
 <p>BFG is an initiative that empowers citizens to contribute to positive
