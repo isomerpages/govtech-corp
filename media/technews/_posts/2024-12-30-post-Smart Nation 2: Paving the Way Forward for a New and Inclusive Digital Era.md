@@ -63,3 +63,12 @@ for all.</p>
 </div>
 <h3>Why is Smart Nation 2.0 necessary?</h3>
 <p></p>
+<blockquote>
+<p>“In Smart Nation 1.0, we focused on building up capabilities and encouraging
+the use of technology. For our next phase, or Smart Nation 2.0, we aim
+to sharpen our focus and use technology more effectively to transform our
+future and shape our nation together.”</p>
+</blockquote>
+<p>- PM Lawrence Wong at the <a href="https://www.pmo.gov.sg/Newsroom/PM-Lawrence-Wong-at-the-Launch-of-Smart-Nation" rel="noopener noreferrer nofollow" target="_blank">launch of Smart Nation 2.0 in Oct 2024</a>
+</p>
+<p></p>
