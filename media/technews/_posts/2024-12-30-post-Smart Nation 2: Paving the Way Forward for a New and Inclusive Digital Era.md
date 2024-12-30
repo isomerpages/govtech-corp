@@ -119,7 +119,43 @@ should foster social cohesion without leaving anyone behind.</div>
 </div>
 </div>
 <p></p>
+<h4>Trust</h4>
+<p>Trust in Smart Nation 2.0 entails building confidence in digital systems
+through <a href="https://www.tech.gov.sg/our-capabilities/cybersecurity/" rel="noopener noreferrer nofollow" target="_blank">robust cybersecurity measures</a> to
+combat online harms, and initiatives to ensure safe digital experiences
+for all. Hence, laws and systems will also be updated to address new risks.</p>
+<p>An example of new legislation is the <a href="https://www.mddi.gov.sg/media-centre/press-releases/new-digital-infrastructure-act/" rel="noopener noreferrer nofollow" target="_blank">Digital Infrastructure Act (DIA)</a>,
+which will be introduced in 2025 and the establishment of a <a href="https://www.channelnewsasia.com/singapore/harmful-content-online-new-agency-cyberbullying-4603406" rel="noopener noreferrer nofollow" target="_blank">new government agency</a> to
+address emerging threats like non-consensual sharing of intimate images
+and cyberbullying.</p>
+<p>The DIA aims to make our digital systems, like data centres and <a href="https://www.tech.gov.sg/products-and-services/for-government-agencies/software-development/government-on-commercial-cloud/" rel="noopener noreferrer nofollow" target="_blank">cloud services</a>,
+more reliable and secure. This means protecting them from cyberattacks,
+as well as physical threats like fires or floods.</p>
+<p>The DIA would require companies to report incidents and meet certain security
+standards, helping to prevent disruptions and ensuring a smooth digital
+experience for everyone.Moreover, individuals must also be empowered with
+the knowledge and tools to use technology responsibly. This enables Singaporeans
+to navigate the digital landscape with confidence, assured that their safety
+and privacy are safeguarded.</p>
+<p>There are numerous government tools and systems to enhance the safety
+and security of Singaporeans. Examples include:</p>
 <p></p>
+<div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="https://www.tech.gov.sg/products-and-services/for-citizens/digital-services/singpass/" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Singpass" src="/images/Products and Services/For citizens/Singpass_600x300.png"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Singpass: Secure Digital Identity to Access Services</div><div class="isomer-card-description">Singpass is your trusted online ID for accessing online government and business services in Singapore. It provides secure login with biometrics or 2FA which protects your data and simplifies transactions.</div><div class="isomer-card-link">Find Out More</div></div></a>
+<a rel="noopener noreferrer nofollow" href="https://www.tech.gov.sg/products-and-services/for-citizens/scam-prevention/" class="isomer-card">
+<div class="isomer-card-image">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="SATIS" src="/images/Products and Services/For citizens/SATIS_logo.png">
+</div>
+</div>
+<div class="isomer-card-body">
+<div class="isomer-card-title">SATIS: Protecting Users from Online Scams</div>
+<div class="isomer-card-description">SATIS, powered by rMSE, is a powerful tool that leverages AI to safeguard
+users from online scams. They continuously scan the web, identify suspicious
+sites, and work with authorities to disrupt them.</div>
+<div class="isomer-card-link">Find Out More</div>
+</div>
+</a><a rel="noopener noreferrer nofollow" href="https://www.scamshield.gov.sg/" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="ScamShield" src="https://placehold.co/600x400"></div></div><div class="isomer-card-body"><div class="isomer-card-title">ScamShield: Your One-Stop Anti-Scam Partner </div><div class="isomer-card-description">ScamShield helps you fight scams by blocking scam calls and texts, checking suspicious websites and messages, and getting 24/7 helpline support. Stay informed and protected with ScamShield.</div><div class="isomer-card-link">Find Out More</div></div></a>
+</div>
 <p></p>
 <p></p>
 <p></p>
