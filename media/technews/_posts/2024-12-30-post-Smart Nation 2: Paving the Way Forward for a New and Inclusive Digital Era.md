@@ -159,6 +159,27 @@ sites, and work with authorities to disrupt them.</div>
 <p><em>Note: ScamShield’s capabilities have been upgraded. In addition to blocking calls and SMSes, users can also use the app to check if suspicious messages, phone numbers, and website links are scam-related before <a href="https://guide.scamshield.gov.sg/using-scamshield/submit-a-scam-report" rel="noopener noreferrer nofollow" target="_blank">making scam reports</a>. Reports can also be made by uploading screenshots.</em>
 </p>
 <p></p>
+<h4>Growth</h4>
+<p>Growth in Smart Nation 2.0 focuses on empowering individuals and businesses
+to harness technology for innovation and economic progress. This also involves
+significant investment in AI research to push the boundaries of science
+and innovation. For instance, the <a href="https://www.channelnewsasia.com/singapore/josephine-teo-mddi-smart-nation-20-goals-digital-strategy-digital-development-information-4656186" rel="noopener noreferrer nofollow" target="_blank">government has committed S$120 million</a> to
+the <a href="https://ai4science.sg/" rel="noopener noreferrer nofollow" target="_blank">"AI for Science" program</a> which
+encourages Interdisciplinary collaborations to foster breakthroughs in
+areas like biomedical and materials sciences.</p>
+<p>To prepare future generations, the government aims to equip students with
+hands-on experiences in emerging technologies and integrate AI into education,
+ensuring they have a solid foundation in AI and digital literacy. For businesses,
+especially SMEs, the focus is on helping them adopt AI tools and digital
+solutions to streamline operations and boost productivity, enabling them
+to stay competitive in a tech-driven world. Through these efforts, it ensures
+that progress is inclusive, with benefits shared widely across society.</p>
+<p><em>Note: For businesses interested in partnering with GovTech, check out how you can <a href="https://www.tech.gov.sg/products-and-services/collaborate-with-us/industry-collaboration/" rel="noopener noreferrer nofollow" target="_blank">collaborate with us</a> to help build our Smart Nation.</em>
+</p>
+<p>To help streamline processes and provide useful tools for growth, here
+are some of GovTech’s initiatives and products:</p>
+<p></p>
+<p></p>
 <p></p>
 <p></p>
 <p></p>
