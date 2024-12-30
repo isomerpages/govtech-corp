@@ -284,11 +284,11 @@ the public good, bringing them to life through prototypes. Alternatively,
 some hackathons also involve finding potential issues with present AI tools,
 thereby highlighting cybersecurity problems that must be addressed.</p>
 <p>Examples of such hackathons include:</p>
-<div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="https://www.tech.gov.sg/products-and-services/for-government-agencies/productivity-and-marketing/launchpad/" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="LAUNCH! Hackathon" src="https://placehold.co/600x400"></div></div><div class="isomer-card-body"><div class="isomer-card-title">LAUNCH! Hackathon: Igniting Innovation in the Public Sector</div><div class="isomer-card-description">Through collaboration and experimentation, LAUNCH! encourages the development of ideas and their transformation into reality. Through hackathons, idea sharing, and partnerships with industry leaders like Microsoft and AWS, LAUNCH! drives digital transformation and enhances public services.</div><div class="isomer-card-link">Find Out More</div></div></a>
+<div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="https://www.tech.gov.sg/products-and-services/for-government-agencies/productivity-and-marketing/launchpad/" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="LAUNCH! Hackathon" src="/images/technews/LAUNCH__600x300.png"></div></div><div class="isomer-card-body"><div class="isomer-card-title">LAUNCH! Hackathon: Igniting Innovation in the Public Sector</div><div class="isomer-card-description">Through collaboration and experimentation, LAUNCH! encourages the development of ideas and their transformation into reality. Through hackathons, idea sharing, and partnerships with industry leaders like Microsoft and AWS, LAUNCH! drives digital transformation and enhances public services.</div><div class="isomer-card-link">Find Out More</div></div></a>
 <a rel="noopener noreferrer nofollow" href="https://www.tech.gov.sg/media/events/singapore-ai-ctf-2024/" class="isomer-card">
 <div class="isomer-card-image">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Singapore AI CTF" src="https://placehold.co/600x400">
+<img style="width: 100%" height="auto" width="100%" alt="Singapore AI CTF" src="/images/technews/AI_CTF_600x300.png">
 </div>
 </div>
 <div class="isomer-card-body">
@@ -302,11 +302,11 @@ community.</div>
 </a>
 </div>
 <p></p>
-<div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="https://www.tech.gov.sg/products-and-services/for-citizens/crowdsourcing/build-for-good-hackathon/" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Build for Good (BFG)" src="https://placehold.co/600x400"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Build for Good (BFG): Empowering Citizens to Shape Singapore's Future</div><div class="isomer-card-description">BFG empowers citizens to contribute to positive change in Singapore. Through hackathons, accelerators, and a vibrant community, individuals can collaborate on innovative solutions to address pressing social and environmental issues. Any citizen can join the movement and make a difference!</div><div class="isomer-card-link">Find Out More</div></div></a>
+<div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="https://www.tech.gov.sg/products-and-services/for-citizens/crowdsourcing/build-for-good-hackathon/" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Build for Good (BFG)" src="/images/technews/BFG_600x300.png"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Build for Good (BFG): Empowering Citizens to Shape Singapore's Future</div><div class="isomer-card-description">BFG empowers citizens to contribute to positive change in Singapore. Through hackathons, accelerators, and a vibrant community, individuals can collaborate on innovative solutions to address pressing social and environmental issues. Any citizen can join the movement and make a difference!</div><div class="isomer-card-link">Find Out More</div></div></a>
 <a rel="noopener noreferrer nofollow" href="https://hack.gov.sg/" class="isomer-card">
 <div class="isomer-card-image">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Hack for Public Good (HFPG)" src="https://placehold.co/600x400">
+<img style="width: 100%" height="auto" width="100%" alt="Hack for Public Good (HFPG)" src="/images/technews/HFPG_600x300.png">
 </div>
 </div>
 <div class="isomer-card-body">
