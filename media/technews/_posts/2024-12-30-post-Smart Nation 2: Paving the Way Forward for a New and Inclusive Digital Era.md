@@ -61,7 +61,5 @@ for all.</p>
 <div class="iframe-wrapper">
 <iframe style="max-width: 100%;" height="400" width="100%" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/3KVb3pRy_3E?si=-PF6_4dk0Ph9G4Jj"></iframe>
 </div>
-<p></p>
-<p></p>
-<p></p>
+<h3>Why is Smart Nation 2.0 necessary?</h3>
 <p></p>
