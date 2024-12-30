@@ -235,4 +235,12 @@ building a future where everyone benefits from it.</p>
 <iframe style="max-width: 100%;" height="400" width="100%" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/uGwYbcVo_yk?si=YRPfynffa60_2Vff"></iframe>
 </div>
 <p></p>
+<p>By bridging divides, nurturing empathy towards one another, and leveraging
+technology for social good, Smart Nation 2.0 ensures that digital progress
+unites and enriches Singapore's diverse society.</p>
+<p>Furthermore, <a href="https://www.smartnation.gov.sg/community/community-projects/my-favourite-days/" rel="noopener noreferrer nofollow" target="_blank">community-driven projects</a> are
+also encouraged, empowering citizens to collaborate with the government
+to co-create digital solutions that address societal needs.</p>
+<p>Here are some government platforms where <strong>citizens can co-create:</strong>
+</p>
 <p></p>
