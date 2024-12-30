@@ -272,3 +272,12 @@ driving the digital transformation of Singapore.</p>
 <iframe style="max-width: 100%;" height="400" width="100%" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/s-9796BXwz0?si=amH6UdFc8VVWx5I6"></iframe>
 </div>
 <p></p>
+<p><strong><u>Hackathons</u></strong>
+</p>
+<p>In addition to Developer Conferences, GovTech and <a href="https://www.open.gov.sg/" rel="noopener noreferrer nofollow" target="_blank">Open Government Products (OGP)</a> also
+host hackathons. These hackathons provide citizens and public officers
+the opportunity to innovate and collaborate on their own ideas that serve
+the public good, bringing them to life through prototypes. Alternatively,
+some hackathons also involve finding potential issues with present AI tools,
+thereby highlighting cybersecurity problems that must be addressed.</p>
+<p>Examples of such hackathons include:</p>
