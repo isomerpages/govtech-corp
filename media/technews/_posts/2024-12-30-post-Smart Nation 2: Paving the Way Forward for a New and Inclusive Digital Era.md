@@ -154,8 +154,11 @@ users from online scams. They continuously scan the web, identify suspicious
 sites, and work with authorities to disrupt them.</div>
 <div class="isomer-card-link">Find Out More</div>
 </div>
-</a><a rel="noopener noreferrer nofollow" href="https://www.scamshield.gov.sg/" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="ScamShield" src="https://placehold.co/600x400"></div></div><div class="isomer-card-body"><div class="isomer-card-title">ScamShield: Your One-Stop Anti-Scam Partner </div><div class="isomer-card-description">ScamShield helps you fight scams by blocking scam calls and texts, checking suspicious websites and messages, and getting 24/7 helpline support. Stay informed and protected with ScamShield.</div><div class="isomer-card-link">Find Out More</div></div></a>
+</a><a rel="noopener noreferrer nofollow" href="https://www.scamshield.gov.sg/" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="ScamShield" src="https://placehold.co/600x400"></div></div><div class="isomer-card-body"><div class="isomer-card-title">ScamShield: Your One-Stop Anti-Scam Partner</div><div class="isomer-card-description">ScamShield helps you fight scams by blocking scam calls and texts, checking suspicious websites and messages, and getting 24/7 helpline support. Stay informed and protected with ScamShield.</div><div class="isomer-card-link">Find Out More</div></div></a>
 </div>
+<p><em>Note: ScamShield’s capabilities have been upgraded. In addition to blocking calls and SMSes, users can also use the app to check if suspicious messages, phone numbers, and website links are scam-related before <a href="https://guide.scamshield.gov.sg/using-scamshield/submit-a-scam-report" rel="noopener noreferrer nofollow" target="_blank">making scam reports</a>. Reports can also be made by uploading screenshots.</em>
+</p>
+<p></p>
 <p></p>
 <p></p>
 <p></p>
