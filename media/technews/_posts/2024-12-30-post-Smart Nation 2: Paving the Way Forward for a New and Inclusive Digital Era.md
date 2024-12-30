@@ -231,6 +231,8 @@ teach tech skills, encourage safe online practices, and support a healthy
 balance between digital and offline life.</p>
 <p>The DfL movement isn't just about embracing technology, it's also about
 building a future where everyone benefits from it.</p>
-<p></p>
+<div class="iframe-wrapper">
+<iframe style="max-width: 100%;" height="400" width="100%" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/uGwYbcVo_yk?si=YRPfynffa60_2Vff"></iframe>
+</div>
 <p></p>
 <p></p>
