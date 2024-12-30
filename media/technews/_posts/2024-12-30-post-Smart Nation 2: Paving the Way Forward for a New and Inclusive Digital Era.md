@@ -143,11 +143,11 @@ and privacy are safeguarded.</p>
 <p>Here are some examples of government tools and systems <strong>to enhance the safety and security of Singaporeans:</strong>
 </p>
 <p></p>
-<div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="https://www.tech.gov.sg/products-and-services/for-citizens/digital-services/singpass/" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Singpass" src="/images/Products and Services/For citizens/Singpass_600x300.png"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Singpass: Secure Digital Identity to Access Services</div><div class="isomer-card-description">Singpass is your trusted online ID for accessing online government and business services in Singapore. It provides secure login with biometrics or 2FA which protects your data and simplifies transactions.</div><div class="isomer-card-link">Find Out More</div></div></a>
+<div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="https://www.tech.gov.sg/products-and-services/for-citizens/digital-services/singpass/" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Singpass" src="/images/technews/Singpass_600x400.png"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Singpass: Secure Digital Identity to Access Services</div><div class="isomer-card-description">Singpass is your trusted online ID for accessing online government and business services in Singapore. It provides secure login with biometrics or 2FA which protects your data and simplifies transactions.</div><div class="isomer-card-link">Find Out More</div></div></a>
 <a rel="noopener noreferrer nofollow" href="https://www.tech.gov.sg/products-and-services/for-citizens/scam-prevention/" class="isomer-card">
 <div class="isomer-card-image">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="SATIS" src="/images/Products and Services/For citizens/SATIS_logo.png">
+<img style="width: 100%" height="auto" width="100%" alt="SATIS" src="/images/technews/SATIS_600x400.png">
 </div>
 </div>
 <div class="isomer-card-body">
@@ -157,7 +157,7 @@ users from online scams. They continuously scan the web, identify suspicious
 sites, and work with authorities to disrupt them.</div>
 <div class="isomer-card-link">Find Out More</div>
 </div>
-</a><a rel="noopener noreferrer nofollow" href="https://www.scamshield.gov.sg/" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="ScamShield" src="https://placehold.co/600x400"></div></div><div class="isomer-card-body"><div class="isomer-card-title">ScamShield: Your One-Stop Anti-Scam Partner</div><div class="isomer-card-description">ScamShield helps you fight scams by blocking scam calls and texts, checking suspicious websites and messages, and getting 24/7 helpline support. Stay informed and protected with ScamShield.</div><div class="isomer-card-link">Find Out More</div></div></a>
+</a><a rel="noopener noreferrer nofollow" href="https://www.scamshield.gov.sg/" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="ScamShield" src="/images/technews/ScamShield_600x400.png"></div></div><div class="isomer-card-body"><div class="isomer-card-title">ScamShield: Your One-Stop Anti-Scam Partner</div><div class="isomer-card-description">ScamShield helps you fight scams by blocking scam calls and texts, checking suspicious websites and messages, and getting 24/7 helpline support. Stay informed and protected with ScamShield.</div><div class="isomer-card-link">Find Out More</div></div></a>
 </div>
 <p><em>Note: ScamShield’s capabilities have been upgraded. In addition to blocking calls and SMSes, users can also use the app to check if suspicious messages, phone numbers, and website links are scam-related before <a href="https://guide.scamshield.gov.sg/using-scamshield/submit-a-scam-report" rel="noopener noreferrer nofollow" target="_blank">making scam reports</a>. Reports can also be made by uploading screenshots.</em>
 </p>
@@ -181,11 +181,11 @@ that progress is inclusive, with benefits shared widely across society.</p>
 </p>
 <p><strong>To help streamline processes and provide useful tools for growth,</strong> here
 are some of GovTech’s initiatives and products:</p>
-<div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="https://www.tech.gov.sg/products-and-services/for-government-agencies/software-development/sg-tech-stack/" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="SG Tech Stack" src="https://placehold.co/600x400"></div></div><div class="isomer-card-body"><div class="isomer-card-title">SG Tech Stack: Accelerating Digital Transformation</div><div class="isomer-card-description">SGTS is a platform that empowers government agencies to build secure and efficient digital services. By providing a suite of pre-built tools and best practices, SGTS streamlines development, reduces costs, and accelerates time-to-market.</div><div class="isomer-card-link">Find Out More</div></div></a>
+<div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="https://www.tech.gov.sg/products-and-services/for-government-agencies/software-development/sg-tech-stack/" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="SG Tech Stack" src="/images/technews/SGTS_600x400__2_.png"></div></div><div class="isomer-card-body"><div class="isomer-card-title">SG Tech Stack: Accelerating Digital Transformation</div><div class="isomer-card-description">SGTS is a platform that empowers government agencies to build secure and efficient digital services. By providing a suite of pre-built tools and best practices, SGTS streamlines development, reduces costs, and accelerates time-to-market.</div><div class="isomer-card-link">Find Out More</div></div></a>
 <a rel="noopener noreferrer nofollow" href="https://www.tech.gov.sg/products-and-services/for-businesses/corporate-transactions/gobusiness/" class="isomer-card">
 <div class="isomer-card-image">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="GoBusiness" src="https://placehold.co/600x400">
+<img style="width: 100%" height="auto" width="100%" alt="GoBusiness" src="/images/technews/GoBusiness_600x400.png">
 </div>
 </div>
 <div class="isomer-card-body">
@@ -195,16 +195,16 @@ are some of GovTech’s initiatives and products:</p>
 on various business needs and simplify one’s business journey.</div>
 <div class="isomer-card-link">Find Out More</div>
 </div>
-</a><a rel="noopener noreferrer nofollow" href="https://www.tech.gov.sg/products-and-services/for-citizens/employment/career-kaki/" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Career Kaki" src="https://placehold.co/600x400"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Career Kaki: Your AI Career Coach</div><div class="isomer-card-description">Career Kaki is your AI-powered career coach. Receive personalised recommendations on jobs, courses, and resources tailored to your unique profile. Get expert advice on career paths and job application strategies. Gain the insights needed to achieve your career goals.</div><div class="isomer-card-link">Find Out More</div></div></a>
+</a><a rel="noopener noreferrer nofollow" href="https://www.tech.gov.sg/products-and-services/for-citizens/employment/career-kaki/" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Career Kaki" src="/images/technews/CareerKaki_600x400.png"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Career Kaki: Your AI Career Coach</div><div class="isomer-card-description">Career Kaki is your AI-powered career coach. Receive personalised recommendations on jobs, courses, and resources tailored to your unique profile. Get expert advice on career paths and job application strategies. Gain the insights needed to achieve your career goals.</div><div class="isomer-card-link">Find Out More</div></div></a>
 </div>
 <p></p>
 <p><strong>To develop local talent and help with skills training, </strong>here
 are some government programmes for businesses and Singaporeans of all ages:</p>
-<div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="https://aiap.sg/apprenticeship/" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="AI Apprenticeship Programme (AIAP)" src="https://placehold.co/600x400"></div></div><div class="isomer-card-body"><div class="isomer-card-title">AI Apprenticeship Programme (AIAP)</div><div class="isomer-card-description">The AIAP was formed to identify, train and groom local talents to become AI specialists. Apprentices will gain hands-on AI experience, learning ML and software engineering to deploy models. AIAP is recognised as a leading AI deep-skilling programme in Singapore and globally.</div><div class="isomer-card-link">Find Out More</div></div></a>
+<div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="https://aiap.sg/apprenticeship/" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="AI Apprenticeship Programme (AIAP)" src="/images/technews/AIAP_600x400.png"></div></div><div class="isomer-card-body"><div class="isomer-card-title">AI Apprenticeship Programme (AIAP)</div><div class="isomer-card-description">The AIAP was formed to identify, train and groom local talents to become AI specialists. Apprentices will gain hands-on AI experience, learning ML and software engineering to deploy models. AIAP is recognised as a leading AI deep-skilling programme in Singapore and globally.</div><div class="isomer-card-link">Find Out More</div></div></a>
 <a rel="noopener noreferrer nofollow" href="https://www.imda.gov.sg/how-we-can-help/smes-go-digital" class="isomer-card">
 <div class="isomer-card-image">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="SMEs Go Digital" src="https://placehold.co/600x400">
+<img style="width: 100%" height="auto" width="100%" alt="SMEs Go Digital" src="/images/technews/SME_digital_600x400.png">
 </div>
 </div>
 <div class="isomer-card-body">
@@ -215,7 +215,7 @@ and drive growth with technology. SMEs can also opt for industry-specific
 assistance.</div>
 <div class="isomer-card-link">Find Out More</div>
 </div>
-</a><a rel="noopener noreferrer nofollow" href="https://www.imda.gov.sg/how-we-can-help/code-for-fun" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Code for Fun" src="https://placehold.co/600x400"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Code for Fun</div><div class="isomer-card-description">Code for Fun exposes students to coding, digital making, and AI. It equips them with computational thinking, creativity, and responsible technology use for success in the digital future. From 2025, AI for Fun modules offer additional learning in generative AI and smart robots.</div><div class="isomer-card-link">Find Out More</div></div></a>
+</a><a rel="noopener noreferrer nofollow" href="https://www.imda.gov.sg/how-we-can-help/code-for-fun" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Code for Fun" src="/images/technews/Code_For_Fun_600x400.png"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Code for Fun</div><div class="isomer-card-description">Code for Fun exposes students to coding, digital making, and AI. It equips them with computational thinking, creativity, and responsible technology use for success in the digital future. From 2025, AI for Fun modules offer additional learning in generative AI and smart robots.</div><div class="isomer-card-link">Find Out More</div></div></a>
 </div>
 <p></p>
 <p><em>For a more comprehensive list of resources available, check out <a href="https://www.smartnation.gov.sg/resources/residents/" rel="noopener noreferrer nofollow" target="_blank">Smart Nation resources (for residents, businesses, and developers)</a> and other <a href="https://www.smartnation.gov.sg/nais/contribute/" rel="noopener noreferrer nofollow" target="_blank">AI-related programmes</a>.</em>
