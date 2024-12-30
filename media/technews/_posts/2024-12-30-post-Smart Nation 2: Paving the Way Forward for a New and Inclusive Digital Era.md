@@ -348,5 +348,42 @@ to innovate and shape the future of education in Singapore by shaping the
 curriculum. By investing in educators, the government aims to create a
 digitally empowered generation of students.</p>
 <h3>What to expect from Smart Nation 2.0 moving forward</h3>
+<p>Smart Nation 2.0 aims to build a trustworthy, growing and connected Singapore.
+It will focus on using technology to improve citizens' lives, address emerging
+challenges, and foster community-building.</p>
+<p>The strategies are likened to a ‘living document’ where they will be continually
+refined and adjusted based on feedback and technological advancements.
+However, the goals of Trust, Growth, and Community will continue to guide
+responses to digital developments, even as strategies change.</p>
+<p>As PM Lawrence Wong mentioned in his speech at the <a href="https://www.pmo.gov.sg/Newsroom/PM-Lawrence-Wong-at-the-Launch-of-Smart-Nation" rel="noopener noreferrer nofollow" target="_blank">launch of Smart Nation 2.0</a>:</p>
+<blockquote>
+<p>“We have done well as a Smart Nation. But we must never think that we
+have arrived. Technology is advancing rapidly, and our operating environment
+is ever changing. So we have to keep pace, stay abreast of the latest developments,
+and continually strive to do better.”</p>
+</blockquote>
+<p>Despite the uncertainty that lies ahead, we at GovTech believe that the
+future of Singapore is bright. By embracing technology and innovation,
+we can overcome challenges, seize opportunities, and create a better future
+for all. Let us work together to build a Smart Nation that we can all be
+proud of.</p>
+<hr>
+<h3>Related articles:</h3>
+<ol data-tight="true" class="tight">
+<li>
+<p><a href="https://www.tech.gov.sg/media/technews/driving-singapore-progress-with-technology-pit-stops-for-smarter-faster-services/" rel="noopener noreferrer nofollow" target="_blank">Driving Singapore’s Progress with Technology: Pit Stops for Smarter, Faster Services</a>
+</p>
+</li>
+<li>
+<p><a href="https://www.tech.gov.sg/media/technews/transforming-public-services-through-design-insights-from-lillian-shieh/" rel="noopener noreferrer nofollow" target="_blank">Transforming Public Services Through Design: Insights from Lillian Shieh</a>
+</p>
+</li>
+<li>
+<p><a href="https://www.tech.gov.sg/media/technews/digital-services-awards-2024/" rel="noopener noreferrer nofollow" target="_blank">Digital Services Awards 2024: Celebrating Impactful Innovation in Singapore’s Smart Nation Journey</a>
+</p>
+</li>
+</ol>
+<hr>
+<p></p>
 <p></p>
 <p></p>
