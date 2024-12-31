@@ -308,7 +308,19 @@ Digital Transformation</div>
 <div class="isomer-card-description">Senior Director, People and Organisation Division, Strategy, Corporate
 &amp; Governance</div>
 </div>
-</div><a rel="noopener noreferrer nofollow" href="https://www.isomer.gov.sg" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Eyung Lim" src="/images/our-team/Eyung_Lim_GT.png"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Mr Eyung LIM</div><div class="isomer-card-description">Senior Director, Apps (Digital Society) and Social Platform Products, Government Digital Products</div><div class="isomer-card-link">This is a link for your card</div></div></a>
+</div>
+<div class="isomer-card">
+<div class="isomer-card-image">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Eyung Lim" src="/images/our-team/Eyung_Lim_GT.png">
+</div>
+</div>
+<div class="isomer-card-body">
+<div class="isomer-card-title">Mr Eyung LIM</div>
+<div class="isomer-card-description">Senior Director, Apps (Digital Society) and Social Platform Products,
+Government Digital Products</div>
+</div>
+</div>
 </div>
 <div class="isomer-card-grid">
 <div class="isomer-card">
