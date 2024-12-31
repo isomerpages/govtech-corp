@@ -209,18 +209,6 @@ Chief Executive, Cybersecurity, Trusted Infrastructure Services</div>
 <div class="isomer-card">
 <div class="isomer-card-image">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="GovTech leader Tan Bee Teck" src="/images/About Us/TAN_Bee_Teck.jpg">
-</div>
-</div>
-<div class="isomer-card-body">
-<div class="isomer-card-title">Mr TAN Bee Teck</div>
-<div class="isomer-card-description">Assistant Chief Executive, Central Administration and Social, Government
-Digital Transformation</div>
-</div>
-</div>
-<div class="isomer-card">
-<div class="isomer-card-image">
-<div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="GovTech leader Tan Eng Pheng" src="/images/About Us/TAN_Eng_Pheng.jpg">
 </div>
 </div>
@@ -240,6 +228,29 @@ Digital Transformation</div>
 <div class="isomer-card-title">Mr Ivan TAN</div>
 <div class="isomer-card-description">Assistant Chief Executive, Designate - Economic and National Development,
 Government Digital Transformation</div>
+</div>
+</div>
+<div class="isomer-card">
+<div class="isomer-card-image">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="GovTech leader Tan Bee Teck" src="/images/About Us/TAN_Bee_Teck.jpg">
+</div>
+</div>
+<div class="isomer-card-body">
+<div class="isomer-card-title">Mr TAN Bee Teck</div>
+<div class="isomer-card-description">Assistant Chief Executive, Central Administration and Social, Government
+Digital Transformation</div>
+</div>
+</div>
+<div class="isomer-card">
+<div class="isomer-card-image">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Tan Pei En" src="/images/our-team/Tan_Pei_En.png">
+</div>
+</div>
+<div class="isomer-card-body">
+<div class="isomer-card-title">Mr TAN Pei En</div>
+<div class="isomer-card-description">Assistant Chief Executive, Data &amp; AI, Government Technology Office</div>
 </div>
 </div>
 <div class="isomer-card">
@@ -286,8 +297,6 @@ Government Digital Transformation</div>
 <div class="isomer-card-description">Senior Director, Apps Products, Government Digital Products</div>
 </div>
 </div>
-</div>
-<div class="isomer-card-grid">
 <div class="isomer-card">
 <div class="isomer-card-image">
 <div class="isomer-image-wrapper">
@@ -303,7 +312,7 @@ Government Digital Transformation</div>
 <div class="isomer-card">
 <div class="isomer-card-image">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Mr Eyung Lim" src="/images/our-team/Eyung_Lim_GT.png">
+<img style="width: 100%" height="auto" width="100%" alt="Eyung Lim" src="/images/our-team/Eyung_Lim_GT.png">
 </div>
 </div>
 <div class="isomer-card-body">
@@ -312,6 +321,8 @@ Government Digital Transformation</div>
 Government Digital Products</div>
 </div>
 </div>
+</div>
+<div class="isomer-card-grid">
 <div class="isomer-card">
 <div class="isomer-card-image">
 <div class="isomer-image-wrapper">
