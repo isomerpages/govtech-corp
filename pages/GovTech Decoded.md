@@ -110,6 +110,32 @@ to focus on creativity, reduce complexities, and ensure security and compliance.
 </p>
 </td>
 </tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="GovTech Decoded Ep 4: Scaling with Tech Stacks" src="/images/Decoded/Ep_4_Spotify_Cover.png">
+</div>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Ep4: Scaling with Tech Stacks</strong>
+</p>
+<p></p>
+<p>A tech stack provides a standardised and modular foundation that helps
+to streamline development and operations. As a user of the <a href="https://www.developer.tech.gov.sg/singapore-government-tech-stack/" rel="noopener nofollow" target="_blank">Singapore Government Tech Stack (SGTS)</a>,
+Charis Anne Lim shares how her team at <a href="https://go.gov.sg/gathersg-decoded" rel="noopener nofollow" target="_blank">GatherSG</a> leverages and benefits
+from it.</p>
+<p>
+<br>Liyana Fauzi shared a checklist for techies to consider if they are building
+a tech stack, and revealed the next stretch goal to elevate engineering
+productivity within the Singapore government.
+<br>
+</p>
+<p><a href="https://go.gov.sg/govtechdecoded-from-website-ep4" rel="noopener nofollow" target="_blank">Watch on YouTube</a> |
+<a href="https://go.gov.sg/govtechdecoded-spotify-ep4" rel="noopener nofollow" target="_blank">Listen on Spotify</a>| <a href="/files/GovTech Decoded/Ep_4__Scaling_with_Tech_Stacks__docx.pdf" rel="noopener noreferrer nofollow" target="_blank">Episode 4 Transcript</a>
+</p>
+</td>
+</tr>
 </tbody>
 </table>
 <p>Share your ideas and feedback about GovTech Decoded vodcast series at
