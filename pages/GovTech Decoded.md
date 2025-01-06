@@ -124,8 +124,7 @@ to focus on creativity, reduce complexities, and ensure security and compliance.
 <p>A tech stack provides a standardised and modular foundation that helps
 to streamline development and operations. As a user of the <a href="https://www.developer.tech.gov.sg/singapore-government-tech-stack/" rel="noopener nofollow" target="_blank">Singapore Government Tech Stack (SGTS)</a>,
 Charis Anne Lim shares how her team at <a href="https://go.gov.sg/gathersg-decoded" rel="noopener nofollow" target="_blank">GatherSG</a> leverages and benefits
-from it.</p>
-<p>
+from it.
 <br>Liyana Fauzi shared a checklist for techies to consider if they are building
 a tech stack, and revealed the next stretch goal to elevate engineering
 productivity within the Singapore government.
