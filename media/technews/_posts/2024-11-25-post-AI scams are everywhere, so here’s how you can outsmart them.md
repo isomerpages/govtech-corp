@@ -72,7 +72,7 @@ worldwide on supported browsers like Chrome, Firefox, and Safari.&nbsp;</p>
 <p>As of October 2024, over 59,000 harmful sites – ranging from job scams
 to bogus e-commerce portals – have been disrupted.</p>
 <hr>
-<h3>&nbsp;Keeping yourself safe</h3>
+<h3>Keeping yourself safe</h3>
 <p>Although the Government is proactively fighting scams, we must also do
 our part by protecting ourselves.&nbsp;</p>
 <h4>Get the ScamShield app</h4>
