@@ -102,7 +102,7 @@ responses on admin matters, in a consolidated digital form.</div>
 an inclusive society for all citizens and enhance the well-being of vulnerable
 communities, such as persons with disabilities (PWDs) and the elderly.</p>
 <div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="/products-and-services/for-citizens/smart-city-tech/" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Personal Alert Button (PAB) logo" src="/images/Digital Gov Efforts/PAB_600x400.png"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Personal Alert Button (PAB)</div><div class="isomer-card-description">A responsive device that can be installed in an elderly's home and enables seniors to live safely through round-the-clock monitoring and assistance.</div><div class="isomer-card-link">Explore PAB</div></div></a>
-<a rel="noopener noreferrer nofollow" href="https://www.developer.tech.gov.sg/products/categories/sensor-platforms-and-internet-of-things/epad/overview.html" class="isomer-card">
+<div class="isomer-card">
 <div class="isomer-card-image">
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="ePAD logo" src="/images/Digital Gov Efforts/ePad_600x400.jpg">
@@ -112,9 +112,20 @@ communities, such as persons with disabilities (PWDs) and the elderly.</p>
 <div class="isomer-card-title">ePAD</div>
 <div class="isomer-card-description">An assistive digital technology that enables PWDs to carry out photography
 and videography despite limited mobility in their upper limbs.</div>
-<div class="isomer-card-link">Learn more on SGDP</div>
 </div>
-</a><a rel="noopener noreferrer nofollow" href="https://www.developer.tech.gov.sg/products/categories/sensor-platforms-and-internet-of-things/ecanvas/overview.html" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="eCanvas logo" src="/images/Digital Gov Efforts/eCanvas_600x400.jpg"></div></div><div class="isomer-card-body"><div class="isomer-card-title">eCanvas</div><div class="isomer-card-description">A voice-controlled assistive technology that provides support and greater independence for special needs users who have a passion for painting.</div><div class="isomer-card-link">Learn more on SGDP</div></div></a>
+</div>
+<div class="isomer-card">
+<div class="isomer-card-image">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="eCanvas logo" src="/images/Digital Gov Efforts/eCanvas_600x400.jpg">
+</div>
+</div>
+<div class="isomer-card-body">
+<div class="isomer-card-title">eCanvas</div>
+<div class="isomer-card-description">A voice-controlled assistive technology that provides support and greater
+independence for special needs users who have a passion for painting.</div>
+</div>
+</div>
 </div>
 <h3>How we supported Singaporeans through COVID-19</h3>
 <p>National portals and initiatives were successfully implemented as a result
