@@ -68,8 +68,6 @@ or payment details.</p>
 and customer service officers know better than to ask for it, so if they
 do, it’s a dead giveaway that they are malicious actors, no matter how
 professional or helpful they sound.</p>
-<p>Requesting for your OTP is a common tactic that cuts across&nbsp;<a href="https://www.scamalert.sg/scam-signs-otp-requests" class="editor-rtfLink" rel="noopener noreferrer nofollow" target="_blank">different kinds</a>&nbsp;of
-scams, so watch out for this!</p>
 <h3>Update your apps and device’s operating system</h3>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="Always update your apps and operating system to avoid security vulnerabilities" src="/images/technews/Software_update___Safe_Online_Shopping.jpg">
