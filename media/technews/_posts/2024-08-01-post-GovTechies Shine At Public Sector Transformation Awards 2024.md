@@ -12,12 +12,12 @@ variant: tiptap
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="Public Sector Transformation Awards 2024" src="/images/technews/PST_Awards_2024.png">
 </div>
-<p>The <a href="https://www.publicserviceweek.gov.sg/pstac-2024/" rel="noopener noreferrer nofollow" target="_blank">Public Sector Transformation Awards Ceremony</a> on
-10th July 2024 was a momentous occasion where public officers and agencies
-were honoured for their exceptional contributions. It fills us with pride
-to witness the dedication of our GovTechies, both as individuals and teams,
-as they go above and beyond, collaborating closely with other agencies
-to deliver impactful tech solutions for the public good.</p>
+<p>The Public Sector Transformation Awards Ceremony on 10<sup>th</sup> July
+2024 was a momentous occasion where public officers and agencies were honoured
+for their exceptional contributions. It fills us with pride to witness
+the dedication of our GovTechies, both as individuals and teams, as they
+go above and beyond, collaborating closely with other agencies to deliver
+impactful tech solutions for the public good.</p>
 <p>Here's a glimpse of the remarkable projects that have earned well-deserved
 recognition for their outstanding contributions. Congratulations to all
 the award recipients for their exceptional service and contributions!</p>

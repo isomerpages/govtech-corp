@@ -20,7 +20,7 @@ cool smart city projects to back it up.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="Outline of Seoul at night with the bird's eye view" src="/images/technews/Smart_Cities_around_the_World_Seoul.jpg">
 </div>
-<p><em>Find out how Koreans are using technology to improve their transport systems! </em>
+<p><em>Find out how Koreans are using technology to improve their transport systems!</em>
 </p>
 <h3>The Owl Bus and mobile data</h3>
 <p>In Korea, their ‘Night Rider’ buses get the objectively cooler name of&nbsp;
@@ -56,9 +56,6 @@ sensors are sent to several care service centres for real-time monitoring
 – and also a mobile app for caregivers. If no movement is detected for
 a prolonged period of time, caregivers will be alerted to either make a
 call or make a house visit.</p>
-<p>As of last year,&nbsp;<a href="https://www.donga.com/en/article/all/20200306/1997981/1/Seoul-to-increase-smart-IoT-devices-to-care-for-the-elderly" class="editor-rtfLink" rel="noopener noreferrer nofollow" target="_blank">5,000 households</a>&nbsp;are
-already equipped with these devices, and the intention is to increase this
-number by 2,500 every year till 2023.</p>
 <h3>Songdo, the smart district</h3>
 <p>One major challenge that cities face in the transition to a Smart City
 is that many of them were conceived in an era where the concept of Smart
