@@ -1,0 +1,34 @@
+logo: /images/logo_govtech_hort.gif
+links:
+  - title: About Us
+    collection: about-us
+  - title: Products And Services
+    collection: products-and-services
+  - title: Careers
+    url: /careers/why-join-govtech/overview/
+    sublinks:
+      - title: Why Join GovTech
+        url: /careers/why-join-govtech/overview/
+      - title: "Opportunities: Professionals"
+        url: /careers/opportunities-for-professionals/overview/
+      - title: Students and Graduates
+        url: /careers/students-and-graduates/overview/
+      - title: Apply For Jobs
+        url: https://careers.tech.gov.sg/careers/SearchJobs
+  - title: Media
+    url: /media
+    sublinks:
+      - title: TechNews
+        url: /media/technews
+      - title: Media Releases
+        url: /media/media-releases
+      - title: Featured Articles
+        url: /media/featured-articles
+      - title: Events
+        url: /media/events
+      - title: Reports and Speeches
+        url: /media/reports-and-speeches
+  - title: Our Communities
+    collection: our-communities
+  - title: Contact Us
+    url: /contact-us
