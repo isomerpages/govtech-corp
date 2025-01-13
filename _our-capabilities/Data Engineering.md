@@ -10,7 +10,7 @@ image: /images/About Us/Our capabilities/data_engineering_600x400.png
 <h3>What we do</h3>
 <p>The Data Engineering Practice (DP) serves as a main conduit for the transference
 of data engineering expertise to the public sector, enabling agencies to
-expand the quality, availability and accessibility of their data. At DP,
+expand the quality, availability, and accessibility of their data. At DP,
 we focus on three key areas to deliver great products for the <a href="/our-digital-government-efforts/" rel="noopener nofollow" target="_blank">Digital Government</a>:</p>
 <h4>1. Exploring Technologies to conduct proof of concepts (POC)</h4>
 <p>This involves evaluating emerging tools and methodologies to enhance our
