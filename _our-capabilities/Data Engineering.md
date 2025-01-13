@@ -56,3 +56,16 @@ Learn more about the applications and challenges of synthetic data.</div>
 </a><a rel="noopener noreferrer nofollow" href="https://medium.com/dsaid-govtech/empowering-public-officers-a-data-engineering-masterclass-for-the-public-service-dbdecd3b58d5" class="isomer-card"><div class="isomer-card-body"><div class="isomer-card-title">Data Engineering Tooling Suite</div><div class="isomer-card-description">The Data Engineering tooling suite is part of a systematic approach to the data management and transformation process, which includes data acquisition, data fusion, data access and distribution, and data exploitation. Learn more about the tooling suite and how to master data pipelines.</div><div class="isomer-card-link">Empowering Public Officers: A Data Engineering Masterclass for the Public Service</div></div></a>
 </div>
 <p></p>
+<h3>Who should join us</h3>
+<p>If you are passionate about public service and making lives better with
+tech, join our team and discover a world of development opportunities in
+data engineering.</p>
+<hr>
+<h3>Join our team</h3>
+<p>Explore <a href="https://careers.tech.gov.sg/careers/SearchJobs" rel="noopener noreferrer nofollow" target="_blank">career opportunities at GovTech</a>.</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="GovTech data engineer quote" src="/images/About Us/Our capabilities/quote_danny_goh.png">
+</div>
+<p></p>
+<p></p>
+<p></p>
