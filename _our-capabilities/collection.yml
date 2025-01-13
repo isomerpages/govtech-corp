@@ -2,6 +2,7 @@ collections:
   our-capabilities:
     output: true
     order:
+      - Data Engineering.md
       - Application Design, Development and Deployment.md
       - Cybersecurity.md
       - Data Science and Artificial Intelligence.md
