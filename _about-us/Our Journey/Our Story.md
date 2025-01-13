@@ -24,14 +24,6 @@ for citizens, businesses and public officers.&nbsp;</p>
 Infocomm and Media Development Authority (IMDA).&nbsp;</p>
 <p>The Government Technology Agency (GovTech) was then created to take on
 the Smart Nation engineering efforts from the former IDA.</p>
-<h3>Building our organisation’s capabilities</h3>
-<p>Upon our launch in 2016, we established 5 capability centres to strengthen
-the public sector's engineering expertise and build the government's capabilities
-in emerging technologies.&nbsp;</p>
-<p>They are Data Science &amp; Artificial Intelligence, Government Digital
-Services (for Application Design, Development and Deployment), Cybersecurity,
-Sensors &amp; IoT, and Government ICT Infrastructure. Many of our products
-and services tap on the expertise of more than 1 capability centre.</p>
 <h3>The creation of the Singapore Government Tech Stack</h3>
 <p>The Singapore Government Tech Stack (SGTS) was a significant project by
 GovTech that drove the Smart Nation initiative forward.&nbsp;</p>
