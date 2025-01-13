@@ -12,19 +12,19 @@ image: /images/About Us/Our capabilities/data_engineering_600x400.png
 of data engineering expertise to the public sector, enabling agencies to
 expand the quality, availability, and accessibility of their data. At DP,
 we focus on three key areas to deliver great products for the <a href="/our-digital-government-efforts/" rel="noopener nofollow" target="_blank">Digital Government</a>:</p>
-<h4>1. Exploring Technologies to conduct proof of concepts (POC)</h4>
+<h4>1. Exploring technologies to conduct proof of concepts (POC)</h4>
 <p>This involves evaluating emerging tools and methodologies to enhance our
 data engineering capabilities. By investigating innovative solutions, we
 can identify technologies that address specific business challenges and
 yield valuable insights for future initiatives.</p>
-<h4>2. Driving Innovation to Empower Agencies through SME-led Prototypes and Pilots</h4>
+<h4>2. Driving innovation to empower agencies through SME-led prototypes and pilots</h4>
 <p>This focuses on providing Subject Matter Expert (SME) consulting to agencies
 for developing and testing scalable prototypes and conducting pilots. The
 SME-driven approach demonstrates the feasibility and impact of innovative
 solutions, engages stakeholders in real-world scenarios, gathers essential
 feedback, mitigates risks, and fosters a culture of creativity, ultimately
 delivering meaningful value through specialised guidance.</p>
-<h4>3. Standardising Best Practices to drive efficiency and consistency</h4>
+<h4>3. Standardising best practices to drive efficiency and consistency</h4>
 <p>This strives to create a more unified and efficient data engineering ecosystem
 by establishing clear guidelines, templates and documentation for various
 aspects of data engineering. By doing so, we can promote collaboration,
