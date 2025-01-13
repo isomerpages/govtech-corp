@@ -32,7 +32,7 @@ reduce errors, and improve overall data quality while fostering a culture
 of innovation within a structured framework.</p>
 <h3>Our work and initiatives</h3>
 <p></p>
-<div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="https://docs.developer.tech.gov.sg/docs/crisp-framework-for-data-engineering-for-public-officers/" class="isomer-card"><div class="isomer-card-body"><div class="isomer-card-title">CRISPr Framework for Data Pipeline Design and Monitoring </div><div class="isomer-card-description">CRISPr provides a structured framework for designing and managing data pipelines, emphasising principles such as comprehensiveness, robustness, and scalability. By adopting this framework, government agencies can effectively handle data complexity and improve data quality.</div><div class="isomer-card-link">[TechPass Required] CRISPr Framework for Data Engineering </div></div></a>
+<div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="https://docs.developer.tech.gov.sg/docs/crisp-framework-for-data-engineering-for-public-officers/" class="isomer-card"><div class="isomer-card-body"><div class="isomer-card-title">CRISPr Framework for Data Pipeline Design and Monitoring</div><div class="isomer-card-description">CRISPr provides a structured framework for designing and managing data pipelines, emphasising principles such as comprehensiveness, robustness, and scalability. By adopting this framework, government agencies can effectively handle data complexity and improve data quality.</div><div class="isomer-card-link">[TechPass Required] CRISPr Framework for Data Engineering</div></div></a>
 <a rel="noopener noreferrer nofollow" href="https://docs.developer.tech.gov.sg/docs/data-engineering-initiative-playbook-for-public-officers/" class="isomer-card">
 <div class="isomer-card-body">
 <div class="isomer-card-title">Data Engineering Initiative Playbook</div>
@@ -41,7 +41,9 @@ knowledge, practical templates, as well as useful tips and strategies to
 build a robust engineering framework for data-driven initiatives.</div>
 <div class="isomer-card-link">[TechPass Required] Data Engineering Initiative Playbook</div>
 </div>
-</a><a rel="noopener noreferrer nofollow" href="https://medium.com/dsaid-govtech/protecting-your-data-privacy-with-differential-privacy-an-introduction-abee1d7fcb63" class="isomer-card"><div class="isomer-card-body"><div class="isomer-card-title">Demystifying Differential Privacy</div><div class="isomer-card-description">Differential privacy is an analysis technique that helps protect personal data by adding controlled noise, allowing useful analysis without losing data quality, and making it easier to access sensitive information. Learn more about differential privacy through this article.</div><div class="isomer-card-link">Sharing Data with Differential Privacy</div></div></a>
+</a>
+</div>
+<div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="https://medium.com/dsaid-govtech/protecting-your-data-privacy-with-differential-privacy-an-introduction-abee1d7fcb63" class="isomer-card"><div class="isomer-card-body"><div class="isomer-card-title">Demystifying Differential Privacy</div><div class="isomer-card-description">Differential privacy is an analysis technique that helps protect personal data by adding controlled noise, allowing useful analysis without losing data quality, and making it easier to access sensitive information. Learn more about differential privacy through this article.</div><div class="isomer-card-link">Sharing Data with Differential Privacy</div></div></a>
 <a rel="noopener noreferrer nofollow" href="https://medium.com/dsaid-govtech/synthetic-data-navigating-its-methodologies-applications-and-challenges-9af7e5e4208d" class="isomer-card">
 <div class="isomer-card-body">
 <div class="isomer-card-title">Understanding Synthetic Data</div>
