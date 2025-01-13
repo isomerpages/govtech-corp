@@ -8,12 +8,11 @@ third_nav_title: What We Do
 variant: tiptap
 image: /images/About Us/Our capabilities/Our_capabilities_meta_image_resized.jpg
 ---
-<h2>Leading digital government transformation with our capability centres</h2>
-<p>Our capability centres strengthen the public sector's engineering expertise
-and build the government’s capabilities in emerging technologies.</p>
-<p>They enable GovTech to develop and deliver innovative citizen-centric
-products and services across the government.</p>
-<h3>Our capability centres</h3>
+<h2>Leading digital government transformation with tech capabilities</h2>
+<p>Our capabilities across a range of tech domains strengthen the public
+sector's engineering expertise and help GovTech and government agencies
+deliver better digital solutions for citizens, businesses, and public officers.</p>
+<h3>Discover our capabilities</h3>
 <p></p>
 <div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="/our-capabilities/application-design-development-and-deployment/" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Government app development in GovTech" src="/images/About Us/Our capabilities/App_design_600x400.jpg"></div></div><div class="isomer-card-body"><div class="isomer-card-title">App Design, Development and Deployment</div><div class="isomer-card-description">We develop develop citizen-centric servics and build platforms that support public sector digital transformation.</div><div class="isomer-card-link">Learn more</div></div></a>
 <a rel="noopener noreferrer nofollow" href="/our-capabilities/cybersecurity/" class="isomer-card">
@@ -28,7 +27,7 @@ products and services across the government.</p>
 various agencies to ensure a safer Smart Nation.</div>
 <div class="isomer-card-link">Learn more</div>
 </div>
-</a><a rel="noopener noreferrer nofollow" href="/our-capabilities/data-science-and-artificial-intelligence/" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Government data science and AI in government" src="/images/About Us/Our capabilities/Data_science_and_AI_600x400.jpg"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Data Science and Artificial Intelligence</div><div class="isomer-card-description">We leverage data and AI to improve citizen-centric services and enhance public agencies' productivity.</div><div class="isomer-card-link">Learn more</div></div></a>
+</a><a rel="noopener noreferrer nofollow" href="/our-capabilities/data-engineering/" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Data engineering" src="/images/About Us/Our capabilities/data_engineering_600x400.png"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Data Engineering</div><div class="isomer-card-description">We share data engineering expertise with the public sector, enabling agencies to expand the quality, availability, and accessibility of their data.</div><div class="isomer-card-link">Learn more</div></div></a>
 </div>
 <p></p>
 <div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="/our-capabilities/government-ict-infrastructure/" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Government ICT infrastructure in GovTech" src="/images/About Us/Our capabilities/Gov_ICT_600x300.jpg"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Government ICT Infrastructure</div><div class="isomer-card-description">We create an agile, secure, resilient and cost-effective infrastructure that is optimised for government operations.</div><div class="isomer-card-link">Learn more</div></div></a>
@@ -46,6 +45,5 @@ to support Smart City applications.</div>
 </div>
 </a>
 </div>
-<h3>Career opportunities at our capability centres</h3>
-<p>We are always searching for like-minded tech talents. If any of our digital
-transformation goals resonate with you, check out <a href="/careers/why-join-govtech/overview/" rel="noopener noreferrer nofollow" target="_blank">careers at GovTech</a> now.</p>
+<h3></h3>
+<p></p>
