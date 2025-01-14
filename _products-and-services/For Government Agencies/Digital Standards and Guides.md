@@ -13,7 +13,7 @@ image: /images/Products and Services/Product overview card
 <p>Singapore's Digital Government is embracing digitalisation with user-centricity
 and empathy. Singapore's repertoire of digital government services is always
 expanding, as government agencies are continuously identifying opportunities
-to improve citizens' lives through digital technologies and services.</p>
+to improve citizens' lives through technology.</p>
 <p>To ensure that these digital services are easy to use, seamless, and relevant
 to citizens, businesses, and public officers, we have curated the Digital
 Service Standards (DSS).</p>
