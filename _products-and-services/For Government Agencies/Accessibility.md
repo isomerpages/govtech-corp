@@ -33,19 +33,19 @@ issues.</p>
 </ul>
 <hr>
 <p>At GovTech, we champion the need to increase digital inclusion. A huge
-part of that begins with helping our fellow agencies ensure that their
-websites meet accessibility standards, and thus can be used easily by persons
-with disabilities (PWD).&nbsp;</p>
-<p>GovTech's Accessibility Enabling Team (A11y Team) hence set out to create
-Oobee (formerly known as Purple A11y), an open-source, customisable, and
-automated web accessibility testing tool that allows software development
-teams to find and fix accessibility problems.</p>
-<p>The tool runs a bot that scans and analyses web pages for issues such
-as an improper labeling of images or buttons. After the scan, the bot assesses
-the impact rating of the accessibility issues to help webmasters decide
-on the next steps.</p>
-<p>To date, it has scanned over 500,000 pages and identified over 7.5 million
-accessibility bugs to date.</p>
+part of that begins with helping our fellow developers ensure that their
+websites and digital products meet accessibility standards, and thus can
+be used easily by persons with disabilities (PWD).</p>
+<p>GovTech's Accessibility Enabling Team (A11y Team) hence created Oobee
+(formerly known as Purple A11y), an open-source, customisable, and automated
+web accessibility testing tool that allows software development teams to
+find accessibility issues speedily.</p>
+<p>The tool runs a crawler that scans and analyses web pages for issues such
+as an improper labeling of images or buttons. After a scan, the crawler
+assesses the impact rating of the accessibility issues to help software
+development teams decide on the next steps.</p>
+<p>To date, Oobee has scanned over 500,000 pages and identified over 7.5
+million accessibility issues.</p>
 <h3>Why use Oobee?</h3>
 <p></p>
 <div class="isomer-image-wrapper">
