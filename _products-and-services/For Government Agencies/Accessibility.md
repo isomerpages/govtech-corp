@@ -81,19 +81,19 @@ Integration/Continuous Delivery pipeline.</div>
 </div>
 <h3>How to use Oobee?</h3>
 <p>Start using Oobee in just three easy steps!</p>
-<div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="https://github.com/GovTechSG/oobee-desktop" class="isomer-card"><div class="isomer-card-body"><div class="isomer-card-title">1. Download the software package</div><div class="isomer-card-description">Refer to the installation guide and download the software package from Github.</div><div class="isomer-card-link">Download software package</div></div></a>
+<div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="http://go.gov.sg/oobee" class="isomer-card"><div class="isomer-card-body"><div class="isomer-card-title">1. Download the software package</div><div class="isomer-card-description">Refer to the installation guide and download the software package from Github.</div><div class="isomer-card-link">Download software package</div></div></a>
 <div class="isomer-card">
 <div class="isomer-card-body">
 <div class="isomer-card-title">2. Perform the scan</div>
-<div class="isomer-card-description">Oobee will scan and analyse the digital service before producing a report
-with its findings.</div>
+<div class="isomer-card-description">Oobee will scan and analyse the website before producing a report with
+its findings.</div>
 </div>
 </div>
 <div class="isomer-card">
 <div class="isomer-card-body">
-<div class="isomer-card-title">3. Review identified bugs</div>
-<div class="isomer-card-description">The tool will also highlight specific lines of code where a bug is occurring
-and suggest fixes.</div>
+<div class="isomer-card-title">3. Review identified issues</div>
+<div class="isomer-card-description">The tool will also highlight specific lines of code that cause accessibility
+issues and suggest fixes.</div>
 </div>
 </div>
 </div>
