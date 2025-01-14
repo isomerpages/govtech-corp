@@ -10,16 +10,13 @@ image: /images/Products and Services/Product overview card
   images/Digital_Standards_and_Guides_compressed.jpg
 ---
 <h2>Shaping a positive, consistent digital experience through digital standards and guides</h2>
-<p>Singapore's Digital Government vision of “digital to the core, and serves
-with heart” brings digitalisation together with user-centricity and empathy.
-Singapore's repertoire of digital government services is always expanding,
-as our sister Government agencies are continuously identifying opportunities
-to improve citizens' lives through digital technologies and services.</p>
-<p>To ensure that the new offerings provide a user experience that's consistent
-with their predecessors' – one that's secure, safe and efficient. To ensure
-that these digital services are easy to use, seamless and relevant to citizens
-and businesses, we have developed – we have come up with the Digital Service
-Standards (DSS).</p>
+<p>Singapore's Digital Government is embracing digitalisation with user-centricity
+and empathy. Singapore's repertoire of digital government services is always
+expanding, as government agencies are continuously identifying opportunities
+to improve citizens' lives through technology.</p>
+<p>To ensure that these digital services are easy to use, seamless, and relevant
+to citizens, businesses, and public officers, we have curated the Digital
+Service Standards (DSS).</p>
 <h3>3 principles of the Digital Service Standards</h3>
 <p></p>
 <div class="isomer-image-wrapper">
