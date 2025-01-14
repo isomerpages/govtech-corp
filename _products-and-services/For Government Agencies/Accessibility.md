@@ -47,32 +47,35 @@ development teams decide on the next steps.</p>
 <p>To date, Oobee has scanned over 500,000 pages and identified over 7.5
 million accessibility issues.</p>
 <h3>Why use Oobee?</h3>
-<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="Public service officer using the Purple A11y website scanning tool to check for accessibility." src="/images/Products and Services/For Government Agencies/purple_a11y_resized.jpg">
 </div>
-<p>The tool allows public service officers to improve the accessibility of
-their websites as well as streamline web management. Here's how.</p>
+<p>The tool allows developers to improve the accessibility of their websites,
+as well as streamline web management. Here's how:</p>
 <div class="isomer-card-grid">
 <div class="isomer-card">
 <div class="isomer-card-body">
 <div class="isomer-card-title">Receive reviews on accessibility</div>
-<div class="isomer-card-description">The tool provides a detailed assessment of the accessibility status at
-the code level.</div>
+<div class="isomer-card-description">Oobee provides a detailed assessment of the accessibility status at the
+code level.</div>
 </div>
 </div>
 <div class="isomer-card">
 <div class="isomer-card-body">
 <div class="isomer-card-title">Save time on scans and code testing</div>
-<div class="isomer-card-description">The tool can accurately identify and debug accessibility-related code
-issues across web browsers.</div>
+<div class="isomer-card-description">Oobee can quickly identify code-level accessibility issues present in
+websites.</div>
 </div>
 </div>
+</div>
+<div class="isomer-card-grid">
 <div class="isomer-card">
 <div class="isomer-card-body">
 <div class="isomer-card-title">Enjoy more convenience</div>
-<div class="isomer-card-description">Perform scans via development machines or the Continuous Integration/Continuous
-Delivery pipeline.</div>
+<div class="isomer-card-description">Oobee’s user-friendly desktop application caters to a wide range of users
+who wish to perform scans easily. For software development teams, Oobee
+can also run on the development environment and be integrated in the Continuous
+Integration/Continuous Delivery pipeline.</div>
 </div>
 </div>
 </div>
