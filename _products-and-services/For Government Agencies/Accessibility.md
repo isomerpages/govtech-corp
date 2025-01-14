@@ -15,19 +15,20 @@ image: /images/Products and Services/Product overview card
 </div>
 <ul data-tight="true" class="tight">
 <li>
-<p>Open-source and automated testing tool that scans and analyses digital
-products quickly, to identify and fix accessibility issues.</p>
+<p>Open-source automated testing tool that scans and analyses websites to
+identify code-level accessibility issues.</p>
 </li>
 <li>
-<p>Pinpoints specific lines of codes with accessibility bugs and provides
+<p>Pinpoints specific lines of codes with accessibility issues and provides
 suggested fixes.</p>
 </li>
 <li>
-<p>Improves accessibility of websites for people with disabilities (PWD).</p>
+<p>Aims to improve accessibility of websites for people with disabilities
+(PWD).</p>
 </li>
 <li>
 <p>Scanned over 500,000 pages and identified over 7.5 million accessibility
-bugs.</p>
+issues.</p>
 </li>
 </ul>
 <hr>
