@@ -46,6 +46,11 @@ equal access to quality education resources.</p>
 <h3>Why use Student Learning Space?</h3>
 <div class="isomer-card-grid">
 <div class="isomer-card">
+<div class="isomer-card-image">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Student learning space learning experience" src="/images/Products and Services/For citizens/enhanced_learning.jpg">
+</div>
+</div>
 <div class="isomer-card-body">
 <div class="isomer-card-title">Enhanced Learning Experience</div>
 <div class="isomer-card-description">The platform allows students to engage in personalised, curriculum-aligned
@@ -55,6 +60,11 @@ integrated resources.</div>
 </div>
 </div>
 <div class="isomer-card">
+<div class="isomer-card-image">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="student learning space empowering teachers" src="/images/Products and Services/For citizens/empowered_teaching.jpg">
+</div>
+</div>
 <div class="isomer-card-body">
 <div class="isomer-card-title">Empowered Teaching</div>
 <div class="isomer-card-description">The platform offers comprehensive features for teachers to customise content,
@@ -64,6 +74,11 @@ to different students’ learning paces and needs.</div>
 </div>
 </div>
 <div class="isomer-card">
+<div class="isomer-card-image">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="student learning space future ready education system" src="/images/Products and Services/For citizens/future_ready_education.jpg">
+</div>
+</div>
 <div class="isomer-card-body">
 <div class="isomer-card-title">Adaptive and Future-ready Education System</div>
 <div class="isomer-card-description">The platform is continuously evolving to adapt to user feedback, while
