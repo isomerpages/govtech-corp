@@ -33,5 +33,15 @@ and teachers</p>
 </li>
 </ul>
 <hr>
+<p>The <a href="https://www.learning.moe.edu.sg/" rel="noopener noreferrer nofollow" target="_blank">Singapore Student Learning Space (SLS)</a> is
+a core platform for teaching and learning created by the <a href="https://www.moe.gov.sg/" rel="noopener noreferrer nofollow" target="_blank">Ministry of Education (MOE)</a>,
+in collaboration with GovTech. As one of MOE's key initiatives, SLS aims
+to transform the learning experiences of Singaporean students through the
+purposeful use of technology. This platform is accessible to all school
+leaders, teachers, and students in the national school system, ensuring
+equal access to quality education resources.</p>
 <p></p>
+<div class="iframe-wrapper">
+<iframe style="max-width: 100%;" height="400" width="100%" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/ht--L3Pj_yQ?si=znqTDcSnE17nRZ3_"></iframe>
+</div>
 <p></p>
