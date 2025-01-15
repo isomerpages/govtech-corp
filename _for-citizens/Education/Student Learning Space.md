@@ -45,3 +45,36 @@ equal access to quality education resources.</p>
 <iframe style="max-width: 100%;" height="400" width="100%" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/ht--L3Pj_yQ?si=znqTDcSnE17nRZ3_"></iframe>
 </div>
 <p></p>
+<h3>Why use Student Learning Space?</h3>
+<p></p>
+<div class="isomer-card-grid">
+<div class="isomer-card">
+<div class="isomer-card-body">
+<div class="isomer-card-title">Enhanced Learning Experience</div>
+<div class="isomer-card-description">The platform allows students to engage in personalised, curriculum-aligned
+learning across different learning modes such as self-directed or collaborative
+learning. Students’ learning is supplemented with a wide range of external
+integrated resources.</div>
+</div>
+</div>
+<div class="isomer-card">
+<div class="isomer-card-body">
+<div class="isomer-card-title">Empowered Teaching</div>
+<div class="isomer-card-description">The platform offers comprehensive features for teachers to customise content,
+create collaborative lessons, and apply new pedagogies. Teachers can evaluate
+students’ thinking processes and apply targeted interventions to cater
+to different students’ learning paces and needs.</div>
+</div>
+</div>
+<div class="isomer-card">
+<div class="isomer-card-body">
+<div class="isomer-card-title">Adaptive and Future-ready Education System</div>
+<div class="isomer-card-description">The platform is continuously evolving to adapt to user feedback, while
+keeping up with educational policy and curriculum changes. With its nationwide
+rollout and adoption, SLS ensures equal access to quality educational resources
+across the national school system.</div>
+</div>
+</div>
+</div>
+<p></p>
+<p></p>
