@@ -9,7 +9,6 @@ third_nav_title: Education
 image: /images/Products and Services/For citizens/sls.png
 ---
 <h2>Empowering Singapore's learners with innovative, adaptive technology for future-ready education excellence</h2>
-<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="student learning space logo" src="/images/Products and Services/For citizens/sls.png">
 </div>
@@ -40,13 +39,10 @@ to transform the learning experiences of Singaporean students through the
 purposeful use of technology. This platform is accessible to all school
 leaders, teachers, and students in the national school system, ensuring
 equal access to quality education resources.</p>
-<p></p>
 <div class="iframe-wrapper">
 <iframe style="max-width: 100%;" height="400" width="100%" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/ht--L3Pj_yQ?si=znqTDcSnE17nRZ3_"></iframe>
 </div>
-<p></p>
 <h3>Why use Student Learning Space?</h3>
-<p></p>
 <div class="isomer-card-grid">
 <div class="isomer-card">
 <div class="isomer-card-body">
@@ -77,4 +73,10 @@ across the national school system.</div>
 </div>
 </div>
 <p></p>
+<h3>How to use Student Learning Space?</h3>
+<p>Local students from Singapore schools and educational institutions funded
+by the Singapore Government have access to the SLS. The SLS is accessible
+through internet browsers on a Windows PC, Mac, iPad, or Android tablet.</p>
+<p>Login to the <a href="https://vle.learning.moe.edu.sg/login" rel="noopener noreferrer nofollow" target="_blank">SLS platform</a> here
+(for students and teachers only).</p>
 <p></p>
