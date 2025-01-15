@@ -35,13 +35,13 @@ and GoWhere, all aimed at improving the lives of citizens.</p>
 <a rel="noopener noreferrer nofollow" href="/products-and-services/for-citizens/education/" class="isomer-card">
 <div class="isomer-card-image">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Parents Gateway digitalises processes in the educational sector and strengthens school-home partnerships" src="/images/Products and Services/Product overview card images/Education.png">
+<img style="width: 100%" height="auto" width="100%" alt="Create a seamless and digitally-connected educational ecosystem for students, parents, and teachers with Parents Gateway and Student Learning Space." src="/images/Products and Services/Product overview card images/Education.png">
 </div>
 </div>
 <div class="isomer-card-body">
 <div class="isomer-card-title">Education</div>
-<div class="isomer-card-description">Digitalising processes in the educational sector and strengthening school-home
-partnerships with Parents Gateway.</div>
+<div class="isomer-card-description">Create a seamless and digitally-connected educational ecosystem for students,
+parents, and teachers with Parents Gateway and Student Learning Space.</div>
 <div class="isomer-card-link">Find out more</div>
 </div>
 </a><a rel="noopener noreferrer nofollow" href="/products-and-services/for-citizens/employment/" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Elevate your job search journey with AI-powered tools for personalised job recommendations and resume optimisation." src="/images/Products and Services/Product overview card images/Employment.png"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Employment</div><div class="isomer-card-description">Elevate your job search journey with AI-powered tools for personalised job recommendations and resume optimisation.</div><div class="isomer-card-link">Find out more</div></div></a>
