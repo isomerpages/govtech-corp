@@ -80,3 +80,18 @@ through internet browsers on a Windows PC, Mac, iPad, or Android tablet.</p>
 <p>Login to the <a href="https://vle.learning.moe.edu.sg/login" rel="noopener noreferrer nofollow" target="_blank">SLS platform</a> here
 (for students and teachers only).</p>
 <p></p>
+<h3>Interested to learn more about Student Learning Space?</h3>
+<div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="https://www.learning.moe.edu.sg/" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Visit the SLS website to learn more" src="/images/CTA card images/Visit_the_product_website.png"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Visit the SLS website to learn more</div><div class="isomer-card-link">Go to website</div></div></a>
+<a rel="noopener noreferrer nofollow" href="https://go.gov.sg/communitysignup-gtwebsite" class="isomer-card">
+<div class="isomer-card-image">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="TechNews readers will be the first to receive updates on Parents Gateway!" src="/images/CTA card images/Subscribe_to_the_TN_newsletter.png">
+</div>
+</div>
+<div class="isomer-card-body">
+<div class="isomer-card-title">TechNews readers will be the first to receive updates on Parents Gateway!</div>
+<div class="isomer-card-link">Subscribe to TechNews</div>
+</div>
+</a>
+</div>
+<p></p>
