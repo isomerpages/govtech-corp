@@ -24,13 +24,13 @@ description: ""
 <a rel="noopener noreferrer nofollow" href="/products-and-services/for-citizens/education/" class="isomer-card">
 <div class="isomer-card-image">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Parents Gateway digitalises processes in the educational sector and strengthens school-home partnerships" src="/images/Products and Services/Product overview card images/Education.png">
+<img style="width: 100%" height="auto" width="100%" alt="Create a seamless and digitally-connected educational ecosystem for students, parents, and teachers with Parents Gateway and Student Learning Space." src="/images/Products and Services/Product overview card images/Education.png">
 </div>
 </div>
 <div class="isomer-card-body">
 <div class="isomer-card-title">Education</div>
-<div class="isomer-card-description">Digitalising processes in the educational sector and strengthening school-home
-partnerships with Parents Gateway.</div>
+<div class="isomer-card-description">Create a seamless and digitally-connected educational ecosystem for students,
+parents, and teachers with Parents Gateway and Student Learning Space.</div>
 <div class="isomer-card-link">Find out more</div>
 </div>
 </a><a rel="noopener noreferrer nofollow" href="/products-and-services/for-citizens/employment/" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Elevate your job search journey with AI-powered tools for personalised job recommendations and resume optimisation." src="/images/Products and Services/Product overview card images/Employment.png"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Employment</div><div class="isomer-card-description">Elevate your job search journey with AI-powered tools for personalised job recommendations and resume optimisation.</div><div class="isomer-card-link">Find out more</div></div></a>
@@ -83,7 +83,7 @@ twin capabilities.</div>
 </div>
 <hr>
 <p>Explore our range of services for government agencies</p>
-<div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="/products-and-services/for-government-agencies/accessibility/" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Purple A11y is an open-source, customisable and automated web accessibility testing tool that allows software development teams to find and fix accessibility problems." src="/images/Products and Services/Product overview card images/Accessibility_compressed.jpg"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Accessibility</div><div class="isomer-card-description">Purple A11y is a testing tool that webmasters can use to identify bugs and improve web accessibility for persons with disabilities.</div><div class="isomer-card-link">Find out more</div></div></a>
+<div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="/products-and-services/for-government-agencies/accessibility/" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Oobee is an open-source, customisable and automated web accessibility testing tool that allows software development teams to find and fix accessibility problems." src="/images/Products and Services/Product overview card images/Accessibility_compressed.jpg"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Accessibility</div><div class="isomer-card-description">Oobee is a testing tool that webmasters can use to identify bugs and improve web accessibility for persons with disabilities.</div><div class="isomer-card-link">Find out more</div></div></a>
 <a rel="noopener noreferrer nofollow" href="/products-and-services/for-government-agencies/cybersecurity/" class="isomer-card">
 <div class="isomer-card-image">
 <div class="isomer-image-wrapper">
