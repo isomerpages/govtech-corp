@@ -9,6 +9,7 @@ third_nav_title: Education
 image: /images/Products and Services/For citizens/sls.png
 ---
 <h2>Empowering Singapore's learners with innovative, adaptive technology for future-ready education excellence</h2>
+<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="student learning space logo" src="/images/Products and Services/For citizens/sls.png">
 </div>
