@@ -16,11 +16,11 @@ These platforms strengthen school-home partnerships and foster a future-ready,
 collaborative learning environment that benefits all stakeholders in the
 education process.</p>
 <h3>Explore our products for education</h3>
-<div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="/products-and-services/for-citizens/education/parents-gateway/" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Parents Gateway" src="/images/Products and Services/For citizens/Parents_Gateway_Logo.png"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Parents Gateway</div><div class="isomer-card-description">Parents Gateway is a government app that enhances communication between parents and schools, allowing parents to stay informed, give consent, and engage with their child's educational journey.</div><div class="isomer-card-link">Explore Parents Gateway</div></div></a>
+<div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="/products-and-services/for-citizens/education/parents-gateway/" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Parents Gateway" src="/images/Products and Services/For citizens/PG_600x300.png"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Parents Gateway</div><div class="isomer-card-description">Parents Gateway is a government app that enhances communication between parents and schools, allowing parents to stay informed, give consent, and engage with their child's educational journey.</div><div class="isomer-card-link">Explore Parents Gateway</div></div></a>
 <a rel="noopener noreferrer nofollow" href="/products-and-services/for-citizens/education/student-learning-space/" class="isomer-card">
 <div class="isomer-card-image">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Student Learning Space" src="/images/Products and Services/For citizens/sls.png">
+<img style="width: 100%" height="auto" width="100%" alt="Student Learning Space" src="/images/Products and Services/For citizens/SLS_600x300.png">
 </div>
 </div>
 <div class="isomer-card-body">
