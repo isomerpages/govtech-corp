@@ -48,7 +48,7 @@ development teams decide on the next steps.</p>
 million accessibility issues.</p>
 <h3>Why use Oobee?</h3>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Public service officer using the Purple A11y website scanning tool to check for accessibility." src="/images/Products and Services/For Government Agencies/purple_a11y_resized.jpg">
+<img style="width: 100%;" height="auto" width="100%" alt="Oobee home screen" src="/images/Products and Services/For Government Agencies/oobee_home_screen.png">
 </div>
 <p>The tool allows developers to improve the accessibility of their websites,
 as well as streamline web management. Here's how:</p>
@@ -80,6 +80,9 @@ Integration/Continuous Delivery pipeline.</div>
 </div>
 </div>
 <h3>How to use Oobee?</h3>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Oobee site report" src="/images/Products and Services/For Government Agencies/oobee_site_report.png">
+</div>
 <p>Start using Oobee in just three easy steps!</p>
 <div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="http://go.gov.sg/oobee" class="isomer-card"><div class="isomer-card-body"><div class="isomer-card-title">1. Download the software package</div><div class="isomer-card-description">Refer to the installation guide and download the software package from Github.</div><div class="isomer-card-link">Download software package</div></div></a>
 <div class="isomer-card">
