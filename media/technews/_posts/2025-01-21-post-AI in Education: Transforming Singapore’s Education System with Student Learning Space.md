@@ -334,6 +334,34 @@ each testimonial, teachers can now use the tool to generate a polished
 first draft within minutes. This efficiency has benefited more than 4,000
 teachers, with over 40,000 testimonials generated to date. This tool is
 developed by GovTech in partnership with <a href="https://azure.microsoft.com/en-us/products/ai-services/openai-service" rel="noopener noreferrer nofollow" target="_blank"><u>Microsoft’s Azure OpenAI services</u></a>.</p>
+<p></p>
+<h4>Key Features of the Appraiser Testimonial Generator</h4>
+<div class="isomer-card-grid">
+<div class="isomer-card">
+<div class="isomer-card-body">
+<div class="isomer-card-title">Rapid Draft Creation</div>
+<div class="isomer-card-description">Generates a full-length, well-structured testimonial draft in minutes,
+significantly cutting down on the time required to compose student testimonials.</div>
+</div>
+</div>
+<div class="isomer-card">
+<div class="isomer-card-body">
+<div class="isomer-card-title">High-Quality Writing</div>
+<div class="isomer-card-description">Powered by ChatGPT, the Appraiser tool generates text with perfect grammar
+and offers vocabulary and phrasing variations, preventing the testimonials
+from sounding templated or repetitive.</div>
+</div>
+</div>
+<div class="isomer-card">
+<div class="isomer-card-body">
+<div class="isomer-card-title">User-Friendly Design</div>
+<div class="isomer-card-description">As part of the LaunchPad ecosystem, Appraiser is built with a straightforward
+interface that requires minimal training, allowing teachers to adopt the
+tool quickly and effectively.</div>
+</div>
+</div>
+</div>
+<p></p>
 <p>
 <br>
 </p>
