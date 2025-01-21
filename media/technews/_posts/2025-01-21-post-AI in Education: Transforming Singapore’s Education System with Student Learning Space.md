@@ -54,7 +54,7 @@ in line with educational needs and policy.</p>
 <div class="isomer-card">
 <div class="isomer-card-image">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Personalised Learning for Students" src="https://placehold.co/600x400">
+<img style="width: 100%" height="auto" width="100%" alt="Personalised Learning for Students" src="/images/technews/personalised_learning.png">
 </div>
 </div>
 <div class="isomer-card-body">
@@ -69,7 +69,7 @@ to use.</div>
 <div class="isomer-card">
 <div class="isomer-card-image">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Increased Engagement with Content" src="https://placehold.co/600x400">
+<img style="width: 100%" height="auto" width="100%" alt="Increased Engagement with Content" src="/images/technews/content_engagement.jpg">
 </div>
 </div>
 <div class="isomer-card-body">
@@ -86,7 +86,7 @@ work.</div>
 <div class="isomer-card">
 <div class="isomer-card-image">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="More Inclusivity and Accessibility" src="https://placehold.co/600x400">
+<img style="width: 100%" height="auto" width="100%" alt="More Inclusivity and Accessibility" src="/images/technews/inclusive_learning.jpg">
 </div>
 </div>
 <div class="isomer-card-body">
@@ -100,7 +100,7 @@ all students, regardless of learning preferences or abilities.</div>
 <div class="isomer-card">
 <div class="isomer-card-image">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="More Time and Attention for Students" src="https://placehold.co/600x400">
+<img style="width: 100%" height="auto" width="100%" alt="More Time and Attention for Students" src="/images/technews/increased_attention.jpg">
 </div>
 </div>
 <div class="isomer-card-body">
