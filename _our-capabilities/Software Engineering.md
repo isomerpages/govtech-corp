@@ -54,3 +54,11 @@ and modernise legacy systems.</div>
 </div>
 </div>
 <p></p>
+<h3>Who should join us</h3>
+<p>Join us if you're passionate about public service, eager to work at the
+intersection of technical leadership and innovation, and driven to shape
+impactful solutions for the greater good.</p>
+<hr>
+<h3>Join our team</h3>
+<p>Explore <a href="https://careers.tech.gov.sg/careers/SearchJobs" rel="noopener noreferrer nofollow" target="_blank">career opportunities at GovTech</a>.</p>
+<p></p>
