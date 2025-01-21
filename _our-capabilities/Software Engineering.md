@@ -14,27 +14,19 @@ and the whole of government.&nbsp;​We will deliver tech for public good
 with better efficiency, quality, and cost-effectiveness through alignment
 and upskilling of Software Development, QA, DevOps, Cloud, SRE, and Agile
 practices.&nbsp;​</p>
+<p>We achieve this through the following initiatives:</p>
+<h4>Technology Leadership</h4>
+<p>Driving adoption of new, proven, and innovative methodologies and technologies
+to enhance productivity and innovation.&nbsp;&nbsp;​</p>
+<h4>Operational Excellence</h4>
+<p>Spearheading continuous improvement and streamlining processes to improve
+organisation visibility, to ultimately deliver high-quality, reliable,
+and scalable systems.&nbsp;&nbsp;​</p>
+<h4>Collaboration</h4>
+<p>Fostering a collaborative environment with effective cross-departmental
+communication and integration of expertise.&nbsp;&nbsp;​</p>
+<h4>Talent Management</h4>
+<p>Attracting, developing, and retaining top talent with talent management
+strategies ​that are focused on continuous learning and professional growth.&nbsp;</p>
 <p></p>
-<p>We achieve this through:&nbsp;​</p>
-<ul data-tight="true" class="tight">
-<li>
-<p><strong>Technology Leadership</strong>: Driving adoption of new, proven,
-and innovative methodologies and technologies to enhance productivity and
-innovation.&nbsp;&nbsp;​</p>
-</li>
-<li>
-<p><strong>Operational Excellence</strong>: Spearheading continuous improvement
-and streamlining processes to improve organisation visibility, to ultimately
-deliver high-quality, reliable, and scalable systems.&nbsp;&nbsp;​</p>
-</li>
-<li>
-<p><strong>Collaboration</strong>: Fostering a collaborative environment
-with effective cross-departmental communication and integration of expertise.&nbsp;&nbsp;​</p>
-</li>
-<li>
-<p><strong>Talent Management</strong>: Attracting, developing, and retaining
-top talent with talent management strategies ​that are focused on continuous
-learning and professional growth.&nbsp;</p>
-</li>
-</ul>
 <p></p>
