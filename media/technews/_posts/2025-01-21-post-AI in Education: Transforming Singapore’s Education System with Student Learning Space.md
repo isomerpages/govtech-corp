@@ -176,3 +176,15 @@ a broader range of learning needs as it evolves.</div>
 </div>
 </div>
 <p></p>
+<h3>Authoring Copilot (ACP)</h3>
+<p>The <a href="https://www.learning.moe.edu.sg/ai-in-sls/aied-features/authoring-copilot/" rel="noopener noreferrer nofollow" target="_blank"><u>Authoring Copilot (ACP)</u></a> is
+an AI-driven tool (also on SLS) designed by educators for educators and
+helps to streamline lesson planning for teachers across all subjects and
+levels. Leveraging <a href="https://govinsider.asia/intl-en/article/govtech-launches-llm-for-data-driven-policymaking-in-singapore-public-sector" rel="noopener noreferrer nofollow" target="_blank"><u>Large Language Models (LLMs)</u></a>,
+ACP helps educators turn their lesson ideas into fully realised digital
+lessons by automating lesson components, activities, and assessments based
+on the teacher’s text-based inputs. Teachers can then make the necessary
+edits to further modify lesson plans. This powerful tool enhances teaching
+by creating a more efficient and flexible approach to lesson design.</p>
+<p></p>
+<p></p>
