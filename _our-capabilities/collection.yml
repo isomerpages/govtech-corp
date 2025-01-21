@@ -2,7 +2,6 @@ collections:
   our-capabilities:
     output: true
     order:
-      - Application Design, Development and Deployment.md
       - Cybersecurity.md
       - Data Engineering.md
       - Government ICT Infrastructure.md
