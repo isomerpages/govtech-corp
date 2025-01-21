@@ -388,11 +388,12 @@ to reduce the risk of biased and potentially harmful outputs.</p>
 </li>
 <li>
 <p><strong>Over-Reliance on AI Tools</strong>
-<br>Excessive use of AI for learning may reduce human interaction, impacting
-social skills. Moreover, over-dependence on AI could lead to reduced critical
-thinking, problem-solving, and deep learning. Ultimately, AI should complement
-and not replace human thinking entirely in the learning process to foster
-balanced development.</p>
+<br>Excessive use of AI may reduce human interaction and lower the need for
+social connections. Our education system recognises that human interaction
+is a fundamental part of learning and continues to create social connections
+through collaborative learning. Ultimately, AI should complement classroom
+efforts to build social skills and connections, and not seek to replace
+these human interactions.</p>
 <p></p>
 </li>
 <li>
