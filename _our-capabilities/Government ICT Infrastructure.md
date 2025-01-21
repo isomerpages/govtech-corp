@@ -74,7 +74,6 @@ agencies upgrading their ICT infrastructure.</p>
 </div>
 </details>
 </div>
-<hr>
 <h3>Join our team</h3>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="Daryl Chee, Infrastructure Engineer, giving testimonial of Government ICT Infrastructure at GovTech" src="/images/About Us/Our capabilities/Government_ICT_Infrastructure_quote_2.jpg">
