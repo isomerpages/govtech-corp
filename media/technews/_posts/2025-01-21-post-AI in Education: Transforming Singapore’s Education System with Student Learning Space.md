@@ -46,11 +46,9 @@ Copilot (ACP), Short Answer Feedback Assistant (ShortAnsFA), and more.</p>
 a national online platform developed by MOE to enrich students' learning
 through technology. Accessible to all school teachers and students in the
 national school system, SLS offers high-quality, curriculum-aligned resources
-across major subjects from primary to pre-university levels.</p>
-<p>The platform continually evolves with input from users, integrating feedback
-and updating in line with educational needs and policy. SLS’s open system
-design supports over 250 integrated external tools and resources, ensuring
-it meets the needs of an increasingly dynamic educational landscape.</p>
+across major subjects from primary to pre-university levels. The platform
+continually evolves with input from users, integrating feedback and updating
+in line with educational needs and policy.</p>
 <h3>Benefits of AI in Education in Singapore</h3>
 <div class="isomer-card-grid">
 <div class="isomer-card">
