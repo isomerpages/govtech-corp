@@ -32,6 +32,17 @@ this master plan, MOE seeks to impart students with digital literacy, support
 diverse learning needs, and equip students with the skills needed to thrive
 in an increasingly complex, tech-driven world.</p>
 <hr>
-<h3>What is the Student Learning Space (SLS)?</h3>
-<p></p>
+<h3>What is the Student Learning Space?</h3>
+<p>The <a href="/products-and-services/for-citizens/education/student-learning-space/" rel="noopener noreferrer nofollow" target="_blank"><u>Student Learning Space (SLS)</u></a> is
+a national online platform developed by MOE to enrich students' learning
+through technology. Accessible to all school teachers and students in the
+national school system, SLS offers high-quality, curriculum-aligned resources
+across major subjects from primary to pre-university levels.</p>
+<p>The platform continually evolves with input from users, integrating feedback
+and updating in line with educational needs and policy. SLS’s open system
+design supports over 250 integrated external tools and resources, ensuring
+it meets the needs of an increasingly dynamic educational landscape.</p>
+<p>
+<br>
+</p>
 <p></p>
