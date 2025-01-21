@@ -188,6 +188,45 @@ edits to further modify lesson plans. This powerful tool enhances teaching
 by creating a more efficient and flexible approach to lesson design.</p>
 <p></p>
 <h4>Key Features of Authoring Copilot</h4>
+<div class="isomer-card-grid">
+<div class="isomer-card">
+<div class="isomer-card-body">
+<div class="isomer-card-title">AI-Generated Lesson Plan</div>
+<div class="isomer-card-description">ACP transforms initial lesson ideas into structured activities. It suggests
+an organised flow with recommended components such as MCQs, free-response,
+polls, and discussion prompts. Teachers can quickly select, add, and adjust
+components, creating engaging digital lessons within minutes.</div>
+</div>
+</div>
+<div class="isomer-card">
+<div class="isomer-card-body">
+<div class="isomer-card-title">Customisable Knowledge Base Integration</div>
+<div class="isomer-card-description">ACP can tailor activities further by anchoring them to a teacher-curated
+Knowledge Base. By uploading relevant content, like a textbook chapter,
+ACP can generate related activities such as summaries, quizzes, and comprehension
+tasks, ensuring lessons are comprehensive and curriculum-aligned.</div>
+</div>
+</div>
+</div>
 <p></p>
-<p></p>
+<div class="isomer-card-grid">
+<div class="isomer-card">
+<div class="isomer-card-body">
+<div class="isomer-card-title">Smart Editing, Flexibility, and Tagging</div>
+<div class="isomer-card-description">Teachers can modify generated quizzes or assessments to align with specific
+learning outcomes. Moreover, teachers can also tag lesson content with
+specific learning objectives or methods, increasing the likelihood of ACP
+generating content that aligns with teachers’ specific goals and approaches.</div>
+</div>
+</div>
+<div class="isomer-card">
+<div class="isomer-card-body">
+<div class="isomer-card-title">Supports Different File Types (Future Capability)</div>
+<div class="isomer-card-description">Currently, the Knowledge Base feature only supports text-based materials.
+Upcoming updates will include handling of images, PDFs, and transcribed
+video content, expanding the range of resources teachers can integrate
+to expand the Knowledge Base.</div>
+</div>
+</div>
+</div>
 <p></p>
