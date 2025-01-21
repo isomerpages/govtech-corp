@@ -412,7 +412,7 @@ develop in-demand skills that may involve utilising AI. The government
 recognises the importance of this and is preparing today’s students to
 embrace technology and be adaptable. This aligns with the <a href="https://www.moe.gov.sg/education-in-sg/educational-technology-journey/edtech-masterplan" rel="noopener noreferrer nofollow" target="_blank"><u>EdTech Masterplan 2030</u></a> and
 the need to integrate AI in education here in Singapore.</p>
-<p></p>
+<hr>
 <h3>Want to read more about AI?</h3>
 <p>
 <br><strong>Related articles:</strong>
@@ -431,6 +431,20 @@ the need to integrate AI in education here in Singapore.</p>
 </p>
 </li>
 </ol>
+<hr>
+<div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="https://go.gov.sg/communitysignup-technews" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Subscribe to the TechNews email newsletter" src="/images/CTA card images/technews_footer.jpg"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Subscribe to the TechNews email newsletter</div><div class="isomer-card-link">TechNews</div></div></a>
+<a rel="noopener noreferrer nofollow" href="https://go.gov.sg/communitysignup-technews" class="isomer-card">
+<div class="isomer-card-image">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Join the Tech Kaki user-testing community" src="/images/CTA card images/techkaki_footer.jpg">
+</div>
+</div>
+<div class="isomer-card-body">
+<div class="isomer-card-title">Join the Tech Kaki user-testing community</div>
+<div class="isomer-card-link">Tech Kaki</div>
+</div>
+</a>
+</div>
 <p>
 <br>
 </p>
