@@ -187,4 +187,7 @@ on the teacher’s text-based inputs. Teachers can then make the necessary
 edits to further modify lesson plans. This powerful tool enhances teaching
 by creating a more efficient and flexible approach to lesson design.</p>
 <p></p>
+<h4>Key Features of Authoring Copilot</h4>
+<p></p>
+<p></p>
 <p></p>
