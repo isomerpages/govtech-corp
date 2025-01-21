@@ -324,5 +324,18 @@ goals.</div>
 </div>
 </div>
 <p></p>
+<h3>Appraiser Testimonial Generator</h3>
+<p>The <a href="https://go.gov.sg/appraiser" rel="noopener noreferrer nofollow" target="_blank"><u>Appraiser Testimonial Generator Tool</u></a> is
+an AI-powered application built by GovTech in collaboration with MOE. Created
+to streamline the process of writing student testimonials by teachers,
+Appraiser significantly reduces the time spent in drafting personalised
+and well-structured testimonials. Instead of spending hours manually writing
+each testimonial, teachers can now use the tool to generate a polished
+first draft within minutes. This efficiency has benefited more than 4,000
+teachers, with over 40,000 testimonials generated to date. This tool is
+developed by GovTech in partnership with <a href="https://azure.microsoft.com/en-us/products/ai-services/openai-service" rel="noopener noreferrer nofollow" target="_blank"><u>Microsoft’s Azure OpenAI services</u></a>.</p>
+<p>
+<br>
+</p>
 <h3></h3>
 <p></p>
