@@ -372,44 +372,40 @@ tool quickly and effectively.</div>
 <h3>Potential Risks of Using AI</h3>
 <ol data-tight="true" class="tight">
 <li>
-<p><strong>Privacy and Personal Data Protection</strong>
-<br>Students’ and teachers’ consent for data collection and usage may be overlooked,
-raising privacy concerns. There is also the risk of data breaches and unauthorised
+<p><strong>Privacy and Personal Data Protection - </strong>Students’ and
+teachers’ consent for data collection and usage may be overlooked, raising
+privacy concerns. There is also the risk of data breaches and unauthourised
 access, potentially exposing sensitive information.</p>
 <p></p>
 </li>
 <li>
-<p><strong>Accuracy and Validity of AI-Generated Answers</strong>
-<br><a href="https://www.tech.gov.sg/media/technews/generative-ai-where-can-it-go-wrong/" rel="noopener noreferrer nofollow" target="_blank"><u>AI "hallucinations"</u></a> may
+<p><strong>Accuracy and Validity of AI-Generated Answers - </strong><a href="https://www.tech.gov.sg/media/technews/generative-ai-where-can-it-go-wrong/" rel="noopener noreferrer nofollow" target="_blank"><u>AI "hallucinations"</u></a> may
 lead to inaccurate or fabricated information. Ongoing improvements are
 needed to minimise errors and ensure more factually accurate AI responses.</p>
 <p></p>
 </li>
 <li>
-<p><strong>Inherent Bias in AI Systems</strong>
-</p>
-<p>AI systems may inadvertently reflect cultural or societal biases. It is
-essential for AI to be trained on inclusive and representative datasets
-to reduce the risk of biased and potentially harmful outputs.</p>
+<p><strong>Inherent Bias in AI Systems - </strong>AI systems may inadvertently
+reflect cultural or societal biases. It is essential for AI to be trained
+on inclusive and representative datasets to reduce the risk of biased and
+potentially harmful outputs.</p>
 <p></p>
 </li>
 <li>
-<p><strong>Over-Reliance on AI Tools</strong>
-<br>Excessive use of AI may reduce human interaction and lower the need for
-social connections. Our education system recognises that human interaction
-is a fundamental part of learning and continues to create social connections
-through collaborative learning. Ultimately, AI should complement classroom
-efforts to build social skills and connections, and not seek to replace
-these human interactions.</p>
+<p><strong>Over-Reliance on AI Tools - </strong>Excessive use of AI may reduce
+human interaction and lower the need for social connections. Our education
+system recognises that human interaction is a fundamental part of learning
+and continues to create social connections through collaborative learning.
+Ultimately, AI should complement classroom efforts to build social skills
+and connections, and not seek to replace these human interactions.</p>
 <p></p>
 </li>
 <li>
-<p><strong>Transparency and Accountability</strong>
-</p>
-<p>The complexity of AI models can make it difficult to understand how decisions
-are made. Hence, transparency over how AI collects data is needed to instil
-trust in the system and having clear accountability structures helps ensure
-ethical boundaries are not crossed.</p>
+<p><strong>Transparency and Accountability - </strong>The complexity of AI
+models can make it difficult to understand how decisions are made. Hence,
+transparency over how AI collects data is needed to instil trust in the
+system and having clear accountability structures helps ensure ethical
+boundaries are not crossed.</p>
 </li>
 </ol>
 <p></p>
@@ -452,8 +448,4 @@ the need to integrate AI in education here in Singapore.</p>
 </div>
 </a>
 </div>
-<p>
-<br>
-</p>
-<h3></h3>
 <p></p>
