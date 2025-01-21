@@ -32,6 +32,11 @@ strategies ​that are focused on continuous learning and professional growth.&n
 <h3>Our work and initiatives</h3>
 <div class="isomer-card-grid">
 <div class="isomer-card">
+<div class="isomer-card-image">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Software engineering best practices" src="/images/About Us/Our capabilities/software_engineering_standards.jpg">
+</div>
+</div>
 <div class="isomer-card-body">
 <div class="isomer-card-title">Operational Visibility and Standards</div>
 <div class="isomer-card-description">We aim to establish a unified operational framework to enhance visibility,
@@ -39,6 +44,11 @@ ensure compliance, and drive adoption of best practices across GovTech.</div>
 </div>
 </div>
 <div class="isomer-card">
+<div class="isomer-card-image">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Software engineering career development" src="/images/About Us/Our capabilities/software_engineering_career.jpg">
+</div>
+</div>
 <div class="isomer-card-body">
 <div class="isomer-card-title">Career Development</div>
 <div class="isomer-card-description">We seek to redefine roles, create clear growth paths, and standardise
@@ -46,6 +56,11 @@ processes to empower engineering talent and align with organisational goals.</di
 </div>
 </div>
 <div class="isomer-card">
+<div class="isomer-card-image">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="AI in software engineering" src="/images/About Us/Our capabilities/software_engineering_ai.jpg">
+</div>
+</div>
 <div class="isomer-card-body">
 <div class="isomer-card-title">AI Exploration</div>
 <div class="isomer-card-description">We harness AI to transform software development processes, optimise workflows,
