@@ -116,7 +116,7 @@ deliver personalised learning pathways tailored to each student’s unique
 needs. It guides students through a curriculum that adapts to their progress
 and mastery levels.</p>
 <p></p>
-<h4>Key Features and Benefits of ALS</h4>
+<h4>Key Features and Benefits of the Adaptive Learning System (ALS)</h4>
 <div class="isomer-card-grid">
 <div class="isomer-card">
 <div class="isomer-card-body">
@@ -187,7 +187,7 @@ on the teacher’s text-based inputs. Teachers can then make the necessary
 edits to further modify lesson plans. This powerful tool enhances teaching
 by creating a more efficient and flexible approach to lesson design.</p>
 <p></p>
-<h4>Key Features of Authoring Copilot</h4>
+<h4>Key Features of Authoring Copilot (ACP)</h4>
 <div class="isomer-card-grid">
 <div class="isomer-card">
 <div class="isomer-card-body">
