@@ -362,6 +362,51 @@ tool quickly and effectively.</div>
 </div>
 </div>
 <p></p>
+<h3>Potential Risks of Using AI</h3>
+<ol data-tight="true" class="tight">
+<li>
+<p><strong>Privacy and Personal Data Protection</strong>
+<br>Students’ and teachers’ consent for data collection and usage may be overlooked,
+raising privacy concerns. There is also the risk of data breaches and unauthorised
+access, potentially exposing sensitive information.</p>
+<p></p>
+</li>
+<li>
+<p><strong>Accuracy and Validity of AI-Generated Answers</strong>
+<br><a href="https://www.tech.gov.sg/media/technews/generative-ai-where-can-it-go-wrong/" rel="noopener noreferrer nofollow" target="_blank"><u>AI "hallucinations"</u></a> may
+lead to inaccurate or fabricated information. Ongoing improvements are
+needed to minimise errors and ensure more factually accurate AI responses.</p>
+<p></p>
+</li>
+<li>
+<p><strong>Inherent Bias in AI Systems</strong>
+</p>
+<p>AI systems may inadvertently reflect cultural or societal biases. It is
+essential for AI to be trained on inclusive and representative datasets
+to reduce the risk of biased and potentially harmful outputs.</p>
+<p></p>
+</li>
+<li>
+<p><strong>Over-Reliance on AI Tools</strong>
+<br>Excessive use of AI for learning may reduce human interaction, impacting
+social skills. Moreover, over-dependence on AI could lead to reduced critical
+thinking, problem-solving, and deep learning. Ultimately, AI should complement
+and not replace human thinking entirely in the learning process to foster
+balanced development.</p>
+<p></p>
+</li>
+<li>
+<p><strong>Transparency and Accountability</strong>
+</p>
+<p>The complexity of AI models can make it difficult to understand how decisions
+are made. Hence, transparency over how AI collects data is needed to instil
+trust in the system and having clear accountability structures helps ensure
+ethical boundaries are not crossed.</p>
+</li>
+</ol>
+<p>
+<br>
+</p>
 <p>
 <br>
 </p>
