@@ -37,6 +37,9 @@ MOE’s commitment to adapting teaching methods to the digital age.</p>
 <p>Through this master plan, MOE seeks to impart students with digital literacy,
 support diverse learning needs, and equip students with the skills needed
 to thrive in an increasingly complex, tech-driven world.</p>
+<p>Let's explore the benefits of integrating AI into education, and discover
+some of the Student Learning Space's new AI-enabled features such as Authoring
+Copilot (ACP), Short Answer Feedback Assistant (ShortAnsFA), and more.</p>
 <hr>
 <h3>What is the Student Learning Space?</h3>
 <p>The <a href="/products-and-services/for-citizens/education/student-learning-space/" rel="noopener noreferrer nofollow" target="_blank"><u>Student Learning Space (SLS)</u></a> is
