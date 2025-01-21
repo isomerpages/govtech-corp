@@ -31,3 +31,7 @@ MOE’s commitment to adapting teaching methods to the digital age. Through
 this master plan, MOE seeks to impart students with digital literacy, support
 diverse learning needs, and equip students with the skills needed to thrive
 in an increasingly complex, tech-driven world.</p>
+<hr>
+<h3>What is the Student Learning Space (SLS)?</h3>
+<p></p>
+<p></p>
