@@ -230,3 +230,54 @@ to expand the Knowledge Base.</div>
 </div>
 </div>
 <p></p>
+<h3>Short Answer Feedback Assistant (ShortAnsFA)</h3>
+<p>The <a href="https://www.learning.moe.edu.sg/ai-in-sls/aied-features/short-answer-feedback-assistant/" rel="noopener noreferrer nofollow" target="_blank"><u>Short Answer Feedback Assistant (ShortAnsFA)</u></a> is
+another AI-enabled tool on the SLS platform that streamlines the feedback
+process for students. Designed to work across a range of subjects and levels,
+ShortAnsFA provides fast, personalised feedback for free-response, short-answer
+questions. By generating preliminary feedback and suggested scores based
+on a predefined mark scheme, ShortAnsFA helps teachers reduce the time
+spent on grading, freeing them to focus on other teaching activities and
+more detailed student guidance.</p>
+<p></p>
+<h4>Key Features of Short Answer Feedback Assistant (ShortAnsFA)</h4>
+<div class="isomer-card-grid">
+<div class="isomer-card">
+<div class="isomer-card-body">
+<div class="isomer-card-title">Instant AI-Generated Feedback</div>
+<div class="isomer-card-description">Teachers must vet the immediate draft feedback generated to student answers
+and responses before they are shown to students. Teachers can also refine
+or expand the comments as necessary. This helps students understand their
+mistakes or areas for improvement.</div>
+</div>
+</div>
+<div class="isomer-card">
+<div class="isomer-card-body">
+<div class="isomer-card-title">Versatility Across Subjects and Levels</div>
+<div class="isomer-card-description">ShortAnsFA can be used for most subjects and grade levels. The assistant
+is suited for close-ended, short-answer questions, but not mathematical
+computation-based questions, where the nuances of problem-solving and step-by-step
+workings require a different feedback approach.</div>
+</div>
+</div>
+<div class="isomer-card">
+<div class="isomer-card-body">
+<div class="isomer-card-title">Time-Efficient Workflow</div>
+<div class="isomer-card-description">By automating the initial feedback phase, ShortAnsFA enables teachers
+to redirect valuable time from grading back to other essential teaching
+and learning tasks. This efficiency speeds up the feedback cycle and gives
+teachers more time to engage with students on a deeper level.</div>
+</div>
+</div>
+</div>
+<p></p>
+<h3>Data Assistant (DAT)</h3>
+<p>The <a href="https://www.learning.moe.edu.sg/whats-new-in-r2/#:~:text=Data%20Assistant%20(DAT)" rel="noopener noreferrer nofollow" target="_blank"><u>Data Assistant (DAT)</u></a> is
+another AI-driven tool on the SLS platform designed to simplify the analysis
+and interpretation of student data (answers). With DAT, teachers can gain
+real-time insights into student understanding and engagement across various
+response formats, including free-response questions, interactive tools,
+and discussion forums. DAT allows teachers to adapt their strategies by
+focusing on topics that most students struggle with, improving overall
+learning outcomes for all students.</p>
+<p></p>
