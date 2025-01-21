@@ -281,3 +281,48 @@ and discussion forums. DAT allows teachers to adapt their strategies by
 focusing on topics that most students struggle with, improving overall
 learning outcomes for all students.</p>
 <p></p>
+<h4>Key Features of Data Assistant (DAT)</h4>
+<div class="isomer-card-grid">
+<div class="isomer-card">
+<div class="isomer-card-body">
+<div class="isomer-card-title">Analysis of Student Responses</div>
+<div class="isomer-card-description">Teachers can analyse student responses to questions, the Interactive Thinking
+Tool (ITT), and discussion boards. They can then ask custom questions to
+identify themes, common misconceptions, and patterns in student responses,
+making it easier to assess learning progress.</div>
+</div>
+</div>
+<div class="isomer-card">
+<div class="isomer-card-body">
+<div class="isomer-card-title">Flexible Follow-up Actions</div>
+<div class="isomer-card-description">Follow-up options allow teachers to filter and cluster students based
+on specific criteria like performance levels. Teachers can then add comments
+for students or tag responses. This clustered approach makes it easy to
+respond to individual needs and offer targeted support.</div>
+</div>
+</div>
+</div>
+<p></p>
+<div class="isomer-card-grid">
+<div class="isomer-card">
+<div class="isomer-card-body">
+<div class="isomer-card-title">Integration with Existing Tools</div>
+<div class="isomer-card-description">DAT seamlessly integrates with other SLS features, such as the Short Answer
+Feedback Assistant (ShortAnsFA). Teachers can pull feedback from ShortAnsFA
+into DAT for deeper analysis or class-level interventions, making it easier
+to gather comprehensive insights.</div>
+</div>
+</div>
+<div class="isomer-card">
+<div class="isomer-card-body">
+<div class="isomer-card-title">User-Friendly Interface and Customisable Queries</div>
+<div class="isomer-card-description">With an easy-to-navigate interface, DAT requires no technical expertise
+or coding. Teachers can select pre-made “recipes” for data analysis or
+customise queries to align with specific lesson objectives or teaching
+goals.</div>
+</div>
+</div>
+</div>
+<p></p>
+<h3></h3>
+<p></p>
