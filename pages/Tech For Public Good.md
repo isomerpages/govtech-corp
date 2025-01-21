@@ -6,7 +6,7 @@ description: "Discover GovTech's impact: from everyday conveniences to community
   empowerment. Explore our work in engineering a digital government and building
   tech for public good – sometimes hidden, but always purposeful."
 ---
-<h1>Tech for Public Good, For A Better Tomorrow</h1>
+<h1>Tech For Public Good, For A Better Tomorrow</h1>
 <p></p>
 <p>Most of our work remains unseen by the public we serve, and yet it is
 everywhere.&nbsp;&nbsp;Our refreshed brand video showcases GovTech’s work
