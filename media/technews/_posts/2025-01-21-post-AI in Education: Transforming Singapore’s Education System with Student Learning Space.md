@@ -107,4 +107,15 @@ be struggling and offering them personalised attention.</div>
 </div>
 <p></p>
 <h3>Adaptive Learning System (ALS)</h3>
+<p>The <a href="https://www.learning.moe.edu.sg/ai-in-sls/aied-features/adaptive-learning-system/" rel="noopener noreferrer nofollow" target="_blank"><u>Adaptive Learning System (ALS)</u></a>,
+integrated into the SLS platform, is an AI-enabled educational system developed
+by MOE and GovTech.&nbsp;</p>
+<p>Currently available for Mathematics (Upper Primary) and Geography (Upper
+Secondary), ALS uses <a href="https://www.tech.gov.sg/products-and-services/for-government-agencies/data-and-ai/" rel="noopener noreferrer nofollow" target="_blank"><u>machine learning</u></a> to
+deliver personalised learning pathways tailored to each student’s unique
+needs. It guides students through a curriculum that adapts to their progress
+and mastery levels.</p>
+<p></p>
+<h4>Key Features and Benefits of ALS</h4>
+<p></p>
 <p></p>
