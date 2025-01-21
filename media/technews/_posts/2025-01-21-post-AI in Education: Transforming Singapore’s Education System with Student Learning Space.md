@@ -106,3 +106,5 @@ be struggling and offering them personalised attention.</div>
 </div>
 </div>
 <p></p>
+<h3>Adaptive Learning System (ALS)</h3>
+<p></p>
