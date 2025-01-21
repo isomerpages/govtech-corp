@@ -43,12 +43,12 @@ Copilot (ACP), Short Answer Feedback Assistant (ShortAnsFA), and more.</p>
 <hr>
 <h3>What is the Student Learning Space?</h3>
 <p>The <a href="/products-and-services/for-citizens/education/student-learning-space/" rel="noopener noreferrer nofollow" target="_blank"><u>Student Learning Space (SLS)</u></a> is
-a national online platform developed by MOE to enrich students' learning
-through technology. Accessible to all school teachers and students in the
-national school system, SLS offers high-quality, curriculum-aligned resources
-across major subjects from primary to pre-university levels. The platform
-continually evolves with input from users, integrating feedback and updating
-in line with educational needs and policy.</p>
+a platform that aims to enrich students' learning through technology. Accessible
+to all school teachers and students in the national school system, SLS
+offers high-quality, curriculum-aligned resources across major subjects
+from primary to pre-university levels. The platform continually evolves
+with input from users, integrating feedback and updating in line with educational
+needs and policy.</p>
 <h3>Benefits of AI in Education in Singapore</h3>
 <div class="isomer-card-grid">
 <div class="isomer-card">
