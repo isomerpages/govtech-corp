@@ -279,7 +279,7 @@ teachers more time to engage with students on a deeper level.</div>
 </div>
 <p></p>
 <h3>Data Assistant (DAT)</h3>
-<p>The <a href="https://www.learning.moe.edu.sg/whats-new-in-r2/#:~:text=Data%20Assistant%20(DAT)" rel="noopener noreferrer nofollow" target="_blank"><u>Data Assistant (DAT)</u></a> is
+<p>The <a href="https://www.learning.moe.edu.sg/teacher-user-guide/assess/analyse-students-responses-with-data-assistant/" rel="noopener noreferrer nofollow" target="_blank"><u>Data Assistant (DAT)</u></a> is
 another AI-driven tool on the SLS platform designed to simplify the analysis
 and interpretation of student data (answers). With DAT, teachers can gain
 real-time insights into student understanding and engagement across various
