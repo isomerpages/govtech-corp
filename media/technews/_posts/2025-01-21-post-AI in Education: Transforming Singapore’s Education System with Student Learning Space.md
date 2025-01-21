@@ -405,9 +405,32 @@ trust in the system and having clear accountability structures helps ensure
 ethical boundaries are not crossed.</p>
 </li>
 </ol>
+<p></p>
+<p>If Singapore seeks to keep its future workforce competitive and in high
+demand, there is no doubt that the current and future generations must
+develop in-demand skills that may involve utilising AI. The government
+recognises the importance of this and is preparing today’s students to
+embrace technology and be adaptable. This aligns with the <a href="https://www.moe.gov.sg/education-in-sg/educational-technology-journey/edtech-masterplan" rel="noopener noreferrer nofollow" target="_blank"><u>EdTech Masterplan 2030</u></a> and
+the need to integrate AI in education here in Singapore.</p>
+<p></p>
+<h3>Want to read more about AI?</h3>
 <p>
-<br>
+<br><strong>Related articles:</strong>
 </p>
+<ol>
+<li>
+<p><a href="https://www.tech.gov.sg/media/technews/tech-and-education-how-automation-and-ai-is-powering-learning-in-singapore/" rel="noopener noreferrer nofollow" target="_blank"><u>Tech and education: How automation and AI are powering learning in Singapore</u></a>
+</p>
+</li>
+<li>
+<p><a href="https://www.tech.gov.sg/media/technews/generative-ai-where-can-it-go-wrong/" rel="noopener noreferrer nofollow" target="_blank"><u>Generative AI: Where it can go wrong</u></a>
+</p>
+</li>
+<li>
+<p><a href="https://www.tech.gov.sg/media/technews/five-ways-you-are-already-using-ai/" rel="noopener noreferrer nofollow" target="_blank"><u>Five Ways You’re Already Using AI</u></a>
+</p>
+</li>
+</ol>
 <p>
 <br>
 </p>
