@@ -45,4 +45,5 @@ safe and seamless</p>
 tech&nbsp;</p>
 </li>
 </ul>
-<p></p>
+<p><strong>Learn more about our digital government efforts</strong>
+</p>
