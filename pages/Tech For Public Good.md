@@ -46,10 +46,62 @@ tech&nbsp;</p>
 </li>
 </ul>
 <h3><strong>Learn more about our digital government efforts</strong></h3>
+<table style="minWidth: 75px">
+<colgroup>
+<col>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<th rowspan="1" colspan="1">
+<div class="iframe-wrapper">
+<iframe height="200" width="300" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/IIKrNOwR_pA"></iframe>
+</div>
+</th>
+<th rowspan="1" colspan="1">
+<div class="iframe-wrapper">
+<iframe height="200" width="300" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/IIKrNOwR_pA"></iframe>
+</div>
+</th>
+<th rowspan="1" colspan="1">
 <p></p>
-<div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="https://www.tech.gov.sg/products-and-services/for-citizens/crowdsourcing/crowdtasksg/" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Community Engagement: CrowdTaskSG" src="https://placehold.co/600x400"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Community Engagement: CrowdTaskSG  </div><div class="isomer-card-description">Earn rewards while shaping Singapore’s future!
-
-CrowdTaskSG lets you share your feedback through tasks and surveys that help improve our government digital products and services, while earning coins that you can redeem at selected merchants. </div><div class="isomer-card-link">Start earning rewards today!</div></div></a>
+</th>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Community Engagement: CrowdTask SG</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Community Engagement: Tech Kaki</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Earn rewards while shaping Singapore’s future! CrowdTaskSG lets you share
+your feedback through tasks and surveys that help improve our government
+digital products and services, while earning coins that you can redeem
+at selected merchants. <a href="https://www.tech.gov.sg/products-and-services/for-citizens/crowdsourcing/crowdtasksg/%22%20%EF%B7%9FHYPERLINK%20%22https://www.crowdtask.gov.sg/" class="Hyperlink SCXW52225574 BCX8" rel="noreferrer noopener" target="_blank"><u>Start earning today!</u></a>&nbsp;</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Tech Kaki is a 6,000-strong citizen community initiative by GovTech&nbsp;
+committed to fostering citizen engagement in the development of digital
+services and products.&nbsp;&nbsp;<a href="https://hubs.ly/Q02XsY170" class="Hyperlink SCXW186982848 BCX8" rel="noreferrer noopener" target="_blank"><u>Join our Tech Kaki community</u></a> to
+get first dibs on testing various government digital products and services
+before they launch!&nbsp;</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+</tbody>
+</table>
+<div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="https://www.tech.gov.sg/products-and-services/for-citizens/crowdsourcing/crowdtasksg/" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Community Engagement: CrowdTaskSG" src="https://placehold.co/600x400"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Community Engagement: CrowdTaskSG</div><div class="isomer-card-description">Earn rewards while shaping Singapore’s future! CrowdTaskSG lets you share your feedback through tasks and surveys that help improve our government digital products and services, while earning coins that you can redeem at selected merchants.</div><div class="isomer-card-link">Start earning rewards today!</div></div></a>
 <a rel="noopener noreferrer nofollow" href="https://hubs.ly/Q02XsY170" class="isomer-card">
 <div class="isomer-card-image">
 <div class="isomer-image-wrapper">
