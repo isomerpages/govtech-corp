@@ -1,6 +1,6 @@
 ---
 title: Engineering a Digital Government
-permalink: /engineering-a-digital-government/
+permalink: /gtpc-category-2/
 variant: tiptap
 description: ""
 ---

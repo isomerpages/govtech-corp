@@ -1,6 +1,6 @@
 ---
 title: AIBots
-permalink: /aibots/
+permalink: /gtpc-product-1/
 variant: tiptap
 description: ""
 ---

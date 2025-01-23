@@ -1,6 +1,6 @@
 ---
 title: Digital Solutions to Drive a Smart Nation
-permalink: /digital-solutions-to-drive-a-smart-nation/
+permalink: /gtpc-overview/
 variant: tiptap
 description: ""
 ---

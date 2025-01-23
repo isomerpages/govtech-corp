@@ -1,6 +1,6 @@
 ---
 title: Tech for Public Good
-permalink: /tech-for-public-good/
+permalink: /gtpc-category-1/
 variant: tiptap
 description: ""
 ---

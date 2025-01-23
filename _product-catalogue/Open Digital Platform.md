@@ -1,6 +1,6 @@
 ---
 title: Open Digital Platform
-permalink: /open-digital-platform/
+permalink: /gtpc-product-2/
 variant: tiptap
 description: ""
 ---
