@@ -156,7 +156,7 @@ experiences with prompt engineering competitions.
 <br>
 </p>
 <p><a href="https://go.gov.sg/govtechdecoded-from-website-ep5" rel="noopener nofollow" target="_blank">Watch on YouTube</a> |
-<a href="https://go.gov.sg/govtechdecoded-spotify-ep5" rel="noopener nofollow" target="_blank">Listen o</a>
+<a href="https://go.gov.sg/govtechdecoded-spotify-ep5" rel="noopener nofollow" target="_blank">Listen on Spotify</a>
 </p>
 </td>
 </tr>
