@@ -135,6 +135,30 @@ productivity within the Singapore government.
 </p>
 </td>
 </tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="GovTech Decoded Ep5: Secrets to Mastering GenAI from a Prompt Queen" src="/images/Decoded/Ep_5_Spotify_Cover.png">
+</div>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Ep5: Secrets to Mastering GenAI from a Prompt Queen</strong>
+<br>
+<br>Prompt engineering is the mix of art and science to craft inputs that
+guide AI systems to produce accurate, relevant, and meaningful outputs.
+Designing effective prompts can empower users to harness GenAI's full potential.
+<br>
+</p>
+<p>Join Kenneth Ong, Lim Hock Chuan, and Nicole Lee as they share their secrets
+to harnessing GenAI's full potential with the COSTAR framework and their
+experiences with prompt engineering competitions.
+<br>
+</p>
+<p><a href="https://go.gov.sg/govtechdecoded-from-website-ep5" rel="noopener nofollow" target="_blank">Watch on YouTube</a> |
+<a href="https://go.gov.sg/govtechdecoded-spotify-ep5" rel="noopener nofollow" target="_blank">Listen on Spotify</a>| Episode Transcript</p>
+</td>
+</tr>
 </tbody>
 </table>
 <p>Share your ideas and feedback about GovTech Decoded vodcast series at
