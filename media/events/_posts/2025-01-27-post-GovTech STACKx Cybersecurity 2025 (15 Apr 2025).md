@@ -29,7 +29,7 @@ also get to network with like-minded cybersecurity professionals from both
 government and industry sectors.&nbsp;</p>
 <p>This event will feature insightful tech-sharing sessions and meaningful
 conversations around four key areas:</p>
-<ol>
+<ol data-tight="true" class="tight">
 <li>
 <p>Cybersecurity Governance</p>
 </li>
