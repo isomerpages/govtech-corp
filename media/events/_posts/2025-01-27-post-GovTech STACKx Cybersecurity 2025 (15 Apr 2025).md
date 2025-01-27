@@ -20,7 +20,7 @@ Bay Sands Expo and Convention Centre on Monday, 15 April 2025.&nbsp;</p>
 <p><strong>Venue: </strong>Marina Bay Sands Expo and Convention Centre</p>
 </li>
 </ul>
-<p>At STACKx Cybersecurity, you'll hear from experts on the latest trends
+<p>At STCKx Cybersecurity, you'll hear from experts on the latest trends
 and innovations in cybersecurity that are shaping the digital landscape.
 This is an excellent opportunity for government leaders, agency CIOs, business
 users, tech professionals, and industry practitioners to come together
@@ -29,48 +29,20 @@ also get to network with like-minded cybersecurity professionals from both
 government and industry sectors.&nbsp;</p>
 <p>This event will feature insightful tech-sharing sessions and meaningful
 conversations around four key areas:</p>
-<div class="isomer-card-grid">
-<div class="isomer-card">
-<div class="isomer-card-image">
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Cybersecurity Governance" src="https://placehold.co/600x400">
-</div>
-</div>
-<div class="isomer-card-body">
-<div class="isomer-card-title">Cybersecurity Governance</div>
-</div>
-</div>
-<div class="isomer-card">
-<div class="isomer-card-image">
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Cybersecurity Operations" src="https://placehold.co/600x400">
-</div>
-</div>
-<div class="isomer-card-body">
-<div class="isomer-card-title">Cybersecurity Operations</div>
-</div>
-</div>
-<div class="isomer-card">
-<div class="isomer-card-image">
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Cybersecurity Products" src="https://placehold.co/600x400">
-</div>
-</div>
-<div class="isomer-card-body">
-<div class="isomer-card-title">Cybersecurity Products</div>
-</div>
-</div>
-<div class="isomer-card">
-<div class="isomer-card-image">
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="AI x Security" src="https://placehold.co/600x400">
-</div>
-</div>
-<div class="isomer-card-body">
-<div class="isomer-card-title">AI x Security</div>
-</div>
-</div>
-</div>
+<ol>
+<li>
+<p>Cybersecurity Governance</p>
+</li>
+<li>
+<p>Cybersecurity Operations</p>
+</li>
+<li>
+<p>Cybersecurity Products</p>
+</li>
+<li>
+<p>AI x Security.&nbsp;</p>
+</li>
+</ol>
 <p>Discover a lineup of innovative approaches and solutions that address
 the evolving challenges in the cybersecurity domain!&nbsp;</p>
 <h3><strong>The programme includes:&nbsp;</strong></h3>
