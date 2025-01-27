@@ -9,9 +9,9 @@ permalink: /
 notification: ""
 sections:
   - hero:
-      background: /images/Govtech_Decoded_Homepage_Banner_0411_4.png
+      background: /images/STACK_X_Cybersecurtiy_WP_Banner_Draft_3.png
       button: FIND OUT MORE
-      url: /govtech-decoded/
+      url: /media/events/stackx-cybersecurity-2025/
       key_highlights:
         - title: For Citizens
           description: Tips, events and stories
