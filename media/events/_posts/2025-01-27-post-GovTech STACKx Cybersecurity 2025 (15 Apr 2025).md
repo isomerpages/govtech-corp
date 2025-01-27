@@ -14,77 +14,89 @@ variant: tiptap
 <img style="width: 100%" height="auto" width="100%" alt="STACKx Cybersecurity" src="/images/Homepage/STACK_X_Cybersecurtiy_WP_Banner_Draft_3.png">
 </div>
 <p>
-<br>STACKx Cybersecurity will be a one-day, in-person event, held at Marina
-Bay Sands Expo and Convention Centre on Monday, 15 April 2025.&nbsp;</p>
-<ul data-tight="true" class="tight">
-<li>
-<p><strong>Date: </strong>15 April 2025</p>
-</li>
-<li>
-<p><strong>Time: </strong>TBC</p>
-</li>
-<li>
-<p><strong>Venue: </strong>Marina Bay Sands Expo and Convention Centre</p>
-</li>
-</ul>
+<br>GovTech leads Singapore’s digital transformation efforts for the public
+sector, and our mission is to harness technology to create meaningful impact
+and to advance our Smart Nation vision.&nbsp;</p>
+<p></p>
 <p>At STACKx Cybersecurity, you'll hear from experts on the latest trends
 and innovations in cybersecurity that are shaping the digital landscape.
-This is an excellent opportunity for government leaders, agency CIOs, business
-users, tech professionals, and industry practitioners to come together
-and learn more about the latest developments in cybersecurity. You will
-also get to network with like-minded cybersecurity professionals from both
-government and industry sectors.&nbsp;</p>
+This year’s theme, <em>“Securing Tomorrow’s Digital Frontier,”</em> focuses
+on addressing the challenges and opportunities posed by increasingly sophisticated
+cyber threats and emerging technologies. This is an excellent opportunity
+for government leaders, agency CIOs, business users, tech professionals,
+and industry practitioners to come together and learn more about the latest
+developments in cybersecurity. You will also get to network with like-minded
+cybersecurity professionals from both government and industry sectors.&nbsp;</p>
 <p>This event will feature insightful tech-sharing sessions and meaningful
-conversations around four key areas:</p>
-<ol data-tight="true" class="tight">
+conversations around three key areas:</p>
+<ol>
 <li>
-<p>Cybersecurity Governance</p>
+<p>AI x Cybersecurity</p>
 </li>
 <li>
-<p>Cybersecurity Operations</p>
+<p>Resilient and Secure Cloud</p>
 </li>
 <li>
-<p>Cybersecurity Products</p>
-</li>
-<li>
-<p>AI x Security.&nbsp;</p>
+<p>Future Proofing CISOs&nbsp;</p>
 </li>
 </ol>
-<p>Discover a lineup of innovative approaches and solutions that address
-the evolving challenges in the cybersecurity domain!&nbsp;</p>
-<h3><strong>The programme includes:&nbsp;</strong></h3>
-<div data-type="detailGroup" class="isomer-accordion isomer-accordion-white">
-<details class="isomer-details">
-<summary>Keynote presentations&nbsp;</summary>
-<div data-type="detailsContent" class="isomer-details-content">
+<h3>Discover a lineup of innovative approaches and solutions that address the evolving challenges in the cybersecurity domain!</h3>
 <p></p>
-</div>
-</details>
-<details class="isomer-details">
-<summary>Discussions</summary>
-<div data-type="detailsContent" class="isomer-details-content">
-<p></p>
-</div>
-</details>
-<details class="isomer-details">
-<summary>Presentations by government agencies&nbsp;</summary>
-<div data-type="detailsContent" class="isomer-details-content">
-<p></p>
-</div>
-</details>
-<details class="isomer-details">
-<summary>Sharing by industry experts</summary>
-<div data-type="detailsContent" class="isomer-details-content">
-<p></p>
-</div>
-</details>
-<details class="isomer-details">
-<summary>Innovative product showcases</summary>
-<div data-type="detailsContent" class="isomer-details-content">
-<p></p>
-</div>
-</details>
-</div>
+<table style="minWidth: 100px">
+<colgroup>
+<col>
+<col>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<td rowspan="1" colspan="1">
+<p>08:00AM</p>
+</td>
+<td rowspan="1" colspan="3">
+<p>Registration</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>09:00AM</p>
+</td>
+<td rowspan="1" colspan="3">
+<p>Opening Remarks by GovTech Chief Executive, Mr. Goh Wei Boon</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>09:15AM</p>
+</td>
+<td rowspan="1" colspan="3">
+<p>Keynote &amp; Presentations</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>12:30PM</p>
+</td>
+<td rowspan="1" colspan="3">
+<p>Lunch</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>02:00PM</p>
+</td>
+<td rowspan="1" colspan="3">
+<p>Breakout Tracks
+<br><strong>Track 1: </strong>AI x Cybersecurity
+<br><strong>Track 2:</strong> Resilient and Secure Cloud
+<br><strong>Track 3:</strong> Future-Proofing CISOs</p>
+</td>
+</tr>
+</tbody>
+</table>
+<p>&nbsp;* Please note that the programme may be subject to change without
+prior notice</p>
 <p>
 <br>Mark your calendar today by visiting the <a href="-" rel="noopener noreferrer nofollow" target="_blank">STACKx Cybersecurity event page</a>!</p>
 <p></p>
