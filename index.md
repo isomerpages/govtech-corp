@@ -9,7 +9,7 @@ permalink: /
 notification: ""
 sections:
   - hero:
-      background: /images/STACK_X_Cybersecurtiy_WP_Banner_Draft_3.png
+      background: /images/STACK_X_Cybersecurtiy_HP_Banner_Draft_4.png
       button: FIND OUT MORE
       url: /media/events/stackx-cybersecurity-2025/
       key_highlights:
@@ -111,8 +111,8 @@ sections:
           date: 27 January 2025
           announcement: "STACKx Cybersecurity will be a one-day, in-person event,
             featuring insightful tech-sharing sessions and meaningful
-            conversations around three key areas: AI x Cybersecurity, Resilient
-            and Secure Cloud and Future Proofing CISOs ."
+            conversations around four key areas: Cybersecurity Governance,
+            Cybersecurity Operations, Cybersecurity Products and AI x Security."
           link_text: Discover More
           link_url: https://www.tech.gov.sg/events/stackxcybersecurity
         - title: STACK Developer Conference
