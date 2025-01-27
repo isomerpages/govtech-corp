@@ -95,4 +95,3 @@ conversations around three key areas:</p>
 <p>
 <br>Mark your calendar today by visiting the <a href="-" rel="noopener noreferrer nofollow" target="_blank">STACKx Cybersecurity event page</a>!</p>
 <p></p>
-<p></p>
