@@ -156,7 +156,7 @@ experiences with prompt engineering competitions.
 <br>
 </p>
 <p><a href="https://go.gov.sg/govtechdecoded-from-website-ep5" rel="noopener nofollow" target="_blank">Watch on YouTube</a> |
-<a href="https://go.gov.sg/govtechdecoded-spotify-ep5" rel="noopener nofollow" target="_blank">Listen on Spotify</a>
+<a href="https://go.gov.sg/govtechdecoded-spotify-ep5" rel="noopener nofollow" target="_blank">Listen on Spotify</a>| <a href="/files/GovTech Decoded/Ep_5__Secrets_to_Mastering_GenAI_from_a_Prompt_Queen.pdf" rel="noopener noreferrer nofollow" target="_blank">Episode 5 Transcript</a>
 </p>
 </td>
 </tr>
