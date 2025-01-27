@@ -63,4 +63,6 @@ various government digital products and services before they launch!</div>
 </div>
 </a>
 </div>
-<p></p>
+<p>Discover more products and services powered by GovTech <a href="https://www.tech.gov.sg/products-and-services/overview/" class="Hyperlink SCXW10298266 BCX8" rel="noreferrer noopener" target="_blank"><u>here.</u></a>&nbsp;&nbsp;</p>
+<p><a href="https://linktr.ee/connectwithgovtech" class="Hyperlink SCXW10298266 BCX8" rel="noreferrer noopener" target="_blank"><u>Follow us on our social channels,</u></a> and
+stay informed on the latest GovTech updates with <a href="https://hubs.ly/Q02XsY170" class="Hyperlink SCXW10298266 BCX8" rel="noreferrer noopener" target="_blank"><u>TechNews</u></a>.&nbsp;</p>
