@@ -7,17 +7,13 @@ description: ""
 image: ""
 variant: tiptap
 ---
-<p>
-<br>
-</p>
+<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="STACKx Cybersecurity" src="/images/Homepage/STACK_X_Cybersecurtiy_WP_Banner_Draft_3.png">
 </div>
-<p>
-<br>GovTech leads Singapore’s digital transformation efforts for the public
+<p>GovTech leads Singapore’s digital transformation efforts for the public
 sector, and our mission is to harness technology to create meaningful impact
 and to advance our Smart Nation vision.&nbsp;</p>
-<p></p>
 <p>At STACKx Cybersecurity, you'll hear from experts on the latest trends
 and innovations in cybersecurity that are shaping the digital landscape.
 This year’s theme, <em>“Securing Tomorrow’s Digital Frontier,”</em> focuses
@@ -41,7 +37,6 @@ conversations around three key areas:</p>
 </li>
 </ol>
 <h3>Discover a lineup of innovative approaches and solutions that address the evolving challenges in the cybersecurity domain!</h3>
-<p></p>
 <table style="minWidth: 100px">
 <colgroup>
 <col>
@@ -100,6 +95,4 @@ prior notice</p>
 <p>
 <br>Mark your calendar today by visiting the <a href="-" rel="noopener noreferrer nofollow" target="_blank">STACKx Cybersecurity event page</a>!</p>
 <p></p>
-<p>
-<br>
-</p>
+<p></p>
