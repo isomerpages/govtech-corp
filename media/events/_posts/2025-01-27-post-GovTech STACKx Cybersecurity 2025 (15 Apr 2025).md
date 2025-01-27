@@ -90,8 +90,8 @@ conversations around three key areas:</p>
 </tr>
 </tbody>
 </table>
-<p>&nbsp;* Please note that the programme may be subject to change without
-prior notice</p>
+<p><sub>&nbsp;* Please note that the programme may be subject to change without prior notice</sub>
+</p>
 <p>
 <br>Mark your calendar today by visiting the <a href="-" rel="noopener noreferrer nofollow" target="_blank">STACKx Cybersecurity event page</a>!</p>
 <p></p>
