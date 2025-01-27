@@ -114,7 +114,7 @@ sections:
             conversations around four key areas: Cybersecurity Governance,
             Cybersecurity Operations, Cybersecurity Products and AI x Security."
           link_text: Discover More
-          link_url: tech.gov.sg/events/stackxcybersecurity
+          link_url: tech.tech.gov.sg/events/stackxcybersecurity
         - title: STACK Developer Conference
           date: 06 November 2024
           announcement: STACK Developer Conference is GovTech’s biennial flagship
