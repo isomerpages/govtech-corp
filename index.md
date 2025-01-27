@@ -111,8 +111,8 @@ sections:
           date: 27 January 2025
           announcement: "STACKx Cybersecurity will be a one-day, in-person event,
             featuring insightful tech-sharing sessions and meaningful
-            conversations around four key areas: Cybersecurity Governance,
-            Cybersecurity Operations, Cybersecurity Products and AI x Security."
+            conversations around three key areas: AI x Cybersecurity, Resilient
+            and Secure Cloud and Future Proofing CISOs ."
           link_text: Discover More
           link_url: https://www.tech.gov.sg/events/stackxcybersecurity
         - title: STACK Developer Conference
