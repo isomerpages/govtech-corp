@@ -20,7 +20,7 @@ Bay Sands Expo and Convention Centre on Monday, 15 April 2025.&nbsp;</p>
 <p><strong>Venue: </strong>Marina Bay Sands Expo and Convention Centre</p>
 </li>
 </ul>
-<p>At STCKx Cybersecurity, you'll hear from experts on the latest trends
+<p>At STACKx Cybersecurity, you'll hear from experts on the latest trends
 and innovations in cybersecurity that are shaping the digital landscape.
 This is an excellent opportunity for government leaders, agency CIOs, business
 users, tech professionals, and industry practitioners to come together
