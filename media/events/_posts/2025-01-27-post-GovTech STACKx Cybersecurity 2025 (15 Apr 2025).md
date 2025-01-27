@@ -7,7 +7,14 @@ description: ""
 image: ""
 variant: tiptap
 ---
-<p>STACKx Cybersecurity will be a one-day, in-person event, held at Marina
+<p>
+<br>
+</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="STACKx Cybersecurity" src="/images/Homepage/STACK_X_Cybersecurtiy_WP_Banner_Draft_3.png">
+</div>
+<p>
+<br>STACKx Cybersecurity will be a one-day, in-person event, held at Marina
 Bay Sands Expo and Convention Centre on Monday, 15 April 2025.&nbsp;</p>
 <ul data-tight="true" class="tight">
 <li>
