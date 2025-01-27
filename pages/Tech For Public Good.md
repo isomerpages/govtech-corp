@@ -46,20 +46,19 @@ tech&nbsp;</p>
 </li>
 </ul>
 <h3><strong>Learn more about our digital government efforts</strong></h3>
-<div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="https://www.tech.gov.sg/products-and-services/for-citizens/crowdsourcing/crowdtasksg/" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Community Engagement: CrowdTaskSG" src="https://placehold.co/600x400"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Community Engagement: CrowdTaskSG</div><div class="isomer-card-description">Earn rewards while shaping Singapore’s future! CrowdTaskSG lets you share your feedback through tasks and surveys that help improve our government digital products and services, while earning coins that you can redeem at selected merchants.</div><div class="isomer-card-link">Start earning rewards today!</div></div></a>
-<a rel="noopener noreferrer nofollow" href="https://hubs.ly/Q02XsY170" class="isomer-card">
+<div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="https://www.tech.gov.sg/products-and-services/for-citizens/crowdsourcing/crowdtasksg/" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Community Engagement: CrowdTaskSG" src="https://placehold.co/600x400"></div></div><div class="isomer-card-body"><div class="isomer-card-title">CrowdTaskSG: Making community engagement fun and meaningful</div><div class="isomer-card-description">Earn rewards while shaping Singapore’s future! CrowdTaskSG lets you share your feedback through tasks and surveys that help improve our government digital products and services, while earning coins that you can redeem at selected merchants.</div><div class="isomer-card-link">Start earning rewards today!</div></div></a>
+<a rel="noopener noreferrer nofollow" href="https://www.tech.gov.sg/products-and-services/for-businesses/corporate-transactions/gobusiness/" class="isomer-card">
 <div class="isomer-card-image">
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="Placeholder image" src="https://placehold.co/600x400">
 </div>
 </div>
 <div class="isomer-card-body">
-<div class="isomer-card-title">Community Engagement: Tech Kaki</div>
-<div class="isomer-card-description">Tech Kaki is a 6,000-strong citizen community initiative by GovTech committed
-to fostering citizen engagement in the development of digital services
-and products. Join our Tech Kaki community to get first dibs on testing
-various government digital products and services before they launch!</div>
-<div class="isomer-card-link">Join the Tech Kaki community</div>
+<div class="isomer-card-title">GoBusiness: Simplifying Business Registration and Admin</div>
+<div class="isomer-card-description">GoBusiness is the go-to platform for businesses in Singapore to access
+Government e-services and resources. Save time, reduce admin, and focus
+on growth while staying compliant.</div>
+<div class="isomer-card-link">Discover how GoBusiness empowers business owners</div>
 </div>
 </a>
 </div>
