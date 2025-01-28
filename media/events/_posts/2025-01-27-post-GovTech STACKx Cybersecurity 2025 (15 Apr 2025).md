@@ -32,7 +32,7 @@ conversations around three key areas:</p>
 <p>Resilient and Secure Cloud</p>
 </li>
 <li>
-<p>Future Proofing CISOs&nbsp;</p>
+<p>CISOs of the Future</p>
 </li>
 </ol>
 <h3>Discover a lineup of innovative approaches and solutions that address the evolving challenges in the cybersecurity domain!</h3>
@@ -84,7 +84,7 @@ conversations around three key areas:</p>
 <p>Breakout Tracks
 <br><strong>Track 1: </strong>AI x Cybersecurity
 <br><strong>Track 2:</strong> Resilient and Secure Cloud
-<br><strong>Track 3:</strong> Future-Proofing CISOs</p>
+<br><strong>Track 3:</strong> CISOs of the Future</p>
 </td>
 </tr>
 </tbody>
