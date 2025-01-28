@@ -60,7 +60,7 @@ Government e-services and resources. Save time, reduce admin, and focus
 on growth while staying compliant.</div>
 <div class="isomer-card-link">Discover how GoBusiness empowers business owners</div>
 </div>
-</a><a rel="noopener noreferrer nofollow" href="https://www.isomer.gov.sg" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="test" src="https://placehold.co/600x400"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Transcribe</div><div class="isomer-card-description">test text</div><div class="isomer-card-link">This is a link for your card</div></div></a>
+</a>
 </div>
 <p></p>
 <div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="https://www.tech.gov.sg/products-and-services/for-citizens/employment/mycareersfuture/" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Placeholder Career Exploration and Development: MyCareersFuture" src="https://placehold.co/600x400"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Career Exploration and Development: MyCareersFuture</div><div class="isomer-card-description">MyCareersFuture empowers the workforce and employers by connecting jobseekers with training opportunities and employers with talent.</div><div class="isomer-card-link">Start your journey with MyCareersFuture today!</div></div></a>
