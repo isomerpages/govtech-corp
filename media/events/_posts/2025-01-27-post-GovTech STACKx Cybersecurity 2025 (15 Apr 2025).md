@@ -92,5 +92,5 @@ conversations around three key areas:</p>
 <p><sub>&nbsp;* Please note that the programme may be subject to change without prior notice</sub>
 </p>
 <p>
-<br>Mark your calendar today by visiting the <a href="-" rel="noopener noreferrer nofollow" target="_blank">STACKx Cybersecurity event page</a>!</p>
+<br>Mark your calendar today by visiting the <a href="https://www.developer.tech.gov.sg/communities/events/conferences/stackx-cybersecurity-2025/overview.html" rel="noopener noreferrer nofollow" target="_blank">STACKx Cybersecurity event page</a>!</p>
 <p></p>
