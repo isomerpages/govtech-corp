@@ -9,9 +9,9 @@ permalink: /
 notification: ""
 sections:
   - hero:
-      background: /images/Govtech_Decoded_Homepage_Banner_0411_4.png
+      background: /images/STACK_X_Cybersecurtiy_HP_Banner_Draft_6.png
       button: FIND OUT MORE
-      url: /govtech-decoded/
+      url: /media/events/stackx-cybersecurity-2025/
       key_highlights:
         - title: For Citizens
           description: Tips, events and stories
@@ -107,19 +107,18 @@ sections:
       id: announcements
       subtitle: ANNOUNCEMENTS
       announcement_items:
+        - title: STACKx Cybersecurity
+          date: 27 January 2025
+          announcement: "STACKx Cybersecurity will be a one-day, in-person event,
+            featuring insightful tech-sharing sessions and meaningful
+            conversations around four key areas: Cybersecurity Governance,
+            Cybersecurity Operations, Cybersecurity Products and AI x Security."
+          link_text: Discover More
+          link_url: https://www.tech.gov.sg/events/stackxcybersecurity
         - title: STACK Developer Conference
           date: 06 November 2024
           announcement: STACK Developer Conference is GovTech’s biennial flagship
             conference connecting Government, industry, and the tech community.
           link_text: Watch Recordings
           link_url: https://www.developer.tech.gov.sg/communities/events/conferences/stack-developer-conference-2024/recordings
-        - title: Industry Engagement
-          date: 14 May 2024
-          announcement: Industry Engagement is an annual, two-way dialogue session where
-            GovTech engages our vendors and industry partners to tap the
-            complementary strengths of the public and private sectors, in order
-            to deliver better digital services for citizens, businesses, and
-            government agencies.
-          link_text: Event Recap
-          link_url: /media/events/industry-engagement-2024
 ---
