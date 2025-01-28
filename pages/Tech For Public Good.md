@@ -96,7 +96,7 @@ you are, and save time by pre-filling forms with your Myinfo data for participat
 services when you log in with Singpass.</div>
 <div class="isomer-card-link">Learn more about Singpass</div>
 </div>
-</a><a rel="noopener noreferrer nofollow" href="https://www.isomer.gov.sg" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Placeholder image" src="https://placehold.co/600x400"></div></div><div class="isomer-card-body"><div class="isomer-card-title">This is a title for your card</div><div class="isomer-card-description">This is body text for your card. Describe your card.</div><div class="isomer-card-link">This is a link for your card</div></div></a>
+</a>
 </div>
 <p>Discover more products and services powered by GovTech <a href="https://www.tech.gov.sg/products-and-services/overview/" class="Hyperlink SCXW10298266 BCX8" rel="noreferrer noopener" target="_blank"><u>here.</u></a>&nbsp;&nbsp;</p>
 <p><a href="https://linktr.ee/connectwithgovtech" class="Hyperlink SCXW10298266 BCX8" rel="noreferrer noopener" target="_blank"><u>Follow us on our social channels,</u></a> and
