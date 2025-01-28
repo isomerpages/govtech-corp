@@ -62,6 +62,24 @@ on growth while staying compliant.</div>
 </div>
 </a>
 </div>
+<p></p>
+<div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="https://www.tech.gov.sg/products-and-services/for-citizens/employment/mycareersfuture/" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Placeholder Career Exploration and Development: MyCareersFuture" src="https://placehold.co/600x400"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Career Exploration and Development: MyCareersFuture </div><div class="isomer-card-description">MyCareersFuture empowers the workforce and employers by connecting jobseekers with training opportunities and employers with talent.  </div><div class="isomer-card-link">Start your journey with MyCareersFuture today! </div></div></a>
+<a rel="noopener noreferrer nofollow" href="https://www.tech.gov.sg/products-and-services/for-businesses/smart-city-tech/" class="isomer-card">
+<div class="isomer-card-image">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Smart City Tech: Open Digital Platform" src="https://placehold.co/600x400">
+</div>
+</div>
+<div class="isomer-card-body">
+<div class="isomer-card-title">Smart City Tech: Open Digital Platform</div>
+<div class="isomer-card-description">The Open Digital Platform (ODP) is an advanced smart city operating system
+integrating district management operations. As Punggol Digital District's
+digital backbone, ODP streamlines business operations, enhances decision-making,
+and boosts efficiency.</div>
+<div class="isomer-card-link">Learn more about ODP here.</div>
+</div>
+</a>
+</div>
 <p>Discover more products and services powered by GovTech <a href="https://www.tech.gov.sg/products-and-services/overview/" class="Hyperlink SCXW10298266 BCX8" rel="noreferrer noopener" target="_blank"><u>here.</u></a>&nbsp;&nbsp;</p>
 <p><a href="https://linktr.ee/connectwithgovtech" class="Hyperlink SCXW10298266 BCX8" rel="noreferrer noopener" target="_blank"><u>Follow us on our social channels,</u></a> and
 stay informed on the latest GovTech updates with <a href="https://hubs.ly/Q02XsY170" class="Hyperlink SCXW10298266 BCX8" rel="noreferrer noopener" target="_blank"><u>TechNews</u></a>.&nbsp;</p>
