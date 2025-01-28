@@ -76,9 +76,27 @@ on growth while staying compliant.</div>
 integrating district management operations. As Punggol Digital District's
 digital backbone, ODP streamlines business operations, enhances decision-making,
 and boosts efficiency.</div>
-<div class="isomer-card-link">Learn more about ODP here.</div>
+<div class="isomer-card-link">Learn more about ODP here</div>
 </div>
 </a>
+</div>
+<p></p>
+<div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="https://www.tech.gov.sg/products-and-services/for-government-agencies/software-development/sg-tech-stack/" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Simplifying Development of Digital Services: Singapore Government Tech Stack" src="https://placehold.co/600x400"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Simplifying Development of Digital Services: Singapore Government Tech Stack </div><div class="isomer-card-description">The Singapore Government Tech Stack offers agencies standardised, secure digital tools for efficient software development. It provides a unified framework, reducing duplication and ensuring interoperability. It promotes cost-efficiency and innovation while maintaining security and compliance. </div><div class="isomer-card-link">Discover what Singapore Government Tech Stack can do for your agency</div></div></a>
+<a rel="noopener noreferrer nofollow" href="https://www.tech.gov.sg/products-and-services/for-citizens/digital-services/singpass/" class="isomer-card">
+<div class="isomer-card-image">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Digital Identity: Singpass" src="https://placehold.co/600x400">
+</div>
+</div>
+<div class="isomer-card-body">
+<div class="isomer-card-title">Digital Identity: Singpass</div>
+<div class="isomer-card-description">Singpass is every resident’s trusted identity to access government and
+business services online. Access digital services easily and securely whereever
+you are, and save time by pre-filling forms with your Myinfo data for participating
+services when you log in with Singpass.</div>
+<div class="isomer-card-link">Learn more about Singpass</div>
+</div>
+</a><a rel="noopener noreferrer nofollow" href="https://www.isomer.gov.sg" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Placeholder image" src="https://placehold.co/600x400"></div></div><div class="isomer-card-body"><div class="isomer-card-title">This is a title for your card</div><div class="isomer-card-description">This is body text for your card. Describe your card.</div><div class="isomer-card-link">This is a link for your card</div></div></a>
 </div>
 <p>Discover more products and services powered by GovTech <a href="https://www.tech.gov.sg/products-and-services/overview/" class="Hyperlink SCXW10298266 BCX8" rel="noreferrer noopener" target="_blank"><u>here.</u></a>&nbsp;&nbsp;</p>
 <p><a href="https://linktr.ee/connectwithgovtech" class="Hyperlink SCXW10298266 BCX8" rel="noreferrer noopener" target="_blank"><u>Follow us on our social channels,</u></a> and
