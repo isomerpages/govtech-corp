@@ -34,6 +34,38 @@ students who are up for a challenge and want to make a difference. If that
 sounds like you, first check out the timelines as well as guidelines for
 our internship applications. <strong>Do note that applicants who have graduated from university are not eligible for our internship programme.</strong>
 </p>
+<table style="minWidth: 25px">
+<colgroup>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Check out available internship roles and projects at GovTech.</strong>
+</p>
+<p><strong><a href="http://go.gov.sg/govtechinternshipprojects2025" rel="noopener noreferrer nofollow" target="_blank"><u>go.gov.sg/govtechinternshipprojects2025</u></a></strong>
+</p>
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Ready to apply? Submit your application via Careers@Gov today!</strong>
+</p>
+<p><strong><a href="http://go.gov.sg/govtechinternshipprojects2025" rel="noopener noreferrer nofollow" target="_blank">go.gov.sg/govtechinternship2025</a>&nbsp;</strong>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Already applied? Let us know your preferred project(s) via our form.</strong>
+</p>
+<p><strong><a href="http://go.gov.sg/govtechinternshipprojects2025" rel="noopener noreferrer nofollow" target="_blank"><u>go.gov.sg/govtech2025internships</u></a></strong>
+</p>
+</td>
+</tr>
+</tbody>
+</table>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="GovTech internship 2025 application periods" src="/images/careers/govtech_internship_application_period_2025.jpg">
 </div>
