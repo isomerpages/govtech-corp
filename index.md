@@ -108,13 +108,13 @@ sections:
       subtitle: ANNOUNCEMENTS
       announcement_items:
         - title: STACKx Cybersecurity
-          date: 27 January 2025
+          date: 15 April 2025
           announcement: "STACKx Cybersecurity will be a one-day, in-person event,
             featuring insightful tech-sharing sessions and meaningful
             conversations around three key areas: AI x Cybersecurity, Resilient
             and Secure Cloud, Future Proofing CISOs."
           link_text: Discover More
-          link_url: https://www.tech.gov.sg/events/stackxcybersecurity
+          link_url: https://www.tech.gov.sg/media/events/stackx-cybersecurity-2025/
         - title: STACK Developer Conference
           date: 06 November 2024
           announcement: STACK Developer Conference is GovTech’s biennial flagship
