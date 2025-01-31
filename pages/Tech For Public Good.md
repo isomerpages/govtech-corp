@@ -46,7 +46,7 @@ tech&nbsp;</p>
 </li>
 </ul>
 <h3><strong>Learn more about our digital government efforts</strong></h3>
-<div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="https://www.tech.gov.sg/products-and-services/for-citizens/crowdsourcing/crowdtasksg/" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Community Engagement: CrowdTaskSG" src="https://placehold.co/600x400"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Community Engagement: CrowdTaskSG</div><div class="isomer-card-description">Earn rewards while shaping Singapore’s future! CrowdTaskSG lets you share your feedback through tasks and surveys that help improve our government digital products and services, while earning coins that you can redeem at selected merchants.</div><div class="isomer-card-link">Start earning rewards today!</div></div></a>
+<div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="https://www.tech.gov.sg/products-and-services/for-citizens/crowdsourcing/crowdtasksg/" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Community Engagement: CrowdTaskSG" src="/images/250123__GOVTECH__CrowdTask_no_end_frame__compressed_.gif"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Community Engagement: CrowdTaskSG</div><div class="isomer-card-description">Earn rewards while shaping Singapore’s future! CrowdTaskSG lets you share your feedback through tasks and surveys that help improve our government digital products and services, while earning coins that you can redeem at selected merchants.</div><div class="isomer-card-link">Start earning rewards today!</div></div></a>
 <a rel="noopener noreferrer nofollow" href="https://www.tech.gov.sg/products-and-services/for-businesses/corporate-transactions/gobusiness/" class="isomer-card">
 <div class="isomer-card-image">
 <div class="isomer-image-wrapper">
@@ -97,6 +97,27 @@ services when you log in with Singpass.</div>
 <div class="isomer-card-link">Learn more about Singpass</div>
 </div>
 </a>
+</div>
+<p></p>
+<div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="https://www.tech.gov.sg/products-and-services/for-citizens/scam-prevention/" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Scam Prevention: SATIS/rMSE" src="https://placehold.co/600x400"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Scam Prevention: SATIS/rMSE</div><div class="isomer-card-description">As cyber threats evolve, protecting citizens and businesses from fraud is crucial. SATIS supports SPF in combating scam websites, while rMSE, an AI-powered classifier, evaluates potential scams at scale. Together, they continuously review over 100,000 websites, mitigating the impact of online scams.</div><div class="isomer-card-link">Find out more here</div></div></a>
+<a rel="noopener noreferrer nofollow" href="https://hubs.ly/Q02XsY170" class="isomer-card">
+<div class="isomer-card-image">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Community Engagement: Tech Kaki" src="https://placehold.co/600x400">
+</div>
+</div>
+<div class="isomer-card-body">
+<div class="isomer-card-title">Community Engagement: Tech Kaki</div>
+<div class="isomer-card-description">Tech Kaki is a 6,000-strong citizen community initiative by GovTech committed
+to fostering citizen engagement in the development of digital services
+and products. Join our Tech Kaki community to get first dibs on testing
+various government digital products and services before they launch!</div>
+<div class="isomer-card-link">Join the Tech Kaki community</div>
+</div>
+</a>
+</div>
+<p></p>
+<div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="https://www.tech.gov.sg/products-and-services/for-government-agencies/productivity-and-marketing/" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Increasing Public Officers’ Productivity: AI Tools" src="https://placehold.co/600x400"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Increasing Public Officers’ Productivity: AI Tools</div><div class="isomer-card-description">GovTech empowers public officers with tools and digital capabilities to engineer a digital government and deliver tech for public good. Our solutions automate tasks, foster collaboration, and drive innovation, streamlining workflows and enhancing digital services for public officers and citizens.</div><div class="isomer-card-link">Discover our suite of public officer productivity tools</div></div></a>
 </div>
 <p>Discover more products and services powered by GovTech <a href="https://www.tech.gov.sg/products-and-services/overview/" class="Hyperlink SCXW10298266 BCX8" rel="noreferrer noopener" target="_blank"><u>here.</u></a>&nbsp;&nbsp;</p>
 <p><a href="https://linktr.ee/connectwithgovtech" class="Hyperlink SCXW10298266 BCX8" rel="noreferrer noopener" target="_blank"><u>Follow us on our social channels,</u></a> and
