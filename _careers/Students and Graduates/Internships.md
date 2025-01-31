@@ -52,7 +52,7 @@ our internship applications. <strong>Do note that applicants who have graduated 
 <td rowspan="1" colspan="1">
 <p><strong>Ready to apply? Submit your application via Careers@Gov today!</strong>
 </p>
-<p><strong><a href="http://go.gov.sg/govtechinternshipprojects2025" rel="noopener noreferrer nofollow" target="_blank">go.gov.sg/govtechinternship2025</a>&nbsp;</strong>
+<p><strong><a href="http://go.gov.sg/govtechinternship2025" rel="noopener noreferrer nofollow" target="_blank">go.gov.sg/govtechinternship2025</a>&nbsp;</strong>
 </p>
 </td>
 </tr>
@@ -60,7 +60,7 @@ our internship applications. <strong>Do note that applicants who have graduated 
 <td rowspan="1" colspan="1">
 <p><strong>Already applied? Let us know your preferred project(s) via our form.</strong>
 </p>
-<p><strong><a href="http://go.gov.sg/govtechinternshipprojects2025" rel="noopener noreferrer nofollow" target="_blank"><u>go.gov.sg/govtech2025internships</u></a></strong>
+<p><strong><a href="http://go.gov.sg/govtech2025internships" rel="noopener noreferrer nofollow" target="_blank"><u>go.gov.sg/govtech2025internships</u></a></strong>
 </p>
 </td>
 </tr>
