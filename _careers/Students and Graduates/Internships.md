@@ -70,7 +70,7 @@ our internship applications. <strong>Do note that applicants who have graduated 
 <img style="width: 100%" height="auto" width="100%" alt="GovTech internship 2025 application periods" src="/images/careers/govtech_internship_application_period_2025.jpg">
 </div>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="GovTech's internship application processes" src="/images/govtech_Infographics_2025.png">
+<img style="width: 100%" height="auto" width="100%" alt="GovTech's internship application processes" src="/images/govtech_Infographics_2025_1.png">
 </div>
 <h3>Hear from our past interns</h3>
 <p></p>
