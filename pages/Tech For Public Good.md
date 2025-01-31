@@ -98,6 +98,24 @@ services when you log in with Singpass.</div>
 </div>
 </a>
 </div>
+<p></p>
+<div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="https://www.tech.gov.sg/products-and-services/for-citizens/scam-prevention/" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Scam Prevention: SATIS/rMSE" src="https://placehold.co/600x400"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Scam Prevention: SATIS/rMSE </div><div class="isomer-card-description">As cyber threats evolve, protecting citizens and businesses from fraud is crucial. SATIS supports SPF in combating scam websites, while rMSE, an AI-powered classifier, evaluates potential scams at scale. Together, they continuously review over 100,000 websites, mitigating the impact of online scams.</div><div class="isomer-card-link">Find out more here</div></div></a>
+<a rel="noopener noreferrer nofollow" href="https://hubs.ly/Q02XsY170" class="isomer-card">
+<div class="isomer-card-image">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Community Engagement: Tech Kaki" src="https://placehold.co/600x400">
+</div>
+</div>
+<div class="isomer-card-body">
+<div class="isomer-card-title">Community Engagement: Tech Kaki</div>
+<div class="isomer-card-description">Tech Kaki is a 6,000-strong citizen community initiative by GovTech committed
+to fostering citizen engagement in the development of digital services
+and products. Join our Tech Kaki community to get first dibs on testing
+various government digital products and services before they launch!</div>
+<div class="isomer-card-link">Join the Tech Kaki community</div>
+</div>
+</a>
+</div>
 <p>Discover more products and services powered by GovTech <a href="https://www.tech.gov.sg/products-and-services/overview/" class="Hyperlink SCXW10298266 BCX8" rel="noreferrer noopener" target="_blank"><u>here.</u></a>&nbsp;&nbsp;</p>
 <p><a href="https://linktr.ee/connectwithgovtech" class="Hyperlink SCXW10298266 BCX8" rel="noreferrer noopener" target="_blank"><u>Follow us on our social channels,</u></a> and
 stay informed on the latest GovTech updates with <a href="https://hubs.ly/Q02XsY170" class="Hyperlink SCXW10298266 BCX8" rel="noreferrer noopener" target="_blank"><u>TechNews</u></a>.&nbsp;</p>
