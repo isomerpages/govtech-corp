@@ -46,7 +46,7 @@ tech&nbsp;</p>
 </li>
 </ul>
 <h3><strong>Learn more about our digital government efforts</strong></h3>
-<div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="https://www.tech.gov.sg/products-and-services/for-citizens/crowdsourcing/crowdtasksg/" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Community Engagement: CrowdTaskSG" src="https://placehold.co/600x400"></div></div><div class="isomer-card-body"><div class="isomer-card-title">CrowdTaskSG: Making community engagement fun and meaningful</div><div class="isomer-card-description">Earn rewards while shaping Singapore’s future! CrowdTaskSG lets you share your feedback through tasks and surveys that help improve our government digital products and services, while earning coins that you can redeem at selected merchants.</div><div class="isomer-card-link">Start earning rewards today!</div></div></a>
+<div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="https://www.tech.gov.sg/products-and-services/for-citizens/crowdsourcing/crowdtasksg/" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Community Engagement: CrowdTaskSG" src="https://placehold.co/600x400"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Community Engagement: CrowdTaskSG</div><div class="isomer-card-description">Earn rewards while shaping Singapore’s future! CrowdTaskSG lets you share your feedback through tasks and surveys that help improve our government digital products and services, while earning coins that you can redeem at selected merchants.</div><div class="isomer-card-link">Start earning rewards today!</div></div></a>
 <a rel="noopener noreferrer nofollow" href="https://www.tech.gov.sg/products-and-services/for-businesses/corporate-transactions/gobusiness/" class="isomer-card">
 <div class="isomer-card-image">
 <div class="isomer-image-wrapper">
@@ -59,6 +59,42 @@ tech&nbsp;</p>
 Government e-services and resources. Save time, reduce admin, and focus
 on growth while staying compliant.</div>
 <div class="isomer-card-link">Discover how GoBusiness empowers business owners</div>
+</div>
+</a>
+</div>
+<p></p>
+<div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="https://www.tech.gov.sg/products-and-services/for-citizens/employment/mycareersfuture/" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Placeholder Career Exploration and Development: MyCareersFuture" src="https://placehold.co/600x400"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Career Exploration and Development: MyCareersFuture</div><div class="isomer-card-description">MyCareersFuture empowers the workforce and employers by connecting jobseekers with training opportunities and employers with talent.</div><div class="isomer-card-link">Start your journey with MyCareersFuture today!</div></div></a>
+<a rel="noopener noreferrer nofollow" href="https://www.tech.gov.sg/products-and-services/for-businesses/smart-city-tech/" class="isomer-card">
+<div class="isomer-card-image">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Smart City Tech: Open Digital Platform" src="https://placehold.co/600x400">
+</div>
+</div>
+<div class="isomer-card-body">
+<div class="isomer-card-title">Smart City Tech: Open Digital Platform</div>
+<div class="isomer-card-description">The Open Digital Platform (ODP) is an advanced smart city operating system
+integrating district management operations. As Punggol Digital District's
+digital backbone, ODP streamlines business operations, enhances decision-making,
+and boosts efficiency.</div>
+<div class="isomer-card-link">Learn more about ODP here</div>
+</div>
+</a>
+</div>
+<p></p>
+<div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="https://www.tech.gov.sg/products-and-services/for-government-agencies/software-development/sg-tech-stack/" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Simplifying Development of Digital Services: Singapore Government Tech Stack" src="https://placehold.co/600x400"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Simplifying Development of Digital Services: Singapore Government Tech Stack</div><div class="isomer-card-description">The Singapore Government Tech Stack offers agencies standardised, secure digital tools for efficient software development. It provides a unified framework, reducing duplication and ensuring interoperability. It promotes cost-efficiency and innovation while maintaining security and compliance.</div><div class="isomer-card-link">Discover what Singapore Government Tech Stack can do for your agency</div></div></a>
+<a rel="noopener noreferrer nofollow" href="https://www.tech.gov.sg/products-and-services/for-citizens/digital-services/singpass/" class="isomer-card">
+<div class="isomer-card-image">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Digital Identity: Singpass" src="https://placehold.co/600x400">
+</div>
+</div>
+<div class="isomer-card-body">
+<div class="isomer-card-title">Digital Identity: Singpass</div>
+<div class="isomer-card-description">Singpass is every resident’s trusted identity to access government and
+business services online. Access digital services easily and securely whereever
+you are, and save time by pre-filling forms with your Myinfo data for participating
+services when you log in with Singpass.</div>
+<div class="isomer-card-link">Learn more about Singpass</div>
 </div>
 </a>
 </div>
