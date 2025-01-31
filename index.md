@@ -108,7 +108,7 @@ sections:
       subtitle: ANNOUNCEMENTS
       announcement_items:
         - title: STACKx Cybersecurity
-          date: 27 January 2025
+          date: 15 April 2025
           announcement: "STACKx Cybersecurity will be a one-day, in-person event,
             featuring insightful tech-sharing sessions and meaningful
             conversations around three key areas: AI x Cybersecurity, Resilient
