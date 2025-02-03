@@ -96,8 +96,7 @@ continued community participation in scam prevention.</p>
 <p>In a rapidly evolving digital landscape, the ScamShield Bot is an example
 of how we can harness technological innovation and community engagement
 to create a safer, more secure Singapore for our citizens.</p>
-<p>Check and report scams easily now with&nbsp;<a href="https://go.gov.sg/scamshield-bot" class="editor-rtfLink" rel="noopener noreferrer nofollow" target="_blank">ScamShield Bot.</a>
-</p>
+<p></p>
 <h3>GoBusiness: Helping Singapore become more business-friendly</h3>
 <p>Now, Singapore is already one of the easiest places to start a business
 in the world. But part of the&nbsp;<a href="https://www.gobusiness.gov.sg/" class="editor-rtfLink" rel="noopener noreferrer nofollow" target="_blank">GoBusiness</a>&nbsp;team’s
