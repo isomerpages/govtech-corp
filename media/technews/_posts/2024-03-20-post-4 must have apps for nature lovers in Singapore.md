@@ -38,9 +38,9 @@ can also play a part in enriching the website as you can upload photos
 to share sightings of flowering trees and even tag notes of appreciation
 to your favourite tree.</p>
 <p>You can also follow the myriad of recommended&nbsp;<a href="https://beta.nparks.gov.sg/visit/activities/nature-walks-tours" class="editor-rtfLink" rel="noopener noreferrer nofollow" target="_blank">trails</a>&nbsp;that
-will let you discover local trees and biodiversity. For instance, the&nbsp;
-<a href="https://www.nparks.gov.sg/~/media/nparks-real-content/gardens-parks-and-nature/diy-walk/diy-walk-pdf-files/civic-district-tree-trail.pdf" class="editor-rtfLink" rel="noopener noreferrer nofollow" target="_blank">Civic District tree trail</a>&nbsp;introduces you to some of the oldest
-trees in Singapore while also revealing their place in the country’s history.</p>
+will let you discover local trees and biodiversity. For instance, the
+<a href="https://www.nparks.gov.sg/visit/parks/civic-district-heritage-walk-tour" rel="noopener nofollow" target="_blank">Civic District heritage walk</a>introduces you to some of the oldest trees
+in Singapore while also revealing their place in the country’s history.</p>
 <p>As for those with young children below the age of three, you can look
 out for opportunities to commemorate your child’s birth by <a href="https://www.nparks.gov.sg/treessg/one-million-trees-movement/familytrees" rel="noopener noreferrer nofollow" target="_blank">planting a tree</a>.
 The tree will grow along with your little one, and wouldn’t it be cool
