@@ -7,9 +7,7 @@ contacts:
   - content:
       - phone: +65 6211 0888
       - email: info@tech.gov.sg
-      - other: "Please note that GovTech will be discontinuing the following contact
-          numbers: 1800 211 0777 and 6211 2100. We remain contactable at 6211
-          0888 or via the email above."
+      - other: ""
     title: General Enquiries & Feedback
   - content:
       - phone: ""
