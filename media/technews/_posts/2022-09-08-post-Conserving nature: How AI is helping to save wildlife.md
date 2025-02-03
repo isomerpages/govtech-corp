@@ -22,13 +22,13 @@ many due to the demands of the shark fin trade.</p>
 <p>Singapore is part of a global convention banning the trade of certain
 endangered sharks and rays, but enforcement is a challenge as it is not
 easy to easily tell if dried fins and rays come from the restricted species.</p>
-<p>The&nbsp;<a href="https://www.nparks.gov.sg/biodiversity/centre-for-wildlife-forensics/fauna-identification-and-analysis/sharks-and-rays" class="editor-rtfLink" rel="noopener noreferrer nofollow" target="_blank">Fin Finder</a>&nbsp;app
-uses AI that has been trained to identify prohibited fin types. Using the
-app, inspectors armed with a simple smartphone can rapidly identify contraband.</p>
+<p>The Fin Finder app uses AI that has been trained to identify prohibited
+fin types. Using the app, inspectors armed with a simple smartphone can
+rapidly identify contraband.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="AI helping to save wildlife" src="/images/technews/Conserving_nature__How_AI_is_helping_to_save_wildlife.jpg">
 </div>
-<p><em>How can technology keep poachers at bay? </em>
+<p><em>How can technology keep poachers at bay?</em>
 </p>
 <h3>Poacher detection – Connected Conservation Initiative (Zambia)</h3>
 <p>Zambia is home to the 22,400 sq km Kafue National Park, which is supposed

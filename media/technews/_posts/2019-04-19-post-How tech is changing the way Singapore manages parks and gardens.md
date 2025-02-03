@@ -139,11 +139,11 @@ and fauna around Singapore and submit those images to NParks for identification.
 the organisms sharing their environment, but at the same time, NParks gathers
 data about the location and frequency of interesting sightings,” Mr Shee
 explained.</p>
-<p><strong>trees.sg</strong>
+<p><strong>TreesSG</strong>
 </p>
-<p>Finally, nature lovers can also visit <a href="https://www.nparks.gov.sg/trees" rel="noopener noreferrer nofollow" target="_blank">trees.sg</a> to find out the scientific
+<p>Finally, nature lovers can also visit <a href="https://www.nparks.gov.sg/treessg" rel="noopener noreferrer nofollow" target="_blank">TreesSG</a> to find out the scientific
 and common names of trees planted in their neighbourhoods, as well as details
 about the dimensions, carbon content, pruning schedules of each tree. Developed
-together with GovTech, the trees.sg database contains data on more than
-500,000 urban trees and is synchronised with MAVEN, making it easy for
-both the public and NParks officers to access up-to-date information.</p>
+together with GovTech, the database contains data on more than 500,000
+urban trees and is synchronised with MAVEN, making it easy for both the
+public and NParks officers to access up-to-date information.</p>
