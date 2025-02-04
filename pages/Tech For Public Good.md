@@ -13,7 +13,7 @@ everywhere.&nbsp;&nbsp;Our refreshed brand video showcases GovTech’s work
 from daily conveniences to empowering communities, reflecting on the true
 meaning of tech for public good. Sometimes hidden, but always purposeful.&nbsp;&nbsp;</p>
 <div class="iframe-wrapper">
-<iframe height="440" width="783" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/lDA1tFDFs18"></iframe>
+<iframe height="440" width="600" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/lDA1tFDFs18"></iframe>
 </div>
 <h3><strong>How GovTech is shaping digital solutions for the public good</strong>&nbsp;</h3>
 <p>From products and services that impact citizens’ daily lives, to behind
