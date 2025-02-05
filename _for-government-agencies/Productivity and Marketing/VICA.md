@@ -31,9 +31,10 @@ auto-complete suggestions, knowledge base control, and response translation.</p>
 </li>
 </ul>
 <hr>
-<p>VICA, or Virtual Intelligent Chat Assistant, is GovTech's next-generation
-virtual assistant platform. This highly intuitive assistant is built on
-natural language processing (NLP) engines, machine learning and AI.</p>
+<p><a href="https://www.vica.gov.sg/" rel="noopener noreferrer nofollow" target="_blank">VICA, or Virtual Intelligent Chat Assistant</a>,
+is GovTech's next-generation virtual assistant platform. This highly intuitive
+assistant is built on natural language processing (NLP) engines, machine
+learning and AI.</p>
 <p>The trio of technologies enables it to learn and understand conversations,
 and continuously adapt to improve its interactions with users.</p>
 <p>VICA now powers public-facing chatbots such as AskGayle on GovTech's website,
