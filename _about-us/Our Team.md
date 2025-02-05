@@ -225,8 +225,8 @@ Chief Executive, Cybersecurity, Trusted Infrastructure Services</div>
 </div>
 <div class="isomer-card-body">
 <div class="isomer-card-title">Mr Ivan TAN</div>
-<div class="isomer-card-description">Assistant Chief Executive, Designate - Economic and National Development,
-Government Digital Transformation</div>
+<div class="isomer-card-description">Assistant Chief Executive, Economic and National Development, Government
+Digital Transformation</div>
 </div>
 </div>
 <div class="isomer-card">
