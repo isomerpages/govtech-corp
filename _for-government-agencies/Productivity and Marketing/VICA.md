@@ -35,7 +35,7 @@ auto-complete suggestions, knowledge base control, and response translation.</p>
 is GovTech's next-generation virtual assistant platform. This highly intuitive
 assistant is built on natural language processing (NLP) engines, machine
 learning and AI.</p>
-<p>The trio of technologies enables it to learn and understand conversations,
+<p>The trio of technologies enables it to learn and understand conversations
 and continuously adapt to improve its interactions with users.</p>
 <p>VICA now powers public-facing chatbots such as AskGayle on GovTech's website,
 Ask Wally on the Public Utilities Board's website and more. Government
