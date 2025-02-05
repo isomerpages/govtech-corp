@@ -31,10 +31,11 @@ auto-complete suggestions, knowledge base control, and response translation.</p>
 </li>
 </ul>
 <hr>
-<p>VICA, or Virtual Intelligent Chat Assistant, is GovTech's next-generation
-virtual assistant platform. This highly intuitive assistant is built on
-natural language processing (NLP) engines, machine learning and AI.</p>
-<p>The trio of technologies enables it to learn and understand conversations,
+<p><a href="https://www.vica.gov.sg/" rel="noopener noreferrer nofollow" target="_blank">VICA, or Virtual Intelligent Chat Assistant</a>,
+is GovTech's next-generation virtual assistant platform. This highly intuitive
+assistant is built on natural language processing (NLP) engines, machine
+learning and AI.</p>
+<p>The trio of technologies enables it to learn and understand conversations
 and continuously adapt to improve its interactions with users.</p>
 <p>VICA now powers public-facing chatbots such as AskGayle on GovTech's website,
 Ask Wally on the Public Utilities Board's website and more. Government
@@ -135,15 +136,15 @@ currently available for text and HTML response type.</p>
 </div>
 <h3>Interested to find out more about VICA?</h3>
 <div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="https://www.developer.tech.gov.sg/products/categories/platform/virtual-intelligent-chat-assistant/overview.html" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Discover its features on the Singapore Government Developer Portal (SGDP)" src="/images/CTA card images/Visit_the_SGDP_Portal.png"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Discover its features on the Singapore Government Developer Portal (SGDP)</div><div class="isomer-card-link">Learn more on SGDP</div></div></a>
-<a rel="noopener noreferrer nofollow" href="mailto:info@tech.gov.sg" class="isomer-card">
+<a rel="noopener noreferrer nofollow" href="https://www.vica.gov.sg/" class="isomer-card">
 <div class="isomer-card-image">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Have questions? Email us" src="/images/CTA card images/Have_question__Drops_us_an_email.png">
+<img style="width: 100%" height="auto" width="100%" alt="VICA website" src="/images/CTA card images/Visit_the_product_website.png">
 </div>
 </div>
 <div class="isomer-card-body">
-<div class="isomer-card-title">Have questions? Email us</div>
-<div class="isomer-card-link">info@tech.gov.sg</div>
+<div class="isomer-card-title">Visit the VICA website to get started</div>
+<div class="isomer-card-link">Go to VICA website</div>
 </div>
 </a>
 </div>
