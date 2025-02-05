@@ -214,8 +214,7 @@ Chief Executive, Cybersecurity, Trusted Infrastructure Services</div>
 </div>
 <div class="isomer-card-body">
 <div class="isomer-card-title">Mr TAN Eng Pheng</div>
-<div class="isomer-card-description">Assistant Chief Executive, Economic and National Development, Government
-Digital Transformation</div>
+<div class="isomer-card-description">Senior Advisor, Government Digital Transformation</div>
 </div>
 </div>
 <div class="isomer-card">
