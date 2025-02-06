@@ -44,15 +44,14 @@ Take a long stroll amongst nature as a couple, or hop on a bicycle and
 see where the paths take you. Singapore’s Park Connector Network (PCN)
 has 300 km of trails, and there’s no better way to explore all of them
 than via the NParks Explore A Route (NEAR) mobile app.</p>
-<p>This augmented reality (AR)-enabled application (NParks) will enhance
-your couple experiences by overlaying interactive, informative content
-on the real-world environment. Learn and get entertained while being on
-the move!</p>
+<p>This augmented reality (AR)-enabled application will enhance your bonding
+experiences by overlaying interactive, informative content on the real-world
+environment. Learn and get entertained while being on the move!</p>
 <p>For those who’re afraid of getting lost (and partners losing their tempers),
 a key feature of NEAR is an interactive map, which enables users to navigate
 and explore the PCN and various trails. This includes detailed route information,
 points of interest, and distance markers, encouraging discovery and exploration.</p>
-<p>Explore the <a href="https://near.nparks.gov.sg/about" rel="noopener noreferrer nofollow" target="_blank">NEAR </a>app
+<p>Explore the <a href="https://pcn.nparks.gov.sg/the-pcn-experience/near/" rel="noopener noreferrer nofollow" target="_blank">NEAR </a>app
 with your partner.</p>
 <h3>3. Get your relationship moving with MyTransport</h3>
 <p>When it comes to love, showing up is important. But showing up on time
