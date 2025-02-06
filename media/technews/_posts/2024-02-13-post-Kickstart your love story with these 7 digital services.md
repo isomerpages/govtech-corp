@@ -20,9 +20,9 @@ that.</p>
 <p>Think effort, commitment, and lots of hard work. Thankfully, these days,
 there are plenty of apps going around to make life a little easier for
 loved ones.</p>
-<p>With that in mind, our GovTech team has selected our top apps for couples
+<p>With that in mind, we're sharing our top app recommendations for couples
 this Valentine’s Day.</p>
-<p>7 Digital services that couples can try out:</p>
+<p></p>
 <h3>1. Get intellectually stimulated with the NLB mobile app</h3>
 <p>Ah, the library – one of the first places that young Singaporeans go on
 a date. It’s air-conditioned, has a large collection of books – and it’s,
