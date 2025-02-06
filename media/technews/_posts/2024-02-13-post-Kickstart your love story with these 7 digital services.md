@@ -93,7 +93,7 @@ couples to get educated on this!</p>
 of Marriages (ROM) portal simplifies the process of filing for marriage
 online via Singpass, making the journey to your big day a little less fuss-free.</p>
 <p>On the portal, you can also get access to resources to help prepare for
-marriage. You can also verify marriage documents or plan your solemnisation.</p>
+marriage, verify marriage documents, or plan your solemnisation.</p>
 <p>Additionally, Our Marriage Journey extends its services beyond just the
 administrative necessities. The portal is a comprehensive guide for all
 things related to marriage in Singapore, offering an array of tools and
@@ -102,7 +102,7 @@ From the initial stages of understanding legal requirements to the joyous
 moments of planning your solemnisation ceremony, everything can be managed
 with ease and convenience.</p>
 <p>Getting married has never been easier! (Well, kinda, you still need to
-find a willing partner)</p>
+find a willing partner.)</p>
 <h3>7. Go through life together with LifeSG</h3>
 <p>Got married? Trust us – you’re only halfway through your romantic journey
 together. Things often get hectic during marriage, with plenty of chores
