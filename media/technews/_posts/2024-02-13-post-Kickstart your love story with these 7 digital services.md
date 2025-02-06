@@ -55,10 +55,10 @@ points of interest, and distance markers, encouraging discovery and exploration.
 <p>Explore the <a href="https://pcn.nparks.gov.sg/the-pcn-experience/near/" rel="noopener noreferrer nofollow" target="_blank">NEAR </a>app
 with your partner.</p>
 <h3>3. Get your relationship moving with MyTransport</h3>
-<p>When it comes to love, showing up is important. But showing up on time
-is equally, if not more important; it’s not good to keep your partner waiting
-in the sweltering Singapore heat.</p>
-<p>That’s where the MyTransport app comes in.&nbsp;<a href="https://www.lta.gov.sg/content/dam/ltagov/Home/PDF/MTM.pdf" class="editor-rtfLink" rel="noopener noreferrer nofollow" target="_blank">MyTransport</a>&nbsp;lets
+<p>When it comes to love, showing up is important. But showing up on <em>time </em>is
+equally, if not more important. It’s not a good idea to keep your partner
+waiting in the sweltering Singapore heat.</p>
+<p>That’s where the MyTransport app comes in.&nbsp;<a href="https://www.lta.gov.sg/content/ltagov/en/getting_around/public_transport/plan_your_journey.html" class="editor-rtfLink" rel="noopener noreferrer nofollow" target="_blank">MyTransport</a>&nbsp;lets
 you check for real-time updates on public transport services: Check bus
 arrival timings, train schedules, and service disruptions to ensure smooth
 and efficient journeys.</p>
