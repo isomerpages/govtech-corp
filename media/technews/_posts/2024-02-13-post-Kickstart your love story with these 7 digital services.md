@@ -75,7 +75,7 @@ private gyms or operators charge! Things you can do together includes classic
 favourites like badminton, swimming, or hitting the gym. But there are
 also programmes that you can sign up for that feature more niche sports.
 Think archery, belly dancing, or even pickleball.</p>
-<p><em>(PS: You can also hold each other accountable to good fitness habits by downloading the <a href="https://www.lumihealth.sg/" rel="noopener noreferrer nofollow" target="_blank">LumiHealth </a>app)</em>
+<p><em>(PS: You can also hold each other accountable to good fitness habits by downloading the <a href="https://www.lumihealth.sg/" rel="noopener noreferrer nofollow" target="_blank">LumiHealth </a>app and levelling up your health together.)</em>
 </p>
 <h3>5. Prepare to settle down together with MyNiceHome</h3>
 <p>In Singapore, asking someone to buy a HDB together is the equivalent of
