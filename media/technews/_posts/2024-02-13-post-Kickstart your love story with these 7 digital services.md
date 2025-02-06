@@ -104,18 +104,15 @@ with ease and convenience.</p>
 <p>Getting married has never been easier! (Well, kinda, you still need to
 find a willing partner.)</p>
 <h3>7. Go through life together with LifeSG</h3>
-<p>Got married? Trust us – you’re only halfway through your romantic journey
-together. Things often get hectic during marriage, with plenty of chores
-and errands. This is especially true if you have children.</p>
+<p>Got married? Trust us – you’re only halfway through your journey together.
+Things often get hectic during marriage, with plenty of chores and errands.
+This is especially true if you have children.</p>
 <p>Well, enter&nbsp;<a href="https://www.life.gov.sg/" class="editor-rtfLink" rel="noopener noreferrer nofollow" target="_blank">LifeSG:</a>&nbsp;your
-digital assistant for navigating life’s milestones as a couple. This can
-be anything from getting your baby bonus, paying taxes, booking public
-facilities, as well as online video consults from HDB (including getting
-a CPF top-up grant).</p>
-<p>There are also educational resources if you want to read up about some
-of married life’s biggest (and most stressful) parts. These include getting
-financial support for pregnancy, employing a domestic helper, or registering
-your child for primary one.</p>
+digital assistant for navigating life’s milestones as a couple. Once you
+enter parenthood, you can use LifeSG to register your child's birth, apply
+for baby bonus, or even search for preschools. Beyond these, LifeSG can
+also be used to book Town Council facilities, report neighbourhood issues,
+or book virtual appointments with government agencies.</p>
 <h3>Happy Valentine’s Day from GovTech !</h3>
 <p>Whether you’re planning special dates or preparing for a lifelong commitment,
 these apps provide not just convenience but also enriching experiences
