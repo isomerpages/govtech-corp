@@ -33,7 +33,7 @@ materials that spark conversations, plan cultural dates, and attend events
 together.</p>
 <p>It’s a unique way to bond and grow as a couple – remember, staying intellectually
 compatible is a big part of being romantically compatible!</p>
-<p>Download the <a href="https://mobileapp.nlb.gov.sg/" rel="noopener noreferrer nofollow" target="_blank">NLB mobile app.</a>
+<p>Download the <a href="https://www.nlb.gov.sg/main/services/faqs/NLB-Mobile" rel="noopener noreferrer nofollow" target="_blank">NLB mobile app.</a>
 </p>
 <p><em>Ps: If you borrow ebooks, you don’t need to worry about returning them late. That’s one way to avoid arguing about fines!</em>
 </p>
