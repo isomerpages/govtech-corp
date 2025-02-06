@@ -80,8 +80,7 @@ Think archery, belly dancing, or even pickleball.</p>
 <h3>5. Prepare to settle down together with MyNiceHome</h3>
 <p>In Singapore, asking someone to buy a HDB together is the equivalent of
 a marriage proposal. That’s why you know things are getting serious when
-your partner tells you to check out&nbsp;<a href="https://www.mynicehome.gov.sg/" class="editor-rtfLink" rel="noopener noreferrer nofollow" target="_blank">MyNiceHome.</a>
-</p>
+your partner tells you to check out&nbsp;the <a href="https://www.mynicehome.gov.sg/" class="editor-rtfLink" rel="noopener noreferrer nofollow" target="_blank">MyNiceHome</a> website.</p>
 <p>Whether you’re choosing to BTO or buy a resale flat, you can find information
 about grants, loans, renovation tips and more. This makes it a treasure
 trove for those getting their flat for the first time.</p>
