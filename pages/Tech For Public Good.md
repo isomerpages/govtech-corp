@@ -49,11 +49,11 @@ tech&nbsp;</p>
 </li>
 </ul>
 <h3><strong>Learn more about our digital government efforts</strong></h3>
-<div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="https://www.tech.gov.sg/products-and-services/for-citizens/crowdsourcing/crowdtasksg/" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Community Engagement: CrowdTaskSG" src="/images/250123__GOVTECH__CrowdTask_no_end_frame__compressed_.gif"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Community Engagement: CrowdTaskSG</div><div class="isomer-card-description">Earn rewards while shaping Singapore’s future! CrowdTaskSG lets you share your feedback through tasks and surveys that help improve our government digital products and services, while earning coins that you can redeem at selected merchants.</div><div class="isomer-card-link">Start earning rewards today!</div></div></a>
+<div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="https://www.tech.gov.sg/products-and-services/for-citizens/crowdsourcing/crowdtasksg/" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Community Engagement: CrowdTaskSG" src="/images/060225__GOVTECH__CrowdTask.gif"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Community Engagement: CrowdTaskSG</div><div class="isomer-card-description">Earn rewards while shaping Singapore’s future! CrowdTaskSG lets you share your feedback through tasks and surveys that help improve our government digital products and services, while earning coins that you can redeem at selected merchants.</div><div class="isomer-card-link">Start earning rewards today!</div></div></a>
 <a rel="noopener noreferrer nofollow" href="https://www.tech.gov.sg/products-and-services/for-businesses/corporate-transactions/gobusiness/" class="isomer-card">
 <div class="isomer-card-image">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Placeholder image" src="https://placehold.co/600x400">
+<img style="width: 100%" height="auto" width="100%" alt="Placeholder image" src="/images/250123__GOVTECH__GoBusiness.gif">
 </div>
 </div>
 <div class="isomer-card-body">
