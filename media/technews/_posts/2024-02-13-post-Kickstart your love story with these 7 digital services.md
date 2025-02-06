@@ -115,10 +115,10 @@ also be used to book Town Council facilities, report neighbourhood issues,
 or book virtual appointments with government agencies.</p>
 <h3>Happy Valentine’s Day from GovTech !</h3>
 <p>Whether you’re planning special dates or preparing for a lifelong commitment,
-these apps provide not just convenience but also enriching experiences
-for you and your loved one.</p>
-<p>Happy Valentine’s Day from all of us at the GovTech team! Here’s to love,
-shared experiences, and the love of technology.</p>
+these digital services provide not just convenience but also enriching
+experiences for you and your loved one.</p>
+<p>Happy Valentine’s Day from all of us at GovTech! Here’s to love, shared
+experiences, and the love of technology ♥</p>
 <p></p>
 <div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="https://go.gov.sg/communitysignup-technews" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Subscribe to the TechNews email newsletter" src="/images/CTA card images/technews_footer.jpg"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Subscribe to the TechNews email newsletter</div><div class="isomer-card-link">TechNews</div></div></a>
 <a rel="noopener noreferrer nofollow" href="https://go.gov.sg/communitysignup-technews" class="isomer-card">
