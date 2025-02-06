@@ -43,8 +43,7 @@ plenty of green spaces for couples to unwind after a long week of work.
 Take a long stroll amongst nature or hop on a bicycle and see where the
 paths take you. <a href="https://pcn.nparks.gov.sg/" rel="noopener noreferrer nofollow" target="_blank">NParks Park Connector Network</a> has
 over 380km of trails, and there’s no better way to explore all of them
-than via the <a href="https://pcn.nparks.gov.sg/the-pcn-experience/near/" rel="noopener noreferrer nofollow" target="_blank">NParks Explore A Route (NEAR)</a>mobile
-app.</p>
+than via the <a href="https://pcn.nparks.gov.sg/the-pcn-experience/near/" rel="noopener noreferrer nofollow" target="_blank">NParks Explore A Route (NEAR)</a> app.</p>
 <p>This augmented reality (AR)-enabled application will enhance your bonding
 experiences by overlaying interactive, informative content on the real-world
 environment. Learn and get entertained while being on the move!</p>
