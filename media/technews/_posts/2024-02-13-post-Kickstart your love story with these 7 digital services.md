@@ -28,9 +28,9 @@ this Valentine’s Day.</p>
 a date. It’s air-conditioned, has a large collection of books – and it’s,
 of course, free. Here’s the thing: libraries have plenty to offer a relationship
 long after the honeymoon period. Nurture your relationship through shared
-interests with the National Library Board app. Borrow books and audiovisual
-materials that spark conversations, plan cultural dates, and attend events
-together.</p>
+interests with the <a href="https://www.nlb.gov.sg/main/services/faqs/NLB-Mobile" rel="noopener noreferrer nofollow" target="_blank">National Library Board</a> app.
+Borrow books and audiovisual materials that spark conversations, plan cultural
+dates, and attend events together.</p>
 <p>It’s a unique way to bond and grow as a couple – remember, staying intellectually
 compatible is a big part of being romantically compatible!</p>
 <p>Download the <a href="https://www.nlb.gov.sg/main/services/faqs/NLB-Mobile" rel="noopener noreferrer nofollow" target="_blank">NLB mobile app.</a>
