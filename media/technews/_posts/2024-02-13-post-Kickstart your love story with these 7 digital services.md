@@ -18,10 +18,10 @@ restaurants. That’s all good, but as any married couple will tell you,
 making a love story go the distance will definitely take a lot more than
 that.</p>
 <p>Think effort, commitment, and lots of hard work. Thankfully, these days,
-there are plenty of apps going around to make life a little easier for
-loved ones.</p>
-<p>With that in mind, we're sharing our top app recommendations for couples
-this Valentine’s Day.</p>
+there are plenty of digital services around to make life a little easier
+for loved ones.</p>
+<p>With that in mind, we're sharing our top recommendations for couples this
+Valentine’s Day.</p>
 <p></p>
 <h3>1. Get intellectually stimulated with the NLB mobile app</h3>
 <p>Ah, the library – one of the first places that young Singaporeans go on
@@ -69,14 +69,12 @@ to liven things up with an active lifestyle. Why? Engaging in physical
 activities together and having shared goals are great ways for couples
 to stay together. Here’s the thing: Fitness is a continuous project; and
 the work never ends.</p>
-<p>And that’s why you need to download ActiveSG. Stay in shape together with
-the many&nbsp;<a href="https://www.activesgcircle.gov.sg/" class="editor-rtfLink" rel="noopener noreferrer nofollow" target="_blank">ActiveSG</a>&nbsp;facilities
-across the island – at a fraction of what private gyms or operators charge!
-Stuff you can do together includes classic favourites like badminton, swimming,
-or hitting the gym. But there are also programmes that you can sign up
-for that feature more niche sports. Think archery or belly dancing, or
-even pickleball.</p>
-<p>Yes, pickleball (you read that correctly).</p>
+<p>And that’s why you need ActiveSG. Stay in shape together with the many&nbsp;
+<a href="https://activesg.gov.sg/home" class="editor-rtfLink" rel="noopener noreferrer nofollow" target="_blank">ActiveSG</a>&nbsp;facilities across the island – at a fraction of what
+private gyms or operators charge! Things you can do together includes classic
+favourites like badminton, swimming, or hitting the gym. But there are
+also programmes that you can sign up for that feature more niche sports.
+Think archery, belly dancing, or even pickleball.</p>
 <p><em>(PS: You can also hold each other accountable to good fitness habits by downloading the <a href="https://www.lumihealth.sg/" rel="noopener noreferrer nofollow" target="_blank">LumiHealth </a>app)</em>
 </p>
 <h3>5. Prepare to settle down together with MyNiceHome</h3>
