@@ -40,10 +40,10 @@ compatible is a big part of being romantically compatible!</p>
 <h3>2. Never lose your way again with NParks NEAR</h3>
 <p>Singapore has a huge range of public parks, thanks to NParks. That means
 plenty of green spaces for couples to unwind after a long week of work.
-Take a long stroll amongst nature as a couple, or hop on a bicycle and
-see where the paths take you. Singapore’s Park Connector Network (PCN)
-has 300 km of trails, and there’s no better way to explore all of them
-than via the NParks Explore A Route (NEAR) mobile app.</p>
+Take a long stroll amongst nature or hop on a bicycle and see where the
+paths take you. Singapore’s Park Connector Network (PCN) has 300 km of
+trails, and there’s no better way to explore all of them than via the
+<a href="https://pcn.nparks.gov.sg/the-pcn-experience/near/" rel="noopener noreferrer nofollow" target="_blank">NParks Explore A Route (NEAR)</a>mobile app.</p>
 <p>This augmented reality (AR)-enabled application will enhance your bonding
 experiences by overlaying interactive, informative content on the real-world
 environment. Learn and get entertained while being on the move!</p>
