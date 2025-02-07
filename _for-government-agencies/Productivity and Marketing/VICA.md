@@ -70,9 +70,9 @@ provide faster support and enhanced service delivery to citizens.</p>
 <div class="isomer-card-grid">
 <div class="isomer-card">
 <div class="isomer-card-body">
-<div class="isomer-card-title">Built on the latest NLP technology</div>
-<div class="isomer-card-description">VICA harnesses solutions such as Google's Dialogflow to achieve better
-performance and accuracy.</div>
+<div class="isomer-card-title">Hybrid AI efficiency</div>
+<div class="isomer-card-description">Setup a robust knowledge base while leveraging GenAI to have better content
+control and minimise hallucination.</div>
 </div>
 </div>
 <div class="isomer-card">
