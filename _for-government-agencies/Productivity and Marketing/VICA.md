@@ -128,10 +128,11 @@ sources.</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>The knowledge base brings together the FAQs, files, websites sources,
-and custom dialogues. Use the data sources feature in the Playground to
-upload files and website links that will serve as source materials for
-the Gen AI. Test the AI-generated responses in the playground before activating
-Hybrid AI.</p>
+and custom dialogues.</p>
+<p></p>
+<p>In the Gen AI playground, use the data sources feature to upload files
+and website links that will serve as source materials for the Gen AI. Test
+questions in the playground for deterministic or generative answers.</p>
 </td>
 </tr>
 </tbody>
