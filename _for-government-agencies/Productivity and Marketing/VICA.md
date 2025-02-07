@@ -123,13 +123,15 @@ sources.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>Translation</strong>
+<p><strong>Knowledge Base and Gen AI Playground</strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Users can now select either the Chinese, Malay, or Tamil language from
-the drop-down box. Translation services are powered by Google and are available
-for text and HTML response type.</p>
+<p>The knowledge base brings together the FAQs, files, websites sources,
+and custom dialogues. Use the data sources feature in the Playground to
+upload files and website links that will serve as source materials for
+the Gen AI. Test the AI-generated responses in the playground before activating
+Hybrid AI.</p>
 </td>
 </tr>
 </tbody>
