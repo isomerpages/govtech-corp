@@ -99,15 +99,14 @@ of the day.</div>
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>Gen AI Playground</strong>
+<p><strong>VICA 2</strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Use the data sources feature in the Playground to upload files and website
-links that will serve as source materials for the Gen AI. VICA will then
-generate answers by mining the data in your data sources. Test the AI-generated
-responses in the playground before activating the Gen AI function in your
-chatbot.</p>
+<p>VICA 2 is the newest version of VICA that incorporates Hybrid AI. With
+Hybrid AI, government agencies can ground, steer, and override generative
+outputs using their public information sources, system instructions, and
+preferred FAQs.</p>
 </td>
 </tr>
 <tr>
