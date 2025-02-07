@@ -33,13 +33,12 @@ suggestions, and translation.</p>
 <p><a href="https://www.vica.gov.sg/" rel="noopener noreferrer nofollow" target="_blank">VICA, or Virtual Intelligent Chat Assistant</a>,
 is GovTech's next-generation virtual assistant platform. This highly intuitive
 assistant is built on natural language processing (NLP) engines, machine
-learning and AI.</p>
+learning, and AI.</p>
 <p>The trio of technologies enables it to learn and understand conversations
 and continuously adapt to improve its interactions with users.</p>
-<p>VICA now powers public-facing chatbots such as Ask GovTech on GovTech's
-website, Ask Wally on the Public Utilities Board's website and more. Government
-agencies can fully customise these personas and include key information
-resources on the chatbot's landing page.</p>
+<p>With VICA, government agencies are better able to respond to citizen enquiries
+quickly, automate tasks, and streamline feedback, allowing agencies to
+provide faster support and enhanced service delivery to citizens.</p>
 <p></p>
 <div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="https://www.pub.gov.sg/" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Ask Wally avatar" src="/images/Products and Services/For Government Agencies/Ask_Wally_colour.png"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Ask Wally</div><div class="isomer-card-link">Ask on PUB website</div></div></a>
 <a rel="noopener noreferrer nofollow" href="https://www.nea.gov.sg/" class="isomer-card">
