@@ -93,14 +93,6 @@ of the day.</div>
 </div>
 <h3>What's the latest on VICA?</h3>
 <p>GovTech has introduced a number of new features to expand VICA's usefulness:</p>
-<details class="isomer-details">
-<summary></summary>
-<div data-type="detailsContent" class="isomer-details-content">
-<p></p>
-</div>
-</details>
-<p></p>
-<p></p>
 <div data-type="detailGroup" class="isomer-accordion isomer-accordion-white">
 <details class="isomer-details">
 <summary><strong>Gen AI Playground</strong>
