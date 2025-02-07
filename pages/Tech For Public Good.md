@@ -8,8 +8,8 @@ description: "Discover GovTech's impact: from everyday conveniences to community
 ---
 <h1>Tech For Public Good, For A Better Tomorrow</h1>
 <p></p>
-<p>Most of our work remains unseen by the public we serve, and yet it is
-everywhere. From enhancing daily conveniences to empowering communities,
+<p>Most of GovTech's work remains unseen by the public we serve, and yet
+it is everywhere. From enhancing daily conveniences to empowering communities,
 GovTech leads the charge in building tech for public good. Sometimes hidden,
 our work is always purposeful in engineering a smarter, more connected
 digital government. Discover more in the video below.&nbsp;</p>
