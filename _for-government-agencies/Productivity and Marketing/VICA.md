@@ -15,27 +15,27 @@ image: /images/Products and Services/For Government Agencies/vica_logo.png
 <p></p>
 <ul data-tight="true" class="tight">
 <li>
-<p>VICA is a government platform that uses Artificial Intelligence (AI) and
-Natural Language Processing (NLP) to power public-facing chatbots.</p>
+<p>Virtual Intelligent Chat Assistant (VICA) is the conversational AI platform
+for the Singapore Government.</p>
 </li>
 <li>
-<p>Powers over 85 public-facing chatbots from more than 60 government agencies.</p>
+<p>VICA utilises Hybrid AI, combining Natural Language Processing (NLP) and
+Generative AI (Gen AI) to balance automation with accuracy.</p>
+</li>
+<li>
+<p>Over 60 Singapore government agencies use VICA, hosting 100+ chatbots.
+Of these, one-fifth serve internal government agency users, while the rest
+engage with the public.</p>
 </li>
 <li>
 <p>VICA chatbots receive an average of over 800,000 monthly queries.</p>
 </li>
-<li>
-<p>Offers a variety of features such as Gen AI playground, auto-complete
-suggestions, and translation.</p>
-</li>
 </ul>
 <hr>
 <p><a href="https://www.vica.gov.sg/" rel="noopener noreferrer nofollow" target="_blank">VICA, or Virtual Intelligent Chat Assistant</a>,
-is GovTech's next-generation virtual assistant platform. This highly intuitive
-assistant is built on natural language processing (NLP) engines, machine
-learning, and AI.</p>
-<p>The trio of technologies enables it to learn and understand conversations
-and continuously adapt to improve its interactions with users.</p>
+is the conversational AI platform for the Singapore Government. It’s built
+with Hybrid AI – incorporating both deterministic (NLP) and generative
+(Gen AI) aspects of AI into the chatbot responses.</p>
 <p>With VICA, government agencies are better able to respond to citizen enquiries
 quickly, automate tasks, and streamline feedback, allowing agencies to
 provide faster support and enhanced service delivery to citizens.</p>
