@@ -111,12 +111,14 @@ preferred FAQs.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>Auto-Complete</strong>
+<p><strong>Autocomplete and Suggested Questions</strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>When users type three characters, VICA will provide a list of suggested
-questions to enable faster searching.</p>
+<p>Features such as autocomplete and suggested questions assist users with
+the topics they are searching for. These features also use Hybrid AI to
+fetch information from agencies' knowledge bases or preferred external
+sources.</p>
 </td>
 </tr>
 <tr>
