@@ -15,8 +15,8 @@ image: /images/Products and Services/For Government Agencies/vica_logo.png
 <p></p>
 <ul data-tight="true" class="tight">
 <li>
-<p>VICA is a government platform that uses artificial intelligence and Natural
-Language Processing (NLP) to power public-facing chatbots.</p>
+<p>VICA is a government platform that uses Artificial Intelligence (AI) and
+Natural Language Processing (NLP) to power public-facing chatbots.</p>
 </li>
 <li>
 <p>Powers chatbots like AskGayle (GovTech), Ask Wally (PUB), and Ask Captain
