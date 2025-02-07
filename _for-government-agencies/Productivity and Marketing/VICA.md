@@ -19,7 +19,7 @@ image: /images/Products and Services/For Government Agencies/vica_logo.png
 Natural Language Processing (NLP) to power public-facing chatbots.</p>
 </li>
 <li>
-<p>Powers chatbots like AskGayle (GovTech), Ask Wally (PUB), and Ask Captain
+<p>Powers chatbots like Ask GovTech (GovTech), Ask Wally (PUB), and Ask Captain
 Green (NEA).</p>
 </li>
 <li>
@@ -37,8 +37,8 @@ assistant is built on natural language processing (NLP) engines, machine
 learning and AI.</p>
 <p>The trio of technologies enables it to learn and understand conversations
 and continuously adapt to improve its interactions with users.</p>
-<p>VICA now powers public-facing chatbots such as AskGayle on GovTech's website,
-Ask Wally on the Public Utilities Board's website and more. Government
+<p>VICA now powers public-facing chatbots such as Ask GovTech on GovTech's
+website, Ask Wally on the Public Utilities Board's website and more. Government
 agencies can fully customise these personas and include key information
 resources on the chatbot's landing page.</p>
 <p></p>
@@ -59,11 +59,11 @@ resources on the chatbot's landing page.</p>
 <a rel="noopener noreferrer nofollow" href="https://www.tech.gov.sg/" class="isomer-card">
 <div class="isomer-card-image">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Gayle avatar" src="/images/Products and Services/For Government Agencies/Ask_Gayle_colour.png">
+<img style="width: 100%" height="auto" width="100%" alt="GovTech chatbot VICA" src="/images/gt_logo_600x300.png">
 </div>
 </div>
 <div class="isomer-card-body">
-<div class="isomer-card-title">Ask Gayle</div>
+<div class="isomer-card-title">Ask GovTech</div>
 <div class="isomer-card-link">Ask on GovTech website</div>
 </div>
 </a>
@@ -99,11 +99,9 @@ of the day.</div>
 <summary><strong>Gen AI Playground</strong>
 </summary>
 <div data-type="detailsContent" class="isomer-details-content">
-<p>Use the data source management feature in the Playground to upload documents
-that will serve as source materials. VICA will then generate answers by
-mining the data in your documents. You can also select trusted websites
-from which you want VICA to draw data from. This will increase VICA's ability
-to answer public queries.</p>
+<p>Use the data sources feature in the Playground to upload files and website
+links that will serve as source materials for the Gen AI. VICA will then
+generate answers by mining the data in your data sources.</p>
 </div>
 </details>
 <details class="isomer-details">
