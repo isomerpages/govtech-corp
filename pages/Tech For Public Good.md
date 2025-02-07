@@ -55,7 +55,7 @@ tech&nbsp;</p>
 <a rel="noopener noreferrer nofollow" href="https://www.tech.gov.sg/products-and-services/for-citizens/crowdsourcing/crowdtasksg/%22%20﷟HYPERLINK%20%22https://www.crowdtask.gov.sg/" class="isomer-card">
 <div class="isomer-card-image">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Community Engagement: CrowdTaskSG" src="https://placehold.co/600x400">
+<img style="width: 100%" height="auto" width="100%" alt="Community Engagement: CrowdTaskSG" src="/images/060225__GOVTECH__CrowdTask.gif">
 </div>
 </div>
 <div class="isomer-card-body">
@@ -122,7 +122,7 @@ services when you log in with Singpass.</div>
 <a rel="noopener noreferrer nofollow" href="https://hubs.ly/Q02XsY170" class="isomer-card">
 <div class="isomer-card-image">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Community Engagement: Tech Kaki" src="https://placehold.co/600x400">
+<img style="width: 100%" height="auto" width="100%" alt="Community Engagement: Tech Kaki" src="/images/060225__GOVTECH__CrowdTask.gif">
 </div>
 </div>
 <div class="isomer-card-body">
