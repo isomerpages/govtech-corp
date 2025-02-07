@@ -25,8 +25,8 @@ Natural Language Processing (NLP) to power public-facing chatbots.</p>
 <p>VICA chatbots receive an average of over 800,000 monthly queries</p>
 </li>
 <li>
-<p>Offers new features like Gen AI Playground for data source management,
-auto-complete suggestions, knowledge base control, and response translation.</p>
+<p>Offers a variety of features such as Gen AI playground, auto-complete
+suggestions, and translation.</p>
 </li>
 </ul>
 <hr>
