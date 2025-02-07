@@ -19,11 +19,10 @@ image: /images/Products and Services/For Government Agencies/vica_logo.png
 Natural Language Processing (NLP) to power public-facing chatbots.</p>
 </li>
 <li>
-<p>Powers chatbots like Ask GovTech (GovTech), Ask Wally (PUB), and Ask Captain
-Green (NEA).</p>
+<p>Powers over 85 public-facing chatbots from more than 60 government agencies.</p>
 </li>
 <li>
-<p>Built on technologies like Google's Dialogflow.</p>
+<p>VICA chatbots receive an average of over 800,000 monthly queries</p>
 </li>
 <li>
 <p>Offers new features like Gen AI Playground for data source management,
