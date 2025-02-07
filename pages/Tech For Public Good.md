@@ -8,8 +8,8 @@ description: "Discover GovTech's impact: from everyday conveniences to community
 ---
 <h1>Tech For Public Good, For A Better Tomorrow</h1>
 <p></p>
-<p>Most of our work remains unseen by the public we serve, and yet it is
-everywhere. From enhancing daily conveniences to empowering communities,
+<p>Most of GovTech's work remains unseen by the public we serve, and yet
+it is everywhere. From enhancing daily conveniences to empowering communities,
 GovTech leads the charge in building tech for public good. Sometimes hidden,
 our work is always purposeful in engineering a smarter, more connected
 digital government. Discover more in the video below.&nbsp;</p>
@@ -55,7 +55,7 @@ tech&nbsp;</p>
 <a rel="noopener noreferrer nofollow" href="https://www.tech.gov.sg/products-and-services/for-citizens/crowdsourcing/crowdtasksg/%22%20﷟HYPERLINK%20%22https://www.crowdtask.gov.sg/" class="isomer-card">
 <div class="isomer-card-image">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Community Engagement: CrowdTaskSG" src="https://placehold.co/600x400">
+<img style="width: 100%" height="auto" width="100%" alt="Community Engagement: CrowdTaskSG" src="/images/060225__GOVTECH__CrowdTask.gif">
 </div>
 </div>
 <div class="isomer-card-body">
@@ -122,7 +122,7 @@ services when you log in with Singpass.</div>
 <a rel="noopener noreferrer nofollow" href="https://hubs.ly/Q02XsY170" class="isomer-card">
 <div class="isomer-card-image">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Community Engagement: Tech Kaki" src="https://placehold.co/600x400">
+<img style="width: 100%" height="auto" width="100%" alt="Community Engagement: Tech Kaki" src="/images/060225__GOVTECH__CrowdTask.gif">
 </div>
 </div>
 <div class="isomer-card-body">

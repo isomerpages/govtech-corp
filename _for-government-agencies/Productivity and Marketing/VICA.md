@@ -15,27 +15,27 @@ image: /images/Products and Services/For Government Agencies/vica_logo.png
 <p></p>
 <ul data-tight="true" class="tight">
 <li>
-<p>VICA is a government platform that uses Artificial Intelligence (AI) and
-Natural Language Processing (NLP) to power public-facing chatbots.</p>
+<p>Virtual Intelligent Chat Assistant (VICA) is the conversational AI platform
+for the Singapore Government.</p>
 </li>
 <li>
-<p>Powers over 85 public-facing chatbots from more than 60 government agencies.</p>
+<p>VICA utilises Hybrid AI, combining Natural Language Processing (NLP) and
+Generative AI (Gen AI) to balance automation with accuracy.</p>
+</li>
+<li>
+<p>Over 60 Singapore government agencies use VICA, hosting 100+ chatbots.
+Of these, one-fifth serve internal government agency users, while the rest
+engage with the public.</p>
 </li>
 <li>
 <p>VICA chatbots receive an average of over 800,000 monthly queries.</p>
 </li>
-<li>
-<p>Offers a variety of features such as Gen AI playground, auto-complete
-suggestions, and translation.</p>
-</li>
 </ul>
 <hr>
 <p><a href="https://www.vica.gov.sg/" rel="noopener noreferrer nofollow" target="_blank">VICA, or Virtual Intelligent Chat Assistant</a>,
-is GovTech's next-generation virtual assistant platform. This highly intuitive
-assistant is built on natural language processing (NLP) engines, machine
-learning, and AI.</p>
-<p>The trio of technologies enables it to learn and understand conversations
-and continuously adapt to improve its interactions with users.</p>
+is the conversational AI platform for the Singapore Government. It’s built
+with Hybrid AI – incorporating both deterministic (NLP) and generative
+(Gen AI) aspects of AI into the chatbot responses.</p>
 <p>With VICA, government agencies are better able to respond to citizen enquiries
 quickly, automate tasks, and streamline feedback, allowing agencies to
 provide faster support and enhanced service delivery to citizens.</p>
@@ -70,9 +70,9 @@ provide faster support and enhanced service delivery to citizens.</p>
 <div class="isomer-card-grid">
 <div class="isomer-card">
 <div class="isomer-card-body">
-<div class="isomer-card-title">Hybrid AI efficiency</div>
-<div class="isomer-card-description">Setup a robust knowledge base while leveraging GenAI to have better content
-control and minimise hallucination.</div>
+<div class="isomer-card-title">Hybrid AI technology</div>
+<div class="isomer-card-description">VICA leverages natural language processing (NLP) and generative AI (GenAI)
+to provide highly accurate responses.</div>
 </div>
 </div>
 <div class="isomer-card">
@@ -99,36 +99,40 @@ of the day.</div>
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>Gen AI Playground</strong>
+<p><strong>VICA 2</strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Use the data sources feature in the Playground to upload files and website
-links that will serve as source materials for the Gen AI. VICA will then
-generate answers by mining the data in your data sources. Test the AI-generated
-responses in the playground before activating the Gen AI function in your
-chatbot.</p>
+<p>VICA 2 is the newest version of VICA that incorporates Hybrid AI. With
+Hybrid AI, government agencies can ground, steer, and override generative
+outputs using their public information sources, system instructions, and
+preferred FAQs.</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>Auto-Complete</strong>
+<p><strong>Autocomplete and Suggested Questions</strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>When users type three characters, VICA will provide a list of suggested
-questions to enable faster searching.</p>
+<p>Features such as autocomplete and suggested questions assist users with
+the topics they are searching for. These features also use Hybrid AI to
+fetch information from agencies' knowledge bases or preferred external
+sources.</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>Translation</strong>
+<p><strong>Knowledge Base and Gen AI Playground</strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Users can now select either the Chinese, Malay, or Tamil language from
-the drop-down box. Translation services are powered by Google and are available
-for text and HTML response type.</p>
+<p>The knowledge base brings together the FAQs, files, websites sources,
+and custom dialogues.</p>
+<p></p>
+<p>In the Gen AI playground, use the data sources feature to upload files
+and website links that will serve as source materials for the Gen AI. Test
+questions in the playground for deterministic or generative answers.</p>
 </td>
 </tr>
 </tbody>
