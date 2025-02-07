@@ -90,55 +90,50 @@ of the day.</div>
 </div>
 </div>
 <h3>What's the latest on VICA?</h3>
-<p>GovTech has introduced a number of new features to expand VICA's usefulness:</p>
-<div data-type="detailGroup" class="isomer-accordion isomer-accordion-white">
-<details class="isomer-details">
-<summary><strong>Gen AI Playground</strong>
-</summary>
-<div data-type="detailsContent" class="isomer-details-content">
+<p>GovTech has introduced a variety of features to expand VICA's usefulness:</p>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Gen AI Playground</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
 <p>Use the data sources feature in the Playground to upload files and website
 links that will serve as source materials for the Gen AI. VICA will then
 generate answers by mining the data in your data sources. Test the AI-generated
 responses in the playground before activating the Gen AI function in your
 chatbot.</p>
-</div>
-</details>
-<details class="isomer-details">
-<summary><strong>Auto-Complete</strong>
-</summary>
-<div data-type="detailsContent" class="isomer-details-content">
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Auto-Complete</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
 <p>When users type three characters, VICA will provide a list of suggested
 questions to enable faster searching.</p>
-</div>
-</details>
-<details class="isomer-details">
-<summary><strong>Translation</strong>
-</summary>
-<div data-type="detailsContent" class="isomer-details-content">
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Translation</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
 <p>Users can now select either the Chinese, Malay, or Tamil language from
 the drop-down box. Translation services are powered by Google and are available
 for text and HTML response type.</p>
-</div>
-</details>
-<details class="isomer-details">
-<summary></summary>
-<div data-type="detailsContent" class="isomer-details-content">
+</td>
+</tr>
+</tbody>
+</table>
 <p></p>
-</div>
-</details>
-<details class="isomer-details">
-<summary></summary>
-<div data-type="detailsContent" class="isomer-details-content">
-<p></p>
-</div>
-</details>
-<details class="isomer-details">
-<summary></summary>
-<div data-type="detailsContent" class="isomer-details-content">
-<p></p>
-</div>
-</details>
-</div>
 <h3>Interested to find out more about VICA?</h3>
 <div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="https://www.developer.tech.gov.sg/products/categories/platform/virtual-intelligent-chat-assistant/overview.html" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Discover its features on the Singapore Government Developer Portal (SGDP)" src="/images/CTA card images/Visit_the_SGDP_Portal.png"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Discover its features on the Singapore Government Developer Portal (SGDP)</div><div class="isomer-card-link">Learn more on SGDP</div></div></a>
 <a rel="noopener noreferrer nofollow" href="https://www.vica.gov.sg/" class="isomer-card">
