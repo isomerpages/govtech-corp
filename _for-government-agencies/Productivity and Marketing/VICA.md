@@ -22,7 +22,7 @@ Natural Language Processing (NLP) to power public-facing chatbots.</p>
 <p>Powers over 85 public-facing chatbots from more than 60 government agencies.</p>
 </li>
 <li>
-<p>VICA chatbots receive an average of over 800,000 monthly queries</p>
+<p>VICA chatbots receive an average of over 800,000 monthly queries.</p>
 </li>
 <li>
 <p>Offers a variety of features such as Gen AI playground, auto-complete
