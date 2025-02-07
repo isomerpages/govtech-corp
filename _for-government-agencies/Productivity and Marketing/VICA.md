@@ -93,6 +93,13 @@ of the day.</div>
 </div>
 <h3>What's the latest on VICA?</h3>
 <p>GovTech has introduced a number of new features to expand VICA's usefulness:</p>
+<details class="isomer-details">
+<summary></summary>
+<div data-type="detailsContent" class="isomer-details-content">
+<p></p>
+</div>
+</details>
+<p></p>
 <p></p>
 <div data-type="detailGroup" class="isomer-accordion isomer-accordion-white">
 <details class="isomer-details">
@@ -101,34 +108,44 @@ of the day.</div>
 <div data-type="detailsContent" class="isomer-details-content">
 <p>Use the data sources feature in the Playground to upload files and website
 links that will serve as source materials for the Gen AI. VICA will then
-generate answers by mining the data in your data sources.</p>
+generate answers by mining the data in your data sources. Test the AI-generated
+responses in the playground before activating the Gen AI function in your
+chatbot.</p>
 </div>
 </details>
 <details class="isomer-details">
-<summary><strong>Auto-complete</strong>
+<summary><strong>Auto-Complete</strong>
 </summary>
 <div data-type="detailsContent" class="isomer-details-content">
-<p>When users type three characters, VICA will provide a list of suggestions
-to enable faster searching.</p>
+<p>When users type three characters, VICA will provide a list of suggested
+questions to enable faster searching.</p>
 </div>
 </details>
 <details class="isomer-details">
-<summary><strong>Enabling/disabling knowledge base in the Gen AI Playground</strong>
+<summary><strong>Translation</strong>
 </summary>
 <div data-type="detailsContent" class="isomer-details-content">
-<p>You can now switch off your Knowledge Base in the Gen AI Playground. When
-switched off, VICA's responses will be fully generative. When switched
-on, the responses are hybrid in nature, prioritising Q&amp;A pairs and
-Custom Dialogue.</p>
+<p>Users can now select either the Chinese, Malay, or Tamil language from
+the drop-down box. Translation services are powered by Google and are available
+for text and HTML response type.</p>
 </div>
 </details>
 <details class="isomer-details">
-<summary><strong>Translation of responses</strong>
-</summary>
+<summary></summary>
 <div data-type="detailsContent" class="isomer-details-content">
-<p>Users can now select either the Chinese, Malay or Tamil language from
-the drop-down box. Translation services are powered by Google, and are
-currently available for text and HTML response type.</p>
+<p></p>
+</div>
+</details>
+<details class="isomer-details">
+<summary></summary>
+<div data-type="detailsContent" class="isomer-details-content">
+<p></p>
+</div>
+</details>
+<details class="isomer-details">
+<summary></summary>
+<div data-type="detailsContent" class="isomer-details-content">
+<p></p>
 </div>
 </details>
 </div>
