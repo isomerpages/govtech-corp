@@ -2,9 +2,9 @@ collections:
   our-capabilities:
     output: true
     order:
-      - Design.md
       - Cybersecurity.md
       - Data Engineering.md
+      - Design.md
       - Government ICT Infrastructure.md
       - Smart City Technology.md
       - Software Engineering.md
