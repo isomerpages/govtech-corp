@@ -4,13 +4,12 @@ permalink: /our-capabilities/design/
 variant: tiptap
 description: ""
 ---
-<h2><strong>Design</strong>&nbsp;</h2>
+<h2>Design&nbsp;</h2>
 <p>The Design Practice is on a mission to make lives better for citizens,
 businesses, and the public sector by activating human-centred design as
 a core organisational capability in GovTech. We believe that technology
 can be a force for public good by putting people at the heart of what we
 do.&nbsp;&nbsp;</p>
-<p></p>
 <p>We deliver on this mission by growing deep capabilities in human-centred
 approaches to put people’s needs at the heart of building Government digital
 services that address the problems of today and the future. We also support
@@ -20,49 +19,59 @@ and impactful digital services. If this resonates with you, partner with
 us!&nbsp;</p>
 <p>&nbsp;</p>
 <p></p>
-<h3><strong>What We Do ​</strong> &nbsp;</h3>
+<h3>What We Do ​ &nbsp;</h3>
 <p>The Design Practice focuses on:&nbsp;</p>
-<p></p>
-<div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="https://www.isomer.gov.sg" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Placeholder image" src="https://placehold.co/600x400"></div></div><div class="isomer-card-body"><div class="isomer-card-title">This is a title for your card</div><div class="isomer-card-description">This is body text for your card. Describe your card.</div><div class="isomer-card-link">This is a link for your card</div></div></a>
-<a rel="noopener noreferrer nofollow" href="https://www.isomer.gov.sg" class="isomer-card">
+<div class="isomer-card-grid">
+<div class="isomer-card">
 <div class="isomer-card-image">
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="Placeholder image" src="https://placehold.co/600x400">
 </div>
 </div>
 <div class="isomer-card-body">
-<div class="isomer-card-title">This is a title for your card</div>
-<div class="isomer-card-description">This is body text for your card. Describe your card.</div>
-<div class="isomer-card-link">This is a link for your card</div>
+<div class="isomer-card-title">Elevating Design as a core strategic partner in the development of Government
+products and services&nbsp;</div>
 </div>
-</a><a rel="noopener noreferrer nofollow" href="https://www.isomer.gov.sg" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Placeholder image" src="https://placehold.co/600x400"></div></div><div class="isomer-card-body"><div class="isomer-card-title">This is a title for your card</div><div class="isomer-card-description">This is body text for your card. Describe your card.</div><div class="isomer-card-link">This is a link for your card</div></div></a>
 </div>
-<ul>
-<li>
-<p>Elevating Design as a core strategic partner in the development of Government
-products and services&nbsp;</p>
-</li>
-</ul>
-<ul>
-<li>
-<p>Support the growth and capabilities of Designers working within Public
-Sector&nbsp;</p>
-</li>
-</ul>
-<ul>
-<li>
-<p>Establishing and maintaining world-class Design practices and standards
-across Government&nbsp;</p>
-</li>
-</ul>
-<ul>
-<li>
-<p>Exploring, experimenting and leveraging on emerging technology in products
-and workflows using a human-centered approach&nbsp;</p>
-</li>
-</ul>
+<div class="isomer-card">
+<div class="isomer-card-image">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Placeholder image" src="https://placehold.co/600x400">
+</div>
+</div>
+<div class="isomer-card-body">
+<div class="isomer-card-title">Support the growth and capabilities of Designers working within Public
+Sector&nbsp;</div>
+</div>
+</div>
+</div>
+<div class="isomer-card-grid">
+<div class="isomer-card">
+<div class="isomer-card-image">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Placeholder image" src="https://placehold.co/600x400">
+</div>
+</div>
+<div class="isomer-card-body">
+<div class="isomer-card-title">Establishing and maintaining world-class Design practices and standards
+across Government&nbsp;</div>
+</div>
+</div>
+<div class="isomer-card">
+<div class="isomer-card-image">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Placeholder image" src="https://placehold.co/600x400">
+</div>
+</div>
+<div class="isomer-card-body">
+<div class="isomer-card-title">Exploring, experimenting and leveraging on emerging technology in products
+and workflows using a human-centered approach&nbsp;</div>
+</div>
+</div>
+</div>
+<p></p>
 <p>&nbsp;</p>
-<h4><strong>Our work and initiatives</strong> &nbsp;</h4>
+<h3>Our work and initiatives &nbsp;</h3>
 <p>Our initiatives span from talent development to cutting-edge product innovation,
 all in pursuit of our mission to design better government services:&nbsp;</p>
 <ol>
@@ -101,7 +110,7 @@ experimenting with new design workflow and growing designer capabilities&nbsp;</
 </li>
 </ol>
 <p>&nbsp;</p>
-<h4><strong>Who we work with</strong> &nbsp;</h4>
+<h4>Who we work with &nbsp;</h4>
 <ul>
 <li>
 <p>Government Agencies seeking to grow deeper design capabilities&nbsp;</p>
@@ -124,13 +133,13 @@ user research and service design&nbsp;</p>
 </li>
 </ul>
 <p>&nbsp;</p>
-<h3><strong>Let’s work together</strong> &nbsp;</h3>
+<h3>Let’s work together &nbsp;</h3>
 <p>Partner with us if you are keen to grow Design capability within the Government,
 develop our Design workforce, champion and contribute to our Design standards
 and playbooks or explore cutting-edge design technology use cases. Let’s
 meet and discuss how we could work together.&nbsp;
 <br>&nbsp;</p>
-<h4> <strong>Meet the team</strong>&nbsp;</h4>
+<h4>Meet the team&nbsp;</h4>
 <p> “Impactful Government Digital Services don’t just happen by accident,
 it happens <em>by Design</em>. &nbsp;
 <br>The Design Practice is a solid team that doesn’t just talk about good
