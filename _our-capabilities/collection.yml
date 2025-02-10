@@ -2,6 +2,7 @@ collections:
   our-capabilities:
     output: true
     order:
+      - Design.md
       - Cybersecurity.md
       - Data Engineering.md
       - Government ICT Infrastructure.md
