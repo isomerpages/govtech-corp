@@ -203,8 +203,8 @@ the public sector.</p>
 </div>
 </details>
 </div>
-<p><a href="https://go.gov.sg/govtechdecoded-from-website-ep7" rel="noopener nofollow" target="_blank">Watch on YouTube</a> |
-<a href="https://go.gov.sg/govtechdecoded-spotify-ep7" rel="noopener nofollow" target="_blank">Listen on Spotify</a>| <a href="/files/GovTech Decoded/EP_6__Riding_the_Wave_of_GenAI.pdf" rel="noopener noreferrer nofollow" target="_blank">Episode 6 Transcript</a>
+<p><a href="https://go.gov.sg/govtechdecoded-from-website-ep6" rel="noopener nofollow" target="_blank">Watch on YouTube</a> |
+<a href="https://go.gov.sg/govtechdecoded-spotify-ep6" rel="noopener nofollow" target="_blank">Listen on Spotify</a>| <a href="/files/GovTech Decoded/EP_6__Riding_the_Wave_of_GenAI.pdf" rel="noopener noreferrer nofollow" target="_blank">Episode 6 Transcript</a>
 </p>
 </td>
 </tr>
