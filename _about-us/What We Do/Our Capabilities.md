@@ -14,6 +14,19 @@ sector's engineering expertise and help GovTech and government agencies
 deliver better digital solutions for citizens, businesses, and public officers.</p>
 <h3>Discover our capabilities</h3>
 <div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="/our-capabilities/cybersecurity/" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Singapore Cybersecurity Centre in GovTech" src="/images/About Us/Our capabilities/Cybersecurity_600x400.jpg"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Cybersecurity</div><div class="isomer-card-description">We hone a comprehensive suite of cybersecurity capabilities and work with various agencies to ensure a safer Smart Nation.</div><div class="isomer-card-link">Learn more</div></div></a>
+<a rel="noopener noreferrer nofollow" href="/our-capabilities/data-engineering/" class="isomer-card">
+<div class="isomer-card-image">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Data Engineering in GovTech" src="https://placehold.co/600x400">
+</div>
+</div>
+<div class="isomer-card-body">
+<div class="isomer-card-title">Data Engineering</div>
+<div class="isomer-card-description">We share data engineering expertise with the public sector, enabling agencies
+to expand the quality, availability, and accessibility of their data.</div>
+<div class="isomer-card-link">Learn more</div>
+</div>
+</a>
 </div>
 <p></p>
 <p></p>
