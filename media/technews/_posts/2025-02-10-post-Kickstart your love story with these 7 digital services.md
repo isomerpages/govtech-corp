@@ -10,7 +10,7 @@ image: /images/technews/Kickstart_your_love_story_with_these_7_digital_services_
 variant: tiptap
 ---
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Valentine's Day Apps for Couples" src="/images/technews/valentine_digital_services.png">
+<img style="width: 100%" height="auto" width="100%" alt="Valentine's Day Digital Services" src="/images/technews/Kickstart_your_love_story_with_these_7_digital_services_2.jpg">
 </div>
 <p>Valentine’s Day is just around the corner!</p>
 <p>That means it’s the season for expensive chocolates, flowers, and fully-booked
