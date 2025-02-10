@@ -10,7 +10,7 @@ image: /images/technews/love_in_the_digital_age.png
 variant: tiptap
 ---
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Valentine's Day Digital Services" src="/images/technews/Kickstart_your_love_story_with_these_7_digital_services_2.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="love in the digital age valentine's day digital services" src="/images/technews/love_in_the_digital_age.png">
 </div>
 <p>Valentine’s Day is just around the corner!</p>
 <p>That means it’s the season for expensive chocolates, flowers, and fully-booked
