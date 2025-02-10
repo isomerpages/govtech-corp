@@ -27,6 +27,19 @@ to expand the quality, availability, and accessibility of their data.</div>
 <div class="isomer-card-link">Learn more</div>
 </div>
 </a><a rel="noopener noreferrer nofollow" href="/our-capabilities/design/" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Design in GovTech" src="https://placehold.co/600x400"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Design</div><div class="isomer-card-description">We drive human-centred design approaches that put people's needs at the heart of building impactful Government digital services.</div><div class="isomer-card-link">Learn more</div></div></a>
+<a rel="noopener noreferrer nofollow" href="/our-capabilities/software-engineering/" class="isomer-card">
+<div class="isomer-card-image">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Software Engineering in GovTech" src="https://placehold.co/600x400">
+</div>
+</div>
+<div class="isomer-card-body">
+<div class="isomer-card-title">Software Engineering</div>
+<div class="isomer-card-description">We establish standards, drive engineering excellence, and spearhead continuous
+innovation in software engineering across GovTech and the whole of government.</div>
+<div class="isomer-card-link">Learn more</div>
+</div>
+</a>
 </div>
 <p></p>
 <p></p>
