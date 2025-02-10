@@ -133,6 +133,7 @@ user research and service design&nbsp;</p>
 </li>
 </ul>
 <p>&nbsp;</p>
+<hr>
 <h3>Let’s work together &nbsp;</h3>
 <p>Partner with us if you are keen to grow Design capability within the Government,
 develop our Design workforce, champion and contribute to our Design standards
