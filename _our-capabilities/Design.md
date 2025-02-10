@@ -4,7 +4,7 @@ permalink: /our-capabilities/design/
 variant: tiptap
 description: ""
 ---
-<h2>Design&nbsp;</h2>
+<h2>Activating human-centred design at the heart of building Government digital services</h2>
 <p>The Design Practice is on a mission to make lives better for citizens,
 businesses, and the public sector by activating human-centred design as
 a core organisational capability in GovTech. We believe that technology
