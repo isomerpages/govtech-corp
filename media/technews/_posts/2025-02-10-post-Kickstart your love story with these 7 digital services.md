@@ -1,16 +1,16 @@
 ---
 title: Kickstart your love story with these 7 digital services
 permalink: /media/technews/kickstart-your-love-story-with-these-seven-digital-services/
-date: 2024-02-13
+date: 2025-02-10
 layout: post
 description: ❤️ Valentine’s Day is just around the corner! With that in mind, we
   have selected our top apps for couples this Valentine’s Day to help plan for
   dates! 💑
-image: /images/technews/_Compressed__Kick_start_your_love_story_with_these_7_digital_services.jpg
+image: /images/technews/Kickstart_your_love_story_with_these_7_digital_services_2.jpg
 variant: tiptap
 ---
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Valentine's Day Apps for Couples" src="/images/technews/valentine_digital_services.png">
+<img style="width: 100%" height="auto" width="100%" alt="Valentine's Day Digital Services" src="/images/technews/Kickstart_your_love_story_with_these_7_digital_services_2.jpg">
 </div>
 <p>Valentine’s Day is just around the corner!</p>
 <p>That means it’s the season for expensive chocolates, flowers, and fully-booked
