@@ -52,7 +52,7 @@ tech&nbsp;</p>
 </ul>
 <h3><strong>Learn more about our digital government efforts</strong></h3>
 <div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="https://www.tech.gov.sg/products-and-services/for-government-agencies/productivity-and-marketing/" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Increasing Public Officers’ Productivity: AI Tools" src="https://placehold.co/600x400"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Increasing Public Officers’ Productivity: AI Tools</div><div class="isomer-card-description">GovTech empowers public officers with tools and digital capabilities to engineer a digital government and deliver tech for public good. Our solutions automate tasks, foster collaboration, and drive innovation, streamlining workflows and enhancing digital services for public officers and citizens.</div><div class="isomer-card-link">Discover our suite of productivity tools for public officers</div></div></a>
-<a rel="noopener noreferrer nofollow" href="https://www.tech.gov.sg/products-and-services/for-citizens/crowdsourcing/crowdtasksg/%22%20﷟HYPERLINK%20%22https://www.crowdtask.gov.sg/" class="isomer-card">
+<a rel="noopener noreferrer nofollow" href="https://www.tech.gov.sg/products-and-services/for-citizens/crowdsourcing/crowdtasksg/" class="isomer-card">
 <div class="isomer-card-image">
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="Community Engagement: CrowdTaskSG" src="/images/060225__GOVTECH__CrowdTask.gif">
