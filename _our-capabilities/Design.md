@@ -17,7 +17,6 @@ our mission by championing the growth of our designers as well as best
 practices and standards that guide the development of usable, accessible
 and impactful digital services. If this resonates with you, partner with
 us!&nbsp;</p>
-<p>&nbsp;</p>
 <p></p>
 <h3>What We Do ​ &nbsp;</h3>
 <p>The Design Practice focuses on:&nbsp;</p>
@@ -70,7 +69,6 @@ and workflows using a human-centered approach&nbsp;</div>
 </div>
 </div>
 <p></p>
-<p>&nbsp;</p>
 <h3>Our work and initiatives &nbsp;</h3>
 <p>Our initiatives span from talent development to cutting-edge product innovation,
 all in pursuit of our mission to design better government services:&nbsp;</p>
@@ -109,7 +107,7 @@ experimenting with new design workflow and growing designer capabilities&nbsp;</
 <p>Exploring the intersections of human-centered design and responsible AI&nbsp;</p>
 </li>
 </ol>
-<p>&nbsp;</p>
+<p></p>
 <h4>Who we work with &nbsp;</h4>
 <ul>
 <li>
@@ -132,14 +130,12 @@ user research and service design&nbsp;</p>
 <p>Academic institutions looking at the future of design education and innovation&nbsp;</p>
 </li>
 </ul>
-<p>&nbsp;</p>
 <hr>
 <h3>Let’s work together &nbsp;</h3>
 <p>Partner with us if you are keen to grow Design capability within the Government,
 develop our Design workforce, champion and contribute to our Design standards
 and playbooks or explore cutting-edge design technology use cases. Let’s
-meet and discuss how we could work together.&nbsp;
-<br>&nbsp;</p>
+meet and discuss how we could work together.&nbsp;</p>
 <h4>Meet the team&nbsp;</h4>
 <p><em> “Impactful Government Digital Services don’t just happen by accident, it happens by Design. &nbsp;The Design Practice is a solid team that doesn’t just talk about good design, they practice it” &nbsp; <br>&nbsp; <br>- Immanuel Goh, UX Designer, Design Practice&nbsp;</em>
 </p>
