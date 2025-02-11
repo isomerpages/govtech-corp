@@ -39,7 +39,7 @@ to expand the quality, availability, and accessibility of their data.</div>
 that is optimised for government operations.</div>
 <div class="isomer-card-link">Learn more</div>
 </div>
-</a><a rel="noopener noreferrer nofollow" href="/our-capabilities/smart-city-technology/" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Smart City Technology in GovTech" src="https://placehold.co/600x400"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Smart City Technology</div><div class="isomer-card-description">We design and implement government-wide Internet of Things (IoT) infrastructure to support Smart City applications.</div><div class="isomer-card-link">Learn more</div></div></a>
+</a><a rel="noopener noreferrer nofollow" href="/our-capabilities/smart-city-technology/" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Smart City Technology in GovTech" src="/images/About Us/Our capabilities/Capabilities_Banner_Smart_City_Tech.png"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Smart City Technology</div><div class="isomer-card-description">We design and implement government-wide Internet of Things (IoT) infrastructure to support Smart City applications.</div><div class="isomer-card-link">Learn more</div></div></a>
 <a rel="noopener noreferrer nofollow" href="/our-capabilities/software-engineering/" class="isomer-card">
 <div class="isomer-card-image">
 <div class="isomer-image-wrapper">
