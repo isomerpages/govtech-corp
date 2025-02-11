@@ -46,19 +46,14 @@ get notified when new episodes are released.</p>
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
-<div data-type="detailGroup" class="isomer-accordion-group isomer-accordion isomer-accordion-white">
-<details class="isomer-details">
-<summary><strong>Ep1: AI a double-edged sword in the fight against scams</strong>
-</summary>
-<div data-type="detailsContent" class="isomer-details-content">
+<p><strong>Ep1: AI a double-edged sword in the fight against scams</strong>
+</p>
 <p>While AI can enhance our cyber defence and protect our digital landscape,
 bad actors can exploit it to create sophisticated attacks and evade traditional
 security measures.</p>
 <p>Hear from our cybersecurity experts Bryan and Chloe as they unpack scam
 tactics and share the Singapore government's efforts to protect citizens.</p>
-</div>
-</details>
-</div>
+<p></p>
 <p><a href="https://go.gov.sg/govtechdecoded-from-website-ep1" rel="noopener nofollow" target="_blank">Watch on YouTube</a> |
 <a href="https://go.gov.sg/govtechdecoded-spotify-ep1" rel="noopener nofollow" target="_blank">Listen on Spotify</a>| <a href="/files/GovTech Decoded/Ep_1__AI_a_double_edged_sword_in_the_fight_against_scams_docx.pdf" rel="noopener nofollow" target="_blank">Episode 1 Transcript</a>
 </p>
@@ -72,11 +67,8 @@ tactics and share the Singapore government's efforts to protect citizens.</p>
 </div>
 </td>
 <td rowspan="1" colspan="1">
-<div data-type="detailGroup" class="isomer-accordion-group isomer-accordion isomer-accordion-white">
-<details class="isomer-details">
-<summary><strong>Ep2: Cybersecurity Chronicles from Frontliners</strong>
-</summary>
-<div data-type="detailsContent" class="isomer-details-content">
+<p><strong>Ep2: Cybersecurity Chronicles from Frontliners</strong>
+</p>
 <p>The Singapore Government has strategised a multi-prong approach to safeguard
 our cyberspace and systems from ever-evolving threats.</p>
 <p></p>
@@ -85,9 +77,6 @@ they dive into the nuts and bolts of building the Singapore government’s
 defences against sophisticated cyber adversaries. They also discuss ‘controversial’
 defence techniques like working&nbsp;with external parties and individuals
 to ensure our nation maintains a robust and resilient cybersecurity posture.</p>
-</div>
-</details>
-</div>
 <p><a href="https://go.gov.sg/govtechdecoded-from-website-ep2" rel="noopener nofollow" target="_blank">Watch on YouTube</a> |
 <a href="https://go.gov.sg/govtechdecoded-spotify-ep2" rel="noopener nofollow" target="_blank">Listen on Spotify</a>| <a href="/files/GovTech Decoded/Ep_2__Cybersecurity_Chronicles_from_Frontliners_docx.pdf" rel="noopener nofollow" target="_blank">Episode 2 Transcript</a>
 </p>
@@ -101,11 +90,8 @@ to ensure our nation maintains a robust and resilient cybersecurity posture.</p>
 </div>
 </td>
 <td rowspan="1" colspan="1">
-<div data-type="detailGroup" class="isomer-accordion-group isomer-accordion isomer-accordion-white">
-<details class="isomer-details">
-<summary><strong>Ep3: Building Blocks of a Reliable Tech Stack</strong>
-</summary>
-<div data-type="detailsContent" class="isomer-details-content">
+<p><strong>Ep3: Building Blocks of a Reliable Tech Stack </strong>
+</p>
 <p>Tech Stacks are powerful digital infrastructures that can help scale innovation
 and drive efficiency. At GovTech, we’ve built the <a href="https://www.developer.tech.gov.sg/singapore-government-tech-stack/" rel="noopener nofollow" target="_blank">Singapore Government Tech Stack (SGTS)</a> to
 engineer our digital government and create a unified ecosystem for developers
@@ -114,9 +100,7 @@ to thrive.</p>
 <p>Using the analogy of building a home, we explore the SG Tech Stack with
 Liyana Fauzi and Charis Anne Lim to understand how it enables developers
 to focus on creativity, reduce complexities, and ensure security and compliance.</p>
-</div>
-</details>
-</div>
+<p></p>
 <p><a href="https://go.gov.sg/govtechdecoded-from-website-ep3" rel="noopener nofollow" target="_blank">Watch on YouTube</a> |
 <a href="https://go.gov.sg/govtechdecoded-spotify-ep3" rel="noopener nofollow" target="_blank">Listen on Spotify</a>| <a href="/files/GovTech Decoded/Ep_3__Building_Blocks_of_a_Reliable_Tech_Stack__docx.pdf" rel="noopener nofollow" target="_blank">Episode 3 Transcript</a>
 </p>
@@ -130,21 +114,16 @@ to focus on creativity, reduce complexities, and ensure security and compliance.
 </div>
 </td>
 <td rowspan="1" colspan="1">
-<div data-type="detailGroup" class="isomer-accordion-group isomer-accordion isomer-accordion-white">
-<details class="isomer-details">
-<summary><strong>Ep4: Scaling with Tech Stacks</strong>
-</summary>
-<div data-type="detailsContent" class="isomer-details-content">
+<p><strong>Ep4: Scaling with Tech Stacks </strong>
+</p>
 <p>A tech stack provides a standardised and modular foundation that helps
 to streamline development and operations. As a user of the <a href="https://www.developer.tech.gov.sg/singapore-government-tech-stack/" rel="noopener nofollow" target="_blank">Singapore Government Tech Stack (SGTS)</a>,
-Charis Anne Lim shares how her team at <a href="https://go.gov.sg/gathersg-decoded" rel="noopener nofollow" target="_blank">GatherSG</a> leverages and benefits
+Charis Anne Lim shares how her team at <a href="https://go.gov.sg/gathersg-decoded" rel="noopener nofollow" target="_blank">GatherSG </a>leverages and benefits
 from it.</p>
 <p>Liyana Fauzi shared a checklist for techies to consider if they are building
 a tech stack, and revealed the next stretch goal to elevate engineering
 productivity within the Singapore government.</p>
-</div>
-</details>
-</div>
+<p></p>
 <p><a href="https://go.gov.sg/govtechdecoded-from-website-ep4" rel="noopener nofollow" target="_blank">Watch on YouTube</a> |
 <a href="https://go.gov.sg/govtechdecoded-spotify-ep4" rel="noopener nofollow" target="_blank">Listen on Spotify</a>| <a href="/files/GovTech Decoded/Ep_4__Scaling_with_Tech_Stacks__docx.pdf" rel="noopener noreferrer nofollow" target="_blank">Episode 4 Transcript</a>
 </p>
@@ -158,21 +137,14 @@ productivity within the Singapore government.</p>
 </div>
 </td>
 <td rowspan="1" colspan="1">
-<div data-type="detailGroup" class="isomer-accordion-group isomer-accordion isomer-accordion-white">
-<details class="isomer-details">
-<summary><strong>Ep5: Secrets to Mastering GenAI from a Prompt Queen</strong>
-</summary>
-<div data-type="detailsContent" class="isomer-details-content">
-<p>Prompt engineering is the mix of art and science to craft inputs that
-guide AI systems to produce accurate, relevant, and meaningful outputs.
-Designing effective prompts can empower users to harness GenAI's full potential.</p>
+<p><strong>Ep5: Secrets to Mastering GenAI from a Prompt Queen </strong>Prompt
+engineering is the mix of art and science to craft inputs that guide AI
+systems to produce accurate, relevant, and meaningful outputs. Designing
+effective prompts can empower users to harness GenAI's full potential.</p>
 <p></p>
 <p>Join Kenneth Ong, Lim Hock Chuan, and Nicole Lee as they share their secrets
 to harnessing GenAI's full potential with the COSTAR framework and their
 experiences with prompt engineering competitions.</p>
-</div>
-</details>
-</div>
 <p><a href="https://go.gov.sg/govtechdecoded-from-website-ep5" rel="noopener nofollow" target="_blank">Watch on YouTube</a> |
 <a href="https://go.gov.sg/govtechdecoded-spotify-ep5" rel="noopener nofollow" target="_blank">Listen on Spotify</a>| <a href="/files/GovTech Decoded/Ep_5__Secrets_to_Mastering_GenAI_from_a_Prompt_Queen.pdf" rel="noopener noreferrer nofollow" target="_blank">Episode 5 Transcript</a>
 </p>
@@ -186,11 +158,8 @@ experiences with prompt engineering competitions.</p>
 </div>
 </td>
 <td rowspan="1" colspan="1">
-<div data-type="detailGroup" class="isomer-accordion-group isomer-accordion isomer-accordion-white">
-<details class="isomer-details">
-<summary><strong>Episode 6 - Riding the Wave of GenAI</strong>
-</summary>
-<div data-type="detailsContent" class="isomer-details-content">
+<p><strong>Ep6: Riding the Wave of GenAI </strong>
+</p>
 <p>GenAI is on a meteoric rise and is redefining the way we work and live.
 To aid public officers in better incorporating AI into their work, Matchmaker
 was developed to provide officers with AI-driven recommendations based
@@ -200,9 +169,6 @@ on their specific needs.</p>
 variety of tools and programmes available to help foster a stronger culture
 of innovation and improve the adoption of cutting-edge technologies in
 the public sector.</p>
-</div>
-</details>
-</div>
 <p><a href="https://go.gov.sg/govtechdecoded-from-website-ep6" rel="noopener nofollow" target="_blank">Watch on YouTube</a> |
 <a href="https://go.gov.sg/govtechdecoded-spotify-ep6" rel="noopener nofollow" target="_blank">Listen on Spotify</a>| <a href="/files/GovTech Decoded/EP_6__Riding_the_Wave_of_GenAI.pdf" rel="noopener noreferrer nofollow" target="_blank">Episode 6 Transcript</a>
 </p>

@@ -4,6 +4,7 @@ collections:
     order:
       - Cybersecurity.md
       - Data Engineering.md
+      - Design.md
       - Government ICT Infrastructure.md
       - Smart City Technology.md
       - Software Engineering.md
