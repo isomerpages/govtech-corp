@@ -30,7 +30,7 @@ to expand the quality, availability, and accessibility of their data.</div>
 <a rel="noopener noreferrer nofollow" href="/our-capabilities/government-ict-infrastructure/" class="isomer-card">
 <div class="isomer-card-image">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Government ICT infrastructure in GovTech" src="https://placehold.co/600x400">
+<img style="width: 100%" height="auto" width="100%" alt="Government ICT infrastructure in GovTech" src="/images/About Us/Our capabilities/Capabilities_Banner_Government_ICT_Infrastructure.png">
 </div>
 </div>
 <div class="isomer-card-body">
