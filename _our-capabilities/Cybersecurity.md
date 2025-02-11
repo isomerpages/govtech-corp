@@ -7,10 +7,6 @@ description: How does GovTech’s cybersecurity capabilities centre safeguard ou
 image: /images/About Us/Our capabilities/Our_capabilities_cybersecurity_compressed.jpg
 ---
 <h2>Safeguarding the Government’s Information and Communications Technology &amp; Smart Systems</h2>
-<p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="GovTech capability centre for cybersecurity" src="/images/About Us/Our capabilities/Cybersecurity_banner.jpg">
-</div>
 <h3>What we do</h3>
 <p>Our mission is to secure government Info-Communications Technology and
 Smart Systems, and to respond swiftly to any cyberattack. We achieve this
