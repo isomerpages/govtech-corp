@@ -141,19 +141,15 @@ and playbooks or explore cutting-edge design technology use cases. Let’s
 meet and discuss how we could work together.&nbsp;
 <br>&nbsp;</p>
 <h4>Meet the team&nbsp;</h4>
-<p> “Impactful Government Digital Services don’t just happen by accident,
-it happens <em>by Design</em>. &nbsp;
-<br>The Design Practice is a solid team that doesn’t just talk about good
-design, they practice it” &nbsp;
-<br>&nbsp;
-<br>- Immanuel Goh, UX Designer, Design Practice&nbsp;</p>
-<p>&nbsp;</p>
-<p>“Magic happens when you put users first and figure out the real needs
-to be solved. &nbsp;</p>
-<p>Design Practice is where the magic happens and is made into reality; I’m
-glad I’m working with this awesome bunch!”&nbsp;</p>
+<p><em> “Impactful Government Digital Services don’t just happen by accident, it happens by Design. &nbsp;The Design Practice is a solid team that doesn’t just talk about good design, they practice it” &nbsp; <br>&nbsp; <br>- Immanuel Goh, UX Designer, Design Practice&nbsp;</em>
+</p>
+<p><em>&nbsp;</em>
+</p>
+<p><em>“Magic happens when you put users first and figure out the real needs to be solved. &nbsp;Design Practice is where the magic happens and is made into reality; I’m glad I’m working with this awesome bunch!”&nbsp;</em>
+</p>
 <p></p>
-<p>- Alicia Lee, UX Designer, Design Practice&nbsp;</p>
+<p><em>- Alicia Lee, UX Designer, Design Practice&nbsp;</em>
+</p>
 <p>&nbsp;</p>
 <p>Explore <a href="https://careers.tech.gov.sg/careers/SearchJobs" class="Hyperlink SCXW258870138 BCX8" rel="noreferrer noopener" target="_blank"><u>career opportunities at GovTech</u></a>.</p>
 <p>&nbsp;</p>
