@@ -1,6 +1,6 @@
 ---
 layout: homepage
-title: Government Technology Agency of Singapore | GovTech
+title: Government Technology Agency of Singapore (GovTech)
 description: Empowering our nation through digital transformation. From
   tech-enabled solutions to smart city infrastructure, we aim to improve the
   lives of all Singaporeans.
