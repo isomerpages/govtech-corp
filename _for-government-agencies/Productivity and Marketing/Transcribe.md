@@ -31,15 +31,15 @@ data handling, various integrations, and accessibility.</p>
 <p>Over 200% year-on-year growth in user registration.</p>
 </li>
 <li>
-<p>Offers meeting minutes generation as a new feature.</p>
+<p>Transcribes meetings and summarises key takeaways.</p>
 </li>
 </ul>
 <hr>
-<p>Transcribing interviews, speeches and meeting minutes is a labour-intensive
+<p>Transcribing interviews, speeches, and meeting minutes is a labour-intensive
 and time-consuming task. While there are many speech-to-text platforms
 in the market, they are not suited for handling confidential and sensitive
 government data.&nbsp;</p>
-<p>Bridging this gap, GovTech created Transcribe, a platform that boasts
+<p>Bridging this gap, GovTech created Transcribe, a platform that offers
 auto-transcription technologies.&nbsp;Transcribe has a web application
 for public officers’ usage and an API platform to support system integration.</p>
 <p>Users can simply record a live meeting or upload a pre-recorded file and
