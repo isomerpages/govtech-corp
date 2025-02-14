@@ -6,7 +6,7 @@ description: Discover the capability centre that leads the Singapore
   government's ICT strategy and what goes into developing the government's ICT
   infrastructure.
 image: /images/About Us/Our
-  capabilities/our_capabilities_government_ict_infrastructure_compressed.jpg
+  capabilities/Capabilities_Banner_Government_ICT_Infrastructure.png
 ---
 <h2>Developing centralised info-communications technology (ICT) infrastructure for the whole-of-government (WOG)</h2>
 <div class="isomer-image-wrapper">

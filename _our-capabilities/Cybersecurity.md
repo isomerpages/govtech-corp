@@ -4,7 +4,7 @@ permalink: /our-capabilities/cybersecurity/
 variant: tiptap
 description: How does GovTech’s cybersecurity capabilities centre safeguard our
   nation? Read more about Singapore’s cybersecurity strategy here.
-image: /images/About Us/Our capabilities/Our_capabilities_cybersecurity_compressed.jpg
+image: /images/About Us/Our capabilities/Capabilities_Banner_Cybersecurity.png
 ---
 <h2>Safeguarding the Government’s Information and Communications Technology &amp; Smart System</h2>
 <div class="isomer-image-wrapper">

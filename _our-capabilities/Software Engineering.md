@@ -4,7 +4,7 @@ permalink: /our-capabilities/software-engineering/
 variant: tiptap
 description: GovTech's Software Engineering Practice drives engineering
   excellence and innovation across GovTech and the public sector.
-image: /images/About Us/Our capabilities/SoftwareEngineering.png
+image: /images/About Us/Our capabilities/Capabilities_Banner_Software_Engineering.png
 ---
 <h2>Setting standards, driving excellence, and inspiring innovation in software engineering for GovTech and beyond</h2>
 <div class="isomer-image-wrapper">

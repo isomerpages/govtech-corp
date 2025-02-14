@@ -2,7 +2,9 @@
 title: Design
 permalink: /our-capabilities/design/
 variant: tiptap
-description: ""
+description: Discover GovTech's design capabilities at the heart of building
+  impactful digital Government services.
+image: /images/About Us/Our capabilities/Capabilities_Banner_Design.png
 ---
 <h2>Activating human-centred design at the heart of building Government digital services</h2>
 <div class="isomer-image-wrapper">

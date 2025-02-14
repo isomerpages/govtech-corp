@@ -5,7 +5,7 @@ variant: tiptap
 description: Singapore’s Smart City vision is realised by the Smart City
   Technology division through tech like GovTech eCanvas and Open Digital
   Platform. Learn more!
-image: /images/About Us/Our capabilities/Smart_city_technologies_meta_image.jpg
+image: /images/About Us/Our capabilities/Capabilities_Banner_Smart_City_Tech.png
 ---
 <h2>Designing, building and implementing government-wide Internet of Things (IoT) infrastructures for Smart City applications</h2>
 <div class="isomer-image-wrapper">
