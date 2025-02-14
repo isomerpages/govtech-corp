@@ -51,11 +51,11 @@ tech&nbsp;</p>
 </li>
 </ul>
 <h3><strong>Learn more about our digital government efforts</strong></h3>
-<div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="https://www.tech.gov.sg/products-and-services/for-government-agencies/productivity-and-marketing/" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Increasing Public Officers’ Productivity: AI Tools" src="https://placehold.co/600x400"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Increasing Public Officers’ Productivity: AI Tools</div><div class="isomer-card-description">GovTech empowers public officers with tools and digital capabilities to engineer a digital government and deliver tech for public good. Our solutions automate tasks, foster collaboration, and drive innovation, streamlining workflows and enhancing digital services for public officers and citizens.</div><div class="isomer-card-link">Discover our suite of productivity tools for public officers</div></div></a>
+<div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="https://www.tech.gov.sg/products-and-services/for-government-agencies/productivity-and-marketing/" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Increasing Public Officers’ Productivity: AI Tools" src="/images/Transcribe__AI_tools_.gif"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Increasing Public Officers’ Productivity: AI Tools</div><div class="isomer-card-description">GovTech empowers public officers with tools and digital capabilities to engineer a digital government and deliver tech for public good. Our solutions automate tasks, foster collaboration, and drive innovation, streamlining workflows and enhancing digital services for public officers and citizens.</div><div class="isomer-card-link">Discover our suite of productivity tools for public officers</div></div></a>
 <a rel="noopener noreferrer nofollow" href="https://www.tech.gov.sg/products-and-services/for-citizens/crowdsourcing/crowdtasksg/" class="isomer-card">
 <div class="isomer-card-image">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Community Engagement: CrowdTaskSG" src="/images/060225__GOVTECH__CrowdTask.gif">
+<img style="width: 100%" height="auto" width="100%" alt="Community Engagement: CrowdTaskSG" src="/images/CTSG_TK.gif">
 </div>
 </div>
 <div class="isomer-card-body">
@@ -68,11 +68,11 @@ Singapore’s future!</div>
 </div>
 </a>
 </div>
-<div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="https://www.tech.gov.sg/products-and-services/for-businesses/corporate-transactions/gobusiness/" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Simplifying Business Registration and Admin: GoBusiness" src="/images/250123__GOVTECH__GoBusiness.gif"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Simplifying Business Registration and Admin: GoBusiness</div><div class="isomer-card-description">GoBusiness is the go-to platform for businesses in Singapore to access Government e-services and resources. Save time, reduce admin, and focus on growth while staying compliant.</div><div class="isomer-card-link">Discover how GoBusiness empowers business owners</div></div></a>
+<div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="https://www.tech.gov.sg/products-and-services/for-businesses/corporate-transactions/gobusiness/" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Simplifying Business Registration and Admin: GoBusiness" src="/images/GoBiz.gif"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Simplifying Business Registration and Admin: GoBusiness</div><div class="isomer-card-description">GoBusiness is the go-to platform for businesses in Singapore to access Government e-services and resources. Save time, reduce admin, and focus on growth while staying compliant.</div><div class="isomer-card-link">Discover how GoBusiness empowers business owners</div></div></a>
 <a rel="noopener noreferrer nofollow" href="https://www.tech.gov.sg/products-and-services/for-citizens/employment/mycareersfuture/" class="isomer-card">
 <div class="isomer-card-image">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Career Exploration and Development: MyCareersFuture" src="https://placehold.co/600x400">
+<img style="width: 100%" height="auto" width="100%" alt="Career Exploration and Development: MyCareersFuture" src="/images/MyCareersFuture.gif">
 </div>
 </div>
 <div class="isomer-card-body">
@@ -83,11 +83,11 @@ with training opportunities and employers with talent.</div>
 </div>
 </a>
 </div>
-<div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="https://www.tech.gov.sg/products-and-services/for-businesses/smart-city-tech/" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Smart City Tech: Open Digital Platform" src="https://placehold.co/600x400"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Smart City Tech: Open Digital Platform</div><div class="isomer-card-description">The Open Digital Platform (ODP) is an advanced smart city operating system integrating district management operations. As Punggol Digital District's digital backbone, ODP streamlines business operations, enhances decision-making, and boosts efficiency.</div><div class="isomer-card-link">Learn more about ODP</div></div></a>
+<div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="https://www.tech.gov.sg/products-and-services/for-businesses/smart-city-tech/" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Smart City Tech: Open Digital Platform" src="/images/ODP.gif"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Smart City Tech: Open Digital Platform</div><div class="isomer-card-description">The Open Digital Platform (ODP) is an advanced smart city operating system integrating district management operations. As Punggol Digital District's digital backbone, ODP streamlines business operations, enhances decision-making, and boosts efficiency.</div><div class="isomer-card-link">Learn more about ODP</div></div></a>
 <a rel="noopener noreferrer nofollow" href="https://www.tech.gov.sg/products-and-services/for-citizens/scam-prevention/" class="isomer-card">
 <div class="isomer-card-image">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Scam Prevention: SATIS/rMSE" src="https://placehold.co/600x400">
+<img style="width: 100%" height="auto" width="100%" alt="Scam Prevention: SATIS/rMSE" src="/images/SATIS_rMSE.gif">
 </div>
 </div>
 <div class="isomer-card-body">
@@ -101,11 +101,11 @@ online scams.</div>
 </div>
 </a>
 </div>
-<div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="https://www.tech.gov.sg/products-and-services/for-government-agencies/software-development/sg-tech-stack/" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Streamlining the Creation of Digital Services: Singapore Government Tech Stack" src="https://placehold.co/600x400"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Streamlining the Creation of Digital Services: Singapore Government Tech Stack</div><div class="isomer-card-description">The Singapore Government Tech Stack offers agencies standardised, secure digital tools for efficient software development. It provides a unified framework, reducing duplication and ensuring interoperability. It promotes cost-efficiency and innovation while maintaining security and compliance.</div><div class="isomer-card-link">Discover how the Singapore Government Tech Stack empowers our sister agencies</div></div></a>
+<div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="https://www.tech.gov.sg/products-and-services/for-government-agencies/software-development/sg-tech-stack/" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Streamlining the Creation of Digital Services: Singapore Government Tech Stack" src="/images/SG_Tech_Stack.gif"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Streamlining the Creation of Digital Services: Singapore Government Tech Stack</div><div class="isomer-card-description">The Singapore Government Tech Stack offers agencies standardised, secure digital tools for efficient software development. It provides a unified framework, reducing duplication and ensuring interoperability. It promotes cost-efficiency and innovation while maintaining security and compliance.</div><div class="isomer-card-link">Discover how the Singapore Government Tech Stack empowers our sister agencies</div></div></a>
 <a rel="noopener noreferrer nofollow" href="https://www.tech.gov.sg/products-and-services/for-citizens/digital-services/singpass/" class="isomer-card">
 <div class="isomer-card-image">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Digital Identity: Singpass" src="https://placehold.co/600x400">
+<img style="width: 100%" height="auto" width="100%" alt="Digital Identity: Singpass" src="/images/Singpass.gif">
 </div>
 </div>
 <div class="isomer-card-body">
@@ -118,11 +118,11 @@ services when you log in with Singpass.</div>
 </div>
 </a>
 </div>
-<div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="https://www.tech.gov.sg/products-and-services/for-citizens/education/student-learning-space/" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Elevating Classroom Learning through EdTech: Student Learning Space" src="https://placehold.co/600x400"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Elevating Classroom Learning through EdTech: Student Learning Space</div><div class="isomer-card-description">Student Learning Space transforms learning and teaching by blending digital content, interactive exercises, and real-time feedback. It enhances engagement and retention for students while equipping teachers with data-driven insights to personalise learning experiences and track student progress.</div><div class="isomer-card-link">Learn more about Student Learning Space</div></div></a>
+<div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="https://www.tech.gov.sg/products-and-services/for-citizens/education/student-learning-space/" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Elevating Classroom Learning through EdTech: Student Learning Space" src="/images/SLS.gif"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Elevating Classroom Learning through EdTech: Student Learning Space</div><div class="isomer-card-description">Student Learning Space transforms learning and teaching by blending digital content, interactive exercises, and real-time feedback. It enhances engagement and retention for students while equipping teachers with data-driven insights to personalise learning experiences and track student progress.</div><div class="isomer-card-link">Learn more about Student Learning Space</div></div></a>
 <a rel="noopener noreferrer nofollow" href="https://hubs.ly/Q02XsY170" class="isomer-card">
 <div class="isomer-card-image">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Community Engagement: Tech Kaki" src="/images/060225__GOVTECH__CrowdTask.gif">
+<img style="width: 100%" height="auto" width="100%" alt="Community Engagement: Tech Kaki" src="/images/CTSG_TK.gif">
 </div>
 </div>
 <div class="isomer-card-body">

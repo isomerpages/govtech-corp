@@ -9,6 +9,9 @@ image: /images/About Us/Our
   capabilities/our_capabilities_government_ict_infrastructure_compressed.jpg
 ---
 <h2>Developing centralised info-communications technology (ICT) infrastructure for the whole-of-government (WOG)</h2>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Government ICT Infrastructure" src="/images/About Us/Our capabilities/Capabilities_Banners_Government_ICT_Infrastructure_compressed.jpg">
+</div>
 <h3>What we do</h3>
 <p>We develop ICT infrastructure at scale and the foundational ICT layer
 that enables the entire government, impacting all government agencies and

@@ -5,6 +5,9 @@ variant: tiptap
 description: ""
 ---
 <h2>Activating human-centred design at the heart of building Government digital services</h2>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Design" src="/images/About Us/Our capabilities/Capabilities_Banners_Design_compressed.jpg">
+</div>
 <p>The Design Practice is on a mission to make lives better for citizens,
 businesses, and the public sector by activating human-centred design as
 a core organisational capability in GovTech. We believe that technology

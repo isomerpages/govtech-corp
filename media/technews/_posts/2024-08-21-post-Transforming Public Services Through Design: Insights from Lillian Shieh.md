@@ -12,17 +12,12 @@ variant: tiptap
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="Q&amp;A with Lillian Shieh: Head of Design at GovTech, Researcher, Product Strategist, UX Designer" src="/images/technews/Lillian_Shieh_article_banner_STACK_2024.jpg">
 </div>
-<h2>Exclusive feature on Lillian Shieh: Keynote speaker at STACK 2024</h2>
-<p>One of eight established keynote speakers at <a href="https://www.developer.tech.gov.sg/communities/events/conferences/stack-developer-conference-2024/overview" rel="noopener noreferrer nofollow" target="_blank">STACK Developer Conference 2024</a>,
-Lillian has a wealth of experience in user research, design, and product
+<h2>Exclusive feature on Lillian Shieh</h2>
+<p>Lillian has a wealth of experience in user research, design, and product
 strategy. In addition to being the Senior Director and Head of Design in
 Asia Pacific previously at Johnson &amp; Johnson, she was also awarded
 the prestigious <a href="https://www.tech.gov.sg/careers/opportunities-for-professionals/smart-nation-fellowship-programme/" rel="noopener noreferrer nofollow" target="_blank">Smart Nation Fellowship</a> at
 GovTech.</p>
-<p><em>You might also be interested in:</em>
-</p>
-<div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="/media/technews/stack-2024-tech-experts-to-share-their-knowledge-on-ux-design-developer-platforms/" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="STACK Developer Conference 2024" src="/images/technews/STACK_2024__845x200_.jpg"></div></div><div class="isomer-card-body"><div class="isomer-card-title">STACK 2024: Tech Experts to Share Their Knowledge on UX Design, Developer Platforms, and More!</div><div class="isomer-card-link">Read more on TechNews</div></div></a>
-</div>
 <p>As the new Head of Design at GovTech, <a href="https://www.linkedin.com/in/lillianshieh/" rel="noopener noreferrer nofollow" target="_blank">Lillian</a> will work on
 improving GovTech’s product development process and <a href="https://www.tech.gov.sg/products-and-services/overview/" rel="noopener noreferrer nofollow" target="_blank">digital products</a> for
 citizens, businesses and public officers.</p>
@@ -125,15 +120,6 @@ digital services?</p>
 </li>
 </ol>
 <hr>
-<p>Lillian’s keynote address at STACK 2024 will cover insights into how <strong>government services </strong>can
-be improved, how<strong> impactful biases</strong> are developed in digital
-services, and the importance of <strong>digital maturity</strong> on changing
-priorities of government digital services.</p>
-<p>If you’re interested in hearing more of Lillian’s expert insights, <a href="https://go.gov.sg/stack2024-tnedm" rel="noopener noreferrer nofollow" target="_blank">register for the STACK Developer Conference 2024</a> today!</p>
-<h4>Related Content:</h4>
-<div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="/media/technews/stack-2024-tech-experts-to-share-their-knowledge-on-ux-design-developer-platforms/" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="STACK Developer Conference 2024" src="/images/technews/STACK_2024__845x200_.jpg"></div></div><div class="isomer-card-body"><div class="isomer-card-title">STACK 2024: Tech Experts to Share Their Knowledge on UX Design, Developer Platforms, and More!</div><div class="isomer-card-link">Read more on TechNews</div></div></a>
-</div>
-<p></p>
 <div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="https://go.gov.sg/communitysignup-technews" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Subscribe to the TechNews email newsletter" src="/images/CTA card images/technews_footer.jpg"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Subscribe to the TechNews email newsletter</div><div class="isomer-card-link">TechNews</div></div></a>
 <a rel="noopener noreferrer nofollow" href="https://go.gov.sg/communitysignup-technews" class="isomer-card">
 <div class="isomer-card-image">

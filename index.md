@@ -1,6 +1,6 @@
 ---
 layout: homepage
-title: Government Technology Agency of Singapore | GovTech
+title: Government Technology Agency of Singapore (GovTech)
 description: Empowering our nation through digital transformation. From
   tech-enabled solutions to smart city infrastructure, we aim to improve the
   lives of all Singaporeans.
@@ -9,7 +9,7 @@ permalink: /
 notification: ""
 sections:
   - hero:
-      background: /images/Homepage/stack_x_cyber_2025.png
+      background: /images/STACK_X_Cybersecurtiy_HP_Banner_Draft_8.png
       button: FIND OUT MORE
       url: /media/events/stackx-cybersecurity-2025/
       key_highlights:

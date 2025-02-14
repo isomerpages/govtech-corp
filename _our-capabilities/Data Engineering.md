@@ -7,6 +7,9 @@ description: GovTech's Data Engineering Practice (DP) enables government
 image: /images/About Us/Our capabilities/data_engineering_600x400.png
 ---
 <h2>Spearheading continuous innovation in data engineering across GovTech and the public sector</h2>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Data Engineering" src="/images/About Us/Our capabilities/Capabilities_Banners_Data_Engineering_compressed.jpg">
+</div>
 <h3>What we do</h3>
 <p>The Data Engineering Practice (DP) serves as a main conduit for the transference
 of data engineering expertise to the public sector, enabling agencies to
