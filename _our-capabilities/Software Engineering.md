@@ -7,6 +7,9 @@ description: GovTech's Software Engineering Practice drives engineering
 image: /images/About Us/Our capabilities/SoftwareEngineering.png
 ---
 <h2>Setting standards, driving excellence, and inspiring innovation in software engineering for GovTech and beyond</h2>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Software Engineering" src="/images/About Us/Our capabilities/Capabilities_Banners_Software_Engineering_compressed.jpg">
+</div>
 <h3>What we do</h3>
 <p>Our mission is to establish standards, drive engineering excellence, and
 spearhead continuous innovation in software engineering across GovTech
