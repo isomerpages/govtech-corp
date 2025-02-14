@@ -8,6 +8,9 @@ description: Singapore’s Smart City vision is realised by the Smart City
 image: /images/About Us/Our capabilities/Smart_city_technologies_meta_image.jpg
 ---
 <h2>Designing, building and implementing government-wide Internet of Things (IoT) infrastructures for Smart City applications</h2>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Smart City Technology" src="/images/About Us/Our capabilities/Capabilities_Banners_Smart_City_Technology_compressed.jpg">
+</div>
 <h3>What we do</h3>
 <p>Our expertise ranges from hardware design on embedded platforms and robotics
 to infrastructure development and deployment on cloud management platforms.
