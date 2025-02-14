@@ -137,5 +137,18 @@ various government digital products and services before they launch!</div>
 </div>
 <p></p>
 <p>Discover more products and services powered by GovTech <a href="https://www.tech.gov.sg/products-and-services/overview/" class="Hyperlink SCXW10298266 BCX8" rel="noreferrer noopener" target="_blank"><u>here.</u></a>&nbsp;&nbsp;</p>
-<p><a href="https://linktr.ee/connectwithgovtech" class="Hyperlink SCXW10298266 BCX8" rel="noreferrer noopener" target="_blank"><u>Follow us on our social channels,</u></a> and
-stay informed on the latest GovTech updates with <a href="https://hubs.ly/Q02XsY170" class="Hyperlink SCXW10298266 BCX8" rel="noreferrer noopener" target="_blank"><u>TechNews</u></a>.&nbsp;</p>
+<p></p>
+<div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="https://hubs.ly/Q02XsY170" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Subscribe to the Tech News email newsletter" src="/images/CTA card images/technews_footer.jpg"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Subscribe to the Tech News email newsletter</div><div class="isomer-card-link">Sign up for Tech News</div></div></a>
+<a rel="noopener noreferrer nofollow" href="https://linktr.ee/connectwithgovtech" class="isomer-card">
+<div class="isomer-card-image">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Follow us on social media" src="/images/CTA card images/Stay_updated_via_out_social_media.png">
+</div>
+</div>
+<div class="isomer-card-body">
+<div class="isomer-card-title">Follow us on social media for the latest updates</div>
+<div class="isomer-card-link">Connect with us on social media</div>
+</div>
+</a>
+</div>
+<p></p>
