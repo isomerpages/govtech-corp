@@ -17,8 +17,8 @@ ChatGPT can generate reports in an instant. It even passed a bar exam and
 a whole bunch of other tests.</p>
 <p>Soon you’re wondering: Can I use ChatGPT to hack it?</p>
 <p>Well, you won’t be the first one.</p>
-<p>With ChatGPT reaching 100 million monthly users in January 2023, students
-and employees have been using it to reduce their workload.</p>
+<p>With ChatGPT processing over 1 billion queries per day, students and employees
+all over the world have been using it to reduce their workload.</p>
 <p>AI models like ChatGPT are known as ‘Generative AI’, and yes, they’ve
 gained considerable attention for their ability to generate diverse content,
 ranging from articles and photos to artwork and code.</p>
