@@ -9,7 +9,7 @@ permalink: /
 notification: ""
 sections:
   - hero:
-      background: /images/STACK_X_Cybersecurtiy_HP_Banner_Draft_8.png
+      background: /images/STACK_X_Cybersecurtiy_HP_Banner_Draft_9.png
       button: FIND OUT MORE
       url: /media/events/stackx-cybersecurity-2025/
       key_highlights:
