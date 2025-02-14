@@ -4,8 +4,7 @@ permalink: /media/technews/transforming-public-services-through-design-insights-
 date: 2024-08-21
 layout: post
 description: Discover insights from Lillian Shieh, Head of Design at GovTech, on
-  design thinking, UX innovation, and the future of digital services at STACK
-  2024.
+  design thinking, UX innovation, and the future of digital services.
 image: /images/technews/Lillian_Shieh_article_banner_STACK_2024.jpg
 variant: tiptap
 ---
