@@ -72,7 +72,7 @@ Singapore’s future!</div>
 <a rel="noopener noreferrer nofollow" href="https://www.tech.gov.sg/products-and-services/for-citizens/employment/mycareersfuture/" class="isomer-card">
 <div class="isomer-card-image">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Career Exploration and Development: MyCareersFuture" src="/images/MyCareersFuture.gif">
+<img style="width: 100%" height="auto" width="100%" alt="Career Exploration and Development: MyCareersFuture" src="/images/MCF.gif">
 </div>
 </div>
 <div class="isomer-card-body">
