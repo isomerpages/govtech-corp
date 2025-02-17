@@ -111,11 +111,11 @@ Glenda, one of our Smart Nation Scholars, who has detailed her own journey.</p>
 <div class="iframe-wrapper">
 <iframe style="max-width: 100%;" height="400" width="100%" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/Y_bk9YFZvSQ?si=ZB11q3uSk7dPo-RZ"></iframe>
 </div>
-<p>Applications are open from 1st September to 1st April (of the following
-year) for each cycle. Shortlisted candidates can expect to undergo a holistic
-scholarship selection process, which includes a group assessment, an individual
-technical test, as well as interviews with Human Resources personnel, Tech
-Leads and our senior leaders.</p>
+<p>Applications are open from 1<sup>st</sup> September to 30<sup>th</sup> April
+(of the following year) for each cycle. Shortlisted candidates can expect
+to undergo a holistic scholarship selection process, which includes a group
+assessment, an individual technical test, as well as interviews with Human
+Resources personnel, Tech Leads and our senior leaders.</p>
 <div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="https://brightsparks.com.sg/profile/SNS/index.php" class="isomer-card"><div class="isomer-card-body"><div class="isomer-card-title">Want to contribute to our Smart Nation agenda?</div><div class="isomer-card-link">Apply to be a scholar</div></div></a>
 <a rel="noopener noreferrer nofollow" href="https://careers.tech.gov.sg/careers/talentcommunity" class="isomer-card">
 <div class="isomer-card-body">
