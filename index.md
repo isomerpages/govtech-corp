@@ -114,7 +114,7 @@ sections:
             conversations around three key areas: AI x Cybersecurity, Resilient
             and Secure Cloud, Future Proofing CISOs."
           link_text: Discover More
-          link_url: https://www.tech.gov.sg/media/events/stackx-cybersecurity-2025/
+          link_url: /media/events/stackx-cybersecurity-2025/
         - title: STACK Developer Conference
           date: 06 November 2024
           announcement: STACK Developer Conference is GovTech’s biennial flagship
