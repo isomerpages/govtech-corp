@@ -7,8 +7,9 @@ description: ""
 image: ""
 variant: tiptap
 ---
+<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="STACKx Cybersecurity" src="/images/STACK_X_Cybersecurtiy_WP_Banner_Draft_5.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/STACKx_wp_banner_1.png">
 </div>
 <p>GovTech leads Singapore’s digital transformation efforts for the public
 sector, and our mission is to harness technology to create meaningful impact

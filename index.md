@@ -9,9 +9,9 @@ permalink: /
 notification: ""
 sections:
   - hero:
-      background: /images/TECH_FOR_PUBLIC_GOOD__1_.png
-      button: Learn more about GovTech's digital government efforts
-      url: https://www.tech.gov.sg/techforpublicgood/
+      background: /images/STACKx_hp_banner_3.png
+      button: Find out more
+      url: /media/events/stackx-cybersecurity-2025/
       key_highlights:
         - title: For Citizens
           description: Tips, events and stories
@@ -114,7 +114,7 @@ sections:
             conversations around three key areas: AI x Cybersecurity, Resilient
             and Secure Cloud, Future Proofing CISOs."
           link_text: Discover More
-          link_url: https://www.tech.gov.sg/media/events/stackx-cybersecurity-2025/
+          link_url: /media/events/stackx-cybersecurity-2025/
         - title: STACK Developer Conference
           date: 06 November 2024
           announcement: STACK Developer Conference is GovTech’s biennial flagship

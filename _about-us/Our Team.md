@@ -320,12 +320,10 @@ Digital Transformation</div>
 Government Digital Products</div>
 </div>
 </div>
-</div>
-<div class="isomer-card-grid">
 <div class="isomer-card">
 <div class="isomer-card-image">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="GovTech leader Lim Thian Chin" src="/images/About Us/LIM_Thian_Chin.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="Mr LIM Thian Chin" src="/images/About Us/LIM_Thian_Chin.jpg">
 </div>
 </div>
 <div class="isomer-card-body">
@@ -349,7 +347,7 @@ Corporate &amp; Governance</div>
 <div class="isomer-card">
 <div class="isomer-card-image">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="GovTech leader Kevin Ng" src="/images/About Us/Kevin_NG.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="Mr Kevin NG" src="/images/About Us/Kevin_NG.jpg">
 </div>
 </div>
 <div class="isomer-card-body">
@@ -357,6 +355,8 @@ Corporate &amp; Governance</div>
 <div class="isomer-card-description">Senior Director, Core Engineering Products, Government Digital Products</div>
 </div>
 </div>
+</div>
+<div class="isomer-card-grid">
 <div class="isomer-card">
 <div class="isomer-card-image">
 <div class="isomer-image-wrapper">
