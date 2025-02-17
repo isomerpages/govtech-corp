@@ -9,9 +9,9 @@ permalink: /
 notification: ""
 sections:
   - hero:
-      background: /images/TECH_FOR_PUBLIC_GOOD__1_.png
-      button: Learn more about GovTech's digital government efforts
-      url: https://www.tech.gov.sg/techforpublicgood/
+      background: /images/STACKx_hp_banner_3.png
+      button: Find out more
+      url: https://www.tech.gov.sg/media/events/stackx-cybersecurity-2025/
       key_highlights:
         - title: For Citizens
           description: Tips, events and stories
