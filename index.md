@@ -53,13 +53,13 @@ sections:
       title: Tech for Public Good
       subtitle: Our Digital Government Efforts
       id: infopic
-      description: At GovTech, we see tech as an enabler of possibilities. Our
-        projects empower Singaporean citizens and residents, and improve their
-        quality of life.
+      description: GovTech's work spans the spectrum of public technology, enhancing
+        everyday experiences and ensuring the smooth running of government
+        digital services.
       button: Explore our work
       alt: Tech for Public Good
-      url: /our-digital-government-efforts/tech-for-public-good
-      image: /images/Homepage/techforpublicgood.png
+      url: /techforpublicgood
+      image: /images/TFPG_Banner_600x300_v2.png
   - infopic:
       title: Engineering Digital Government
       subtitle: OUR FOCUS
