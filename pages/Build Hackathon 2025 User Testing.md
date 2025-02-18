@@ -4,6 +4,7 @@ permalink: /build-hackathon-2025-user-testing/
 variant: tiptap
 description: ""
 ---
+<p></p>
 <p><strong>{build} </strong>is GovTech's month-long hackathon and incubation
 program, designed to foster a culture of innovation and empowerment. Through
 {build}, we encourage GovTechies to propose and tackle the problems they
@@ -22,4 +23,8 @@ Register your interest here.</p>
 statements and register for the ones that resonate with you!</p>
 </li>
 </ul>
+<p></p>
+<h3>Explore user testing sessions</h3>
+<p></p>
+<p></p>
 <p></p>
