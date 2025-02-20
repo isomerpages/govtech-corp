@@ -107,3 +107,7 @@ more testimonials and sharing from past interns.</p>
 </div>
 <p>For enquiries, please email <a href="mailto:AreYouIT@tech.gov.sg" rel="noopener noreferrer nofollow" target="_blank"><u>AreYouIT@tech.gov.sg</u></a>.</p>
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="GovTech Internship" src="/images/Internship_Corp_Web_Update.png">
+</div>
+<p></p>
