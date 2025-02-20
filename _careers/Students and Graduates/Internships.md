@@ -17,11 +17,10 @@ image: /images/careers/internships_banner_compressed.jpg
 That's why our internship programmes, which span three to six months, are
 designed to give you hands-on experience and a chance to contribute meaningfully
 to our organisation.&nbsp;</p>
-<p>Passionate about technology? As a GovTech intern, you'll get to join one
-of our capability centres and work on strategic national projects that
-drive Singapore's digital transformation. Have other fortes? We also offer
-internship roles in non-tech capacities such as HR, communications and
-marketing, and more.</p>
+<p>Passionate about technology? As a GovTech intern, you'll get to work on
+strategic national projects that drive Singapore's digital transformation.
+Have other fortes? We also offer internship roles in non-tech capacities
+such as HR, communications and marketing, and more.</p>
 <p>Whichever track you choose, you'll learn from GovTech's senior leaders
 and gain access to courses and career workshops.</p>
 <p></p>
@@ -29,10 +28,10 @@ and gain access to courses and career workshops.</p>
 <img style="width: 80%;" height="auto" width="100%" alt="GovTech's internship programme flowchart and what interns stand to gain from GovTech experience" src="/images/careers/internship_chart_2024.jpg">
 </div>
 <h3>How can you apply?</h3>
-<p>We're looking for ambitious pre-tertiary, polytechnic students and university
-students who are up for a challenge and want to make a difference. If that
-sounds like you, first check out the timelines as well as guidelines for
-our internship applications. <strong>Do note that applicants who have graduated from university are not eligible for our internship programme.</strong>
+<p>We’re looking for polytechnic students, undergraduates, and recent A-Level
+and diploma graduates awaiting university admission who are up for a challenge
+and want to make a difference! If that sounds like you, first check out
+the timelines as well as guidelines for our internship applications. <strong>Do note that applicants who have graduated from university are not eligible for our internship programme.</strong>
 </p>
 <table style="minWidth: 25px">
 <colgroup>
