@@ -23,9 +23,8 @@ Have other fortes? We also offer internship roles in non-tech capacities
 such as HR, communications and marketing, and more.</p>
 <p>Whichever track you choose, you'll learn from GovTech's senior leaders
 and gain access to courses and career workshops.</p>
-<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 80%;" height="auto" width="100%" alt="GovTech's internship programme flowchart and what interns stand to gain from GovTech experience" src="/images/careers/internship_chart_2024.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="Internship Programme" src="/images/Internship_Corp_Web_Update.png">
 </div>
 <h3>How can you apply?</h3>
 <p>We’re looking for polytechnic students, undergraduates, and recent A-Level
@@ -107,7 +106,4 @@ more testimonials and sharing from past interns.</p>
 </div>
 <p>For enquiries, please email <a href="mailto:AreYouIT@tech.gov.sg" rel="noopener noreferrer nofollow" target="_blank"><u>AreYouIT@tech.gov.sg</u></a>.</p>
 <p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="GovTech Internship" src="/images/Internship_Corp_Web_Update.png">
-</div>
 <p></p>
