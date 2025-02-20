@@ -17,22 +17,20 @@ image: /images/careers/internships_banner_compressed.jpg
 That's why our internship programmes, which span three to six months, are
 designed to give you hands-on experience and a chance to contribute meaningfully
 to our organisation.&nbsp;</p>
-<p>Passionate about technology? As a GovTech intern, you'll get to join one
-of our capability centres and work on strategic national projects that
-drive Singapore's digital transformation. Have other fortes? We also offer
-internship roles in non-tech capacities such as HR, communications and
-marketing, and more.</p>
+<p>Passionate about technology? As a GovTech intern, you'll get to work on
+strategic national projects that drive Singapore's digital transformation.
+Have other fortes? We also offer internship roles in non-tech capacities
+such as HR, communications and marketing, and more.</p>
 <p>Whichever track you choose, you'll learn from GovTech's senior leaders
 and gain access to courses and career workshops.</p>
-<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 80%;" height="auto" width="100%" alt="GovTech's internship programme flowchart and what interns stand to gain from GovTech experience" src="/images/careers/internship_chart_2024.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="Internship Programme" src="/images/Internship_Corp_Web_Update.png">
 </div>
 <h3>How can you apply?</h3>
-<p>We're looking for ambitious pre-tertiary, polytechnic students and university
-students who are up for a challenge and want to make a difference. If that
-sounds like you, first check out the timelines as well as guidelines for
-our internship applications. <strong>Do note that applicants who have graduated from university are not eligible for our internship programme.</strong>
+<p>We’re looking for polytechnic students, undergraduates, and recent A-Level
+and diploma graduates awaiting university admission who are up for a challenge
+and want to make a difference! If that sounds like you, first check out
+the timelines as well as guidelines for our internship applications. <strong>Do note that applicants who have graduated from university are not eligible for our internship programme.</strong>
 </p>
 <table style="minWidth: 25px">
 <colgroup>
@@ -107,4 +105,5 @@ more testimonials and sharing from past interns.</p>
 <div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="https://go.gov.sg/govtechtalentcommunity" class="isomer-card"><div class="isomer-card-body"><div class="isomer-card-title">Join our talent community to stay updated on the next internship application period</div><div class="isomer-card-link">Join our talent community</div></div></a>
 </div>
 <p>For enquiries, please email <a href="mailto:AreYouIT@tech.gov.sg" rel="noopener noreferrer nofollow" target="_blank"><u>AreYouIT@tech.gov.sg</u></a>.</p>
+<p></p>
 <p></p>
