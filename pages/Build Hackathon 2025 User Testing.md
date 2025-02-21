@@ -27,16 +27,17 @@ statements and register for the ones that resonate with you!</p>
 <h3>Explore user testing sessions</h3>
 <p></p>
 <div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="https://go.gov.sg/buildteam120" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Mindful Parenting" src="/images/Mindful_Parenting.png"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Mindful Parenting</div><div class="isomer-card-description">We are prototyping a chatbot for parents to find research-backed information on how to raise their young children to become emotionally and mentally resilient or well rounded. The chatbot should provide more contextualised guidance than generic statements and could potentially be a parenting coach.</div><div class="isomer-card-link">Sign up now</div></div></a>
-<a rel="noopener noreferrer nofollow" href="https://www.isomer.gov.sg" class="isomer-card">
+<a rel="noopener noreferrer nofollow" href="https://go.gov.sg/testkakichatbot" class="isomer-card">
 <div class="isomer-card-image">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Placeholder image" src="https://placehold.co/600x400">
+<img style="width: 100%" height="auto" width="100%" alt="Kakis-2o" src="/images/Kakis_2o.png">
 </div>
 </div>
 <div class="isomer-card-body">
-<div class="isomer-card-title">This is a title for your card</div>
-<div class="isomer-card-description">This is body text for your card. Describe your card.</div>
-<div class="isomer-card-link">This is a link for your card</div>
+<div class="isomer-card-title">Kakis-2o</div>
+<div class="isomer-card-description">Seniors in their 50s-60s with a preference to speak in their mother tongue
+and not so digitally savvy.</div>
+<div class="isomer-card-link">Sign up now</div>
 </div>
 </a><a rel="noopener noreferrer nofollow" href="https://www.isomer.gov.sg" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Placeholder image" src="https://placehold.co/600x400"></div></div><div class="isomer-card-body"><div class="isomer-card-title">This is a title for your card</div><div class="isomer-card-description">This is body text for your card. Describe your card.</div><div class="isomer-card-link">This is a link for your card</div></div></a>
 </div>
