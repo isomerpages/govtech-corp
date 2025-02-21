@@ -42,17 +42,20 @@ and not so digitally savvy.</div>
 </a>
 </div>
 <p></p>
-<div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="https://form.gov.sg/67b69755140eebb2b4af4d4f" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="KopiKaki" src="/images/KopiKaki.png"></div></div><div class="isomer-card-body"><div class="isomer-card-title">KopiKaki</div><div class="isomer-card-description">Enabling seniors to independently complete essential government services online, overcome digital and language barrier to ensure timely support to their needs. Senior citizens that are non tech savvy. </div><div class="isomer-card-link">Sign up now</div></div></a>
-<a rel="noopener noreferrer nofollow" href="https://www.isomer.gov.sg" class="isomer-card">
+<div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="https://form.gov.sg/67b69755140eebb2b4af4d4f" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="KopiKaki" src="/images/KopiKaki.png"></div></div><div class="isomer-card-body"><div class="isomer-card-title">KopiKaki</div><div class="isomer-card-description">Enabling seniors to independently complete essential government services online, overcome digital and language barrier to ensure timely support to their needs. Senior citizens that are non tech savvy.</div><div class="isomer-card-link">Sign up now</div></div></a>
+<a rel="noopener noreferrer nofollow" href="https://go.gov.sg/simplify-finance-mgmt" class="isomer-card">
 <div class="isomer-card-image">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Placeholder" src="https://placehold.co/600x400">
+<img style="width: 100%" height="auto" width="100%" alt="Simplify Finance Management" src="/images/Simplify_Finance_Management.png">
 </div>
 </div>
 <div class="isomer-card-body">
-<div class="isomer-card-title">This is a title for your card</div>
-<div class="isomer-card-description">This is body text for your card. Describe your card.</div>
-<div class="isomer-card-link">This is a link for your card</div>
+<div class="isomer-card-title">Simplify Finance Management</div>
+<div class="isomer-card-description">How can we help Singaporeans with multiple bank and credit card accounts
+skip the hassle of aggregating transaction records, enabling easier financial
+analysis? We're seeking tech-savvy Singaporeans who manage at least 5 accounts,
+use e-payments, review finances monthly, and are open to new tools.</div>
+<div class="isomer-card-link">Sign up now</div>
 </div>
 </a>
 </div>
