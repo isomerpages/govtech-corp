@@ -84,6 +84,12 @@ which provides shared design components that agencies can use, ensuring
 that government applications have a consistent and user-friendly interface.
 Designers can contribute&nbsp; to SGDS, creating a feedback loop of continual
 improvement.</p>
+<hr>
+<p>To find out more about Tech Stacks, check out our <a href="https://www.youtube.com/watch?v=VbbuwXNZn30" rel="noopener noreferrer nofollow" target="_blank">GovTech Decoded</a> series!</p>
+<div class="iframe-wrapper">
+<iframe height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/AhNw4P4kVtA?si=dk8wpYlqDHgzRPwF"></iframe>
+</div>
+<hr>
 <p></p>
 <h3>Evolving with the future</h3>
 <p>As technology evolves, so does the stack. One of the upcoming focus areas
@@ -106,10 +112,6 @@ hidden engine that powers everything from <a href="https://www.cpf.gov.sg/" rel=
 resources. By centralising infrastructure and fostering collaboration,
 the SGTS ensures Singapore stays ahead in its <a href="https://www.tech.gov.sg/media/technews/our-enhanced-smart-nation-vision-paving-the-way-for-a-new-digital-era/" rel="noopener nofollow" target="_blank">Smart Nation journey</a>.</p>
 <hr>
-<p>To find out more about Tech Stacks, check out our <a href="https://www.youtube.com/watch?v=VbbuwXNZn30" rel="noopener noreferrer nofollow" target="_blank">GovTech Decoded</a> series!</p>
-<div class="iframe-wrapper">
-<iframe height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/AhNw4P4kVtA?si=dk8wpYlqDHgzRPwF"></iframe>
-</div>
 <p></p>
 <div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="https://go.gov.sg/communitysignup-technews" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Subscribe to the TechNews email newsletter" src="/images/CTA card images/technews_footer.jpg"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Subscribe to the TechNews email newsletter</div><div class="isomer-card-link">TechNews</div></div></a>
 <a rel="noopener noreferrer nofollow" href="https://go.gov.sg/communitysignup-technews" class="isomer-card">
