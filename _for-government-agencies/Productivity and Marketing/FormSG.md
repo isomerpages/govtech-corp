@@ -127,7 +127,7 @@ get started.</p>
 <div class="isomer-card">
 <div class="isomer-card-image">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Magic form builder" src="https://placehold.co/600x400">
+<img style="width: 100%" height="auto" width="100%" alt="Magic form builder" src="/images/Products and Services/For Government Agencies/FormSG_Magic_Form_Builder.gif">
 </div>
 </div>
 <div class="isomer-card-body">
@@ -141,7 +141,7 @@ as needed.</div>
 <div class="isomer-card">
 <div class="isomer-card-image">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Local address field" src="https://placehold.co/600x400">
+<img style="width: 100%" height="auto" width="100%" alt="Local address field" src="/images/Products and Services/For Government Agencies/FormSG_Local_Address_Field.gif">
 </div>
 </div>
 <div class="isomer-card-body">
