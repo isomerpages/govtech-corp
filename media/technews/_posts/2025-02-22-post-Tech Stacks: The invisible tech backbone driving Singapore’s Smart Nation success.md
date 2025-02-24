@@ -1,10 +1,10 @@
 ---
 title: "Tech Stacks: The invisible tech backbone driving Singapore’s Smart
   Nation success"
-permalink: /tech-stacks-driving-singapore-smart-nation/
+permalink: /media/technews/tech-stacks-driving-singapore-smart-nation/
 date: 2025-02-22
 layout: post
-description: the Government on Commercial Cloud (GCC) – a robust, secure
+description: Government on Commercial Cloud (GCC) is a robust, secure
   environment where our essential public services live and thrive. This is the
   foundation of the Singapore Government Tech Stack (SGTS), a robust ecosystem
   that supports the design, development, and deployment of digital services
@@ -31,9 +31,8 @@ of digital services seamlessly.</p>
 <hr>
 <h4>Tune in to <em>GovTech Decoded</em> and hear from our GovTechies working on SGTS!</h4>
 <div class="iframe-wrapper">
-<iframe height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/VbbuwXNZn30?si=6A2bIYc1Ofb3Sl-s"></iframe>
+<iframe style="max-width: 100%;" height="400" width="100%" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/VbbuwXNZn30?si=6A2bIYc1Ofb3Sl-s"></iframe>
 </div>
-<hr>
 <hr>
 <h3>A safe and standardised foundation&nbsp;</h3>
 <p>While cloud computing isn’t new, the GCC is a step above the typical commercial
@@ -87,7 +86,7 @@ improvement.</p>
 <hr>
 <p>To find out more about Tech Stacks, check out our <a href="https://www.youtube.com/watch?v=VbbuwXNZn30" rel="noopener noreferrer nofollow" target="_blank">GovTech Decoded</a> series!</p>
 <div class="iframe-wrapper">
-<iframe height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/AhNw4P4kVtA?si=dk8wpYlqDHgzRPwF"></iframe>
+<iframe style="max-width: 100%;" height="400" width="100%" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/AhNw4P4kVtA?si=dk8wpYlqDHgzRPwF"></iframe>
 </div>
 <hr>
 <p></p>
