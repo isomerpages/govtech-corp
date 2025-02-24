@@ -122,9 +122,37 @@ get started.</p>
 <a href="https://safe.menlosecurity.com/https://guide.form.gov.sg/faq/faq" class="Hyperlink SCXW215479145 BCX8" rel="noreferrer noopener" target="_blank"><u>FAQs</u>
 </a>.&nbsp;</p>
 <h3>What's the latest on FormSG?</h3>
-<p>FormSG can now collect and facilitate payment transactions. Leverage this
-new feature to make transactions more seamless and secure. Read more about
-FormSG <a href="https://form.gov.sg/payments" rel="noopener noreferrer nofollow" target="_blank"><u>here</u></a>.</p>
+<p></p>
+<div class="isomer-card-grid">
+<div class="isomer-card">
+<div class="isomer-card-image">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Magic form builder" src="https://placehold.co/600x400">
+</div>
+</div>
+<div class="isomer-card-body">
+<div class="isomer-card-title">Magic form builder</div>
+<div class="isomer-card-description">Magic form builder (MFB) uses AI to help you kickstart your form creation.
+Describe the type of form you need, and MFB will generate suggested fields
+for you. You can choose to keep, edit, re-arrange, or delete the fields
+as needed.</div>
+</div>
+</div>
+<div class="isomer-card">
+<div class="isomer-card-image">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Local address field" src="https://placehold.co/600x400">
+</div>
+</div>
+<div class="isomer-card-body">
+<div class="isomer-card-title">Local address field</div>
+<div class="isomer-card-description">A new "Local address" field is now available to provide a structured and
+convenient format when collecting addresses. Respondents can key in a 6-digit
+postal code and the address will be auto-populated based on OneMap's existing
+data.</div>
+</div>
+</div>
+</div>
 <h3>Interested to find out more about FormSG?</h3>
 <div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="https://form.gov.sg/" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Visit the FormSG website to learn more" src="/images/CTA card images/Visit_the_product_website.png"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Visit the FormSG website to learn more</div><div class="isomer-card-link">Go to FormSG website</div></div></a>
 <a rel="noopener noreferrer nofollow" href="mailto:info@tech.gov.sg" class="isomer-card">
