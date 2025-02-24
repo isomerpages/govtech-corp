@@ -86,7 +86,7 @@ improvement.</p>
 <hr>
 <p>To find out more about Tech Stacks, check out our <a href="https://www.youtube.com/watch?v=VbbuwXNZn30" rel="noopener noreferrer nofollow" target="_blank">GovTech Decoded</a> series!</p>
 <div class="iframe-wrapper">
-<iframe height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/AhNw4P4kVtA?si=dk8wpYlqDHgzRPwF"></iframe>
+<iframe style="max-width: 100%;" height="400" width="100%" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/AhNw4P4kVtA?si=dk8wpYlqDHgzRPwF"></iframe>
 </div>
 <hr>
 <p></p>
