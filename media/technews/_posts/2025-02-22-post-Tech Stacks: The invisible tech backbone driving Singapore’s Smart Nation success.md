@@ -34,7 +34,6 @@ of digital services seamlessly.</p>
 <iframe height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/VbbuwXNZn30?si=6A2bIYc1Ofb3Sl-s"></iframe>
 </div>
 <hr>
-<hr>
 <h3>A safe and standardised foundation&nbsp;</h3>
 <p>While cloud computing isn’t new, the GCC is a step above the typical commercial
 cloud. Designed to meet a digital government’s stringent security and operational
