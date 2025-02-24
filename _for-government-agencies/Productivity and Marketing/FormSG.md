@@ -25,7 +25,7 @@ fields, that can be used for event registrations, surveys, feedback collection,
 and more.&nbsp;&nbsp;</p>
 </li>
 <li>
-<p>Used by 160 government agencies to create over 600,000 forms.</p>
+<p>Used by over 160 government agencies to create more than 900,000+ forms.</p>
 </li>
 <li>
 <p>Offers new features like payment collection for a seamless user experience.</p>
@@ -39,8 +39,9 @@ different types of forms, from visitor health and travel declarations to
 post in-camp training surveys.&nbsp;FormSG can also be used to collect
 and facilitate payment transactions with its <a href="https://form.gov.sg/payments" rel="noopener nofollow" target="_blank">payment features</a>, making transactions
 more seamless and secure.&nbsp;</p>
-<p>Today, 160 government agencies have used it to create over 600,000 forms
-and to collect key data from residents and businesses in a secure manner.</p>
+<p>Today, over 160 government agencies have used it to create more than 900,000+
+forms and to collect key data from residents and businesses in a secure
+manner.</p>
 <p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Products and Services/FormSG.jpg">
