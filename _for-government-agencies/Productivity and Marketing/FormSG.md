@@ -153,6 +153,36 @@ data.</div>
 </div>
 </div>
 </div>
+<p></p>
+<div class="isomer-card-grid">
+<div class="isomer-card">
+<div class="isomer-card-image">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Attachment &amp; JSON support for Storage Mode emails" src="https://placehold.co/600x400">
+</div>
+</div>
+<div class="isomer-card-body">
+<div class="isomer-card-title">Attachment &amp; JSON support for Storage Mode emails</div>
+<div class="isomer-card-description">Storage mode now supports email notifications with attachments and JSON,
+just like in Email mode. Now you can get the best of both modes and never
+lose a response when it is submitted.</div>
+</div>
+</div>
+<div class="isomer-card">
+<div class="isomer-card-image">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Multi-respondent forms dashboard enhancements" src="https://placehold.co/600x400">
+</div>
+</div>
+<div class="isomer-card-body">
+<div class="isomer-card-title">Multi-respondent forms dashboard enhancements</div>
+<div class="isomer-card-description">Form admins can now view the workflow status and the pending step of a
+workflow directly on the Results page and in the CSV. The displayed workflow
+statuses will differ depending on whether the approval feature is enabled
+in the workflow.</div>
+</div>
+</div>
+</div>
 <h3>Interested to find out more about FormSG?</h3>
 <div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="https://form.gov.sg/" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Visit the FormSG website to learn more" src="/images/CTA card images/Visit_the_product_website.png"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Visit the FormSG website to learn more</div><div class="isomer-card-link">Go to FormSG website</div></div></a>
 <a rel="noopener noreferrer nofollow" href="mailto:info@tech.gov.sg" class="isomer-card">
