@@ -35,8 +35,10 @@ statements and register for the ones that resonate with you!</p>
 </div>
 <div class="isomer-card-body">
 <div class="isomer-card-title">Kakis-2o</div>
-<div class="isomer-card-description">Seniors in their 50s-60s with a preference to speak in their mother tongue
-and not so digitally savvy.</div>
+<div class="isomer-card-description">Kaki is a chatbot that allows residents to seek help from agencies for
+municipal issues within their neighbours. We are seeking volunteers who
+are fluent with speaking or writing in Chinese, Malay and Tamil to help
+test the enhanced chatbot.</div>
 <div class="isomer-card-link">Sign up now</div>
 </div>
 </a>
