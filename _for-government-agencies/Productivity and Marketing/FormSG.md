@@ -158,7 +158,7 @@ data.</div>
 <div class="isomer-card">
 <div class="isomer-card-image">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Attachment &amp; JSON support for Storage Mode emails" src="https://placehold.co/600x400">
+<img style="width: 100%" height="auto" width="100%" alt="Attachment &amp; JSON support for Storage Mode emails" src="/images/Products and Services/For Government Agencies/FormSG_Attachment_Support.gif">
 </div>
 </div>
 <div class="isomer-card-body">
@@ -171,7 +171,7 @@ lose a response when it is submitted.</div>
 <div class="isomer-card">
 <div class="isomer-card-image">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Multi-respondent forms dashboard enhancements" src="https://placehold.co/600x400">
+<img style="width: 100%" height="auto" width="100%" alt="Multi-respondent forms dashboard enhancements" src="/images/Products and Services/For Government Agencies/FormSG_Dashboard_Enhancement.png">
 </div>
 </div>
 <div class="isomer-card-body">
