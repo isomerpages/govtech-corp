@@ -118,6 +118,9 @@ It also received a 4.73/5 rating in the payer's satisfaction.</div>
 <p>Simply log in with a .gov.sg. email, a whitelisted email address, or via
 Singpass on the <a href="https://form.gov.sg/login" rel="noopener noreferrer nofollow" target="_blank"><u>FormSG website</u></a> to
 get started.</p>
+<p>For more information, refer to the <a href="https://safe.menlosecurity.com/https://guide.form.gov.sg/" class="Hyperlink SCXW215479145 BCX8" rel="noreferrer noopener" target="_blank"><u>FormSG user guide</u></a> and
+<a href="https://safe.menlosecurity.com/https://guide.form.gov.sg/faq/faq" class="Hyperlink SCXW215479145 BCX8" rel="noreferrer noopener" target="_blank"><u>FAQs</u>
+</a>.&nbsp;</p>
 <h3>What's the latest on FormSG?</h3>
 <p>FormSG can now collect and facilitate payment transactions. Leverage this
 new feature to make transactions more seamless and secure. Read more about
