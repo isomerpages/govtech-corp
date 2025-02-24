@@ -109,7 +109,7 @@ Glenda, one of our Smart Nation Scholars, who has detailed her own journey.</p>
 <h3>Interested in becoming a Smart Nation Scholar?</h3>
 <p></p>
 <div class="iframe-wrapper">
-<iframe style="max-width: 100%;" height="400" width="100%" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/Y_bk9YFZvSQ?si=ZB11q3uSk7dPo-RZ"></iframe>
+<iframe style="max-width: 100%;" height="400" width="100%" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/wPtHUk6Je6w?si=91ZP1PZd2-GWPGJD"></iframe>
 </div>
 <p>Applications are open from 1<sup>st</sup> September to 30<sup>th</sup> April
 (of the following year) for each cycle. Shortlisted candidates can expect
