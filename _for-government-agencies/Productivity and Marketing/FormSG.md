@@ -21,12 +21,11 @@ digital forms for data collection.</p>
 </li>
 <li>
 <p>Easy and quick form creation with drag-and-drop builder and pre-built
-fields.</p>
+fields, that can be used for event registrations, surveys, feedback collection,
+and more.&nbsp;&nbsp;</p>
 </li>
 <li>
-<p>Used by 160 government agencies to create over 600,000 forms. Examples
-of successful use cases include COVID-19 declarations, event registrations,
-and charity drives.</p>
+<p>Used by 160 government agencies to create over 600,000 forms.</p>
 </li>
 <li>
 <p>Offers new features like payment collection for a seamless user experience.</p>
@@ -37,7 +36,9 @@ and charity drives.</p>
 GovTech created FormSG. This form builder tool enables public officers
 to create digital government forms within minutes. It can be used to create
 different types of forms, from visitor health and travel declarations to
-post in-camp training surveys.&nbsp;</p>
+post in-camp training surveys.&nbsp;FormSG can also be used to collect
+and facilitate payment transactions with its <a href="https://form.gov.sg/payments" rel="noopener nofollow" target="_blank">payment features</a>, making transactions
+more seamless and secure.&nbsp;</p>
 <p>Today, 160 government agencies have used it to create over 600,000 forms
 and to collect key data from residents and businesses in a secure manner.</p>
 <p></p>
