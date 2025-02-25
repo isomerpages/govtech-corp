@@ -37,7 +37,7 @@ of resilience and leadership.
 2025, please <a href="https://go.gov.sg/wig2025-registration" rel="noopener nofollow" target="_blank">submit this form</a> by
 1 April 2025.</p>
 <h4>Girls in Tech Summer Mentorship Programme</h4>
-<p><strong><em>17 May 2024 to 2 August 2024</em></strong>
+<p><strong><em>19 May to 1 Aug 2025</em></strong>
 </p>
 <p>The Girls in Tech Summer Mentorship Programme is organised by the Women
 in (Gov)Tech Employee Resource Group to empower young females who are interested
@@ -59,7 +59,7 @@ junior college</p>
 <p>Make a positive impact in your community and beyond</p>
 </li>
 </ul>
-<p></p>
+<p>Stay tuned for sign ups, opening soon.</p>
 <div data-type="detailGroup" class="isomer-accordion isomer-accordion-white">
 <details class="isomer-details">
 <summary><strong>Check out this TechNews article of a participant's experience in the this programme:</strong>
@@ -70,9 +70,8 @@ junior college</p>
 </div>
 </details>
 </div>
+<h4>Our initiatives</h4>
 <p></p>
-<p><em>Applications for 2024 run are closed.</em>
-</p>
 <h4>Contact Us</h4>
 <p>Reach out to us if you would like to learn more about Women in (Gov)Tech
 and our initiatives.</p>
