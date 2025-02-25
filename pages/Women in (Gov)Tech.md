@@ -173,7 +173,7 @@ and our initiatives.</p>
 </p>
 </li>
 <li>
-<p>Alicia LEE: <a href="mailto:Alicia_LEE@mci.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Alicia_LEE@mci.gov.sg</a>
+<p>Alicia LEE: <a href="mailto:Alicia_LEE@tech.gov.sg" rel="noopener noreferrer nofollow" target="_blank"><u>Alicia_LEE@tech.gov.sg</u></a>
 </p>
 </li>
 </ul>
