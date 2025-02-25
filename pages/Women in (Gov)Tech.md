@@ -70,22 +70,6 @@ junior college</p>
 </div>
 </details>
 </div>
-<h4>Our initiatives</h4>
-<p></p>
-<h4>Contact Us</h4>
-<p>Reach out to us if you would like to learn more about Women in (Gov)Tech
-and our initiatives.</p>
-<ul data-tight="true" class="tight">
-<li>
-<p>Liyana MUHAMMAD FAUZI: <a href="mailto:Liyana_MUHAMMAD_FAUZI@tech.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Liyana_MUHAMMAD_FAUZI@tech.gov.sg</a>
-</p>
-</li>
-<li>
-<p>Alicia LEE: <a href="mailto:Alicia_LEE@mci.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Alicia_LEE@mci.gov.sg</a>
-</p>
-</li>
-</ul>
-<p></p>
 <h4>Our Initiatives</h4>
 <div class="isomer-card-grid">
 <div class="isomer-card">
@@ -101,11 +85,11 @@ and our initiatives.</p>
 <div class="isomer-card">
 <div class="isomer-card-image">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Women in (Gov)Tech’s initiative Girls in Tech Coding Dojo" src="/images/11_girls_in_tech_coding_dojo_2.png">
+<img style="width: 100%" height="auto" width="100%" alt="Intimate chat with senior leaders and peers" src="/images/11_girls_in_tech_coding_dojo_2.png">
 </div>
 </div>
 <div class="isomer-card-body">
-<div class="isomer-card-title">Girls in Tech Coding Dojo</div>
+<div class="isomer-card-title">Intimate chat with senior leaders and peers</div>
 </div>
 </div>
 <div class="isomer-card">
@@ -115,7 +99,7 @@ and our initiatives.</p>
 </div>
 </div>
 <div class="isomer-card-body">
-<div class="isomer-card-title">Girls in Tech Summer Mentorship Programme</div>
+<div class="isomer-card-title">Girls in Tech Summer Mentorship programme and Coding Dojo</div>
 </div>
 </div>
 </div>
@@ -145,6 +129,18 @@ and our initiatives.</p>
 </div>
 </div>
 <p></p>
-<p></p>
+<h4>Contact Us</h4>
+<p>Reach out to us if you would like to learn more about Women in (Gov)Tech
+and our initiatives.</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Liyana MUHAMMAD FAUZI: <a href="mailto:Liyana_MUHAMMAD_FAUZI@tech.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Liyana_MUHAMMAD_FAUZI@tech.gov.sg</a>
+</p>
+</li>
+<li>
+<p>Alicia LEE: <a href="mailto:Alicia_LEE@mci.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Alicia_LEE@mci.gov.sg</a>
+</p>
+</li>
+</ul>
 <p></p>
 <p></p>
