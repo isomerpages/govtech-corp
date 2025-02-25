@@ -120,7 +120,7 @@ junior college</p>
 <div class="isomer-card">
 <div class="isomer-card-image">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Intimate chat with senior leaders and peers" src="/images/WiG_intimate_chat_with_senior_leaders.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="Intimate chat with senior leaders and peers" src="/images/Intimate_chat_with_senior_leaders.png">
 </div>
 </div>
 <div class="isomer-card-body">
