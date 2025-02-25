@@ -30,7 +30,7 @@ to advance their career!
 </p>
 <p>In 2024, we hosted our first conference in collaboration with IMDA to
 celebrate International Women’s Day. With over 200 attendees from over
-50 public agencies, the event featured a career workshop, and a human library&nbsp;
+50 public agencies, the event featured a career workshop, and a human library
 where participants engaged with inspiring women leaders from Microsoft,
 Spotify, and more. Beyond celebrating accomplishments, it was a great platform
 to form new connections, and to facilitate the exchange of insights, stories
