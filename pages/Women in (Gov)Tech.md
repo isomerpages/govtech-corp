@@ -6,6 +6,9 @@ description: Empowering women for tech success. Raising awareness, fostering
   community support, and driving change in the industry.
 ---
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="WiG Group Photo" src="/images/WiG_Group_Photo.png">
+</div>
 <h3>Empowering women for tech success: Raising awareness, fostering community support, and driving change in the industry.</h3>
 <p>Established in 2021, GovTech's Women in (Gov)Tech Employee Resource Group
 (WiG ERG) was inaugurated as the first employee resource group dedicated
@@ -36,6 +39,38 @@ of resilience and leadership.
 <br>For public officers keen to attend 2025 edition, happening on 4 April
 2025, please <a href="https://go.gov.sg/wig2025-registration" rel="noopener nofollow" target="_blank">submit this form</a> by
 1 April 2025.</p>
+<div class="isomer-card-grid">
+<div class="isomer-card">
+<div class="isomer-card-image">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="WiGnite your Spark 2024 organising committee" src="/images/WiG_Organising_Committee.png">
+</div>
+</div>
+<div class="isomer-card-body">
+<div class="isomer-card-title">WiGnite your Spark 2024 organising committee</div>
+</div>
+</div>
+<div class="isomer-card">
+<div class="isomer-card-image">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Ice breaker games" src="/images/WiG_Ice_breaker_games.png">
+</div>
+</div>
+<div class="isomer-card-body">
+<div class="isomer-card-title">Ice breaker games</div>
+</div>
+</div>
+<div class="isomer-card">
+<div class="isomer-card-image">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Human library" src="/images/WiG_human_library.png">
+</div>
+</div>
+<div class="isomer-card-body">
+<div class="isomer-card-title">Human library</div>
+</div>
+</div>
+</div>
 <h4>Girls in Tech Summer Mentorship Programme</h4>
 <p><strong><em>19 May to 1 Aug 2025</em></strong>
 </p>
@@ -85,7 +120,7 @@ junior college</p>
 <div class="isomer-card">
 <div class="isomer-card-image">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Intimate chat with senior leaders and peers" src="/images/11_girls_in_tech_coding_dojo_2.png">
+<img style="width: 100%" height="auto" width="100%" alt="Intimate chat with senior leaders and peers" src="/images/WiG_intimate_chat_with_senior_leaders.jpg">
 </div>
 </div>
 <div class="isomer-card-body">
