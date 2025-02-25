@@ -7,14 +7,18 @@ description: Empowering women for tech success. Raising awareness, fostering
 ---
 <p></p>
 <h3>Empowering women for tech success: Raising awareness, fostering community support, and driving change in the industry.</h3>
-<p>Established in 2021, GovTech's Women in (Gov)Tech (WiG) Employee Resource
-Group (ERG) was inaugurated as the first employee resource group dedicated
-to cultivating and retaining female talent within the Singapore Government.
-Today, WiG has initiated diversity workshops, a Girls-in-Tech mentoring
-program with over 130 sign-ups and 30 mentors recruited across GovTech,
-and career events featuring industry leaders such as Apple, Airbnb, and
-SheLovesTech. WiG continues to lead the charge in creating an inclusive
-environment where every individual has the opportunity to thrive and succeed.</p>
+<p>Established in 2021, GovTech's Women in (Gov)Tech Employee Resource Group
+(WiG ERG) was inaugurated as the first employee resource group dedicated
+to cultivating and retaining female talent within the organisation. WiG
+ERG is managed by a ExCo of GovTechies who volunteers across GovTech and
+supported by a team of Executive Sponsors from the Leadership team.
+<br>
+<br>Today, WiG ERG has initiated diversity workshops, community engagement
+programmes, a Girls-in-Tech mentoring programme with almost 200 sign-ups
+and 130 mentors recruited across GovTech, and career events featuring industry
+leaders such as Airbnb, SheLovesTech, Uber, and more. WiG ERG continues
+to lead the charge in creating an inclusive environment where every individual
+has the opportunity to thrive and succeed.</p>
 <p></p>
 <h4>Girls in Tech Summer Mentorship Programme</h4>
 <p><strong><em>17 May 2024 to 2 August 2024</em></strong>
