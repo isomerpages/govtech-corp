@@ -9,11 +9,9 @@ third_nav_title: Productivity and Marketing
 image: /images/About Us/Digital_Workplace.png
 ---
 <h2>Creating a seamless and collaborative working environment for public officers with Digital Workplace</h2>
-<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 60%;" height="auto" width="100%" alt="Digital Workplace logo" src="/images/Products and Services/For Government Agencies/Digital_Workplace_logo.png">
+<img style="width: 100%" height="auto" width="100%" alt="Digital Workplace" src="/images/Products and Services/For Government Agencies/Digital_Workplace.png">
 </div>
-<p></p>
 <ul data-tight="true" class="tight">
 <li>
 <p>DWP is a suite of productivity tools designed to create a seamless work
