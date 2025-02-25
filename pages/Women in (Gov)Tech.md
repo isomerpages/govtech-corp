@@ -20,6 +20,22 @@ leaders such as Airbnb, SheLovesTech, Uber, and more. WiG ERG continues
 to lead the charge in creating an inclusive environment where every individual
 has the opportunity to thrive and succeed.</p>
 <p></p>
+<h4>International Women's Day Celebrations</h4>
+<p>We’re all about celebrating women and empowering them with skills set
+to advance their career!
+<br>
+</p>
+<p>In 2024, we hosted our first conference in collaboration with IMDA to
+celebrate International Women’s Day. With over 200 attendees from over
+50 public agencies, the event featured a career workshop, and a human library&nbsp;
+where participants engaged with inspiring women leaders from Microsoft,
+Spotify, and more. Beyond celebrating accomplishments, it was a great platform
+to form new connections, and to facilitate the exchange of insights, stories
+of resilience and leadership.
+<br>
+<br>For public officers keen to attend 2025 edition, happening on 4 April
+2025, please <a href="https://go.gov.sg/wig2025-registration" rel="noopener nofollow" target="_blank">submit this form</a> by
+1 April 2025.</p>
 <h4>Girls in Tech Summer Mentorship Programme</h4>
 <p><strong><em>17 May 2024 to 2 August 2024</em></strong>
 </p>
