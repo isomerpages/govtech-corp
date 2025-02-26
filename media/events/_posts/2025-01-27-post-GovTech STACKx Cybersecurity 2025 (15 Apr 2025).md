@@ -37,7 +37,7 @@ conversations around three key areas:</p>
 </div>
 <div class="isomer-card-body">
 <div class="isomer-card-title">AI x Security</div>
-<div class="isomer-card-description">AI is revolutionizing cybersecurity—but it’s also empowering attackers.
+<div class="isomer-card-description">AI is revolutionising cybersecurity—but it’s also empowering attackers.
 This track will explore how organisations can harness AI to strengthen
 cybersecurity, mitigate AI-driven threats, and navigate the risks of adversarial
 AI.</div>
