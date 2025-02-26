@@ -51,7 +51,7 @@ tech&nbsp;</p>
 </li>
 </ul>
 <h3><strong>Learn more about our digital government efforts</strong></h3>
-<div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="https://www.tech.gov.sg/products-and-services/for-government-agencies/productivity-and-marketing/" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Increasing Public Officers’ Productivity: AI Bots, Transcribe, VICA &amp; more" src="/images/Transcribe__AI_tools_.gif"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Increasing Public Officers’ Productivity: AI Bots, Transcribe, VICA &amp; more</div><div class="isomer-card-description">From customised generative AI chatbots to speech-to-text transcription tools, GovTech empowers public officers in engineering a digital government and delivering tech for public good. Our solutions automate tasks and drive innovation, enhancing digital services for public officers and citizens.</div><div class="isomer-card-link">Discover our suite of productivity tools for public officers</div></div></a>
+<div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="https://www.tech.gov.sg/products-and-services/for-government-agencies/productivity-and-marketing/" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Increasing Public Officers’ Productivity: AIBots, Transcribe, VICA &amp; more" src="/images/Transcribe__AI_tools_.gif"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Increasing Public Officers’ Productivity: AIBots, Transcribe, VICA &amp; more</div><div class="isomer-card-description">From customised generative AI chatbots to speech-to-text transcription tools, GovTech empowers public officers in engineering a digital government and delivering tech for public good. Our solutions automate tasks and drive innovation, enhancing digital services for public officers and citizens.</div><div class="isomer-card-link">Discover our suite of productivity tools for public officers</div></div></a>
 <a rel="noopener noreferrer nofollow" href="https://www.tech.gov.sg/products-and-services/for-citizens/crowdsourcing/crowdtasksg/" class="isomer-card">
 <div class="isomer-card-image">
 <div class="isomer-image-wrapper">
@@ -69,17 +69,19 @@ Singapore’s future!</div>
 </a>
 </div>
 <div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="https://www.tech.gov.sg/products-and-services/for-businesses/corporate-transactions/gobusiness/" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Simplifying Business Registration and Admin: GoBusiness" src="/images/GoBiz.gif"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Simplifying Business Registration and Admin: GoBusiness</div><div class="isomer-card-description">GoBusiness is the go-to platform for businesses in Singapore to access Government e-services and resources. Save time, reduce admin, and focus on growth while staying compliant.</div><div class="isomer-card-link">Discover how GoBusiness empowers business owners</div></div></a>
-<a rel="noopener noreferrer nofollow" href="https://www.tech.gov.sg/products-and-services/for-citizens/employment/mycareersfuture/" class="isomer-card">
+<a rel="noopener noreferrer nofollow" href="https://www.tech.gov.sg/products-and-services/for-citizens/education/student-learning-space/" class="isomer-card">
 <div class="isomer-card-image">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Career Exploration and Development: MyCareersFuture" src="/images/MCF.gif">
+<img style="width: 100%" height="auto" width="100%" alt="Elevating Classroom Learning Through EdTech: Student Learning Space" src="/images/SLS.gif">
 </div>
 </div>
 <div class="isomer-card-body">
-<div class="isomer-card-title">Career Exploration and Development: MyCareersFuture</div>
-<div class="isomer-card-description">MyCareersFuture empowers the workforce and employers by connecting jobseekers
-with training opportunities and employers with talent.</div>
-<div class="isomer-card-link">Start your journey with MyCareersFuture today!</div>
+<div class="isomer-card-title">Elevating Classroom Learning Through EdTech: Student Learning Space</div>
+<div class="isomer-card-description">Student Learning Space transforms learning and teaching by blending digital
+content, interactive exercises, and real-time feedback. It enhances engagement
+and retention for students while equipping teachers with data-driven insights
+to personalise learning experiences and track student progress.</div>
+<div class="isomer-card-link">Learn more about Student Leaning Space</div>
 </div>
 </a>
 </div>
@@ -118,7 +120,7 @@ services when you log in with Singpass.</div>
 </div>
 </a>
 </div>
-<div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="https://www.tech.gov.sg/products-and-services/for-citizens/education/student-learning-space/" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Elevating Classroom Learning through EdTech: Student Learning Space" src="/images/SLS.gif"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Elevating Classroom Learning through EdTech: Student Learning Space</div><div class="isomer-card-description">Student Learning Space transforms learning and teaching by blending digital content, interactive exercises, and real-time feedback. It enhances engagement and retention for students while equipping teachers with data-driven insights to personalise learning experiences and track student progress.</div><div class="isomer-card-link">Learn more about Student Learning Space</div></div></a>
+<div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="https://www.tech.gov.sg/products-and-services/for-citizens/employment/mycareersfuture/" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Career Exploration and Development: MyCareersFuture" src="/images/MCF.gif"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Career Exploration and Development: MyCareersFuture</div><div class="isomer-card-description">MyCareersFuture empowers the workforce and employers by connecting jobseekers with training opportunities and employers with talent.</div><div class="isomer-card-link">Start your journey with MyCareersFuture today!</div></div></a>
 <a rel="noopener noreferrer nofollow" href="https://hubs.ly/Q02XsY170" class="isomer-card">
 <div class="isomer-card-image">
 <div class="isomer-image-wrapper">
