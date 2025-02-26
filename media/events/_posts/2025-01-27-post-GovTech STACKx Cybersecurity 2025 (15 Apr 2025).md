@@ -27,7 +27,6 @@ cybersecurity professionals from both government and industry sectors.&nbsp;</p>
 <p>This event will feature insightful tech-sharing sessions and meaningful
 conversations around three key areas:</p>
 <p></p>
-<p></p>
 <div class="isomer-card-grid">
 <div class="isomer-card">
 <div class="isomer-card-image">
