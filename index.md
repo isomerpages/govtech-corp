@@ -39,6 +39,17 @@ sections:
       button: About GovTech
       url: /about-us/who-we-are/
   - infopic:
+      title: STACKx Cybersecurity 2025
+      subtitle: Event
+      id: infopic
+      description: Join experts at STACKx Cybersecurity 2025 to explore the latest
+        trends, threats, and innovations in securing tomorrow’s digital
+        frontier.
+      button: Find out more
+      url: https://www.tech.gov.sg/media/events/stackx-cybersecurity-2025/
+      image: /images/Stackx_Cyber_Home_page_Section_Banner.png
+      alt: STACKx Cybersecurity 2025
+  - infopic:
       title: GovTech Decoded
       subtitle: New Vodcast Series
       id: infopic
@@ -49,17 +60,6 @@ sections:
       url: /govtech-decoded/
       image: /images/Decoded/Govtech_Decoded_Info_Card_Banner_2.png
       alt: GovTech Decoded Vodcast Series
-  - infopic:
-      title: Tech for Public Good
-      subtitle: Our Digital Government Efforts
-      id: infopic
-      description: GovTech's work spans the spectrum of public technology, enhancing
-        everyday experiences and ensuring the smooth running of government
-        digital services.
-      button: Explore our work
-      alt: Tech for Public Good
-      url: /techforpublicgood
-      image: /images/TFPG_Banner_600x300_v2.png
   - infopic:
       title: Engineering Digital Government
       subtitle: OUR FOCUS

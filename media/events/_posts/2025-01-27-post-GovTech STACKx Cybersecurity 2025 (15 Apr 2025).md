@@ -9,8 +9,9 @@ variant: tiptap
 ---
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/STACKx_wp_banner_1.png">
+<img style="width: 100%" height="auto" width="100%" alt="STACKx Cybersecurity" src="/images/Web_Page_Banner.png">
 </div>
+<p></p>
 <p>GovTech leads Singapore’s digital transformation efforts for the public
 sector, and our mission is to harness technology to create meaningful impact
 and to advance our Smart Nation vision.&nbsp;</p>
@@ -25,17 +26,51 @@ developments in cybersecurity. You will also get to network with like-minded
 cybersecurity professionals from both government and industry sectors.&nbsp;</p>
 <p>This event will feature insightful tech-sharing sessions and meaningful
 conversations around three key areas:</p>
-<ol>
-<li>
-<p>AI x Cybersecurity</p>
-</li>
-<li>
-<p>Resilient and Secure Cloud</p>
-</li>
-<li>
-<p>CISOs of the Future</p>
-</li>
-</ol>
+<p></p>
+<div class="isomer-card-grid">
+<div class="isomer-card">
+<div class="isomer-card-image">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="AI x Security" src="/images/Web_page_Icon_AI_x_Cybersecurity.png">
+</div>
+</div>
+<div class="isomer-card-body">
+<div class="isomer-card-title">AI x Security</div>
+<div class="isomer-card-description">AI is revolutionising cybersecurity—but it’s also empowering attackers.
+This track will explore how organisations can harness AI to strengthen
+cybersecurity, mitigate AI-driven threats, and navigate the risks of adversarial
+AI.</div>
+</div>
+</div>
+<div class="isomer-card">
+<div class="isomer-card-image">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Resilient and Secure Cloud" src="/images/Web_page_Icon_Resilient_and_Secure_Cloud.png">
+</div>
+</div>
+<div class="isomer-card-body">
+<div class="isomer-card-title">Resilient and Secure Cloud</div>
+<div class="isomer-card-description">The cloud is the backbone of modern digital enterprises, but security
+challenges vastly differ from traditional on-prem environments. This track
+explores how organisations secure cloud-native environments, implement
+Zero Trust principles, and build resilience in multi-cloud ecosystems.</div>
+</div>
+</div>
+<div class="isomer-card">
+<div class="isomer-card-image">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="CISOs of the Future" src="/images/Web_page_Icon_CISOs_of_the_Future.png">
+</div>
+</div>
+<div class="isomer-card-body">
+<div class="isomer-card-title">CISOs of the Future</div>
+<div class="isomer-card-description">The role of the CISO has never been more complex or high stakes. This
+track explores the realities of cybersecurity leadership, covering how
+CISOs can navigate the shifting threat landscape, board-level expectations,
+AI-driven security challenges, and the future of offensive security practices.</div>
+</div>
+</div>
+</div>
 <h3>Discover a lineup of innovative approaches and solutions that address the evolving challenges in the cybersecurity domain!</h3>
 <table style="minWidth: 100px">
 <colgroup>
