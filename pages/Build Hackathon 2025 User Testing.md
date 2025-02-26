@@ -5,6 +5,9 @@ variant: tiptap
 description: ""
 ---
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Build Hackathon 2025 User Testing" src="/images/TK_User_Testing_Banner.png">
+</div>
 <p><strong>{build} </strong>is GovTech's month-long hackathon and incubation
 program, designed to foster a culture of innovation and empowerment. Through <strong>{build}</strong>,
 we encourage GovTechies to propose and tackle the problems they are passionate
