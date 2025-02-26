@@ -7,13 +7,382 @@ description: ""
 image: ""
 variant: tiptap
 ---
-<p></p>
+<div class="isomer-card-grid">
+<div class="isomer-card">
+<div class="isomer-card-image">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/STACKx_wp_banner_1.png">
+<img style="width: 100%" height="auto" width="100%" alt="AI x Security" src="https://placehold.co/600x400">
 </div>
-<p>GovTech leads Singapore’s digital transformation efforts for the public
-sector, and our mission is to harness technology to create meaningful impact
-and to advance our Smart Nation vision.&nbsp;</p>
+</div>
+<div class="isomer-card-body">
+<div class="isomer-card-title">AI x Security</div>
+<div class="isomer-card-description">AI is revolutionizing cybersecurity—but it’s also empowering attackers.
+This track will explore how organisations can harness AI to strengthen
+cybersecurity, mitigate AI-driven threats, and navigate the risks of adversarial
+AI.</div>
+</div>
+</div>
+<div class="isomer-card">
+<div class="isomer-card-image">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Resilient and Secure Cloud" src="https://placehold.co/600x400">
+</div>
+</div>
+<div class="isomer-card-body">
+<div class="isomer-card-title">Resilient and Secure Cloud</div>
+<div class="isomer-card-description">The cloud is the backbone of modern digital enterprises, but security
+challenges differ from traditional on-prem environments. This track explores
+how organisations secure cloud-native environments from the ground up,
+implement Zero Trust principles, and build resilience in multi-cloud ecosystems.</div>
+</div>
+</div>
+<div class="isomer-card">
+<div class="isomer-card-image">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="CISOs of the Future" src="https://placehold.co/600x400">
+</div>
+</div>
+<div class="isomer-card-body">
+<div class="isomer-card-title">CISOs of the Future</div>
+<div class="isomer-card-description">The role of the CISO has never been more complex or high stakes. This
+track will explore the realities of cybersecurity leadership, covering
+how CISOs can navigate the shifting threat landscape, board-level expectations,
+AI-driven security challenges, and the future of offensive security practices.</div>
+</div>
+</div>
+</div>
+<div class="isomer-card-grid">
+<div class="isomer-card">
+<div class="isomer-card-image">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="AI x Security" src="https://placehold.co/600x400">
+</div>
+</div>
+<div class="isomer-card-body">
+<div class="isomer-card-title">AI x Security</div>
+<div class="isomer-card-description">AI is revolutionizing cybersecurity—but it’s also empowering attackers.
+This track will explore how organisations can harness AI to strengthen
+cybersecurity, mitigate AI-driven threats, and navigate the risks of adversarial
+AI.</div>
+</div>
+</div>
+<div class="isomer-card">
+<div class="isomer-card-image">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Resilient and Secure Cloud" src="https://placehold.co/600x400">
+</div>
+</div>
+<div class="isomer-card-body">
+<div class="isomer-card-title">Resilient and Secure Cloud</div>
+<div class="isomer-card-description">The cloud is now the backbone of modern digital enterprises, but its security
+challenges are vastly different from traditional on-prem environments.
+This track will explore how organisations can secure cloud-native environments
+from the ground up, implement Zero Trust principles, and build resilience
+in multi-cloud ecosystems.</div>
+</div>
+</div><a rel="noopener noreferrer nofollow" href="https://www.isomer.gov.sg" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Placeholder image" src="https://placehold.co/600x400"></div></div><div class="isomer-card-body"><div class="isomer-card-title">This is a title for your card</div><div class="isomer-card-description">This is body text for your card. Describe your card.</div><div class="isomer-card-link">This is a link for your card</div></div></a>
+</div>
+<p>G</p>
+<div class="isomer-card-grid">
+<div class="isomer-card">
+<div class="isomer-card-image">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="AI x Security" src="https://placehold.co/600x400">
+</div>
+</div>
+<div class="isomer-card-body">
+<div class="isomer-card-title">AI x Security</div>
+<div class="isomer-card-description">AI is revolutionizing cybersecurity—but it’s also empowering attackers.
+This track will explore how organisations can harness AI to strengthen
+cybersecurity, mitigate AI-driven threats, and navigate the risks of adversarial
+AI.</div>
+</div>
+</div><a rel="noopener noreferrer nofollow" href="https://www.isomer.gov.sg" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Resilient and Secure Cloud" src="https://placehold.co/600x400"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Resilient and Secure Cloud</div><div class="isomer-card-description">The cloud is now the backbone of modern digital enterprises, but its security challenges are vastly different from traditional on-prem environments. 
+This track will explore how organisations can secure cloud-native environments from the ground up, implement Zero Trust principles, and build resilience in multi-cloud ecosystems.</div><div class="isomer-card-link">This is a link for your card</div></div></a>
+<a rel="noopener noreferrer nofollow" href="https://www.isomer.gov.sg" class="isomer-card">
+<div class="isomer-card-image">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Placeholder image" src="https://placehold.co/600x400">
+</div>
+</div>
+<div class="isomer-card-body">
+<div class="isomer-card-title">This is a title for your card</div>
+<div class="isomer-card-description">This is body text for your card. Describe your card.</div>
+<div class="isomer-card-link">This is a link for your card</div>
+</div>
+</a>
+</div>
+<p>ov</p>
+<div class="isomer-card-grid">
+<div class="isomer-card">
+<div class="isomer-card-image">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="AI x Security" src="https://placehold.co/600x400">
+</div>
+</div>
+<div class="isomer-card-body">
+<div class="isomer-card-title">AI x Security</div>
+<div class="isomer-card-description">AI is revolutionizing cybersecurity—but it’s also empowering attackers.
+This track will explore how organisations can harness AI to strengthen
+cybersecurity, mitigate AI-driven threats, and navigate the risks of adversarial
+AI.</div>
+</div>
+</div><a rel="noopener noreferrer nofollow" href="https://www.isomer.gov.sg" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Resilient and Secure Cloud" src="https://placehold.co/600x400"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Resilient and Secure Cloud</div><div class="isomer-card-description">The cloud is now the backbone of modern digital enterprises, but its security challenges are vastly different from traditional on-prem environments. 
+This track will explore how organisations can secure cloud-native environments from the ground up, implement Zero Trust principles, and build resilience in multi-cloud ecosystems.</div><div class="isomer-card-link">This is a link for your card</div></div></a>
+<a rel="noopener noreferrer nofollow" href="https://www.isomer.gov.sg" class="isomer-card">
+<div class="isomer-card-image">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Placeholder image" src="https://placehold.co/600x400">
+</div>
+</div>
+<div class="isomer-card-body">
+<div class="isomer-card-title">This is a title for your card</div>
+<div class="isomer-card-description">This is body text for your card. Describe your card.</div>
+<div class="isomer-card-link">This is a link for your card</div>
+</div>
+</a>
+</div>
+<p>Te</p>
+<div class="isomer-card-grid">
+<div class="isomer-card">
+<div class="isomer-card-image">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="AI x Security" src="https://placehold.co/600x400">
+</div>
+</div>
+<div class="isomer-card-body">
+<div class="isomer-card-title">AI x Security</div>
+<div class="isomer-card-description">AI is revolutionizing cybersecurity—but it’s also empowering attackers.
+This track will explore how organisations can harness AI to strengthen
+cybersecurity, mitigate AI-driven threats, and navigate the risks of adversarial
+AI.</div>
+</div>
+</div><a rel="noopener noreferrer nofollow" href="https://www.isomer.gov.sg" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Resilient and Secure Cloud" src="https://placehold.co/600x400"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Resilient and Secure Cloud</div><div class="isomer-card-description">The cloud is now the backbone of modern digital enterprises, but its security challenges are vastly different from traditional on-prem environments. 
+This track will explore how organisations can secure cloud-native environments from the ground up, implement Zero Trust principles, and build resilience in multi-cloud ecosystems. By the end of the session, attendees will understand the key technologies, strategies, and leadership approaches needed to safeguard their cloud operations in an era of accelerating digital transformation. </div><div class="isomer-card-link">This is a link for your card</div></div></a>
+<a rel="noopener noreferrer nofollow" href="https://www.isomer.gov.sg" class="isomer-card">
+<div class="isomer-card-image">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Placeholder image" src="https://placehold.co/600x400">
+</div>
+</div>
+<div class="isomer-card-body">
+<div class="isomer-card-title">This is a title for your card</div>
+<div class="isomer-card-description">This is body text for your card. Describe your card.</div>
+<div class="isomer-card-link">This is a link for your card</div>
+</div>
+</a>
+</div>
+<p>ch</p>
+<div class="isomer-card-grid">
+<div class="isomer-card">
+<div class="isomer-card-image">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="AI x Security" src="https://placehold.co/600x400">
+</div>
+</div>
+<div class="isomer-card-body">
+<div class="isomer-card-title">AI x Security</div>
+<div class="isomer-card-description">AI is revolutionizing cybersecurity—but it’s also empowering attackers.
+This track will explore how organisations can harness AI to strengthen
+cybersecurity, mitigate AI-driven threats, and navigate the risks of adversarial
+AI.</div>
+</div>
+</div><a rel="noopener noreferrer nofollow" href="https://www.isomer.gov.sg" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Resilient and Secure Cloud" src="https://placehold.co/600x400"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Resilient and Secure Cloud</div><div class="isomer-card-description">The cloud is now the backbone of modern digital enterprises, but its security challenges are vastly different from traditional on-prem environments. 
+This track will explore how organisations can secure cloud-native environments from the ground up, implement Zero Trust principles, and build resilience in multi-cloud ecosystems. By the end of the session, attendees will understand the key technologies, strategies, and leadership approaches needed to safeguard their cloud operations in an era of accelerating digital transformation. </div><div class="isomer-card-link">This is a link for your card</div></div></a>
+<a rel="noopener noreferrer nofollow" href="https://www.isomer.gov.sg" class="isomer-card">
+<div class="isomer-card-image">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Placeholder image" src="https://placehold.co/600x400">
+</div>
+</div>
+<div class="isomer-card-body">
+<div class="isomer-card-title">This is a title for your card</div>
+<div class="isomer-card-description">This is body text for your card. Describe your card.</div>
+<div class="isomer-card-link">This is a link for your card</div>
+</div>
+</a>
+</div>
+<p>l</p>
+<div class="isomer-card-grid">
+<div class="isomer-card">
+<div class="isomer-card-image">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="AI x Security" src="https://placehold.co/600x400">
+</div>
+</div>
+<div class="isomer-card-body">
+<div class="isomer-card-title">AI x Security</div>
+<div class="isomer-card-description">AI is revolutionizing cybersecurity—but it’s also empowering attackers.
+This track will explore how organisations can harness AI to strengthen
+cybersecurity, mitigate AI-driven threats, and navigate the risks of adversarial
+AI.</div>
+</div>
+</div><a rel="noopener noreferrer nofollow" href="https://www.isomer.gov.sg" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Resilient and Secure Cloud" src="https://placehold.co/600x400"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Resilient and Secure Cloud</div><div class="isomer-card-description">The cloud is now the backbone of modern digital enterprises, but its security challenges are vastly different from traditional on-prem environments. As businesses move toward cloud-native architectures, the approach to security must shift—from reactive defenses to proactive, built-in security measures. 
+ 
+This track will explore how organisations can secure cloud-native environments from the ground up, implement Zero Trust principles, and build resilience in multi-cloud ecosystems. By the end of the session, attendees will understand the key technologies, strategies, and leadership approaches needed to safeguard their cloud operations in an era of accelerating digital transformation. </div><div class="isomer-card-link">This is a link for your card</div></div></a>
+<a rel="noopener noreferrer nofollow" href="https://www.isomer.gov.sg" class="isomer-card">
+<div class="isomer-card-image">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Placeholder image" src="https://placehold.co/600x400">
+</div>
+</div>
+<div class="isomer-card-body">
+<div class="isomer-card-title">This is a title for your card</div>
+<div class="isomer-card-description">This is body text for your card. Describe your card.</div>
+<div class="isomer-card-link">This is a link for your card</div>
+</div>
+</a>
+</div>
+<p>ea</p>
+<div class="isomer-card-grid">
+<div class="isomer-card">
+<div class="isomer-card-image">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="AI x Security" src="https://placehold.co/600x400">
+</div>
+</div>
+<div class="isomer-card-body">
+<div class="isomer-card-title">AI x Security</div>
+<div class="isomer-card-description">AI is revolutionizing cybersecurity—but it’s also empowering attackers.
+This track will explore how organisations can harness AI to strengthen
+cybersecurity, mitigate AI-driven threats, and navigate the risks of adversarial
+AI.</div>
+</div>
+</div><a rel="noopener noreferrer nofollow" href="https://www.isomer.gov.sg" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Resilient and Secure Cloud" src="https://placehold.co/600x400"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Resilient and Secure Cloud</div><div class="isomer-card-description">The cloud is now the backbone of modern digital enterprises, but its security challenges are vastly different from traditional on-prem environments. As businesses move toward cloud-native architectures, the approach to security must shift—from reactive defenses to proactive, built-in security measures. 
+ 
+This track will explore how organisations can secure cloud-native environments from the ground up, implement Zero Trust principles, and build resilience in multi-cloud ecosystems. By the end of the session, attendees will understand the key technologies, strategies, and leadership approaches needed to safeguard their cloud operations in an era of accelerating digital transformation. </div><div class="isomer-card-link">This is a link for your card</div></div></a>
+<a rel="noopener noreferrer nofollow" href="https://www.isomer.gov.sg" class="isomer-card">
+<div class="isomer-card-image">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Placeholder image" src="https://placehold.co/600x400">
+</div>
+</div>
+<div class="isomer-card-body">
+<div class="isomer-card-title">This is a title for your card</div>
+<div class="isomer-card-description">This is body text for your card. Describe your card.</div>
+<div class="isomer-card-link">This is a link for your card</div>
+</div>
+</a>
+</div>
+<p>ds</p>
+<div class="isomer-card-grid">
+<div class="isomer-card">
+<div class="isomer-card-image">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="AI x Security" src="https://placehold.co/600x400">
+</div>
+</div>
+<div class="isomer-card-body">
+<div class="isomer-card-title">AI x Security</div>
+<div class="isomer-card-description">AI is revolutionizing cybersecurity—but it’s also empowering attackers.
+This track will explore how organisations can harness AI to strengthen
+cybersecurity, mitigate AI-driven threats, and navigate the risks of adversarial
+AI.</div>
+</div>
+</div><a rel="noopener noreferrer nofollow" href="https://www.isomer.gov.sg" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Resilient and Secure Cloud" src="https://placehold.co/600x400"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Resilient and Secure Cloud</div><div class="isomer-card-description">This is body text for your card. Describe your card.</div><div class="isomer-card-link">This is a link for your card</div></div></a>
+<a rel="noopener noreferrer nofollow" href="https://www.isomer.gov.sg" class="isomer-card">
+<div class="isomer-card-image">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Placeholder image" src="https://placehold.co/600x400">
+</div>
+</div>
+<div class="isomer-card-body">
+<div class="isomer-card-title">This is a title for your card</div>
+<div class="isomer-card-description">This is body text for your card. Describe your card.</div>
+<div class="isomer-card-link">This is a link for your card</div>
+</div>
+</a>
+</div>
+<p>S</p>
+<div class="isomer-card-grid">
+<div class="isomer-card">
+<div class="isomer-card-image">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="AI x Security" src="https://placehold.co/600x400">
+</div>
+</div>
+<div class="isomer-card-body">
+<div class="isomer-card-title">AI x Security</div>
+<div class="isomer-card-description">AI is revolutionizing cybersecurity—but it’s also empowering attackers.
+This track will explore how organisations can harness AI to strengthen
+cybersecurity, mitigate AI-driven threats, and navigate the risks of adversarial
+AI.</div>
+</div>
+</div><a rel="noopener noreferrer nofollow" href="https://www.isomer.gov.sg" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Resilient and Secure Cloud" src="https://placehold.co/600x400"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Resilient and Secure Cloud</div><div class="isomer-card-description">This is body text for your card. Describe your card.</div><div class="isomer-card-link">This is a link for your card</div></div></a>
+<a rel="noopener noreferrer nofollow" href="https://www.isomer.gov.sg" class="isomer-card">
+<div class="isomer-card-image">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Placeholder image" src="https://placehold.co/600x400">
+</div>
+</div>
+<div class="isomer-card-body">
+<div class="isomer-card-title">This is a title for your card</div>
+<div class="isomer-card-description">This is body text for your card. Describe your card.</div>
+<div class="isomer-card-link">This is a link for your card</div>
+</div>
+</a>
+</div>
+<p>in</p>
+<div class="isomer-card-grid">
+<div class="isomer-card">
+<div class="isomer-card-image">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="AI x Security" src="https://placehold.co/600x400">
+</div>
+</div>
+<div class="isomer-card-body">
+<div class="isomer-card-title">AI x Security</div>
+<div class="isomer-card-description">AI is revolutionizing cybersecurity—but it’s also empowering attackers.
+This track will explore how organisations can harness AI to strengthen
+cybersecurity, mitigate AI-driven threats, and navigate the risks of adversarial
+AI.</div>
+</div>
+</div><a rel="noopener noreferrer nofollow" href="https://www.isomer.gov.sg" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Resilient and Secure Cloud" src="https://placehold.co/600x400"></div></div><div class="isomer-card-body"><div class="isomer-card-title">This is a title for your card</div><div class="isomer-card-description">This is body text for your card. Describe your card.</div><div class="isomer-card-link">This is a link for your card</div></div></a>
+<a rel="noopener noreferrer nofollow" href="https://www.isomer.gov.sg" class="isomer-card">
+<div class="isomer-card-image">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Placeholder image" src="https://placehold.co/600x400">
+</div>
+</div>
+<div class="isomer-card-body">
+<div class="isomer-card-title">This is a title for your card</div>
+<div class="isomer-card-description">This is body text for your card. Describe your card.</div>
+<div class="isomer-card-link">This is a link for your card</div>
+</div>
+</a>
+</div>
+<p>ga</p>
+<div class="isomer-card-grid">
+<div class="isomer-card">
+<div class="isomer-card-image">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="AI x Security" src="https://placehold.co/600x400">
+</div>
+</div>
+<div class="isomer-card-body">
+<div class="isomer-card-title">AI x Security</div>
+<div class="isomer-card-description">AI is revolutionizing cybersecurity—but it’s also empowering attackers.
+This track will explore how organisations can harness AI to strengthen
+cybersecurity, mitigate AI-driven threats, and navigate the risks of adversarial
+AI.</div>
+</div>
+</div><a rel="noopener noreferrer nofollow" href="https://www.isomer.gov.sg" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Resilient and Secure Cloud" src="https://placehold.co/600x400"></div></div><div class="isomer-card-body"><div class="isomer-card-title">This is a title for your card</div><div class="isomer-card-description">This is body text for your card. Describe your card.</div><div class="isomer-card-link">This is a link for your card</div></div></a>
+<a rel="noopener noreferrer nofollow" href="https://www.isomer.gov.sg" class="isomer-card">
+<div class="isomer-card-image">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Placeholder image" src="https://placehold.co/600x400">
+</div>
+</div>
+<div class="isomer-card-body">
+<div class="isomer-card-title">This is a title for your card</div>
+<div class="isomer-card-description">This is body text for your card. Describe your card.</div>
+<div class="isomer-card-link">This is a link for your card</div>
+</div>
+</a>
+</div>
+<p>pore’s digital transformation efforts for the public sector, and our mission
+is to harness technology to create meaningful impact and to advance our
+Smart Nation vision.&nbsp;</p>
 <p>At STACKx Cybersecurity, you'll hear from experts on the latest trends
 and innovations in cybersecurity that are shaping the digital landscape.
 This year’s theme, <em>“Securing Tomorrow’s Digital Frontier,”</em> focuses
@@ -34,6 +403,34 @@ conversations around three key areas:</p>
 </li>
 <li>
 <p>CISOs of the Future</p>
+<div class="isomer-card-grid">
+<div class="isomer-card">
+<div class="isomer-card-image">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="AI x Security" src="https://placehold.co/600x400">
+</div>
+</div>
+<div class="isomer-card-body">
+<div class="isomer-card-title">AI x Security</div>
+<div class="isomer-card-description">AI is revolutionizing cybersecurity—but it’s also empowering attackers.
+This track will explore how organisations can harness AI to strengthen
+cybersecurity, mitigate AI-driven threats, and navigate the risks of adversarial
+AI.</div>
+</div>
+</div><a rel="noopener noreferrer nofollow" href="https://www.isomer.gov.sg" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Placeholder image" src="https://placehold.co/600x400"></div></div><div class="isomer-card-body"><div class="isomer-card-title">This is a title for your card</div><div class="isomer-card-description">This is body text for your card. Describe your card.</div><div class="isomer-card-link">This is a link for your card</div></div></a>
+<a rel="noopener noreferrer nofollow" href="https://www.isomer.gov.sg" class="isomer-card">
+<div class="isomer-card-image">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Placeholder image" src="https://placehold.co/600x400">
+</div>
+</div>
+<div class="isomer-card-body">
+<div class="isomer-card-title">This is a title for your card</div>
+<div class="isomer-card-description">This is body text for your card. Describe your card.</div>
+<div class="isomer-card-link">This is a link for your card</div>
+</div>
+</a>
+</div>
 </li>
 </ol>
 <h3>Discover a lineup of innovative approaches and solutions that address the evolving challenges in the cybersecurity domain!</h3>
