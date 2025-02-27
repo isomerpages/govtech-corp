@@ -19,5 +19,10 @@ contacts:
       - email: govtech_sipeo@tech.gov.sg
       - other: ""
     title: Industry / Vendor Partnership
+  - content:
+      - phone: ""
+      - email: media@tech.gov.sg
+      - other: ""
+    title: Media Enquiries
 feedback: ""
 ---
