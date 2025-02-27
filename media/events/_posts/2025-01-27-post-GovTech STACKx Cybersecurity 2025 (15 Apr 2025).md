@@ -31,7 +31,7 @@ conversations around three key areas:</p>
 <div class="isomer-card">
 <div class="isomer-card-image">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="AI x Security" src="/images/Web_page_Icon_AI_x_Cybersecurity.png">
+<img style="width: 100%" height="auto" width="100%" alt="AI x Security" src="/images/Web_page_Icon_AI_x_Cybersecurity_no_text.png">
 </div>
 </div>
 <div class="isomer-card-body">
@@ -45,7 +45,7 @@ AI.</div>
 <div class="isomer-card">
 <div class="isomer-card-image">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Resilient and Secure Cloud" src="/images/Web_page_Icon_Resilient_and_Secure_Cloud.png">
+<img style="width: 100%" height="auto" width="100%" alt="Resilient and Secure Cloud" src="/images/Web_page_Icon_Resilient_and_Secure_Cloud_no_text.png">
 </div>
 </div>
 <div class="isomer-card-body">
@@ -59,7 +59,7 @@ Zero Trust principles, and build resilience in multi-cloud ecosystems.</div>
 <div class="isomer-card">
 <div class="isomer-card-image">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="CISOs of the Future" src="/images/Web_page_Icon_CISOs_of_the_Future.png">
+<img style="width: 100%" height="auto" width="100%" alt="CISOs of the Future" src="/images/Web_page_Icon_CISOs_of_the_Future_no_text.png">
 </div>
 </div>
 <div class="isomer-card-body">
