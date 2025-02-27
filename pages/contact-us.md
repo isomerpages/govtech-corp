@@ -11,9 +11,9 @@ contacts:
     title: General Enquiries & Feedback
   - content:
       - phone: ""
-      - email: whistleblow@tech.gov.sg
+      - email: media@tech.gov.sg
       - other: ""
-    title: Whistleblowing Line
+    title: Media Enquiries
   - content:
       - phone: ""
       - email: govtech_sipeo@tech.gov.sg
@@ -21,8 +21,8 @@ contacts:
     title: Industry / Vendor Partnership
   - content:
       - phone: ""
-      - email: media@tech.gov.sg
+      - email: whistleblow@tech.gov.sg
       - other: ""
-    title: Media Enquiries
+    title: Whistleblowing Line
 feedback: ""
 ---
