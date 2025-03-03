@@ -52,10 +52,9 @@ with a plan for you.</p>
 <p>One silver lining of the COVID-19 pandemic is discovering digital ways
 to carry on with our day-to-day lives</p>
 <p>Seeing a doctor was one of the tasks that seemed to be possible only in
-person. But&nbsp;<a href="https://thehomeground.asia/destinations/singapore/the-impact-of-technology-on-caregiving-in-singapore/" class="editor-rtfLink" rel="noopener noreferrer nofollow" target="_blank">telehealth</a>,
-or telemedicine, has risen in popularity in recent years. Through video
-calls, the healthcare professional can assess the condition of the patient
-and prescribe the necessary medicine and treatment.</p>
+person. But telehealth or telemedicine, has risen in popularity in recent
+years. Through video calls, the healthcare professional can assess the
+condition of the patient and prescribe the necessary medicine and treatment.</p>
 <p>Patients can get medical help from the comfort of their own homes and
 save precious time and money that would otherwise be spent commuting to
 and fro the medical facility. This also means the caregivers hopefully

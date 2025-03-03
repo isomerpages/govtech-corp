@@ -41,29 +41,11 @@ analytics visualisation.&nbsp;</p>
 websites and digital services in real-time through a convenient and user-friendly
 platform.&nbsp;</p>
 <p>It also consolidates data points across WOG to allow agencies to benchmark
-the performance of their website services, and have a holistic overview
+the performance of their website services and have a holistic overview
 of government digital services.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="WOGAA Product family and the different capabilities" src="/images/Digital Gov Efforts/WOGAA_infographic.jpg">
 </div>
 <p></p>
 <p><a href="/products-and-services/for-government-agencies/data-and-ai/wogaa/" rel="noopener noreferrer nofollow" target="_blank">Explore WOGAA</a>.</p>
-<h4>Personalise</h4>
-<div class="isomer-image-wrapper">
-<img style="width: 70%;" height="auto" width="100%" alt="Personalise logo" src="/images/Digital Gov Efforts/Personalise_logo_600x300.png">
-</div>
-<p>This is a WOG personalisation engine that aims to customise digital touch
-points such as emails and websites to provide the most relevant services
-to our residents.&nbsp;</p>
-<p>It is built on top of a Customer Data Platform that ingests a myriad of
-data from across government systems, and then fed into deep machine-learning
-models to identify the most relevant or personalised content for our users.</p>
-<p>Through personalisation of government digital services, more effective
-targeting and engagement strategies can be developed to achieve policy-based
-outcomes.</p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Personalise email campaign report page screenshot" src="/images/Digital Gov Efforts/Personalise_email_campaign_report_page.jpg">
-</div>
-<p><em>The Personalise email campaign report page.</em>
-</p>
-<p><a href="https://www.developer.tech.gov.sg/products/categories/analytics/personalise/overview.html" rel="noopener noreferrer nofollow" target="_blank">Learn more about Personalise</a>.</p>
+<p></p>
