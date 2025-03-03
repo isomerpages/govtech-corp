@@ -10,7 +10,7 @@ notification: ""
 sections:
   - hero:
       background: /images/Home_Page_Banner.png
-      button: Learn more about GovTech's digital government efforts
+      button: find out more
       url: /techforpublicgood/
       key_highlights:
         - title: For Citizens
