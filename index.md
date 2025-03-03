@@ -11,7 +11,7 @@ sections:
   - hero:
       background: /images/Home_Page_Banner.png
       button: find out more
-      url: /techforpublicgood/
+      url: https://www.tech.gov.sg/media/events/stackx-cybersecurity-2025/
       key_highlights:
         - title: For Citizens
           description: Tips, events and stories
