@@ -10,8 +10,8 @@ notification: ""
 sections:
   - hero:
       background: /images/Home_Page_Banner.png
-      button: Learn more about GovTech's digital government efforts
-      url: /techforpublicgood/
+      button: find out more
+      url: /media/events/stackx-cybersecurity-2025/
       key_highlights:
         - title: For Citizens
           description: Tips, events and stories
