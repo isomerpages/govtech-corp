@@ -46,7 +46,7 @@ get notified when new episodes are released.</p>
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>Ep1: AI a double-edged sword in the fight against scams</strong>
+<p><strong>Ep 1: AI a double-edged sword in the fight against scams</strong>
 </p>
 <p>While AI can enhance our cyber defence and protect our digital landscape,
 bad actors can exploit it to create sophisticated attacks and evade traditional
@@ -67,7 +67,7 @@ tactics and share the Singapore government's efforts to protect citizens.</p>
 </div>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>Ep2: Cybersecurity Chronicles from Frontliners</strong>
+<p><strong>Ep 2: Cybersecurity Chronicles from Frontliners</strong>
 </p>
 <p>The Singapore Government has strategised a multi-prong approach to safeguard
 our cyberspace and systems from ever-evolving threats.</p>
@@ -90,7 +90,7 @@ to ensure our nation maintains a robust and resilient cybersecurity posture.</p>
 </div>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>Ep3: Building Blocks of a Reliable Tech Stack </strong>
+<p><strong>Ep 3: Building Blocks of a Reliable Tech Stack</strong>
 </p>
 <p>Tech Stacks are powerful digital infrastructures that can help scale innovation
 and drive efficiency. At GovTech, we’ve built the <a href="https://www.developer.tech.gov.sg/singapore-government-tech-stack/" rel="noopener nofollow" target="_blank">Singapore Government Tech Stack (SGTS)</a> to
@@ -114,7 +114,7 @@ to focus on creativity, reduce complexities, and ensure security and compliance.
 </div>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>Ep4: Scaling with Tech Stacks </strong>
+<p><strong>Ep 4: Scaling with Tech Stacks</strong>
 </p>
 <p>A tech stack provides a standardised and modular foundation that helps
 to streamline development and operations. As a user of the <a href="https://www.developer.tech.gov.sg/singapore-government-tech-stack/" rel="noopener nofollow" target="_blank">Singapore Government Tech Stack (SGTS)</a>,
@@ -137,10 +137,12 @@ productivity within the Singapore government.</p>
 </div>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>Ep5: Secrets to Mastering GenAI from a Prompt Queen </strong>Prompt
-engineering is the mix of art and science to craft inputs that guide AI
-systems to produce accurate, relevant, and meaningful outputs. Designing
-effective prompts can empower users to harness GenAI's full potential.</p>
+<p><strong>Ep 5: Secrets to Mastering GenAI from a Prompt Queen</strong>
+</p>
+<p></p>
+<p>Prompt engineering is the mix of art and science to craft inputs that
+guide AI systems to produce accurate, relevant, and meaningful outputs.
+Designing effective prompts can empower users to harness GenAI's full potential.</p>
 <p></p>
 <p>Join Kenneth Ong, Lim Hock Chuan, and Nicole Lee as they share their secrets
 to harnessing GenAI's full potential with the COSTAR framework and their
@@ -158,7 +160,7 @@ experiences with prompt engineering competitions.</p>
 </div>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>Ep6: Riding the Wave of GenAI </strong>
+<p><strong>Ep 6: Riding the Wave of GenAI</strong>
 </p>
 <p>GenAI is on a meteoric rise and is redefining the way we work and live.
 To aid public officers in better incorporating AI into their work, Matchmaker
@@ -171,6 +173,32 @@ of innovation and improve the adoption of cutting-edge technologies in
 the public sector.</p>
 <p><a href="https://go.gov.sg/govtechdecoded-from-website-ep6" rel="noopener nofollow" target="_blank">Watch on YouTube</a> |
 <a href="https://go.gov.sg/govtechdecoded-spotify-ep6" rel="noopener nofollow" target="_blank">Listen on Spotify</a>| <a href="/files/GovTech Decoded/EP_6__Riding_the_Wave_of_GenAI.pdf" rel="noopener noreferrer nofollow" target="_blank">Episode 6 Transcript</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="GovTech Decoded Ep 7: Unlocking the power of AI in an Organisation" src="/images/Decoded/Ep_7_Spotify_Cover.png">
+</div>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Ep 7: Unlocking the Power of Data in an Organisation</strong>
+</p>
+<p></p>
+<p>Once an exclusive tool for scientist, AI is now democratised to be accessible
+to the common man. Mastering data and harnessing the power of AI is now
+a foundational skill that individuals, organisations, and governments need
+to drive innovation and efficiency and make data-driven decisions.</p>
+<p></p>
+<p>Yap Ghim Eng and James Teo discuss how the Singapore government is building
+a robust ecosystem of products, such as <a href="https://www.developer.tech.gov.sg/products/categories/platform/maestro/overview.html" rel="noopener nofollow" target="_blank">MAESTRO</a>,
+<a href="https://entrust.gov.sg/" rel="noopener nofollow" target="_blank">enTRUST</a>and <a href="https://www.cloak.gov.sg/" rel="noopener nofollow" target="_blank">CLOAK</a>,
+to enhance data management, governance and security.</p>
+<p></p>
+<p><a href="https://go.gov.sg/govtechdecoded-from-website-ep7" rel="noopener nofollow" target="_blank">Watch on YouTube</a> |
+<a href="https://go.gov.sg/govtechdecoded-spotify-ep7" rel="noopener nofollow" target="_blank">Listen on Spotify</a>| <a href="/files/GovTech Decoded/EP_7___Unlocking_the_Power_of_Data_in_an_Organisation.pdf" rel="noopener noreferrer nofollow" target="_blank">Episode 7 Transcript</a>
 </p>
 </td>
 </tr>
