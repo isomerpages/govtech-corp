@@ -9,7 +9,7 @@ permalink: /
 notification: ""
 sections:
   - hero:
-      background: /images/TFPG_Banner_600x300_v3.png
+      background: /images/Home_Page_Banner.png
       button: Learn more about GovTech's digital government efforts
       url: /techforpublicgood/
       key_highlights:
@@ -39,16 +39,16 @@ sections:
       button: About GovTech
       url: /about-us/who-we-are/
   - infopic:
-      title: STACKx Cybersecurity 2025
-      subtitle: Event
+      title: Tech for Public Good
+      subtitle: Our Digital Government Efforts
       id: infopic
-      description: Join experts at STACKx Cybersecurity 2025 to explore the latest
-        trends, threats, and innovations in securing tomorrow’s digital
-        frontier.
-      button: Find out more
-      url: https://www.tech.gov.sg/media/events/stackx-cybersecurity-2025/
-      image: /images/Stackx_Cyber_Home_page_Section_Banner.png
-      alt: STACKx Cybersecurity 2025
+      description: GovTech's work spans the spectrum of public technology, enhancing
+        everyday experiences and ensuring the smooth running of government
+        digital services.
+      button: Explore our work
+      url: https://www.tech.gov.sg/techforpublicgood
+      image: /images/TFPG_Banner_600x300_v2.png
+      alt: Tech for Public Good
   - infopic:
       title: GovTech Decoded
       subtitle: New Vodcast Series
