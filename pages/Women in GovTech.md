@@ -1,5 +1,5 @@
 ---
-title: Women in (Gov)Tech
+title: Women in GovTech
 permalink: /women-in-govtech/
 variant: tiptap
 description: Empowering women for tech success. Raising awareness, fostering
@@ -10,7 +10,7 @@ description: Empowering women for tech success. Raising awareness, fostering
 <img style="width: 100%" height="auto" width="100%" alt="Women in GovTech Group Photo" src="/images/Women_in__Gov_Tech_Images__6_35_x_2_89_in_.png">
 </div>
 <h3>Empowering women for tech success: Raising awareness, fostering community support, and driving change in the industry.</h3>
-<p>Established in 2021, GovTech's Women in (Gov)Tech Employee Resource Group
+<p>Established in 2021, GovTech's Women in GovTech Employee Resource Group
 (WiG ERG) was inaugurated as the first employee resource group dedicated
 to cultivating and retaining female talent within the organisation. WiG
 ERG is managed by a ExCo of GovTechies who volunteers across GovTech and
@@ -75,7 +75,7 @@ of resilience and leadership.
 <p><strong><em>19 May to 1 Aug 2025</em></strong>
 </p>
 <p>The Girls in Tech Summer Mentorship Programme is organised by the Women
-in (Gov)Tech Employee Resource Group to empower young females who are interested
+in GovTech Employee Resource Group to empower young females who are interested
 in joining the tech industry / public sector.</p>
 <p><strong>Eligibility:</strong>
 </p>
@@ -145,27 +145,27 @@ junior college</p>
 <div class="isomer-card">
 <div class="isomer-card-image">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Women in (Gov)Tech’s Lunch and Community Get-Together" src="/images/15_wig_lunch_1.png">
+<img style="width: 100%" height="auto" width="100%" alt="Women in GovTech’s Lunch and Community Get-Together" src="/images/15_wig_lunch_1.png">
 </div>
 </div>
 <div class="isomer-card-body">
-<div class="isomer-card-title">Women in (Gov)Tech Lunch and Community Get-together</div>
+<div class="isomer-card-title">Women in GovTech Lunch and Community Get-together</div>
 </div>
 </div>
 <div class="isomer-card">
 <div class="isomer-card-image">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Women in (Gov)Tech at GovTech’s Annual Dinner and Dance" src="/images/17_wig_dnd.png">
+<img style="width: 100%" height="auto" width="100%" alt="Women in GovTech at GovTech’s Annual Dinner and Dance" src="/images/17_wig_dnd.png">
 </div>
 </div>
 <div class="isomer-card-body">
-<div class="isomer-card-title">Women in (Gov)Tech at GovTech’s Annual Dinner and Dance</div>
+<div class="isomer-card-title">Women in GovTech at GovTech’s Annual Dinner and Dance</div>
 </div>
 </div>
 </div>
 <p></p>
 <h4>Contact Us</h4>
-<p>Reach out to us if you would like to learn more about Women in (Gov)Tech
+<p>Reach out to us if you would like to learn more about Women in GovTech
 and our initiatives.</p>
 <ul data-tight="true" class="tight">
 <li>
