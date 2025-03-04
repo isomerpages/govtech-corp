@@ -75,7 +75,7 @@ of resilience and leadership.
 <p><strong><em>19 May to 1 Aug 2025</em></strong>
 </p>
 <p>The Girls in Tech Summer Mentorship Programme is organised by the Women
-in (Gov)Tech Employee Resource Group to empower young females who are interested
+in GovTech Employee Resource Group to empower young females who are interested
 in joining the tech industry / public sector.</p>
 <p><strong>Eligibility:</strong>
 </p>
