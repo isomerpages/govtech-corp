@@ -165,7 +165,7 @@ junior college</p>
 </div>
 <p></p>
 <h4>Contact Us</h4>
-<p>Reach out to us if you would like to learn more about Women in (Gov)Tech
+<p>Reach out to us if you would like to learn more about Women in GovTech
 and our initiatives.</p>
 <ul data-tight="true" class="tight">
 <li>
