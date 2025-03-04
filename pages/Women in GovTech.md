@@ -145,21 +145,21 @@ junior college</p>
 <div class="isomer-card">
 <div class="isomer-card-image">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Women in (Gov)Tech’s Lunch and Community Get-Together" src="/images/15_wig_lunch_1.png">
+<img style="width: 100%" height="auto" width="100%" alt="Women in GovTech’s Lunch and Community Get-Together" src="/images/15_wig_lunch_1.png">
 </div>
 </div>
 <div class="isomer-card-body">
-<div class="isomer-card-title">Women in (Gov)Tech Lunch and Community Get-together</div>
+<div class="isomer-card-title">Women in GovTech Lunch and Community Get-together</div>
 </div>
 </div>
 <div class="isomer-card">
 <div class="isomer-card-image">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Women in (Gov)Tech at GovTech’s Annual Dinner and Dance" src="/images/17_wig_dnd.png">
+<img style="width: 100%" height="auto" width="100%" alt="Women in GovTech at GovTech’s Annual Dinner and Dance" src="/images/17_wig_dnd.png">
 </div>
 </div>
 <div class="isomer-card-body">
-<div class="isomer-card-title">Women in (Gov)Tech at GovTech’s Annual Dinner and Dance</div>
+<div class="isomer-card-title">Women in GovTech at GovTech’s Annual Dinner and Dance</div>
 </div>
 </div>
 </div>
