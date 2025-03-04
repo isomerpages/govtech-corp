@@ -10,7 +10,7 @@ description: Empowering women for tech success. Raising awareness, fostering
 <img style="width: 100%" height="auto" width="100%" alt="Women in GovTech Group Photo" src="/images/Women_in__Gov_Tech_Images__6_35_x_2_89_in_.png">
 </div>
 <h3>Empowering women for tech success: Raising awareness, fostering community support, and driving change in the industry.</h3>
-<p>Established in 2021, GovTech's Women in (Gov)Tech Employee Resource Group
+<p>Established in 2021, GovTech's Women in GovTech Employee Resource Group
 (WiG ERG) was inaugurated as the first employee resource group dedicated
 to cultivating and retaining female talent within the organisation. WiG
 ERG is managed by a ExCo of GovTechies who volunteers across GovTech and
