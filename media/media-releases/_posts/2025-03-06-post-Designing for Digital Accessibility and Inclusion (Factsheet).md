@@ -38,3 +38,15 @@ will be upgraded with automatic scanning to detect accessibility barriers
 more efficiently, enabling earlier remediation. Agencies can also leverage
 platforms such as ISOMER and GoWhere, which are already compliant with
 accessibility requirements, to build and deploy digital services.</p>
+<p></p>
+<p>Today, Oobee is already accessible to the industry as an open-source web
+accessibility testing tool. The refreshed DSS will also be shared with
+the Government’s industry partners for feedback and continuous improvement.
+In addition, GovTech will expand its engagement with the community, including
+seniors and users with disabilities, to gather direct feedback and validate
+the usability and accessibility of government digital services. GovTech
+will also collaborate with industry leaders to refine digital standards,
+gather insights, and raise awareness through workshops and forums. This
+reinforces Singapore's commitment in ensuring that government digital services
+remain inclusive, relevant, and user-friendly in a rapidly evolving digital
+landscape.</p>
