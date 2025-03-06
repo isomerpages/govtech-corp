@@ -50,3 +50,7 @@ gather insights, and raise awareness through workshops and forums. This
 reinforces Singapore's commitment in ensuring that government digital services
 remain inclusive, relevant, and user-friendly in a rapidly evolving digital
 landscape.</p>
+<hr>
+<p></p>
+<p><strong>For media queries, please write to <a href="mailto:media@tech.gov.sg" rel="noopener noreferrer nofollow" target="_blank">media@tech.gov.sg</a></strong>
+</p>
