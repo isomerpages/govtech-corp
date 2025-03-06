@@ -7,3 +7,34 @@ description: ""
 image: ""
 variant: tiptap
 ---
+<p>The Singapore Government is committed to inclusive design, ensuring that
+digital services are accessible to all, including people with disabilities.
+To reinforce this commitment, the Ministry of Digital Development and Information
+(MDDI) announced at its Committee of Supply (COS) Debate 2025 that the
+Government’s current Digital Service Standards (DSS) will be enhanced to
+provide better guidance to agencies in making digital services accessible
+to persons with disabilities.</p>
+<p></p>
+<p>The DSS, developed by GovTech, is a set of policies, standards and guidelines
+which helps agencies implement inclusive digital services that are easy,
+seamless and convenient for all to use, regardless of age or ability. The
+DSS takes reference from the globally recognised Web Content Accessibility
+Guidelines (WCAG), which outline best practices to ensure that web content
+is accessible to everyone.</p>
+<p></p>
+<p>The refreshed DSS will be expanded to explain the WCAG and provide recommendations
+on how agencies can meet these standards to ensure their digital services
+are accessible to all. For example, offering practical recommendations,
+such as using tools like WebAIM’s Contrast Checker or GovTech’s Oobee (formerly
+Purple A11y) to verify text and image contrast ratios for better readability,
+particularly for users with low vision or colour vision deficiencies. Agencies
+will also be encouraged to conduct more user testing with persons with
+disabilities before launching digital services.</p>
+<p></p>
+<p>Beyond refining the DSS, GovTech will also enhance its tools to help agencies
+meet accessibility requirements and resolve issues early. Oobee, a tool
+that helps agencies assess website usability and suggest improvements,
+will be upgraded with automatic scanning to detect accessibility barriers
+more efficiently, enabling earlier remediation. Agencies can also leverage
+platforms such as ISOMER and GoWhere, which are already compliant with
+accessibility requirements, to build and deploy digital services.</p>
