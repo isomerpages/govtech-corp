@@ -31,7 +31,7 @@ conversations around three key areas:</p>
 <div class="isomer-card">
 <div class="isomer-card-image">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="AI x Security" src="/images/Web_page_Icon_AI_x_Cybersecurity_no_text.png">
+<img style="width: 100%" height="auto" width="100%" alt="AI x Cybersecurity" src="/images/Web_page_Icon_AI_x_Cybersecurity_no_text.png">
 </div>
 </div>
 <div class="isomer-card-body">
