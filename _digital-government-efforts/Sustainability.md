@@ -88,17 +88,9 @@ and digital business cards.</div>
 </div>
 <div class="isomer-card">
 <div class="isomer-card-body">
-<div class="isomer-card-title">Government Hosting Consolidation and Cloud Migration</div>
+<div class="isomer-card-title">Government Hosting and Cloud Migration</div>
 <div class="isomer-card-description">Centralised energy-efficient data centres to support the consolidation
 of standalone agency server rooms and data centres.</div>
-</div>
-</div>
-<div class="isomer-card">
-<div class="isomer-card-body">
-<div class="isomer-card-title">Green Software</div>
-<div class="isomer-card-description">Actively exploring Green IT tools to augment our existing software development
-processes, and enable our product teams and engineers to optimise their
-software to reduce carbon emissions.</div>
 </div>
 </div>
 </div>
@@ -106,12 +98,20 @@ software to reduce carbon emissions.</div>
 <div class="isomer-card-grid">
 <div class="isomer-card">
 <div class="isomer-card-body">
+<div class="isomer-card-title">Green Software</div>
+<div class="isomer-card-description">Actively exploring Green IT tools to augment our existing software development
+processes, and enable our product teams and engineers to optimise their
+software to reduce carbon emissions</div>
+</div>
+</div>
+<div class="isomer-card">
+<div class="isomer-card-body">
 <div class="isomer-card-title">Open Digital Platform</div>
 <div class="isomer-card-description">To power smarter district planning at the Punggol Digital District. With
 this, district planners can progressively reduce energy and water consumption
 by as much as 30% compared to the national average.</div>
 </div>
-</div><a rel="noopener noreferrer nofollow" href="https://www.gogreen.gov.sg/" class="isomer-card"><div class="isomer-card-body"><div class="isomer-card-title">GovTech Green Week</div><div class="isomer-card-description">At the 5-day event, GovTechies learnt more about sustainability in support of the Go Green SG movement and participated in activities that promote environmental sustainability, while learning how they can help to drive sustainable digitalisation for the public sector and a sustainable future for SG.</div><div class="isomer-card-link">Go Green SG Movement</div></div></a>
+</div>
 </div>
 <p>Follow our <a href="https://linktr.ee/connectwithgovtech" rel="noopener noreferrer nofollow" target="_blank">social media channels</a> to
 stay updated on green efforts by GovTech.</p>
