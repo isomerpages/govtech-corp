@@ -36,13 +36,27 @@ of innovation within a structured framework.</p>
 <h3>Our work and initiatives</h3>
 <p></p>
 <div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="https://docs.developer.tech.gov.sg/docs/crispr-framework-for-data-engineering-for-public-officers/" class="isomer-card"><div class="isomer-card-body"><div class="isomer-card-title">CRISPr Framework for Data Pipeline Design and Monitoring</div><div class="isomer-card-description">CRISPr provides a structured framework for designing and managing data pipelines, emphasising principles such as comprehensiveness, robustness, and scalability. By adopting this framework, government agencies can effectively handle data complexity and improve data quality.</div><div class="isomer-card-link">[TechPass Required] CRISPr Framework for Data Engineering</div></div></a>
-<a rel="noopener noreferrer nofollow" href="https://docs.developer.tech.gov.sg/docs/data-engineering-initiative-playbook-for-public-officers/" class="isomer-card">
+<a rel="noopener noreferrer nofollow" href="https://sgts.gitlab-dedicated.com/wog/gvt/dsaid-de/gvt-dep/crispr-implementation-guide" class="isomer-card">
 <div class="isomer-card-body">
-<div class="isomer-card-title">Data Engineering Initiative Playbook</div>
-<div class="isomer-card-description">This playbook is designed to equip government agencies with foundational
-knowledge, practical templates, as well as useful tips and strategies to
-build a robust engineering framework for data-driven initiatives.</div>
-<div class="isomer-card-link">[TechPass Required] Data Engineering Initiative Playbook</div>
+<div class="isomer-card-title">CRISPr Implementation Guide</div>
+<div class="isomer-card-description">This is a collection of technical guides that offer detailed, step-by-step
+instructions to deploy reusable data pipeline components. Each guide addresses
+a specific aspect of the data pipeline or technology stack, showcasing
+how these components can be integrated and optimised.</div>
+<div class="isomer-card-link">CRISPr Implementation Guide</div>
+</div>
+</a>
+</div>
+<div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="https://docs.developer.tech.gov.sg/docs/data-engineering-initiative-playbook-for-public-officers/" class="isomer-card"><div class="isomer-card-body"><div class="isomer-card-title">Data Engineering Initiative Playbook</div><div class="isomer-card-description">This playbook is designed to equip government agencies with foundational knowledge, practical templates, as well as useful tips and strategies to build a robust engineering framework for data-driven initiatives.</div><div class="isomer-card-link">[TechPass Required] Data Engineering Initiative Playbook</div></div></a>
+<a rel="noopener noreferrer nofollow" href="https://medium.com/dsaid-govtech/empowering-public-officers-a-data-engineering-masterclass-for-the-public-service-dbdecd3b58d5" class="isomer-card">
+<div class="isomer-card-body">
+<div class="isomer-card-title">Data Engineering Tooling Suite</div>
+<div class="isomer-card-description">The Data Engineering tooling suite is part of a systematic approach to
+the data management and transformation process, which includes data acquisition,
+data fusion, data access and distribution, and data exploitation. Learn
+more about the tooling suite and how to master data pipelines.</div>
+<div class="isomer-card-link">Empowering Public Officers: A Data Engineering Masterclass for the Public
+Service</div>
 </div>
 </a>
 </div>
@@ -56,9 +70,8 @@ different modalities including text, images, tabular data, audio, and video.
 Learn more about the applications and challenges of synthetic data.</div>
 <div class="isomer-card-link">Synthetic Data: Navigating Its Methodologies, Applications and Challenges</div>
 </div>
-</a><a rel="noopener noreferrer nofollow" href="https://medium.com/dsaid-govtech/empowering-public-officers-a-data-engineering-masterclass-for-the-public-service-dbdecd3b58d5" class="isomer-card"><div class="isomer-card-body"><div class="isomer-card-title">Data Engineering Tooling Suite</div><div class="isomer-card-description">The Data Engineering tooling suite is part of a systematic approach to the data management and transformation process, which includes data acquisition, data fusion, data access and distribution, and data exploitation. Learn more about the tooling suite and how to master data pipelines.</div><div class="isomer-card-link">Empowering Public Officers: A Data Engineering Masterclass for the Public Service</div></div></a>
+</a>
 </div>
-<p></p>
 <h3>Who should join us</h3>
 <p>If you are passionate about public service and making lives better with
 tech, join our team and discover a world of development opportunities in
