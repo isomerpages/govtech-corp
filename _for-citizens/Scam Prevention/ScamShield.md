@@ -119,7 +119,6 @@ latest information on scams.</p>
 <a href="https://t.me/ncpcscamalert" rel="noopener noreferrer nofollow" target="_blank">&nbsp;<u>Join the Telegram channel</u>
 </a>
 </p>
-<p>&nbsp;</p>
 <h3>Interested to find out more about ScamShield?</h3>
 <div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="https://www.scamshield.gov.sg/" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Visit the ScamShield website" src="/images/CTA card images/Medium_blog_CTA_631x200.png"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Visit the ScamShield website</div><div class="isomer-card-link">Go to ScamShield website</div></div></a>
 <a rel="noopener noreferrer nofollow" href="mailto:info@tech.gov.sg" class="isomer-card">
