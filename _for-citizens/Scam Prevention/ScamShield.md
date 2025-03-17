@@ -76,44 +76,24 @@ from scammers.</div>
 </div>
 <h3>How to use ScamShield?&nbsp;</h3>
 <p>Start verifying potential scams with ScamShield in just four easy steps!</p>
-<ol data-tight="true" class="tight">
-<li>
-<p><strong>Download the ScamShield app</strong>
-</p>
-</li>
-</ol>
+<h4>1. Download the ScamShield app</h4>
 <p>The enhanced app can check suspicious calls, websites and messages for
 scams, coupled with improved blocking and filtering functions.</p>
 <p><a href="https://go.gov.sg/ss-ios" rel="noopener noreferrer nofollow" target="_blank"><u>Download for iOS</u></a>&nbsp;
 <a href="https://go.gov.sg/ss-android" rel="noopener noreferrer nofollow" target="_blank">&nbsp;<u>Download for Android</u>
 </a>
 </p>
-<ol start="2" data-tight="true" class="tight">
-<li>
-<p><strong>Visit the one-stop ScamShield website</strong>
-</p>
-</li>
-</ol>
+<h4>2. Visit the one-stop ScamShield website</h4>
 <p>The website provides the latest information on scams, scam prevention
 tips, and a live chat feature for further assistance.</p>
 <p><a href="http://www.scamshield.gov.sg/" rel="noopener noreferrer nofollow" target="_blank"><u>Visit the ScamShield website</u></a>
 </p>
-<ol start="3" data-tight="true" class="tight">
-<li>
-<p><strong>Call the 1799 ScamShield Helpline</strong>
-</p>
-</li>
-</ol>
+<h4>3. Call the 1799 ScamShield Helpline</h4>
 <p>The 24/7 anti-scam helpline offers immediate support for anyone needing
 assistance in verifying potential scams.</p>
 <p><a href="https://www.scamshield.gov.sg/scamshield-helpline/" rel="noopener noreferrer nofollow" target="_blank"><u>Learn more about the ScamShield Helpline</u></a>
 </p>
-<ol start="4" data-tight="true" class="tight">
-<li>
-<p><strong>Subscribe to the ScamShield Alert Social Channels</strong>
-</p>
-</li>
-</ol>
+<h4>4. Subscribe to the ScamShield Alert Social Channels</h4>
 <p>ScamShield WhatsApp and Telegram channels provide subscribers with the
 latest information on scams.</p>
 <p><a href="https://www.whatsapp.com/channel/0029Va4imcoCRs1thRkcGg1b" rel="noopener noreferrer nofollow" target="_blank"><u>Join the Whatsapp channel</u></a>&nbsp;
