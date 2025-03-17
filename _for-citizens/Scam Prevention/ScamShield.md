@@ -44,8 +44,9 @@ on WhatsApp and Telegram. Together, these tools form a robust safety net
 that crucial in keeping the community safe from scams and fraudulent activities.</p>
 <p>Since May 2022, ScamShield has blacklisted and blocked over 120,000 scam
 entities and the app has had over 900,000 downloads since its launch.</p>
-<p><a href="https://www.scamshield.gov.sg/" rel="noopener noreferrer nofollow" target="_blank"><u>https://youtu.be/bIAo--B3V3A</u></a>
-</p>
+<div class="iframe-wrapper">
+<iframe style="max-width: 100%;" height="400" width="100%" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/bIAo--B3V3A"></iframe>
+</div>
 <h3>Why use ScamShield?&nbsp;</h3>
 <p>The enhanced ScamShield app uses an AI-powered classifier to identify
 potential scams, allowing citizens to protect themselves and others from
