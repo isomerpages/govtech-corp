@@ -9,9 +9,9 @@ permalink: /
 notification: ""
 sections:
   - hero:
-      background: /images/TFPG_Banner_600x300_v3.png
-      button: Learn more about GovTech's digital government efforts
-      url: /techforpublicgood
+      background: /images/Home_Page_Banner.png
+      button: Find out more
+      url: /media/events/stackx-cybersecurity-2025/
       key_highlights:
         - title: For Citizens
           description: Tips, events and stories
