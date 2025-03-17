@@ -2,8 +2,6 @@ collections:
   for-citizens:
     output: true
     order:
-      - Scam Prevention/Scam Prevention.md
-      - Scam Prevention/.keep
       - Crowdsourcing/.keep
       - Crowdsourcing/CrowdTaskSG.md
       - Crowdsourcing/Vulnerability Discovery Programme.md
@@ -29,3 +27,5 @@ collections:
       - Health/.keep
       - Health/Healthy 365.md
       - Health/Health Appointment System.md
+      - Scam Prevention/.keep
+      - Scam Prevention/Scam Prevention.md
