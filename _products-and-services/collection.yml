@@ -3,6 +3,7 @@ collections:
     output: true
     order:
       - Overview.md
+      - For Citizens/Scam Prevention.md
       - For Citizens/.keep
       - For Citizens/Overview.md
       - For Citizens/Crowdsourcing.md
