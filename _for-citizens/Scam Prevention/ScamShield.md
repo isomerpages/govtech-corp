@@ -88,12 +88,12 @@ scams, coupled with improved blocking and filtering functions.</p>
 tips, and a live chat feature for further assistance.</p>
 <p><a href="http://www.scamshield.gov.sg/" rel="noopener noreferrer nofollow" target="_blank"><u>Visit the ScamShield website</u></a>
 </p>
-<h4>3. Call the 1799 ScamShield Helpline</h4>
+<h4>3. Call the 1799 ScamShield helpline</h4>
 <p>The 24/7 anti-scam helpline offers immediate support for anyone needing
 assistance in verifying potential scams.</p>
 <p><a href="https://www.scamshield.gov.sg/scamshield-helpline/" rel="noopener noreferrer nofollow" target="_blank"><u>Learn more about the ScamShield Helpline</u></a>
 </p>
-<h4>4. Subscribe to the ScamShield Alert Social Channels</h4>
+<h4>4. Subscribe to the ScamShield alert social channels</h4>
 <p>ScamShield WhatsApp and Telegram channels provide subscribers with the
 latest information on scams.</p>
 <p><a href="https://www.whatsapp.com/channel/0029Va4imcoCRs1thRkcGg1b" rel="noopener noreferrer nofollow" target="_blank"><u>Join the Whatsapp channel</u></a>&nbsp;
