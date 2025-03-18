@@ -103,43 +103,19 @@ matters without the need to go through every single comment manually.</div>
 </div>
 </div>
 <h3>Interested to find out more about AIBots? &nbsp;</h3>
-<div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="https://www.developer.tech.gov.sg/products/categories/productivity-tools/aibots/overview.html" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Learn more about its features on the Singapore Government Developer Portal" src="/images/CTA card images/Visit_the_SGDP_Portal.png"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Learn more about its features on the Singapore Government Developer Portal </div><div class="isomer-card-link">AIBots | Singapore Government Developer Portal</div></div></a>
-<a rel="noopener noreferrer nofollow" href="https://www.isomer.gov.sg" class="isomer-card">
+<div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="https://www.developer.tech.gov.sg/products/categories/productivity-tools/aibots/overview.html" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Learn more about its features on the Singapore Government Developer Portal" src="/images/CTA card images/Visit_the_SGDP_Portal.png"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Learn more about its features on the Singapore Government Developer Portal</div><div class="isomer-card-link">AIBots | Singapore Government Developer Portal</div></div></a>
+<a rel="noopener noreferrer nofollow" href="https://aibots.gov.sg/" class="isomer-card">
 <div class="isomer-card-image">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Placeholder image" src="https://placehold.co/600x400">
+<img style="width: 100%" height="auto" width="100%" alt="Visit the AIBots website" src="/images/CTA card images/Visit_the_product_website.png">
 </div>
 </div>
 <div class="isomer-card-body">
-<div class="isomer-card-title">This is a title for your card</div>
-<div class="isomer-card-description">This is body text for your card. Describe your card.</div>
-<div class="isomer-card-link">This is a link for your card</div>
+<div class="isomer-card-title">Visit the AIBots website</div>
+<div class="isomer-card-link">Go to AIBots website (Only accessible within the government network)</div>
 </div>
 </a>
 </div>
-<table style="minWidth: 50px">
-<colgroup>
-<col>
-<col>
-</colgroup>
-<tbody>
-<tr>
-<td rowspan="1" colspan="1">
-<p></p>
-<p> &nbsp;</p>
-<p><strong>Learn more about its features on the Singapore Government Developer Portal</strong>&nbsp;</p>
-<p><a href="https://www.developer.tech.gov.sg/products/categories/productivity-tools/aibots/overview.html" rel="noopener noreferrer nofollow" target="_blank"><u>AIBots | Singapore Government Developer Portal</u></a>&nbsp;</p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-<p> &nbsp;</p>
-<p><strong>Visit the AIBots website </strong>&nbsp;</p>
-<p><a href="https://aibots.gov.sg/" rel="noopener noreferrer nofollow" target="_blank"><u>AIBots</u></a>&nbsp;&nbsp;</p>
-<p>(Only accessible within the government network)&nbsp;</p>
-</td>
-</tr>
-</tbody>
-</table>
 <p>  &nbsp;</p>
 <p>&nbsp;</p>
 <p>
