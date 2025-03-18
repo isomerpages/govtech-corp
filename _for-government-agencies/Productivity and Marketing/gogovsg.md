@@ -167,6 +167,9 @@ track click-throughs.</div>
 <ol start="6" data-tight="true" class="tight">
 <li>
 <p>Search the directory to find out who owns a link.&nbsp;</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Step 6" src="/images/Products and Services/For Government Agencies/go_gov_sg_Step_6.png">
+</div>
 </li>
 </ol>
 </td>
@@ -176,6 +179,9 @@ track click-throughs.</div>
 <ol start="7">
 <li>
 <p>Connect your existing tech systems to GoGovSG using our APIs.&nbsp;</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Step 7" src="/images/Products and Services/For Government Agencies/go_gov_sg_Step_7.png">
+</div>
 </li>
 </ol>
 </td>
