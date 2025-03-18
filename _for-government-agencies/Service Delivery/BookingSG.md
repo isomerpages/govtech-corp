@@ -32,11 +32,11 @@ scheduling and minimising manual effort.&nbsp;</p>
 </ul>
 <ul>
 <li>
-<p>With<u> more than </u>&nbsp;5<u>0</u><s>7 </s>use cases onboarded, BookingSG
-handles over 1.36 million transactions. (source:<a href="https://home.booking.gov.sg/" rel="noopener noreferrer nofollow" target="_blank"> <u>BookingSG Home)</u></a>&nbsp;</p>
+<p>With more than 50 cases onboarded, BookingSG handles over 1.36 million
+transactions.</p>
 </li>
 </ul>
-<p>-------------------------------------------------------------------------------------------------------- &nbsp;</p>
+<hr>
 <p><a href="https://home.booking.gov.sg/" rel="noopener noreferrer nofollow" target="_blank"><u>BookingSG</u></a> is
 a comprehensive Software-as-a-Service (SaaS) solution designed to simplify
 booking management across Whole-of-Government (WOG) agencies in Singapore.
@@ -45,55 +45,53 @@ appointments across agency products and services by offering out-of-the-box
 features in four key areas: Calendaring, Availability, Rostering, and Booking
 (CARB).&nbsp;</p>
 <p>This unified platform allows agencies to quickly implement and customise
-their booking systems, addressing common challenges <s>faced </s>in managing
-appointments, resources, and events. By providing a versatile and scalable
-solution, BookingSG eliminates the need for multiple systems and streamlines
-processes for both administrators and end-users.&nbsp;</p>
-<p>Since its inception, BookingSG has onboarded<u> more than 50</u><s> 57</s> use
-cases and processed over 1.36 million transactions, demonstrating its effectiveness
+their booking systems, addressing common challenges in managing appointments,
+resources, and events. By providing a versatile and scalable solution,
+BookingSG eliminates the need for multiple systems and streamlines processes
+for both administrators and end-users.&nbsp;</p>
+<p>Since its inception, BookingSG has onboarded more than 50 use cases and
+processed over 1.36 million transactions, demonstrating its effectiveness
 and wide adoption across government agencies.&nbsp;</p>
-<p>&nbsp;</p>
-<p>Why use BookingSG?&nbsp;</p>
-<p></p>
-<p>&nbsp;</p>
+<h3>Why use BookingSG?&nbsp;</h3>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="BookingSG features" src="/images/Products and Services/For Government Agencies/BookingSG_features.png">
+</div>
 <p>BookingSG empowers government agencies to streamline their booking operations
 and enhance service delivery to citizens. Here's how:&nbsp;</p>
-<table style="minWidth: 100px">
-<colgroup>
-<col>
-<col>
-<col>
-<col>
-</colgroup>
-<tbody>
-<tr>
-<td rowspan="1" colspan="1">
-<p><strong>Easy Onboarding Process</strong>&nbsp;</p>
-<p>BookingSG can get agencies <s>ready-for-launch</s><u>ready for launch</u> within
-a month, avoiding complex procurement processes and long-term vendor management
-costs. &nbsp;</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><strong>Flexibility and Scalability</strong>&nbsp;</p>
-<p>BookingSG adapts to changing needs with flexible integration options and
-configurable settings, ensuring it meets diverse agency requirements. &nbsp;</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><strong>Streamlined Booking Processes</strong>&nbsp;</p>
-<p>BookingSG streamlines administrative processes by automating scheduling
-and booking management, saving time and minimising double bookings.&nbsp;</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><strong>Tracking and Accountability</strong>&nbsp;</p>
-<p>BookingSG provides transparent record-keeping and accountability through
+<div class="isomer-card-grid">
+<div class="isomer-card">
+<div class="isomer-card-body">
+<div class="isomer-card-title">Easy onboarding process</div>
+<div class="isomer-card-description">BookingSG can get agencies ready for launch within a month, avoiding complex
+procurement processes and long-term vendor management costs. </div>
+</div>
+</div>
+<div class="isomer-card">
+<div class="isomer-card-body">
+<div class="isomer-card-title">Flexibility and scalability</div>
+<div class="isomer-card-description">BookingSG adapts to changing needs with flexible integration options and
+configurable settings, ensuring it meets diverse agency requirements. </div>
+</div>
+</div>
+<div class="isomer-card">
+<div class="isomer-card-body">
+<div class="isomer-card-title">Streamlined booking processes</div>
+<div class="isomer-card-description">BookingSG streamlines administrative processes by automating scheduling
+and booking management, saving time and minimising double bookings.</div>
+</div>
+</div>
+</div>
+<div class="isomer-card-grid">
+<div class="isomer-card">
+<div class="isomer-card-body">
+<div class="isomer-card-title">Tracking and accountability</div>
+<div class="isomer-card-description">BookingSG provides transparent record-keeping and accountability through
 its admin portal, enabling agencies to analyse trends and optimise resource
-allocation for improved decision-making and planning.&nbsp;</p>
-</td>
-</tr>
-</tbody>
-</table>
-<p>&nbsp;</p>
-<p>How to use BookingSG?&nbsp;</p>
+allocation for improved decision-making and planning.</div>
+</div>
+</div>
+</div>
+<h3>How to use BookingSG?&nbsp;</h3>
 <p><a href="https://www.booking.gov.sg/public/services/OR620WeE/availability?anonymous=true" rel="noopener noreferrer nofollow" target="_blank"><u>Book a discussion</u></a> to
 explore solutions for your agency’s booking management needs!&nbsp;</p>
 <p>&nbsp;</p>
