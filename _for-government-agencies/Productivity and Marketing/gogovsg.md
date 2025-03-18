@@ -10,7 +10,7 @@ image: /images/Products and Services/For Government
   Agencies/go_gov_sg_logo_600x400.png
 third_nav_title: Productivity and Marketing
 ---
-<h2>Creating trusted short links with go.gov.sg and for.sg</h2>
+<h2>Creating trusted short links with go.gov.sg and <a href="http://for.sg" rel="noopener noreferrer nofollow" target="_blank">for.sg</a></h2>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="go.gov.sg logo" src="/images/Products and Services/For Government Agencies/go_gov_sg.png">
 </div>
@@ -107,11 +107,11 @@ track click-throughs.</div>
 <ol data-tight="true" class="tight">
 <li>
 <p>Create unique short links that point to URL or a file.&nbsp;</p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Step 1" src="/images/Products and Services/For Government Agencies/go_gov_sg_step1.png">
-</div>
 </li>
 </ol>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Step 1" src="/images/Products and Services/For Government Agencies/go_gov_sg_Step_1.png">
+</div>
 </td>
 </tr>
 <tr>
@@ -120,7 +120,7 @@ track click-throughs.</div>
 <li>
 <p>Easily generate QR codes to share with others.</p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Step 2" src="/images/Products and Services/For Government Agencies/go_gov_sg_step2.png">
+<img style="width: 100%" height="auto" width="100%" alt="Step 2" src="/images/Products and Services/For Government Agencies/go_gov_sg_Step_2.png">
 </div>
 </li>
 </ol>
@@ -130,7 +130,10 @@ track click-throughs.</div>
 <td rowspan="1" colspan="2">
 <ol start="3">
 <li>
-<p>Mass generate up to 1000 short links using a csv upload.&nbsp;</p>
+<p>Mass generate up to 1000 short links using a csv upload.</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Step 3" src="/images/Products and Services/For Government Agencies/go_gov_sg_Step_3.png">
+</div>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="Step 3" src="/images/Products and Services/For Government Agencies/go_gov_sg_step3.png">
 </div>
