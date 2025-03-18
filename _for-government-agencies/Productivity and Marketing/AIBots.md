@@ -36,7 +36,7 @@ between Aug 2024 - Feb 2025.</p>
 <hr>
 <p><a href="https://aibots.gov.sg/" rel="noopener noreferrer nofollow" target="_blank"><u>AIBots</u></a> is
 a platform where Singapore Public Officers can create, customise, and deploy
-Generative AI chatbots quickly and efficiently. By leveraging Retrieval-augmented
+Generative AI chatbots quickly and efficiently. By leveraging Retrieval-Augmented
 Generation (RAG), AIBots enhances chatbot responses by integrating internal
 agency knowledge bases, bridging the gap between publicly available information
 and internal resources.&nbsp;</p>
