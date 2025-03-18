@@ -10,7 +10,7 @@ image: /images/Products and Services/For Government
   Agencies/go_gov_sg_logo_600x400.png
 third_nav_title: Productivity and Marketing
 ---
-<h2>Creating trusted short links with go.gov.sg and <a href="http://for.sg" rel="noopener noreferrer nofollow" target="_blank">for.sg</a></h2>
+<h2>Creating trusted short links with go.gov.sg and for.sg</h2>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="go.gov.sg logo" src="/images/Products and Services/For Government Agencies/go_gov_sg.png">
 </div>
