@@ -10,7 +10,7 @@ image: /images/Products and Services/For Government
   Agencies/go_gov_sg_logo_600x400.png
 third_nav_title: Productivity and Marketing
 ---
-<h2>Creating trusted short links with go.gov.sg and for.sg</h2>
+<h2>Creating trusted short links with go.gov.sg and <a href="http://for.sg" rel="noopener noreferrer nofollow" target="_blank">for.sg</a></h2>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="go.gov.sg logo" src="/images/Products and Services/For Government Agencies/go_gov_sg.png">
 </div>
@@ -94,8 +94,8 @@ track click-throughs.</div>
 </div>
 <h3>How to use go.gov.sg and for.sg?</h3>
 <p>Simply sign in with your official email to <a href="https://go.gov.sg/#/login" rel="noopener nofollow" target="_blank">go.gov.sg</a> for public officers or
-<a href="https://for.sg/#/" rel="noopener noreferrer nofollow" target="_blank"></a><a href="https://for.sg/#/login" rel="noopener noreferrer nofollow" target="_blank"><u>for.sg</u></a> for
-healthcare professionals to start creating short links!&nbsp;</p>
+<a href="https://for.sg/#/login" rel="noopener noreferrer nofollow" target="_blank"><u>for.sg</u>
+</a>for healthcare professionals to start creating short links!&nbsp;</p>
 <p>Follow this step-by-step guide:&nbsp;</p>
 <table style="minWidth: 50px">
 <colgroup>
@@ -111,8 +111,7 @@ healthcare professionals to start creating short links!&nbsp;</p>
 <td rowspan="1" colspan="1">
 <ol>
 <li>
-<p>
-<br>Create unique short links that point to URL or a file.&nbsp;</p>
+<p>Create unique short links that point to URL or a file.&nbsp;</p>
 </li>
 </ol>
 </td>
@@ -125,8 +124,7 @@ healthcare professionals to start creating short links!&nbsp;</p>
 <td rowspan="1" colspan="1">
 <ol start="2">
 <li>
-<p>
-<br>Easily generate QR codes to share with others.&nbsp;</p>
+<p>Easily generate QR codes to share with others.&nbsp;</p>
 </li>
 </ol>
 </td>
@@ -139,8 +137,7 @@ healthcare professionals to start creating short links!&nbsp;</p>
 <td rowspan="1" colspan="1">
 <ol start="3">
 <li>
-<p>
-<br>Mass generate up to 1000 short links using a csv upload.&nbsp;</p>
+<p>Mass generate up to 1000 short links using a csv upload.&nbsp;</p>
 </li>
 </ol>
 </td>
@@ -153,8 +150,7 @@ healthcare professionals to start creating short links!&nbsp;</p>
 <td rowspan="1" colspan="1">
 <ol start="4">
 <li>
-<p>
-<br>Create tags for your short links to make them easier to find.&nbsp;</p>
+<p>Create tags for your short links to make them easier to find.&nbsp;</p>
 </li>
 </ol>
 </td>
@@ -167,8 +163,7 @@ healthcare professionals to start creating short links!&nbsp;</p>
 <td rowspan="1" colspan="1">
 <ol start="5">
 <li>
-<p>
-<br>Find out how your short links are doing using analytics.&nbsp;</p>
+<p>Find out how your short links are doing using analytics.&nbsp;</p>
 </li>
 </ol>
 </td>
@@ -181,8 +176,7 @@ healthcare professionals to start creating short links!&nbsp;</p>
 <td rowspan="1" colspan="1">
 <ol start="6">
 <li>
-<p>
-<br>Search the directory to find out who owns a link.&nbsp;</p>
+<p>Search the directory to find out who owns a link.&nbsp;</p>
 </li>
 </ol>
 </td>
@@ -195,46 +189,27 @@ healthcare professionals to start creating short links!&nbsp;</p>
 <td rowspan="1" colspan="1">
 <ol start="7">
 <li>
-<p>
-<br>Connect your existing tech systems to GoGovSG using our APIs.&nbsp;</p>
+<p>Connect your existing tech systems to GoGovSG using our APIs.&nbsp;</p>
 </li>
 </ol>
 </td>
 </tr>
 </tbody>
 </table>
-<p>&nbsp;</p>
-<p>Interested to find out more about <a href="https://gccprod.sharepoint.com/:x:/r/sites/CMG/_layouts/15/Doc.aspx?sourcedoc=%7BFDB321CC-9A5A-4BFD-B83C-5B1B11FFC374%7D&amp;amp;file=Product%20Coverage%20Tracking.xlsx&amp;amp;wdLOR=cE4C4766B-2E19-46DD-998A-FE39A95DC3FC&amp;amp;fromShare=true&amp;amp;action=default&amp;amp;mobileredirect=true" rel="noopener noreferrer nofollow" target="_blank">go.gov.sg</a> and
-<a href="https://gccprod.sharepoint.com/:x:/r/sites/CMG/_layouts/15/Doc.aspx?sourcedoc=%7BFDB321CC-9A5A-4BFD-B83C-5B1B11FFC374%7D&amp;amp;file=Product%20Coverage%20Tracking.xlsx&amp;amp;wdLOR=cE4C4766B-2E19-46DD-998A-FE39A95DC3FC&amp;amp;fromShare=true&amp;amp;action=default&amp;amp;mobileredirect=true" rel="noopener noreferrer nofollow" target="_blank">for.sg</a>? &nbsp;</p>
-<p>  &nbsp;</p>
-<table style="minWidth: 50px">
-<colgroup>
-<col>
-<col>
-</colgroup>
-<tbody>
-<tr>
-<td rowspan="1" colspan="1">
-<p></p>
-<p>&nbsp;</p>
-<p><strong>Learn more about <a href="https://gccprod.sharepoint.com/:x:/r/sites/CMG/_layouts/15/Doc.aspx?sourcedoc=%7BFDB321CC-9A5A-4BFD-B83C-5B1B11FFC374%7D&amp;amp;file=Product%20Coverage%20Tracking.xlsx&amp;amp;wdLOR=cE4C4766B-2E19-46DD-998A-FE39A95DC3FC&amp;amp;fromShare=true&amp;amp;action=default&amp;amp;mobileredirect=true" rel="noopener noreferrer nofollow" target="_blank">go.gov.sg</a> on the product website</strong> &nbsp;</p>
-<p><a href="https://go.gov.sg/#/" rel="noopener noreferrer nofollow" target="_blank"><u>Go to </u></a>
-<a href="https://gccprod.sharepoint.com/:x:/r/sites/CMG/_layouts/15/Doc.aspx?sourcedoc=%7BFDB321CC-9A5A-4BFD-B83C-5B1B11FFC374%7D&amp;amp;file=Product%20Coverage%20Tracking.xlsx&amp;amp;wdLOR=cE4C4766B-2E19-46DD-998A-FE39A95DC3FC&amp;amp;fromShare=true&amp;amp;action=default&amp;amp;mobileredirect=true" rel="noopener noreferrer nofollow" target="_blank"><u>go.gov.sg</u>
-</a><a href="https://go.gov.sg/#/" rel="noopener noreferrer nofollow" target="_blank"><u> website </u></a>&nbsp;</p>
-<p> &nbsp;</p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-<p>&nbsp;</p>
-<p><strong>Learn more about <a href="https://gccprod.sharepoint.com/:x:/r/sites/CMG/_layouts/15/Doc.aspx?sourcedoc=%7BFDB321CC-9A5A-4BFD-B83C-5B1B11FFC374%7D&amp;amp;file=Product%20Coverage%20Tracking.xlsx&amp;amp;wdLOR=cE4C4766B-2E19-46DD-998A-FE39A95DC3FC&amp;amp;fromShare=true&amp;amp;action=default&amp;amp;mobileredirect=true" rel="noopener noreferrer nofollow" target="_blank">for.sg</a> on the product website</strong> &nbsp;</p>
-<p><a href="https://for.sg/#/" rel="noopener noreferrer nofollow" target="_blank"><u>Go to </u></a>
-<a href="https://gccprod.sharepoint.com/:x:/r/sites/CMG/_layouts/15/Doc.aspx?sourcedoc=%7BFDB321CC-9A5A-4BFD-B83C-5B1B11FFC374%7D&amp;amp;file=Product%20Coverage%20Tracking.xlsx&amp;amp;wdLOR=cE4C4766B-2E19-46DD-998A-FE39A95DC3FC&amp;amp;fromShare=true&amp;amp;action=default&amp;amp;mobileredirect=true" rel="noopener noreferrer nofollow" target="_blank"><u>for.sg</u>
-</a><a href="https://for.sg/#/" rel="noopener noreferrer nofollow" target="_blank"><u> website </u></a>&nbsp;</p>
-<p>&nbsp;</p>
-</td>
-</tr>
-</tbody>
-</table>
+<h3>Interested to find out more about go.gov.sg and for.sg?</h3>
+<div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="https://go.gov.sg/#/" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Learn more about go.gov.sg on the product website" src="/images/CTA card images/Medium_blog_CTA_631x200.png"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Learn more about go.gov.sg on the product website</div><div class="isomer-card-link">Go to go.gov.sg website</div></div></a>
+<a rel="noopener noreferrer nofollow" href="mailto:info@tech.gov.sg" class="isomer-card">
+<div class="isomer-card-image">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Have question? Email us" src="/images/CTA card images/Have_question__Drops_us_an_email.png">
+</div>
+</div>
+<div class="isomer-card-body">
+<div class="isomer-card-title">Have questions? Email us</div>
+<div class="isomer-card-link">info@tech.gov.sg</div>
+</div>
+</a>
+</div>
 <p>&nbsp;</p>
 <p>
 <br>
