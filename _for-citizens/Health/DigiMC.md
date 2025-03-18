@@ -49,6 +49,9 @@ their employer or school.&nbsp;</p>
 <p>To date, DigiMC is trusted and used widely across 600+ GPs and 21 Public
 Healthcare Institutions.&nbsp;</p>
 <h3>Why use DigiMC? &nbsp;</h3>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="DigiMC sample" src="/images/Products and Services/For citizens/DigiMC_sample.png">
+</div>
 <p>DigiMC benefits healthcare providers, patients, and employers by streamlining
 the entire MC issuance process. Here's how:&nbsp;</p>
 <div class="isomer-card-grid">
