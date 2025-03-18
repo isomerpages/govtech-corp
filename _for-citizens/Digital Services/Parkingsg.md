@@ -35,7 +35,7 @@ eliminating the worry of overpaying for parking.&nbsp;</p>
 <div class="iframe-wrapper">
 <iframe style="max-width: 100%;" height="400" width="100%" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/W1bxtVwuZr0"></iframe>
 </div>
-<h3>Why use Parkingsg? &nbsp;</h3>
+<h3>Why use Parking.sg? &nbsp;</h3>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="Parking.sg app" src="/images/Products and Services/For citizens/Parking_sg_display.png">
 </div>
