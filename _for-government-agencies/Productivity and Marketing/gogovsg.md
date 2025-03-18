@@ -82,7 +82,6 @@ URLs.</div>
 </div>
 </div>
 </div>
-<p></p>
 <div class="isomer-card-grid">
 <div class="isomer-card">
 <div class="isomer-card-body">
@@ -104,92 +103,75 @@ track click-throughs.</div>
 </colgroup>
 <tbody>
 <tr>
-<td rowspan="1" colspan="1">
-<p></p>
-<p>&nbsp;</p>
-</td>
-<td rowspan="1" colspan="1">
-<ol>
+<td rowspan="1" colspan="2">
+<ol data-tight="true" class="tight">
 <li>
 <p>Create unique short links that point to URL or a file.&nbsp;</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Step 1" src="/images/Products and Services/For Government Agencies/go_gov_sg_step1.png">
+</div>
 </li>
 </ol>
 </td>
 </tr>
 <tr>
-<td rowspan="1" colspan="1">
-<p></p>
-<p>&nbsp;</p>
-</td>
-<td rowspan="1" colspan="1">
-<ol start="2">
+<td rowspan="1" colspan="2">
+<ol start="2" data-tight="true" class="tight">
 <li>
-<p>Easily generate QR codes to share with others.&nbsp;</p>
+<p>Easily generate QR codes to share with others.</p>
 </li>
 </ol>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Step 2" src="/images/Products and Services/For Government Agencies/go_gov_sg_step2.png">
+</div>
 </td>
 </tr>
 <tr>
-<td rowspan="1" colspan="1">
-<p></p>
-<p>&nbsp;</p>
-</td>
-<td rowspan="1" colspan="1">
+<td rowspan="1" colspan="2">
 <ol start="3">
 <li>
 <p>Mass generate up to 1000 short links using a csv upload.&nbsp;</p>
+<p></p>
 </li>
 </ol>
 </td>
 </tr>
 <tr>
-<td rowspan="1" colspan="1">
-<p></p>
-<p>&nbsp;</p>
-</td>
-<td rowspan="1" colspan="1">
+<td rowspan="1" colspan="2">
 <ol start="4">
 <li>
 <p>Create tags for your short links to make them easier to find.&nbsp;</p>
+<p></p>
 </li>
 </ol>
 </td>
 </tr>
 <tr>
-<td rowspan="1" colspan="1">
-<p></p>
-<p>&nbsp;</p>
-</td>
-<td rowspan="1" colspan="1">
+<td rowspan="1" colspan="2">
 <ol start="5">
 <li>
 <p>Find out how your short links are doing using analytics.&nbsp;</p>
+<p></p>
 </li>
 </ol>
 </td>
 </tr>
 <tr>
-<td rowspan="1" colspan="1">
-<p></p>
-<p>&nbsp;</p>
-</td>
-<td rowspan="1" colspan="1">
-<ol start="6">
+<td rowspan="1" colspan="2">
+<ol start="6" data-tight="true" class="tight">
 <li>
 <p>Search the directory to find out who owns a link.&nbsp;</p>
+<p></p>
 </li>
 </ol>
 </td>
 </tr>
 <tr>
-<td rowspan="1" colspan="1">
-<p></p>
-<p>&nbsp;</p>
-</td>
-<td rowspan="1" colspan="1">
+<td rowspan="1" colspan="2">
 <ol start="7">
 <li>
 <p>Connect your existing tech systems to GoGovSG using our APIs.&nbsp;</p>
+<p></p>
 </li>
 </ol>
 </td>
