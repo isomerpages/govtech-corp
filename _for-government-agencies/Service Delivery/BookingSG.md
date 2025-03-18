@@ -9,9 +9,11 @@ image: /images/Products and Services/For Government
 third_nav_title: Service Delivery
 ---
 <h2>Unifying appointment and resource management across Whole-of-Government with BookingSG&nbsp;</h2>
+<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="BookingSG logo" src="/images/Products and Services/For Government Agencies/BookingSG.png">
 </div>
+<p></p>
 <ul>
 <li>
 <p>BookingSG unifies booking experiences across Whole-of-Government (WOG)
