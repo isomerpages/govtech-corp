@@ -7,7 +7,7 @@ description: Parking.sg offers a seamless, paperless parking experience—pay,
 image: /images/Products and Services/For citizens/Parking_sg_logo_600x400.png
 third_nav_title: Digital Services
 ---
-<h2>Parking convenience at your fingertips with Parking.sg</h2>
+<h2>Parking convenience at your fingertips with <a href="http://Parking.sg" rel="noopener noreferrer nofollow" target="_blank">Parking.sg</a></h2>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="Parking.sg" src="/images/Products and Services/For citizens/Parking_sg.png">
 </div>
@@ -87,7 +87,7 @@ sessions that end earlier than expected.</div>
 </li>
 </ol>
 <h3>Interested to find out more about Parking.sg?&nbsp;</h3>
-<div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="https://www.parking.sg/" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Visit the Parking.sg website" src="/images/CTA card images/Medium_blog_CTA_631x200.png"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Visit the Parking.sg website</div><div class="isomer-card-link">Go to Parking.sg website</div></div></a>
+<div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="https://www.parking.sg/" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Visit the Parking.sg website" src="/images/CTA card images/Visit_the_product_website.png"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Visit the Parking.sg website</div><div class="isomer-card-link">Go to Parking.sg website</div></div></a>
 <a rel="noopener noreferrer nofollow" href="mailto:info@tech.gov.sg" class="isomer-card">
 <div class="isomer-card-image">
 <div class="isomer-image-wrapper">
