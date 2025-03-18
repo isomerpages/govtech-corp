@@ -7,7 +7,7 @@ description: Parking.sg offers a seamless, paperless parking experience—pay,
 image: /images/Products and Services/For citizens/Parking_sg_logo_600x400.png
 third_nav_title: Digital Services
 ---
-<h2>Parking convenience at your fingertips with Parking.sg</h2>
+<h2>Parking convenience at your fingertips with <a href="http://Parking.sg" rel="noopener noreferrer nofollow" target="_blank">Parking.sg</a></h2>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="Parking.sg" src="/images/Products and Services/For citizens/Parking_sg.png">
 </div>
@@ -36,6 +36,9 @@ eliminating the worry of overpaying for parking.&nbsp;</p>
 <iframe style="max-width: 100%;" height="400" width="100%" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/W1bxtVwuZr0"></iframe>
 </div>
 <h3>Why use Parkingsg? &nbsp;</h3>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Parking.sg app" src="/images/Products and Services/For citizens/Parking_sg_display.png">
+</div>
 <p>Parking.sg replaces paper parking coupons for a more convenient parking
 experience. Here's how:&nbsp;</p>
 <div class="isomer-card-grid">
