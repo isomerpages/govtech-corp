@@ -9,7 +9,7 @@ image: /images/Products and Services/For citizens/ScamShield_Logo_600x400.png
 ---
 <h2>Safeguarding citizens from scams with ScamShield</h2>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="ScamShield" src="/images/Products and Services/For citizens/ScamShield.png">
+<img style="width: 80%;" height="auto" width="100%" alt="ScamShield" src="/images/Products and Services/For citizens/ScamShield.png">
 </div>
 <ul data-tight="true" class="tight">
 <li>
