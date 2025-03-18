@@ -9,7 +9,7 @@ third_nav_title: Digital Services
 ---
 <h2>Parking convenience at your fingertips with <a href="http://Parking.sg" rel="noopener noreferrer nofollow" target="_blank">Parking.sg</a></h2>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Parking.sg" src="/images/Products and Services/For citizens/Parking_sg.png">
+<img style="width: 70%;" height="auto" width="100%" alt="Parking.sg" src="/images/Products and Services/For citizens/Parking_sg.png">
 </div>
 <ul>
 <li>
