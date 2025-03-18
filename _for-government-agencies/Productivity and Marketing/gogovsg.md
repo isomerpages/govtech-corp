@@ -56,7 +56,7 @@ these tools enhance communication while maintaining trust and credibility
 in government and healthcare communications.&nbsp;</p>
 <h3>Why use go.gov.sg and for.sg?</h3>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="go.gov.sg link sharing display image" src="/images/Products and Services/For Government Agencies/go_gov_sg_display.png">
+<img style="width: 70%;" height="auto" width="100%" alt="go.gov.sg link sharing display image" src="/images/Products and Services/For Government Agencies/go_gov_sg_display.png">
 </div>
 <p>These tools allow public officers and healthcare professionals to create
 trusted short links for official communications. Here's how:&nbsp;</p>
