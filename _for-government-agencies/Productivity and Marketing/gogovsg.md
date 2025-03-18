@@ -54,52 +54,49 @@ of these shortened links, knowing they come from verified official sources.
 By providing a secure and efficient way to create and share shortened links,
 these tools enhance communication while maintaining trust and credibility
 in government and healthcare communications.&nbsp;</p>
-<p>&nbsp;</p>
-<p>Why use <a href="https://gccprod.sharepoint.com/:x:/r/sites/CMG/_layouts/15/Doc.aspx?sourcedoc=%7BFDB321CC-9A5A-4BFD-B83C-5B1B11FFC374%7D&amp;amp;file=Product%20Coverage%20Tracking.xlsx&amp;amp;wdLOR=cE4C4766B-2E19-46DD-998A-FE39A95DC3FC&amp;amp;fromShare=true&amp;amp;action=default&amp;amp;mobileredirect=true" rel="noopener noreferrer nofollow" target="_blank">go.gov.sg</a> and
-<a href="https://gccprod.sharepoint.com/:x:/r/sites/CMG/_layouts/15/Doc.aspx?sourcedoc=%7BFDB321CC-9A5A-4BFD-B83C-5B1B11FFC374%7D&amp;amp;file=Product%20Coverage%20Tracking.xlsx&amp;amp;wdLOR=cE4C4766B-2E19-46DD-998A-FE39A95DC3FC&amp;amp;fromShare=true&amp;amp;action=default&amp;amp;mobileredirect=true" rel="noopener noreferrer nofollow" target="_blank">for.sg</a>? &nbsp;</p>
-<p></p>
-<p>&nbsp;</p>
-<p>(taken from <a href="https://gccprod.sharepoint.com/:x:/r/sites/CMG/_layouts/15/Doc.aspx?sourcedoc=%7BFDB321CC-9A5A-4BFD-B83C-5B1B11FFC374%7D&amp;amp;file=Product%20Coverage%20Tracking.xlsx&amp;amp;wdLOR=cE4C4766B-2E19-46DD-998A-FE39A95DC3FC&amp;amp;fromShare=true&amp;amp;action=default&amp;amp;mobileredirect=true" rel="noopener noreferrer nofollow" target="_blank">go.gov.sg</a>)&nbsp;</p>
+<h3>Why use go.gov.sg and for.sg?</h3>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="go.gov.sg link sharing display image" src="/images/Products and Services/For Government Agencies/go_gov_sg_display.png">
+</div>
 <p>These tools allow public officers and healthcare professionals to create
 trusted short links for official communications. Here's how:&nbsp;</p>
-<table style="minWidth: 100px">
-<colgroup>
-<col>
-<col>
-<col>
-<col>
-</colgroup>
-<tbody>
-<tr>
-<td rowspan="1" colspan="1">
-<p><strong>Anti-phishing</strong>&nbsp;</p>
-<p>Both platforms ensure links are from verified sources, reducing phishing
+<div class="isomer-card-grid">
+<div class="isomer-card">
+<div class="isomer-card-body">
+<div class="isomer-card-title">Anti-phishing</div>
+<div class="isomer-card-description">Both platforms ensure links are from verified sources, reducing phishing
 risks. A short transition page educates users to verify domains of the
-URLs.&nbsp;</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><strong>File sharing</strong>&nbsp;</p>
-<p>Users can securely share files using customised, trustworthy short links. &nbsp;</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><strong>Customisation</strong>&nbsp;</p>
-<p>Create memorable short links, replacing long, complex URLs.&nbsp;</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><strong>Analytics</strong>&nbsp;</p>
-<p>Track link performance with built-in click rate analytics to measure and
-track click-throughs.&nbsp;</p>
-</td>
-</tr>
-</tbody>
-</table>
-<p>&nbsp;</p>
-<p>How to use <a href="https://gccprod.sharepoint.com/:x:/r/sites/CMG/_layouts/15/Doc.aspx?sourcedoc=%7BFDB321CC-9A5A-4BFD-B83C-5B1B11FFC374%7D&amp;amp;file=Product%20Coverage%20Tracking.xlsx&amp;amp;wdLOR=cE4C4766B-2E19-46DD-998A-FE39A95DC3FC&amp;amp;fromShare=true&amp;amp;action=default&amp;amp;mobileredirect=true" rel="noopener noreferrer nofollow" target="_blank">go.gov.sg</a> and
-<a href="https://gccprod.sharepoint.com/:x:/r/sites/CMG/_layouts/15/Doc.aspx?sourcedoc=%7BFDB321CC-9A5A-4BFD-B83C-5B1B11FFC374%7D&amp;amp;file=Product%20Coverage%20Tracking.xlsx&amp;amp;wdLOR=cE4C4766B-2E19-46DD-998A-FE39A95DC3FC&amp;amp;fromShare=true&amp;amp;action=default&amp;amp;mobileredirect=true" rel="noopener noreferrer nofollow" target="_blank">for.sg</a>? &nbsp;</p>
-<p>Simply sign in with your official email to<a href="https://go.gov.sg/#/" rel="noopener noreferrer nofollow" target="_blank"> </a><a href="https://gccprod.sharepoint.com/:x:/r/sites/CMG/_layouts/15/Doc.aspx?sourcedoc=%7BFDB321CC-9A5A-4BFD-B83C-5B1B11FFC374%7D&amp;amp;file=Product%20Coverage%20Tracking.xlsx&amp;amp;wdLOR=cE4C4766B-2E19-46DD-998A-FE39A95DC3FC&amp;amp;fromShare=true&amp;amp;action=default&amp;amp;mobileredirect=true" rel="noopener noreferrer nofollow" target="_blank"><u>go.gov.sg</u></a> for
-public officers or<a href="https://for.sg/#/" rel="noopener noreferrer nofollow" target="_blank"> </a><a href="https://gccprod.sharepoint.com/:x:/r/sites/CMG/_layouts/15/Doc.aspx?sourcedoc=%7BFDB321CC-9A5A-4BFD-B83C-5B1B11FFC374%7D&amp;amp;file=Product%20Coverage%20Tracking.xlsx&amp;amp;wdLOR=cE4C4766B-2E19-46DD-998A-FE39A95DC3FC&amp;amp;fromShare=true&amp;amp;action=default&amp;amp;mobileredirect=true" rel="noopener noreferrer nofollow" target="_blank"><u>for.sg</u></a> for
+URLs.</div>
+</div>
+</div>
+<div class="isomer-card">
+<div class="isomer-card-body">
+<div class="isomer-card-title">File sharing</div>
+<div class="isomer-card-description">Users can securely share files using customised, trustworthy short links. </div>
+</div>
+</div>
+<div class="isomer-card">
+<div class="isomer-card-body">
+<div class="isomer-card-title">Customisation</div>
+<div class="isomer-card-description">Create memorable short links, replacing long, complex URLs.</div>
+</div>
+</div>
+</div>
+<p></p>
+<div class="isomer-card-grid">
+<div class="isomer-card">
+<div class="isomer-card-body">
+<div class="isomer-card-title">Analytics</div>
+<div class="isomer-card-description">Track link performance with built-in click rate analytics to measure and
+track click-throughs.</div>
+</div>
+</div>
+</div>
+<h3>How to use go.gov.sg and for.sg?</h3>
+<p>Simply sign in with your official email to <a href="https://go.gov.sg/#/login" rel="noopener nofollow" target="_blank">go.gov.sg</a> for public officers or
+<a href="https://for.sg/#/" rel="noopener noreferrer nofollow" target="_blank"></a><a href="https://for.sg/#/login" rel="noopener noreferrer nofollow" target="_blank"><u>for.sg</u></a> for
 healthcare professionals to start creating short links!&nbsp;</p>
-<p>Follow this step-by-step guide (source:<a href="https://file.go.gov.sg/gogovsg-deck.pdf" rel="noopener noreferrer nofollow" target="_blank"> <u>GoGovSG Slides</u></a>):&nbsp;</p>
+<p>Follow this step-by-step guide:&nbsp;</p>
 <table style="minWidth: 50px">
 <colgroup>
 <col>
