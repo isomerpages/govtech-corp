@@ -94,33 +94,20 @@ allocation for improved decision-making and planning.</div>
 <h3>How to use BookingSG?&nbsp;</h3>
 <p><a href="https://www.booking.gov.sg/public/services/OR620WeE/availability?anonymous=true" rel="noopener noreferrer nofollow" target="_blank"><u>Book a discussion</u></a> to
 explore solutions for your agency’s booking management needs!&nbsp;</p>
-<p>&nbsp;</p>
-<p>Interested to find out more about BookingSG?&nbsp;</p>
-<table style="minWidth: 50px">
-<colgroup>
-<col>
-<col>
-</colgroup>
-<tbody>
-<tr>
-<td rowspan="1" colspan="1">
-<p></p>
-<p>   &nbsp;</p>
-<p><strong><a href="https://www.developer.tech.gov.sg/products/categories/platform/bookingsg/overview.html" rel="noopener noreferrer nofollow" target="_blank"><u>Learn more about its features on the Singapore Government Developer Portal</u></a></strong>
-<a href="https://www.developer.tech.gov.sg/products/categories/platform/bookingsg/overview.html" rel="noopener noreferrer nofollow" target="_blank"><u> </u>
-</a>  &nbsp;</p>
-<p><a href="https://www.developer.tech.gov.sg/products/categories/platform/bookingsg/overview.html%22%20/t%20%22_blank" rel="noopener noreferrer nofollow" target="_blank"><u>Learn more on SGDP </u></a>&nbsp;</p>
-<p> &nbsp;</p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-<p> &nbsp;</p>
-<p>Visit the BookingSG website&nbsp;</p>
-<p><a href="https://home.booking.gov.sg/" rel="noopener noreferrer nofollow" target="_blank"><u>BookingSG</u></a>&nbsp;</p>
-</td>
-</tr>
-</tbody>
-</table>
+<h3>Interested to find out more about BookingSG?&nbsp;</h3>
+<div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="https://www.developer.tech.gov.sg/products/categories/platform/bookingsg/overview.html" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Learn more about its features on the Singapore Government Developer Portal" src="/images/CTA card images/Visit_the_SGDP_Portal.png"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Learn more about its features on the Singapore Government Developer Portal  </div><div class="isomer-card-link">Learn more on SGDP</div></div></a>
+<a rel="noopener noreferrer nofollow" href="https://home.booking.gov.sg/" class="isomer-card">
+<div class="isomer-card-image">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Visit the BookingSG website" src="/images/CTA card images/Visit_the_product_website.png">
+</div>
+</div>
+<div class="isomer-card-body">
+<div class="isomer-card-title">Visit the BookingSG website</div>
+<div class="isomer-card-link">Go to BookingSG website</div>
+</div>
+</a>
+</div>
 <p>  &nbsp;</p>
 <p>&nbsp;</p>
 <p>
