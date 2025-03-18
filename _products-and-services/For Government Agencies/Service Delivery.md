@@ -17,18 +17,19 @@ social and public service initiatives, while BookingSG offers a unified
 appointment and resource management system across Whole-of-Government.
 These solutions help agencies optimise workflows, automate processes, and
 deliver seamless services to the public.</p>
-<h3>Explore our products for service delivery </h3>
-<div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="/products-and-services/for-government-agencies/service-delivery/bookingsg/" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="BookingSG" src="/images/Products and Services/For Government Agencies/BookingSG_logo_600x400.png"></div></div><div class="isomer-card-body"><div class="isomer-card-title">This is a title for your card</div><div class="isomer-card-description">BookingSG streamlines appointment and resource management for government agencies, automating scheduling and simplifying bookings.</div><div class="isomer-card-link">Explore BookingSG</div></div></a>
-<a rel="noopener noreferrer nofollow" href="https://www.isomer.gov.sg" class="isomer-card">
+<h3>Explore our products for service delivery</h3>
+<div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="/products-and-services/for-government-agencies/service-delivery/bookingsg/" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="BookingSG" src="/images/Products and Services/For Government Agencies/BookingSG_logo_600x400.png"></div></div><div class="isomer-card-body"><div class="isomer-card-title">BookingSG</div><div class="isomer-card-description">BookingSG streamlines appointment and resource management for government agencies, automating scheduling and simplifying bookings.</div><div class="isomer-card-link">Explore BookingSG</div></div></a>
+<a rel="noopener noreferrer nofollow" href="/products-and-services/for-government-agencies/service-delivery/gathersg/" class="isomer-card">
 <div class="isomer-card-image">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Placeholder image" src="https://placehold.co/600x400">
+<img style="width: 100%" height="auto" width="100%" alt="A case management and coordination system, GatherSG helps public and social service agencies digitalise their operations." src="/images/Products and Services/For Government Agencies/GatherSG_logo_600x400.png">
 </div>
 </div>
 <div class="isomer-card-body">
-<div class="isomer-card-title">This is a title for your card</div>
-<div class="isomer-card-description">This is body text for your card. Describe your card.</div>
-<div class="isomer-card-link">This is a link for your card</div>
+<div class="isomer-card-title">GatherSG</div>
+<div class="isomer-card-description">A case management and coordination system, GatherSG helps public and social
+service agencies digitalise their operations.</div>
+<div class="isomer-card-link">Explore GatherSG</div>
 </div>
 </a>
 </div>
