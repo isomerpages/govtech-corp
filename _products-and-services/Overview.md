@@ -137,13 +137,13 @@ with ease.</div>
 <a rel="noopener noreferrer nofollow" href="/products-and-services/for-government-agencies/service-delivery/" class="isomer-card">
 <div class="isomer-card-image">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="A lightweight case management and coordination system, GatherSG aims to help social service and public service agencies digitalise their operations in a fuss-free manner." src="/images/Products and Services/Product overview card images/Service_Delivery_compressed.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="Enhancing case management, coordination, and appointment scheduling to improve service delivery efficiency across government agencies." src="/images/Products and Services/Product overview card images/Service_Delivery_compressed.jpg">
 </div>
 </div>
 <div class="isomer-card-body">
 <div class="isomer-card-title">Service Delivery</div>
-<div class="isomer-card-description">A case management and coordination system, GatherSG enables social service
-and public service agencies to digitalise their operations.</div>
+<div class="isomer-card-description">Enhancing case management, coordination, and appointment scheduling to
+improve service delivery efficiency across government agencies.</div>
 <div class="isomer-card-link">Find out more</div>
 </div>
 </a><a rel="noopener noreferrer nofollow" href="/products-and-services/for-government-agencies/software-development/" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="GovTech has developed software stacks to help public officers build digital government services with ease." src="/images/Products and Services/Product overview card images/Software_Development.png"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Software Development</div><div class="isomer-card-description">Introducing software stacks to help public officers build digital government services that are efficient and consistent.</div><div class="isomer-card-link">Find out more</div></div></a>
