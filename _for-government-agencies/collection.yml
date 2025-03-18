@@ -2,7 +2,6 @@ collections:
   for-government-agencies:
     output: true
     order:
-      - Service Delivery/.keep
       - Data & AI/.keep
       - Data & AI/AnalyticsGov.md
       - Data & AI/Video Analytics System.md
@@ -16,8 +15,8 @@ collections:
       - ICT and Infrastructure/.keep
       - ICT and Infrastructure/Data Loss Prevention.md
       - ICT and Infrastructure/Secure Internet Surfing.md
-      - Productivity and Marketing/AIBots.md
       - Productivity and Marketing/.keep
+      - Productivity and Marketing/AIBots.md
       - Productivity and Marketing/gogovsg.md
       - Productivity and Marketing/Digital Workplace.md
       - Productivity and Marketing/FormSG.md
@@ -27,6 +26,7 @@ collections:
       - Productivity and Marketing/SearchSG.md
       - Productivity and Marketing/SmartCompose.md
       - Productivity and Marketing/Transcribe.md
+      - Service Delivery/.keep
       - Software Development/.keep
       - Software Development/Singapore Government Tech Stack.md
       - Software Development/Government on Commercial Cloud.md
