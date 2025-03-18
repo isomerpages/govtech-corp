@@ -20,8 +20,8 @@ employers.&nbsp;</p>
 </ul>
 <ul>
 <li>
-<p>Digital MC can only be accessed via a unique link hosted under the <a href="https://site.mc.gov.sg/faq/" rel="noopener noreferrer nofollow" target="_blank"><u>mc.gov.sg</u></a> domain,
-cementing its authenticity and security.&nbsp;</p>
+<p>Digital MC can only be accessed via a unique link hosted under the mc.gov.sg
+domain, cementing its authenticity and security.&nbsp;</p>
 </li>
 </ul>
 <ul>
