@@ -9,7 +9,7 @@ image: /images/Products and Services/For Government Agencies/AIBots_logo_600x400
 ---
 <h2>Customise RAG Generative AI Chatbots for various use cases with AIBots&nbsp;</h2>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="AIBots logo" src="/images/Products and Services/For Government Agencies/AIBots.png">
+<img style="width: 100%" height="auto" width="100%" alt="AIBots logo" src="/images/Products and Services/For Government Agencies/AIBots_logo_600x400.png">
 </div>
 <ul>
 <li>
