@@ -11,9 +11,6 @@ image: /images/Products and Services/For Government
 third_nav_title: Productivity and Marketing
 ---
 <h2>Creating trusted short links with go.gov.sg and for.sg</h2>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="go.gov.sg logo" src="/images/Products and Services/For Government Agencies/go_gov_sg_logo_600x400.png">
-</div>
 <ul>
 <li>
 <p>Secure link shortening for public officers (go.gov.sg) and healthcare
