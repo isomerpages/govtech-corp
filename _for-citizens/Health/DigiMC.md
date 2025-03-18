@@ -90,7 +90,7 @@ date of birth for a one-time unlock of the URL.</div>
 </a><a rel="noopener noreferrer nofollow" href="https://site.mc.gov.sg/employer-faq/" class="isomer-card"><div class="isomer-card-body"><div class="isomer-card-title">Share MC with employer</div><div class="isomer-card-description">Forward the URL to your employer or company HR department.</div><div class="isomer-card-link">FAQ for employers</div></div></a>
 </div>
 <h3> Interested to find out more about DigiMC? &nbsp;</h3>
-<div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="https://site.mc.gov.sg/" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Visit the DigiMC website" src="/images/CTA card images/Medium_blog_CTA_631x200.png"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Visit the DigiMC website</div><div class="isomer-card-link">Go to the DigiMC website</div></div></a>
+<div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="https://site.mc.gov.sg/" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Visit the DigiMC website" src="/images/CTA card images/Visit_the_product_website.png"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Visit the DigiMC website</div><div class="isomer-card-link">Go to the DigiMC website</div></div></a>
 <a rel="noopener noreferrer nofollow" href="mailto:info@tech.gov.sg" class="isomer-card">
 <div class="isomer-card-image">
 <div class="isomer-image-wrapper">
