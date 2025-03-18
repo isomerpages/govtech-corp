@@ -119,11 +119,11 @@ track click-throughs.</div>
 <ol start="2" data-tight="true" class="tight">
 <li>
 <p>Easily generate QR codes to share with others.</p>
-</li>
-</ol>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="Step 2" src="/images/Products and Services/For Government Agencies/go_gov_sg_step2.png">
 </div>
+</li>
+</ol>
 </td>
 </tr>
 <tr>
@@ -131,7 +131,9 @@ track click-throughs.</div>
 <ol start="3">
 <li>
 <p>Mass generate up to 1000 short links using a csv upload.&nbsp;</p>
-<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Step 3" src="/images/Products and Services/For Government Agencies/go_gov_sg_step3.png">
+</div>
 </li>
 </ol>
 </td>
@@ -141,7 +143,9 @@ track click-throughs.</div>
 <ol start="4">
 <li>
 <p>Create tags for your short links to make them easier to find.&nbsp;</p>
-<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Step 4" src="/images/Products and Services/For Government Agencies/go_gov_sg_step4.png">
+</div>
 </li>
 </ol>
 </td>
@@ -151,7 +155,9 @@ track click-throughs.</div>
 <ol start="5">
 <li>
 <p>Find out how your short links are doing using analytics.&nbsp;</p>
-<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Step 5" src="/images/Products and Services/For Government Agencies/go_gov_sg_step5.png">
+</div>
 </li>
 </ol>
 </td>
@@ -161,7 +167,9 @@ track click-throughs.</div>
 <ol start="6" data-tight="true" class="tight">
 <li>
 <p>Search the directory to find out who owns a link.&nbsp;</p>
-<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Step 6" src="/images/Products and Services/For Government Agencies/go_gov_sg_step6.png">
+</div>
 </li>
 </ol>
 </td>
@@ -171,7 +179,9 @@ track click-throughs.</div>
 <ol start="7">
 <li>
 <p>Connect your existing tech systems to GoGovSG using our APIs.&nbsp;</p>
-<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Step 7" src="/images/Products and Services/For Government Agencies/go_gov_sg_step7.png">
+</div>
 </li>
 </ol>
 </td>
