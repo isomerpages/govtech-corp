@@ -35,47 +35,46 @@ boost the quality of your agency's digital services.</p>
 forms within minutes, and even collect payments for transactions.</div>
 <div class="isomer-card-link">Explore FormSG</div>
 </div>
-</a><a rel="noopener noreferrer nofollow" href="/products-and-services/for-government-agencies/productivity-and-marketing/launchpad/" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="LaunchPad is an AI innovation and experimentation platform designed to kickstart agencies' AI transformation journey" src="/images/Products and Services/For Government Agencies/LaunchPad_600x400.png"></div></div><div class="isomer-card-body"><div class="isomer-card-title">LaunchPad</div><div class="isomer-card-description">This innovation and experimentation platform allows public officers to experience generative AI and the capabilities of large language models.</div><div class="isomer-card-link">Explore LaunchPad</div></div></a>
-<a rel="noopener noreferrer nofollow" href="/products-and-services/for-government-agencies/productivity-and-marketing/pair/" class="isomer-card">
+</a><a rel="noopener noreferrer nofollow" href="/products-and-services/for-government-agencies/productivity-and-marketing/gogovsg/" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Go.gov.sg and for.sg provide secure, official link shorteners for public officers and healthcare professionals, ensuring trusted, phishing-resistant links with customisation, file sharing, and click analytics." src="/images/Products and Services/For Government Agencies/go_gov_sg_logo_600x400.png"></div></div><div class="isomer-card-body"><div class="isomer-card-title">go.gov.sg</div><div class="isomer-card-description">Go.gov.sg and for.sg provide secure, official link shorteners for public officers and healthcare professionals, ensuring trusted, phishing-resistant links with customisation, file sharing, and click analytics.</div><div class="isomer-card-link">Explore go.gov.sg</div></div></a>
+<a rel="noopener noreferrer nofollow" href="/products-and-services/for-government-agencies/productivity-and-marketing/launchpad/" class="isomer-card">
 <div class="isomer-card-image">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Designed for public officers' use, Pair Chat is a virtual personal assistant akin to ChatGPT" src="/images/Products and Services/For Government Agencies/Pair_Chat_600x400.png">
+<img style="width: 100%" height="auto" width="100%" alt="LaunchPad is an AI innovation and experimentation platform designed to kickstart agencies' AI transformation journey" src="/images/Products and Services/For Government Agencies/LaunchPad_600x400.png">
 </div>
 </div>
 <div class="isomer-card-body">
-<div class="isomer-card-title">Pair</div>
-<div class="isomer-card-description">Think ChatGPT, but made even more secure for public officers' use. This
-virtual personal assistant can help write emails, conduct research and
-ideate.</div>
-<div class="isomer-card-link">Explore Pair</div>
+<div class="isomer-card-title">LaunchPad</div>
+<div class="isomer-card-description">This innovation and experimentation platform allows public officers to
+experience generative AI and the capabilities of large language models.</div>
+<div class="isomer-card-link">Explore LaunchPad</div>
 </div>
-</a><a rel="noopener noreferrer nofollow" href="/products-and-services/for-government-agencies/productivity-and-marketing/searchsg/" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="SearchSG" src="/images/Products and Services/For Government Agencies/SearchSG.png"></div></div><div class="isomer-card-body"><div class="isomer-card-title">SearchSG</div><div class="isomer-card-description">SearchSG is an AI-powered, whole-of-government search engine that enhances access to government information with precise results, faster searches, and improved user satisfaction.</div><div class="isomer-card-link">Explore SearchSG</div></div></a>
-<a rel="noopener noreferrer nofollow" href="/products-and-services/for-government-agencies/productivity-and-marketing/smartcompose/" class="isomer-card">
+</a><a rel="noopener noreferrer nofollow" href="/products-and-services/for-government-agencies/productivity-and-marketing/pair/" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Designed for public officers' use, Pair Chat is a virtual personal assistant akin to ChatGPT" src="/images/Products and Services/For Government Agencies/Pair_Chat_600x400.png"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Pair</div><div class="isomer-card-description">Think ChatGPT, but made even more secure for public officers' use. This virtual personal assistant can help write emails, conduct research and ideate.</div><div class="isomer-card-link">Explore Pair</div></div></a>
+<a rel="noopener noreferrer nofollow" href="/products-and-services/for-government-agencies/productivity-and-marketing/searchsg/" class="isomer-card">
 <div class="isomer-card-image">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="SmartCompose" src="/images/Products and Services/For Government Agencies/SmartCompose.png">
+<img style="width: 100%" height="auto" width="100%" alt="SearchSG" src="/images/Products and Services/For Government Agencies/SearchSG.png">
 </div>
 </div>
 <div class="isomer-card-body">
-<div class="isomer-card-title">SmartCompose</div>
-<div class="isomer-card-description">SmartCompose is an AI-powered writing assistant designed to help public
-officers draft thoughtful, secure, and efficient responses, enhancing productivity
-and public service delivery.</div>
-<div class="isomer-card-link">Explore SmartCompose</div>
+<div class="isomer-card-title">SearchSG</div>
+<div class="isomer-card-description">SearchSG is an AI-powered, whole-of-government search engine that enhances
+access to government information with precise results, faster searches,
+and improved user satisfaction.</div>
+<div class="isomer-card-link">Explore SearchSG</div>
 </div>
-</a><a rel="noopener noreferrer nofollow" href="/products-and-services/for-government-agencies/productivity-and-marketing/transcribe/" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Transcribe comes with auto-transcription technologies that cut time" src="/images/Products and Services/For Government Agencies/Transcribe_600x400.png"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Transcribe</div><div class="isomer-card-description">This Speech-to-Text platform offers auto-transcription technologies that help public officers save time on otherwise tedious tasks.</div><div class="isomer-card-link">Explore Transcribe</div></div></a>
-<a rel="noopener noreferrer nofollow" href="/products-and-services/for-government-agencies/productivity-and-marketing/vica/" class="isomer-card">
+</a><a rel="noopener noreferrer nofollow" href="/products-and-services/for-government-agencies/productivity-and-marketing/smartcompose/" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="SmartCompose" src="/images/Products and Services/For Government Agencies/SmartCompose.png"></div></div><div class="isomer-card-body"><div class="isomer-card-title">SmartCompose</div><div class="isomer-card-description">SmartCompose is an AI-powered writing assistant designed to help public officers draft thoughtful, secure, and efficient responses, enhancing productivity and public service delivery.</div><div class="isomer-card-link">Explore SmartCompose</div></div></a>
+<a rel="noopener noreferrer nofollow" href="/products-and-services/for-government-agencies/productivity-and-marketing/transcribe/" class="isomer-card">
 <div class="isomer-card-image">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="VICA, GovTech's next-generation virtual assistant platform, is powering government chatbots" src="/images/Products and Services/For Government Agencies/VICA_600x400.png">
+<img style="width: 100%" height="auto" width="100%" alt="Transcribe comes with auto-transcription technologies that cut time" src="/images/Products and Services/For Government Agencies/Transcribe_600x400.png">
 </div>
 </div>
 <div class="isomer-card-body">
-<div class="isomer-card-title">VICA</div>
-<div class="isomer-card-description">The Virtual Intelligent Chat Assistant (VICA) powers government chatbots,
-enabling agencies to interact with and serve citizens and businesses better.</div>
-<div class="isomer-card-link">Explore VICA</div>
+<div class="isomer-card-title">Transcribe</div>
+<div class="isomer-card-description">This Speech-to-Text platform offers auto-transcription technologies that
+help public officers save time on otherwise tedious tasks.</div>
+<div class="isomer-card-link">Explore Transcribe</div>
 </div>
-</a>
+</a><a rel="noopener noreferrer nofollow" href="/products-and-services/for-government-agencies/productivity-and-marketing/vica/" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="VICA, GovTech's next-generation virtual assistant platform, is powering government chatbots" src="/images/Products and Services/For Government Agencies/VICA_600x400.png"></div></div><div class="isomer-card-body"><div class="isomer-card-title">VICA</div><div class="isomer-card-description">The Virtual Intelligent Chat Assistant (VICA) powers government chatbots, enabling agencies to interact with and serve citizens and businesses better.</div><div class="isomer-card-link">Explore VICA</div></div></a>
 </div>
 <p></p>
