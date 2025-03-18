@@ -39,10 +39,10 @@ clicked more than 70 million times.</p>
 </ul>
 <hr>
 <p><a href="https://go.gov.sg/#/" rel="noopener noreferrer nofollow" target="_blank"><u>Go.gov.sg</u></a> and
-<a href="https://for.sg/#/" rel="noopener noreferrer nofollow" target="_blank"><u>for.sg</u>
-</a>are official link shorteners designed to mitigate phishing risks associated
-with commercial link shorteners. Go.gov.sg serves public officers, while
-for.sg caters to healthcare professionals from public healthcare institutions.&nbsp;</p>
+<a href="http://for.sg" rel="noopener noreferrer nofollow" target="_blank">for.sg</a>are official link shorteners designed to mitigate phishing risks
+associated with commercial link shorteners. Go.gov.sg serves public officers,
+while for.sg caters to healthcare professionals from public healthcare
+institutions.&nbsp;</p>
 <p>Go.gov.sg allows any public officer with a government email to create
 official short links with the gov.sg domain for free and in seconds.&nbsp;</p>
 <p>For.sg is part of the healthcare product suite, improving operational
