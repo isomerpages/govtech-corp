@@ -15,8 +15,8 @@ career trajectory, one that is replete with learning and growth opportunities.</
 you need by joining one of GovTech's programmes!</p>
 <p>Ranked among Singapore's top 10 leading graduate employers in IT and Technology
 according to a 2024 survey by <a href="https://gradsingapore.com/singapore100/sector/it-and-technology" rel="noopener noreferrer nofollow" target="_blank">gradsingapore</a>,
-GovTech offers an array of programmes – from a technology boot camp to
-internships and scholarships – to help you achieve your unique career aspirations!</p>
+GovTech offers an array of programmes – from internships to scholarships
+– to help you achieve your unique career aspirations!</p>
 <div class="isomer-card-grid">
 <div class="isomer-card">
 <div class="isomer-card-image">
@@ -49,52 +49,21 @@ senior leaders and mentorships with our qualified experts.</div>
 </div>
 </div>
 <div class="isomer-card-body">
-<div class="isomer-card-title">Bootcamps and mentorship programmes</div>
-<div class="isomer-card-description">From technology bootcamps, internships, scholarships and leadership programmes,
-take part in various exciting projects and learning opportunities.</div>
+<div class="isomer-card-title">Career and mentorship programmes</div>
+<div class="isomer-card-description">From internships and scholarships to leadership programmes, take part
+in various exciting projects and learning opportunities.</div>
 </div>
 </div>
 </div>
 <div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="/careers/why-join-govtech/overview/" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Collaborative work environment with mentorship opportunities with tech experts" src="/images/careers/Students_graduates_overview_631x200.png"></div></div><div class="isomer-card-body"><div class="isomer-card-title">What working at GovTech is like</div><div class="isomer-card-description">Discover what makes us an employer of choice for over 3,000 talents in Singapore!</div><div class="isomer-card-link">Why join GovTech?</div></div></a>
 </div>
-<h3>Find the right programme for you</h3>
-<p>GovTech offers numerous opportunities that will help you expand your career
-horizons. Take a look at the current list of programmes we host.</p>
-<div class="isomer-image-wrapper">
-<img style="width: 80%;" height="auto" width="100%" alt="GovTech's many opportunities for students and graduates." src="/images/careers/infographics_students_grad_22nd_jul.jpg">
-</div>
 <p></p>
-<div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="/careers/students-and-graduates/geekout/" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="GeekOut is a fun-filled bootcamp for young tech enthusiasts" src="/images/careers/Students_graduates_600x300_1.jpg"></div></div><div class="isomer-card-body"><div class="isomer-card-title">GeekOut is a fun-filled boot camp for young tech enthusiasts</div><div class="isomer-card-description">GeekOut is a five-day technology bootcamp for Junior College and Polytechnic students to network with like-minded individuals and gain hands-on experiences with different technologies.</div><div class="isomer-card-link">Explore GeekOut</div></div></a>
-<a rel="noopener noreferrer nofollow" href="/careers/students-and-graduates/internships/" class="isomer-card">
-<div class="isomer-card-image">
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Interns volunteering at an event and networking with each other" src="/images/careers/Students_graduates_600x300_2.jpg">
-</div>
-</div>
-<div class="isomer-card-body">
-<div class="isomer-card-title">Hone your skill sets through internships designed to bring the best out
-of you</div>
-<div class="isomer-card-description">Join a fulfilling Internship Programme and experience our friendly and
-flexible work culture that gives you plenty of room to grow and learn through
-meaningful nationwide projects and first-hand experiences.</div>
-<div class="isomer-card-link">Explore internships</div>
-</div>
-</a>
+<h3>Explore our programmes for students and graduates</h3>
+<p></p>
+<div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="/careers/students-and-graduates/internships/" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Interns volunteering at an event and networking with each other" src="/images/careers/Students_graduates_600x300_2.jpg"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Hone your skill sets through internships designed to bring the best out of you</div><div class="isomer-card-description">Join a fulfilling Internship Programme and experience our friendly and flexible work culture that gives you plenty of room to grow and learn through meaningful nationwide projects and first-hand experiences.</div><div class="isomer-card-link">Explore internships</div></div></a>
 </div>
 <div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="/careers/students-and-graduates/smart-nation-scholarship/" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Smart Nation Scholarship recipients posing for a photo" src="/images/careers/Students_graduates_600x300_3__1_.jpg"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Passionate about digitalisation? The Smart Nation Scholarship is for you!</div><div class="isomer-card-description">Jointly offered by CSA, GovTech, and IMDA, this scholarship provides opportunities to carve out a career pathway in applied technology for the public good.</div><div class="isomer-card-link">Explore scholarship</div></div></a>
-<a rel="noopener noreferrer nofollow" href="/careers/students-and-graduates/technology-associate-programme/" class="isomer-card">
-<div class="isomer-card-image">
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Tech Associate Programme graduate working at GovTech" src="/images/careers/Students_graduates_600x300_4.jpg">
 </div>
-</div>
-<div class="isomer-card-body">
-<div class="isomer-card-title">Develop expertise in tech domains and hone leadership skills with Technology
-Associate Programme (TAP)</div>
-<div class="isomer-card-description">TAP is an exclusive two-year personalised programme designed for you to
-build a strong foundation towards becoming a technology leader.</div>
-<div class="isomer-card-link">Explore TAP</div>
-</div>
-</a>
+<div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="/careers/students-and-graduates/technology-associate-programme/" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Tech Associate Programme graduate working at GovTech" src="/images/careers/Students_graduates_600x300_4.jpg"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Develop expertise in tech domains and hone leadership skills with Technology Associate Programme (TAP)</div><div class="isomer-card-description">TAP is an exclusive two-year personalised programme designed for you to build a strong foundation towards becoming a technology leader.</div><div class="isomer-card-link">Explore TAP</div></div></a>
 </div>
 <p></p>
