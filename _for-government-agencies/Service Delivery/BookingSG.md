@@ -75,6 +75,8 @@ procurement processes and long-term vendor management costs. </div>
 configurable settings, ensuring it meets diverse agency requirements. </div>
 </div>
 </div>
+</div>
+<div class="isomer-card-grid">
 <div class="isomer-card">
 <div class="isomer-card-body">
 <div class="isomer-card-title">Streamlined booking processes</div>
@@ -82,8 +84,6 @@ configurable settings, ensuring it meets diverse agency requirements. </div>
 and booking management, saving time and minimising double bookings.</div>
 </div>
 </div>
-</div>
-<div class="isomer-card-grid">
 <div class="isomer-card">
 <div class="isomer-card-body">
 <div class="isomer-card-title">Tracking and accountability</div>
