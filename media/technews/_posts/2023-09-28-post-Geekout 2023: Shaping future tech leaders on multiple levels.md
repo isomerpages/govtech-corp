@@ -14,7 +14,7 @@ description: Uncover the future of tech at GeekOut 2023! Discover the exciting
 <p>GeekOut is a bootcamp that engages future tech talent from tertiary institutions.
 2023’s event was held on 12-16 June and saw 65 participants split into
 10 groups to engage in an intense, 5-day event culminating in a hackathon.</p>
-<p><em>(The GeekOut bootcamp has been discontinued as of 2025)</em>
+<p><em>(Update: The GeekOut bootcamp has been discontinued as of 2025)</em>
 </p>
 <h3>A special mission for TAPers</h3>
 <p>While students are definitely the highlight of these events, the initiative
