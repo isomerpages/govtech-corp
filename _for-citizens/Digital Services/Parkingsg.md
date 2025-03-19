@@ -37,7 +37,7 @@ eliminating the worry of overpaying for parking.&nbsp;</p>
 </div>
 <h3>Why use Parking.sg? &nbsp;</h3>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Parking.sg app" src="/images/Products and Services/For citizens/Parking_sg_display.png">
+<img style="width: 70%;" height="auto" width="100%" alt="Parking.sg app" src="/images/Products and Services/For citizens/Parking_sg_display.png">
 </div>
 <p>Parking.sg replaces paper parking coupons for a more convenient parking
 experience. Here's how:&nbsp;</p>
