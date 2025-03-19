@@ -82,9 +82,11 @@ a regular employee. I was encouraged to speak up during meetings, and I
 felt like an important member of my team.</p>
 <h3>Share with us what was the one memorable thing that happened/you did during your internship?</h3>
 <p>Merlin: One of my most memorable experiences was being allowed to serve
-on the organising committee for the annual&nbsp;<a href="/careers/students-and-graduates/geekout/" class="editor-rtfLink" rel="noopener noreferrer nofollow" target="_blank">GeekOut</a>&nbsp;boot
-camp. I was able to shadow my colleagues and learn about the process of
-organising an online event.</p>
+on the organising committee for the annual GeekOut bootcamp. I was able
+to shadow my colleagues and learn about the process of organising an online
+event.</p>
+<p><em>(Update: The GeekOut bootcamp has been discontinued as of 2025.)</em>
+</p>
 <p>What was even more incredible for me was the opportunity to attend various
 workshops and learn about the various roles/functions each team performs,
 which most of us would not have had the opportunity to know. It was remarkable
