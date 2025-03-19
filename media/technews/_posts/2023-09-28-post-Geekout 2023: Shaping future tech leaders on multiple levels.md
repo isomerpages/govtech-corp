@@ -11,11 +11,11 @@ description: Uncover the future of tech at GeekOut 2023! Discover the exciting
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="The winning team of Geekout 2023 – a boot camp for tech talent from tertiary institutions" src="/images/technews/Geekout_2023__Shaping_future_tech_leaders_on_multiple_levels.jpg">
 </div>
-<p>Every year, our Technology Associates (TAPpers) of GovTech’s Technology
-Associate Programme organise <a href="/careers/students-and-graduates/geekout/" rel="noopener noreferrer nofollow" target="_blank">GeekOut</a> – a boot camp
-that engages future tech talent from tertiary institutions.</p>
-<p>2023’s event was held on 12-16 June and saw 65 participants split into
+<p>GeekOut is a bootcamp that engages future tech talent from tertiary institutions.
+2023’s event was held on 12-16 June and saw 65 participants split into
 10 groups to engage in an intense, 5-day event culminating in a hackathon.</p>
+<p><em>(The GeekOut bootcamp has been discontinued as of 2025)</em>
+</p>
 <h3>A special mission for TAPers</h3>
 <p>While students are definitely the highlight of these events, the initiative
 also allows graduating members TAPpers to sharpen their leadership skills.</p>
