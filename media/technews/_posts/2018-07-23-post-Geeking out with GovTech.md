@@ -11,10 +11,13 @@ variant: tiptap
 <img style="width: 100%" height="auto" width="100%" alt="geeking out with govtech" src="/images/technews/geeking-out-with-govtech-part-1.jpg">
 </div>
 <p>TL:DR: Students from junior colleges and universities built and raced
-Arduino-based smart cars at GovTech’s GeekOut boot-camp, which ran from
+Arduino-based smart cars at GovTech’s GeekOut bootcamp, which ran from
 18-22 June 2018. The workshop was facilitated by GovTech’s technical experts,
 who helped students troubleshoot problems. TechNews spoke to the winners
-of the smart car race about their experience at the five-day programme</p>
+of the smart car race about their experience at the five-day programme.</p>
+<p></p>
+<p><em>(Update: The GeekOut bootcamp has been discontinued as of 2025.)</em>
+</p>
 <hr>
 <p>There was a time when being called a ‘geek’ seemed like a bad thing. Not
 anymore—with deep technology and digital disruption taking the world by

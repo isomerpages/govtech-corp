@@ -48,7 +48,7 @@ parents, and teachers with Parents Gateway and Student Learning Space.</div>
 our digital tools allow users to take charge of their own health.</div>
 <div class="isomer-card-link">Find out more</div>
 </div>
-</a><a rel="noopener noreferrer nofollow" href="/products-and-services/for-citizens/scam-prevention/" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="GovTech's Scam Analytics and Tactical Intervention System protects users from scam website." src="/images/Products and Services/Product overview card images/Cybersecurity.png"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Scam Prevention</div><div class="isomer-card-description">Our AI-powered Scam Analytics and Tactical Intervention System (SATIS) hunts and disrupts malicious websites such as bank phishing and job scam websites.</div><div class="isomer-card-link">Find out more</div></div></a>
+</a><a rel="noopener noreferrer nofollow" href="/products-and-services/for-citizens/scam-prevention/" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="GovTech's Scam Analytics and Tactical Intervention System protects users from scam website." src="/images/Products and Services/Product overview card images/Cybersecurity.png"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Scam Prevention</div><div class="isomer-card-description">GovTech’s scam prevention solutions help detect, prevent, and combat online threats, ensuring a safer digital environment for everyone.</div><div class="isomer-card-link">Find out more</div></div></a>
 <a rel="noopener noreferrer nofollow" href="/products-and-services/for-citizens/smart-city-tech/" class="isomer-card">
 <div class="isomer-card-image">
 <div class="isomer-image-wrapper">
@@ -133,17 +133,17 @@ with ease.</div>
 <div class="isomer-card-description">Enabling public officers to continuously upskill through Digital Academy.</div>
 <div class="isomer-card-link">Find out more</div>
 </div>
-</a><a rel="noopener noreferrer nofollow" href="https://staging-lite.d2uz1494fahfnj.amplifyapp.com/products-and-services/for-government-agencies/productivity-and-marketing/" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="GovTech has developed a suite of productivity and marketing tools for public officers." src="/images/Products and Services/Product overview card images/Producitivity_and_Marketing.png"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Productivity and Marketing</div><div class="isomer-card-description">Giving public officers access to tools that improve efficiency and effectiveness.</div><div class="isomer-card-link">Find out more</div></div></a>
+</a><a rel="noopener noreferrer nofollow" href="/products-and-services/for-government-agencies/productivity-and-marketing/" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="GovTech has developed a suite of productivity and marketing tools for public officers." src="/images/Products and Services/Product overview card images/Producitivity_and_Marketing.png"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Productivity and Marketing</div><div class="isomer-card-description">Giving public officers access to tools that improve efficiency and effectiveness.</div><div class="isomer-card-link">Find out more</div></div></a>
 <a rel="noopener noreferrer nofollow" href="/products-and-services/for-government-agencies/service-delivery/" class="isomer-card">
 <div class="isomer-card-image">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="A lightweight case management and coordination system, GatherSG aims to help social service and public service agencies digitalise their operations in a fuss-free manner." src="/images/Products and Services/Product overview card images/Service_Delivery_compressed.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="Enhancing case management, coordination, and appointment scheduling to improve service delivery efficiency across government agencies." src="/images/Products and Services/Product overview card images/Service_Delivery_compressed.jpg">
 </div>
 </div>
 <div class="isomer-card-body">
 <div class="isomer-card-title">Service Delivery</div>
-<div class="isomer-card-description">A case management and coordination system, GatherSG enables social service
-and public service agencies to digitalise their operations.</div>
+<div class="isomer-card-description">Enhancing case management, coordination, and appointment scheduling to
+improve service delivery efficiency across government agencies.</div>
 <div class="isomer-card-link">Find out more</div>
 </div>
 </a><a rel="noopener noreferrer nofollow" href="/products-and-services/for-government-agencies/software-development/" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="GovTech has developed software stacks to help public officers build digital government services with ease." src="/images/Products and Services/Product overview card images/Software_Development.png"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Software Development</div><div class="isomer-card-description">Introducing software stacks to help public officers build digital government services that are efficient and consistent.</div><div class="isomer-card-link">Find out more</div></div></a>

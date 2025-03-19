@@ -7,6 +7,7 @@ collections:
       - Crowdsourcing/Vulnerability Discovery Programme.md
       - Crowdsourcing/Build for Good Hackathon.md
       - Digital Services/.keep
+      - Digital Services/Parkingsg.md
       - Digital Services/Singpass.md
       - Digital Services/LifeSG.md
       - Digital Services/Our Marriage Journey.md
@@ -24,6 +25,11 @@ collections:
       - Environment/.keep
       - Environment/myENV.md
       - Environment/TreesSG.md
+      - Health/DigiMC.md
       - Health/.keep
       - Health/Healthy 365.md
       - Health/Health Appointment System.md
+      - Scam Prevention/.keep
+      - Scam Prevention/Scam Analytics and Tactical Intervention System
+        (SATIS).md
+      - Scam Prevention/ScamShield.md

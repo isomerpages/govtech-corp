@@ -22,18 +22,32 @@ users' queries and provides information resources.</p>
 <p>Intuitive yet easy to use, these products will ultimately enable you to
 boost the quality of your agency's digital services.</p>
 <h3>Explore our products for productivity and marketing</h3>
-<div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="/products-and-services/for-government-agencies/productivity-and-marketing/digital-workplace/" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Digital Workplace is a platform that houses a suite of productivity tools and digital enablers" src="/images/Products and Services/For Government Agencies/Digital_Workplace.png"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Digital Workplace</div><div class="isomer-card-description">DWP offers a suite of productivity tools and digital enablers designed to help public officers power through the workday.</div><div class="isomer-card-link">Explore DWP</div></div></a>
-<a rel="noopener noreferrer nofollow" href="/products-and-services/for-government-agencies/productivity-and-marketing/formsg/" class="isomer-card">
+<div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="/products-and-services/for-government-agencies/productivity-and-marketing/aibots/" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="AIBots allows public officers to create custom and secure RAG Generative AI chatbots in minutes, enhancing responses with internal knowledge bases." src="/images/Products and Services/For Government Agencies/AIBots_logo_600x400.png"></div></div><div class="isomer-card-body"><div class="isomer-card-title">AIBots</div><div class="isomer-card-description">AIBots allows public officers to create custom and secure RAG Generative AI chatbots in minutes, enhancing responses with internal knowledge bases.</div><div class="isomer-card-link">Explore AIBots</div></div></a>
+<a rel="noopener noreferrer nofollow" href="/products-and-services/for-government-agencies/productivity-and-marketing/digital-workplace/" class="isomer-card">
 <div class="isomer-card-image">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="FormSG is a tool that public officers in Singapore can use to create secure government forms and even collect payments" src="/images/Products and Services/For Government Agencies/FormSG_600x400.png">
+<img style="width: 100%" height="auto" width="100%" alt="Digital Workplace is a platform that houses a suite of productivity tools and digital enablers" src="/images/Products and Services/For Government Agencies/Digital_Workplace.png">
 </div>
 </div>
 <div class="isomer-card-body">
-<div class="isomer-card-title">FormSG</div>
-<div class="isomer-card-description">This is a tool that enables public officers to create digital government
-forms within minutes, and even collect payments for transactions.</div>
-<div class="isomer-card-link">Explore FormSG</div>
+<div class="isomer-card-title">Digital Workplace</div>
+<div class="isomer-card-description">DWP offers a suite of productivity tools and digital enablers designed
+to help public officers power through the workday.</div>
+<div class="isomer-card-link">Explore DWP</div>
+</div>
+</a><a rel="noopener noreferrer nofollow" href="/products-and-services/for-government-agencies/productivity-and-marketing/formsg/" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="FormSG is a tool that public officers in Singapore can use to create secure government forms and even collect payments" src="/images/Products and Services/For Government Agencies/FormSG_600x400.png"></div></div><div class="isomer-card-body"><div class="isomer-card-title">FormSG</div><div class="isomer-card-description">This is a tool that enables public officers to create digital government forms within minutes, and even collect payments for transactions.</div><div class="isomer-card-link">Explore FormSG</div></div></a>
+<a rel="noopener noreferrer nofollow" href="/products-and-services/for-government-agencies/productivity-and-marketing/gogovsg/" class="isomer-card">
+<div class="isomer-card-image">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Go.gov.sg provides secure, official link shorteners for public officers, ensuring trusted, phishing-resistant links with customisation, file sharing, and click analytics." src="/images/Products and Services/For Government Agencies/go_gov_sg_logo_600x400.png">
+</div>
+</div>
+<div class="isomer-card-body">
+<div class="isomer-card-title">go.gov.sg</div>
+<div class="isomer-card-description">Go.gov.sg provides secure, official link shorteners for public officers,
+ensuring trusted, phishing-resistant links with customisation, file sharing,
+and click analytics.</div>
+<div class="isomer-card-link">Explore go.gov.sg</div>
 </div>
 </a><a rel="noopener noreferrer nofollow" href="/products-and-services/for-government-agencies/productivity-and-marketing/launchpad/" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="LaunchPad is an AI innovation and experimentation platform designed to kickstart agencies' AI transformation journey" src="/images/Products and Services/For Government Agencies/LaunchPad_600x400.png"></div></div><div class="isomer-card-body"><div class="isomer-card-title">LaunchPad</div><div class="isomer-card-description">This innovation and experimentation platform allows public officers to experience generative AI and the capabilities of large language models.</div><div class="isomer-card-link">Explore LaunchPad</div></div></a>
 <a rel="noopener noreferrer nofollow" href="/products-and-services/for-government-agencies/productivity-and-marketing/pair/" class="isomer-card">
