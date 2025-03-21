@@ -67,7 +67,7 @@ be allocated a maximum of three seats.</p><a class="isomer-image-wrapper" href="
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>8.30 AM</p>
+<p>8.30AM</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Registration</p>
@@ -75,15 +75,7 @@ be allocated a maximum of three seats.</p><a class="isomer-image-wrapper" href="
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>9.00 AM</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Welcome Greetings</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>9.05 AM</p>
+<p>9.00AM</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Keynote by GovTech Chief Executive, Goh Wei Boon</p>
@@ -91,25 +83,25 @@ be allocated a maximum of three seats.</p><a class="isomer-image-wrapper" href="
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>9.30 AM</p>
+<p>9.30AM</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Panel Discussion 1: &nbsp;Building Better Together: Delivering Impact
-with GovTech Platforms</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>10.15 AM</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Panel Discussion 2: Unlocking Potential: Accelerating Delivery with Commercial
+<p>[Panel Discussion] Building Better Together: Delivering Impact with GovTech
 Platforms</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>11.15 AM</p>
+<p>10.15AM</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>[Panel Discussion] Unlocking Potential: Accelerating Delivery with Commercial
+Platforms</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>11.15AM</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Engagement Booths and Lightning Talks with Light Refreshments</p>
@@ -118,7 +110,7 @@ Platforms</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>1.00 PM</p>
+<p>1.00PM</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>End of Event</p>
