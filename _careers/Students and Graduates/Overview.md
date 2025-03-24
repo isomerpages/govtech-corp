@@ -60,6 +60,10 @@ in various exciting projects and learning opportunities.</div>
 <p></p>
 <h3>Explore our programmes for students and graduates</h3>
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Infographic to guide students and graduates on available GovTech programmes" src="/images/careers/govtech_career_infographic_mar2025.png">
+</div>
+<p></p>
 <div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="/careers/students-and-graduates/internships/" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Interns volunteering at an event and networking with each other" src="/images/careers/Students_graduates_600x300_2.jpg"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Hone your skill sets through internships designed to bring the best out of you</div><div class="isomer-card-description">Join a fulfilling Internship Programme and experience our friendly and flexible work culture that gives you plenty of room to grow and learn through meaningful nationwide projects and first-hand experiences.</div><div class="isomer-card-link">Explore internships</div></div></a>
 </div>
 <div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="/careers/students-and-graduates/smart-nation-scholarship/" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Smart Nation Scholarship recipients posing for a photo" src="/images/careers/Students_graduates_600x300_3__1_.jpg"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Passionate about digitalisation? The Smart Nation Scholarship is for you!</div><div class="isomer-card-description">Jointly offered by CSA, GovTech, and IMDA, this scholarship provides opportunities to carve out a career pathway in applied technology for the public good.</div><div class="isomer-card-link">Explore scholarship</div></div></a>
