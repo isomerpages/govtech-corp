@@ -139,14 +139,14 @@ drive our innovation and success in building a Smart Nation.</div>
 </div>
 <h3>Want to learn more about life at GovTech?</h3>
 <p>Check out our <a href="https://linktr.ee/connectwithgovtech" rel="noopener noreferrer nofollow" target="_blank"><u>social media channels</u></a> to
-explore life #InsideGovTech and our <a href="https://careers.tech.gov.sg/careers/Inside" rel="noopener noreferrer nofollow" target="_blank">career portal</a>!</p>
+explore life #InsideGovTech and our <a href="https://sggovterp.wd102.myworkdayjobs.com/PublicServiceCareers?Agency=27bc56da9e6a01dcff9491800407da09" rel="noopener noreferrer nofollow" target="_blank">career portal</a>!</p>
 <h3>Start your GovTech journey today</h3>
 <p>Whether you're a student, graduate or working professional, many opportunities
 await you at GovTech. Help us to advance our mission and shape your future
 at GovTech!</p>
 <p>Find out more about joining GovTech by clicking below.</p>
 <div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="/careers/students-and-graduates/overview/" class="isomer-card"><div class="isomer-card-body"><div class="isomer-card-title">I am a student or graduate</div><div class="isomer-card-link">Explore internship/career opportunities</div></div></a>
-<a rel="noopener noreferrer nofollow" href="https://careers.tech.gov.sg/careers/SearchJobs" class="isomer-card">
+<a rel="noopener noreferrer nofollow" href="https://sggovterp.wd102.myworkdayjobs.com/PublicServiceCareers?Agency=27bc56da9e6a01dcff9491800407da09" class="isomer-card">
 <div class="isomer-card-body">
 <div class="isomer-card-title">I am a professional</div>
 <div class="isomer-card-link">Explore our job openings</div>
