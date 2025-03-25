@@ -19,7 +19,7 @@ may just be the right fit! At GovTech, you'll work on purposeful projects
 that serve society and get to collaborate with some of the greatest minds
 in different fields.&nbsp;</p>
 <p>Whether you're a tech or non-tech professional, a junior executive or
-a senior-level manager, there are many <a href="https://careers.tech.gov.sg/careers/SearchJobs" rel="noopener noreferrer nofollow" target="_blank">job opportunities</a> to
+a senior-level manager, there are many <a href="https://sggovterp.wd102.myworkdayjobs.com/PublicServiceCareers?Agency=27bc56da9e6a01dcff9491800407da09" rel="noopener noreferrer nofollow" target="_blank">job opportunities</a> to
 explore. But first, here are the reasons why you should consider a career
 at GovTech.</p>
 <div class="isomer-card-grid">
@@ -63,7 +63,7 @@ on leveraging emerging technologies to deliver citizen-centric solutions.</div>
 </div>
 <p>Need more reasons to join GovTech? Learn more about our <a href="/careers/why-join-govtech/overview/" rel="noopener noreferrer nofollow" target="_blank">work culture, award-winning HR policies as well as talent programmes</a>.</p>
 <p></p>
-<div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="https://careers.tech.gov.sg/careers/SearchJobs" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Apply for a job at GovTech" src="/images/careers/Professionals_overview_card_631x200.jpg"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Interested to work at GovTech?</div><div class="isomer-card-link">Apply for a GovTech job</div></div></a>
+<div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="https://sggovterp.wd102.myworkdayjobs.com/PublicServiceCareers?Agency=27bc56da9e6a01dcff9491800407da09" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Apply for a job at GovTech" src="/images/careers/Professionals_overview_card_631x200.jpg"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Interested to work at GovTech?</div><div class="isomer-card-link">Apply for a GovTech job</div></div></a>
 </div>
 <h3>Hear from our GovTechies</h3>
 <p></p>
@@ -89,7 +89,7 @@ I feel grateful to create meaningful impact with them together as a team!"</p>
 <iframe style="border:none;overflow:hidden" height="700" width="393" allowfullscreen="true" frameborder="0" src="https://www.facebook.com/plugins/video.php?height=476&amp;href=https%3A%2F%2Fwww.facebook.com%2FInsideGovTech%2Fvideos%2F384410876943479%2F&amp;show_text=false&amp;width=267&amp;t=0"></iframe>
 </div>
 <div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="/careers/why-join-govtech/how-we-hire/" class="isomer-card"><div class="isomer-card-body"><div class="isomer-card-title">Want to join GovTech and be a part of a highly passionate community?</div><div class="isomer-card-link">Learn how we hire</div></div></a>
-<a rel="noopener noreferrer nofollow" href="https://careers.tech.gov.sg/careers/SearchJobs" class="isomer-card">
+<a rel="noopener noreferrer nofollow" href="https://sggovterp.wd102.myworkdayjobs.com/PublicServiceCareers?Agency=27bc56da9e6a01dcff9491800407da09" class="isomer-card">
 <div class="isomer-card-body">
 <div class="isomer-card-title">Ready to take a big leap in your career?</div>
 <div class="isomer-card-link">Apply for a GovTech job</div>

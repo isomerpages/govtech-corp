@@ -55,10 +55,14 @@ in various exciting projects and learning opportunities.</div>
 </div>
 </div>
 </div>
-<div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="/careers/why-join-govtech/overview/" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Collaborative work environment with mentorship opportunities with tech experts" src="/images/careers/Students_graduates_overview_631x200.png"></div></div><div class="isomer-card-body"><div class="isomer-card-title">What working at GovTech is like</div><div class="isomer-card-description">Discover what makes us an employer of choice for over 3,000 talents in Singapore!</div><div class="isomer-card-link">Why join GovTech?</div></div></a>
+<div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="https://medium.com/ytpo-govtech/tagged/internship-experience" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Collaborative work environment with mentorship opportunities with tech experts" src="/images/careers/Students_graduates_overview_631x200.png"></div></div><div class="isomer-card-body"><div class="isomer-card-title">What working at GovTech is like</div><div class="isomer-card-description">Read what our young talents have to say about their GovTech experience via our Medium blog!</div><div class="isomer-card-link">Read our Medium blog</div></div></a>
 </div>
 <p></p>
 <h3>Explore our programmes for students and graduates</h3>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Infographic to guide students and graduates on available GovTech programmes" src="/images/careers/govtech_career_infographic_mar2025.png">
+</div>
 <p></p>
 <div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="/careers/students-and-graduates/internships/" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Interns volunteering at an event and networking with each other" src="/images/careers/Students_graduates_600x300_2.jpg"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Hone your skill sets through internships designed to bring the best out of you</div><div class="isomer-card-description">Join a fulfilling Internship Programme and experience our friendly and flexible work culture that gives you plenty of room to grow and learn through meaningful nationwide projects and first-hand experiences.</div><div class="isomer-card-link">Explore internships</div></div></a>
 </div>

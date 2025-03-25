@@ -99,9 +99,9 @@ sections:
           linktext: JOIN TECH KAKI
           url: https://go.gov.sg/communitysignup-gtwebsite
         - title: Apply for GovTech Jobs
-          description: Browse for available job opportunities on GovTech's career portal.
+          description: Browse for available job opportunities on Careers@Gov.
           linktext: APPLY FOR JOBS
-          url: https://careers.tech.gov.sg/careers/SearchJobs
+          url: https://sggovterp.wd102.myworkdayjobs.com/PublicServiceCareers?Agency=27bc56da9e6a01dcff9491800407da09
   - announcements:
       title: GovTech Events
       id: announcements

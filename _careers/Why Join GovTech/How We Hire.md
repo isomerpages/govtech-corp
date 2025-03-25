@@ -26,7 +26,7 @@ and artificial intelligence, digital infrastructure and smart city technology.</
 <p>Does the thought of being at the forefront of shaping Singapore's tech
 future fill you with excitement? If so, consider embarking on a fulfilling
 career with us! Here's a look at our hiring process.</p>
-<div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="https://careers.tech.gov.sg/careers/SearchJobs" class="isomer-card"><div class="isomer-card-body"><div class="isomer-card-title">1. Apply</div><div class="isomer-card-description">Spot an available role that is right up your alley? Apply for it on our Careers Portal.</div><div class="isomer-card-link">Apply for a GovTech job</div></div></a>
+<div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="https://sggovterp.wd102.myworkdayjobs.com/PublicServiceCareers?Agency=27bc56da9e6a01dcff9491800407da09" class="isomer-card"><div class="isomer-card-body"><div class="isomer-card-title">1. Apply</div><div class="isomer-card-description">Spot an available role that is right up your alley? Apply for it on Careers@Gov.</div><div class="isomer-card-link">Apply for a GovTech job</div></div></a>
 <div class="isomer-card">
 <div class="isomer-card-body">
 <div class="isomer-card-title">2. Interviews</div>
@@ -121,7 +121,7 @@ cons of using generative AI to craft your resume.⁣</p>
 <script src="//www.instagram.com/embed.js" async="true"></script>
 </div>
 <h3>Ready to explore a GovTech career?</h3>
-<div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="https://careers.tech.gov.sg/careers/SearchJobs" class="isomer-card"><div class="isomer-card-body"><div class="isomer-card-title">Are you a working professional? Take your career to new heights today</div><div class="isomer-card-link">Apply for a GovTech job</div></div></a>
+<div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="https://sggovterp.wd102.myworkdayjobs.com/PublicServiceCareers?Agency=27bc56da9e6a01dcff9491800407da09" class="isomer-card"><div class="isomer-card-body"><div class="isomer-card-title">Are you a working professional? Take your career to new heights today</div><div class="isomer-card-link">Apply for a GovTech job</div></div></a>
 <a rel="noopener noreferrer nofollow" href="/careers/students-and-graduates/overview/" class="isomer-card">
 <div class="isomer-card-body">
 <div class="isomer-card-title">Are you a student or a graduate? Here's your stepping stone for success</div>

@@ -117,11 +117,11 @@ to undergo a holistic scholarship selection process, which includes a group
 assessment, an individual technical test, as well as interviews with Human
 Resources personnel, Tech Leads and our senior leaders.</p>
 <div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="https://brightsparks.com.sg/profile/SNS/index.php" class="isomer-card"><div class="isomer-card-body"><div class="isomer-card-title">Want to contribute to our Smart Nation agenda?</div><div class="isomer-card-link">Apply to be a scholar</div></div></a>
-<a rel="noopener noreferrer nofollow" href="https://careers.tech.gov.sg/careers/talentcommunity" class="isomer-card">
+<a rel="noopener noreferrer nofollow" href="mailto:AreYouIT@tech.gov.sg" class="isomer-card">
 <div class="isomer-card-body">
-<div class="isomer-card-title">Get updates on scholarship announcements</div>
-<div class="isomer-card-link">Join our community</div>
+<div class="isomer-card-title">Have an enquiry about your application? Reach out to us directly</div>
+<div class="isomer-card-link">AreYouIT@tech.gov.sg</div>
 </div>
-</a><a rel="noopener noreferrer nofollow" href="mailto:AreYouIT@tech.gov.sg" class="isomer-card"><div class="isomer-card-body"><div class="isomer-card-title">Have an enquiry about your application? Reach out to us directly</div><div class="isomer-card-link">AreYouIT@tech.gov.sg</div></div></a>
+</a>
 </div>
 <p></p>
