@@ -8,6 +8,10 @@ description: Industry Engagement brings industry & GovTech together to discuss
 image: ""
 variant: tiptap
 ---
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Industry Engagement 2025 Event Banner" src="/images/IE_2025_Interim_Banner.jpg">
+</div>
 <p>Industry Engagement (IE) 2025 brings together business leaders, industry
 partners, and senior public sector stakeholders for strategic dialogue
 and collaboration. This annual in-person event showcases GovTech's partnership
