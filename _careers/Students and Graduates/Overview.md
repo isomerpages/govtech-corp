@@ -55,7 +55,7 @@ in various exciting projects and learning opportunities.</div>
 </div>
 </div>
 </div>
-<div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="/careers/why-join-govtech/overview/" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Collaborative work environment with mentorship opportunities with tech experts" src="/images/careers/Students_graduates_overview_631x200.png"></div></div><div class="isomer-card-body"><div class="isomer-card-title">What working at GovTech is like</div><div class="isomer-card-description">Discover what makes us an employer of choice for over 3,000 talents in Singapore!</div><div class="isomer-card-link">Why join GovTech?</div></div></a>
+<div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="https://medium.com/ytpo-govtech/tagged/internship-experience" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Collaborative work environment with mentorship opportunities with tech experts" src="/images/careers/Students_graduates_overview_631x200.png"></div></div><div class="isomer-card-body"><div class="isomer-card-title">What working at GovTech is like</div><div class="isomer-card-description">Read what our young talents have to say about their GovTech experience via our Medium blog!</div><div class="isomer-card-link">Read our Medium blog</div></div></a>
 </div>
 <p></p>
 <h3>Explore our programmes for students and graduates</h3>
