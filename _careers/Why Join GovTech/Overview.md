@@ -138,7 +138,7 @@ drive our innovation and success in building a Smart Nation.</div>
 </div>
 <h3>Want to learn more about life at GovTech?</h3>
 <p>Check out our <a href="https://linktr.ee/connectwithgovtech" rel="noopener noreferrer nofollow" target="_blank"><u>social media channels</u></a> to
-explore life #InsideGovTech and our <a href="https://sggovterp.wd102.myworkdayjobs.com/PublicServiceCareers?Agency=27bc56da9e6a01dcff9491800407da09" rel="noopener noreferrer nofollow" target="_blank">career portal</a>!</p>
+explore life #InsideGovTech and our career portal!</p>
 <h3>Start your GovTech journey today</h3>
 <p>Whether you're a student, graduate or working professional, many opportunities
 await you at GovTech. Help us to advance our mission and shape your future
