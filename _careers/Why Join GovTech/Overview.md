@@ -32,14 +32,18 @@ to live.</p>
 <div class="iframe-wrapper">
 <iframe style="max-width: 100%;" height="400" width="100%" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/watch?v=nicrbe5cMFg"></iframe>
 </div>
-<h4>Enhance your skills and relish the joy of continuous learning</h4>
-<p>We are an agency filled with multidisciplinary teams of experts from different
-backgrounds. Every day, you’ll work with innovators and explore how new
-and emerging technologies can streamline operational workflows in the public
-sector as well as enhance our existing solutions.</p>
-<p>What’s more, you’ll gain access to intensive technical training sessions
-as well as enriching courses and workshops from in-house and external learning
-partners, so you can stay ahead of the curve in the constantly-evolving
+<h4>Enhance your skills through exciting opportunities and relish the joy of continuous learning</h4>
+<p>With each new day comes new challenges and exciting opportunities, and
+a chance for you to take them on.</p>
+<p>As an agency filled with multidisciplinary teams of experts from different
+backgrounds, you will be offered exciting projects to work with innovators,
+and explore how new and emerging technologies can streamline and shape
+the way business is done in the government, and how citizens use government
+digital services.</p>
+<p>Look forward to gaining access to learning and development opportunities
+all year round, such as robust technical training sessions, enriching courses
+and workshops from in-house and external learning partners, so you can
+take charge of your own learning and stay ahead of the curve in the constantly-evolving
 tech landscape.</p>
 <p>Embrace internal mobility opportunities and job rotations to upskill continuously,
 master your craft, and realise your full potential.</p>
