@@ -22,14 +22,15 @@ and residents.</p>
 <p>From a rewarding career to HR policies that value your welfare, here are
 the reasons why you should consider working at GovTech.</p>
 <h4>Your life's work will benefit society</h4>
-<p>Embrace your new role as a changemaker. From digital services that bring
-convenience to the masses to critical inventions for navigating unforeseen
+<p>Embrace your role as a changemaker and collaborate with passionate individuals
+to design solutions for real-life problems. From digital services that
+bring convenience to the masses to critical inventions for navigating unforeseen
 crises, the multifaceted projects you undertake will serve and impact the
-public. Find your purpose in building <a href="/our-digital-government-efforts/tech-for-public-good/" rel="noopener noreferrer nofollow" target="_blank">Tech for Public Good</a>,
-and make Singapore an even better place to live.</p>
-<p></p>
+public. Find your purpose in building <a href="/our-digital-government-efforts/tech-for-public-good/" rel="noopener noreferrer nofollow" target="_blank">Tech for Public Good</a> as
+you shape a meaningful tech career and make Singapore an even better place
+to live.</p>
 <div class="iframe-wrapper">
-<iframe style="max-width: 100%;" height="400" width="100%" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/HQ7LhDdcRaQ?si=jtQTnrKSIzxw_DDL"></iframe>
+<iframe style="max-width: 100%;" height="400" width="100%" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/watch?v=nicrbe5cMFg"></iframe>
 </div>
 <h4>Enhance your skills and relish the joy of continuous learning</h4>
 <p>We are an agency filled with multidisciplinary teams of experts from different
