@@ -113,7 +113,7 @@ for you to tap into.</div>
 </div>
 <h3>Interested in joining TAP?</h3>
 <p></p>
-<div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="https://go.gov.sg/connectwithgovtech" class="isomer-card"><div class="isomer-card-body"><div class="isomer-card-title">Connect with us on social media to stay updated on TAP application period!</div><div class="isomer-card-link">Connect with us on social media</div></div></a>
+<div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="https://go.gov.sg/connectwithgovtech" class="isomer-card"><div class="isomer-card-body"><div class="isomer-card-title">Connect with us on social media to stay updated on our TAP application period!</div><div class="isomer-card-link">Connect with us on social media</div></div></a>
 <a rel="noopener noreferrer nofollow" href="mailto:AreYouIT@tech.gov.sg" class="isomer-card">
 <div class="isomer-card-body">
 <div class="isomer-card-title">Have an enquiry? Reach out to us directly</div>
