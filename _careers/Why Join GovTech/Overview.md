@@ -30,7 +30,7 @@ public. Find your purpose in building <a href="/our-digital-government-efforts/t
 you shape a meaningful tech career and make Singapore an even better place
 to live.</p>
 <div class="iframe-wrapper">
-<iframe style="max-width: 100%;" height="400" width="100%" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/watch?v=nicrbe5cMFg"></iframe>
+<iframe style="max-width: 100%;" height="400" width="100%" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/nicrbe5cMFg"></iframe>
 </div>
 <h4>Enhance your skills through exciting opportunities and relish the joy of continuous learning</h4>
 <p>With each new day comes new challenges and exciting opportunities, and
