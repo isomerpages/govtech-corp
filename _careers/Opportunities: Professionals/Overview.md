@@ -89,7 +89,7 @@ I feel grateful to create meaningful impact with them together as a team!"</p>
 <iframe style="border:none;overflow:hidden" height="700" width="393" allowfullscreen="true" frameborder="0" src="https://www.facebook.com/plugins/video.php?height=476&amp;href=https%3A%2F%2Fwww.facebook.com%2FInsideGovTech%2Fvideos%2F384410876943479%2F&amp;show_text=false&amp;width=267&amp;t=0"></iframe>
 </div>
 <div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="/careers/why-join-govtech/how-we-hire/" class="isomer-card"><div class="isomer-card-body"><div class="isomer-card-title">Want to join GovTech and be a part of a highly passionate community?</div><div class="isomer-card-link">Learn how we hire</div></div></a>
-<a rel="noopener noreferrer nofollow" href="https://careers.tech.gov.sg/careers/SearchJobs" class="isomer-card">
+<a rel="noopener noreferrer nofollow" href="https://sggovterp.wd102.myworkdayjobs.com/PublicServiceCareers?Agency=27bc56da9e6a01dcff9491800407da09" class="isomer-card">
 <div class="isomer-card-body">
 <div class="isomer-card-title">Ready to take a big leap in your career?</div>
 <div class="isomer-card-link">Apply for a GovTech job</div>
