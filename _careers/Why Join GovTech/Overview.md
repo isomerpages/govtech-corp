@@ -47,14 +47,6 @@ take charge of your own learning and stay ahead of the curve in the constantly-e
 tech landscape.</p>
 <p>Embrace internal mobility opportunities and job rotations to upskill continuously,
 master your craft, and realise your full potential.</p>
-<h4>Work for a reputable employer</h4>
-<p>“Is GovTech a good employer?” That’s a question on every interested jobseeker’s
-mind. As a caring employer, we put the interests of our people — whom we
-call “GovTechies” — at the heart of everything we do. We believe our awards
-speak volumes about our vibrant and employee-friendly workplace!</p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="GovTech's HR and workplace-related awards" src="/images/careers/Awards.png">
-</div>
 <h4>Get on the leadership track</h4>
 <p>We see all incoming GovTechies as future leaders. Guided by the three
 key principles under our Leadership Competency Framework — Act with Purpose,
