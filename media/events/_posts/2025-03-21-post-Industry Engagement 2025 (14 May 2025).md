@@ -32,9 +32,9 @@ initiatives.</p>
 <p>Learn about new ways to collaborate with the public sector.</p>
 </li>
 </ul>
-<p>Be part of shaping Singapore's digital future. <a href="https://www.gevme.com/industryengagement2025" rel="noopener nofollow" target="_blank">Register your interest</a> for
-Industry Engagement 2025 today! Due to limited capacity, each company will
-be allocated a maximum of three seats.</p><a class="isomer-image-wrapper" href="https://www.gevme.com/industryengagement2025"><img style="width: 50%;" height="auto" width="100%" alt="" src="/images/OpenAI_Hackathon__CTA_button.png"></a>
+<p>Be part of shaping Singapore's digital future.</p>
+<p><em>Registration opening soon.</em>
+</p>
 <h3>Event Details:</h3>
 <ul data-tight="true" class="tight">
 <li>
