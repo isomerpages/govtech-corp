@@ -12,11 +12,10 @@ image: /images/careers/Careers_overview_meta_image_compressed.jpg
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="Employees working at GovTech bonding over a game of foosball" src="/images/careers/Why_join_GovTech_banner_1690x800.jpg">
 </div>
-<p>A <a href="https://sggovterp.wd102.myworkdayjobs.com/PublicServiceCareers?Agency=27bc56da9e6a01dcff9491800407da09" rel="noopener noreferrer nofollow" target="_blank">GovTech career</a> is
-one that’s filled with purpose and meaning. Our digital transformation
-projects underpin Singapore’s efforts to build a Smart Nation, a home where
-possibilities are powered by technology and engineering solutions. The
-work you do here will hence better the lives of all Singaporean citizens
+<p>A GovTech career is one that’s filled with purpose and meaning. Our digital
+transformation projects underpin Singapore’s efforts to build a Smart Nation,
+a home where possibilities are powered by technology and engineering solutions.
+The work you do here will hence better the lives of all Singaporean citizens
 and residents.</p>
 <h3>Why join GovTech?</h3>
 <p>From a rewarding career to HR policies that value your welfare, here are
