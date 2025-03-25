@@ -102,7 +102,7 @@ more testimonials and sharing from past interns.</p>
 <p></p>
 <h3>Interested to join us as a #GovTechIntern?</h3>
 <p></p>
-<div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="https://go.gov.sg/govtechtalentcommunity" class="isomer-card"><div class="isomer-card-body"><div class="isomer-card-title">Join our talent community to stay updated on the next internship application period</div><div class="isomer-card-link">Join our talent community</div></div></a>
+<div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="https://go.gov.sg/govtechtalentcommunity" class="isomer-card"><div class="isomer-card-body"><div class="isomer-card-title">Connect with us on LinkedIn and Instagram to stay updated on our internship application period!</div><div class="isomer-card-link">Join our talent community</div></div></a>
 </div>
 <p>For enquiries, please email <a href="mailto:AreYouIT@tech.gov.sg" rel="noopener noreferrer nofollow" target="_blank"><u>AreYouIT@tech.gov.sg</u></a>.</p>
 <p></p>
