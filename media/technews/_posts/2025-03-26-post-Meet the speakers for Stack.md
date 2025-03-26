@@ -189,7 +189,10 @@ industry.</p>
 </div>
 </div>
 </div>
-<h4><strong>Track 1: </strong>AI x Cybersecurity</h4>
+<h3><strong>Track 1: </strong>AI x Cybersecurity</h3>
+<h4>Panel</h4>
+<p></p>
+<h4>Presentation</h4>
 <div class="isomer-card-grid">
 <div class="isomer-card">
 <div class="isomer-card-image">
