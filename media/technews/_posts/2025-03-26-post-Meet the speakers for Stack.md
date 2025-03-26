@@ -409,8 +409,7 @@ Threats</div>
 </div>
 </div>
 <hr>
-<h4><strong>Track 3: CISOs of the Future</strong></h4>
-<h4>Panel: CISO Strategies for the Next Era of Cybersecurity</h4>
+<h4><strong>Track 3: CISOs of the Future</strong><br>Panel: CISO Strategies for the Next Era of Cybersecurity</h4>
 <div class="isomer-card-grid">
 <div class="isomer-card">
 <div class="isomer-card-image">
@@ -463,7 +462,7 @@ Threats</div>
 </div>
 </div>
 </div>
-<h4>Presentations</h4>
+<h4><strong>Track 3: CISOs of the Future</strong><br>Presentations</h4>
 <div class="isomer-card-grid">
 <div class="isomer-card">
 <div class="isomer-card-image">
