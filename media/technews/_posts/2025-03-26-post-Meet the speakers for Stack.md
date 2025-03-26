@@ -243,11 +243,11 @@ industry.</p>
 <div class="isomer-card">
 <div class="isomer-card-image">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Bryce BOLAND" src="/images/Stackx Cyber Technew Article/Bryce_Boland___600_x_400.png">
+<img style="width: 100%" height="auto" width="100%" alt="Mr. Bryce BOLAND" src="/images/Stackx Cyber Technew Article/Bryce_Boland___600_x_400.png">
 </div>
 </div>
 <div class="isomer-card-body">
-<div class="isomer-card-title">Bryce BOLAND</div>
+<div class="isomer-card-title">Mr. Bryce BOLAND</div>
 <div class="isomer-card-description">Amazon’s approach to AI security</div>
 </div>
 </div>
@@ -293,21 +293,21 @@ Threats</div>
 <div class="isomer-card">
 <div class="isomer-card-image">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Heng Mok" src="https://placehold.co/600x400">
+<img style="width: 100%" height="auto" width="100%" alt="Mr. Heng MOK" src="/images/Stackx Cyber Technew Article/Mr__heng_mok___600_x_425.png">
 </div>
 </div>
 <div class="isomer-card-body">
-<div class="isomer-card-title">Heng Mok</div>
+<div class="isomer-card-title">Mr. Heng MOK</div>
 </div>
 </div>
 <div class="isomer-card">
 <div class="isomer-card-image">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Chen Jun" src="https://placehold.co/600x400">
+<img style="width: 100%" height="auto" width="100%" alt="Mr. CHEN Jun" src="/images/Stackx Cyber Technew Article/Mr__chen_jun___600_x_424.png">
 </div>
 </div>
 <div class="isomer-card-body">
-<div class="isomer-card-title">Chen Jun</div>
+<div class="isomer-card-title">Mr. CHEN Jun</div>
 </div>
 </div>
 <div class="isomer-card">
@@ -343,11 +343,11 @@ Threats</div>
 <div class="isomer-card">
 <div class="isomer-card-image">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Bernard TAN (Moderator)" src="https://placehold.co/600x400">
+<img style="width: 100%" height="auto" width="100%" alt="Mr. Bernard TAN (Moderator)" src="/images/Stackx Cyber Technew Article/Mr__bernard_tan___600_x_424.png">
 </div>
 </div>
 <div class="isomer-card-body">
-<div class="isomer-card-title">Bernard TAN (Moderator)</div>
+<div class="isomer-card-title">Mr. Bernard TAN (Moderator)</div>
 </div>
 </div>
 </div>
@@ -356,29 +356,29 @@ Threats</div>
 <div class="isomer-card">
 <div class="isomer-card-image">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Henry ONG" src="https://placehold.co/600x400">
+<img style="width: 100%" height="auto" width="100%" alt="Mr. Henry ONG" src="https://placehold.co/600x400">
 </div>
 </div>
 <div class="isomer-card-body">
-<div class="isomer-card-title">Henry ONG</div>
+<div class="isomer-card-title">Mr. Henry ONG</div>
 <div class="isomer-card-description">Securing Sensitive Data in the Cloud: The Rise of Cloud Adoption</div>
 </div>
 </div>
 <div class="isomer-card">
 <div class="isomer-card-image">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Jeff DISTASIO" src="https://placehold.co/600x400">
+<img style="width: 100%" height="auto" width="100%" alt="Mr. Jeff DISTASIO" src="https://placehold.co/600x400">
 </div>
 </div>
 <div class="isomer-card-body">
-<div class="isomer-card-title">Jeff DISTASIO</div>
+<div class="isomer-card-title">Mr. Jeff DISTASIO</div>
 <div class="isomer-card-description">Crowdstrike Global Threat Report</div>
 </div>
 </div>
 <div class="isomer-card">
 <div class="isomer-card-image">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Mr. Josias TEO" src="https://placehold.co/600x400">
+<img style="width: 100%" height="auto" width="100%" alt="Mr. Josias TEO" src="/images/Stackx Cyber Technew Article/mr_josias_teo.png">
 </div>
 </div>
 <div class="isomer-card-body">
@@ -389,11 +389,11 @@ Threats</div>
 <div class="isomer-card">
 <div class="isomer-card-image">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Kin Zhong" src="https://placehold.co/600x400">
+<img style="width: 100%" height="auto" width="100%" alt="Mr. CHEW Kin Zhong" src="/images/Stackx Cyber Technew Article/Mr__chew_kin_zhong___600_x_423.png">
 </div>
 </div>
 <div class="isomer-card-body">
-<div class="isomer-card-title">Kin Zhong</div>
+<div class="isomer-card-title">Mr. CHEW Kin Zhong</div>
 <div class="isomer-card-description">From Overload to Overlords: Streamlining Cybersecurity in the Government</div>
 </div>
 </div>
@@ -426,21 +426,21 @@ Threats</div>
 <div class="isomer-card">
 <div class="isomer-card-image">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Jonas WALKER" src="https://placehold.co/600x400">
+<img style="width: 100%" height="auto" width="100%" alt="Mr. Jonas WALKER" src="https://placehold.co/600x400">
 </div>
 </div>
 <div class="isomer-card-body">
-<div class="isomer-card-title">Jonas WALKER</div>
+<div class="isomer-card-title">Mr. Jonas WALKER</div>
 </div>
 </div>
 <div class="isomer-card">
 <div class="isomer-card-image">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Murari KALYANARAMI" src="https://placehold.co/600x400">
+<img style="width: 100%" height="auto" width="100%" alt="Mr. Murari KALYANARAMI" src="https://placehold.co/600x400">
 </div>
 </div>
 <div class="isomer-card-body">
-<div class="isomer-card-title">Murari KALYANARAMI</div>
+<div class="isomer-card-title">Mr. Murari KALYANARAMI</div>
 </div>
 </div>
 <div class="isomer-card">
@@ -456,11 +456,11 @@ Threats</div>
 <div class="isomer-card">
 <div class="isomer-card-image">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Rong Hwa (Moderator)" src="https://placehold.co/600x400">
+<img style="width: 100%" height="auto" width="100%" alt="Mr. CHONG Rong Hwa (Moderator)" src="https://placehold.co/600x400">
 </div>
 </div>
 <div class="isomer-card-body">
-<div class="isomer-card-title">Rong Hwa (Moderator)</div>
+<div class="isomer-card-title">Mr. CHONG Rong Hwa (Moderator)</div>
 </div>
 </div>
 </div>
@@ -473,7 +473,7 @@ Threats</div>
 </div>
 </div>
 <div class="isomer-card-body">
-<div class="isomer-card-title">Damien MATHIESON</div>
+<div class="isomer-card-title">Mr. Damien MATHIESON</div>
 <div class="isomer-card-description">To be announced</div>
 </div>
 </div>
