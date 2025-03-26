@@ -58,8 +58,9 @@ in leading cybersecurity strategies and risk management.</div>
 </div>
 </div>
 <p>Attendees can expect to gain insights from leading experts at Google,
-Oracle, Amazon Web Services, Akamai Technologies and other leading companies,
-connect with industry players and stay ahead within the cybersecurity industry.</p>
+<a href="https://www.oracle.com/sg/" rel="noopener nofollow" target="_blank">Oracle</a>, Amazon Web Services, Akamai Technologies and other leading
+companies, connect with industry players and stay ahead within the cybersecurity
+industry.</p>
 <h3><strong>Meet the speakers</strong></h3>
 <h4><strong>Keynotes</strong></h4>
 <div class="isomer-card-grid">
@@ -71,7 +72,7 @@ connect with industry players and stay ahead within the cybersecurity industry.<
 </div>
 <div class="isomer-card-body">
 <div class="isomer-card-title">Mr. Jonathan LUFF</div>
-<div class="isomer-card-description">To be announced</div>
+<div class="isomer-card-description">Global View on Cyber Threat Landscape”</div>
 </div>
 </div>
 <div class="isomer-card">
@@ -82,7 +83,7 @@ connect with industry players and stay ahead within the cybersecurity industry.<
 </div>
 <div class="isomer-card-body">
 <div class="isomer-card-title">Mr. CHUA Kuan Seah</div>
-<div class="isomer-card-description">To be announced</div>
+<div class="isomer-card-description">Singapore’s National Strategy to Deal with Cybersecurity Threats</div>
 </div>
 </div>
 <div class="isomer-card">
@@ -104,12 +105,11 @@ connect with industry players and stay ahead within the cybersecurity industry.<
 </div>
 <div class="isomer-card-body">
 <div class="isomer-card-title">Dr. Neal JETTON</div>
-<div class="isomer-card-description">Have the Criminals Caught Up with Us Yet? – Uncovering the Modus Operandi
-Behind Hidden Criminal Networks</div>
+<div class="isomer-card-description">INTERPOL's Collaborative Approach to Combatting Global Cybercrime Threats</div>
 </div>
 </div>
 </div>
-<h4><strong>Panel Discussion: </strong>The Role of CISOs in Managing Emerging Cybersecurity Threats</h4>
+<h4><strong>Panel Discussion: </strong><em>Security leadership in an age of insecurity</em></h4>
 <div class="isomer-card-grid">
 <div class="isomer-card">
 <div class="isomer-card-image">
