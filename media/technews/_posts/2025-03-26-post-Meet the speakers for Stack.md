@@ -190,14 +190,7 @@ we help one another learn and grow.
 by openly discussing practical insights on secure cloud adoption, AI-driven
 security, and ways to foster a culture where security is everyone's responsibility.
 In return, I look forward to gaining fresh perspectives that will influence
-how I approach security at Google.
-<br>
-</p>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
+how I approach security at Google.</p>
 <hr>
 <h4><strong>Keen to Hear from These Speakers?</strong><br><strong>Register for the <a href="https://go.gov.sg/stackxcyber-technewsarticle" rel="noopener nofollow" target="_blank">STACKx Cybersecurity 2025</a>!</strong><br></h4>
 <hr>
