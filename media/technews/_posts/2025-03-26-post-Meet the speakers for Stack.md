@@ -110,7 +110,6 @@ Behind Hidden Criminal Networks</div>
 </div>
 </div>
 <h4><strong>Panel Discussions:</strong></h4>
-<p></p>
 <div class="isomer-card-grid">
 <div class="isomer-card">
 <div class="isomer-card-image">
@@ -139,7 +138,7 @@ Behind Hidden Criminal Networks</div>
 </div>
 </div>
 <div class="isomer-card-body">
-<div class="isomer-card-title">Ms April CHIN</div>
+<div class="isomer-card-title">Ms. April CHIN</div>
 </div>
 </div>
 <div class="isomer-card">
@@ -159,7 +158,210 @@ Behind Hidden Criminal Networks</div>
 </div>
 </div>
 <div class="isomer-card-body">
-<div class="isomer-card-title">Mr HOO Chuan Wei</div>
+<div class="isomer-card-title">Mr. HOO Chuan Wei</div>
+</div>
+</div>
+<div class="isomer-card">
+<div class="isomer-card-image">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Mr Daryl PEREIRA" src="/images/Stackx Cyber Technew Article/mr_daryl_pereira.png">
+</div>
+</div>
+<div class="isomer-card-body">
+<div class="isomer-card-title">Mr. Daryl PEREIRA</div>
+</div>
+</div>
+<div class="isomer-card">
+<div class="isomer-card-image">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Mr Dennis CHUNG" src="/images/Stackx Cyber Technew Article/mr_dennis_chung.png">
+</div>
+</div>
+<div class="isomer-card-body">
+<div class="isomer-card-title">Mr. Dennis CHUNG</div>
+</div>
+</div>
+<div class="isomer-card">
+<div class="isomer-card-image">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Mr Justiin ANG (Moderator)" src="/images/Stackx Cyber Technew Article/mr_justiin_ang.png">
+</div>
+</div>
+<div class="isomer-card-body">
+<div class="isomer-card-title">Mr. Justiin ANG (Moderator)</div>
+</div>
+</div>
+<div class="isomer-card">
+<div class="isomer-card-image">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Mr Luukas ILVES" src="/images/Stackx Cyber Technew Article/mr_luukas_ilves.png">
+</div>
+</div>
+<div class="isomer-card-body">
+<div class="isomer-card-title">Mr. Luukas ILVES</div>
+</div>
+</div>
+<div class="isomer-card">
+<div class="isomer-card-image">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Mr Raju UPPALAPATI" src="/images/Stackx Cyber Technew Article/mr_raju_uppalapati.png">
+</div>
+</div>
+<div class="isomer-card-body">
+<div class="isomer-card-title">Mr. Raju UPPALAPATI</div>
+</div>
+</div>
+<div class="isomer-card">
+<div class="isomer-card-image">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Mr Koushik RADHAKRISHNAN" src="https://placehold.co/600x400">
+</div>
+</div>
+<div class="isomer-card-body">
+<div class="isomer-card-title">Mr. Koushik RADHAKRISHNAN</div>
+</div>
+</div>
+<div class="isomer-card">
+<div class="isomer-card-image">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Mr Reuben KOH" src="/images/Stackx Cyber Technew Article/mr_reuben_koh.png">
+</div>
+</div>
+<div class="isomer-card-body">
+<div class="isomer-card-title">Mr. Reuben KOH</div>
+</div>
+</div>
+<div class="isomer-card">
+<div class="isomer-card-image">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Mr HUANG Shao Fei" src="https://placehold.co/600x400">
+</div>
+</div>
+<div class="isomer-card-body">
+<div class="isomer-card-title">Mr. HUANG Shao Fei</div>
+</div>
+</div>
+<div class="isomer-card">
+<div class="isomer-card-image">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Prof Simon CHESTERMAN" src="/images/Stackx Cyber Technew Article/prof_simon_chesterman.png">
+</div>
+</div>
+<div class="isomer-card-body">
+<div class="isomer-card-title">Prof. Simon CHESTERMAN</div>
+</div>
+</div>
+<div class="isomer-card">
+<div class="isomer-card-image">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Mr WONG Wai Tuck" src="/images/Stackx Cyber Technew Article/mr__wong_wai_tuck.png">
+</div>
+</div>
+<div class="isomer-card-body">
+<div class="isomer-card-title">Mr. WONG Wai Tuck</div>
+</div>
+</div>
+<div class="isomer-card">
+<div class="isomer-card-image">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Dr LIU Yang" src="/images/Stackx Cyber Technew Article/dr_liu_yang.png">
+</div>
+</div>
+<div class="isomer-card-body">
+<div class="isomer-card-title">Dr. LIU Yang</div>
+</div>
+</div>
+</div>
+<h3><strong>Presentations</strong></h3>
+<div class="isomer-card-grid">
+<div class="isomer-card">
+<div class="isomer-card-image">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Mr Bryce BOLAND" src="/images/Stackx Cyber Technew Article/mr_bryce_boland.png">
+</div>
+</div>
+<div class="isomer-card-body">
+<div class="isomer-card-title">Mr. Bryce BOLAND</div>
+</div>
+</div>
+<div class="isomer-card">
+<div class="isomer-card-image">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Ms Eileen NEO" src="/images/Stackx Cyber Technew Article/ms_eileen_neo.png">
+</div>
+</div>
+<div class="isomer-card-body">
+<div class="isomer-card-title">Ms. Eileen NEO</div>
+</div>
+</div>
+<div class="isomer-card">
+<div class="isomer-card-image">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Mr Eugene NG" src="/images/Stackx Cyber Technew Article/mr_eugene_ng.png">
+</div>
+</div>
+<div class="isomer-card-body">
+<div class="isomer-card-title">Mr. Eugene NG</div>
+</div>
+</div>
+<div class="isomer-card">
+<div class="isomer-card-image">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Mr Henry ONG" src="https://placehold.co/600x400">
+</div>
+</div>
+<div class="isomer-card-body">
+<div class="isomer-card-title">Mr. Henry ONG</div>
+</div>
+</div>
+<div class="isomer-card">
+<div class="isomer-card-image">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Dr Ivan JACOBS" src="/images/Stackx Cyber Technew Article/mr_ivan_jacobs.png">
+</div>
+</div>
+<div class="isomer-card-body">
+<div class="isomer-card-title">Dr. Ivan JACOBS</div>
+</div>
+</div>
+<div class="isomer-card">
+<div class="isomer-card-image">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Mr Jeff DISTASIO" src="https://placehold.co/600x400">
+</div>
+</div>
+<div class="isomer-card-body">
+<div class="isomer-card-title">Mr. Jeff DISTASIO</div>
+</div>
+</div>
+<div class="isomer-card">
+<div class="isomer-card-image">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Mr Josias TEO" src="/images/Stackx Cyber Technew Article/mr_josias_teo.png">
+</div>
+</div>
+<div class="isomer-card-body">
+<div class="isomer-card-title">Mr. Josias TEO</div>
+</div>
+</div>
+<div class="isomer-card">
+<div class="isomer-card-image">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Mr KIM Kuok Chiang" src="/images/Stackx Cyber Technew Article/mr_kim_kuok_chiang.png">
+</div>
+</div>
+<div class="isomer-card-body">
+<div class="isomer-card-title">Mr. KIM Kuok Chiang</div>
+</div>
+</div>
+<div class="isomer-card">
+<div class="isomer-card-image">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Mr LEOW Wen Bin" src="/images/Stackx Cyber Technew Article/mr_leow_wen_bin.png">
+</div>
+</div>
+<div class="isomer-card-body">
+<div class="isomer-card-title">Mr. LEOW Wen Bin</div>
 </div>
 </div>
 </div>
@@ -230,7 +432,7 @@ security, and ways to foster a culture where security is everyone's responsibili
 In return, I look forward to gaining fresh perspectives that will influence
 how I approach security at Google.</p>
 <hr>
-<h4><strong>Keen to Hear from These Speakers?</strong><br><strong>Register for the <a href="https://go.gov.sg/stackxcyber-technewsarticle" rel="noopener nofollow" target="_blank">STACKx Cybersecurity 2025</a>!</strong><br></h4>
+<h4><strong>Keen to Hear from These Speakers?</strong><br><strong>Register for the <a href="https://go.gov.sg/stackxcyber-technewsarticle" rel="noopener nofollow" target="_blank">STACKx Cybersecurity 2025</a>!</strong></h4>
 <hr>
 <div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="https://go.gov.sg/communitysignup-technews" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Subscribe to the TechNews email newsletter" src="/images/CTA card images/technews_footer.jpg"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Subscribe to the TechNews email newsletter</div><div class="isomer-card-link">TechNews</div></div></a>
 <a rel="noopener noreferrer nofollow" href="https://go.gov.sg/communitysignup-technews" class="isomer-card">
