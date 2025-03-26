@@ -7,13 +7,17 @@ description: ""
 image: ""
 variant: tiptap
 ---
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="STACKx Cybersecurity" src="/images/Stackx Cyber Technew Article/EDM_Banner.png">
+</div>
 <p>Mark your calendars! GovTech’s <strong>STACKx Cybersecurity 2025</strong> will
 be held on <strong>15 April 2025</strong> at the <strong>Sands Expo and Convention Centre</strong>.&nbsp;</p>
 <h3><strong>What is STACKx Cybersecurity 2025?</strong></h3>
 <p>As Singapore forges toward a digitally secure future as part of its Smart
 Nation Vision, this event will bring together <strong>government agencies, industry leaders, and cybersecurity specialists</strong> to
-discuss the latest cybersecurity trends, challenges, and opportunities.</p>
-<p>This year’s theme, <strong>“Securing Tomorrow’s Digital Frontier”,</strong> will
+discuss the latest cybersecurity trends, challenges, and opportunities.
+This year’s theme, <strong>“Securing Tomorrow’s Digital Frontier”,</strong> will
 dive deep into these three key topics:</p>
 <div class="isomer-card-grid">
 <div class="isomer-card">
@@ -110,9 +114,16 @@ Behind Hidden Criminal Networks</div>
 </div>
 </div>
 <h4><strong>Panel Discussions:</strong></h4>
+<div data-type="detailGroup" class="isomer-accordion-group isomer-accordion isomer-accordion-white">
+<details class="isomer-details">
+<summary></summary>
+<div data-type="detailsContent" class="isomer-details-content">
 <h4></h4>
+</div>
+</details>
+</div>
 <h3><strong>A sneak peak into STACKx Cybersecurity 2025</strong></h3>
-<h6>In the lead-up to STACKx Cybersecurity, we invited our esteemed speaker Mr. Daryl Pereira for a preview of his insights&nbsp;</h6>
+<h6>In the lead-up to STACKx Cybersecurity, we invited our esteemed speaker Mr. Daryl Pereira for a preview of his insights.&nbsp;</h6>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="Mr. Daryl Pereira" src="/images/Stackx Cyber Technew Article/EDM_in_page_Section_Banner.png">
 </div>
