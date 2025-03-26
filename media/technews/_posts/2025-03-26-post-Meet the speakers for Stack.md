@@ -57,10 +57,10 @@ in leading cybersecurity strategies and risk management.</div>
 </div>
 </div>
 </div>
-<p>Attendees can expect to gain insights from leading experts at Google,
-<a href="https://www.oracle.com/sg/" rel="noopener nofollow" target="_blank">Oracle</a>, Amazon Web Services, Akamai Technologies and other leading
-companies, connect with industry players and stay ahead within the cybersecurity
-industry.</p>
+<p>Attendees can expect to gain insights from leading experts at <a href="https://about.google/" rel="noopener nofollow" target="_blank">Google</a>, <a href="https://www.oracle.com/sg/" rel="noopener nofollow" target="_blank">Oracle</a>,
+<a href="https://aws.amazon.com/" rel="noopener nofollow" target="_blank">Amazon Web Services</a>, <a href="https://www.akamai.com/" rel="noopener nofollow" target="_blank">Akamai Technologies</a> and
+other leading companies, connect with industry players and stay ahead within
+the cybersecurity industry.</p>
 <h3><strong>Meet the speakers</strong></h3>
 <h3><strong>Keynotes</strong></h3>
 <div class="isomer-card-grid">
