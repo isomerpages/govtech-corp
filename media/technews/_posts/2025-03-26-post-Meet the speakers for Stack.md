@@ -230,7 +230,7 @@ industry.</p>
 <div class="isomer-card">
 <div class="isomer-card-image">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Dr. HE Rui Min (Moderator)" src="https://placehold.co/600x400">
+<img style="width: 100%" height="auto" width="100%" alt="Dr. HE Rui Min (Moderator)" src="/images/Stackx Cyber Technew Article/Placeholder.png">
 </div>
 </div>
 <div class="isomer-card-body">
@@ -313,7 +313,7 @@ Threats</div>
 <div class="isomer-card">
 <div class="isomer-card-image">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Mr Koushik RADHAKRISHNAN" src="https://placehold.co/600x400">
+<img style="width: 100%" height="auto" width="100%" alt="Mr Koushik RADHAKRISHNAN" src="/images/Stackx Cyber Technew Article/Placeholder.png">
 </div>
 </div>
 <div class="isomer-card-body">
@@ -356,7 +356,7 @@ Threats</div>
 <div class="isomer-card">
 <div class="isomer-card-image">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Mr. Henry ONG" src="https://placehold.co/600x400">
+<img style="width: 100%" height="auto" width="100%" alt="Mr. Henry ONG" src="/images/Stackx Cyber Technew Article/Placeholder.png">
 </div>
 </div>
 <div class="isomer-card-body">
@@ -367,7 +367,7 @@ Threats</div>
 <div class="isomer-card">
 <div class="isomer-card-image">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Mr. Jeff DISTASIO" src="https://placehold.co/600x400">
+<img style="width: 100%" height="auto" width="100%" alt="Mr. Jeff DISTASIO" src="/images/Stackx Cyber Technew Article/Placeholder.png">
 </div>
 </div>
 <div class="isomer-card-body">
@@ -416,7 +416,7 @@ Threats</div>
 <div class="isomer-card">
 <div class="isomer-card-image">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Mr. HOO Chuan Wei" src="https://placehold.co/600x400">
+<img style="width: 100%" height="auto" width="100%" alt="Mr. HOO Chuan Wei" src="/images/Stackx Cyber Technew Article/mr_hoo_chuan_wei.png">
 </div>
 </div>
 <div class="isomer-card-body">
@@ -426,7 +426,7 @@ Threats</div>
 <div class="isomer-card">
 <div class="isomer-card-image">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Mr. Jonas WALKER" src="https://placehold.co/600x400">
+<img style="width: 100%" height="auto" width="100%" alt="Mr. Jonas WALKER" src="/images/Stackx Cyber Technew Article/mr_jonas_walker.png">
 </div>
 </div>
 <div class="isomer-card-body">
@@ -436,7 +436,7 @@ Threats</div>
 <div class="isomer-card">
 <div class="isomer-card-image">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Mr. Murari KALYANARAMI" src="https://placehold.co/600x400">
+<img style="width: 100%" height="auto" width="100%" alt="Mr. Murari KALYANARAMI" src="/images/Stackx Cyber Technew Article/Placeholder.png">
 </div>
 </div>
 <div class="isomer-card-body">
@@ -446,7 +446,7 @@ Threats</div>
 <div class="isomer-card">
 <div class="isomer-card-image">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Mr. HUANG Shao Fei" src="https://placehold.co/600x400">
+<img style="width: 100%" height="auto" width="100%" alt="Mr. HUANG Shao Fei" src="/images/Stackx Cyber Technew Article/Placeholder.png">
 </div>
 </div>
 <div class="isomer-card-body">
@@ -456,7 +456,7 @@ Threats</div>
 <div class="isomer-card">
 <div class="isomer-card-image">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Mr. CHONG Rong Hwa (Moderator)" src="https://placehold.co/600x400">
+<img style="width: 100%" height="auto" width="100%" alt="Mr. CHONG Rong Hwa (Moderator)" src="/images/Stackx Cyber Technew Article/Placeholder.png">
 </div>
 </div>
 <div class="isomer-card-body">
@@ -469,7 +469,7 @@ Threats</div>
 <div class="isomer-card">
 <div class="isomer-card-image">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Damien MATHIESON" src="https://placehold.co/600x400">
+<img style="width: 100%" height="auto" width="100%" alt="Damien MATHIESON" src="/images/Stackx Cyber Technew Article/Placeholder.png">
 </div>
 </div>
 <div class="isomer-card-body">
