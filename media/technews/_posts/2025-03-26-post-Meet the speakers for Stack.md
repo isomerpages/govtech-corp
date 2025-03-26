@@ -13,7 +13,7 @@ variant: tiptap
 </div>
 <p>Mark your calendars! GovTech’s <strong>STACKx Cybersecurity 2025</strong> will
 be held on <strong>15 April 2025</strong> at the <strong>Sands Expo and Convention Centre</strong>.&nbsp;</p>
-<h3><strong>What is STACKx Cybersecurity 2025?</strong></h3>
+<h3><strong>About STACKx Cybersecurity 2025</strong></h3>
 <p>As Singapore forges toward a digitally secure future as part of its Smart
 Nation Vision, this event will bring together <strong>government agencies, industry leaders, and cybersecurity specialists</strong> to
 discuss the latest cybersecurity trends, challenges, and opportunities.
@@ -57,13 +57,9 @@ in leading cybersecurity strategies and risk management.</div>
 </div>
 </div>
 </div>
-<h3><strong>Why Attend STACKx Cybersecurity 2025?</strong></h3>
-<p>STACKx Cybersecurity 2025 is a must-attend event for cybersecurity professionals,
-governance professionals, IT leaders, developers, business owners, and
-aspiring cybersecurity talent. Attendees can gain insights from leading
-experts at Google, Oracle, Amazon Web Services, Akamai Technologies and
-other leading companies, connect with industry players and stay ahead within
-the cybersecurity industry.</p>
+<p>Attendees can expect to gain insights from leading experts at Google,
+Oracle, Amazon Web Services, Akamai Technologies and other leading companies,
+connect with industry players and stay ahead within the cybersecurity industry.</p>
 <h3><strong>Meet the speakers</strong></h3>
 <h4><strong>Keynotes</strong></h4>
 <div class="isomer-card-grid">
