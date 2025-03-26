@@ -109,7 +109,7 @@ Behind Hidden Criminal Networks</div>
 </div>
 </div>
 </div>
-<h4><strong>Panel Discussions:</strong></h4>
+<h4><strong>Panel Discussion: </strong>The Role of CISOs in Managing Emerging Cybersecurity Threats</h4>
 <div class="isomer-card-grid">
 <div class="isomer-card">
 <div class="isomer-card-image">
@@ -119,6 +119,7 @@ Behind Hidden Criminal Networks</div>
 </div>
 <div class="isomer-card-body">
 <div class="isomer-card-title">Ms. CHUA Ai Qi</div>
+<div class="isomer-card-description">The Role of CISOs in Managing Emerging Cybersecurity Threats</div>
 </div>
 </div>
 <div class="isomer-card">
@@ -129,16 +130,7 @@ Behind Hidden Criminal Networks</div>
 </div>
 <div class="isomer-card-body">
 <div class="isomer-card-title">Mrs. Ann JOHNSON</div>
-</div>
-</div>
-<div class="isomer-card">
-<div class="isomer-card-image">
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Ms April CHIN" src="/images/Stackx Cyber Technew Article/ms_april_chin.png">
-</div>
-</div>
-<div class="isomer-card-body">
-<div class="isomer-card-title">Ms. April CHIN</div>
+<div class="isomer-card-description">The Role of CISOs in Managing Emerging Cybersecurity Threats</div>
 </div>
 </div>
 <div class="isomer-card">
@@ -149,6 +141,7 @@ Behind Hidden Criminal Networks</div>
 </div>
 <div class="isomer-card-body">
 <div class="isomer-card-title">Mr. Boris HAJDUK</div>
+<div class="isomer-card-description">The Role of CISOs in Managing Emerging Cybersecurity Threats</div>
 </div>
 </div>
 <div class="isomer-card">
@@ -159,6 +152,7 @@ Behind Hidden Criminal Networks</div>
 </div>
 <div class="isomer-card-body">
 <div class="isomer-card-title">Mr. HOO Chuan Wei</div>
+<div class="isomer-card-description">The Role of CISOs in Managing Emerging Cybersecurity Threats</div>
 </div>
 </div>
 <div class="isomer-card">
@@ -169,26 +163,7 @@ Behind Hidden Criminal Networks</div>
 </div>
 <div class="isomer-card-body">
 <div class="isomer-card-title">Mr. Daryl PEREIRA</div>
-</div>
-</div>
-<div class="isomer-card">
-<div class="isomer-card-image">
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Mr Dennis CHUNG" src="/images/Stackx Cyber Technew Article/mr_dennis_chung.png">
-</div>
-</div>
-<div class="isomer-card-body">
-<div class="isomer-card-title">Mr. Dennis CHUNG</div>
-</div>
-</div>
-<div class="isomer-card">
-<div class="isomer-card-image">
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Mr Justiin ANG (Moderator)" src="/images/Stackx Cyber Technew Article/mr_justiin_ang.png">
-</div>
-</div>
-<div class="isomer-card-body">
-<div class="isomer-card-title">Mr. Justiin ANG (Moderator)</div>
+<div class="isomer-card-description">The Role of CISOs in Managing Emerging Cybersecurity Threats</div>
 </div>
 </div>
 <div class="isomer-card">
@@ -199,46 +174,43 @@ Behind Hidden Criminal Networks</div>
 </div>
 <div class="isomer-card-body">
 <div class="isomer-card-title">Mr. Luukas ILVES</div>
+<div class="isomer-card-description">The Role of CISOs in Managing Emerging Cybersecurity Threats</div>
 </div>
 </div>
 <div class="isomer-card">
 <div class="isomer-card-image">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Mr Raju UPPALAPATI" src="/images/Stackx Cyber Technew Article/mr_raju_uppalapati.png">
+<img style="width: 100%" height="auto" width="100%" alt="Mr Justiin ANG (Moderator)" src="/images/Stackx Cyber Technew Article/mr_justiin_ang.png">
 </div>
 </div>
 <div class="isomer-card-body">
-<div class="isomer-card-title">Mr. Raju UPPALAPATI</div>
+<div class="isomer-card-title">Mr. Justiin ANG (Moderator)</div>
+<div class="isomer-card-description">The Role of CISOs in Managing Emerging Cybersecurity Threats</div>
+</div>
+</div>
+</div>
+<h4><strong>Track 1: </strong>AI x Cybersecurity</h4>
+<div class="isomer-card-grid">
+<div class="isomer-card">
+<div class="isomer-card-image">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Ms April CHIN" src="/images/Stackx Cyber Technew Article/ms_april_chin.png">
+</div>
+</div>
+<div class="isomer-card-body">
+<div class="isomer-card-title">Ms. April CHIN</div>
+<div class="isomer-card-description">AI for Security</div>
 </div>
 </div>
 <div class="isomer-card">
 <div class="isomer-card-image">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Mr Koushik RADHAKRISHNAN" src="https://placehold.co/600x400">
+<img style="width: 100%" height="auto" width="100%" alt="Mr Dennis CHUNG" src="/images/Stackx Cyber Technew Article/mr_dennis_chung.png">
 </div>
 </div>
 <div class="isomer-card-body">
-<div class="isomer-card-title">Mr. Koushik RADHAKRISHNAN</div>
-</div>
-</div>
-<div class="isomer-card">
-<div class="isomer-card-image">
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Mr Reuben KOH" src="/images/Stackx Cyber Technew Article/mr_reuben_koh.png">
-</div>
-</div>
-<div class="isomer-card-body">
-<div class="isomer-card-title">Mr. Reuben KOH</div>
-</div>
-</div>
-<div class="isomer-card">
-<div class="isomer-card-image">
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Mr HUANG Shao Fei" src="https://placehold.co/600x400">
-</div>
-</div>
-<div class="isomer-card-body">
-<div class="isomer-card-title">Mr. HUANG Shao Fei</div>
+<div class="isomer-card-title">Mr. Dennis CHUNG</div>
+<div class="isomer-card-description">AI's Role in Securing Our Future</div>
 </div>
 </div>
 <div class="isomer-card">
@@ -249,6 +221,7 @@ Behind Hidden Criminal Networks</div>
 </div>
 <div class="isomer-card-body">
 <div class="isomer-card-title">Prof. Simon CHESTERMAN</div>
+<div class="isomer-card-description">AI and the Black Box Problem</div>
 </div>
 </div>
 <div class="isomer-card">
@@ -259,6 +232,7 @@ Behind Hidden Criminal Networks</div>
 </div>
 <div class="isomer-card-body">
 <div class="isomer-card-title">Mr. WONG Wai Tuck</div>
+<div class="isomer-card-description">To be announced</div>
 </div>
 </div>
 <div class="isomer-card">
@@ -269,9 +243,61 @@ Behind Hidden Criminal Networks</div>
 </div>
 <div class="isomer-card-body">
 <div class="isomer-card-title">Dr. LIU Yang</div>
+<div class="isomer-card-description">To be announced</div>
 </div>
 </div>
 </div>
+<h4><strong>Track 2: </strong>Resilient and Secure Cloud</h4>
+<div class="isomer-card-grid">
+<div class="isomer-card">
+<div class="isomer-card-image">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Mr Raju UPPALAPATI" src="/images/Stackx Cyber Technew Article/mr_raju_uppalapati.png">
+</div>
+</div>
+<div class="isomer-card-body">
+<div class="isomer-card-title">Mr. Raju UPPALAPATI</div>
+<div class="isomer-card-description">Scaling Detection &amp; Response in a Distributed Cloud Environment</div>
+</div>
+</div>
+<div class="isomer-card">
+<div class="isomer-card-image">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Mr Koushik RADHAKRISHNAN" src="https://placehold.co/600x400">
+</div>
+</div>
+<div class="isomer-card-body">
+<div class="isomer-card-title">Mr. Koushik RADHAKRISHNAN</div>
+<div class="isomer-card-description">To be announced</div>
+</div>
+</div>
+<div class="isomer-card">
+<div class="isomer-card-image">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Mr Reuben KOH" src="/images/Stackx Cyber Technew Article/mr_reuben_koh.png">
+</div>
+</div>
+<div class="isomer-card-body">
+<div class="isomer-card-title">Mr. Reuben KOH</div>
+<div class="isomer-card-description">Building Secure and Resilient Cloud Infrastructure</div>
+</div>
+</div>
+</div>
+<h4><strong>Track 3: </strong>CISOs of the Future</h4>
+<div class="isomer-card-grid">
+<div class="isomer-card">
+<div class="isomer-card-image">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Mr HUANG Shao Fei" src="https://placehold.co/600x400">
+</div>
+</div>
+<div class="isomer-card-body">
+<div class="isomer-card-title">Mr. HUANG Shao Fei</div>
+<div class="isomer-card-description">Track 3: CISOs of the Future</div>
+</div>
+</div>
+</div>
+<h4></h4>
 <h3><strong>Presentations</strong></h3>
 <div class="isomer-card-grid">
 <div class="isomer-card">
