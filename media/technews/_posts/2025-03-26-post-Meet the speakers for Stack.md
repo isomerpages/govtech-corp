@@ -196,11 +196,8 @@ how I approach security at Google.
 <p></p>
 <p></p>
 <hr>
-<h4><strong>Keen to Hear from These Speakers?</strong></h4>
-<h4><strong>Register for the <a href="https://www.developer.tech.gov.sg/communities/events/conferences/stackx-cybersecurity-2025/overview.html" rel="noopener nofollow" target="_blank">STACKx Cybersecurity 2025</a>!</strong></h4>
-<p></p>
-<p></p>
-<p></p>
+<h4><strong>Keen to Hear from These Speakers?</strong><br><strong>Register for the <a href="https://www.developer.tech.gov.sg/communities/events/conferences/stackx-cybersecurity-2025/overview.html" rel="noopener nofollow" target="_blank">STACKx Cybersecurity 2025</a>!</strong><br></h4>
+<hr>
 <div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="https://go.gov.sg/communitysignup-technews" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Subscribe to the TechNews email newsletter" src="/images/CTA card images/technews_footer.jpg"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Subscribe to the TechNews email newsletter</div><div class="isomer-card-link">TechNews</div></div></a>
 <a rel="noopener noreferrer nofollow" href="https://go.gov.sg/communitysignup-technews" class="isomer-card">
 <div class="isomer-card-image">
