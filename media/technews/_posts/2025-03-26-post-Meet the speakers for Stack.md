@@ -91,6 +91,7 @@ the cybersecurity industry.</p>
 </div>
 <div class="isomer-card-body">
 <div class="isomer-card-title">Mr. Luukas ILVES</div>
+<div class="isomer-card-description">The Digital Sovereignty Dilemma</div>
 </div>
 </div>
 <div class="isomer-card">
@@ -102,24 +103,46 @@ the cybersecurity industry.</p>
 <div class="isomer-card-body">
 <div class="isomer-card-title">Dr. Neal JETTON</div>
 <div class="isomer-card-description">Have the Criminals Caught Up with Us Yet? – Uncovering the Modus Operandi
-Behind Hidden Criminal Networks Morning Sessions: 09:45 AM - 10:15 AM</div>
+Behind Hidden Criminal Networks</div>
 </div>
 </div>
 </div>
 <h4><strong>Panel Discussions</strong></h4>
-<div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="https://www.isomer.gov.sg" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Placeholder image" src="https://placehold.co/600x400"></div></div><div class="isomer-card-body"><div class="isomer-card-title">This is a title for your card</div><div class="isomer-card-description">This is body text for your card. Describe your card.</div><div class="isomer-card-link">This is a link for your card</div></div></a>
-<a rel="noopener noreferrer nofollow" href="https://www.isomer.gov.sg" class="isomer-card">
+<h4>Security Leadership in an Age of Insecurity</h4>
+<div class="isomer-card-grid">
+<div class="isomer-card">
 <div class="isomer-card-image">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Placeholder image" src="https://placehold.co/600x400">
+<img style="width: 100%" height="auto" width="100%" alt="Mr. Daryl PEREIRA" src="https://placehold.co/600x400">
 </div>
 </div>
 <div class="isomer-card-body">
-<div class="isomer-card-title">This is a title for your card</div>
-<div class="isomer-card-description">This is body text for your card. Describe your card.</div>
-<div class="isomer-card-link">This is a link for your card</div>
+<div class="isomer-card-title">Mr. Daryl PEREIRA</div>
+<div class="isomer-card-description">Panelist for Security Leadership in an Age of Insecurity</div>
 </div>
-</a><a rel="noopener noreferrer nofollow" href="https://www.isomer.gov.sg" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Placeholder image" src="https://placehold.co/600x400"></div></div><div class="isomer-card-body"><div class="isomer-card-title">This is a title for your card</div><div class="isomer-card-description">This is body text for your card. Describe your card.</div><div class="isomer-card-link">This is a link for your card</div></div></a>
+</div>
+<div class="isomer-card">
+<div class="isomer-card-image">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Mr. CHUA Kuan Seah" src="https://placehold.co/600x400">
+</div>
+</div>
+<div class="isomer-card-body">
+<div class="isomer-card-title">Mr. CHUA Kuan Seah</div>
+<div class="isomer-card-description">Panelist for Security Leadership in an Age of Insecurity</div>
+</div>
+</div>
+<div class="isomer-card">
+<div class="isomer-card-image">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Mr. Justiin ANG" src="https://placehold.co/600x400">
+</div>
+</div>
+<div class="isomer-card-body">
+<div class="isomer-card-title">Mr. Justiin ANG</div>
+<div class="isomer-card-description">Moderator for Security Leadership in an Age of Insecurity</div>
+</div>
+</div>
 </div>
 <p>In the lead-up to STACKx Cybersecurity, we invited our esteemed speaker
 Mr. Daryl Pereira for a preview of his insights&nbsp;</p>
