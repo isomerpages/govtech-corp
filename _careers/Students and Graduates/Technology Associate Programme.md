@@ -22,7 +22,7 @@ confident tech leaders who will ultimately make a positive impact on the
 lives of Singaporeans.</p>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="GovTech TAP" src="/images/careers/TAP_infographic_2025.png">
+<img style="width: 100%" height="auto" width="100%" alt="GovTech TAP infographic" src="/images/careers/tap_infographic_mar2025.jpg">
 </div>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="Technology Associate Programme (TAP) application process" src="/images/careers/TAP_timeline_infographics__1_.jpg">
