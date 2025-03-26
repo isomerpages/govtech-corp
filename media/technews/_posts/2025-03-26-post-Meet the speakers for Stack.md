@@ -66,7 +66,7 @@ connect with industry players and stay ahead within the cybersecurity industry.<
 <div class="isomer-card">
 <div class="isomer-card-image">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Mr Jonathan LUFF" src="https://placehold.co/600x400">
+<img style="width: 100%" height="auto" width="100%" alt="Mr Jonathan LUFF" src="/images/Stackx Cyber Technew Article/Mr__Jonathan_LUFF___600_x_405.png">
 </div>
 </div>
 <div class="isomer-card-body">
@@ -77,7 +77,7 @@ connect with industry players and stay ahead within the cybersecurity industry.<
 <div class="isomer-card">
 <div class="isomer-card-image">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Mr. CHUA Kuan Seah" src="https://placehold.co/600x400">
+<img style="width: 100%" height="auto" width="100%" alt="Mr. CHUA Kuan Seah" src="/images/Stackx Cyber Technew Article/Mr__CHUA_Kuan_Seah___600_x_407.png">
 </div>
 </div>
 <div class="isomer-card-body">
@@ -88,7 +88,7 @@ connect with industry players and stay ahead within the cybersecurity industry.<
 <div class="isomer-card">
 <div class="isomer-card-image">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Mr Luukas ILVES" src="https://placehold.co/600x400">
+<img style="width: 100%" height="auto" width="100%" alt="Mr Luukas ILVES" src="/images/Stackx Cyber Technew Article/Mr__Luukas_Ilves___600_x_422.png">
 </div>
 </div>
 <div class="isomer-card-body">
@@ -99,7 +99,7 @@ connect with industry players and stay ahead within the cybersecurity industry.<
 <div class="isomer-card">
 <div class="isomer-card-image">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Dr Neal JETTON" src="https://placehold.co/600x400">
+<img style="width: 100%" height="auto" width="100%" alt="Dr Neal JETTON" src="/images/Stackx Cyber Technew Article/Dr__Neal_JETTON___600_x_400.png">
 </div>
 </div>
 <div class="isomer-card-body">
@@ -111,19 +111,57 @@ Behind Hidden Criminal Networks</div>
 </div>
 <h4><strong>Panel Discussions:</strong></h4>
 <p></p>
-<div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="https://www.isomer.gov.sg" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Placeholder image" src="https://placehold.co/600x400"></div></div><div class="isomer-card-body"><div class="isomer-card-title">This is a title for your card</div><div class="isomer-card-description">This is body text for your card. Describe your card.</div><div class="isomer-card-link">This is a link for your card</div></div></a>
-<a rel="noopener noreferrer nofollow" href="https://www.isomer.gov.sg" class="isomer-card">
+<div class="isomer-card-grid">
+<div class="isomer-card">
 <div class="isomer-card-image">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Placeholder image" src="https://placehold.co/600x400">
+<img style="width: 100%" height="auto" width="100%" alt="Ms. CHUA Ai Qi" src="/images/Stackx Cyber Technew Article/Ms__CHUA_Ai_Qi___600_x_419.png">
 </div>
 </div>
 <div class="isomer-card-body">
-<div class="isomer-card-title">This is a title for your card</div>
-<div class="isomer-card-description">This is body text for your card. Describe your card.</div>
-<div class="isomer-card-link">This is a link for your card</div>
+<div class="isomer-card-title">Ms. CHUA Ai Qi</div>
 </div>
-</a><a rel="noopener noreferrer nofollow" href="https://www.isomer.gov.sg" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Placeholder image" src="https://placehold.co/600x400"></div></div><div class="isomer-card-body"><div class="isomer-card-title">This is a title for your card</div><div class="isomer-card-description">This is body text for your card. Describe your card.</div><div class="isomer-card-link">This is a link for your card</div></div></a>
+</div>
+<div class="isomer-card">
+<div class="isomer-card-image">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Mrs. Ann JOHNSON" src="/images/Stackx Cyber Technew Article/Mrs__Ann_Johnson___600_x_400.png">
+</div>
+</div>
+<div class="isomer-card-body">
+<div class="isomer-card-title">Mrs. Ann JOHNSON</div>
+</div>
+</div>
+<div class="isomer-card">
+<div class="isomer-card-image">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Ms April CHIN" src="/images/Stackx Cyber Technew Article/Ms__April_CHIN___600_x_418.png">
+</div>
+</div>
+<div class="isomer-card-body">
+<div class="isomer-card-title">Ms April CHIN</div>
+</div>
+</div>
+<div class="isomer-card">
+<div class="isomer-card-image">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Mr. Boris HAJDUK" src="https://placehold.co/600x400">
+</div>
+</div>
+<div class="isomer-card-body">
+<div class="isomer-card-title">Mr. Boris HAJDUK</div>
+</div>
+</div>
+<div class="isomer-card">
+<div class="isomer-card-image">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Mr HOO Chuan Wei" src="/images/Stackx Cyber Technew Article/Mr__Hoo_Chuan_Wei___600_x_409.png">
+</div>
+</div>
+<div class="isomer-card-body">
+<div class="isomer-card-title">Mr HOO Chuan Wei</div>
+</div>
+</div>
 </div>
 <h3><strong>A sneak peak into STACKx Cybersecurity 2025</strong></h3>
 <h6>In the lead-up to STACKx Cybersecurity, we invited our esteemed speaker Mr. Daryl Pereira for a preview of his insights.&nbsp;</h6>
