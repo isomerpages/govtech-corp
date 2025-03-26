@@ -62,7 +62,7 @@ in leading cybersecurity strategies and risk management.</div>
 companies, connect with industry players and stay ahead within the cybersecurity
 industry.</p>
 <h3><strong>Meet the speakers</strong></h3>
-<h4><strong>Keynotes</strong></h4>
+<h3><strong>Keynotes</strong></h3>
 <div class="isomer-card-grid">
 <div class="isomer-card">
 <div class="isomer-card-image">
@@ -109,7 +109,8 @@ industry.</p>
 </div>
 </div>
 </div>
-<h4><strong>High-Level Plenary​: Security Leadership in an Age of Insecurity</strong></h4>
+<hr>
+<h3><strong>High-Level Plenary​: Security Leadership in an Age of Insecurity</strong></h3>
 <div class="isomer-card-grid">
 <div class="isomer-card">
 <div class="isomer-card-image">
@@ -173,7 +174,7 @@ industry.</p>
 </div>
 </div>
 <hr>
-<h4><strong>Track 1: AI x Cybersecurity</strong></h4>
+<h3><strong>Track 1: AI x Cybersecurity</strong></h3>
 <h4>Panel: Cyber Threats and Opportunities Arising from Harnessing AI</h4>
 <div class="isomer-card-grid">
 <div class="isomer-card">
@@ -286,7 +287,7 @@ Threats</div>
 </div>
 </div>
 <hr>
-<h4><strong>Track 2: Resilient and Secure Cloud</strong></h4>
+<h3><strong>Track 2: Resilient and Secure Cloud</strong></h3>
 <h4>Panel: Navigating the Future of Cloud Security: Automation, Alert Fatigue, and Developer Responsibility</h4>
 <div class="isomer-card-grid">
 <div class="isomer-card">
@@ -409,7 +410,8 @@ Threats</div>
 </div>
 </div>
 <hr>
-<h4><strong>Track 3: CISOs of the Future</strong><br>Panel: CISO Strategies for the Next Era of Cybersecurity</h4>
+<h3><strong>Track 3: CISOs of the Future</strong></h3>
+<h4>Panel: CISO Strategies for the Next Era of Cybersecurity</h4>
 <div class="isomer-card-grid">
 <div class="isomer-card">
 <div class="isomer-card-image">
@@ -462,7 +464,7 @@ Threats</div>
 </div>
 </div>
 </div>
-<h4><strong>Track 3: CISOs of the Future</strong><br>Presentations</h4>
+<h4>Presentations</h4>
 <div class="isomer-card-grid">
 <div class="isomer-card">
 <div class="isomer-card-image">
@@ -510,6 +512,7 @@ testing</div>
 </div>
 </div>
 </div>
+<hr>
 <h3><strong>A sneak peak into STACKx Cybersecurity 2025</strong></h3>
 <h6>In the lead-up to STACKx Cybersecurity, we invited our esteemed speaker Mr. Daryl Pereira for a preview of his insights.&nbsp;</h6>
 <div class="isomer-image-wrapper">
