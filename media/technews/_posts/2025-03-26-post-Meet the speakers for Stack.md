@@ -195,10 +195,9 @@ how I approach security at Google.
 <p></p>
 <p></p>
 <p></p>
-<p></p>
-<p></p>
-<p>Keen to Hear from These Speakers?</p>
-<p>Register for the STACKx Cybersecurity 2025!</p>
+<hr>
+<h4><strong>Keen to Hear from These Speakers?</strong></h4>
+<h4><strong>Register for the STACKx Cybersecurity 2025!</strong></h4>
 <p></p>
 <p></p>
 <p></p>
