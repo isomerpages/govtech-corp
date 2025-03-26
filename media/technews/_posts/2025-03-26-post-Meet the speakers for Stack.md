@@ -197,7 +197,7 @@ how I approach security at Google.
 <p></p>
 <hr>
 <h4><strong>Keen to Hear from These Speakers?</strong></h4>
-<h4><strong>Register for the STACKx Cybersecurity 2025!</strong></h4>
+<h4><strong>Register for the <a href="https://www.developer.tech.gov.sg/communities/events/conferences/stackx-cybersecurity-2025/overview.html" rel="noopener nofollow" target="_blank">STACKx Cybersecurity 2025</a>!</strong></h4>
 <p></p>
 <p></p>
 <p></p>
