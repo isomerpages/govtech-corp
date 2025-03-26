@@ -109,7 +109,7 @@ industry.</p>
 </div>
 </div>
 </div>
-<h4><strong>Panel Discussion: </strong><em>Security leadership in an age of insecurity</em></h4>
+<h4><strong>High-Level Plenary​: Security Leadership in an Age of Insecurity</strong></h4>
 <div class="isomer-card-grid">
 <div class="isomer-card">
 <div class="isomer-card-image">
@@ -119,7 +119,6 @@ industry.</p>
 </div>
 <div class="isomer-card-body">
 <div class="isomer-card-title">Ms. CHUA Ai Qi</div>
-<div class="isomer-card-description">The Role of CISOs in Managing Emerging Cybersecurity Threats</div>
 </div>
 </div>
 <div class="isomer-card">
@@ -130,29 +129,16 @@ industry.</p>
 </div>
 <div class="isomer-card-body">
 <div class="isomer-card-title">Mrs. Ann JOHNSON</div>
-<div class="isomer-card-description">The Role of CISOs in Managing Emerging Cybersecurity Threats</div>
 </div>
 </div>
 <div class="isomer-card">
 <div class="isomer-card-image">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Mr. Boris HAJDUK" src="https://placehold.co/600x400">
+<img style="width: 100%" height="auto" width="100%" alt="Mr. Boris HAJDUK" src="/images/Stackx Cyber Technew Article/mr boris hajduk.png">
 </div>
 </div>
 <div class="isomer-card-body">
 <div class="isomer-card-title">Mr. Boris HAJDUK</div>
-<div class="isomer-card-description">The Role of CISOs in Managing Emerging Cybersecurity Threats</div>
-</div>
-</div>
-<div class="isomer-card">
-<div class="isomer-card-image">
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Mr HOO Chuan Wei" src="/images/Stackx Cyber Technew Article/mr_hoo_chuan_wei.png">
-</div>
-</div>
-<div class="isomer-card-body">
-<div class="isomer-card-title">Mr. HOO Chuan Wei</div>
-<div class="isomer-card-description">The Role of CISOs in Managing Emerging Cybersecurity Threats</div>
 </div>
 </div>
 <div class="isomer-card">
@@ -163,7 +149,6 @@ industry.</p>
 </div>
 <div class="isomer-card-body">
 <div class="isomer-card-title">Mr. Daryl PEREIRA</div>
-<div class="isomer-card-description">The Role of CISOs in Managing Emerging Cybersecurity Threats</div>
 </div>
 </div>
 <div class="isomer-card">
@@ -174,7 +159,6 @@ industry.</p>
 </div>
 <div class="isomer-card-body">
 <div class="isomer-card-title">Mr. Luukas ILVES</div>
-<div class="isomer-card-description">The Role of CISOs in Managing Emerging Cybersecurity Threats</div>
 </div>
 </div>
 <div class="isomer-card">
@@ -185,11 +169,11 @@ industry.</p>
 </div>
 <div class="isomer-card-body">
 <div class="isomer-card-title">Mr. Justiin ANG (Moderator)</div>
-<div class="isomer-card-description">The Role of CISOs in Managing Emerging Cybersecurity Threats</div>
 </div>
 </div>
 </div>
-<h3><br><strong>Track 1: </strong>AI x Cybersecurity</h3>
+<hr>
+<h4><strong>Track 1: AI x Cybersecurity</strong></h4>
 <h4>Panel: Cyber Threats and Opportunities Arising from Harnessing AI</h4>
 <div class="isomer-card-grid">
 <div class="isomer-card">
@@ -301,7 +285,8 @@ Threats</div>
 </div>
 </div>
 </div>
-<h3><br><strong>Track 2: </strong>Resilient and Secure Cloud</h3>
+<hr>
+<h4><strong>Track 2: Resilient and Secure Cloud</strong></h4>
 <h4>Panel: Navigating the Future of Cloud Security: Automation, Alert Fatigue, and Developer Responsibility</h4>
 <div class="isomer-card-grid">
 <div class="isomer-card">
@@ -423,7 +408,8 @@ Threats</div>
 </div>
 </div>
 </div>
-<h3><br><strong>Track 3: </strong>CISOs of the Future</h3>
+<hr>
+<h4><strong>Track 3: CISOs of the Future</strong></h4>
 <h4>Panel: CISO Strategies for the Next Era of Cybersecurity</h4>
 <div class="isomer-card-grid">
 <div class="isomer-card">
@@ -522,99 +508,6 @@ testing</div>
 <div class="isomer-card-body">
 <div class="isomer-card-title">Mr. Steve LEDZIAN</div>
 <div class="isomer-card-description">Modernizing Security Operations</div>
-</div>
-</div>
-</div>
-<h3><strong>Presentations</strong></h3>
-<div class="isomer-card-grid">
-<div class="isomer-card">
-<div class="isomer-card-image">
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Mr Bryce BOLAND" src="/images/Stackx Cyber Technew Article/mr_bryce_boland.png">
-</div>
-</div>
-<div class="isomer-card-body">
-<div class="isomer-card-title">Mr. Bryce BOLAND</div>
-</div>
-</div>
-<div class="isomer-card">
-<div class="isomer-card-image">
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Ms Eileen NEO" src="/images/Stackx Cyber Technew Article/ms_eileen_neo.png">
-</div>
-</div>
-<div class="isomer-card-body">
-<div class="isomer-card-title">Ms. Eileen NEO</div>
-</div>
-</div>
-<div class="isomer-card">
-<div class="isomer-card-image">
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Mr Eugene NG" src="/images/Stackx Cyber Technew Article/mr_eugene_ng.png">
-</div>
-</div>
-<div class="isomer-card-body">
-<div class="isomer-card-title">Mr. Eugene NG</div>
-</div>
-</div>
-<div class="isomer-card">
-<div class="isomer-card-image">
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Mr Henry ONG" src="https://placehold.co/600x400">
-</div>
-</div>
-<div class="isomer-card-body">
-<div class="isomer-card-title">Mr. Henry ONG</div>
-</div>
-</div>
-<div class="isomer-card">
-<div class="isomer-card-image">
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Dr Ivan JACOBS" src="/images/Stackx Cyber Technew Article/mr_ivan_jacobs.png">
-</div>
-</div>
-<div class="isomer-card-body">
-<div class="isomer-card-title">Dr. Ivan JACOBS</div>
-</div>
-</div>
-<div class="isomer-card">
-<div class="isomer-card-image">
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Mr Jeff DISTASIO" src="https://placehold.co/600x400">
-</div>
-</div>
-<div class="isomer-card-body">
-<div class="isomer-card-title">Mr. Jeff DISTASIO</div>
-</div>
-</div>
-<div class="isomer-card">
-<div class="isomer-card-image">
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Mr Josias TEO" src="/images/Stackx Cyber Technew Article/mr_josias_teo.png">
-</div>
-</div>
-<div class="isomer-card-body">
-<div class="isomer-card-title">Mr. Josias TEO</div>
-</div>
-</div>
-<div class="isomer-card">
-<div class="isomer-card-image">
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Mr KIM Kuok Chiang" src="/images/Stackx Cyber Technew Article/mr_kim_kuok_chiang.png">
-</div>
-</div>
-<div class="isomer-card-body">
-<div class="isomer-card-title">Mr. KIM Kuok Chiang</div>
-</div>
-</div>
-<div class="isomer-card">
-<div class="isomer-card-image">
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Mr LEOW Wen Bin" src="/images/Stackx Cyber Technew Article/mr_leow_wen_bin.png">
-</div>
-</div>
-<div class="isomer-card-body">
-<div class="isomer-card-title">Mr. LEOW Wen Bin</div>
 </div>
 </div>
 </div>
