@@ -72,7 +72,7 @@ industry.</p>
 </div>
 <div class="isomer-card-body">
 <div class="isomer-card-title">Mr. Jonathan LUFF</div>
-<div class="isomer-card-description">Global View on Cyber Threat Landscape”</div>
+<div class="isomer-card-description">Global View on Cyber Threat Landscape</div>
 </div>
 </div>
 <div class="isomer-card">
@@ -189,91 +189,139 @@ industry.</p>
 </div>
 </div>
 </div>
-<h3><strong>Track 1: </strong>AI x Cybersecurity</h3>
-<h4>Panel</h4>
-<div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="https://www.isomer.gov.sg" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Placeholder image" src="https://placehold.co/600x400"></div></div><div class="isomer-card-body"><div class="isomer-card-title">This is a title for your card</div><div class="isomer-card-description">This is body text for your card. Describe your card.</div><div class="isomer-card-link">This is a link for your card</div></div></a>
-<a rel="noopener noreferrer nofollow" href="https://www.isomer.gov.sg" class="isomer-card">
-<div class="isomer-card-image">
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Placeholder image" src="https://placehold.co/600x400">
-</div>
-</div>
-<div class="isomer-card-body">
-<div class="isomer-card-title">This is a title for your card</div>
-<div class="isomer-card-description">This is body text for your card. Describe your card.</div>
-<div class="isomer-card-link">This is a link for your card</div>
-</div>
-</a><a rel="noopener noreferrer nofollow" href="https://www.isomer.gov.sg" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Placeholder image" src="https://placehold.co/600x400"></div></div><div class="isomer-card-body"><div class="isomer-card-title">This is a title for your card</div><div class="isomer-card-description">This is body text for your card. Describe your card.</div><div class="isomer-card-link">This is a link for your card</div></div></a>
-</div>
-<h4>Presentation</h4>
+<h3><br><strong>Track 1: </strong>AI x Cybersecurity</h3>
+<h4>Panel: Cyber Threats and Opportunities Arising from Harnessing AI</h4>
 <div class="isomer-card-grid">
 <div class="isomer-card">
 <div class="isomer-card-image">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Ms April CHIN" src="/images/Stackx Cyber Technew Article/ms_april_chin.png">
+<img style="width: 100%" height="auto" width="100%" alt="Ms. April CHIN" src="/images/Stackx Cyber Technew Article/Ms__April_CHIN___600_x_418.png">
 </div>
 </div>
 <div class="isomer-card-body">
 <div class="isomer-card-title">Ms. April CHIN</div>
-<div class="isomer-card-description">AI for Security</div>
 </div>
 </div>
 <div class="isomer-card">
 <div class="isomer-card-image">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Mr Dennis CHUNG" src="/images/Stackx Cyber Technew Article/mr_dennis_chung.png">
+<img style="width: 100%" height="auto" width="100%" alt="Mr. Dennis CHUNG" src="/images/Stackx Cyber Technew Article/mr_dennis_chung.png">
 </div>
 </div>
 <div class="isomer-card-body">
 <div class="isomer-card-title">Mr. Dennis CHUNG</div>
-<div class="isomer-card-description">AI's Role in Securing Our Future</div>
 </div>
 </div>
 <div class="isomer-card">
 <div class="isomer-card-image">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Prof Simon CHESTERMAN" src="/images/Stackx Cyber Technew Article/prof_simon_chesterman.png">
+<img style="width: 100%" height="auto" width="100%" alt="Prof. Simon CHESTERMAN" src="/images/Stackx Cyber Technew Article/prof_simon_chesterman.png">
 </div>
 </div>
 <div class="isomer-card-body">
 <div class="isomer-card-title">Prof. Simon CHESTERMAN</div>
+</div>
+</div>
+<div class="isomer-card">
+<div class="isomer-card-image">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Mr. WONG Wai Tuck" src="/images/Stackx Cyber Technew Article/mr__wong_wai_tuck.png">
+</div>
+</div>
+<div class="isomer-card-body">
+<div class="isomer-card-title">Mr. WONG Wai Tuck</div>
+</div>
+</div>
+<div class="isomer-card">
+<div class="isomer-card-image">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Dr. LIU Yang" src="/images/Stackx Cyber Technew Article/dr_liu_yang.png">
+</div>
+</div>
+<div class="isomer-card-body">
+<div class="isomer-card-title">Dr. LIU Yang</div>
+</div>
+</div>
+<div class="isomer-card">
+<div class="isomer-card-image">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Dr. HE Rui Min (Moderator)" src="https://placehold.co/600x400">
+</div>
+</div>
+<div class="isomer-card-body">
+<div class="isomer-card-title">Dr. HE Rui Min (Moderator)</div>
+</div>
+</div>
+</div>
+<h4>Presentations</h4>
+<div class="isomer-card-grid">
+<div class="isomer-card">
+<div class="isomer-card-image">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Bryce BOLAND" src="/images/Stackx Cyber Technew Article/Bryce_Boland___600_x_400.png">
+</div>
+</div>
+<div class="isomer-card-body">
+<div class="isomer-card-title">Bryce BOLAND</div>
+<div class="isomer-card-description">Amazon’s approach to AI security</div>
+</div>
+</div>
+<div class="isomer-card">
+<div class="isomer-card-image">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Dr. Ivan JACOBS" src="/images/Stackx Cyber Technew Article/mr_ivan_jacobs.png">
+</div>
+</div>
+<div class="isomer-card-body">
+<div class="isomer-card-title">Dr. Ivan JACOBS</div>
+<div class="isomer-card-description">Agentic AI Red Teaming</div>
+</div>
+</div>
+<div class="isomer-card">
+<div class="isomer-card-image">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Mr. Pawan KINGER" src="/images/Stackx Cyber Technew Article/Mr__Pawan_KINGER____600_x_421.png">
+</div>
+</div>
+<div class="isomer-card-body">
+<div class="isomer-card-title">Mr. Pawan KINGER</div>
 <div class="isomer-card-description">AI and the Black Box Problem</div>
 </div>
 </div>
 <div class="isomer-card">
 <div class="isomer-card-image">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Mr WONG Wai Tuck" src="/images/Stackx Cyber Technew Article/mr__wong_wai_tuck.png">
+<img style="width: 100%" height="auto" width="100%" alt="Mr. LEOW Wen Bin" src="/images/Stackx Cyber Technew Article/mr_leow_wen_bin.png">
 </div>
 </div>
 <div class="isomer-card-body">
-<div class="isomer-card-title">Mr. WONG Wai Tuck</div>
-<div class="isomer-card-description">To be announced</div>
-</div>
-</div>
-<div class="isomer-card">
-<div class="isomer-card-image">
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Dr LIU Yang" src="/images/Stackx Cyber Technew Article/dr_liu_yang.png">
-</div>
-</div>
-<div class="isomer-card-body">
-<div class="isomer-card-title">Dr. LIU Yang</div>
-<div class="isomer-card-description">To be announced</div>
+<div class="isomer-card-title">Mr. LEOW Wen Bin</div>
+<div class="isomer-card-description">AI in the Cyber Trenches: Transforming Government Security for Tomorrow's
+Threats</div>
 </div>
 </div>
 </div>
-<h4><strong>Track 2: </strong>Resilient and Secure Cloud</h4>
+<h3><br><strong>Track 2: </strong>Resilient and Secure Cloud</h3>
+<h4>Panel: Navigating the Future of Cloud Security: Automation, Alert Fatigue, and Developer Responsibility</h4>
 <div class="isomer-card-grid">
 <div class="isomer-card">
 <div class="isomer-card-image">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Mr Raju UPPALAPATI" src="/images/Stackx Cyber Technew Article/mr_raju_uppalapati.png">
+<img style="width: 100%" height="auto" width="100%" alt="Heng Mok" src="https://placehold.co/600x400">
 </div>
 </div>
 <div class="isomer-card-body">
-<div class="isomer-card-title">Mr. Raju UPPALAPATI</div>
-<div class="isomer-card-description">Scaling Detection &amp; Response in a Distributed Cloud Environment</div>
+<div class="isomer-card-title">Heng Mok</div>
+</div>
+</div>
+<div class="isomer-card">
+<div class="isomer-card-image">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Chen Jun" src="https://placehold.co/600x400">
+</div>
+</div>
+<div class="isomer-card-body">
+<div class="isomer-card-title">Chen Jun</div>
 </div>
 </div>
 <div class="isomer-card">
@@ -284,7 +332,16 @@ industry.</p>
 </div>
 <div class="isomer-card-body">
 <div class="isomer-card-title">Mr. Koushik RADHAKRISHNAN</div>
-<div class="isomer-card-description">To be announced</div>
+</div>
+</div>
+<div class="isomer-card">
+<div class="isomer-card-image">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Mr Raju UPPALAPATI" src="/images/Stackx Cyber Technew Article/mr_raju_uppalapati.png">
+</div>
+</div>
+<div class="isomer-card-body">
+<div class="isomer-card-title">Mr. Raju UPPALAPATI</div>
 </div>
 </div>
 <div class="isomer-card">
@@ -295,25 +352,179 @@ industry.</p>
 </div>
 <div class="isomer-card-body">
 <div class="isomer-card-title">Mr. Reuben KOH</div>
-<div class="isomer-card-description">Building Secure and Resilient Cloud Infrastructure</div>
+</div>
+</div>
+<div class="isomer-card">
+<div class="isomer-card-image">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Bernard TAN (Moderator)" src="https://placehold.co/600x400">
+</div>
+</div>
+<div class="isomer-card-body">
+<div class="isomer-card-title">Bernard TAN (Moderator)</div>
 </div>
 </div>
 </div>
-<h4><strong>Track 3: </strong>CISOs of the Future</h4>
+<h4>Presentations</h4>
 <div class="isomer-card-grid">
 <div class="isomer-card">
 <div class="isomer-card-image">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Mr HUANG Shao Fei" src="https://placehold.co/600x400">
+<img style="width: 100%" height="auto" width="100%" alt="Henry ONG" src="https://placehold.co/600x400">
+</div>
+</div>
+<div class="isomer-card-body">
+<div class="isomer-card-title">Henry ONG</div>
+<div class="isomer-card-description">Securing Sensitive Data in the Cloud: The Rise of Cloud Adoption</div>
+</div>
+</div>
+<div class="isomer-card">
+<div class="isomer-card-image">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Jeff DISTASIO" src="https://placehold.co/600x400">
+</div>
+</div>
+<div class="isomer-card-body">
+<div class="isomer-card-title">Jeff DISTASIO</div>
+<div class="isomer-card-description">Crowdstrike Global Threat Report</div>
+</div>
+</div>
+<div class="isomer-card">
+<div class="isomer-card-image">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Mr. Josias TEO" src="https://placehold.co/600x400">
+</div>
+</div>
+<div class="isomer-card-body">
+<div class="isomer-card-title">Mr. Josias TEO</div>
+<div class="isomer-card-description">From Overload to Overlords: Streamlining Cybersecurity in the Government</div>
+</div>
+</div>
+<div class="isomer-card">
+<div class="isomer-card-image">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Kin Zhong" src="https://placehold.co/600x400">
+</div>
+</div>
+<div class="isomer-card-body">
+<div class="isomer-card-title">Kin Zhong</div>
+<div class="isomer-card-description">From Overload to Overlords: Streamlining Cybersecurity in the Government</div>
+</div>
+</div>
+<div class="isomer-card">
+<div class="isomer-card-image">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Mr. KIM Kuok Chiang" src="/images/Stackx Cyber Technew Article/mr_kim_kuok_chiang.png">
+</div>
+</div>
+<div class="isomer-card-body">
+<div class="isomer-card-title">Mr. KIM Kuok Chiang</div>
+<div class="isomer-card-description">Building Truly Secure and Resilient Systems</div>
+</div>
+</div>
+</div>
+<h3><br><strong>Track 3: </strong>CISOs of the Future</h3>
+<h4>Panel: CISO Strategies for the Next Era of Cybersecurity</h4>
+<div class="isomer-card-grid">
+<div class="isomer-card">
+<div class="isomer-card-image">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Mr. HOO Chuan Wei" src="https://placehold.co/600x400">
+</div>
+</div>
+<div class="isomer-card-body">
+<div class="isomer-card-title">Mr. HOO Chuan Wei</div>
+</div>
+</div>
+<div class="isomer-card">
+<div class="isomer-card-image">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Jonas WALKER" src="https://placehold.co/600x400">
+</div>
+</div>
+<div class="isomer-card-body">
+<div class="isomer-card-title">Jonas WALKER</div>
+</div>
+</div>
+<div class="isomer-card">
+<div class="isomer-card-image">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Murari KALYANARAMI" src="https://placehold.co/600x400">
+</div>
+</div>
+<div class="isomer-card-body">
+<div class="isomer-card-title">Murari KALYANARAMI</div>
+</div>
+</div>
+<div class="isomer-card">
+<div class="isomer-card-image">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Mr. HUANG Shao Fei" src="https://placehold.co/600x400">
 </div>
 </div>
 <div class="isomer-card-body">
 <div class="isomer-card-title">Mr. HUANG Shao Fei</div>
-<div class="isomer-card-description">Track 3: CISOs of the Future</div>
+</div>
+</div>
+<div class="isomer-card">
+<div class="isomer-card-image">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Rong Hwa (Moderator)" src="https://placehold.co/600x400">
+</div>
+</div>
+<div class="isomer-card-body">
+<div class="isomer-card-title">Rong Hwa (Moderator)</div>
 </div>
 </div>
 </div>
-<h4></h4>
+<h4>Presentations</h4>
+<div class="isomer-card-grid">
+<div class="isomer-card">
+<div class="isomer-card-image">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Damien MATHIESON" src="https://placehold.co/600x400">
+</div>
+</div>
+<div class="isomer-card-body">
+<div class="isomer-card-title">Damien MATHIESON</div>
+<div class="isomer-card-description">To be announced</div>
+</div>
+</div>
+<div class="isomer-card">
+<div class="isomer-card-image">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Ms. Eileen NEO" src="/images/Stackx Cyber Technew Article/ms_eileen_neo.png">
+</div>
+</div>
+<div class="isomer-card-body">
+<div class="isomer-card-title">Ms. Eileen NEO</div>
+<div class="isomer-card-description">Unlocking the Value of Bug Bounty: A Strategic Approach for CISOs</div>
+</div>
+</div>
+<div class="isomer-card">
+<div class="isomer-card-image">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Mr. Eugene NG" src="/images/Stackx Cyber Technew Article/mr_eugene_ng.png">
+</div>
+</div>
+<div class="isomer-card-body">
+<div class="isomer-card-title">Mr. Eugene NG</div>
+<div class="isomer-card-description">Hack to Protect: How the Government adopts a proactive approach to security
+testing</div>
+</div>
+</div>
+<div class="isomer-card">
+<div class="isomer-card-image">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Mr. Steve LEDZIAN" src="/images/Stackx Cyber Technew Article/mr_steve_ledzian.png">
+</div>
+</div>
+<div class="isomer-card-body">
+<div class="isomer-card-title">Mr. Steve LEDZIAN</div>
+<div class="isomer-card-description">Modernizing Security Operations</div>
+</div>
+</div>
+</div>
 <h3><strong>Presentations</strong></h3>
 <div class="isomer-card-grid">
 <div class="isomer-card">
