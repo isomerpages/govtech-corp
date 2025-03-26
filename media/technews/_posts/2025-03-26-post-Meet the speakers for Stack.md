@@ -66,7 +66,7 @@ connect with industry players and stay ahead within the cybersecurity industry.<
 <div class="isomer-card">
 <div class="isomer-card-image">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Mr Jonathan LUFF" src="/images/Stackx Cyber Technew Article/Mr__Jonathan_LUFF___600_x_405.png">
+<img style="width: 100%" height="auto" width="100%" alt="Mr Jonathan LUFF" src="/images/Stackx Cyber Technew Article/mr_jonathan_luff.png">
 </div>
 </div>
 <div class="isomer-card-body">
@@ -77,7 +77,7 @@ connect with industry players and stay ahead within the cybersecurity industry.<
 <div class="isomer-card">
 <div class="isomer-card-image">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Mr. CHUA Kuan Seah" src="/images/Stackx Cyber Technew Article/Mr__CHUA_Kuan_Seah___600_x_407.png">
+<img style="width: 100%" height="auto" width="100%" alt="Mr. CHUA Kuan Seah" src="/images/Stackx Cyber Technew Article/mr_chua_kuan_seah.png">
 </div>
 </div>
 <div class="isomer-card-body">
@@ -88,7 +88,7 @@ connect with industry players and stay ahead within the cybersecurity industry.<
 <div class="isomer-card">
 <div class="isomer-card-image">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Mr Luukas ILVES" src="/images/Stackx Cyber Technew Article/Mr__Luukas_Ilves___600_x_422.png">
+<img style="width: 100%" height="auto" width="100%" alt="Mr Luukas ILVES" src="/images/Stackx Cyber Technew Article/mr_luukas_ilves.png">
 </div>
 </div>
 <div class="isomer-card-body">
@@ -99,7 +99,7 @@ connect with industry players and stay ahead within the cybersecurity industry.<
 <div class="isomer-card">
 <div class="isomer-card-image">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Dr Neal JETTON" src="/images/Stackx Cyber Technew Article/Dr__Neal_JETTON___600_x_400.png">
+<img style="width: 100%" height="auto" width="100%" alt="Dr Neal JETTON" src="/images/Stackx Cyber Technew Article/dr_neal_jetton.png">
 </div>
 </div>
 <div class="isomer-card-body">
@@ -115,7 +115,7 @@ Behind Hidden Criminal Networks</div>
 <div class="isomer-card">
 <div class="isomer-card-image">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Ms. CHUA Ai Qi" src="/images/Stackx Cyber Technew Article/Ms__CHUA_Ai_Qi___600_x_419.png">
+<img style="width: 100%" height="auto" width="100%" alt="Ms. CHUA Ai Qi" src="/images/Stackx Cyber Technew Article/ms_chua_ai_qi.png">
 </div>
 </div>
 <div class="isomer-card-body">
@@ -125,7 +125,7 @@ Behind Hidden Criminal Networks</div>
 <div class="isomer-card">
 <div class="isomer-card-image">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Mrs. Ann JOHNSON" src="/images/Stackx Cyber Technew Article/Mrs__Ann_Johnson___600_x_400.png">
+<img style="width: 100%" height="auto" width="100%" alt="Mrs. Ann JOHNSON" src="/images/Stackx Cyber Technew Article/mrs_ann_johnson.png">
 </div>
 </div>
 <div class="isomer-card-body">
@@ -135,7 +135,7 @@ Behind Hidden Criminal Networks</div>
 <div class="isomer-card">
 <div class="isomer-card-image">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Ms April CHIN" src="/images/Stackx Cyber Technew Article/Ms__April_CHIN___600_x_418.png">
+<img style="width: 100%" height="auto" width="100%" alt="Ms April CHIN" src="/images/Stackx Cyber Technew Article/ms_april_chin.png">
 </div>
 </div>
 <div class="isomer-card-body">
@@ -155,7 +155,7 @@ Behind Hidden Criminal Networks</div>
 <div class="isomer-card">
 <div class="isomer-card-image">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Mr HOO Chuan Wei" src="/images/Stackx Cyber Technew Article/Mr__Hoo_Chuan_Wei___600_x_409.png">
+<img style="width: 100%" height="auto" width="100%" alt="Mr HOO Chuan Wei" src="/images/Stackx Cyber Technew Article/mr_hoo_chuan_wei.png">
 </div>
 </div>
 <div class="isomer-card-body">
