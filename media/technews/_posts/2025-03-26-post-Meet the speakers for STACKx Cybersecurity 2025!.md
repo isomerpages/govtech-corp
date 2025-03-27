@@ -60,7 +60,76 @@ in leading cybersecurity strategies and risk management.</div>
 <a href="https://aws.amazon.com/" rel="noopener nofollow" target="_blank">Amazon Web Services</a>, <a href="https://www.akamai.com/" rel="noopener nofollow" target="_blank">Akamai Technologies</a> and
 other leading companies, connect with industry players and stay ahead within
 the cybersecurity industry.</p>
+<h3>A sneak peak into STACKx Cybersecurity 2025</h3>
+<h6>In the lead-up to STACKx Cybersecurity, we invited our esteemed speaker Mr. Daryl Pereira for a preview of his insights.&nbsp;</h6>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Mr. Daryl Pereira" src="/images/Stackx Cyber Technew Article/EDM_in_page_Section_Banner.png">
+</div>
+<p><strong>Q1. As a CISO in cybersecurity, what is the top quality you think a CISO should possess?</strong>
+<br>From my experience, empathy is often an underrated but a top quality that
+a CISO should possess. A CISO cannot operate in a silo. When juxtaposing
+organisational objectives with technology, CISOs require a multi-faceted&nbsp;perspective
+and look within and beyond the organisation to fully understand the needs
+and culture of the organisation, the environment within which it operates
+and the opportunities and risks that lie beyond the horizon.
+<br>
+<br>This implicit understanding allows them to build the mutual respect and
+trust required to shape security measures that align with the organisation's
+priorities. A heavy-handed approach will never work. Without empathy, gaining
+buy-in and creating the necessary collaborations that make security successful
+would be challenging.
+<br>
+<br><strong>Q2. What are your top priorities over the next five years, and how do you plan to address emerging threats and longer-term challenges?</strong>
+<br>As a CISO, my top priority is to&nbsp;encourage and guide organisations
+towards secure cloud adoption. Moving from on-premises systems to a cloud
+environment often improves security by offering simplified patching, strong
+encryption, consistent access controls, and more robust authentication
+features.
+<br>
+<br>The second priority is&nbsp;supercharging cybersecurity with AI. Within
+Google, we have been developing large language models to accelerate threat
+detection and response by automating security operations to analyse threats
+more quickly and effectively. As AI is an emerging tech for 2025 and beyond,
+we are closely monitoring AI regulations to ensure we adopt and promote
+responsible, compliant AI practices.
+<br>
+<br>Beyond AI and Cloud, quantum computing is another emerging technology
+we should look forward to. Although quantum threats have not been fully
+realised, we should prepare for a post-quantum world by exploring and implementing
+cryptographic solutions resilient to future quantum attacks.
+<br>
+<br><strong>Q3. As a panellist for the CISO plenary discussion, how do you see the responsibilities and influence of CISOs changing, especially in the Asia-Pacific region?</strong>
+<br>In the current era, the CISO role is expanding beyond purely technical
+expertise, demanding a balance of strong technical foundations and deep
+business understanding. In the Asia-Pacific region, regulatory requirements
+differ across countries, so knowledge of legal and compliance frameworks
+is paramount.
+<br>
+<br>Referencing my mentor Phil Venables, who wrote this online article titled
+"<a href="https://www.philvenables.com/post/ciso-archeologist-historian-or-explorer" rel="noopener noreferrer nofollow" target="_blank">CISO: Archeologist, Historian or Explorer</a>",
+I always envision the CISO as an archaeologist and historian uncovering
+why specific systems or processes exist and also as an explorer looking
+for better, more secure ways to modernise. In this region, where digital
+transformation is rapid, CISOs are helping drive top-level strategy, ensuring
+that security aligns seamlessly with innovation and growth.
+<br>
+<br><strong>Q4. Thank you for accepting our invitation to speak at STACKx Cybersecurity. Please share what motivated you to join the event and what you hope to contribute or gain through your participation.<br></strong>My
+motivation as a STACKx Cybersecurity speaker is partly altruistic. My life
+philosophy is that those who give freely often receive far more in return.
+We are never the smartest people in the room. There is always someone more
+knowledgeable within a particular field, and as individuals, we each have
+unique insights to offer. By sharing our expertise across the tech community,
+we help one another learn and grow.
+<br>
+<br>During the panel, I hope to create a two-way exchange that benefits everyone
+by openly discussing practical insights on secure cloud adoption, AI-driven
+security, and ways to foster a culture where security is everyone's responsibility.
+In return, I look forward to gaining fresh perspectives that will influence
+how I approach security at Google.</p>
 <h3>Meet the speakers</h3>
+<p>Feeling inspired by the interview? Take a sneak peek at the exciting speaker
+lineup for STACKx Cybersecurity 2025 and see what else is in store at the
+event.</p>
 <h4>Keynotes</h4>
 <div class="isomer-card-grid">
 <div class="isomer-card">
@@ -511,75 +580,8 @@ testing</div>
 </div>
 </div>
 </div>
-<hr>
-<h3>A sneak peak into STACKx Cybersecurity 2025</h3>
-<h6>In the lead-up to STACKx Cybersecurity, we invited our esteemed speaker Mr. Daryl Pereira for a preview of his insights.&nbsp;</h6>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Mr. Daryl Pereira" src="/images/Stackx Cyber Technew Article/EDM_in_page_Section_Banner.png">
-</div>
-<p><strong>Q1. As a CISO in cybersecurity, what is the top quality you think a CISO should possess?</strong>
-<br>From my experience, empathy is often an underrated but a top quality that
-a CISO should possess. A CISO cannot operate in a silo. When juxtaposing
-organisational objectives with technology, CISOs require a multi-faceted&nbsp;perspective
-and look within and beyond the organisation to fully understand the needs
-and culture of the organisation, the environment within which it operates
-and the opportunities and risks that lie beyond the horizon.
-<br>
-<br>This implicit understanding allows them to build the mutual respect and
-trust required to shape security measures that align with the organisation's
-priorities. A heavy-handed approach will never work. Without empathy, gaining
-buy-in and creating the necessary collaborations that make security successful
-would be challenging.
-<br>
-<br><strong>Q2. What are your top priorities over the next five years, and how do you plan to address emerging threats and longer-term challenges?</strong>
-<br>As a CISO, my top priority is to&nbsp;encourage and guide organisations
-towards secure cloud adoption. Moving from on-premises systems to a cloud
-environment often improves security by offering simplified patching, strong
-encryption, consistent access controls, and more robust authentication
-features.
-<br>
-<br>The second priority is&nbsp;supercharging cybersecurity with AI. Within
-Google, we have been developing large language models to accelerate threat
-detection and response by automating security operations to analyse threats
-more quickly and effectively. As AI is an emerging tech for 2025 and beyond,
-we are closely monitoring AI regulations to ensure we adopt and promote
-responsible, compliant AI practices.
-<br>
-<br>Beyond AI and Cloud, quantum computing is another emerging technology
-we should look forward to. Although quantum threats have not been fully
-realised, we should prepare for a post-quantum world by exploring and implementing
-cryptographic solutions resilient to future quantum attacks.
-<br>
-<br><strong>Q3. As a panellist for the CISO plenary discussion, how do you see the responsibilities and influence of CISOs changing, especially in the Asia-Pacific region?</strong>
-<br>In the current era, the CISO role is expanding beyond purely technical
-expertise, demanding a balance of strong technical foundations and deep
-business understanding. In the Asia-Pacific region, regulatory requirements
-differ across countries, so knowledge of legal and compliance frameworks
-is paramount.
-<br>
-<br>Referencing my mentor Phil Venables, who wrote this online article titled
-"<a href="https://www.philvenables.com/post/ciso-archeologist-historian-or-explorer" rel="noopener noreferrer nofollow" target="_blank">CISO: Archeologist, Historian or Explorer</a>",
-I always envision the CISO as an archaeologist and historian uncovering
-why specific systems or processes exist and also as an explorer looking
-for better, more secure ways to modernise. In this region, where digital
-transformation is rapid, CISOs are helping drive top-level strategy, ensuring
-that security aligns seamlessly with innovation and growth.
-<br>
-<br><strong>Q4. Thank you for accepting our invitation to speak at STACKx Cybersecurity. Please share what motivated you to join the event and what you hope to contribute or gain through your participation.<br></strong>My
-motivation as a STACKx Cybersecurity speaker is partly altruistic. My life
-philosophy is that those who give freely often receive far more in return.
-We are never the smartest people in the room. There is always someone more
-knowledgeable within a particular field, and as individuals, we each have
-unique insights to offer. By sharing our expertise across the tech community,
-we help one another learn and grow.
-<br>
-<br>During the panel, I hope to create a two-way exchange that benefits everyone
-by openly discussing practical insights on secure cloud adoption, AI-driven
-security, and ways to foster a culture where security is everyone's responsibility.
-In return, I look forward to gaining fresh perspectives that will influence
-how I approach security at Google.</p>
-<hr>
 <h4>Keen to Hear from these Speakers?<br>Register for <a href="https://go.gov.sg/stackxcyber-technewsarticle" rel="noopener nofollow" target="_blank">STACKx Cybersecurity 2025</a>!</h4>
+<p></p>
 <hr>
 <div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="https://go.gov.sg/communitysignup-technews" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Subscribe to the TechNews email newsletter" src="/images/CTA card images/technews_footer.jpg"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Subscribe to the TechNews email newsletter</div><div class="isomer-card-link">TechNews</div></div></a>
 <a rel="noopener noreferrer nofollow" href="https://go.gov.sg/communitysignup-technews" class="isomer-card">
