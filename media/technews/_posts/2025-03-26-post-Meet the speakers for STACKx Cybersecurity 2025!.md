@@ -14,7 +14,7 @@ variant: tiptap
 be held on <strong>15 April 2025</strong> at the <strong>Sands Expo and Convention Centre</strong>.&nbsp;
 <br>
 </p>
-<h3>Early bird tickets are at 20% off usual price,  ending at 31 March.<br>Sign up for <a href="https://go.gov.sg/stackxcyber-technewsarticle" rel="noopener nofollow" target="_blank"><u>STACKx Cybersecurity 2025</u></a> now!</h3>
+<h3>Early bird tickets are at 20% off usual price, ending at 31 March.<br>Sign up for <a href="https://go.gov.sg/stackxcyber-technewsarticle" rel="noopener nofollow" target="_blank"><u>STACKx Cybersecurity 2025</u></a> now!</h3>
 <p></p>
 <hr>
 <h3>About STACKx Cybersecurity 2025</h3>
@@ -247,12 +247,11 @@ speaker lineup for STACKx Cybersecurity 2025 keynote and high-level plenary!</p>
 </div>
 </div>
 </div>
-<hr>
 <p>*Please note that the programme may be subject to change without prior
 notice
 <br>
 </p>
-<h4>Keen to Hear from these Speakers?<br>Register for <a href="https://go.gov.sg/stackxcyber-technewsarticle" rel="noopener nofollow" target="_blank">STACKx Cybersecurity 2025</a>!</h4>
+<h4>Check out the full speaker lineup for <a href="https://go.gov.sg/stackxcyber-technewsarticle" rel="noopener nofollow" target="_blank">STACKx Cybersecurity 2025 event page</a>!</h4>
 <p></p>
 <hr>
 <div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="https://go.gov.sg/communitysignup-technews" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Subscribe to the TechNews email newsletter" src="/images/CTA card images/technews_footer.jpg"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Subscribe to the TechNews email newsletter</div><div class="isomer-card-link">TechNews</div></div></a>
