@@ -581,6 +581,10 @@ testing</div>
 </div>
 </div>
 </div>
+<p>*Please note that the programme may be subject to change without prior
+notice
+<br>
+</p>
 <h4>Keen to Hear from these Speakers?<br>Register for <a href="https://go.gov.sg/stackxcyber-technewsarticle" rel="noopener nofollow" target="_blank">STACKx Cybersecurity 2025</a>!</h4>
 <p></p>
 <hr>
