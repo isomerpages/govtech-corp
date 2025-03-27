@@ -61,7 +61,8 @@ in leading cybersecurity strategies and risk management.</div>
 other leading companies, connect with industry players and stay ahead within
 the cybersecurity industry.</p>
 <h3>A sneak peak into STACKx Cybersecurity 2025</h3>
-<h6>In the lead-up to STACKx Cybersecurity, we invited our esteemed speaker Mr. Daryl Pereira for a preview of his insights.&nbsp;</h6>
+<p>In the lead-up to STACKx Cybersecurity, we invited our esteemed speaker
+Mr. Daryl Pereira for a preview of his insights.&nbsp;</p>
 <p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="Daryl Pereira" src="/images/Stackx Cyber Technew Article/EDM_in_page_Section_Banner.png">
