@@ -62,8 +62,9 @@ other leading companies, connect with industry players and stay ahead within
 the cybersecurity industry.</p>
 <h3>A sneak peak into STACKx Cybersecurity 2025</h3>
 <h6>In the lead-up to STACKx Cybersecurity, we invited our esteemed speaker Mr. Daryl Pereira for a preview of his insights.&nbsp;</h6>
+<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Mr. Daryl Pereira" src="/images/Stackx Cyber Technew Article/EDM_in_page_Section_Banner.png">
+<img style="width: 100%" height="auto" width="100%" alt="Daryl Pereira" src="/images/Stackx Cyber Technew Article/EDM_in_page_Section_Banner.png">
 </div>
 <p><strong>Q1. As a CISO in cybersecurity, what is the top quality you think a CISO should possess?</strong>
 <br>From my experience, empathy is often an underrated but a top quality that
