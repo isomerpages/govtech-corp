@@ -115,10 +115,4 @@ sections:
             and Secure Cloud, Future Proofing CISOs."
           link_text: Discover More
           link_url: /media/events/stackx-cybersecurity-2025/
-        - title: STACK Developer Conference
-          date: 06 November 2024
-          announcement: STACK Developer Conference is GovTech’s biennial flagship
-            conference connecting Government, industry, and the tech community.
-          link_text: Watch Recordings
-          link_url: https://www.developer.tech.gov.sg/communities/events/conferences/stack-developer-conference-2024/recordings
 ---
