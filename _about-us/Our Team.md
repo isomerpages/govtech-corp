@@ -27,7 +27,8 @@ image: /images/About Us/GovTechSg_True_Inline_Logo_2_Cyan.jpg
 </div>
 <div class="isomer-card-body">
 <div class="isomer-card-title">Mr GOH Wei Boon</div>
-<div class="isomer-card-description">Chief Executive, Government Technology Agency of Singapore</div>
+<div class="isomer-card-description">Chief Executive, Government Technology Agency of Singapore &amp; Government
+Chief Digital Technology Officer, Ministry of Digital Development and Information</div>
 </div>
 </div>
 <div class="isomer-card">
@@ -155,8 +156,8 @@ EY</div>
 </div>
 <div class="isomer-card-body">
 <div class="isomer-card-title">Mr GOH Wei Boon</div>
-<div class="isomer-card-description">Chief Executive &amp; Government Chief Digital Technology Officer, Government
-Technology Agency of Singapore</div>
+<div class="isomer-card-description">Chief Executive, Government Technology Agency of Singapore &amp; Government
+Chief Digital Technology Officer, Ministry of Digital Development and Information</div>
 </div>
 </div>
 <div class="isomer-card">
