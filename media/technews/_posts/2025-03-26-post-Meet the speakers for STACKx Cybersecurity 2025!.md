@@ -7,13 +7,12 @@ description: Meet the speakers for STACKx Cybersecurity 2025
 image: /images/Stackx Cyber Technew Article/EDM_Banner.png
 variant: tiptap
 ---
-<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="STACKx Cybersecurity" src="/images/Stackx Cyber Technew Article/EDM_Banner.png">
 </div>
 <p>Mark your calendars! GovTech’s <strong>STACKx Cybersecurity 2025</strong> will
 be held on <strong>15 April 2025</strong> at the <strong>Sands Expo and Convention Centre</strong>.&nbsp;</p>
-<h3><strong>About STACKx Cybersecurity 2025</strong></h3>
+<h3>About STACKx Cybersecurity 2025</h3>
 <p>As Singapore forges toward a digitally secure future as part of its Smart
 Nation Vision, this event will bring together <strong>government agencies, industry leaders, and cybersecurity specialists</strong> to
 discuss the latest cybersecurity trends, challenges, and opportunities.
@@ -61,8 +60,8 @@ in leading cybersecurity strategies and risk management.</div>
 <a href="https://aws.amazon.com/" rel="noopener nofollow" target="_blank">Amazon Web Services</a>, <a href="https://www.akamai.com/" rel="noopener nofollow" target="_blank">Akamai Technologies</a> and
 other leading companies, connect with industry players and stay ahead within
 the cybersecurity industry.</p>
-<h3><strong>Meet the speakers</strong></h3>
-<h3><strong>Keynotes</strong></h3>
+<h3>Meet the speakers</h3>
+<h4>Keynotes</h4>
 <div class="isomer-card-grid">
 <div class="isomer-card">
 <div class="isomer-card-image">
@@ -110,7 +109,7 @@ the cybersecurity industry.</p>
 </div>
 </div>
 <hr>
-<h3><strong>High-Level Plenary​: Security Leadership in an Age of Insecurity</strong></h3>
+<h4>High-Level Plenary​: Security Leadership in an Age of Insecurity</h4>
 <div class="isomer-card-grid">
 <div class="isomer-card">
 <div class="isomer-card-image">
@@ -174,7 +173,7 @@ the cybersecurity industry.</p>
 </div>
 </div>
 <hr>
-<h3><strong>Track 1: AI x Cybersecurity</strong></h3>
+<h3>Track 1: AI x Cybersecurity</h3>
 <h4>Panel: Cyber Threats and Opportunities Arising from Harnessing AI</h4>
 <div class="isomer-card-grid">
 <div class="isomer-card">
@@ -287,7 +286,7 @@ Threats</div>
 </div>
 </div>
 <hr>
-<h3><strong>Track 2: Resilient and Secure Cloud</strong></h3>
+<h3>Track 2: Resilient and Secure Cloud</h3>
 <h4>Panel: Navigating the Future of Cloud Security: Automation, Alert Fatigue, and Developer Responsibility</h4>
 <div class="isomer-card-grid">
 <div class="isomer-card">
@@ -410,7 +409,7 @@ Threats</div>
 </div>
 </div>
 <hr>
-<h3><strong>Track 3: CISOs of the Future</strong></h3>
+<h3>Track 3: CISOs of the Future</h3>
 <h4>Panel: CISO Strategies for the Next Era of Cybersecurity</h4>
 <div class="isomer-card-grid">
 <div class="isomer-card">
@@ -513,7 +512,7 @@ testing</div>
 </div>
 </div>
 <hr>
-<h3><strong>A sneak peak into STACKx Cybersecurity 2025</strong></h3>
+<h3>A sneak peak into STACKx Cybersecurity 2025</h3>
 <h6>In the lead-up to STACKx Cybersecurity, we invited our esteemed speaker Mr. Daryl Pereira for a preview of his insights.&nbsp;</h6>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="Mr. Daryl Pereira" src="/images/Stackx Cyber Technew Article/EDM_in_page_Section_Banner.png">
@@ -580,7 +579,7 @@ security, and ways to foster a culture where security is everyone's responsibili
 In return, I look forward to gaining fresh perspectives that will influence
 how I approach security at Google.</p>
 <hr>
-<h4><strong>Keen to Hear from These Speakers?</strong><br><strong>Register for the <a href="https://go.gov.sg/stackxcyber-technewsarticle" rel="noopener nofollow" target="_blank">STACKx Cybersecurity 2025</a>!</strong></h4>
+<h4>Keen to Hear from these Speakers?<br>Register for <a href="https://go.gov.sg/stackxcyber-technewsarticle" rel="noopener nofollow" target="_blank">STACKx Cybersecurity 2025</a>!</h4>
 <hr>
 <div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="https://go.gov.sg/communitysignup-technews" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Subscribe to the TechNews email newsletter" src="/images/CTA card images/technews_footer.jpg"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Subscribe to the TechNews email newsletter</div><div class="isomer-card-link">TechNews</div></div></a>
 <a rel="noopener noreferrer nofollow" href="https://go.gov.sg/communitysignup-technews" class="isomer-card">
