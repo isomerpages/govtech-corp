@@ -14,7 +14,7 @@ variant: tiptap
 be held on <strong>15 April 2025</strong> at the <strong>Sands Expo and Convention Centre</strong>.&nbsp;
 <br>
 </p>
-<h3>Early bird tickets are at 20% off usual price, ending at 31 March.<br>Sign up for <a href="https://go.gov.sg/stackxcyber-technewsarticle" rel="noopener nofollow" target="_blank"><u>STACKx Cybersecurity 2025</u></a> now!</h3>
+<h3>Early bird tickets are at 20% off the usual price, ending on 31 March.<br>Sign up for <a href="https://go.gov.sg/stackxcyber-technewsarticle" rel="noopener nofollow" target="_blank"><u>STACKx Cybersecurity 2025</u></a> now!</h3>
 <p></p>
 <hr>
 <h3>About STACKx Cybersecurity 2025</h3>
