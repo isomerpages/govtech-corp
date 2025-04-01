@@ -23,9 +23,8 @@ Have other fortes? We also offer internship roles in non-tech capacities
 such as HR, communications and marketing, and more.</p>
 <p>Whichever track you choose, you'll learn from GovTech's senior leaders
 and gain access to courses and career workshops.</p>
-<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="GovTech internship infographic" src="/images/careers/internship_infographic_mar2025.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="GovTech internship requirements" src="/images/careers/internship_infographic_2025.png">
 </div>
 <h3>How can you apply?</h3>
 <p>We’re looking for polytechnic students, undergraduates, and recent A-Level
