@@ -20,9 +20,8 @@ Designed with final-year students and fresh university graduates in mind,
 this exclusive and personalised programme turns young minds like you into
 confident tech leaders who will ultimately make a positive impact on the
 lives of Singaporeans.</p>
-<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="GovTech TAP infographic" src="/images/careers/tap_infographic_mar2025.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="TAP programme requirements" src="/images/careers/TAP_infographic_2025_updated.png">
 </div>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="Technology Associate Programme (TAP) application process" src="/images/careers/TAP_timeline_infographics__1_.jpg">
