@@ -28,12 +28,13 @@ initiatives.</p>
 <p>Discover new public sector digitalisation opportunities.</p>
 </li>
 <li>
-<p>Shape Singapore's digital future through strategic discussions and collaborations.</p>
+<p>Shape Singapore’s digital future through open discussions and purposeful
+collaborations.</p>
 </li>
 </ul>
-<p>Be part of shaping Singapore's digital future. Register your interest
-for Industry Engagement 2025 today! Due to limited capacity, each company
-will be allocated a maximum of three seats.</p>
+<p>Be part of shaping Singapore's digital future. <a href="https://go.gov.sg/ie2025-eventpage" class="c-link" rel="noopener noreferrer" target="_blank">Register your interest</a> for
+Industry Engagement 2025 today! Due to limited capacity, each company will
+be allocated a maximum of three seats.</p><a class="isomer-image-wrapper" href="https://go.gov.sg/ie2025-eventpage"><img style="width: 100%" height="auto" width="100%" alt="Register your interest button" src="/images/OpenAI_Hackathon__CTA_button.png"></a>
 <h3>Event Details:</h3>
 <ul data-tight="true" class="tight">
 <li>
@@ -49,15 +50,15 @@ will be allocated a maximum of three seats.</p>
 <p><strong>Format:</strong> In-person event</p>
 </li>
 </ul>
-<h3>[New in 2025] Connect &amp; Explore Segment</h3>
-<p>Connect &amp; Explore is a new initiative that brings solution providers
-and government agencies together. Starting now until 30 April 2025, you
-can review five agency problem statements and submit your registration
-of interest for a one-on-one 20-minute session.</p>
-<p>Stand a chance to get direct access to government agencies to understand
-their business challenges, explore innovative solutions and share your
-company's capabilities. Don't miss this opportunity!</p>
-<p><strong>Register your interest now for the Connect &amp; Explore Segment! </strong><em>(Note: Only registered participants of IE2025 can participate in this segments)</em>
+<h3>[New] Connect &amp; Explore Segment</h3>
+<p>Beyond our keynote presentations, panel discussions, and engagement booths
+with lightning talks, we are introducing a new segment, Connect &amp; Explore.
+This new segment provides a unique opportunity for solution providers to
+engage directly with government agencies in a one-on-one 20-minute session.
+There are five agency problem statements. It’s a valuable chance to explore
+potential collaborations, share your expertise and demonstrate how your
+solution can make a tangible impact to the problem.</p>
+<p><strong><a href="https://go.gov.sg/ie25-connect-explore" rel="noopener nofollow" target="_blank">Register your interest now for the Connect &amp; Explore Segment</a>! </strong><em>(Note: Only registered participants of IE2025 can participate in this segments)</em>
 </p>
 <h3>Programme:</h3>
 <table style="minWidth: 50px">
@@ -118,7 +119,7 @@ Platforms</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>[New in 2025] Connect &amp; Explore Segment (by Appointment Only)</p>
+<p>[New] Connect &amp; Explore Segment (by Appointment Only)</p>
 </td>
 </tr>
 <tr>
@@ -133,7 +134,7 @@ Platforms</p>
 </table>
 <p><em>*Please note that the programme may be subject to change without prior notice.</em>
 </p>
-<p>For IE 2025 queries, please contact our event management partner at&nbsp;
+<p>For IE2025 queries, please contact our event management partner at&nbsp;
 <a href="mailto: IE2025Secretariat@Knoxx.com.sg" rel="noopener noreferrer nofollow" target="_blank">IE2025Secretariat@Knoxx.com.sg</a>.</p>
 <p><a href="/files/media/Events/Code_of_Conduct_for_IE2025.pdf" rel="noopener noreferrer nofollow" target="_blank">Code of Conduct</a>&nbsp;
 |&nbsp; <a href="/files/media/Events/Terms_and_Conditions_IE2025.pdf" rel="noopener nofollow" target="_blank">Terms and Conditions</a>
