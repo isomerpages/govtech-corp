@@ -66,8 +66,8 @@ in leading cybersecurity strategies and risk management.</div>
 other leading companies, connect with industry players and stay ahead within
 the cybersecurity industry.</p>
 <h3>A sneak peak into STACKx Cybersecurity 2025</h3>
-<p>In the lead-up to STACKx Cybersecurity, we invited our esteemed speaker
-Mr. Daryl Pereira and Mr. Chua Kuan Seah for a preview of his insights.&nbsp;</p>
+<p>In the lead-up to STACKx Cybersecurity, we invited our esteemed speakers,
+Mr. Daryl Pereira and Mr. Chua Kuan Seah, for a preview of their insights.&nbsp;</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="daryl pereira" src="/images/Stackx Cyber Technew Article/daryl pereira section banner.png">
 </div>
