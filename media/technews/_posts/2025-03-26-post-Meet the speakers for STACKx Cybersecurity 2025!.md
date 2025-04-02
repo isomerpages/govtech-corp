@@ -67,10 +67,9 @@ other leading companies, connect with industry players and stay ahead within
 the cybersecurity industry.</p>
 <h3>A sneak peak into STACKx Cybersecurity 2025</h3>
 <p>In the lead-up to STACKx Cybersecurity, we invited our esteemed speaker
-Mr. Daryl Pereira for a preview of his insights.&nbsp;</p>
-<p></p>
+Mr. Daryl Pereira and Mr. Chua Kuan Seah for a preview of his insights.&nbsp;</p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Daryl Pereira" src="/images/Stackx Cyber Technew Article/EDM_in_page_Section_Banner.png">
+<img style="width: 100%" height="auto" width="100%" alt="daryl pereira" src="/images/Stackx Cyber Technew Article/daryl pereira section banner.png">
 </div>
 <p><strong>Q1. As a CISO in cybersecurity, what is the top quality you think a CISO should possess?</strong>
 <br>From my experience, empathy is often an underrated but a top quality that
@@ -133,6 +132,58 @@ by openly discussing practical insights on secure cloud adoption, AI-driven
 security, and ways to foster a culture where security is everyone's responsibility.
 In return, I look forward to gaining fresh perspectives that will influence
 how I approach security at Google.</p>
+<p></p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="chua kuan seah" src="/images/Stackx Cyber Technew Article/chua kuan seah section banner.png">
+</div>
+<p></p>
+<p><strong>Q1. Could you give us a brief introduction about your roles and responsibilities?</strong>
+</p>
+<p><em>As Deputy Commissioner for Cybersecurity and the Deputy Chief Executive (Development) of the Cyber Security Agency of Singapore (CSA), my key responsibilities include:&nbsp;</em>
+</p>
+<ol data-tight="true" class="tight">
+<li>
+<p><em>Protecting critical information infrastructure and preventing and responding to cybersecurity threats and incidents under Singapore’s Cybersecurity Act.&nbsp;&nbsp;</em>
+</p>
+</li>
+<li>
+<p><em>Leading national-level cybersecurity efforts in master planning, capability development and research&nbsp;</em>
+</p>
+</li>
+<li>
+<p><em>Formulating and executing our international cyber tech diplomacy strategy and collaboration efforts.</em>
+</p>
+</li>
+</ol>
+<p><strong>&nbsp;</strong>
+</p>
+<p><strong>Q2. Are there any lesser-known government cybersecurity efforts that the public should be more aware of?</strong>
+</p>
+<p><em>There are two areas that people should be aware of.</em>
+</p>
+<p><em>First, people must be aware of the sophisticated and advanced threats targeting Singapore. Due to their sensitive nature, these threats do not often appear in the news, but their danger to our infrastructures and systems is very real. The Government works behind the scenes to prevent, detect, and respond to such threats. One example is what we are now building—the National Cyber Command Centre in Punggol Digital District.</em>
+</p>
+<p><em>Second, we are putting much effort into securing our local enterprises and organisations, including small and medium enterprises, under our CyberSafe programme. We are investing in tools and resources to protect our enterprises and the public, such as Cyber Essentials and Cyber Trust marks. For smaller companies, CSA also invests in CISO-as-a-service to help them get up to speed in their security posture. From a customer's perspective, companies or vendors engaged can also be demanded to meet these trust marks.&nbsp;&nbsp;</em>
+</p>
+<p>&nbsp;</p>
+<p><strong>Q3. As a speaker at STACKx Cybersecurity, could you give us a sneak peek at the insights you will share for your "Singapore's National Strategy to Deal with Cybersecurity Threats" session?</strong>
+</p>
+<p><em>During my session, I will discuss Singapore's national approach to dealing with cyber threats based on our national cyber defence approach, focusing specifically on three pillars in operations against cyber threats, policy, and regulatory levels to enforce cyber standards and technology.&nbsp; Cybersecurity is a collective effort and cannot be done alone. So, I will also talk about how we collaborate across the Government, industry, academia, and foreign partners to strengthen and protect our systems.&nbsp; Come and listen to what we do in CSA!</em>
+</p>
+<p><strong>&nbsp;</strong>
+</p>
+<p><strong>Q4. With the rise of AI, how do you see it reshaping cybersecurity in the next few years? And what steps should organisations and governments take to harness AI for cybersecurity effectively?</strong>
+</p>
+<p><em>This is a million-dollar question!&nbsp; First, organisations and governments must understand the opportunities and risks that AI can bring.&nbsp; To harness AI, leaders must organise their processes, systems, and workforce to embrace AI.&nbsp; However, this adoption of AI must be done holistically and not in separate steps.&nbsp; As we organise to adopt AI, there are several areas of consideration, such as the security and safety risks of using AI, the guardrails needed to be put in place, the training required for the existing workforce and the recruitment of professionals to help us develop the strategy. The good news is that there are a lot of resources that have been designed to help organisations and governments adopt AI securely.&nbsp; CSA has also developed guides to help enterprises and organisations securely adopt AI, including a </em>
+<a href="https://www.csa.gov.sg/resources/publications/guidelines-and-companion-guide-on-securing-ai-systems" rel="noopener nofollow" target="_blank">Companion Guide</a><em> that illustrates the detailed steps organisations can take.</em>
+</p>
+<p><strong>&nbsp;</strong>
+</p>
+<p><strong>Q5. How do you stay updated on cybersecurity trends and best practices in an ever-evolving field? Are there any resources or habits you would recommend to aspiring cybersecurity professionals?</strong>
+</p>
+<p><em>Cybersecurity is one of the most exciting fields in IT.&nbsp; It is more than IT.&nbsp; It is not just the science and technology that change, but also the real threat actors behind it and the tactics and techniques these threat actors employ. I have worked in cybersecurity for nearly 30 years, and there has never been a dull moment.&nbsp; Everyone should also set aside some protected time once a week to learn more about the field.&nbsp; The good (and bad) thing is that there are so many more re</em>
+</p>
 <h3>Meet the speakers</h3>
 <p>Feeling inspired by the interview? Here is a sneak peek at the exciting
 speaker lineup for STACKx Cybersecurity 2025 keynote and high-level plenary!</p>
