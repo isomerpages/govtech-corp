@@ -9,9 +9,8 @@ image: ""
 variant: tiptap
 ---
 <p></p>
-<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Industry Engagement 2025 Powered by GovTech" src="/images/IE_KV__1_.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="Industry Engagement 2025" src="/images/Web_Banner_with_Latest_KV_as_at_2_Apr.png">
 </div>
 <p>Industry Engagement (IE) 2025 brings together business leaders, industry
 partners, and senior public sector stakeholders for strategic dialogue
@@ -34,7 +33,7 @@ collaborations.</p>
 </ul>
 <p>Be part of shaping Singapore's digital future. <a href="https://go.gov.sg/ie2025-eventpage" class="c-link" rel="noopener noreferrer" target="_blank">Register your interest</a> for
 Industry Engagement 2025 today! Due to limited capacity, each company will
-be allocated a maximum of three seats.</p><a class="isomer-image-wrapper" href="https://go.gov.sg/ie2025-eventpage"><img style="width: 100%" height="auto" width="100%" alt="Register your interest button" src="/images/OpenAI_Hackathon__CTA_button.png"></a>
+be allocated a maximum of three seats.</p><a class="isomer-image-wrapper" href="https://go.gov.sg/ie2025-eventpage"><img style="width: 50%;" height="auto" width="100%" alt="Register your interest button" src="/images/OpenAI_Hackathon__CTA_button.png"></a>
 <h3>Event Details:</h3>
 <ul data-tight="true" class="tight">
 <li>
