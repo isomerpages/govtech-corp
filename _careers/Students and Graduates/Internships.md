@@ -36,6 +36,9 @@ the timelines as well as guidelines for our internship applications.</p>
 <p>Our internship applications are currently closed. We welcome your application
 during our next recruitment cycle from August to September 2025.</p>
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="GovTech internship timelines 2025" src="/images/careers/govtech_internship_timelines_2025.png">
+</div>
 <h3>Hear from our past interns</h3>
 <p></p>
 <div class="instagram-wrapper">
