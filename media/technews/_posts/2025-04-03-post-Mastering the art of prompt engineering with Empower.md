@@ -77,5 +77,5 @@ this:</p>
 real mastery comes through hands-on practice.
 <br>
 <br>And that’s where the Empower team at GovTech comes in.</p>
-<p></p>
+<h3>Empowering Public Officers</h3>
 <p></p>
