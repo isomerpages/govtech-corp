@@ -69,5 +69,13 @@ useful outputs.</p>
 </li>
 </ul>
 <p></p>
+<p>Applying that to our earlier climate change example, it might look like
+this:</p>
+<p><em>I work in a non-profit organisation </em><strong><em>(Context) </em></strong><em>and I have been asked to write an electronic direct mailer informing people about climate change </em><strong><em>(Objective). </em></strong><em>Write this in the style of popular lifestyle publications </em><strong><em>(Style)</em></strong><em>, keeping the tone informal and friendly </em><strong><em>(Tone)</em></strong><em>. This will be read by audiences residing in Singapore</em><strong><em> (Audience)</em></strong><em> I need this to be about 350 words long, broken up into paragraphs of 100 words each. End with a Call-To-Action to sign up to the newsletter </em><strong><em>(Response).</em></strong>
+</p>
+<p>That’s just the start, though. The CO-STAR framework is powerful, but
+real mastery comes through hands-on practice.
+<br>
+<br>And that’s where the Empower team at GovTech comes in.</p>
 <p></p>
 <p></p>
