@@ -118,6 +118,7 @@ you.</p>
 <p>
 <br><em>PS: For more on how GovTech is embracing AI, check out GovTech Decoded <a href="https://www.youtube.com/watch?v=v307FYZK4P4" rel="noopener noreferrer nofollow" target="_blank">episodes 5</a> and <a href="https://www.youtube.com/watch?v=0NsuTDLhlb4" rel="noopener noreferrer nofollow" target="_blank">6!</a></em>
 </p>
+<p></p>
 <hr>
 <p></p>
 <div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="https://go.gov.sg/communitysignup-technews" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Subscribe to the TechNews email newsletter" src="/images/tn_cta.png"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Subscribe to the TechNews email newsletter</div><div class="isomer-card-link">TechNews</div></div></a>
