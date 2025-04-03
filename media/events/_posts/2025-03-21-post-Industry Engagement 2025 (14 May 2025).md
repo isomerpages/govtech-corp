@@ -10,7 +10,7 @@ variant: tiptap
 ---
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Industry Engagement 2025 Event Banner" src="/images/IE_2025_Interim_Banner.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="Industry Engagement 2025" src="/images/Web_Banner_with_Latest_KV_as_at_2_Apr.png">
 </div>
 <p>Industry Engagement (IE) 2025 brings together business leaders, industry
 partners, and senior public sector stakeholders for strategic dialogue
@@ -20,25 +20,20 @@ that drive Singapore's digital transformation.</p>
 <h3>Why you should attend:</h3>
 <ul data-tight="true" class="tight">
 <li>
-<p>Gain exclusive insights into GovTech's strategic priorities and collaboration
+<p>Gain exclusive insights into GovTech's strategic priorities and upcoming
 initiatives.</p>
 </li>
 <li>
-<p>Network with industry leaders and senior government decision-makers.</p>
+<p>Discover new public sector digitalisation opportunities.</p>
 </li>
 <li>
-<p>Discover upcoming public sector digitalisation initiatives.</p>
-</li>
-<li>
-<p>Participate in strategic discussions shaping Singapore's digital future.</p>
-</li>
-<li>
-<p>Learn about new ways to collaborate with the public sector.</p>
+<p>Shape Singapore’s digital future through open discussions and purposeful
+collaborations.</p>
 </li>
 </ul>
-<p>Be part of shaping Singapore's digital future.</p>
-<p><em>Registration opening soon.</em>
-</p>
+<p>Be part of shaping Singapore's digital future. <a href="https://go.gov.sg/ie2025-eventpage" class="c-link" rel="noopener noreferrer" target="_blank">Register your interest</a> for
+Industry Engagement 2025 today! Due to limited capacity, each company will
+be allocated a maximum of three seats.</p><a class="isomer-image-wrapper" href="https://go.gov.sg/ie2025-eventpage"><img style="width: 50%;" height="auto" width="100%" alt="Register your interest button" src="/images/OpenAI_Hackathon__CTA_button.png"></a>
 <h3>Event Details:</h3>
 <ul data-tight="true" class="tight">
 <li>
@@ -48,12 +43,22 @@ initiatives.</p>
 <p><strong>Time:</strong> 9:00 AM to 1:00 PM</p>
 </li>
 <li>
-<p><strong>Venue: </strong>Sands Expo Convention</p>
+<p><strong>Venue: </strong>Sands Expo &amp; Convention Centre</p>
 </li>
 <li>
 <p><strong>Format:</strong> In-person event</p>
 </li>
 </ul>
+<h3>[New] Connect &amp; Explore Segment</h3>
+<p>Beyond our keynote presentations, panel discussions, and engagement booths
+with lightning talks, we are introducing a new segment, Connect &amp; Explore.
+This new segment provides a unique opportunity for solution providers to
+engage directly with government agencies in a one-on-one 20-minute session.
+There are five agency problem statements. It’s a valuable chance to explore
+potential collaborations, share your expertise and demonstrate how your
+solution can make a tangible impact to the problem.</p>
+<p><strong><a href="https://go.gov.sg/ie25-connect-explore" rel="noopener nofollow" target="_blank">Register your interest now for the Connect &amp; Explore Segment</a>! </strong><em>(Note: Only registered participants of IE2025 can participate in this segments)</em>
+</p>
 <h3>Programme:</h3>
 <table style="minWidth: 50px">
 <colgroup>
@@ -104,12 +109,16 @@ Platforms</p>
 </td>
 </tr>
 <tr>
-<td rowspan="1" colspan="1">
+<td rowspan="2" colspan="1">
 <p>11.15AM</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Engagement Booths and Lightning Talks with Light Refreshments</p>
-<p>Connect &amp; Explore (by Appointment Only)</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>[New] Connect &amp; Explore Segment (by Appointment Only)</p>
 </td>
 </tr>
 <tr>
@@ -124,9 +133,9 @@ Platforms</p>
 </table>
 <p><em>*Please note that the programme may be subject to change without prior notice.</em>
 </p>
-<p>For IE 2025 queries, please contact our event management partner at&nbsp;
-<a rel="noopener noreferrer nofollow" target="_blank">IE2025Secretariat@knoxx.com.sg</a>.</p>
+<p>For IE2025 queries, please contact our event management partner at&nbsp;
+<a href="mailto: IE2025Secretariat@Knoxx.com.sg" rel="noopener noreferrer nofollow" target="_blank">IE2025Secretariat@Knoxx.com.sg</a>.</p>
 <p><a href="/files/media/Events/Code_of_Conduct_for_IE2025.pdf" rel="noopener noreferrer nofollow" target="_blank">Code of Conduct</a>&nbsp;
-|&nbsp; <a href="/files/media/Events/Terms_and_Conditions_for_IE2025.pdf" rel="noopener noreferrer nofollow" target="_blank">Terms and Conditions</a>
+|&nbsp; <a href="/files/media/Events/Terms_and_Conditions_IE2025.pdf" rel="noopener nofollow" target="_blank">Terms and Conditions</a>
 </p>
 <p></p>
