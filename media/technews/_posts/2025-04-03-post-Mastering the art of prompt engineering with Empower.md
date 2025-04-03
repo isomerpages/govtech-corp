@@ -103,3 +103,19 @@ improving public service delivery to streamlining internal processes.</p>
 officers work smarter, not harder. Instead of spending hours figuring things
 out manually, they can let AI handle repetitive tasks and focus on higher-level
 problem-solving and innovation.</p>
+<h3>AI for everyone</h3>
+<p>If there’s anything that we’ve learned from the Empower Team, it’s that
+prompt engineering isn’t a fancy term just for people well-versed with
+AI.</p>
+<p>Rather, it’s a practical skill anyone who uses AI—whether for work or
+personal projects—can tap into to ask better, more important questions
+and get the results they need.</p>
+<p>So, the next time you’re staring at the blinking cursor in the prompt
+field, try utilising the CO-STAR framework.
+<br>
+<br>It just might make all the difference in making the AI stars align for
+you.</p>
+<p>
+<br><em>PS: For more on how GovTech is embracing AI, check out GovTech Decoded <a href="https://www.youtube.com/watch?v=v307FYZK4P4" rel="noopener noreferrer nofollow" target="_blank">episodes 5</a> and <a href="https://www.youtube.com/watch?v=0NsuTDLhlb4" rel="noopener noreferrer nofollow" target="_blank">6!</a></em>
+</p>
+<p></p>
