@@ -28,47 +28,16 @@ and gain access to courses and career workshops.</p>
 </div>
 <h3>How can you apply?</h3>
 <p>We’re looking for polytechnic students, undergraduates, and recent A-Level
-and diploma graduates awaiting university admission who are up for a challenge
+and diploma graduates awaiting university admission who are up for a challnge
 and want to make a difference! If that sounds like you, first check out
-the timelines as well as guidelines for our internship applications. <strong>Do note that applicants who have graduated from university are not eligible for our internship programme.</strong>
-</p>
-<table style="minWidth: 25px">
-<colgroup>
-<col>
-</colgroup>
-<tbody>
-<tr>
-<td rowspan="1" colspan="1">
-<p><strong>Check out available internship roles and projects at GovTech.</strong>
-</p>
-<p><strong><a href="http://go.gov.sg/govtechinternshipprojects2025" rel="noopener noreferrer nofollow" target="_blank"><u>go.gov.sg/govtechinternshipprojects2025</u></a></strong>
-</p>
+the timelines as well as guidelines for our internship applications.</p>
+<p>Do note that applicants who have graduated from university are not eligible
+for our internship programme.</p>
+<p>Our internship applications are currently closed. We welcome your application
+during our next recruitment cycle from August to September 2025.</p>
 <p></p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p><strong>Ready to apply? Submit your application via Careers@Gov today!</strong>
-</p>
-<p><strong><a href="http://go.gov.sg/govtechinternship2025" rel="noopener noreferrer nofollow" target="_blank">go.gov.sg/govtechinternship2025</a>&nbsp;</strong>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p><strong>Already applied? Let us know your preferred project(s) via our form.</strong>
-</p>
-<p><strong><a href="http://go.gov.sg/govtech2025internships" rel="noopener noreferrer nofollow" target="_blank"><u>go.gov.sg/govtech2025internships</u></a></strong>
-</p>
-</td>
-</tr>
-</tbody>
-</table>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="GovTech internship 2025 application periods" src="/images/careers/govtech_internship_application_period_2025.jpg">
-</div>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="GovTech's internship application processes" src="/images/govtech_Infographics_2025_1.png">
+<img style="width: 100%" height="auto" width="100%" alt="GovTech internship timelines 2025" src="/images/careers/govtech_internship_timelines_2025.png">
 </div>
 <h3>Hear from our past interns</h3>
 <p></p>
