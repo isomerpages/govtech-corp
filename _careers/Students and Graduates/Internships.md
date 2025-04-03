@@ -31,8 +31,8 @@ and gain access to courses and career workshops.</p>
 and diploma graduates awaiting university admission who are up for a challnge
 and want to make a difference! If that sounds like you, first check out
 the timelines as well as guidelines for our internship applications.</p>
-<p><strong><em>Do note that applicants who have graduated from university are not eligible for our internship programme.</em></strong>
-</p>
+<p>Do note that applicants who have graduated from university are not eligible
+for our internship programme.</p>
 <p>Our internship applications are currently closed. We welcome your application
 during our next recruitment cycle from August to September 2025.</p>
 <p></p>
