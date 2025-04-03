@@ -26,3 +26,48 @@ it.
 <p>Why?</p>
 <p>Because they’re not asking AI the right questions. In other words, <strong>their skills in Prompt Engineering</strong> leave
 much to be desired.</p>
+<h3>What is a Prompt, and Why Does it Matter?</h3>
+<p>A <strong>prompt</strong> is the input (most commonly in text) you provide
+to an AI model. The way you structure this input <strong>directly influences</strong> the
+quality of the response you get.</p>
+<p>For example, if your prompt is something as vague and brief as <strong>&lt;Tell me about climate change&gt;, </strong>it’s
+unlikely you’ll get output that you might be able to use.&nbsp;</p>
+<p>However, if you can feed GenAI with more detail, you’re more likely to
+get something more useful.</p>
+<p>This is where <strong>prompt engineering</strong> comes in—the practice
+of designing effective prompts to ensure AI generates <strong>accurate, relevant, and high-quality</strong> responses.</p>
+<h3>Introducing the CO-STAR Framework</h3>
+<p>At <strong>GovTech</strong>, our officers follow the <strong><a href="https://www.developer.tech.gov.sg/products/collections/data-science-and-artificial-intelligence/playbooks/prompt-engineering-playbook-beta-v3.pdf" rel="noopener noreferrer nofollow" target="_blank">CO-STAR Framework</a></strong>,
+featured in our <strong>Prompt Engineering Playbook</strong>, to craft better
+prompts.</p>
+<h4>CO-STAR stands for…</h4>
+<ul data-tight="true" class="tight">
+<li>
+<p><strong>Context</strong> – Provide background information to help the AI
+understand the specific scenario.</p>
+</li>
+<li>
+<p><strong>Objective</strong> – Clearly define the task to direct the AI’s
+focus.</p>
+</li>
+<li>
+<p><strong>Style</strong> – Specify the desired writing style to align the
+AI’s response.</p>
+</li>
+<li>
+<p><strong>Tone</strong> – Set the tone to ensure the response resonates with
+the required sentiment.</p>
+</li>
+<li>
+<p><strong>Audience</strong> – Identify the intended audience so the AI can
+tailor the response
+<br>accordingly.</p>
+</li>
+<li>
+<p><strong>Response</strong> – Define the format of the response to get structured,
+useful outputs.</p>
+</li>
+</ul>
+<p></p>
+<p></p>
+<p></p>
