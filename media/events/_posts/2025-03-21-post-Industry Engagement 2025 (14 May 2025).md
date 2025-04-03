@@ -54,9 +54,9 @@ be allocated a maximum of three seats.</p><a class="isomer-image-wrapper" href="
 with lightning talks, we are introducing a new segment, Connect &amp; Explore.
 This new segment provides a unique opportunity for solution providers to
 engage directly with government agencies in a one-on-one 20-minute session.
-There are four agency problem statements. It’s a valuable chance to explore
-potential collaborations, share your expertise and demonstrate how your
-solution can make a tangible impact to the problem.</p>
+Several agencies have put forth their problem statements. It’s a valuable
+chance to explore potential collaborations, share your expertise and demonstrate
+how your solution can make a tangible impact to the problem.</p>
 <p><strong><a href="https://go.gov.sg/ie25-connect-explore" rel="noopener nofollow" target="_blank">Register your interest now for the Connect &amp; Explore Segment</a>! </strong><em>(Note: Only registered participants of IE2025 can participate in this segments)</em>
 </p>
 <h3>Programme:</h3>
