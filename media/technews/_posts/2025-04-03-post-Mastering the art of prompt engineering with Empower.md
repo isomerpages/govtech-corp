@@ -78,4 +78,28 @@ real mastery comes through hands-on practice.
 <br>
 <br>And that’s where the Empower team at GovTech comes in.</p>
 <h3>Empowering Public Officers</h3>
-<p></p>
+<p>If you think about it, prompt engineering isn’t about engineering—it’s
+about applying structured thinking to communicate effectively with AI.
+This requires a good understanding of how AI functions.
+<br>
+<br>That’s why the Empower team in GovTech focuses on driving the digital
+capabilities of public officers, equipping them with the skills and knowledge
+to use AI in their daily work.
+<br>
+<br>One of the key initiatives under this umbrella is the Data &amp; AI Tournament
+(DAT) with a prompt engineering award (Prompt Royale) first introduced
+in 2023.
+<br>
+<br>In <a href="https://govinsider.asia/intl-en/article/govtech-singapores-innovation-day-spotlights-ai-projects-prompt-engineering" rel="noopener noreferrer nofollow" target="_blank">Prompt Royale</a>,
+participants are tasked with real-time challenges—everything from generating
+text and crafting social media posts to analyzing data sets, building custom
+GPTs, and even pitching AI-based solutions—all under the spotlight.
+<br>
+<br>Such initiatives expose officers to the latest tech and help them develop
+awareness and interests as well as their capabilities. This way, officers
+can leverage AI’s capabilities to solve complex, real-world problems—from
+improving public service delivery to streamlining internal processes.</p>
+<p>By making prompt engineering a core skill, the team is helping public
+officers work smarter, not harder. Instead of spending hours figuring things
+out manually, they can let AI handle repetitive tasks and focus on higher-level
+problem-solving and innovation.</p>
