@@ -35,7 +35,7 @@ to ensure the authenticity and integrity of these digital documents.</p>
 and verification of documents. Created by GovTech's Government Digital
 Services, it harnesses blockchain protocols to store cryptographic proof
 of individual documents.</p>
-<p>Today, the OpenAttestation framework has helped create the <a href="https://www.developer.tech.gov.sg/products/categories/blockchain/opencerts/overview.html" rel="noopener noreferrer nofollow" target="_blank">OpenCerts</a> project,
+<p>Today, the OpenAttestation framework has helped create the OpenCerts project,
 which supports digitisation of educational certificates into verifiable
 documents, as well as helped create HealthCerts for COVID-19 certifications
 that are in line with international standards.</p>
