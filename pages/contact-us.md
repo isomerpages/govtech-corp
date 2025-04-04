@@ -6,9 +6,15 @@ agency_name: GovTech
 contacts:
   - content:
       - phone: +65 6211 0888
+      - email: ""
+      - other: "Monday to Thursday: 8.30am to 6.00pm , Friday: 8.30am to 5.30pm , Closed
+          on  Saturday, Sunday, and Public Holidays."
+    title: Enquiries & Feedback - Hotline
+  - content:
+      - phone: +65 6211 0888
       - email: info@tech.gov.sg
       - other: ""
-    title: General Enquiries & Feedback
+    title: Enquiries & Feedback - Email
   - content:
       - phone: ""
       - email: media@tech.gov.sg
