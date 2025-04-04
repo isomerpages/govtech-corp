@@ -11,7 +11,7 @@ contacts:
           on  Saturday, Sunday, and Public Holidays."
     title: Enquiries & Feedback - Hotline
   - content:
-      - phone: +65 6211 0888
+      - phone: ""
       - email: info@tech.gov.sg
       - other: ""
     title: Enquiries & Feedback - Email
@@ -24,7 +24,7 @@ contacts:
       - phone: ""
       - email: govtech_sipeo@tech.gov.sg
       - other: ""
-    title: Industry / Vendor Partnership
+    title: Industry / Vendor Partnerships
   - content:
       - phone: ""
       - email: whistleblow@tech.gov.sg
