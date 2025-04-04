@@ -9,12 +9,12 @@ contacts:
       - email: ""
       - other: "Monday to Thursday: 8.30am to 6.00pm , Friday: 8.30am to 5.30pm , Closed
           on  Saturday, Sunday, and Public Holidays."
-    title: Enquiries & Feedback - Hotline
+    title: General Enquiries & Feedback - Hotline
   - content:
       - phone: ""
       - email: info@tech.gov.sg
       - other: ""
-    title: Enquiries & Feedback - Email
+    title: General Enquiries & Feedback - Email
   - content:
       - phone: ""
       - email: media@tech.gov.sg
