@@ -11,6 +11,14 @@ image: /images/About Us/Our capabilities/Capabilities_Banner_Cybersecurity.png
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="Cybersecurity" src="/images/About Us/Our capabilities/Capabilities_Banners_Cybersecurity_compressed.jpg">
 </div>
+<p>Singapore's digital landscape faces escalating threats, making robust
+cybersecurity paramount. The severity of this challenge is underscored
+by recent statistics: in 2023, 84% of local organisations reported cyberattacks,
+with 53% resorting to ransom payments. In response, GovTech delivers critical
+cyber security solutions. We are dedicated to cyber defence in Singapore,
+safeguarding government Information and Communications Technology &amp;
+Smart Systems through proactive threat detection and rapid response, fortifying
+digital resilience.</p>
 <h3>What we do</h3>
 <p>Our mission is to secure government Info-Communications Technology and
 Smart Systems, and to respond swiftly to any cyberattack. We achieve this
