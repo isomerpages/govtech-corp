@@ -9,6 +9,9 @@ description: Learn more about the Singapore Government Developer Portal, a
 third_nav_title: Software Development
 ---
 <h2>Exploring and collaborating on Government Digital Products and services with the Singapore Government Developer Portal</h2>
+<div class="isomer-image-wrapper">
+<img style="width: 80%;" height="auto" width="100%" alt="Singapore Government Developer Portal" src="/images/Products and Services/For Government Agencies/DevPortal.png">
+</div>
 <p>Developer Portal allows users to access and discover Government technologies
 and practices, to keep up to date with the community through events, blogs
 and other programmes. The portal also allows users to read and publish
@@ -45,7 +48,9 @@ onboard, leverage the latest technological solution, and implement your
 digital solutions efficiently, serving as the gateway to Singapore’s digital
 transformation initiatives.</p>
 <h3>Why use the Dev Portal?&nbsp;</h3>
-<p>&lt;image from Dev Portal&gt;&nbsp;</p>
+<div class="isomer-image-wrapper">
+<img style="width: 80%;" height="auto" width="100%" alt="People looking at the Developer Portal website" src="/images/Products and Services/For Government Agencies/DevPortal_bg_people.png">
+</div>
 <p>Here are a few ways users can take advantage of the Dev Portal:</p>
 <div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="https://www.developer.tech.gov.sg/products/all-products/" class="isomer-card"><div class="isomer-card-body"><div class="isomer-card-title">Discover the perfect solution</div><div class="isomer-card-description">Explore over 300 pieces of content to find the perfect solution for your digital transformation needs.</div><div class="isomer-card-link">Explore Products</div></div></a>
 <a rel="noopener noreferrer nofollow" href="https://docs.developer.tech.gov.sg/?utm_source=govtechexternal&amp;utm_medium=devportalhomepage&amp;utm_campaign=documentation" class="isomer-card">
