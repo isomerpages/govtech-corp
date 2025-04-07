@@ -47,6 +47,19 @@ transformation initiatives.</p>
 <h3>Why use the Dev Portal?&nbsp;</h3>
 <p>&lt;image from Dev Portal&gt;&nbsp;</p>
 <p>Here are a few ways users can take advantage of the Dev Portal:</p>
+<div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="https://www.developer.tech.gov.sg/products/all-products/" class="isomer-card"><div class="isomer-card-body"><div class="isomer-card-title">Discover the perfect solution</div><div class="isomer-card-description">Explore over 300 pieces of content to find the perfect solution for your digital transformation needs.</div><div class="isomer-card-link">Explore Products</div></div></a>
+<a rel="noopener noreferrer nofollow" href="https://docs.developer.tech.gov.sg/?utm_source=govtechexternal&amp;utm_medium=devportalhomepage&amp;utm_campaign=documentation" class="isomer-card">
+<div class="isomer-card-body">
+<div class="isomer-card-title">Explore the technical documentation for a smoother implementation</div>
+<div class="isomer-card-description">Familiarise yourself with the technical documentation—including playbooks,
+onboarding guides, and API specifications—and learn how to seamlessly integrate
+your digital products with government technologies.</div>
+<div class="isomer-card-link">Explore Documentation</div>
+</div>
+</a><a rel="noopener noreferrer nofollow" href="https://www.developer.tech.gov.sg/guidelines?utm_source=govtechexternal&amp;utm_medium=devportalhomepage&amp;utm_campaign=guidelines" class="isomer-card"><div class="isomer-card-body"><div class="isomer-card-title">Stay updated on guidelines and best practices</div><div class="isomer-card-description">Discover the guidelines and best practices designed to help the government plan and develop digital products successfully.</div><div class="isomer-card-link">Explore Guidelines</div></div></a>
+</div>
+<div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="https://www.developer.tech.gov.sg/communities/?utm_source=govtechexternal&amp;utm_medium=devportalhomepage&amp;utm_campaign=communities" class="isomer-card"><div class="isomer-card-body"><div class="isomer-card-title">Engage with the tech community</div><div class="isomer-card-description">Connect, collaborate, and co-create with government agencies, vendors, and fellow developers through STACK events and community programmes.</div><div class="isomer-card-link">Explore Communities</div></div></a>
+</div>
 <table style="minWidth: 100px">
 <colgroup>
 <col>
@@ -94,6 +107,7 @@ and fellow developers through STACK events and community programmes.</p>
 </tr>
 </tbody>
 </table>
+<p></p>
 <h3>How to use the Dev Portal?</h3>
 <p>Simply visit the portal to access a wealth of resources designed to support
 digital transformation. Whether you are looking to integrate digital solutions
