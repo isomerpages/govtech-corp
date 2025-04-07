@@ -66,10 +66,273 @@ of malicious intent.</p>
 DLP has been introduced progressively since May 2022 to enhance the existing
 data security measures in all government-issued laptops.</p>
 <h4>Real-life sample / case studies</h4>
-<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="DLP icons and when it is activated" src="/images/Products and Services/For Government Agencies/DLP_icons.jpg">
 </div>
+<p>GovTech’s DLP solution encompasses three key areas: Email DLP, Endpoint
+DLP, and Proxy DLP. These components work in tandem to provide comprehensive
+data leakage protection.</p>
+<p>In each scenario, DLP will inspect the documents or text being transmitted,
+and will then determine if an alert or action is required, based on the
+data classification and information security of the files or text you are
+working on. This process helps mitigate potential risks to data leak protection
+tools and strategies. To illustrate how DLP functions in practice, consider
+the following common user interactions and system responses:</p>
+<p><strong>Alert</strong>
+</p>
+<p>When the system identifies classified or sensitive information, like an
+email containing a document marked "Restricted," an alert appears. This
+notification serves as a prompt, informing the user of the potential risk
+involved. The action proceeds without further intervention, allowing the
+user to continue while remaining mindful of the data's sensitivity. It's
+a subtle yet crucial reminder to exercise caution when handling protected
+information.</p>
+<p><strong>Affirm</strong>
+</p>
+<p>If the system detects potentially sensitive data, especially in situations
+where classification is unclear, it will request user affirmation. For
+instance, when uploading a file without a specified classification to the
+government cloud website, a prompt will appear. Users must then confirm
+their authorisation by clicking "Okay" or halt the transmission by clicking
+"Cancel." This step ensures that sensitive data is shared exclusively with
+authorised parties, maintaining stringent data access control.</p>
+<p><strong>Block</strong>
+</p>
+<p>In cases where the system identifies classified or sensitive data that
+violates established DLP rules, such as an email containing a "Secret"
+attachment directed to external recipients, the action is automatically
+blocked. A notification will then inform the user of the blocked action.
+By clicking "Close," the user acknowledges the notification. This prevents
+the unauthorised transmission of highly sensitive information, safeguarding
+it from potential exposure.</p>
+<p><strong>Other scenarios</strong>
+</p>
+<p>Beyond these scenarios, Data Loss Prevention proactively monitors various
+other data transfer activities to ensure ongoing security.</p>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Scenario</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Type of alert</strong>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Sending emails to external recipients containing unprotected* attachment</p>
+<ul>
+<li>
+<p>Up to 30 records of sensitive data (NRIC and/or credit card numbers)</p>
+</li>
+<li>
+<p>Restricted \ Non-sensitive data</p>
+</li>
+</ul>
+</td>
+<td rowspan="5" colspan="1">
+<p>Alert</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Sending emails to internal recipients containing unprotected* attachment</p>
+<ul>
+<li>
+<p>Sensitive normal data</p>
+</li>
+</ul>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Uploading files to the internet containing unprotected* attachment</p>
+<ul>
+<li>
+<p>Up to 30 records of sensitive data (NRIC and/or credit card numbers)</p>
+</li>
+</ul>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Uploading files to the government cloud, e.g., GCC-PROD containing:</p>
+<ul>
+<li>
+<p>Restrivtive \ Sensitive normal data</p>
+</li>
+<li>
+<p>Official (Closed) \ Sensitive normal data</p>
+</li>
+</ul>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Copying files to portable storage media or printing files containing:</p>
+<ul>
+<li>
+<p>All security and sensitivity classifications except for</p>
+<ul>
+<li>
+<p>Official (Open) data</p>
+</li>
+<li>
+<p>Any non-sensitive data (exclude secret \ non-sensitive)</p>
+</li>
+</ul>
+</li>
+</ul>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Sending emails to external recipients containing unprotected* attachment</p>
+<ul>
+<li>
+<p>All confidential data (including non-sensitive)</p>
+</li>
+<li>
+<p>All confidential (cloud-eligible) data (including non-sensitive)</p>
+</li>
+<li>
+<p>Restricted containing sensitive data, i.e., sensitive high or sensitive
+normal</p>
+</li>
+<li>
+<p>Official (Closed) containing sensitive data i.e.,sensitive high or sensitive
+normal</p>
+</li>
+</ul>
+</td>
+<td rowspan="3" colspan="1">
+<p>Affirm</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Sending emails to internal recipients containing unprotected* attachment</p>
+<ul>
+<li>
+<p>Sensitive high data</p>
+</li>
+</ul>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Uploading files to government cloud (website) containing:</p>
+<ul>
+<li>
+<p>All confidential (cloud-eligible) data (including non-sensitive)</p>
+</li>
+<li>
+<p>Restricted \ Sensitive high data</p>
+</li>
+<li>
+<p>Official (Closed) \ Sensitive high data</p>
+</li>
+</ul>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Sending emails to external recipients containing unprotected* attachment</p>
+<ul>
+<li>
+<p>All secret data (including non-sensitive)</p>
+</li>
+<li>
+<p>More than 30 records of sensitive data (NRIC and/or credit card numbers)</p>
+</li>
+</ul>
+</td>
+<td rowspan="3" colspan="1">
+<p>Block</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Uploading files to the internet containing:</p>
+<ul>
+<li>
+<p>All secret data (including non-sensitive)</p>
+</li>
+<li>
+<p>All confidential data (including non-sensitive)</p>
+</li>
+</ul>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Uploading files to the government cloud, e.g., GCC-PROD containing:</p>
+<ul>
+<li>
+<p>All secret data (including non-sensitive)</p>
+</li>
+<li>
+<p>All confidential data (including non-sensitive)</p>
+</li>
+</ul>
+</td>
+</tr>
+</tbody>
+</table>
+<h4>How to use DLP?</h4>
+<p>DLP comes pre-installed on all government-issued devices as part of the
+Digital Workplace, ensuring seamless and immediate protection. When a potential
+data transfer triggers DLP rules, a prompt will appear, requiring users
+to confirm their intent. This prompt will clearly outline the detected
+risk and provide options to either authorise or cancel the action. If a
+data leak is detected, the system will automatically block the transfer
+and generate an alert, notifying both the user and relevant security personnel.</p>
+<p>For any queries or support, users can <a href="https://www.tech.gov.sg/contact-us/" rel="noopener noreferrer nofollow" target="_blank"><u>contact us</u></a>.</p>
+<h4>Interested to find out more about DLP?</h4>
+<p>GovTech's Data Loss Prevention solution is a crucial component of our
+commitment to safeguarding sensitive data and maintaining public trust.
+By implementing robust data loss protection solutions, we ensure that government
+digital services remain secure and reliable.</p>
+<p>For further information or to explore how DLP can enhance your organisation's
+data security, please email us at <a href="https://www.tech.gov.sg/contact-us/" rel="noopener noreferrer nofollow" target="_blank"><u>info@tech.gov.sg</u></a>.</p>
+<h3>Frequently Asked Questions About Data Loss Prevention (DLP)</h3>
+<p><strong>How does this solution help with Cloud data loss prevention?</strong>
+</p>
+<p>This solution extends data loss prevention capabilities to cloud environments
+by monitoring and controlling data movement within and outside cloud applications.
+It helps prevent unauthorised access and data exfiltration, ensuring that
+sensitive information remains protected in such scenarios.</p>
+<p><strong>What types of data are protected using DLP?</strong>
+</p>
+<p>DLP protects a wide range of sensitive data, including personal identifiable
+information (PII), financial data, intellectual property, and classified
+government information. It uses content inspection and contextual analysis
+to identify and protect sensitive data across various formats and locations.</p>
+<p><strong>What data leakage protection tools are included in this DLP solution?</strong>
+</p>
+<p>This DLP solution incorporates a suite of data leak protection tools,
+including Email DLP. Endpoint DLP, and Network DLP. These tools work in
+concert to monitor and control data movement across devices, networks,
+and cloud applications, providing comprehensive protection against data
+leaks.</p>
+<p><strong>What should I do if legitimate file transfers are being blocked?</strong>
+</p>
+<p>If legitimate file transfers are being blocked, users should first verify
+the file's classification and ensure it complies with security policies.
+If the transfer is still blocked, they should contact the GovTech service
+desk, providing details of the file and the intended recipient, for further
+assistance.</p>
+<h1></h1>
+<p></p>
+<p></p>
+<p></p>
 <p>Data are a valuable asset and must be protected as we share and use them
 more widely in our daily work. Hence, DLP is automatically activated when
 you perform any of the following activities:</p>
