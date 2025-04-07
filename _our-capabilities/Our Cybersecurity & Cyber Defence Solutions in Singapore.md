@@ -59,7 +59,7 @@ life and business in Singapore.</div>
 <div class="isomer-card-title">Strengthening the government’s defences in cyberspace</div>
 <div class="isomer-card-description">The Government Cybersecurity Operations Centre (GCSOC), with a comprehensive
 suite of cybersecurity capabilities to monitor, detect and respond to incidents,
-is our key capability to defend against threats to the Government networks
+is our key capability to defend against threats to government networks
 and systems.</div>
 </div>
 </div>
