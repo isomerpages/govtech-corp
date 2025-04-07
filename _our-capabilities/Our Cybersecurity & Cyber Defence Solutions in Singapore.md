@@ -7,7 +7,7 @@ description: GovTech secures Singapore's digital future with robust
   opportunities in cyber defence.
 image: /images/About Us/Our capabilities/Capabilities_Banner_Cybersecurity.png
 ---
-<h2>Safeguarding the Government’s Information and Communications Technology &amp; Smart System</h2>
+<h2>Safeguarding the government’s Information and Communications Technology &amp; Smart Systems</h2>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="Cybersecurity" src="/images/About Us/Our capabilities/Capabilities_Banners_Cybersecurity_compressed.jpg">
 </div>
