@@ -34,6 +34,6 @@ onto a holistic cloud ecosystem for better operational efficiency, cost-effectiv
 and security.</div>
 <div class="isomer-card-link">Explore GCC</div>
 </div>
-</a>
+</a><a rel="noopener noreferrer nofollow" href="/products-and-services/for-government-agencies/software-development/sg-developer-portal/" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="The Singapore Government Developer Portal is a one-stop hub to explore digital products, access technical resources, and connect with the tech community through events, best practices, and collaboration opportunities." src="/images/Products and Services/For Government Agencies/Developer_Portal_logo_600x400.png"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Singapore Government Developer Portal</div><div class="isomer-card-description">A one-stop hub to explore digital products, access technical resources, and connect with the tech community through events, best practices, and collaboration opportunities.</div><div class="isomer-card-link">Explore SGDP</div></div></a>
 </div>
 <p></p>
