@@ -1,12 +1,11 @@
 ---
 layout: post
-title: Top 5 scams in Singapore and how to protect yourself from them
+title: Top 5 Scams in Singapore & How To Avoid Them (2025)
 permalink: /media/technews/top-five-scams-in-singapore-and-how-to-protect-yourself/
 image: /images/technews/Top_5_scams_in_Singapore_and_how_to_protect_yourself_from_them__1_.jpg
 date: 2023-09-07
-description: Scams on the rise! Learn about the different types of scams
-  targeting millennials and Zoomers. Equip yourself with the knowledge to
-  protect your finances today!
+description: Discover the top 5 scams in Singapore and learn how to spot
+  phishing, job, e-commerce & WhatsApp scams to protect yourself online.
 variant: tiptap
 ---
 <div class="isomer-image-wrapper">
@@ -15,16 +14,18 @@ variant: tiptap
 <p>Millennials and Zoomers are often referred to as digital natives as they
 are the first generations that grew up having the internet at their fingertips.</p>
 <p>But if you think that being digital natives means being too savvy to fall
-victim to scams, think again.&nbsp;<a href="https://www.straitstimes.com/singapore/scam-victims-in-s-pore-lost-6607-million-in-2022-almost-13-billion-in-past-two-years" class="editor-rtfLink" rel="noopener noreferrer nofollow" target="_blank">Statistics</a>&nbsp;from
-the Singapore Police show that just over half of scam victims in 2022 are
-between 20 and 39 years old.</p>
-<p>So it’s time to shake off your complacency, young adults, and learn about
-the common scams out there. Arm yourself with knowledge so that you don’t
-end up losing your hard-earned money!</p>
+victim to scams, think again. <a href="https://www.straitstimes.com/singapore/scam-victims-in-spore-lose-record-1-1-billion-in-2024-highest-number-of-cases-ever-reported" rel="noopener noreferrer nofollow" target="_blank"><u>Statistics</u></a> from
+the Singapore Police reveal that over 70% of scam victims in 2024 are below
+50 years old, with young adults falling prey to scams related to e-commerce,
+job search, and phishing. Those aged 50 to 64 and the elderly are also
+vulnerable to phishing scams.</p>
+<p>So it’s time to shake off your complacency and learn about the common
+scams out there. Arm yourself with knowledge for effective scam avoidance
+so that you don’t end up losing your hard-earned money!</p>
 <h3>1. Phishing scams</h3>
 <p><strong>How it works:&nbsp;</strong>
 </p>
-<p>Phishing scams try to trick you into revealing your personal information
+<p>Phishing scams try to trick you into revealing your personal information,
 like your login credentials or credit card details.</p>
 <p>In such cases, scammers impersonate trusted organisations – such as banks
 and government agencies – to contact victims, urging them to disclose their
@@ -36,29 +37,28 @@ be created, fooling victims into believing that they are logging into their
 real accounts.</p>
 <p><strong>Example – OCBC phishing scam</strong>
 </p>
-<p>One of the most serious cases of phishing scams hit OCBC bank account
-holders in&nbsp;<a href="https://www.channelnewsasia.com/singapore/ocbc-phishing-sms-scam-do-not-click-bitly-url-link-2407796" class="editor-rtfLink" rel="noopener noreferrer nofollow" target="_blank">2021.</a>
-</p>
+<p>One of the most serious cases of phishing scams in Singapore hit OCBC
+bank account holders in <a href="https://www.channelnewsasia.com/singapore/ocbc-phishing-sms-scam-do-not-click-bitly-url-link-2407796" rel="noopener noreferrer nofollow" target="_blank"><u>2021</u></a>.</p>
 <p>They received SMSes claiming that they needed to click on a link to resolve
 an issue with their bank accounts. Those who clicked the link were redirected
 to fake bank websites and asked to key in their online banking login details.
 These credentials were then used to transfer large sums of money out of
 their accounts.</p>
 <p>A total of 790 OCBC customers fell victim to the scam, losing $13.7 million
-altogether. The bank&nbsp;<a href="https://www.todayonline.com/singapore/ocbc-completes-arrangements-fully-reimburse-all-phishing-scam-victims-who-total-790-combined-losses-s137m-1803146" class="editor-rtfLink" rel="noopener noreferrer nofollow" target="_blank">fully reimbursed</a>&nbsp;the
+altogether. The bank <a href="https://www.todayonline.com/singapore/ocbc-completes-arrangements-fully-reimburse-all-phishing-scam-victims-who-total-790-combined-losses-s137m-1803146" rel="noopener noreferrer nofollow" target="_blank"><u>fully reimbursed</u></a> the
 victims, after acknowledging its customer service and response fell short.</p>
 <p><strong>How to protect yourself:</strong>
 </p>
-<ul data-tight="true" class="tight">
+<ul>
 <li>
 <p>Always verify the app or website you are logging into. Look out for telltale
 signs like misspellings in the URL.</p>
 </li>
 <li>
-<p>Scammers can use a method called&nbsp;<a href="https://mothership.sg/2022/01/spoofed-sms-ocbc/" class="editor-rtfLink" rel="noopener noreferrer nofollow" target="_blank">spoofing</a>&nbsp;to
-send SMSes and make them appear in the same thread of real SMSes from the
-legitimate organisation. So, never trust an SMS just because it appears
-together with other SMSes you know for sure are from a legitimate organisation.</p>
+<p>Scammers can use a method called <a href="https://mothership.sg/2022/01/spoofed-sms-ocbc/" rel="noopener noreferrer nofollow" target="_blank"><u>spoofing</u></a> to
+send SMSes and make them appear in the same thread as real SMSes from legitimate
+organisations. So, never trust an SMS just because it appears together
+with other SMSes you know for sure are from a legitimate organisation.</p>
 </li>
 <li>
 <p>Never reveal your password or one-time password over the phone; legitimate
@@ -74,10 +74,10 @@ you from hanging up to call the bank back so you know you’re really talking
 to bank representatives.</p>
 </li>
 <li>
-<p>Legitimate websites should have the <em>https </em>in the address bar.
-Banks have stopped sending SMSes and emails with links to click. If you
-receive a message full of links purportedly from a bank, it’s highly likely
-to be a scam.</p>
+<p>Legitimate websites should have the https in the address bar. Banks have
+stopped sending SMSes and emails with links to click. If you receive a
+message full of links purportedly from a bank, it’s highly likely to be
+a scam.</p>
 </li>
 <li>
 <p>Whilst secure websites typically start with 'https' instead of 'http',
@@ -86,7 +86,7 @@ as well. Always exercise caution and verify the authenticity of any communicatio
 through official channels before taking action.</p>
 </li>
 <li>
-<p>Refer to the Government’s&nbsp;<a href="https://www.gov.sg/trusted-sites" class="editor-rtfLink" rel="noopener noreferrer nofollow" target="_blank">list of trusted sites</a>&nbsp;when
+<p>Refer to the Government’s <a href="https://www.gov.sg/trusted-sites" rel="noopener noreferrer nofollow" target="_blank"><u>list of trusted sites</u></a> when
 logging in to access government services.</p>
 </li>
 </ul>
@@ -106,9 +106,9 @@ the scammers. The victims are promised their money back plus a commission
 for their efforts, only for the scammers to disappear on them.</p>
 <p><strong>Example – Purchasing task scam</strong>
 </p>
-<p>About $20 million were lost to&nbsp;<a href="https://www.channelnewsasia.com/singapore/job-scams-20-million-lost-may-police-3548526" class="editor-rtfLink" rel="noopener noreferrer nofollow" target="_blank">job scams in May 2023</a>,
-said the police in an effort to alert the public. These scams offer fake
-job opportunities involving online purchases.</p>
+<p>About $156.2 million were lost to job scams in 2024, said the Singapore
+police in an effort to alert the public. These scams offer fake job opportunities
+involving online purchases.</p>
 <p>Victims receive these offers through unsolicited WhatsApp or Telegram
 messages, asking them to complete simple surveys. Once they receive their
 initial payment and commission, they are told they have to boost a product’s
@@ -122,7 +122,7 @@ with the bogus rationale of stimulating the crypto market.</p>
 promised returns.</p>
 <p><strong>How to protect yourself:</strong>
 </p>
-<ul data-tight="true" class="tight">
+<ul>
 <li>
 <p>Dubious claims of easy money should not be trusted.</p>
 </li>
@@ -157,7 +157,7 @@ payment, not knowing that the app contains malware that compromises the
 buyers’ online accounts.</p>
 <p><strong>Example – Seafood scam</strong>
 </p>
-<p>A 62-year-old man&nbsp;<a href="https://www.channelnewsasia.com/singapore/android-malware-scam-cpf-savings-victim-facebook-ad-3613446" class="editor-rtfLink" rel="noopener noreferrer nofollow" target="_blank">lost more than $40,000</a>&nbsp;of
+<p>A 62-year-old man <a href="https://www.channelnewsasia.com/singapore/android-malware-scam-cpf-savings-victim-facebook-ad-3613446" rel="noopener noreferrer nofollow" target="_blank"><u>lost more than $40,000</u></a> of
 his Central Provident Fund (CPF) savings after trying to buy seafood through
 a Facebook ad.</p>
 <p>After clicking the ad, he was taken to a website where he failed to buy
@@ -173,7 +173,7 @@ to delete the app, and eventually gave up and went to sleep.</p>
 to his bank account and then transferred out.</p>
 <p><strong>How to protect yourself:</strong>
 </p>
-<ul data-tight="true" class="tight">
+<ul>
 <li>
 <p>Once again, don’t be tempted by rock-bottom prices. Ask yourself, how
 is it that the seller can afford to sell the goods at a much lower price
@@ -188,9 +188,10 @@ sellers, official brand stores, and comb through the reviews carefully.</p>
 steps to confirm your purchase.</p>
 </li>
 <li>
-<p>If you suspect there’s malware on your device, turn on&nbsp;flight mode
-immediately&nbsp;to disable any malicious connections. Perform an anti-virus/anti-malware
-scan. Do a factory reset to be sure.</p>
+<p>If you suspect there’s malware on your device, turn on flight mode immediately
+to disable any malicious connections. Perform an anti-virus/anti-malware
+scan. Do a factory reset to be sure. This is a crucial step in <a href="https://www.tech.gov.sg/media/technews/seven-ways-to-protect-your-smartphone-from-hackers/" rel="noopener noreferrer nofollow" target="_blank"><u>how to prevent your phone from being hacked</u></a>,
+especially if you've downloaded suspicious apps.</p>
 </li>
 <li>
 <p>Unfortunately, Android phones are more susceptible to malware attacks
@@ -205,8 +206,7 @@ on their devices.</p>
 <p><strong>How it works:</strong>
 </p>
 <p>These are get-rich-quick schemes promising high returns for investments
-in anything from cryptocurrency, overseas real estate, and even&nbsp;
-<a href="https://www.thestar.com.my/news/nation/2018/12/07/more-than-100-victims-scammed-over-fake-musang-king-investment-plan/" class="editor-rtfLink" rel="noopener noreferrer nofollow" target="_blank">durians.</a>
+in anything from cryptocurrency to overseas real estate and even <a href="https://www.thestar.com.my/news/nation/2018/12/07/more-than-100-victims-scammed-over-fake-musang-king-investment-plan/" rel="noopener noreferrer nofollow" target="_blank"><u>durians.</u></a>
 </p>
 <p>Those who take part in the investment may even initially earn a profit
 (are you seeing a pattern now?), leading them to believe that the investment
@@ -216,11 +216,11 @@ claims that the victims need to cough up more money (in the guise of a
 handling/admin fee) before they can withdraw their investment. In reality,
 this is just yet another trick to string victims along and milk them for
 as long as possible.</p>
-<p><strong>Example – Investment scam using prominent economist’s name</strong>
+<p><strong>Example – Investment scam using a prominent economist’s name</strong>
 </p>
-<p>Fraudsters&nbsp;impersonated&nbsp;well-known economist Tan Khee Giap and
-set up social media accounts and WhatsApp groups. In these channels, the
-bogus Dr Tan would give investment tips on gold, futures and foreign currencies.</p>
+<p>Fraudsters impersonated well-known economist Tan Khee Giap and set up
+social media accounts and WhatsApp groups. In these channels, the bogus
+Dr Tan would give investment tips on gold, futures and foreign currencies.</p>
 <p>The scammers would also instruct members to go to a website that they
 claimed was an online investment platform. One victim invested nearly $25,000
 over three weeks and supposedly doubled her money. But when she tried to
@@ -229,7 +229,7 @@ she had to pay a “handling fee” of 10 per cent, or $2,477. After she transfe
 the money, the scammers became uncontactable.</p>
 <p><strong>How to protect yourself:</strong>
 </p>
-<ul data-tight="true" class="tight">
+<ul>
 <li>
 <p>Check with official sources and do investments only with licensed financial
 advisers. It is extremely unlikely that prominent figures will be running
@@ -260,14 +260,14 @@ stranded overseas and losing his money and phone (which conveniently explains
 why he’s calling from an unknown number). Once the victim agrees to help,
 the scammer provides a means of transferring money, and is never heard
 from again.</p>
-<p>Fake friend call scams have increased at an&nbsp;<a href="https://www.straitstimes.com/singapore/over-200-spike-in-fake-friend-call-scam-reports-in-2022-victims-lost-88-million" class="editor-rtfLink" rel="noopener noreferrer nofollow" target="_blank">astonishing pace</a>,
+<p>Fake friend call scams have increased at an <a href="https://www.straitstimes.com/singapore/over-200-spike-in-fake-friend-call-scam-reports-in-2022-victims-lost-88-million" rel="noopener noreferrer nofollow" target="_blank"><u>astonishing pace</u></a>,
 going from zero reported cases in 2020 to 2,106 cases in 2022, with victims
 losing at least $8.8 million.</p>
 <p><strong>Example – Asking for a favour</strong>
 </p>
-<p>A&nbsp;<a href="https://www.todayonline.com/singapore/police-warn-new-fake-friend-scam-call-variant-involving-malicious-links-malware-2205141" class="editor-rtfLink" rel="noopener noreferrer nofollow" target="_blank">new variant</a>&nbsp;of
-this scam observed by the police this year involves scammers asking for
-favours instead of money. Once the scammer tricks the victim into believing
+<p>A <a href="https://www.todayonline.com/singapore/police-warn-new-fake-friend-scam-call-variant-involving-malicious-links-malware-2205141" rel="noopener noreferrer nofollow" target="_blank"><u>new variant</u></a> of
+this scam observed by the police in recent years involves scammers asking
+for favours instead of money. Once the scammer tricks the victim into believing
 he is a friend, he asks if the victim can help with a simple task such
 as making a purchase, a restaurant reservation, or tracking a missing phone.</p>
 <p>The scammer then proceeds to send malicious links, which will lead the
@@ -277,7 +277,7 @@ the scammer to gain control of the device.</p>
 in the first half of 2023.</p>
 <p><strong>How to protect yourself:</strong>
 </p>
-<ul data-tight="true" class="tight">
+<ul>
 <li>
 <p>Be sceptical of people contacting you out of the blue, claiming to be
 someone you know but yet playing coy about who they are.</p>
@@ -293,12 +293,82 @@ friend may be in closer contact with said friend and know for sure he is
 safely at work rather than stranded in the Maldives.</p>
 </li>
 </ul>
+<h3>Prevalence of WhatsApp Scams in Singapore</h3>
+<p>It's no secret that WhatsApp has become a hotspot for scammers in Singapore,
+and we've seen a worrying surge in WhatsApp scams lately. You might be
+thinking, "But I only chat with friends and family on WhatsApp!" That's
+precisely why it's so effective.</p>
+<p>The platform's popularity and the trust we place in it make it a prime
+target. Scammers know we're more likely to believe a message from a "friend"
+or a "familiar organisation." They bank on that trust to trick us, and
+unfortunately, it works far too often.</p>
+<p><strong>Think of it this way:</strong> WhatsApp is like a bustling marketplace.
+Lots of people, lots of opportunities, and unfortunately, lots of chances
+for tricksters to blend in. They might pretend to be your bank, a government
+agency, or even a friend in need. They'll use urgency, fear, or even flattery
+to get you to act without thinking. They might ask for your OTP, a password,
+or tell you to transfer money to a "safe" account. It's all a ruse. We
+need to remember that just because a message comes through WhatsApp, it
+doesn't mean it's genuine.</p>
+<p><strong>Common tactics of WhatsApp scams</strong>
+</p>
+<ul>
+<li>
+<p><strong>WhatsApp OTP Hijacking Scams:</strong> Scammers trick victims into
+sharing their OTP, gaining access to their accounts.</p>
+</li>
+<li>
+<p><strong>Fake WhatsApp Links:</strong> Malicious links lead to phishing
+sites or malware downloads.</p>
+</li>
+<li>
+<p><strong>Impersonation of Friends/Family or Organisations:</strong> Scammers
+pose as known contacts, requesting money or personal information.</p>
+</li>
+</ul>
+<p><strong>How to protect yourself:</strong>
+</p>
+<ul>
+<li>
+<p>Enable two-factor authentication (2FA) on WhatsApp to add an extra layer
+of security. To do this, go to WhatsApp settings, then account, and finally,
+2-step verification.</p>
+</li>
+<li>
+<p>Be cautious of unsolicited messages requesting personal information or
+money transfers.</p>
+</li>
+<li>
+<p>Verify the identity of unknown contacts by calling them directly or contacting
+a mutual friend.</p>
+</li>
+<li>
+<p>Never click on suspicious links or download attachments from unknown senders.</p>
+</li>
+<li>
+<p>Report suspicious activity to <a href="https://www.scamshield.org.sg/" rel="noopener noreferrer nofollow" target="_blank"><u>ScamShield</u></a>. Download the
+ScamShield app via the official app store and report any suspicious numbers
+or messages.</p>
+</li>
+<li>
+<p>Keep your WhatsApp application updated to ensure you have the latest security
+patches, an important part of overall <a href="https://www.tech.gov.sg/products-and-services/for-citizens/scam-prevention/" rel="noopener noreferrer nofollow" target="_blank"><u>scam prevention</u></a>.</p>
+</li>
+<li>
+<p>Be careful of messages that create a false sense of urgency. Slow down
+and think before taking any action.</p>
+</li>
+<li>
+<p>If you encounter a number used in a scam, add it to a reputable scammer
+list in Singapore, if available, to help warn others.</p>
+</li>
+</ul>
 <h3>Constant vigilance against a growing menace</h3>
-<p>In 2022, scam victims lost about $660 million, almost $30 million more
-than in 2021. And this problem will only grow as our lives become increasingly
-digital, creating more opportunities for scammers to strike.</p>
+<p>In 2024, scam victims in Singapore lost $1.1 billion, around 70 per cent
+higher than the amount lost in 2023. And this problem will only grow as
+our lives become increasingly digital, creating more opportunities for
+scammers to strike.</p>
 <p>That is why it’s imperative we do our part as individuals to educate ourselves,
 watch out for one another, and report suspicious activity.</p>
-<p>Remember, If something even feels a whiff strange, don’t proceed. If it’s
+<p>Remember, if something even feels a whiff strange, don’t proceed. If it’s
 too good to be true, it probably isn’t.</p>
-<p></p>
