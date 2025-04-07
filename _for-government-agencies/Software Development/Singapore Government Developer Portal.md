@@ -10,8 +10,9 @@ third_nav_title: Software Development
 image: /images/Products and Services/For Government Agencies/DevPortal.png
 ---
 <h2>Exploring and collaborating on Government Digital Products and services with the Singapore Government Developer Portal</h2>
+<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 80%;" height="auto" width="100%" alt="Singapore Government Developer Portal" src="/images/Products and Services/For Government Agencies/DevPortal.png">
+<img style="width: 50%;" height="auto" width="100%" alt="Singapore Government Developer Portal" src="/images/Products and Services/For Government Agencies/DevPortal.png">
 </div>
 <p>Developer Portal allows users to access and discover Government technologies
 and practices, to keep up to date with the community through events, blogs
