@@ -26,6 +26,9 @@ it.
 <p>Why?</p>
 <p>Because they’re not asking AI the right questions. In other words, <strong>their skills in Prompt Engineering</strong> leave
 much to be desired.</p>
+<div class="iframe-wrapper">
+<iframe style="max-width: 100%;" height="400" width="100%" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/v307FYZK4P4?si=21wKJ6qX-KYo0LZZ"></iframe>
+</div>
 <h3>What is a Prompt, and Why Does it Matter?</h3>
 <p>A <strong>prompt</strong> is the input (most commonly in text) you provide
 to an AI model. The way you structure this input <strong>directly influences</strong> the
