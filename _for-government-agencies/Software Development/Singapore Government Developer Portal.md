@@ -60,54 +60,6 @@ your digital products with government technologies.</div>
 </div>
 <div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="https://www.developer.tech.gov.sg/communities/?utm_source=govtechexternal&amp;utm_medium=devportalhomepage&amp;utm_campaign=communities" class="isomer-card"><div class="isomer-card-body"><div class="isomer-card-title">Engage with the tech community</div><div class="isomer-card-description">Connect, collaborate, and co-create with government agencies, vendors, and fellow developers through STACK events and community programmes.</div><div class="isomer-card-link">Explore Communities</div></div></a>
 </div>
-<table style="minWidth: 100px">
-<colgroup>
-<col>
-<col>
-<col>
-<col>
-</colgroup>
-<tbody>
-<tr>
-<td rowspan="1" colspan="1">
-<p><strong>Discover the perfect solution</strong>
-</p>
-<p>Explore over 300 pieces of content to find the perfect solution for your
-digital transformation needs.</p>
-<p><a href="https://www.developer.tech.gov.sg/products/all-products/" rel="noopener noreferrer nofollow" target="_blank"><u>Explore Products</u></a>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><strong>Explore the technical documentation for a smoother implementation</strong>
-</p>
-<p>Familiarise yourself with the technical documentation—including playbooks,
-onboarding guides, and API specifications—and learn how to seamlessly integrate
-your digital products with government technologies.</p>
-<p><a href="https://docs.developer.tech.gov.sg/?utm_source=govtechexternal&amp;utm_medium=devportalhomepage&amp;utm_campaign=documentation" rel="noopener noreferrer nofollow" target="_blank"><u>Explore Documentation</u></a>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><strong>Stay updated on guidelines and best practices</strong>
-</p>
-<p>Discover the guidelines and best practices designed to help the government
-plan and develop digital products successfully.</p>
-<p><a href="https://www.developer.tech.gov.sg/guidelines?utm_source=govtechexternal&amp;utm_medium=devportalhomepage&amp;utm_campaign=guidelines" rel="noopener noreferrer nofollow" target="_blank"><u>Explore Guidelines</u></a>
-</p>
-<p><strong>&nbsp;</strong>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><strong>Engage with the tech community</strong>
-</p>
-<p>Connect, collaborate, and co-create with government agencies, vendors,
-and fellow developers through STACK events and community programmes.</p>
-<p><a href="https://www.developer.tech.gov.sg/communities/?utm_source=govtechexternal&amp;utm_medium=devportalhomepage&amp;utm_campaign=communities" rel="noopener noreferrer nofollow" target="_blank"><u>Explore Communities</u></a>
-</p>
-</td>
-</tr>
-</tbody>
-</table>
-<p></p>
 <h3>How to use the Dev Portal?</h3>
 <p>Simply visit the portal to access a wealth of resources designed to support
 digital transformation. Whether you are looking to integrate digital solutions
