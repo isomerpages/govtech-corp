@@ -8,7 +8,7 @@ description: Secure government data with GovTech's Data Loss Prevention (DLP)
 third_nav_title: ICT and Infrastructure
 image: /images/Products and Services/For Government Agencies/DLP_banner.jpg
 ---
-<h2>Enhancing competencies in safeguarding data within the government with Data Loss Prevention</h2>
+<h2>Safeguarding data within the government with Data Loss Prevention (DLP)</h2>
 <p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="Data Loss Prevention (DLP) for government data" src="/images/Products and Services/For Government Agencies/DLP_banner.jpg">
@@ -31,6 +31,27 @@ to external devices.</p>
 </li>
 </ul>
 <hr>
+<h3>About data loss prevention</h3>
+<p>Data loss prevention refers to a set of technologies and processes designed
+to detect and prevent sensitive data from leaving an organisation's control.
+It encompasses measures to identify, monitor, and protect data in use,
+in motion, and at rest.</p>
+<p>The risks associated with data loss are significant in today's digital
+landscape, including financial losses, reputational damage, and legal penalties.
+Adding to these concerns, Singapore's recent data reflects the growing
+urgency for robust protection: in Q4 of 2024 alone, the nation recorded
+191,390 data breaches.&nbsp;As a vital aspect of <a href="https://www.tech.gov.sg/our-capabilities/cybersecurity/" rel="noopener noreferrer nofollow" target="_blank"><u>cybersecurity in Singapore</u></a>,
+vulnerabilities in cloud computing security further complicate matters,
+as sensitive data stored in cloud environments can be susceptible to unauthorised
+access.</p>
+<p>Recognising data as a critical asset for <a href="https://www.tech.gov.sg/media/technews/our-enhanced-smart-nation-vision-paving-the-way-for-a-new-digital-era/" rel="noopener noreferrer nofollow" target="_blank"><u>Singapore's Smart Nation initiative</u></a>,
+data loss prevention is paramount. To uphold a trusted digital ecosystem,
+the government must implement robust measures safeguarding citizen and
+business data. Effective data loss protection solutions are therefore essential
+for maintaining public trust and ensuring the integrity of digital services.
+As such, strong data loss prevention has become crucial for national security
+and economic stability.</p>
+<h3>GovTech’s data loss prevention solution</h3>
 <p>When transacting with the government's digital services, the public trusts
 us with their personal information and expects that we will use their data
 responsibly. Any unauthorised use or disclosure of data can cause them
