@@ -102,38 +102,50 @@ organisations and platforms.</div>
 </p>
 <h4>Who we work with</h4>
 <p>We work with the wider cybersecurity community and industry partners.</p>
-<div class="isomer-card-grid">
-<div class="isomer-card">
-<div class="isomer-card-body">
-<div class="isomer-card-title">Collaborating with partners</div>
-<div class="isomer-card-description">We collaborate with industry partners and institutes of higher learning
+<p><strong>Collaborating with partners</strong>
+</p>
+<p>We collaborate with industry partners and institutes of higher learning
 (IHLs) to leverage their expertise and best-of-breed solutions, which can
-effectively meet the needs of Whole-of-Government.</div>
-</div>
-</div>
-<div class="isomer-card">
-<div class="isomer-card-body">
-<div class="isomer-card-title">Engaging with the white hat community</div>
-<div class="isomer-card-description">We engage the wider white hat community through the Crowdsourced Vulnerability
+effectively meet the needs of Whole-of-Government. This includes joint
+development of security protocols and access to specialised threat intelligence.
+We also participate in industry-led cybersecurity forums for knowledge
+exchange.</p>
+<p><strong>Engaging with the white hat community</strong>
+</p>
+<p>We engage the wider white hat community through the Crowdsourced Vulnerability
 Disclosure Programme to secure our systems and encourage responsible reporting
-of suspected vulnerabilities found within government systems.</div>
-</div>
-</div>
-<div class="isomer-card">
-<div class="isomer-card-body">
-<div class="isomer-card-title">Cultivating talents in cybersecurity</div>
-<div class="isomer-card-description">We conduct regular Capture the Flag competitions to attract and challenge
+of suspected vulnerabilities found within government systems. This programme
+adheres to ISO 29147 standards for vulnerability disclosure. Reported vulnerabilities
+are assessed and remediated according to severity, ensuring system integrity.</p>
+<p><strong>Cultivating talents in cybersecurity</strong>
+</p>
+<p>We conduct regular Capture the Flag competitions to attract and challenge
 cybersecurity enthusiasts on various aspects of cybersecurity, to hone
-their skills, and learn from one another.</div>
-</div>
-</div>
-</div>
-<h4>Who should join us</h4>
-<p>If you are passionate about public service and securing our digital way
-of life, join our team and discover a world of development opportunities
-in cybersecurity.</p>
+their skills, and learn from one another. These competitions simulate real-world
+cyber scenarios and are aligned with industry certifications. Participants
+gain practical experience in incident response and forensic analysis.</p>
+<h3>Securing Singapore's digital future</h3>
+<p>Cybersecurity is critical in Singapore due to its extensive digital infrastructure,
+which is vital for essential services and the economy. In 2023, key trends
+emerged: supply chain attacks, heightened hacktivism, and <a href="https://www.tech.gov.sg/media/technews/generative-ai-where-can-it-go-wrong/" rel="noopener noreferrer nofollow" target="_blank"><u>risks of AI</u></a> facilitating
+sophisticated <a href="https://www.tech.gov.sg/media/technews/top-five-scams-in-singapore-and-how-to-protect-yourself/" rel="noopener noreferrer nofollow" target="_blank"><u>scams in Singapore</u></a>.
+These are compounded by a cybersecurity talent shortage and the need for
+agile defences.&nbsp;</p>
+<p>To mitigate impacts on public services, GovTech's Government Security
+Operations Centre (GSOC) provides 24/7 monitoring. Building upon this,
+robust security protocols and proactive intelligence sharing significantly
+enhance government system resilience. Furthermore, by deploying automation
+and AI-driven solutions, GovTech strengthens defences, addresses the cybersecurity
+talent gap, and reinforces trust in digital services. These combined efforts
+demonstrate a tangible impact in safeguarding Singapore's digital future.</p>
 <hr>
 <h3>Join our team</h3>
+<p>Passionate about cybersecurity and public service? Join us in securing
+Singapore's digital lifeline and defending critical systems. Work on cutting-edge
+challenges and shape the nation's cyber future. At GovTech, you'll tackle
+real-world threats, develop advanced skills, and drive innovation, all
+while growing your career. We offer diverse opportunities to impact lives
+and be part of a mission that matters. Join our team and make a difference.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="Testimonial for careers in GovTech capability centre for cybersecurity - Associate cybersecurity specialist" src="/images/About Us/Our capabilities/cybersecurity_quote_2.jpg">
 </div>
