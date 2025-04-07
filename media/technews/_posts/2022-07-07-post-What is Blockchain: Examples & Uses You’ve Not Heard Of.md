@@ -11,7 +11,7 @@ variant: tiptap
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="Different uses of blockchain technology" src="/images/technews/Not_just_crypto___Blockchain_uses_you_might_not_have_heard_of.jpeg">
 </div>
-<p><em>Blockchain is more than just Crypto.</em> 
+<p><em>Blockchain is more than just crypto.</em>
 </p>
 <h3>More than just crypto</h3>
 <p>Whether you think cryptocurrency is the future of money or the biggest
