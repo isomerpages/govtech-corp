@@ -2,7 +2,7 @@ collections:
   our-capabilities:
     output: true
     order:
-      - Cybersecurity.md
+      - Our Cybersecurity & Cyber Defence Solutions in Singapore.md
       - Data Engineering.md
       - Design.md
       - Government ICT Infrastructure.md
