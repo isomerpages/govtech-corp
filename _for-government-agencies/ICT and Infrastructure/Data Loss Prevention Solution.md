@@ -65,7 +65,7 @@ of malicious intent.</p>
 <p>Integrated with the <a href="/products-and-services/for-government-agencies/productivity-and-marketing/digital-workplace/" rel="noopener noreferrer nofollow" target="_blank"><u>Digital Workplace</u></a>,
 DLP has been introduced progressively since May 2022 to enhance the existing
 data security measures in all government-issued laptops.</p>
-<h3>When is DLP activated?</h3>
+<h4>Real-life sample / case studies</h4>
 <p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="DLP icons and when it is activated" src="/images/Products and Services/For Government Agencies/DLP_icons.jpg">
