@@ -301,7 +301,7 @@ commitment to safeguarding sensitive data and maintaining public trust.
 By implementing robust data loss protection solutions, we ensure that government
 digital services remain secure and reliable.</p>
 <p>For further information or to explore how DLP can enhance your organisation's
-data security, please email us at <a href="https://www.tech.gov.sg/contact-us/" rel="noopener noreferrer nofollow" target="_blank"><u>info@tech.gov.sg</u></a>.</p>
+data security, please email us at <a href="mailto:info@tech.gov.sg" rel="noopener noreferrer nofollow" target="_blank"><u>info@tech.gov.sg</u></a>.</p>
 <h3>Frequently Asked Questions About Data Loss Prevention (DLP)</h3>
 <p><strong>How does this solution help with Cloud data loss prevention?</strong>
 </p>
