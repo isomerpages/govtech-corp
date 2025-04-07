@@ -36,7 +36,7 @@ stunningly realistic images, remarkably coherent text, and even intricate
 musical compositions, not to mention the rapid pace of these advancements,
 it’s easy to understand the growing interest and applications of generative
 AI across various industries.</p>
-<h3>How Generative AI works</h3>
+<h4>How Generative AI works</h4>
 <p>Imagine an art student diligently studying thousands of paintings to grasp
 the techniques of a master. This student is akin to generative AI, learning
 through a process similar to deep learning, where massive datasets are
@@ -49,7 +49,7 @@ ensuring their work is both diverse and coherent. Similarly, generative
 AI employs technical concepts like latent space manipulation and probabilistic
 modelling —adjusting internal representations of data and predicting likely
 outcomes—to ensure its generated outputs are varied and consistent.</p>
-<h3>Generative AI model types</h3>
+<h4>Generative AI model types</h4>
 <p>Generative AI model types refer to the specific architectures and algorithms
 that enable the creation of new content. Just as an art student uses various
 techniques and tools to create different types of art, each model type
