@@ -67,9 +67,9 @@ and systems.</div>
 <div class="isomer-card-body">
 <div class="isomer-card-title">Enhancing the government’s cybersecurity capabilities</div>
 <div class="isomer-card-description">We ensure the secure design of government systems and apps through the
-government trust-based architecture framework, and conduct security testing,
-through red-teaming, penetration-testing, and the Crowdsourced Vulnerability
-Disclosure Programme, to quickly identify and remediate vulnerabilities.</div>
+government trust-based architecture framework and conduct security testing
+through red-teaming, penetration testing, and the Crowdsourced Vulnerability
+Disclosure Programme to quickly identify and remediate vulnerabilities.</div>
 </div>
 </div>
 </div>
