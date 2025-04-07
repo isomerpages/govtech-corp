@@ -51,7 +51,7 @@ digital solutions efficiently, serving as the gateway to Singapore’s digital
 transformation initiatives.</p>
 <h3>Why use the Dev Portal?&nbsp;</h3>
 <div class="isomer-image-wrapper">
-<img style="width: 80%;" height="auto" width="100%" alt="People looking at the Developer Portal website" src="/images/Products and Services/For Government Agencies/DevPortal_bg_people.png">
+<img style="width: 50%;" height="auto" width="100%" alt="People looking at the Developer Portal website" src="/images/Products and Services/For Government Agencies/DevPortal_bg_people.png">
 </div>
 <p>Here are a few ways users can take advantage of the Dev Portal:</p>
 <div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="https://www.developer.tech.gov.sg/products/all-products/" class="isomer-card"><div class="isomer-card-body"><div class="isomer-card-title">Discover the perfect solution</div><div class="isomer-card-description">Explore over 300 pieces of content to find the perfect solution for your digital transformation needs.</div><div class="isomer-card-link">Explore Products</div></div></a>
