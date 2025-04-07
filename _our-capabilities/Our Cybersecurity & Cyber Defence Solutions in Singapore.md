@@ -50,7 +50,7 @@ life and business in Singapore.</div>
 </div>
 </div>
 </div>
-<h3>Our work and initiatives</h3>
+<h3>Our cybersecurity &amp; cyber defence initiatives</h3>
 <p>We deliver our mission through a range of activities and functions:</p>
 <p></p>
 <div class="isomer-card-grid">
