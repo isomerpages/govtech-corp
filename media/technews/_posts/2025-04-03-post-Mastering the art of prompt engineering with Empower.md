@@ -115,6 +115,9 @@ field, try utilising the CO-STAR framework.
 <br>
 <br>It just might make all the difference in making the AI stars align for
 you.</p>
+<div class="iframe-wrapper">
+<iframe style="max-width: 100%;" height="400" width="100%" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/0NsuTDLhlb4?si=2Oc5tWvjeTo1yVBv"></iframe>
+</div>
 <p>
 <br><em>PS: For more on how GovTech is embracing AI, check out GovTech Decoded <a href="https://www.youtube.com/watch?v=v307FYZK4P4" rel="noopener noreferrer nofollow" target="_blank">episodes 5</a> and <a href="https://www.youtube.com/watch?v=0NsuTDLhlb4" rel="noopener noreferrer nofollow" target="_blank">6!</a></em>
 </p>
