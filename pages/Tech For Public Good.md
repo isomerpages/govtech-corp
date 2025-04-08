@@ -6,7 +6,7 @@ description: "Discover GovTech's impact: from everyday conveniences to community
   empowerment. Explore our work in engineering a digital government and building
   tech for public good – sometimes hidden, but always purposeful."
 ---
-<h1>Tech For Public Good, For A Better Tomorrow</h1>
+<h3>Tech For Public Good, For A Better Tomorrow</h3>
 <p></p>
 <p>Most of GovTech's work remains unseen by the public we serve, and yet
 it is everywhere. From enhancing daily conveniences to empowering communities,
@@ -16,7 +16,7 @@ digital government. Discover more in the video below.&nbsp;</p>
 <div class="iframe-wrapper">
 <iframe height="400" width="846" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/nicrbe5cMFg"></iframe>
 </div>
-<h3><strong>How GovTech is shaping digital solutions for the public good</strong>&nbsp;</h3>
+<h3>How GovTech is shaping digital solutions for the public good<strong>&nbsp;</strong></h3>
 <p>From citizen-facing products and services that impact daily lives, to
 behind the scenes operations, GovTech is dedicated to building tech for
 public good. Our work spans the spectrum of public technology, enhancing
@@ -50,7 +50,7 @@ safe and seamless</p>
 tech&nbsp;</p>
 </li>
 </ul>
-<h3><strong>Learn more about our digital government efforts</strong></h3>
+<h3>Learn more about our digital government efforts</h3>
 <div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="https://www.tech.gov.sg/products-and-services/for-government-agencies/productivity-and-marketing/" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Increasing Public Officers’ Productivity: AIBots, Transcribe, VICA &amp; more" src="/images/Transcribe__AI_tools_.gif"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Increasing Public Officers’ Productivity: AIBots, Transcribe, VICA &amp; more</div><div class="isomer-card-description">From customised generative AI chatbots to speech-to-text transcription tools, GovTech empowers public officers in engineering a digital government and delivering tech for public good. Our solutions automate tasks and drive innovation, enhancing digital services for public officers and citizens.</div><div class="isomer-card-link">Discover our suite of productivity tools for public officers</div></div></a>
 <a rel="noopener noreferrer nofollow" href="https://www.tech.gov.sg/products-and-services/for-citizens/crowdsourcing/crowdtasksg/" class="isomer-card">
 <div class="isomer-card-image">
