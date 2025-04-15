@@ -40,7 +40,7 @@ be allocated a maximum of three seats.</p><a class="isomer-image-wrapper" href="
 <p><strong>Date:</strong> 14 May 2025, Wednesday</p>
 </li>
 <li>
-<p><strong>Time:</strong> 9:00 AM to 1:00 PM</p>
+<p><strong>Time:</strong> 9:00AM to 1:00PM</p>
 </li>
 <li>
 <p><strong>Venue: </strong>Sands Expo &amp; Convention Centre</p>
@@ -57,7 +57,7 @@ engage directly with government agencies in a one-on-one 20-minute session.
 Several agencies have put forth their problem statements. It’s a valuable
 chance to explore potential collaborations, share your expertise and demonstrate
 how your solution can make a tangible impact to the problem.</p>
-<p><strong><a href="https://go.gov.sg/ie25-connect-explore" rel="noopener nofollow" target="_blank">Register your interest now for the Connect &amp; Explore Segment</a>! </strong><em>(Note: Only registered participants of IE2025 can participate in this segments)</em>
+<p><strong><a href="https://go.gov.sg/ie25-connect-explore" rel="noopener nofollow" target="_blank">Register your interest now for the Connect &amp; Explore Segment</a>! </strong><em>(Note: Only registered participants of IE2025 can participate in this segment)</em>
 </p>
 <h3>Programme:</h3>
 <table style="minWidth: 50px">

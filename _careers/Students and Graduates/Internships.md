@@ -28,7 +28,7 @@ and gain access to courses and career workshops.</p>
 </div>
 <h3>How can you apply?</h3>
 <p>We’re looking for polytechnic students, undergraduates, and recent A-Level
-and diploma graduates awaiting university admission who are up for a challnge
+and diploma graduates awaiting university admission who are up for a challenge
 and want to make a difference! If that sounds like you, first check out
 the timelines as well as guidelines for our internship applications.</p>
 <p>Do note that applicants who have graduated from university are not eligible
