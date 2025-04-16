@@ -9,9 +9,9 @@ permalink: /
 notification: ""
 sections:
   - hero:
-      background: /images/Home_Page_Banner.png
-      button: Find out more
-      url: /media/events/stackx-cybersecurity-2025/
+      background: /images/TFPG_Banner_600x300_v3.png
+      button: EXPLORE OUR WORK
+      url: /techforpublicgood/
       key_highlights:
         - title: For Citizens
           description: Tips, events and stories
@@ -38,17 +38,6 @@ sections:
         transformation.
       button: About GovTech
       url: /about-us/who-we-are/
-  - infopic:
-      title: Tech for Public Good
-      subtitle: Our Digital Government Efforts
-      id: infopic
-      description: GovTech's work spans the spectrum of public technology, enhancing
-        everyday experiences and ensuring the smooth running of government
-        digital services.
-      button: Explore our work
-      url: https://www.tech.gov.sg/techforpublicgood/
-      image: /images/TFPG_Banner_600x300_v3.png
-      alt: Tech for Public Good
   - infopic:
       title: GovTech Decoded
       subtitle: New Vodcast Series
