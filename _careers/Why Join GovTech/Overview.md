@@ -138,7 +138,7 @@ drive our innovation and success in building a Smart Nation.</div>
 </div>
 <h3>Want to learn more about life at GovTech?</h3>
 <p>Check out our <a href="https://linktr.ee/connectwithgovtech" rel="noopener noreferrer nofollow" target="_blank"><u>social media channels</u></a> to
-explore life #InsideGovTech and our career portal!</p>
+explore life #InsideGovTech!</p>
 <h3>Start your GovTech journey today</h3>
 <p>Whether you're a student, graduate or working professional, many opportunities
 await you at GovTech. Help us to advance our mission and shape your future
