@@ -33,6 +33,11 @@ by establishing clear guidelines, templates and documentation for various
 aspects of data engineering. By doing so, we can promote collaboration,
 reduce errors, and improve overall data quality while fostering a culture
 of innovation within a structured framework.</p>
+<p></p>
+<h3>Collaborate with us</h3>
+<p>Are you a public officer looking to enhance your agency's data engineering
+capabilities? Email us at <a href="mailto:dp@tech.gov.sg" rel="noopener noreferrer nofollow" target="_blank">dp@tech.gov.sg</a> to explore how partnering
+with us can strengthen your data initiatives and drive your agency forward.</p>
 <h3>Our work and initiatives</h3>
 <p></p>
 <div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="https://docs.developer.tech.gov.sg/docs/crispr-framework-for-data-engineering-for-public-officers/" class="isomer-card"><div class="isomer-card-body"><div class="isomer-card-title">CRISPr Framework for Data Pipeline Design and Monitoring</div><div class="isomer-card-description">CRISPr provides a structured framework for designing and managing data pipelines, emphasising principles such as comprehensiveness, robustness, and scalability. By adopting this framework, government agencies can effectively handle data complexity and improve data quality.</div><div class="isomer-card-link">[TechPass Required] CRISPr Framework for Data Engineering</div></div></a>
