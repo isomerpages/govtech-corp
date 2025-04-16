@@ -72,6 +72,10 @@ Learn more about the applications and challenges of synthetic data.</div>
 </div>
 </a>
 </div>
+<h3>Collaborate with us</h3>
+<p>Are you a public officer looking to enhance your agency's data engineering
+capabilities? Email us at <a href="mailto:dp@tech.gov.sg" rel="noopener noreferrer nofollow" target="_blank">dp@tech.gov.sg</a> to explore how partnering
+with us can strengthen your data initiatives and drive your agency forward.</p>
 <h3>Who should join us</h3>
 <p>If you are passionate about public service and making lives better with
 tech, join our team and discover a world of development opportunities in
