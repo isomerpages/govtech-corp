@@ -110,7 +110,7 @@ Platforms</p>
 </tr>
 <tr>
 <td rowspan="2" colspan="1">
-<p>11.15AM</p>
+<p>11.00AM</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Engagement Booths and Lightning Talks with Light Refreshments</p>
