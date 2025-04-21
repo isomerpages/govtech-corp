@@ -63,7 +63,7 @@ Development and Information (MDDI)</div>
 </div>
 <div class="isomer-card-body">
 <div class="isomer-card-title">Mr Derrick GOH</div>
-<div class="isomer-card-description">Managing Director And Head Of Group Audit, DBS Bank</div>
+<div class="isomer-card-description">Chief Operating Officer, DBS Group</div>
 </div>
 </div>
 <div class="isomer-card">
