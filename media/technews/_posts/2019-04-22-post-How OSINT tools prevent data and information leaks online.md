@@ -296,14 +296,124 @@ exploit exists to compromise the CMS.
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="Are you leaking information on the web? Use these tools to find out" src="/images/technews/are-you-leading-information-on-the-web-part2.png">
 </div>
-<p><a href="https://haveibeenpwned.com/" rel="noopener noreferrer nofollow" target="_blank">HaveIBeenPwned</a> is
-a search engine for compromised email addresses. Anyone can use it to check
-if their email addresses have been hijacked for malicious purposes and
-identify which breaches the email addresses were involved in. If an employee
-learns that his or her email address has been compromised, they can be
-advised to change their passwords or to enable 2-factor authentication.</p>
-<p>Hopefully, with the sharing of some of these basic OSINT tools, you can
-now leverage this knowledge to discover unexpected information you or your
-organisation might have leaked on the internet. Take action now to prevent
-vulnerabilities from being exploited.</p>
+<p><a href="https://haveibeenpwned.com/" rel="noopener noreferrer nofollow" target="_blank"><u>HaveIBeenPwned</u></a> is
+a search engine for compromised email addresses. It's like a "check engine"
+light for your online accounts. Anyone can use it to check if their email
+addresses have been hijacked for malicious purposes and identify which
+breaches the email addresses were involved in. If an employee learns that
+his or her email address has been compromised, they can be advised to change
+their passwords or to enable 2-factor authentication.</p>
+<h4>Other popular OSINT tools and what they do</h4>
+<p>Here are some of the best popular OSINT tools (with free options) for
+organisations and individuals:</p>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>OSINT tool</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Purpose</strong>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Spiderfoot</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Automates OSINT collection from various sources like domains, IP addresses,
+and email addresses to map relationships between entities&nbsp;</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Whois</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Retrieves registration details of domain names and IP addresses to reveal
+ownership and contact information</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>nlookup</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Network lookup tool that provides information about domains, IP addresses,
+and DNS records</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Social-Searcher</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Monitors social media platforms for mentions of keywords, brands, or individuals</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Shodan</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Searches for internet-connected devices and systems to reveal potential
+vulnerabilities and exposed services</p>
+</td>
+</tr>
+</tbody>
+</table>
+<h3>How to use OSINT tools to protect yourself &amp; your organisation</h3>
+<p>To effectively protect your data using OSINT tools, consider these best
+practices:</p>
+<h4>Regularly monitor for leaks</h4>
+<p>Set up alerts for mentions of your organisation, employees, or sensitive
+data on relevant platforms. Use data leak checker services to stay informed
+about potential breaches.</p>
+<h4>Integrate OSINT with your cybersecurity strategy</h4>
+<p>Incorporate OSINT into your vulnerability management process. Use OSINT
+tools to identify potential attack vectors and prioritise remediation efforts.</p>
+<h4>Leverage OSINT for risk mitigation</h4>
+<p>Conduct regular OSINT assessments to evaluate your organisation's digital
+footprint and identify potential risks. Use the insights gained to continuously
+strengthen your security posture.</p>
+<h3>Real-world applications</h3>
+<h4>Case Study 1: Preventing data breaches in a corporate environment</h4>
+<p>Mass data breaches in corporations and companies have, unfortunately,
+become more prevalent recently as hackers and cyberterrorists hone their
+data breaching abilities. However, some organisations have taken proactive
+steps to plug such leaks and limit the damage done. In November 2024, University
+of Toronto-based Citizen Lab identified <a href="https://www.straitstimes.com/singapore/apple-users-urged-to-update-devices-to-prevent-breach-by-pegasus-spyware" rel="noopener noreferrer nofollow" target="_blank"><u>vulnerabilities in Apple devices that allows the Pegasus spyware to be covertly installed</u></a>.
+Incidents of Pegasus spyware infections were found in 45 countries including
+Singapore and Apple cooperated immediately with Citizen Lab to launch an
+investigation. Citizen Lab also urged Apple device owners to update their
+devices or enable Lockdown Mode to protect against future infections.</p>
+<h4>Case Study 2: OSINT in government and national security</h4>
+<p>Government and national security agencies in Singapore use OSINT to protect
+the nation by detecting potential leaks of classified or sensitive information.
+In a <a href="https://www.straitstimes.com/singapore/intelligence-expert-defends-singapore-against-hidden-threats-mindef-scholarship-centre" rel="noopener noreferrer nofollow" target="_blank"><u>profile in the Straits Times</u></a>,
+an officer from the Digital and Intelligence Service’s (DIS) Counter Terrorism
+and Intelligence Group (CTIG) describes sifting through OSINT on mainstream
+and social media platforms to piece together ‘clues’ in anticipating non-traditional
+threats. This helps in preemptive actions against espionage or cyberattacks,
+securing digital assets.</p>
+<h3>Protect your data with OSINT tools</h3>
+<p>In our highly digital world, the risk of information leakage is a growing
+concern for individuals, businesses, and government entities alike. By
+understanding what open source intelligence is and leveraging the power
+of OSINT techniques and tools, you can take proactive steps to safeguard
+your valuable data.</p>
+<p>As a key player in ensuring data security on a national level, GovTech
+is committed to empowering Singaporeans with the knowledge and tools they
+need to navigate the digital landscape safely. Explore the OSINT tools
+and best practices mentioned in this article, sign up for relevant services,
+and integrate them into your security practices.</p>
+<p>Remember, vigilance and proactive monitoring are crucial in preventing
+data breaches and protecting your online presence.</p>
+<p>Take action now to prevent vulnerabilities from being exploited.</p>
 <p></p>
