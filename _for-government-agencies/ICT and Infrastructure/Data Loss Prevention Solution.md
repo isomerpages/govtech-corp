@@ -78,18 +78,8 @@ data classification and information security of the files or text you are
 working on. This process helps mitigate potential risks to data leak protection
 tools and strategies. To illustrate how DLP functions in practice, consider
 the following common user interactions and system responses:</p>
-<table style="minWidth: 50px">
-<colgroup>
-<col>
-<col>
-</colgroup>
-<tbody>
-<tr>
-<th rowspan="1" colspan="1">
 <p><strong>Alert</strong>
 </p>
-</th>
-<th rowspan="1" colspan="1">
 <p>When the system identifies classified or sensitive information, like an
 email containing a document marked "Restricted," an alert appears. This
 notification serves as a prompt, informing the user of the potential risk
@@ -97,14 +87,8 @@ involved. The action proceeds without further intervention, allowing the
 user to continue while remaining mindful of the data's sensitivity. It's
 a subtle yet crucial reminder to exercise caution when handling protected
 information.</p>
-</th>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
 <p><strong>Affirm</strong>
 </p>
-</td>
-<td rowspan="1" colspan="1">
 <p>If the system detects potentially sensitive data, especially in situations
 where classification is unclear, it will request user affirmation. For
 instance, when uploading a file without a specified classification to the
@@ -112,14 +96,8 @@ government cloud website, a prompt will appear. Users must then confirm
 their authorisation by clicking "Okay" or halt the transmission by clicking
 "Cancel." This step ensures that sensitive data is shared exclusively with
 authorised parties, maintaining stringent data access control.</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
 <p><strong>Block</strong>
 </p>
-</td>
-<td rowspan="1" colspan="1">
 <p>In cases where the system identifies classified or sensitive data that
 violates established DLP rules, such as an email containing a "Secret"
 attachment directed to external recipients, the action is automatically
@@ -127,10 +105,6 @@ blocked. A notification will then inform the user of the blocked action.
 By clicking "Close," the user acknowledges the notification. This prevents
 the unauthorised transmission of highly sensitive information, safeguarding
 it from potential exposure.</p>
-</td>
-</tr>
-</tbody>
-</table>
 <p><strong>Other scenarios</strong>
 </p>
 <p>Beyond these scenarios, Data Loss Prevention proactively monitors various
