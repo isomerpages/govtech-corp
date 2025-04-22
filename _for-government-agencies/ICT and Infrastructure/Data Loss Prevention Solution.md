@@ -244,7 +244,8 @@ normal</p>
 </tr>
 <tr>
 <td rowspan="3" colspan="1">
-<p></p>
+<p><strong>Block</strong>
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Sending emails to external recipients containing unprotected* attachment</p>
