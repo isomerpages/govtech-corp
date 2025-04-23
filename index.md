@@ -96,12 +96,13 @@ sections:
       id: announcements
       subtitle: ANNOUNCEMENTS
       announcement_items:
-        - title: STACKx Cybersecurity
-          date: 15 April 2025
-          announcement: "STACKx Cybersecurity will be a one-day, in-person event,
-            featuring insightful tech-sharing sessions and meaningful
-            conversations around three key areas: AI x Cybersecurity, Resilient
-            and Secure Cloud, Future Proofing CISOs."
-          link_text: Discover More
-          link_url: /media/events/stackx-cybersecurity-2025/
+        - title: Industry Engagement (IE) 2025
+          date: 14 May 2025
+          announcement: IE 2025 brings together business leaders, industry partners, and
+            senior public sector stakeholders for strategic dialogue and
+            collaboration. This annual event showcases GovTech's partnership
+            opportunities, fostering meaningful business collaborations that
+            drive Singapore's digital transformation.
+          link_text: Learn about IE 2025
+          link_url: /media/events/industry-engagement-2025/
 ---
