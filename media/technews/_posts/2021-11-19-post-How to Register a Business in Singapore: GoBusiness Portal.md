@@ -213,7 +213,7 @@ measures for their event.</p>
 scalable for continual enhancements. Needless to say, the backend plumbing
 was an enormous effort, so kudos to the product team engineers and UX designers!</p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="GoBusiness" src="/images/Products and Services/For businesses/GoBusiness_card_2.png">
+<img style="width: 80%;" height="auto" width="100%" alt="GoBusiness" src="/images/Products and Services/For businesses/GoBusiness_card_2.png">
 </div>
 <h3>How to start using the GoBusiness portal</h3>
 <p>Want to streamline your business interactions with the government? Looking
