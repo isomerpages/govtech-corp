@@ -249,9 +249,11 @@ to stay competitive in a tech-driven world. These efforts ensure that progress
 is inclusive, with benefits shared widely across society.</p>
 <p><em>Note: For businesses interested in partnering with GovTech, check out how you can <a href="https://www.tech.gov.sg/products-and-services/collaborate-with-us/industry-collaboration/" rel="noopener noreferrer nofollow" target="_blank">collaborate with us</a> to help build our Smart Nation.</em>
 </p>
+<p><strong>Key GovTech initiatives for growth</strong>
+</p>
 <p><strong>To help streamline processes and provide useful tools for growth,</strong> here
 are some of GovTech’s initiatives and products:</p>
-<div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="https://www.tech.gov.sg/products-and-services/for-government-agencies/software-development/sg-tech-stack/" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="SG Tech Stack" src="/images/technews/SGTS_600x400__2_.png"></div></div><div class="isomer-card-body"><div class="isomer-card-title">SG Tech Stack: Accelerating Digital Transformation</div><div class="isomer-card-description">SGTS is a platform that empowers government agencies to build secure and efficient digital services. By providing a suite of pre-built tools and best practices, SGTS streamlines development, reduces costs, and accelerates time-to-market.</div><div class="isomer-card-link">Find Out More</div></div></a>
+<div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="https://www.tech.gov.sg/products-and-services/for-government-agencies/software-development/sg-tech-stack/" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="SG Tech Stack" src="/images/technews/SGTS_600x400__2_.png"></div></div><div class="isomer-card-body"><div class="isomer-card-title">SG Tech Stack: Accelerating digital transformation</div><div class="isomer-card-description">SGTS is a platform that empowers government agencies to build secure and efficient digital services. By providing a suite of pre-built tools and best practices, SGTS streamlines development, reduces costs, and accelerates time-to-market.</div><div class="isomer-card-link">Find Out More</div></div></a>
 <a rel="noopener noreferrer nofollow" href="https://www.tech.gov.sg/products-and-services/for-businesses/corporate-transactions/gobusiness/" class="isomer-card">
 <div class="isomer-card-image">
 <div class="isomer-image-wrapper">
@@ -259,13 +261,13 @@ are some of GovTech’s initiatives and products:</p>
 </div>
 </div>
 <div class="isomer-card-body">
-<div class="isomer-card-title">GoBusiness: Your Business Gateway for Every Need</div>
+<div class="isomer-card-title">GoBusiness: Your business gateway for every need</div>
 <div class="isomer-card-description">GoBusiness is a one-stop platform for all business needs. Access over
 120 government e-services, get personalised advice from over 200 e-advisers
 on various business needs and simplify one’s business journey.</div>
 <div class="isomer-card-link">Find Out More</div>
 </div>
-</a><a rel="noopener noreferrer nofollow" href="https://www.tech.gov.sg/products-and-services/for-citizens/employment/career-kaki/" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Career Kaki" src="/images/technews/CareerKaki_600x400.png"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Career Kaki: Your AI Career Coach</div><div class="isomer-card-description">Career Kaki is your AI-powered career coach. Receive personalised recommendations on jobs, courses, and resources tailored to your unique profile. Get expert advice on career paths and job application strategies. Gain the insights needed to achieve your career goals.</div><div class="isomer-card-link">Find Out More</div></div></a>
+</a><a rel="noopener noreferrer nofollow" href="https://www.tech.gov.sg/products-and-services/for-citizens/employment/career-kaki/" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Career Kaki" src="/images/technews/CareerKaki_600x400.png"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Career Kaki: Your AI career coach</div><div class="isomer-card-description">Career Kaki is your AI-powered career coach. Receive personalised recommendations on jobs, courses, and resources tailored to your unique profile. Get expert advice on career paths and job application strategies. Gain the insights needed to achieve your career goals.</div><div class="isomer-card-link">Find Out More</div></div></a>
 </div>
 <p></p>
 <p><strong>To develop local talent and help with skills training, </strong>here
@@ -290,8 +292,7 @@ assistance.</div>
 <p></p>
 <p><em>For a more comprehensive list of resources available, check out <a href="https://www.smartnation.gov.sg/resources/residents/" rel="noopener noreferrer nofollow" target="_blank">Smart Nation resources (for residents, businesses, and developers)</a> and other <a href="https://www.smartnation.gov.sg/nais/contribute/" rel="noopener noreferrer nofollow" target="_blank">AI-related programmes</a>.</em>
 </p>
-<p></p>
-<h4>Community</h4>
+<h4>Strengthening community</h4>
 <p>Community in Smart Nation 2.0 focuses on using technology to strengthen
 social connections, promote responsible digital habits, and build communities.
 Recognising the challenges of digital tools, such as mental health concerns
