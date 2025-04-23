@@ -97,135 +97,62 @@ approach to enhance scam prevention and online safety for Singaporeans.</p>
 <h4>Why use ScamShield?</h4>
 <div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="/products-and-services/for-citizens/scam-prevention/scamshield/" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="ScamShield logo" src="/images/Products and Services/For citizens/ScamShield_Logo_600x400.png"></div></div><div class="isomer-card-body"><div class="isomer-card-title">ScamShield</div><div class="isomer-card-description">ScamShield helps citizens check for scams, block and filter scams, and report potential scams.</div><div class="isomer-card-link">Explore ScamShield</div></div></a>
 </div>
-<p><strong>H3 Key features of SATIS</strong>
-</p>
-<p>
-<br>
-</p>
-<p><strong>H4 What is SATIS</strong>
-</p>
-<p>
-<br>
+<h4>Key features of SATIS</h4>
+<p><strong>What is SATIS</strong>
 </p>
 <p>SATIS (Scam Analytics and Tactical Intervention System) is an AI-powered
 platform used by the Singapore Police Force to detect, analyse, and disrupt
 malicious websites and online scam infrastructure at an ecosystem level.</p>
-<p>
-<br>
-</p>
-<p><strong>H4 How SATIS protects users</strong>
-</p>
-<p>
-<br>
+<p><strong>How SATIS protects users</strong>
 </p>
 <p>SATIS employs an AI classifier (rMSE) to continuously scan over 100,000
 websites daily for scam indicators. Detected malicious sites are blocked
 or display warnings, preventing user access.</p>
-<p>
-<br>
-</p>
-<p><strong>H4 Proactive threat neutralisation</strong>
-</p>
-<p>
-<br>
+<p><strong>Proactive threat neutralisation</strong>
 </p>
 <p>SATIS actively works to disrupt scam operations by facilitating the blocking
 of identified malicious websites or displaying warnings through collaborations
 with entities like Google and the SPF.</p>
-<p>
-<br>
-</p>
-<p><strong>H4 Precision in detection</strong>
-</p>
-<p>
-<br>
+<p><strong>Precision in detection</strong>
 </p>
 <p>SATIS combines AI analysis with human verification to achieve a high accuracy
 rate (&lt;0.1% false positives) in identifying scam websites, ensuring
 reliable threat detection.</p>
-<p>
-<br>
-</p>
-<p><strong>H3 Key features of ScamShield</strong>
-</p>
-<p>
-<br>
-</p>
-<p><strong>H4 What is ScamShield</strong>
-</p>
-<p>
-<br>
+<h4>Key features of ScamShield</h4>
+<p><strong>What is ScamShield</strong>
 </p>
 <p>ScamShield is a user-friendly mobile app and resource suite (helpline,
 website, social channels) empowering individuals to easily identify, block,
 and report scams across various platforms.</p>
-<p>
-<br>
-</p>
-<p><strong>H4 How ScamShield protects users</strong>
-</p>
-<p>
-<br>
+<p><strong>How ScamShield protects users</strong>
 </p>
 <p>ScamShield employs AI to analyse calls and messages, filtering likely
 scams. Users can report suspicious activity, contributing to a community-driven
 database that enhances detection and warns others.</p>
-<p>
-<br>
-</p>
-<p><strong>H4 Community-powered defence</strong>
-</p>
-<p>
-<br>
+<p><strong>Community-powered defence</strong>
 </p>
 <p>Users actively report potential scams via ScamShield, creating a valuable
 crowdsourced database that improves the system's ability to identify emerging
 threats and warn the wider community.</p>
-<p>
-<br>
-</p>
-<p><strong>H4 Multi-channel accessibility</strong>
-</p>
-<p>
-<br>
+<p><strong>Multi-channel accessibility</strong>
 </p>
 <p>ScamShield offers support across multiple channels: a 24/7 helpline, a
 mobile app, a website, and social media platforms, ensuring accessible
 help and reporting options.</p>
-<p>
-<br>
-</p>
-<p><strong>H2 Real-world use cases</strong>
-</p>
-<p>
-<br>
-</p>
+<h3>Real-world use cases</h3>
 <p>GovTech's scam prevention solutions are actively deployed to protect Singaporeans
 from online fraud. SATIS proactively detects and disrupts phishing scams
 by using its AI to identify malicious websites that steal login credentials,
 preventing countless users from becoming victims. This is demonstrated
 by SATIS's successful identification and disruption of over 50,000 scam-related
 websites as of September 2024.</p>
-<p>
-<br>
-</p>
 <p>ScamShield empowers citizens to participate in scam prevention by enabling
 users to easily report suspicious messages and calls through the mobile
 application. This facilitates a community-powered defense, with 94,489
 users having submitted a report at least once as of August 2024, showcasing
 the app's role in engaging the public for collective protection.</p>
-<p>
-<br>
-</p>
-<p><strong>H3 How to use ScamShield</strong>
-</p>
-<p>
-<br>
-</p>
+<h4>How to use ScamShield</h4>
 <p>Here's how you can effectively use ScamShield to protect yourself:</p>
-<p>
-<br>
-</p>
 <ol>
 <li>
 <p><strong>Download the ScamShield app: </strong>The ScamShield app is your
@@ -249,13 +176,7 @@ to the official ScamShield WhatsApp and Telegram channels for timely alerts
 and the latest scam trends.</p>
 </li>
 </ol>
-<p>
-<br>
-</p>
 <p>Here's what to expect when using ScamShield:</p>
-<p>
-<br>
-</p>
 <ul>
 <li>
 <p><strong>App usage:</strong> The app actively filters calls and messages.
@@ -274,19 +195,9 @@ or new scam types. The website provides general guidance.</p>
 for verifying suspicious communications and urgent advice.</p>
 </li>
 </ul>
-<p>
-<br>
-</p>
-<p><strong>H3 How to use SATIS</strong>
-</p>
-<p>
-<br>
-</p>
+<h4>How to use SATIS</h4>
 <p>SATIS works in the background to protect you from scam websites. Here's
 how you can help maximise its effectiveness:</p>
-<p>
-<br>
-</p>
 <ol>
 <li>
 <p><strong>Contribute by reporting: </strong>Enhance SATIS's capabilities
@@ -314,13 +225,7 @@ different link after you encounter a disrupted site, do not engage with
 them.</p>
 </li>
 </ul>
-<p>
-<br>
-</p>
 <p>Here's what to expect when using SATIS:</p>
-<p>
-<br>
-</p>
 <ul>
 <li>
 <p><strong>Automatic protection:</strong> SATIS operates automatically in
@@ -342,19 +247,9 @@ to redirect you to alternative links, as these are likely further attempts
 to deceive you.</p>
 </li>
 </ul>
-<p>
-<br>
-</p>
-<p><strong>H2 How to avoid getting scammed online</strong>
-</p>
-<p>
-<br>
-</p>
+<h3>How to avoid getting scammed online</h3>
 <p>Protecting yourself online is essential. Follow these simple steps to
 stay safe:</p>
-<p>
-<br>
-</p>
 <ul>
 <li>
 <p><strong>Be wary of unsolicited messages:</strong> Never click on links
@@ -381,64 +276,25 @@ up-to-date with the latest security patches.</p>
 scam, report it to the authorities and the platform where you saw it.</p>
 </li>
 </ul>
-<p>
-<br>
-</p>
-<p><strong>H2 Start protecting yourself online today</strong>
-</p>
-<p>
-<br>
-</p>
+<h3>Start protecting yourself online today</h3>
 <p>By combining GovTech's proactive solutions like SATIS and ScamShield with
 your own vigilance and awareness, you can significantly enhance your online
 safety. This collaborative approach is crucial to strengthening scam prevention
 and overall <a href="https://www.tech.gov.sg/our-capabilities/cybersecurity/" rel="noopener noreferrer nofollow" target="_blank"><u>cybersecurity in Singapore</u></a>.
 Stay informed, utilise the available tools, and adopt safe online habits
 to navigate the digital world with confidence and security.</p>
-<p>
-<br>
-</p>
-<p><strong>H2 Frequently asked questions about online scam prevention</strong>
-</p>
-<p>
-<br>
-</p>
-<p><strong>H3 How can I report a scam I encountered?</strong>
-</p>
-<p>
-<br>
-</p>
+<h3>Frequently asked questions about online scam prevention</h3>
+<h4>How can I report a scam I encountered?</h4>
 <p>You can report scams using the ScamShield app. This helps improve the
 app's detection capabilities and warns other users.</p>
-<p>
-<br>
-</p>
-<p><strong>H3 Are ScamShield and SATIS effective against phishing and website fraud?</strong>
-</p>
-<p>
-<br>
-</p>
+<h4>Are ScamShield and SATIS effective against phishing and website fraud?</h4>
 <p>Yes. SATIS proactively detects and disrupts malicious websites, including
 phishing sites, while ScamShield filters suspicious calls and messages,
 showing how it helps to prevent phishing attempts.</p>
-<p>
-<br>
-</p>
-<p><strong>H3 How can I stay updated on the latest scam prevention tips and tools?</strong>
-</p>
-<p>
-<br>
-</p>
+<h4>How can I stay updated on the latest scam prevention tips and tools?</h4>
 <p>Visit the ScamShield website for scam prevention updates, tips, and live
 chat assistance. You can also subscribe to the ScamShield WhatsApp and
 Telegram channels for timely alerts.</p>
-<p>
-<br>
-</p>
-<p><strong>H3 Are there any costs associated with using ScamShield or SATIS?</strong>
-</p>
-<p>
-<br>
-</p>
+<h4>Are there any costs associated with using ScamShield or SATIS?</h4>
 <p>ScamShield and SATIS are free for public use, provided by the government
 to help protect citizens from scams.</p>
