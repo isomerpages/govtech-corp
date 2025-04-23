@@ -4,8 +4,8 @@ title: Top 5 Scams in Singapore & How To Avoid Them (2025)
 permalink: /media/technews/top-five-scams-in-singapore-and-how-to-protect-yourself/
 image: /images/technews/Top_5_scams_in_Singapore_and_how_to_protect_yourself_from_them__1_.jpg
 date: 2023-09-07
-description: Discover the top 5 scams in Singapore and learn how to spot
-  phishing, job, e-commerce & WhatsApp scams to protect yourself online.
+description: Discover the top 5 scams in Singapore and learn to spot phishing,
+  job, e-commerce & WhatsApp scams for online safety.
 variant: tiptap
 ---
 <div class="isomer-image-wrapper">
@@ -23,6 +23,9 @@ vulnerable to phishing scams.</p>
 scams out there. Arm yourself with knowledge for effective scam avoidance
 so that you don’t end up losing your hard-earned money!</p>
 <h3>1. Phishing scams</h3>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Phishing scams" src="/images/technews/Exhibit_1.jpg">
+</div>
 <p><strong>How it works:&nbsp;</strong>
 </p>
 <p>Phishing scams try to trick you into revealing your personal information,
@@ -91,6 +94,9 @@ logging in to access government services.</p>
 </li>
 </ul>
 <h3>2. Job scams</h3>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Job scams" src="/images/technews/moe_call_centre_2.jpg">
+</div>
 <p><strong>How it works:&nbsp;</strong>
 </p>
 <p>Scammers reach out to would-be victims on popular messaging apps such
@@ -144,6 +150,9 @@ trying to lull victims into a false sense of security.</p>
 </li>
 </ul>
 <h3>3. E-commerce scams</h3>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="E-commerce scams" src="/images/technews/SG_Tech_Represent_2.jpg">
+</div>
 <p><strong>How it works:</strong>
 </p>
 <p>With online shopping becoming ever more popular, e-commerce scams are
@@ -203,6 +212,9 @@ on their devices.</p>
 </li>
 </ul>
 <h3>4. Investment Scams</h3>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Investment Scams" src="/images/technews/what-do-the-cybercriminals-already-know-about-you-part-1.png">
+</div>
 <p><strong>How it works:</strong>
 </p>
 <p>These are get-rich-quick schemes promising high returns for investments
@@ -246,6 +258,9 @@ official sources.</p>
 </li>
 </ul>
 <h3>5. Fake friend call scams</h3>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Fake friend call scams" src="/images/technews/Seven_ways_to_protect_your_smartphone_from_hackers.jpg">
+</div>
 <p><strong>How it works:&nbsp;</strong>
 </p>
 <p>Getting a call from a friend you haven’t heard from in a while is always
@@ -294,6 +309,9 @@ safely at work rather than stranded in the Maldives.</p>
 </li>
 </ul>
 <h3>Prevalence of WhatsApp Scams in Singapore</h3>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Whatsapp scams" src="/images/technews/Whatsapp_icon_resized.jpg">
+</div>
 <p>It's no secret that WhatsApp has become a hotspot for scammers in Singapore,
 and we've seen a worrying surge in WhatsApp scams lately. You might be
 thinking, "But I only chat with friends and family on WhatsApp!" That's

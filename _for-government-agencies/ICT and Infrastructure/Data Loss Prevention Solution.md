@@ -116,16 +116,18 @@ other data transfer activities to ensure ongoing security.</p>
 </colgroup>
 <tbody>
 <tr>
-<td rowspan="1" colspan="1">
-<p><strong>Scenario</strong>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><strong>Type of alert</strong>
-</p>
-</td>
+<th rowspan="1" colspan="1">
+<p>Type of Alert</p>
+</th>
+<th rowspan="1" colspan="1">
+<p>Scenario</p>
+</th>
 </tr>
 <tr>
+<td rowspan="5" colspan="1">
+<p><strong>Alert</strong>
+</p>
+</td>
 <td rowspan="1" colspan="1">
 <p>Sending emails to external recipients containing unprotected* attachment</p>
 <ul>
@@ -136,9 +138,6 @@ other data transfer activities to ensure ongoing security.</p>
 <p>Restricted \ Non-sensitive data</p>
 </li>
 </ul>
-</td>
-<td rowspan="5" colspan="1">
-<p>Alert</p>
 </td>
 </tr>
 <tr>
@@ -193,6 +192,10 @@ other data transfer activities to ensure ongoing security.</p>
 </td>
 </tr>
 <tr>
+<td rowspan="3" colspan="1">
+<p><strong>Affirm</strong>
+</p>
+</td>
 <td rowspan="1" colspan="1">
 <p>Sending emails to external recipients containing unprotected* attachment</p>
 <ul>
@@ -211,9 +214,6 @@ normal</p>
 normal</p>
 </li>
 </ul>
-</td>
-<td rowspan="3" colspan="1">
-<p>Affirm</p>
 </td>
 </tr>
 <tr>
@@ -243,6 +243,10 @@ normal</p>
 </td>
 </tr>
 <tr>
+<td rowspan="3" colspan="1">
+<p><strong>Block</strong>
+</p>
+</td>
 <td rowspan="1" colspan="1">
 <p>Sending emails to external recipients containing unprotected* attachment</p>
 <ul>
@@ -253,9 +257,6 @@ normal</p>
 <p>More than 30 records of sensitive data (NRIC and/or credit card numbers)</p>
 </li>
 </ul>
-</td>
-<td rowspan="3" colspan="1">
-<p>Block</p>
 </td>
 </tr>
 <tr>

@@ -4,8 +4,8 @@ title: "What is Blockchain: Examples & Uses You’ve Not Heard Of"
 permalink: /media/technews/blockchain-uses-you-might-not-have-heard-of/
 image: /images/technews/Not_just_crypto___Blockchain_uses_you_might_not_have_heard_of.jpeg
 date: 2022-07-07
-description: Can blockchain be used to better the world? Learn about what
-  blockchain technology is & unexpected examples of how it can be used.
+description: Can blockchain help better the world? Learn about blockchain
+  technology & unexpected examples of how it can be used.
 variant: tiptap
 ---
 <div class="isomer-image-wrapper">
