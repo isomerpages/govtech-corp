@@ -184,8 +184,13 @@ should foster social cohesion without leaving anyone behind.</div>
 </div>
 </div>
 </div>
-<p></p>
-<h4>Trust</h4>
+<p>At its core, being a Smart Nation reflects a collective whole-of-nation
+effort. It requires active participation from government, businesses, and
+citizens. It’s about embracing innovation, fostering digital literacy,
+and ensuring that no one is left behind as society progresses into a new
+digital era. This is what it means to create a thriving digital future
+for all.</p>
+<h4>1. Building trust through digital safety</h4>
 <p>Trust in Smart Nation 2.0 entails building confidence in digital systems
 through <a href="https://www.tech.gov.sg/our-capabilities/cybersecurity/" rel="noopener noreferrer nofollow" target="_blank">robust cybersecurity solutions</a> to
 combat online harms, and initiatives to ensure safe digital experiences
@@ -227,8 +232,7 @@ sites, and work with authorities to disrupt them.</div>
 </div>
 <p><em>Note: ScamShield’s capabilities have been upgraded. In addition to blocking calls and SMSes, users can also use the app to check if suspicious messages, phone numbers, and website links are scam-related before <a href="https://guide.scamshield.gov.sg/using-scamshield/submit-a-scam-report" rel="noopener noreferrer nofollow" target="_blank">making scam reports</a>. Reports can also be made by uploading screenshots.</em>
 </p>
-<p></p>
-<h4>Growth</h4>
+<h4>2. Fostering growth through technology and AI</h4>
 <p>Growth in Smart Nation 2.0 focuses on empowering individuals and businesses
 to harness technology for innovation and economic progress. This also involves
 significant investment in AI research to push the boundaries of science
