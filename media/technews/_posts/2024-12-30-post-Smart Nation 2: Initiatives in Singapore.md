@@ -397,16 +397,26 @@ public services and create a better future for Singapore.</div>
 others to steer the wheels in the right direction. Hence, the government
 has provided some opportunities for developing and outsourcing talent.</p>
 <h4>Smart Nation Fellowship</h4>
+<p><strong>Who this is for: </strong>This scholarship is designed for bright
+and dedicated individuals who possess a strong aptitude for technology,
+a keen interest in problem-solving, and a genuine aspiration to contribute
+to the public good and Singapore's digital future.</p>
 <p>The <a href="https://www.tech.gov.sg/careers/opportunities-for-professionals/smart-nation-fellowship-programme/" rel="noopener noreferrer nofollow" target="_blank">Smart Nation Fellowship Programme</a> recruits
 talented individuals like data scientists, engineers, and researchers to
 collaborate with GovTech project teams and share their expertise in specific
-domains.</p>
+domains.&nbsp;It offers a unique opportunity to cultivate and empower future
+leaders in technology and innovation by immersing them in impactful government
+projects.</p>
 <p>Fellows will work alongside passionate individuals and contribute their
 expertise to projects across exciting areas like AI, blockchain, and data
 science. The programme offers flexibility, allowing fellows to work on
 pre-identified projects or even propose their own innovative ideas. Alternatively,
 fellows can even choose a part-time consultancy to fit their schedule.</p>
 <h4>Smart Nation Scholarship</h4>
+<p><strong>Who this is for: </strong>This scholarship is designed for bright
+and dedicated individuals who possess a strong aptitude for technology,
+a keen interest in problem-solving, and a genuine aspiration to contribute
+to the public good and Singapore's digital future.</p>
 <p>The <a href="https://www.tech.gov.sg/careers/students-and-graduates/smart-nation-scholarship/" rel="noopener noreferrer nofollow" target="_blank">Smart Nation Scholarship</a> offers
 promising individuals the opportunity to pursue a career in technology
 and contribute to Singapore's digital transformation. This scholarship
@@ -418,34 +428,46 @@ leadership roles in various technology domains.</p>
 and a desire to serve the public good, <a href="https://brightsparks.com.sg/profile/SNS/index.php" rel="noopener noreferrer nofollow" target="_blank">apply today</a> and
 be part of Singapore's Smart Nation transformation.</p>
 <h4>Smart Nation Educator Fellowship</h4>
-<p>The Singapore government, through the <a href="https://www.mddi.gov.sg/" rel="noopener noreferrer nofollow" target="_blank">Ministry of Digital Development and Information (MDDI)</a> and
-the Ministry of Education (MOE), is launching a new initiative to empower
-educators with the skills and knowledge needed to cultivate digital proficiency
-and cyber wellness among students. This initiative, known as the <a href="https://www.sgpc.gov.sg/api/file/getfile/6%20Smart%20Nation%20Educator%20Fellowship%20Factsheet_FINAL.pdf?path=/sgpcmedia/media_releases/mddi-ced/press_release/P-20241001-1/attachment/6%20Smart%20Nation%20Educator%20Fellowship%20Factsheet_FINAL.pdf" rel="noopener noreferrer nofollow" target="_blank">Smart Nation Educator Fellowship,</a> provides
-training, networking opportunities with experts, and a platform for educators
-to innovate and shape the future of education in Singapore by shaping the
-curriculum. By investing in educators, the government aims to create a
-digitally empowered generation of students.</p>
+<p><strong>Who this is for: </strong>This fellowship is designed for dedicated
+and visionary educators in Singapore who are passionate about nurturing
+digital literacy and cyber wellness in students and are keen to lead the
+evolution of digital education within the nation.</p>
+<p>The Singapore government, through the <a href="https://www.mddi.gov.sg/" rel="noopener noreferrer nofollow" target="_blank"><u>Ministry of Digital Development and Information (MDDI)</u></a> and
+the Ministry of Education (MOE), is launching the <a href="https://www.sgpc.gov.sg/api/file/getfile/6%20Smart%20Nation%20Educator%20Fellowship%20Factsheet_FINAL.pdf?path=/sgpcmedia/media_releases/mddi-ced/press_release/P-20241001-1/attachment/6%20Smart%20Nation%20Educator%20Fellowship%20Factsheet_FINAL.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>Smart Nation Educator Fellowship</u></a> to
+empower educators with the skills and knowledge needed to cultivate digital
+proficiency and cyber wellness among students.</p>
+<p>This initiative will provide training, networking opportunities with experts,
+and a platform for educators to innovate and shape the educational curriculum.
+By investing in educators, the government aims to create a digitally empowered
+generation of students.</p>
 <h3>What to expect from Smart Nation 2.0 moving forward</h3>
 <p>Smart Nation 2.0 aims to build a trustworthy, growing and connected Singapore.
 It will focus on using technology to improve citizens' lives, address emerging
-challenges, and foster community-building.</p>
+challenges, and foster community building.</p>
 <p>The strategies are likened to a ‘living document’ where they will be continually
 refined and adjusted based on feedback and technological advancements.
 However, the goals of Trust, Growth, and Community will continue to guide
 responses to digital developments, even as strategies change.</p>
-<p>As PM Lawrence Wong mentioned in his speech at the <a href="https://www.pmo.gov.sg/Newsroom/PM-Lawrence-Wong-at-the-Launch-of-Smart-Nation" rel="noopener noreferrer nofollow" target="_blank">launch of Smart Nation 2.0</a>:</p>
+<p>As PM Lawrence Wong mentioned in his speech at the launch of Smart Nation
+2.0:</p>
 <blockquote>
 <p>“We have done well as a Smart Nation. But we must never think that we
 have arrived. Technology is advancing rapidly, and our operating environment
-is ever changing. So we have to keep pace, stay abreast of the latest developments,
-and continually strive to do better.”</p>
+is ever-changing. So we have to keep pace, stay abreast of the latest developments,
+and continually strive to do better."</p>
 </blockquote>
 <p>Despite the uncertainty that lies ahead, we at GovTech believe that the
 future of Singapore is bright. By embracing technology and innovation,
 we can overcome challenges, seize opportunities, and create a better future
 for all. Let us work together to build a Smart Nation that we can all be
 proud of.</p>
+<h3>Building a connected future with Smart Nation Singapore</h3>
+<p>Singapore's journey towards becoming a Smart Nation is a collective endeavor,
+where the synergy between individuals, businesses, and the government fuels
+ongoing success and paves the way for the next generation of innovation.
+By embracing digital advancements, fostering a culture of continuous learning,
+and actively engaging with government initiatives, individuals and businesses
+contribute directly to a more connected, efficient, and vibrant Singapore.</p>
 <hr>
 <h3>Related articles:</h3>
 <ol data-tight="true" class="tight">
