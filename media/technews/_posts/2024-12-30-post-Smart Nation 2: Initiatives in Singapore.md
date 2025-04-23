@@ -338,7 +338,7 @@ driving positive change.</div>
 <p></p>
 <p><strong><u>STACK Developer Conference</u></strong>
 <br>
-<br>GovTech also hosts the <a href="https://www.developer.tech.gov.sg/communities/events/conferences/stack-developer-conference-2024/overview.html" rel="noopener noreferrer nofollow" target="_blank">STACK Developer Conference</a> biennially
+<br>GovTech also hosts the <a href="https://www.developer.tech.gov.sg/communities/events/conferences/stack-developer-conference-2024/overview.html" rel="noopener noreferrer nofollow" target="_blank">STACK Developer Conference</a> biennially,
 which brings together government agencies, industry leaders, and tech enthusiasts.
 This flagship event fosters collaboration, knowledge sharing, and innovation,
 driving the digital transformation of Singapore.</p>
@@ -356,7 +356,7 @@ the public good, bringing them to life through prototypes. Alternatively,
 some hackathons also involve finding potential issues with present AI tools,
 thereby highlighting cybersecurity problems that must be addressed.</p>
 <p>Examples of such hackathons include:</p>
-<div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="https://www.tech.gov.sg/products-and-services/for-government-agencies/productivity-and-marketing/launchpad/" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="LAUNCH! Hackathon" src="/images/technews/LAUNCH__600x300.png"></div></div><div class="isomer-card-body"><div class="isomer-card-title">LAUNCH! Hackathon: Igniting Innovation in the Public Sector</div><div class="isomer-card-description">Through collaboration and experimentation, LAUNCH! encourages the development of ideas and their transformation into reality. Through hackathons, idea sharing, and partnerships with industry leaders like Microsoft and AWS, LAUNCH! drives digital transformation and enhances public services.</div><div class="isomer-card-link">Find Out More</div></div></a>
+<div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="https://www.tech.gov.sg/products-and-services/for-government-agencies/productivity-and-marketing/launchpad/" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="LAUNCH! Hackathon" src="/images/technews/LAUNCH__600x300.png"></div></div><div class="isomer-card-body"><div class="isomer-card-title">LAUNCH! Hackathon: Igniting innovation in the public sector</div><div class="isomer-card-description">Through collaboration and experimentation, LAUNCH! encourages the development of ideas and their transformation into reality. Through hackathons, idea sharing, and partnerships with industry leaders like Microsoft and AWS, LAUNCH! drives digital transformation and enhances public services.</div><div class="isomer-card-link">Find Out More</div></div></a>
 <a rel="noopener noreferrer nofollow" href="https://www.tech.gov.sg/media/events/singapore-ai-ctf-2024/" class="isomer-card">
 <div class="isomer-card-image">
 <div class="isomer-image-wrapper">
@@ -364,7 +364,7 @@ thereby highlighting cybersecurity problems that must be addressed.</p>
 </div>
 </div>
 <div class="isomer-card-body">
-<div class="isomer-card-title">Singapore AI CTF: Solving Real-World Security Problems</div>
+<div class="isomer-card-title">Singapore AI CTF: Solving real-world security problems</div>
 <div class="isomer-card-description">A platform for anyone to test their AI skills, the Singapore AI CTF challenges
 participants to solve real-world AI security problems across 7 domains.
 Participants can crack codes, win prizes, and be part of the cybersecurity
@@ -374,7 +374,7 @@ community.</div>
 </a>
 </div>
 <p></p>
-<div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="https://www.tech.gov.sg/products-and-services/for-citizens/crowdsourcing/build-for-good-hackathon/" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Build for Good (BFG)" src="/images/technews/BFG_600x300.png"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Build for Good (BFG): Empowering Citizens to Shape Singapore's Future</div><div class="isomer-card-description">BFG empowers citizens to contribute to positive change in Singapore. Through hackathons, accelerators, and a vibrant community, individuals can collaborate on innovative solutions to address pressing social and environmental issues. Any citizen can join the movement and make a difference!</div><div class="isomer-card-link">Find Out More</div></div></a>
+<div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="https://www.tech.gov.sg/products-and-services/for-citizens/crowdsourcing/build-for-good-hackathon/" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Build for Good (BFG)" src="/images/technews/BFG_600x300.png"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Build for Good (BFG): Empowering citizens to shape Singapore's future</div><div class="isomer-card-description">BFG empowers citizens to contribute to positive change in Singapore. Through hackathons, accelerators, and a vibrant community, individuals can collaborate on innovative solutions to address pressing social and environmental issues. Any citizen can join the movement and make a difference!</div><div class="isomer-card-link">Find Out More</div></div></a>
 <a rel="noopener noreferrer nofollow" href="https://hack.gov.sg/" class="isomer-card">
 <div class="isomer-card-image">
 <div class="isomer-image-wrapper">
@@ -382,7 +382,7 @@ community.</div>
 </div>
 </div>
 <div class="isomer-card-body">
-<div class="isomer-card-title">Hack for Public Good (HFPG): Innovating for a Better Singapore</div>
+<div class="isomer-card-title">Hack for Public Good (HFPG): Innovating for a better Singapore</div>
 <div class="isomer-card-description">HFPG is an initiative where OGP officers focus on solving real-world problems.
 Through collaboration and user research, teams develop solutions and build
 working prototypes. This unique approach empowers OGP to deliver impactful
