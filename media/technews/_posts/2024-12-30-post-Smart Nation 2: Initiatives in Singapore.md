@@ -64,60 +64,31 @@ for all citizens, create economic opportunities, and foster a more connected
 and inclusive society. It embodies the vision where digital tools and innovations
 are seamlessly integrated into daily life, making interactions with government
 services, businesses, and communities more efficient and meaningful.</p>
-<p><strong>H3 Key objectives of Singapore’s Smart Nation initiative</strong>
-</p>
-<p>
-<br>
-</p>
+<h4>Key objectives of Singapore’s Smart Nation initiative</h4>
 <p>To achieve this overarching vision, Singapore's Smart Nation initiative
 focuses on several key pillars, each leveraging technology to create a
 more advanced and people-centric nation:</p>
-<p>
-<br>
-</p>
-<p><strong>H4 Technological</strong>
-</p>
-<p>
-<br>
-<br>
+<p><strong>Technological</strong>
 </p>
 <p>A core objective of Singapore's Smart Nation initiative is to establish
 a highly reliable and secure digital infrastructure. This underpins the
 seamless delivery of digital services, providing both individuals and businesses
 with the confidence to plan and operate with certainty.&nbsp;</p>
-<p>
-<br>
-</p>
 <p>Simultaneously, a key focus lies in proactively addressing harmful online
 activities through continuous monitoring and adaptive strategies, ensuring
 a safe and trustworthy digital environment for all users.&nbsp;</p>
-<p>
-<br>
-</p>
-<p><strong>H4 Social</strong>
-</p>
-<p>
-<br>
+<p><strong>Social</strong>
 </p>
 <p>The Smart Nation initiative also prioritises fostering a digitally inclusive
 society, actively working to bridge digital divides that could exacerbate
 social and economic inequalities. This involves strengthening outreach
 efforts and partnerships to equip all segments of the population with the
 necessary digital skills and confidence.</p>
-<p>
-<br>
-</p>
 <p>Furthermore, the development of more accessible and inclusive digital
 products and services is paramount. Ultimately, the aim is to nurture a
 positive and civic-minded online culture where digital technology serves
 to uplift, unify, and strengthen the fabric of Singaporean society.</p>
-<p>
-<br>
-</p>
-<p><strong>H4 Economic</strong>
-</p>
-<p>
-<br>
+<p><strong>Economic</strong>
 </p>
 <p>A robust, resilient, and future-ready digital infrastructure forms the
 bedrock for a thriving digital economy, a key objective of the Smart Nation
@@ -125,32 +96,15 @@ initiative. This infrastructure enables reliable connectivity and high-speed
 data transfer, supporting a wide spectrum of economic and social activities.
 The initiative aims to empower enterprises to leverage technology for enhanced
 productivity, business transformation, and improved customer service.</p>
-<p>
-<br>
-</p>
 <p>Simultaneously, it focuses on equipping the workforce with the skills
 to adapt and succeed in the evolving digital economy through enhanced training
 programmes and support for digital proficiency development in education.</p>
-<p>
-<br>
-</p>
-<p><strong>H2 Smart Nation examples: Real-world applications in Singapore</strong>
-</p>
-<p>
-<br>
-</p>
+<h3>Smart Nation examples: Real-world applications in Singapore</h3>
 <p>In Singapore, the Smart Nation initiative has translated into tangible
 improvements in daily life, from transforming government services into
 user-friendly digital experiences and fostering cashless transactions to
 building <a href="https://www.tech.gov.sg/products-and-services/for-businesses/smart-city-tech/" rel="noopener noreferrer nofollow" target="_blank"><u>smart infrastructure that enhances urban living</u></a>.&nbsp;</p>
-<p>
-<br>
-</p>
-<p><strong>H3 How smart infrastructure is shaping our city</strong>
-</p>
-<p>
-<br>
-</p>
+<h4>How smart infrastructure is shaping our city</h4>
 <p>Smart infrastructure, in simple terms, means using technology like sensors,
 data analytics, and automation to make our city's essential systems work
 better and more efficiently. Consider how smart urban planning is transforming
@@ -159,50 +113,27 @@ utilise real-time data to dynamically adjust traffic flow, easing congestion
 and improving commutes. In housing estates, sensors proactively monitor
 utilities and structural health, enabling swift maintenance and ensuring
 a more secure and comfortable living environment for residents.</p>
-<p>
-<br>
-</p>
 <p>Furthermore, the commitment to a greener Singapore is evident in energy-efficient
 buildings, where smart systems optimise resource use, contributing to a
 more sustainable and resource-conscious way of life. This intelligent infrastructure
 reflects a dedication to engineering a better urban experience.</p>
-<p>
-<br>
-</p>
-<p><strong>H3 Enhancing digital citizen services</strong>
-</p>
-<p>
-<br>
-</p>
+<h4>Enhancing digital citizen services</h4>
 <p>Government digital initiatives are transforming citizen interactions,
 aiming for simplicity and convenience. Singpass, the national digital identity,
 exemplifies this by providing a single, convenient access point to a wide
 range of e-services, saving time and streamlining transactions. A growing
 suite of e-services further empowers individuals to manage tasks remotely,
 reflecting an agile approach to delivering accessible digital solutions.</p>
-<p>
-<br>
-</p>
 <p>In healthcare, Smart Health initiatives, such as telemedicine, health
 monitoring apps, and digital health records, are enhancing patient care
 and access. The rapid deployment of platforms like <a href="https://www.tech.gov.sg/media/technews/tracetogether-behind-the-scenes-look-at-its-development-process/" rel="noopener noreferrer nofollow" target="_blank"><u>TraceTogether</u></a> during
 the COVID-19 pandemic showcased the ability to leverage technology to safeguard
 public health in critical times.</p>
-<p>
-<br>
-</p>
-<p><strong>H3 Building a smart economy</strong>
-</p>
-<p>
-<br>
-</p>
+<h4>Building a smart economy</h4>
 <p>Singapore fosters a smart economy brimming with opportunities through
 strategic initiatives. These efforts actively support startups and digitally
 empower businesses across vital sectors such as FinTech, HealthTech, and
 logistics.</p>
-<p>
-<br>
-</p>
 <p>By championing the adoption of cutting-edge digital technologies, the
 aim is to boost productivity, spark innovation, and create new economic
 possibilities. This involves building a robust digital infrastructure,
