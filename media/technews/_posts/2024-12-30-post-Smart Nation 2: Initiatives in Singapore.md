@@ -300,9 +300,9 @@ from excessive screen time, the <a href="https://www.tech.gov.sg/media/technews/
 and getting the older generation to adopt digital skills, the initiative
 emphasises creating safe and inclusive online environments for all Singaporeans.</p>
 <p>The <a href="https://www.digitalforlife.gov.sg/About/Digital-for-Life-Movement-and-Fund" rel="noopener noreferrer nofollow" target="_blank">Digital for Life (DfL) movement</a> promotes
-digital literacy, accessibility, and inclusivity by offering programs that
-teach tech skills, encourage safe online practices, and support a healthy
-balance between digital and offline life.</p>
+digital literacy, accessibility, and inclusivity by offering programmes
+that teach tech skills, encourage safe online practices, and support a
+healthy balance between digital and offline life.</p>
 <p>The DfL movement isn't just about embracing technology, it's also about
 building a future where everyone benefits from it.</p>
 <div class="iframe-wrapper">
