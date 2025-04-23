@@ -308,13 +308,14 @@ building a future where everyone benefits from it.</p>
 <div class="iframe-wrapper">
 <iframe style="max-width: 100%;" height="400" width="100%" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/uGwYbcVo_yk?si=YRPfynffa60_2Vff"></iframe>
 </div>
-<p></p>
 <p>By bridging divides, nurturing empathy towards one another, and leveraging
 technology for social good, Smart Nation 2.0 ensures that digital progress
 unites and enriches Singapore's diverse society.</p>
 <p>Furthermore, <a href="https://www.smartnation.gov.sg/community/community-projects/my-favourite-days/" rel="noopener noreferrer nofollow" target="_blank">community-driven projects</a> are
 also encouraged, empowering citizens to collaborate with the government
 to co-create digital solutions that address societal needs.</p>
+<p><strong>GovTech platforms for community collaboration</strong>
+</p>
 <p>Here are some government platforms where <strong>citizens can co-create:</strong>
 </p>
 <div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="https://www.tech.gov.sg/our-communities/join-our-communities/tech-kaki/" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Tech Kaki" src="/images/technews/TK_600x400.png"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Tech Kaki: A Citizen Community for User-testing</div><div class="isomer-card-description">By providing valuable feedback and insights, Tech Kaki members contribute to the development of user-friendly and efficient digital services. Anyone can join the community and help shape the future of Singapore's digital services.</div><div class="isomer-card-link">Find Out More</div></div></a>
