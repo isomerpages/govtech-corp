@@ -392,7 +392,7 @@ public services and create a better future for Singapore.</div>
 </a>
 </div>
 <p></p>
-<h3>Developing tech talent to achieve Smart Nation 2.0 goals</h3>
+<h3>Developing tech talent for Smart Nation 2.0 goals</h3>
 <p>Talented individuals and leaders are needed to guide and collaborate with
 others to steer the wheels in the right direction. Hence, the government
 has provided some opportunities for developing and outsourcing talent.</p>
