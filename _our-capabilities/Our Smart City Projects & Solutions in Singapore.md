@@ -27,6 +27,14 @@ empowered future for Singapore.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="Smart City Technology" src="/images/About Us/Our capabilities/Capabilities_Banners_Smart_City_Technology_compressed.jpg">
 </div>
+<h3>What is a Smart City?</h3>
+<p>A smart city or a smart nation is an urban area or country that utilises
+technology to improve the efficiency of urban operations and the quality
+of services delivered to citizens. These technologies, termed “smart city
+technologies” encompass a range of digital tools and systems, including
+IoT, data analytics, and artificial intelligence. Ultimately, the goal
+of a smart city is to enhance the economy, support businesses, and improve
+the overall well-being of its citizens.</p>
 <h3>What we do</h3>
 <p>Our expertise ranges from hardware design on embedded platforms and robotics
 to infrastructure development and deployment on cloud management platforms.
