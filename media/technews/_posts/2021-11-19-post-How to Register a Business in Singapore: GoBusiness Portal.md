@@ -54,18 +54,14 @@ guidance on how to register a business in Singapore, saving valuable time
 and reducing costs associated with navigating multiple agencies and applications.
 This streamlined approach makes the initial stages of setting up and licensing
 a business in Singapore much easier and more efficient for new ventures.&nbsp;</p>
-<p></p>
-<p><strong>H3 Business owners</strong>
-</p>
+<h4>Business owners</h4>
 <p>Existing business owners will find significant value in the GoBusiness
 portal by gaining easy access to and tracking of essential government services
 such as licenses, grants, and various applications. This centralised access
 saves considerable time and streamlines numerous administrative processes,
 allowing businesses to stay informed on relevant regulations and available
 financial support without needing to navigate various government platforms.</p>
-<p></p>
-<p><strong>H3 Government entities</strong>
-</p>
+<h4>Government entities</h4>
 <p>Government entities can also enjoy benefits through the GoBusiness portal
 as it supports the digitisation and streamlining of a wide range of public
 sector services. By offering a unified and accessible platform, the portal
@@ -73,9 +69,7 @@ enhances efficiency in service delivery, significantly reduces administrative
 burdens, and improves overall communication and engagement with the business
 community. This contributes to better resource management and more effective
 policy implementation.</p>
-<p></p>
-<p><strong>H3 Business consultants&nbsp;</strong>
-</p>
+<h4>Business consultants&nbsp;</h4>
 <p>Business development professionals, including consultants and advisors
 who assist businesses with government processes, will also find the GoBusiness
 portal to be an invaluable resource. The portal’s consolidated access to
@@ -83,29 +77,22 @@ information and services saves considerable time and simplifies often intricate
 procedures, enabling consultants to offer more efficient and effective
 support to their clients, ultimately making business setup and operation
 easier.</p>
-<p></p>
-<p><strong>H2 Key Features of the GoBusiness portal</strong>
-</p>
+<h3>Key Features of the GoBusiness portal</h3>
 <p>Here are the key services that the GoBusiness portal enables:</p>
-<p></p>
-<p><strong>H3 1. Seamless business registration and licensing</strong>
-</p>
+<h4>1. Seamless business registration and licensing</h4>
 <p>In Singapore, you must register a business if you are carrying out any
 activity for profit on an ongoing basis unless you are exempted. The actual
 business registration process is conducted via ACRA's BizFile+ portal,
 accessible through the GoBusiness platform. This integration streamlines
 the registration process, making it more efficient for business owners.</p>
-<p></p>
 <p>On the GoBusiness portal, would-be entrepreneurs will get a personalised
 step-by-step guide on business registration and can then choose to complete
 the incorporation within the same transaction. Upon completion of the registration,
 there will be suggestions on what to do next, including applying for relevant
 licences and grants.</p>
-<p></p>
-<p><strong>H4 How to register a business in Singapore with the GoBusiness portal</strong>
+<p><strong>How to register a business in Singapore with the GoBusiness portal</strong>
 </p>
 <p>Here are the steps on how to register a company in Singapore:</p>
-<p></p>
 <ol>
 <li>
 <p><strong>Choose a business structure: </strong>This involves deciding on
@@ -133,9 +120,7 @@ your company's Corppass account to manage digital transactions.</p>
 for your business transactions.</p>
 </li>
 </ol>
-<p></p>
-<p><strong>H3 2. Streamlined access to government grants</strong>
-</p>
+<h4>2. Streamlined access to government grants</h4>
 <p>Government grants provide crucial financial support and opportunities
 for business growth and innovation. The GoBusiness portal significantly
 simplifies the application process for these grants, allowing businesses
@@ -143,11 +128,9 @@ to apply for various forms of government assistance without the need to
 engage with numerous separate agencies and navigate their individual application
 requirements. This centralised access saves businesses considerable time
 and reduces administrative complexities.</p>
-<p></p>
-<p><strong>H4 How to apply for government grants with the GoBusiness portal</strong>
+<p><strong>How to apply for government grants with the GoBusiness portal</strong>
 </p>
 <p>Here's an overview of the grant application process:</p>
-<p></p>
 <ol>
 <li>
 <p><strong>Find the most suitable grant for your business: </strong>You may
@@ -181,38 +164,29 @@ your claim before the claim due date, and your approved claim will be credited
 to your company’s bank account.</p>
 </li>
 </ol>
-<p></p>
-<p><strong>H3 3. Simplifying all transactions in one personalised dashboard</strong>
-</p>
+<h4>3. Simplifying all transactions in one personalised dashboard</h4>
 <p>An inevitable aspect of running a business is periodic transactions with
 the government. However, navigating these interactions has been significantly
 simplified and made more efficient thanks to the GoBusiness portal. The
 GoBusiness dashboard streamlines over 300 government-to-business services,
 some of which include:</p>
-<p></p>
-<p><strong>H4 Simplified license applications &amp; management</strong>
+<p><strong>Simplified license applications &amp; management</strong>
 </p>
 <p>Users can access and apply for more than 200 licences that are administered
 by different government agencies, saving them the trouble of visiting separate
 portals. They can also easily view the status of all their applications
 and will be prompted if any action is required. At the same time, they
 can keep track of existing licences and renew or amend them as needed.</p>
-<p></p>
-<p><strong>H4 Grant recommendations based on business profile</strong>
+<p><strong>Grant recommendations based on business profile</strong>
 </p>
 <p>There are many government grants that businesses can benefit from, and
 the new portal can assess the user’s profile before making recommendations
 for relevant grants.</p>
-<p>
-<br>
-</p>
-<p><strong>H3 4. Access to&nbsp; e-advisory services for business&nbsp;</strong>
-</p>
+<h4>4. Access to e-advisory services for business&nbsp;</h4>
 <p>In addition to the services mentioned above, the GoBusiness portal also
 provides e-advisory services that users can access without logging in.
 These services are centred on business growth and processes, especially
 those requiring adherence to specific guidelines.</p>
-<p></p>
 <p>Here are some examples of the e-advisory services available:</p>
 <ul>
 <li>
@@ -234,9 +208,7 @@ can receive a curated set of licences and recommendations for safe management
 measures for their event.</p>
 </li>
 </ul>
-<p></p>
-<p><strong>H3 5. Simple-to-use interface</strong>
-</p>
+<h4>5. Simple-to-use interface</h4>
 <p>The GoBusiness portal is responsive and speedy, as well as reusable and
 scalable for continual enhancements. Needless to say, the backend plumbing
 was an enormous effort, so kudos to the product team engineers and UX designers!</p>
