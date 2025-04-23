@@ -237,16 +237,16 @@ sites, and work with authorities to disrupt them.</div>
 to harness technology for innovation and economic progress. This also involves
 significant investment in AI research to push the boundaries of science
 and innovation. For instance, the <a href="https://www.channelnewsasia.com/singapore/josephine-teo-mddi-smart-nation-20-goals-digital-strategy-digital-development-information-4656186" rel="noopener noreferrer nofollow" target="_blank">government has committed S$120 million</a> to
-the <a href="https://ai4science.sg/" rel="noopener noreferrer nofollow" target="_blank">"AI for Science" program</a> which
-encourages Interdisciplinary collaborations to foster breakthroughs in
+the <a href="https://ai4science.sg/" rel="noopener noreferrer nofollow" target="_blank">"AI for Science" programme</a> which
+encourages interdisciplinary collaborations to foster breakthroughs in
 areas like biomedical and materials sciences.</p>
 <p>To prepare future generations, the government aims to equip students with
-hands-on experiences in emerging technologies and integrate AI into education,
+hands-on experiences in emerging technologies and integrate <a href="https://www.tech.gov.sg/media/technews/tech-and-education-how-automation-and-ai-is-powering-learning-in-singapore/" rel="noopener nofollow" target="_blank">AI into education</a>,
 ensuring they have a solid foundation in AI and digital literacy. For businesses,
 especially SMEs, the focus is on helping them adopt AI tools and digital
 solutions to streamline operations and boost productivity, enabling them
-to stay competitive in a tech-driven world. Through these efforts, it ensures
-that progress is inclusive, with benefits shared widely across society.</p>
+to stay competitive in a tech-driven world. These efforts ensure that progress
+is inclusive, with benefits shared widely across society.</p>
 <p><em>Note: For businesses interested in partnering with GovTech, check out how you can <a href="https://www.tech.gov.sg/products-and-services/collaborate-with-us/industry-collaboration/" rel="noopener noreferrer nofollow" target="_blank">collaborate with us</a> to help build our Smart Nation.</em>
 </p>
 <p><strong>To help streamline processes and provide useful tools for growth,</strong> here
