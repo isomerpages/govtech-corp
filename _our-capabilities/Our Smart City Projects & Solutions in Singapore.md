@@ -70,9 +70,25 @@ as it enables the optimisation of building management and resources.</div>
 </div>
 </a>
 </div>
+<h3>The Importance of Smart City Innovation</h3>
+<p>Smart city innovations and initiatives are crucial for Singapore's continued
+success in the 21st century. As a densely populated island nation, our
+island faces increasing demands on its infrastructure and resources.</p>
+<p>Projects and initiatives such as GovTech’s ODP offers solutions to address
+these challenges, driving efficiency in public services, and ensuring Singapore
+remains a liveable and sustainable smart city.&nbsp;</p>
+<p>Our efforts have made a tangible difference in optimising resource management
+and improving urban planning, enhancing the quality of life for residents.</p>
 <hr>
 <h3>Join our team</h3>
-<p></p>
+<p>Are you passionate about digital transformation and public service? Join
+GovTech and be part of shaping the future of our smart city. We are spearheading
+digital innovation, securing Singapore's digital infrastructure and driving
+its digital economy. You will have the opportunity to work on challenging
+projects, build cutting-edge <a href="https://www.tech.gov.sg/products-and-services/for-government-agencies/ict-and-infrastructure/" rel="noopener noreferrer nofollow" target="_blank"><u>ICT infrastructure</u></a>,
+experience career growth and development and much more. Use your talents
+to make a real difference in the lives of millions.&nbsp;
+<br>Join GovTech and be part of building a smarter Singapore.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="Testimonial for careers in GovTech’s capability centre for Smart City Technology - Embedded Engineer" src="/images/About Us/Our capabilities/Smart_City_Technology_quote_1.jpg">
 </div>
