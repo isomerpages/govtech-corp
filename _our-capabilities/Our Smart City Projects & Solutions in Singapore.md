@@ -8,6 +8,22 @@ description: Explore GovTech's smart city solutions in Singapore. Learn about
 image: /images/About Us/Our capabilities/Capabilities_Banner_Smart_City_Tech.png
 ---
 <h2>Designing, building and implementing government-wide Internet of Things (IoT) infrastructures for Smart City applications</h2>
+<p>As the smartest Asian city and seventh in the world, Singapore leads the
+way in leveraging technology to enhance citizens' lives and drive economic
+growth. Our nation's commitment to innovation has fostered a dynamic landscape
+of smart city projects across diverse sectors.</p>
+<p>&nbsp;As 70% of the world's population is projected to reside in urban
+areas by 2050, the need for efficient urban management becomes increasingly
+vital. Smart city projects can offer crucial solutions that address the
+challenges of growing urban density—including traffic congestion, environmental
+sustainability, and public safety. These technologies optimise resource
+allocation, effectively manage infrastructure, and ensure a higher quality
+of life for residents.</p>
+<p>GovTech plays a pivotal role in shaping this landscape, developing and
+implementing essential smart city solutions in Singapore that underpin
+many of these initiatives. From building robust IoT infrastructures to
+infrastructure development, GovTech is dedicated to creating a digitally
+empowered future for Singapore.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="Smart City Technology" src="/images/About Us/Our capabilities/Capabilities_Banners_Smart_City_Technology_compressed.jpg">
 </div>
