@@ -212,15 +212,13 @@ measures for their event.</p>
 <p>The GoBusiness portal is responsive and speedy, as well as reusable and
 scalable for continual enhancements. Needless to say, the backend plumbing
 was an enormous effort, so kudos to the product team engineers and UX designers!</p>
-<p></p>
-<p>[IMAGES]</p>
-<p></p>
-<p><strong>H2 How to start using the GoBusiness portal</strong>
-</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="GoBusiness" src="/images/Products and Services/For businesses/GoBusiness_card_2.png">
+</div>
+<h3>How to start using the GoBusiness portal</h3>
 <p>Want to streamline your business interactions with the government? Looking
 to access essential services and information with ease? Do it all with
 GoBusiness. Here’s how to get started:</p>
-<p></p>
 <ol>
 <li>
 <p>Visit the <a href="https://www.gobusiness.gov.sg/" rel="noopener noreferrer nofollow" target="_blank"><u>GoBusiness</u></a> website.</p>
@@ -232,60 +230,42 @@ GoBusiness. Here’s how to get started:</p>
 <p>Sign in with your Singpass account to access the GoBusiness Dashboard.</p>
 </li>
 </ol>
-<p></p>
-<p><strong>H2 Get started with using the GoBusiness portal for your business</strong>
-</p>
+<h3>Get started with using the GoBusiness portal for your business</h3>
 <p>This one-stopGoBusiness portal significantly helps businesses save valuable
 time and reduce effort by effectively streamlining various business processes
 and making essential government services far more accessible through a
 single, unified platform, contributing directly to <a href="https://www.tech.gov.sg/media/technews/our-enhanced-smart-nation-vision-paving-the-way-for-a-new-digital-era/" rel="noopener noreferrer nofollow" target="_blank"><u>Singapore's Smart Nation</u></a> vision
 of leveraging technology for a better future.</p>
-<p></p>
 <p>GovTech’s pivotal role in developing and maintaining this portal is instrumental
 in simplifying business-government interactions in a positive and efficient
 manner. Whether you're a seasoned businessperson or just starting your
 journey and learning how to register a business, we welcome you to explore
 the portal and fully utilise its comprehensive services to facilitate growth
 and success within Singapore’s dynamic business landscape.</p>
-<p></p>
-<p><strong>H2 Frequently asked questions about GoBusiness one-stop portal</strong>
-</p>
-<p></p>
-<p><strong>H3 Is GoBusiness an official Singapore Government portal?</strong>
-</p>
+<h3>Frequently asked questions about GoBusiness one-stop portal</h3>
+<h4>Is GoBusiness an official Singapore Government portal?</h4>
 <p>Yes, GoBusiness is jointly developed by the Ministry of Trade and Industry
 (MTI), Smart Nation and Digital Government Group (SNDGO), and GovTech.
 All Government agencies managing the e-services offered on GoBusiness were
 also involved in its development.</p>
-<p></p>
-<p><strong>H3 Is GoBusiness an app I have to download?</strong>
-</p>
+<h4>Is GoBusiness an app I have to download?</h4>
 <p>No, GoBusiness is currently an online portal that you can access only
 on your web browser.</p>
-<p></p>
-<p><strong>H3 Which browser should I use to use the GoBusiness portal?</strong>
-</p>
+<h4>Which browser should I use to use the GoBusiness portal?</h4>
 <p>The GoBusiness portal is best accessed with the latest versions of Chrome,
 Safari, Microsoft Edge and Firefox. Do ensure your pop-up blocker is disabled
 so you can access all features.</p>
-<p></p>
-<p><strong>H3 Can I use the GoBusiness portal if I do not have a Singpass account?</strong>
-</p>
+<h4>Can I use the GoBusiness portal if I do not have a Singpass account?</h4>
 <p>Unfortunately, you will need a Singpass account to log in to your GoBusiness
 dashboard. However,&nbsp; you can apply for a Singpass account on the Singpass
 website.</p>
-<p></p>
-<p><strong>H3 How do I find the licence I want on the GoBusiness portal?</strong>
-</p>
+<h4>How do I find the licence I want on the GoBusiness portal?</h4>
 <p>You can navigate to the “licenses section” of the portal to find the licenses
 available. Alternatively, you can browse this <a href="https://www.gobusiness.gov.sg/licences/find-licence-by-agency/?src=licences_faq" rel="noopener noreferrer nofollow" target="_blank"><u>list of licences</u></a> grouped
 by agency or use our <a href="https://www.gobusiness.gov.sg/licences/find-licence-by-sector/?src=licences_faq" rel="noopener noreferrer nofollow" target="_blank"><u>e-Advisers</u></a> for
 added guidance.</p>
-<p></p>
-<p><strong>H3 Should I log into the GoBusiness portal as an Individual User or Business User?</strong>
-</p>
+<h4>Should I log into the GoBusiness portal as an Individual User or Business User?</h4>
 <p>You should log in as an Individual User if you are:</p>
-<p></p>
 <ul>
 <li>
 <p>Registering a new company/entity.</p>
@@ -300,6 +280,5 @@ added guidance.</p>
 <p>Applying for a Corppass Admin account.</p>
 </li>
 </ul>
-<p></p>
 <p>Conversely, you should log in as a Business User if you are accessing
 information on behalf of a UEN-registered company.</p>
