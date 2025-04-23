@@ -18,11 +18,12 @@ announced in 2014 by former Prime Minister (PM) Lee Hsien Loong, which
 sought to transform Singapore into a digitally-enabled nation where technology
 is integrated into different aspects of life for all Singaporeans and businesses.
 This has been largely successful with cashless payments being the norm,
-increased internet connectivity and broadband speeds, and <a href="https://www.tech.gov.sg/products-and-services/for-citizens/digital-services/" rel="noopener noreferrer nofollow" target="_blank">more government services becoming digitised</a> among
+increased internet connectivity and broadband speeds, and <a href="https://www.tech.gov.sg/products-and-services/for-citizens/digital-services/" rel="noopener noreferrer nofollow" target="_blank">more government services becoming digitised,</a> among
 others.</p>
 <p>However, changing technological trends necessitate changes in the Smart
 Nation blueprint, resulting in Smart Nation 2.0. Let’s explore the main
 goals of Smart Nation 2.0 and the efforts being made to achieve these goals.</p>
+<h3>Key takeaways</h3>
 <ul data-tight="true" class="tight">
 <li>
 <p>What does being a Smart Nation mean?</p>
@@ -40,7 +41,23 @@ goals of Smart Nation 2.0 and the efforts being made to achieve these goals.</p>
 <p>What to expect from Smart Nation 2.0 moving forward</p>
 </li>
 </ul>
-<h3>What does being a Smart Nation mean?</h3>
+<h3>Why Smart Nation 2.0?</h3>
+<blockquote>
+<p>“In Smart Nation 1.0, we focused on building up capabilities and encouraging
+the use of technology. For our next phase, or Smart Nation 2.0, we aim
+to sharpen our focus and use technology more effectively to transform our
+future and shape our nation together.”</p>
+</blockquote>
+<p>- PM Lawrence Wong at the <a href="https://www.pmo.gov.sg/Newsroom/PM-Lawrence-Wong-at-the-Launch-of-Smart-Nation" rel="noopener noreferrer nofollow" target="_blank">launch of Smart Nation 2.0 in Oct 2024</a>
+</p>
+<p>A refreshed Smart Nation 2.0 is necessary because the technological landscape
+has evolved significantly since Singapore first embarked on its Smart Nation
+journey back in 2014. The rise of generative AI, the ubiquity of smartphones,
+and the growing influence of digital platforms on every aspect of life
+present both new opportunities and challenges. To stay ahead of technological
+trends, Singapore must adapt its strategies to harness these advancements
+effectively.</p>
+<h3>What is a Smart Nation?</h3>
 <p>Being a <a href="https://www.smartnation.gov.sg/vision/" rel="noopener noreferrer nofollow" target="_blank">Smart Nation</a> means
 <a href="https://www.tech.gov.sg/media/technews/how-data-engineering-powers-insights-for-public-health-in-singapore/" rel="noopener noreferrer nofollow" target="_blank">leveraging technology in optimal ways</a>to improve the quality of life
 for all citizens, create economic opportunities, and foster a more connected
@@ -66,21 +83,6 @@ for all.</p>
 </div>
 <h3>Why is Smart Nation 2.0 necessary?</h3>
 <p></p>
-<blockquote>
-<p>“In Smart Nation 1.0, we focused on building up capabilities and encouraging
-the use of technology. For our next phase, or Smart Nation 2.0, we aim
-to sharpen our focus and use technology more effectively to transform our
-future and shape our nation together.”</p>
-</blockquote>
-<p>- PM Lawrence Wong at the <a href="https://www.pmo.gov.sg/Newsroom/PM-Lawrence-Wong-at-the-Launch-of-Smart-Nation" rel="noopener noreferrer nofollow" target="_blank">launch of Smart Nation 2.0 in Oct 2024</a>
-</p>
-<p>A refreshed Smart Nation 2.0 is necessary because the technological landscape
-has evolved significantly since Singapore first embarked on its Smart Nation
-journey back in 2014. The rise of generative AI, the ubiquity of smartphones,
-and the growing influence of digital platforms on every aspect of life
-present both new opportunities and challenges. To stay ahead of technological
-trends, Singapore must adapt its strategies to harness these advancements
-effectively.</p>
 <h3>3 key goals of Smart Nation 2.0</h3>
 <p></p>
 <div class="isomer-card-grid">
