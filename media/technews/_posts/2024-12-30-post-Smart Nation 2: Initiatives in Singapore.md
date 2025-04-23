@@ -208,8 +208,7 @@ Singaporeans to navigate the digital landscape with confidence, assured
 that their safety and privacy are safeguarded.</p>
 <p><strong>Key tools for digital security</strong>
 </p>
-<p>Here are some examples of government tools and systems to enhance the
-safety and security of Singaporeans:</p>
+<p>Here are some examples of government tools and systems to <strong>enhance the safety and security of Singaporeans</strong>:</p>
 <div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="https://www.tech.gov.sg/products-and-services/for-citizens/digital-services/singpass/" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Singpass" src="/images/technews/Singpass_600x400.png"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Singpass: Secure Digital Identity to Access Services</div><div class="isomer-card-description">Singpass is your trusted online ID for accessing online government and business services in Singapore. It provides secure login with biometrics or 2FA which protects your data and simplifies transactions.</div><div class="isomer-card-link">Find Out More</div></div></a>
 <a rel="noopener noreferrer nofollow" href="https://www.tech.gov.sg/products-and-services/for-citizens/scam-prevention/" class="isomer-card">
 <div class="isomer-card-image">
