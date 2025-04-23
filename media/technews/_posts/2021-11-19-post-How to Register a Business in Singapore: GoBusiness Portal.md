@@ -22,14 +22,12 @@ government e-services, including business registration. By logging in with
 your Singpass account and selecting your company’s UEN or business entity,
 you can access personalised guidance and apply for necessary licenses and
 permits.&nbsp;</p>
-<p></p>
 <p>GoBusiness was first launched in 2019 as GoBusiness Licensing to simplify
 licence applications for the food services sector in Singapore, marking
 an early step in Singapore's <a href="https://www.tech.gov.sg/our-digital-government-efforts/" rel="noopener noreferrer nofollow" target="_blank"><u>digital government transformation</u></a>.
 Over the next two years, more than 500 business users across multiple sectors,
 including food services, e-commerce, retail and events, were consulted
 on how to improve the portal, resulting in the revamped GoBusiness portal.</p>
-<p></p>
 <p>Here’s a summary of the neat features offered by GoBusiness:</p>
 <ul>
 <li>
@@ -45,14 +43,10 @@ on how to improve the portal, resulting in the revamped GoBusiness portal.</p>
 <p>Simple-to-use interface</p>
 </li>
 </ul>
-<p></p>
-<p><strong>H2 Who can benefit from using the GoBusiness Portal?</strong>
-</p>
+<h3>Who can benefit from using the GoBusiness Portal?</h3>
 <p>The GoBusiness portal provides many benefits for all,&nbsp; from aspiring
 entrepreneurs to established business owners and even government entities.</p>
-<p></p>
-<p><strong>H3 Aspiring entrepreneurs</strong>
-</p>
+<h4>Aspiring entrepreneurs</h4>
 <p>Aspiring entrepreneurs can significantly benefit from the GoBusiness portal
 by accessing a centralised platform that simplifies the often complex process
 of starting a business. The GoBusiness portal also offers clear, step-by-step
