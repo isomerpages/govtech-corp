@@ -96,7 +96,7 @@ sections:
       id: announcements
       subtitle: ANNOUNCEMENTS
       announcement_items:
-        - title: Industry Engagement (IE)
+        - title: Industry Engagement (IE) 2025
           date: 14 May 2025
           announcement: IE 2025 brings together business leaders, industry partners, and
             senior public sector stakeholders for strategic dialogue and
