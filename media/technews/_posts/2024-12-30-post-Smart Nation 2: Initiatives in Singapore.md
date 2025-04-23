@@ -196,36 +196,20 @@ which will be introduced in 2025. It aims to make our digital systems,
 like data centres and <a href="https://www.tech.gov.sg/products-and-services/for-government-agencies/software-development/government-on-commercial-cloud/" rel="noopener noreferrer nofollow" target="_blank"><u>cloud services</u></a>,
 more reliable and secure. This means protecting them from cyberattacks,
 as well as physical threats like fires or floods.</p>
-<p>
-<br>
-</p>
 <p>Under the DIA, companies operating digital infrastructure will be required
 to report incidents and meet certain security standards. This helps to
 prevent disruptions, ensuring a smooth digital experience for everyone.</p>
-<p>
-<br>
-</p>
 <p>Besides the DIA, a <a href="https://www.channelnewsasia.com/singapore/harmful-content-online-new-agency-cyberbullying-4603406" rel="noopener noreferrer nofollow" target="_blank"><u>new government agency</u></a> will
 be established to address emerging threats like non-consensual sharing
 of intimate images and cyberbullying.</p>
-<p>
-<br>
-</p>
 <p>Beyond these government initiatives, individuals must also be empowered
 with the knowledge and tools to use technology responsibly. This enables
 Singaporeans to navigate the digital landscape with confidence, assured
 that their safety and privacy are safeguarded.</p>
-<p>
-<br>
+<p><strong>Key tools for digital security</strong>
 </p>
-<p><strong>H4 Key tools for digital security</strong>
-</p>
-<p>
-<br>
-</p>
-<p>Here are some examples of government tools and systems <strong>to enhance the safety and security of Singaporeans:</strong>
-</p>
-<p></p>
+<p>Here are some examples of government tools and systems to enhance the
+safety and security of Singaporeans:</p>
 <div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="https://www.tech.gov.sg/products-and-services/for-citizens/digital-services/singpass/" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Singpass" src="/images/technews/Singpass_600x400.png"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Singpass: Secure Digital Identity to Access Services</div><div class="isomer-card-description">Singpass is your trusted online ID for accessing online government and business services in Singapore. It provides secure login with biometrics or 2FA which protects your data and simplifies transactions.</div><div class="isomer-card-link">Find Out More</div></div></a>
 <a rel="noopener noreferrer nofollow" href="https://www.tech.gov.sg/products-and-services/for-citizens/scam-prevention/" class="isomer-card">
 <div class="isomer-card-image">
