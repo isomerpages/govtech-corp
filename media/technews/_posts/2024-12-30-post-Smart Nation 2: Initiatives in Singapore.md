@@ -187,22 +187,42 @@ should foster social cohesion without leaving anyone behind.</div>
 <p></p>
 <h4>Trust</h4>
 <p>Trust in Smart Nation 2.0 entails building confidence in digital systems
-through <a href="https://www.tech.gov.sg/our-capabilities/cybersecurity/" rel="noopener noreferrer nofollow" target="_blank">robust cybersecurity measures</a> to
+through <a href="https://www.tech.gov.sg/our-capabilities/cybersecurity/" rel="noopener noreferrer nofollow" target="_blank">robust cybersecurity solutions</a> to
 combat online harms, and initiatives to ensure safe digital experiences
-for all. Hence, laws and systems will also be updated to address new risks.</p>
-<p>An example of new legislation is the <a href="https://www.mddi.gov.sg/media-centre/press-releases/new-digital-infrastructure-act/" rel="noopener noreferrer nofollow" target="_blank">Digital Infrastructure Act (DIA)</a>,
-which will be introduced in 2025 and the establishment of a <a href="https://www.channelnewsasia.com/singapore/harmful-content-online-new-agency-cyberbullying-4603406" rel="noopener noreferrer nofollow" target="_blank">new government agency</a> to
-address emerging threats like non-consensual sharing of intimate images
-and cyberbullying.</p>
-<p>The DIA aims to make our digital systems, like data centres and <a href="https://www.tech.gov.sg/products-and-services/for-government-agencies/software-development/government-on-commercial-cloud/" rel="noopener noreferrer nofollow" target="_blank">cloud services</a>,
+for all. Consequently, laws and systems will also be updated to address
+new risks.</p>
+<p>An example of new legislation is the <a href="https://www.mddi.gov.sg/media-centre/press-releases/new-digital-infrastructure-act/" rel="noopener noreferrer nofollow" target="_blank"><u>Digital Infrastructure Act (DIA)</u></a>,
+which will be introduced in 2025. It aims to make our digital systems,
+like data centres and <a href="https://www.tech.gov.sg/products-and-services/for-government-agencies/software-development/government-on-commercial-cloud/" rel="noopener noreferrer nofollow" target="_blank"><u>cloud services</u></a>,
 more reliable and secure. This means protecting them from cyberattacks,
 as well as physical threats like fires or floods.</p>
-<p>The DIA would require companies to report incidents and meet certain security
-standards, helping to prevent disruptions and ensuring a smooth digital
-experience for everyone.Moreover, individuals must also be empowered with
-the knowledge and tools to use technology responsibly. This enables Singaporeans
-to navigate the digital landscape with confidence, assured that their safety
-and privacy are safeguarded.</p>
+<p>
+<br>
+</p>
+<p>Under the DIA, companies operating digital infrastructure will be required
+to report incidents and meet certain security standards. This helps to
+prevent disruptions, ensuring a smooth digital experience for everyone.</p>
+<p>
+<br>
+</p>
+<p>Besides the DIA, a <a href="https://www.channelnewsasia.com/singapore/harmful-content-online-new-agency-cyberbullying-4603406" rel="noopener noreferrer nofollow" target="_blank"><u>new government agency</u></a> will
+be established to address emerging threats like non-consensual sharing
+of intimate images and cyberbullying.</p>
+<p>
+<br>
+</p>
+<p>Beyond these government initiatives, individuals must also be empowered
+with the knowledge and tools to use technology responsibly. This enables
+Singaporeans to navigate the digital landscape with confidence, assured
+that their safety and privacy are safeguarded.</p>
+<p>
+<br>
+</p>
+<p><strong>H4 Key tools for digital security</strong>
+</p>
+<p>
+<br>
+</p>
 <p>Here are some examples of government tools and systems <strong>to enhance the safety and security of Singaporeans:</strong>
 </p>
 <p></p>
