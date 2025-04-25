@@ -34,10 +34,8 @@ of VoiceOver and Voice Control features for the visually and/or physically
 handicapped on the SafeEntry app.</p>
 <p>GovTech is also committed to developing tech that empowers vulnerable
 communities.</p>
-<h4>Digital4Good</h4>
-<p></p><a class="isomer-image-wrapper" href="https://www.facebook.com/GovTechSG/posts/are-you-interested-to-have-your-child-pick-up-a-new-skill-over-the-june-holidays/10157793497327511/"><img style="width: 100%" height="auto" width="100%" alt="Digital4Good:Since 2019, 307 GovTechies have volunteered and 132 children have benefitted from this" src="/images/About Us/Digital4Good.jpg"></a>
-<p><em>Follow <a href="https://www.facebook.com/GovTechSG/posts/are-you-interested-to-have-your-child-pick-up-a-new-skill-over-the-june-holidays/10157793497327511/" rel="noopener noreferrer nofollow" target="_blank">Inside GovTech</a> on Facebook for more updates!</em>
-</p>
+<h4>Digital4Good</h4><a class="isomer-image-wrapper" href="https://www.facebook.com/GovTechSG/posts/are-you-interested-to-have-your-child-pick-up-a-new-skill-over-the-june-holidays/10157793497327511/"><img style="width: 100%" height="auto" width="100%" alt="Digital4Good:Since 2019, 307 GovTechies have volunteered and 132 children have benefitted from this" src="/images/About Us/Digital4Good.jpg"></a>
+<p></p>
 <p>Since 2019, Digital4Good has empowered underprivileged children/youth
 and seniors by increasing their digital literacy through programming and
 more.</p>
@@ -150,3 +148,5 @@ public sector and Singapore.</div>
 <img style="width: 80%;" height="auto" width="100%" alt="GovTech sustainability framework to support Singapore Green Plan 2030" src="/images/About Us/our_focus_areas_infographic.jpg">
 </div>
 <p></p>
+<p>Follow us on our <a href="https://go.gov.sg/ConnectWithGovTech" rel="noopener nofollow" target="_blank">social media channels</a> for
+the latest updates.</p>
