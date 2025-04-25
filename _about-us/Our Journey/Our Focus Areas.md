@@ -148,5 +148,5 @@ public sector and Singapore.</div>
 <img style="width: 80%;" height="auto" width="100%" alt="GovTech sustainability framework to support Singapore Green Plan 2030" src="/images/About Us/our_focus_areas_infographic.jpg">
 </div>
 <p></p>
-<p>Follow us on our <a href="https://go.gov.sg/ConnectWithGovTech" rel="noopener nofollow" target="_blank">social media channels</a> for
+<p>Follow us on our<strong> <a href="https://go.gov.sg/ConnectWithGovTech" rel="noopener nofollow" target="_blank">social media channels</a></strong> for
 the latest updates.</p>
