@@ -205,7 +205,7 @@ to enhance data management, governance and security.</p>
 </tbody>
 </table>
 <p>Share your ideas and feedback about GovTech Decoded vodcast series at
-<a href="go.gov.sg/govtechdecoded-feedback" rel="noopener nofollow" target="_blank">go.gov.sg/govtechdecoded-feedback</a>.</p>
+<a href="https://go.gov.sg/govtechdecoded-feedback" rel="noopener nofollow" target="_blank">go.gov.sg/govtechdecoded-feedback</a>.</p>
 <p></p>
 <p></p>
 <p></p>
