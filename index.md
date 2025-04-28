@@ -9,8 +9,8 @@ permalink: /
 notification: ""
 sections:
   - hero:
-      background: /images/TFPG_Banner_600x300_v3.png
-      button: EXPLORE OUR WORK
+      background: /images/GovTech_IE_25_Website_Banner_280425.png
+      button: Learn More
       url: /techforpublicgood/
       key_highlights:
         - title: For Citizens
