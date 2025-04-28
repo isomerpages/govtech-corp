@@ -11,7 +11,7 @@ sections:
   - hero:
       background: /images/GovTech_IE_25_Website_Banner_280425.png
       button: Learn More
-      url: /techforpublicgood/
+      url: /media/events/industry-engagement-2025/
       key_highlights:
         - title: For Citizens
           description: Tips, events and stories
