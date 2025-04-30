@@ -49,7 +49,9 @@ be allocated a maximum of three seats.</p><a class="isomer-image-wrapper" href="
 <p><strong>Format:</strong> In-person event</p>
 </li>
 </ul>
-<h3>[New] Connect &amp; Explore Segment</h3>
+<h3>[Closed] Connect &amp; Explore Segment</h3>
+<p><em>Registration for the Connect &amp; Explore segment is now closed. Shortlisted companies will be notified via email.</em>
+</p>
 <p>Beyond our keynote presentations, panel discussions, and engagement booths
 with lightning talks, we are introducing a new segment, Connect &amp; Explore.
 This new segment provides a unique opportunity for solution providers to
@@ -57,8 +59,6 @@ engage directly with government agencies in a one-on-one 20-minute session.
 Several agencies have put forth their problem statements. It’s a valuable
 chance to explore potential collaborations, share your expertise and demonstrate
 how your solution can make a tangible impact to the problem.</p>
-<p><strong><a href="https://go.gov.sg/ie25-connect-explore" rel="noopener nofollow" target="_blank">Register your interest now for the Connect &amp; Explore Segment</a>! </strong><em>(Note: Only registered participants of IE2025 can participate in this segment)</em>
-</p>
 <h3>Programme:</h3>
 <table style="minWidth: 50px">
 <colgroup>
