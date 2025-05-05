@@ -131,7 +131,7 @@ EY</div>
 </div>
 <div class="isomer-card-body">
 <div class="isomer-card-title">Mr Noah PEPPER</div>
-<div class="isomer-card-description">CEO and co-founder of a new company (To be announced)</div>
+<div class="isomer-card-description">CEO, Multiplier Holdings</div>
 </div>
 </div>
 <div class="isomer-card">
