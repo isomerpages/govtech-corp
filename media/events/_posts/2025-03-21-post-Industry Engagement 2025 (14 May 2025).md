@@ -187,7 +187,7 @@ at Sands Expo &amp; Convention Centre. Lightning Talks schedule:</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Optical and OGRE</p>
+<p>Optical and OGRE booth</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>11.10AM-11.25AM (Optical)</p>
@@ -200,7 +200,7 @@ at Sands Expo &amp; Convention Centre. Lightning Talks schedule:</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Build on BoB</p>
+<p>Build on BoB booth</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>11.30AM-11.45AM</p>
@@ -211,7 +211,7 @@ at Sands Expo &amp; Convention Centre. Lightning Talks schedule:</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Simplifying Governance</p>
+<p>Simplifying Governance booth</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>11.10AM-11.30AM</p>
@@ -222,7 +222,7 @@ at Sands Expo &amp; Convention Centre. Lightning Talks schedule:</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>SG Tech Stack</p>
+<p>SG Tech Stack booth</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>11.30AM-11.45AM</p>
@@ -233,7 +233,7 @@ at Sands Expo &amp; Convention Centre. Lightning Talks schedule:</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Driving Quality Software Delivery</p>
+<p>Driving Quality Software Delivery booth</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>11.10AM-11.30AM</p>
