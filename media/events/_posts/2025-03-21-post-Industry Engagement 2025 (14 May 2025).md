@@ -17,6 +17,8 @@ partners, and senior public sector stakeholders for strategic dialogue
 and collaboration. This annual in-person event showcases GovTech's partnership
 opportunities and future directions, fostering meaningful business collaborations
 that drive Singapore's digital transformation.</p>
+<p><em>Registration for Industry Engagement 2025 is now closed.</em>
+</p>
 <h3>Why you should attend:</h3>
 <ul data-tight="true" class="tight">
 <li>
@@ -32,8 +34,6 @@ collaborations.</p>
 </li>
 </ul>
 <p>Be part of shaping Singapore's digital future.</p>
-<p><em>Registration is now closed. Due to limited capacity, each company will be allocated a maximum of three seats.</em>
-</p>
 <h3>Event Details:</h3>
 <ul data-tight="true" class="tight">
 <li>
@@ -49,16 +49,6 @@ collaborations.</p>
 <p><strong>Format:</strong> In-person event</p>
 </li>
 </ul>
-<h3>[Closed] Connect &amp; Explore Segment</h3>
-<p><em>Registration for the Connect &amp; Explore segment is now closed. Shortlisted companies will be notified via email.</em>
-</p>
-<p>Beyond our keynote presentations, panel discussions, and engagement booths
-with lightning talks, we are introducing a new segment, Connect &amp; Explore.
-This new segment provides a unique opportunity for solution providers to
-engage directly with government agencies in a one-on-one 20-minute session.
-Several agencies have put forth their problem statements. It’s a valuable
-chance to explore potential collaborations, share your expertise and demonstrate
-how your solution can make a tangible impact to the problem.</p>
 <h3>Programme:</h3>
 <table style="minWidth: 50px">
 <colgroup>
@@ -133,6 +123,137 @@ Platforms</p>
 </table>
 <p><em>*Please note that the programme may be subject to change without prior notice.</em>
 </p>
+<h3>Engagement Booths<strong> </strong>and Lightning Talks</h3>
+<p>Experience the development platforms powering Singapore's government digital
+services and discover how you or your company can partner with us effectively
+at our engagement booths:&nbsp;</p>
+<ul>
+<li>
+<p>Experience <strong>Optical</strong>, a Content Management System that helps
+agencies build secure, compliant websites aligned with the Digital Service
+Standards,&nbsp;<strong>OGRE</strong>, a business Rule Management System
+that converts policy rules into actionable business logic.&nbsp;</p>
+</li>
+</ul>
+<ul>
+<li>
+<p>Discover <strong>Build on BoB</strong>, a no-code cloud-based platform
+that enables rapid creation of customised forms and workflows and can be
+integrated with various solutions.&nbsp;</p>
+</li>
+</ul>
+<ul>
+<li>
+<p>Stay informed about the latest <strong>Singapore Government ICT &amp; Smart Systems policies</strong> designed
+to accelerate the delivery of innovation digital products that are cost-effective,
+and risk mitigated.&nbsp;&nbsp;</p>
+</li>
+</ul>
+<ul>
+<li>
+<p>Learn more about <strong>SG Tech Stack</strong>, a set of standardised
+and ready-to-use platform tools for building secure, high-quality government
+digital services.&nbsp;</p>
+</li>
+</ul>
+<ul>
+<li>
+<p>Find out what GovTech is implementing to <strong>uplift software quality</strong> through
+stronger proficiency, best practices for delivery and standardised quality
+metrics. &nbsp;
+<br>
+</p>
+</li>
+</ul>
+<p>Check out our Lightning Talks at the Engagement Booths on 14 May 2025
+at Sands Expo &amp; Convention Centre. Lightning Talks schedule:</p>
+<table style="minWidth: 75px">
+<colgroup>
+<col>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<th rowspan="1" colspan="1">
+<p></p>
+</th>
+<th rowspan="1" colspan="1">
+<p>Session 1</p>
+</th>
+<th rowspan="1" colspan="1">
+<p>Session 2</p>
+</th>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Optical and OGRE</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>11.10AM-11.25AM (Optical)</p>
+<p>11.45AM-12.00PM (OGRE)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>12.15PM-12.30PM (Optical)</p>
+<p>12.30PM-12.45PM (OGRE)</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Build on BoB</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>11.30AM-11.45AM</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>12.00PM-12.15PM</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Simplifying Governance</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>11.10AM-11.30AM</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>11.45AM-12.05PM</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>SG Tech Stack</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>11.30AM-11.45AM</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>12.00PM-12.15PM</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Driving Quality Software Delivery</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>11.10AM-11.30AM</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>11.45AM-12.05PM</p>
+</td>
+</tr>
+</tbody>
+</table>
+<h3>Connect &amp; Explore Segment</h3>
+<p><em>Registration is closed. Shortlisted companies will be notified via email.</em>
+</p>
+<p>Beyond our keynote presentations, panel discussions, and engagement booths
+with lightning talks, we are introducing a new segment, Connect &amp; Explore.
+This new segment provides a unique opportunity for solution providers to
+engage directly with government agencies in a one-on-one 20-minute session.
+Several agencies have put forth their problem statements. It’s a valuable
+chance to explore potential collaborations, share your expertise and demonstrate
+how your solution can make a tangible impact to the problem.</p>
 <p>For IE2025 queries, please contact our event management partner at&nbsp;
 <a href="mailto: IE2025Secretariat@Knoxx.com.sg" rel="noopener noreferrer nofollow" target="_blank">IE2025Secretariat@Knoxx.com.sg</a>.</p>
 <p><a href="/files/media/Events/Code_of_Conduct_for_IE2025.pdf" rel="noopener noreferrer nofollow" target="_blank">Code of Conduct</a>&nbsp;
