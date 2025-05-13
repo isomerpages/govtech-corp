@@ -31,9 +31,9 @@ initiatives.</p>
 collaborations.</p>
 </li>
 </ul>
-<p>Be part of shaping Singapore's digital future. <a href="https://go.gov.sg/ie2025-eventpage" class="c-link" rel="noopener noreferrer" target="_blank">Register your interest</a> for
-Industry Engagement 2025 today! Due to limited capacity, each company will
-be allocated a maximum of three seats.</p><a class="isomer-image-wrapper" href="https://go.gov.sg/ie2025-eventpage"><img style="width: 50%;" height="auto" width="100%" alt="Register your interest button" src="/images/OpenAI_Hackathon__CTA_button.png"></a>
+<p>Be part of shaping Singapore's digital future.</p>
+<p><em>Registration is now closed. Due to limited capacity, each company will be allocated a maximum of three seats.</em>
+</p>
 <h3>Event Details:</h3>
 <ul data-tight="true" class="tight">
 <li>
