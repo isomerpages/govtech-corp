@@ -214,10 +214,10 @@ at Sands Expo &amp; Convention Centre:</p>
 <p>Simplifying Governance booth</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>11.10AM-11.30AM</p>
+<p>11.30AM-11.50AM</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>11.45AM-12.05PM</p>
+<p>12.00PM-12.20PM</p>
 </td>
 </tr>
 <tr>
@@ -225,10 +225,10 @@ at Sands Expo &amp; Convention Centre:</p>
 <p>SG Tech Stack booth</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>11.30AM-11.45AM</p>
+<p>11.10AM-11.25AM</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>12.00PM-12.15PM</p>
+<p>11.45AM-12.00PM</p>
 </td>
 </tr>
 <tr>
@@ -236,10 +236,10 @@ at Sands Expo &amp; Convention Centre:</p>
 <p>Driving Quality Software Delivery booth</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>11.10AM-11.30AM</p>
+<p>11.30AM-11.50AM</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>11.45AM-12.05PM</p>
+<p>12.00PM-12.20PM</p>
 </td>
 </tr>
 </tbody>
