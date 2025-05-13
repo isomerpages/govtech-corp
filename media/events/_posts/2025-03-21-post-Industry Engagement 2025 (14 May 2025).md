@@ -166,7 +166,7 @@ metrics. &nbsp;
 </li>
 </ul>
 <p>Check out our Lightning Talks at the Engagement Booths on 14 May 2025
-at Sands Expo &amp; Convention Centre. Lightning Talks schedule:</p>
+at Sands Expo &amp; Convention Centre:</p>
 <table style="minWidth: 75px">
 <colgroup>
 <col>
