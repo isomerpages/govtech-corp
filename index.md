@@ -11,9 +11,9 @@ notification: Government officials will NEVER ask you to transfer money or
   Helpline at 1799 if you are unsure if something is a scam.
 sections:
   - hero:
-      background: /images/GovTech_IE_25_Website_Banner_280425.png
-      button: Learn More
-      url: /media/events/industry-engagement-2025/
+      background: /images/ODP_homepage_banner_compress.png
+      button: Explore our work
+      url: /techforpublicgood/
       key_highlights:
         - title: For Citizens
           description: Tips, events and stories
@@ -29,8 +29,9 @@ sections:
           url: /for-government-agencies
       variant: center
       size: md
-      alignment: right
+      alignment: left
       backgroundColor: gray
+      title: Building tech for public good
   - infobar:
       title: Government Technology Agency (GovTech)
       subtitle: WHO WE ARE

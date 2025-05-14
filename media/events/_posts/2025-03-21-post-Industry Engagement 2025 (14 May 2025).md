@@ -160,90 +160,9 @@ digital services.&nbsp;</p>
 <li>
 <p>Find out what GovTech is implementing to <strong>uplift software quality</strong> through
 stronger proficiency, best practices for delivery and standardised quality
-metrics. &nbsp;
-<br>
-</p>
+metrics.</p>
 </li>
 </ul>
-<p>Check out our Lightning Talks at the Engagement Booths on 14 May 2025
-at Sands Expo &amp; Convention Centre:</p>
-<table style="minWidth: 75px">
-<colgroup>
-<col>
-<col>
-<col>
-</colgroup>
-<tbody>
-<tr>
-<th rowspan="1" colspan="1">
-<p></p>
-</th>
-<th rowspan="1" colspan="1">
-<p>Session 1</p>
-</th>
-<th rowspan="1" colspan="1">
-<p>Session 2</p>
-</th>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Optical and OGRE booth</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>11.10AM-11.25AM (Optical)</p>
-<p>11.45AM-12.00PM (OGRE)</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>12.15PM-12.30PM (Optical)</p>
-<p>12.30PM-12.45PM (OGRE)</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Build on BoB booth</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>11.30AM-11.45AM</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>12.00PM-12.15PM</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Simplifying Governance booth</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>11.30AM-11.50AM</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>12.00PM-12.20PM</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>SG Tech Stack booth</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>11.10AM-11.25AM</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>11.45AM-12.00PM</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Driving Quality Software Delivery booth</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>11.30AM-11.50AM</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>12.00PM-12.20PM</p>
-</td>
-</tr>
-</tbody>
-</table>
 <h3>Connect &amp; Explore Segment</h3>
 <p><em>Registration is closed. Shortlisted companies will be notified via email.</em>
 </p>
