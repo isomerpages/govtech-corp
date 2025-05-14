@@ -15,7 +15,7 @@ GovTech leads the charge in building tech for public good. Sometimes hidden,
 our work is always purposeful in engineering a smarter, more connected
 digital government. Discover more in the video below.&nbsp;</p>
 <div class="iframe-wrapper">
-<iframe height="400" width="846" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/nicrbe5cMFg"></iframe>
+<iframe style="max-width: 100%;" height="400" width="100%" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/nicrbe5cMFg"></iframe>
 </div>
 <h3>How GovTech is shaping digital solutions for the public good<strong>&nbsp;</strong></h3>
 <p>From citizen-facing products and services that impact daily lives, to
