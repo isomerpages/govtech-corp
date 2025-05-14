@@ -11,7 +11,7 @@ notification: Government officials will NEVER ask you to transfer money or
   Helpline at 1799 if you are unsure if something is a scam.
 sections:
   - hero:
-      background: /images/Tech_For_Public_Good__For_A_Better_Tomorrow__2____Copy.jpg
+      background: /images/SATIS_rMSE.gif
       button: Explore our work
       url: /techforpublicgood/
       key_highlights:
@@ -27,8 +27,8 @@ sections:
         - title: For Government Agencies
           description: Productivity and collaboration
           url: /for-government-agencies
-      variant: side
-      size: sm
+      variant: center
+      size: md
       alignment: left
       backgroundColor: gray
       title: Building tech for public good
