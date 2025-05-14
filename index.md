@@ -6,7 +6,9 @@ description: Empowering our nation through digital transformation. From
   lives of all Singaporeans.
 image: /images/GovTechSg_True_Inline_Logo_3_Blue.jpg
 permalink: /
-notification: ""
+notification: Government officials will NEVER ask you to transfer money or
+  disclose bank log-in details over a phone call. Call the 24/7 ScamShield
+  Helpline at 1799 if you are unsure if something is a scam.
 sections:
   - hero:
       background: /images/GovTech_IE_25_Website_Banner_280425.png
