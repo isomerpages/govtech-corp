@@ -27,9 +27,9 @@ sections:
         - title: For Government Agencies
           description: Productivity and collaboration
           url: /for-government-agencies
-      variant: center
-      size: md
-      alignment: right
+      variant: side
+      size: sm
+      alignment: left
       backgroundColor: gray
       title: Building tech for public good
   - infobar:
