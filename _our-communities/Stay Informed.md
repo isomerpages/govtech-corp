@@ -24,19 +24,19 @@ and job opportunities, life Inside GovTech, and much more!</p>
 </colgroup>
 <tbody>
 <tr>
-<th rowspan="1" colspan="1">
-<p></p><a class="isomer-image-wrapper" href="https://www.facebook.com/GovTechSG/"><img style="width: 100%" height="auto" width="100%" alt="Facebook icon" src="/images/Stay Informed/social_facebook_icon.png"></a>
+<td rowspan="1" colspan="1">
+<p></p><a class="isomer-image-wrapper" href="https://www.facebook.com/GovTechSG/"><img style="width: 70%;" height="auto" width="100%" alt="Facebook icon" src="/images/Stay Informed/social_facebook_icon.png"></a>
 <p><a href="https://www.facebook.com/GovTechSG/" rel="noopener nofollow" target="_blank">@GovTechSG</a>
 </p>
-</th>
-<th rowspan="1" colspan="1">
+</td>
+<td rowspan="1" colspan="1">
 <p>Get the latest scoop on how our #TechForPublicGood work impacts citizens
 and businesses in Singapore.</p>
-</th>
+</td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p></p><a class="isomer-image-wrapper" href="https://www.facebook.com/TechKaki/"><img style="width: 100%" height="auto" width="100%" alt="Facebook icon" src="/images/Stay Informed/social_facebook_icon.png"></a>
+<p></p><a class="isomer-image-wrapper" href="https://www.facebook.com/TechKaki/"><img style="width: 70%;" height="auto" width="100%" alt="Facebook icon" src="/images/Stay Informed/social_facebook_icon.png"></a>
 <p><a href="https://www.facebook.com/TechKaki/" rel="noopener nofollow" target="_blank">@TechKaki</a>
 </p>
 </td>
@@ -44,11 +44,12 @@ and businesses in Singapore.</p>
 <p>Join Tech Kaki and help shape the future of digital government services.
 Collaborate with us in user testing and volunteering sessions to make a
 meaningful impact!</p>
+<p>Follow</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p></p><a class="isomer-image-wrapper" href="https://www.instagram.com/govtechsg/#"><img style="width: 100%" height="auto" width="100%" alt="Instagram icon" src="/images/Stay Informed/social_instagram_icon.png"></a>
+<p></p><a class="isomer-image-wrapper" href="https://www.instagram.com/govtechsg/#"><img style="width: 70%;" height="auto" width="100%" alt="Instagram icon" src="/images/Stay Informed/social_instagram_icon.png"></a>
 <p><a href="https://www.instagram.com/govtechsg/#" rel="noopener nofollow" target="_blank">@GovTechSG</a>
 </p>
 </td>
@@ -59,7 +60,7 @@ your life better.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p></p><a class="isomer-image-wrapper" href="https://www.linkedin.com/company/govtech-singapore"><img style="width: 100%" height="auto" width="100%" alt="LinkedIn icon" src="/images/Stay Informed/social_linkedin_icon.png"></a>
+<p></p><a class="isomer-image-wrapper" href="https://www.linkedin.com/company/govtech-singapore"><img style="width: 70%;" height="auto" width="100%" alt="LinkedIn icon" src="/images/Stay Informed/social_linkedin_icon.png"></a>
 <p><a href="https://www.linkedin.com/company/govtech-singapore" rel="noopener nofollow" target="_blank">@GovTechSingapore</a>
 </p>
 </td>
@@ -70,7 +71,7 @@ exclusive look into life #InsideGovTech.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p></p><a class="isomer-image-wrapper" href="https://www.tiktok.com/?_r=1"><img style="width: 100%" height="auto" width="100%" alt="Tik Tok icon" src="/images/Stay Informed/social_tiktok_icon.png"></a>
+<p></p><a class="isomer-image-wrapper" href="https://www.tiktok.com/?_r=1"><img style="width: 70%;" height="auto" width="100%" alt="Tik Tok icon" src="/images/Stay Informed/social_tiktok_icon.png"></a>
 <p><a href="https://www.tiktok.com/?_r=1" rel="noopener nofollow" target="_blank">@GovTechSG</a>
 </p>
 </td>
@@ -81,7 +82,7 @@ exclusive look into life #InsideGovTech.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p></p><a class="isomer-image-wrapper" href="https://www.youtube.com/channel/UCcjKNU_1Uiy0uLJRGUqejZw"><img style="width: 100%" height="auto" width="100%" alt="Youtube icon" src="/images/Stay Informed/social_youtube_icon.png"></a>
+<p></p><a class="isomer-image-wrapper" href="https://www.youtube.com/channel/UCcjKNU_1Uiy0uLJRGUqejZw"><img style="width: 70%;" height="auto" width="100%" alt="Youtube icon" src="/images/Stay Informed/social_youtube_icon.png"></a>
 <p><a href="https://www.youtube.com/channel/UCcjKNU_1Uiy0uLJRGUqejZw" rel="noopener nofollow" target="_blank">@GovTechSG</a>
 </p>
 </td>
@@ -95,7 +96,8 @@ exclusive look into life #InsideGovTech.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="Spotify icon" src="/images/Stay Informed/social_spotify_icon.png">
 </div>
-<p>@GovTech Decoded</p>
+<p><a href="https://open.spotify.com/show/2MOMrqupnrRN6PLqPnzqgn?si=skc0fXxCQk6Cl76pFGDRvA&amp;nd=1&amp;dlsi=94d40617114b4ba1" rel="noopener nofollow" target="_blank">@GovTechDecoded</a>
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Take a seat and listen to our insider conversations on tech trends, insights
