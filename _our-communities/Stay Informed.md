@@ -25,7 +25,7 @@ and job opportunities, life Inside GovTech, and much more!</p>
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
-<p></p><a class="isomer-image-wrapper" href="https://www.facebook.com/GovTechSG/"><img style="width: 70%;" height="auto" width="100%" alt="Facebook icon" src="/images/Stay Informed/social_facebook_icon.png"></a>
+<p></p><a class="isomer-image-wrapper" href="https://www.facebook.com/GovTechSG/"><img style="width: 100%;" height="auto" width="100%" alt="Facebook icon" src="/images/Stay Informed/social_facebook_icon.png"></a>
 </td>
 <td rowspan="1" colspan="1">
 <p>Follow <a href="https://www.facebook.com/GovTechSG/" rel="noopener nofollow" target="_blank">@GovTechSG Facebook</a> to
@@ -35,7 +35,7 @@ and businesses in Singapore.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p></p><a class="isomer-image-wrapper" href="https://www.facebook.com/TechKaki/"><img style="width: 70%;" height="auto" width="100%" alt="Facebook icon" src="/images/Stay Informed/social_facebook_icon.png"></a>
+<p></p><a class="isomer-image-wrapper" href="https://www.facebook.com/TechKaki/"><img style="width: 100%;" height="auto" width="100%" alt="Facebook icon" src="/images/Stay Informed/social_facebook_icon.png"></a>
 </td>
 <td rowspan="1" colspan="1">
 <p>Join <a href="https://www.facebook.com/TechKaki/" rel="noopener nofollow" target="_blank">@TechKaki Facebook</a> and
@@ -45,7 +45,7 @@ us in user testing and volunteering sessions to make a meaningful impact!</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p></p><a class="isomer-image-wrapper" href="https://www.instagram.com/govtechsg/#"><img style="width: 70%;" height="auto" width="100%" alt="Instagram icon" src="/images/Stay Informed/social_instagram_icon.png"></a>
+<p></p><a class="isomer-image-wrapper" href="https://www.instagram.com/govtechsg/#"><img style="width: 100%;" height="auto" width="100%" alt="Instagram icon" src="/images/Stay Informed/social_instagram_icon.png"></a>
 </td>
 <td rowspan="1" colspan="1">
 <p>Follow <a href="https://www.instagram.com/govtechsg/#" rel="noopener nofollow" target="_blank">@GovTechSG Instagram</a> to
@@ -55,7 +55,7 @@ life better.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p></p><a class="isomer-image-wrapper" href="https://www.linkedin.com/company/govtech-singapore"><img style="width: 70%;" height="auto" width="100%" alt="LinkedIn icon" src="/images/Stay Informed/social_linkedin_icon.png"></a>
+<p></p><a class="isomer-image-wrapper" href="https://www.linkedin.com/company/govtech-singapore"><img style="width: 100%;" height="auto" width="100%" alt="LinkedIn icon" src="/images/Stay Informed/social_linkedin_icon.png"></a>
 </td>
 <td rowspan="1" colspan="1">
 <p>Follow <a href="https://www.linkedin.com/company/govtech-singapore" rel="noopener nofollow" target="_blank">@GovTechSingapore LinkedIn</a> to
@@ -65,7 +65,7 @@ look into life #InsideGovTech.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p></p><a class="isomer-image-wrapper" href="https://www.tiktok.com/?_r=1"><img style="width: 70%;" height="auto" width="100%" alt="Tik Tok icon" src="/images/Stay Informed/social_tiktok_icon.png"></a>
+<p></p><a class="isomer-image-wrapper" href="https://www.tiktok.com/?_r=1"><img style="width: 100%;" height="auto" width="100%" alt="Tik Tok icon" src="/images/Stay Informed/social_tiktok_icon.png"></a>
 </td>
 <td rowspan="1" colspan="1">
 <p>Binge-watch #TechForPublicGood stories and tech tips made #ForYou on
@@ -75,7 +75,7 @@ look into life #InsideGovTech.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p></p><a class="isomer-image-wrapper" href="https://www.youtube.com/channel/UCcjKNU_1Uiy0uLJRGUqejZw"><img style="width: 70%;" height="auto" width="100%" alt="Youtube icon" src="/images/Stay Informed/social_youtube_icon.png"></a>
+<p></p><a class="isomer-image-wrapper" href="https://www.youtube.com/channel/UCcjKNU_1Uiy0uLJRGUqejZw"><img style="width: 100%;" height="auto" width="100%" alt="Youtube icon" src="/images/Stay Informed/social_youtube_icon.png"></a>
 </td>
 <td rowspan="1" colspan="1">
 <p>Deep dive into stories on how we create #TechForPublicGood and #EngineeringDigitalGovernment
