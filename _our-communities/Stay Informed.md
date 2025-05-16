@@ -17,6 +17,96 @@ and more when you sign up to receive TechNews newsletters.</p>
 <h3>Connect with us on social media</h3>
 <p>Follow us on social media for updates on new products and features, scholarship
 and job opportunities, life Inside GovTech, and much more!</p>
-<p>Follow us on <a href="https://linktr.ee/connectwithgovtech" rel="noopener noreferrer nofollow" target="_blank">social media</a> @GovTechSG!</p>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p><a class="isomer-image-wrapper" href="https://www.facebook.com/GovTechSG/"><img style="width: 100%;" height="auto" width="100%" alt="Facebook icon" src="/images/Stay Informed/social_facebook_icon.png"></a>
+</td>
+<td rowspan="1" colspan="1">
+<p>Follow <a href="https://www.facebook.com/GovTechSG/" rel="noopener nofollow" target="_blank">@GovTechSG Facebook</a> to
+get the latest scoop on how our #TechForPublicGood work impacts citizens
+and businesses in Singapore.</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p><a class="isomer-image-wrapper" href="https://www.facebook.com/TechKaki/"><img style="width: 100%;" height="auto" width="100%" alt="Facebook icon" src="/images/Stay Informed/social_facebook_icon.png"></a>
+</td>
+<td rowspan="1" colspan="1">
+<p>Join <a href="https://www.facebook.com/TechKaki/" rel="noopener nofollow" target="_blank">@TechKaki Facebook</a> and
+help shape the future of digital government services. Collaborate with
+us in user testing and volunteering sessions to make a meaningful impact!</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p><a class="isomer-image-wrapper" href="https://www.instagram.com/govtechsg/#"><img style="width: 100%;" height="auto" width="100%" alt="Instagram icon" src="/images/Stay Informed/social_instagram_icon.png"></a>
+</td>
+<td rowspan="1" colspan="1">
+<p>Follow <a href="https://www.instagram.com/govtechsg/#" rel="noopener nofollow" target="_blank">@GovTechSG Instagram</a> to
+discover dynamic stories on how we engineer our Smart Nation and make your
+life better.</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p><a class="isomer-image-wrapper" href="https://www.linkedin.com/company/govtech-singapore"><img style="width: 100%;" height="auto" width="100%" alt="LinkedIn icon" src="/images/Stay Informed/social_linkedin_icon.png"></a>
+</td>
+<td rowspan="1" colspan="1">
+<p>Follow <a href="https://www.linkedin.com/company/govtech-singapore" rel="noopener nofollow" target="_blank">@GovTechSingapore LinkedIn</a> to
+meet the people engineering Singapore’s digital government and get an exclusive
+look into life #InsideGovTech.</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p><a class="isomer-image-wrapper" href="https://www.tiktok.com/?_r=1"><img style="width: 100%;" height="auto" width="100%" alt="Tik Tok icon" src="/images/Stay Informed/social_tiktok_icon.png"></a>
+</td>
+<td rowspan="1" colspan="1">
+<p>Binge-watch #TechForPublicGood stories and tech tips made #ForYou on
+<a href="https://www.tiktok.com/?_r=1" rel="noopener nofollow" target="_blank">@GovTechSG TikTok!</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p><a class="isomer-image-wrapper" href="https://www.youtube.com/channel/UCcjKNU_1Uiy0uLJRGUqejZw"><img style="width: 100%;" height="auto" width="100%" alt="Youtube icon" src="/images/Stay Informed/social_youtube_icon.png"></a>
+</td>
+<td rowspan="1" colspan="1">
+<p>Deep dive into stories on how we create #TechForPublicGood and #EngineeringDigitalGovernment
+on <a href="https://www.youtube.com/channel/UCcjKNU_1Uiy0uLJRGUqejZw" rel="noopener nofollow" target="_blank">@GovTechSG Youtube!</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%;" height="auto" width="100%" alt="Spotify icon" src="/images/Stay Informed/social_spotify_icon.png">
+</div>
+</td>
+<td rowspan="1" colspan="1">
+<p>Take a seat and listen to our insider conversations on tech trends, insights
+and how we build #TechForPublicGood on <a href="https://open.spotify.com/show/2MOMrqupnrRN6PLqPnzqgn?si=skc0fXxCQk6Cl76pFGDRvA&amp;nd=1&amp;dlsi=94d40617114b4ba1" rel="noopener nofollow" target="_blank">@GovTechDecoded.</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p><a class="isomer-image-wrapper" href="https://t.me/govtechbytes"><img style="width: 100%;" height="auto" width="100%" alt="Telegram icon" src="/images/Stay Informed/social_telegram_icon.png"></a>
+</td>
+<td rowspan="1" colspan="1">
+<p>Join the <a href="https://t.me/govtechbytes" rel="noopener nofollow" target="_blank">@TechBytes Telegram</a> channel
+to get the latest #TechForPublicGood stories, events, and job alerts delivered
+directly to you.</p>
+</td>
+</tr>
+</tbody>
+</table>
 <h3></h3>
 <p></p>
