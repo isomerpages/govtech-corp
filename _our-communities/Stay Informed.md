@@ -69,8 +69,7 @@ look into life #InsideGovTech.</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Binge-watch #TechForPublicGood stories and tech tips made #ForYou on
-<a href="https://www.tiktok.com/?_r=1" rel="noopener nofollow" target="_blank">@GovTechSG TikTok!</a>
-</p>
+<a href="https://www.tiktok.com/?_r=1" rel="noopener nofollow" target="_blank">@GovTechSG TikTok</a>.</p>
 </td>
 </tr>
 <tr>
@@ -79,8 +78,7 @@ look into life #InsideGovTech.</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Deep dive into stories on how we create #TechForPublicGood and #EngineeringDigitalGovernment
-on <a href="https://www.youtube.com/channel/UCcjKNU_1Uiy0uLJRGUqejZw" rel="noopener nofollow" target="_blank">@GovTechSG Youtube!</a>
-</p>
+on <a href="https://www.youtube.com/channel/UCcjKNU_1Uiy0uLJRGUqejZw" rel="noopener nofollow" target="_blank">@GovTechSG YouTube</a>.</p>
 </td>
 </tr>
 <tr>
@@ -92,8 +90,7 @@ on <a href="https://www.youtube.com/channel/UCcjKNU_1Uiy0uLJRGUqejZw" rel="noope
 </td>
 <td rowspan="1" colspan="1">
 <p>Take a seat and listen to our insider conversations on tech trends, insights
-and how we build #TechForPublicGood on <a href="https://open.spotify.com/show/2MOMrqupnrRN6PLqPnzqgn?si=skc0fXxCQk6Cl76pFGDRvA&amp;nd=1&amp;dlsi=94d40617114b4ba1" rel="noopener nofollow" target="_blank">@GovTechDecoded.</a>
-</p>
+and how we build #TechForPublicGood on <a href="https://open.spotify.com/show/2MOMrqupnrRN6PLqPnzqgn?si=skc0fXxCQk6Cl76pFGDRvA&amp;nd=1&amp;dlsi=94d40617114b4ba1" rel="noopener nofollow" target="_blank">@GovTechDecoded</a>.</p>
 </td>
 </tr>
 <tr>
