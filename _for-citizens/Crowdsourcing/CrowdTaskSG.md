@@ -100,9 +100,13 @@ needs. Your contributions through paid surveys in Singapore help drive
 this continuous improvement.</p>
 </li>
 </ul>
-<p>
-<br>
-</p>
+<h4>How CrowdTaskSG works as the solution</h4>
+<p>CrowdTaskSG serves as the solution to this problem by providing a collaborative
+and convenient platform for citizens to contribute their insights. Through
+engaging in paid surveys in Singapore and providing valuable feedback,
+citizens can directly engage with the government, thereby enhancing public
+participation and enriching the policy-making process.
+<br>Why use CrowdTaskSG?</p>
 <p></p>
 <p></p>
 <p></p>
