@@ -7,8 +7,7 @@ description: Share your feedback & shape Singapore's future with CrowdTaskSG!
 third_nav_title: Crowdsourcing
 image: /images/Products and Services/For citizens/crowdtask_600x300.png
 ---
-<h2>Giving citizens opportunities to be heard on national issues</h2>
-<p></p>
+<h3>Giving citizens opportunities to be heard on national issues</h3>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="CrowdTaskSG banner image/logo" src="/images/Products and Services/For citizens/CTSG_banner.jpg">
 </div>
@@ -39,7 +38,26 @@ public. A key aspect of this commitment is ensuring that the voices of
 citizens are not only heard but also actively shape the policies and services
 that impact their lives. CrowdTaskSG embodies this dedication by providing
 a direct channel for citizens to contribute their perspectives.</p>
-<p></p>
+<h4>What is CrowdTaskSG?</h4>
+<p>CrowdTaskSG is a government platform designed to benefit citizens and
+serve the public better by acting as a bridge between them and government
+agencies and policies. We encourage you to participate and make your voice
+heard.</p>
+<ul>
+<li>
+<p>Citizens can participate in paid surveys, polls, and A/B testing to influence
+government services and policy.</p>
+</li>
+<li>
+<p>Over 80 government agencies have received over 290,000 insights from more
+than 30,000 active users.</p>
+</li>
+<li>
+<p>Users earn rewards for participating, including redeemable points, cash,
+and leaderboard recognition. The platform is also expanding its functionalities
+and reward options.</p>
+</li>
+</ul>
 <p></p>
 <p></p>
 <p></p>
