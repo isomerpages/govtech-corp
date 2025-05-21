@@ -15,10 +15,10 @@ functioning of essential government services, underpinning key initiatives
 such as government e-services, ambitious Smart Nation projects, and seamless
 public sector operations.</p>
 <p>However, in recent years, Singapore has witnessed a rise in sophisticated
-cyber threats. In 2024, our nation was ranked 8th globally as a threat
-source destination. Kaspersky Security Network (KSN) reported over 21 million
-cyberattacks originating from compromised servers in Singapore in 2024,
-the highest in Southeast Asia.</p>
+cyber threats. In 2024, Singapore was <a href="https://securitybrief.asia/story/singapore-reports-record-cyberattacks-in-southeast-asia-2024" rel="noopener noreferrer nofollow" target="_blank">ranked 8th globally</a> as
+a threat source destination. Kaspersky Security Network (KSN) reported
+over 21 million cyberattacks originating from compromised servers in Singapore
+in 2024, the highest in Southeast Asia.</p>
 <p>In response, GovTech has been at the forefront of developing and implementing
 cutting-edge solutions that effectively mitigate these threats and ensure
 the continued, secure operation of crucial public services and fundamental
