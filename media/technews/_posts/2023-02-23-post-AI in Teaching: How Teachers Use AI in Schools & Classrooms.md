@@ -41,7 +41,7 @@ detailed way, going beyond just grades. AI can help teachers gain deeper
 insights into individual learning patterns, identify areas where students
 might be struggling, and even predict potential challenges. This allows
 for more targeted support and intervention.</p>
-<h4>Personalised learning content and real-time feedback </h4>
+<h4>Personalised learning content and real-time feedback</h4>
 <p>Think about lessons that adapt to each student's unique pace and learning
 style. AI makes this possible by curating personalised content and providing
 immediate feedback. This means students can get the support they need,
@@ -60,6 +60,37 @@ basic assignments or scheduling. This frees up teachers to focus on what
 they do best: connecting with students, creating engaging lessons, and
 providing personalised guidance.</p>
 <h3>How teachers can use AI</h3>
+<p>So, how can teachers actually start using AI in their day-to-day work?
+There are already some existing tools that can make a real difference.
+Here are a few examples:</p>
+<ul data-tight="true" class="tight">
+<li>
+<p><strong>Adaptive learning systems:</strong> These platforms use AI algorithms
+to adjust the difficulty and content of learning materials based on a student's
+performance in real-time. It's like having a personalised tutor for each
+student, ensuring they’re challenged appropriately and receive support
+where they need it most.</p>
+</li>
+<li>
+<p><strong>AI-powered assessment tools: </strong>Beyond just grading, AI
+can analyse student responses to identify common misconceptions and provide
+teachers with valuable insights into the overall understanding of the class.
+This helps teachers tailor future lessons to address specific learning
+gaps more effectively.</p>
+</li>
+<li>
+<p><strong>Intelligent tutoring systems: </strong>These AI-driven systems
+can provide students with personalised guidance and support on specific
+subjects. They can answer questions, offer explanations, and provide targeted
+practice, acting as a virtual teaching assistant that's available 24/7.</p>
+</li>
+<li>
+<p><strong>Automated administrative tasks: </strong>AI can help automate
+tasks like generating basic quizzes, scheduling parent-teacher conferences,
+or even organising learning resources. This saves teachers valuable time,
+allowing them to focus more on direct student interaction and lesson planning.</p>
+</li>
+</ul>
 <p></p>
 <p></p>
 <p></p>
