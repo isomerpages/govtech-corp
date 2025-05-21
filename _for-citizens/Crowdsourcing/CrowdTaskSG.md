@@ -105,10 +105,67 @@ this continuous improvement.</p>
 and convenient platform for citizens to contribute their insights. Through
 engaging in paid surveys in Singapore and providing valuable feedback,
 citizens can directly engage with the government, thereby enhancing public
-participation and enriching the policy-making process.
-<br>Why use CrowdTaskSG?</p>
-<p></p>
-<p></p>
+participation and enriching the policy-making process.</p>
+<h3>Why use CrowdTaskSG?</h3>
+<div class="iframe-wrapper">
+<iframe style="max-width: 100%;" height="400" width="100%" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/2_g8xICttKU?si=ReYgKy0SlePltglq"></iframe>
+</div>
+<div class="isomer-card-grid">
+<div class="isomer-card">
+<div class="isomer-card-image">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="CrowdTaskSG allows government agencies to create surveys for the purpose of collecting insights from citizens." src="/images/Products and Services/For citizens/Crowdtask_info_card_1_600x400.png">
+</div>
+</div>
+<div class="isomer-card-body">
+<div class="isomer-card-title">Let your voice be heard on national policies and public services</div>
+<div class="isomer-card-description">Share your views! Your collective answers will directly influence the
+products and services that shape our nation! Participating in surveys and
+providing feedback to the government allows you to directly influence government
+decisions, helping shape public policies and services for the better.</div>
+</div>
+</div>
+<div class="isomer-card">
+<div class="isomer-card-image">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="CrowdTaskSG helps facilitate government crowdsourcing." src="/images/Products and Services/For citizens/Crowdtask_info_card_2_600x400.png">
+</div>
+</div>
+<div class="isomer-card-body">
+<div class="isomer-card-title">Earn rewards for your participation</div>
+<div class="isomer-card-description">Earn virtual coins and experience points (XP) that you can redeem at merchants
+who accept NETS QR mode of payment. Your time and valuable insights through
+completing surveys are recognised and rewarded, making your contribution
+even more meaningful.</div>
+</div>
+</div>
+<div class="isomer-card">
+<div class="isomer-card-image">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="CrowdTaskSG offers rewards for users who participate in government surveys." src="/images/Products and Services/For citizens/Crowdtask_info_card_3_600x400.png">
+</div>
+</div>
+<div class="isomer-card-body">
+<div class="isomer-card-title">A fun, rewarding journey</div>
+<div class="isomer-card-description">Participate and climb up the leaderboard! Unlock better reward tiers when
+you reach a new rank.</div>
+</div>
+</div>
+<div class="isomer-card">
+<div class="isomer-card-image">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Singpass logo" src="/images/Singpass__2_.png">
+</div>
+</div>
+<div class="isomer-card-body">
+<div class="isomer-card-title">Easy, convenient access through Singpass</div>
+<div class="isomer-card-description">Logging in with your Singpass account makes it easy and secure for all
+eligible citizens and permanent residents to participate. This ensures
+personalised tasks based on your demographic profile, making your feedback
+to the government even more relevant and impactful.</div>
+</div>
+</div>
+</div>
 <p></p>
 <p></p>
 <p></p>
@@ -181,50 +238,7 @@ delivery.</p>
 a Singpass account, CrowdTaskSG currently has more than 30,000 active users.
 More than 80 government agencies have received over 290,000 insights from
 users to date.</p>
-<h3>Why use CrowdTaskSG?</h3>
 <p></p>
-<div class="iframe-wrapper">
-<iframe style="max-width: 100%;" height="400" width="100%" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/2_g8xICttKU?si=ReYgKy0SlePltglq"></iframe>
-</div>
-<p></p>
-<div class="isomer-card-grid">
-<div class="isomer-card">
-<div class="isomer-card-image">
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="CrowdTaskSG allows government agencies to create surveys for the purpose of collecting insights from citizens." src="/images/Products and Services/For citizens/Crowdtask_info_card_1_600x400.png">
-</div>
-</div>
-<div class="isomer-card-body">
-<div class="isomer-card-title">Let your voice be heard</div>
-<div class="isomer-card-description">Share your views! Collective answers will go on to influence products
-or improve service delivery!</div>
-</div>
-</div>
-<div class="isomer-card">
-<div class="isomer-card-image">
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="CrowdTaskSG helps facilitate government crowdsourcing." src="/images/Products and Services/For citizens/Crowdtask_info_card_2_600x400.png">
-</div>
-</div>
-<div class="isomer-card-body">
-<div class="isomer-card-title">Earn rewards for sharing your views</div>
-<div class="isomer-card-description">Earn coins that you can redeem at merchants who accept NETS QR mode of
-payment.</div>
-</div>
-</div>
-<div class="isomer-card">
-<div class="isomer-card-image">
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="CrowdTaskSG offers rewards for users who participate in government surveys." src="/images/Products and Services/For citizens/Crowdtask_info_card_3_600x400.png">
-</div>
-</div>
-<div class="isomer-card-body">
-<div class="isomer-card-title">A fun, rewarding journey</div>
-<div class="isomer-card-description">Participate and climb up the leaderboard! Unlock better reward tiers when
-you reach a new rank.</div>
-</div>
-</div>
-</div>
 <h3>How to use CrowdTaskSG?</h3>
 <p>Visit the <a href="https://www.crowdtask.gov.sg/" rel="noopener noreferrer nofollow" target="_blank">CrowdTaskSG website</a>.
 Log in with Singpass to access CrowdTaskSG.</p>
