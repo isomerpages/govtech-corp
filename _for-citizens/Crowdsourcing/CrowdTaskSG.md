@@ -241,6 +241,40 @@ Singapore.</p>
 <p>These examples demonstrate the tangible impact of citizen participation
 through CrowdTaskSG, showcasing how your feedback to the government can
 lead to real-world improvements and inform policy decisions.</p>
+<p></p>
+<h3>Frequently asked questions about CrowdTaskSG</h3>
+<h4>How can I participate in surveys?</h4>
+<p>Once you've created your account and logged in with Singpass on the CrowdTaskSG
+website, you will see a list of available surveys. Simply click on a survey
+that interests you and follow the instructions to complete it.</p>
+<h4>How do I know my data is secure?</h4>
+<p>GovTech is committed to ensuring the security and privacy of your data.
+CrowdTaskSG utilises secure login via Singpass, and all feedback to the
+government collected is handled in accordance with government <a href="https://www.tech.gov.sg/media/technews/are-you-leaking-information-on-the-web/" rel="noopener noreferrer nofollow" target="_blank"><u>data security best practices</u></a>.
+Your responses are typically anonymised to protect your personal information.</p>
+<h4>What happens after I complete a survey?</h4>
+<p>After you complete a survey, your responses are aggregated with those
+of other participants. These collective insights are then shared with the
+relevant government agencies to inform their policy decisions, service
+improvements, and the development of new initiatives.</p>
+<h4>Can businesses use CrowdTaskSG?</h4>
+<p>Currently, CrowdTaskSG is designed for individual citizens and permanent
+residents of Singapore to provide their feedback to the government.</p>
+<h4>Do I get money or what kind of rewards do I get from completing these paid surveys?</h4>
+<p>Yes, you do get rewards for your participation. These rewards can include
+virtual coins that can be redeemed at participating merchants who accept
+NETS QR payments, as well as experience points (XP) that may contribute
+to your standing on leaderboards. The platform is also expanding to include
+direct cash disbursement into your GovWallet account for certain tasks.</p>
+<h4>Is Crowdtask SG an app?</h4>
+<p>CrowdTaskSG is not currently a standalone mobile application. Instead,
+it's a web-based platform developed by the Government Technology Agency
+(GovTech) of Singapore. You can easily access it through any web browser
+on your computer or mobile device. This allows all Singaporean citizens
+and permanent residents aged 18 and above to participate in surveys, polls,
+and other feedback tasks conveniently, helping to shape public policies
+and services without needing to download a separate app.</p>
+<p></p>
 <h3>Interested to find out more about CrowdTaskSG?</h3>
 <div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="https://www.crowdtask.gov.sg/" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Visit the CrowdTaskSG website to learn more" src="/images/CTA card images/Visit_the_product_website.png"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Visit the CrowdTaskSG website to learn more</div><div class="isomer-card-link">Go to CrowdTaskSG website</div></div></a>
 <a rel="noopener noreferrer nofollow" href="https://go.gov.sg/communitysignup-gtwebsite" class="isomer-card">
