@@ -139,6 +139,8 @@ completing surveys are recognised and rewarded, making your contribution
 even more meaningful.</div>
 </div>
 </div>
+</div>
+<div class="isomer-card-grid">
 <div class="isomer-card">
 <div class="isomer-card-image">
 <div class="isomer-image-wrapper">
@@ -146,9 +148,10 @@ even more meaningful.</div>
 </div>
 </div>
 <div class="isomer-card-body">
-<div class="isomer-card-title">A fun, rewarding journey</div>
-<div class="isomer-card-description">Participate and climb up the leaderboard! Unlock better reward tiers when
-you reach a new rank.</div>
+<div class="isomer-card-title">Rise up the ranks</div>
+<div class="isomer-card-description">Participate and climb up the leaderboard! Gain coins and experience points
+(XP) as you move up the tiers from Stone to Bronze, Silver, and beyond.
+Every 1000 coins you earn converts to S$1 worth of cash!</div>
 </div>
 </div>
 <div class="isomer-card">
@@ -166,7 +169,6 @@ to the government even more relevant and impactful.</div>
 </div>
 </div>
 </div>
-<p></p>
 <h3>Use cases of CrowdTaskSG in action</h3>
 <p>CrowdTaskSG has already played a significant role in various public sector
 initiatives:</p>
