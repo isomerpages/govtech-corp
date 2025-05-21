@@ -142,89 +142,87 @@ it’s also important to acknowledge its limitations. For instance, interpreting
 a student’s behaviour during the learning process can be quite complex.
 Can AI correctly read a student’s facial expression and tell if they’re
 concentrating or simply spacing out?</p>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
-<hr>
-<hr>
-<hr>
-<hr>
-<hr>
-<p>--</p>
-<p></p>
-<h3>Adaptive learning systems for mathematics</h3>
-<p>Students learn at a different pace, and a teacher often has to deal with
-a class where some have already grasped the concept while others are still
-struggling. To address this, MOE has been trialling an&nbsp;<a href="https://www.moe.gov.sg/-/media/files/publications/contact-mar20.ashx" class="editor-rtfLink" rel="noopener noreferrer nofollow" target="_blank">adaptive learning system</a>&nbsp;enhanced
-by machine learning that can assess student performance in real-time and
-adjust their learning pathways accordingly.</p>
-<p>In one school, students completed modules on maths subjects before class,
-and teachers received reports on their performance. In the classrooms,
-the students were able to ask better questions about the subject and discuss
-how maths could be used in real-life situations.</p>
-<p>The teachers could also mix students of different abilities together so
-that they could do peer learning and teaching.</p>
-<p>Those working on the system are now taking in teachers’ feedback, such
-as the need for more localised examples and the ability for students to
-enter their mathematical work into the programme.</p>
-<h3>AI-enabled learning companion</h3>
-<p>Another project from the Smart Nation initiative is the development of
-an AI-enabled&nbsp;<a href="https://www.smartnation.gov.sg/files/publications/national-ai-strategy.pdf" class="editor-rtfLink" rel="noopener noreferrer nofollow" target="_blank">learning companion</a>.
-It will be able to support holistic learning by motivating the student
-while he or she is doing a challenging task, encouraging reflection on
-the learning experience, and recommending further learning activities.</p>
-<p>While the use of AI as a learning companion is still relatively new, there
-are&nbsp;<a href="https://www.todayonline.com/commentary/why-ai-can-better-help-students-as-learning-buddy-not-teacher" class="editor-rtfLink" rel="noopener noreferrer nofollow" target="_blank">promising areas</a>&nbsp;to
-explore. For example, AI can be used to detect a student’s engagement level
-with the study material by tracking the student’s eye moment and the duration
-spent on specific parts of the document.</p>
-<p>For maths problems, the companion can identify the part that is presenting
-problems for the student and provide hints, resources, or prompts for an
-alternative method.</p>
-<p>While recognising AI’s potential as a learning companion, it is also important
-to acknowledge its limitations. For instance, interpreting a student’s
-behaviour during the learning process might be a task that is complex for
-AI. Can it correctly read the facial expression of a student and tell if
-he or she is concentrating or simply spacing out?</p>
-<h3>Training teachers to use AI</h3>
+<h3>Upskilling teachers to use AI</h3>
+<h4>AI@NIE: National Institute of Education's initiative</h4>
 <p>With technology rapidly evolving, teachers must keep up with changes and
-upskill accordingly. The National Institute of Education&nbsp;<a href="https://www.straitstimes.com/singapore/parenting-education/nie-to-train-teachers-in-using-ai-in-classroom-invest-in-research" class="editor-rtfLink" rel="noopener noreferrer nofollow" target="_blank">announced</a>&nbsp;in
-May 2022 that it will step up efforts to train teachers to employ AI in
+upskill accordingly. The National Institute of Education <a href="https://www.straitstimes.com/singapore/parenting-education/nie-to-train-teachers-in-using-ai-in-classroom-invest-in-research" rel="noopener noreferrer nofollow" target="_blank"><u>announced</u></a> in
+May 2022 that it would step up efforts to train teachers to employ AI in
 teaching.</p>
 <p>By 2026, topics about artificial intelligence in education will be offered
 for trainee teachers at all levels, including undergraduates, post-graduate
 and in-service teachers. As part of a five-year plan called AI@NIE, the
 institute will also invest in research and innovation to use artificial
 intelligence for education.</p>
+<h3>Building collaborations to drive AI adoption in education ahead</h3>
+<p>It's a team effort to make AI work wonders in education, and that's why
+GovTech is actively joining forces with our educational institutions and
+some of the brightest minds in private tech. The goal is to create and
+roll out AI tools that genuinely make a difference in our classrooms.&nbsp;</p>
+<p>We're also encouraging our teachers to jump in and explore these digital
+products developed by GovTech – they're designed to help you work smarter,
+not harder, and ultimately enhance your teaching. So, if you're an educator,
+a student with bright ideas, or an ICT vendor with cutting-edge solutions,
+we want to hear from you! Let's collaborate and harness the potential of
+AI and these GovTech platforms together.</p>
+<h3>Addressing limitations of AI in education</h3>
+<p>While AI opens up some truly amazing possibilities in education, it's
+also crucial to be realistic. Just like any tool, AI isn't perfect, and
+here are a few important things to consider about the <a href="https://www.tech.gov.sg/media/technews/generative-ai-where-can-it-go-wrong/" rel="noopener noreferrer nofollow" target="_blank"><u>limitations of AI</u></a>:</p>
+<ul>
+<li>
+<p><strong>The human touch</strong>: AI can analyse data and personalise
+learning paths, but it can't fully replicate the empathy, nuanced understanding,
+and inspirational connection that a human teacher provides. Those "aha!"
+moments often come from a teacher’s ability to read a room and connect
+with students on a personal level.</p>
+</li>
+<li>
+<p><strong>Bias in algorithms</strong>: AI systems learn from the data they're
+fed. If that data contains biases, the AI can inadvertently perpetuate
+those biases in its assessments and recommendations. Ensuring fairness
+and equity in AI tools requires careful attention to the data we use to
+train them.</p>
+</li>
+<li>
+<p><strong>Over-reliance and critical thinking</strong>: If we're not careful,
+an over-reliance on AI could potentially hinder the development of students'
+critical thinking and problem-solving skills. Learning often involves grappling
+with challenges and figuring things out independently.</p>
+</li>
+</ul>
+<p>That's why it's absolutely crucial to maintain human oversight in AI-driven
+educational environments. Teachers are the navigators, guiding how these
+tools are used and ensuring they complement, rather than replace, the essential
+human elements of teaching and learning.</p>
+<h3>Looking ahead: The future of AI in education</h3>
+<p>Looking down the road, the next 5 to 10 years hold some truly exciting
+possibilities for how AI will continue to shape education. We're likely
+to see even more personalised and adaptive learning experiences, AI that
+can provide more sophisticated feedback, and tools that can help predict
+student learning outcomes to enable earlier interventions.</p>
+<p>Keep an eye out for these emerging AI technologies that are poised to
+further transform education:</p>
+<ul>
+<li>
+<p><strong>Natural language processing (NLP)</strong>: This will enable more
+sophisticated AI tutors and learning companions that can understand and
+respond to students in a more human-like way, offering richer explanations
+and engaging in more natural dialogue.</p>
+</li>
+<li>
+<p><strong>Learning analytics and educational data mining</strong>: We'll
+see even more powerful tools that can analyse vast amounts of learning
+data to provide deeper insights into student progress, identify effective
+teaching strategies, and even predict potential learning difficulties early
+on.</p>
+</li>
+<li>
+<p><strong>Explainable AI (XAI)</strong>: As AI becomes more complex, the
+ability for it to explain its reasoning and recommendations will be crucial
+for building trust and allowing teachers to understand and validate its
+insights.</p>
+</li>
+</ul>
 <h3>AI as a complement, not a replacement</h3>
 <p>Even as Singapore explores ways to increase AI’s usage in education, experts
 and officials have reiterated that technology will never fully replace
@@ -233,7 +231,12 @@ the crucial role that teachers play in educating and guiding students.</p>
 are regurgitated to students. They nurture, inspire, and encourage young
 minds to stretch their curiosity. They also provide human communication
 and support as youngsters mature and find their place in the world. These
-are roles that AI will not be able to take on.</p>
+are roles that AI won’t be able to take on.</p>
 <p>As Minister-in-charge of the Smart Nation initiative, Vivian Balakrishnan
-said: “At the heart of education is interaction… I do not believe that
-AI will ever replace teachers.”</p>
+said: <em>“At the heart of education is interaction… I do not believe that AI will ever replace teachers.”</em>
+</p>
+<p>
+<br>
+<br>
+</p>
+<p></p>
