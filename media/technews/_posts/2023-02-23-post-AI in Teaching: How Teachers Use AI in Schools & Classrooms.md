@@ -9,7 +9,7 @@ description: The future of education is here! Uncover how Singapore is using AI
 variant: tiptap
 ---
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Tech and education: Teacher educating students with whiteboard and markers" src="/images/technews/Tech_and_education__How_automation_and_AI_are_powering_learning_in_Singapore.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="Student learning in class with teacher" src="/images/technews/classroom_learning.jpg">
 </div>
 <p>Singapore is leaning into the power of Artificial Intelligence (AI) and
 automation across all sectors, and education is no exception. Why the big
@@ -122,7 +122,7 @@ that they could do peer learning and teaching.</p>
 <p>Those working on the AI system are now taking in teachers’ feedback, such
 as the need for more localised examples and the ability for students to
 enter their mathematical work into the programme.</p>
-<h4>H3 AI-enabled learning companion</h4>
+<h4>AI-enabled learning companion</h4>
 <p>Another project from the <a href="https://www.tech.gov.sg/media/technews/our-enhanced-smart-nation-vision-paving-the-way-for-a-new-digital-era/" rel="noopener noreferrer nofollow" target="_blank"><u>Smart Nation initiative</u></a> is
 the development of an AI-enabled <a href="https://www.smartnation.gov.sg/files/publications/national-ai-strategy.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>learning companion</u></a>.
 The idea here is to create a digital buddy that can support holistic learning
@@ -235,8 +235,3 @@ are roles that AI won’t be able to take on.</p>
 <p>As Minister-in-charge of the Smart Nation initiative, Vivian Balakrishnan
 said: <em>“At the heart of education is interaction… I do not believe that AI will ever replace teachers.”</em>
 </p>
-<p>
-<br>
-<br>
-</p>
-<p></p>
