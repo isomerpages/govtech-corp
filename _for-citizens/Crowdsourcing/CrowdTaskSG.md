@@ -7,7 +7,7 @@ description: Share your feedback & shape Singapore's future with CrowdTaskSG!
 third_nav_title: Crowdsourcing
 image: /images/Products and Services/For citizens/crowdtask_600x300.png
 ---
-<h2>Giving citizens opportunities to be heard on national issues with CrowdTaskSG</h2>
+<h2>Giving citizens opportunities to be heard on national issues</h2>
 <p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="CrowdTaskSG banner image/logo" src="/images/Products and Services/For citizens/CTSG_banner.jpg">
@@ -33,6 +33,72 @@ and reward options.</p>
 </li>
 </ul>
 <hr>
+<p>GovTech, as the lead agency driving Singapore’s <a href="https://www.tech.gov.sg/media/technews/our-enhanced-smart-nation-vision-paving-the-way-for-a-new-digital-era/" rel="noopener noreferrer nofollow" target="_blank"><u>Smart Nation initiative</u></a>,
+is deeply committed to developing digital solutions that truly serve the
+public. A key aspect of this commitment is ensuring that the voices of
+citizens are not only heard but also actively shape the policies and services
+that impact their lives. CrowdTaskSG embodies this dedication by providing
+a direct channel for citizens to contribute their perspectives.</p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<hr>
+<p></p>
+<p></p>
+<p></p>
 <p>Much of what the Singapore government does is driven by the goal of bettering
 your life. Being the beneficiary of government initiatives, you are the
 best person to help identify gaps and areas of improvement across different
