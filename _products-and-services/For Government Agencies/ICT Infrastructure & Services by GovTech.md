@@ -54,3 +54,84 @@ cybercrime such as devastating ransomware and insidious identity theft.</div>
 </a>
 </div>
 <p></p>
+<h3>Key objectives of our ICT services</h3>
+<p>Our ICT services are strategically designed with several key objectives
+in mind:</p>
+<h4>Enable seamless digital government operations</h4>
+<p>Our comprehensive ICT solutions are meticulously designed to streamline
+critical government operations by ensuring secure, highly efficient, and
+transparent digital systems across all agencies. The overarching goal is
+to significantly enhance collaboration and communication across diverse
+government agencies, ultimately improve the quality and accessibility of
+citizen services, and ensure smoother, more intuitive digital interactions
+for everyone.</p>
+<h4>Enhance data security and privacy for public sector initiatives</h4>
+<p>Our ICT infrastructure prioritises robust protection in an age where data
+and personal information are extremely valuable assets and can be exploited
+for malicious purposes. To this end, stringent measures are diligently
+in place to safeguard highly sensitive government data and citizens' personal
+information. This unwavering commitment helps maintain the highest security
+and efficiency standards across all our digital initiatives.</p>
+<h4>Support national digital transformation with scalable infrastructure</h4>
+<p>Beyond supporting seamless digital government operations and enhancing
+data security and privacy, GovTech's robust and scalable ICT infrastructure
+provides a strong foundation to effectively support Singapore's ambitious
+national digital transformation agenda.</p>
+<p>The ability to seamlessly scale our infrastructure ensures that the government
+can readily meet evolving and growing demands while consistently maintaining
+optimal system performance and the highest levels of security across all
+critical operations.</p>
+<h3>How Can GovTech's ICT services improve public sector operations?</h3>
+<p>By strategically collaborating with GovTech, government agencies can significantly
+accelerate their crucial digital initiatives while simultaneously ensuring
+top-tier security protocols and optimal operational efficiency across all
+their digital infrastructure. GovTech also provides government agencies
+with highly customised ICT solutions tailored to meet their unique and
+specific operational needs.&nbsp;</p>
+<p>GovTech’s deep expertise in critical areas such as security, seamless
+scalability, and robust infrastructure ensures that agencies consistently
+receive the highest possible level of service to significantly enhance
+their ongoing digital transformation journeys.</p>
+<p>However, we recognise that some complex ICT projects require highly customised
+solutions and more hands-on partnerships. In such instances, government
+agencies can also utilise GovTech’s trusted external ICT vendors to effectively
+fulfil their specific agency's ICT needs.</p>
+<h3>Partner with us for future-proof ICT Solutions</h3>
+<p>We strive to create truly innovative and future-proof ICT solutions designed
+for all agencies, fostering innovation together.</p>
+<p>If you're a government agency looking for similar solutions or an ICT
+vendor looking for potential future partnerships, join us in delivering
+innovative solutions that support Singapore's digital government journey.
+<a href="https://www.tech.gov.sg/contact-us/" rel="noopener noreferrer nofollow" target="_blank"><u>Contact us</u>
+</a>to explore partnership opportunities and learn more about our ICT offerings.</p>
+<p>Want to delve deeper? Read more about our <a href="https://www.tech.gov.sg/our-digital-government-efforts/" rel="noopener noreferrer nofollow" target="_blank"><u>digital government transformation </u></a>and
+<a href="https://www.tech.gov.sg/our-capabilities/cybersecurity/" rel="noopener noreferrer nofollow" target="_blank"><u>cybersecurity in Singapore</u>
+</a>.</p>
+<h3>Frequently asked questions about our ICT services &amp; infrastructure</h3>
+<h4>What other ICT Solutions does GovTech offer to better enhance public sector initiatives?</h4>
+<p>Beyond DLP and SIS, GovTech offers a comprehensive suite of ICT solutions,
+including government cloud and cloud-like solutions, to enable greater
+agility and security for government agencies’ applications and services.</p>
+<p>We also provide secure networks to help public officers work seamlessly
+and securely in our flexible working environment with enhanced VPN capacity.
+Furthermore, we offer smart office tools to enable an efficient workforce
+and a future-ready workplace.</p>
+<h4>How Does GovTech ensure the security of government data?</h4>
+<p>GovTech employs a multi-layered security approach, incorporating stringent
+access controls, advanced encryption technologies, proactive threat monitoring,
+regular security audits, and comprehensive data governance policies to
+ensure all government data's confidentiality, integrity, and availability.</p>
+<h4>How can one collaborate with GovTech for ICT Services?</h4>
+<p>Government agencies can collaborate with GovTech by engaging our dedicated
+business development teams to discuss your specific ICT requirements and
+explore tailored solutions. Meanwhile, ICT vendors can partner with GovTech
+through our procurement processes and by responding to relevant tenders
+and partnership opportunities.</p>
+<h4>What are some of Gov Tech's external ICT vendors?</h4>
+<p>GovTech collaborates with various external ICT vendors, including established
+system integrators, specialised cybersecurity firms, innovative cloud service
+providers, and niche technology providers, to augment our capabilities
+and deliver comprehensive solutions.</p>
+<p>
+<br>
+</p>
