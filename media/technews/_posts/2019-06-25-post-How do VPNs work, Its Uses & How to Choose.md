@@ -35,5 +35,29 @@ to ensure that your online activities remain private, safeguarding them
 from potential eavesdropping by malicious actors, the websites you visit,
 and even your ISP.</p>
 <h4>How do VPNs work?</h4>
-<h4><br></h4>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="The simplified process of how a VPN works" src="/images/technews/This_is_why_you_need_a_VPN_2.png">
+</div>
+<p>Spend 10 seconds on this diagram, and you will know how a VPN works!</p>
+<p>A VPN creates a secure, encrypted “tunnel” between your device and the
+internet. Here’s how it works:</p>
+<ol>
+<li>
+<p><strong>Connecting to a VPN server:</strong> Your device first establishes
+a connection to a VPN server, which is maintained by the VPN provider.
+This server acts as an intermediary point for all your online traffic.</p>
+</li>
+<li>
+<p><strong>Encryption:</strong> Once connected, all data transmitted between
+your device and the VPN server is encrypted. This process scrambles your
+data, making it unreadable to anyone who might be trying to intercept it
+along the way.</p>
+</li>
+<li>
+<p><strong>Masking of IP address:</strong> The VPN server replaces your device’s
+actual IP address with its own. This makes it appear as if your internet
+activity is originating from the VPN server's location, effectively hiding
+your identity and location from websites and online services.</p>
+</li>
+</ol>
 <p></p>
