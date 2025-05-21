@@ -167,6 +167,28 @@ to the government even more relevant and impactful.</div>
 </div>
 </div>
 <p></p>
+<h3>Use cases of CrowdTaskSG in action</h3>
+<p>CrowdTaskSG has already played a significant role in various public sector
+initiatives:</p>
+<ul>
+<li>
+<p><strong>National Youth Council:</strong> The <a href="https://www.google.com/url?q=https://www.straitstimes.com/singapore/national-youth-council-shape-singapore-future-earn-rewards-education-mental-health-sustainability&amp;sa=D&amp;source=docs&amp;ust=1747798761548155&amp;usg=AOvVaw1U8hYT_v802qiJg1YNEwt9" rel="noopener noreferrer nofollow" target="_blank">National Youth Council (NYC) has actively used CrowdTaskSG</a> to
+engage youths on important topics such as education, mental health, and
+sustainability. The feedback gathered through the platform directly informed
+NYC's strategies and programmes, ensuring they resonated with the needs
+and aspirations of young Singaporeans.</p>
+</li>
+</ul>
+<ul>
+<li>
+<p><strong>Great Budget Meal Hunt:</strong> This initiative, officially launched
+to allow the public to <a href="https://www.google.com/url?q=https://www.straitstimes.com/singapore/great-budget-meal-hunt-initiative-officially-launched-to-allow-public-to-crowdsource-cheap-meals&amp;sa=D&amp;source=docs&amp;ust=1747798761542583&amp;usg=AOvVaw2C8fpWic8Z-UQWFfLqqkHk" rel="noopener noreferrer nofollow" target="_blank">crowdsource information on affordable meals</a>,
+leveraged CrowdTaskSG to gather real-time data on where citizens could
+find budget-friendly food options. The feedback collected through the platform
+helped create a valuable resource for the community during a time of economic
+considerations.</p>
+</li>
+</ul>
 <p></p>
 <p></p>
 <p></p>
