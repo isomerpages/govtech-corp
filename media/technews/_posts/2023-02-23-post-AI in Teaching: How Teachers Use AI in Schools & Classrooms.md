@@ -91,7 +91,57 @@ or even organising learning resources. This saves teachers valuable time,
 allowing them to focus more on direct student interaction and lesson planning.</p>
 </li>
 </ul>
-<p></p>
+<h3>3 key AI applications in Singapore’s education sector</h3>
+<p>It's not just theory – AI is already making waves in our schools! Here
+are three key areas where you can see it in action, promising to reshape
+how our students learn and how our teachers teach.</p>
+<h4>Automated English marking systems</h4>
+<p>As part of Singapore’s national AI strategy, the Ministry of Education
+is working on rolling out <a href="https://www.snec.com.sg/news/academic-medicine/singapores-artificial-intelligence-strategy-applying-ai-to-help-not-replace-people" rel="noopener noreferrer nofollow" target="_blank"><u>automated systems</u></a> to
+help mark English language assignments in primary and secondary schools.</p>
+<p>These AI-powered are designed to spot tricky language errors – grammar,
+spelling and how sentences are put together (syntax). This frees up teachers
+to focus on higher-level concepts, from ideas and content to overall tone.
+MOE believes this will give teachers back valuable time that they can then
+use to create even better lessons and strengthen relations with students.</p>
+<p>Another benefit of the system is its ability to collect data on common
+grammar mistakes so that teachers can work on these areas with their students.</p>
+<p>But don’t worry, the ministry isn’t planning to use these systems for
+marking exams, including critical assessments like the Primary School Leaving
+Examination (PSLE).</p>
+<h4>Adaptive learning systems for mathematics</h4>
+<p>MOE has been trialling an <a href="https://www.moe.gov.sg/-/media/files/publications/contact-mar20.ashx" rel="noopener noreferrer nofollow" target="_blank"><u>adaptive learning system</u></a> enhanced
+by machine learning to keep an eye on how students are doing in real-time
+and then adjust their learning pathways accordingly.</p>
+<p>In one school, students completed maths modules before class, and teachers
+received reports on their performance. This means that when they were in
+the classrooms, the students could ask much more focused questions and
+discuss how maths could be used in real-life situations.</p>
+<p>The teachers could also mix students of different abilities together so
+that they could do peer learning and teaching.</p>
+<p>Those working on the AI system are now taking in teachers’ feedback, such
+as the need for more localised examples and the ability for students to
+enter their mathematical work into the programme.</p>
+<h4>H3 AI-enabled learning companion</h4>
+<p>Another project from the <a href="https://www.tech.gov.sg/media/technews/our-enhanced-smart-nation-vision-paving-the-way-for-a-new-digital-era/" rel="noopener noreferrer nofollow" target="_blank"><u>Smart Nation initiative</u></a> is
+the development of an AI-enabled <a href="https://www.smartnation.gov.sg/files/publications/national-ai-strategy.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>learning companion</u></a>.
+The idea here is to create a digital buddy that can support holistic learning
+by motivating the student while they’re doing a challenging task, encouraging
+them to reflect on what they've learned, and even suggesting what they
+should explore next.</p>
+<p>While using artificial intelligence as a learning companion is still pretty
+new territory, there are <a href="https://www.todayonline.com/commentary/why-ai-can-better-help-students-as-learning-buddy-not-teacher" rel="noopener noreferrer nofollow" target="_blank"><u>promising areas</u></a> to
+explore. For example, AI could potentially gauge how engaged a student
+is with the educational material by tracking their eye movements and how
+long they spend on different parts of the document.</p>
+<p>When it comes to maths problems, the companion can know exactly where
+a student is getting stuck and then offer targeted hints, resources, or
+prompts for an alternative method.</p>
+<p>Of course, while AI has a lot of AI’s potential as a learning companion,
+it’s also important to acknowledge its limitations. For instance, interpreting
+a student’s behaviour during the learning process can be quite complex.
+Can AI correctly read a student’s facial expression and tell if they’re
+concentrating or simply spacing out?</p>
 <p></p>
 <p></p>
 <p></p>
