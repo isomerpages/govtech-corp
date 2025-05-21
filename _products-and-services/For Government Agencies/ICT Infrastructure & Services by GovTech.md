@@ -35,7 +35,7 @@ ministries and 50-plus statutory boards. From custodians of confidential
 data to developers of key digital services, our public officers access
 and utilise the government's ICT products and services on a daily basis.&nbsp;</p>
 <h3>Our ICT infrastructure &amp; services solutions</h3>
-<p>Explore our products under ICT and infrastructureand learn how they empower
+<p>Explore our products under ICT and infrastructure and learn how they empower
 a secure and efficient digital government.</p>
 <div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="/products-and-services/for-government-agencies/ict-and-infrastructure/data-loss-prevention/" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="GovTech's Data Loss Prevention alerts users when there is a potential risk of unauthorised disclosure of data." src="/images/Products and Services/For Government Agencies/DLP_icon_600x300.png"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Data Loss Prevention (DLP)– Protecting sensitive information</div><div class="isomer-card-description">DLP is a security enhancement on all government-issued laptops that alerts users when there is a potential risk of unauthorised use or disclosure of data. With DLP, GovTech ensures that critical government data, including citizens' information and invaluable national records, remains secure.</div><div class="isomer-card-link">Explore DLP</div></div></a>
 <a rel="noopener noreferrer nofollow" href="/products-and-services/for-government-agencies/ict-and-infrastructure/secure-internet-surfing/" class="isomer-card">
