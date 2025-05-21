@@ -220,16 +220,14 @@ as our blogs on &nbsp;<a href="https://www.tech.gov.sg/media/technews/seven-ways
 <a href="https://www.tech.gov.sg/products-and-services/for-citizens/scam-prevention/" rel="noopener noreferrer nofollow" target="_blank"><u>how to prevent phishing</u>
 </a>.</p>
 <h3>Frequently asked questions about VPNs</h3>
-<p><strong>H3 Is VPN legal in Singapore?</strong>
-</p>
+<h4>Is VPN legal in Singapore?</h4>
 <p>The usage of Virtual Private Networks (VPNs) is generally legal in Singapore
 for personal use. However, using a VPN to commit illegal activities remains
 unlawful and will be subject to the existing laws of Singapore. There may
 also be specific regulations or restrictions on VPN usage within certain
 organisations or for specific purposes, so it's advisable to check relevant
 policies if applicable.</p>
-<p><strong>H3 How exactly do you use a VPN?</strong>
-</p>
+<h4>How exactly do you use a VPN?</h4>
 <p>VPN usage typically involves these steps:</p>
 <ol>
 <li>
@@ -258,15 +256,13 @@ online services as usual, with your connection being encrypted and your
 IP address masked.</p>
 </li>
 </ol>
-<p><strong>H3 Is it safe to use a free VPN service?</strong>
-</p>
+<h4>Is it safe to use a free VPN service?</h4>
 <p>Exercising caution with free VPN services is advisable. Some free VPNs
 may have weaker security measures, log your online activity, display intrusive
 advertisements, or even contain malware. It is generally recommended to
 opt for a reputable paid VPN service that offers strong encryption, a clear
 privacy policy, and transparent practices.</p>
-<p><strong>H3 Will I need to connect to the VPN every time I browse?</strong>
-</p>
+<h4>Will I need to connect to the VPN every time I browse?</h4>
 <p>For continuous protection of your internet traffic and privacy while browsing,
 keeping your VPN connection active is generally necessary. Once you disconnect,
 your internet traffic will revert to your regular connection without the
