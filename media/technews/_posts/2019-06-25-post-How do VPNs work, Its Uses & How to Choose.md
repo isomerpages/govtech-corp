@@ -10,67 +10,30 @@ description: Understand how VPNs work for secure browsing in Singapore. Learn
 variant: tiptap
 ---
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="The importance of VPN and how to choose provider" src="/images/technews/Why_you_need_a_vpn_smart_nation_govtech.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="Image of VPN" src="/images/technews/vpn.jpg">
 </div>
-<p>A virtual private network (VPN) connection could help enhance your privacy
-and security on the internet. We bring you some tips on how to decide if
-you need one and what to consider when selecting an ideal provider.</p>
-<p>Perhaps you’re a frequent traveller and often find yourself using free
-Wi-Fi hotspots at airports. Or maybe you’re used to working remotely from
-your laptop at a Starbucks café, latching onto its Wi-Fi network to avoid
-incurring hefty charges for mobile data overuse.</p>
-<p>Convenience and cost savings aside, tapping on unsecured Wi-Fi portals
-carries a host of cybersecurity risks. For example, hackers could eavesdrop
-on the web pages you visit or even glean your personal information and
-intercept files you send in what is known as a ‘man-in-the-middle’ attack.</p>
-<p>If abstaining from public Wi-Fi doesn’t sound like an option for you,
-a viable alternative would be to set up a virtual private network (VPN)
-connection. Put simply, when you use a VPN, a remotely located server is
-selected to act as a secure relay channel of sorts for your internet activity.
-Your computer only communicates directly with that server, which then encrypts
-and transmits your actions to the various websites on the internet. As
-a result, your actual IP address is masked, and any snooping activity is
-prevented.</p>
-<h3>Key considerations when selecting a VPN provider</h3>
-<p>Setting up a VPN is relatively easy; all you have to do is download and
-install the application, register for an account, make the necessary payments,
-sign in, and you’re good to go! However, deciding which VPN service provider
-to subscribe to is tricky. Here are some things you may want to consider:</p>
-<h4>1. Think about your use case</h4>
-<p>Depending on your requirements, the type of VPN you sign up for may be
-very different. If you are a frequent traveller, you’ll want to ensure
-that your VPN provider has adequate security built into its product and
-that it operates servers worldwide. Should you require a VPN connection
-for family use, be sure to check whether the VPN allows multiple users
-to sign in simultaneously. For high-volume streaming and data transfer,
-you’ll want a VPN provider that has reliable connections and unlimited
-bandwidth. It helps to list down what features you want in a VPN before
-looking at providers.</p>
-<h4>2. Data privacy and security</h4>
-<p>When using a VPN, all your internet activity is routed through a VPN provider’s
-servers, and the last thing you want is for them to log and sell your data
-to third parties. Hence, users are advised to read the fine print concerning
-policies on data logging under the Terms of Service before installing a
-VPN application. Also, if the point of adopting a VPN is security, then
-be sure to check your potential VPN provider’s encryption protocols. For
-instance, the Point-To-Point Tunnelling Protocol (PPTP)—introduced in 1995—is
-widely considered outdated, while OpenVPN is an open-source VPN protocol
-that continues evolving to counter emerging cybersecurity threats.</p>
-<h4>3. Keep trade-offs in mind</h4>
-<p>In general, VPN providers that have an extensive network of servers located
-in different countries can assure you of faster data transmission speeds.
-However, that also means higher operating costs for the VPN provider, so
-expect to pay a higher monthly subscription fee for the service. Furthermore,
-higher security could result in a slightly slower VPN connection speed.
-Some VPN providers thus give users the option of toggling the level of
-encryption that allows them to balance their security and speed requirements.</p>
-<h4>4. Read reviews</h4>
-<p>You probably read product reviews when you’re shopping on Amazon or Lazada,
-and that’s because you want to know whether the retailer is reliable and
-if other customers are satisfied with the product. The same process should
-apply when choosing a VPN provider. Websites often publish rankings of
-the top VPN providers for a particular year as well, so be sure to cross-reference
-those. While you’re at it, check if a VPN provider offers 24-hour customer
-service—this is often overlooked but can be invaluable if you encounter
-issues with setting up your VPN connection.</p>
+<p>The shift to remote work accelerated digital transformation but also presented
+cybercriminals with opportunities to target less secure home networks.
+The early months of the COVID-19 pandemic in 2020 saw a surge in malicious
+online activity, with over 2,000 pandemic-related domain names registered
+in just three months. Singapore itself experienced phishing scams exploiting
+public concern.</p>
+<p>When accessing company information online, your data's journey can be
+vulnerable to interception. To mitigate these risks and protect your online
+communication, this article will explain how Virtual Private Networks (VPNs)
+work and how you use them, addressing questions like why do I need a VPN
+and is it necessary.</p>
+<h3>What is a VPN?</h3>
+<p>A Virtual Private Network (VPN) establishes what is essentially a secure,
+encrypted connection for your internet traffic. When you connect via a
+VPN, all data transmitted from your device is first encoded and then routed
+through a dedicated VPN server, shielding it from unauthorised access.&nbsp;</p>
+<p>Both your incoming and outgoing online communications are channelled through
+this secure server, rendering them concealed from your Internet Service
+Provider (ISP) and network administrators. The primary use of a VPN is
+to ensure that your online activities remain private, safeguarding them
+from potential eavesdropping by malicious actors, the websites you visit,
+and even your ISP.</p>
+<h4>How do VPNs work?</h4>
+<h4><br></h4>
 <p></p>
