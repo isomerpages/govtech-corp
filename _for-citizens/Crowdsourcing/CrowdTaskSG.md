@@ -58,7 +58,51 @@ and leaderboard recognition. The platform is also expanding its functionalities
 and reward options.</p>
 </li>
 </ul>
-<p></p>
+<p><a href="https://www.crowdtask.gov.sg/" rel="noopener noreferrer nofollow" target="_blank"><u>Visit the CrowdTaskSG website</u></a>
+</p>
+<h4>Who can use CrowdTaskSG?</h4>
+<p>CrowdTaskSG is open to all citizens and permanent residents of Singapore
+aged 18 years old and above who possess a Singpass account. Currently,
+the platform engages more than 30,000 active users, and this number continues
+to grow as more Singaporeans recognise the power of their voice. Over 80
+government agencies have already received over 290,000 insights from users
+to date. Join this growing community and make your voice count! Your participation
+is crucial in shaping a better Singapore for all.</p>
+<h3>Overview</h3>
+<h4>The problem: Limited citizen engagement in public decision making</h4>
+<p>Despite our best efforts, there are times where citizens don't get to
+actively participate in government decision-making. This limited engagement
+can result in policies that may not fully reflect the diverse needs and
+perspectives of the populace.
+<br>
+</p>
+<h4>Why citizen input matters</h4>
+<p>Creating a platform for citizen feedback to government is crucial for
+improving public services and fostering transparency in several key ways:</p>
+<ul>
+<li>
+<p><strong>Informed decision making:</strong> Collecting diverse opinions
+ensures that policies are well-rounded and cater to the actual needs of
+the community. Your participation in Singapore’s paid surveys directly
+contributes to this.</p>
+</li>
+</ul>
+<ul>
+<li>
+<p><strong>Building trust:</strong> Active participation fosters a sense of
+ownership and trust between the government and its citizens. When your
+voice is heard, it strengthens the bond between the people and their government.</p>
+</li>
+<li>
+<p><strong>Continuous improvement:</strong> Regular feedback loops allow for
+the ongoing refinement of services and policies, adapting to changing societal
+needs. Your contributions through paid surveys in Singapore help drive
+this continuous improvement.</p>
+</li>
+</ul>
+<p>
+<br>
+</p>
 <p></p>
 <p></p>
 <p></p>
