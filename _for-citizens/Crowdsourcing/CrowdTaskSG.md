@@ -190,6 +190,27 @@ considerations.</p>
 </li>
 </ul>
 <p></p>
+<h3>How to use CrowdTaskSG in 3 simple steps</h3>
+<h4>1. Creating your account and getting started</h4>
+<p>Visit the CrowdTaskSG website and log in using your Singpass. Your Singpass
+provides a secure and verified way to access the platform, ensuring that
+your contributions are authenticated. Once logged in, you'll be able to
+view available surveys and feedback opportunities tailored to your demographic
+profile.</p>
+<h4>2. Completing surveys and providing feedback</h4>
+<p>Browse the list of available tasks and select those that interest you.
+These could range from quick polls to more detailed surveys on various
+national issues and public services. Simply follow the instructions provided
+for each task and submit your honest opinions and insights. Your feedback
+to the government is valuable, so take your time to provide thoughtful
+responses.</p>
+<h4>3. Tracking your rewards and participation</h4>
+<p>As you complete surveys and provide feedback, you'll earn rewards such
+as virtual coins and experience points (XP). You can easily track your
+accumulated rewards and participation progress within your CrowdTaskSG
+account. These rewards can be redeemed at participating merchants who accept
+NETS QR payments, allowing you to enjoy tangible benefits for contributing
+your valuable feedback to the government.</p>
 <p></p>
 <p></p>
 <p></p>
