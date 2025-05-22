@@ -8,12 +8,15 @@ variant: tiptap
 image: /images/About Us/Our
   capabilities/Compressed_GovTech_Singapore_Digital_Government_Journey.jpg
 ---
-<h2>Turning the Digital Government Blueprint (DGB) into a reality</h2>
-<p>These efforts capture the government’s ambition to better leverage data,
-harness new technologies, and drive broader efforts to build a digital
-economy and society.&nbsp;</p>
-<p>They support the larger Smart Nation vision and are classified as the
-areas below.</p>
+<p>GovTech drives the digital government transformation across our nation.
+Our initiatives focus on creating user-friendly digital products, from
+helpful apps to informative websites and robust platforms, designed to
+streamline daily experiences of public services and provide robust support
+for businesses.</p>
+<p>We encourage all citizens and businesses to explore and embrace these
+digital government solutions, crafted with your needs in mind.</p>
+<p></p>
+<p></p>
 <div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="/our-digital-government-efforts/engineering-digital-government/" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Singapore’s digital government efforts — Engineering a Digital Government" src="/images/Digital Gov Efforts/Engineering_a_Digital_Gov_600x300.png"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Engineering a Digital Government</div><div class="isomer-card-description">Transacting with the government will be easy, seamless and secure, and government agencies will upskill and collaborate to drive digitalisation.</div><div class="isomer-card-link">Learn more</div></div></a>
 <a rel="noopener noreferrer nofollow" href="/our-digital-government-efforts/tech-for-public-good/" class="isomer-card">
 <div class="isomer-card-image">
