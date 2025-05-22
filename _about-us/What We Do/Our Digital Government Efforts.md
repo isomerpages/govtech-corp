@@ -155,3 +155,38 @@ future.</div>
 </a>
 </div>
 <p></p>
+<h3>Key Insights</h3>
+<p></p>
+<p>Our progress in digital government transformation is reflected in <a href="https://www.tech.gov.sg/files/media/corporate-publications/dgb-public-document_30dec20.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>positive feedback from citizens and businesses</u></a>:
+<br>
+</p>
+<ul>
+<li>
+<p>83% were very or extremely satisfied with government digital services
+for citizens.</p>
+</li>
+<li>
+<p>97% of respondents agreed that G2C Digital Services have improved, and
+98% would encourage their friends and families to use them.</p>
+</li>
+<li>
+<p>94% of respondents rated the level of G2C services as close to the level
+of the best Digital Services they have used.</p>
+</li>
+<li>
+<p>83% were very or extremely satisfied with government digital services
+for businesses.</p>
+</li>
+<li>
+<p>95% of respondents agreed that G2B Digital Services have improved, and
+97% would encourage their friends and families to use them.</p>
+</li>
+<li>
+<p>88% of respondents rated the level of G2B services as close to the level
+of the best Digital Services they have used.</p>
+</li>
+</ul>
+<p>
+<br>These insights highlight the positive outcomes of our digitalisation of
+public services and provide valuable direction for future improvements
+within the DGB.</p>
