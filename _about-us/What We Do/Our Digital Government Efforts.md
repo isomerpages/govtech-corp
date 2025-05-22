@@ -197,6 +197,6 @@ the government, a business eager to explore partnership and innovation
 opportunities, or a government agency seeking to leverage shared technology
 platforms and expertise to further enhance the digitalisation of public
 services across Singapore – we encourage you to get involved.&nbsp;</p>
-<p>Contact us today to explore potential collaborations and contribute to
-building a more digitally smarter, more digitally connected Singapore for
-all.</p>
+<p><a href="https://www.tech.gov.sg/contact-us/" rel="noopener noreferrer nofollow" target="_blank">Contact us</a> today
+to explore potential collaborations and contribute to building a more digitally
+smarter, more digitally connected Singapore for all.</p>
