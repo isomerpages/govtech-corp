@@ -28,8 +28,13 @@ a more competitive and dynamic economy. Furthermore, a digitally transformed
 government can leverage data and technology to make more informed decisions,
 respond effectively to the evolving needs of its population, and ultimately
 enhance the overall quality of life for all Singaporeans.</p>
-<p></p>
-<p></p>
+<h3>What We Do: Digitalisation of Public Services</h3>
+<p>The Digital Government Blueprint (DGB) plays a vital role in advancing
+our digital government efforts. It acts as a strategic roadmap, guiding
+the digitalisation of public services and ensuring a cohesive and citizen-centric
+approach to our digital government transformation. Through the DGB, we
+are streamlining processes, enhancing accessibility, and leveraging technology
+to provide better services for everyone.</p>
 <p></p>
 <div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="/our-digital-government-efforts/engineering-digital-government/" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Singapore’s digital government efforts — Engineering a Digital Government" src="/images/Digital Gov Efforts/Engineering_a_Digital_Gov_600x300.png"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Engineering a Digital Government</div><div class="isomer-card-description">Transacting with the government will be easy, seamless and secure, and government agencies will upskill and collaborate to drive digitalisation.</div><div class="isomer-card-link">Learn more</div></div></a>
 <a rel="noopener noreferrer nofollow" href="/our-digital-government-efforts/tech-for-public-good/" class="isomer-card">
