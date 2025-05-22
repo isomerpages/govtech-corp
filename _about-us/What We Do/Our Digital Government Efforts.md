@@ -15,6 +15,20 @@ streamline daily experiences of public services and provide robust support
 for businesses.</p>
 <p>We encourage all citizens and businesses to explore and embrace these
 digital government solutions, crafted with your needs in mind.</p>
+<h3>Our Mission</h3>
+<p>As the lead government agency driving Singapore’s Smart Nation initiative
+and the digitalisation of public services, GovTech's mission is clear:
+to build digital government products – such as intuitive apps, informative
+websites, and reliable platforms – that tangibly improve the lives of citizens
+and businesses, making Singapore a leading Smart Nation.&nbsp;</p>
+<p>By streamlining processes, government services become more accessible
+and convenient for everyone, regardless of location or technical proficiency.
+It also empowers businesses with efficient digital interfaces, fostering
+a more competitive and dynamic economy. Furthermore, a digitally transformed
+government can leverage data and technology to make more informed decisions,
+respond effectively to the evolving needs of its population, and ultimately
+enhance the overall quality of life for all Singaporeans.</p>
+<p></p>
 <p></p>
 <p></p>
 <div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="/our-digital-government-efforts/engineering-digital-government/" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Singapore’s digital government efforts — Engineering a Digital Government" src="/images/Digital Gov Efforts/Engineering_a_Digital_Gov_600x300.png"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Engineering a Digital Government</div><div class="isomer-card-description">Transacting with the government will be easy, seamless and secure, and government agencies will upskill and collaborate to drive digitalisation.</div><div class="isomer-card-link">Learn more</div></div></a>
