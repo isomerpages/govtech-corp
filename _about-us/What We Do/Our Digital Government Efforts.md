@@ -190,3 +190,13 @@ of the best Digital Services they have used.</p>
 <br>These insights highlight the positive outcomes of our digitalisation of
 public services and provide valuable direction for future improvements
 within the DGB.</p>
+<h3>Get Involved &amp; Learn More</h3>
+<p>Ready to experience the benefits of a digital government firsthand? Whether
+you are a citizen looking for easier and more convenient interactions with
+the government, a business eager to explore partnership and innovation
+opportunities, or a government agency seeking to leverage shared technology
+platforms and expertise to further enhance the digitalisation of public
+services across Singapore – we encourage you to get involved.&nbsp;</p>
+<p>Contact us today to explore potential collaborations and contribute to
+building a more digitally smarter, more digitally connected Singapore for
+all.</p>
