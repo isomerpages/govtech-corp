@@ -35,6 +35,25 @@ the digitalisation of public services and ensuring a cohesive and citizen-centri
 approach to our digital government transformation. Through the DGB, we
 are streamlining processes, enhancing accessibility, and leveraging technology
 to provide better services for everyone.</p>
+<h4>Enhancing Digital Government Infrastructure</h4>
+<p>We integrate digital technologies into the experience of public services
+to bring about significant improvements in efficiency, accessibility, and
+overall user experience for our citizens. This digitalisation means simpler
+online transactions, faster service delivery, and more convenient access
+to essential government resources.</p>
+<h4>Advancing Smart City Technologies</h4>
+<p>GovTech strategically implements smart city solutions across Singapore,
+such as the Open Digital Platform (ODP) in Punggol Digital District (PDD),
+our nation's first <a href="https://www.tech.gov.sg/our-capabilities/smart-city-technology/" rel="noopener noreferrer nofollow" target="_blank"><u>smart city project</u></a>.
+This platform enables seamless communication and data exchange between
+operations like building management, utilities, and transportation. It
+facilitates intelligent automation and optimised resource allocation, creating
+a more efficient urban environment.</p>
+<p>
+<br>
+</p>
+<p></p>
+<p></p>
 <p></p>
 <div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="/our-digital-government-efforts/engineering-digital-government/" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Singapore’s digital government efforts — Engineering a Digital Government" src="/images/Digital Gov Efforts/Engineering_a_Digital_Gov_600x300.png"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Engineering a Digital Government</div><div class="isomer-card-description">Transacting with the government will be easy, seamless and secure, and government agencies will upskill and collaborate to drive digitalisation.</div><div class="isomer-card-link">Learn more</div></div></a>
 <a rel="noopener noreferrer nofollow" href="/our-digital-government-efforts/tech-for-public-good/" class="isomer-card">
