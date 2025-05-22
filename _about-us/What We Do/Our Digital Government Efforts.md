@@ -190,7 +190,7 @@ of the best Digital Services they have used.</p>
 <br>These insights highlight the positive outcomes of our digitalisation of
 public services and provide valuable direction for future improvements
 within the DGB.</p>
-<h3>Get Involved &amp; Learn More</h3>
+<h3>Get involved &amp; learn more</h3>
 <p>Ready to experience the benefits of a digital government firsthand? Whether
 you are a citizen looking for easier and more convenient interactions with
 the government, a business eager to explore partnership and innovation
