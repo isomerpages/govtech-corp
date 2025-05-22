@@ -155,7 +155,7 @@ future.</div>
 </a>
 </div>
 <p></p>
-<h3>Key Insights</h3>
+<h3>Key insights</h3>
 <p></p>
 <p>Our progress in digital government transformation is reflected in <a href="https://www.tech.gov.sg/files/media/corporate-publications/dgb-public-document_30dec20.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>positive feedback from citizens and businesses</u></a>:
 <br>
