@@ -49,7 +49,49 @@ This platform enables seamless communication and data exchange between
 operations like building management, utilities, and transportation. It
 facilitates intelligent automation and optimised resource allocation, creating
 a more efficient urban environment.</p>
-<p>
+<h3>What is a Digital Government Blueprint (DGB)?</h3>
+<p>The Digital Government Blueprint (DGB) is our comprehensive strategic
+plan that outlines the vision, mission, and key objectives for the ongoing
+digital government transformation within the public sector. It serves as
+a guiding framework for the digitalisation of public services, ensuring
+a coordinated and citizen-focused approach to leveraging technology across
+all government agencies in Singapore.</p>
+<h4>Key Objectives</h4>
+<ul>
+<li>
+<p>To make transacting with the government easy, seamless, and secure for
+all citizens and businesses.</p>
+</li>
+<li>
+<p>To empower government agencies through upskilling and fostering collaboration
+to drive the digitalisation of public services effectively.</p>
+</li>
+<li>
+<p>To leverage data and emerging technologies like AI to deliver citizen-centric
+digital services and enhance the productivity of government agencies.</p>
+</li>
+<li>
+<p>To actively engage citizens and businesses in the co-creation of digital
+services, ensuring they meet real needs and are user-friendly.</p>
+</li>
+<li>
+<p>To provide simplified user journeys and a single, convenient point of
+access to a wide range of government services online.</p>
+</li>
+</ul>
+<p>These objectives are intrinsically linked to our <a href="https://www.tech.gov.sg/media/technews/our-enhanced-smart-nation-vision-paving-the-way-for-a-new-digital-era/" rel="noopener noreferrer nofollow" target="_blank"><u>Smart Nation initiatives</u></a>,
+working towards building a thriving digital economy and delivering tangible
+benefits to our target audience – citizens and businesses across Singapore.</p>
+<h3>Turning the Digital Government Blueprint (DGB) into a reality<br></h3>
+<p>Realising the ambitious goals of the Digital Government Blueprint (DGB)
+requires a collaborative effort involving businesses and ICT vendors. These
+collective endeavours are crucial in harnessing new technologies, better
+leveraging data insights, and driving the broader efforts to build a truly
+digital economy and society within Singapore.</p>
+<p>These efforts, all supporting the overarching Smart Nation vision, are
+classified into the following key areas:
+<br>
+<br>
 <br>
 </p>
 <p></p>
