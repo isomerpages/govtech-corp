@@ -94,18 +94,4 @@ sections:
           description: Browse for available job opportunities on Careers@Gov.
           linktext: APPLY FOR JOBS
           url: https://sggovterp.wd102.myworkdayjobs.com/PublicServiceCareers?Agency=27bc56da9e6a01dcff9491800407da09
-  - announcements:
-      title: GovTech Events
-      id: announcements
-      subtitle: ANNOUNCEMENTS
-      announcement_items:
-        - title: Industry Engagement (IE) 2025
-          date: 14 May 2025
-          announcement: IE 2025 brings together business leaders, industry partners, and
-            senior public sector stakeholders for strategic dialogue and
-            collaboration. This annual event showcases GovTech's partnership
-            opportunities, fostering meaningful business collaborations that
-            drive Singapore's digital transformation.
-          link_text: Learn about IE 2025
-          link_url: /media/events/industry-engagement-2025/
 ---
