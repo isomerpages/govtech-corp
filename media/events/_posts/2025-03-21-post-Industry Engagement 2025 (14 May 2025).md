@@ -123,9 +123,9 @@ Platforms</p>
 </table>
 <p><em>*Please note that the programme may be subject to change without prior notice.</em>
 </p>
-<p></p>
+<h3>Opening Keynote by CE</h3>
 <div class="iframe-wrapper">
-<iframe style="max-width: 100%;" height="400" width="100%" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/AhNw4P4kVtA?si=dk8wpYlqDHgzRPwF"></iframe>
+<iframe height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/-IWw8NNNSYg?si=pq9vN4RY9RUVTrrX"></iframe>
 </div>
 <h3>Panel Discussion</h3>
 <h4>Building Better Together: Delivery Impact with GovTech Platforms</h4>
