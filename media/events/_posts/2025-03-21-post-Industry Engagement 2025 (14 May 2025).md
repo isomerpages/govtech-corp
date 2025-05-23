@@ -123,6 +123,21 @@ Platforms</p>
 </table>
 <p><em>*Please note that the programme may be subject to change without prior notice.</em>
 </p>
+<p></p>
+<div class="iframe-wrapper">
+<iframe style="max-width: 100%;" height="400" width="100%" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/AhNw4P4kVtA?si=dk8wpYlqDHgzRPwF"></iframe>
+</div>
+<h3>Panel Discussion</h3>
+<h4>Building Better Together: Delivery Impact with GovTech Platforms</h4>
+<div class="iframe-wrapper">
+<iframe height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/fWP8WlGf2e4?si=tq4N3JEZQbHPSL9Z"></iframe>
+</div>
+<p></p>
+<h4><strong>Unlocking Potential: Accelerating Delivery with Commercial Platforms</strong></h4>
+<div class="iframe-wrapper">
+<iframe height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/uaQpyooRJH8?si=uGUilfA3G3FLySs9"></iframe>
+</div>
+<p></p>
 <h3>Engagement Booths<strong> </strong>and Lightning Talks</h3>
 <p>Experience the development platforms powering Singapore's government digital
 services and discover how you or your company can partner with us effectively
