@@ -77,7 +77,7 @@ collaborations.</p>
 <p>9.00AM</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Keynote by GovTech Chief Executive, Goh Wei Boon</p>
+<p>Keynote address by GovTech Chief Executive, Goh Wei Boon</p>
 </td>
 </tr>
 <tr>
