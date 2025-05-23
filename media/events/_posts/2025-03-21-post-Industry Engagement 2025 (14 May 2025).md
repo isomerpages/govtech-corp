@@ -123,7 +123,7 @@ Platforms</p>
 </table>
 <p><em>*Please note that the programme may be subject to change without prior notice.</em>
 </p>
-<h3>Opening Keynote by CE</h3>
+<h3>Keynote Address by GovTech Chief Executive, Goh Wei Boon</h3>
 <div class="iframe-wrapper">
 <iframe height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/-IWw8NNNSYg?si=pq9vN4RY9RUVTrrX"></iframe>
 </div>
@@ -132,8 +132,7 @@ Platforms</p>
 <div class="iframe-wrapper">
 <iframe height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/fWP8WlGf2e4?si=tq4N3JEZQbHPSL9Z"></iframe>
 </div>
-<p></p>
-<h4><strong>Unlocking Potential: Accelerating Delivery with Commercial Platforms</strong></h4>
+<h4>Unlocking Potential: Accelerating Delivery with Commercial Platforms</h4>
 <div class="iframe-wrapper">
 <iframe height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/uaQpyooRJH8?si=uGUilfA3G3FLySs9"></iframe>
 </div>
