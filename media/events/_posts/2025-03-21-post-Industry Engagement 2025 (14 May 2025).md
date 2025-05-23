@@ -147,35 +147,40 @@ at our engagement booths:&nbsp;</p>
 <p>Experience <strong>Optical</strong>, a Content Management System that helps
 agencies build secure, compliant websites aligned with the Digital Service
 Standards,&nbsp;<strong>OGRE</strong>, a business Rule Management System
-that converts policy rules into actionable business logic.&nbsp;</p>
+that converts policy rules into actionable business logic.&nbsp;Click here
+to view the video-on-demand recording of Optical and OGRE.</p>
 </li>
 </ul>
 <ul>
 <li>
 <p>Discover <strong>Build on BoB</strong>, a no-code cloud-based platform
 that enables rapid creation of customised forms and workflows and can be
-integrated with various solutions.&nbsp;</p>
+integrated with various solutions.&nbsp;Click here to view the video-on-demand
+recording of <strong>Build on BoB</strong>.</p>
 </li>
 </ul>
 <ul>
 <li>
 <p>Stay informed about the latest <strong>Singapore Government ICT &amp; Smart Systems policies</strong> designed
 to accelerate the delivery of innovation digital products that are cost-effective,
-and risk mitigated.&nbsp;&nbsp;</p>
+and risk mitigated.&nbsp;&nbsp;Click here to view the video-on-demand recording
+on Simplifying Governance.</p>
 </li>
 </ul>
 <ul>
 <li>
 <p>Learn more about <strong>SG Tech Stack</strong>, a set of standardised
 and ready-to-use platform tools for building secure, high-quality government
-digital services.&nbsp;</p>
+digital services.&nbsp;Click here to view the video-on-demand recording
+of <strong>SG Tech Stack</strong>.</p>
 </li>
 </ul>
 <ul>
 <li>
 <p>Find out what GovTech is implementing to <strong>uplift software quality</strong> through
 stronger proficiency, best practices for delivery and standardised quality
-metrics.</p>
+metrics. &nbsp;Click here to view the video-on-demand recording on Driving
+Quality Software</p>
 </li>
 </ul>
 <h3>Connect &amp; Explore Segment</h3>
