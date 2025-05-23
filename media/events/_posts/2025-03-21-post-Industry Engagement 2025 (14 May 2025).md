@@ -148,7 +148,7 @@ at our engagement booths:&nbsp;</p>
 agencies build secure, compliant websites aligned with the Digital Service
 Standards,&nbsp;<strong>OGRE</strong>, a business Rule Management System
 that converts policy rules into actionable business logic.&nbsp;Click here
-to view the video-on-demand recording of Optical and OGRE.</p>
+to view the video-on-demand recording of <strong><a href="https://youtu.be/ZrjItbf7CNs" rel="noopener nofollow" target="_blank">Optical</a> </strong>and <strong><a href="https://youtu.be/xu8OxvZ5QN8" rel="noopener nofollow" target="_blank">OGRE</a></strong>.</p>
 </li>
 </ul>
 <ul>
@@ -156,7 +156,7 @@ to view the video-on-demand recording of Optical and OGRE.</p>
 <p>Discover <strong>Build on BoB</strong>, a no-code cloud-based platform
 that enables rapid creation of customised forms and workflows and can be
 integrated with various solutions.&nbsp;Click here to view the video-on-demand
-recording of <strong>Build on BoB</strong>.</p>
+recording of <strong><a href="https://youtu.be/y8M_6xe0FB0" rel="noopener nofollow" target="_blank">Build on BOB</a></strong>.</p>
 </li>
 </ul>
 <ul>
@@ -164,7 +164,7 @@ recording of <strong>Build on BoB</strong>.</p>
 <p>Stay informed about the latest <strong>Singapore Government ICT &amp; Smart Systems policies</strong> designed
 to accelerate the delivery of innovation digital products that are cost-effective,
 and risk mitigated.&nbsp;&nbsp;Click here to view the video-on-demand recording
-on Simplifying Governance.</p>
+on <strong><a href="https://youtu.be/50D8y6QWGxA" rel="noopener nofollow" target="_blank">Simplifying Governance</a></strong>.</p>
 </li>
 </ul>
 <ul>
@@ -172,15 +172,14 @@ on Simplifying Governance.</p>
 <p>Learn more about <strong>SG Tech Stack</strong>, a set of standardised
 and ready-to-use platform tools for building secure, high-quality government
 digital services.&nbsp;Click here to view the video-on-demand recording
-of <strong>SG Tech Stack</strong>.</p>
+of <strong><a href="https://youtu.be/QWB6BKpZYV0" rel="noopener nofollow" target="_blank">SG Tech Stack</a></strong>.</p>
 </li>
 </ul>
 <ul>
 <li>
 <p>Find out what GovTech is implementing to <strong>uplift software quality</strong> through
 stronger proficiency, best practices for delivery and standardised quality
-metrics. &nbsp;Click here to view the video-on-demand recording on Driving
-Quality Software</p>
+metrics. &nbsp;Click here to view the video-on-demand recording on <strong><a href="https://youtu.be/946jnZRjbsc" rel="noopener nofollow" target="_blank">Driving Quality Software</a></strong>.</p>
 </li>
 </ul>
 <h3>Connect &amp; Explore Segment</h3>
