@@ -124,6 +124,8 @@ Platforms</p>
 <p><em>*Please note that the programme may be subject to change without prior notice.</em>
 </p>
 <h3>Keynote Address by GovTech Chief Executive, Goh Wei Boon</h3>
+<p><a href="/files/Industry_Engagement_2025_Opening_Address_Deck.pdf" rel="noopener nofollow" target="_blank">Industry Engagement 2025 Opening Address Deck</a>
+</p>
 <div class="iframe-wrapper">
 <iframe height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/-IWw8NNNSYg?si=pq9vN4RY9RUVTrrX"></iframe>
 </div>
