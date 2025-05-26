@@ -81,7 +81,7 @@ national digital transformation agenda.</p>
 can readily meet evolving and growing demands while consistently maintaining
 optimal system performance and the highest levels of security across all
 critical operations.</p>
-<h3>How Can GovTech's ICT services improve public sector operations?</h3>
+<h3>How can GovTech's ICT services improve public sector operations?</h3>
 <p>By strategically collaborating with GovTech, government agencies can significantly
 accelerate their crucial digital initiatives while simultaneously ensuring
 top-tier security protocols and optimal operational efficiency across all
