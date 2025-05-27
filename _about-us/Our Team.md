@@ -80,6 +80,17 @@ Development and Information (MDDI)</div>
 <div class="isomer-card">
 <div class="isomer-card-image">
 <div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Dorothea KOH" src="/images/our-team/Dorothea_Koh.png">
+</div>
+</div>
+<div class="isomer-card-body">
+<div class="isomer-card-title">Ms Dorothea KOH</div>
+<div class="isomer-card-description">Founder &amp; CEO, Bot MD</div>
+</div>
+</div>
+<div class="isomer-card">
+<div class="isomer-card-image">
+<div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="Ms Stacey N. LACY" src="/images/our-team/Ms_Stacey_Lacy.png">
 </div>
 </div>
@@ -143,6 +154,17 @@ EY</div>
 <div class="isomer-card-body">
 <div class="isomer-card-title">Ms Vaishali RASTOGI</div>
 <div class="isomer-card-description">Global Leader Of Technology, Media And Telecommunications Business, BCG</div>
+</div>
+</div>
+<div class="isomer-card">
+<div class="isomer-card-image">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Piruze SABUNCU" src="/images/our-team/Piruze_Sabuncu.png">
+</div>
+</div>
+<div class="isomer-card-body">
+<div class="isomer-card-title">Ms Piruze SABUNCU</div>
+<div class="isomer-card-description">Partner, Square Peg Singapore Pte Ltd</div>
 </div>
 </div>
 </div>
