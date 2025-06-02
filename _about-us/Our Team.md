@@ -225,8 +225,8 @@ Office and Technology Management Office</div>
 </div>
 <div class="isomer-card-body">
 <div class="isomer-card-title">Mr Justiin ANG</div>
-<div class="isomer-card-description">Government Cybersecurity Information Security Officer &amp; Assistant
-Chief Executive, Cybersecurity, Trusted Infrastructure Services</div>
+<div class="isomer-card-description">Government Chief Information Security Officer &amp; Assistant Chief Executive,
+Cybersecurity, Trusted Infrastructure Services</div>
 </div>
 </div>
 <div class="isomer-card">
