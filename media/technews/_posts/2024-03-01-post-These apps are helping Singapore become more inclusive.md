@@ -69,9 +69,9 @@ as it is about those that do not.</p>
 </li>
 </ul>
 <h3>Ensuring digital services are accessible with Purple A11y</h3>
-<p>Developed by the Accessibility Enabling Team (A11y Team),&nbsp;<a href="/products-and-services/for-government-agencies/accessibility/" class="editor-rtfLink" rel="noopener noreferrer nofollow" target="_blank">Purple </a>
-<a href="https://www.developer.tech.gov.sg/products/categories/design/purple-a11y/overview.html" class="editor-rtfLink" rel="noopener noreferrer nofollow" target="_blank">A11y</a>&nbsp;is an open-source tool that developers can use to help them
-build more inclusive products during the product development process.</p>
+<p>Developed by the Accessibility Enabling Team (A11y Team),&nbsp;<a href="/products-and-services/for-government-agencies/accessibility/" class="editor-rtfLink" rel="noopener noreferrer nofollow" target="_blank">Purple A11y</a>&nbsp;is
+an open-source tool that developers can use to help them build more inclusive
+products during the product development process.</p>
 <p>The customisable and automated tool allows software development teams
 to find and fix accessibility problems to help persons with disabilities
 (PWDs) and the elderly access digital services more easily.</p>

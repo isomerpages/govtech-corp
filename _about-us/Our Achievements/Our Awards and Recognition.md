@@ -17,7 +17,8 @@ with tech possibilities and improve the lives of citizens.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="IDC Future Enterprise Awards 2023 - Singapore Winners" src="/images/About Us/Our Achievements/IDC_2023_Award_edited.jpg">
 </div>
-<p><em>Screenshot from Singapore Winners for <a href="https://www.idc.com/getdoc.jsp?containerId=prAP51332323" rel="noopener noreferrer nofollow" target="_blank">IDC's 2023 Future Enterprise Awards</a></em>.</p>
+<p><em>Screenshot from Singapore Winners for IDC's 2023 Future Enterprise Awards.</em>
+</p>
 <p>The awards spotlight the leading businesses as our world transitions to
 the dawn of the Digital Business age.&nbsp;</p>
 <p>GovTech was proudly given the Special Award for Sustainability, recognising

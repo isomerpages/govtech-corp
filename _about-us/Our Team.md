@@ -435,7 +435,8 @@ Services</div>
 </div>
 <div class="isomer-card-body">
 <div class="isomer-card-title">Mr Nicholas BOK</div>
-<div class="isomer-card-description">Director, Internal Audit</div>
+<div class="isomer-card-description">Director, Internal Audit, Government Technology Agency of Singapore &amp;
+Group Chief Internal Auditor, Ministry of Digital Development and Information</div>
 </div>
 </div>
 <div class="isomer-card">
