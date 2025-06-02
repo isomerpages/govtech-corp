@@ -44,8 +44,9 @@ government and delivering tech for the public good.</p>
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong><a href="https://www.developer.tech.gov.sg/products/categories/cybersecurity/rmse/overview.html" rel="noopener noreferrer nofollow" target="_blank">recursive Machine Learning Site Evaluation (rMSE):</a></strong> 
-<br>With increasing digitalisation, citizens are also increasingly vulnerable
+<p><strong>recursive Machine Learning Site Evaluation (rMSE)</strong>
+</p>
+<p>With increasing digitalisation, citizens are also increasingly vulnerable
 to malicious actors online. With the rise in scam cases in recent times,
 GovTech seeks to keep citizens safe from possible scams through the development
 of the Scam Website Classifier (rMSE). This powerful tool enables the government
@@ -59,7 +60,7 @@ to identify scam websites at scale.</p>
 </div>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong><a href="https://www.developer.tech.gov.sg/products/categories/design/purple-a11y/overview.html" rel="noopener noreferrer nofollow" target="_blank"><u>Purple A11y:</u></a></strong> 
+<p><strong>Purple A11y: </strong>
 <br>While we adopt a digital-first approach, we are always mindful of building
 products that are inclusive and meet different needs. We want to ensure
 that no one is left behind in our digital push. With this in mind, we have
@@ -74,7 +75,7 @@ potential accessibility issues and suggests potential fixes. </p>
 </div>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong><a href="https://book.health.gov.sg/" rel="noopener noreferrer nofollow" target="_blank"><u>Health Appointment System:</u></a></strong> 
+<p><strong>Health Appointment System: </strong>
 <br>Singapore faces the challenges of an ageing population like many other
 mature economies, with healthcare and inclusivity important concerns. OGP
 developed the Health Appointment System, which allows citizens to easily
@@ -90,7 +91,7 @@ to take control of their health.</p>
 </div>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong><a href="https://www.developer.tech.gov.sg/products/categories/sensor-platforms-and-internet-of-things/open-digital-platform/overview.html" rel="noopener noreferrer nofollow" target="_blank"><u>Open Digital Platform:</u></a></strong> 
+<p><strong>Open Digital Platform: </strong>
 <br>The Open Digital Platform (ODP) integrates various district management
 operations into a single smart city operating system. It facilitates Singapore’s
 Smart Nation ambitions by enabling the seamless integration of sensors
