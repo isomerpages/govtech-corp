@@ -22,7 +22,7 @@ contacts:
     title: Media Enquiries
   - content:
       - phone: ""
-      - email: govtech_sipeo@tech.gov.sg
+      - email: industry_engagement@tech.gov.sg
       - other: ""
     title: Industry / Vendor Partnerships
   - content:
